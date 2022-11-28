@@ -47,6 +47,24 @@ Here are three quick highlights:
         effect to 20-year term limits.  Due to the most junior Justice, these
         transitions do not threaten to evenly divide and thus impair the Court.
 
+### What's the rest of this document?
+
+This post is primarily an advertisement for an amendment to the US
+Constitution.  Discussion of such amendments may be timely: Supreme Court
+rulings of the past decade have enraged both social conservatives and social
+liberals, amplifying concerns about the reach of the courts and the prospect of
+partisan court packing.  For the first time since the second World War, members
+of recent US Congresses (116th, 117th) have formally introduced Supreme Court
+amendments.
+
+In its second role, this post is a diary of ideas for the design of
+preference-aggregating procedures.  A democracy works (I hope!) when we
+exchange ideas and learn from each other.  So here is my contribution.  Though
+in my excitement I write as an advocate, I do try to note the gaps and main
+uncertainties in my thought.  I'd be pleased to read your thoughts, including
+questioning of my premises and value judgements and including insights from
+those of you residing outside the US.
+
 ### ...aren't you forgetting XYZ?  Or, this sounds like ABC...
 
 I probably am / it probably does.  Please comment to teach me!
@@ -75,12 +93,12 @@ perceive in the current appointment process:
         Justice dies; and
     (B) (apparent) partisanship and, with it, the Court's eroding legitimacy.
 A more stable, more obviously nonpartisan system would strike me as more
-beautiful.  Within simplified models of voting behavior that I describe below,
-the new way mitigates some perverse incentives that I believe comprise some of
-the root causes of those two problems.  IF those "problems" are actually so AND
-I correctly identified some of their root causes AND the mentioned models are
-adequately robust THEN the amendment is a promising step toward my desired,
-more beautiful judiciary.
+beautiful.  I believe certain perverse incentives contribute as root causes to
+these two problems.  Within simplified models of voting behavior that I
+describe below, the new way materially weakens these incentives.  IF those
+"problems" are actually so AND I correctly identified some of their root causes
+AND the mentioned models are adequately robust THEN the amendment is a
+promising step toward my desired, more beautiful judiciary.
 
 Note that, due to a quirk of my personality, I regard "bipartisan" as far from
 "nonpartisan", especially when the "bi" refers to a specific party system such
@@ -91,13 +109,17 @@ to establish post offices to explicitly mention Fedex and Amazon!
 
 I thus dislike ideas such as that popularized by Buttigieg (to mandate 5
 "republican" and 5 "democratic" justices on a reformed Supreme Court).  This
-preference of mine might be a key way that what you and what I count as "fixes"
-diverge; in any case, it guides the design considerations below.
+preference of mine might be a key way that your and my notions of "fix"
+diverge.
 
- TODO: aesthetic sense about "dry, hard wall of consttitution" 
+ TODO: aesthetic sense about "dry, hard wall of consttitution"
+
+These thoughts guide the design considerations we discuss in the next three
+sections.
 
 
-## Design Considerations: Decisive Designs
+
+## Toward Decisive Designs
 
 ### Stalling
 
@@ -168,7 +190,7 @@ problems to worry about.
 
 We implement the preceding three paragraphs like this:
 
-    WHITTLE-THEN-APPROVE PROCEDURE.
+    APPROVE-AFTER-WHITTLING PROCEDURE.
 
         This procedure fills a vacancy on the Supreme Court.  It shall conclude
         at most T=60 days after a vacancy arises.
@@ -202,8 +224,8 @@ but penalize* extremism.
 
 It makes sense as a practical matter to let each token amplify a vote --- say,
 from counting as one "yea" or "nay" to two --- rather than obstruct a majority
-entirely.  Gangs of Senators would have to spend multiple tokens to obstruct a
-thin-but-not-razor-thin majority.
+entirely.  Gangs of Senators would have to spend multiple tokens to obstruct
+anything but a nearly-tied majority.
 
 More importantly, we should consider what new behaviors this "token system"
 incentivizes.  For example, what if a thin majority rudely introduces replicas
@@ -256,9 +278,9 @@ tokens, too.
 
 The Weighted Voting Procedure is a simplified or "truncated" form of "quadratic
 voting".  In certain extreme cases (if there is a large, fixed menu of bills
-and if each senator is very uncertain about the other senators' preferences on
-other bills, and if that uncertainty is symmetrical with respect both to bills
-and senators and also statistically independent), quadratic voting maximizes
+and if each senator is substantively uncertain about the other senators'
+preferences, and if that uncertainty is constant with respect to both bills and
+senators and also statistically independent), quadratic voting maximizes
 utility while our truncated version doesn't.  But those extreme cases do not
 plausibly model the Senate.
 
@@ -280,51 +302,94 @@ and by convention originates appropriations bills):
     (A) The House decides on a coarse-grained menu of, say, 1000 items to fund.
         Items might be executive departments, tax cuts, specific programs, etc.
     (B) Determine for each item a ceiling $X for that item's allocation:
-        (B.a) Tentatively set the item's ceiling X to 1 (meaning one dollar).
-        (B.b) Each Representative specifies whether the item's current ceiling
-              is high enough.
-        (B.c) If (3/5)ths of (B.b)'s votes are yeas, conclude.  Otherwise,
-              multiply X by 10 and repeat (B.b) and (B.c).
+        (B.a) Tentatively set each item's ceiling to 1 dollar.
+        (B.b) Each Representative specifies for each item whether that item's
+              current ceiling is high enough.
+        (B.c) For each item: unless 3/5ths of (B.b)'s votes are yeas, multiply
+              X by 10.  If some item's ceiling increased: repeat (B.b), (B.c).
     (C) The House REPEATEDLY refines each item's allocation intervals like so:
         (C.a) Each item begins with a tentative allocation interval [$0, $X].
         (C.b) Each Representative specifies for each item whether the current
               allocation interval leans high or leans low.
-        (C.c) According to the which of those three choices has a plurality,
-              the interval [L, H] becomes either [L, H-S/2] or [L+S/2, H];
+        (C.c) Accordingly refine the interval [L,H] to [L,H-S/2] or [L+S/2,H].
               here, S=H-L is the interval width.
-        (C.d) Repeat (C.b, C.c) until they have been done, say, 20 times total.
-        (C.e) Allocate to each item with interval [L,H] the mean (L+H)/2.
-    (D) Within a 60 day timeframe, representatives may propose revisions to the
-        allocations, revisions that must be promptly voted on.  Revisions that
-        modify the coarse-grained menu, the allocations to its items, or
-        constraints between its items are accepted when a (3/5)ths majority
-        concurs.  Revisions that merely specify fine-grained constraints within
-        a menu item are accepted when a simple majority concurs.
+        (C.d) Repeat (C.b, C.c) until they have been done, say, 30 times total.
+        (C.e) Allocate to each item with interval [L,H] the midpoint (L+H)/2.
+    (D) Representatives may propose revisions to the allocations, revisions
+        that must be promptly voted on.  Revisions that merely specify
+        fine-grained constraints within a menu item are accepted when a simple
+        majority concurs.  Other revisions require a (3/5)ths majority.  At the
+        end of 60 days, the allocation passes the House.
 
 One may adapt the above into a decisive procedure involving both Chambers.
 
 
+     - - - - - - - - - - - - - - - - - - - -
 
-## Design Considerations: Antipartisan Designs
+## Toward Antipartisan Designs
+
+### Gerrymandering
+
+I understand **gerrymandering** as the failure of (linearity and hence)
+associativity of the "majority operation".  To say that "most rows of a
+chessboard each have most of their cells occupied" is quite different from
+saying that "most of the board's cells are occupied".  Just imagine a 5-by-5
+region!  Gerrymandering appears in government when decisions are made by
+majorities of majorities.(\*)  For example, it is a majority of Electors that
+chooses the President; each Elector follows their state's popular majority.
+Or, to swap time for space: it is a majority of Justices that decides a case
+before the Supreme Court; each Justice (usually) aligns with their appointing
+President and thus with a majority of Electors.  Gerrymandering can seem
+especially obnoxious when the "parentheses" around the inner majorities are set
+politically --- thus it was the strategic shaping of House districts that gave
+us the word `gerrymander`.
+
+(\*) compare with median-of-medians selection.
+
+Here are two examples where this winner-takes-all intermediate step may make
+sense: we do not give a greater vote to those people with more brain cells.
+Nor does the UN give a greater vote to more populous member states.   These
+examples take as their atomic units of experience (to which they give equal
+weight) the person or the state rather than the neuron or the person.  When we
+vote in order to aggregate *beliefs* and if each larger unit collects together
+*correlated* smaller units, then we may aggregate more accurately by weighing
+larger units equally.  But when we vote in order to aggregate *preferences*
+then it may be more natural to give equal weight to whichever unit we regard as
+experiencing utility (usually, the person).  I'd need to stretch in this latter
+case to justify giving equal weights instead to groups of people --- perhaps
+having one's preference violated feels less bad if most of one's neighbors hold
+opposing preferences (bounded-radius empathy); or perhaps there is less risk of
+violent rebellion or unchecked resentment when a policy's supporters spread
+evenly throughout all regions rather than concentrating in some far-away
+"capital of empire".
+
+On the other hand, one may dismiss those two examples: the first, as an example
+of systems (brains) radically more coordinated than human populations; the
+second, as an artifact of compromise rather than a long-term optimum.
 
 ### Tension and balance
+
+To reduce gerrymandering, we want to look beyond majority operations.  I think
+of this as *keeping the tension* so that the choices of an individual in a
+minority counts despite a clear majority.  
+
 
 ### Hot potatoes
 
 CONTINUITY (vs "gerrymander")
 
 
-This sensitivity to sequencing could be partially mitigated by scheduling
-multiple passes through the sequence of Senators so that each Senator ends up
-marking, say, thrice.  I did not include this in the Amendment text since it
-seems complicated and I have not convinced myself of its substantive value.
+We may partially mitigate this sensitivity to sequencing by scheduling multiple
+passes through the sequence of Senators so that each Senator ends up marking,
+say, thrice.  I did not include this in the proposal's text since it seems
+complicated and I have not convinced myself of its substantive value.
 
 
 ### Bias-variance "gerrymandering"
 
-We can see a weakness of this method when we consider a (not implausibly)
-partisan political atmosphere whose every appointee to the Appellate Courts
-is "very red" or "very blue".  FILLIN TODO
+Here's a weakness of the proposal.  Consider a (not implausibly) partisan
+political atmosphere whose every appointee to the Appellate Courts is "very
+red" or "very blue".  FILLIN TODO
 
 ### Randomness
 
@@ -348,7 +413,9 @@ television.  We rely on these properties of "hashing":
 
         This procedure generates a seq, to be regarded as a completely random
         seq, by aggregating seqs from concerned parties (say, Senators) at
-        least one of whom would benefit from that seq being completely random.
+        least one of whom would benefit from that seq being completely random
+        rather than whatever it would be were the other Senators were to have
+        their way.
         Our word "seq" is shorthand for "a sequence of 1000 binary digits."
         For a sense of scale, a seq may be represented as an 8-by-8 grid of
         glyphs, each one of "0123456789abcdef".
@@ -407,9 +474,11 @@ Randomness helps against such gerrymandering
 
 
 
-## Design Considerations: Regular Designs and Other Details
+## Toward Regular Designs; Other Details
 
 Is the 10th Justice packing?
+
+### Term limits and backups
 
 ### Term limits and backups
 
@@ -422,7 +491,7 @@ Is the 10th Justice packing?
 
     (A) On May 1 of each odd year, the most senior Justice retires.
     (B) Whenever a vacancy arises, including by step (A), fill that vacancy via
-        the Whittle-then-Approve Procedure.
+        the Approve-after-Whittling Procedure.
 
 ### Presidential influence
 
@@ -488,9 +557,9 @@ seats still count according to their seniority.
 
 ### Parameter tuning
 
-To change parameters (such as the number of seats on the Appellate Courts) lies
-somewhere between a Constitutional Amendment and ordinary law.  We might then
-set an intermediate criterion for passage:
+A change of parameters (such as the size of the Appellate Courts) lies
+somewhere between a Constitutional Amendment and ordinary law.  So let's use an
+intermediate criterion for passage:
 
     The Congress may by a 3/5s unweighted majority in each Chamber, subject to
     the ordinary veto and veto-override procedures, alter the following numeric
@@ -498,7 +567,7 @@ set an intermediate criterion for passage:
 
 Using 1/2 instead of 3/5 could tempt a thin majority to expand and "pack" the
 Appellate Courts, thus shifting future Supreme Court appointments.  To further
-counter this temptation, we may add a time delay:
+counter this temptation, we add a time delay:
 
     For the purpose of appointing Justices to the Supreme Court: each
     additional seat on the Appellate Courts shall, 12 years after its addition
