@@ -1,2 +1,3 @@
-*.out
+source/*.out
 data/*.csv
+data/*.pdf

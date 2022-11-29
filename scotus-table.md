@@ -18,11 +18,10 @@ represent the US before SCOTUS.  Here's a breakdown:
     EXPERIENCE      #POSTWAR        #POSTREAGAN
 
     DC Circuit      8 ~ 24%         5 ~ 41%
-    Circuits 2,7    6 ~ 18%         2 ~ 17%
-    Other Circuits  8 ~ 24%         4 ~ 33%
-    DOJ             4 ~ 12%         1 ~  8%
-
+    Other Circuits  8 ~ 42%         6 ~ 50%
+    DOJ            10 ~ 12%         1 ~  8%
     None of above   8 ~ 24%         0 ~  0%
+
     TOTAL          33 ~100%        12 ~100%
 
 The postwar counts add to 34 rather than 33 because Thurgood Marshall was
@@ -34,40 +33,45 @@ non-DOJ Cabinet Secretaries.  Clark, Burger, and Scalia were Assistant AGs.
 
 ## Individual Data
 
-    PRES-YR NAME        PREV.JOBS
-                        FAC / DOJ
+    DIS PRES-YR NAME        PREV.JOBS
+                            FAC / DOJ
 
-    hst  45 burton         ---
-    hst  46 vinson       dc
-    hst  49 clark             AG
-    hst  49 minton        7
-    dde  54 warren         ---
-    dde  55 harlan ii     2
-    dde  57 brennan jr     ---
-    dde  57 whittaker     8
-    dde  59 stewart       6
-    jfk  62 white             DAG
-    jfk  62 goldberg       ---
-    lbj  65 fortas         ---
-    lbj  67 marshall      2   SG
-    rmn  69 burger       dc
-    rmn  70 blackmun      8
-    rmn  71 powell jr      ---
-    rmn  71 rehnquist    dc
-    grf  75 stevens       7
-    rwr  81 o'connor       ---
-    rwr  86 scalia         ---
-    rwr  88 kennedy       9
+        hst  45 burton         ---
+        hst  46 vinson       dc
+     8  hst  49 clark             AG
+    16  hst  49 minton        7
+        dde  54 warren         ---
+    11  dde  55 harlan ii     2
+        dde  57 brennan jr     ---
+        dde  57 whittaker     8
+    17  dde  59 stewart       6
+        jfk  62 white             DAG
+        jfk  62 goldberg       ---
+        lbj  65 fortas         ---
+    11  lbj  67 marshall      2   SG
+     3  rmn  69 burger       dc
+        rmn  70 blackmun      8
+     1  rmn  71 powell jr      ---
+    26  rmn  71 rehnquist    dc
+        grf  75 stevens       7
+        rwr  81 o'connor       ---
+        rwr  86 scalia         ---
+        rwr  88 kennedy       9
 
-    hwb  90 souter        1
-    hwb  91 thomas       dc
-    wjc  93 ginsburg     dc
-    wjc  94 breyer        1
-    gwb  05 roberts      dc
-    gwb  06 alito         3
-    bho  09 sotomayor     2
-    bho  10 kagan            SG
-    djt  17 gorsuch      10
-    djt  18 kavanaugh    dc
-    djt  20 barrett       7
-    jrb  22 jackson      dc
+     9  hwb  90 souter        1
+    48  hwb  91 thomas       dc
+     3  wjc  93 ginsburg     dc
+     9  wjc  94 breyer        1
+    22  gwb  05 roberts      dc
+    42  gwb  06 alito         3
+    31  bho  09 sotomayor     2
+    37  bho  10 kagan            SG
+    45  djt  17 gorsuch      10
+    48  djt  18 kavanaugh    dc
+    48  djt  20 barrett       7
+    47  jrb  22 jackson      dc
+
+*Note*: the `DIS` column counts dissenting senators during confirmation.  We
+regard acclamations as dissentless.  Most of the time most but not all of the
+Senate votes.  AL and HI joined as States of the Union in 1959; AL but not HI
+had Senators in office when (1959-05) Stewart was confirmed.
