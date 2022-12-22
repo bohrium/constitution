@@ -289,7 +289,7 @@ float sens_c_loss(float const* sens)
 float bias_c_loss(float const* bias)
 {
     float acc = 0.;
-    for (int c=0; c!=nb_cases; ++c) { acc += sens_loss(bias, c); }
+    for (int c=0; c!=nb_cases; ++c) { acc += bias_loss(bias, c); }
     return acc;
 }
 
