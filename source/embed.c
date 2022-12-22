@@ -39,11 +39,11 @@
     term one "president".
 
     The key concept in our model is `lean.j.t`, which says whether judge `j` in
-    term `t` is red or blue, and by how much (but we don't say whether red is
-    +1 or -1).  In our model, `lean.j.t` engages in a random walk over time,
-    starting from a value `core.j` at `j`'s appointment that relates to the
-    (party of) the president who appointed `j`.  Controlling this walk's
-    initialization and dynamics are 3 high-level global model variables:
+    term `t` is red or blue, and by how much (red is +1; blue, -1).  In our
+    model, `lean.j.t` engages in a random walk over time, starting from a value
+    `core.j` at `j`'s appointment that relates to the (party of) the president
+    who appointed `j`.  Controlling this walk's initialization and dynamics are
+    3 high-level global model variables:
 
         `part` -- how intensely president affects judge
         `tite` -- how certainly president affects judge
@@ -52,8 +52,8 @@
     Finally, `lean.j.t` grounds out in observations (of `vote.j.c`) by
     participating in a kind of low-rank factorization of `vote.j.c`.  Each case
     has a `sens.c` that says whether positive or negative leaning judges are
-    more likely to vote YEA.  (Each case also has a `lean`-unrelated
-    `bias.c`).  So the YEA : NAY log odds ratio NAY is `sens.c * lean.j + bias.c`
+    more likely to vote YEA.  (Each case also has a `lean`-unrelated `bias.c`).
+    So the YEA : NAY log odds ratio NAY is `sens.c * lean.j + bias.c`
 */
 /*  _GENERATIVE_MODEL_
 
@@ -101,8 +101,14 @@
     parameter so that much evidence is needed to establish `lean.j.t` is
     actually moderate.  So the model won't suggest a judge is moderate just
     because there is little data for that judge.
+
+    TODO : Q : is `core` too weak a tether?  (unless (`tite` and) `walk` are
+                much smaller than their prior scale of 1?)
 */
 
+/* ========================================================================= */
+/* =  BASICS  ============================================================== */
+/* ========================================================================= */
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -112,7 +118,6 @@
 
 #define PF printf
 #define fsgn(X) (copysign(1., (X)))
-
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 /* ~  Data  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
@@ -126,6 +131,7 @@ typedef enum { DEM = -1, REP = +1           } party_t ;
   int ___ = _;
 #endif
 
+  /* TODO: `extern` used arrays etc for self-contained readability  */
 //#include "federal_data.part.c"
 //#include "federal_data.rand.c"
 #include "federal_data.c"
@@ -144,7 +150,7 @@ float lap(float loc, float scale, float x)
 }
 
 float sig(float z, bool x)
-{   /*  SIGMOID : density at x is ( x ? p : q ) where p+q=1, p=1/(1+exp(-z))*/
+{   /*  SIGMOID : density at x is ( x ? p : q ) where p+q=1, p=1/(1+exp(-z)) */
     float soft_plus = z<-30 ? z : -log(1+exp(-z));
     return ( x ? 0 : z ) - soft_plus;
 }
@@ -361,6 +367,7 @@ void init_state(state_t* next)
 void copy_state(state_t const* s, state_t* next)
 {
     next->part = s->part;
+    next->tite = s->tite;
     for (int c=0; c!=nb_cases; ++c) {
         next->sens[c] = s->sens[c];
         next->bias[c] = s->bias[c];
@@ -386,6 +393,12 @@ typedef struct {
     float dp,dt,dl,ds,db;
     int j,c;
 } pert_t ;
+
+/* TODO : to cater to time-evolving leans, allow perturbations to `lean.j.t`
+ *          of two kinds : sparse (at one `t`) and co-sparse (shift everything
+ *          before `t_` by some amount and after `t_` by some other amount, for
+ *          some threshold `t_`).
+ */
 
 pert_t sample_pert()
 {
@@ -457,6 +470,39 @@ void mh_step(state_t* s)
     dloss += loss_rel(s, pert);
     if ( dloss < -log(rand_unif()) ) { return; }    // <- accept
     apply_pert(s, pert, -1);                        // <- reject
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~  Hamiltonian  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+void step_p(state_t* p, state_t const* q, float dt)
+{
+    /* FILLIN TODO */
+}
+
+void step_q(state_t const* p, state_t* q, float dt)
+{
+    q->part += dt * p->part;
+    q->tite += dt * p->tite;
+    for (int c=0; c!=nb_cases; ++c) {
+        q->sens[c] += dt * p->sens[c];
+        q->bias[c] += dt * p->bias[c];
+    }
+    for (int j=0; j!=nb_judges; ++j) {
+        q->lean[j] += dt * p->lean[j];
+    }
+}
+
+void evolve(state_t* p, state_t* q, float dt, int its)
+{   /* leapfrog verlet with synchronized boundary times */
+    if ( ! its ) { return; }
+    step_p(p, q, dt/2.);
+    for (int i = 0; i < its-1; ++i) {
+        step_q(p, q, dt);
+        step_p(p, q, dt);
+    }
+    step_q(p, q, dt);
+    step_p(p, q, dt/2.);
 }
 
 /* ========================================================================= */
