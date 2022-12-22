@@ -1,3 +1,109 @@
+/* author: samtenka
+ * change: 2022-12-22
+ * create:
+ *
+ * descrp: Analyze federal appeals judge voting patterns to identify whether
+ *         "moderate" judges exist in great number!  Address related questions
+ *         such as whether it tends to be the immoderate judges who are
+ *         elevated to SCOTUS; whether appointments have become more partisan
+ *         over time; and whether many judges become more moderate over time.
+ *
+ * method: Use approximate sampling-based inference on a hierarchical Bayesian
+ *         model, conditioned on data in `*_data.c` assumed to have been
+ *         correctly prepared from us judiciary websites.
+ *
+ * to use: Run `gcc embed.c -lm -o embed.o` and then run `./embed.o`.  Wait
+ *         for histograms to be drawn.  Interpret histograms.
+ */
+
+/* ========================================================================= */
+/* =  OVERVIEW  ============================================================ */
+/* ========================================================================= */
+
+/*  _DRAMATIS_PERSONAE_
+
+    judges      `j` in J
+    cases       `c` in C
+    terms       `t` in T = { 1924, 1928, ..., 2020 }
+    appointers  `pres.t` in {dem, rep} = {-1, +1}
+    appt terms  `term.j` in T
+    case terms  `date.c` in T
+    votes       `vote.j.c` in {yea, nay} = {-1,+1}
+
+    The judges include justices.  The appointers are entirely observed.  The
+    votes are mostly unobserved: usually only 3 observations for each case
+    unless except when a case is held-en-banc or is appealed-to-SCOTUS.
+
+    We measure time `t` in presidential terms.  Conveniently, JFK and LBJ were
+    shared a party, as did RMN and GRF; so we may stick to associating to each
+    term one "president".
+
+    The key concept in our model is `lean.j.t`, which says whether judge `j` in
+    term `t` is red or blue, and by how much (but we don't say whether red is
+    +1 or -1).  In our model, `lean.j.t` engages in a random walk over time,
+    starting from a value `core.j` at `j`'s appointment that relates to the
+    (party of) the president who appointed `j`.  Controlling this walk's
+    initialization and dynamics are 3 high-level global model variables:
+
+        `part` -- how intensely president affects judge
+        `tite` -- how certainly president affects judge
+        `walk` -- how much a judge drifts from term to term
+
+    Finally, `lean.j.t` grounds out in observations (of `vote.j.c`) by
+    participating in a kind of low-rank factorization of `vote.j.c`.  Each case
+    has a `sens.c` that says whether positive or negative leaning judges are
+    more likely to vote YEA.  (Each case also has a `lean`-unrelated
+    `bias.c`).  So the YEA : NAY log odds ratio NAY is `sens.c * lean.j + bias.c`
+*/
+/*  _GENERATIVE_MODEL_
+
+        _historical_background_
+        `pres.t`  ~ bernoulli { prob 1/2 }
+        `term.j`  ~ uniform { 1924, 1928, ..., 2020 }
+        `date.c`  ~ uniform { 1924, 1928, ..., 2020 }
+
+        _meta_
+        `part`    ~ exponentl {                                 mean 1       }
+        `tite`    ~ exponentl {                                 mean 1       }
+        `walk`    ~ exponentl {                                 mean 1       }
+
+        _helpers_
+        `bias.c`  ~ laplacian { mean 0                          vari 1       }
+        `sens.c`  ~ laplacian { mean 0                          vari 1       }
+        `core.j`  ~ laplacian { mean `pres.(term.j)`*`part`     vari `tite`  }
+
+        _key_inferandum_
+        `lean.j.t`~ laplacian { mean (if t==`term.j` then `core.j`
+                                                     else `lean.j.(pred(t))`)
+                                vari `walk`                                  }
+
+        _key_observand_
+        `vote.j.c`~ bernoulli { prob sigma(`sens.c`*`lean.j.(date.c)` +
+                                           `bias.c`                    )     }
+
+    We model the _historical_background_ variables so that later we might
+    explore historical contrafactuals.  The function sigma is the logistic
+    sigmoid; the function pred gives the term preceding its input.  Note that
+    `part`, `tite`, `walk` are non-negative.
+*/
+/*  _QUALITATIVE_ASPECTS_
+
+    We want to recognize moderate judges by estimating `lean.j.t`.
+
+    Sometimes `bias` dominates `sens`; so some cases are intrinsically less
+    partisan than others in a way we do not directly observe.  Therefore,
+    inference about `lean.j` focuses on cases with split votes.  So the model
+    won't suggest a judge is(n't) moderate just because they happen to
+    participate in certain non-partisan cases.
+
+    The role of `part` is this: as a very global variable, it will probably
+    have large magnitude; then `lean.j.t` will have high-magnitude mean
+    parameter so that much evidence is needed to establish `lean.j.t` is
+    actually moderate.  So the model won't suggest a judge is moderate just
+    because there is little data for that judge.
+*/
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
@@ -5,51 +111,7 @@
 #include <math.h>
 
 #define PF printf
-
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-/* ~  Statistics  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-
-/*  _dramatis_personae_
-
-    judges      `j` in J
-    cases       `c` in C
-    appointers  `pres[j]` in {dem, rep} = {-1, +1}
-    votes       `vote[j,c]` in {yea, nay} = {-1,+1}
-
-    The judges include justices.  The appointers are entirely observed.  The
-    votes are mostly unobserved: usually only 3 observations for each case
-    unless except when a case is held-en-banc or is appealed-to-SCOTUS.
-
-    Our generative model is simple...
-
-        `pres[j]` ~ bernoulli { prob 1/2 }
-        `part`    ~ laplacian { mean 0                  vari 1 }
-
-        `bias[c]` ~ laplacian { mean 0                  vari 1 }
-        `sens[c]` ~ laplacian { mean 0                  vari 1 }
-        `lean[j]` ~ laplacian { mean `pres[j]`*`part`   vari 1 }
-
-        `vote[j,c]` ~ bernoulli { prob sigma(`sens[c]`*`lean[j]` + `bias[c]`) }
-
-    We don't care about `part`'s sign.
-*/
-/*  _qualitative_aspects_
-
-    We want to recognize moderate judges by estimating `lean[j]`.
-
-    Sometimes `bias` dominates `sens`; so some cases are intrinsically less
-    partisan than others in a way we do not directly observe.  Therefore,
-    inference about `lean[j]` focuses on cases with split votes.  So the model
-    won't suggest a judge is(n't) moderate just because they happen to
-    participate in certain non-partisan cases.
-
-    The role of `part` is this: as a very global variable, it will probably
-    have large magnitude; then `lean[j]` will have high-magnitude mean
-    parameter so that much evidence is needed to establish `lean[j]` is
-    actually moderate.  So the model won't suggest a judge is moderate just
-    because there is little data for that judge.
-*/
-
+#define fsgn(X) (copysign(1., (X)))
 
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
@@ -97,52 +159,6 @@ float sig(float z, bool x)
 #define RED     "\033[31m"
 #define WHITE   "\033[37m"
 #define YELLOW  "\033[33m"
-
-//char const* ansi_code(char c)
-//{
-//    switch (c) {
-//    break; case 'B': return BLUE;
-//    break; case 'C': return CYAN;
-//    break; case 'G': return GREEN;
-//    break; case 'M': return MAGENTA;
-//    break; case 'R': return RED;
-//    break; case 'W': return WHITE;
-//    break; case 'Y': return YELLOW;
-//    }
-//    return NULL;
-//}
-//
-//void colorprint(char const* str, ...)
-//{
-//    int len = 1;
-//    for (char const* src=str; *src; ++src) {
-//        switch (*src) {
-//        break; case '@':    len += 8;
-//        break; default:     len += 1;
-//        }
-//    }
-//
-//    char* colored = malloc(len);
-//    char* dst = colored;
-//    for (char const* src=str; *src; ++src) {
-//        switch (*src) {
-//        break; case '@':
-//            ++src;
-//            char const* a = ansi_code(*src);
-//            /* TODO: what if a is NULL ? */
-//            strcpy(dst, a);
-//            dst += strlen(a);
-//        break; default:
-//            *dst = *src;
-//            ++dst;
-//        }
-//    }
-//    *dst = '\0';
-//
-//    // FILLIN : printf `colored`
-//
-//    free(colored);
-//}
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 /* ~  Histograms  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
@@ -246,8 +262,9 @@ void print_histo(histogram_t h, float norm, int nb_rows, char const* label)
 
 }
 
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-/* ~  Model  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ========================================================================= */
+/* =  MODEL  =============================================================== */
+/* ========================================================================= */
 
 typedef struct {
     float part, tite;
@@ -289,7 +306,7 @@ float sens_c_loss(float const* sens)
 float bias_c_loss(float const* bias)
 {
     float acc = 0.;
-    for (int c=0; c!=nb_cases; ++c) { acc += sens_loss(bias, c); }
+    for (int c=0; c!=nb_cases; ++c) { acc += bias_loss(bias, c); }
     return acc;
 }
 
@@ -324,8 +341,9 @@ float loss_on(state_t s)
     return acc;
 }
 
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-/* ~  Inference  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ========================================================================= */
+/* =  INFERENCE  =========================================================== */
+/* ========================================================================= */
 
 void init_state(state_t* next)
 {
@@ -441,8 +459,9 @@ void mh_step(state_t* s)
     apply_pert(s, pert, -1);                        // <- reject
 }
 
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-/* ~  Main Loop  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ========================================================================= */
+/* =  MAIN LOOP  =========================================================== */
+/* ========================================================================= */
 
 int main(int argc, char *argv[])
 {
