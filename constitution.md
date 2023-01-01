@@ -85,8 +85,8 @@ those of you residing outside the US.
     Toward Regular Designs
         Term limits and backups
         Presidential influence
-        Transient stage
-        Parameter tuning
+        Changing parameters
+        Bonus thought on our amendment process
     Appendices
         Related ideas
         Agreeing on randomness
@@ -143,6 +143,7 @@ might be a key way that your and my notions of "fix" diverge.
 
 These thoughts guide the design considerations we discuss in the next three
 sections.
+
 
 ## Toward Decisive Designs
 
@@ -356,6 +357,7 @@ One may adapt the above into a decisive procedure involving both Chambers.
 
      - - - - - - - - - - - - - - - - - - - -
 
+
 ## Toward Antipartisan Designs
 
 ### Gerrymandering
@@ -427,6 +429,7 @@ red" or "very blue".  FILLIN TODO
 Randomness helps against such gerrymandering
 
  FILLIN TODO --- randomized house idea
+
 
 ## Toward Regular Designs
 
@@ -504,9 +507,11 @@ judges?
 Vacant seats count as most junior.  Judges may opt out, in which case their
 seats still count according to their seniority.
 
-### Transient stage
+### Changing parameters
 
-### Parameter tuning
+##### _TRANSIENT STAGE_
+
+##### _PARAMETER TUNING
 
 Congress may expand the courts (to relieve ever-growing case burdens).  Such
 changes of parameters lie somewhere between a Constitutional Amendment and
@@ -524,6 +529,34 @@ appointments.  We further counter this temptation by adding a time delay:
     Appellate Courts shall, 12 years after its addition and no earlier, be
     considered in seniority computations and be eligible for inclusion in lists
     of candidates.
+
+### Bonus thought on our amendment process
+
+I propose:
+
+    The Congress, with the agreement of 2/3s of both its Chambers, shall
+    propose Amendments to this Constitution for consideration by the People.
+    Thereupon a Vote on the Amendment shall be held within 4 years in each
+    State; and unless in 1/4 of the States the Nays exceed the Yeas, the
+    Amendment shall be valid to all intents and purposes as part of this
+    Constitution.
+
+    Unless 1/4 of all individual votes purposes as part of this Constitution.
+
+    But no State, without its consent, shall be deprived of its equal suffrage
+    in the Senate.
+
+    In every 25th year each State shall elect a number of Amenders equal to the
+    whole number of Senators and Representatives to which the State may be
+    entitled in the Congress.  But no
+    Senator or Representative, or person holding an Office of Trust or Profit
+    under the United States shall be appointed an Amender.
+
+And in every 25th year a College oConvention shall be held
+with each State sending as many delegates as it has Representatives and
+Senators in Congress.  This College of Amendment shall within 2 years recommend
+amendments for consideration by the States.
+
 
 ## Appendices
 
@@ -775,3 +808,4 @@ think of a tensegrity sculpture.)
     The Congress may by a 3/5s unweighted majority in each Chamber, subject to
     the ordinary veto and veto-override procedures, alter the parameters D, K,
     k, N, W, T marked above by (**).
+
