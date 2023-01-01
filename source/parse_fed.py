@@ -1,5 +1,5 @@
 ''' author: samtenka
-    change: 2022-12-22
+    change: 2022-01-01
     create: 2022-11-18
     descrp:
     to use:
@@ -105,17 +105,23 @@ def vote_row(maj,min, ids_by_nm, parties):
     return ','.join(row)
 
 TEMPLATE = '''
-#define nb_judges <<NB_JUDGES>>
+#define nb_judgs <<NB_JUDGES>>
 #define nb_cases  <<NB_CASES>>
+#define nb_terms  25
 #define nm_length 32
 
-party_t pres[nb_judges] = <<PRES>>;
-votes_t vote[nb_cases][nb_judges] = <<VOTE>>;
+party_t pres[nb_judgs] = <<PRES>>;
+votes_t vote[nb_cases][nb_judgs] = <<VOTE>>;
 
-char    name[nb_judges][nm_length] = <<NAME>>;
-int     term[nb_judges] = <<TERM>>;
+char    name[nb_judgs][nm_length] = <<NAME>>;
+char    year[nb_terms] = <<NAME>>;
+
+int     term[nb_judgs] = <<TERM>>;
 int     date[nb_cases] = <<DATE>>;
 '''
+
+termidx_from_year = lambda y : int((y-1931)/4)
+year_from_termidx = lambda t : 1931 + 4*t
 
 def make_array(iter, per_row=12, indent='    '):
     return ('{'+ ','.join((('' if i%per_row else ('\n'+indent))+str(x))
@@ -132,9 +138,9 @@ def tabulate(votes, judges, parties, terms, dates):
         )
     pres_table = make_array((('DEM' if parties[j]=='Democratic' else 'REP') for j in sorted(judges)))
     #'{'+','.join((('' if i%10 else '\n')+('DEM' if parties[j]=='Democratic' else 'REP')) for i,j in enumerate(sorted(judges)))+'}'
-    term_table = make_array((terms[j] for j in sorted(judges)))
+    term_table = make_array(map(termidx_from_year, (terms[j] for j in sorted(judges))))
     #'{'+','.join((('' if i%10 else '\n')+str(terms[j])) for i,j in enumerate(sorted(judges)))+'}'
-    date_table = make_array(dates)
+    date_table = make_array(map(termidx_from_year, dates))
     #'{'+','.join((('' if i%10 else '\n')+str(d)) for i,d in enumerate(dates))+'}'
     name_table = make_array((('"'+j+'"') for j in sorted(judges)))
     #'{'+','.join('"'+j+'"' for j in sorted(judges))+'}'
