@@ -139,16 +139,14 @@ typedef enum { DEM = -1, REP = +1           } party_t ;
 //
   /* `extern` used arrays etc for self-contained readability  */
 
-
 /* TODO : change p.j to p.t! */
 extern party_t pres[nb_judgs];
-
-
 extern votes_t vote[nb_cases][nb_judgs];
 extern char    name[nb_judgs][nm_length];
-extern int     term[nb_judgs];
+extern int     year[nb_terms+1];
+extern int     tbeg[nb_judgs];
+extern int     tend[nb_judgs];
 extern int     date[nb_cases];
-#define nb_terms  25
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 /* ~  Math Helpers  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
@@ -156,9 +154,21 @@ extern int     date[nb_cases];
 float rand_unif() { return rand() / (float)RAND_MAX; }
 float rand_cent(float diam) { return (rand_unif() - .5)*diam; }
 
+float square(float z) { return z*z; }
+
 float lap(float loc, float scale, float x)
 {   /*  LAPLACE : density at x is exp(-|x-loc|/scale)/(2 scale) */
     return fabs(x-loc)/scale + log(2*scale);
+}
+
+float nrm(float loc, float scale, float x)
+{   /*  NORMAL  : density at x is exp(-(x-loc)**2/(2 scale**2))/sqrt(2pi scale**2) */
+    return square((x-loc)/scale)/2 + log(scale) + log(2*M_PI)/2.;
+}
+
+float unf(float lo, float hi, float x)
+{   /*  UNIFORM : density at x is 1./(hi-lo) assuming x valid */
+    return (lo<x && x<hi) ? log(hi-lo) : +100.;
 }
 
 float sig(float z, bool x)
@@ -313,10 +323,10 @@ typedef struct {
 //        `vote.j.c`~ bernoulli { prob sigma(`sens.c`*`lean.j.(date.c)` +
 
 float part_loss(state_t const* s) { return lap(0., 1., s->part); }
-float tite_loss(state_t const* s) { return lap(0., .01, s->tite); }
+float tite_loss(state_t const* s) { return lap(0., 1., s->tite); }
 float walk_loss(state_t const* s) { return lap(0., 1., s->walk); }
 
-float sens_loss(state_t const* s, int c) { return lap(0., 1., s->sens[c]); }
+float sens_loss(state_t const* s, int c) { return unf(-1, +1, s->sens[c]); }
 float bias_loss(state_t const* s, int c) { return lap(0., 1., s->bias[c]); }
 
 float core_loss(state_t const* s, int j)
@@ -337,7 +347,7 @@ float lean_loss(state_t const* s, int j, int t)
 float vote_loss(state_t const* s, int c, int j)
 { /* TODO: optimize to assume vote[c][j] != ___ (need changes in Summed Losses) */
     if ( vote[c][j] == ___ ) { return 0.; }
-    int t = date[c] - term[j];
+    int t = date[c] - tbeg[j];
     float z = s->sens[c] * s->lean[j][t] + s->bias[c];
     return sig(z, vote[c][j]==YEA);
 }
@@ -372,7 +382,7 @@ float core_j_loss(state_t const* s) { return sum_1(s, nb_judgs, &core_loss); }
 float lean_jt_loss(state_t const* s) {
     float acc = 0.;
     for (int j=0; j!=nb_judgs; ++j) {
-        for (int t=0; t!=nb_terms; ++t) {
+        for (int t=0; t!=tend[j]-tbeg[j]; ++t) {
             acc += lean_loss(s, j, t);
         }
     }
@@ -476,10 +486,11 @@ void print_state(state_t const* s)
 {
     PF("part  ");  PF("%5.2f  ", s->part);
     PF("|  tite  ");  PF("%5.2f  ", s->tite);
+    PF("|  walk  ");  PF("%5.2f  ", s->walk);
 
     PF("|  sens  ");  for (int c=0; c!= 2; ++c) { PF("%+5.2f  ", s->sens[c]); }
     PF("|  bias  ");  for (int c=0; c!= 2; ++c) { PF("%+5.2f  ", s->bias[c]); }
-    PF("|  core  ");  for (int j=0; j!= 6; ++j) { PF("%+5.2f  ", s->core[j]); }
+    PF("|  core  ");  for (int j=0; j!= 2; ++j) { PF("%+5.2f  ", s->core[j]); }
     PF("\n");
 }
 
@@ -524,13 +535,20 @@ pert_t sample_pert()
     return p;
 }
 
+void wrap(float lo, float hi, float* z)
+{
+    *z = (*z-lo)/(hi-lo);
+    *z = *z - floor(*z);
+    *z = *z * (hi-lo) + lo;
+}
+
 void apply_pert(state_t* s, pert_t p, int sign)
 {
     switch (p.kind) {
     break; case META:   s->part      += sign * p.dp;  s->part = fabs(s->part);
                         s->tite      += sign * p.dt;  s->tite = fabs(s->tite);
                         s->walk      += sign * p.dw;  s->walk = fabs(s->walk);
-    break; case CASE:   s->sens[p.c] += sign * p.ds;
+    break; case CASE:   s->sens[p.c] += sign * p.ds;  wrap(-1,+1,&s->sens[p.c]);
                         s->bias[p.c] += sign * p.db;
     break; case JUDG:   s->core[p.j] += sign * p.dc;
                         for (int t=0; t!=nb_terms; ++t) {
@@ -627,17 +645,17 @@ void mh_step(state_t* s)
 //   *  We may estimate the integral by an expectation:
 //   *
 //   */
-//  
+//
 //  //#define ACCUMULATOR_BINS 32
 //  //typedef struct {
 //  //} accumulator_t ;
-//  
+//
 //  #define S_BINS 256
 //  typedef struct {
 //      double lgsm[S_BINS];
 //      long   nb[S_BINS];
 //  } probs_t ;
-//  
+//
 //  void init_probs(probs_t* ps)
 //  {
 //      for (int b = 0; b != S_BINS; ++b) {
@@ -645,12 +663,12 @@ void mh_step(state_t* s)
 //          ps->nb[b] = 0;
 //      }
 //  }
-//  
+//
 //  double softplus(double z) { return z<-40 ? 0 : +40<z ? z : log(1+exp(z)); }
 //  double soft_add(double acc, double b) {
 //      return acc==-INFINITY ? b : acc + softplus(b-acc);
 //  }
-//  
+//
 //  void add_score(probs_t* ps, double score)
 //  {
 //      int b = (S_BINS/2) + (int)(score);
@@ -658,7 +676,7 @@ void mh_step(state_t* s)
 //      ps->lgsm[b] = soft_add(ps->lgsm[b], score);
 //      ps->nb[b] += 1;
 //  }
-//  
+//
 //  double lg_sum_prob(probs_t const* ps)
 //  {
 //      long nb = 0;
@@ -690,14 +708,14 @@ int main(int argc, char *argv[])
     histogram_t pp, tt, ww;
     histogram_t bb, ss, cc, ll;
 
-    init_histo(&pp, - .1, +3.1);
-    init_histo(&tt, - .1, +5.2);
-    init_histo(&ww, - .1, +3.1);
+    init_histo(&pp, - .2, +6.2);
+    init_histo(&tt, - .2, +6.2);
+    init_histo(&ww, - .2, +6.2);
 
-    init_histo(&ss, LO , HI );
-    init_histo(&bb, LO , HI );
-    init_histo(&cc, LO , HI );
-    init_histo(&ll, LO , HI );
+    init_histo(&ss, -3.2 , +3.2 );
+    init_histo(&bb, -3.2 , +3.2 );
+    init_histo(&cc,  LO  ,  HI  );
+    init_histo(&ll,  LO  ,  HI  );
 
     printf("%ssampling %d k times... (%d k steps)%s\n",
            BLUE, ((T-BURN)/SKIP)/1000, T/1000, CYAN     );
@@ -713,8 +731,7 @@ int main(int argc, char *argv[])
         for (int j=0; j!=nb_judgs; ++j) {
             update_histo(&cc  , /*CAP*/(s.core[j]));
             //update_histo(&h[j], s.core[j]);
-            for (int t=0; t!=nb_terms ; ++t) {
-                if (t + term[j] >= nb_terms) { break; } /* TODO : compute retirement */
+            for (int t=0; t!=tend[j]-tbeg[j]; ++t) {
                 update_histo(&h[j], s.lean[j][t]);
                 update_histo(&ll  , s.lean[j][t]);
             }
@@ -730,16 +747,16 @@ int main(int argc, char *argv[])
     print_histo(tt, 1., 6, "tite");     printf("\n\n");
     print_histo(ww, .5, 6, "walk");     printf("\n\n");
 
-    print_histo(bb, 2., 6, "bias");     printf("\n\n");
-    print_histo(ss, 2., 6, "sens");     printf("\n\n");
+    print_histo(bb, 1., 6, "bias");     printf("\n\n");
+    print_histo(ss, 1., 6, "sens");     printf("\n\n");
     print_histo(cc, 3., 6, "core");     printf("\n\n");
     print_histo(ll, 3., 6, "lean");     printf("\n\n");
 
-    char label[] = "judge   ";
+    //char label[] = "judge   ";
     for (int j=0; j!=nb_judgs; ++j) {
         print_histo(h[j], 1., 6, name[j]);        printf("\n\n");
-        for (int t=0; t!=nb_terms; ++t) {
-            if (t + term[j] >= nb_terms) { break; }
+        printf(MAGENTA "%s " CYAN, pres[j]==REP?"REP":"DEM");
+        for (int t=0; t!=tend[j]-tbeg[j]; ++t) {
             printf("%+5.2f : ", s.lean[j][t]);
         }
         printf("\n");

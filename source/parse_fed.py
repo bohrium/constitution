@@ -12,10 +12,6 @@
             `../source/embed.c`.
 '''
 
-def term_from_date(ss):
-    yr = int(ss[:4])
-    return (yr-1) - (yr-1)%4 + 1
-
 
 ONLY_SPLIT_VOTES = True
 #ONLY_SPLIT_VOTES = False
@@ -34,16 +30,23 @@ ROW = '^'+','.join((NUM,DATE,STR,
                     GRP,GRP,GRP,GRP,GRP,GRP,GRP,GRP,GRP,
                     STR                                 ))
 
-ROW_APPT = '^'+','.join((  ','.join(STR for _ in range(2)),
+ROW_APPT = '^'+','.join((     ','.join(STR for _ in range(2)),
+                         GRP, ','.join(STR for _ in range(16)),
+                         GRP, ','.join(STR for _ in range(2)),
+                         GRP, ','.join(STR for _ in range(14)),
+                         GRP, ','.join(STR for _ in range(6)),
                          GRP,
-                           ','.join(STR for _ in range(16)),
-                         GRP,
-                           ','.join(STR for _ in range(2)),
-                         GRP,
-                           ','.join(STR for _ in range(13)),
+                              ','.join(STR for _ in range(1)),
+                         GRP, ','.join(STR for _ in range(2)),
+                         GRP, ','.join(STR for _ in range(14)),
+                         GRP, ','.join(STR for _ in range(6)),
                          GRP,
                          ))
 '''
+CAREFUL!  Search for `",` to count commas, since some header fields have
+commas inside.
+
+
     "nid","jid",
 "Last Name",
     "First Name","Middle Name","Suffix","Birth Month","Birth Day","Birth Year",
@@ -58,11 +61,30 @@ ROW_APPT = '^'+','.join((  ','.join(STR for _ in range(2)),
     "Committee Referral Date (1)","Hearing Date (1)",
     "Judiciary Committee Action (1)","Committee Action Date (1)",
     "Senate Vote Type (1)","Ayes/Nays (1)",
-"Confirmation Date (1)",
-    "Commission Date (1)","Service as Chief Judge, Begin (1)",
+    "Confirmation Date (1)",
+"Commission Date (1)",
+    "Service as Chief Judge, Begin (1)",
     "Service as Chief Judge, End (1)","2nd Service as Chief Judge, Begin (1)",
     "2nd Service as Chief Judge, End (1)","Senior Status Date (1)",
-    "Termination (1)","Termination Date (1)",
+    "Termination (1)",
+"Termination Date (2)",
+    "Court Type (2)",
+"Court Name (2)",
+    "Appointment Title (2)","Appointing President (2)",
+"Party of Appointing President (2)",
+    "Reappointing President (2)","Party of Reappointing President (2)",
+    "ABA Rating (2)","Seat ID (2)","Statute Authorizing New Seat (2)",
+    "Recess Appointment Date (2)","Nomination Date (2)",
+    "Committee Referral Date (2)","Hearing Date (2)",
+    "Judiciary Committee Action (2)","Committee Action Date (2)",
+    "Senate Vote Type (2)","Ayes/Nays (2)",
+    "Confirmation Date (2)",
+"Commission Date (2)",
+    "Service as Chief Judge, Begin (2)",
+    "Service as Chief Judge, End (2)","2nd Service as Chief Judge, Begin (2)",
+    "2nd Service as Chief Judge, End (2)","Senior Status Date (2)",
+    "Termination (2)",
+"Termination Date (2)",
 '''
 
 def parse(ln, judges):
@@ -87,14 +109,15 @@ def parse(ln, judges):
         jj = j_nm[:7] # TODO: stop doing this
         judges.add(jj)
 
-    return (term_from_date(date), tuple(majority), tuple(minority))
+    return (term_from_date(date),
+            tuple(majority), tuple(minority))
 
 def votes_from_lns(lns):
     judges = set()
     parses = list(filter(None, [parse(ln, judges) for ln in lns if ln]))
-    votes = [_[1:] for _ in parses]
     dates = [_[0]  for _ in parses]
-    print(len(dates), len(votes))
+    votes = [_[1:] for _ in parses]
+    #print(len(date_begs), len(votes))
     return dates, votes, judges
 
 #def vote_row(maj,min, ids_by_nm):
@@ -104,72 +127,104 @@ def vote_row(maj,min, ids_by_nm, parties):
     for j in min: row[ids_by_nm[j]] = 'N'#random.choice(('Y', 'N'))#'Y' if parties[j]=='Democratic' else 'N'
     return ','.join(row)
 
+BEG = 1925
+END = 2025
+assert BEG%4==1 and END%4==1 and BEG<END
+NB_TERMS = int((END-BEG)/4)
+
+def term_from_date(ss):
+    if (not ss) or str(ss[:4]) == 'None': return END
+    yr = int(ss[:4])
+    return (yr-1) - (yr-1)%4 + 1
+
+termidx_from_year = lambda y : int((y-BEG)/4)
+year_from_termidx = lambda t : (BEG + 4*t) if t is not None else 'nb_terms'
+
 TEMPLATE = '''
-#define nb_judgs <<NB_JUDGES>>
+#define nb_judgs  <<NB_JUDGES>>
 #define nb_cases  <<NB_CASES>>
-#define nb_terms  25
+#define nb_terms  <<NB_TERMS>>
 #define nm_length 32
 
 party_t pres[nb_judgs] = <<PRES>>;
 votes_t vote[nb_cases][nb_judgs] = <<VOTE>>;
 
 char    name[nb_judgs][nm_length] = <<NAME>>;
-char    year[nb_terms] = <<NAME>>;
+int     year[nb_terms+1] = <<YEAR>>;
 
-int     term[nb_judgs] = <<TERM>>;
+int     tbeg[nb_judgs] = <<TBEG>>;
+int     tend[nb_judgs] = <<TEND>>;
 int     date[nb_cases] = <<DATE>>;
 '''
-
-termidx_from_year = lambda y : int((y-1931)/4)
-year_from_termidx = lambda t : 1931 + 4*t
 
 def make_array(iter, per_row=12, indent='    '):
     return ('{'+ ','.join((('' if i%per_row else ('\n'+indent))+str(x))
                           for i,x in enumerate(iter)) + '\n}')
-def tabulate(votes, judges, parties, terms, dates):
-    ids_by_nm = {nm:i for i,nm in enumerate(sorted(judges))}
+def tabulate(votes, judges, parties, tbegs, tends, dates):
+    jj = sorted(judges)
+    ids_by_nm = {nm:i for i,nm in enumerate(jj)}
+
+    nb_cases = {j:0 for j in jj}
+    for maj,min in votes:
+        for m in maj+min:
+            nb_cases[m] += 1
     for n,i in ids_by_nm.items():
-        print(i, n)
+        print(i, n, nb_cases[n])
+
     vote_table = (
         '{' +
         #','.join('\n    {'+vote_row(maj,min,ids_by_nm)+'}' for maj,min in votes)+
         ','.join('\n    {'+vote_row(maj,min,ids_by_nm, parties)+'}' for maj,min in votes)+
         '\n}'
         )
-    pres_table = make_array((('DEM' if parties[j]=='Democratic' else 'REP') for j in sorted(judges)))
-    #'{'+','.join((('' if i%10 else '\n')+('DEM' if parties[j]=='Democratic' else 'REP')) for i,j in enumerate(sorted(judges)))+'}'
-    term_table = make_array(map(termidx_from_year, (terms[j] for j in sorted(judges))))
-    #'{'+','.join((('' if i%10 else '\n')+str(terms[j])) for i,j in enumerate(sorted(judges)))+'}'
+    pres_table = make_array((('DEM' if parties[j]=='Democratic' else 'REP') for j in jj))
+    #'{'+','.join((('' if i%10 else '\n')+('DEM' if parties[j]=='Democratic' else 'REP')) for i,j in enumerate(jj))+'}'
+    tbeg_table = make_array(map(termidx_from_year, (tbegs[j] for j in jj)))
+    tend_table = make_array(map(termidx_from_year, (tends[j] for j in jj)))
+    #'{'+','.join((('' if i%10 else '\n')+str(terms[j])) for i,j in enumerate(jj))+'}'
     date_table = make_array(map(termidx_from_year, dates))
     #'{'+','.join((('' if i%10 else '\n')+str(d)) for i,d in enumerate(dates))+'}'
-    name_table = make_array((('"'+j+'"') for j in sorted(judges)))
-    #'{'+','.join('"'+j+'"' for j in sorted(judges))+'}'
+    name_table = make_array((('"'+j+'"') for j in jj))
+    year_table = make_array(map(str, range(BEG,END+4,4)))
+    #'{'+','.join('"'+j+'"' for j in jj)+'}'
     return (TEMPLATE
             .replace('<<NB_JUDGES>>',   str(len(judges)))
             .replace('<<NB_CASES>>' ,   str(len(votes )))
+            .replace('<<NB_TERMS>>' ,   str(NB_TERMS)   )
             .replace('<<PRES>>'     ,   pres_table      )
             .replace('<<VOTE>>'     ,   vote_table      )
             .replace('<<NAME>>'     ,   name_table      )
-            .replace('<<TERM>>'     ,   term_table      )
+            .replace('<<YEAR>>'     ,   year_table      )
+            .replace('<<TBEG>>'     ,   tbeg_table      )
+            .replace('<<TEND>>'     ,   tend_table      )
             .replace('<<DATE>>'     ,   date_table      )
             )
 
 court_nm = 'U.S. Court of Appeals for the Federal Circuit'
 if __name__=='__main__':
     parties = {}
-    terms   = {}
+    tbegs   = {}
+    tends   = {}
     with open('../data/appointers.csv') as f:
         lns = f.read().split('\n')[1:]
     for ln in lns:
-        if court_nm not in ln: continue
-        nm, fst_court, pres, date = re.match(ROW_APPT, ln).groups()
-        date = term_from_date(date)
         # NOTE: we DON'T do `if court != court_nm: continue` since judges can be /re/appointed to Federal Circuit from a different court
         # NOTE: `...Federal Circuit` may appear under clerkships, so we get superset
+        if court_nm not in ln: continue
+        (nm, court0, pres0, dbeg0, dend0,
+             court1, pres1, dbeg1, dend1,) = re.match(ROW_APPT, ln).groups()
+        if not (court0==court_nm or court1==court_nm): continue
         # NOTE: there are duplicate last names... hope this is alright!
-        print('{:15s}{:10s} --- {:4d} --- {}'.format(nm,pres,date,fst_court))
+        court,dbeg,dend = ((court0,dbeg0,dend0) if court0==court_nm else
+                           (court1,dbeg1,dend1) if court1==court_nm else None)
+        pres = pres0
+
+        dbeg = term_from_date(dbeg)
+        dend = term_from_date(dend)
+        print('{:15s}{:10s} --- {:4d}-{:4d} --- {}'.format(nm,pres,dbeg,dend,court))
         parties[nm] = pres
-        terms  [nm] = date
+        tbegs  [nm] = dbeg
+        tends  [nm] = dend
 
     input()
 
@@ -185,18 +240,21 @@ if __name__=='__main__':
                                                        and min)]
         votes = [(maj,min) for maj,min in votes if judges.issuperset(set(maj).union(set(min)))]
         split = [(maj,min) for maj,min in votes if min]
-        tt = tabulate(split, judges, parties, terms, dates)
+        tt = tabulate(split, judges, parties, tbegs, tends, dates)
+        print('found {} split decisions among {} decisions total'.format(
+                len(split), len(votes)
+             ))
+
     else:
         dates = [d for d,(maj,min) in zip(dates,votes) if judges.issuperset(set(maj).union(set(min)))]
         votes = [(maj,min) for maj,min in votes if judges.issuperset(set(maj).union(set(min)))]
-        tt = tabulate(votes, judges, parties, terms, dates)
+        tt = tabulate(votes, judges, parties, tbegs, tends, dates)
+        print('found decisions {} decisions total'.format(len(votes)))
+
     #with open('../federal_data.rand.c', 'w') as f:
     with open('./federal_data_.c', 'w') as f:
         f.write(tt)
 
-    print('found {} split decisions among {} decisions total'.format(
-            len(split), len(votes)
-         ))
     print('found {} judges'.format(
             len(judges)
          ))
