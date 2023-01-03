@@ -139,16 +139,14 @@ typedef enum { DEM = -1, REP = +1           } party_t ;
 //
   /* `extern` used arrays etc for self-contained readability  */
 
-
 /* TODO : change p.j to p.t! */
 extern party_t pres[nb_judgs];
-
-
 extern votes_t vote[nb_cases][nb_judgs];
 extern char    name[nb_judgs][nm_length];
-extern int     term[nb_judgs];
+extern int     year[nb_terms+1];
+extern int     tbeg[nb_judgs];
+extern int     tend[nb_judgs];
 extern int     date[nb_cases];
-#define nb_terms  25
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 /* ~  Math Helpers  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
@@ -313,7 +311,7 @@ typedef struct {
 //        `vote.j.c`~ bernoulli { prob sigma(`sens.c`*`lean.j.(date.c)` +
 
 float part_loss(state_t const* s) { return lap(0., 1., s->part); }
-float tite_loss(state_t const* s) { return lap(0., .01, s->tite); }
+float tite_loss(state_t const* s) { return lap(0., 1., s->tite); }
 float walk_loss(state_t const* s) { return lap(0., 1., s->walk); }
 
 float sens_loss(state_t const* s, int c) { return lap(0., 1., s->sens[c]); }
@@ -337,7 +335,7 @@ float lean_loss(state_t const* s, int j, int t)
 float vote_loss(state_t const* s, int c, int j)
 { /* TODO: optimize to assume vote[c][j] != ___ (need changes in Summed Losses) */
     if ( vote[c][j] == ___ ) { return 0.; }
-    int t = date[c] - term[j];
+    int t = date[c] - tbeg[j];
     float z = s->sens[c] * s->lean[j][t] + s->bias[c];
     return sig(z, vote[c][j]==YEA);
 }
@@ -372,7 +370,7 @@ float core_j_loss(state_t const* s) { return sum_1(s, nb_judgs, &core_loss); }
 float lean_jt_loss(state_t const* s) {
     float acc = 0.;
     for (int j=0; j!=nb_judgs; ++j) {
-        for (int t=0; t!=nb_terms; ++t) {
+        for (int t=0; t!=tend[j]-tbeg[j]; ++t) {
             acc += lean_loss(s, j, t);
         }
     }
@@ -476,10 +474,11 @@ void print_state(state_t const* s)
 {
     PF("part  ");  PF("%5.2f  ", s->part);
     PF("|  tite  ");  PF("%5.2f  ", s->tite);
+    PF("|  walk  ");  PF("%5.2f  ", s->walk);
 
     PF("|  sens  ");  for (int c=0; c!= 2; ++c) { PF("%+5.2f  ", s->sens[c]); }
     PF("|  bias  ");  for (int c=0; c!= 2; ++c) { PF("%+5.2f  ", s->bias[c]); }
-    PF("|  core  ");  for (int j=0; j!= 6; ++j) { PF("%+5.2f  ", s->core[j]); }
+    PF("|  core  ");  for (int j=0; j!= 2; ++j) { PF("%+5.2f  ", s->core[j]); }
     PF("\n");
 }
 
@@ -627,17 +626,17 @@ void mh_step(state_t* s)
 //   *  We may estimate the integral by an expectation:
 //   *
 //   */
-//  
+//
 //  //#define ACCUMULATOR_BINS 32
 //  //typedef struct {
 //  //} accumulator_t ;
-//  
+//
 //  #define S_BINS 256
 //  typedef struct {
 //      double lgsm[S_BINS];
 //      long   nb[S_BINS];
 //  } probs_t ;
-//  
+//
 //  void init_probs(probs_t* ps)
 //  {
 //      for (int b = 0; b != S_BINS; ++b) {
@@ -645,12 +644,12 @@ void mh_step(state_t* s)
 //          ps->nb[b] = 0;
 //      }
 //  }
-//  
+//
 //  double softplus(double z) { return z<-40 ? 0 : +40<z ? z : log(1+exp(z)); }
 //  double soft_add(double acc, double b) {
 //      return acc==-INFINITY ? b : acc + softplus(b-acc);
 //  }
-//  
+//
 //  void add_score(probs_t* ps, double score)
 //  {
 //      int b = (S_BINS/2) + (int)(score);
@@ -658,7 +657,7 @@ void mh_step(state_t* s)
 //      ps->lgsm[b] = soft_add(ps->lgsm[b], score);
 //      ps->nb[b] += 1;
 //  }
-//  
+//
 //  double lg_sum_prob(probs_t const* ps)
 //  {
 //      long nb = 0;
@@ -713,8 +712,7 @@ int main(int argc, char *argv[])
         for (int j=0; j!=nb_judgs; ++j) {
             update_histo(&cc  , /*CAP*/(s.core[j]));
             //update_histo(&h[j], s.core[j]);
-            for (int t=0; t!=nb_terms ; ++t) {
-                if (t + term[j] >= nb_terms) { break; } /* TODO : compute retirement */
+            for (int t=0; t!=tend[j]-tbeg[j]; ++t) {
                 update_histo(&h[j], s.lean[j][t]);
                 update_histo(&ll  , s.lean[j][t]);
             }
@@ -735,11 +733,11 @@ int main(int argc, char *argv[])
     print_histo(cc, 3., 6, "core");     printf("\n\n");
     print_histo(ll, 3., 6, "lean");     printf("\n\n");
 
-    char label[] = "judge   ";
+    //char label[] = "judge   ";
     for (int j=0; j!=nb_judgs; ++j) {
         print_histo(h[j], 1., 6, name[j]);        printf("\n\n");
-        for (int t=0; t!=nb_terms; ++t) {
-            if (t + term[j] >= nb_terms) { break; }
+        printf(MAGENTA "%s\n" CYAN, pres[j]==REP?"REP":"DEM");
+        for (int t=0; t!=tend[j]-tbeg[j]; ++t) {
             printf("%+5.2f : ", s.lean[j][t]);
         }
         printf("\n");
