@@ -67,7 +67,7 @@ commas inside.
     "Service as Chief Judge, End (1)","2nd Service as Chief Judge, Begin (1)",
     "2nd Service as Chief Judge, End (1)","Senior Status Date (1)",
     "Termination (1)",
-"Termination Date (2)",
+"Termination Date (1)",
     "Court Type (2)",
 "Court Name (2)",
     "Appointment Title (2)","Appointing President (2)",
@@ -244,7 +244,6 @@ if __name__=='__main__':
         print('found {} split decisions among {} decisions total'.format(
                 len(split), len(votes)
              ))
-
     else:
         dates = [d for d,(maj,min) in zip(dates,votes) if judges.issuperset(set(maj).union(set(min)))]
         votes = [(maj,min) for maj,min in votes if judges.issuperset(set(maj).union(set(min)))]
