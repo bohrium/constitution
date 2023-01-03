@@ -185,9 +185,9 @@ float sig(float z, bool x)
 
 typedef struct {
     float lo, hi;
-    int counts[nb_bins];
-    int too_lo, too_hi;
-    int total;
+    long counts[nb_bins];
+    long too_lo, too_hi;
+    long total;
 } histogram_t ;
 
 float quantile(histogram_t const* h, float q)
@@ -313,7 +313,7 @@ typedef struct {
 //        `vote.j.c`~ bernoulli { prob sigma(`sens.c`*`lean.j.(date.c)` +
 
 float part_loss(state_t const* s) { return lap(0., 1., s->part); }
-float tite_loss(state_t const* s) { return lap(0., 1., s->tite); }
+float tite_loss(state_t const* s) { return lap(0., .01, s->tite); }
 float walk_loss(state_t const* s) { return lap(0., 1., s->walk); }
 
 float sens_loss(state_t const* s, int c) { return lap(0., 1., s->sens[c]); }
@@ -328,7 +328,9 @@ float core_loss(state_t const* s, int j)
 
 float lean_loss(state_t const* s, int j, int t)
 {
-    return lap((t==0 ? s->core[j] : s->lean[j][t-1]),
+    return lap(
+               (t==0 ? s->core[j] : s->lean[j][t-1]),
+               //(s->core[j]),
                fabs(s->walk), s->lean[j][t]          );
 }
 
@@ -606,6 +608,69 @@ void mh_step(state_t* s)
 //      step_p(p, q, dt/2.);
 //  }
 
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~  Estimate Partition Function  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+//  /*  We have `p(x) = exp(-l(x)-a)` for known `l`.  We also have `N` many
+//   *  independent samples drawn from `p`.  We would like to estimate `a`.
+//   *  Intuitively, `a` is some average of the `l`s:
+//   *
+//   *          a = log sum_x exp(-l(x))
+//   *
+//   *  Say we also have a known reference distribution `q(x) = exp(-r(x))`.
+//   *
+//   * TODO
+//   *
+//   *  This is progress because distributions over `l` are more manageable than
+//   *  distributions over `x`.
+//   *
+//   *  We may estimate the integral by an expectation:
+//   *
+//   */
+//  
+//  //#define ACCUMULATOR_BINS 32
+//  //typedef struct {
+//  //} accumulator_t ;
+//  
+//  #define S_BINS 256
+//  typedef struct {
+//      double lgsm[S_BINS];
+//      long   nb[S_BINS];
+//  } probs_t ;
+//  
+//  void init_probs(probs_t* ps)
+//  {
+//      for (int b = 0; b != S_BINS; ++b) {
+//          ps->lgsm[b] = -INFINITY;
+//          ps->nb[b] = 0;
+//      }
+//  }
+//  
+//  double softplus(double z) { return z<-40 ? 0 : +40<z ? z : log(1+exp(z)); }
+//  double soft_add(double acc, double b) {
+//      return acc==-INFINITY ? b : acc + softplus(b-acc);
+//  }
+//  
+//  void add_score(probs_t* ps, double score)
+//  {
+//      int b = (S_BINS/2) + (int)(score);
+//      if ( ! (0<=b && b<S_BINS) ) { return; } /* TODO: handle ERROR! */
+//      ps->lgsm[b] = soft_add(ps->lgsm[b], score);
+//      ps->nb[b] += 1;
+//  }
+//  
+//  double lg_sum_prob(probs_t const* ps)
+//  {
+//      long nb = 0;
+//      double lgsm = -INFINITY;
+//      for (int b = 0; b != S_BINS; ++b) { // <- adding from small to large
+//          if ( ! ps->nb[b] ) { continue; }
+//          lgsm = soft_add(lgsm, ps->lgsm[b] + log(ps->nb[b]));
+//          nb += ps->nb[b];
+//      }
+//      return lgsm - log(nb);
+//  }
+
 /* ========================================================================= */
 /* =  MAIN LOOP  =========================================================== */
 /* ========================================================================= */
@@ -618,13 +683,21 @@ int main(int argc, char *argv[])
     int const SKIP =      10;
 
     histogram_t h[nb_judgs];
-    float WIDTH = 3.2;//3.3;
-    for (int j=0; j!=nb_judgs; ++j) { init_histo(&h[j], -WIDTH, +WIDTH); }
+    float LO=-4.7;//3.2;//3.3;
+    float HI=+4.9;//3.2;//3.3;
+    for (int j=0; j!=nb_judgs; ++j) { init_histo(&h[j], LO, HI); }
 
-    histogram_t bb, ll;
-    init_histo(&bb, -2. , +2. );
-    //init_histo(&ll, -.1 , +1.1);
-    init_histo(&ll, -.1 , +2.1);
+    histogram_t pp, tt, ww;
+    histogram_t bb, ss, cc, ll;
+
+    init_histo(&pp, - .1, +3.1);
+    init_histo(&tt, - .1, +5.2);
+    init_histo(&ww, - .1, +3.1);
+
+    init_histo(&ss, LO , HI );
+    init_histo(&bb, LO , HI );
+    init_histo(&cc, LO , HI );
+    init_histo(&ll, LO , HI );
 
     printf("%ssampling %d k times... (%d k steps)%s\n",
            BLUE, ((T-BURN)/SKIP)/1000, T/1000, CYAN     );
@@ -637,21 +710,34 @@ int main(int argc, char *argv[])
         if ( t%DISP == 0 ) { print_state(&s); }
         mh_step(&s);
         if ( t%SKIP || t<BURN ) { continue; }
-        for (int j=0; j!=nb_judgs; ++j) { update_histo(&h[j], s.core[j]); }
+        for (int j=0; j!=nb_judgs; ++j) {
+            update_histo(&cc  , /*CAP*/(s.core[j]));
+            //update_histo(&h[j], s.core[j]);
+            for (int t=0; t!=nb_terms ; ++t) {
+                if (t + term[j] >= nb_terms) { break; } /* TODO : compute retirement */
+                update_histo(&h[j], s.lean[j][t]);
+                update_histo(&ll  , s.lean[j][t]);
+            }
+        }
         for (int c=0; c!=nb_cases ; ++c) { update_histo(&bb  , s.bias[c]); }
-        for (int j=0; j!=nb_judgs; ++j) { update_histo(&ll  , CAP(s.core[j])); }
+        for (int c=0; c!=nb_cases ; ++c) { update_histo(&ss  , s.sens[c]); }
+        update_histo(&pp, s.part);
+        update_histo(&tt, s.tite);
+        update_histo(&ww, s.walk);
     }
 
-    print_histo(bb, 2., 6, "bias");             printf("\n\n");
-    print_histo(ll, 3., 6, "leans (capped)");   printf("\n\n");
+    print_histo(pp, 1., 6, "part");     printf("\n\n");
+    print_histo(tt, 1., 6, "tite");     printf("\n\n");
+    print_histo(ww, .5, 6, "walk");     printf("\n\n");
+
+    print_histo(bb, 2., 6, "bias");     printf("\n\n");
+    print_histo(ss, 2., 6, "sens");     printf("\n\n");
+    print_histo(cc, 3., 6, "core");     printf("\n\n");
+    print_histo(ll, 3., 6, "lean");     printf("\n\n");
 
     char label[] = "judge   ";
-    //for (int j=0; j!=6+0*nb_judgs; ++j) {
     for (int j=0; j!=nb_judgs; ++j) {
-        //label[7] = '0' + (j%10);
-        //label[6] = '0' + ((j/10)%10);
-        //print_histo(h[j], .8, 6, label);        printf("\n\n");
-        print_histo(h[j], .3, 6, name[j]);        printf("\n\n");
+        print_histo(h[j], 1., 6, name[j]);        printf("\n\n");
         for (int t=0; t!=nb_terms; ++t) {
             if (t + term[j] >= nb_terms) { break; }
             printf("%+5.2f : ", s.lean[j][t]);
