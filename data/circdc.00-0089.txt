@@ -1,0 +1,1029 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 8, 2000    Decided April 14, 2000 
+
+                           No. 98-1512
+
+               Appalachian Power Company, et al., 
+                           Petitioners
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+                        Consolidated with 
+        Nos. 98-1536, 98-1537, 98-1538, 98-1540 & 98-1542
+
+           On Petitions for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Lauren E. Freeman argued the cause for petitioners.  
+With her on the briefs were Henry V. Nickel, Leslie Sue 
+Ritts, Michael H. Levin, Edmund B. Frost, David F. Zoll, 
+Alexandra Dapolito Dunn, John Reese, Charles F. Lettow, 
+
+Marcilynn A. Burke, L. Burton Davis, William H. Lewis, 
+Michael A. McCord and Ellen Siegler.  Michael P. Mc-
+Govern and Neal J. Cabral entered appearances.
+
+     Jon M. Lipshultz, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With him on the briefs 
+were Lois J. Schiffer, Assistant Attorney General, and Grego-
+ry B. Foote, Attorney, Environmental Protection Agency.
+
+     Before:  Williams, Henderson, and Randolph, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  These consolidated petitions for 
+judicial review, brought by electric power companies, and 
+trade associations representing the nation's chemical and 
+petroleum industry, challenge the validity of portions of an 
+EPA document entitled "Periodic Monitoring Guidance," re-
+leased in 1998.  In the alternative, petitioners seek review of 
+a 1992 EPA rule implementing Title V of the Clean Air 
+Amendments of 1990.
+
+                                I.
+
+     Title V of the 1990 amendments to the Clean Air Act 
+altered the method by which government regulated the pri-
+vate sector to control air pollution.  Henceforth, stationary 
+sources of air pollution, or of potential air pollution, must 
+obtain operating permits from State or local authorities ad-
+ministering their EPA-approved implementation plans.  The 
+States must submit to EPA for its review all operating 
+permits and proposed and final permits.  See 42 U.S.C. 
+s 7661d.  EPA has 45 days to object;  if it does so, "the 
+permitting authority may not issue the permit," id. 
+s 7661d(b)(3).1  Congress instructed EPA to pass regulations 
+establishing the "minimum elements of a permit program to 
+be administered by any air pollution control agency," includ-
+
+__________
+     1 If the State permitting authority fails to revise the permit to 
+satisfy EPA's objection, EPA shall issue or deny the permit, at 
+which point EPA's action becomes subject to judicial review.  See 
+42 U.S.C. s 7661d(c).
+
+ing "Monitoring and reporting requirements."  42 U.S.C. 
+s 7661a(b).  Under Title V, the Governor of each State could 
+submit to EPA a permit program by November 15, 1993, to 
+comply with Title V and with whatever regulations EPA had 
+promulgated in the interim.  See 42 U.S.C. s 7661a(d).  This 
+was to be accompanied by a legal opinion from the State's 
+attorney general that the laws of the State contained suffi-
+cient authority to authorize the State to implement the pro-
+gram.  Id.  If a State decided not to participate, or if EPA 
+disapproved the State's program, federal sanctions would kick 
+in, including a cut-off of federal highway funds and an EPA 
+takeover of permit-issuing authority within the State.  See 
+Commonwealth of Virginia v. Browner, 80 F.3d 869, 873-74 
+(4th Cir. 1996).
+
+     EPA promulgated rules implementing the Title V permit 
+program in 1992.  The rules list the items each State permit 
+program must contain,2 including this one:
+
+          (3) Monitoring and related record-keeping and report-
+     ing requirements. (i) Each permit shall contain the fol-
+     lowing requirements with respect to monitoring:
+     
+          (A) All monitoring and analysis procedures or test 
+     methods required under applicable monitoring and test-
+     ing requirements, including part 64 of this chapter and 
+     any other procedures and methods that may be promul-
+     gated pursuant to sections 114(a)(3) or 504(b) of the Act. 
+     If more than one monitoring or testing requirement 
+     applies, the permit may specify a streamlined set of 
+     monitoring or testing provisions provided the specified 
+     monitoring or testing is adequate to assure compliance at 
+     least to the same extent as the monitoring or testing 
+     applicable requirements that are not included in the 
+     permit as a result of such streamlining;
+     
+          (B) Where the applicable requirement does not re-
+     quire periodic testing or instrumental or noninstrumental 
+     monitoring (which may consist of record-keeping de-
+     
+__________
+     2 The list is nicely summarized in David R. Wooley, Clean Air 
+Act Handbook:  A Practical Guide to Compliance s 5.02[1] (9th ed. 
+2000).
+
+     signed to serve as monitoring), periodic monitoring suffi-
+     cient to yield reliable data from the relevant time period 
+     that are representative of the source's compliance with 
+     the permit, as reported pursuant to paragraph(a)(3)(iii) of 
+     this section. Such monitoring requirements shall assure 
+     use of terms, test methods, units, averaging periods, and 
+     other statistical conventions consistent with the applica-
+     ble requirement. Recordkeeping provisions may be suffi-
+     cient to meet the requirements of this paragraph 
+     (a)(3)(i)(B) of this section;  and
+     
+          (C) As necessary, requirements concerning the use, 
+     maintenance, and, where appropriate, installation of mon-
+     itoring equipment or methods....  
+     
+40 C.F.R. s 70.6(a)(3).
+
+     The key language--key because this dispute revolves 
+around it--is in the first sentence of s 70.6(a)(3)(i)(B).  Per-
+mits contain terms and conditions with which the regulated 
+entities must comply.  Some of the terms and conditions--in 
+regulatory lingo, "applicable requirements" (see 
+s 70.6(a)(3)(i)(B))3--consist of emission limitations and stan-
+dards, State and federal.  Experts in the field know that 
+federal emission standards, such as those issued for hazard-
+ous air pollutants and new stationary sources, contain far 
+more than simply limits on the amount of pollutants emitted.
+
+     Take for instance the following examples drawn at random 
+from the Code of Federal Regulations.  The national emission 
+__________
+     3 One EPA official explained:
+
+          Permits must incorporate terms and conditions to assure 
+     compliance with all applicable requirements under the Act, 
+     including the [state implementation plan], title VI, sections 111 
+     and 112, the sulfur dioxide allowance system and NOx limits 
+     under the acid rain program, emission limits applicable to the 
+     source, monitoring, recordkeeping and reporting requirements, 
+     and any other federally-recognized requirements applicable to 
+     the source.
+     
+John S. Seitz, Director, Office of Air Quality Planning and Stan-
+dards, Developing Approvable State Enabling Legislation Required 
+to Implement Title V, at p. 4 (Feb. 25, 1993).
+
+standard for hazardous air pollutants from primary lead 
+smelting is contained in 40 C.F.R. ss 63.1541-.1550.  In 
+addition to emission limits,4 the operator must comply with 
+detailed and extensive testing requirements contained in 
+s 63.8 of the regulations, and must monitor certain pressure 
+drops daily;  make weekly checks to ensure that dust is being 
+removed from hoppers;  perform quarterly inspections of 
+fans, and so forth.  Id. s 63.1547.  Or consider the standards 
+of performance for new stationary sources contained in 40 
+C.F.R. part 60, one of the thickest of the dozen or so volumes 
+EPA commands in the C.F.R.  In the "beverage can surface 
+coating industry," those subject to these regulations must--if 
+they use "a capture system and an incinerator"--install some 
+sort of "temperature measurement device," properly calibrat-
+ed and having a specified accuracy stated in terms of degrees 
+Celsius.  40 C.F.R. s 60.494.5  Or if the new source is in the 
+rubber tire manufacturing industry, an operator doing a 
+"green tire spraying operation" using organic solvent-based 
+sprays must install "an organics monitoring device used to 
+indicate the concentration level of organic compounds based 
+on a detection principle such as infrared ..., equipped with a 
+__________
+     4 See 40 C.F.R. s 63.1543(a):
+          No owner or operator of any existing, new, or reconstructed 
+     primary lead smelter shall discharge or cause to be discharged 
+     into the atmosphere lead compounds in excess of 500 grams of 
+     lead per megagram of lead metal produced ... from the 
+     aggregation of emissions discharged from the air pollution 
+     control devices used to control emissions from the sources 
+     [listed].
+  
+     5 If the facility does not use a capture system, it must calculate its 
+emission limits using a series of equations provided by EPA.  For 
+some idea of the complexity of this exercise, consider that the 
+facility must figure its total volume of coating solids per month 
+using the following equation:
+
+                                n 
+
+                          Ls =E LciVsi
+
+                               i=1
+
+40 C.F.R. s 60.493(b)(1)(i)(B).  It would serve no useful purpose to 
+explain this or the many other equations in the sequence.
+
+continuous recorder, for the outlet of the carbon bed."  Id. 
+s 60.544(a)(3).
+
+     Typically, EPA delegates to the States its authority to 
+require companies to comply with these federal standards.  
+The States incorporate the federal standards in their imple-
+mentation plans and, under Title V of the 1990 law, the 
+applicable standards become terms and conditions in permits.  
+States too have their own emissions limitations and standards 
+in their implementation plans, which they need in order to 
+comply with national ambient air quality standards.  See 40 
+C.F.R. part 52;  Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837, 846 (1984);  Union Elec-
+tric Co. v. EPA, 427 U.S. 246, 249-50 (1976);  Commonwealth 
+of Virginia v. EPA, 108 F.3d 1397, 1406 (D.C. Cir.), modified, 
+116 F.3d 499 (D.C. Cir. 1997).  Petitioners tell us that States 
+may formulate their emission standards not only by limiting 
+the amount of air pollutants, but also by imposing practices, 
+including the monitoring of emissions.6
+
+     On one thing the parties are in agreement.  If an applica-
+ble State emission standard contains no monitoring require-
+ment to ensure compliance, EPA's regulation requires the 
+State permitting agency to impose on the stationary source 
+some sort of "periodic monitoring" as a condition in the 
+permit or specify a reasonable frequency for any data collec-
+tion mandate already specified in the applicable requirement.  
+According to petitioners this sort of gap-filling is all 
+s 70.6(a)(3)(i)(B)--the so-called periodic monitoring rule--re-
+quires of State permit programs.  By petitioners' lights, if a 
+federal or State emission standard already contains some sort 
+of requirement to do testing7 from time to time, this portion 
+of the standard must be incorporated in the permit, not 
+changed by the State to conform to EPA's imprecise and 
+
+__________
+     6 In some instances, States may adopt emission standards or 
+limitations that are more stringent than federal standards.  42 
+U.S.C. s 7416.  States may also adopt more stringent permit 
+requirements.  40 C.F.R. s 70.1(c).
+
+     7 By testing we mean to include instrumental and noninstrumen-
+tal monitoring as well.
+
+evolving notion of what constitutes "periodic monitoring."8  
+Otherwise, State authorities will wind up amending federal 
+emission standards in individual permits, something not even 
+EPA could do without conducting individual rulemakings to 
+amend the regulations containing the federal standards.  And 
+with respect to State standards, the State agency will in 
+effect be revising its implementation plan at EPA's behest, 
+without going through the procedures needed to accomplish 
+this.  See, e.g., 42 U.S.C. s 7410(k)(5) & (l).
+
+     In a document entitled "Periodic Monitoring Guidance for 
+Title V Operating Permits Programs," released in September 
+1998, EPA took a sharply different view of s 70.6(a)(3) than 
+do petitioners.  The "Guidance" was issued over the signature 
+of two EPA officials--the Director of the Office of Regulatory 
+Enforcement, and the Director of the Office of Air Quality 
+Planning and Standards.  It is narrative in form, consists of 
+19 single-spaced, typewritten pages, and is available on EPA's 
+internet web site (www.epa.gov).  "Periodic monitoring," the 
+Guidance states, "is required for each emission point at a 
+source subject to title V of the Act that is subject to an 
+applicable requirement, such as a Federal regulation or a SIP 
+emission limitation." Periodic Monitoring Guidance for Title 
+V Operating Permits Programs (hereinafter "Guidance") at 5. 
+New source performance standards, and national emission 
+standards for hazardous pollutants, if EPA promulgated the 
+standards after November 15, 1990, the effective date of the 
+Clean Air Act amendments, are "presumed to have adequate 
+monitoring."  Id.  Also, for "emission units subject to the 
+acid rain requirements," EPA has determined that its "regu-
+lations contain sufficient monitoring for the acid rain require-
+ments."  Id.  Outside of these categories and one other, the 
+
+__________
+     8 In support of their view, petitioners point to the Title V rule's 
+preamble which states:  "If the underlying applicable requirement 
+imposes a requirement to do periodic monitoring or testing ..., the 
+permit must simpl[y] incorporate this provision under 
+s 70.6(a)(3)(i)(A)." 57 Fed. Reg. 32,278 (1992).
+
+Guidance states that "periodic monitoring is required ... 
+when the applicable requirement does not require ... moni-
+toring sufficient to yield reliable data from the relevant time 
+period that are representative of the source's compliance with 
+the permit."  Id. at 6.  How to determine this?  Clearly, 
+according to the Guidance, if an "applicable requirement 
+imposes a one-time testing requirement, periodic monitoring 
+is not satisfied ...," presumably because one time is not from 
+time to time, which is what periodic means.  Id.
+
+                               II.
+
+     The phenomenon we see in this case is familiar.  Congress 
+passes a broadly worded statute.  The agency follows with 
+regulations containing broad language, open-ended phrases, 
+ambiguous standards and the like.  Then as years pass, the 
+agency issues circulars or guidance or memoranda, explain-
+ing, interpreting, defining and often expanding the commands 
+in the regulations.  One guidance document may yield anoth-
+er and then another and so on.  Several words in a regulation 
+may spawn hundreds of pages of text as the agency offers 
+more and more detail regarding what its regulations demand 
+of regulated entities.  Law is made, without notice and com-
+ment, without public participation, and without publication in 
+the Federal Register or the Code of Federal Regulations.  
+With the advent of the Internet, the agency does not need 
+these official publications to ensure widespread circulation;  it 
+can inform those affected simply by posting its new guidance 
+or memoranda or policy statement on its web site.  An 
+agency operating in this way gains a large advantage.  "It 
+can issue or amend its real rules, i.e., its interpretative rules 
+and policy statements, quickly and inexpensively without fol-
+lowing any statutorily prescribed procedures."  Richard J. 
+Pierce, Jr., Seven Ways to Deossify Agency Rulemaking, 47 
+Admin. L. Rev. 59, 85 (1995).9  The agency may also think 
+
+__________
+     9 How much more efficient than, for instance, the sixty rounds of 
+notice and comment rulemaking preceding the final rule in Motor 
+
+there is another advantage--immunizing its lawmaking from 
+judicial review.
+
+                                A.
+
+     EPA tells us that its Periodic Monitoring Guidance is not 
+subject to judicial review because it is not final, and it is not 
+final because it is not "binding."10  Brief of Respondent at 30.  
+See Guidance at 19.  It is worth pausing a minute to consider 
+what is meant by "binding" in this context.  Only "legislative 
+rules" have the force and effect of law.  See Chrysler Corp. v. 
+Brown, 441 U.S. 281, 302-03 & n.31 (1979).  A "legislative 
+rule" is one the agency has duly promulgated in compliance 
+with the procedures laid down in the statute or in the 
+Administrative Procedure Act.11  If this were all that "bind-
+ing" meant, EPA's Periodic Monitoring Guidance could not 
+possibly qualify:  it was not the product of notice and com-
+__________
+Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 
+34 (1983).
+
+     10 Our jurisdiction extends to "any ... nationally applicable ...  
+final action taken by" the EPA "Administrator."  42 U.S.C. 
+s 7607(b)(1). The Guidance issued over the signatures of two high 
+level EPA officials rather than the Administrator.  EPA does not, 
+however, contest petitioners' assertion that because "the document 
+was drafted, and reviewed by, high ranking officials in several EPA 
+offices, including EPA's lawyers, there is no reason to doubt the 
+authors' authority to speak for the Agency."  Brief of Petitioners at 
+42.  See Her Majesty the Queen v. EPA, 912 F.2d 1525, 1531-32 
+(D.C. Cir. 1990);  Natural Resources Defense Council, Inc. v. Thom-
+as, 845 F.2d 1088, 1094 (D.C. Cir. 1988).
+
+     11 We have also used "legislative rule" to refer to rules the agency 
+should have, but did not, promulgate through notice and comment 
+rulemaking.  See, e.g., American Mining Congress v. Department 
+of Labor, 995 F.2d 1106, 1110 (D.C. Cir. 1993).  In this case, by 
+"rule" we mean the following:
+
+     ... the whole or a part of an agency statement of general or 
+     particular applicability and future effect designed to implement, 
+     interpret, or prescribe law or policy or describing the organiza-
+     tion, procedure, or practice requirements of an agency....
+     
+5 U.S.C. s 551(4).
+
+ment rulemaking in accordance with the Clean Air Act, 42 
+U.S.C. s 7607(d), and it has not been published in the Federal 
+Register.12  But we have also recognized that an agency's 
+other pronouncements can, as a practical matter, have a 
+binding effect.  See, e.g., McLouth Steel Prods. Corp. v. 
+Thomas, 838 F.2d 1317, 1321 (D.C. Cir. 1988).  If an agency 
+acts as if a document issued at headquarters is controlling in 
+the field, if it treats the document in the same manner as it 
+treats a legislative rule, if it bases enforcement actions on the 
+policies or interpretations formulated in the document, if it 
+leads private parties or State permitting authorities to believe 
+that it will declare permits invalid unless they comply with 
+the terms of the document, then the agency's document is for 
+all practical purposes "binding."  See Robert A. Anthony, 
+Interpretative Rules, Policy Statements, Guidances, Manu-
+als, and the Like--Should Federal Agencies Use Them to 
+Bind the Public?, 41 Duke L.J. 1311, 1328-29 (1992), and 
+cases there cited.
+
+     For these reasons, EPA's contention must be that the 
+Periodic Monitoring Guidance is not binding in a practical 
+sense.  Even this, however, is not an accurate way of putting 
+the matter.  Petitioners are not challenging the Guidance in 
+its entirety.  Under the Administrative Procedure Act, a 
+"rule" may consist of "part of an agency statement of general 
+or particular applicability and future effect...."  5 U.S.C. 
+s 551(4), quoted in full in supra note 11;  see 5 U.S.C. 
+ss 551(13), 702.  "Interpretative rules" and "policy state-
+ments" may be rules within the meaning of the APA and the 
+Clean Air Act, although neither type of "rule" has to be 
+promulgated through notice and comment rulemaking.  See 
+42 U.S.C. s 7607(d)(1), referring to 5 U.S.C. s 553(b)(A) & 
+(B).13  EPA claims, on the one hand, that the Guidance is a 
+
+__________
+     12 5 U.S.C. s 552(a)(1)(D) requires publication in the Federal 
+Register of all "interpretations of general applicability."  Compare 
+5 U.S.C. s 552(a)(2)(B), requiring agencies to make available for 
+inspection and copying "those statements of policy and interpreta-
+tions which have been adopted by the agency and are not published 
+in the Federal Register."
+
+     13 We quoted, in Panhandle Eastern Pipeline Co. v. FERC, 198 
+F.3d 266, 269 (D.C. Cir. 1999), the statement in Pacific Gas & 
+Electric Co. v. Federal Power Commission, 506 F. 2d 33, 38 (D.C. 
+
+policy statement, rather than an interpretative rule, and is 
+not binding.14  On the other hand, EPA agrees with petition-
+ers that "the Agency's position on the central legal issue 
+here--the appropriateness of a sufficiency review of all Title 
+V monitoring requirements--indeed is settled...."  Brief of 
+Respondent at 32.  In other words, whatever EPA may think 
+of its Guidance generally, the elements of the Guidance 
+petitioners challenge consist of the agency's settled position, a 
+position it plans to follow in reviewing State-issued permits, a 
+
+__________
+Cir. 1974), that a policy statement is not a "rule," apparently within 
+the meaning of 5 U.S.C. s 551(4).  Dicta in Syncor International 
+Corp. v. Shalala, 127 F.3d 90, 94 (D.C. Cir. 1997), suggests the same 
+without referring to s 551(4).  See also Hudson v. FAA, 192 F.3d 
+1031 (D.C. Cir. 1999).
+
+      On the other hand, in Batterton v. Marshall, 648 F.2d 694, 700 
+(D.C. Cir. 1980), we interpreted the term "rule" in s 551(4) as 
+"broad enough to include nearly every statement an agency may 
+make...."  Quoting this language, we held in Center for Auto 
+Safety v. National Highway Safety Administration, 710 F.2d 842, 
+846 (D.C. Cir. 1983), that agency policy statements accompanying 
+the withdrawal of a notice of proposed rulemaking fell within the 
+definition of a "rule."  A few years later, then-Judge Scalia--citing 
+Batterton--wrote for the court that under APA s 551(4), it is 
+"clear" that "the impact of an agency statement upon private 
+parties is relevant only to whether it is the sort of rule that is ... a 
+general statement of policy."  Thomas v. New York, 802 F.2d 1443, 
+1447 n.* (D.C. Cir. 1986).  See also National Tank Truck Carriers, 
+Inc. v. Federal Highway Admin., 170 F.3d 203, 207 n.3 (D.C. Cir. 
+1999).
+
+     There is no need for us to try to reconcile these two lines of 
+authority.  Nothing critical turns on whether we initially character-
+ize the Guidance as a "rule."
+
+     14 EPA is under the impression that policy statements can never 
+be "rules" within the meaning of APA s 551(4):  "even if the 
+Guidance were somehow deemed to be a 'rule' (a conclusion that 
+would, in EPA's view, be erroneous due to the non-binding nature 
+of the Guidance), Petitioners' procedural challenge would still fail 
+because the Guidance undoubtedly would be an interpretive (not 
+legislative) rule...."  Brief of Respondent at 43-44 n.40.
+
+position it will insist State and local authorities comply with in 
+setting the terms and conditions of permits issued to petition-
+ers, a position EPA officials in the field are bound to apply.
+
+     Of course, an agency's action is not necessarily final merely 
+because it is binding.15  Judicial orders can be binding;  a 
+temporary restraining order, for instance, compels compliance 
+but it does not finally decide the case.  In the administrative 
+setting, "two conditions must be satisfied for agency action to 
+be 'final':  First, the action must mark the 'consummation' of 
+the agency's decisionmaking process, Chicago & Southern 
+Airlines, Inc. v. Waterman S.S. Corp., 333 U.S. 103, 113 
+(1948)--it must not be of a merely tentative or interlocutory 
+nature.  And second, the action must be one by which 'rights 
+or obligations have been determined,' or from which 'legal 
+consequences will flow,' Port of Boston Marine Terminal 
+Assn. v. Rederiaktiebolaget Transatlantic, 400 U.S. 62, 71 
+(1970)."  Bennett v. Spear, 520 U.S. 154, 178 (1997).  The first 
+condition is satisfied here.  The "Guidance," as issued in 
+September 1998, followed a draft circulated four years earlier 
+and another, more extensive draft circulated in May 1998.  
+This latter document bore the title "EPA Draft Final Period-
+ic Monitoring Guidance."16  On the question whether States 
+must review their emission standards and the emission stan-
+__________
+ We should note that the Guidance itself states that it "interprets" 
+s 70.6(a)(3) of the regulations.  Guidance at 4 n.1.
+
+     15 We add that agency action does not necessarily have binding 
+effect--that is, does not necessarily alter legal rights and obli-
+gations--merely because it is final.  Denials of petitions for rule-
+making, for instance, may be final although no private person is 
+required to do anything.  In the past, when this court examined the 
+binding effect of agency action, we did so for the purpose of 
+determining whether the non-legislative rule should have undergone 
+notice and comment rulemaking because it was, in effect, a regula-
+tion.  See, e.g., Florida Power & Light Co. v. EPA, 145 F.3d 1414, 
+1418-19 (D.C. Cir. 1998);  American Portland Cement Alliance v. 
+EPA, 101 F.3d 772, 776 (D.C. Cir. 1996);  Kennecott Utah Copper 
+Corp. v. Dep't of Interior, 88 F.3d 1191, 1207 (D.C. Cir. 1996);  
+National Solid Waste Mgmt. Ass'n v. EPA, 869 F.2d 1526, 1534 
+(D.C. Cir. 1989).
+
+     16 In the title to the Guidance we have before us, EPA dropped 
+the word "final."
+
+dards EPA has promulgated to determine if the standards 
+provide enough monitoring, the Guidance is unequivocal--the 
+State agencies must do so.  See Guidance at 6-8.  On the 
+question whether the States may supersede federal and State 
+standards and insert additional monitoring requirements as 
+terms or conditions of a permit, the Guidance is certain--the 
+State agencies must do so if they believe existing require-
+ments are inadequate, as measured by EPA's multi-factor, 
+case-by-case analysis set forth in the Guidance.  See Guid-
+ance at 7-8.
+
+     EPA may think that because the Guidance, in all its 
+particulars, is subject to change, it is not binding and there-
+fore not final action.  There are suggestions in its brief to this 
+effect.  See, e.g., Brief of Respondent at 3, 33 n.30.  But all 
+laws are subject to change.  Even that most enduring of 
+documents, the Constitution of the United States, may be 
+amended from time to time.  The fact that a law may be 
+altered in the future has nothing to do with whether it is 
+subject to judicial review at the moment.  See McLouth Steel 
+Prods. Corp. v. EPA, 838 F.2d at 1320.
+
+     On the issue whether the challenged portion of the Guid-
+ance has legal consequences, EPA points to the concluding 
+paragraph of the document, which contains a disclaimer:  
+"The policies set forth in this paper are intended solely as 
+guidance, do not represent final Agency action, and cannot be 
+relied upon to create any rights enforceable by any party."  
+Guidance at 19.  This language is boilerplate;  since 1991 
+EPA has been placing it at the end of all its guidance 
+documents.  See Robert A. Anthony, supra, 41 Duke L.J. at 
+1361;  Peter L. Strauss, Comment, The Rulemaking Contin-
+uum, 41 Duke L.J. 1463, 1485 (1992) (referring to EPA's 
+notice as "a charade, intended to keep the proceduralizing 
+courts at bay").  Insofar as the "policies" mentioned in the 
+disclaimer consist of requiring State permitting authorities to 
+search for deficiencies in existing monitoring regulations and 
+replace them through terms and conditions of a permit, 
+"rights" may not be created but "obligations" certainly are--
+obligations on the part of the State regulators and those they 
+regulate.  At any rate, the entire Guidance, from beginning to 
+end--except the last paragraph--reads like a ukase.  It 
+
+commands, it requires, it orders, it dictates.  Through the 
+Guidance, EPA has given the States their "marching orders" 
+and EPA expects the States to fall in line, as all have done, 
+save perhaps Florida and Texas.  See Natural Resources 
+Defense Council, Inc. v. Thomas, 845 F.2d 1088, 1094 (D.C. 
+Cir. 1988);  Community Nutrition Inst. v. Young, 818 F.2d 
+943, 947-48 (D.C. Cir. 1987).
+     Petitioners tell us, and EPA does not dispute, that many of 
+them are negotiating their Title V permits, that State authori-
+ties, with EPA's Guidance in hand, are insisting on continuous 
+opacity monitors17 for determining compliance with opacity 
+limitations although the applicable "standard specifies EPA 
+Method 9 (a visual observation method) as the compliance 
+method (and, in some cases, already provides for periodic 
+performance of that method)."  Brief of Petitioners at 43-44. 
+See Natural Resources Defense Council, Inc. v. EPA, 22 F.3d 
+1125, 1133 (D.C. Cir. 1994).
+
+     The short of the matter is that the Guidance, insofar as 
+relevant here, is final agency action, reflecting a settled 
+agency position which has legal consequences both for State 
+agencies administering their permit programs and for compa-
+nies like those represented by petitioners who must obtain 
+Title V permits in order to continue operating.18
+__________
+     17 A continuous opacity monitor employs "a calibrated light source 
+that provides for accurate and precise measurement of opacity at all 
+times."  See Credible Evidence Revisions, 62 Fed. Reg. 8319 (1997).  
+In contrast, "Method 9 requires that a trained visible emissions 
+observer (VEO) view a smoke plume with the sun at a certain angle 
+to the plume" to determine the opacity of the plume released.  Id.
+
+     18 EPA also claims that the Guidance is not ripe for review 
+because the court's review would be more focused in the context of 
+a challenge to a particular permit.  We think there is nothing to 
+this.  Whether EPA properly instructed State authorities to con-
+duct sufficiency reviews of existing State and federal standards and 
+to make those standards more stringent if not enough monitoring 
+was provided will not turn on the specifics of any particular permit.  
+Furthermore, EPA's action is national in scope and Congress 
+clearly intended this court to determine the validity of such EPA 
+actions.  See 42 U.S.C. s 7607.  A challenge to an individual permit 
+would not be heard in this court.  (Petitioners contend that only 
+state courts could adjudicate such cases.  We express no view about 
+that.)
+
+                                B.
+
+     As to the validity of the Guidance, petitioners' arguments 
+unfold in the following sequence.  First, they contend that the 
+Guidance amended the "periodic monitoring rule" of 
+s 70.6(a)(3)(i)(B).  Although the rule only allowed State au-
+thorities to fill in gaps, that is, to require periodic monitoring 
+when the applicable State emission standard contained no 
+monitoring requirement, a one-time startup test, or provided 
+no frequency for monitoring, the Guidance applies across the 
+board, charging State authorities with the duty of assessing 
+the sufficiency of all State and federal standards.19  With the 
+Guidance in place, regional EPA offices have solid legal 
+grounds for objecting to State-issued permits if the State 
+authorities refuse to bend to EPA's will. Therefore, as peti-
+tioners see it, the Guidance is far more than a mere interpre-
+tation of the periodic monitoring rule and it is far more than 
+merely a policy statement.  In practical effect, it creates a 
+new regime, a new legal system governing permits, and as 
+such it should have been, but was not, promulgated in compli-
+ance with notice and comment rulemaking procedures.  Peti-
+tioners say that if they are wrong about this, if the Guidance 
+represents a valid interpretation of the periodic monitoring 
+rule in s 70.6(a)(3)(i)(B), then the rule itself is invalid.  Con-
+gress did not authorize EPA to require States, in issuing Title 
+V permits, to make revisions to monitoring requirements in 
+existing federal emission standards.
+
+     The case is presented to us in pure abstraction.  Neither 
+side cites any specific federal or State emission standard.  
+Although petitioners complain that State officials will revise 
+federal standards promulgated before November 1990, peti-
+tioners' briefs identify no specific federal standard potentially 
+subject to revision.  Which, if any, federal standards are 
+susceptible to State revision in a permit for lack of periodic 
+monitoring is thus something about which we can only guess. 
+The same is true regarding State emission standards.
+
+__________
+     19 Petitioners also claim that the Guidance revised EPA's "Com-
+pliance Assurance Monitoring" rule, sustained in Natural Resources 
+Defense Council, Inc. v. EPA, 194 F.3d 130 (D.C. Cir. 1999), an 
+argument we find unnecessary to consider.
+
+     Perhaps petitioners should not be faulted.  They disagree 
+with EPA's general principle, with the agency's position that 
+it can give State permit officials the authority to substitute 
+new monitoring requirements in place of existing State or 
+federal emission standards already containing some sort of 
+monitoring requirements.  The validity of that general princi-
+ple does not turn on the specifics of any particular emission 
+standard, although its application does.  Besides, EPA is 
+currently developing even more detail in far more extensive 
+"guidance" using concrete examples of what would, and would 
+not, constitute "periodic monitoring" in EPA's opinion.  See 
+Draft--Periodic Monitoring Technical Reference Document 
+(Apr. 30, 1999).
+
+     It is well-established that an agency may not escape the 
+notice and comment requirements (here, of 42 U.S.C. s 7607 
+(d)) by labeling a major substantive legal addition to a rule a 
+mere interpretation.  See Paralyzed Veterans v. D.C. Arena 
+L.P., 117 F.3d 579, 588 (D.C. Cir. 1997);  American Mining 
+Congress v. MSHA, 995 F.2d 1106, 1109-10 (D.C. Cir. 1993).  
+"We must still look to whether the interpretation itself carries 
+the force and effect of law, ... or rather whether it spells out 
+a duty fairly encompassed within the regulation that the 
+interpretation purports to construe."  (citations and internal 
+quotations omitted).  See Paralyzed Veterans, 117 F.3d at 
+588.  With that in mind, we will deal first with petitioners' 
+claim that the Guidance significantly expanded the scope of 
+the periodic monitoring rule.  Section 70.6(a)(3)(i)(B) tells us 
+that "periodic monitoring" must be made part of the permit 
+when the applicable State or federal standard does not pro-
+vide for "periodic testing or instrumental or noninstrumental 
+monitoring."20  If "periodic" has its usual meaning,21 this 
+
+__________
+     20 EPA identified the source of its authority for s 70.6(a)(3) as 42 
+U.S.C. s 7661c(b).  This provides that EPA "may by rule" set forth 
+methods and procedures "for monitoring and analysis of pollutants 
+regulated under this chapter, but continuous emissions monitoring 
+need not be required if alternative methods are available that 
+provide sufficiently reliable and timely information for determining 
+compliance."
+
+     21 Although EPA defined many terms in its regulations governing 
+permits, 40 C.F.R. s 70.2, it provided no definition of "periodic" or 
+of "monitoring."
+
+signifies that any State or federal standard requiring testing 
+from time to time--that is yearly, monthly, weekly, daily, 
+hourly--would be satisfactory.  The supplementing authority 
+in s 70.6(a)(3)(i)(B) therefore would not be triggered;  in-
+stead, the emission standard would simply be incorporated in 
+the permit, as EPA acknowledged in the rule's preamble, see 
+supra note 8.  On the other hand, if the State or federal 
+standard contained merely a one-time startup test, specified 
+no frequency for monitoring or provided no compliance meth-
+od at all, s 70.6(a)(3)(i)(B) would require the State authorities 
+to specify that some testing be performed at regular intervals 
+to give assurance that the company is complying with emis-
+sion limitations.
+
+     So far, our parsing of the language of s 70.6(a)(3)(i)(B) 
+corresponds with petitioners' view that the rule serves only a 
+gap-filling function.  If this is what the rule means, there is 
+no doubt that it is much narrower than the Guidance issued in 
+1998.  There, EPA officials stated that regardless whether an 
+emission standard contained a "periodic testing" or monitor-
+ing requirement, additional monitoring "may be necessary" if 
+the monitoring in the standard "does not provide the neces-
+sary assurance of compliance."22  E.g., Guidance at 7-8.  Pe-
+titioners describe that aspect of the Guidance this way:  "The 
+Guidance unequivocally directs state permitting authorities, 
+as a minimum element of continued EPA program approval, 
+to conduct wide-ranging sufficiency reviews and upgrade 
+monitoring in nearly all individual permits or permit applica-
+tions, even where the underlying applicable requirement in-
+corporates 'periodic testing or instrumental or noninstrumen-
+
+__________
+     22 By measuring the adequacy of monitoring in this manner, 
+EPA's position introduces circularity.  The Guidance instructs per-
+mitting authorities that monitoring is sufficient if it provides "a 
+reasonable assurance of compliance with requirements applicable to 
+the source."  Guidance at 7.  But some of the applicable require-
+ments are themselves methods for testing a source's compliance 
+with other standards.  For instance, in the case of a requirement to 
+conduct an annual stack test, EPA's methodology suggests that 
+performance of the one-time test would be sufficient as it provides 
+"a reasonable assurance of compliance" with the applicable require-
+ment.  The problem is this gives permitting authorities no assis-
+tance in evaluating the proper frequency of such tests.
+
+tal monitoring' in facial compliance with s 70.6(a)(3)(i)(B)." 
+Reply Brief of Petitioners at 13.
+
+     EPA's view of the scope of the Guidance is about the same 
+as petitioners'.  But the agency thinks statements in the 
+preamble to its 1992 rule and its responses to comments in 
+the final rulemaking alerted interested onlookers to its cur-
+rent position and show that the Guidance issued in 1998 is no 
+broader than the rule itself.  EPA's strongest point is the 
+following statement made in 1992:  "To the extent commenta-
+tors assert that Title V does not authorize EPA to require 
+monitoring beyond that provided for in the applicable require-
+ment, EPA disagrees with the commenters." EPA Response 
+to Comments (hereinafter "RTC") at 6-3.  On the face of it, 
+this assertion of statutory authority may have reflected 
+EPA's claim--which no one now disputes--that if an "applica-
+ble requirement" contained a one-time stack test, the federal 
+agency could insist that the State authority insert in the 
+permit a requirement that the test be performed at regular 
+intervals.  If that is all the EPA statement signified, it would 
+be entirely consistent with petitioners' interpretation of the 
+final rule.23
+
+     In its response to comments and in the preamble to the 
+Title V regulations, EPA promised that if there is "any 
+federally promulgated requirement with insufficient monitor-
+ing, EPA will issue a rulemaking to revise such requirement." 
+57 Fed. Reg. 32,278 (1992);  RTC at 6-4.24 The Guidance, of 
+course, charts a very different course.  Now, it is initially up 
+to the States to identify federal standards with deficient 
+__________
+     23 According to EPA's response to comments:
+
+     Examples of situations where Section 70.6(a)(3)(i)(B) would 
+     apply include a SIP provision which contains a reference test 
+     method but no testing obligation, or a NSPS which requires 
+     only a one time stack test on startup.  Any Federal standards 
+     promulgated pursuant to the Act amendments of 1990 are 
+     presumed to contain sufficient monitoring and, therefore, only 
+     Section 70.6(a)(3)(i)(A) applies.
+RTC at 6-4.
+     24 Later in its response to comments, EPA repeated this promise: 
+"... EPA will revise federal regulations that need additional speci-
+fication of test methods, including specification of frequency and 
+degree of testing."  RTC at 6-5.
+
+monitoring, doubtless with EPA's input, formal or informal.  
+And it is the State and local agencies that must alter the 
+standards by requiring permittees--such as petitioners--to 
+comply with more stringent monitoring requirements.  Need-
+less to say, EPA's approach--delegating to State officials the 
+authority to alter duly promulgated federal standards--raises 
+serious issues, not the least of which is whether EPA possess-
+es the authority it now purports to delegate.  One would 
+suppose, and EPA did in 1992, that if federal regulations 
+proved inadequate for one reason or another, EPA would 
+have to conduct a rulemaking to amend them. See Clean Air 
+Implementation Project v. EPA, 150 F.3d 1200, 1203-04 (D.C. 
+Cir. 1998).
+
+     EPA thinks two other statements in its response to com-
+ments alerted everyone that its new rule would set in motion 
+an across-the-board review of the existing monitoring require-
+ments contained in federal and State emission standards.  
+The first of these statements is:  "In many cases, the monitor-
+ing requirements in the underlying regulation will suffice for 
+assessing compliance."  RTC at 6-3.  EPA treats the "in 
+many cases" as a qualification.  What does this tell the 
+careful reader?  Only that sometimes the State or federal 
+emission standard will need to be supplemented.  But the 
+critical question is when--when the monitoring in the stan-
+dard consists only of a one-time test?  or when the yearly or 
+monthly or weekly or daily testing specified in the standard is 
+not enough, as determined by State authorities or EPA 
+during the permit process?
+
+     The second statement is this:
+
+     The EPA reiterates that permits must be enforceable, 
+     and must include periodic monitoring, which might in-
+     volve the use of, or be based on, appropriate reference 
+     test methods....  Where EPA has not provided ade-
+     quate guidance in regard to source testing or monitoring, 
+     permitting authorities are allowed to establish additional 
+     requirements, including requirements concerning the de-
+     gree and frequency of source testing on a case-by-case 
+     basis, as necessary to assure compliance with Part 70 
+     [Title V] permit terms or conditions.  However, in no 
+     
+     case may such frequency be less stringent than any 
+     frequency required by an underlying applicable require-
+     ment.
+     
+Id. at 6-5.  If "periodic monitoring" means testing from time 
+to time, the first sentence in this passage hardly advances 
+EPA's current position.  And the second sentence seems set 
+against it.  Only when "EPA has not provided adequate 
+guidance in regard to source testing or monitoring," may 
+State authorities provide additional monitoring.  So what is 
+"adequate guidance"?  Once again the only concrete example 
+EPA gave in 1992 was a one-time stack test, which rather 
+makes petitioners' point.
+
+     The short of the matter is that the regulatory history EPA 
+offers fails to demonstrate that s 70.6(a)(3)(i)(B) initially had 
+the broad scope the Guidance now ascribes to it.  Nothing on 
+the face of the regulation or in EPA's commentary at the time 
+said anything about giving State authorities a roving commis-
+sion to pore over existing State and federal standards, to 
+decide which are deficient, and to use the permit system to 
+amend, supplement, alter or expand the extent and frequency 
+of testing already provided.  In fact, EPA's promise in the 
+1992 rulemaking--that if federal standards were found to be 
+inadequate in terms of monitoring it would open rulemaking 
+proceedings--is flatly against EPA's current position.  (EPA 
+makes no attempt to square this promise with the argument 
+it makes today.)
+
+     Furthermore, we attach significance to EPA's recognition, 
+in its 1992 permit regulations, that "Title V does not impose 
+substantive new requirements," 40 C.F.R. s 70.1(b).  Test 
+methods and the frequency of testing for compliance with 
+emission limitations are surely "substantive" requirements;  
+they impose duties and obligations on those who are regulat-
+ed.  Federal testing requirements contained in emissions 
+standards are promulgated after notice and comment rule-
+making.  Testing requirements in emission standards in State 
+standards are presumably adopted by the State's legislature 
+or administrative agency, and approved by EPA as part of 
+the State's implementation plan. We have recognized before 
+that changing the method of measuring compliance with an 
+emission limitation can affect the stringency of the limitation 
+
+itself.  Portland Cement Ass'n v. Ruckelshaus, 486 F.2d 375, 
+396-97 (D.C. Cir. 1973), discussed in Clean Air Implementa-
+tion Project v. EPA, 150 F.3d at 1203.  In addition, monitor-
+ing imposes costs.  Petitioners represent that a single stack 
+test can "cost tens of thousands of dollars, and take a day or 
+more to complete," which is why "stack testing is limited to 
+once or twice a year (at most)."  Brief of Petitioners at 22 
+n.75.  If a State agency, acting under EPA's direction in the 
+Guidance, devised a permit condition increasing a company's 
+stack test obligation (as set forth in a State or federal 
+standard) from once a year to once a month, no one could 
+seriously maintain that this was something other than a 
+substantive change.25
+
+     There is still another problem with EPA's position.  Al-
+though its Guidance goes to great lengths to explain what is 
+meant by the words "periodic monitoring," it almost com-
+pletely neglects a critical first step.  On the face of 
+s 70.6(a)(3)(i)(B), "periodic monitoring" is required if and only 
+if "the applicable requirement does not require periodic test-
+ing or instrumental or noninstrumental monitoring (which 
+may consist of record-keeping designed to serve as monitor-
+ing)."  While the Guidance is quick to say that all Title V 
+permits must contain "periodic monitoring," it never explains 
+what constitutes "periodic testing" or what constitutes "in-
+strumental or noninstrumental monitoring."  Instead, 
+throughout the Guidance, EPA either yokes these three items 
+together, or treats the terms as synonymous, without saying 
+why.  Yet if "periodic testing" and "instrumental or nonin-
+strumental monitoring" mean the same thing as "periodic 
+monitoring," there is no accounting for why s 70.6(a)(3)(i)(B) 
+was written as it was.  The regulation could simply have said 
+"periodic monitoring" is required for all permits, period.26
+
+__________
+     25 The Guidance, at p. 8, provides a six-point bullet point list for 
+permit-writers, making clear that EPA expects them to engage in 
+an intricate regulatory trade off (often on a unit-by-unit basis), 
+assessing the costs and benefits of available technologies for the 
+particular pollutant.  This six-part list has mutated into a complex 
+flow chart in the Draft Periodic Monitoring Technical Reference 
+Document, and is reprinted as an Addendum to this opinion.
+
+     26 EPA argues that our opinion in Natural Resources Defense 
+Council, Inc. v. EPA, 194 F.3d 130, 135-36 (D.C. Cir. 1999), reflects 
+
+     In sum, we are convinced that elements of the Guidance--
+those elements petitioners challenge--significantly broadened 
+the 1992 rule.  The more expansive reading of the rule, 
+unveiled in the Guidance, cannot stand.  In directing State 
+permitting authorities to conduct wide-ranging sufficiency 
+reviews and to enhance the monitoring required in individual 
+permits beyond that contained in State or federal emission 
+standards even when those standards demand some sort of 
+periodic testing, EPA has in effect amended s 70.6(a)(3)(i)(B).  
+This it cannot legally do without complying with the rulemak-
+ing procedures required by 42 U.S.C. s 7607(d).27  See Alas-
+
+__________
+an understanding of s 70.6(a)(3) "nearly identical" to that contained 
+in the Guidance.  Supplemental Brief of Respondent at 4.  The 
+opinion stated:
+
+     [T]he 1990 Clean Air Act Amendments did not mandate that 
+     EPA fit all enhanced monitoring under one rule and EPA has 
+     reasonably illustrated how its enhanced monitoring program, 
+     when considered in its entirety, complies with s 114(a)(3).  
+     Specifically, EPA demonstrated that many of the major station-
+     ary sources exempt from CAM are subject to other specific 
+     rules, and if they are not, they are subject to the two residual 
+     rules:  (1) "[The permit shall contain] periodic monitoring suffi-
+     cient to yield reliable data ... that are representative of the 
+     source's compliance with the permit...."  40 C.F.R. 
+     s 70.6(a)(3)(i)(B);  (2) "All part 70 permits shall contain the 
+     following elements with respect to compliance:  (1) Consistent 
+     with paragraph (a)(3) of this section, compliance certification, 
+     testing, [and] monitoring ... requirements sufficient to assure 
+     compliance with the terms and conditions of the permit."  Id. 
+     s 70.6(c)(1).
+     
+Id.  The bracketed portion of the quotation reads out of subsection 
+(B) the conditions that "periodic monitoring" is required only when 
+"the applicable requirement does not require periodic testing or 
+instrumental or noninstrumental monitoring (which may consist of 
+record-keeping designed to serve as monitoring)."  When that 
+clause is reinserted, it becomes clear that the quotation does not 
+speak to the situation of permits which already provide for periodic 
+testing, addressed in 40 C.F.R. s 70.6(a)(3)(i)(A).
+
+     27 Unless EPA certifies that the amendments to the Title V rule 
+would not "have a significant economic impact on a substantial 
+
+ka Professional Hunters Ass'n v. FAA, 177 F.3d 1030, 1034 
+(D.C. Cir. 1999);  Caruso v. Blockbuster-Sony Music Enter-
+tainment Centre, 174 F.3d 166, 176-78 (3d Cir. 1999);  Para-
+lyzed Veterans, 117 F.3d at 585-86.
+
+     For the reasons stated, we find setting aside EPA's Guid-
+ance to be the appropriate remedy.  Though petitioners 
+challenge only portions of the Guidance, partial affirmance is 
+not an option when, as here,"there is 'substantial doubt' that 
+the agency would have adopted the severed portion on its 
+own."  Davis County Solid Waste Management v. EPA, 108 
+F.3d 1454, 1458 (D.C. Cir. 1997) (quoting North Carolina v. 
+FERC, 730 F.2d 790, 795-96 (D.C. Cir. 1984)).  In view of the 
+intertwined nature of the challenged and unchallenged por-
+tions of the Guidance, the Guidance must be set aside in its 
+entirety.  See 42 U.S.C. s 7607.  State permitting authorities 
+therefore may not, on the basis of EPA's Guidance or 40 
+C.F.R. s 70.6(a)(3)(i)(B), require in permits that the regulated 
+source conduct more frequent monitoring of its emissions 
+than that provided in the applicable State or federal standard, 
+unless that standard requires no periodic testing, specifies no 
+frequency, or requires only a one-time test.
+
+                                                      So ordered.
+
+                                 
+__________
+number of small entities," 5 U.S.C. s 605(b), it must also comply 
+with the various procedural requirements of the Small Business 
+Regulatory Enforcement Fairness Act, 5 U.S.C. ss 601-612.
+
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+                    [Addendum not available electronically]

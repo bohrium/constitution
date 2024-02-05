@@ -1,0 +1,538 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued May 7, 2001       Decided July 6, 2001 
+
+                           No. 00-1203
+
+               Public Utilities Commission of the 
+                      State of California, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+            Pacific Gas and Electric Company, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Sean H. Gallagher argued the cause for petitioner.  With 
+him on the briefs was Arocles Aguilar.
+
+     Lona T. Perry, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+the brief was Dennis Lane, Solicitor.
+
+     Edward Berlin, Kenneth G. Jaffe, Robert V. Zener, Mi-
+chael E. Ward, Robert C. McDiarmid, Lida G. Dowden and 
+Andrea G. Lonian were on the brief for intervenors Northern 
+California Power Agency and California Independent System 
+Operator Corporation.  Daniel I. Davidson entered an ap-
+pearance.
+
+     Before:  Williams, Ginsburg and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  The Public Utilities Commission of 
+the State of California ("CALPUC") seeks review of orders 
+by the Federal Energy Regulatory Commission allowing the 
+California Independent System Operator ("ISO") to enter 
+into "Reliability Must-Run" ("RMR") contracts with genera-
+tors owned by entities not subject to the Commission's rate 
+jurisdiction, and to pass through the costs of such contracts in 
+the ISO's rates without filing under s 205 of the Federal 
+Power Act ("FPA").  See 16 U.S.C. s 824d (1994).  Because 
+it considered the ISO's tariff to be satisfactory as a formula 
+rate, the Commission rejected the argument that a s 205 
+filing was required.  CALPUC contends that the ISO tariff 
+does not meet the Commission's standards for formula rates, 
+and alternatively, that even if it is a valid formula rate, s 205 
+requires re-filing when the formula is changed, which 
+CALPUC maintains occurs when the ISO adds a new compo-
+nent by entering a new RMR contract.  Additionally, 
+CALPUC maintains that the Commission's reliance on s 206 
+of the FPA, 16 U.S.C. s 824e (1994), is misplaced because the 
+availability of review under s 206 does not abrogate the 
+s 205 filing requirement.  We hold that the Commission 
+could properly determine that although the RMR contracts 
+are components of the formula rate or affect the ultimate 
+rates charged pursuant to the formula, s 205 filing was not 
+required and s 206 affords an adequate statutory remedy.  
+Accordingly, we deny the petition.
+
+                                I.
+
+     The State of California has restructured its electric supply 
+operations, as implemented in large part by Commission 
+decisions, so that the ISO now operates portions of the 
+transmission systems of three California investor-owned utili-
+ties, referred to as Responsible Utilities:  Pacific Gas & 
+Electric Company, Southern California Edison Company 
+("SoCal Edison"), and San Diego Gas & Electric Company.  
+See Pac. Gas & Elec. Co., 91 F.E.R.C. p 63,008, at 65,102 
+(2000) ("Southern").  In providing transmission services, the 
+ISO is required to maintain transmission system reliability.  
+See Pac. Gas & Elec. Co., 81 F.E.R.C. p 61,322, at 62,486 
+(1997).  The ISO accomplishes this in part by use of RMR 
+contracts to ensure ancillary services, voltage support, and 
+energy to support the reliability of the ISO-controlled grid.1  
+See Southern, 91 F.E.R.C. at 65,103.  Under the RMR struc-
+ture approved by the Commission, see Cal. Indep. Sys. Oper-
+ator Corp., 87 F.E.R.C. p 61,229 (1999);  Cal. Indep. Sys. 
+Operator Corp., 87 F.E.R.C. p 61,250 (1999);  see generally 
+Pac. Gas & Elec. Co., 81 F.E.R.C. p 61,122, at 61,554-58 
+
+__________
+     1  The Commission has explained:
+
+     Under the RMR contracts, the ISO pays the RMR unit a 
+     portion of its fixed costs to stand ready to deliver an hourly 
+     minimum energy requirement set by the ISO (annual availabili-
+     ty payment).  When generating to ensure reliability, the con-
+     tracts also allow the RMR unit to receive for the energy it 
+     produces either the variable cost payment included in the 
+     contract or market prices.
+     
+Cal. Indep. Sys. Operator Corp., 90 F.E.R.C. p 61,345, at 62,135 
+(2000).  Before the Commission, the Northern California Power 
+Agency ("NCPA") stated that the ISO is unable to rely on the 
+market to ensure that RMR units are on line when needed, because 
+the ISO market is
+
+     [a] market burdened by price caps and restrictions ... 
+     mak[ing] it particularly difficult to count on the dispatch of 
+     RMR units, because units that are needed for only a few hours 
+     a year must command very high prices if they are to recover 
+     their costs.  Price caps prevent this, making RMR contracts a 
+     necessity.
+     
+(1997), the cost responsibility for the RMR contracts is re-
+flected in s 5.2.8 of the ISO tariff.2  Pursuant to its tariff, the 
+ISO passes through to the Responsible Utilities the costs of 
+RMR contracts in each utility's service area.  See supra n.2;  
+see also Southern, 91 F.E.R.C. at 65,102-03.  CALPUC's 
+concern arises because the costs are then passed along by the 
+utilities to California retail ratepayers.
+
+     Insofar as CALPUC is concerned, the problem arose after 
+the Commission approved Amendment 22 to the ISO tariff.  
+The ISO requested the amendment, in September 1999, in 
+order to enhance its ability to support reliability of the ISO-
+controlled grid.  Relevant here is the provision allowing the 
+
+__________
+     2  Section 5.2.8 of the ISO tariff provides in relevant part:
+
+     [T]he costs incurred by the ISO under each [RMR] Contract 
+     shall be payable to the ISO by the Responsible Utility in whose 
+     Service Area the [RMR] Generating Units covered by such 
+     [RMR] Contract are located, or, where a [RMR] Generating 
+     Unit is located outside the Service Area of any Responsible 
+     Utility, by the Responsible Utility or Responsible Utilities 
+     whose Service Area are contiguous to the Service Area in 
+     which the Generating Unit is located, in proportion to the 
+     benefits that each such Responsible Utility receives, as deter-
+     mined by the ISO.  Where costs incurred by the ISO under a 
+     [RMR] Contract are allocated among two or more Responsible 
+     Utilities pursuant to this section, the ISO will file the allocation 
+     under Section 205 of the [FPA].
+     
+California ISO Conformed Tariff as of 12-Jan-2001 Through 
+Amendment 36, Tariff Sheet Nos. 140-232, s 5.2.8 at 40, 
+http://www.caiso.com/pubinfo/tariffs (effective Oct. 13, 2000) (incor-
+porating language of Amendment 22).  Amendment 22 added lan-
+guage addressing RMR generating units outside of a Responsible 
+Utility's service area.  Compare id. with California ISO Conformed 
+Copy Through Amendment 20, Tariff Sheet Nos. 121-189, s 5.2.8 at 
+32, http://www.caiso.com/pubinfo/tariffs/conformed/19991013.html 
+(issued April 7, 1999).  The cost responsibility for RMR contracts is 
+also reflected in the tariff's definition of "Responsible Utility."  
+California ISO Conformed Tariff as of 12-Jan-2001 Through 
+Amendment 36, Tariff Sheet Nos. 300-387A, Appendix A at 50, 
+http://www.caiso.com/pubinfo/tariffs (effective Oct. 13, 2000).
+
+ISO to enter into RMR contracts with generating units that 
+are outside the service area of any Responsible Utility and 
+that make no jurisdictional sales of power.  See FPA s 201.  
+The Commission conditionally approved Amendment 22 on 
+November 24, 1999.  Cal. Indep. Sys. Operator Corp., 89 
+F.E.R.C. p 61,229, at 61,680 (1999).  The Commission declined 
+to require that the ISO make a s 205 filing every time it 
+seeks to pass through RMR contract costs involving a non-
+jurisdictional entity.  See id. at 61,683-84.  Responding to 
+concerns expressed by CALPUC and SoCal Edison, the 
+Commission noted, however, that the ISO's proposal did not 
+explain how the ISO would allocate RMR costs between 
+Responsible Utilities if more than one was contiguous with an 
+RMR unit.  Id. at 61,684.  The Commission stated:  "As the 
+ISO is, in effect, proposing a formula rate, this lack of 
+specificity is unacceptable."  Id.  The Commission therefore 
+required the ISO to make a separate filing under s 205 
+whenever it sought to allocate RMR costs where more than 
+one Responsible Utility was contiguous to an RMR unit, and 
+to revise its tariff accordingly.  Id.
+
+     CALPUC (and others) sought rehearing regarding, as rele-
+vant here, the necessity of s 205 filings for RMR contracts 
+with non-jurisdictional entities.  CALPUC asserted that "[i]n 
+the absence of such a requirement California ratepayers will 
+be subject to paying RMR contract costs which have been 
+negotiated by the ISO without any public, consumer, or 
+ratepayer input, and with no regulatory review."  CALPUC 
+argued that the charging of RMR costs to a Responsible 
+Utility by the ISO was a jurisdictional sale under s 205 and, 
+therefore, the Commission was obligated to ensure that such 
+charges were just and reasonable.  The Commission denied 
+rehearing, responding:
+
+     The recovery of RMR costs under the ISO's tariff is 
+     through a formula rate.  The ISO purchases RMR ser-
+     vices under the contracts and passes through the costs to 
+     Responsible Utilities under the formula rate.  The filed 
+     rate in this circumstance is the formula.  SoCal Edison, 
+     [CALPUC], and others may challenge the costs recov-
+     
+     ered under this formula by filing a complaint under FPA 
+     Section 206, and such challenges to costs recovered un-
+     der a formula rate are not limited to prospective relief.  
+     Accordingly, we see no purpose to also requiring the 
+     filing under FPA Section 205 of each contract the ISO 
+     enters into with a non-jurisdictional entity.
+     
+Cal. Indep. Sys. Operator Corp., 90 F.E.R.C. p 61,315, at 
+62,042 (2000) (footnote omitted).
+
+                               II.
+
+     On appeal, CALPUC contends that the Commission has 
+violated both the FPA and its obligation to engage in rea-
+soned decisionmaking.  Essentially, CALPUC maintains that 
+s 205 filing of the non-jurisdictional RMR contracts is re-
+quired because RMR contract costs significantly affect the 
+ISO's s 5.2.8 RMR rate, and thus must be filed under FPA 
+ss 205(c) and (d).  The court reviews the Commission's or-
+ders under the Administrative Procedure Act's arbitrary and 
+capricious standard.  See Sithe/Independence Power Part-
+ners, L.P. v. FERC, 165 F.3d 944, 948 (D.C. Cir. 1999);  5 
+U.S.C. s 706(2)(A) (1994).  "Because '[i]ssues of rate design 
+are fairly technical and, insofar as they are not technical, 
+involve policy judgments that lie at the core of the regulatory 
+mission,' our review of whether a particular rate design is 
+'just and reasonable' is highly deferential."  Id. (quoting 
+Town of Norwood v. FERC, 962 F.2d 20, 22 (D.C. Cir. 1992)).  
+Thus, for CALPUC to prevail, the court must be able to 
+conclude that the Commission was required to review the 
+RMR contracts with non-jurisdictional entities pursuant to 
+s 205 before allowing the pass through of RMR costs and 
+could not rely on possible investigation, review, and refund 
+proceedings under s 206.  Cf. La. Pub. Serv. Comm'n v. 
+FERC, 174 F.3d 218, 231 (D.C. Cir. 1999).
+
+     It can hardly be doubted at this late date that the Commis-
+sion "need not confine rates to specific, absolute numbers but 
+may approve a tariff containing a rate 'formula' or a rate 
+'rule'...."  Transwestern Pipeline Co. v. FERC, 897 F.2d 
+570, 578 (D.C. Cir. 1990).  The Commission has been accept-
+
+ing formula rates since the early 1970s.  See Me. Yankee 
+Atomic Power Co., 42 F.E.R.C. p 61,307, at 61,923 (1988).  As 
+defined by the Commission, a formula rate specifies the cost 
+components that form the basis of the rates a utility charges 
+its customers.  Hampshire Gas Co., 6 F.E.R.C. p 61,249, at 
+61,607 (1979).  The Commission's acceptance of formula rates 
+is premised on the rate design's "fixed, predictable nature," 
+Ocean State Power II, 69 F.E.R.C. p 61,146, at 61,552 (1994), 
+which both allows a utility to recover costs that may fluctuate 
+over time and prevents a utility from utilizing excessive 
+discretion in determining the ultimate amounts charged to 
+customers.  See id.  Thus, " '[w]hen the Commission accepts 
+a formula rate as a filed rate, it grants waiver of the filing 
+and notice requirements of [s 205] [, and] [t]he utility's rates, 
+then, can change repeatedly, without notice to the Commis-
+sion, provided those changes are consistent with the formu-
+la.' "  Ala. Power Co. v. FERC, 993 F.2d 1557, 1567-68 (D.C. 
+Cir. 1993) (quoting San Diego Gas & Elec. Co., 46 F.E.R.C. 
+p 61,363, at 62,129-30 (1989)).  As further explained, because 
+"the formula itself is the rate, not the particular components 
+of the formula, ... periodic adjustments made in accordance 
+with the Commission-approved formula do not constitute 
+changes in the rate itself and accordingly do not require [s] 
+205 filings."  Ocean State Power II, 69 F.E.R.C. at 61,544-45 
+(footnote omitted).3
+
+__________
+     3  Contrary to the positions taken by SoCal Edison and NCPA, 
+CALPUC argued before the Commission that the filed rate doctrine 
+did not apply to RMR costs arising from contracts with non-
+jurisdictional entities which had not been reviewed by the Commis-
+sion pursuant to s 205.  Consequently, CALPUC cannot now chal-
+lenge s 5.2.8's pass through of such costs on the ground that it 
+violates the filed rate doctrine.  See, e.g., Platte River Whooping 
+Crane Critical Habitat Maint. Trust v. FERC, 962 F.2d 27, 34-35 
+(D.C. Cir. 1992);  see also 16 U.S.C. s 825l(b) (1994).  In any event, 
+the court has rejected the notion that charges assessed pursuant to 
+a formula rate violate the filed rate doctrine;  rather, the formula 
+itself is the filed rate that provides sufficient notice to ratepayers 
+for purposes of the doctrine.  See Transwestern, 897 F.2d at 577-
+78.
+
+     The Commission has required s 205 filings, as CALPUC 
+points out, for matters that are central to the determination 
+of a level of payments that affect the rate charged for 
+jurisdictional service.  See, e.g., Cent. & S.W. Servs., Inc., 48 
+F.E.R.C. p 61,197, at 61,733-34 (1989), reh'g denied, 49 
+F.E.R.C. p 61,118 (1989) (collectively "Central");  infra n.5.  
+Yet it is the norm not dispute, not to require s 205 filing of 
+contracts that merely affect jurisdictional rates.  Most perti-
+nent here, the Commission has explained:
+
+     For example, a formula rate may have a component 
+     covering labor costs.  Obviously, if the public utility 
+     enters into a new wage agreement, this will affect the 
+     rate to be charged.  However, the wage agreement 
+     would not need to be filed with the Commission, although 
+     it might have to be produced in the course of discovery in 
+     a litigated case or in an audit.
+     
+Prior Notice and Filing Requirements Under Part II of the 
+Federal Power Act, 64 F.E.R.C. p 61,139 app. at 61,988 n.3 
+(1993) ("Prior Notice and Filing").
+
+     CALPUC acknowledges that the ISO must enter into RMR 
+contracts in order to ensure grid reliability and to carry out 
+the ISO's own jurisdictional transmission services.  It does 
+not contend that any non-jurisdictional RMR costs are unjust 
+or unreasonable, or unfairly charged to the Responsible Utili-
+ties.  Further, it makes no claim that the ISO has changed 
+the manner in which it enters into RMR contracts since the 
+Commission approved Amendment 22 or otherwise changed 
+its methodology for calculating or charging rates for the 
+RMR service it procures.  Cf. Ocean State Power II, 69 
+F.E.R.C. at 61,543.  Given the bid-based process used by the 
+ISO to identify and enter into low-bid RMR contracts, it 
+would appear to follow that the Commission could properly 
+rely on a previously approved formula rate and s 206 pro-
+ceedings to ensure just and reasonable rates.4  CALPUC has 
+
+__________
+     4  CALPUC's reliance on cases like Northern Natural Gas Co. 
+v. FERC, 929 F.2d 1261 (8th Cir. 1991), for the proposition that the 
+
+three responses:  (1) The ISO's s 5.2.8 rate cannot be justi-
+fied as a formula rate because it lacks the necessary specifici-
+ty;  (2) the Commission abused its discretion under s 205(c) 
+by failing to require s 205 filing inasmuch as the RMR 
+generating units have undisputed locational market power 
+and can and have used that market power to their advantage 
+in negotiating RMR contracts;  and (3) the availability of 
+review under s 206 does not excuse failure to require filing 
+under s 205 in the first instance.  Each response is unper-
+suasive.
+
+     First, exactly how much detail is necessary, and the nature 
+of that detail, for a particular formula rate will vary.  While 
+there is undoubtedly some irreducible minimum of detail 
+needed for a valid formula rate, cf. City of Cleveland, Ohio v. 
+FERC, 773 F.2d 1368, 1376-77 (D.C. Cir. 1985), with some 
+formulae being lengthy, see, e.g., Holyoke Water Power Co. v. 
+FERC, 799 F.2d 755, 756 (D.C. Cir. 1986), the amount of the 
+detail in a formula rate is not the dispositive consideration.  
+Cf. La. Pub. Serv. Comm'n, 174 F.3d at 230-31;  Prior Notice 
+and Filing, 64 F.E.R.C. at 61,988 n.3.  As the court observed 
+in considering a challenge to a compliance filing alleged to be 
+impermissibly vague, the court's concern is not whether the 
+challenged provisions fall short "of some absolute prescribed 
+standard literally set forth in the statute and regulations," but 
+"of the minimum specificity that the Commission could rea-
+sonably require."  City of Cleveland, 773 F.2d at 1376.  So 
+too here.
+
+     Contrary to CALPUC's contention, the fact that the ISO 
+has discretion about RMR contracting with non-jurisdictional 
+
+__________
+bundling of the rates for jurisdictional and non-jurisdictional service 
+makes the non-jurisdictional service one component of the jurisdic-
+tional rate is misplaced.  As the Commission observes in its Brief at 
+15, that case confirmed that the Commission may regulate rates 
+charged for non-jurisdictional gathering service when performed in 
+connection with jurisdictional interstate transportation service, 
+Northern Natural, 929 F.2d at 1263, not that it "must regulate all 
+non-jurisdictional services if somehow connected to a jurisdictional 
+service."
+
+entities does not make the ISO's formula rate any more of a 
+"blank check" than other formula rates allowing recovery of 
+costs incurred under contracts with non-jurisdictional enti-
+ties.5  See Prior Notice and Filing, 64 F.E.R.C. at 61,988 n.3.  
+The ISO functions within a statutory and regulatory context 
+that requires it to select RMR contracts as a result of the 
+Local Areas Reliability Service ("LARS") solicitation process, 
+which is designed to lower RMR costs by designating as 
+RMR units those generating units that can provide needed 
+RMR service at the lowest cost.  Although Amendment 22 
+changed the circumstances under which the ISO operates, its 
+purpose, as relevant here, was to enable the ISO to meet 
+reliability requirements.  Furthermore, assuming as 
+CALPUC contends, that prior to Amendment 22, s 5.2.8 was 
+originally intended only to allocate to Responsible Utilities 
+the RMR rates determined in other s 205 proceedings, the 
+Commission was not thereby precluded from treating s 5.2.8 
+as a formula rate.  CALPUC's reliance on the detailed nature 
+of fuel cost adjustment clauses, moreover, does not demon-
+strate that s 5.2.8 fails to provide purchasers with protection 
+equivalent to that which they receive pursuant to such claus-
+es.6  Insofar as s 5.2.8 does not require the ISO to notify 
+
+__________
+     5  CALPUC relies on Central.  In that case, the Commission 
+required the utility to specify its planning reserve in its operating 
+agreement because, absent such a requirement, the utility would 
+have had unfettered discretion to set the level of the reserve which, 
+in turn, affected rates ultimately charged.  See 48 F.E.R.C. at 
+61,733-34;  see also 49 F.E.R.C. p 61,118.  By contrast, the ISO 
+must pass through 100% of RMR costs under s 5.2.8, see supra n.2;  
+see also Cal. Indep. Sys. Operator Corp., 90 F.E.R.C. at 62,042, and, 
+therefore, does not possess the unbridled discretion which the 
+Commission found problematic in Central.
+
+     6  CALPUC has not suggested that fuel cost adjustment clauses, 
+as a general matter, limit the amount that a component may 
+increase, or decrease, without prior s 205 filing and review by the 
+Commission.  In Missouri Public Service Co., 48 F.E.R.C. p 61,011 
+(1989), the Commission observed:
+
+     The fuel adjustment clause is intended to keep utilities whole 
+     with respect to changes in the cost of their fuel.  It allows 
+     
+customers when a new RMR contract is added to the formula, 
+the court has rejected the view that a formula rate does not 
+provide sufficient notice of the rate to ratepayers.  See 
+Transwestern, 897 F.2d at 577-78.
+
+     For similar reasons, CALPUC's contention that each new 
+RMR contract constitutes a new, separate component of the 
+ISO's formula rate requiring a new s 205 filing has been 
+rejected by the Commission, consistent with its position that 
+"periodic adjustments [in costs] made in accordance with the 
+Commission-approved formula do not constitute changes in 
+the rate itself and accordingly do not require [additional] 
+[s] 205 filings."  Ocean State Power II, 69 F.E.R.C. at 
+61,544-45;  cf. Wisc. Pub. Serv. Corp., 69 F.E.R.C. p 61,209, at 
+61,829 (1994).  CALPUC's reliance on three recent orders of 
+the Commission shows not that the Commission acted unlaw-
+fully in the orders on review, but rather that the Commission 
+responded differently in different circumstances.7  Moreover, 
+
+__________
+     utilities to pass through to their ratepayers increases or de-
+     creases in the cost of their fuel, without having to make 
+     separate rate filings to reflect each change in fuel cost, and 
+     without having to obtain Commission review of each change in 
+     fuel cost.
+     
+Id. at 61,078 (footnote omitted);  see also Pub. Serv. Co. of N.H. v. 
+FERC, 600 F.2d 944, 952 (D.C. Cir. 1979).  The ISO's 100% pass 
+through of RMR contract costs under s 5.2.8 operates in a similar 
+fashion and serves a similar purpose.
+
+     7  See Cal. Indep. Sys. Operator Corp., 91 F.E.R.C. p 61,205, at 
+61,723-24 (2000), order accepting in part and rejecting in part 
+compliance filing, 93 F.E.R.C. p 61,104, at 61,287-89 (2000) (collec-
+tively "TAC Cases");  City of Vernon, California, 93 F.E.R.C. 
+p 61,103 (2000).  In none of these orders did the Commission 
+require contract-by-contract review of agreements between the ISO 
+and third parties, as CALPUC maintains is required here.  Rather, 
+in each order the Commission reviewed the rates of otherwise non-
+jurisdictional governmental utilities that sought to join the ISO as 
+participating transmission owners.  In the TAC Cases, the Commis-
+sion, after rejecting a proposed amendment to the ISO tariff that 
+contained no mechanism for Commission review of the rates of 
+governmental utilities to become a part of the ISO, 91 F.E.R.C. at 
+
+assuming CALPUC could show that the ISO's formula rate 
+was defective in some manner, the remedy would not neces-
+sarily be to require RMR contracts with non-jurisdictional 
+entities to be filed under s 205;  an obvious alternative would 
+be the development of a better formula, and the court would 
+leave that option to the Commission's expertise in rate de-
+sign.
+
+     Second, the Commission has long been aware of the loca-
+tional market power issues inherent in the ISO's efforts to 
+contract for RMR service.  See Pac. Gas & Elec. Co., 81 
+F.E.R.C. at 61,557.  The Commission has also been aware of 
+the need to protect against market distortions in the realm of 
+the ISO's RMR operations and resulting contracts with gen-
+erating units.  Cal. Indep. Sys. Operator Corp., 87 F.E.R.C. 
+p 61,250, at 61,968 (1999).  In conditionally approving the 
+ISO's operations in 1997, the Commission supported the 
+ISO's "least-cost" approach in selecting RMR units.  See Pac. 
+Gas & Elec. Co., 81 F.E.R.C. at 61,555, 61,557-58.  In seeking 
+approval of Amendment 22, the ISO explained to the Com-
+mission that "excluding Generating Units that were not in the 
+Service Area of any Responsible Utility from consideration in 
+the LARS process could result in higher RMR costs, and 
+would be inconsistent with one of the primary goals of the 
+LARS process--lowering RMR costs by designating as RMR 
+Units those Generating Units that can provide needed RMR 
+services at the lowest cost."  The Commission's prior en-
+dorsement of the ISO's cost-efficient approach to procuring 
+
+__________
+61,723-24, accepted a compliance filing permitting Commission re-
+view of decisions of the ISO's internal Revenue Review Panel or, 
+alternatively, allowing non-jurisdictional participating transmission 
+owners to voluntarily submit their proposed rates for Commission 
+review.  93 F.E.R.C. at 61,287-89.  Then, pursuant to the rate 
+review procedures established in the TAC Cases, the Commission 
+reviewed the City of Vernon's voluntarily submitted municipal 
+utility rate proposal.  City of Vernon, 93 F.E.R.C. at 61,285-86.  
+The Commission's decision to review the rates of non-jurisdictional 
+entities seeking to join the ISO ensures that non-jurisdictional 
+entities join the ISO on the same terms as jurisdictional utilities 
+that are participating transmission owners.  Cf. id. at 61,286.
+
+RMR service along with its orders approving various aspects 
+of the ISO's RMR operations, rebut CALPUC's suggestion 
+that the Commission has been lax in approving Amendment 
+22.
+
+     Finally, there is no basis for CALPUC's contention that the 
+Commission's reliance on s 206, Cal. Indep. Sys. Operator 
+Corp., 90 F.E.R.C. at 62,042, is misplaced.  In approving 
+formula rates, the Commission has relied on s 206 as a 
+mechanism to ensure that the rates are just and reasonable, 
+see, e.g., Wisc. Pub. Serv. Corp., 69 F.E.R.C. at 61,829 n.15;  
+Yankee Atomic Elec. Co., 60 F.E.R.C. p 61,316, at 62,096 
+(1992), and its reliance on s 206 has survived judicial scruti-
+ny.  See La. Pub. Serv. Comm'n v. FERC, 688 F.2d 357, 361 
+(5th Cir. 1982);  cf. La. Pub. Serv. Comm'n, 174 F.2d at 230-
+31.  In suggesting that the ISO has expressed the view that 
+s 206 review would be limited to challenging the allocation of 
+RMR costs, CALPUC takes the ISO's statement out of 
+context.  When the ISO made that statement before the 
+Commission, it was responding to concerns that had been 
+raised about the ISO's allocation proposal.  Because relief can 
+be sought pursuant to s 206 in the event a pass through of 
+non-jurisdictional RMR contract costs results in unjust and 
+unreasonable rates, the Commission's acceptance of the ISO's 
+formula rate without additional s 205 filings does not leave 
+CALPUC or ratepayers without any statutory recourse.8
+
+     Accordingly, we deny the petition.
+
+__________
+     8  Having failed to raise before the Commission the issue of the 
+ISO's being a non-profit with no money to pay refunds in a s 206 
+proceeding, CALPUC cannot do so here.  See 16 U.S.C. s 825l(b);  
+see also Platte River Whooping Crane Critical Habitat Maint. 
+Trust v. FERC, 876 F.2d 109, 112-13 (D.C. Cir. 1989).
+
+               

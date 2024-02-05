@@ -1,0 +1,912 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 5, 2000   Decided February 16, 2001 
+
+                           No. 99-5430
+
+                      Eric Eldred, et al., 
+                            Appellants
+
+                                v.
+
+                           Janet Reno, 
+          In her official capacity as Attorney General, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv00065)
+
+     Lawrence Lessig argued the cause for appellants.  With 
+him on the briefs were Charles R. Nesson, Jonathan L. 
+Zittrain, Geoffrey S. Stewart, Gregory A. Castanias, and 
+Portia A. Robert.
+
+     Erik S. Jaffe was on the brief of amicus curiae Eagle 
+Forum Education & Legal Defense Fund.
+
+     Laura N. Gasaway, Lyman Ray Patterson, and Edward 
+Walterscheid, appearing pro se, were on the brief of amici 
+curiae Laura N. Gasaway, et al.
+
+     Alfred Mollin, Counsel, U.S. Department of Justice, argued 
+the cause for appellee.  With him on the brief were David W. 
+Ogden, Acting Assistant Attorney General, William Kanter, 
+Counsel, and Wilma A. Lewis, U.S. Attorney.
+
+     Peter L. Felcher, Carey R. Ramos, Carl W. Hampe, Lynn 
+B. Bayard, Gaela K. Gehring-Flores, Allan Adler, Fritz E. 
+Attaway, Joseph J. DiMona, I. Fred Koenigsberg, and James 
+J. Schweitzer were on the brief of amici curiae The Sher-
+wood Anderson Literary Estate Trust, et al.
+
+     Before:  Ginsburg, Sentelle, and Henderson, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Separate opinion dissenting in part filed by Circuit Judge 
+Sentelle.
+
+     Ginsburg, Circuit Judge:  The plaintiffs in this case, corpo-
+rations, associations, and individuals who rely for their voca-
+tions or avocations upon works in the public domain, chal-
+lenge the constitutionality of the Copyright Term Extension 
+Act of 1998 (CTEA), Pub. L. No. 105-298, 112 Stat. 2827.  
+This marks the first occasion for an appellate court to address 
+whether the First Amendment or the Copyright Clause of the 
+Constitution of the United States constrains the Congress 
+from extending for a period of years the duration of copy-
+rights, both those already extant and those yet to come.  We 
+hold that neither does.
+
+                          I. Background
+
+     The CTEA amends various provisions of the Copyright Act 
+of 1976, 17 U.S.C. s 101 et seq.  The portions of the CTEA at 
+issue here extend the terms of all copyrights for 20 years as 
+follows:  (1) For a work created in 1978 or later, to which an 
+individual author holds the copyright, the Act extends the 
+term to the life of the author plus 70 years.  See Pub L. No. 
+
+105-298 s 102(b)(1), 112 Stat. 2827;  17 U.S.C. s 302(a).  (2) 
+For a work created in 1978 or later that is anonymous, or 
+pseudonymous, or is made for hire, the term is extended from 
+75 to 95 years from the year of publication or from 100 to 120 
+years from the year of creation, whichever occurs first.  See 
+Pub. L. No. 105-298 s 102(b)(3), 112 Stat. 2827;  17 U.S.C. 
+s 302(c).  (3) For a work created before 1978, for which the 
+initial term of copyright was 28 years, the renewal term is 
+extended from 47 to 67 years, thereby creating a combined 
+term of 95 years.  See Pub. L. No. 105-298 s 102(d), 112 Stat. 
+2827;  17 U.S.C. s 304.  In all three situations, therefore, the 
+CTEA applies retrospectively in the sense that it extends the 
+terms of subsisting copyrights.  As a result, the CTEA better 
+aligns the terms of United States copyrights with those of 
+copyrights governed by the European Union.  See S. Rep. 
+No. 104-315, at 7-8 (1996);  Council Directive 93/98, art. 7, 
+1993 O.J. (L 290) 9.
+
+     The CTEA is but the latest in a series of congressional 
+extensions of the copyright term, each of which has been 
+made applicable both prospectively and retrospectively.  In 
+1790 the First Congress provided, both for works "already 
+printed" and for those that would be "[t]hereafter made and 
+composed," initial and renewal terms of 14 years, for a 
+combined term of 28 years.  Act of May 31, 1790 s 1, 1 Stat. 
+124, 124.  In 1831 the Congress extended the initial term to 
+28 years, thereby creating a combined term of 42 years.  See 
+Act of Feb. 3, 1831 s 1, 4 Stat. 436, 436.  So the term 
+remained until 1909, when the Congress extended the renew-
+al term as well to 28 years, making for a combined term of 56 
+years.  See Act of March 4, 1909 s 23, 35 Stat. 1075, 1080.
+
+     Between 1962 and 1974 the Congress passed a series of 
+laws that incrementally extended subsisting copyrights.  See 
+Pub. L. No. 87-668, 76 Stat. 555 (1962);  Pub. L. No. 89-142, 
+79 Stat. 581 (1965);  Pub. L. No. 90-141, 81 Stat. 464 (1967);  
+Pub. L. No. 90-416, 82 Stat. 397 (1968);  Pub. L. No. 91-147, 
+83 Stat. 360 (1969);  Pub. L. No. 91-555, 84 Stat. 1441 (1970);  
+Pub. L. No. 92-170, 85 Stat. 490 (1971);  Pub. L. No. 92-566, 
+86 Stat. 1181 (1972);  Pub. L. No. 93-573, title I, s 104, 88 
+Stat. 1873 (1974).  In 1976 the Congress altered the way the 
+
+term of a copyright is computed so as to conform with the 
+Berne Convention and with international practice.  See H.R. 
+Rep. No. 94-1476, at 135 (1976).  Thenceforth the term would 
+be the life of the author plus 50 years or, where there was no 
+identifiable author, the earlier of 75 years from the year of 
+publication or 100 years from the year of creation.  See Pub. 
+L. No. 94-553 ss 302-05, 90 Stat. 2541, 2572-76 (1976).  The 
+CTEA amends this scheme by adding 20 years to the term of 
+every copyright.
+
+     The plaintiffs filed this suit against the Attorney General of 
+the United States to obtain a declaration that the CTEA is 
+unconstitutional.  Among the plaintiffs are a non-profit asso-
+ciation that distributes over the internet free electronic ver-
+sions of books in the public domain;  a company that reprints 
+rare, out-of-print books that have entered the public domain;  
+a vendor of sheet music and a choir director, who respectively 
+sell and purchase music that is relatively inexpensive because 
+it is in the public domain;  and a company that preserves and 
+restores old films and insofar as such works are not in the 
+public domain, needs permission from their copyright hold-
+ers -- who are often hard to find -- in order to exploit them.
+
+     The district court entered judgment on the pleadings in 
+favor of the Government and dismissed the plaintiffs' case in 
+its entirety.  On appeal, the plaintiffs renew their claims that 
+the CTEA both violates the First Amendment to the Consti-
+tution and is in various ways inconsistent with the Copyright 
+Clause of Article I, s 8 of the Constitution, which authorizes 
+the Congress:  "To promote the Progress of Science and 
+useful Arts, by securing for limited Times to Authors and 
+Inventors the exclusive Right to their respective Writings and 
+Discoveries."
+
+                           II. Analysis
+
+     The plaintiffs claim that the CTEA is beyond the power of 
+the Congress and therefore unconstitutional for three rea-
+sons:  first, the CTEA, in both its prospective and retrospec-
+tive applications, fails the intermediate scrutiny appropriate 
+under the First Amendment; second, in its application to 
+
+preexisting works, the CTEA violates the originality require-
+ment of the Copyright Clause; and third, in extending the 
+term of subsisting copyrights, the CTEA violates the "limited 
+Times" requirement of the Copyright Clause -- a require-
+ment that they say is informed by the goal of "promot[ing] 
+the Progress of Science and useful Arts."  Because each of 
+these grounds presents a pure question of law, we consider 
+them de novo.  See, e.g., United States v. Popa, 187 F.3d 672, 
+674 (D.C. Cir. 1999).
+
+     A.   First Amendment
+          
+     The First Amendment aspect of the plaintiffs' complaint 
+attacks the CTEA not only in its application to subsisting 
+copyrights but also insofar as it extends the terms of copy-
+rights for works yet to be created.  The Government ques-
+tions plaintiffs' standing to complain in the latter regard.
+
+     1. Standing
+     
+     Consider first the plaintiffs' standing with respect to works 
+that, though now subject to subsisting copyrights, will in due 
+course enter the public domain:  The plaintiffs benefit from 
+using works in the public domain and, but for the CTEA, they 
+would be able to exploit additional works the copyrights to 
+which would have expired in the near future.  As such, they 
+suffer an injury in fact that is traceable to the CTEA and that 
+we could redress by holding the Act invalid.  See Lujan v. 
+Defenders of Wildlife, 504 U.S. 555, 560-61 (1992).  The 
+Government concedes as much.
+
+     In view of the plaintiffs' standing to challenge the CTEA 
+with respect to works already copyrighted, the Government's 
+objection to the plaintiffs' standing with respect to works yet 
+to be created seems very weak indeed.  The plaintiffs benefit 
+from works in the public domain and are deprived of that 
+benefit so long as such works are under copyright.  That is as 
+true for works not yet created as for extant works on which 
+the copyrights are about to expire;  the Government does not 
+draw any meaningful distinction between the two categories 
+of works.  We conclude therefore that the plaintiffs have 
+
+standing to pursue their prospective claim under the First 
+Amendment.
+
+     2. The merits
+     
+     The decisions of the Supreme Court in Harper & Row 
+Publishers Inc. v. Nation Enters., 471 U.S. 539 (1985), and of 
+this court in United Video, Inc. v. FCC, 890 F.2d 1173 (1989), 
+stand as insuperable bars to plaintiffs' first amendment theo-
+ry.  In Harper & Row the Court held that a magazine's 
+advance publication of excerpts from the memoirs of former 
+President Gerald Ford infringed the copyright thereon.  471 
+U.S. at 569.  In doing so the Court explained how the regime 
+of copyright itself respects and adequately safeguards the 
+freedom of speech protected by the First Amendment.
+
+     [C]opyright's idea/expression dichotomy "strike[s] a defi-
+     nitional balance between the First Amendment and the 
+     Copyright Act by permitting free communication of facts 
+     while still protecting an author's expression."  No author 
+     may copyright his ideas or the facts he narrates.  17 
+     U.S.C. s 102(b).  See e.g., New York Times Co. v. United 
+     States, 403 U.S. 713, 726, n. (1971) (Brennan, J., concur-
+     ring) (Copyright laws are not restrictions on freedom of 
+     speech as copyright protects only form of expression and 
+     not the ideas expressed).
+     
+Id. at 556 (citation omitted).  The first amendment objection 
+of the magazine was misplaced "[i]n view of the First Amend-
+ment protections already embodied in the Copyright Act's 
+distinction between copyrightable expression and uncopy-
+rightable facts and ideas, and the latitude for scholarship and 
+comment traditionally afforded by fair use."  Id. at 560.
+
+     In keeping with this approach, we held in United Video 
+that copyrights are categorically immune from challenges 
+under the First Amendment.  There, certain cable companies 
+petitioned for review of an FCC regulation providing that the 
+supplier of a syndicated television program could agree to the 
+program being broadcast exclusively by a single station in a 
+local broadcast area.  890 F.2d at 1176-78.  We rejected the 
+first amendment aspect of their challenge as follows:
+
+     In the present case, the petitioners desire to make 
+     commercial use of the copyrighted works of others.  
+     There is no first amendment right to do so.  Although 
+     there is some tension between the Constitution's copy-
+     right clause and the first amendment, the familiar 
+     idea/expression dichotomy of copyright law, under which 
+     ideas are free but their particular expression can be 
+     copyrighted, has always been held to give adequate 
+     protection to free expression.
+     
+890 F.2d at 1191.
+
+     The plaintiffs argue that "these authorities are restricted 
+solely to the narrow case where a litigant demands a right to 
+use otherwise legitimately copyrighted material," which case 
+is "plainly distinct from [this] First Amendment challenge[ ] 
+to the constitutionality of the statute granting a [copy]right in 
+the first instance."  We think the plaintiffs' purported distinc-
+tion is wholly illusory.  The relevant question under the First 
+Amendment -- regardless whether it arises as a defense in a 
+suit for copyright infringement or in an anticipatory challenge 
+to a statute or regulation -- is whether the party has a first 
+amendment interest in a copyrighted work.  The works to 
+which the CTEA applies, and in which plaintiffs claim a first 
+amendment interest, are by definition under copyright; that 
+puts the works on the latter half of the "idea/expression 
+dichotomy" and makes them subject to fair use.  This obvi-
+ates further inquiry under the First Amendment.
+
+     The plaintiffs cite no case to the contrary.  In two of the 
+cases they do cite, Reno v. ACLU, 521 U.S. 844, 871-79 
+(1997), and Simon & Schuster, Inc. v. Members of NY State 
+Crime Victims Bd., 502 U.S. 105, 115-23 (1991), the Supreme 
+Court held statutes unconstitutional under the First Amend-
+ment because they were unjustifiably content based; the 
+plaintiffs here do not claim that the CTEA is anything but 
+content neutral.  In San Francisco Arts & Athletics, Inc. v. 
+United States Olympic Committee, also cited by the plaintiffs, 
+the Court did indeed apply heightened scrutiny under the 
+First Amendment to a statute granting the United States 
+Olympic Committee trademark-like protection for the word 
+
+"Olympic."  483 U.S. 522, 535-41 (1987).  Restricting the use 
+of particular words "runs a substantial risk of suppressing 
+ideas in the process," the Court explained.  Id. at 532.  As we 
+have seen, however, copyright protection cannot embrace 
+ideas;  it therefore does not raise the same concern under the 
+First Amendment.  Finally, although the plaintiffs assert that 
+the Second Circuit has reached the merits of a first amend-
+ment challenge to an aspect of the Copyright Act of 1976, in 
+fact that court, after reviewing the case law, concluded that 
+the plaintiffs categorically lacked "any right to distribute and 
+receive material that bears protection of the Copyright Act."  
+Authors League of America v. Oman, 790 F.2d 220, 223 
+(1986).
+
+     As this is all the support plaintiffs muster for their proposi-
+tion, we need not linger further in disposing of it.  Suffice it 
+to say we reject their first amendment objection to the CTEA 
+because the plaintiffs lack any cognizable first amendment 
+right to exploit the copyrighted works of others.
+
+     B.   Requirement of Originality
+          
+     The plaintiffs' second challenge ostensibly rests upon Feist 
+Publications, Inc. v. Rural Telephone Service Co., in which 
+the Supreme Court held that telephone listings compiled in a 
+white pages directory are uncopyrightable facts:  "The sine 
+qua non of copyright is originality."  499 U.S. 340, 345 (1991).  
+"Originality is a constitutional requirement" for copyright 
+because the terms "Authors" and "Writings," as they appear 
+in the Copyright Clause, "presuppose a degree of originality."  
+Id. at 346.
+
+     The plaintiffs reason from this that the CTEA cannot 
+extend an extant copyright because the copyrighted work 
+already exists and therefore lacks originality.  Not so.  Origi-
+nality is what made the work copyrightable in the first place.  
+A work with a subsisting copyright has already satisfied the 
+requirement of originality and need not do so anew for its 
+copyright to persist.  If the Congress could not extend a 
+subsisting copyright for want of originality, it is hard to see 
+how it could provide for a copyright to be renewed at the 
+
+expiration of its initial term -- a practice dating back to 1790 
+and not questioned even by the plaintiffs today.
+
+     The plaintiffs' underlying point seems to be that there is 
+something special about extending a copyright beyond the 
+combined initial and renewal terms for which it was initially 
+slated.  Nothing in Feist or in the requirement of originality 
+supports this, however:  All they tell us is that facts, like 
+ideas, are outside the ambit of copyright.  Undaunted in 
+trying to advance their novel notion of originality, the plain-
+tiffs point to cases that do not address the requirement of 
+originality for copyright per se.  They point to no case or 
+commentary, however, that calls into question the distinction 
+between a new grant of copyright -- as to which originality is 
+an issue -- and the extension of an existing grant.  That 
+distinction reflects, at bottom, the difference between the 
+constitutionally delimited subject matter of copyright and the 
+Congress's exercise of its copyright authority with respect to 
+that subject matter.
+
+     The plaintiffs do point out that the Supreme Court has said 
+the "Congress may not authorize the issuance of patents 
+whose effects are to remove existent knowledge from the 
+public domain, or to restrict free access to materials already 
+available."  Graham v. John Deere Co., 383 U.S. 1, 6 (1966).  
+The Court similarly stated, over a century ago, that the 
+issuance of a trademark could not be justified under the 
+Copyright Clause because the subject matter of trademark is 
+"the adoption of something already in existence."  Trade-
+mark Cases, 100 U.S. 82, 94 (1879).  Applied mutatis mutan-
+dis to the subject of copyright, these teachings would indeed 
+preclude the Congress from authorizing under that Clause a 
+copyright to a work already in the public domain.
+
+     The plaintiffs read the Court's guidance more broadly, in 
+the light of Feist, to mean that a work in the public domain 
+lacks the originality required to qualify for a copyright.  That 
+is certainly not inconsistent with the Court's opinion:  A work 
+in the public domain is, by definition, without a copyright;  
+where the grant of a copyright is at issue, so too is the work's 
+eligibility for copyright, and thus the requirement of originali-
+
+ty comes into play.  We need not adopt a particular view on 
+that point, however, as it has nothing to do with this case.  
+Here we ask not whether any work is copyrightable -- 
+indeed, the relevant works are already copyrighted -- but 
+only whether a copyright may by statute be continued in 
+force beyond the renewal term specified by law when the 
+copyright was first granted.  For the plaintiffs to prevail, 
+therefore, they will need something other than the require-
+ment of originality upon which to make their stand.
+
+     C.   The Limitation of "limited Times"
+          
+     We come now to the plaintiffs' contention that the CTEA 
+violates the constitutional requirement that copyrights endure 
+only for "limited Times."  This claim at last speaks to the 
+duration rather than to the subject matter of a copyright:  If 
+the Congress were to make copyright protection permanent, 
+then it surely would exceed the power conferred upon it by 
+the Copyright Clause.
+
+     The present plaintiffs want a limit well short of the rule 
+against perpetuities, of course.  And they claim to have found 
+it -- or at least a bar to extending the life of a subsisting 
+copyright -- in the preamble of the Copyright Clause:  "The 
+Congress shall have power ... To promote the Progress of 
+Science and useful Arts...."  Their idea is that the phrase 
+"limited Times" should be interpreted not literally but rather 
+as reaching only as far as is justified by the preambular 
+statement of purpose:  If 50 years are enough to "promote 
+... Progress," then a grant of 70 years is unconstitutional.  
+Here the plaintiffs run squarely up against our holding in 
+Schnapper v. Foley, 667 F.2d 102, 112 (1981), in which we 
+rejected the argument "that the introductory language of the 
+Copyright Clause constitutes a limit on congressional power."  
+The plaintiffs, however, disclaim any purpose to question the 
+holding of Schnapper;  indeed, they expressly acknowledge 
+"that the preamble of the Copyright Clause is not a substan-
+tive limit on Congress' legislative power."  Their argument is 
+simply that "the Supreme Court has interpreted the terms 
+'Authors' and 'Writings' in light of that preamble, and that 
+this Court should do the same with 'limited Times.' "
+
+     The problems with this argument are manifest.  First, one 
+cannot concede that the preamble "is not a substantive limit" 
+and yet maintain that it limits the permissible duration of a 
+copyright more strictly than does the textual requirement 
+that it be for a "limited Time."  Second, although the plain-
+tiffs claim that Feist supports using the preamble to interpret 
+the rest of the Clause, the Court in Feist never  
+suggests that the preamble 
+informs its interpretation of the substantive grant of power to 
+the Congress (which there turned upon the meaning of "Au-
+thors" and of "Writings," each standing alone).  499 U.S. at 
+345-47.  Similarly, the Trade-Mark Cases cited in Feist rest 
+upon the originality implied by "invention [and] discovery" 
+and by the "writings of authors," and make no reference at all 
+to the preamble.  100 U.S. at 93-94.
+
+                         III. The Dissent
+
+     The foregoing suffices to dispose of plaintiffs' argu-
+ments -- as Judge Sentelle, dissenting, implicitly recog-
+nizes -- and hence to resolve this case.  Our dissenting 
+colleague nonetheless adopts the narrow view of Schnapper 
+urged by an amicus, although that argument is rejected by 
+the actual parties to this case and therefore is not properly 
+before us.  See, e.g, 16A Charles Alan Wright et al., Federal 
+Practice and Procedure s 3975.1 & n.3 (3d ed. 1999);  Resi-
+dent Council of Allen Parkway Vill. v. HUD, 980 F.2d 1043, 
+1049 (5th Cir. 1993) (amicus constrained "by the rule that [it] 
+generally cannot expand the scope of an appeal to implicate 
+issues that have not been presented by the parties to the 
+appeal");  cf. Lamprecht v. FCC, 958 F.2d 382, 389 (D.C. Cir. 
+1992) (intervenor as nonparty "cannot expand the proceed-
+ings" or "enlarge those issues presented").  This is particu-
+larly inappropriate because a court should avoid, not seek 
+out, a constitutional issue the resolution of which is not 
+essential to the disposition of the case before it.  Moreover, 
+because the plaintiffs conspicuously failed to adopt the argu-
+ment of the amicus, the Government was not alerted to any 
+need to argue this point and did not do so.  See Harmon v. 
+Thornburgh, 878 F.2d 484, 494 (D.C. Cir. 1989) (court must 
+
+"avoid unnecessary or premature constitutional rulings" and 
+this concern "is heightened by the absence of meaningful 
+argument by the parties on [constitutional] question");  Ash-
+wander v. Tennessee Valley Authority, 297 U.S. 288, 346 
+(1936) (Brandeis, J., concurring) ("Court will not 'anticipate a 
+question of constitutional law in advance of the necessity of 
+deciding it' ").
+
+     Even were we to proceed as urged by the amicus and the 
+dissent, however, we would only review the CTEA as we 
+would any other exercise of a power enumerated in Article I. 
+That is we would ask, following McCulloch v. Maryland, 17 
+U.S. 316, 421 (1819), whether the CTEA is a "necessary and 
+proper" exercise of the power conferred upon the Congress 
+by the Copyright Clause; assuming Judge Sentelle is correct 
+and Schnapper is wrong about the relationship of the pream-
+ble to the rest of that Clause, this would require that the 
+CTEA be an "appropriate" means, and "plainly adapted" to 
+the end prescribed in the preamble, "promot[ing] Progress of 
+Science and useful Arts."  The Congress found that extend-
+ing the duration of copyrights on existing works would, 
+among other things, give copyright holders an incentive to 
+preserve older works, particularly motion pictures in need of 
+restoration.  See S. Rep. No. 104-315, at 12 (1996).  If called 
+upon to do so, therefore, we might well hold that the applica-
+tion of the CTEA to subsisting copyrights is "plainly adapted" 
+and "appropriate" to "promot[ing] progress."  See Ladd v. 
+Law & Technology Press, 762 F.2d 809, 812 (9th Cir. 1985) 
+(upholding the deposit requirement of the Copyright Act of 
+1976 as "necessary and proper" because the purpose was "to 
+enforce contributions of desirable books to the Library of 
+Congress").
+
+     Judge Sentelle concludes otherwise only because he sees a 
+categorical distinction between extending the term of a sub-
+sisting copyright and extending that of a prospective copy-
+right.  This distinction is not to be found in the Constitution 
+itself, however.  The dissent identifies nothing in text or in 
+history that suggests that a term of years for a copyright is 
+not a "limited Time" if it may later be extended for another 
+"limited Time."  Instead, the dissent suggests that the Con-
+
+gress -- or rather, many successive Congresses -- might in 
+effect confer a perpetual copyright by stringing together an 
+unlimited number of "limited Times," although that clearly is 
+not the situation before us.  The temporal thrust of the 
+CTEA is a good deal more modest:  The Act matches United 
+States copyrights to the terms of copyrights granted by the 
+European Union, see Council Directive 93/98, art. 7, 1993 O.J. 
+(L 290) 9; in an era of multinational publishers and instanta-
+neous electronic transmission, harmonization in this regard 
+has obvious practical benefits for the exploitation of copy-
+rights.  This is a powerful indication that the CTEA is a 
+"necessary and proper" measure to meet contemporary cir-
+cumstances rather than a step on the way to making copy-
+rights perpetual; the force of that evidence is hardly diminish-
+ed because, as the dissent correctly points out, the EU is not 
+bound by the Copyright Clause of our Constitution.  As for 
+the dissent's objection that extending a subsisting copyright 
+does nothing to "promote Progress," we think that implies a 
+rather crabbed view of progress:  Preserving access to works 
+that would otherwise disappear -- not enter the public do-
+main but disappear -- "promotes Progress" as surely as does 
+stimulating the creation of new works.
+
+     The position of our dissenting colleague is made all the 
+more difficult because the First Congress made the Copy-
+right Act of 1790 applicable to subsisting copyrights arising 
+under the copyright laws of the several states.  See Act of 
+May 31, 1790, ss 1 and 3, 1 Stat. 124-25.*  The construction 
+of the Constitution "by [those] contemporary with its forma-
+tion, many of whom were members of the convention which 
+framed it, is of itself entitled to very great weight, and when 
+it is remembered that the rights thus established have not 
+been disputed [for this long], it is almost conclusive."  Bur-
+row-Giles Lithographic Co. v. Sarony, 111 U.S. 53, 57 (1884).  
+
+__________
+     * Indeed, each of the four later Congresses that extended the 
+terms of copyrights followed suit in doing so for subsisting as well 
+as prospective copyrights.  See Act of Feb. 3, 1831 s 1, 4 Stat. 436-
+39;  Act of March 4, 1909 s 23, 35 Stat. 1075-88;  Pub. L. No. 
+94-553 s 301, 90 Stat. 2541-2602 (1976);  Pub. L. No. 105-298, 112 
+Stat. 2827 (2000).
+
+The plaintiffs, recognizing the import of this "almost conclu-
+sive" point for their own theory, try to avoid it with the 
+suggestion that application of the Act of 1790 to subsisting 
+copyrights "is fully understandable under a Supremacy 
+Clause analysis" in that it "clarif[ied] which law (state or 
+federal) would govern th[o]se copyrights."  But that will not 
+do:  A federal law is not valid, let alone supreme, if it is not 
+first an exercise of an enumerated power.  And the First 
+Congress was clearly secure in its power under the Copyright 
+Clause to extend the terms of subsisting copyrights beyond 
+those granted by the States.
+
+     Such guidance as the Supreme Court has given further 
+confirms us in this view of the matter.  The Court has made 
+plain that the same Clause permits the Congress to amplify 
+the terms of an existing patent.  As early as 1843 it estab-
+lished that the status of a particular invention and its protec-
+tions
+
+     must depend on the law as it stood at the emanation of 
+     the patent, together with such changes as have been 
+     since made;  for though they may be retrospective in 
+     their operation, that is not a sound objection to their 
+     validity;  the powers of Congress to legislate upon the 
+     subject of patents is plenary by the terms of the Consti-
+     tution, and as there are no restraints on its exercise, 
+     there can be no limitation of their right to modify them 
+     at their pleasure, so that they do not take away the 
+     rights of property in existing patents.
+     
+McClurg v. Kingsland, 42 U.S. 202, 206.
+
+     Within the realm of copyright, the Court has to the present 
+era been similarly deferential to the judgment of the Con-
+gress.  "As the text of the Constitution makes plain, it is 
+Congress that has been assigned the task of defining the 
+scope of the limited monopoly that should be granted to 
+authors or to inventors in order to give the appropriate public 
+access to their work product;"  that "task involves a difficult 
+balance between [competing interests]" as reflected in the 
+frequent modifications of the relevant statutes.  Sony Corp. v. 
+Universal City Studios, Inc., 464 U.S. 417, 429 (1984).  And 
+
+still more recently:  "Th[e] evolution of the duration of copy-
+right protection tellingly illustrates the difficulties Congress 
+faces [in exercising its copyright power]....  [I]t is not our 
+role to alter the delicate balance Congress has labored to 
+achieve."  Stewart v. Abend, 495 U.S. 207, 230 (1990).
+
+                         IV. Conclusion:
+
+     In sum, we hold that the CTEA is a proper exercise of the 
+Congress's power under the Copyright Clause.  The plain-
+tiffs' first amendment objection fails because they have no 
+cognizable first amendment interest in the copyrighted works 
+of others.  Their objection that extending the term of a 
+subsisting copyright violates the requirement of originality 
+misses the mark because originality is by its nature a thresh-
+old inquiry relevant to copyrightability, not a continuing 
+concern relevant to the authority of the Congress to extend 
+the term of a copyright.
+
+     Whatever wisdom or folly the plaintiffs may see in the 
+particular "limited Times" for which the Congress has set the 
+duration of copyrights, that decision is subject to judicial 
+review only for rationality.  This is no less true when the 
+Congress modifies the term of an existing copyright than 
+when it sets the term initially, and the plaintiffs -- as 
+opposed to one of the amici -- do not dispute that the CTEA 
+satisfies this standard of review.  The question whether the 
+preamble of the Copyright Clause bars the extension of 
+subsisting copyrights -- a question to which the analysis in 
+Schnapper seems to require a negative answer -- may be 
+revisited only by the court sitting en banc in a future case in 
+which a party to the litigation argues the point.
+
+     For the foregoing reasons, the decision of the district court 
+is
+
+                                        Affirmed.
+
+     Sentelle, Circuit Judge, dissenting in part:  While I con-
+cur with much of the majority's opinion, insofar as it holds 
+constitutional the twenty-year or more extension of copyright 
+protection for existing works, I dissent.  This issue calls upon 
+us to consider the scope of one of the clauses granting 
+enumerated powers to Congress, specifically, Art. I, s 8, cl. 8:
+
+     Congress shall have power ... to promote the progress 
+     of science and useful arts, by securing for limited times 
+     to authors and inventors the exclusive right to their 
+     respective writings and discoveries....
+     
+In ascertaining the breadth of an enumerated power, I would 
+follow the lead of the United States Supreme Court in United 
+States v. Lopez, 514 U.S. 549, 552 (1995), and "start with first 
+principles."  The governing first principle in Lopez and in the 
+matter before us is that "[t]he Constitution creates a Federal 
+Government of enumerated powers."  514 U.S. at 552 (citing 
+Art. I, s 8).  The Framers of the Constitution adopted the 
+system of limited central government "to ensure the protec-
+tion of our fundamental liberties."  Gregory v. Ashcroft, 501 
+U.S. 452, 458 (1991) (internal quotations and citations omit-
+ted).  The Lopez decision, considering the validity of the so-
+called Gun-Free School Zones Act, reminded us that "con-
+gressional power under the Commerce Clause ... is subject 
+to outer limits."  514 U.S. at 556-57;  see also United States 
+v. Morrison, 120 S. Ct. 1740, 1748-49 (2000).
+
+     It would seem to me apparent that this concept of "outer 
+limits" to enumerated powers applies not only to the Com-
+merce Clause but to all the enumerated powers, including the 
+Copyright Clause, which we consider today.  In determining 
+whether the legislation before it in such cases as Lopez 
+exceeded the outer limit of the authority granted under the 
+Commerce Clause, the Lopez Court laid out a precise outline 
+concededly not applicable by its terms to the construction of 
+other clauses, but I think most useful in conducting the same 
+sort of examination of the outer limits of any enumerated 
+power.  As a part of that analysis, the Court examined the 
+extension of congressional authority to areas beyond the core 
+of the enumerated power with a goal of determining whether 
+
+the rationale offered in support of such an extension has any 
+stopping point or whether it would lead to the regulation of 
+all human activity.  See 514 U.S. at 564 ("Thus, if we were to 
+accept the Government's arguments, we are hard pressed to 
+posit any activity by an individual that Congress is without 
+power to regulate.").  I fear that the rationale offered by the 
+government for the copyright extension, as accepted by the 
+district court and the majority, leads to such an unlimited 
+view of the copyright power as the Supreme Court rejected 
+with reference to the Commerce Clause in Lopez.
+
+     What then do I see as the appropriate standard for limiting 
+that power?  Again, the Lopez decision gives us guidance as 
+to the application of first principles to the determination of 
+the limits of an enumerated power.  Citing Gibbons v. Ogden, 
+22 U.S. (9 Wheat.) 1, 189-190 (1824), the Lopez Court ac-
+knowledged "that limitations on the commerce power are 
+inherent in the very language of the Commerce Clause."  514 
+U.S. at 553.  Just so with the Copyright Clause.  What does 
+the clause empower the Congress to do?
+
+     To promote the progress of science and useful arts, by 
+     securing for limited times to authors and inventors the 
+     exclusive right to their respective writings and discover-
+     ies....
+     
+That clause empowers the Congress to do one thing, and one 
+thing only.  That one thing is "to promote the progress of 
+science and useful arts."  How may Congress do that?  "By 
+securing for limited times to authors and inventors the exclu-
+sive right to their respective writings and discoveries."  The 
+clause is not an open grant of power to secure exclusive 
+rights.  It is a grant of a power to promote progress.  The 
+means by which that power is to be exercised is certainly the 
+granting of exclusive rights--not an elastic and open-ended 
+use of that means, but only a securing for limited times.  See 
+Stewart v. Abend, 495 U.S. 207, 228 (1990) ("The copyright 
+term is limited so that the public will not be permanently 
+deprived of the fruits of an artist's labors.").  The majority 
+acknowledges that "[i]f the Congress were to make copyright 
+protection permanent, then it surely would exceed the power 
+
+conferred upon it by the Copyright Clause."  Maj. Op. at 10.  
+However, there is no apparent substantive distinction be-
+tween permanent protection and permanently available au-
+thority to extend originally limited protection.  The Congress 
+that can extend the protection of an existing work from 100 
+years to 120 years;  can extend that protection from 120 years 
+to 140;  and from 140 to 200;  and from 200 to 300;  and in 
+effect can accomplish precisely what the majority admits it 
+cannot do directly.  This, in my view, exceeds the proper 
+understanding of enumerated powers reflected in the Lopez 
+principle of requiring some definable stopping point.
+
+     Returning to the language of the clause itself, it is impossi-
+ble that the Framers of the Constitution contemplated perma-
+nent protection, either directly obtained or attained through 
+the guise of progressive extension of existing copyrights.  
+The power granted by the clause again is the power "to 
+promote the progress of science and useful arts."  As stated 
+above, Congress is empowered to accomplish this by securing 
+for limited times exclusive rights.  Extending existing copy-
+rights is not promoting useful arts, nor is it securing exclusiv-
+ity for a limited time.
+
+     The government has offered no tenable theory as to how 
+retrospective extension can promote the useful arts.  As the 
+Supreme Court noted in Lopez and again in United States v. 
+Morrison, that Congress concluded a given piece of legisla-
+tion serves a constitutional purpose "does not necessarily 
+make it so."  Lopez, 514 U.S. at 557 n.2 (internal quotes 
+omitted);  Morrison, 120 S. Ct. at 1752.  Pressed at oral 
+argument, counsel for the government referred to keeping 
+the promise made in the original grant of exclusivity for a 
+limited time.  The easy answer to this assertion is that 
+Congress is not empowered to "make or keep promises" but 
+only to do those things enumerated in Article I.  The second 
+problem with the government's assertion is that Congress 
+made no promise to commit such an extension but only to 
+secure the exclusive rights for the original limited period.  
+Thirdly, the means employed by Congress here are not the 
+securing of the exclusive rights for a limited period, but 
+rather are a different animal altogether:  the extension of 
+
+exclusivity previously secured.  This is not within the means 
+authorized by the Copyright Clause, and it is not constitution-
+al.
+
+     The majority responds to this problem of the statute's 
+exceeding the constitutional grant by reliance on Schnapper 
+v. Foley, 667 F.2d 102 (D.C. Cir. 1981), "in which we rejected 
+the argument 'that the introductory language of the Copy-
+right Clause constitutes a limit on congressional power.' "  
+Maj. Op. at 10 (quoting 667 F.2d at 112).  I will concede that 
+it does not matter if I disagree with the language of Schnap-
+per (which in fact I do) as it is our Circuit precedent and we 
+are bound by its holding unless and until that holding is 
+changed by this court en banc or by the higher authority of 
+the Supreme Court.  See, e.g., LaShawn A. v. Barry, 87 F.3d 
+1389, 1395 (D.C. Cir. 1996) (en banc) ("One three-judge panel 
+...  does not have the authority to overrule another three-
+judge panel of the court.  That power may be exercised only 
+by the full court."(citations omitted));  United States v. Kolter, 
+71 F.3d 425, 431 (D.C. Cir. 1995) ("This panel would be bound 
+by [a prior] decision even if we did not agree with it.").
+
+     Therefore, it is immaterial that the prior opinion is, in my 
+view, erroneous in styling the granting clause of the sentence 
+as merely introductory when in fact it is the definition of the 
+power bestowed by that clause.  Thus, unless and until this 
+precedent is wiped away, if Schnapper has held that we may 
+not look to the language of this phrase to determine the 
+limitations of the clause then I must concede that we are 
+bound by that holding and join the majority's result.  Howev-
+er, it does not appear to me that this is the holding of 
+Schnapper.  The Schnapper Court dealt with limited ques-
+tions related to the application of the copyright laws to works 
+commissioned by the U.S. government.  In answering those 
+questions, the Schnapper Court held that "Congress need not 
+'require that each copyrighted work be shown to promote the 
+useful arts.' "  667 F.2d at 112 (quoting Mitchell Bros. Film 
+Group v. Cinema Adult Theater, 604 F.2d 852, 860 (5th Cir. 
+1979)).  It was in that context that the Schnapper Court 
+employed the wording relied upon by the majority concerning 
+the "introductory language" of the Copyright Clause.  Inso-
+
+far as that wording is taken to be anything more than the 
+determination concerning that limited analysis, it is not a 
+holding but simply dicta (perhaps obiter dicta) and not bind-
+ing on future panels.
+
+     Rather, the Schnapper analysis again takes us back to the 
+Lopez approach to judicial interpretation of the enumerated 
+powers clauses.  In Lopez, one of the means employed to 
+determine the constitutionality of extended application of the 
+Commerce Clause is an elemental inquiry into whether in 
+each case the purportedly regulated action "in question af-
+fects interstate commerce."  514 U.S. at 561.  However, the 
+jurisdictional element is not necessary under Lopez analysis 
+of Commerce Clause regulation where Congress is directly 
+regulating "the use of the channels of interstate commerce" 
+or "persons or things in interstate commerce."  Id. at 558.  
+Similarly, I suggest that in analyzing the extent of congres-
+sional power under the Copyright Clause, the Schnapper 
+holding that each individual application of copyright protec-
+tion need not promote the progress of science and the useful 
+arts does not mean that Congress's power is otherwise unlim-
+ited, anymore than the lack of a necessity for case-by-case 
+analysis of the effect on interstate commerce validates any-
+thing Congress may wish to do under the rubric of the 
+Commerce Clause.  Though, under Schnapper, we may not 
+require that each use of a copyright protection promote 
+science and the arts, we can require that the exercise of 
+power under which those applications occur meet the lan-
+guage of the clause which grants the Congress the power to 
+enact the statute in the first place.  This the extension does 
+not do.  It is not within the enumerated power.
+
+     The majority suggests that my reading of Schnapper is 
+somehow foreclosed by the fact that it accepts the argument 
+of an amicus.  See Maj. Op. at 11 (citing 16A Charles Alan 
+Wright et al., Federal Practice and Procedure s 3975.1 & 
+n.3 (3d ed. 1999);  Resident Council of Allen Parkway Vill. v. 
+HUD, 980 F.2d 1043, 1049 (5th Cir. 1993)).  The disposition I 
+suggest would offend nothing in either Professor Wright's 
+treatise or the cases aligned with it.  Neither I nor the 
+amicus raise any issue not raised by the parties to the case, 
+
+nor disposed of by a majority of the court.  Appellants raise 
+the issue "whether ... the Copyright Clause of the Constitu-
+tion of the United States constrains the Congress from 
+extending for a period of years the duration of copyrights, 
+both those already extant and those yet to come."  Maj. Op. 
+at 2 (emphasis added).  The majority addresses that issue 
+and holds against the appellant.  Maj. Op. at 15 ("we hold 
+that the CTEA is a proper exercise of the Congress's power 
+under the Copyright Clause").  That the amicus argues more 
+convincingly in appellants' favor on the issue raised by the 
+appellants than they do themselves is no reason to reject the 
+argument of the amicus.  Indeed, our Circuit Rules provide 
+that an amicus brief "must avoid repetition of facts or legal 
+arguments made in the principal (appellant/petitioner or 
+appellee/respondent) brief and focus on points not made or 
+adequately elaborated upon in the principal brief, although 
+relevant to the issues before this court."  Circuit Rule 29.  
+Obviously that is precisely what the amicus has done in this 
+case.
+
+     Resident Council of Allen Parkway Village, relied on by 
+the majority, highlights this difference between introducing 
+issues not raised by the parties on the one hand and making 
+new arguments for issues otherwise properly raised on the 
+other.  As the Fifth Circuit noted in that case, "[w]e are 
+constrained only by the rule that an amicus curiae generally 
+cannot expand the scope of an appeal to implicate issues that 
+have not been presented by the parties to the appeal."  980 
+F.2d at 1049 (emphasis added).
+
+     Our Circuit Rule and the Fifth Circuit are in good company 
+in allowing amici to make additional arguments that address 
+issues which the parties have raised but not argued in the 
+same fashion.  The Supreme Court has approved precisely 
+that approach.  In Teague v. Lane, 489 U.S. 288 (1989), that 
+Court considered a question of retroactivity as to a fair cross-
+section jury venire in a case also raising a claim under Batson 
+v. Kentucky, 476 U.S. 79 (1986).  The Court noted that "[t]he 
+question of retroactivity with regard to petitioner's fair cross 
+section claim has been raised only in an amicus brief."  489 
+U.S. at 300.  Noting that the "question is not foreign to the 
+
+parties, who have addressed retroactivity with respect to 
+petitioner's Batson claim," id., the Court proceeded to ad-
+dress the merits of the argument.
+
+     Nor are we constrained by the parties' apparent agreement 
+as to the state of the law under Schnapper.  The Supreme 
+Court has made it clear that we cannot be bound by stipula-
+tions of law between the parties, where there is "a real case 
+and controversy extending to that issue."  United States 
+Nat'l Bank of Or. v. Indep. Ins. Agents of Am., Inc., 508 U.S. 
+439, 446 (1993).  As the High Court put it, " '[w]hen an issue 
+or claim is properly before the court, the court is not limited 
+to the particular legal theories advanced by the parties, but 
+rather retains the independent power to identify and apply 
+the proper construction of governing law.' " Id. (quoting 
+Kamen v. Kemper Fin. Servs., Inc., 500 U.S. 90, 99 (1991)).
+
+     I find two other arguments the majority invokes against 
+my dissent unpersuasive.  The enactment by the first Con-
+gress in 1790 regularizing the state of copyright law with 
+respect to works protected by state acts preexisting the 
+Constitution appears to me to be sui generis.  Necessarily, 
+something had to be done to begin the operation of federal 
+law under the new federal Constitution.  The Act of May 31, 
+1790, 1 Stat. 124, created the first (and for many decades 
+only) federal copyright protection;  it did not extend subsist-
+ing federal copyrights enacted pursuant to the Constitution.  
+Cf. Wheaton v. Peters, 33 U.S. (8 Pet.) 591, 661 (1834) 
+("Congress, then, by this [copyright] act, instead of sanction-
+ing an existing right, as contended for, created it.").  The fact 
+that the CTEA "matches United States copyrights to the 
+terms of copyrights granted by the European Union," Maj. 
+Op. at 13 (citing Council Directive 93/98, art. 7, 1993 O.J. (L 
+290) 9), is immaterial to the question.  Neither the European 
+Union nor its constituent nation states are bound by the 
+Constitution of the United States.  That Union may have all 
+sorts of laws about copyrights or any other subject which are 
+beyond the power of our constitutionally defined central 
+government.
+
+     Therefore, I respectfully dissent.
+
+          

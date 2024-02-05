@@ -1,0 +1,719 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued March 12, 2002    Decided May 14, 2002 
+
+                           No. 01-7163
+
+       In Re:  Lorazepam & Clorazepate Antitrust Litigation
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99ms00276)
+
+     John G. Roberts, Jr. argued the cause for petitioners.  
+With him on the briefs were Catherine E. Stetson, Michael R. 
+Grynberg, Christopher K. Tahbaz, Irving Scher and David A. 
+Hickerson.  James B. Weidner entered an appearance.
+
+     Michael D. Hausfeld argued the cause for respondents.  
+With him on the brief were Arthur M. Kaplan and Thomas 
+Campbell.
+
+     Before:  Ginsburg, Chief Judge, Rogers and Garland, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  This appeal presents for the first 
+time in this circuit the threshold question of when interlocu-
+
+tory review of a class certification decision is appropriate 
+under Federal Rule of Civil Procedure 23(f).  We take the 
+opportunity to offer general guidance on the scope of our 
+discretion under Rule 23(f) in considering the petition for 
+Rule 23(f) review by Mylan Laboratories, Inc., Mylan Phar-
+maceuticals, Inc., UDL Laboratories, Inc., Profarmaco S.r.l., 
+Cambrex Corporation, and GYMA Laboratories of America, 
+Inc. (collectively "Mylan"), of the district court's certification 
+of a class of direct purchasers of the generic anti-anxiety 
+drugs lorazepam and clorazepate from Mylan or UDL.  My-
+lan contends that the district court erred in ruling that 
+despite the Federal Trade Commission's ("FTC") procure-
+ment of a settlement against Mylan on behalf of a class of 
+indirect purchasers, a class of direct purchasers had antitrust 
+standing under Illinois Brick Co. v. Illinois, 431 U.S. 720 
+(1977), and, in the alternative that the certified class consists 
+of both direct and indirect purchasers in violation of Illinois 
+Brick.  We conclude that interlocutory appeal pursuant to 
+Rule 23(f) typically is appropriate in three circumstances:  (1) 
+when there is a death-knell situation for either the plaintiff or 
+defendant that is independent of the merits of the underlying 
+claims, coupled with a class certification decision by the 
+district court that is questionable, taking into account the 
+district court's discretion over class certification;  (2) when the 
+certification decision presents an unsettled and fundamental 
+issue of law relating to class actions, important both to the 
+specific litigation and generally, that is likely to evade end-of-
+the-case review;  and (3) when the district court's class certifi-
+cation decision is manifestly erroneous.  Applying these stan-
+dards we deny Mylan's petition for interlocutory review.
+
+                                I.
+
+     The class action now pending in the district court was 
+preceded by two lawsuits brought by the FTC and several 
+States' Attorneys General against Mylan that were ultimately 
+consolidated and ended in a settlement.  On December 21, 
+1998, the FTC filed suit, pursuant to ss 5 and 13(b) of the 
+Federal Trade Commission Act ("FTC Act"), 15 U.S.C. ss 45, 
+53(b), against Mylan, Cambrex, Profarmaco, and GYMA Lab-
+
+oratories, seeking injunctive and equitable relief, including 
+disgorgement of $120 million plus interest.  FTC v. Mylan 
+Labs., Inc., 62 F. Supp. 2d 25, 32, 34 (D.D.C. 1999).  The 
+amended complaint alleged that the defendants had engaged 
+in unfair methods of competition in violation of s 5(a) of the 
+FTC Act, 15 U.S.C. s 45(a), by Mylan's entering into exclu-
+sive licensing agreements with the other defendants, allowing 
+Mylan to control the supply of the active pharmaceutical 
+ingredients ("API") for generic lorazepam and clorazepate 
+tablets so that Mylan could increase the price of these generic 
+drugs.  On December 22, 1998, the Attorneys General of ten 
+States, later joined by an additional 22 States and the District 
+of Columbia, brought suit against the same defendants and 
+SST Corporation, seeking equitable relief and treble damages 
+for violations of ss 1 and 2 of the Sherman Act, 15 U.S.C. 
+ss 1, 2, and various State antitrust laws.  Mylan, 62 F. Supp. 
+2d at 32;  see also In re Lorazepam & Clorazepate Antitrust 
+Litig., 205 F.R.D. 369, 373 (D.D.C. 2002).  As to the FTC, the 
+district court denied the defendants' motion to dismiss, which 
+argued that the district court lacked subject matter jurisdic-
+tion because the FTC was not authorized to seek either 
+monetary relief or a permanent injunction in an antitrust 
+case.  Mylan, 62 F. Supp. 2d at 35-37.  As to the States, the 
+district court partially granted the defendants' motion to 
+dismiss, inter alia, narrowing the States' federal claims to 
+claims under s 4 of the Clayton Act for direct purchases and 
+limiting restitution and disgorgement on behalf of indirect 
+purchasers on a State-by-State basis.  Id. at 37-53;  see also 
+FTC v. Mylan Labs., Inc., 99 F. Supp. 2d 1, 4-10 (D.D.C. 
+1999).  Subsequently, the parties entered into a settlement 
+agreement, which the district court approved on February 1, 
+2002.  Mylan, 205 F.R.D. at 402.  The settlement agreement 
+provided, in part, that Mylan would pay disgorgement in the 
+amount of $71,782,017 to satisfy the consumer claims in the 
+States' lawsuit and $28,217,983 to satisfy the States' agency 
+claims.  The settlement agreement also provided that the 
+FTC, States, State agencies, and consumers who did not 
+
+exclude themselves from the settlement, would release their 
+claims against the defendants.
+
+     On August 16, 1999, the Judicial Panel on Multidistrict 
+Litigation transferred to the United States District Court for 
+the District of Columbia a Northern District of Illinois lawsuit 
+pending against Mylan.  This lawsuit was consolidated, on 
+March 9, 2000, with a lawsuit brought by St. Charles Rehabil-
+itation Center against Mylan.  The named plaintiffs in the 
+consolidated action were Advocate Health Care, St. Charles 
+Hospital and Rehabilitation Center, Dik Drug Company, and 
+Harvard Pilgrim Health Care, and they sought class certifica-
+tion as direct purchasers of lorazepam and clorazepate.  The 
+amended complaint alleged that Mylan had engaged in price 
+fixing and monopolization in violation of ss 1 and 2 of the 
+Sherman Act, and the plaintiffs sought treble damages pursu-
+ant to s 4 of the Clayton Act.  Mylan moved to dismiss the 
+complaint pursuant to Federal Rules of Civil Procedure 
+12(b)(1) and 12(b)(6), on the ground that the plaintiffs' pro-
+posed class of direct purchasers lacked antitrust standing to 
+assert their claims.  In Illinois Brick, the Supreme Court 
+held that, with narrow exceptions, only direct purchasers may 
+recover damages for illegal overcharges under s 4 of the 
+Clayton Act.  Illinois Brick, 431 U.S. at 746-47.  Essentially, 
+Mylan argued that the usual direct purchaser rule of Illinois 
+Brick should not apply because the FTC had won a monetary 
+recovery for the benefit of a class of indirect consumer 
+purchasers pursuant to s 13(b) of the FTC Act for alleged 
+antitrust violations, and to allow both purchaser classes to 
+obtain relief would undermine the policy rationales behind 
+Illinois Brick.  In the alternative, Mylan opposed the class 
+certification arguing, inter alia, that the class consisted of 
+direct and indirect purchasers in violation of Illinois Brick's 
+direct purchaser rule.  On July 2, 2001, the district court 
+denied the motion to dismiss, and, in accord with the plain-
+tiffs' request, certified the following class:
+
+     All persons and entities in the United Sates who pur-
+     chased generic lorazepam tablets and/or generic cloraze-
+     pate tablets directly from Defendants Mylan and UDL 
+     
+     during the period January 12, 1998 through the present, 
+     excluding Defendants, their respective parents, subsid-
+     iaries and affiliates, any co-conspirators of Defendants, 
+     and all governmental entities.
+     
+In re Lorazepam & Clorazepate Antitrust Litig., 202 F.R.D. 
+12, 21 (D.D.C. 2001).  The district court appointed Advocate 
+Health Care, St. Charles Hospital, Dik Drug, and Harvard 
+Pilgrim as class representatives.
+
+     Mylan now petitions for interlocutory review of the district 
+court's denial of its Rule 12(b)(6) motion to dismiss and the 
+district court's certification of a class of direct purchasers. 
+Asserting that "[t]his is not the typical case," Petitioners' Br. 
+at 16, Mylan contends that, in light of the flexible standards 
+for review developed in the circuits, appellate review of its 
+petition under Rule 23(f) is warranted:  not only does Mylan's 
+petition raise the novel issue of law of "how properly to 
+calibrate antitrust standing where two antitrust cases collide," 
+id. at 20, the outcome of which is potentially dispositive of the 
+case, but also the district court's decision is particularly 
+susceptible to challenge and there may be no further opportu-
+nity to review its decision.  Reviving its Rule 12(b)(6) conten-
+tion, Mylan challenges the district court's certification deci-
+sion by contending first that under Illinois Brick, the FTC's 
+s 13(b) enforcement action on behalf of the ultimate consum-
+ers of lorazepam and clorazepate precludes suit by a direct 
+purchaser class.  Allowing a direct purchaser class to sue the 
+same defendants for antitrust damages following the FTC's 
+suit and settlement would, in Mylan's view, "topple every 
+rationale" supporting Illinois Brick's rule confining potential 
+antitrust plaintiffs to one level of purchasers.  Id. at 17.  In 
+"these uncommon circumstances," Mylan concludes, "the di-
+rect purchaser class should be denied recovery."  Id.  Sec-
+ond, as to the certified class, Mylan maintains that, even if 
+direct purchasers may sue for antitrust damages in addition 
+to the consumer class, the district court erred in ruling that 
+the class had antitrust standing under the direct purchaser 
+rule and its narrow exceptions.  According to Mylan, many 
+members of the class, including three of the four class 
+representatives, bought lorazepam and clorazepate, not from 
+
+Mylan, but from pharmaceutical wholesalers, who also pur-
+port to be members of the direct purchaser class.  Mylan 
+asserts that this purchasing chain makes these class members 
+who purchased from intermediaries "quintessential indirect 
+purchasers," who, under Illinois Brick, cannot sue for anti-
+trust damages.  Hence, Mylan maintains, the district court 
+erred in not determining, prior to certifying the class, wheth-
+er the class and its representatives had antitrust standing 
+under Illinois Brick.
+
+     We first set forth the standards that we will ordinarily 
+apply in exercising our discretion under Rule 23(f), and then 
+we address the contentions in Mylan's petition.
+
+                               II.
+
+     Rule 23(f), added by amendment in 1998, provides that "[a] 
+court of appeals may in its discretion permit an appeal from 
+an order of a district court granting or denying class action 
+certification under this rule if application is made to it within 
+ten days after entry of the order."  Fed. R. Civ. P. 23(f).  
+Although other circuit courts of appeals have addressed the 
+scope of Rule 23(f) review, this is a question of first impres-
+sion for this court.  The advisory committee's note to Rule 
+23(f) states that "[a]ppeal from an order granting or denying 
+class certification is permitted in the sole discretion of the 
+court of appeals" and is "akin to the discretion exercised by 
+the Supreme Court in acting on a petition for certiorari."  
+Fed. R. Civ. P. 23(f) advisory committee's note.  The advisory 
+committee's note also indicates that not all class certification 
+issues warrant review, noting that "many suits with class-
+action allegations present familiar and almost routine issues 
+that are no more worthy of immediate appeal than many 
+other interlocutory rulings" and accordingly directs the 
+"courts of appeals [to] develop standards for granting review 
+that reflect the changing areas of uncertainty in class litiga-
+tion."  Id.  The advisory committee's note offers this further 
+guidance:
+
+          Permission to appeal may be granted or denied on the 
+     basis of any consideration that the court of appeals finds 
+     
+     persuasive.  Permission is most likely to be granted 
+     when the certification decision turns on a novel or unset-
+     tled question of law, or when, as a practical matter, the 
+     decision on certification is likely dispositive of the litiga-
+     tion.
+     
+Id.  Thus, the advisory committee's note identifies two in-
+stances in which Rule 23(f) review would likely be appropri-
+ate:  (1) when a class certification decision as a practical 
+matter terminates the litigation;  and (2) when a class certifi-
+cation decision raises a novel issue of law.  Relying on this 
+guidance, other circuits have examined the appropriate scope 
+of Rule 23(f).
+
+     First among the circuits to address the scope of appellate 
+review pursuant to Rule 23(f), was the Seventh Circuit in 
+Blair v. Equifax Check Services, Inc., 181 F.3d 832 (7th Cir. 
+1999).  In Blair, the Seventh Circuit rejected the adoption of 
+a bright-line rule as imprudent and, looking to the reasons for 
+the addition of Rule 23(f), identified three categories of cases 
+in which appellate review would be appropriate.  Id. at 834.  
+First, for some cases, denial of class status would sound the 
+"death knell" of the litigation because the "representative 
+plaintiff's claim is too small to justify the expense of litiga-
+tion."  Id.  Second, the grant of class status can put substan-
+tial pressure on the defendant to settle independent of the 
+merits of the plaintiffs' claims.  Id.  Third, an appeal may 
+facilitate the development of the law of class actions.  Id. at 
+835.  Regarding the first two categories, the Seventh Circuit 
+added that the petitioner must demonstrate that the district 
+court's certification decision was "questionable" and "must do 
+this taking into account the discretion the district judge 
+possesses in implementing Rule 23, and the correspondingly 
+deferential standard of appellate review."  Id.  It explained, 
+if the district court's decision is "impervious to revision," 
+there is no point to an interlocutory appeal no matter how 
+"dramatic the effect of the grant or denial of class status [is] 
+in undercutting the plaintiff's claim or inducing the defendant 
+to capitulate."  Id.  Regarding the third category of cases, 
+which it noted is likely to include fundamental issues about 
+class actions that have been poorly developed because so 
+many class actions settle or are resolved in a manner that 
+
+overtakes procedural matters, id., the Seventh Circuit ob-
+served that it is less important to show that the district 
+court's certification decision is questionable, explaining that 
+law can be advanced through affirmances as well as reversals;  
+rather, the more important the question under the second 
+factor is and the "greater the likelihood that it will escape 
+effective disposition at the end of the case," the more appro-
+priate the appeal.  Id.
+
+     The First Circuit in Waste Management Holdings, Inc. v. 
+Mowbray, 208 F.3d 288 (1st Cir. 2000), agreed that Blair 
+"captured the essential principles on which Rule 23(f) rests."  
+Id. at 293.  However, because of the ease with which issues of 
+law can be characterized as "fundamental," id. at 294, and 
+because so many class certification decisions turn on "familiar 
+and almost routine issues," id. (quoting Fed. R. Civ. P. 23(f) 
+advisory committee's note), the First Circuit narrowed the 
+third category to include only "those instances in which an 
+appeal will permit the resolution of an unsettled legal issue 
+that is important to the particular litigation as well as impor-
+tant in itself and likely to escape effective review if left 
+hanging until the end of the case."  Id.  At the same time, 
+however, the First Circuit duly noted the broad discretion 
+ceded to the appellate courts by the rule, and cautioned that:
+
+     While we hope that these general comments will be 
+     helpful to parties deciding whether to pursue applications 
+     under Rule 23(f), we do not foreclose the possibility that 
+     special circumstances may lead us either to deny leave to 
+     appeal in cases that seem superficially to fit into one of 
+     these three pigeonholes, or conversely, to grant leave to 
+     appeal in cases that do not match any of the three 
+     described categories.
+     
+Id.  Stating as well that it "intend[s] to exercise [its] discre-
+tion judiciously," however, the First Circuit observed that 
+"[b]y their nature, interlocutory appeals are disruptive, time-
+consuming, and expensive," and that notwithstanding the 
+access to the appellate courts provided by Rule 23(f), the 
+court "should err, if at all, on the side of allowing the district 
+court an opportunity to fine-tune its class certification order, 
+rather than opening the door too widely to interlocutory 
+
+appellate review."  Id. (citing Fed. R. Civ. P. 23(c)(1)).  The 
+Second Circuit, in In re Sumitomo Copper Litigation, 262 
+F.3d 134 (2d Cir. 2001), appears to have adopted the approach 
+set forth in Mowbray.  Id. at 139-40.  It stated that Rule 
+23(f) petitioners ordinarily must show either that the certifi-
+cation order (1) "will effectively terminate the litigation and 
+there has been a substantial showing that the district court's 
+decision is questionable," or (2) "implicates a legal question 
+about which there is a compelling need for immediate resolu-
+tion."  Id. at 139.
+
+     Other circuits have elaborated on the Mowbray approach.  
+The Eleventh Circuit, in Prado-Steiman v. Bush, 221 F.3d 
+1266 (11th Cir. 2000), adopted five guideposts for Rule 23(f) 
+review:  (1) whether the certification ruling is likely to sound 
+the death knell of the litigation;  (2) whether the district 
+court's certification decision contains a substantial weakness, 
+such that it likely was an abuse of discretion;  (3) whether the 
+appeal presents an unsettled legal question that is of specific 
+and general importance, e.g., issues likely to evade review, 
+issues that are involved in related actions, and interests that 
+affect the public interest;  (4) the nature and status of the 
+litigation before the district court, e.g., the status of discov-
+ery, the pendency of relevant motions, and how long the 
+matter has been pending;  and (5) the likelihood that future 
+events will make immediate appellate review more appropri-
+ate, e.g., a change in financial status of a party or ongoing 
+settlement negotiations.  Id. at 1274-76.  The second factor 
+serves as a sliding scale:  the more questionable the district 
+court's decision, the less the remaining four factors need 
+weigh in.  Id. at 1274-75 & n.10.  The Eleventh Circuit 
+recognized the possibility that when the district court's certi-
+fication decision is clearly wrong, Rule 23(f) review "may be 
+warranted even if none of the other factors supports granting 
+the Rule 23(f) petition."  Id. at 1275.  The Fourth Circuit, in 
+Lienhart v. Dryvit Systems, Inc., 255 F.3d 138 (4th Cir. 
+2001), adopted the Eleventh Circuit's approach with the slid-
+ing scale, but firmly stated that when a class certification 
+decision is manifestly erroneous, review is warranted regard-
+less of the remaining factors.  Id. at 145-46.  The court 
+
+explained that stringent standards for review are inappropri-
+ate as "Rule 23(f)'s purpose [was] to eliminate the unduly 
+restrictive review practices which obtained when mandamus 
+was the only available means to review a class certification 
+prior to final judgment in the absence of a district court's 
+decision to voluntarily certify the issue for immediate re-
+view...." Id. at 145.  Hence, the Fourth Circuit observed 
+that "[i]n addition to addressing 'death knell' situations and 
+promoting the resolution of legal questions of general impor-
+tance, a careful and sparing use of Rule 23(f) may promote 
+judicial economy by enabling the correction of certain mani-
+festly flawed class certifications prior to trial and final judg-
+ment."  Id. at 145.  Following the Eleventh and Fourth 
+Circuits' decisions, the Third Circuit, in Newton v. Merrill 
+Lynch, Pierce, Fenner & Smith, 259 F.3d 154 (3d Cir. 2001), 
+identified four categories of cases in which Rule 23(f) would 
+be appropriate:  the three set forth by the Seventh Circuit in 
+Blair and the advisory committee's note plus the Eleventh 
+and Fourth Circuits' inclusion of a category of likely errone-
+ous class certification decisions.  Id. at 165.
+
+     The differences among the circuits, which are subtle, are of 
+three types.  First, two circuits permit appeal if the district 
+court's decision is erroneous, regardless whether the other 
+factors governing appeal under Rule 23(f) are present.  Com-
+pare Newton, 259 F.3d at 165;  and Lienhart, 255 F.3d at 
+145-46;  with Mowbray, 208 F.3d at 293-94;  and Blair, 181 
+F.3d at 834-35.  Second, two circuits allow appeal when a 
+petition raises an unsettled and fundamental question of law, 
+regardless whether the district court likely erred.  See Mow-
+bray, 208 F.3d at 293;  Blair, 181 F.3d at 835.  Third, those 
+same circuits caution that interlocutory appeal of an unsettled 
+question of law is appropriate only when that question may 
+evade effective appellate review at the end of the trial court 
+proceedings.  See Mowbray, 208 F.3d at 293-94;  Blair, 181 
+F.3d at 835.
+
+     In our view, interlocutory appellate review under Rule 23(f) 
+is properly directed by the guidance set forth in the advisory 
+committee's note.  The note reflects, on balance, a reluctance 
+to depart from the traditional procedure in which claimed 
+
+errors by the district court are reviewed on appeal only upon 
+the conclusion of the proceedings in the district court.  Al-
+though the rule ceded broad discretion to the appellate 
+courts, it is understood, if not presumed, that appellate courts 
+will act with cognizance of both the concerns underlying 
+interlocutory appeals generally and the specific purposes for 
+the allowance of interlocutory appeals of class certification 
+decisions in Rule 23(f).  Delay caused by interlocutory ap-
+peals under Rule 23(f) may be less of a concern because filing 
+a petition does not automatically stay the litigation, see Blair, 
+181 F.3d at 835;  in the instant case, the docket indicates that 
+the case proceeded until the district court granted Mylan's 
+motion for a stay on April 15, 2002.  Still, interlocutory 
+appeals are generally disfavored as "disruptive, time-
+consuming, and expensive" for both the parties and the 
+courts, Mowbray, 208 F.3d at 294, and the more so in a 
+complex class action where the district court may reconsider 
+and modify the class as the case progresses.  Prado- 
+Steiman, 221 F.3d at 1276-77;  Fed. R. Civ. P. 23(c)(1).  As 
+the Eleventh Circuit aptly commented, the exception provided 
+by Rule 23(f) should be exercised in a manner that avoids 
+both micromanagement of complex class actions as they 
+evolve in the district court and inhibition of the district 
+court's willingness to revise the class certification for fear of 
+triggering another round of appellate review.  See Prado-
+Steiman, 221 F.3d at 1273-74.  Thus, petitions for Rule 23(f) 
+review are likely to be granted sparingly in cases that fall 
+within neither the guidelines in the advisory committee's note 
+nor the standards we adopt today.  Nonetheless, the circuit 
+courts addressing Rule 23(f) are in agreement that restric-
+tions on review should not preclude review in special circum-
+stances that neither the advisory committee's note nor the 
+courts foresaw.  See, e.g., Mowbray, 208 F.3d at 294;  Blair, 
+181 F.3d at 834.
+
+     With these considerations in mind, we offer the following 
+guidance.  Rule 23(f) review will ordinarily be appropriate in 
+three circumstances:  (1) when there is a death-knell situation 
+for either the plaintiff or defendant that is independent of the 
+merits of the underlying claims, coupled with a class certifica-
+
+tion decision by the district court that is questionable, taking 
+into account the district court's discretion over class certifica-
+tion;  (2) when the certification decision presents an unsettled 
+and fundamental issue of law relating to class actions, impor-
+tant both to the specific litigation and generally, that is likely 
+to evade end-of-the-case review;  and (3) when the district 
+court's class certification decision is manifestly erroneous.  
+Whether the district court's decision is questionable need not 
+affect the appropriateness of Rule 23(f) review in the second 
+category, as issues of law can be advanced through affir-
+mances as well as reversals.  Blair, 181 F.3d at 835.  But we 
+conclude, unlike Mowbray and Blair, that error in certifying 
+a class should not entirely be ignored outside the first catego-
+ry.  Where a district court class certification decision is 
+manifestly erroneous, for example, Rule 23(f) review would be 
+warranted even in the absence of a death-knell situation if for 
+no other reason than to avoid a lengthy and costly trial that is 
+for naught once the final judgment is appealed.  Although 
+these standards are meant as guidance on when Rule 23(f) 
+review ordinarily will be granted, we caution that the stan-
+dards represent guidance, not a rigid test.
+
+     As is true for all the circuits, we are of the view that Rule 
+23(f) review should be granted rarely where a case does not 
+fall within one of these three categories.  The sheer number 
+of class actions, the district court's authority to modify its 
+class certification decision, see Fed. R. Civ. P. 23(c)(1), and 
+the ease with which litigants can characterize legal issues as 
+novel, all militate in favor of narrowing the scope of Rule 23(f) 
+review.  See Prado-Steiman, 221 F.3d at 1273-74;  see also 
+Mowbray, 208 F.3d at 294.  At the same time, there neces-
+sarily should be some hesitancy in creating a rigid test for the 
+exercise of an appellate court's discretion to grant a Rule 
+23(f) petition for review because circumstances may arise that 
+cannot now be anticipated in which review would be appropri-
+ate, and conversely, in which review would be inappropriate 
+notwithstanding the fact that a petition falls within the cate-
+gories of cases in which review would ordinarily be appropri-
+ate.  As the advisory committee's note indicates, the circuit 
+court standards should "reflect the changing areas of uncer-
+
+tainty in class litigation."  Fed. R. Civ. P. 23(f) advisory 
+committee's note.  Each circuit, thus, has reserved some 
+leeway in its standards.  See, e.g., Newton, 259 F.3d at 165;  
+Prado-Steinman, 221 F.3d at 1276;  Mowbray, 208 F.3d at 
+294;  Blair, 181 F.3d at 834.  So do we.  That said, we 
+nevertheless conclude that, absent special circumstances, this 
+court's consideration of petitions for interlocutory review 
+under Rule 23(f) should ordinarily fall within the three cir-
+cumstances that we have identified.
+
+                               III.
+
+     Mylan contends in its Rule 23(f) petition for review that, 
+although certification of a class of direct purchasers is consis-
+tent with the direct purchaser rule of Illinois Brick, it 
+conflicts with what Mylan regards as the underlying policy of 
+Illinois Brick--that only one purchaser class has antitrust 
+standing to sue under s 4 of the Clayton Act--when, as here, 
+the FTC has brought suit and obtained a settlement on behalf 
+of a class of consumer indirect purchasers.  Mylan also 
+contends that the certified class consists of both direct and 
+indirect purchasers in contravention of Illinois Brick and 
+Rule 23's class certification requirements.  Seeking to bring 
+itself within the flexible standards for Rule 23(f) adopted by 
+the circuit courts, Mylan maintains that its petition for review 
+should be granted because "important issues of antitrust 
+standing [are] raised by the District Court's class certification 
+ruling" that are novel, significant, and potentially dispositive, 
+and because the class as certified is particularly suspect and 
+may avoid later review given the potential liability Mylan 
+faces.  We conclude that Rule 23(f) review is inappropriate 
+because Mylan's arguments in support of its Rule 12(b)(6) 
+motion to dismiss are unrelated to class certification, and 
+because Mylan's only challenge to the class certification deci-
+sion falls outside the categories for Rule 23(f) review set forth 
+in Part II.
+
+                                A.
+
+     Rule 23(f) interlocutory review is limited to issues that 
+relate to class certification.  See Fed. R. Civ. P. 23(f);  Bertul-
+
+li v. Indep. Ass'n of Cont'l Pilots, 242 F.3d 290, 294 (5th Cir. 
+2001);  Carter v. W. Publ'g Co., 225 F.3d 1258, 1262 (11th Cir. 
+2000).  Thus, under Rule 23(f), this court can review the 
+merits of an appeal only insofar as they bear upon the 
+propriety of class certification, that is, whether the proposed 
+class satisfies the prerequisites of Rule 23.  The threshold 
+requirements of class certification under Rule 23(a) are:  (1) 
+numerosity (a large enough class such that "joinder of all 
+members is impractical");  (2) commonality ("questions of law 
+or fact common to the class");  (3) typicality ("claims or 
+defenses of the representative parties are typical of the 
+claims or defenses of the class");  and (4) adequacy of repre-
+sentation ("representative parties will fairly and adequately 
+protect the interests of the class").  Fed. R. Civ. P. 23(a);  
+Amchem Prods., Inc. v. Windsor, 521 U.S. 591, 613 (1997).  
+The rule also limits class actions to cases where:  (1) separate 
+actions would risk "establish[ing] incompatible standards of 
+conduct for the party opposing the class" or individual adjudi-
+cations "which would as a practical matter be dispositive of 
+the interests" of nonparty members or "substantially impair 
+or impede their ability to protect their interests";  (2) injunc-
+tive or declaratory relief is sought and "the party opposing 
+the class has acted or refused to act on grounds generally 
+applicable to the class";  or (3) "the court finds that the 
+questions of law or fact common to the members of the class 
+predominate over any questions affecting only individual 
+members, and that a class action is superior to other available 
+methods for the fair and efficient adjudication of the contro-
+versy."  Fed. R. Civ. P. 23(b)(1), (2), & (3);  Amchem, 521 
+U.S. at 614-16.
+
+     Although Mylan is correct that whether a class of direct 
+purchasers has antitrust standing under the particular cir-
+cumstances at issue is a novel question of law, the question is 
+unrelated to class certification under Rule 23.  As Mylan 
+styled its filing in the district court, its novel question of law 
+is properly raised in a Rule 12(b)(6) motion to dismiss;  the 
+denial of a motion to dismiss is generally not subject to 
+interlocutory review under Rule 23(f) because whether the 
+plaintiffs state a cause of action is only relevant to class 
+
+certification to the extent the inquiry relates to the require-
+ments of Rule 23.  See Gen. Tel. Co. of the Southwest v. 
+Falcon, 457 U.S. 147, 160 (1982);  Eisen v. Carlisle & Jacque-
+lin, 417 U.S. 156, 177-78 (1974).  Mylan's effort to recast its 
+Rule 12(b)(6) arguments as a challenge to class certification 
+on the ground that a class of direct purchasers lacks antitrust 
+standing, is to no avail.  That Mylan's argument as to anti-
+trust standing may dispose of the class as a whole and 
+thereby preclude a lawsuit by direct purchasers goes well 
+beyond the purpose of Rule 23(f) review because it is unrelat-
+ed to the Rule 23 requirements.  The fact that Mylan's 
+challenge would be dispositive of the class action is not unlike 
+a variety of issues of law on the merits of a class action 
+because of the very nature of commonality, see Fed. R. Civ. P. 
+23(a)(2);  review of such issues would expand Rule 23(f) 
+interlocutory review to include review of any question raised 
+in a motion to dismiss that may potentially dispose of a 
+lawsuit as to the class as a whole.  This result would inappro-
+priately mix the issue of class certification with the merits of 
+a case, which do not warrant interlocutory review pursuant to 
+Rule 23(f).  What matters for purposes of Rule 23(f) is 
+whether the issue is related to class certification itself, and 
+Mylan makes no showing that its antitrust standing claim is 
+so related.
+
+     The cases on which Mylan relies do not advance its cause.  
+To the extent that appellate courts have considered constitu-
+tional standing pursuant to Rule 23(f), the inquiry has been 
+limited to whether the court has subject matter jurisdiction to 
+review the class certification issue, or whether the claims of 
+the representatives of the class have the requisite typicality.  
+Neither inquiry is applicable to the antitrust standing issue 
+that Mylan presents.  In the first category of cases cited by 
+Mylan is Bertulli v. Independent Association of Continental 
+Pilots, 242 F.3d 290 (5th Cir. 2001), in which the Fifth Circuit 
+explained that, because Article III standing is one element of 
+the court's subject matter jurisdiction, this requirement must 
+be met before the court can even examine whether the class 
+has met the Rule 23 requirements.  Id. at 294;  see also 
+Rivera v. Wyeth-Ayerst Labs., 283 F.3d 315, 319 (5th Cir. 
+
+2002);  Isaacs v. Sprint Corp., 261 F.3d 679, 682-83 (7th Cir. 
+2001).  Unlike constitutional standing, this court's jurisdiction 
+does not turn on antitrust standing.  See Associated Gen. 
+Contractors of Cal., Inc. v. Cal. State Council of Carpenters, 
+459 U.S. 519, 535 n.31 (1983).  The question of constitutional 
+standing, which is a prerequisite to Rule 23 class certification 
+because it goes to the court's jurisdiction, is not at issue here.  
+In the second category of cases cited by Mylan is Prado-
+Steiman, in which the Eleventh Circuit considered, pursuant 
+to Rule 23(f), whether the named representatives had consti-
+tutional standing, explaining that the question of standing was 
+appropriate for review under Rule 23(f) only to the extent it 
+was relevant to Rule 23's typicality requirement for "[w]ith-
+out individual standing to raise a legal claim, a named repre-
+sentative does not have the requisite typicality to raise the 
+same claim on behalf of a class."  Prado-Steiman, 221 F.3d at 
+1279-80;  see also Piazza v. EBSCO Indus., Inc., 273 F.3d 
+1341, 1346-55 (11th Cir. 2001);  Carter, 225 F.3d at 1262-63.  
+The court thus only considered Article III standing to the 
+extent that it was relevant to Rule 23 class certification.  
+Unlike constitutional standing, whether the class representa-
+tives have antitrust standing because they are direct purchas-
+ers does not go to the typicality of the claims of the represen-
+tatives of the class, which is composed entirely of direct 
+purchasers.  See Fed. R. Civ. P. 23(a)(3);  Prado-Steiman, 
+221 F.3d at 1279 & n.14.  Hence, the issue of antitrust 
+standing is beyond the scope of the court's Rule 23(f) review.  
+The only case to which Mylan points in which a court consid-
+ered antitrust standing to be a necessary predicate to certify-
+ing the class is In re NASDAQ Market-Makers Antitrust 
+Litigation, 169 F.R.D. 493 (S.D.N.Y. 1996), but there the 
+court appears to have viewed antitrust standing as being 
+relevant to its subject matter jurisdiction;  it was only on this 
+basis that the court considered antitrust standing to be a 
+prerequisite to class certification.  See id. at 504-05.
+
+     Although the question of whether a class of direct purchas-
+ers has antitrust standing when, in Mylan's terms, "two 
+antitrust cases collide" relates neither to this court's subject 
+
+matter jurisdiction nor to any aspect of Rule 23 class certifi-
+cation, there may be occasions when threshold issues (e.g., 
+statute of limitations), jurisdictional issues (e.g., Article III 
+constitutional standing), or issues on the merits (e.g., affirma-
+tive defenses or the elements of a cause of action, see, e.g., 
+West v. Prudential Securities, Inc., 282 F.3d 935, 937 (7th 
+Cir. 2002);  Newton, 259 F.3d at 172;  Mowbray, 208 F.3d at 
+295-99), would be appropriate for interlocutory review pursu-
+ant to Rule 23(f).  In such circumstances, however, those 
+issues would relate in some manner to the certification of the 
+class or the court's jurisdiction.  We have no occasion to 
+describe the precise contours of the relationship, for here 
+there is no such relation.
+
+                                B.
+
+     Mylan's challenge to the composition of the certified class 
+as assertedly, and improperly, consisting of both direct and 
+indirect purchasers also is inappropriate for Rule 23(f) review.
+
+     First, Mylan has not shown that certification of the class 
+would sound the death knell of the litigation.  Other than 
+mere assertions, Mylan makes no showing that it will be 
+unduly pressured to settle because of the class's certification.  
+Mylan failed to submit any evidence that the damages 
+claimed would force a company of its size to settle without 
+relation to the merits of the class's claims.  See Prado-
+Steiman, 221 F.3d at 1274;  Mowbray, 208 F.3d at 294-95.
+
+     Second, Mylan's challenge presents no unsettled question 
+of fundamental importance to the law of class actions.  Mylan 
+argues that the district court erred in applying the standards 
+of Rule 23 to the facts of this case, but Mylan does not aver 
+that the district court lacked established law to guide it in 
+that task.  Insofar as Mylan's objection is based upon the 
+district court's conclusion that the class representatives are 
+direct purchasers, the law guiding that decision also is well 
+settled.  See Illinois Brick, 431 U.S. at 735-36.
+
+     Third, Mylan has not made a showing that, in light of the 
+district court's discretion, see Hartman v. Duffey, 19 F.3d 
+
+1459, 1471 (D.C. Cir. 1994), the class certification was mani-
+festly erroneous.  Mylan contends the certified class does not 
+meet the requirements of Rule 23(a)(2-4), namely, predomi-
+nance, typicality, and adequacy of representation, because 
+members of the class occupy different levels of a distribution 
+relationship with Mylan.  Upon the record before us, howev-
+er, we can not conclude that there is manifest error in the 
+district court's determination that the class representatives 
+have standing under Illinois Brick or in the findings of fact 
+underlying that conclusion.  As the district court comes to 
+know more about the relationships among Mylan, the phar-
+maceutical wholesalers, and the class plaintiffs, it may further 
+refine the class, see Fed. R. Civ. P. 23(c)(1)--a possibility that 
+supports our conclusion that immediate appeal is not warrant-
+ed here.
+
+     Accordingly, we hold, upon applying the standards that we 
+have outlined in defining when Rule 23(f) review is ordinarily 
+appropriate, that Mylan's challenges to the class certification 
+do not warrant interlocutory review pursuant to Rule 23(f).  
+Although Mylan would nonetheless have the court reach the 
+merits of the district court's certification decision as well as 
+the merits of its Rule 12(b)(6) motion to dismiss because the 
+issues have been carefully briefed, review under Rule 23(f) is 
+not warranted.  Therefore, we deny the petition for review.
+
+                                                 

@@ -1,0 +1,583 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued May 14, 2002     Decided June 14, 2002 
+
+                           No. 01-1151
+
+              Process Gas Consumers Group, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+    Tennessee Gas Pipeline Company and East Tennessee Group, 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     James M. Bushee argued the cause for petitioners and 
+supporting intervenors.  With him on the briefs were Bar-
+bara K. Heffernan, Debra Ann Palmer, Roy R. Robertson 
+Jr., Jennifer N. Waters, Edward J. Grenier Jr. and Joshua 
+L. Menter.
+
+     Lona T. Perry argued the cause for respondent.  On the 
+brief were Cynthia A. Marlette, General Counsel, Federal 
+Energy Regulatory Commission, Dennis Lane, Solicitor, and 
+Laura J. Vallance, Attorney.
+
+     G. Mark Cook and Howard L. Nelson were on the brief 
+for intervenor Tennessee Gas Pipeline Company.  Shemin V. 
+Proctor entered an appearance.
+
+     Before:  Ginsburg, Chief Judge, Randolph and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Petitioners challenge the Federal 
+Energy Regulatory Commission's approval of Tennessee Gas 
+Pipeline Company's proposed method for awarding pipeline 
+capacity and allocating meter amendments.  Finding that the 
+Commission engaged in reasoned decision making with re-
+spect to both issues, we affirm.
+
+                                I.
+
+     The Natural Gas Act ("NGA"), 15 U.S.C. s 717, et seq., 
+requires that natural gas companies charge "just and reason-
+able" rates for the transportation and sale of natural gas.  Id. 
+s 717c(a).  To promote compliance with this mandate, the Act 
+requires gas pipelines to file rate schedules with the Federal 
+Energy Regulatory Commission and to notify the Commis-
+sion of any subsequent changes in rates and charges.  Id. 
+s 717c(c), (d).  On submission of a tariff revision, the Com-
+mission may hold a hearing to determine whether the pipeline 
+has met its burden to show that the amended rates and 
+charges are "just and reasonable."  Id. s 717c(e).
+
+     This case involves a proposed tariff revision that Tennessee 
+Gas Pipeline Company ("Tennessee") filed with FERC in 
+1996.  In that revision, the company proposed adopting a net 
+present value, or "NPV," method to allocate pipeline capacity 
+and to process so-called "meter amendments."  Two aspects 
+of the revision are relevant here:  whether Tennessee must 
+impose a cap on the length of bids for pipeline capacity, and 
+whether it must credit existing gas shippers' contracts for 
+
+mainline capacity in evaluating meter amendment requests.  
+We considered both issues in Process Gas Consumers Group 
+v. FERC ("PGC I") and, finding FERC's reasoning defective, 
+remanded to the Commission for further proceedings.  177 
+F.3d 995, 997 (D.C. Cir. 1999).  Here, we explain each issue in 
+turn, first outlining FERC's original position, then summariz-
+ing our decision in PGC I, and finally describing the Commis-
+sion's orders on remand--the subject of this petition.
+
+                       Capacity Allocation
+
+     Tennessee transports natural gas through a pipeline sys-
+tem stretching from the Gulf of Mexico to New England.  
+Historically, the company awarded "firm capacity"--transpor-
+tation for which the pipeline guarantees delivery, as distinct 
+from "interruptible capacity," for which delivery can be de-
+layed if and when the pipeline has insufficient capacity to 
+meet all customers' demands, see PGC I, 177 F.3d at 997 n.1 
+(internal quotation marks and citation omitted)--on a first-
+come, first-served basis.  The first shipper to submit a re-
+quest received the available capacity, even if the shipper only 
+requested service for a few days or weeks while others sought 
+transportation for longer periods.
+
+     Recognizing the inefficiency of this capacity allocation 
+method, Tennessee's 1996 tariff revision proposed adoption of 
+an NPV method, under which the company would announce 
+an "open season" whenever it wanted to sell capacity, accept a 
+range of bids, compare the bids by discounting the value of 
+each bid to the present, and accept the bid with the highest 
+NPV.  This new system, the pipeline argued, would permit it 
+to award firm capacity to those shippers who value the 
+capacity most--that is, since rates are capped, to those 
+shippers offering the longest contracts.
+
+     Responding to Tennessee's proposal, various parties, in-
+cluding petitioner Process Gas Consumers Group, an associa-
+tion of industrial users of natural gas, warned that although 
+FERC sets the maximum rate Tennessee may charge for 
+transporting gas, the pipeline could exercise its market power 
+to induce shippers to bid for longer contracts than they would 
+
+in a competitive market.  In other words, the commenters 
+worried that shippers would "us[e] long contract duration as a 
+price surrogate to bid beyond the maximum approved rate," 
+United Distribution Cos. v. FERC, 88 F.3d 1105, 1140 (D.C. 
+Cir. 1996) ("UDC"), thereby giving Tennessee insurance 
+against future instability in the natural gas market.  The 
+commenters urged FERC to address this concern by capping 
+the duration of bids Tennessee could consider in its NPV 
+calculations, "to simulate the end product of a competitive 
+market."  PGC I, 177 F.3d at 998.
+
+     Ultimately, FERC approved Tennessee's proposed switch 
+from the first-come, first-served to the NPV approach.  Tenn. 
+Gas Pipeline Co., 76 F.E.R.C. p 61,101, at 61,522 (1996).  In 
+response to the commenters' market power concerns, howev-
+er, the Commission suggested that the pipeline "include a 
+uniform cap" on the length of bids submitted during open 
+seasons.  Id. at 61,519.  Acquiescing, Tennessee proposed a 
+twenty-year cap, explaining that it chose such a high cap 
+because "bids beyond the [twentieth] year are unlikely to 
+have a significant impact on the NPV analysis."  PGC I, 177 
+F.3d at 998-99 (internal quotation marks and citation omit-
+ted).
+
+     Following another comment period, FERC approved the 
+twenty-year cap.  The Commission dismissed Process Gas's 
+objection that the cap was too long to provide adequate 
+protection against the pipeline's market power on the ground 
+that " '[b]idders are not forced into the maximum duration [of 
+twenty years]....  Rather, the primary issue here, is ... 
+when two shippers both desire new capacity should that 
+capacity go to a shipper who values it more, i.e., for a longer 
+term, than another shipper who might value it less.' "  Id. at 
+999-1000 (quoting Tenn. Gas Pipeline Co., 79 F.E.R.C. 
+p 61,297, at 62,339 (1997)).  Unsatisfied with this response, 
+Process Gas filed a petition for review, contending that 
+FERC "failed to engage in reasoned decision making" in 
+accepting the twenty-year cap.  Id. at 997.
+
+     In our first encounter with these issues in PGC I, we found 
+Process Gas's argument persuasive.  Noting FERC's ac-
+
+knowledgment that "the market served by Tennessee's pipe-
+line has monopolistic characteristics," we held that the Com-
+mission had not adequately justified its conclusion that a 
+twenty-year cap would "prevent the NPV method from com-
+pelling shippers to offer the pipeline longer contracts than 
+they would in a competitive market."  Id. at 1003.  We 
+pointed out that the data on which FERC based its approval 
+of the cap--"three previous Commission decisions involving 
+ten and fifteen year ... agreements"--in fact suggested that 
+"competitive market contracts typically run to no more than 
+fifteen years."  Id.  In light of that evidence, we continued, 
+"a twenty-year cap would allow Tennessee's market power to 
+induce excessively long bids."  Id.  We recognized the legiti-
+macy of FERC's "goal of encouraging the allocation of pipe-
+line capacity to parties willing to pay the most for it," but 
+reminded the Commission of its "need to balance th[at] goal 
+with its duty to prevent exploitation of Tennessee's monopoly 
+power."  Id. at 1004.  Observing that "the orders suggest ... 
+FERC approved the twenty-year cap because, functionally, 
+twenty years would amount to no cap at all," we remanded to 
+the Commission, directing it to "take the problem [of Tennes-
+see's monopoly power] seriously and confront it with a forth-
+right explanation of why a twenty-year cap would not aug-
+ment that power."  Id. at 1005.
+
+     FERC then took an entirely different tack.  Noting that 
+when orders are remanded, an agency generally has "discre-
+tion to reconsider the whole of its original decision," Tenn. 
+Gas Pipeline Co., 94 F.E.R.C. p 61,097, at 61,398 (2001) 
+("Rehearing Order") (internal quotation marks and citation 
+omitted), aff'g 91 F.E.R.C. p 61,053 (2000) ("Remand Order"), 
+FERC not only declined to impose a shorter cap on capacity 
+bids, but removed the cap altogether, explaining that, for 
+various reasons, there is little risk that Tennessee will exer-
+cise its monopoly power to force shippers into excessively 
+long contracts.  Process Gas sought rehearing, but the Com-
+mission denied its petition.  Rehearing Order, 94 F.E.R.C. at 
+61,401.
+
+                         Meter Amendments
+
+     The second relevant aspect of Tennessee's 1996 tariff revi-
+sion involves meter amendments.  PGC I explained this term 
+as follows:
+
+     When natural gas is shipped through a pipeline, the 
+     points at which the gas enters and leaves the system are 
+     called "receipt" and "delivery" points, respectively.  A 
+     firm transportation shipper selects "primary" receipt and 
+     delivery points ... [as] part of its contract with the 
+     pipeline.  Designating a point as primary guarantees the 
+     shipper use of the point, an important right when the 
+     pipeline lacks sufficient capacity at the point to satisfy 
+     demand.  Firm shippers can select other points on a 
+     secondary basis, but can only use those points if there is 
+     sufficient capacity beyond that taken by shippers using 
+     them on a primary basis.  A change in a primary receipt 
+     or delivery point is ... referred to as a "meter amend-
+     ment" because gas is measured at these points.
+     
+177 F.3d at 1000.
+
+     The issue here concerns Tennessee's method for allocating 
+new primary points as they become available.  Historically, 
+Tennessee permitted existing shippers to switch primary 
+points on a first-come, first-served basis as long as the chosen 
+new points were available and the shippers notified the 
+pipeline far enough in advance.  When Tennessee adopted its 
+new NPV method for allocating mainline capacity, however, 
+the company indicated that it also intended to use this 
+method to allocate primary points.  Thus, "[a] meter amend-
+ment request would trigger an open season[,] and the reques-
+ter would have to compete with other interested shippers on 
+the basis of NPV."  Id. at 1001.
+
+     This new approach generated considerable controversy be-
+cause in calculating the NPV of competing bids for a particu-
+lar primary point, Tennessee declined to credit existing ship-
+pers' preexisting promise to pay for firm capacity on the 
+company's mainline.  That is, the pipeline proposed to assign 
+promised future payments an NPV of zero.  Under this 
+
+system, therefore, an existing shipper wishing to switch its 
+primary delivery point from City A to City B could not 
+compete against a new shipper wanting to purchase mainline 
+capacity with a primary delivery point in City B:  The existing 
+shipper's promise to continue paying for its firm capacity 
+would have an NPV of zero, while the new shipper's promise 
+to pay for as-yet unallocated mainline capacity would have a 
+positive NPV.
+
+     Various parties objected to the proposed change, claiming 
+that applying this method to meter amendments was "incon-
+sistent with FERC's professed aim of assuring that [existing] 
+firm shippers have receipt and delivery point flexibility."  
+PGC I, 177 F.3d at 1001.  The Commission sided with 
+Tennessee, however, emphasizing that " 'allocating capacity to 
+parties who value it the most' " would foster " 'economic 
+efficiency,' " and further, that nothing in the new NPV policy 
+would prevent existing shippers from using the desired 
+"points on a secondary basis."  Id. (quoting Tennessee Gas, 
+79 F.E.R.C. at 62,337).  The objecting parties sought rehear-
+ing and, when FERC declined to change its position, filed a 
+petition for review.
+
+     Considering meter amendments in PGC I, we agreed with 
+the commenters that FERC's approval of the NPV method 
+emphasized "maximization of pipeline revenue" at the ex-
+pense of "the ability of existing shippers to change primary 
+points."  Id. at 1005.  We rejected FERC's notion that 
+"shippers unable to obtain a point on a primary basis" could 
+simply use the point on a secondary basis because the latter 
+option would "not guarantee access to the point over any 
+fixed period of time."  Id. at 1005, 1006.  "At the end of the 
+day," we observed, "FERC's position is that regardless of the 
+ability of existing shippers to compete" for points, "it is best 
+to award primary point capacity on the basis of the amount of 
+additional revenue generated for Tennessee.  If existing ship-
+pers are injured, so be it."  Id. at 1006.  Rejecting this 
+approach, we remanded the meter amendment issue to the 
+Commission, explaining that, as we understood the situation:
+
+     Existing shippers entered into their contracts with Ten-
+     nessee with the expectation of a certain amount of pri-
+     mary point flexibility.  When the pipeline proposes to 
+     take away that flexibility altogether or reduce it substan-
+     tially, FERC is obligated to provide a better explanation 
+     of why the shippers' resultant loss cannot be taken into 
+     account in a more balanced application of the NPV 
+     pricing system.
+     
+Id.
+
+     On remand, the Commission reconsidered its meter amend-
+ment ruling but again concluded "it is just and reasonable" 
+for Tennessee to use an "allocation method that gives a 
+priority to bids [for primary points] which include a request 
+for the related mainline capacity."  Remand Order, 91 
+F.E.R.C. at 61,192.  In response to Process Gas's petition for 
+rehearing, the Commission reaffirmed its order.  See Rehear-
+ing Order, 94 F.E.R.C. at 61,402.
+
+                               II.
+
+     Seeking review again, Petitioners challenge the Commis-
+sion's approval of Tennessee's procedures for capacity alloca-
+tion and meter amendments, reiterating many of the chal-
+lenges raised in PGC I and arguing that the Commission's 
+Remand and Rehearing Orders ignore that decision's express 
+requirements.  In reviewing these arguments, we "uphold 
+FERC's factual findings if supported by substantial evidence 
+and ... endorse its orders so long as they are based on 
+reasoned decision making," Texaco, Inc. v. FERC, 148 F.3d 
+1091, 1095 (D.C. Cir. 1998), and responsive to PGC I.
+
+     With these standards in mind, we begin with the capacity 
+allocation issue.  In its Remand and Rehearing Orders, 
+FERC offers several explanations for its decision to revoke 
+the cap on the duration of bids for pipeline capacity.  Most 
+important, the Commission argues that existing regulatory 
+controls already limit Tennessee's market power, thereby 
+"minimiz[ing any] danger" that the pipeline will "withhold ... 
+capacity from the market" to "create [the] artificial scarcity" 
+necessary to force shippers to bid for supercompetitive con-
+
+tract terms.  Rehearing Order, 94 F.E.R.C. at 61,398.  Spe-
+cifically, FERC cites its regulations (1) setting the maximum 
+rate Tennessee may charge for its transportation services, 
+and (2) requiring Tennessee to sell all available capacity to 
+shippers willing to pay that maximum rate.  Id.  Given these 
+regulatory limitations, the Commission contends, "the only 
+way Tennessee could withhold capacity to force shippers to 
+accept longer contract terms is by refusing to build additional 
+capacity" to meet increased demand.  Remand Order, 91 
+F.E.R.C. at 61,191.  But, FERC continues,
+
+     [T]here is little reason for the pipeline to exercise market 
+     power by withholding new capacity because the maxi-
+     mum rates established by the Commission prevent [the 
+     pipeline] from charging rates above the just and reason-
+     able rates based on its cost of service.  As a result, even 
+     if the pipeline refused to build new capacity, its annual 
+     revenues in any given year would be capped at its annual 
+     cost of service.  All that the pipeline could potentially 
+     accomplish by withholding new capacity is getting the 
+     customers to sign up for longer term contracts than they 
+     otherwise might....  But this gives the pipeline no 
+     immediate benefit in the form of increased revenues or 
+     profits.  It just reduces its long-term risk somewhat by 
+     enabling it to obtain contracts with longer terms.  By 
+     contrast, if the pipeline built new capacity to serve the 
+     increased demand, it could increase its current revenue 
+     and profits....  As a result, even without a term match-
+     ing cap, it would appear that a pipeline has a greater 
+     incentive to build new capacity to serve all the demand 
+     for its service, rather than withhold capacity (by refusing 
+     to build new capacity) in order to create scarcity.
+     
+Id. (footnote omitted).  According to FERC, therefore, to the 
+extent shippers are bidding for longer contract terms than 
+they would in a competitive market, they are motivated not 
+by "pipeline monopoly power" but by competition with other 
+shippers for scarce pipeline capacity.  Id.
+
+     Reinforcing this argument, the Commission points out that 
+if Tennessee ever refused to build new capacity to meet 
+
+shippers' demands, the shippers "could file a complaint with 
+the Commission."  Id.  Moreover, applicable rules, see 18 
+C.F.R. pt. 161, prohibit Tennessee from "favoring or colluding 
+with its affiliates" "to manipulate the market through sham 
+bids," Rehearing Order, 94 F.E.R.C. at 61,398, 61,400, so 
+longer bids truly reflect shippers' desire to establish longer-
+term contracts with the pipeline.
+
+     Finally, the Commission explains that absent a "widespread 
+competitive market for primary pipeline capacity," there is 
+"no way of estimating what contract terms [such] a ... 
+market ... would produce."  Id. at 61,399 n.8.  Any cap 
+would therefore be arbitrary--and imposing an arbitrary cap 
+could "distort[ ] efficient operation of the market" by "pre-
+vent[ing] a shipper [who] is willing to offer a longer contract 
+term ... from doing so."  Id. at 61,399.  Thus, the only 
+efficient solution, FERC contends, is to eliminate the cap 
+altogether and to rely on other regulatory controls to limit 
+Tennessee's market power.
+
+     These several rationales for uncapping the NPV bidding 
+process not only satisfy our deferential standard of review but 
+also address our principal concern in PGC I--FERC's failure 
+to articulate how a twenty-year cap would prevent Tennessee 
+from exploiting its monopoly power.  No longer relying on a 
+cap to accomplish that objective, FERC now explains that 
+other regulatory constraints adequately limit Tennessee's 
+ability, as well as any incentive, to induce lengthy contracts.  
+We think this persuasive for two reasons.  First, because the 
+Commission already regulates the rates pipelines may charge 
+and requires them to sell all available capacity at those rates, 
+we agree with FERC that Tennessee has neither the legal 
+ability to withhold existing capacity nor an incentive to refuse 
+to build new capacity.  Second, any effort by Tennessee 
+affirmatively to manipulate the bidding process would violate 
+other Commission rules and would therefore presumably be 
+actionable.  Accordingly, as FERC argues, the fact that 
+shippers may at times bid up contract length likely reflects 
+not an exercise of Tennessee's market power, but rather 
+competition for scarce capacity.  See Remand Order, 91 
+F.E.R.C. at 61,190.  The data the Commission cites, more-
+
+over, indicate that the recent trend has been toward shorter 
+capacity contracts and, relatedly, that the average length of 
+post-1997 contracts is only 5.8 years--empirical facts demon-
+strating that, as FERC predicted, most of the time shippers 
+have been able to obtain firm capacity without submitting 
+excessively long bids.  Rehearing Order, 94 F.E.R.C. at 
+61,401.
+
+     Even if we were skeptical of the Commission's conclusion 
+regarding existing regulatory controls, however, that conclu-
+sion embodies precisely the sort of prediction about the 
+behavior of a regulated entity to which--in the absence of 
+contrary evidence--we ordinarily defer.  As we have re-
+peatedly observed, "it is within the scope of the agency's 
+expertise to make ... a prediction about the market it 
+regulates, and a reasonable prediction deserves our deference 
+notwithstanding that there might also be another reasonable 
+view."  Envtl. Action, Inc. v. FERC, 939 F.2d 1057, 1064 
+(D.C. Cir. 1991).
+
+     Challenging FERC's decision to remove the cap on bid 
+duration, Petitioners repeatedly compare the bidding process 
+for new capacity--at issue here--to the bidding process for 
+capacity that becomes available on expiration of an existing 
+shipper's contract.  Some understanding of the latter situa-
+tion is necessary to see why this comparison falls short.  Put 
+simply, under FERC's current rules, when an existing ship-
+per's contract for firm capacity expires, the shipper has the 
+right "to retain its service from the pipeline under a new 
+contract by matching the rate and duration offered by the 
+highest competing bid--up to the maximum 'just and reason-
+able' rate approved by FERC."  Interstate Natural Gas 
+Ass'n of Am. v. FERC ("INGAA"), 285 F.3d 18, 51 (D.C. Cir. 
+2002).  In a series of opinions, we have questioned FERC's 
+position regarding the need for and the proper length of a cap 
+on the duration of such "right-of-first-refusal bids," to protect 
+existing shippers from routinely losing their firm capacity to 
+new customers offering longer terms.  See id. at 51-53.  The 
+situation is currently in flux, with this court having remanded 
+a twenty-year and, more recently, a five-year cap to the 
+Commission, first "for failing to explain the length" and then 
+
+for "failing to explain the brevity."  Id. at 53 (citing UDC, 88 
+F.3d at 1140-41).
+
+     Regardless of what cap, if any, the Commission eventually 
+prescribes (and adequately supports) for right-of-first-refusal 
+bids, however, that cap has nothing to do with the issue now 
+before us.  True, in PGC I, we cautioned FERC that its 
+attempt to distinguish the right-of-first-refusal context from 
+new capacity allocation "seem[ed] ... a distinction without a 
+difference."  PGC I, 177 F.3d at 1004.  If the data underlying 
+the cap on right-of-first-refusal bids are irrelevant in the 
+context of new capacity allocation, we continued, "FERC has 
+yet to tell us why."  Id.  We now understand why.  As 
+INGAA explains, the requirement to protect existing ship-
+pers from pipeline market power derives directly from Sec-
+tion 7(b) of the Natural Gas Act, which "generally prohibits 
+'natural-gas compan[ies]' from ceasing to provide service to 
+their existing customers unless, after 'due hearing,' FERC 
+finds 'that the present or future public convenience or neces-
+sity permit such abandonment.' " 285 F.3d at 51 (quoting 15 
+U.S.C. s 717f(b)) (alteration in original).  No comparable 
+statutory provision requires FERC to protect new shippers 
+from competition for limited capacity (provided the final rates 
+are just and reasonable).  With no entrenched interests re-
+quiring protection, the Commission is free to conclude that an 
+uncapped bidding process maximizes market efficiency by 
+identifying which shipper is willing to pay the most--in terms 
+of contract length--to obtain such capacity.
+
+     This brings us to meter amendments.  Addressing that 
+issue, FERC's Remand and Rehearing Orders make two 
+principal points.  First, Tennessee's FERC-approved rate 
+schedule only permits existing shippers to " 'elect to substi-
+tute new [primary points] ... in [their] service agreement[s] 
+... if there is [ ]adequate capacity available to render this 
+new service.' "  Remand Order, 91 F.E.R.C. at 61,192 (quot-
+ing Schedule 4.7 of Tennessee's Rate Schedule FT-A).  Sig-
+nificantly, neither this schedule nor relevant Commission 
+orders address potential "conflicts" between "existing and 
+new shippers for primary point capacity that may become 
+available."  Id.  Thus, FERC maintains, while existing ship-
+
+pers do have "an expectation of a certain amount of primary 
+point flexibility," PGC I, 177 F.3d at 1006, that expectation 
+extends only to available primary points;  nothing in an 
+existing shipper's relationship with Tennessee entitles it to 
+win contested primary points from new shippers wishing to 
+purchase the point and associated mainline capacity.  See 
+Remand Order, 91 F.E.R.C. at 61,192, 61,193 ("[W]e do not 
+find that [an existing shipper's] contract, the pipeline's tariff 
+or our policy guarantees complete portability of ... capacity 
+at all times.");  Rehearing Order, 94 F.E.R.C. at 61,402 
+("[T]hat Tennessee's tariff gives shippers the ability to elect 
+to amend primary points where capacity is available does not 
+decide the issue of how to choose between two shippers 
+seeking primary rights at a point, where there is only suffi-
+cient capacity for one ... to have primary rights.").  Given 
+this framework, the Commission continues, Tennessee has no 
+obligation to treat existing shippers any differently from new 
+shippers when awarding contested primary points.  Rather, 
+the pipeline may design any "reasonable" point allocation 
+method.  Rehearing Order, 94 F.E.R.C. at 61,402.
+
+     Continuing from this premise, FERC's second argument is 
+that Tennessee's chosen point allocation method, which as-
+signs existing shippers' firm capacity contracts an NPV of 
+zero and therefore "consider[s] only new, incremental revenue 
+in awarding ... points," id., is "just and reasonable," Remand 
+Order, 91 F.E.R.C. at 61,192.  According to the Commission, 
+it is entirely reasonable for Tennessee to adopt a point 
+allocation method that "produce[s] greater revenue for the 
+pipeline" by assuring the sale of additional mainline capacity.  
+Rehearing Order, 94 F.E.R.C. at 61,402.  Moreover, the sale 
+of such capacity increases "throughput on the system," so "at 
+such time as Tennessee ... file[s] a new rate case, there will 
+be a greater number of units of service over which to spread 
+Tennessee's fixed costs"--a development that will "benefit[ ] 
+all [of] Tennessee's shippers by allowing Tennessee's rates to 
+be lower than they otherwise would be."  Id.;  see also 
+Remand Order, 91 F.E.R.C. at 61,193.  The Commission also 
+points out that even before Tennessee adopted the NPV 
+method, existing shippers only had the right to change to 
+
+available primary points;  they never had a guarantee that 
+any particular point would be available at any particular time.  
+Consequently, those shippers "should have been prepared to 
+rely on [their contractually designated] point[s] for purposes 
+of bringing gas supplies onto the pipeline for the term of 
+the[ir] contract[s]."  Rehearing Order, 94 F.E.R.C. at 61,402.  
+Finally, FERC observes that (1) even after adoption of the 
+NPV method, about ninety percent of existing shippers' "re-
+quests to change primary points have been granted," Remand 
+Order, 91 F.E.R.C. at 61,193;  (2) Tennessee's system has 
+much greater point capacity than mainline capacity, Rehear-
+ing Order, 94 F.E.R.C. at 61,402;  and (3) "Tennessee must 
+provide for pooling of [gas] supplies at points downstream of 
+its primary receipt points," enabling "shippers to obtain sup-
+plies that originate from many different upstream receipt 
+points," id. at 61,402-03.  As the Commission notes, these 
+three factors suggest that existing shippers will rarely have 
+to rely solely on their contractual primary points for receipt 
+of gas.  Id.
+
+     Again, we find these explanations adequate to satisfy both 
+our standard of review and PGC I.  Now that FERC has 
+clarified the nature of existing shippers' "expectation ... of 
+primary point flexibility," PGC I, 177 F.3d at 1006, we 
+understand that Tennessee has no obligation to give such 
+shippers a preference in competitive bidding for contested 
+primary points.  In the absence of such an obligation, we 
+think it eminently reasonable for Tennessee to adopt a point 
+allocation method that promotes the sale of available mainline 
+capacity.  Not only does Tennessee's chosen method benefit 
+the pipeline in the short term (and existing shippers when 
+and if the pipeline files a new rate case), but it ensures that 
+available points go to shippers who value them most--those 
+willing to pay for associated mainline capacity.
+
+                               III.
+
+     In sum, we disagree with Petitioners that the Commission's 
+latest orders "ignore" PGC I. Pet'rs' Reply Br. at 3.  That 
+decision required only that FERC better explain its reason-
+
+ing in setting a twenty-year cap on bids for new mainline 
+capacity and approving the NPV method for evaluation of 
+meter amendment requests.  On remand, the Commission 
+fully complied with that requirement, reevaluating both issues 
+and satisfactorily explaining its ultimate decisions to eliminate 
+the bid cap altogether and to reaffirm the meter amendment 
+ruling.  The petitions for review are denied, and the orders of 
+the Commission are affirmed.
+
+                                                                 So ordered.
+
+                           

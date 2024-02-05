@@ -1,0 +1,631 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued December 1, 2000   Decided February 6, 2001 
+
+                           No. 99-1346
+
+              Bachow Communications, Inc., et al., 
+                      Appellants/Petitioners
+
+                                v.
+
+                Federal Communications Commission 
+                  and United States of America, 
+                      Appellees/Respondents
+
+        Columbia Millimeter Communications, L.P., et al., 
+                           Intervenors
+
+                        Consolidated with 
+        Nos. 99-1347, 99-1360, 99-1361, 99-1362, 99-1363, 
+          99-1364, 99-1365, 99-1391, 99-1392, 99-1393, 
+                         99-1394, 99-1533
+
+    On Appeals From and Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Robert L. Corn-Revere argued the cause for appellants/pe-
+titioners.  With him on the briefs were Catherine E. Stetson, 
+
+Walter H. Sonnenfeldt, Robert J. Keller, Thomas J. Dougher-
+ty, Jr., Christa M. Parker, Louis Gurman, and E. Ashton 
+Johnston.  Doane F. Kiechel III entered an appearance.
+
+     Pamela L. Smith, Counsel, Federal Communications Com-
+mission, argued the cause for appellees/respondents.  With 
+her on the briefs were Christopher J. Wright, General Coun-
+sel, Daniel M. Armstrong, Associate General Counsel, Joel I. 
+Klein, Assistant Attorney General, U.S. Department of Jus-
+tice, Robert B. Nicholson and Andrea Limmer, Attorneys.  
+Roberta L. Cook, Counsel, entered an appearance for appellee 
+Federal Communications Commission.
+
+     Before:  Edwards, Chief Judge, Sentelle and Randolph, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  The issues in these consolidated 
+cases center on the Federal Communications Commission's 
+conversion of its system for awarding licenses in the 39 GHz 
+(gigahertz) band from a comparative application process to a 
+public auction.  The 39 GHz band, comprising the 38.6 to 40.0 
+GHz frequencies on the electromagnetic spectrum, appears to 
+have attracted little commercial interest until the mid-1990s, 
+when newly developed technology became available.  Until 
+late 1995, the Commission processed non-mutually exclusive 
+applications (that is, applications having no competition for 
+the same frequency and territory),1 but resolved mutually 
+exclusive applications by holding a comparative hearing.
+
+     Increased commercial interest in the 39 GHz band ren-
+dered the comparative application system impracticable.  
+From January to November 1995 alone, the Commission 
+received more than 2,100 applications for licenses.  In late 
+
+__________
+     1 See, e.g., 47 C.F.R. s 101.45(a) ("the Commission will consider 
+applications to be mutually exclusive if their conflicts are such that 
+the grant of one application would effectively preclude by reason of 
+harmful electrical interference, or other practical reason, the grant 
+of one or more of the other applications").
+
+1994 the Commission also received a telecommunications in-
+dustry association petition for rulemaking.  In response to 
+the petition and the growing number of applications, the 
+Commission considered changing its method of allocating 
+licenses and eventually adopted a competitive bidding system.
+
+     The Commission commenced the transition on November 
+13, 1995, by imposing, without notice and opportunity for 
+comment, an application freeze.  See 11 F.C.C.R. 1156 (Nov. 
+13, 1995).  In the course of two Notices of Proposed Rule-
+making and two reconsideration orders issued between De-
+cember 1995 and July 1999, the Commission implemented 
+interim licensing procedures and disposed of applications still 
+pending under the comparative application system.  It dis-
+missed without prejudice applications that were not filed at 
+least 30 days before the November 13, 1995, freeze date, or, 
+in Commission parlance, that were not "ripe."  It also dis-
+missed "ripe" applications--those filed at least 30 days before 
+the freeze date--that were mutually exclusive with other 
+applications on the freeze date and whose mutual exclusivity 
+had not been resolved by amendment or voluntary dismissal 
+by December 15, 1995, the cut-off date for amendments.  See 
+11 F.C.C.R. 4930 (Dec. 15, 1995);  12 F.C.C.R. 2910 (Jan. 17, 
+1997);  12 F.C.C.R. 18,600 (Nov. 3, 1997);  14 F.C.C.R. 12,428 
+(July 29, 1999).  Conversely, the Commission processed appli-
+cations filed at least 30 days before November 13, 1995, and 
+that were not mutually exclusive on that date or that had 
+their mutual exclusivity resolved by amendment or voluntary 
+dismissal by December 15, 1995.2
+
+                                I.
+
+     The private parties--the appellants and petitioners--object 
+to the Commission's dismissal of their pending applications, to 
+the 30-day ripeness period, and to the amendment cut-off.  
+They do not contest the application freeze itself or the 
+Commission's adoption of a competitive bidding system.
+
+__________
+     2 The Commission made other changes to the licensing system 
+not relevant to this appeal.  For example, it replaced applicant-
+defined rectangular service areas with Commission-defined geo-
+graphic areas.  See 12 F.C.C.R. at 18,610.
+
+                   A. Dismissal of Applications
+
+     Once the Commission decided to adopt new licensing rules 
+for the 39 GHz band, it had to choose the effective date of the 
+rules and dispose of applications still pending under the old 
+regime.  As appellants see it, the Commission's decision to 
+dismiss all pending mutually exclusive applications was arbi-
+trary and capricious.  Naturally, they hoped to avoid having 
+to start the application process all over again in a public 
+auction.  We have, however, recognized the Commission's 
+authority to change license allocation procedures midstream.  
+See Maxcell Telecom Plus, Inc. v. FCC, 815 F.2d 1551 (D.C. 
+Cir. 1987) (upholding change from comparative application 
+system to lottery);  DIRECTV, Inc. v. FCC, 110 F.3d 816 
+(D.C. Cir. 1997) (upholding change from pro rata distribution 
+policy to competitive bidding).
+
+     In deciding to dismiss applications that either did not 
+satisfy the 30-day ripeness requirement or were mutually 
+exclusive, the Commission balanced the need to implement 
+the new regulatory regime against the effect of upsetting the 
+expectations of appellants and others.  We perceive no error 
+in its resolution of these opposing interests.  The Commission 
+reasonably feared that processing mutually exclusive applica-
+tions under an antiquated and burdensome comparative appli-
+cation system would diminish the efficiency gains expected 
+from competitive bidding.  See 12 F.C.C.R. at 18,642.
+
+     In appellants' view, their side of the balance weighs much 
+heavier because they obtained rights against prospective com-
+petitors who were foreclosed from applying by the Commis-
+sion's cut-off rules.  Under rules existing when appellants 
+filed, public notice of the filing of the first application for a 
+given license triggered a 60-day filing window;  that is, 
+competing applicants had to file within 60 days of the public 
+notice or lose their right to file.  See 47 C.F.R. 
+s 21.31(b)(2)(i) (1995).3  Several applicants for 39 GHz licens-
+
+__________
+     3 The filing rule also provided a shorter time period, but not less 
+than 30 days, in cases where the Commission "takes final action on 
+the previously filed application."  47 C.F.R. s 21.31(b)(2)(ii) (1995).
+
+es filed more than 60 days before the freeze order, yet saw 
+their applications dismissed because of mutual exclusivity.  
+Upon reaching the sixtieth day following public notice of the 
+first application but before the freeze order, the filing rule 
+theoretically should have closed the application pool to com-
+peting filers, protecting these applications from additional 
+competition.  Appellants complain that the application freeze 
+and subsequent dismissal of pending mutually exclusive appli-
+cations defeated the cut-off rule by permitting people who 
+would have been closed out of applicant pools in the compara-
+tive application system to bid for the same licenses in the 
+public auction.4  In their words, "the Commission's decision 
+effectively required pending mutually exclusive applicants to 
+bid against new applicants filing years after the established 
+cut-off dates."  Brief for Appellants at 58.
+
+     Appellants claim that McElroy Electronics Corp. v. FCC, 
+86 F.3d 248 (D.C. Cir. 1996), renders the Commission's 
+actions arbitrary.  See Brief for Appellants at 57-60.  In 
+McElroy, we recognized that "as against latecomers, timely 
+filers who have diligently complied with the Commission's 
+requirements have an equitable interest in enforcement of the 
+cut-off rules."  86 F.3d at 257.  That equitable interest arose 
+in circumstances not present here.  The appellants in McEl-
+roy filed cellular applications even though the Commission 
+had not yet formulated rules for those licenses.  See id. at 
+250.  The Commission dismissed the applications as prema-
+ture and later established a one-day filing window.  On the 
+
+__________
+     4 We doubt whether 39 GHz licenses in the public auction are 
+really the same as the licenses in the comparative application 
+system.  As noted previously, the Commission changed the manner 
+in which it designated service areas for those licenses, in part to 
+reduce mutual exclusivity problems.  See supra note 2;  12 F.C.C.R. 
+at 18,610.  Because an application pool consists of a set of mutually 
+exclusive applications or chains of mutually exclusive applications, 
+see 47 C.F.R. s 21.31(b) (1995), licensing changes that alter mutual 
+exclusivity presumably will also alter application pools.  In any 
+event, we find the Commission's dismissal of pending mutually 
+exclusive applications lawful regardless of the identity of licenses in 
+the comparative application and competitive bidding systems.
+
+filing date, which was approximately five years after the 
+appellants had filed, 517 applicants filed for the Los Angeles 
+licenses and 494 filed for the Minneapolis licenses.  See id. at 
+251.  The first time McElroy came to this court, we ordered 
+the Commission to reinstate, nunc pro tunc, the applications 
+previously dismissed as premature.  See McElroy Elec. Corp. 
+v. FCC, 990 F.2d 1351 (D.C. Cir. 1993).  The Commission 
+then decided that the reinstated applicants would have to 
+enter a lottery with those who filed under the later one-day 
+window, reasoning that the public notices announcing appel-
+lants' applications did not establish a deadline for competing 
+applications.  See 86 F.3d at 252.  We reversed, citing the 
+Commission's "notice and cut-off procedure under which the 
+applications at issue ... were filed, [wherein] competing 
+applicants were entitled to participate in a comparative hear-
+ing or lottery only if they filed their applications within 'sixty 
+(60) days after the date of the public notice listing the first of 
+the conflicting applications as accepted for filing'."  Id. at 253.  
+The issue was "whether the public notices gave sufficient 
+notice of [the Commission's acceptance of appellants' applica-
+tions for filing] to cut off third parties' rights."  Id.  We 
+found the public notice sufficient to trigger the 60-day cut-off 
+period.  See id. at 257.
+
+     McElroy stands for the proposition that the Commission 
+must follow its own rules.  See, e.g., Reuters Ltd. v. FCC, 781 
+F.2d 946, 950 (D.C. Cir. 1986).  It does not create some 
+generalized right to exclude competitors.  The "equitable 
+interest" in McElroy was the applicants' interest in the 
+Commission enforcing its filing and notice rules, not an 
+interest in preventing the Commission from changing them.  
+As we have recognized before, the Commission may make 
+midstream rule adjustments, even though it disrupts expecta-
+tions and alters the competitive balance among applicants.  
+See Maxcell, 815 F.2d 1551;  DIRECTV, 110 F.3d 816.
+
+     Moreover, any interest in enforcement of cut-off rules is 
+just that--an interest, not a vested right:  "timely applicants 
+have no 'vested right against challenge from untimely com-
+petitors,' in the sense of precluding the FCC from ever 
+granting a cut-off waiver, but they certainly have an equitable 
+
+interest whose weight it is 'manifestly within the Commis-
+sion's discretion to consider'."  Florida Inst. of Tech. v. FCC, 
+952 F.2d 549, 554 (D.C. Cir. 1992).  The Commission's author-
+ity to change rules that affect pending applications is bounded 
+by principles of retroactivity, not by an abstract interest in 
+excluding competitors.  McElroy holds only that if the Com-
+mission decides to process timely applications, it generally 
+may not also process competing applications filed out of time.  
+The case does not govern the present situation in which the 
+Commission decides, without violating its rules, not to process 
+pending mutually exclusive applications at all.5
+
+     Even if McElroy stood for all that appellants read into it, 
+they could not have obtained any "equitable interest" to 
+immunize their applications against dismissal.  The most they 
+could have obtained is the relief we granted in McElroy--an 
+order requiring dismissal of applications filed after the cut-off 
+date.  See 86 F.3d at 259.  McElroy does not require the 
+Commission to process all applications pending under an 
+obsolete license allocation system just because applicants who 
+were otherwise cut off might re-apply in a new system.6
+
+__________
+     5 In Title III of the Balanced Budget Act of 1997, Congress 
+amended the Communications Act to include a right to exclude 
+competitors.  See Pub. L. No. 105-33, s 3002(a)(3), 111 Stat. 251, 
+260 (1997) (codified at 47 U.S.C. s 309(l )).  That provision states:  
+"With respect to competing applications for initial licenses or con-
+struction permits for commercial radio or television stations that 
+were filed with the Commission before July 1, 1997, the Commission 
+shall (1) have the authority to conduct a competitive bidding pro-
+ceeding pursuant to subsection (j) to assign such license or permit;  
+[and] (2) treat the persons filing such applications as the only 
+persons eligible to be qualified bidders for purposes of such pro-
+ceeding."  47 U.S.C. s 309(l ).  Neither party cited this provision.  
+In any event, it would not affect our analysis because appellants 
+have not alleged that the Commission has permitted entities who 
+did not apply before July 1, 1997, to bid for licenses.
+
+     6 We also reject appellants' argument that the Commission de-
+parted from its own precedents in dismissing pending applications.  
+See Brief for Appellants at 62-65.  Prior instances in which the 
+Commission has adopted a new license allocation system yet pro-
+
+                      B. The Ripeness Period
+
+     The Commission imposed a ripeness period co-extensive 
+with the time period in which competitors had the right to file 
+competing applications.  The point apparently was to avoid 
+granting applications under the old system when the time 
+period for others to file a mutually exclusive application had 
+not yet expired.  The Commission originally used a 60-day 
+period, representing the period during which prospective 
+applicants could file competing applications under the Com-
+mission's rules.  See 47 C.F.R. s 21.31(b) (1995);  but see 
+supra note 3 (contemplating shorter filing period under some 
+circumstances).  It later shortened the period to 30 days, 
+explaining that "it is our practice to process applications as 
+soon after the close of the 30-day public notice period as 
+possible."  See 14 F.C.C.R. at 12,430 & 12,449;  see also 47 
+C.F.R. s 101.37(c) (1998) (Commission cannot grant applica-
+tion until 30 days after application appears on public notice).
+
+     The Communications Act, with a few exceptions not rele-
+vant here, forbids the Commission to grant an application 
+"earlier than thirty days following issuance of public notice by 
+the Commission of the acceptance for filing of such applica-
+
+__________
+cessed applications pending under the old one rested on different 
+fact-specific cost/benefits balances the Commission drew under 
+Maxcell.  See 815 F.2d at 1554;  Brief for Appellee/Respondents at 
+20-21.  In the wireless cable services order appellants cite, the 
+Commission expressly premised its decision "on the basis of this 
+record."  10 F.C.C.R. 9589 (1995) (para. 92).  Significantly, that 
+order involved a small number of pending applications.  Id. at para. 
+89;  cf. Kessler v. FCC, 326 F.2d 673, 686 (D.C. Cir. 1963) ("Nor do 
+we dispute the Commission's judgment in this instance that equita-
+ble considerations required or at least justified the processing of 
+pending applications where an analysis showed that they involved 
+potential grants not so numerous as to frustrate the ends sought in 
+the rule making proceeding.").  Similarly, in the commercial broad-
+cast and ITFS proceedings, the Commission found that "the re-
+opening of filing windows would certainly not expedite the disposi-
+tion of the pending applications or the commencement of service to 
+the public, but would produce further delays."  13 F.C.C.R. 15,920 
+(1998) (para. 108).
+
+tion or of any substantial amendment thereof."  47 U.S.C. 
+s 309(b).  The Commission reasonably determined that its 
+ripeness period "will assure fairness to potential applicants 
+who were precluded by the freeze from filing competing 
+applications in time to be entitled to comparative consider-
+ation."  11 F.C.C.R. at 4989 n.197.  Had the Commission 
+granted applications filed less than 30 days before the freeze 
+date, it would have denied potential competing applicants the 
+30-day filing period the Act guarantees them.
+
+     The Supreme Court long ago recognized the procedural 
+rights the Communications Act guarantees to those who file 
+mutually exclusive applications.  Ashbacker Radio Corp. v. 
+FCC, 326 U.S. 327 (1945), held that the Commission could not 
+grant one mutually exclusive application without holding the 
+comparative hearing required by the Communications Act.  
+See also McElroy, 86 F.3d at 253.  In Kessler v. FCC, 326 
+F.2d 673 (D.C. Cir. 1963), we decided that Ashbacker proce-
+dural rights apply also to potential applicants whose applica-
+tions would have been mutually exclusive but for an applica-
+tion freeze.  In Kessler, the Commission froze applications 
+effective close-of-business on May 10, 1962.  Appellants in 
+that case filed applications between May 11 and June 15, 
+1962.  Some of the late applicants claimed their applications 
+were mutually exclusive with applications on file.  Unlike the 
+present case, the Commission employed no ripeness period;  
+it processed all applications pending on the freeze date.  We 
+held that the Commission's refusal to process mutually exclu-
+sive applications filed after the freeze but that were otherwise 
+timely denied those applicants their Ashbacker rights:  "those 
+appellants who tendered applications which are, or become, in 
+fact mutually exclusive with an application pending on May 
+11, 1962, or one accepted for filing since that date, are 
+entitled to participate in a comparative hearing on that appli-
+cation under the Ashbacker case--if any grant is to be 
+made--and [ ] the Commission may not deprive them of this 
+right when their applications were timely but were rejected 
+only because of a temporary freeze on accepting new applica-
+tions."  326 F.2d at 687-88.  We reasoned that "the substan-
+tial effect of a contrary view would be not only to freeze the 
+
+acceptance for filing of a timely application but to freeze new 
+applicants permanently out of a right of substance--the com-
+parative hearing on the pending application to which they are 
+entitled when their application is timely."  Id. at 688.
+
+     Kessler's reasoning applies here.  Without the ripeness 
+period, the Commission could have granted applications filed 
+less than 30 days before the freeze date, abrogating the 
+Ashbacker rights of prospective applicants who could have 
+filed timely competing applications but for the freeze.  The 
+ripeness period quite sensibly guarantees that all applications 
+that are granted were on public notice for the 30 days 
+required by the Communications Act.  See 47 U.S.C. 
+s 309(b).7
+
+                     C. The Amendment Cut-Off
+
+     The Commission apparently intended the November 13, 
+1995, freeze to cut off amendments as well as applications.  
+But the freeze order specified only the latter.  See 11 
+F.C.C.R. 1156.  Despite this oversight, the Commission, in 
+the first Notice of Proposed Rule Making and Order it issued 
+on December 15, 1995, stated that the November 13 freeze 
+applied to amendments, except for a limited class of license 
+modification amendments.  See 11 F.C.C.R. at 4988-90.  In 
+its first Reconsideration Order, issued on January 17, 1997, 
+the Commission changed the cut-off date for amendments of 
+
+__________
+     7 Appellants cite the principle that Ashbacker "applies not to 
+prospective applicants, but only to parties whose applications have 
+been declared mutually exclusive."  Brief for Appellants at 28 
+(quoting Reuters Ltd. v. FCC, 781 F.2d 946, 951 (D.C. Cir. 1986)).  
+We have held that not everybody interested in a telecommunica-
+tions license has a right to a comparative hearing, that the right 
+inheres in those who actually file timely, mutually exclusive applica-
+tions.  See Reuters, 781 F.2d at 951.  But we have also held that 
+Ashbacker rights inhere in potential applicants whose right to file a 
+timely competing application is frustrated by a Commission freeze 
+order.  See Kessler, 326 F.2d at 686-88.  There is such a class of 
+potential applicants in this case--those whose timely applications 
+would be mutually exclusive with applications filed in the 30 days 
+preceding November 13, 1995--and Ashbacker applies to them.
+
+right from November 13, 1995, the application freeze date, to 
+December 15, 1995, the date it promulgated the interim 
+licensing procedures.8  The Commission recognized that it 
+was the December 15 order, not the November 13 order, that 
+"suspended any further action on these amendments."  12 
+F.C.C.R. at 2918.
+
+     The amendment cut-off precluded private resolution of 
+mutual exclusivity after December 15, 1995.  It was no longer 
+possible for amendments (or, apparently, voluntary dismiss-
+als) to cure mutual exclusivity and render an application 
+eligible for processing under the old regime.  Appellants 
+claim they had a substantive right to cure mutual exclusivity 
+that may not be abrogated without notice and comment.  
+Relying on Ashbacker, they insist that "the right of competing 
+applicants to simultaneous consideration under Ashbacker is a 
+'right of substance' " and that "equally of substance is an 
+applicant's right to avoid consolidated treatment and its unin-
+tended consequences by means of conflict-resolving minor 
+amendments and voluntary dismissals."  Brief for Appellants 
+at 46.
+
+     The "right to avoid consolidated treatment" finds no sup-
+port in Ashbacker or any other authorities the appellants 
+have brought to our attention.  The right to amend is no 
+more substantive than the right to file an application in the 
+first place, which we have previously held the Commission 
+may suspend without notice and comment.  See Kessler, 326 
+F.2d at 682;  Neighborhood TV Co. v. FCC, 742 F.2d 629, 637 
+(D.C. Cir. 1984).  Like the rules governing the filing of 
+applications, rules permitting (or suspending) amendments 
+are "rules of agency organization, procedure, or practice" 
+exempt from the Administrative Procedure Act's notice and 
+comment requirement.  See 5 U.S.C. s 553(b)(A);  James V. 
+Hurson Assocs., Inc. v. Glickman, 229 F.3d 277, 280-82 (D.C. 
+Cir. 2000);  JEM Broad. Co. v. FCC, 22 F.3d 320, 326-28 
+
+__________
+     8 Commission rules at the time defined an amendment of right as 
+an amendment that "cures a mutually exclusive situation without 
+creating a new one."  12 F.C.C.R. at 2918;  47 C.F.R. ss 101.29 & 
+101.45 (1997).
+
+(D.C. Cir. 1994) (FCC "hard look" rules prohibiting amend-
+ment did not require notice and comment:  "we conclude that 
+a license applicant's right to a free shot at amending its 
+application is not so significant as to have required the FCC 
+to conduct notice and comment rulemaking, particularly in 
+light of the Commission's weighty efficiency interests.");  
+Maxcell, 815 F.2d at 1561 (stating but not deciding that a 
+"cut-off rule arguably may be understood as an 'interpretive' 
+rule, a rule of agency 'procedure' or of agency 'practice', any 
+of which is exempt from the notice and comment require-
+ments").
+
+     We also reject appellants' claim that the amendment cut-off 
+was arbitrary and capricious.9  Appellants' panoply of argu-
+ments in this regard reduce to a central premise:  refusal to 
+accept amendments after December 15, 1995, "artificially 
+preserved mutual exclusivity with respect to [39 GHz] appli-
+cations, creating the fiction that applications that were mutu-
+ally exclusive before December 15, 1995, remained so even 
+after their frequency conflicts had been resolved" in violation 
+of Ashbacker.  Brief for Appellants at 49-50 (emphasis omit-
+ted).  Appellants read Ashbacker far too broadly.10  In the 
+
+__________
+     9 Contrary to appellants' assertion, the Commission provided a 
+reasoned basis for its action.  The Commission adequately ex-
+plained that "accepting and processing such amendments would 
+burden Commission resources and could lead to results inconsistent 
+with our intent in this proceeding to update the regulatory struc-
+ture of the 39 GHz band in light of contemporary market condi-
+tions."  14 F.C.C.R. at 12,437-38;  see also id. at 12,447 (The 
+Commission "froze new applications for 39 GHz licenses because of 
+its concern that applications filed under the former rules may not 
+conform to the technical and service requirements being considered.  
+For the same reason, it froze certain amendments to pending 39 
+GHz applications....");  Maxcell, 815 F.2d at 1555 (accepting Com-
+mission's efficiency justification for change from comparative appli-
+cation system to lottery).
+
+     10 The right to a hearing recognized in Ashbacker applies only in 
+a comparative application system.  See 47 U.S.C. s 309(a) & (e) 
+(Communications Act hearing provision for applications to be grant-
+ed on the basis of "public interest, convenience, and necessity").  It 
+
+Court's words:  "We only hold that where two bona fide 
+applications are mutually exclusive the grant of one without a 
+hearing to both deprives the loser of the opportunity which 
+Congress chose to give him."  Ashbacker, 326 U.S. at 333;  
+see also Maxcell, 815 F.2d at 1561 ("Ashbacker therefore 
+simply is irrelevant to a situation where a license applicant 
+complains that its application was not considered due to a 
+'regulation' that 'for orderly administration, requires an appli-
+cation ... to be filed within a certain date'.");  Reuters, 781 
+F.2d at 951 (criticizing an attempt to bootstrap a fairness 
+argument onto Ashbacker's narrow holding).  Ashbacker con-
+strains only the grant of mutually exclusive applications;  it 
+does not touch the Commission's authority to dismiss or 
+suspend amendments of mutually exclusive applications.
+
+                               II.
+
+     Appellants contend that the Commission's treatment of 
+their applications violated 47 U.S.C. ss 309(j)(6)(E) and 
+309(j)(7).  We hold the former was not violated and the latter 
+does not apply.
+
+                     A. Section 309(j)(6)(E)
+
+     The Communications Act permits the Commission to adopt 
+a system of competitive bidding to resolve mutually exclusive 
+applications subject to "obligations described in paragraph 
+(6)(E)."  47 U.S.C. s 309(j)(1).  Paragraph (6)(E) of subsec-
+tion 309(j) states that "nothing in [the subsection authorizing 
+competitive bidding], or in the use of competitive bidding, 
+shall be construed to relieve the Commission of the obligation 
+in the public interest to continue to use engineering solutions, 
+negotiation, threshold qualifications, service regulations, and 
+other means in order to avoid mutual exclusivity in applica-
+tion and licensing proceedings."  47 U.S.C. s 309(j)(6)(E).
+
+     In appellants' view, subsection (j)(6)(E) requires the Com-
+mission to permit private resolution of mutual exclusivity.  
+
+__________
+does not apply when licenses are allocated by lottery or auction.  
+See 47 U.S.C. s 309(i) & (j);  McElroy, 86 F.3d at 253 n.5.
+
+We think the obligation that provision imposes on the Com-
+mission in designing a competitive bidding system is some-
+thing less than allowing license applicants to file applications 
+or amend them at will under an obsolete licensing system.  
+Subsection (j)(6)(E) affirms Congress' view that statutory 
+competitive bidding authority does not wholesale replace "en-
+gineering solutions, negotiation ... and other means" to 
+avoid mutual exclusivity;  it does not, as appellants would 
+have it, forbid resort to competitive bidding unless no other 
+means to resolve mutual exclusivity are available.  In Benkel-
+man Telephone Co. v. FCC, 220 F.3d 601, 606 (D.C. Cir. 
+2000), we rejected the argument that the Commission created 
+"artificial" mutual exclusivity in adopting a competitive bid-
+ding system:  "having found the policy changes in the public 
+interest, the Commission was authorized to implement them 
+without regard to section 309(j)(6)(E)[,] which imposes an 
+obligation only to minimize mutual exclusivity 'in the public 
+interest' and 'within the framework of existing policies'."  
+Orion Communications Ltd. v. FCC, 213 F.3d 761 (D.C. Cir. 
+2000), also refutes appellants' contention.  There we held that 
+the Commission is not required to allow bidders to use 
+negotiated settlements to reduce mutual exclusivity;  settle-
+ments may be " 'other means' of avoiding mutual exclusivity, 
+but the statute cannot be read to direct the FCC to adopt all 
+other means available."  Id. at 763.  As we stated in DI-
+RECTV, "nothing in s 309(j)(6)(E) requires the FCC to ad-
+here to a policy it deems outmoded 'in order to avoid mutual 
+exclusivity in ... licensing proceedings';  rather, that provi-
+sion instructs the agency, in order to avoid mutual exclusivity, 
+to take certain steps, such as the use of an engineering 
+solution, within the framework of existing policies."  110 F.3d 
+at 828;  see also Orion, 213 F.3d at 763;  Benkelman, 220 F.3d 
+at 605.
+
+                       B. Section 309(j)(7)
+
+     Title 47, U.S.C. s 309(j)(7) restricts consideration of the 
+public fisc in certain of the Commission's decisions.11  As the 
+
+__________
+     11 Section 309(j)(7)(A) states:  "In making a decision pursuant to 
+section 303(c) of this title to assign a band of frequencies to a use 
+
+introductory clauses of s 309(j)(7)(A) & (B) indicate, the 
+restriction pertains only to three types of decisions, none of 
+which is implicated here.  The covered decisions concern 
+assignment of bands of frequencies to classes of stations 
+under 47 U.S.C. s 303(c), development of alternative payment 
+methods under 47 U.S.C. s 309(j)(4)(A), and area designa-
+tions and bandwidth assignments under 47 U.S.C. 
+s 309(j)(4)(C).  Section 309(j)(7) does not restrict the Com-
+mission's choice of an overall license allocation mechanism.
+
+                              * * *
+
+     The Commission's dismissal of pending 39 GHz applica-
+tions, use of a 30-day "ripeness" period, and imposition of an 
+amendment cut-off date were reasonable and in accordance 
+with law.  We therefore deny the petitions for review and 
+affirm the Commission's orders.12
+
+                                                        So ordered.
+
+__________
+for which licenses or permits will be issued pursuant to this 
+subsection, and in prescribing regulations pursuant to paragraph 
+4(C) of this subsection, the Commission may not base a finding of 
+public interest, convenience, and necessity on the expectation of 
+Federal revenues from the use of a system of competitive bidding 
+under this subsection."  Section 309(j)(7)(B) states:  "In prescribing 
+regulations pursuant to paragraph (4)(A) of this subsection, the 
+Commission may not base a finding of public interest, convenience, 
+and necessity solely or predominantly on the expectation of Federal 
+revenues from the use of a system of competitive bidding under this 
+subsection."
+
+     12 We have considered appellants' other contentions and reject 
+them.
+
+                                         

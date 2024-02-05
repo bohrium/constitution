@@ -1,0 +1,890 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 17, 2001   Decided December 11, 2001 
+
+                           No. 00-1174
+
+                Public Utility District No. 1 of 
+                  Snohomish County, Washington, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+              PJM Interconnection, L.L.C., et al., 
+                           Intervenors
+
+                        Consolidated with 
+        Nos. 00-1175, 00-1176, 00-1177, 00-1178, 00-1179, 
+                00-1180, 00-1181, 00-1182, 00-1184
+
+              Petitions for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Eric L. Christensen argued the cause for petitioner Public 
+Utility District No. 1 of Snohomish County, Washington.  
+
+With him on the briefs were Michael J. Gianunzio and 
+Deborah A. Swanstrom.
+
+     David B. Raskin and Elias G. Farrah argued the cause for 
+Jurisdictional Utilities and Supporting Intervenors.  With 
+them on the briefs were Mary A. Murphy, David P. Sharo, 
+Charles G. Cole, Alice E. Loughran, Richard T. Saas, Donald 
+A. Kaplan, Andrew N. Greene, David Earl Goroff, Elizabeth 
+Ward Whittle, Stuart A. Caplan, Michael E. Small and Paul 
+M. Flynn. Catherine M. Giovannoni, Steven J. Ross, Edward 
+H. Comer, Kelly D. Hewitt, Joseph H. Fagan and Scott 
+Wilensky entered appearances.
+
+     Jonathan D. Schneider argued the cause and filed the 
+briefs for petitioner South Carolina Public Service Authority.
+
+     Susan N. Kelly and Milton J. Grossman were on the brief 
+for intervenor Transmission Dependent Utility Systems.
+
+     Dennis Lane, Solicitor, Federal Energy Regulatory Com-
+mission, argued the cause for respondent.  With him on the 
+brief was Larry D. Gasteiger, Attorney.  Beth G. Pacella and 
+David H. Coffman, Attorneys, entered appearances.
+
+     Robert C. McDiarmid, Daniel I. Davidson, Cynthia S. 
+Bogorad, Susan N. Kelly, Milton J. Grossman and Barry 
+Cohen were on the brief for intervenors American Public 
+Power Association, et al.  Joseph P. Serio, Wallace F. Till-
+man, Alan J. Roth and David E. Pomper entered appear-
+ances.
+
+     David B. Raskin and Charles G. Cole were on the brief for 
+intervenor Edison Electric Institute on the passive ownership 
+issue.
+
+     Before:  Randolph, Rogers, and Garland, Circuit Judges.
+
+     Opinion for the Court filed Per Curiam.
+
+     Per Curiam:  On December 20, 1999, the Federal Energy 
+Regulatory Commission promulgated a final rule to advance 
+the formation of regional transmission organizations 
+("RTOs").  See Regional Transmission Organizations, Order 
+
+No. 2000, FERC Stats. & Regs. p 31,089 (1999), 65 Fed. Reg. 
+810 (2000) ("Order 2000"), on reh'g, Order No. 2000-A, FERC 
+Stats. & Regs. p 31,092, 65 Fed. Reg. 12,088 (2000) ("Order 
+2000-A") (codified at 18 C.F.R. s 35.34).1  On February 25, 
+2000, the Commission denied rehearing while clarifying cer-
+tain provisions of the rule.  See Order 2000-A, p 31,092, at 
+31,354.  The petitioners raise a variety of challenges to Order 
+2000, principally on the grounds that the Commission exceed-
+ed its statutory authority, and if it did not, that it acted 
+arbitrarily and capriciously and contrary to law.
+
+     The contentions of the Jurisdictional Utilities ("Utilities") 
+are premised on the view that Order 2000 not only mandates 
+certain informational filings as to expected RTO participation 
+but also has the effect of mandating RTO participation.  We 
+hold first, that the challenged requirements of Order 2000 are 
+voluntary and impose no mandatory requirements upon the 
+Utilities, and second, that the Utilities have failed to demon-
+strate that they are aggrieved by Order 2000.  Accordingly, 
+we dismiss the Utilities' petitions for lack of jurisdiction.
+
+     We dismiss as well the petition of the Public Utility District 
+No. 1 of Snohomish County, Washington, which challenged 
+the Commission's failure to address the costs and benefits of 
+RTO formation, and the petition of the South Carolina Public 
+Service Authority, which sought review of the Commission's 
+refusal to forbid passive ownership of an RTO by market 
+participants.
+
+                                I.
+
+     Historically, electric utilities were vertically integrated, 
+owning generation, transmission, and distribution facilities 
+and selling these services as a "bundled" package to whole-
+sale and retail customers in a limited geographical service 
+area.  Promoting Wholesale Competition Through Open Ac-
+cess Non-discriminatory Transmission Services by Public 
+
+__________
+     1 All references to Order 2000 and Order 2000-A refer to pages in 
+the FERC Stats. and Regs.  Unless otherwise indicated, references 
+to "Order" or "Order 2000" refer to the final rule and its preambles.
+
+Utilities, Recovery of Stranded Costs by Public Utilities and 
+Transmitting Utilities, 60 Fed. Reg. 17,662, 17,668 (proposed 
+Apr. 7, 1995) (codified at 18 C.F.R. ss 35.15, 35.26-35.29).  
+Beginning in the late 1960s, however, significant economic 
+changes and technological advances in generation and trans-
+mission gave rise to many new entrants in the generating 
+markets, which, by using smaller scale technology, could sell 
+energy at a lower price than many utilities' existing genera-
+tion facilities.  Id. at 17,671.  But barriers to a competitive 
+wholesale power market remained because if and when the 
+existing vertically integrated utilities provided regional trans-
+mission access to these new efficient generating plants, they 
+favored their own generation.  Id.
+
+     Concluding that these practices were unduly discriminatory 
+and anti-competitive, the Commission issued Orders 888 and 
+889 in 1996.2  Orders 888 and 889 established the foundation 
+for the development of competitive wholesale power markets 
+by requiring non-discriminatory open access transmission ser-
+vices by public utilities.  See Transmission Access Policy 
+Study Group v. FERC, 224 F.3d 667, 682 (D.C. Cir. 2000) 
+("TAPSG").  In the Notice of Proposed Rulemaking underly-
+ing the Order now on review, the Commission observed that 
+Orders 888 and 889 "required a significant change in the way 
+many public utilities have done business for most of this 
+century," and that "most public utilities accepted these 
+changes and made substantial good faith efforts to comply 
+with the new requirements."  See Notice of Proposed Rule-
+
+__________
+     2 Promoting Wholesale Competition Through Open Access Non-
+discriminatory Transmission Services by Public Utilities;  Recov-
+ery of Stranded Costs by Public Utilities and Transmitting Utili-
+ties, Order No. 888, 61 Fed. Reg. 21,540 (1996), clarified, 76 
+F.E.R.C. p 61,009 and 76 F.E.R.C. p 61,347 (1996), on reh'g, Order 
+No. 888-A, 62 Fed. Reg. 12,274, clarified, 79 F.E.R.C. p 61,182 
+(1997), on reh'g, Order No. 888-B, 62 Fed. Reg. 64,688 (1997), on 
+reh'g, Order No. 888-C, 82 F.E.R.C. p 61,046 (1998);  Open Access 
+Same-Time Information System and Standards of Conduct, Order 
+No. 889, 61 Fed. Reg. 21,737 (1996), on reh'g, Order No. 889-A, 62 
+Fed. Reg. 12,484 (1997), on reh'g, Order No. 889-B, 81 F.E.R.C. 
+p 61,253 (1997).
+
+making, Regional Transmission Organizations, 64 Fed. Reg. 
+31,390, 31,393 (1999) ("NOPR").
+
+     Since the issuance of Orders 888 and 889 the electric 
+industry has changed significantly in response to those or-
+ders.  The availability of open access transmission tariffs has 
+resulted in a much greater reliance on wholesale markets to 
+provide generation resources, which in turn, has resulted in 
+the increase of interregional electricity transfers.  This has 
+caused various changes in the industry, including the divesti-
+ture by integrated utilities of their generating assets, an 
+increase in mergers, increases in new participants in the 
+industry in the form of independent power marketers and 
+generators, an increase in the total volume of trade in the 
+wholesale electricity market, state efforts to increase retail 
+competition, and new and different uses of the transmission 
+grid.  In sum, the Commission observed in the underlying 
+NOPR that "[t]he very success of Order Nos. 888 and 889, 
+and the initiative of some utilities that have pursued volun-
+tary restructuring beyond the minimum open access require-
+ments, have put new stresses on regional transmission sys-
+tems--stresses that call for regional solutions."  Id.
+
+     In response to these changes in the structure and function-
+ing of the electric industry, the Commission investigated the 
+need for regional transmission entities.  The Commission 
+staff found that the transmission grid was being used more 
+intensively than in the past and that "market institutions 
+were not adequately prepared to deal with such a dramatic 
+series of events," as had occurred, for example, mid-June 
+1998 when the Midwest experienced unprecedented high spot 
+market prices.  Id. at 31,394.  The staff concluded that to 
+address reliability concerns and foster competition, "better 
+regional coordination in areas such as maintenance of trans-
+mission and generation systems and transmission planning 
+and operation" was required.  Id.  Although, in the wake of 
+Orders 888 and 889, some members of the industry attempted 
+to form various regional entities, the results were "haphaz-
+ard" and "inconsistent";  while some succeeded, others failed, 
+and "much of the country's transmission facilities remain[ed] 
+
+outside of an operational regional transmission institution."  
+Id. at 31,395.
+
+     In Order 2000, the Commission identified two categories of 
+remaining barriers to a competitive wholesale electric market 
+envisioned in Orders 888 and 889:  (1) engineering and eco-
+nomic inefficiencies in the current transmission grid;  and (2) 
+lingering opportunities for transmission owners to discrimi-
+nate to favor their own activities.  The Commission issued 
+Order 2000 to advance the formation of RTOs in response to 
+these two concerns, indicating that RTOs will remedy "eco-
+nomic and engineering inefficiencies and the continuing op-
+portunity for undue discrimination."  Order 2000, p 31,089 at 
+31,017.  According to the Commission, RTOs could:  "(1) 
+improve efficiencies in transmission grid management;  (2) 
+impose grid reliability;  (3) remove remaining opportunities 
+for discriminatory transmission practices;  (4) improve market 
+performance;  and (5) facilitate lighter handed regulation."  
+Id. at 30,933.
+
+     The final rule, as contained in Order 2000 and clarified by 
+Order 2000-A, specifies both the minimum characteristics and 
+functions that a regional entity must satisfy in order to be 
+considered an RTO under the rule.  See 18 C.F.R. 
+ss 35.34(j), (k);  see also id. s 35.34(l).  The final rule, howev-
+er, adopts a flexible approach to the structuring of RTOs, 
+allowing an RTO to take the form of an ISO, transco, a 
+combination of the two, or some other form as long as it 
+meets the minimum function and characteristic requirements 
+set forth in the rule.3  See id. s 35.34(b)(1).  Five of the 
+minimum requirements of an RTO are relevant to this appeal.  
+First, among the minimum characteristics of an RTO, the rule 
+specifies that RTOs must have independence from market 
+participants.  See id. s 35.34(j)(1).  As one means of ensuring 
+
+__________
+     3 "Transcos," short for transmission companies, both own and 
+operate transmission facilities for profit.  "Independent system 
+operators" (ISOs), in contrast, are non-profit organizations that 
+operate the transmission facilities that others own.  Thus, unlike 
+ISOs, transcos do not separate the ownership from the operation of 
+the facilities.
+
+such independence, although the rule allows transmission 
+owners to "retain the authority under section 205 of the 
+Federal Power Act [("FPA" or "Act"] (16 U.S.C. [s] 824d) to 
+seek recovery from the [RTO] of the revenue requirements 
+associated with the transmission facilities that they own," the 
+rule requires that RTOs have "exclusive and independent 
+authority under [s 205 of the Act] to propose rates, terms 
+and conditions of transmission service provided over the 
+facilities it operates."  Id. s 35.34(j)(1)(iii) & note.  Second, 
+as another means of ensuring independence, the final rule 
+provides that the "[RTO], its employees, and any non-
+stakeholder directors must not have financial interests in any 
+market participant."  Id. s 35.34(j)(1)(i).  The rule does not, 
+however, prohibit passive ownership, but rather allows the 
+Commission to review passive ownership proposals on a case-
+by-case basis.  Third, among the minimum characteristics of 
+an RTO, the rule prescribes the regional scope of RTOs, see 
+id. s 35.34(j)(2), but leaves specific regional cost-benefit anal-
+yses to be conducted on a case-by-case basis.  Fourth, among 
+the minimum functions of an RTO, the rule specifies that the 
+RTO must have planning and expansion authority, see id. 
+s 35.34(k)(7).  Fifth, the rule creates an "open architecture" 
+policy, which requires all RTO proposals to allow the RTO the 
+flexibility to improve its structure and operations to meet 
+demands.  See id. s 35.34(l).
+
+     In order to encourage RTO participation and formation, the 
+final rule requires every public utility, as defined by s 201 of 
+the FPA, 16 U.S.C. s 824(e), that owns, operates or controls 
+facilities for the transmission of electric energy in interstate 
+commerce to make certain filings with respect to their partic-
+ipation in an RTO, see 18 C.F.R. s 35.34(a), and establishes a 
+collaborative process to facilitate the voluntary development 
+of RTOs.  See Order 2000, p 31,089 at 30,991, 30,994.  All 
+public utilities not currently in an ISO must file with the 
+Commission either a proposal to participate in an RTO or an 
+"alternative filing" by October 15, 2000.  18 C.F.R. s 35.34(c).  
+A public utility that is currently a member of an ISO must file 
+with the Commission by January 15, 2001, a statement that it 
+is participating in an approved ISO and an explanation of the 
+
+extent to which the ISO has the characteristics and functions 
+of an RTO;  to the extent the ISO does not conform to the 
+requirements of an RTO, the ISO member must provide a 
+proposal to participate in an RTO, a proposal to modify the 
+ISO to conform to the requirements of an RTO, or an 
+"alternative filing."  Id. s 35.34(h).  For all public utilities, 
+the "alternative filing" must describe any efforts made to 
+participate in an RTO, a detailed explanation of why the 
+utility has not made a filing to participate in an RTO, and the 
+"specific plans, if any, the public utility has for further work 
+toward participation" in an RTO.  Id. s 35.34(g) (emphasis 
+added).
+
+                               II.
+
+     The Jurisdictional Utilities do not challenge the Commis-
+sion's overarching objective to encourage participation in and 
+formation of RTOs.  Indeed, they hardly could, for in the 
+Federal Power Act Congress has directed the Commission 
+both "to divide the country into regional districts for the 
+voluntary interconnection and coordination of facilities for the 
+generation, transmission, and sale of electric energy" and "to 
+promote and encourage such interconnection and coordination 
+within each such district and between such districts."  FPA 
+s 202(a), 16 U.S.C. s 824a(a).  Instead, the Utilities challenge 
+certain aspects of the minimum requirements and functions of 
+RTOs set forth in Order 2000.  Specifically, they contend 
+that:  (1) the Commission lacked the statutory authority to 
+mandate a division of rate filing responsibilities in which 
+transmission owners must involuntarily cede their alleged 
+statutory right to file rates;  (2) the Order's division of rate 
+filing responsibilities is arbitrary and capricious both because 
+the division was unjustified and because it would hinder the 
+transmission owners' ability to recover their costs;  (3) Order 
+2000 improperly limited transmission owners' right to con-
+tract to make unilateral rate modifications;  (4) the Order's 
+open architecture requirement is arbitrary and capricious;  
+and (5) the Order's transmission expansion requirement im-
+permissibly abdicated the Commission's authority to approve 
+interconnections and expansions.  The Commission responds 
+
+that none of these contentions are properly before the court 
+because (1) the Utilities are not aggrieved by Order 2000 as is 
+required to seek review under s 313(b) of the Act, 16 U.S.C. 
+s 825l(b), and (2) the issues presented on appeal are not ripe.  
+Because we conclude that the Utilities lack standing because 
+they have suffered no injury in fact, we need not reach 
+whether the Utilities' claims are also unripe.  City of Orville 
+v. FERC, 147 F.3d 979, 987 n.10 (D.C. Cir. 1998).
+
+     Section 313(b) of the Act, pursuant to which the Utilities 
+seek judicial review of Order 2000, provides that a party must 
+be aggrieved by the Commission's order.  See 16 U.S.C. 
+s 825l(b).  A party is aggrieved within the meaning of 
+s 313(b) if it can establish both the constitutional and pruden-
+tial requirements for standing.  See La. Energy & Power 
+Auth. v. FERC, 141 F.3d 364, 367 (D.C. Cir. 1998).  In Lujan 
+v. Defenders of Wildlife, 504 U.S. 555 (1992), the Supreme 
+Court set forth the familiar three requirements for constitu-
+tional standing:  (1) "the plaintiff must have suffered an 
+'injury in fact'--an invasion of a legally protected interest 
+which is (a) concrete and particularized and (b) actual or 
+imminent, not conjectural or hypothetical";  (2) "there must 
+be a causal connection between the injury and the conduct 
+complained of";  and (3) "it must be likely, as opposed to 
+merely speculative, that the injury will be redressed by a 
+favorable decision."  Id. at 560 (citations omitted) (internal 
+quotation marks omitted).
+
+     The validity of the Commission's jurisdictional argument 
+turns on whether Order 2000 requires the Utilities to partici-
+pate in an RTO, or rather merely encourages them to join or 
+form an RTO voluntarily.  If Order 2000 mandates RTO 
+participation, the Utilities will suffer the immediate and con-
+crete injury of involuntarily having to cede their claimed 
+statutory rights and being subject to allegedly arbitrary and 
+capricious agency action.  Thus, mandated participation in an 
+RTO gives the Utilities the unpleasant choice between Scylla 
+and Charybdis--either participate in an RTO and lose their 
+claimed statutory rights pursuant to the allegedly unlawful 
+authority of the Commission or face sanctions.  By contrast, 
+if Order 2000 is voluntary as to RTO participation, the 
+
+Utilities need not participate in an RTO at all, and even if 
+they choose to participate in an RTO, they will not be 
+involuntarily ceding any claimed statutory rights, but rather 
+voluntarily waiving them.  Accordingly, we first examine 
+whether Order 2000 is voluntary.
+
+                                A.
+
+     The Jurisdictional Utilities base their challenges to Order 
+2000 on the premise that it is not voluntary.  In their main 
+brief, they set forth three bases for their contention that the 
+Commission "cannot evade all responsibility for its actions by 
+declaring its entire program 'voluntary.' "  First, they main-
+tain that those transmission owners that joined ISOs before 
+the issuance of Order 2000 have no practical choice but to 
+participate in an RTO because they cannot alter their existing 
+ISO structure without the Commission finding that withdraw-
+al is in the public interest and, in Order 2000, according to the 
+Utilities, the Commission found that the public interest re-
+quires participation in RTOs.  For other transmission own-
+ers, they contend, "it is hard to see either Order No. 2000 or 
+its deprivation of section 205 rights as voluntary" because the 
+Commission "has required every public utility either to file an 
+RTO proposal or justify why it has not done so."  Finally, 
+they maintain the Commission's "concept of 'voluntariness' is 
+but a mirage," inasmuch as the Commission in Order 2000 
+noted its authority to require membership in an RTO as a 
+condition for approving mergers and other corporate restruc-
+turings, and to make grants of authority to charge market-
+based rates contingent on RTO membership.  The Utilities 
+rely on colorful language in Associated Gas Distributors v. 
+FERC, 824 F.2d 981 (D.C. Cir. 1987), in which the court 
+declined to treat as voluntary the provision of Order No. 436 
+that required those gas pipelines that opted to secure a 
+"blanket certificate" for the provision of gas transportation to 
+make an "open-access" commitment.  The court reasoned 
+that refusal to provide blanket-certificate transportation could 
+spell bankruptcy and opting not to could be fatal.  Id. at 1024.  
+The court observed that "when a condemned man is given the 
+choice between the noose and the firing squad, we do not 
+
+ordinarily say that he has 'voluntarily' chosen to be hanged."  
+Id.
+
+     There are two main difficulties with the Utilities' premise 
+that Order 2000 mandates RTO formation and participation.  
+First, the text and preambles of the final rule do not support 
+their contention.  Second, notwithstanding the text, the Utili-
+ties fail to offer anything to support their contention that for 
+practical purposes RTO participation is not voluntary.
+
+     Order 2000, by its own terms, does not mandate RTO 
+participation.  See 18 C.F.R. ss 35.34(c), (g), (h).  It requires 
+all public utilities (whether they are members of an ISO or 
+not) to file either a proposal to participate in an RTO or an 
+alternative filing.  See id. ss 35.34(c), (h).  The alternative 
+filing need only describe efforts made to participate in an 
+RTO, an explanation of obstacles to participating in an RTO, 
+and the specific plans, if any, that the public utility has to 
+participate in an RTO in the future.  See id. s 35.34(g).  The 
+voluntariness of Order 2000 thus lies in the existence of the 
+alternative filing, which enables any public utility to opt not to 
+participate in an RTO.  Therefore, although the filing re-
+quirements are mandatory, participation in an RTO is not.
+
+     The preambles confirm that Order 2000 neither was intend-
+ed to mandate nor does mandate RTO participation.  In the 
+preamble to Order 2000, the Commission repeatedly stated 
+that it was implementing a "voluntary approach to RTO 
+formation" and that only the filing requirement is mandatory.  
+See Order 2000, p 31,089 at 31,034.  Indeed, the Commission 
+expressly noted the view that its RTO proposal cannot really 
+be said to be voluntary because nonparticipation in an RTO 
+will result in negative consequences for nonparticipants, and 
+replied that it was "not adopting as a generic policy in this 
+Final Rule ... that RTO participation is required."  Id.  
+Notwithstanding skepticism by many commentators that a 
+voluntary approach would accomplish the Commission's goals, 
+the Commission stuck to its guns and concluded that although 
+"it is clear that RTOs are needed to resolve impediments to 
+fully competitive markets," "we continue to believe, as we 
+proposed in the NOPR, that at this time we should pursue a 
+
+voluntary approach to participation in RTOs."  Id. at 31,033.  
+The Commission explained:
+
+     [A] voluntary approach as we have structured it, with 
+     guidance and encouragement from the Commission, is 
+     most appropriate at this time.  Given the rapidly evolv-
+     ing state of the electric industry, we want to allow 
+     involved participants the flexibility to develop mutually 
+     agreeable regional arrangements with respect to RTO 
+     formation and coordination.
+     
+Id.  In what proved to be a dashed hope, the Commission 
+continued, "[f]urther, we want the industry to focus its efforts 
+on the potential benefits of RTO formation and how best to 
+achieve them, rather than on a non-productive challenge to 
+our legal authority to mandate RTO participation."  Id.
+
+     The preamble to Order 2000-A underscores the Commis-
+sion's already explicit meaning of Order 2000, stating that 
+"the Commission adopted as a matter of policy a voluntary 
+approach to RTO formation" and that "Order No. 2000 does 
+not mandate RTO participation."  Order 2000-A, p 31,092 at 
+31,357.  Both preambles also distinguished the Commission's 
+authority to voluntarily encourage RTO participation, pursu-
+ant to s 202(a) of the Act, from the Commission's authority to 
+mandate RTO participation on a case-by-case basis to remedy 
+undue discrimination or anti-competitive effects pursuant to 
+ss 206 and 309 of the Act.  See Order 2000, p 31,089 at 
+31,043;  Order 2000-A, p 31,092 at 31,360.
+
+     Nevertheless, the Utilities would have this court read "be-
+tween the lines" of Order 2000, contending that the Order is 
+involuntary in effect because of the remedial actions that the 
+Commission might take against those utilities that fail to 
+participate in an RTO.  According to the Utilities, Order 
+2000 has the practical effect of mandating RTO participation 
+both because current members of an ISO have no choice but 
+to participate in an RTO because they cannot exit their 
+existing ISO structure as the Commission found that the 
+public interest requires participation in an RTO, and because 
+the Commission has the authority to condition the approval 
+of mergers and market-based rates on RTO participation.  
+
+The Utilities' characterization of Order 2000 directly contra-
+dicts its text and effects and, hence, does not change the 
+Order's voluntary nature.
+
+     As an initial matter, the text of Order 2000 does not 
+support the Utilities' contentions.  The Commission made 
+neither a generic finding that RTO participation is required 
+for a disposition of jurisdictional facilities to be in the public 
+interest, nor a generic finding that would enable it to condi-
+tion the approval of all future mergers and market-based 
+rates on participation in an RTO.  To the contrary, the 
+preamble to Order 2000 explicitly stated otherwise:
+
+     We are not adopting as a generic policy in this Final 
+     Rule either that RTO participation is required in order to 
+     retain or obtain market-based rate authorization for 
+     wholesale power sales, or that RTO participation is re-
+     quired for a disposition of jurisdictional facilities to be in 
+     the public interest.
+     
+Order 2000, p 31,089 at 31,034;  accord id. at 31,044-45.  The 
+preamble to Order 2000-A confirms this:
+
+     In response to those who argue that the Commission 
+     should state generically that all market-based rates and 
+     mergers must be conditioned on RTO participation, we 
+     continue to believe that this is best addressed on a case-
+     by-case basis.  We see no need to decide at this time that 
+     no merger or market-based rate proposal could satisfy 
+     our applicable standards without RTO participation.  
+     There will be sufficient opportunity to consider this in 
+     the context of individual cases.
+     
+Order 2000-A, p 31,092 at 31,358.  Because neither of the 
+preambles made these generic findings, the Utilities should 
+be no more fearful of these future individual actions after the 
+issuance of the final rule than they were before its issuance.
+
+     Although the Commission implicitly stated in Order 2000 
+that it might be more inclined to allow affiliated sellers to 
+charge market-based rates if the transmission affiliate be-
+longed to an RTO and that it would also more readily approve 
+mergers and acquisitions in that circumstance, this does not 
+
+change the current state of the law:  the Commission ap-
+proves market-based rates only if the seller and its affiliates 
+either do not have or have adequately mitigated market 
+power.  See La. Energy & Power Auth., 141 F.3d at 365;  
+Cajun Elec. Power Coop. v. FERC, 28 F.3d 173, 176 (D.C. 
+Cir. 1994).  The fact that an RTO member may more readily 
+satisfy the applicable standards for market-based rates or 
+merger approvals has no bearing on whether other entities 
+satisfy the standards as well.
+
+     It is conceivable that Order 2000's provisions on RTOs are, 
+in effect, mandatory if Order 2000 will result in participation 
+in RTOs because of the benefits of joining or forming an RTO 
+(and, in the same vein, the resulting costs of not doing so), see 
+Associated Gas Distribs., 824 F.2d at 1024, but the Utilities 
+have come forward with no evidence to support this conclu-
+sion.  Absent such a showing, the court has no reason not to 
+take the Commission at its word that Order 2000 is voluntary.  
+Cf. N. Ind. Pub. Serv. Co. v. FERC, 954 F.2d 736, 740 (D.C. 
+Cir. 1992) ("NIPSCO").
+
+     Furthermore, the Utilities' conception of Order 2000 as 
+mandating RTO participation makes no mention of the alter-
+native filing option that allows any public utility--whether it 
+is a member of an ISO or not--to decline to participate in an 
+RTO without penalty (beyond those that are available to the 
+Commission under the Federal Power Act regardless of the 
+final rule).  See 18 C.F.R. ss 35.34(c)(2), (h)(3)(iii).  The 
+Utilities respond that they do not want to file an alternative 
+filing because they want to participate in an RTO, and hence 
+they urge the court to construe Order 2000 to mandate RTO 
+participation because it sets forth mandatory requirements 
+for the minimum characteristics and functions of an RTO.  In 
+this regard, the Utilities point to several recent orders of the 
+Commission in which it declined to recognize an entity in its 
+entirety as an RTO because it did not meet the minimum 
+requirements specified in Order 2000.  See N.Y. Indep. Sys. 
+Operator, 96 F.E.R.C. p 61,059 at 61,187 (July 12, 2001);  
+PJM Interconnection, L.L.C., 96 F.E.R.C. p 61,061 at 61,243-
+44 (July 12, 2001).  In essence, however, the Utilities do not 
+want to participate in an "RTO" as the Commission has 
+
+envisioned it in Order 2000.  Rather, they want to form some 
+different entity, presumably to gain some of the advantages 
+that the Commission has identified in Order 2000, but neither 
+formation of nor participation in this entity appears to be 
+precluded by Order 2000 itself, as the alternative filing provi-
+sion, 18 C.F.R. s 35.34(g), makes clear.
+
+     For these reasons, we conclude that the language of Order 
+2000 is sufficient to establish that RTO participation is volun-
+tary.
+
+                                B.
+
+     Returning to consideration of the Commission's position 
+that the court lacks jurisdiction to review the Utilities' chal-
+lenges to Order 2000, we conclude that the Utilities have 
+failed to show that they have suffered an injury in fact as a 
+result of the final rule.
+
+     The Utilities set forth a variety of ways in which Order 
+2000 injures them, including that, upon joining or forming an 
+RTO, (1) they are deprived of their claimed statutory right to 
+file with the Commission rate changes for services to custom-
+ers, (2) they risk losing their investments in transmission 
+assets because of the Order's division of rate filing responsi-
+bilities, (3) they lose the alleged right to contract directly with 
+current and potential customers, (4) they lose management 
+control as to the operation of their assets, and (5) the rates 
+they are paid for transmission services will decline.  All of 
+these injuries only come to pass, however, if a public utility 
+opts to participate in an RTO;  Order 2000 does not mandate 
+this.  Rather, Order 2000 only mandates a filing requirement, 
+which allows any public utility to make an alternative filing.  
+None of the Utilities' claimed injuries will occur if they opt to 
+make an alternative filing and do not participate in an RTO.  
+To the extent the Utilities may want to participate in an 
+"RTO-like" organization with different rate filing divisions, 
+nothing in Order 2000 prevents them from doing so;  public 
+utilities can avoid being locked into an RTO by submitting an 
+alternative filing.  Because none of the Utilities' injuries will 
+come to fruition if they opt to make an alternative filing, their 
+
+stated injuries are non-existent or at least highly speculative;  
+thus, they are inadequate to give rise to an injury in fact.  
+See N.C. Utils. Comm'n v. FERC, 653 F.2d 655, 664 (D.C. 
+Cir. 1981).
+
+     Noticeably absent from the Utilities' alleged injuries is a 
+harm that stems from the mandatory requirement of Order 
+2000--the filing requirement itself.  They neither challenge 
+the filing requirement nor contend that they are harmed by 
+it.  Thus, they have set forth no injury in fact that they suffer 
+from Order 2000, and hence they are not aggrieved as 
+required under s 313(b) of the Act.
+
+     Accordingly, in view of our conclusion that Order 2000 does 
+not mandate RTO participation, the court lacks jurisdiction to 
+address the Utilities' challenges to the final rule.
+
+                               III.
+
+     Petitioner Public Utility District No. 1 of Snohomish Coun-
+ty, Washington ("Snohomish") seeks review of the Commis-
+sion's assessment that RTOs will be cost-effective.  Snoho-
+mish also contends that the Commission's failure to require 
+those filing RTO proposals to demonstrate the cost-
+effectiveness of the proposed RTO is both irrational and 
+contrary to law.  Because Snohomish has not suffered an 
+injury as a result of Order 2000, and because the Commission 
+agrees that it must consider cost-benefits when evaluating 
+RTO proposals, we dismiss the petition for review.
+
+     Snohomish argues that, in requiring all public utilities to 
+file RTO proposals, the Commission failed to appreciate the 
+unique circumstances in the Pacific Northwest, where 75 
+percent of the transmission power lines are owned and oper-
+ated by the Bonneville Power Administration.  Because of 
+Bonneville's dominant position, the negative effects from the 
+"balkanization" of service providers, effects that prompted the 
+Commission to promulgate Order 2000, are allegedly not 
+present in Snohomish's region.  If there is no balkanization, 
+Snohomish's argument continues, then there is no reason to 
+impose the costs of RTO formation on consumers in the 
+Pacific Northwest.  Snohomish contends that forming an 
+
+RTO in the Pacific Northwest is not in the public interest 
+because the costs of formation will outweigh any benefits in 
+service and efficiency.  Snohomish bases this argument large-
+ly on its prediction of negative economic consequences for 
+Bonneville (and its bondholders) if Bonneville is forced to 
+relinquish control of transmission assets to an RTO.  Snoho-
+mish also postulates that the Commission has overemphasized 
+the benefits a Pacific Northwest RTO will provide.  The 
+Commission disagreed with Snohomish's assessment and de-
+nied its request for rehearing of Order 2000.
+
+     The Commission questions our jurisdiction to hear Snoho-
+mish's petition on the ground that Snohomish is not "ag-
+grieved" within the meaning of s 313(b).  16 U.S.C. s 825l(b).  
+As the Commission sees it, Order 2000 does not require 
+Snohomish, which is not a "public utility" subject to the 
+Order, to do anything.  The Commission also views Snoho-
+mish's claims as unripe.  If we reach the merits, the Commis-
+sion urges us to rule in its favor on the ground that substan-
+tial evidence of the nationwide savings of RTO formation 
+supports its Order.
+
+     Snohomish's complaints are both specific and general.  
+With respect to the specific issue of RTO formation in the 
+Pacific Northwest, Snohomish offered data to prove that this 
+would be more costly than any resulting benefit.  Snohomish 
+complains that the Commission did not adequately consider 
+this data.  Snohomish also presented a general argument--
+any RTO applicant must demonstrate cost-effectiveness be-
+fore the Commission approves the application;  Order 2000 
+does not provide this safeguard;  therefore, the Order violates 
+the Federal Power Act because it does not ensure that the 
+Commission will approve only RTOs that are in the public 
+interest, as ss 203 and 205 of the FPA require.  Id. ss 824b, 
+824d.
+
+     Order 2000 is but a preliminary step.  It encourages volun-
+tary RTO formation.  See Part II, supra.  If Snohomish's 
+general argument stood alone we would dismiss its petition 
+for lack of "aggrievement."  Order 2000 does not provide for 
+Commission approval of any RTOs;  it requires only that 
+
+public utilities file proposals or explain why they are not 
+doing so.  Snohomish does not argue that it would suffer any 
+actual injury if the Commission approved an inefficient RTO 
+in, for example, New Jersey.  Snohomish is connected to an 
+entirely separate regional power grid.  See City of Orrville, 
+147 F.3d at 979.
+
+     Snohomish's more specific complaint is a different matter.  
+There are currently pending before the Commission proceed-
+ings on an application for an RTO in the Pacific Northwest.  
+In Avista Corp., 95 F.E.R.C. p 61,114 (Apr. 26, 2001), reh'g 
+granted in part and clarified in part, 96 F.E.R.C. p 61,058 
+(July 12, 2001), decided after Order 2000 issued, RTO filers in 
+the Pacific Northwest (including Bonneville) sought a declara-
+tory order from the Commission providing "preliminary 
+guidance with respect to Governance, Scope and Configura-
+tion, and Liability of" the proposed RTO ("RTO West").4  Id. 
+at 61,324 (emphasis added).  Snohomish intervened in the 
+proceeding, reiterating the general challenge it sought to 
+raise in the rulemaking--namely, that no RTO proposal may 
+be approved unless the applicants have demonstrated that its 
+benefits will outweigh its costs. The Commission responded as 
+follows:
+
+     In Order No. 2000, the Commission found that the 
+     benefits of RTO formation overall outweigh the costs, but 
+     it did not require individual cost benefit analyses in 
+     compliance filings.  We will not reverse that determina-
+     tion here.
+     
+Id. (footnote omitted).
+
+     Snohomish takes this to mean that it is barred from 
+submitting its cost-benefit analysis in the proceeding.  That is 
+a misreading of the passage.  The Commission was simply 
+reiterating its rejection of Snohomish's general argument.  It 
+was not, as Snohomish thinks, stating that it would refuse to 
+consider cost-benefit analyses in determining whether to ap-
+
+__________
+     4 The plan is to merge two RTO filings, RTO West and Transcon-
+nect, into one joint proposed RTO, retaining the name RTO West.  
+See Avista, 95 F.E.R.C. p 61,114 at 61,322.
+
+prove an RTO for the Pacific Northwest.  Far from it.  As 
+Commission counsel explained at oral argument, the Commis-
+sion must--in order to comply with the Federal Power Act 
+and the Administrative Procedure Act, see 16 U.S.C. ss 824b, 
+824d;  5 U.S.C. s 706;  see also Office of Consumers Council 
+v. FERC, 783 F.2d 206, 227 (D.C. Cir. 1986)--adequately 
+address Snohomish's specific cost-benefit evidence (if Snoho-
+mish presents it) prior to the Commission's final decision on 
+the RTO proposal for the Pacific Northwest.  RTO West is 
+itself undertaking its own cost-benefit analysis of the propos-
+al.  See Avista, 95 F.E.R.C. p 61,114 at 61,324 n.6.
+
+     The short of the matter is that in the site-specific proceed-
+ing, Snohomish may accomplish all it set out to accomplish in 
+the rulemaking.  Snohomish cannot point to any particular 
+hardship it will suffer from having to wait to make its case in 
+that forum.  See Abbott Labs. v. Gardner, 387 U.S. 136, 149 
+(1967);  Toilet Goods Ass'n v. Gardner, 387 U.S. 158, 164-65 
+(1967).  And there is no reason why the Commission should 
+have passed judgment on Snohomish's evidence in its general 
+rulemaking proceeding.5  See NIPSCO, 954 F.2d 736 at 738.
+
+                               IV.
+
+     The objection of petitioner South Carolina Public Service 
+Authority ("Authority") is that Order 2000 allows for up to 
+100 percent passive ownership of an RTO by market partici-
+pants, in contravention of the Order's avowed "independence 
+principle."  This supposedly makes the Commission's reason-
+ing arbitrary and capricious, and its decision to permit pas-
+sive ownership unsupported by substantial evidence.  The 
+Commission contends that we should not entertain the Au-
+thority's challenge at this stage of RTO development.
+
+__________
+     5 Whether all of this amounts to mootness, or ripeness, or lack of 
+aggrievement on Snohomish's part is not of great concern for "the 
+critical issue is apt to be less a matter of standing or of actual 
+controversy than of the advisability of reviewing an administrative 
+rule prior to its application in a specific factual situation."  Toilet 
+Goods Ass'n v. Gardner, 360 F.2d 677, 684 (2d Cir. 1966) (Friendly, 
+J.), aff'd, 387 U.S. 158 (1967).
+
+     The Authority wholeheartedly supports RTO formation and 
+applauds the Commission for tackling the difficult task of 
+reforming the electricity transmission field.  But the Authori-
+ty believes that the Commission has set its Order up for 
+failure by not prohibiting outright the passive ownership of 
+RTOs by market participants.  According to the Authority, if 
+market participants are allowed to own as much as 100 
+percent of an RTO, then discriminatory rates and inefficient 
+resource allocation will continue because the RTO will not be 
+"independent" from the market participants even if they are 
+merely passive owners.
+
+     The Commission justifies permitting passive ownership on 
+the basis of comments received from market participants 
+indicating that adverse tax consequences may prevent public 
+utilities from forming a type of RTO known as a "transco."  
+In a transco, the RTO owns and operates electricity transmis-
+sion services for a profit.  Because RTOs must be indepen-
+dent from market participant control, their voluntary forma-
+tion may be impeded by the adverse tax (and other economic) 
+consequences facing a public utility wanting to sell transmis-
+sion facilities to an RTO.  The Commission asserts that 
+permitting passive ownership--provided that procedural and 
+substantive safeguards exist to ensure that public utilities do 
+not effectively control an RTO's s 205 rate filings or grid 
+distribution functions--facilitates the formation of RTOs.  
+The Authority does not think that the Commission's reliance 
+on safeguards such as audits every three years, see 18 C.F.R. 
+ss 35.34(j)(1)(iv)(A) & (B), rationally reflects its commitment 
+to encourage the formation of RTOs which are independent of 
+public utility control.
+
+     The Authority would be "aggrieved" within the meaning of 
+s 313(b), see La. Energy & Power Auth., 141 F.3d at 366, 
+only if its assumption about passive ownership--that market 
+participants will dominate RTOs despite having no formal 
+control authority--is a correct prediction.  Yet the Order 
+calls only for RTO proposals.  The Authority could suffer 
+injury only if passive ownership occurs in an RTO operating 
+in its region.  It is difficult to see how the Authority is now 
+"aggrieved" by Order 2000.  See City of Orrville, 147 F.3d at 
+
+985.  We would therefore be inclined to dismiss its petition on 
+ripeness grounds.  This would still allow the relationship 
+between passive ownership and RTO independence to be 
+evaluated with respect to a specific RTO proposal encompass-
+ing the Authority's region.  See NIPSCO, 954 F.2d at 737-38.
+
+     The Authority points out that an RTO proposal--the Grid-
+South proposal--covering its region was filed, that the Au-
+thority challenged it on the passive ownership ground, and 
+that the Commission ruled that this was "an impermissible 
+collateral attack on ... Order No. 2000."  Carolina Power & 
+Light Co., 95 F.E.R.C. p 61,282 at 61,988 (May 30, 2001).  The 
+Authority treats the Commission's ruling as deciding that it 
+cannot oppose passive ownership even when it may be affect-
+ed directly by an RTO in that form.  That is a misreading of 
+the Commission's decision.  The Commission did not fore-
+close the Authority from raising the specific claim that Grid-
+South (or any RTO in the Authority's region) could injure 
+consumers in South Carolina because of impermissible pas-
+sive owner dominance.  The Commission simply rejected the 
+Authority's "generic" argument that permitting passive own-
+ership is per se unacceptable.  In doing so, the Commission 
+made clear that the Authority had not challenged the "de-
+tailed findings" the Commission made concerning the effec-
+tiveness of safeguards to ensure that passive ownership of 
+GridSouth is truly passive.  Id. at 61,988-89.
+
+     In any event, what the Authority actually contests is the 
+Commission's failure to promulgate a rule prohibiting passive 
+ownership of RTOs.  If the Authority had its way, there 
+would be a paragraph in Order 2000 stating that "100 percent 
+passive ownership of an RTO by market participants is 
+prohibited."  Instead of addressing passive ownership by 
+rulemaking, the Commission decided to adjudicate the issue 
+in the context of specific RTO proposals (for example, Grid-
+South).  This selection of adjudication over rulemaking is well 
+within the Commission's discretion.  See NLRB v. Bell Aero-
+space Co., 416 U.S. 267, 294 (1974);  see also SEC v. Chenery 
+Corp., 332 U.S. 194, 203 (1947);  City of Orrville, 147 F.3d at 
+988 n.11.  Because the possibility of passive ownership, by 
+itself, causes the Authority no injury, and because case-by-
+
+case adjudications present a better forum in which to chal-
+lenge the effectiveness of passive ownership safeguards, the 
+petition for review is dismissed.
+
+                             * * * *
+
+     For the foregoing reasons, the petitions for review of the 
+Jurisdictional Utilities, Public Utility District No. 1 of Snoho-
+mish County, Washington, and the South Carolina Public 
+Service Authority are dismissed.
+
+                                                                

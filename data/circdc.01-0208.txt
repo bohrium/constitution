@@ -1,0 +1,359 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 18, 2001   Decided November 16, 2001 
+
+                      Nos. 00-1400 & 00-1401
+
+                   Celtronix Telemetry, Inc., 
+                       Appellant/Petitioner
+
+                                v.
+
+           Federal Communications Commission, et al., 
+                       Appellee/Respondents
+
+         Appeal from and Petition for Review of an Order 
+             of the Federal Communications Commission
+
+     Richard S. Myers argued the cause and filed the briefs for 
+appellant/petitioner.
+
+     Stewart A. Block, Counsel, Federal Communications Com-
+mission, argued the cause for appellee/respondents.  With 
+him on the brief were Jane E. Mago, General Counsel, 
+Daniel M. Armstrong, Associate General Counsel, Catherine 
+
+G. O'Sullivan and Andrea Limmer, Attorneys, U.S. Depart-
+ment of Justice.
+
+     Before:  Ginsburg, Chief Judge, Henderson, Circuit Judge, 
+and Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  In 1994 the Federal Com-
+munications Commission auctioned off a group of Interactive 
+Video and Data Service ("IVDS") licenses.  In 1997 it 
+changed the rules governing grace periods for winning bid-
+ders who made late installment payments.  Celtronix, a win-
+ning bidder for such a license, alleges that the change was 
+unlawfully retroactive.  We affirm the Commission's decision.
+
+                             *  *  *
+
+     In a June 1994 auction Celtronix (then known as Communi-
+ty Teleplay, Inc.) won an IVDS license for the Norfolk-
+Virginia Beach Metropolitan Service Area.  As a small busi-
+ness, Celtronix was allowed to pay its winning bid in install-
+ments over the term of the license.  47 C.F.R. s 1.2110(d) 
+(1994).  The regulation provided that any payment would be 
+in default after 90 days delinquency, but allowed a licensee to 
+request a three-to-six-month grace period.  Id. 
+s 1.2110(d)(4)(i), (ii).  In considering whether to grant the 
+grace period, the Commission could consider the licensee's 
+payment history, the reasons for default, the licensee's finan-
+cial condition, and other circumstances.  Id.  Though its 
+regulations were not exactly clear on the availability of addi-
+tional grace periods, the Commission issued a public notice 
+claiming discretion to "extend or grant additional grace peri-
+ods where circumstances warrant."  Public Notice, "Wireless 
+Telecommunications Bureau Staff Clarifies 'Grace Period' 
+Rule for IVDS 'Auction' Licensees Paying By Installment 
+Payments," 10 FCC Rcd 10724 (1995).
+
+     In 1997 the Commission changed its grace period rule in 
+the Third Report and Order and Second Further Notice of 
+Proposed Rule Making, 13 FCC Rcd 374 (1997) ("Grace 
+
+Period Order").  Under the new regulation, a licensee who 
+missed a payment would automatically have 90 extra days to 
+do so without being considered delinquent.  47 C.F.R. 
+s 1.2110(f)(4)(i) (1998).  This came at the price of a 5% late 
+fee on the amount past due.  Id.  Failure to make payment at 
+the end of the first 90-day period would result in a second 
+automatic 90-day grace period and a 10% late fee.  Id. 
+s 1.2110(f)(4)(ii). (Formerly, there had been an interest 
+charge, amortized over the term of the license.)  Any licensee 
+failing to make payment after 180 days delinquency (or failing 
+to pay the late fee) would then be in default.  Id. 
+s 1.2110(f)(4)(iii), (iv).1
+
+     Celtronix filed a petition for reconsideration of the Grace 
+Period Order in January 1998 and, in July of that year, an 
+emergency motion for stay pending review of the petition.  
+But in September 1998, just before the final date on which 
+Celtronix's license would have been permanently defaulted, 
+the Commission announced a notice of a proposed rulemaking 
+aimed at introducing new flexibility for spectrum occupied by 
+IVDS licensees;  to reflect the change it immediately redesig-
+nated the service as the "218-219 Mhz Service."  Amendment 
+of Part 95 of the Commission's Rules to Provide Regulatory 
+Flexibility in the 218-219 MHz Service, Order, Memorandum 
+Opinion and Order and Notice of Proposed Rulemaking, 13 
+FCC Rcd 19064 p 16 (1998).  For the duration of that rule-
+making the Commission suspended all installment payments 
+for licensees who were paid up through March 16, 1998 or had 
+properly filed grace period requests.  Id. p 13.
+
+     In its final order on the 218-219 Mhz Service, Amendment 
+of Part 95 of the Commission's Rules to Provide Regulatory 
+Flexibility in the 218-219 MHz Service, Report and Order 
+and Memorandum Opinion and Order, 15 FCC Rcd 1497 
+(1999) ("218-219 MHz Service Order"), the Commission dis-
+missed Celtronix's grace period requests and its emergency 
+stay motion, saying that parties that had properly filed grace 
+
+__________
+     1  The current version of the rule provides that the grace period 
+shall be a quarter year, rather than 90 days, but is otherwise similar 
+in substance.  47 C.F.R. s 1.2110(g)(4)(i) (2000).
+
+period requests had already received "an extended grace 
+period."  Id. p p 45, 133.  It also provided three options for 
+licensees in Celtronix's situation:  (1) reamortization and the 
+resumption of installment payments;  (2) amnesty, under 
+which the licensee could return the license, have its debt 
+forgiven, and receive a partial refund of prior payments;  and 
+(3) prepayment of the entire amount.  Id. p 34.  Additionally, 
+the Commission provided that the former 5-year term would 
+be extended to 10 years.  Id. p p 25-32.
+
+     Celtronix sought reconsideration of the 218-219 MHz Ser-
+vice Order in December 1999.  While that was pending, the 
+Commission denied Celtronix's petition for reconsideration of 
+the Grace Period Order.  Amendment of Part 1 of the 
+Commission's Rules--Competitive Bidding Procedures, Order 
+on Reconsideration of the Third Report and Order, Fifth 
+Report and Order, and Fourth Further Notice of Proposed 
+Rule Making, 15 FCC Rcd 15293, p 27 (2000).  Then, in 
+December 2000, the Commission denied reconsideration of 
+the 218-219 MHz Service Order, and reaffirmed that IVDS 
+licensees must decide among the three options of amnesty, 
+resuming repayment, or prepayment of the entire amount.  
+See Amendment of Part 95 of the Commission's Rules to 
+Provide Regulatory Flexibility in the 218-219 MHz Service, 
+Second Order on Reconsideration, 15 FCC Rcd 25020, p p 1, 
+34 (2000).  It rejected Celtronix's proposal of a fourth option 
+under which licensees could disaggregate, i.e., could retain 
+part of their 218-219 Mhz spectrum for a given market and 
+return the rest to the Commission.  Id. at p p 14-20.
+
+     Celtronix chose to return the license to the Commission for 
+amnesty, subject to its claim for a disaggregation alternative.  
+It filed a petition for reconsideration of this order, which is 
+still pending before the Commission.
+
+     As to the Grace Period Order, Celtronix filed a petition for 
+review under s 402(a) of the Communications Act (No. 00-
+1401) and an appeal under s 402(b) (No. 00-1400).  Since 
+these jurisdictional provisions are mutually exclusive, see 
+Freeman Engineering Associates, Inc. v. FCC, 103 F.3d 169, 
+
+177 (D.C. Cir. 1997), and because Celtronix's case falls into 
+none of the categories in s 402(b)(1) through (8), we dismiss 
+appeal No. 00-1400 and take jurisdiction for No. 00-1401 
+under s 402(a).
+
+     There is another jurisdictional concern.  Given Celtronix's 
+election of amnesty in the event that its disaggregation 
+proposal does not prevail (either by Commission change of 
+heart or by judicial reversal of the Commission), there is a 
+distinct chance that Celtronix would not benefit from a victo-
+ry here;  absent disaggregation, it would simply take its 
+amnesty and depart.  But we do not see this possibility as 
+impairing its standing.  Compare a standard two-issue case:  
+If a plaintiff presents two or more alternative grounds as 
+routes to its hoped-for ultimate victory, a court does not lose 
+jurisdiction over the second claim once it has ruled in the 
+plaintiff's favor on the first claim;  victory on the first claim 
+doesn't moot the second.  Air Line Pilots Ass'n Int'l v. UAL 
+Corp., 897 F.2d 1394, 1397 (7th Cir. 1990).  Conversely, if a 
+party must prevail on both of two theories to achieve a 
+meaningful win (e.g., knock out a regulation), its loss on the 
+first does not moot the second.  Worldcom, Inc. v. FCC, 246 
+F.3d 690, 695 (D.C. Cir. 2001).  For both situations, the 
+continued exercise of jurisdiction by the court is based on a 
+practical consideration:  Disposition of both bases has the 
+potential of achieving judicial economies, as higher-level re-
+view might remove the first basis for the outcome.  See id.
+
+     Just as the contingent character of the ruling on the second 
+issue in the above cases does not spell mootness, so too the 
+fact that here Celtronix's ultimate success may depend on the 
+outcome of pending administrative litigation should not be 
+seen as rendering the harm inflicted on it by the Commis-
+sion's grace period decision too "conjectural" for purposes of 
+standing.  City of Los Angeles v. Lyons, 461 U.S. 95, 102 
+(1983).  Otherwise, a party requiring victory on two fronts in 
+two fora could easily lose his chance for review on the first 
+claim to be put forward for adjudication, see 28 U.S.C. s 2344 
+(requiring petition for review to be filed within 60 days), thus 
+destroying his chance of prevailing, regardless of the merits.
+
+                             *  *  *
+
+     Celtronix argues that the new grace period rule, 47 C.F.R. 
+s 1.2110(g)(4), violates the Administrative Procedure Act, 
+which limits "rules" to agency prescriptions of "future effect."  
+5 U.S.C. s 551(4);  see Bowen v. Georgetown University 
+Hospital, 488 U.S. 204, 216-25 (1988) (Scalia, J., concurring);  
+Bergerco Canada v. U.S. Treasury Department, 129 F.3d 189, 
+192-93 (D.C. Cir. 1997) (treating Justice Scalia's concurring 
+opinion as substantially authoritative, though noting that 
+"[t]he Bowen majority, to be sure, neither embraced nor 
+rejected Justice Scalia's view").  To a large extent Celtronix 
+invokes the criteria applied in Landgraf v. USI Film Prod-
+ucts, 511 U.S. 244 (1994), a case that explored the question of 
+what sort of retroactivity was subject to the longstanding 
+presumption against retroactive statutes.  Id. at 263-80.  
+Here, of course, there is no issue of intent at all:  the 
+Commission indisputably intended its new grace period rule 
+to apply to payment delays occurring after the rule's adoption 
+but in connection with previously issued licenses.  Nonethe-
+less, the tests formulated in Landgraf are indeed pertinent to 
+the APA issue.  See, e.g., Bergerco Canada, 129 F.3d at 193;  
+DIRECTV v. FCC, 110 F.3d 816, 825-26 (D.C. Cir. 1997).
+
+     According to Justice Scalia, a retroactive rule forbidden by 
+the APA is one which "alter[s] the past legal consequences of 
+past actions."  Bowen, 488 U.S. at 219.  In Landgraf, the 
+Court said that retroactivity occurred where a statute "would 
+impair rights a party possessed when he acted, increase a 
+party's liability for past conduct, or impose new duties with 
+respect to transactions already completed."  511 U.S. at 280.
+
+     It seems impossible to characterize the rule change here as 
+"alter[ing] the past legal consequences" of a past action.  It 
+altered the future effect of the initial license issuance, to be 
+sure, but that could not be viewed as "past legal conse-
+quences."  Nor could the change be said to impair rights 
+possessed by Celtronix when it acted, as it could have had no 
+grace period rights before it "acted" to acquire the license, 
+and any payment delay covered by the new rule, i.e., any 
+delay not already excused, necessarily occurred after the rule 
+
+change.  If the rule could be viewed as "impos[ing] new 
+duties" at all (in the sense of making the duty to pay 
+installments more stringent), it would run afoul of Landgraf's 
+concept only if it imposed them with regard to a "transac-
+tion[ ] already completed."  That would be so if the "transac-
+tion" at issue were the issuance of the license itself, as 
+Celtronix urges, rather than the delay in payments.
+
+     The examples used in the cases make clear that we should 
+focus on the payment delays and not on initial issuance of the 
+license.  As Justice Scalia noted in Landgraf, a new ban on 
+gambling would not involve retroactivity in its application to 
+existing casinos (which presumably would have been licensed 
+by a state), because the "relevant retroactivity event is the 
+primary activity of gambling, not the primary activity of 
+constructing casinos."  Landgraf, 511 U.S. at 293 n.3 (Scalia, 
+J., concurring).  Similarly, Justice Scalia made clear in Bow-
+en that there would be no violation of the APA's insistence on 
+rules of "future effect" if the Secretary there had promulgat-
+ed new reimbursement formulas for future services, even 
+though the hospitals in question were operating under long-
+term contracts negotiated in reliance on a prior, more gener-
+ous rule.  488 U.S. at 220.
+
+     Celtronix claims to have had a "vested right" to keep 
+requesting additional grace periods and to force the Commis-
+sion to consider any unique circumstances.  To this end, it 
+cites Landgraf's statement that the judicial clear statement 
+rule would apply where a statute would otherwise "impair 
+rights a party possessed when he acted."  511 U.S. at 280.2 
+But Celtronix never explains where this vested right came 
+from.  The pre-auction license system offered no vested right 
+
+__________
+     2  The passage cited by Celtronix in fact makes no reference to 
+"vested" rights, but other parts of the opinion do.  See 511 U.S. at 
+268-69 & n.23 (quoting "vested rights" language from Justice 
+Story's opinion in Society for Propagation of the Gospel v. Wheeler, 
+2 Gall. 105, 22 F. Cas. 756, 767 (No. 13,156) (CC NH 1814), and 
+from Sturges v. Carter, 114 U.S. 511, 519 (1885));  id. at 275 n.29;  
+see also id. at 290-94 (Scalia, J., concurring) (critiquing "vested 
+rights" usage).
+
+to any specific terms.  Rather, it is undisputed that the 
+Commission always retained the power to alter the term of 
+existing licenses by rulemaking.  See, e.g., United States v. 
+Storer Broadcast Co., 351 U.S. 192, 205 (1956);  National 
+Broadcasting Co. v. United States, 319 U.S. 190, 225 (1943);  
+Committee for Effective Cellular Rules v. FCC, 53 F.3d 1309, 
+1319-20 (D.C. Cir. 1995);  WBEN, Inc. v. FCC, 396 F.2d 601, 
+617-18 (2d Cir. 1968).
+
+     The introduction of auctions made no change in this aspect 
+of the licensing regime.  In fact, Congress provided both that 
+the Commission would retain its authority "to regulate or 
+reclaim spectrum licenses," 47 U.S.C. s 309(j)(6)(C), and that 
+nothing in the use of auctions would "be construed to convey 
+any rights ... that differ from the rights that apply to other 
+licenses...."  Id. s 309(j)(6)(D).
+
+     Of course the grace period change may have altered the 
+value of the rights Celtronix acquired by its winning bid and 
+commitment to make the required payments.  This sort of 
+retroactivity--characteristic of a rule having exclusively "fu-
+ture effect" but affecting the desirability of past transac-
+tions--has become known as "secondary retroactivity."  See 
+Bowen, 488 U.S. at 219-20 (Scalia, J., concurring).  Under 
+our authority to set aside rules that are arbitrary and capri-
+cious, we review such rules to see whether they are reason-
+able, "both in substance and in being made retroactive."  
+U.S. Airwaves, Inc. v. FCC, 232 F.3d 227, 233 (D.C. Cir. 2000) 
+(emphasis added).
+
+     Here it's easy to find the rule reasonable in both respects.  
+The Commission merely replaced the possibility of two (or 
+maybe more) three-month grace periods, available only on a 
+successful appeal to the Commission's discretion, with the 
+assurance of two 90-day periods subject to 5% and 10% 
+penalties on the delayed payments.  Looking at licensees as a 
+class, there is no reason to think the change disadvantageous.  
+Indeed, the Commission described the change as a "liberaliza-
+tion."  Grace Period Order, p 108.  Nor does Celtronix sug-
+gest that the rule change would inflict material injuries on 
+any set of licencees (such as ones whose circumstances made 
+
+receipt of Commission grace especially likely) that would 
+offset its beneficial effects, or indeed that the Commission has 
+ever exercised its discretion favorably.  Moreover, it seems 
+utterly improbable that the old grace provisions could have 
+induced reliance, either in the form of higher bids by licen-
+sees at the bidding stage (as the change is so trivial and likely 
+beneficial), or of any different conduct thereafter (as both old 
+and new rule provide substantially equal motivations to avoid 
+default).  See Bergerco, 129 F.3d at 195.  In sum, when one 
+considers both the interests of licensees generally and of the 
+Commission, the rule change's harms (the amorphous injury 
+to hypothetical successful pleaders for discretionary grace, 
+and the penalty fees) seem outweighed by its benefits (the 
+certainty and clarity for all concerned and the elimination of a 
+possibly long and costly decisionmaking process under vague 
+criteria).  So, at least, the Commission could reasonably have 
+concluded.
+
+     Celtronix also urges a somewhat makeshift argument that 
+the FCC's rule change was a breach of contract, citing United 
+States v. Winstar Corp., 518 U.S. 839 (1996).  But there the 
+government had contractually bound itself to bear the risk of 
+specified regulatory change adverse to certain firms that had 
+acquired failed saving and loan associations in reliance on that 
+promise.  Id. at 868-71.  Here, far from there being any such 
+promise, there was, as we've noted, a long tradition of Com-
+mission authority to change rules governing already-issued 
+licenses and congressional provision for the application of the 
+prior understandings to licenses acquired by auction.
+
+                             *  *  *
+
+     The order of the Commission is
+
+                                                                      Affirmed.
+
+                                                                          

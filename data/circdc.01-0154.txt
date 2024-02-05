@@ -1,0 +1,1181 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued April 24, 2001      Decided July 24, 2001 
+
+                           No. 99-1457
+
+             Cement Kiln Recycling Coalition, et al.,
+                           Petitioners
+
+                                v.
+
+               Environmental Protection Agency and 
+             Christine Todd Whitman, Administrator, 
+                           Respondents
+
+                  Dow Chemical Company, et al., 
+                           Intervenors
+
+                        Consolidated with 
+          99-1477, 99-1480, 99-1483, 99-1485, 99-1486, 
+          99-1490, 99-1491, 99-1492, 99-1493, 99-1494, 
+                99-1495, 99-1496, 99-1497, 99-1498
+
+           On Petitions for Review of an Order of the 
+                 Environmental Protection Agency
+
+                            ---------
+
+     James S. Pew argued the cause for petitioner Sierra Club.  
+With him on the briefs was Howard I. Fox.
+
+     Jeremiah J. Jewett, III, David P. Novello, Ronald A. 
+Shipley, and Scott H. Segal argued the cause for Industry 
+Petitioners.  With them on the briefs were Richard G. Stoll, 
+Michael W. Steinberg, Terry J. Satterlee, Alok Ahuja, Karl S. 
+Bourdeau, David M. Friedland, Aaron H. Goldberg, Lisa M. 
+Jaeger, David R. Case, Thomas G. Echikson, James N. 
+Cahan, William M. Bumpers, David A. Smart, and Douglas 
+H. Green.
+
+     David R. Case argued the cause and filed the briefs for 
+petitioner Environmental Technology Council.
+
+     Richard G. Stoll, David P. Novello, Michael W. Steinberg, 
+Ronald A. Shipley, Karl S. Bourdeau, David M. Friedland, 
+Aaron H. Goldberg, Scott H. Segal, Lisa M. Jaeger, David R. 
+Case, William M. Bumpers, and Jeremiah J. Jewett, III were 
+on the brief for industry intervenors.  Joshua D. Sarnoff 
+entered an appearance.
+
+     Lois Godfrey Wye and Norman L. Rave, Jr., Attorneys, 
+U.S. Department of Justice, and Steven E. Silverman, Attor-
+ney, Environmental Protection Agency, argued the cause for 
+respondents.  With them on the brief was Lois J. Schiffer, 
+Assistant Attorney General at the time the brief was filed, 
+U.S. Department of Justice.  Christopher S. Vaden, Attorney, 
+U.S. Department of Justice, entered an appearance.
+
+     James S. Pew and Howard I. Fox were on the brief for 
+intervenor Sierra Club.
+
+     David R. Case was on the brief for intervenor Environmen-
+tal Technology Council.
+
+     Before:  Randolph, Rogers and Tatel, Circuit Judges.
+
+     Opinion for the Court filed Per Curiam.*
+
+     Per Curiam:  In this case, industry and environmental 
+petitioners challenge EPA air pollution standards for hazard-
+
+__________
+     * Judge Tatel wrote Parts I, II, III, IV, and VII;  Judge Ran-
+dolph wrote Parts V and VI.
+
+ous waste combustors.  Because the standards fail to reflect 
+the emissions achieved in practice by the best-performing 
+sources as required by the Clean Air Act, we remand to the 
+Agency for further proceedings.  In all other respects, we 
+deny the petitions for review.
+
+                                I
+
+     Until 1990, the Clean Air Act ("CAA"), 42 U.S.C. ss 7401-
+7671q, required the Environmental Protection Agency to set 
+risk-based air pollution standards that would provide an 
+"ample margin of safety to protect the public health."  Id. 
+s 7412(b)(1)(B) (1990);  see also H.R. Rep. No. 101-490, at 
+151, 322 (1990).  To address problems with the implementa-
+tion of risk-based regulation, Congress amended the Act in 
+1990 to require EPA to set the most stringent standards 
+achievable, 42 U.S.C. s 7412(d)(2), that is, standards "based 
+on the maximum reduction in emissions which can be 
+achieved by application of [the] best available control technol-
+ogy."  S. Rep. No. 101-228, at 133 (1989).
+
+     The 1990 amendments included the provision at issue in 
+this case--42 U.S.C. s 7412(d)--which directs EPA to set 
+standards limiting emissions of listed hazardous air pollutants 
+("HAPs"), id. ss 7412(b), (c)(1)-(2), from major stationary 
+sources.  Section 7412(d)(2) provides that:
+
+     Emission standards ... shall require the maximum de-
+     gree of reduction in emissions of the hazardous air 
+     pollutants subject to this section ... that the Administra-
+     tor, taking into consideration the cost of achieving such 
+     emission reduction, and any non-air quality health and 
+     environmental impacts and energy requirements, deter-
+     mines is achievable for new or existing sources....
+     
+Supplementing this general guidance, Congress imposed min-
+imum stringency requirements--EPA calls them "emission 
+floors"--which "apply without regard to either costs or the 
+other factors and methods listed in section 7412(d)(2)."  Nat'l 
+Lime Ass'n v. EPA, 233 F.3d 625, 629 (D.C. Cir. 2000) 
+("National Lime II").  For "new sources"--factories or other 
+
+sources on which construction begins after EPA publishes 
+emission standards, 42 U.S.C. s 7411(a)(2)--"[t]he maximum 
+degree of reduction in emissions that is deemed achievable 
+... shall not be less stringent than the emission control that 
+is achieved in practice by the best controlled similar 
+source...."  Id. s 7412(d)(3).  For existing sources, what 
+EPA deems achievable "shall not be less stringent than[ ] the 
+average emission limitation achieved by the best performing 
+12 percent of the existing sources (for which the Administra-
+tor has emissions information)...."  Id.  As we explained in 
+National Lime II, EPA implements these requirements 
+through a two-step process:  the Agency first sets emission 
+floors for each pollutant and source category and then deter-
+mines whether stricter standards, known as "beyond-the-
+floor" limits, are achievable in light of the factors listed in 
+section 7412(d)(2).  233 F.3d at 629.
+
+     Hazardous waste combustors ("HWCs"), the focus of this 
+case, are also subject to regulation under the Resource Con-
+servation and Recovery Act ("RCRA"), 42 U.S.C. ss 6901-
+6992k, which "establishes a comprehensive 'cradle to grave' 
+regulatory program for the treatment, storage, and disposal 
+of hazardous waste."  Horsehead Res. Dev. Co. v. Browner, 
+16 F.3d 1246, 1252 (D.C. Cir. 1994).  A pre-1990 risk-based 
+statute, RCRA directs EPA to set standards for hazardous 
+waste-burning facilities that "protect human health and the 
+environment."  42 U.S.C. s 6924(q)(1).  Both Congress and 
+EPA have acknowledged the overlap between RCRA and the 
+CAA.  Indeed, the CAA itself directs the Administrator to 
+"take into account any regulations of such emissions which 
+are promulgated under [RCRA] and ... to the maximum 
+extent practicable ... ensure that the requirements of 
+[RCRA] and [section 7412] are consistent."  Id. s 7412(n)(7).  
+Hazardous waste combustors must have RCRA permits for 
+stack air emissions until they can demonstrate compliance 
+with CAA standards through required tests;  once a source 
+complies with the CAA, it no longer needs a separate RCRA 
+permit.  Final Standards for Hazardous Air Pollutants for 
+Hazardous Waste Combustors, 64 Fed. Reg. 52,828, 52,833 
+(Sept. 30, 1999).
+
+     In 1999, acting pursuant to CAA section 7412(d) and follow-
+ing notice and comment, EPA issued standards limiting emis-
+sions from three types of HWCs:  incinerators that destroy 
+hazardous waste;  cement kilns that use hazardous waste as 
+fuel in the cement-manufacturing process;  and lightweight 
+aggregate kilns that use hazardous waste as fuel to produce 
+lightweight aggregate concrete, a building material used for 
+structural purposes and thermal insulation.  These HWCs 
+burn approximately 80% of the hazardous waste combusted 
+each year in the United States, id. at 52,832, emitting more 
+than 11,000 metric tons of HAPs.
+
+     For each type of HWC, i.e., each "source category," EPA 
+set standards for the following HAPs:  dioxins;  mercury;  the 
+semi-volatile metals lead and cadmium;  the low-volatility 
+metals chromium, arsenic, and beryllium;  particulate matter;  
+chlorine;  carbon monoxide;  and hydrocarbons.  All of these 
+HAPs can have serious health effects.  Dioxin, mercury, and 
+semi-volatile metal emissions are of particular concern;  expo-
+sure can cause effects such as cancer, neurological and organ 
+damage, and impaired child development.  See id. at 53,002-
+03.
+
+     To set these standards, EPA, acting pursuant to section 
+7412(d)(3), began by setting emission floors for new and 
+existing sources--EPA calls them "MACT (maximum achiev-
+able control technology) floors."  After assembling a database 
+of sources and their emission levels recorded primarily during 
+RCRA compliance tests, the Agency went through the follow-
+ing steps for each HAP in each source category.  For existing 
+sources, EPA identified the best-performing 12 percent of 
+sources, creating what it calls the "MACT pool."  EPA then 
+identified the primary emission control technology used by 
+sources in the MACT pool with emission levels equivalent to 
+or lower than the pool's median.  It labeled that technology 
+the "MACT control."  For some HAPs, EPA chose end-of-
+stack pollution control technology as the MACT control;  for 
+other HAPs, the Agency chose the technique of "feedrate"--
+the rate at which source operators feed hazardous waste into 
+combustors.  EPA next expanded the MACT pool to include 
+all sources using the MACT control (provided the control was 
+
+well-designed and properly operated) and set the MACT floor 
+at the worst emission level achieved by any source in that 
+expanded pool.  For new sources, EPA used the same meth-
+odology but chose as the MACT control the technology used 
+by the best-performing source for which it had information.
+
+     After setting forty-nine floors, EPA considered, as required 
+by section 7412(d)(2), whether stricter limits--"beyond-the-
+floor" standards--would be achievable.  Taking into account 
+cost, energy requirements, and certain non-air quality health 
+and environmental impacts, EPA ultimately set five beyond-
+the-floor standards.
+
+     Environmental and industry petitioners now challenge the 
+HWC emission standards.  The Sierra Club argues that: 
+(1) the MACT approach results in emission standards that 
+violate section 7412(d)(3) because they fail to reflect the 
+emissions achieved in practice by the best-performing 
+sources;  (2) the Agency violated the Act by basing standards 
+on RCRA test data, which are generated under worst-case 
+conditions;  and (3) in making beyond-the-floor determina-
+tions, the Agency failed to consider certain "non-air quality 
+health and environmental impacts" as required by section 
+7412(d)(2) and arbitrarily and capriciously refused to consider 
+tougher standards based on additional controls for some 
+HAPs.  Industry petitioners contend that EPA violated sec-
+tion 7412(d)(3)(A) by basing existing-source floors on actual 
+emissions data rather than on existing regulatory require-
+ments, such as RCRA permit limits.  Industry petitioners 
+also challenge as arbitrary and capricious many individual 
+emission standards, as well as several monitoring and imple-
+mentation regulations.  One industry petitioner, Continental 
+Cement, argues that EPA violated the Regulatory Flexibility 
+Act, 5 U.S.C. ss 601-612.  Another petitioner, the Environ-
+mental Technology Council, challenges EPA's adoption of 
+procedures that permit sources to petition the Agency for 
+alternative requirements if they cannot meet MACT stan-
+dards due to raw material contributions to emissions.  See 40 
+C.F.R. ss 63.1206(b)(9) & (10).
+
+                                II
+
+     We begin with industry petitioners' argument that EPA 
+violated CAA section 7412(d)(3)(A) by basing existing-source 
+standards on emissions data rather than RCRA or other 
+permit limits.  Section 7412(d)(3)(A) provides that "[e]mission 
+standards promulgated ... for existing sources ... shall not 
+be less stringent ... than[ ] the average emission limitation 
+achieved by the best performing 12 percent of the existing 
+sources (for which the Administrator has emissions informa-
+tion)...."  42 U.S.C. s 7412(d)(3)(A).  Focusing on the 
+phrase "emission limitation," petitioners point out that CAA 
+section 7602(k) defines that term as "a requirement estab-
+lished by the State or the Administrator which limits the 
+quantity, rate, or concentration of emissions of air pollu-
+tants...."  Id. s 7602(k).  According to petitioners, section 
+7412(d)(3)(A) must therefore be read as follows:  "[e]mission 
+standards promulgated ... for existing sources ... shall not 
+be less stringent ... than the average state or federal re-
+quirement limiting emissions of a pollutant achieved in 
+practice by the best performing 12 percent of the existing 
+sources."  Indus. Petitioners' Opening Br. at 8.
+
+     Although EPA disputes this reading of the statute--it 
+contends that CAA section 7412(d)(3)(A)'s use of the word 
+"achieved" indicates that standards must be based on actual 
+emissions data--the Agency argues that we may not even 
+consider petitioners' argument because they failed to present 
+it to the Agency during the rulemaking.  See 42 U.S.C. 
+s 7607(d)(7)(B) ("Only an objection to a rule or procedure 
+which was raised with reasonable specificity during the period 
+for public comment ... may be raised during judicial re-
+view.").  Having reviewed each page of the record petitioners 
+cite to demonstrate that they presented their interpretation 
+of section 7412(d)(3)(A) during the rulemaking, we agree with 
+EPA.  The first cited comment argued only that the Agency 
+should set the standard for particulate matter emissions from 
+lightweight aggregate kilns at the same level as existing New 
+Source Performance Standards ("NSPS"), to which EPA re-
+sponded that "[w]e rejected the NSPS as the basis for the 
+floor emission level because our MACT analysis of data from 
+
+existing sources indicates that a particulate matter floor level 
+lower than the NSPS is currently being achieved in prac-
+tice...."  Final Response to Comments to the Proposed 
+HWC MACT Standards, Vol. I:  Standards ("1 Final Re-
+sponse to Comments"):  LWAK Standards, at 13-14 (July 
+1999).  The second cited comment stated only that "[t]he 
+MACT floor should be set based on projections of Tier I 
+allowable mercury feedrate limits," to which EPA responded, 
+"[w]e agree that BIF Tier I feedrate limits could be consid-
+ered as a floor control option.  We conclude, however, that 
+those allowable feedrate limits are much higher than actual 
+feedrate levels ... and thus do not represent MACT."  Id.  
+Cement Kilns Mercury, at 7.  As the Agency points out, these 
+comments "merely argued that EPA could permissibly con-
+sider RCRA permit limitations in establishing floors," Re-
+spondent's Br. at 51, not (as petitioners now argue) that 
+section 7412(d)(3)(A) requires existing-source floors to be 
+based on permit limits.  And the final page petitioners cite 
+says nothing at all about existing regulatory limits.  See Final 
+Technical Support Document for HWC MACT Standards, 
+Vol. III:  Selection of MACT Standards and Technologies, at 
+2-2 (July 1999) ("3 Final TSD").
+
+     In considering the extent to which a statutory interpreta-
+tion must have been presented to an agency before a petition-
+er can raise it here, we have said that:
+
+     [w]hile there are surely limits on the level of congruity 
+     required between a party's arguments before an adminis-
+     trative agency and the court, respect for agencies' proper 
+     role in the Chevron framework requires that the court be 
+     particularly careful to ensure that challenges to an agen-
+     cy's interpretation of its governing statute are first 
+     raised in the administrative forum.
+     
+Natural Res. Def. Council, Inc. v. EPA, 25 F.3d 1063, 1074 
+(D.C. Cir. 1994).  Though we have recognized that "precisely 
+the same argument that was made before the agency [need 
+not] be rehearsed again, word for word, on judicial review," 
+Appalachian Power Co. v. EPA, 135 F.3d 791, 818 (D.C. Cir. 
+1998), petitioners point us to nothing in the record even 
+
+hinting that the phrase "emission limitation" must be defined 
+by reference to section 7602(k).  EPA (as opposed to its 
+appellate counsel) has not had "the first opportunity to bring 
+its expertise to bear on the resolution" of this question.  Id.
+
+                               III
+
+     The Sierra Club also challenges EPA's interpretation of 
+CAA section 7412(d)(3), but on different grounds.  The Sierra 
+Club argues that section 7412(d)(3) requires floors to reflect 
+emissions actually "achieved" by the best-performing sources, 
+and that EPA violated the statute by setting floors the 
+Agency considered achievable by all sources using MACT 
+technology.  See, e.g., 1 Final Response to Comments:  MACT 
+Floor Approaches, at 54-55 ("[W]e do not agree that the 
+proper interpretation of the CAA would require that the 
+MACT standards be based solely on an analysis of the 
+emissions levels being achieved by the best performing 12% 
+of sources....  MACT standard[s] must be achievable by all 
+sources judged to be using MACT or MACT equivalent 
+technology.").  According to the Sierra Club, the contrast 
+between the language of section 7412(d)(2), which requires 
+the maximum degree of reduction "achievable," and section 
+7412(d)(3), which establishes that what EPA deems achievable 
+"shall not be less stringent" than what certain sources actual-
+ly "achieve[ ]," demonstrates that "Congress was well aware 
+of the difference between what EPA believes to be 'achiev-
+able' through the use of a particular technology and what the 
+relevant sources actually 'achieved.' "  Sierra Club's Opening 
+Br. at 20.  "EPA's insistence that [section 7412] floors must 
+reflect what the agency determines to be achievable through 
+the use of a particular technology," the Sierra Club concludes, 
+"boils down to an attempt to nullify the objective limits that 
+Congress deliberately placed on EPA's standard setting dis-
+cretion by enacting [section 7412]'s mandatory floor provi-
+sions in the 1990 Amendments."  Id. at 21-22.
+
+     Defending its achievability rationale, EPA argues that sec-
+tion 7412(d)(3)'s floor provision "is a gloss" on section 
+7412(d)(2), which establishes the achievability requirement.  
+Respondent's Br. at 23.  According to the Agency, section 
+
+7412(d)(3) incorporates section 7412(d)(2)'s achievability stan-
+dard.  For this reason, EPA explains, it designed the MACT 
+approach to produce achievable standards.
+
+     We agree with the Sierra Club.  Though section 7412(d)(2) 
+does direct EPA to require the "maximum emission reduc-
+tion" that it determines to be achievable, section 7412(d)(3) 
+provides that "the maximum degree of reduction in emissions 
+that is deemed achievable ... shall not be less stringent 
+than" what the best-performing sources "achieve[ ]."  Section 
+7412(d)(3) therefore limits the scope of the word "achievable" 
+in section 7412(d)(2).  While standards achievable by all 
+sources using the MACT control might also ultimately reflect 
+what the statutorily relevant sources achieve in practice, EPA 
+may not deviate from section 7412(d)(3)'s requirement that 
+floors reflect what the best performers actually achieve by 
+claiming that floors must be achievable by all sources using 
+MACT technology.  See Chevron U.S.A., Inc. v. Natural Res. 
+Def. Council, Inc., 467 U.S. 837, 842-43 (1984) (holding that if 
+Congress has spoken directly to the disputed issue of statuto-
+ry construction, "that is the end of the matter;  for the court, 
+as well as the agency, must give effect to the unambiguously 
+expressed intent of Congress").
+
+     This interpretation is required by our decisions in Sierra 
+Club v. EPA, 167 F.3d 658 (D.C. Cir. 1999), and National 
+Lime II, 233 F.3d 625.  In Sierra Club, we held that CAA 
+section 7429(a)(2), which (in language virtually identical to the 
+terms of section 7412(d)(3)) directs EPA to set emission floors 
+for medical waste incinerators, requires EPA "to make a 
+reasonable estimate of the performance of the top 12 percent 
+of units."  167 F.3d at 662 (interpreting 42 U.S.C. 
+s 7429(a)(2), which requires that "[t]he degree of reduction in 
+emissions that is deemed achievable for new units in a 
+category shall not be less stringent than the emissions control 
+that is achieved in practice by the best controlled similar 
+unit," and that "[e]missions standards for existing units in a 
+category ... shall not be less stringent than the average 
+emissions limitation achieved by the best performing 12 per-
+cent of units in the category").  While acknowledging that 
+EPA has authority to devise the means of deriving this 
+
+estimate, we made clear that the method the Agency selects 
+must "allow[ ] a reasonable inference as to the performance of 
+the top 12 percent of units."  Id. at 663.  We emphasized that 
+EPA must show not only that it believes its methodology 
+provides an accurate picture of the relevant sources' actual 
+performance, but also why its methodology yields the re-
+quired estimate.  Id.  In evaluating EPA's new-source floors 
+in particular, which the Agency based on emission levels 
+achieved by the worst-performing sources using a given con-
+trol technology, we concluded that EPA had not explained 
+"why the phrase 'best controlled similar unit' encompasses all 
+units using the same technology as the unit with the best 
+observed performance, rather than just that unit itself, as the 
+use of the singular in the statutory language suggests."  Id. 
+at 665.  In National Lime II, we addressed a Sierra Club 
+petition challenging emission standards set under section 
+7412(d) for non-hazardous waste-burning portland cement 
+kilns.  In evaluating EPA's standards, we reiterated Sierra 
+Club's central holding that "to comply with the statute, EPA's 
+method of setting emission floors must reasonably estimate 
+the performance of the relevant best performing plants."  233 
+F.3d at 632 (citing Sierra Club, 167 F.3d at 665).
+
+     We thus turn to EPA's alternative argument:  that the 
+MACT approach does in fact measure what the best-
+performing sources actually achieve.  According to EPA, 
+Sierra Club requires standards to reflect "the worst reason-
+ably foreseeable performance of the best unit[s]," 167 F.3d at 
+665.  EPA argues that to meet this requirement, as well as to 
+account for "inherent process variability in pollution control 
+devices," the Agency set the floors at the worst emission level 
+experienced by any source using the MACT control.  Respon-
+dent's Br. at 28.  Indeed, EPA claims, Sierra Club actually 
+suggests that considering data from all sources using a 
+common control approach is a reasonable means of estimating 
+the performance of the best sources under the worst foresee-
+able circumstances.
+
+     The Sierra Club disagrees, arguing that EPA has failed to 
+abide by Sierra Club because the Agency has not demonstrat-
+
+ed that its floors based on the worst performers' emissions 
+reflect a reasonable estimate of the emissions achieved in 
+practice by the best-performing sources. As to new-source 
+floors, the Sierra Club contends that Sierra Club, by ques-
+tioning whether EPA can represent "the performance of the 
+best performing source in the category with the performance 
+of the worst performing source that uses the same technolo-
+gy[,].... casts serious doubt" on the legitimacy of the MACT 
+approach as a means of implementing section 7412(d)(3).  
+Sierra Club's Opening Br. at 27-28.  Indeed, according to the 
+Sierra Club, "common use of one control technology provides 
+little or no reason to believe that the performance of the 
+worst performing source that was using that technology is in 
+any way representative of the best source's performance."  
+Id. at 29-30.  The Sierra Club points to other factors, such as 
+the use of additional control techniques or of newer and 
+better versions of MACT technology, better training of opera-
+tors, and better design and operation of the source itself, that 
+could all contribute to the best-performing source's level of 
+emissions.  By failing to consider these factors, the Sierra 
+Club claims, EPA set floors that fail to reflect the estimates 
+required by CAA section 7412 and Sierra Club.
+
+     Applying the principles set forth in Sierra Club and Na-
+tional Lime II, we again agree with the Sierra Club.  To 
+begin with, Sierra Club permits EPA to account for variabili-
+ty by setting floors at a level that reasonably estimates "the 
+performance of the 'best controlled similar unit' under the 
+worst reasonably foreseeable circumstances," 167 F.3d at 665, 
+not the worst foreseeable circumstances faced by any unit in 
+a given source category.  Moreover, although Sierra Club 
+also notes that "[p]erhaps considering all units with the same 
+technology is justifiable because the best way to predict the 
+worst reasonably foreseeable performance of the best unit 
+with available data is to look at other units' performance," id., 
+we explained in National Lime II that such an approach 
+would satisfy the statute "if pollution control technology were 
+the only factor determining emission levels of that HAP," 233 
+F.3d at 633 (emphasis added).  Moreover, using language 
+
+especially relevant to this case, National Lime II observed 
+that:
+
+     it became clear [at oral argument] that the Sierra Club 
+     believes that EPA's MACT approach would not accurate-
+     ly estimate emission levels of the best performing twelve 
+     percent of plants if the best performing plants achieved 
+     their emission levels not just by using technology, but 
+     also by selecting cleaner manufacturing inputs.  For 
+     example, the best performing twelve percent of plants 
+     might perform well because, in comparison to other 
+     plants having the same technology, they use less-
+     polluting fuels or purer raw materials.  Such plants 
+     would have predictably lower emissions than plants using 
+     MACT floor technology alone.
+     
+Id. at 632-33.  National Lime II goes on to note that 
+although "this argument may well have merit," id. at 633, the 
+argument could not be considered because the Sierra Club 
+failed to present it in its opening brief, thus failing to explain 
+"why the emissions standards EPA set might not accurately 
+estimate the performance of the best performing twelve 
+percent of plants,"  id. at 632.
+
+     Here, unlike in National Lime II, the Sierra Club has 
+argued that factors other than MACT technology influence 
+emissions:  "The best source may use other control techniques 
+that the worst source does not, may use a newer and better 
+version of the chosen technology, may train its operators 
+more rigorously, or may simply be better designed and 
+operated."  Sierra Club's Opening Br. at 29.  The statute 
+itself, the Sierra Club points out, directs EPA to consider 
+factors such as "process changes, substitution of materials or 
+other modifications ... design, equipment, work practice, or 
+operational standards ... [or] a combination of above," 42 
+U.S.C. ss 7412(d)(2)(A)-(E), suggesting that "Congress itself 
+recognized that many factors ... affect sources' emissions," 
+Sierra Club's Opening Br. at 29.  In addition, the Sierra Club 
+points to record evidence that other factors contribute to 
+emissions.  For example, although EPA's particulate matter 
+floors for incinerators reflect what the Agency thought was 
+
+achievable with just one control technology--either a fabric 
+filter, an electrostatic precipitator, or an ionizing wet scrub-
+ber, 64 Fed. Reg. at 52,864--record evidence suggests that 
+some incinerators use these devices in combination with other 
+control devices, see 3 Final TSD, at 4-2.  As the Sierra Club 
+also observes, EPA has acknowledged that different models 
+of the same technology vary significantly in their perfor-
+mance.  See id. at 4-3 ("Fabric filters with conventional 
+woven fiberglass bags have demonstrated emissions control 
+levels on [incinerators]....  With improved fiberglass or 
+Nomex felt and tri-loft fabrics, levels lower than 0.005 gr/dscf 
+have been demonstrated.  High performance membrane fab-
+rics ... have demonstrated levels below 0.0010 gr/dscf over 
+long term operation.").
+
+     The record contains still more indications that variables 
+other than the MACT control affect HWC emissions.  For 
+example, in a 1996 technical support document, EPA ob-
+served that "[t]he MACT [expanded pool] contains conditions 
+with a large range of [dioxin/furan] levels, from 0.005 to 38.5 
+TEQ ng/dscm.  This indicates that the air pollution control 
+device system type ... may not be the only important 
+consideration[ ] affecting [dioxin/furan] control;  other factors 
+such as combustion quality and waste composition ... may 
+also be of importance."  Draft Technical Support Document 
+for HWC MACT Standards, Vol. III:  Selection of MACT 
+Standards and Technologies, at 3-3 (Feb. 1996) ("3 Draft 
+TSD").  In a 1999 technical support document detailing its 
+strategy for estimating variability, EPA noted that "[t]he 
+MACT [expanded pools] typically contain data from a wide 
+variety of different sources within each HAP and source 
+category combination, thus capturing the potential range in 
+emissions due to differences in equipment operations, design, 
+waste type, etc."  3 Final TSD, at 2-17 to 2-18;  see also 64 
+Fed. Reg. at 52,857.  Commenters also brought to the Agen-
+cy's attention factors other than the MACT control.  One 
+commenter noted that:
+
+     [t]he data in the expanded MACT pools ... do not 
+     provide meaningful information because many factors, 
+     other than the type of control device, significantly affect 
+     
+     HWCs' emissions.  Obvious examples of such factors 
+     include feedrates, various operating parameters, operator 
+     training and behavior, and variations between similar 
+     (but not identical) control devices....  Because many 
+     variables significantly influence emission rates, identify-
+     ing the emissions rates associated with a particular type 
+     of control device indicates very little about the actual 
+     capability of that type of control device.
+     
+1 Final Response to Comments:  MACT Floor Approaches, at 
+51.  EPA responded to this comment not by explaining why 
+these factors are insignificant to estimating emissions of the 
+best-performers, but rather by claiming (as it does here) that 
+floors must be achievable by all sources using MACT technol-
+ogy.  See id. at 53-55.
+
+     We think this record evidence supports the Sierra Club's 
+claim that because factors other than MACT technology 
+affect emissions, emissions of the worst-performing MACT 
+source may not reflect what the best-performers actually 
+achieve.  EPA's responses are unpersuasive.
+
+     The Agency argues that "there is no question as to the type 
+of control device each source uses."  Respondent's Br. at 38-
+39.  But as the Sierra Club points out, this claim is non-
+responsive:  just because EPA can identify which sources use 
+the MACT control does not mean that factors other than the 
+MACT control have no effect on emissions.  The Agency also 
+emphasizes that it "considered only the variability consistent 
+with proper design and operation of MACT control."  Id. at 
+39.  Again, this claim misses the point:  whether variability in 
+the MACT control accurately estimates variability associated 
+with the best-performing sources depends on whether factors 
+other than the MACT control contribute to emissions.  In 
+other words, if factors other than MACT technology do 
+indeed influence a source's performance, it is not sufficient 
+that EPA considered sources using only well-designed and 
+properly operated MACT controls.
+
+     EPA next claims that even though the performance of the 
+MACT controls themselves vary, "effort[s] at further specifi-
+cation [of the MACT control] failed because the myriad 
+factors that create operating variability proved impossible to 
+
+reliably quantify."  Id. (citing 3 Draft TSD, at 2-6, which 
+notes that instead of setting the MACT control as any fabric 
+filter, the Agency could have differentiated among different 
+fabric filter units according to parameters such as "cloth type, 
+fabric age, cleaning practices, and pressure drop," but de-
+clined to do so "due to lack of information" on specific 
+facilities' fabric filters).  In a similar vein, the Agency claimed 
+in a 1996 technical support document (though not in this 
+court) that, at least in the case of the dioxin/furan standards, 
+factors other than technology that affect emissions, "such as 
+combustion quality and waste composition[,] ... are difficult 
+to quantify for the definition of MACT."  3 Draft TSD, at 
+3-3.  Even accepting the proposition that factors affecting 
+source performance--either design features of the control 
+itself (such as the type of fabric used) or non-MACT variables 
+(such as waste composition or use of additional controls)--are 
+difficult to quantify when defining the MACT control, nothing 
+in the statute requires the Agency to use the MACT ap-
+proach.  Section 7412(d)(3) requires only that EPA set floors 
+at the emission level achieved by the best-performing sources.  
+If EPA cannot meet this requirement using the MACT 
+methodology, it must devise a different approach capable of 
+producing floors that satisfy the Clean Air Act.  Indeed, the 
+very fact that EPA recognizes both design differences in 
+MACT technology and non-MACT factors as causes of wide-
+ranging variations in performance suggests that the emissions 
+achieved by the worst-performing MACT source do not, as 
+the CAA requires, represent a reasonable estimate of emis-
+sions achieved by the best-performing sources.
+
+     Finally, we are unpersuaded by EPA's claim that to ac-
+count for the best-performing sources' operational variability, 
+it had to base the floors on the worst performers' emissions.  
+While we have recognized that a given control can experience 
+operational variability, see Nat'l Lime Ass'n v. EPA, 627 F.2d 
+416, 424-25, 436, 439-41 (D.C. Cir. 1980) (recognizing variabil-
+ity in the performance of emission controls such as baghous-
+es, ESPs, scrubbers, feed materials, and types of fuel), the 
+relevant question here is not whether control technologies 
+experience variability at all, but whether the variability expe-
+
+rienced by the best-performing sources can be estimated by 
+relying on emissions data from the worst-performing sources 
+using the MACT control.  In this case, the evidence EPA 
+cites to support the MACT approach as a means of account-
+ing for operational variability fails to demonstrate the rele-
+vant relationship.  Some of the Agency's citations to the 
+record merely contain assertions that "[the] approach ... 
+fully accounts for normal process variability."  1 Final Re-
+sponse to Comments:  MACT Floor Approaches, at 59;  see 
+also 64 Fed. Reg. at 52,923 (noting that HWCs are particular-
+ly susceptible to variability).  The actual variability data EPA 
+cites suggest only that emissions from sources using a given 
+control vary over a wide range, not that the high emission 
+levels achieved by sources at one end of that range reflect 
+levels achieved by sources at the other end, nor that the best-
+performing sources ever experience a wide range of variabili-
+ty at all.  See, e.g., 3 Draft TSD, at 3-3 to 3-12, 4-2 to 4-8;  
+see also Final Technical Support Document for HWC MACT 
+Standards, Vol. IV:  Compliance with the HWC MACT Stan-
+dards, at 4-7 (July 1999) (explaining the operating parame-
+ters of various control technologies).  Indeed, throughout the 
+rulemaking, EPA defended its reliance on the worst-
+performing MACT source as a means of setting achievable 
+floors, not as a way of determining the operational variability 
+experienced by the best-performing sources.  See, e.g., 64 
+Fed. Reg. at 52,859 & n.77 (explaining that its decision to 
+base the floors "on the highest test condition average for 
+sources in the expanded MACT pool" was designed to ensure 
+that all sources using the MACT control could achieve the 
+standard).
+
+     What is more, statements in the record actually cast doubt 
+on the possibility that the emissions of the worst-performing 
+sources estimate the variability experienced by the best per-
+formers.  For example, in the introduction to the proposed 
+rule, EPA acknowledged that it considered a "12 percent 
+approach," according to which it would have set the floors 
+based on the statistical average of the 12 percent MACT pool 
+and then added the "average within-test condition variability 
+within the expanded MACT pool."  Revised Standards for 
+
+Hazardous Waste Combustors, 61 Fed. Reg. 17,358, 17,367 
+(Apr. 19, 1996).  EPA chose not even to propose this ap-
+proach, however, concluding that "it could not be demonstrat-
+ed that sources within the expanded MACT pool using MACT 
+floor controls could achieve the floor levels" that resulted 
+from the Agency's calculations.  Id.  The fact that EPA 
+calculated the variability experienced by the top 12 percent of 
+sources, but then declined to use those results to set the 
+floors because they would not be achievable by all MACT 
+sources, strongly suggests a real difference between emis-
+sions achieved by the worst-performing sources and the varia-
+bility experienced by the best performers.  Similarly, EPA's 
+use of worst-case emissions data from RCRA compliance 
+tests, during which sources routinely spike their feed--a 
+practice we discuss in more detail in Part IV--further under-
+mines the Agency's claim that to account for the variability 
+experienced by the best-performing sources, it had to set 
+floors based on the worst-performers' emissions:  if, as the 
+Agency claims, RCRA data reflect sources' performance un-
+der the worst foreseeable circumstances, why is the use of 
+worst-case data, on its own, insufficient to account for the 
+variability in emissions experienced by the best-performing 
+sources?
+
+     To sum up, the possibility we acknowledged in National 
+Lime II--that the "best performing plants achieve[ ] their 
+emission levels not just by using technology," 233 F.3d at 
+633--appears to have been borne out in this case.  Because 
+record evidence suggests that factors other than the MACT 
+control influence emissions, EPA has not demonstrated, in 
+Sierra Club's words, that floors based on the worst-
+performing MACT sources' emissions represent "a reasonable 
+estimate of the performance of the [best-performing] units."  
+167 F.3d at 662.  To be sure, it is not our place to dictate to 
+the Agency how to account for variables other than the 
+MACT control.  If in the case of a particular source category 
+or HAP, the Agency can demonstrate with substantial evi-
+dence--not mere assertions--that MACT technology signifi-
+cantly controls emissions, or that factors other than the 
+control have a negligible effect, the MACT approach could be 
+a reasonable means of satisfying the statute's requirements.  
+
+See Nat'l Lime II, 233 F.3d at 633.  But even if, as EPA 
+claims, accounting for non-MACT factors is difficult, the 
+Agency may not use a proxy for the best performers that it 
+has considerable reason to believe falls short of section 
+7412(d)(3)'s requirements.
+
+                                IV
+
+     As part of its challenge to the MACT approach, the Sierra 
+Club contends that EPA violated the Clean Air Act by relying 
+on "worst-case data" to derive the HWC standards.  In 
+setting the floors, EPA relied on emissions data generated 
+during incinerator trial burn tests and RCRA compliance 
+testing of cement and lightweight aggregate kilns.  During 
+such testing, sources often operate under worst-case condi-
+tions by
+
+     spiking metals and chlorine in the waste feed [and] 
+     detuning the emissions control equipment.... [T]hese 
+     sources conduct tests in a manner that will establish a 
+     wide envelope for their operating parameter limits in 
+     order to accommodate the expected variability ... [in] 
+     types of wastes, combustion system parameters, and 
+     emission control parameters.
+     
+64 Fed. Reg. at 52,858.  The Sierra Club argues that because 
+compliance data reflect abnormally bad performance, they 
+"do not represent any source's actual performance."  Sierra 
+Club's Opening Br. at 23.  Indeed, "sources' emissions during 
+normal operations tend to be less than one half of their 
+'worst-case' emissions."  Id.
+
+     Defending its use of RCRA compliance data, EPA argues 
+that such data are in fact actual test results and therefore 
+reflect actual source performance.  The fact that RCRA data 
+measure worst-case conditions, the Agency explains,
+
+     merely confirms that standards based on the data reflect 
+     the most adverse conditions that can reasonably be ex-
+     pected to recur....  Because these test conditions are 
+     specifically designed to help account for operating varia-
+     bility, they are more helpful than normal operating data 
+     
+     would be in estimating performance under a variety of 
+     conditions and thus in helping to assure that properly 
+     designed and operated sources can achieve the standard.
+     
+Respondent's Br. at 33 (internal quotation omitted).  Accord-
+ing to EPA, because the statute permits it to use available 
+information to identify the best-performing sources, and be-
+cause RCRA data are available information, it reasonably 
+relied on RCRA test results.
+
+     Section 7412(d)(3) requires EPA to set emission floors 
+based on "the average emission limitation achieved by the 
+best performing 12 percent of the existing sources (for which 
+the Administrator has emissions information)."  42 U.S.C. 
+s 7412(d)(3)(A) (emphasis added).  We think it not at all 
+unreasonable for the Agency to read this language as permit-
+ting it to rely on "information" in its database--i.e., the 
+RCRA data.  See Chevron, 467 U.S. at 843 ("[A] court may 
+not substitute its own construction of a statutory provision for 
+a reasonable interpretation made by the administrator of an 
+agency.").  And as we pointed out in Sierra Club, "EPA 
+typically has wide latitude in determining the extent of data-
+gathering necessary to solve a problem.  We generally defer 
+to an agency's decision to proceed on the basis of imperfect 
+scientific information, rather than to invest the resources to 
+conduct the perfect study."  167 F.3d at 662 (internal quota-
+tion omitted).  Although sources do spike their feed during 
+RCRA compliance tests, the Sierra Club has offered us no 
+basis for concluding that using RCRA data would prevent 
+EPA from identifying the best-performers and predicting 
+their emissions under the "worst reasonably foreseeable cir-
+cumstances."  Id. at 665.  In other words, the Sierra Club 
+has failed to demonstrate that EPA's model "bears no ration-
+al relationship to the reality it purports to represent," Colum-
+bia Falls Aluminum Co. v. EPA, 139 F.3d 914, 923 (D.C. Cir. 
+1998) (internal quotation omitted).
+
+                                V
+
+     Industry petitioner Continental Cement claims that EPA 
+failed to meet its obligations under the Regulatory Flexibility 
+
+Act ("RFA"), as amended by the Small Business Regulatory 
+Enforcement Fairness Act of 1996 ("SBREFA").  Pub. L. 
+No. 96-354, 94 Stat. 1165-70 (1980), codified at 5 U.S.C. 
+ss 601-612, as amended by Pub. L. No. 104-121, 110 Stat. 
+864 (1996).  Failure to comply with the RFA "may be, but 
+does not have to be, grounds for overturning a rule."  Small 
+Refiner Lead Phase-Down Task Force v. EPA, 705 F.2d 506, 
+538 (D.C. Cir. 1983).
+
+     Under the RFA, agencies promulgating a rule that will 
+have a "significant impact" on "small entities" are required to 
+"prepare and make available for public comment an initial 
+regulatory flexibility analysis ... [that] describe[s] the impact 
+of the proposed rule" on those entities, and to publish a "final 
+regulatory analysis" with the final rule.  5 U.S.C. ss 605, 603, 
+604.  Small entities include small businesses, small organiza-
+tions, and small governmental jurisdictions.  Id. s 601(6).  
+The regulatory analysis forces the agency to consider various 
+factors set forth in the statute, including "a description of the 
+steps the agency has taken to minimize the significant eco-
+nomic impact [of the rule] on small entities."  Id. s 604(a) 
+(final regulatory flexibility analysis);  see also id. ss 603(b) & 
+(c) (initial regulatory flexibility analysis).
+
+     This procedure is intended to evoke commentary from 
+small businesses about the effect of the rule on their activi-
+ties, and to require agencies to consider the effect of a 
+regulation on those entities.  An agency may dispense with 
+the regulatory analysis if it certifies "that the rule will not, if 
+promulgated, have a significant economic impact on a sub-
+stantial number of small entities."  Id. s 605(b).  EPA relied 
+on the s 605(b) exception.
+
+     In seeking to determine whether its regulations would have 
+"significant economic impact" on a "substantial number of 
+small entities," 64 Fed. Reg. at 53,023-24, EPA examined the 
+entities that would be "directly impacted"--hazardous waste 
+combustion facilities.  EPA concluded that only six of the 
+HWC facilities met the definition of a "small business" and 
+that only two of these would experience compliance costs in 
+excess of one percent of annual sales.  Id. at 53,024.  EPA 
+
+therefore certified that there would be no significant impact 
+on a substantial number of small business HWC facilities.  
+Id.  EPA then considered the economic effects of the new 
+rule on small businesses that generate and blend the hazard-
+ous waste consumed in the HWCs.  Id.  EPA did not believe 
+the statute required it to conduct this inquiry, but it decided 
+to do so in the "spirit" of the RFA because some portion of 
+the burden of compliance might pass through to the genera-
+tors and blenders of hazardous waste.  Id. at 53,023-24.  As 
+to these entities, EPA did not certify that there would be no 
+"significant impact" on a "substantial number" of small busi-
+nesses.  Id.
+
+     Continental claims that EPA should have considered each 
+category of HWCs separately in conducting its "direct im-
+pact" analysis.  Continental also maintains that EPA had to 
+certify that there would be no substantial effect on generators 
+of hazardous waste in order to meet the requirements of the 
+RFA.  In response, EPA argues that it complied with the 
+requirements of the RFA.
+
+     Continental is a "cement manufacturer" under the relevant 
+Small Business Administration Regulations, and therefore 
+qualifies as a small business because it has fewer than 750 
+employees.  Small Business Size Regulations, 65 Fed. Reg. 
+30,836, 30,847 (May 15, 2000).  While Continental's petition 
+did not refer to its status as a hazardous waste generator, we 
+accept counsel's representation at oral argument that the 
+company also generates hazardous waste, and therefore is not 
+bringing this claim solely in its capacity as a hazardous waste 
+combustor.  Accordingly, Continental has standing.
+
+     We decline to consider Continental's argument that EPA 
+should have conducted independent RFA analyses for each 
+class of HWCs.  Continental's opening brief contains only a 
+single conclusory sentence stating this point, and its reply 
+brief does nothing to expand on the subject.  A litigant does 
+not properly raise an issue by addressing it in a "cursory 
+fashion" with only "bare-bones arguments."  Wash. Legal 
+Clinic for the Homeless v. Barry, 197 F.3d 32, 39 (D.C. Cir. 
+1997);  Terry v. Reno, 101 F.3d 1412, 1415 (D.C. Cir. 1996);  
+
+Carducci v. Regan, 714 F.2d 171, 177 (D.C. Cir. 1983).  Even 
+if the briefing were sufficient to raise this issue, it certainly is 
+not persuasive enough to carry Continental's burden of show-
+ing that the agency's analysis was arbitrary and capricious.
+
+     As to Continental's second claim regarding generators of 
+hazardous waste, this court has consistently rejected the 
+contention that the RFA applies to small businesses indirectly 
+affected by the regulation of other entities.  Mich. v. EPA, 
+213 F.3d 663, 688-89 (D.C. Cir. 2000);  Motor & Equip. Mfrs. 
+Ass'n v. Nichols, 142 F.3d 449, 467 (D.C. Cir. 1998);  Mid-Tex 
+Elec. Coop. v. FERC, 773 F.2d 327, 342 (D.C. Cir. 1985).  
+EPA's rule regulates hazardous waste combustors, not waste 
+generators.  We explained in Mid-Tex that the language of 
+the statute limits its application to the "small entities which 
+will be subject to the proposed regulation"--that is, those 
+"small entities to which the proposed rule will apply."  Mid-
+Tex Elec. Coop., 773 F.2d at 342 (quoting 5 U.S.C. s 603(b)).  
+Congress "did not intend to require that every agency consid-
+er every indirect effect that any regulation might have on 
+small businesses in any stratum of the national economy."  
+Id. at 343.
+
+     Continental acknowledges these precedents, but seeks to 
+distinguish this case on the basis that EPA actually intended 
+to affect the conduct of hazardous waste generators by rais-
+ing the cost of incineration.  This increase in cost would 
+create an economic incentive to minimize waste production.  
+As evidence, Continental cites the portion of the preamble to 
+the rule which states that the rule "fulfills our 1993 and 1994 
+public commitments to upgrade emissions standards for 
+HWCs.  These commitments are the centerpiece of our Haz-
+ardous Waste Minimization and Combustion Strategy."  64 
+Fed. Reg. at 52,832.  Continental also refers us to EPA's 
+statement that "[a]s today's rule is implemented, the costs of 
+burning hazardous waste will increase, resulting in market 
+incentives for greater waste minimization."  64 Fed. Reg. at 
+53,021.
+
+     Contrary to what Continental supposes, application of the 
+RFA does turn on whether particular entities are the "tar-
+
+gets" of a given rule.  The statute requires that the agency 
+conduct the relevant analysis or certify "no impact" for those 
+small businesses that are "subject to" the regulation, that is, 
+those to which the regulation "will apply."  Mid-Tex Elec. 
+Coop., 773 F.2d at 342;  5 U.S.C. s 605(b)(3).  EPA's rule 
+applies, by its terms, only to HWCs.  The rule will doubtless 
+have economic impacts in many sectors of the economy.  But 
+to require an agency to assess the impact on all of the 
+nation's small businesses possibly affected by a rule would be 
+to convert every rulemaking process into a massive exercise 
+in economic modeling, an approach we have already rejected.  
+See Mid-Tex Elec. Coop., 773 F.2d at 343.
+
+                                VI
+
+     The Environmental Technology Council, a trade association 
+representing firms involved in disposal of hazardous wastes, 
+petitions for review of 40 C.F.R. ss 63.1206(b)(9) & (10).  
+These provisions create alternative emission standards for 
+cement kilns and lightweight aggregate kilns.  EPA ex-
+pressed concern that some sources might not be able to meet 
+some of the MACT standards because of raw material contri-
+bution to emissions, and therefore enacted the alternative 
+standards for SVMs, LVMs, chlorine and mercury.  Id.;  see 
+also 64 Fed. Reg. at 52,962-67;  Revised Standards for Haz-
+ardous Waste Combustors, 61 Fed. Reg. 17,358, 17,395 & 
+17,405 (Apr. 19, 1996);  Final Response to Comments to the 
+Proposed HWC MACT Standards, Volume II:  Compliance:  
+Equivalency Determination and Alternate Standards, at 7 
+(July 1999). The Council contends that these provisions vio-
+late the language of s 7412, and are arbitrary and capricious.  
+We refuse to consider these contentions because the Council 
+lacks prudential standing.
+
+     The Council rests its claims of constitutional and prudential 
+standing on the ground that its members will suffer "econom-
+ic and competitive injury, most significantly diminished value 
+of capital investment, if competing facilities are excused from 
+the MACT standards and thereby avoid the substantial com-
+pliance costs."  Envtl. Tech. Council's Opening Br. at 7.  
+
+According to the Council, its members have already made 
+substantial investments in various pollution control technolo-
+gies and constitute the "best performing sources" to which 
+the CAA refers in s 7412(d).  It alleges that its interests in 
+ensuring that other HWCs comply with the MACT standards 
+(which they concede are purely economic), are congruent with 
+the interests protected by the statute, and that it is therefore 
+a "suitable challenger" within the zone of interests of the 
+CAA.
+
+     The Council appears to have constitutional standing.  It 
+claims that there are numerous costs associated with meeting 
+the MACT standards, and that EPA's creation of an alterna-
+tive standard will save some competitors from those costs.1  
+Basic economics indicates that a competitor whose costs are 
+lower will be able to provide services at lower cost--and one 
+can reasonably expect this to result in lost business to the 
+Council's members.  Accordingly, we think the Council has 
+met its constitutional obligation to show injury, causation, and 
+redressability.  Lujan v. Defenders of Wildlife, 504 U.S. 555, 
+560-62 (1992).
+
+     The problem for the Council is that we have previously 
+rejected prudential standing in two nearly identical cases in 
+which industry groups claimed to be suitable challengers to 
+regulations directed at competitors.  Hazardous Waste 
+Treatment Council v. EPA, 885 F.2d 918 (D.C. Cir. 1989) 
+(HWTC IV);  Hazardous Waste Treatment Council v. EPA, 
+861 F.2d 277 (D.C. Cir. 1988) (HWTC II).  To demonstrate 
+prudential standing, ordinarily a party must show that the 
+interest it seeks to protect "is arguably within the zone of 
+
+__________
+     1 At oral argument the court pointed out to counsel that the 
+alternative standards require a facility seeking the exemption to 
+demonstrate that "even though [it uses] MACT control" technology, 
+it still cannot meet the standard.  64 Fed. Reg. at 52,965-66.  In 
+light of this, the court inquired what injury the exception might 
+inflict on the Council's members.  The attorney for the Council 
+explained that the "best performing sources" rely on techniques 
+other than just technological aids to reduce pollution, and that these 
+techniques cost money to implement.  EPA did not contest this 
+representation.
+
+interests to be protected or regulated by the statute ... in 
+question."  Ass'n of Data Processing Serv. Orgs. v. Camp, 
+397 U.S. 150, 153 (1970).  Under this "zone of interests" test, 
+the "essential inquiry is whether Congress 'intended for [a 
+particular] class [of plaintiffs] to be relied upon to challenge 
+agency disregard of the law.' "  Clarke v. Securities Indus. 
+Ass'n, 479 U.S. 388, 399 (1987) (quoting Block v. Cmty. 
+Nutrition Inst., 467 U.S. 340, 347 (1984)).  While the "zone of 
+interests" test is not meant to be "especially demanding," it 
+will deny standing to one claiming to be a "suitable challeng-
+er" when "plaintiff's interests are so marginally related to or 
+inconsistent with the purposes implicit in the statute that it 
+cannot reasonably be assumed that Congress intended to 
+permit the suit."  Id.
+
+     In HWTC II we considered the claim of an industry group 
+similar to the Council that challenged EPA regulations under 
+RCRA and sought tighter controls on competitors.2  861 F.2d 
+at 282.  Petitioner there claimed prudential standing because 
+"tightening of environmental standards will generally foster 
+not only a cleaner environment but also expand the member 
+companies' profits, as it will expand the market for their 
+services."  Id. Petitioner argued that its interests were "in 
+sync" with those served by RCRA.  We rejected this argu-
+ment.  The "consumers of the environmental purity afforded 
+by RCRA seem highly suitable champions of enforcement."  
+Id. at 284.  Petitioner's interest was not in environmental 
+purity, but in increasing the regulatory burden on its compet-
+itors.  To hold that this satisfied prudential standing would 
+be to create "a considerable potential for judicial intervention 
+that would distort the regulatory process."  Id. at 285.  We 
+followed the same analysis in HWTC IV.  885 F.2d at 922-26.
+
+     The case before us is identical to HWTC II and IV, except 
+that the relevant statute is the CAA, not RCRA.  The 
+
+__________
+     2 EPA contends that the Council is actually the same organization 
+as the HWTC, with a different name.  The Council does not contest 
+this representation.  Whether the two organizations are the same 
+does not matter here, however, as it is clear that their positions and 
+arguments are identical.
+
+Council thinks this makes all the difference--that by adopting 
+a technology-based approach to emissions standards, Con-
+gress aligned the interests of competitors and environmental-
+ists in such a way as to bring the former into the zone of 
+interests.  We disagree.  The Council has identified nothing 
+to indicate that Congress' shift to a technology-based ap-
+proach was anything more than a determination that this 
+would provide a more workable basis for promulgating stan-
+dards.  The statute's language indicates that, contrary to the 
+Council's contention, Congress' "evident purpose" was not to 
+"compel[ ] those sources with less-than-best pollution control 
+to invest in upgraded equipment."  Neither the statute nor 
+the rules actually require HWCs to use the same methods of 
+emission control used by the best performing sources;  they 
+must only meet the standards of those that do.  See 42 U.S.C. 
+s 7412(d)(2);  64 Fed. Reg. at 52,963 n.255.  As in the HWTC 
+cases, the Council's interest lies only in increasing the regula-
+tory burden on others.  See HWTC IV, 885 F.2d at 924-25;  
+HWTC II, 861 F.2d at 285.  The Council therefore lacks 
+prudential standing.
+
+                               VII
+
+     We remand the HWC floors to EPA for further proceed-
+ings consistent with this opinion.  In so doing, we emphasize 
+that we do not expect the impossible of the Agency.  Floors 
+need not be perfect mirrors of the best performers' emissions.  
+But whether EPA chooses end-of-stack technology or feed-
+rate as the MACT control, or abandons the MACT approach 
+altogether, CAA section 7412(d)(3), as interpreted by this 
+court in Sierra Club and National Lime II, requires that 
+floors reflect a reasonable estimate of the emissions 
+"achieved" in practice by the best-performing sources.  See 
+Nat'l Lime II, 233 F.3d at 632.
+
+     Because EPA will have to set new floors, we need not 
+address the Sierra Club's additional arguments that in decid-
+ing whether to set beyond-the-floor standards pursuant to 
+CAA section 7412(d)(2), EPA failed to consider several non-
+air quality health and environmental impacts that commen-
+
+ters claimed result from HWC emissions, as well as whether 
+stricter standards based on additional controls would be 
+achievable.  See id. at 634 (declining to address beyond-the-
+floor arguments regarding two HAPs because the floors for 
+those HAPs were being remanded).  Nor, for the same 
+reason, need we consider industry petitioners' challenges to 
+specific standards.
+
+     Finally, the Sierra Club requests that we leave the current 
+regulations in place during remand in order to "avoid serious 
+adverse implications for public health and the environment 
+that would result from vacating the regulations (and thus 
+allowing hazardous waste combustors to emit even more 
+HAPs than allowed by the regulation[s] ... )."  Sierra Club's 
+Opening Br. at 36.  Though we granted similar requests in 
+Sierra Club, 167 F.3d at 664, and National Lime II, 233 F.3d 
+at 635, we think this case is different:  in Sierra Club, there 
+were no industry petitioners, and in National Lime II, we 
+considered and rejected industry claims.  Here, in contrast, 
+we have chosen not to reach the bulk of industry petitioners' 
+claims, and leaving the regulations in place during remand 
+would ignore petitioners' potentially meritorious challenges.  
+For example, industry petitioners may be correct that EPA 
+should have exempted HWCs from regulatory limits during 
+periods of startup, shutdown, and malfunction, permitting 
+sources to return to compliance by following the steps of a 
+startup, shutdown, and malfunction plan filed with the Agen-
+cy.  We have similar doubts about EPA's decision to require 
+sources to comply with standards even during openings of 
+emergency safety valves caused by events beyond the 
+sources' control.  It is also possible that some of the emission 
+standards themselves would not have withstood arbitrary and 
+capricious analysis:  when setting the beyond-the-floor stan-
+dard for dioxin emissions from lightweight aggregate kilns, 
+EPA may have relied inappropriately on data from cement 
+kilns (a method it had previously rejected) to demonstrate 
+that the standard was achievable;  in setting the beyond-the-
+floor standard for semi-volatile metal emissions from cement 
+kilns, EPA may have exceeded its statutory mandate by 
+
+relying on policy objectives other than those enumerated in 
+section 7412(d).
+
+     In light of these circumstances, we think the better course 
+of action is to vacate the challenged regulations.  Because 
+this decision leaves EPA without standards regulating HWC 
+emissions, EPA (or any of the parties to this proceeding) may 
+file a motion to delay issuance of the mandate to request 
+either that the current standards remain in place or that EPA 
+be allowed reasonable time to develop interim standards.  See 
+Columbia Falls, 139 F.3d at 924 ("If EPA wishes to promul-
+gate an interim treatment standard, the Agency may file a 
+motion in this court to delay issuance of this mandate in order 
+to allow it a reasonable time to develop such a standard.").
+
+                                                                      So ordered.
+
+                                     

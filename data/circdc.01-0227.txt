@@ -1,0 +1,678 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 7, 2001   Decided November 2, 2001 
+
+                           No. 00-1297
+
+             Wabash Valley Power Association, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+             American Electric Power Company, Inc., 
+                            Intervenor
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     James T. Malysiak argued the cause for petitioner.  With 
+him on the briefs was Lee A. Freeman, Jr.
+
+     Andrew K. Soto, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With him on 
+the brief was Susan J. Court, Associate Solicitor.
+
+     J. A. Bouknight, Jr. argued the cause for intervenor.  With 
+him on the brief were Douglas G. Green and Samuel T. 
+Perkins.  Shannen W. Coffin entered an appearance.
+
+     Before:  Ginsburg, Chief Judge, Edwards and Sentelle, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  American Electric Power Co., Inc. 
+("AEP") and Central and South West Corp. ("CSW"), two 
+large regional utility holding companies, jointly petitioned the 
+Federal Energy Regulatory Commission ("FERC" or "Com-
+mission") for merger approval, as required by s 203 of the 
+Federal Power Act, 16 U.S.C. s 824b(a) (1994).  When pre-
+sented with a merger or acquisition request, FERC "shall 
+approve" the request if the merger or acquisition "will be 
+consistent with the public interest."  Id.  After lengthy re-
+view, FERC conditionally approved the AEP-CSW merger 
+and required the combined company, referred to as New 
+AEP, to divest certain generation assets and share transmis-
+sion capacity information.  See Am. Elec. Power Co. & Cent. 
+& S. W. Corp., 90 F.E.R.C. p 61,242 (Mar. 15, 2000).  Wabash 
+Valley Power Association, Inc. ("Wabash"), an Indiana com-
+petitor and customer of AEP, petitions for review.
+
+     Wabash contends that FERC's decision was both procedur-
+ally and substantively defective.  Many of Wabash's claims 
+have been forfeited, however, because they were not properly 
+raised with FERC in the first instance.  Therefore, these 
+claims may not be considered by the court.  And we find no 
+merit in the claims that are properly before this court.
+
+     Because AEP and CSW sought merger approval in the 
+midst of sweeping regulatory changes in the electric industry, 
+FERC chose to impose "interim" mitigation measures to 
+limit New AEP's market power.  Wabash contends that 
+FERC's approach is improper under the Federal Power Act, 
+because the interim measures are deficient.  We disagree.  
+On the record at hand, we find that FERC acted reasonably 
+in adopting two stages of restrictions to limit New AEP's 
+market power.  Both stages of restrictions adequately limit 
+
+New AEP's ability to strategically manipulate electricity gen-
+eration to cause transmission bottlenecks.  We also reject 
+Wabash's claims that FERC's merger approval should be 
+overturned because it is inconsistent with subsequent staff 
+statements and because it did not fully eliminate rate pancak-
+ing.  These claims have no bearing on the question of wheth-
+er FERC's approval of the merger was arbitrary and capri-
+cious.  We therefore deny Wabash's petition for review.
+
+                          I. Background
+
+     AEP and CSW sought to merge in the midst of a sea-
+change in the regulations governing the electricity industry.  
+Because many of the issues raised by petitioner relate to the 
+application of these new regulations, we begin with a brief 
+summary of the current regulatory landscape and then move 
+to the procedural history of this case.
+
+A.   Current Regulations
+
+     By amending portions of the Federal Power Act of 1935, 
+the Energy Policy Act of 1992 authorized FERC to order 
+utilities to transmit other sellers' power over their transmis-
+sion lines on a case-by-case basis.  See Pub. L. No. 102-486, 
+106 Stat. 2776, 2915-16 (1992) (codified at 16 U.S.C. ss 824j-
+k);  Transmission Access Policy Study Group v. FERC, 225 
+F.3d 667 (D.C. Cir. 2000) (hereinafter Transmission Access) 
+(discussing history), cert. granted sub nom. New York v. 
+FERC, 121 S. Ct. 1185 (2001).  Finding that utilities would 
+use their market power to deny transmission access to com-
+peting generation sources, FERC subsequently used its stat-
+utory authority, see 16 U.S.C. ss 824d(b), 824e(a), to require 
+utilities to provide open access to their transmission lines in a 
+nondiscriminatory fashion.  See Promoting Wholesale Com-
+petition Through Open Access Non-Discriminatory Trans-
+mission Services by Public Utilities, Order No. 888, 61 Fed. 
+Reg. 21,540 (May 10, 1996), clarified, 76 F.E.R.C. p 61,009 
+(July 2, 1996) and 61 Fed. Reg. 51,696 (Oct. 3, 1996), on reh'g, 
+Order No. 888-A, 62 Fed. Reg. 12,274 (Mar. 14, 1997), clari-
+fied, 79 F.E.R.C. p 61,182 (May 16, 1997), on reh'g, Order No. 
+888-B, 62 Fed. Reg. 64,688 (Dec. 9, 1997), on reh'g, Order No. 
+
+888-C, 82 F.E.R.C. p 61,046 (Jan. 20, 1998), aff'd, Transmis-
+sion Access, 225 F.3d 667, cert. granted sub nom. New York, 
+121 S. Ct. 1185.  Order No. 888, among other things, set forth 
+the framework for creating Independent System Operators 
+("ISOs"), independent companies that manage transmission 
+facilities owned by utilities.  61 Fed. Reg. at 21,596.  ISOs 
+have no financial stake in any power market participant, have 
+the ability to halt generation causing transmission system 
+constraints, and must provide real-time transmission informa-
+tion to market participants.  Id.
+
+     At the same time, FERC also issued Order No. 889 which 
+required all owners and operators of electricity transmission 
+systems to participate in an Open Access Same-time Informa-
+tion System, or OASIS.  Open Access Same-Time Informa-
+tion System and Standards of Conduct, Order No. 889, 61 
+Fed. Reg. 21,737 (May 10, 1996), on reh'g, Order No. 889-A, 
+62 Fed. Reg. 12,484 (Mar. 14, 1997), on reh'g, Order No. 889-
+B, 62 Fed. Reg. 64,715 (Dec. 9, 1997), aff'd, Transmission 
+Access, 225 F.3d 667, cert. granted sub nom. New York, 121 
+S. Ct. 1185.  One of the main functions of an OASIS is to 
+calculate Available Transmission Capacity ("ATC"), the dif-
+ference between a transmission system's total capacity and 
+already-committed capacity.  Order No. 889, 61 Fed. Reg. at 
+21,749.  Because ATC often limits where electricity can be 
+sold, this information allows generators to determine addi-
+tional potential markets.
+
+     In 1999, FERC found that the changes brought by Orders 
+Nos. 888 and 889 had imposed significant strain on "tradition-
+al means of grid management" and that "continued discrimi-
+nation in the provision of transmission services by vertically 
+integrated utilities may also be impeding fully competitive 
+electricity markets."  Regional Transmission Organizations;  
+Notice of Proposed Rulemaking, 64 Fed. Reg. 31,390, at 
+31,391 (June 10, 1999).  Although Orders Nos. 888 and 889 
+reduced overt discrimination, transmission-owning utilities re-
+sorted to "more subtle means to frustrate their marketing 
+competitors and favor their own marketing interests."  Id. at 
+31,402.  As a consequence, the Orders were ineffective in 
+completely removing transmission discrimination.  Functional 
+
+limitations arising from the relatively small size of the ISOs 
+also limited their ability to provide essential information 
+accurately, such as ATC:  "it is not possible to calculate 
+accurately the transmission capability of one system without 
+knowing the flows scheduled by all other interconnected 
+transmission providers in the region."  Id. at 31,403.
+
+     In response to the shortcomings of Orders Nos. 888 and 
+889, FERC issued Order No. 2000, which established the 
+framework for Regional Transmission Organizations, or 
+RTOs.  See Regional Transmission Organizations, Order 
+No. 2000, 65 Fed. Reg. 810 (Jan. 6, 2000), on reh'g, Order No. 
+2000-A, 65 Fed. Reg. 12,088 (Mar. 8, 2000), petitions for 
+review pending sub nom. Public Utility District No. 1 of 
+Snohomish County, Washington v. FERC, No. 00-1174 (D.C. 
+Cir. argued Oct. 17, 2001).  RTOs build upon many ISO 
+features and have four main characteristics:  independence, 
+sufficient size and regional scope, operational authority for all 
+transmission facilities under their control, and exclusive au-
+thority for maintaining short term grid reliability.  65 Fed. 
+Reg. 810, at 842-75.  FERC requires RTOs to be larger, 
+more independent, and exercise more sophisticated control 
+over the transmission system than ISOs.  In 2001, FERC 
+further clarified the scope requirements of RTOs, forcing 
+several parties into mediation with an ultimate goal of creat-
+ing four RTOs - one for the Northeast, Southeast, Midwest, 
+and West.  See, e.g., Order Provisionally Granting RTO 
+Status, 96 F.E.R.C. p 61,061 (July 12, 2001).
+
+B.   Procedural History
+
+     AEP and CSW jointly applied to FERC for merger approv-
+al on April 30, 1998.  At that time, AEP, through wholly-
+owned subsidiaries, provided power to three million custom-
+ers in Indiana, Kentucky, Michigan, Ohio, Tennessee, Virgi-
+nia, and West Virginia with over 23,000 megawatts ("MW") of 
+generating capacity and 22,000 miles of transmission lines.  
+Am. Elec. Power Co., 90 F.E.R.C. p 61,242, at 61,776.  CSW, 
+also through wholly-owned subsidiaries, served 1.7 million 
+customers in Arkansas, Louisiana, Oklahoma, and Texas with 
+over 14,000 MW of generating capacity and 16,000 miles of 
+
+transmission lines.  See Joint Application of Am. Elec. Power 
+Co., Inc. & Cent. & S. W. Corp. (Apr. 30, 1998), reprinted in 
+Joint Appendix ("J.A.") 134, 165 (hereinafter "Joint Applica-
+tion").
+
+     To determine whether a proposed merger meets the Feder-
+al Power Act's s 203 public interest standard, FERC re-
+quires applicants to conduct a competitive analysis screen, 
+referred to as an Appendix A analysis, using the framework 
+established by the Department of Justice/Federal Trade 
+Commission Merger Guidelines.  See Inquiry Concerning the 
+Commission's Merger Policy Under the Federal Power Act;  
+Policy Statement, 61 Fed. Reg. 68,595, at 68,606 (Dec. 30, 
+1996).  The Appendix A analysis requires applicants to:
+
+     1)   identify the relevant products;
+          
+     2)   identify customers who may be affected by the merg-
+          er;
+          
+     3)   identify potential competing suppliers to each identi-
+          fied customer;  and
+          
+     4)   analyze market concentration, using the Herfindahl-
+          Hirschman Index ("HHI") before and after the merg-
+          er.
+          
+Id. at 68,607-08.
+
+     In their original application, AEP and CSW proposed con-
+necting their two territories using a 250 MW east to west 
+transmission path, secured by contract from a third party. 
+Joint Application, reprinted in J.A. 138.  Because this con-
+nection increased market concentration in several western 
+markets to a level above that allowed by Appendix A, AEP 
+and CSW sought to mitigate these impermissible HHI levels 
+by committing to the sale of 320 MW in the former territory 
+of CSW.  Joint Application, reprinted in J.A. 145.  AEP and 
+CSW also suggested other restrictions, including participation 
+in an ISO and the waiver of certain priority transmission 
+rights.  Joint Application, reprinted in J.A. 150.
+
+     FERC found that the "Applicants' own analysis shows that 
+the proposed merger fails the screen thresholds in several 
+markets, ... there are problems concerning the assumptions 
+
+and data used in the Applicants' screen analysis, ... [and] 
+Applicants' analysis may not accurately define relevant geo-
+graphic markets."  Order Accepting for Filing and Suspend-
+ing Proposed Tariffs and Agreements, Consolidating Dock-
+ets, and Establishing Hearing Procedures, 85 F.E.R.C. 
+p 61,201, at 61,818-19 (Nov. 10, 1998).  These factors led 
+FERC to set the matter for a hearing to determine "the 
+effect of the merger on competition."  Id. at 61,809.
+
+     Over 30 parties filed objections to the merger, though most 
+withdrew prior to the hearing.  FERC trial staff and the 
+Applicants entered into two stipulations, one on May 24, 1999, 
+and the other on July 13, 1999, resolving most of the issues in 
+contention at the hearing.  The three-week hearing finished 
+on July 19, 1999, and the presiding Administrative Law Judge 
+("ALJ") issued an initial order on November 23, 1999.  The 
+ALJ's initial order imposed no conditions on the merger, 
+other than those stipulated by the Applicants.  See Am. Elec. 
+Power Co., 90 F.E.R.C. p 61,242, at 61,776.  On May 15, 2000, 
+FERC approved the merger, but with significant additional 
+conditions.  Id. at 61,799-800.
+
+     The Applicants had agreed to divest 550 MW of power, 
+rather than the initially proposed 320 MW, from the West 
+Region.  Instead of divesting entire plants, the Applicants 
+proposed selling minority interests in certain generating facil-
+ities, leaving New AEP with operational control of generation.  
+FERC found the amount of capacity to be divested acceptable 
+but that the divestiture proposal was an ineffective remedy 
+because the Applicants retained operational control of the 
+generation.  This operational control could have given New 
+AEP "the ability to withhold capacity from the market and 
+thus affect electricity prices."  Id. at 61,792.  FERC there-
+fore required New AEP to "divest their entire ownership 
+interest" in the facilities at issue.  Id.  Because of the time 
+necessary to divest this capacity, the Applicants proposed 
+forced interim power sales equivalent to the to-be-divested 
+capacity.  FERC accepted this proposal, recognizing that the 
+forced sales would prevent the exercise of market power by 
+withholding output, but required the sales to begin immedi-
+
+ately rather than shortly after merger, as the Applicants had 
+proposed.  Id. at 61,794.
+
+     FERC also addressed market power concerns arising out 
+of the consolidation of generation and transmission.  FERC 
+recognized the potential for New AEP to exercise vertical 
+market power, where one entity could affect the availability of 
+transmission by controlling the generation of electricity, and 
+found "that Applicants failed to show that the proposed 
+merger will not adversely affect competition as a result of 
+combining their generation and transmission."  Id. at 61,786.  
+To remedy this market power, FERC imposed several re-
+quirements.  First, the Applicants must "transfer operational 
+control of their transmission facilities to a Commission-
+approved RTO."  Id. at 61,788.  Second, because, under 
+FERC's newly established framework, RTOs will not exist 
+prior to December 15, 2001, see Order No. 2000, 65 Fed. Reg. 
+at 812, FERC imposed interim mitigation measures in the 
+East Region emulating many of the anticipated functions of 
+an RTO.  Am. Elec. Power Co., 90 F.E.R.C. p 61,242 at 
+61,789.  Thus, in the East Region, New AEP must have ATC 
+calculated and market monitoring conducted by an indepen-
+dent party.  This third party would review generation dis-
+patch information, steps taken to relieve transmission con-
+straints, and the volume and price of energy after relief steps 
+were taken.  FERC stated, "[w]e believe that such data are 
+necessary to determine whether operations or wholesale 
+transactions involving Applicants are unduly discriminatory 
+or preferential or show evidence of the exercise of market 
+power."  Id.  Third, although FERC did not expressly identi-
+fy the consequences of any transgressions of these require-
+ments, the Commission stated that it would use its "authority 
+under Section 203(b) of the [Federal Power Act] to address 
+any concerns, and order further procedures as appropriate."  
+Id. at 61,789-90 (footnote omitted).
+
+     Wabash filed a Request for Rehearing on April 14, 2000, 
+challenging FERC's order approving the merger.  The prin-
+cipal points raised by Wabash in its petition for rehearing 
+were, as follows:
+
+     .    The Commission identified serious problems with the 
+          merger, expressly recognizing that the merger in-
+          creased Applicants' ability to foreclose competitors by 
+          strategic manipulation of generation, but approved 
+          the merger without conditioning it in a manner that 
+          even purports to address this significant threat to the 
+          public interest.
+          
+     .    The Commission recognized, but failed to address the 
+          potent arguments of Wabash Valley ... that Appli-
+          cants' participation in the Alliance RTO, even if that 
+          RTO were to satisfy the Commission's general re-
+          quirements for FERC approval, would be insufficient 
+          to mitigate the Applicants' merger enhanced market 
+          power.
+          
+     .    The Commission erred by failing to insist upon imple-
+          mentation of Applicants' RTO commitment before 
+          consummation of the merger.
+          
+     .    The Commission failed even to recognize, much less 
+          address, intervenor demonstrations that the merger 
+          would seriously adversely affect transmission avail-
+          ability to others.
+          
+     .    The Commission accepted as "ratepayer protection" 
+          provisions wholly inadequate to hold ratepayers 
+          harmless from the merger.
+          
+Request for Rehearing, reprinted in J.A. 370, 373.  FERC 
+denied the request for rehearing on May 15, 2000, 91 
+F.E.R.C. p 61,129, and Wabash petitioned this court for re-
+view on July 7, 2000.
+
+                           II. Analysis
+
+A.   Jurisdiction and Ripeness
+
+     FERC initially argues that judicial review is precluded in 
+this case, because Wabash is not an aggrieved party, the case 
+is not ripe, and Wabash failed to raise many of its arguments 
+below, as required by s 313 of the Federal Power Act.  We 
+conclude that Wabash is aggrieved and the case is ripe, but 
+that many of Wabash's claims have been forfeited because 
+
+they were not properly raised with FERC in the first in-
+stance.
+
+     1.   Standing
+          
+     The Federal Power Act provides that "[a]ny party to a 
+proceeding ... aggrieved by an order issued by the Commis-
+sion in such proceeding may obtain a review of such order" by 
+filing suit within 60 days.  16 U.S.C. s 825l(b).  Under 
+FERC regulations, Wabash, as an intervenor, was a party to 
+the AEP-CSW merger application proceeding.  See 18 C.F.R. 
+s 385.214 (1999).  Parties are "aggrieved" under the Federal 
+Power Act if they satisfy both the constitutional and pruden-
+tial requirements for standing.  Louisiana Energy & Power 
+Auth. v. FERC, 141 F.3d 364, 366 (D.C. Cir. 1998) (quoting 
+Bennett v. Spear, 520 U.S. 154, 167 (1997)).  In this case, as a 
+competitor crying foul, Wabash satisfies prudential standing 
+requirements.  Louisiana Energy, 141 F.3d at 366-67 (stating 
+"as a competitor and customer [petitioner] comes within the 
+zone of interests of the Federal Power Act and hence has 
+prudential standing").
+
+     FERC nonetheless argues that Wabash fails to satisfy the 
+standing requirements imposed by Article III of the Constitu-
+tion.
+
+     This "irreducible constitutional minimum" of standing 
+     requires:  (1) that the plaintiff have suffered an "injury in 
+     fact"--an invasion of a judicially cognizable interest 
+     which is (a) concrete and particularized and (b) actual or 
+     imminent, not conjectural or hypothetical;  (2) that there 
+     be a causal connection between the injury and the con-
+     duct complained of--the injury must be fairly traceable 
+     to the challenged action of the defendant, and not the 
+     result of the independent action of some third party not 
+     before the court;  and (3) that it be likely, as opposed to 
+     merely speculative, that the injury will be redressed by a 
+     favorable decision.
+     
+Bennett, 520 U.S. at 167 (citing Lujan v. Defenders of Wild-
+life, 504 U.S. 555, 560-61 (1992)).  FERC contends in particu-
+lar that Wabash lacks standing because the harm that it 
+
+alleges is based only on injuries that might arise from New 
+AEP's exercise of market power in the future.  In other 
+words, according to FERC, the injuries asserted by Wabash 
+are merely speculative.  We disagree.
+
+     Parties suffer cognizable injury under Article III when an 
+agency "lift[s] regulatory restrictions on their competitors or 
+otherwise allow[s] increased competition."  Louisiana Ener-
+gy, 141 F.3d at 367.  Wabash asserts that it will be injured by 
+New AEP's market power which FERC has allowed by 
+approving a merger with inadequate conditions.  This claim 
+satisfies the "injury" prong of Article III standing.  See 
+Associated Gas Distribs. v. FERC, 899 F.2d 1250, 1259 (D.C. 
+Cir. 1990) (finding standing when "the challenged action 
+authorizes allegedly illegal transactions that have the clear 
+and immediate potential to compete with the petitioners' own 
+sales"). Wabash likewise meets the remaining two prongs of 
+the constitutional standing inquiry.  Its competitive injury is 
+fairly traceable to FERC's decision to approve the merger.  
+See America's Cmty. Bankers v. FDIC, 200 F.3d 822, 827 
+(D.C. Cir. 2000).  And a favorable decision by this court could 
+result in a remand to FERC which, in turn, might impose 
+conditions that more severely limit New AEP's exercise of 
+market power.  This possibility, even though far from certain, 
+satisfies the redressability requirement.  Northeast Energy 
+Assocs. v. FERC, 158 F.3d 150, 154 (D.C. Cir. 1998).  Wa-
+bash, therefore, has Article III standing to seek judicial 
+review.
+
+     2.   Ripeness
+          
+     Ripeness requires the evaluation of "the fitness of the 
+issues for judicial decision and the hardship to the parties of 
+withholding court consideration."  Whitman v. Am. Trucking 
+Ass'ns, Inc., 121 S. Ct. 903, 915 (2001) (quoting Abbott Labs. 
+v. Gardner, 387 U.S. 136, 149 (1967)).  A case is ripe "when it 
+presents a concrete legal dispute and no further factual 
+development is essential to clarify the issues and there is no 
+doubt whatever that the challenged agency practice has crys-
+tallized sufficiently for purposes of judicial review."  Rio 
+Grande Pipeline Co. v FERC, 178 F.3d 533, 540 (D.C. Cir. 
+
+1999) (citations and internal quotation marks omitted).  This 
+dispute meets these criteria.
+
+     Wabash seeks review of a specific agency decision to allow 
+the merger of AEP and CSW.  FERC made its decision after 
+a lengthy hearing before an ALJ in which Wabash and 
+numerous other intervenors put on extensive evidence chal-
+lenging the merger.  It does not matter that the merger 
+occurs at a time when the regulatory regime is changing.  
+What matters is that the decision approving the merger is 
+final and the standards for assessing the Commission's judg-
+ment are clear and easy to apply.
+
+     3.   Wabash's Failure to Present Certain Claims to FERC 
+          in the First Instance
+          
+     Petitioners seeking review of a FERC order must first 
+"petition for rehearing of those orders and must themselves 
+raise in that petition all of the objections urged on appeal."  
+Platte River Whooping Crane v. FERC, 876 F.2d 109, 113 
+(D.C. Cir. 1989) (citing 16 U.S.C. s 825l(b) and ASARCO, Inc. 
+v. FERC, 777 F.2d 764, 774 (D.C. Cir. 1985)).  Section 825l(b) 
+commands that "[n]o objection to the order of the Commis-
+sion shall be considered ... [unless] urged before the Com-
+mission in the application for rehearing."  16 U.S.C. 
+s 825l(b).  This is an unusually strict requirement that will 
+not be ignored by the courts.  Asarco, 777 F.2d at 774.  And 
+"[n]either FERC nor this court has authority to waive these 
+statutory requirements."  Platte River Whooping Crane, 876 
+F.2d at 113.  Therefore, the failure of FERC to challenge a 
+petitioner's objection on the ground that it was not raised 
+below does not remove this court's independent obligation to 
+determine whether, in fact, the argument is properly before 
+us.
+
+     Many of the objections raised by Wabash in its petition for 
+review were not raised in the first instance in an application 
+for rehearing to FERC.  The court therefore has no jurisdic-
+tion to consider these objections.  In particular, Wabash did 
+not seek rehearing on its claims that FERC failed to make 
+essential findings of fact, adequately explain its decision, 
+define the relevant markets, account for potential competition 
+
+between AEP and CSW, and defer approval of all mergers 
+until RTO performance could be evaluated.
+
+     There is one claim that has been raised by Wabash that 
+may be considered by the court even though it was not raised 
+below.  Wabash contends that FERC's merger was inconsis-
+tent with a subsequently released staff report.  Though not 
+raised in the application for rehearing by Wabash, this argu-
+ment may be properly considered by this court because the 
+Federal Power Act allows consideration of arguments raised 
+for the first time on appeal if "there is reasonable ground for 
+failure" to raise objections in the request for rehearing.  16 
+U.S.C. s 825l(b).  Because this report was issued on Novem-
+ber 1, 2000, several months after Wabash's rehearing request, 
+this court has jurisdiction to review this challenge by Wabash.
+
+     Finally, there is one argument raised by Wabash on appeal 
+that is hard to characterize.  In its petition for rehearing to 
+FERC, Wabash argued that, although the Commission had 
+"expressly recogniz[ed] that the merger increased Applicants' 
+ability to foreclose competitors by strategic manipulation of 
+generation," the merger conditions did not "address this 
+significant threat to the public interest."  Request for Rehear-
+ing, reprinted in J.A. 374.  On appeal, Wabash argues that 
+"FERC completely ignored ... crucial evidence" of New 
+AEP's "ability to manipulate 'imperfections' in the pertinent 
+markets to their advantage."  Petitioner's Br. at 37.  How 
+one assesses these two claims depends upon how one con-
+strues the reference to "crucial evidence."  Wabash's two 
+claims are not inconsistent if Wabash's argument to the court 
+is meant to claim that FERC failed adequately to address a 
+recognized threat to the public interest because it failed to 
+consider crucial evidence.  The claims are inconsistent, how-
+ever, if Wabash's argument to this court is meant to say that 
+FERC completely ignored the fact that the merger increased 
+Applicants' ability to foreclose competitors by strategic ma-
+nipulation of generation.  We give Wabash the benefit of the 
+doubt and accept the issue as raised, because the first con-
+struction seems more plausible.  We must therefore address 
+on the merits the staff report claim, the crucial evidence 
+
+claim, and two other claims Wabash raised in its petition for 
+rehearing.
+
+B.   Standard of review
+
+     We review FERC's order under the familiar arbitrary and 
+capricious standard.  Sithe/Independence Power Partners, 
+L.P. v. FERC, 165 F.3d 944, 948 (D.C. Cir. 1999).  Under 
+s 203 of the Federal Power Act "FERC may approve a 
+merger only if it 'will be consistent with the public interest.' "  
+Envtl. Action, Inc. v. FERC, 939 F.2d 1057, 1061 (D.C. Cir. 
+1991) (quoting 16 U.S.C. s 824b(a)).  "Public interest" encom-
+passes "both the preservation of economic competition, as 
+expressed in the antitrust laws of general application, and the 
+various policies reflected in the statutes specific to energy 
+regulation."  Envtl. Action, 939 F.2d at 1061 (citations omit-
+ted).  The principal public interest reflected in the Federal 
+Power Act is "to encourage the orderly development of 
+plentiful supplies of electricity and natural gas at reasonable 
+prices."  NAACP v. FPC, 425 U.S. 662, 669-70 (1976) (foot-
+note omitted).
+
+C.   Wabash's claims
+
+     Wabash claims that FERC's approval was arbitrary and 
+capricious because:  FERC improperly conditioned the merg-
+er on the future participation of New AEP in an RTO;  
+FERC completely ignored crucial evidence of New AEP's 
+ability to manipulate imperfections in the pertinent markets 
+to their advantage;  the merger is inconsistent with a recent 
+FERC staff report;  and the merger does nothing to eliminate 
+rate pancaking, a type of rate inefficiency.  These claims all 
+fail.
+
+     First FERC did not condition the merger solely on future 
+participation in an RTO.  Rather, FERC also required inter-
+im measures that emulated the information-sharing features 
+of an RTO to limit New AEP's ability to exercise its market 
+power.  See Am. Elec. Power Co., 90 F.E.R.C. p 62,171, at 
+61,789.  These measures - market monitoring and calculation 
+of ATC by independent parties - do not have any enforce-
+ment mechanisms attached.  FERC can use its regulatory 
+
+powers, however, to penalize noncompliance.  Under s 205 of 
+the Federal Power Act, FERC reviews all electricity trans-
+mission and sales to ensure that the rates are "just and 
+reasonable."  16 U.S.C. s 824d(a).  FERC, in some circum-
+stances, allows electric utilities to engage in market-based 
+pricing in lieu of the traditional cost plus reasonable rate of 
+return rate calculation.  See, e.g., Cajun Elec. Power Coop., 
+Inc. v. FERC, 28 F.3d 173, 176. (D.C. Cir. 1994).  If, however, 
+FERC finds that a rate charged is "unjust, unreasonable, 
+unduly discriminatory or preferential, the Commission shall 
+determine the just and reasonable rate ... and shall fix the 
+same by order."  16 U.S.C. s 824e(a).  Thus, if the informa-
+tion disclosed by New AEP under the interim mitigation 
+measures indicates a violation of the antitrust laws or the 
+Federal Power Act, New AEP faces antitrust liability and the 
+possibility of FERC setting its rates.  These safeguards 
+render the requirement of disclosure effective to limit New 
+AEP's exercise of strategic behavior to circumvent FERC's 
+merger conditions.
+
+     Wabash is also wrong in its claim that FERC completely 
+ignored crucial evidence of New AEP's ability to manipulate 
+imperfections in the pertinent markets to their advantage.  
+As noted above, Wabash's petition for rehearing to FERC 
+expressly acknowledges that the Commission did not ignore 
+the problem of the potential for market manipulation.  There-
+fore, the only question here is whether FERC's action was 
+arbitrary and capricious for lack of consideration of some 
+"crucial evidence" related to the issue.  The "crucial evi-
+dence" to which Wabash refers is "the merging parties' intent 
+to improperly exert their market power."  Petitioner's Br. at 
+37.  This is a specious claim.  First, it is clear that FERC 
+understood that it was too easy for parties to engage in 
+market manipulation under the Orders that preceded Order 
+No. 2000 - indeed, that was a principal reason for the 
+adoption of Order No. 2000.  Second, FERC addressed the 
+problem of possible manipulations by imposing conditions on 
+the merger.  It is unclear what other "crucial evidence" was 
+before FERC that warranted consideration.  Maybe Wabash 
+means to suggest that officials in charge of New AEP had 
+devious, albeit unannounced, intentions to defy the law with-
+
+out regard to FERC's regulatory requirements.  If so, this 
+surely is no basis upon which to grant the petition for review.  
+If New AEP acts in violation of the law in the future it will 
+face regulatory sanctions.
+
+     Wabash next claims that FERC's decision does nothing to 
+eliminate rate pancaking.  Pancaked rates arise when a 
+transmission travels over the transmission systems of more 
+than one system that each charge separate fees, much like 
+the total tolls paid when driving on a route that includes both 
+the Pennsylvania and New Jersey turnpikes.  Though the 
+mere existence of different owners of different parts of a 
+transmission system does not necessarily lead to inefficient 
+transmission, FERC found that one of the main benefits 
+offered by RTOs would be "increased efficiency through 
+regional transmission pricing and the elimination of rate 
+pancaking."  Order No. 2000, 65 Fed. Reg. at 829.  Whether 
+the AEP-CSW merger eliminated rate pancaking was not a 
+discrete issue under consideration by FERC, because s 203 
+of the Federal Power Act merely mandates the determination 
+of whether the merger is consistent with the public interest.  
+By forcing New AEP to transfer its transmission assets to a 
+RTO, FERC, in fact, significantly reduced rate pancaking.  
+Absent a mechanism creating national transmission pricing, it 
+is hard to understand how any merger could, by itself, 
+eliminate all rate pancaking.  In any event, that other 
+changes to FERC policy might also improve the public inter-
+est is simply irrelevant to the validity of the merger decision.  
+And it certainly was not arbitrary and capricious for FERC 
+to find that a merger that did not fully eliminate rate 
+pancaking was nonetheless in the public interest.
+
+     Finally, Wabash claims that the decision to approve the 
+merger is arbitrary and capricious because it is inconsistent 
+with a staff report produced by FERC on November 1, 2000.  
+This claim fails under the holding of Union Pac. Fuels, Inc. v 
+FERC, 129 F.3d 157, 164 (D.C. Cir. 1997).  Only when 
+"FERC has formally altered its policy after issuing an order 
+challenged before us" does this court consider the change.  
+Id.  A staff report following the issuance of a Commission 
+order is not a superceding order;  therefore, the issuance of 
+
+such a report "play[s] no role in our determination of the 
+order['s] legality."  Id.
+
+                         III. Conclusion
+
+     For the foregoing reasons, Wabash's petition for review is 
+denied.
+
+                                                             So ordered.
+
+                                                        

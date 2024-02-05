@@ -1,0 +1,189 @@
+# Toward a More Perfect US Supreme Court
+
+## 0.  Summary
+
+### What's the proposal?
+
+I'd like your critical feedback on the following proposed amendment to the US
+Constitution.  It's about how we appoint judges to the Supreme Court.  I'm very
+proud of it.  Here's the key extract (lightly edited; scroll way down for the
+full text):
+
+    -- SUPREME COURT AMENDMENT --
+
+    The Supreme Court of the United States shall have 10 seats.  A strict
+    majority of votes shall determine the outcome of a case; but the most
+    junior Justice may not vote except to break ties.
+
+    On May 1st of each odd year, the most senior Justice shall retire.  These
+    and other vacancies shall be filled within T=60 days as follows.
+     (A) From among the 179 seats of the Appellate Courts shall be identified
+         the K=25 judges of most median seniority.
+     (B) The Senate shall select from those K judges k=2 finalists as follows.
+         (B.a) A list of 100+8 many names shall be prepared by duplicating
+               the K judges as equally as may be.
+         (B.b) The Senators shall be randomly arranged into a sequence.
+         (B.c) Each Senator in sequence shall eliminate one name from the list.
+               They shall announce this choice to the Senators who follow.
+         (B.d) The k judges that remain listed shall become finalists.  Should
+               more than k judges remain listed, the VP shall break ties.
+     (C) Each Senator shall vote for any subset of the k finalists.  The
+         finalist with the most votes shall become the newest Justice.
+
+In step `(B.c)`, the Senators "**whittle**" the list of candidates down to 2.
+
+### Why might one support the proposal?
+
+**Pros.**
+Here are three quick highlights:
+
+-   ANTIPARTISAN --- A Senate with 61 Republicans will select a Justice who
+        among appeals judges is ~61st percentile, not 99th percentile, on the
+        "Democrat-Republican" axis.  The process favors the broadly acceptable
+        over the excellent-but-polarizing --- a boon to the Court's legitimacy.
+
+-   DECISIVE --- Vacancies will be filled despite procedural shenanigans.
+        Indeed, the process forces the Senate to choose from a fixed list of
+        candidates rather than to confirm individual nominees.  So the Senate
+        has no option to continually reject nominees.
+
+-   REGULAR --- New justices periodically replace old ones, leading in effect
+        to 18-year term limits.  These transitions threaten less to evenly
+        divide and thus impair the Court, due to the most junior Justice.  We
+        fix the number of voting Justices to 9, preventing court packing.
+
+**Cons.**
+In the following sections (1,2,3) I address several concerns about the
+proposal.  Here are highlights:
+
+- HIGH WORKLOAD --- Asking 100 Senators to evaluate K=25 candidates is asking
+        for a lot of work.  *Would this burden impede their legislative roles?*
+
+    Response:
+    Good point.  A Senator in theory closely reads tens of thousands of
+        pages per year; in practice, they delegate this work to their staff and
+        to experts they trust, and they avoid redundancy of work by
+        coordinating into Senate committees and with party leaders.  The same
+        delegation and coordination would help under my proposal.
+
+    Step `(C)` also lessens the stakes of misjudgement of the K candidates: once
+        the Senate has whittled down the list to k=2 finalists, they may
+        conduct more careful interviews.
+
+- BIASED MENU --- Appointing judges who are "median" among appeals court
+        judges /sounds/ good --- *but does "median" imply "moderate"?*
+
+    Response:
+    This is a tricky issue.  You're right that if 60% of judges are very red
+        and 40% are very blue, then the median judge will be very red (a kind
+        of "*temporal gerrymandering*"!).
+    So: *do "moderate" judges exist in substantial number?*
+        My preliminary analysis suggests that
+        moderate appeals judges do exist in the sense that the party of their
+        appointing president does not well predict their voting patterns
+        (see below).
+
+    That said, the proposal might polarize appointments to the appeals courts,
+        negating the moderacy we now observe.  I'd hope that in distributing
+        the appointment process (across many years and people), we'd temper
+        such polarization.  But maybe we'd just kick the can down the road.
+
+### What's the rest of this document?
+
+Mainly, this post advertises an amendment to the US Constitution.  Now may be a
+good time to discuss such amendments: the Supreme Court's rulings this past
+decade have enraged both social conservatives and social liberals, amplifying
+concerns about the reach of the courts and the prospect of partisan court
+packing.  I find it a heartening sign of change that, for the first time at
+least since the Second World War, members of recent US Congresses (116th,
+117th) have formally introduced Supreme Court amendments.
+
+In its second role, this post is a diary of ideas for the design of
+preference-aggregating procedures.  A democracy works (I hope!) when we
+exchange ideas and learn from each other.  So here is my contribution.  Though
+in my excitement I write as an advocate, I do try to note the gaps and
+uncertainties in my thought.  I'd be pleased to read your thoughts, including
+questioning of my premises or value judgements.  I am quite curious for
+insights from those of you familiar with systems beyond the US's.
+
+**Table of contents.**
+
+    Summary
+        What's the proposal?
+        Why might one support the proposal?
+        What's the rest of this document?
+        In what sense if any would this proposal "fix" the judiciary?
+    Toward Decisive Designs
+        Stalling (and limited government); decisive procedures
+        Whittling for the Supreme Court
+        Further mechanisms
+        Bonus thoughts on budgeting and filibusters
+    Toward Antipartisan Designs
+        Gerrymandering (and consensus)
+        Tension and balance ("continuity")
+        Game theory analysis of whittling (hot potatos)
+        Bonus thoughts on chamber leadership and House elections
+    Toward Regular Designs
+        Term limits, backups, transitions
+        Presidential influence
+        Changing parameters
+        Bonus thoughts on our amendment process, districting boards, and DC
+    Appendices
+        Related ideas
+        Agreeing on randomness
+        Analysis of judge data
+        Full text
+
+**Aren't you forgetting XYZ?  Or, this sounds like ABC.**
+I probably am / it probably does.  Please comment to teach me! ---
+Note that I list this proposal's full text below (scroll way down).
+The full text defines terms such as "median seniority"
+and details procedures such as transitioning to the new system.
+
+###  In what sense if any would this proposal "fix" the judiciary?
+
+I don't know.
+That's why I used the weasel word "toward" in the title.
+
+I devised this amendment mostly on aesthetic grounds; I have no firm argument
+that this system "is better for democracy" or "leads to wiser rulings" or
+"threatens fewer constitutional crises" than the current system.
+That said, my aesthetic sense is one disturbed by two specific problems I
+perceive in the current appointment process:
+
+-   unpredictable political hurricanes whenever a Justice dies; and
+
+-   (credible appearances of) partisanship and thus an erosion of the Court's legitimacy.
+
+A more stable and nonpartisan system would strike me as more beautiful.  I
+believe certain perverse incentives contribute as root causes to these two
+problems.  Within simplified models of voting behavior that I describe below,
+the new way materially weakens these incentives.  **IF** those "problems" are
+actually so **AND** I correctly identified some of their root causes **AND**
+the mentioned models are adequately robust **THEN** the amendment is a
+promising step toward my desired, more beautiful judiciary.
+
+**On parties.**
+Note this personality quirk of mine: I regard "bipartisan" as far from
+"nonpartisan", especially when the "bi" refers to a specific party system such
+as the US's current one.  Parties are extra-constitutional organizations that,
+though regulated, are in essence private.  So I find any canonization of
+parties in law quite ugly.  Imagine if we amended Congress's enumerated
+power-to-establish-post-offices by explicitly mentioning Fedex and Amazon!
+
+I thus dislike ideas such as that popularized by Buttigieg (to mandate 5
+"Republican" and 5 "Democratic" justices on a reformed Supreme Court).  This
+might be a key way that your and my notions of "fix" diverge.
+
+**On good faith.**
+The structures I propose depend on good faith.  So do all constitutional
+measures.  But some structures require less good faith: they provide "ratchets"
+along which small not-too-courageous acts may add up, electoral "fuses" that
+blow once a leader's tyranny outweighs their competence, and "levers" of
+indirection to reduce a would-be tyrant's temptation and effect.
+
+Made potent by some deep cultural magic, such mechanisms form the US
+Constitution's core.  They feel *structural*, unlike, say, the Trial Amendments
+(5,6,7,8), the Prohibition Amendments (18,21), or even arguably our cherished
+Amendments 1 and 2.  Constitutional structure protects and enforces those
+listed rights and liberties, which in turn keep the structure sharp.

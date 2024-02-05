@@ -1,0 +1,542 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+                            ---------
+
+                    Argued March 23, 2001      Decided July 27, 2001 
+
+                           No. 00-5109
+
+                    Monmouth Medical Center, 
+                            Appellant
+
+                                v.
+
+                  Tommy G. Thompson, Secretary, 
+            Department of Health and Human Services, 
+                             Appellee
+
+                        Consolidated with 
+                             00-5110
+
+          Appeals from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv01228) 
+                         (No. 98cv01229)
+
+     Robert L. Roth argued the cause and filed the briefs for 
+appellants.
+
+     Gerard Keating, Attorney, U.S. Department of Health & 
+Human Services, argued the cause for appellee.  With him on 
+
+the brief were David W. Ogden, Assistant Attorney General, 
+Anthony J. Steinmeyer, Attorney, Wilma A. Lewis, U.S. 
+Attorney at the time the brief was filed, Harriet S. Rabb, 
+General Counsel, U.S. Department of Health & Human Ser-
+vices, and Henry R. Goldberg, Deputy Associate General 
+Counsel.
+
+     Before:  Edwards, Williams and Sentelle, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  Plaintiff-appellants Monmouth 
+Medical Center and Staten Island University Hospital are 
+acute-care facilities that receive payments under Medicare 
+Part A for services to Medicare beneficiaries.  Since 1983, the 
+Secretary of Health and Human Services has made payments 
+to cover hospital operating costs for inpatient care under the 
+Prospective Payment System ("PPS"), which reimburses ac-
+cording to a uniform national rate schedule.  See 42 U.S.C. 
+s 1395ww(d).  The two hospitals, because they serve a dis-
+proportionate share of low-income Medicare recipients, are 
+eligible for "disproportionate share hospital" ("DSH") adjust-
+ments to their PPS payments.  See 42 U.S.C. 
+s 1395ww(d)(5)(F).  Monmouth and Staten Island sought the 
+aid of the district court in an attempt to have their fiscal year 
+("FY") 1993 and FY 1994 DSH payments recalculated, assert-
+ing jurisdiction under 42 U.S.C. s 1395oo(a)(1)(a), 28 U.S.C. 
+s 1331, and 28 U.S.C. s 1361.  The district court decided that 
+the hospitals failed to follow the statutorily mandated proce-
+dure for appealing their payments, that 42 U.S.C. s 1395ii 
+precluded other review, and that, accordingly, it lacked sub-
+ject matter jurisdiction.  We reverse.
+
+                             *  *  *
+
+     The Secretary of HHS has delegated authority to adminis-
+ter the Medicare Act to the Health Care Financing Adminis-
+tration ("HCFA").1  Determinations of payment amounts are 
+in turn often delegated to fiscal intermediaries, generally 
+
+__________
+     1 HCFA was recently renamed and became the Centers for 
+Medicare & Medicaid Services.  We will continue to use the desig-
+nation HCFA in this opinion to maintain consistency with the 
+record below.
+
+private insurers that manage the payments for the Secretary.  
+See 42 U.S.C. s 1395h.  Estimated payments are made peri-
+odically and an annual accounting is done by the intermediary 
+in the form of a Notice of Provider Reimbursement ("NPR") 
+based on a cost report submitted by the provider after the 
+close of each fiscal year.
+
+     The Medicare Act has detailed instructions on the proce-
+dures for seeking review of payment determinations.  Under 
+42 U.S.C. s 1395oo(a)(1)(A) a dissatisfied provider may ap-
+peal two types of "final determinations" to the Provider 
+Reimbursement Review Board ("Board").  Clause (i) covers a 
+fiscal intermediary's final reimbursement decision, commonly 
+the NPR, and clause (ii) covers a final determination of the 
+Secretary regarding payments under 42 U.S.C. ss 1395ww(b) 
+or (d), including the DSH payments.  Appeals are to be filed 
+within 180 days of notice of the final determination.  Id. 
+s 1395oo(a)(3).  In either case, the decision of the Board is 
+then reviewable by filing in district court within 60 days of 
+notice of the decision, or by the Secretary's own motion.  Id. 
+s 1395oo(f).  Section 1395ii generally forecloses other ave-
+nues of review by incorporating the review-limiting provision 
+of the Social Security Act, 42 U.S.C. s 405(h):
+
+     The findings and decision of the [Secretary of HHS] 
+     after a hearing shall be binding upon all individuals who 
+     were parties to such hearing.  No findings of fact or 
+     decision of the [Secretary of HHS] shall be reviewed by 
+     any person, tribunal, or governmental agency except as 
+     herein provided.  No action against the United States, 
+     the [Secretary of HHS], or any officer or employee 
+     thereof shall be brought under section 1331 or 1346 of 
+     title 28 to recover on any claim arising under this sub-
+     chapter.
+     
+42 U.S.C. s 405(h).
+
+     The Secretary's regulations provide three additional chan-
+nels of administrative review.  Under 42 CFR s 405.1841(b), 
+a late-filed request for Board review may be considered by 
+the Board, provided that good cause is shown and the request 
+is filed no more than three years after the NPR.  The 
+
+regulations also provide two possibilities for the reopening of 
+a determination, again with a three-year limit.  42 CFR 
+s 405.1885(a) provides for reopening, at the discretion of the 
+decisionmaker, on the motion of the provider.  Subsection (b) 
+of that same regulation, which ultimately controls here, man-
+dates reopening in one special circumstance.  It directs that 
+the decision
+
+     shall be reopened and revised by the intermediary if ... 
+     the [HCFA] notifies the intermediary that such determi-
+     nation or decision is inconsistent with the applicable law, 
+     regulations, or general instructions issued by the 
+     [HCFA].
+     
+42 CFR s 405.1885(b) (emphasis added).
+
+     Under the statute authorizing DSH adjustments, eligibility 
+for and calculation of the payment require the summing of 
+two fractions.  The numerator of one of these fractions calls 
+for the number of inpatient days of patients who "were 
+eligible for medical assistance under a State plan [i.e., Medic-
+aid]."  42 U.S.C. s 1395ww(d)(5)(F)(vi)(II) (emphasis added).  
+The Secretary promulgated a regulation on how to make the 
+calculation and has repeatedly amended it.  See 42 CFR 
+s 412.106 (1993) (version in force when original DSH calcula-
+tions were made).  At the same time, the Secretary published 
+an interpretation of that rule in the Federal Register as part 
+of the notice and comment rulemaking implementing the PPS.  
+See 51 Fed. Reg. 16,772, 16,777 (May 6, 1986);  51 Fed. Reg. 
+31,454, 31,460 (September 3, 1986).  Reading "who were 
+eligible" as " 'who (for such days) were eligible' " the Secre-
+tary declared that "Medicaid covered days will include only 
+those days for which benefits are payable."  51 Fed. Reg. at 
+16,777/2-3 (emphasis added).  This interpretation had the 
+effect of reducing payments by limiting adjustments for pa-
+tients who were "eligible" for Medicaid benefits under the 
+natural reading of the word, but who, because of a particular 
+state's program, were not receiving such benefits on a given 
+day.
+
+     Neither hospital timely availed itself of the right to appeal 
+the NPRs in question.  But other providers did.  The Secre-
+
+tary's interpretation fared poorly, being struck down in four 
+of our sister circuits.  See Cabell Huntington Hosp. v. Shala-
+la, 101 F.3d 984 (4th Cir. 1996);  Legacy Emanuel Hosp. & 
+Health Ctr. v. Shalala, 97 F.3d 1261 (9th Cir. 1996);  Deacon-
+ess Health Serv. Corp. v. Shalala, 83 F.3d 1041 (8th Cir. 
+1996);  Jewish Hosp., Inc. v. Secretary of Health and Human 
+Services, 19 F.3d 270 (6th Cir. 1994).  In light of these 
+decisions, the Administrator of HCFA issued a ruling that 
+rescinded the Secretary's challenged interpretation nation-
+wide.  See Health Care Financing Administration Ruling 
+97-2 (February 27, 1997) ("HCFAR 97-2").  The ruling es-
+tablished a new interpretation more favorable to hospitals, 
+providing that Medicaid-eligible days would be counted 
+"whether or not the hospital received payment for those 
+inpatient hospital services."  Id.  The new interpretation was 
+to be effective in the month of its publication and applied to 
+all as yet unsettled cost reports and all cases in which 
+"jurisdictionally proper" appeals were still pending.  See id.  
+The ruling explicitly foreclosed retrospective application:  
+"We will not reopen settled cost reports based on this issue."  
+Id.  Like all such rulings, HCFAR 97-2 was issued without 
+notice or opportunity for comment.
+
+     The hospitals nonetheless sought recalculation of their 
+DSH payments, filing with their intermediaries for reopening 
+well within the three years required by s 405.1885.  Their 
+respective intermediaries denied the requests, citing HCFAR 
+97-2.  Both hospitals also sought Board review in attempts to 
+satisfy the jurisdictional requirements of 42 U.S.C. s 1395oo.  
+They filed their appeals within 180 days of the publication of 
+HCFAR 97-2, but the intermediaries objected that the trig-
+ger event was each hospital's NPR, not HCFAR 97-2.  In 
+response, the hospitals invoked s 405.1841(b), which allows 
+extension of the time limit for "good cause."  They argued 
+that the delay was unavoidable because they could not have 
+anticipated HCFAR 97-2's refusal to grant reopening.  In 
+separate letters to the providers, the Board stated that "your 
+rationale for late filing does not constitute good cause" and 
+that it lacked jurisdiction to hear the appeals.  Both hospitals 
+sought review in the district court.  We review the district 
+
+court's jurisdictional determination de novo.  See Moore v. 
+Valder, 65 F.3d 189, 196 (D.C. Cir. 1995).  Although we 
+eventually conclude that we have jurisdiction under 42 U.S.C. 
+s 1361, we must first examine all other possible avenues of 
+relief to ensure that the hospitals have fully exhausted those 
+which were available.
+
+                             *  *  *
+
+     The hospitals first invoke the jurisdiction of the district 
+court under 42 U.S.C. s 1395oo(f) to review the Board's 
+denial of their appeals.  Having acknowledged that their 
+appeals were untimely with respect to the NPRs, they frame 
+the appeals here as challenges to the reopening prohibition in 
+HCFAR 97-2.  At issue is whether the Board could properly 
+consider such an attack.  As noted above, clause (i) of 
+s 1395oo(a)(1)(A), the prerequisite for district court jurisdic-
+tion under s 1395oo(f), gives the Board jurisdiction to review 
+final reimbursement determinations by intermediaries.  But 
+it appears that neither of the hospitals attacked its intermedi-
+ary's non-reopening decision in its appeal to the Board, and 
+an HCFA Ruling is not the action of an intermediary.  Staten 
+Island did not even request reopening until three months 
+after it sought Board review.  And Monmouth, while it tried 
+for reopening before making its appeal to the board, made 
+absolutely no mention of its intermediary or its reopening 
+request in its appeal to the Board.
+
+     Clause (ii), which applies to final determinations of the 
+Secretary regarding a provider's PPS calculations, brings 
+jurisdiction no nearer.  In Washington Hosp. Center v. Bow-
+en, 795 F.2d 139 (D.C. Cir. 1986), we determined that a pre-
+NPR challenge could be brought where the Secretary had 
+firmly established "the only variable factor in the final deter-
+mination as to the amount of payment under s 1395ww(d)." 
+Id. at 147.  There the Secretary had determined the individu-
+al hospitals' "target amount," the erstwhile variable factor, 
+thereby fixing their payment amounts under the PPS.  Even 
+after concluding, as we do below, that HCFAR 97-2 triggered 
+mandatory reopening under s 405.1885(b), we fail to see how 
+an attempt by the Secretary to establish a general policy 
+against reopening in any way resembles a final determination 
+
+"as to the amount of payment," the only kind of determina-
+tion for which clause (ii) creates a right of appeal to the 
+Board.  The hospitals argue that the blanket application of 
+the ruling is irrelevant, because it directly affects their claims 
+specifically.  That may be true, but the ruling does not itself 
+either establish or alter their "disproportionate patient per-
+centage" or the amount of payment they receive under PPS.
+
+     Our conclusion that the hospitals' appeals to the Board fit 
+neither clause (i) nor clause (ii) is at least consistent with, if 
+not required by, the Supreme Court's recent opinion in Your 
+Home Visiting Nurse Services, Inc. v. Shalala, 525 U.S. 449 
+(1999).  In that case, the Court reviewed a discretionary 
+decision under s 405.1885(a) not to reopen a clause (i) deter-
+mination, finding that such a refusal did not itself qualify as a 
+clause (i) determination.  It relied on Califano v. Sanders, 
+430 U.S. 99 (1977), in which it held that judicial review is not 
+available for the Secretary's decision not to reopen a claim for 
+benefits under the Social Security Act.  Sanders, the Court 
+pointed out, relied in turn on two factors:  "that the opportu-
+nity to reopen a benefit adjudication was afforded only by 
+regulation and not by the Social Security Act itself;  and that 
+judicial review of a reopening denial would frustrate the 
+statutory purpose of imposing a 60-day limit on judicial 
+review of the Secretary's final decision."  Your Home, 525 
+U.S. at 454.  The Your Home Court also concluded that the 
+absence of Board review would not deprive petitioners there 
+of a suitable opportunity for " 'retroactive corrective adjust-
+ment[ ]' " because they had an initial opportunity to appeal 
+their NPRs, plus a chance to secure discretionary reopening 
+by the intermediary.  Id. (citing 42 U.S.C. 
+s 1395x(v)(1)(A)(ii)).
+
+     One might argue that where a provider is seeking reopen-
+ing under s 405.1885(b), the Sanders concern about the finali-
+ty of decision is lessened, inasmuch as such cases will be 
+relatively few in number;  they arise only if the HCFA 
+informs intermediaries that a prior decision or set of decisions 
+is inconsistent with applicable law.  But it would still remain 
+
+unclear how this distinction would change the character of the 
+reopening decision itself from "not a final determination" to 
+"final determination."  And of course it should make no 
+difference if the analysis arises out of clause (i) or clause (ii).  
+In any event, we reserve our own final determination on this 
+issue for a case in which it is more clearly presented;  here 
+HCFAR 97-2 can in no way be mistaken for a final determi-
+nation for the purposes of judicial review under ss 1395oo(a) 
+& (f).
+
+     The hospitals nonetheless argue that our opinion in Wash-
+ington Hospital Center and the HCFA's application of it in 
+National Medical Enterprises Malpractice PPS Group Ap-
+peal, Case No. 87-5050G, HCFA Adm. Dec. (Oct. 5, 1988), 
+together compel the interpretation that clause (ii) creates a 
+right to Board review 180 days after the "issuance, modifica-
+tion, or invalidation of a HCFAR."  App. Open. Br. at 48.  
+They do no such thing.  Washington Hospital Center held 
+invalid HCFAR 84-1, which had barred appeal of PPS deter-
+minations until after an NPR was issued.  Providers in 
+National Medical Enterprises sought Board review for their 
+payments in the wake of that case, but submitted their appeal 
+more than 180 days from the issuance of our decision.  The 
+Administrator's decision did indeed suggest that a more 
+timely appeal would have been successful, but that conclusion 
+was dependent on the peculiar operation of HCFAR 84-1, 
+which had previously operated as a bar on properly filed 
+appeals of right.  See National Medical Enterprises at 3.  In 
+the absence of HCFAR 97-2 the hospitals would not have had 
+recourse to the Board, as they have already acknowledged.
+
+     The hospitals next seek jurisdiction under 28 U.S.C. s 1331 
+for review of the reopening preclusion in HCFAR 97-2.  Such 
+review could not be more plainly off limits under 42 U.S.C. 
+s 405(h), which explicitly withholds s 1331 jurisdiction for 
+"any claim arising under this title."  The Supreme Court has 
+consistently interpreted this phrase broadly, such that juris-
+diction is barred when " 'both the standing and the substan-
+tive basis for the presentation' of the claims" is the Medicare 
+Act.  Heckler v. Ringer, 466 U.S. 602, 615 (1984) (quoting 
+Weinberger v. Salfi, 422 U.S. 749, 760-61 (1975)).  Thus, in 
+
+Ringer, the Court declared that plaintiffs seeking to overturn 
+an HCFA ruling that would limit their recovery for a particu-
+lar type of surgery could do so only in the context of the 
+statutorily authorized process for review.  This applied with 
+equal force to the plaintiff who had not yet undergone the 
+surgery and therefore had, as yet, no claim for reimburse-
+ment.  See id. at 620.  That the plaintiffs there were not 
+seeking a specific monetary award was irrelevant.  The ulti-
+mate goal for those plaintiffs, as for the hospitals here, was 
+the recovery of additional sums under the Medicare Act.  See 
+id. at 615-16.
+
+     The hospitals make a plausible argument that jurisdiction 
+may be had under the limited exception to s 405(h) carved 
+out by Bowen v. Michigan Academy of Family Physicians, 
+476 U.S. 667 (1986), as interpreted by Shalala v. Illinois 
+Council on Long Term Care, Inc., 529 U.S. 1 (2000).  In 
+Michigan Academy the Court, concluding that Congress had 
+incorporated s 405(h) mutatis mutandis into the Medicare 
+Act, allowed a challenge to certain Medicare procedural regu-
+lations, reading s 405(h) as limiting review of determinations 
+but not of "the Secretary's instructions and regulations."  476 
+U.S. at 680.  Illinois Council, however, clarified "Michigan 
+Academy as holding that s 1395ii does not apply s 405(h) 
+where application of s 405(h) would not simply channel re-
+view through the agency, but would mean no review at all."  
+529 U.S. at 19.  The hospitals here argue that, because they 
+no longer have jurisdictionally valid claims before the Board 
+and because HCFAR 97-2 would not in any event apply to 
+them if they did, they will never have the opportunity to 
+challenge that ruling.  That seems like a plausible outcome.  
+But despite the intermediaries' reliance on HCFAR 97-2, the 
+ruling is separate from their denials of reopening, and under 
+the Secretary's regulations, only the intermediaries have the 
+jurisdiction to reopen.  42 C.F.R s 405.1885(c).  Jurisdiction 
+to review the ruling would do nothing to provide jurisdiction 
+over the intermediaries' denials, which would stand un-
+changed and no longer susceptible to automatic reopening, 
+given the expiration of the three-year period for reopenings 
+under s 405.1885(b).
+
+     The hospitals lastly seek mandamus jurisdiction under 28 
+U.S.C. s 1361 and relief ordering the intermediaries to re-
+open their determinations.  The Supreme Court has on sever-
+al occasions expressly reserved the question of whether 
+s 1361 jurisdiction is precluded by s 405(h).  See Your 
+Home, 525 U.S. at 456-57 n.3;  Ringer, 466 U.S. at 616-17.  
+But this court has previously determined that s 1361 jurisdic-
+tion is not barred, see Ganem v. Heckler, 746 F.2d 844, 850-
+52 (D.C. Cir. 1984), joining the virtual unanimity of circuit 
+courts.  See, e.g., Burnett v. Bowen, 830 F.2d 731, 737-38 
+(7th Cir. 1987);  Belles v. Schweiker, 720 F.2d 509, 511-13 (8th 
+Cir. 1983).  Of course, to maintain an action under s 1361, a 
+plaintiff must both exhaust available remedies and show a 
+clear non-discretionary duty.  Ringer, 466 U.S. at 616-17.
+
+     Neither party questions our ability to provide relief in the 
+absence of the intermediaries as parties to this lawsuit, but 
+we note that their non-joinder does not undermine our juris-
+diction.  The intermediaries are agents of the Secretary 
+charged with the relevant duties under the Medicare Act and 
+its regulations, and, as such, they may properly be bound by a 
+writ of mandamus against the Secretary.  See United States 
+ex rel. Rahman v. Oncology Associates, 198 F.3d 502, 511 
+(4th Cir. 1999);  Fed. R. Civ. P. 65(d).
+
+     The hospitals argue that 42 CFR s 405.1885(b) was trig-
+gered by HCFAR 97-2 and that the intermediaries therefore 
+had a non-discretionary duty to reopen their determinations.  
+The Secretary responds that the choice of whether or not to 
+advise providers that a regulation is "inconsistent with the 
+applicable law" is committed to the non-reviewable discretion 
+of the Secretary.  But the issue is not whether we may 
+review the choice to advise or not advise as to consistency 
+with applicable law;  it is whether the Secretary, acting 
+through the HCFA Administrator, in effect announced a 
+finding of inconsistency (even while purporting to veto re-
+opening).
+
+     To be sure, HCFAR 97-2 studiously avoided using the 
+magic words "inconsistent with the applicable law," and in-
+
+stead called the earlier interpretation "contrary to the appli-
+cable law in four judicial circuits."  HCFAR 97-2.  The 
+Secretary argues that HCFAR 97-2 merely "acquiesced pro-
+spectively," in the interests of national uniformity, without 
+actually admitting its illegality.  But HCFAR 97-2 also pur-
+ports to change an existing interpretation, and under the law 
+of this circuit altering an interpretive rule (interpreting an 
+agency regulation) requires notice and opportunity for com-
+ment unless, of course, the original interpretation was invalid 
+and therefore a nullity (as discussed below).
+
+     The Medicare Act places notice and comment requirements 
+on the Secretary's substantive rulemaking similar to those 
+created by the APA.  See 42 U.S.C. s 1395hh(b);  5 U.S.C. 
+s 553(b).  We have not had an opportunity to decide whether 
+the Medicare Act requirement of notice and comment for 
+"changes [of] a substantive legal standard" creates a more 
+stringent obligation than the APA or whether it somehow 
+changes the dividing line between legislative and interpretive 
+rules.2  But it seems fair to infer that, as the Medicare Act 
+was drafted after the APA, s 1385hh(c)'s reference to "inter-
+pretive rules" without any further definition adopted an ex-
+emption at least similar in scope to that of the APA.  See 
+Warder v. Shalala, 149 F.3d 73, 79 n.4 (1st Cir. 1998).  We 
+see no reason to explore the possibility of a distinction here, 
+as HCFAR 97-2 appears to have none of the indicia that 
+would lead us to think it a legislative rule under the APA.  
+See, generally, American Mining Congress v. Mine Safety & 
+Health Admin., 995 F.2d 1106, 1108-12 (D.C. Cir. 1993).  In 
+the absence of HCFAR 97-2 or its predecessor interpreta-
+tion, there would still be an "adequate legislative basis for ... 
+agency action."  Id. at 1112.  The definition of eligible inpa-
+tient days is merely an "elucidation of rights and duties 
+created by Congress" and the Secretary's legislative rule.  
+
+__________
+     2 Although no explicit exception to those requirements is made for 
+"interpretive rules," an exception is implicit in the provision for 
+periodic publication for such rules, see 42 U.S.C. s 1395hh(c), and 
+courts generally have assumed the exception.  See Health Ins. 
+Ass'n of America, Inc. v. Shalala, 23 F.3d 412, 422-23 (D.C. Cir. 
+1994).
+
+Health Ins. Ass'n of America, Inc. v. Shalala, 23 F.3d 412, 
+423 (citing American Mining Congress, 995 F.2d at 1109-10).
+
+     But characterization as an interpretive rule does not relieve 
+the Secretary of notice and comment requirements when a 
+valid interpretation exists.  In Paralyzed Veterans of Amer-
+ica v. D.C. Arena L.P., 117 F.3d 579, 586 (D.C. Cir. 1997), we 
+concluded that:  "Once an agency gives its regulation an 
+interpretation, it can only change that interpretation as it 
+would formally modify the regulation itself:  through the 
+process of notice and comment rulemaking."  See also Alaska 
+Professional Hunters Ass'n v. Federal Aviation Administra-
+tion, 177 F.3d 1030, 1033-34 (D.C. Cir. 1999);  Shell Offshore 
+Inc. v. Babbitt, 238 F.3d 622, 629 (5th Cir. 2001).  Here, a 
+valid rule interpreting a regulation was clearly in play, and it 
+was modified by HCFAR 97-2.
+
+     The new interpretation established by HCFAR 97-2 would 
+therefore be unlawful absent notice and comment rulemaking, 
+unless the original interpretation was itself invalid.  See 
+Dixon v. United States, 381 U.S. 68, 74 (1965) ("A regulation 
+which ... operates to create a rule out of harmony with the 
+statute, is a mere nullity.") (internal citations omitted).  As a 
+general rule, it is for the courts to determine whether or not a 
+regulation is invalid.  But as four circuits had already done 
+so, it certainly can't have been improper for the Secretary to 
+concede the invalidity nationally.  See Independent Petrole-
+um Ass'n of America v. Babbitt, 92 F.3d 1248, 1260 n.3 (D.C. 
+Cir. 1996).
+
+     Concluding that the Secretary did in fact give notice of the 
+interpretation's inconsistency with applicable law, we also find 
+that s 405.1885(b) imposed a clear duty on intermediaries to 
+reopen DSH payment determinations for the hospitals.  The 
+portion of HCFAR 97-2 that conflicts with that duty is simply 
+a nullity.  In addition, we think it insignificant that, because 
+of the Secretary's own three year limitation, reopening would 
+not be available if sought today.  Although mandamamus is 
+classified as a legal remedy, its issuance is largely controlled 
+by equitable principles.  See Duncan Townsite Co. v. Lane, 
+245 U.S. 308, 312 (1917).  Since both hospitals were within 
+
+the three-year mark when they made their requests for 
+reopening, they are entitled to the reopening that was due 
+them at that time.  Cf. Burnett v. Bowen, 830 F.2d 731, 736-
+41 & n.7 (7th Cir. 1987).
+
+     The Secretary argues that the hospitals have failed to 
+exhaust their remedies, because they failed to file proper 
+appeals of their NPRs under s 1395oo(a).  But that fact is 
+hardly relevant here.  The question is whether they have 
+done all they can to vindicate their right to reopening.  We 
+have already shown above how all other avenues of relief are 
+either foreclosed or futile.
+
+     Finally, the Secretary half-heartedly suggests that the 
+hospitals may have waived mandamus jurisdiction by failing 
+to specify s 1361 as one of the bases for jurisdiction until 
+their response to the Secretary's motion to dismiss.  But the 
+Secretary does not contend (apart from the arguments reject-
+ed above) that the hospitals failed to allege sufficient facts to 
+support their mandamus claim, the essential test for legal 
+sufficiency.  See Richardson v. U.S., 193 F.3d 545, 549 (D.C. 
+Cir. 1999).  Nor does the Secretary argue that the govern-
+ment was in any way prejudiced by the trustees' failure to list 
+s 1361 in their complaints.  The government has at best 
+identified a procedural failing that would easily have been 
+remedied by a request to amend the complaints that in no 
+way affects our authority to consider issuance of a writ.  See 
+Caribbean Broadcasting System, Ltd. v. Cable & Wireless 
+P.L.C., 148 F.3d 1080, 1083-84 (D.C. Cir. 1998);  Fed R. Civ. 
+P. 15(a).  Indeed courts can treat certain requests for manda-
+tory injunctions as petitions for a writ of mandamus, see, e.g., 
+National Wildlife Federation v. U.S., 626 F.2d 917, 918 n.1 
+(D.C. Cir. 1980), and habeas petitions as ones for mandamus, 
+see, e.g., United States ex rel. Schonbrun v. Commanding 
+Officer, 403 F.2d 371, 374 (2d Cir. 1968);  Long v. Parker, 390 
+F.2d 816, 818-819 (3d Cir. 1968).
+
+     Accordingly, the judgment of the district court is reversed 
+and the case remanded for further proceedings consistent 
+with this opinion.
+
+                                                                  So ordered.
+
+                                      

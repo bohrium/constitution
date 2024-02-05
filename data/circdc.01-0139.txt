@@ -1,0 +1,778 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued January 11, 2001    Decided June 8, 2001 
+
+                           No. 99-1543
+
+              Small Business in Telecommunications, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+             On Petition for Review of Orders of the 
+                Federal Communications Commission
+
+     Robert H. Schwaninger, Jr. argued the cause for the 
+petitioner.
+
+     Roberta L. Cook, Counsel, Federal Communications Com-
+mission, argued the cause for the respondents.  Christopher 
+J. Wright, General Counsel, and Daniel M. Armstrong, Asso-
+ciate General Counsel, Federal Communications Commission, 
+A. Douglas Melamed, Acting Assistant Attorney General, and 
+
+Catherine G. O'Sullivan and Andrea Limmer, Attorneys, 
+United States Department of Justice, were on brief.
+
+     Before Henderson, Rogers and Tatel, Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  The petitioner, 
+Small Business in Telecommunications (SBT), seeks to chal-
+lenge rulemaking orders of the Federal Communications 
+Commission (FCC or Commission) that, inter alia, devised 
+service and competitive bidding rules as well as technical and 
+operational rules for 800 MHz Specialized Mobile Radio 
+(SMR) service.1  For the reasons set forth below, we dismiss 
+the petition for review with respect to the Upper Channel 
+First Reconsideration Order and deny the petition with re-
+spect to the Lower Channel Report and Order and the Lower 
+Channel Reconsideration Order.
+
+                            Background
+
+     In 1974 the FCC created the SMR service.  SMR licensees 
+use bandwidth2 in the 800 MHz and 900 MHz ranges to 
+
+__________
+     1 The rulemakings include:  In the Matter of Amendment of Part 
+90 of the Commission's Rules to Facilitate Future Development of 
+SMR Systems in the 800 MHz Frequency Band, Second Report and 
+Order, 12 F.C.C.R. 19,079 (1997) [Lower Channel Report and 
+Order], In the Matter of Amendment of Part 90 of the Commission's 
+Rules to Facilitate Future Development of SMR Systems in the 800 
+MHz Frequency Band, Memorandum Opinion and Order on Recon-
+sideration, 12 F.C.C.R. 9972 (1997) [Upper Channel First Reconsid-
+eration Order] and In the Matter of Amendment of Part 90 of the 
+Commission's Rules to Facilitate Future Development of SMR 
+Systems in the 800 MHz Frequency Band, Memorandum Opinion 
+and Order on Reconsideration, 14 F.C.C.R. 17,566 (1999) [Lower 
+Channel Reconsideration Order].
+
+     2 Bandwidth is "[t]he capacity of a telecom line to carry signals.  
+The necessary bandwidth is the amount of spectrum required to 
+transmit the signal without distortion or loss of information.  FCC 
+rules require suppression of the signal outside the band to prevent 
+interference." Federal Communications Comm'n, What We're All 
+
+provide "land mobile communications services" on a commer-
+cial basis.  47 C.F.R. s 90.7.  In order to accommodate new 
+uses of the bandwidth, including cellular telephone and data 
+transmission services, and to respond to changes in statutory 
+law, see Fresno Mobile Radio, Inc. v. FCC, 165 F.3d 965, 967 
+(D.C. Cir. 1999), in 1995 the Commission adopted a regime for 
+the upper 200 channels of the SMR bandwidth which planned 
+to auction licenses for each of 175 newly-designated Economic 
+Areas (EA).  Each EA license includes a large block of 
+spectrum3 for an entire geographic area, thereby making 
+transmitter-by-transmitter and channel-by-channel licensing 
+unnecessary.  To help EA licensees obtain the contiguous 
+spectrum needed to provide competitive wide-area services, 
+the Commission determined that any EA licensee can require 
+any incumbent SMR licensee to relocate to the lower 230 
+channels of the SMR spectrum, provided the EA licensee 
+gives the displaced licensee comparable facilities and spec-
+trum, pays its relocation expenses and ensures a "seamless" 
+transition between the old and new frequencies.  See In the 
+Matter of Amendment of Part 90 of the Commission's Rules 
+to Facilitate Future Development of SMR Systems in the 800 
+MHz Frequency Band, First Report and Order, 11 F.C.C.R. 
+1463 (1995).  Although the Commission adhered to the new 
+regulatory scheme for the upper 200 channels of SMR band-
+width, it ultimately changed its procedure to give small 
+businesses an advantage in the auction process by allowing 
+bidding credits for which only small businesses could qualify.4 
+It maintained its two-tiered definitions of small business but 
+adjusted for the deletion of the installment payment plan.  
+See Upper Channel First Reconsideration Order, 12 F.C.C.R. 
+9972, pp 125-34.
+
+__________
+About:  A Consumer's Guide to the FCC (FCC Handbook) 2001, 
+available at http://www.fcc.gov/cib/handbook.html.
+
+     3 Spectrum is "[t]he range of electromagnetic radio frequencies 
+used in the transmission of sound, data and television."  FCC 
+Handbook, supra.
+
+     4 Previously it had allowed them to pay for their license in 
+installments.
+
+     In June 1997 the Commission adopted a similar set of rules 
+for the lower 230 channels.  Again, the FCC decided to 
+auction the new EA licenses, each of which was intended to 
+cover a wide geographic area and a large block of spectrum.  
+As before, the Commission decided to aid small businesses 
+with bidding credits but deferred deciding whether to elimi-
+nate installment payments.  It again used the two-tiered 
+definitions of small business based on average gross revenue.  
+The FCC also required an EA licensee displacing an incum-
+bent licensee to reimburse the incumbent for relocation ex-
+penses.  See Lower Channel Report and Order, 12 F.C.C.R. 
+19,079, pp 123-25, 272-87.
+
+     On September 2, 1997 the petitioner filed two petitions for 
+reconsideration.  One requested the FCC to reconsider por-
+tions of the Lower Channel Report and Order while the other 
+sought reconsideration of the Upper Channel First Reconsid-
+eration Order. On October 24, 1997 the petitioner filed a 
+"Consolidated Supplement to Petitions for Reconsideration," 
+contending that the FCC failed to obtain the requisite ap-
+proval of its "small business" definitions from the Small 
+Business Administration (SBA).  JA 563.  The last paragraph 
+of the Consolidated Supplement requested "that the Commis-
+sion reconsider its Orders in accord with the foregoing, obtain 
+necessary prior approval from the Small Business Adminis-
+tration, provide necessary time prior to the scheduling of its 
+auction in accord with 47 U.S.C. s 309(j)(3(E) [sic], and take 
+such other action that is necessary to cause its decisions and 
+Orders to be rendered in accord with applicable statutory 
+law."  JA 566.
+
+     On October 8, 1999 the FCC issued its Lower Channel 
+Reconsideration Order, in which it addressed the issues 
+raised both in SBT's petition for reconsideration of the Lower 
+Channel Report and Order and in SBT's Consolidated Sup-
+plement.  The Commission rejected the petitioner's conten-
+tion that the failure to obtain SBA approval of the "small 
+business" definitions suspended the operation of the Lower 
+Channel Report and Order until the SBA's approval was 
+secured, explaining that the SBA had by then approved the 
+definitions.  Lower Channel Reconsideration Order, 14 
+
+F.C.C.R. 17,566, p 87 n.251.  The Commission also "reiterated 
+that payment of relocation costs" by an EA licensee to an 
+incumbent licensee "will not be due until the incumbent has 
+been fully relocated and the frequencies are free and clear." 
+Id. at p 58.  On October 19, 1999 the petitioner filed a petition 
+for review of both the Lower Channel Reconsideration Order 
+and the Lower Channel Report and Order as well as the 
+Upper Channel First Reconsideration Order.  See Small 
+Business in Telecommunications v. FCC, No. 99-1419 (D.C. 
+Cir. filed Oct. 19, 1999).  The respondents moved to dismiss 
+on the ground that the petition was premature because the 
+Lower Channel Reconsideration Order had not yet been 
+published in the Federal Register.  The petitioner then 
+moved for voluntary dismissal, which the court granted.  The 
+Lower Channel Reconsideration Order was subsequently 
+published in the Federal Register on December 20, 1999.  64 
+Fed. Reg. 71,042.
+
+     On December 2, 1999 the FCC issued its Upper Channel 
+Second Reconsideration Order, denying the petitioner's peti-
+tion for reconsideration of the Upper Channel First Recon-
+sideration Order.  The Commission stayed with its decision 
+to eliminate installment payments, rejecting the contention 
+that installment payments were necessary to ensure "a mean-
+ingful opportunity" for small businesses to participate in the 
+800 MHz SMR auction.  See In the Matter of Amendment of 
+Part 90 of the Commission's Rules to Facilitate Future 
+Development of SMR Systems in the 800 MHz Frequency 
+Band, Second Memorandum Opinion and Order on Reconsid-
+eration, 14 F.C.C.R. 21,068, p 3 (1999) [Upper Channel Sec-
+ond Reconsideration Order].  The Upper Channel Second 
+Reconsideration Order was published in the Federal Register 
+on July 14, 2000.
+
+     On December 29, 1999 the petitioner filed a petition "for 
+review of the Federal Communications Commission's Memo-
+randum Opinion and Order on Reconsideration In the Mat-
+ter of Amendment of Part 90 of the Commission's Rules;  
+Implementation of Sections 3(n) and 332 of the Communica-
+tions Act;  and Implementation of Section 309(j) of the 
+Communications Act adopted on September 30, 1999 [Lower 
+
+Channel Reconsideration Order]."  Petition for Review, No. 
+99-1543 (filed Dec. 29, 1999).  On January 6, 2000 the peti-
+tioner filed a "Certificate as to Parties, Rulings and Related 
+Cases," noting the above cited Lower Channel Reconsidera-
+tion Order as well as the Lower Channel Report and Order.  
+Certificate as to Parties, Rulings and Related Cases, No. 
+99-1543 (filed Jan. 6, 2000).  On April 24, 2000 the petitioner 
+moved to amend the Certificate to "include Amendment of 
+Part 90 of the Commission's Rules to Facilitate Future 
+Development of SMR Systems in the 800 MHz Frequency 
+Band, PR Docket No. 93-144, Memorandum Opinion and 
+Order on Reconsideration, 12 FCC Rcd 9972 (1997) [Upper 
+Channel First Reconsideration Order], as a ruling under 
+review."  Motion to Amend Certificate as to Parties, Rulings 
+and Related Cases, No. 99-1543 (filed Apr. 24, 2000).  The 
+petitioner's motion declared that the Upper Channel First 
+Reconsideration Order "is an underlying Order to the [Lower 
+Channel Reconsideration Order] released on October 8, 1999 
+in the same matter, which order is the primary order on 
+review in the above-captioned case."  Id.  The motion was 
+granted on April 28, 2000.
+
+                            Discussion
+
+     The petitioner argues that in issuing the Lower Channel 
+Report and Order, Lower Channel Reconsideration Order 
+and Upper Channel First Reconsideration Order, the FCC 
+violated (1) 15 U.S.C. s 632(a)(2)(C)(iii) and 5 U.S.C. s 553(d) 
+by failing to obtain prior SBA approval of its "small business" 
+definitions, (2) 47 U.S.C. s 309(j) by failing to allow interested 
+parties sufficient time to participate in the 800 MHz SMR 
+auction and (3) 5 U.S.C. s 604(a)(5) by failing to address the 
+economic impact of relocation on "small business" incumbent 
+licensees.  Because we dispose of the petitioner's challenges 
+to the upper and lower channel orders in different ways, we 
+address the orders separately.
+
+     A.   Upper Channel First Reconsideration Order
+          
+     The Federal Rules of Appellate Procedure "govern proce-
+dure in the United States courts of appeal," Fed. R. App. P. 
+
+1, as do the Circuit Rules of our Circuit.  See Circuit Rule 1.  
+Rule 15(a) of the Federal Rules of Civil Procedure requires 
+that a petition for review "specify the order or part thereof to 
+be reviewed."  Fed. R. App. P. 15(a)(2)(C).  "Failure to 
+specify the correct order can result in dismissal of the peti-
+tion."  Entravision Holdings, LLC v. FCC, 202 F.3d 311, 312 
+(D.C. Cir. 2000).  "A mistaken or inexact specification of the 
+order to be reviewed will not be fatal to the petition, however, 
+if the petitioner's intent to seek review of a specific order can 
+be fairly inferred from the petition for review or from other 
+contemporaneous filings, and the respondent is not misled by 
+the mistake."  Id. at 313 (collecting cases).  It is undisputed 
+that the petitioner failed to specify the Upper Channel First 
+Reconsideration Order in its petition for review filed Decem-
+ber 29, 1999.5  Accordingly, we examine not only the petition 
+for review but also other documents contemporaneously filed 
+therewith to determine whether we can fairly infer the peti-
+tioner's intent to seek review of the Upper Channel First 
+Reconsideration Order.  Our caselaw provides instructions 
+for undertaking this task.
+
+     In Entravision Holdings LLC v. FCC, the petitioner, En-
+travision, specified only the order denying reconsideration 
+and not the underlying order it later sought to challenge in its 
+brief.  Entravision, 202 F.3d at 312.  Even though Entravi-
+sion's petition noted the underlying order in setting out the 
+history of the proceedings, the court held that it could not 
+determine whether Entravision intended to seek review of the 
+underlying order.  It then looked at Entravision's contempo-
+raneous filings.  See id. at 314.  Entravision's docketing 
+statement,6 filed within one month of its petition, also speci-
+
+__________
+     5 As already noted, although the petitioner's October 19, 1999 
+petition for review included the Upper Channel First Reconsidera-
+tion Order, the petitioner voluntarily dismissed that petition on 
+December 20, 1999.
+
+     6 Under D.C. Circuit Rules the docketing statement "must be on 
+a form furnished by the clerk's office and contain such information 
+as the form prescribes" including case name, type of case and 
+identifying information about the order to be reviewed.  Circuit 
+
+fied only the reconsideration order.  Additionally, Entravi-
+sion's "Preliminary Statement of Issues,"7 filed the same day, 
+identified only two issues, "both of which relate[d] exclusively 
+to the Commission's denial of reconsideration."  Id.  After 
+looking at the contemporaneously filed documents as well as 
+the petition for review, the court concluded that it "cannot 
+fairly infer that [Entravision] intended to seek review of the 
+[underlying order]."  Id.
+
+     By contrast, in Martin v. FERC, 199 F.3d 1370, 1371-73 
+(D.C. Cir. 2000), the court held that the petitioner's intent to 
+seek review of the Certificate Order, instead of the Rehearing 
+Order specified in its petition, was evident from a contempo-
+raneously filed (same day) motion to stay.  The court found 
+that by attaching to the motion a copy of his application for 
+rehearing, in which the petitioner took issue with the Certifi-
+cate Order, the petitioner had sufficiently identified the Cer-
+tificate Order as the order from which his challenge to the 
+Commission action arose.  Additionally, the court found that 
+the nature of the motion to stay itself sufficed to indicate that 
+the petitioner's purpose in filing his petition for review was to 
+obtain review of the Certificate Order.  The court also looked 
+at the docketing statement which "indicated he was challeng-
+ing the Certificate Order as well as the Rehearing Order."  
+Id. at 1373.  Finally, the court found that the Commission 
+understood the petitioner to be challenging the Certificate 
+Order as was apparent from its responsive filings.  See id.;  
+see also Schoenbohm v. FCC, 204 F.3d 243, 245-46 (D.C. Cir. 
+
+__________
+Rule 15(c).  "Attached to the docketing statement must be a 
+provisional certificate ... setting forth the information required by 
+Circuit Rule 28(a)(1)," which includes parties and amici, rulings 
+under review and related cases.  Circuit Rule 15(a)(3);  see Circuit 
+Rule 28(a)(1).
+
+     7 The court routinely requests a "Preliminary Statement of Is-
+sues" as part of the information included with the Docketing 
+Statement.  See Circuit Rule 15(c)(2);  D.C. Circuit Handbook of 
+Practice and Internal Procedures ss IV.A3 & IV.B, at 21-22 ("The 
+docketing statement includes ... a non-binding preliminary state-
+ment of the issues involved....");  see also United States v. Pogue, 
+19 F.3d 663, 666 & n.2 (D.C. Cir. 1994) (per curiam).
+
+2000) (fair to infer intent from "concise statement of reasons" 
+required by 47 U.S.C. s 402(c) to be filed together with notice 
+of appeal, which failed to specify correct decision).
+
+     We came to the opposite conclusion in Southwestern Bell 
+Telephone Co. v. FCC, 180 F.3d 307, 313 (D.C. Cir. 1999).  
+There, the petitioner, Southwestern Bell, requested the court 
+to consider its petition for review of a reconsideration order, 
+which the court held was unreviewable, to include an investi-
+gation order, which was reviewable.  The court denied the 
+request.  It noted that the petition for review named only the 
+reconsideration order and only that order was appended to 
+the petition, see id., and that the docketing statement men-
+tioned and attached only the reconsideration order.  Finally, 
+the court stated that Southwestern Bell's Preliminary State-
+ment of Issues both began and ended by referring to the 
+reconsideration order and included only those issues raised in 
+its petition for reconsideration.  The court concluded:  "In 
+short, nothing prior to the brief filed in this court (by 
+appellate counsel) gave the Commission any notice of South-
+western Bell's intent to seek review of the Investigation 
+Order.  Nor should that intent have been obvious."  Id.
+
+     In City of Benton v. NRC, 136 F.3d 824 (D.C. Cir. 1998) 
+(per curiam), the petitioner conceded that it had named the 
+wrong order in its petition.  Nevertheless, it argued that the 
+Nuclear Regulatory Commission was not prejudiced because 
+the agency knew which order it wanted to challenge.  The 
+court explained that "[w]hichever order ACC intended to ask 
+the court to review, it named the wrong order in its petition.  
+Fed. R. App. P. 15(a) requires that ACC's petition be dis-
+missed for failing properly to designate the order to be 
+challenged."  Id. at 826 (emphasis original).  The court, citing 
+John D. Copanos & Sons, Inc. v. FDA, 854 F.2d 510, 527 
+(D.C. Cir. 1988), noted that a petition for review designating 
+only one order issued in an administrative proceeding was not 
+adequate to obtain review of any other order included in the 
+same administrative record.  The court rejected the reason-
+ing of Castillo-Rodriguez v. INS, 929 F.2d 181, 183 (5th Cir. 
+1991) (refusing "to allow a mere technicality in pleading to 
+
+result in a denial of an opportunity for petitioner to obtain a 
+decision on the merits" and concluding "that we should treat 
+the petition for review of the immigration judge's order as 
+'effective, although inept, attempt' to seek review of the final 
+order of the Board"), and dismissed the petition.
+
+     These cases illustrate that the court considers not only the 
+contents of the petition for review but also any documents 
+affixed thereto or filed contemporaneously therewith in ascer-
+taining the petitioner's intent.  Here SBT failed to designate 
+in its petition for review the order that it ultimately chal-
+lenged in its brief.  SBT's "Petition for Review" named only 
+the Lower Channel Reconsideration Order;  it included nei-
+ther the Upper Channel First Reconsideration Order nor the 
+Upper Channel Second Reconsideration Order.  SBT at-
+tached only the Lower Channel Reconsideration Order to its 
+petition.  Likewise, SBT's "Certificate As To Parties, Rulings 
+and Related Cases," filed January 6, 1999, failed to mention 
+either upper channel order;  the Certificate designated only 
+the Lower Channel Reconsideration Order and the underly-
+ing Lower Channel Report and Order.8
+
+     SBT also filed a "Docketing Statement" on January 6, 1999, 
+listing the docket numbers as "PR Doc. No. 93-144;  GN Doc. 
+No. 93-252;  PP Doc. No. 93-253."  In Entravision, Martin 
+and Southwestern Bell, the court considered the Docketing 
+Statement as a contemporaneous filing from which it could 
+infer the petitioner's intent.  Although the two lower channel 
+and two upper channel orders at issue share the same docket 
+number, the manner in which the petitioner described the 
+dates of the orders indicates to us that it sought review of the 
+lower channel orders only.  It described the orders as:  "Re-
+leased Dates:  MO&O, 10/8/99;  Second Order, 7/10/97."  Its 
+use of "Second Order" instead of "Second Orders" or "Second 
+
+__________
+     8 The "Statement of Issues" which prefaced the Certificate did 
+include two issues that referred to "the FCC's scheduling of the 800 
+MHz auction."  Requested Information, No. 99-1543 (filed Jan. 6, 
+2000).  The petitioner did not argue, and we do not find, that these 
+references allow us to fairly infer that the petitioner sought review 
+of the Upper Channel First Reconsideration Order.
+
+Order and Reconsideration Order" manifests that it sought 
+review of only one of the July 10, 1997 orders.  SBT's 
+description of the challenged order as "Second Order" also 
+indicates that it sought review of the Lower Channel Report 
+and Order, which was entitled "Second Report and Order," 
+and not the Upper Channel First Reconsideration Order, 
+which was entitled "Memorandum Opinion and Order on 
+Reconsideration."  And, as we have held in the past, the 
+petitioner's designation of only one order does not "suffice[ ] 
+to obtain review of any other order that is part of the same 
+administrative record" even if the order specified has the 
+same docket number as another order sought to be reviewed.  
+John D. Copanos & Sons, 854 F.2d at 527.
+
+     On April 24, 2000, almost four months after it filed its 
+petition for review, SBT filed a "Motion to Amend Certificate 
+as to Parties, Rulings and Related Cases."  We do not regard 
+this document to be a filing contemporaneous with the peti-
+tion for review.  The dictionary definition of "contemporane-
+ous" is "existing or occurring during the same time."  Web-
+ster's Third International Dictionary 491 (1981).9  We use 
+the term "contemporaneous filing" to include documents filed 
+at or near the same time as the petition for review.  See, e.g., 
+Entravision, 202 F.3d at 313-14;  Martin, 199 F.3d at 1371-
+73.  Although these documents can include "Docketing State-
+ments," "Certificates as to Parties, Rulings and Related 
+
+__________
+     9 We acknowledge that while courts use the term "contemporane-
+ous" to mean "close in time," it is a relative term.  For example, 
+under the contemporaneous construction doctrine, a court or agency 
+decision or practice interpreting an ambiguous statute may be 
+considered a contemporaneous construction even though the inter-
+preting act occurs months or even one year or more after the 
+statute was enacted.  See Andrus v. Shell Oil Co., 446 U.S. 657, 673 
+n.12 (1980);  Norwegian Nitrogen Prods. Co. v. United States, 288 
+U.S. 294, 315 (1933).  On the other hand, under the contemporane-
+ous objection rule, an objection to the admission of evidence may 
+not be considered a contemporaneous objection even if made within 
+a few minutes of the objected-to admission.  See Henry v. Missis-
+sippi, 379 U.S. 443 567-68 (1965);  Wilson v. Waggener, 837 F.2d 
+220, 222 (5th Cir.1988).
+
+Cases," and "Statements of Issues" as well as documents 
+attached to the petition for review, the petitioner's motion to 
+amend filed almost four months after its petition for review is 
+plainly not a contemporaneous filing.10  Moreover, we could 
+easily conclude from the motion to amend that it was not 
+SBT's intent to seek review of the Upper Channel First 
+Reconsideration Order at the time it filed the petition for 
+review, but instead an afterthought occurring several months 
+down the road.11  Accordingly, we find nothing in the petition 
+for review or documents filed contemporaneously therewith 
+from which we can fairly infer that the petitioner sought 
+review of the Upper Channel First Reconsideration Order in 
+its petition for review.12
+
+     The petitioner next argues that the Lower Channel Report 
+and Order and the Upper Channel First Reconsideration 
+Order are part of a single consolidated rulemaking, thereby 
+making the separate identification of the upper channel order 
+surplusage.  To support its contention, SBT points to its 
+"Consolidated Supplement to Petitions for Reconsideration" 
+
+__________
+     10 SBT maintains that its failure to specify the Upper Channel 
+First Reconsideration Order was a ministerial oversight which "was 
+corrected by amendment accepted by the Court," relying on this 
+court's opinion in City of Oconto Falls v. FERC, 204 F.3d 1154, 1160 
+(D.C. Cir. 2000).  But our holding in Oconto Falls does not depart 
+from our decisions in Entravision, Martin, Southwestern Bell and 
+City of Benton:  It did not hold that a brief, or any document not 
+filed contemporaneously with the petition for review (like the mo-
+tion to amend here), may be considered a contemporaneous filing 
+from which a court may infer intent.
+
+     11 After all, in its original October 19, 1999 petition for review 
+(subsequently voluntarily dismissed), SBT specified each of the 
+lower channel orders and the Upper Channel First Reconsideration 
+Order, manifesting that it knew how to specify the orders it sought 
+to challenge.
+
+     12 SBT asserts that the FCC would not be prejudiced by our 
+review of the Upper Channel First Reconsideration Order.  But we 
+consider prejudice to the opposing party only if we first find it fair 
+to infer the petitioner's intent.  See City of Benton, 136 F.3d at 
+826-27.
+
+filed October 24, 1997, maintaining that it worked to combine 
+the two petitions for reconsideration, both of which were 
+denied in the Lower Channel Reconsideration Order.  Never-
+theless, SBT had filed two separate petitions for reconsidera-
+tion:  The first "request[ed] that the Commission reconsider 
+its decisions within [the Lower Channel Report and Order]." 
+JA 477.  The second, filed the same day, "request[ed] that 
+the Commission reconsider its decisions within its [Upper 
+Channel First Reconsideration Order]."  JA 511.  The filing 
+of two separate petitions for reconsideration indicates not 
+only that the Lower Channel Report and Order and the 
+Upper Channel First Reconsideration Order are separate 
+orders but also that SBT viewed them as such notwithstand-
+ing they arose from the same rulemaking proceeding.
+
+     Contrary to SBT's claim, moreover, its Consolidated Sup-
+plement nowhere expressly requested that the Commission 
+consolidate the petitions for reconsideration.  Rather, it ar-
+gued that the Commission failed to obtain SBA approval of its 
+"small business" definitions in the Commission's 1997 orders.  
+JA 563.  The FCC responded separately to the issues raised 
+in the Supplement, addressing only the issues regarding the 
+lower channel rulemaking in the Lower Channel Reconsidera-
+tion Order.  See Lower Channel Reconsideration Order, 14 
+F.C.C.R. 17,566, p 87 n.251.  Although the Appendix to the 
+Lower Channel Reconsideration Order, listing the petitions 
+addressed in the order, noted an SBT petition for reconsider-
+ation as well as SBT's Supplement, by the time the petitioner 
+filed its petition for review (on December 29, 1999), the FCC 
+had issued its Upper Channel Second Reconsideration Order, 
+putting SBT on notice that the FCC had also denied SBT's 
+petition for reconsideration of the Upper Channel First Re-
+consideration Order.  The petitioner's argument that the 
+Commission's Lower Channel Reconsideration Order ignored 
+issues included in its petition for reconsideration of the Upper 
+Channel First Reconsideration Order further manifests that 
+SBT believed the FCC treated the petitions separately, re-
+sponding to one in its Lower Channel Reconsideration Order 
+and to the other in its Upper Channel Second Reconsidera-
+tion Order.  Accordingly, we must dismiss SBT's petition for 
+
+review to the extent that it attempts to challenge the Upper 
+Channel First Reconsideration Order because it failed to 
+designate that order in accordance with Fed. R. App. P. 
+15(a)(C).
+
+     Even if we found no violation of Rule 15(a)(C), we would 
+nevertheless dismiss the challenge to the Upper Channel 
+First Reconsideration Order because it is incurably prema-
+ture.  A party that files a petition for reconsideration before 
+an agency "render[s] the underlying agency action nonfinal 
+(and hence unreviewable) with respect to th[at] party."  Unit-
+ed Transp. Union v. ICC, 871 F.3d 1114, 1116 (D.C. Cir. 
+1989).  "Therefore, a party that stays before an agency to 
+seek reconsideration of an order cannot at the same time 
+appear before a court to seek review of that same order, any 
+more than the party could literally be in two places at the 
+same time."  BellSouth Corp. v. FCC, 17 F.3d 1487, 1489 
+(D.C. Cir. 1994).
+
+     The petitioner filed a separate petition for reconsideration 
+of each of the 1997 SMR orders.  Its two petitions had the 
+effect of making both the Lower Channel Report and Order 
+and the Upper Channel First Reconsideration Order nonfinal 
+as to it, for the purpose of judicial review, until "entry" of the 
+Lower Channel Reconsideration Order and of the Upper 
+Channel Second Reconsideration Order respectively.  See 28 
+U.S.C. s 2344.  28 U.S.C. s 2344 "imposes a jurisdictional 
+bar to judicial consideration of petitions filed prior to entry of 
+the agency orders to which they pertain."  Western Union 
+Tel. Co. v. FCC, 773 F.2d 375, 378 (D.C. Cir. 1985).  "Entry of 
+the agency order[ ]" occurs on the date the Commission gives 
+public notice of the order.  See 47 U.S.C. s 405;  47 C.F.R. 
+s 1.103(b);  Western Union Tel. Co., 773 F.2d at 376. The 
+FCC's rules identify the date of public notice as "the date of 
+publication in the Federal Register."  47 C.F.R. s 1.4(b).  On 
+December 29, 1999, the date the petitioner filed its petition 
+for review, the Upper Channel Second Reconsideration Order 
+denying the petitioner's petition for reconsideration of the 
+Upper Channel First Reconsideration Order had not been 
+
+entered,13 making the petition for review "incurably prema-
+ture" as to the Upper Channel First Reconsideration Order.  
+BellSouth, 17 F.3d at 1490.
+
+     SBT responds that the Upper Channel Second Reconsider-
+ation Order was a duplicate order "which again denied SBT's 
+consolidated petitions and supplement."  Reply Br. 12.  We 
+fail to understand how the petitioner could have "rightfully 
+determined that although the duplicate Order did add to the 
+record, it was not significant for the purpose of the Court's 
+jurisdiction."  Id.  Aside from its bare assertion, the petition-
+er has no record support for its claim.  Paragraph six of the 
+Lower Channel Reconsideration Order states:  "In response 
+to the [Lower Channel Report and Order], the Commission 
+received a number of pleadings requesting reconsideration, 
+modification or clarification of its rules relating to mandatory 
+relocations, co-channel interference, spectrum block size, geo-
+graphic area licensing, and partitioning and disaggregation.  
+We address these concerns below."  14 F.C.C.R. 17,566 at 
+p 6.  Throughout the "Discussion" portion of the Lower Chan-
+nel Reconsideration Order, the Commission primarily re-
+ferred to the Lower Channel Report and Order.  Although it 
+did mention the Upper Channel First Reconsideration Order 
+in a limited context, see, e.g., id. at  pp 33, 41, 70, it addressed 
+only those arguments presented in SBT's petition for recon-
+sideration of the Lower Channel Report and Order,14 not 
+SBT's petition for reconsideration of the Upper Channel First 
+Reconsideration Order.15  We thus find no merit in SBT's 
+
+__________
+     13 Entry of the Upper Channel Second Reconsideration Order 
+occurred on July 14, 2000.  65 Fed. Reg. 43,716.
+
+     14 For example, footnote 35 of the Lower Channel Reconsidera-
+tion Order cites "SBT Petition at 7, n.5."  Id. at p 12 n.35.  Only the 
+petitioner's petition for reconsideration of the Lower Channel Re-
+port and Order has a footnote on its seventh page.
+
+     15 Footnote 1 of the Upper Channel Second Reconsideration 
+Order notes that the Industrial Telecommunications Association, 
+Inc. filed a single Petition for Clarification and Reconsideration of 
+both the Lower Channel Report and Order and the Upper Channel 
+First Reconsideration Order.  The FCC explained that it addressed 
+
+contention that the Upper Channel Second Reconsideration 
+Order was a duplicate order relieving it of the obligation to 
+separately challenge that order.
+
+     B.   Lower Channel Orders
+          
+     We turn to SBT's challenge to the Lower Channel Report 
+and Order and Lower Channel Reconsideration Order.  SBT 
+makes two claims:  (1) the FCC's failure to obtain SBA 
+approval of its small business definitions violated 15 U.S.C. 
+s 632(a)(2)(C)(iii) and 5 U.S.C. s 553(d) and (2) the Commis-
+sion's Final Regulatory Flexibility Act (FRFA) analysis in the 
+Lower Channel First Report and Order was invalid under 5 
+U.S.C. s 604(a)(5).
+
+     15 U.S.C. s 632(a)(2)(C) provides:  "Unless specifically au-
+thorized by statute, no Federal department or agency may 
+prescribe a size standard for categorizing a small business 
+concern, unless such proposed size standard ... (iii) is ap-
+proved by the Administrator [of the SBA]."  SBT argues that 
+in failing to obtain the SBA Administrator's prior approval of 
+its definition of "small business," the FCC violated its statuto-
+ry duties under Title 15 and Title 5.  The FCC acknowledges 
+that it did not have SBA approval at the time it adopted the 
+Lower Channel Report and Order on June 23, 1997.  Never-
+theless the SBA had approved the definitions before the FCC 
+commenced the lower channel auction, see JA 609 (Aug. 10, 
+1999 approval letter for lower channel auction).  The SBA's 
+tardy approval does not, in our view, nullify the entire 
+rulemaking;  the SBA approved the definitions before the 
+auction and SBT failed to show that any of its members were 
+
+__________
+the issues raised in that petition in its Lower Channel Reconsidera-
+tion Order.  While the FCC's notation may have recognized that 
+the 1997 orders contained overlapping issues, at the same time the 
+Commission sent a clear message to SBT that the FCC did not 
+consider its petitions to be consolidated and that the Lower Channel 
+Reconsideration Order did not address issues raised in SBT's 
+petition for reconsideration of the Upper Channel First Reconsider-
+ation Order.
+
+harmed in any way by the timing of the SBA approval.16
+
+     The petitioner next asserts that the FRFA analysis con-
+tained in the Lower Channel First Report and Order violated 
+5 U.S.C. s 604(a)(5).  Pursuant to 5 U.S.C. s 604(a)(5) an 
+agency is required to include in its FRFA analysis "a descrip-
+tion of the steps the agency has taken to minimize the 
+significant economic impact on small entities consistent with 
+the stated objectives of applicable statutes."  The petitioner 
+challenges the FCC's decision to require EA licensees to pay 
+relocation costs to an incumbent licensee for expenses in-
+curred from relocating from the upper 200 channels to the 
+lower 230 channels only after the relocation is complete and 
+the upper channel frequencies are clear.  See Lower Channel 
+Reconsideration Order, 12 F.C.C.R. 17,566  pp 57-58.  It 
+maintains that the FCC failed to describe what steps it took 
+to minimize the economic impact on the small incumbent 
+licensees that will have to pay relocation costs up front.
+
+     Acknowledging that the Lower Channel Reconsideration 
+Order is unclear on when incumbent licensees will be reim-
+bursed for relocation costs,17 the Commission asked that the     
+
+__________
+     16 SBT claims that the FCC knowingly published a misrepresen-
+tation by stating, erroneously, in its FRFA analysis accompanying 
+the Lower Channel Report and Order that the SBA "has approved 
+these definitions for 800 MHz SMR services."  Although SBT did 
+bring the issue of SBA approval to the attention of the Commission 
+in its Consolidated Supplement, it never claimed before now that 
+the FCC misrepresented the facts. Because the Commission was 
+not given "a meaningful 'opportunity to pass' on the issue," the 
+claim is not properly before this court.  See 47 U.S.C. s 405;  
+Bartholdi Cable Co., Inc. v. FCC, 114 F.3d 274, 280 (D.C. Cir. 1997).
+
+     17 In the Lower Channel Report and Order, the Commission 
+addressed when an EA licensee must reimburse another EA licen-
+see for costs associated with relocating an incumbent licensee.  See 
+Lower Channel Report and Order, 12 F.C.C.R. 19,079, at  pp 120-25.  
+But the Commission did not address the timing of payments 
+between EA licensees and incumbent licensees.  In response to 
+petitions for reconsideration filed by the AMTA and the Personal 
+Communications Industry Association (PCIA), which contended that 
+incumbent licensees should be reimbursed for relocation costs as 
+those expenses are incurred, see Lower Channel Reconsideration 
+
+court await the Commission's decision on a petition for clarifi-
+cation filed by the American Mobile Telecommunications As-
+sociation, Inc. (AMTA).  The FCC subsequently reconsidered 
+the issue in "In the Matter of Amendment of Part 90 of the 
+Commission's Rules to Facilitate Future Development of 
+SMR Systems in the 800 MHz Frequency Band," FCC 01-33 
+(released February 2, 2001) [Lower Channel Second Recon-
+sideration Order].  The FCC noted that "neither the [Lower 
+Channel Report and Order] nor the [Lower Channel Recon-
+sideration Order] adequately addressed the question of when 
+incumbent licensees should be repaid for their involuntary 
+relocation costs."  Id. p 7.  It explained that, because EA 
+licensees bear the costs of building and testing the replace-
+ment system, "it is clear that the primary cost burden for 
+involuntary relocations rests on the EA licensee, not the 
+incumbent."  Id. p 8.  It therefore concluded that to the 
+extent the incumbent may incur additional relocation costs, 
+they will be reimbursed by the EA licensee after relocation is 
+complete.  Id. pp 8-10.
+
+     From our review of the record, however, it appears that 
+SBT failed to raise the FRFA analysis issue during the 
+rulemaking, see 47 U.S.C. s 405;  Southwestern Pa. Growth 
+Alliance v. Browner, 121 F.3d 106, 122 (3d Cir. 1997), and the 
+FCC noted that "[n]o reconsideration petitions were submit-
+ted in response to the FRFA."  Lower Channel Reconsidera-
+tion Order, 14 F.C.C.R. 17,566, at App. C p 3.  Assuming 
+arguendo that SBT's failure is understandable in light of the 
+Commission's admission that neither the Lower Channel Re-
+port and Order nor the Lower Channel Reconsideration 
+Order clearly addressed the issue, we would nonetheless 
+reject the challenge.  Cf. Abbott Labs. v. Gardner, 387 U.S. 
+136, 148-49 (1967) (ripeness);  Star, Inc. v. FCC, 888 F.2d 132, 
+134 (D.C. Cir. 1989) (same);  Midwestern Gas Transmission 
+Co. v. FERC, 589 F.2d 603, 618 (D.C. Cir. 1978) (same);  see 
+
+__________
+
+Order, 14 F.C.C.R. 17,566, at p 58, the Commission purported to 
+"reiterate" its previous position that "relocation costs will not be 
+due until the incumbent has been fully relocated and the frequen-
+cies are free and clear."  Id.
+
+also Public Citizen v. NRC, 845 F.2d 1105, 1108-10 (D.C. Cir. 
+1988) (final agency action).
+
+                            Conclusion
+
+     To sum up, we conclude that SBT's failure to specify the 
+Upper Channel First Reconsideration Order as an order 
+under challenge violates Federal Rules of Appellate Proce-
+dure 15 and mandates that we dismiss the petition to the 
+extent it seeks review of that order.  With respect to SBT's 
+challenges to the lower channel orders--failure to obtain SBA 
+approval of the small business definitions and failure to 
+perform an adequate FRFA analysis--we conclude the first 
+challenge is without merit and the second was waived.  For 
+the foregoing reasons, and in accordance with this opinion, 
+the petition for review is dismissed in part and denied in part.
+
+                                                                           So ordered.
+
+                                                

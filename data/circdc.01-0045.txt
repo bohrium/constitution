@@ -1,0 +1,284 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued January 18, 2001   Decided March 30, 2001 
+
+                           No. 00-5350
+
+                   American Bioscience, Inc., 
+                            Appellant
+
+                                v.
+
+             Tommy G. Thompson, Secretary of Health 
+                   and Human Services, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                           (00cv02247)
+
+     Joseph F. Coyne, Jr. argued the cause for appellant. With 
+him on the briefs were Carlton A. Varner, Robert F. Green, 
+Arthur Y. Tsien, David F. Weeda and Jacqueline H. Eagle. 
+David L. Durkin entered an appearance.
+
+     Howard S. Scher, Attorney, U.S. Department of Justice, 
+argued the cause for federal appellees. With him on the brief 
+
+were David W. Ogden, Assistant Attorney General, Douglas 
+N. Letter, Attorney, Wilma A. Lewis, U.S. Attorney, and 
+Annamarie Kempic, Counsel, Food and Drug Administration.
+
+     Philip A. Sechler argued the cause for appellees Baker 
+Norton Pharmaceuticals, Inc. and Zenith Goldline Pharma-
+ceuticals, Inc. With him on the brief was Richard M. Cooper.
+
+     Before:  Edwards, Chief Judge, Sentelle and Randolph, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  This appeal from the district 
+court's judgment denying a preliminary injunction against the 
+Food and Drug Administration requires us to consider once 
+again the Supreme Court's opinion in Citizens to Preserve 
+Overton Park v. Volpe, 401 U.S. 402 (1971).  Although the 
+procedural background of the appeal is complex, our reasons 
+for vacating and remanding are simple:  the administrative 
+record was never filed in court and we cannot tell on what 
+basis the Food and Drug Administration took the agency 
+action the plaintiff seeks to enjoin.
+
+     The statutory framework is as follows.  A company wishing 
+to market a drug must seek FDA approval usually by com-
+pleting a "New Drug Application" (NDA) containing data 
+from tests showing the drug's safety and effectiveness.  See 
+Mova Pharmaceutical Corp. v. Shalala, 140 F.3d 1060, 1063 
+(D.C. Cir. 1998).  The Hatch-Waxman Amendments to the 
+Food, Drug and Cosmetic Act in 1984 made it easier for drug 
+manufacturers to obtain approval of generic drugs.  See Drug 
+Price Competition and Patent Term Restoration Act, Pub. L. 
+No. 98-417, 98 Stat. 1585 (1984) (codified in scattered sections 
+of 21, 35 & 42 U.S.C.).  Under these amendments, a generic 
+drug producer need not undertake the complicated and time-
+consuming testing process associated with an NDA and can 
+instead file an "Abbreviated New Drug Application" (ANDA), 
+relying on the NDA filed by the original manufacturer.  See 
+21 U.S.C. s 355(j);  Mova Pharmaceutical Corp., 140 F.3d at 
+1063.
+
+     While making it easier to bring generic drugs to market, 
+Congress also wanted to protect patent holders whose rights 
+might be infringed by the generic drugs.  The law, therefore, 
+requires that NDAs contain a list of any patents "which 
+claim[ ] the drug ... or which claim[ ] a method of using such 
+drug and with respect to which a claim of patent infringement 
+could reasonably be asserted if a person not licensed by the 
+owner engaged in the manufacture, use, or sale of the drug."  
+21 U.S.C. s 355(b)(1).  If new patents claiming the drug or a 
+method of using the drug are filed after the drug has been 
+approved, the approved applicant must inform the Food and 
+Drug Administration within 30 days.  See 21 U.S.C. 
+s 355(c)(2).  The FDA keeps all of this information in a 
+publication officially titled Approved Drug Products with 
+Therapeutic Equivalence, commonly called the Orange Book.  
+See 21 U.S.C. s 355(j)(7)(A).
+
+     The statute also includes patent protections when an Ab-
+breviated New Drug Application is filed.  For "each patent 
+which claims" the drug the applicant would like to distribute 
+in a generic version, the applicant must certify (1) that no 
+patent has been filed with the FDA;  or (2) that the patent 
+has expired;  or (3) that the patent has not expired, but will 
+expire on a particular date;  or (4) that the patent is either 
+invalid or the generic drug will not infringe it.  See 21 U.S.C. 
+s 355(j)(2)(A)(vii).
+
+     The fourth of these options, known as a Paragraph IV 
+certification, is central to the case as the parties have framed 
+it.  When a generic drug applicant certifies that a patent is 
+invalid or that its proposed generic drug will not infringe 
+upon it, it must also certify that it will give notice to the 
+patent holder that it has entered the Paragraph IV certifica-
+tion.  See 21 U.S.C. s 355(j)(2)(B).  If the patent holder has 
+not filed a patent infringement action within 45 days of 
+receiving this notice, the FDA may immediately approve the 
+ANDA.  See 21 U.S.C. s 355(j)(5)(B)(iii).  However, if a 
+patent infringement action is filed within 45 days, the FDA 
+may not approve the ANDA for 30 months, or until the patent 
+dispute has been resolved, whichever is sooner.  See 21 
+U.S.C. s 355(j)(5)(B)(iii).
+
+     Bristol Meyers-Squibb has FDA approval to manufacture 
+and distribute Taxol, an anti-cancer drug with the active 
+ingredient paclitaxel.  American Bioscience allegedly devel-
+oped a new process that permits a patient to receive higher 
+doses of Taxol with fewer side effects.  American Bioscience 
+received U.S. Patent Number 6,906,331 (the '331 patent) for 
+this process on August 1, 2000.  Bristol Meyers refused to 
+inform the FDA of this new patent.  See 21 U.S.C. 
+s 355(c)(2).  American Bioscience then sued Bristol Meyers 
+in the Central District of California, asking the court to 
+compel Bristol Meyers to submit the patent for listing in the 
+FDA's Orange Book.  On August 11, the court entered a 
+temporary restraining order requiring Bristol Meyers to list 
+the drug with the FDA immediately.  The restraining order 
+also included a provision requiring Bristol Meyers to "take all 
+steps under its control to cause the de-listing of the Taxol 
+Patent from the FDA's Orange Book" should it ultimately 
+lose the case.
+
+     Bristol Meyers sent a letter to the FDA indicating that it 
+was submitting information on the '331 patent for listing 
+"pursuant to an order of the United States District Court."  
+On September 7, 2000, the District Court for the Central 
+District of California dissolved the temporary restraining 
+order on the ground that under the Federal Food, Drug and 
+Cosmetic Act, American Bioscience had no private right of 
+action to compel Bristol Meyers to list the patent.  The court 
+ordered Bristol Meyers to make its best efforts to remove the 
+patent listing from the Orange Book.
+
+     Enter Baker Norton Pharmaceuticals.  Baker Norton filed 
+an Abbreviated New Drug Application for a generic form of 
+Taxol in 1997.  That application was postponed because of 
+other infringement actions.  After the '331 patent was listed, 
+Baker Norton amended its application and included a Para-
+graph IV certification that its generic drug either did not 
+infringe on the '331 patent or that the '331 patent was not 
+valid.  It did not give notice either to Bristol Meyers or to 
+American Bioscience that it had included this certification in 
+its ANDA.  American Bioscience discovered Baker Norton's 
+Paragraph IV certification when Baker Norton intervened in 
+
+the action in California.  American Bioscience then sued 
+Baker Norton for infringing the '331 patent.
+
+     Meanwhile, approval of Baker Norton's ANDA was pro-
+ceeding.  On September 8 and September 14, 2000, Baker 
+Norton sent the FDA two letters amending its ANDA and 
+informing the FDA of the proceedings in California.  Because 
+the '331 patent was to be "de-listed" pursuant to the Califor-
+nia court's order dissolving the temporary restraining order, 
+Baker Norton wished to amend its application, certifying that 
+there were no additional patents listed that it was required to 
+account for and removing its Paragraph IV certification re-
+garding the '331 patent.  On September 15, 2000, the Food 
+and Drug Administration sent Baker Norton a letter approv-
+ing its ANDA.  The FDA's letter referred to Baker Norton's 
+September 8 and 14 letters amending the application but 
+included no other discussion of the '331 patent.
+
+     American Bioscience brought this action against Baker 
+Norton and the FDA in the United States District Court for 
+the District of Columbia Circuit, seeking an injunction to 
+prevent the FDA from approving Baker Norton's application.  
+Foremost among American Bioscience's many legal argu-
+ments was its claim that its patent had never been "de-listed" 
+because Bristol Meyers never intended to have it removed 
+from the Orange Book.  If the FDA had approved Baker 
+Norton's ANDA on this basis, reasoned American Bioscience, 
+it had done so contrary to fact.  Moreover, American Biosci-
+ence contended before the district court and contends here 
+that the Hatch-Waxman Act merely directs the FDA to "list" 
+patents as they are received.  Because its role is ministerial, 
+it is not authorized to remove patents from the listing once 
+they are received.
+
+     American Bioscience also contends that the FDA could not 
+have approved the application under the "late listing" regula-
+tion, which only requires an ANDA applicant to amend its 
+application to include a late-listed patent if the patent was 
+listed before the application was submitted.  See 21 C.F.R. 
+s 314.94(a)(12)(vi) (2000).  If the FDA could rely on the 
+
+regulation to approve the ANDA, American Bioscience ar-
+gues, the regulation itself is invalid.
+
+     The district court denied American Bioscience's motion for 
+a preliminary injunction, in part on the ground that it had not 
+shown a probability of success on the merits.  In reaching 
+this conclusion the court determined that the patent had been 
+"de-listed" by Bristol Meyers, that Baker Norton's ANDA 
+was protected by the FDA's late listing regulation, and that 
+the late listing regulation is valid.
+
+     As to "de-listing," there is not adequate support for the 
+district court's conclusion that the FDA approved Baker 
+Norton's ANDA on that basis.  The court referred to the 
+"FDA's determination that [Bristol Myers] had not listed 
+[American Bioscience's] patent within thirty days of the pat-
+ent's issuance" and the FDA's "finding that [Bristol Myers] 
+did not list the '331 patent within thirty days...."  American 
+Bioscience v. Shalala, No. 00-2247, slip op. at 10, 13 (D.D.C. 
+Oct. 3, 2000).  But the FDA's approval letter contains no such 
+"determination" and no such "finding."
+
+     The district court also concluded "that the FDA's interpre-
+tation and application of the 'late listing' regulation are not 
+'plainly erroneous or inconsistent with the regulation.' "  
+American Bioscience, slip op. at 19 (citation omitted).  But 
+there is nothing in the FDA's approval letter to indicate how 
+it interpreted this regulation;  in fact, the letter does not even 
+say whether the FDA was relying on the regulation.
+
+     The short of the matter is that we do not know whether the 
+FDA approved the application because it considered the '331 
+patent to have been "de-listed";  whether it considered the 
+court-ordered listing ineffective for purposes of the Hatch-
+Waxman Act;  whether it treated the application as one 
+covered by the late-listing regulation;  or whether, if it did, 
+why it thought the regulation applied.  For all we know, the 
+FDA made a clerical error in approving the application even 
+though it thought that the '331 patent had been continually 
+listed.
+
+     These problems and others stem partly from the fact that 
+in an "informal adjudication" such as this, the Administrative 
+Procedure Act, see 5 U.S.C. s 554, requires neither agency 
+findings of fact nor conclusions of law.  As Overton Park tells 
+us, judicial review nevertheless must proceed, but not by trial 
+de novo.  The review must "be based on the full administra-
+tive record that was before the [FDA] at the time [it] made 
+its decision."  401 U.S. at 420.  Overton Park arose on a 
+motion for a preliminary injunction (to halt construction of a 
+highway);  this case too comes to us upon the denial of a 
+preliminary injunction.  Here, as in Overton Park, the admin-
+istrative record was never filed, despite APA s 706's direction 
+that judicial review shall be performed by "review[ing] the 
+whole record or those parts of it cited by a party...."  5 
+U.S.C. s 706;  see Overton Park, 401 U.S. at 419.  Rather 
+than calling for the administrative record, the district court 
+appears to have relied on the parties' written or oral repre-
+sentations to discern the basis on which the FDA acted.  
+Surely that was not sufficient.  For all we know, the attor-
+neys were merely speculating.  In any event, the Supreme 
+Court in Overton Park held that even sworn affidavits filed 
+during the litigation would not suffice to explain the action of 
+the Secretary of Transportation.  Id. at 419.
+
+     As in Overton Park, we leave to the district court the 
+determination of how best to proceed on remand in light of 
+what the administrative record reveals.  See 401 U.S. at 420-
+21;  Camp v. Pitts, 411 U.S. 138 (1973) (per curiam);  Nation-
+al Nutritional Foods Ass'n v. FDA, 491 F.2d 1141 (2d Cir. 
+1974) (Friendly, J.).  We hold only that the court, before 
+assessing American Bioscience's probability of success on the 
+merits, should have required the FDA to file the administra-
+tive record and should have determined the grounds on which 
+the FDA granted Baker Norton's application.  Cf. Gordon G. 
+Young, Judicial Review of Informal Agency Action on the 
+Fiftieth Anniversary of the APA:  The Alleged Demise and 
+Actual Status of Overton Park's Requirement of Judicial 
+Review "On the Record," 10 Admin. L.J. Am. U. 179, 226 
+(1996).
+
+     The judgment of the district court is vacated and the case 
+is remanded for further proceedings consistent with this 
+opinion.
+
+                                                                 So ordered.
+
+                                                                         

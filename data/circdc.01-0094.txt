@@ -1,0 +1,692 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 15, 2001      Decided June 29, 2001 
+
+                           No. 00-1072
+
+               United States Cellular Corporation, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+           Association of Public-Safety Communications 
+             Officials-International, Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                    00-1536, 00-1538, 01-1047
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+     Thomas P. Van Wazer argued the cause for petitioners.  
+With him on the briefs were James P. Young, Donald J. 
+
+Evans and Sylvia Lesse.  Stephen G. Kraskin entered an 
+appearance.
+
+     Roberta L. Cook, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  With her on the 
+brief were Christopher J. Wright, General Counsel, John E. 
+Ingle, Deputy Associate General Counsel, Catherine G. O'Sul-
+livan and Andrea Limmer, Attorneys, U.S. Department of 
+Justice.  Daniel M. Armstrong, Associate General Counsel, 
+Federal Communications Commission, entered an appear-
+ance.
+
+     Robert M. Gurss and Tamara Y. Brown were on the brief 
+for intervenor Association of Public-Safety Communications 
+Officials-International, Inc.
+
+     Before:  Henderson, Tatel and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  In an effort to speed implementation 
+of enhanced 911 services for wireless phones, the Federal 
+Communications Commission removed a provision condition-
+ing wireless carriers' obligation to purchase and install the 
+necessary technology on guaranteed state or local govern-
+ment funding.  The carriers challenge this decision, arguing 
+that, among other things, it contravenes the cost causation 
+principle adopted by this court in Competitive Telecommuni-
+cations Association v. FCC, 87 F.3d 522, 529 (D.C. Cir. 1996) 
+("Comptel"), is arbitrary and capricious, 5 U.S.C. s 706(2)(A), 
+violates the Regulatory Flexibility Act, 5 U.S.C. ss 601-612, 
+and amounts to an unconstitutional taking.  Finding petition-
+ers' arguments either without merit or not properly before us, 
+we deny the petition for review in its entirety.
+
+                                I
+
+     Over the last thirty years, 911 service has "spread across 
+the nation and become synonymous with emergency assis-
+tance."  In re Revision of the Comm'n's Rules to Ensure 
+Compatibility with Enhanced 911 Emergency Calling Sys., 
+
+11 FCC Rcd 18676 p 3 (1996) ("First Report & Order").  At 
+its most basic, 911 service involves routing calls to state or 
+local governmental entities responsible for coordinating emer-
+gency response, known as Public Safety Answering Points 
+("PSAPs"), which dispatch emergency assistance to callers.  
+Most PSAPs now provide E911--enhanced 911--services for 
+calls placed from traditional landline phones, using Automatic 
+Numbering Identification ("ANI") to determine a caller's 
+phone number and Automatic Location Identification ("ALI") 
+to pinpoint a caller's location.  For landline calls, ALI infor-
+mation is typically determined by looking up the caller's 
+phone number in an address/telephone number database.
+
+     Although wireless callers place a large number of 911 calls, 
+implementing E911 services for wireless phones has proven 
+more difficult.  In June 1994, a group of public safety organi-
+zations (including the Association of Public-Safety Communi-
+cations Officials ("APCO"), intervenor here) issued an Emer-
+gency Access Position Paper highlighting the need to make 
+E911 services available to wireless callers to "facilitate rapid 
+and effective contact with emergency services, when and 
+where needed."  Shortly thereafter, the Commission issued a 
+notice of rulemaking to "ensure that, over time, [wireless 
+callers would] have the same level of access to 911 emergency 
+services as [landline] callers," and proposed requiring wire-
+less carriers to make both ANI and ALI information available 
+to PSAPs.  In re Revision of the Comm'n's Rules to Ensure 
+Compatibility With Enhanced 911 Emergency Calling Sys., 9 
+FCC Rcd 6170 pp 37, 50-52 (1994).
+
+     After the comment period ended, APCO and two other 
+public safety bodies, together with the Cellular Telecommuni-
+cations Industry Association ("CTIA"), a trade association of 
+wireless industry participants, filed with the Commission a 
+Consensus Agreement addressing wireless E911 implementa-
+tion.  Among other things, the Agreement proposed a cost 
+recovery mechanism to fund carrier and PSAP investment in 
+E911 technology, asking the Commission to condition the 
+obligation to make these investments on a guarantee of state 
+or local government funding.  The Commission also sought 
+public comment on this Consensus Agreement.
+
+     After receiving comments on its proposal and the Consen-
+sus Agreement, the Commission adopted its First Report & 
+Order, which established a two-phase plan for wireless E911 
+implementation.  Phase I, to have been completed in eighteen 
+months, required wireless carriers to enable PSAPs to deter-
+mine a caller's ANI and the location of the base station or cell 
+site receiving the 911 call.  First Report & Order, 11 FCC 
+Rcd 18676 at p 10.  Wireless carriers had five years to 
+complete Phase II, which required them to enable PSAPs to 
+identify a caller's ALI within a specified range.  Id.  Wireless 
+carriers can implement Phase II in at least two ways.  One is 
+network-based, determining a caller's location by triangulat-
+ing signals from several different cell sites or base stations.  
+In re Revision of the Comm'n's Rules to Ensure Compatibili-
+ty with Enhanced 911 Emergency Calling Sys., 14 FCC Rcd 
+17388 p 23 (1999) ("Third Report & Order").  The other is 
+handset-based;  it incorporates locating functionality (such as 
+Global Positioning System technology) into the telephone 
+itself.  Id. at p 18.
+
+     Under the Commission's Order, carriers' Phase I and 
+Phase II obligations would not be triggered until two condi-
+tions were met:  (1) the carrier had to receive a request for 
+these services from a PSAP capable of receiving and utilizing 
+the data;  and, responding to the Consensus Agreement's cost 
+recovery provision, (2) "a mechanism for the recovery of costs 
+relating to the provision of such services" had to be in place.  
+First Report & Order, 11 FCC Rcd 18676 at p 11.  The 
+Commission prescribed no particular cost recovery mecha-
+nism, however, because "[n]o party dispute[d] the fundamen-
+tal notion that carriers must be able to recover their costs of 
+providing E911 services" and because "an inflexible Federal 
+prescription would deny carriers and government officials the 
+freedom to develop innovative cost recovery solutions."  Id. at 
+WW 89-90.
+
+     The Commission also responded to comments by rural 
+wireless carriers that "providing ALI in rural areas may not 
+be technologically and economically feasible," id. at p 84, and 
+that carrier cost recovery mechanisms might not fully reim-
+burse these higher implementation costs.  According to the 
+
+rural carriers, a network-based method of providing ALI 
+would be difficult because, given the configuration of many 
+rural providers' towers as a "string of pearls" along a high-
+way, triangulation would require a large number of additional 
+towers and equipment.  Petitioners' Opening Br. at 17;  cf. 
+Third Report & Order, 14 FCC Rcd 17388 at p 23.  They also 
+claimed they had no alternative, because the handset-based 
+solution was not yet technologically available.  The Commis-
+sion concluded that these problems "need not delay adoption 
+of the general rule" because "[i]n cases where the cost 
+recovery mechanism for E911 service uniquely disadvantages 
+a particular carrier, we will ... consider waiver requests."  
+First Report & Order, 11 FCC Rcd 18676 at p 84.
+
+     Reconsidering the First Report & Order, the Commission 
+reaffirmed its decision not to prescribe a particular cost 
+recovery mechanism.  In re Revision of the Comm'n's Rules 
+to Ensure Compatibility with Enhanced 911 Emergency Call-
+ing Sys., 12 FCC Rcd 22665 WW 143-146 (1997).  CTIA filed 
+for a second reconsideration, asking the Commission to clarify 
+that state and local governments could not satisfy the carrier 
+cost recovery requirement by asking carriers to recover their 
+own costs directly through charges to wireless customers, and 
+to mandate that the cost recovery mechanisms states and 
+localities adopt be "competitively neutral."  In response, and 
+after receiving a Joint Status Report filed by the Consensus 
+Agreement parties (joined by the Wireless Consumers Alli-
+ance, Inc.) revealing that Phase I implementation was pro-
+ceeding more slowly than planned, the Commission issued a 
+Public Notice seeking information on whether the carrier cost 
+recovery requirement was responsible for the delay, and if so, 
+how to address this problem.  Public Notice, Comm'n Seeks 
+to Facilitate Wireless E911 Implementation and Requests a 
+Report, 14 FCC Rcd 11138, 11138 (1999).  Petitioners United 
+States Cellular Association ("US Cellular") and the Rural 
+Cellular Association ("RCA") submitted comments.
+
+     In the resulting Second Reconsideration Order, the Com-
+mission found that the "prerequisite that there be a carrier 
+cost recovery mechanism has not expedited the delivery of 
+E911 service and, if anything, has become and will continue to 
+
+be an impediment of E911 service."  In re Revision of the 
+Comm'n's Rules to Ensure Compatibility with Enhanced 911 
+Emergency Calling Sys., 14 FCC Rcd 20850 p 42 (1999) 
+("Second Recons. Order").  Although twenty-seven states had 
+enacted some sort of Phase I cost recovery legislation, id. at 
+p 34, these services were "scarce, and, in most parts of the 
+country, nonexistent," id. at p 33.  Twenty-three states had 
+no Phase I cost recovery mechanism in place, and even in the 
+states that had enacted legislation, the Commission found 
+that disputes about the adequacy and administration of cost 
+recovery interfered with Phase I implementation.  Id. at p 36.  
+The Commission further agreed with APCO that, because few 
+state and local governments had enacted Phase II legislation, 
+and because the costs of doing so would likely exceed Phase I 
+costs, carrier cost recovery threatened to become an even 
+greater obstacle to Phase II implementation.  Id. at p 42.
+
+     To alleviate these delays, the Commission dropped the 
+carrier cost recovery requirement, noting that "[wireless] 
+carriers are not subject to rate regulation, and may adjust 
+their rates to reflect the cost of providing E911 services 
+without [Commission] intervention."  Id. at p 49.  According 
+to the Commission, passing costs on to consumers is "the 
+normal way that costs of doing business, including the costs of 
+complying with government-imposed requirements, are recov-
+ered in an industry free of rate regulation."  Id. at p 61.
+
+     Addressing comments that eliminating the carrier cost 
+recovery requirement would unfairly discriminate against ru-
+ral carriers, the Commission concluded that the record con-
+tained insufficient evidence to support the claim that rural 
+carriers' implementation costs are higher, and that, even if 
+they are, "it is not clear that such costs should be pooled for 
+recovery in this competitive, deregulated industry."  Id. at 
+p 57.
+
+     Petitioners RCA and Corr Wireless Communications 
+("Corr") sought further reconsideration of the Second Recon-
+sideration Order, contending that the Commission had im-
+properly disregarded rural carriers' concerns about cost re-
+
+covery.  Corr, a rural carrier, submitted detailed information 
+on its Phase II implementation costs.  The reconsideration 
+petitions also argued that the Commission's action violates 
+universal service requirements under 47 U.S.C. s 254 and 
+amounts to an unconstitutional taking in violation of the Fifth 
+Amendment.  Although petitioners had not made these 
+claims in the proceedings leading to the Second Reconsidera-
+tion Order (in fact, Corr had not even participated in those 
+proceedings), Corr argued that its failure was excusable 
+because the Commission had not given adequate notice of the 
+possibility that it would abandon the carrier cost recovery 
+requirement.  Disagreeing, and finding that commenters had 
+presented no "new or persuasive evidence" to justify reopen-
+ing the proceedings, the Commission denied reconsideration.  
+In re Revision of the Comm'n's Rules to Ensure Compatibili-
+ty with Enhanced 911 Emergency Calling Sys., 15 FCC Rcd 
+22810 p 8 (2000) ("Fifth Memorandum & Order").
+
+     RCA and Corr have now filed a petition for review of the 
+Commission's decision to deny reconsideration of the Second 
+Reconsideration Order.  All three petitioners also challenge 
+the Second Reconsideration Order itself, arguing that the 
+Commission's decision to eliminate the carrier cost recovery 
+requirement violates this circuit's cost causation principle.  
+See Comptel, 87 F.3d at 529.  They also argue that the 
+Commission acted arbitrarily and capriciously in violation of 
+the Administrative Procedure Act and violated both the Reg-
+ulatory Flexibility Act and the takings clause of the Fifth 
+Amendment.
+
+                                II
+
+     We begin with petitioners' contention that eliminating the 
+carrier cost recovery requirement runs afoul of this circuit's 
+cost causation principle.  In Comptel, we held that when the 
+Commission sets rates, it "must ... specifically justify any 
+rate differential that does not reflect cost."  87 F.3d at 529.  
+In that case, the Commission had established a rate structure 
+that essentially required large long distance carriers to subsi-
+dize smaller ones.  Concluding that "the attempt to recover 
+
+costs from [long distance carriers] that did not cause those 
+costs to be incurred would impart the wrong incentives," id. 
+at 530-31, we vacated the Commission's order.  Comptel 
+based its cost causation principle on both APA section 
+706(A)(2), which makes unlawful arbitrary and capricious 
+agency actions, 5 U.S.C. s 706(2)(A), and then-existing ver-
+sions of Communications Act sections 201 and 202, which 
+presently provide that "charges ... for and in connection 
+with [a] communication service, shall be just and reasonable," 
+47 U.S.C. s 201(b), and that "[i]t shall be unlawful for any 
+common carrier to make any unjust or unreasonable discrimi-
+nation in charges ... for or in connection with [a] communi-
+cation service," id. s 202(a).  See Comptel, 89 F.3d at 529.  
+Petitioners here argue that neither they nor their customers 
+caused the E911 costs, and therefore that Comptel prohibits 
+the Commission from requiring them to pay for the cost of 
+implementation.
+
+     The Commission argues that petitioners may not rely on 
+the cost causation principle because they failed to raise 
+Communications Act sections 201 and 202 in the proceedings 
+before the agency.  See 47 U.S.C. s 405(a)(2);  Bartholdi 
+Cable Co. v. FCC, 114 F.3d 274, 279 (D.C. Cir. 1997) (inter-
+preting section 405(a)(2) as requiring that the Commission 
+"be afforded an 'opportunity to pass' on an issue as a condi-
+tion of judicial review.").  Alternatively, the Commission ar-
+gues, even if the cost causation principle were properly 
+raised, it applies only when the Commission is setting rates.  
+Petitioners concede their failure to cite Communications Act 
+sections 201 and 202 in the proceedings before the Commis-
+sion, but claim that they have not waived reliance on these 
+sections because the "issue [was] necessarily implicated by 
+the argument made to the Commission."  Time Warner 
+Entm't Co. v. FCC, 144 F.3d 75, 80 (D.C. Cir. 1998).  Addi-
+tionally, they argue that because the cost causation principle 
+also rests on the APA's prohibition against arbitrary and 
+capricious agency action, it applies whether or not the Com-
+mission is setting rates.  We need not resolve these disputes, 
+however, because even if the cost causation principle applies 
+
+outside rate-regulated industries and is properly before us, 
+petitioners' argument fails.
+
+     Petitioners claim that the "cost causer" for wireless E911 is 
+"clearly" the PSAP:  "E911 capabilities are not necessary to 
+provide wireless service.  Rather, carriers are forced to in-
+stall these E911 capabilities at the instigation of and for the 
+use of the PSAPs in their provision of emergency services."  
+Petitioners' Opening Br. at 28.  Compelling carriers rather 
+than PSAPs to bear financial responsibility for wireless E911 
+implementation by passing some or all of the costs on to their 
+customers, petitioners claim, violates the cost causation prin-
+ciple.  We disagree.
+
+     For one thing, PSAPs are not the cost causers for wireless 
+E911 implementation.  As the Commission points out:
+
+     Wireless E911 services are provided for the benefit of all 
+     subscribers, to enable them to call and receive prompt 
+     attention from public safety agencies....  It is entirely 
+     rational for subscribers to wireless services to pay 
+     through their charges for the costs the Commission has 
+     required the carriers to incur to upgrade their systems to 
+     include E911 services.  Subscribers, after all, are the 
+     ultimate beneficiaries when E911 calls go through and 
+     public safety agencies respond.
+     
+Respondent's Br. at 34-35.
+
+     Petitioners' argument to the contrary rests on a profound 
+misunderstanding of PSAPs and their public safety function.  
+Petitioners seem to think that PSAPs are private busi-
+nesses--like commercial ambulance makers, to use petition-
+ers' own example--providing for-profit services to the public.  
+If this were true, petitioners might have a point.  But PSAPs 
+are governmental entities playing a critical role in the provi-
+sion of public safety services:  in larger urban areas, they are 
+stand-alone government-funded organizations;  in smaller ru-
+ral areas, they may be local law enforcement offices.  PSAPs 
+themselves derive no benefit from wireless E911 services;  
+rather, they provide safety services to benefit the public.  
+Under the Commission's Order, it is the beneficiaries of these 
+
+services who ultimately pay most if not all of the cost of 
+wireless E911 implementation.
+
+     Petitioners argue that wireless customers have not directly 
+requested carriers to provide them with E911 services.  This 
+is certainly true, but the Commission, as their governmental 
+representative, has made this request on their behalf.  Thus, 
+in a sense, the Commission itself is the cost causer--it is the 
+Commission's Order that requires wireless carriers to provide 
+E911 services in the public interest.  Whether the Commis-
+sion or the wireless customer is the cost causer, we need not 
+decide.  What's important is that on no plausible theory are 
+PSAPs the cost causers:  their only role is providing 911 
+service.  True, a PSAP request is a precondition of a wireless 
+carrier's obligation to implement E911 technology, First Re-
+port & Order, 11 FCC Rcd 18676 at p 11, but the obligation 
+itself results from the Commission's Order, and the beneficia-
+ry of that obligation is the public.
+
+     The public nature of wireless E911 services distinguishes 
+this case from Comptel.  There, the Commission had required 
+some private businesses (large long-distance carriers) to sub-
+sidize others (smaller long-distance carriers).  This produced 
+competitive distortion in the private market, insulating some 
+inefficient smaller firms from the pressures of the market-
+place.  Comptel, 87 F.3d at 530.  In this case, by contrast, 
+eliminating the carrier cost recovery requirement produces 
+no such inefficiencies;  it merely imposes the cost of E911 
+service on its beneficiaries.
+
+     Disagreeing, petitioners claim that eliminating the carrier 
+cost recovery requirement will lead to "inefficient economic 
+behavior, because [the government is] not required to inter-
+nalize the costs of building [E911 capabilities]."  Petitioners' 
+Opening Br. at 29.  Petitioners apparently think that, if 
+governmental entities are not obliged to cover the costs of the 
+public benefits they impart, they may order safety services 
+that wireless customers do not really want, or at least do not 
+want at the price they must pay.  This potential "inefficien-
+cy," petitioners claim, violates the cost causation principle.
+
+     This argument is breathtaking.  If petitioners were correct, 
+the Federal Aviation Administration could not require airlines 
+to install safety equipment without reimbursing them for 
+their costs, the Environmental Protection Agency would have 
+to pay factories for the cost of required pollution-reducing 
+technology, and the Department of Transportation would 
+have to pay automobile manufacturers to install safety belts 
+and air bags.  Each of these agencies has "caused" the cost of 
+its regulatory safety requirements in the same way the 
+Commission has caused the cost of wireless E911 implemen-
+tation.  Yet it is ludicrous to suggest that government cannot 
+pass these costs along to regulated entities.
+
+     Attempting to distinguish these sorts of safety regulations 
+from the Commission's action in this case, petitioners' counsel 
+observed at oral argument that the Commission has chosen to 
+implement its wireless E911 mandate not directly, but 
+through PSAPs.  But the manner in which the Commission 
+chooses to implement its regulations is irrelevant.  The fact 
+remains that the Commission has imposed upon wireless 
+carriers an obligation to implement a service in the public 
+interest.  Whether it does this directly or with the coopera-
+tion of other governmental safety organizations, it has no 
+obligation to compensate carriers for their costs.
+
+     If, as petitioners fear, the government improperly assesses 
+the public interest--for instance, if consumers would rather 
+pay less for wireless phones without E911 or cars without 
+safety belts--the remedy is political, not judicial.  Granting 
+petitioners the relief they seek, moreover, would not neces-
+sarily have any impact at all on this so-called inefficiency.  If 
+the carrier cost recovery requirement were still in place, a 
+state or local government could decide to place a tariff on 
+wireless service exactly equal to the amount carriers would 
+have to raise rates to cover the costs of implementation.  At 
+oral argument, petitioners' counsel conceded that such a tariff 
+would not violate the cost causation principle (if the Commis-
+sion could in some way be held responsible for it), because 
+government would bear the costs of wireless E911 implemen-
+tation.  Yet any "inefficiency" caused by requiring carriers to 
+
+pass implementation costs along to their customers would 
+result equally from such a state or local tariff.
+
+     Petitioners claim that eliminating the carrier cost recovery 
+requirement produces another competitive distortion:  "be-
+cause rural carriers' costs of implementing E911 capabilities 
+are higher per customer than those of predominantly urban 
+carriers, the [Commission's] rule introduces artificial, [Com-
+mission]-created competitive inequalities between rural and 
+urban carriers."  Petitioners' Opening Br. at 30.  We are 
+skeptical, however, that this claim has anything at all to do 
+with Comptel's cost causation principle.  Petitioners do not 
+argue (nor could they) that the Commission has required 
+rural carriers to subsidize costs caused by urban ones.  In-
+stead, petitioners seem to be arguing that, like the rate 
+structure invalidated in Comptel, the Commission's elimina-
+tion of the carrier cost recovery requirement is arbitrary and 
+capricious because it distorts the competitive marketplace.  
+But the Commission found insufficient evidence to conclude 
+that rural carriers' implementation costs are higher.  Second 
+Recons. Order, 14 FCC Rcd 20850 at p 57.  Even assuming 
+that they are, however, it is because (as petitioners recognize) 
+rural carriers do business in areas with lower population 
+density.  And again, because a cost recovery requirement 
+could result in tariffs equal in amount to carriers' increased 
+rates, granting petitioners the relief they seek would not 
+necessarily alleviate any inequality.
+
+     Petitioners presumably hope that a government cost recov-
+ery mechanism would pool wireless E911 costs, distributing 
+them equally among rural and urban carriers.  But such 
+pooling, the Commission found, may itself distort the competi-
+tive marketplace:  to preserve competition, carriers ought to 
+be responsible for the potentially greater costs of doing 
+business in rural areas.  Id.  Petitioners' solution may thus 
+create exactly the distortion they seek to avoid.
+
+                               III
+
+     This brings us to petitioners' other APA challenges.  They 
+first argue that the Commission failed to consider alternative 
+
+causes of the delay in wireless E911 implementation.  In 
+particular, petitioners point to three alternatives suggested 
+by commenters:  lack of liability protection for wireless carri-
+ers and PSAPs;  Local Exchange Carriers' failure to fulfil 
+their obligations;  and disputes between carriers and PSAPs 
+over which technology to use in implementing wireless E911.  
+The Commission responds that it found the carrier cost 
+recovery requirement to be a significant cause of delay, 
+Second Recons. Order, 14 FCC Rcd 20850 at p 38, and that 
+even if other causes exist, it need not address all wireless 
+E911 implementation problems at the same time.  We agree.  
+As we said in National Association of Broadcasters v. FCC, 
+agencies need not address all problems "in one fell swoop."  
+740 F.2d 1190, 1207 (D.C. Cir. 1984) (citing Williamson v. Lee 
+Optical Co., 348 U.S. 483, 489 (1955) ("[R]eform may take 
+place one step at a time, addressing itself to the phase of the 
+problem which seems most acute to the [regulatory] mind.")).  
+In any event, and contrary to petitioners' claim, the Commis-
+sion did address these alternative explanations, finding that 
+problems caused by lack of liability protection were mooted 
+by legislation granting such protection, Second Recons. Or-
+der, 14 FCC Rcd 20850 at p 9;  that the Telecommunications 
+Act of 1998 and existing regulations already require Local 
+Exchange Carriers to fulfill their obligations, id. at p 8;  and 
+that the Commission is available to mediate technology dis-
+putes between PSAPs and carriers, id. at p 7.
+
+     Petitioners next argue that the Commission failed to con-
+sider alternative solutions to the problems posed by the 
+carrier cost recovery requirement, including drafting more 
+specific instructions and guidelines on the most disputed cost 
+recovery issues and permitting carriers to file federal tariffs 
+to recover their costs.  As the Commission points out in its 
+brief, however, it gave reasons for rejecting both alternatives.  
+Respondent's Br. at 25-27 (citing Second Recons. Order, 14 
+FCC Rcd 20850 at WW 49-52).  In reply, petitioners, apparent-
+ly missing this section of the Commission's brief, not only 
+reassert that the Commission "simply ignored these propos-
+als," Petitioners' Reply Br. at 14, but also make no effort to 
+argue what they must:  that the Commission's reasons for 
+
+rejecting these alternatives were inadequate or unsupported 
+by record evidence.  See Comm. for Cmty. Access v. FCC, 737 
+F.2d 74, 83 (D.C. Cir. 1984).
+
+     Petitioners argue that the Commission's decision to elimi-
+nate the carrier cost recovery requirement finds no support 
+in the record because "none of the parties ... (with the 
+exception of APCO ... ) recommended the elimination of 
+carrier cost recovery."  Petitioners' Opening Br. at 37.  But 
+the Commission has no obligation to take the approach advo-
+cated by the largest number of commenters, Natural Res. 
+Def. Council v. EPA, 822 F.2d 104, 122 n.17 (D.C. Cir. 1987);  
+indeed, the Commission may adopt a course endorsed by no 
+commenter.  The Commission's only responsibilities are to 
+respond to comments, 5 U.S.C. s 553, and to choose a reason-
+able approach backed up by record evidence, Comm. for 
+Cmty. Access, 737 F.2d at 83.
+
+     Next, petitioners argue that, in eliminating the cost recov-
+ery requirement, the Commission "dramatically" departed 
+from precedent without explanation.  Petitioners' Opening 
+Br. at 38.  In particular, they argue, the Commission gave no 
+reason for abandoning its goal of achieving parity in wireless 
+and landline services, so these services can "truly be viewed 
+as substitute[s] by American consumers."  In re Revision of 
+the Comm'n's Rules to Ensure Compatibility with Enhanced 
+911 Emergency Calling Sys., 14 FCC Rcd 10954 p 4 ("Second 
+Report & Order").  Because landline carriers typically recov-
+er E911 costs by obtaining state authorization to add a 
+surcharge to customers' bills, petitioners claim that to achieve 
+parity between landline and wireless phone service, wireless 
+E911 should be funded through a similar state tariff.  But the 
+Commission's apparent focus in achieving wireless and land-
+line parity is not on making funding methods identical, but on 
+equalizing services available to consumers:  one of the Com-
+mission's parity goals is to ensure that consumers have access 
+to E911 services whether they use landline or wireless 
+phones.  Second Report & Order, 14 FCC 10954 at p 4 ("We 
+expect to continue to explore ways to improve wireless 911 
+service because the improvement of wireless 911 is an essen-
+tial element in applying wireless communications to improv-
+
+ing public safety and hastening the day when wireless and 
+[landline] can truly be viewed as substitute services by Amer-
+ican consumers.").  Because the Commission found that carri-
+er cost recovery was impeding wireless E911, its action 
+furthers, not frustrates, the goal of wireless/landline parity.  
+And as the Commission points out, the difference in funding 
+mechanisms reflects an important difference in the way each 
+service is regulated:  landline carriers are rate-regulated;  
+wireless carriers are not.  Because landline carriers are 
+unable to pass E911 implementation costs along to customers, 
+as wireless carriers can, the Commission had more than 
+sufficient reason to choose a different E911 implementation 
+scheme for wireless carriers.
+
+     Finally, petitioners argue that the Commission's analysis of 
+the impact of its Order on rural carriers was arbitrary and 
+capricious.  In response to comments that eliminating the 
+carrier cost recovery requirement would unduly burden rural 
+carriers, the Commission found insufficient record evidence to 
+support commenters' claims that the costs of wireless E911 
+implementation in rural areas would, in fact, be higher.  
+Second Recons. Order, 14 FCC Rcd 20850 at p 57.  "While 
+some costs will likely be higher in such areas," the Commis-
+sion stated, "other costs may actually be lower, such as 
+construction costs or other infrastructure needs."  Id.  In its 
+brief in this court, the Commission notes that neither RCA 
+nor US Cellular submitted any specific financial data to 
+support their claims of higher costs.  Without specific evi-
+dence, the Commission was entitled to conclude that petition-
+ers failed to demonstrate that rural carriers would dispropor-
+tionately suffer from eliminating the carrier cost recovery 
+requirement.
+
+     According to petitioners, Corr, a rural carrier, did supply 
+specific financial data.  But Corr submitted this evidence for 
+the first time in its petition for reconsideration of the Second 
+Reconsideration Order.  Refusing to reopen the proceeding, 
+Fifth Memorandum & Order, 155 FCC Rcd 22810 at p 30, the 
+Commission found that Corr had adequate notice of the 
+possibility that the Commission would drop the carrier cost 
+recovery requirement, and that Corr had not submitted "new 
+
+or persuasive evidence that [the Commission's] conclusions 
+were in error," id. at p 8.  "Where ... the Commission 
+refuses to reopen a proceeding, what is reviewable is merely 
+the lawfulness of the refusal," ICC v. Bhd. of Locomotive 
+Eng'rs, 482 U.S. 270, 278 (1986) (emphasis omitted)--in this 
+case, the Commission's determination that adequate notice 
+had been given and its finding that Corr's data did not qualify 
+as new evidence requiring reconsideration, see Bowman 
+Transp., Inc. v. Arkansas-Best Freight Sys., Inc., 419 U.S. 
+281, 295 (1974) (listing cases discussing agency error in failing 
+to reopen proceedings to consider new evidence).  Because 
+petitioners offer no challenge to this part of the Commission's 
+decision, we lack jurisdiction to consider the implications of 
+Corr's cost data on the Second Reconsideration Order, as 
+well as other challenges to that order contained in the reject-
+ed reconsideration petitions.  Bhd. of Locomotive Eng'rs, 482 
+U.S. at 282.
+
+                                IV
+
+     The Regulatory Flexibility Act obliges federal agencies to 
+assess the impact of their regulations on small businesses.  
+See 5 U.S.C. ss 601-612.  Petitioners claim that the Commis-
+sion failed to fulfill the RFA's requirement to file a final 
+regulatory flexibility analysis ("FRFA") containing
+
+     a description of the steps the agency has taken to 
+     minimize the significant economic impact on small enti-
+     ties consistent with the stated objectives of applicable 
+     statutes, including a statement of the factual, policy, and 
+     legal reasons for selecting the alternative adopted in the 
+     final rule and why each one of the other significant 
+     alternatives to the rule considered by the agency which 
+     affect the impact on small entities was rejected.
+     
+5 U.S.C. s 604(a)(5).  Purely procedural, however, RFA sec-
+tion 604 requires nothing more than that the agency file a 
+FRFA demonstrating a "reasonable, good-faith effort to carry 
+out [RFA's] mandate."  Alenco Communications, Inc. v. 
+FCC, 201 F.3d 608, 625 (5th Cir. 2000).  Petitioners dispute 
+neither that the Commission included a FRFA in its Second 
+
+Reconsideration Order, 14 FCC Rcd 20850, 20901 app. C, nor 
+that this statement addresses all subjects required by the 
+RFA.  Instead, petitioners argue that the Commission's anal-
+ysis of the impact its action would have on small carriers and 
+its dismissal of alternatives was arbitrary.  But as we have 
+already seen, the Commission's analysis of the impact on 
+small rural carriers, supra at 15-16, and its reasons for 
+dismissing alternatives to eliminating the carrier cost recov-
+ery requirement, supra at 13-14, were entirely reasonable.
+
+     Petitioners also argue that the Commission failed to issue 
+an initial regulatory flexibility analysis as required by RFA 
+section 603.  5 U.S.C. s 603.  Not only did petitioners fail to 
+raise this argument until their reply brief, see Corson & 
+Gruman Co. v. NLRB, 899 F.2d 47, 50 n.4 (D.C. Cir. 1990) 
+("We require petitioners and appellants to raise all of their 
+arguments in the opening brief to prevent 'sandbagging' of 
+appellees and respondents and to provide opposing counsel 
+the chance to respond."), but the RFA expressly prohibits 
+courts from considering claims of non-compliance with section 
+603, Allied Local & Reg'l Mfrs. Caucus v. EPA, 215 F.3d 61, 
+79 (D.C. Cir. 2000).
+
+                                V
+
+     Because petitioners' remaining claims--that the Commis-
+sion's action violates the universal service requirements of the 
+Communications Act, 47 U.S.C. s 254, and the takings clause 
+of the Fifth Amendment, U.S. Const. amend. V--were raised 
+only in petitions for reconsideration of the Second Reconsid-
+eration Order, thus suffering the same defects as Corr's 
+submission of cost data, see supra at 15-16, we lack jurisdic-
+tion to consider them. We therefore deny the petition for 
+review in its entirety.
+
+                                                                 So ordered.
+
+                     

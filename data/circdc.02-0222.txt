@@ -1,0 +1,430 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 6, 2002   Decided October 29, 2002 
+
+                           No. 02-5021
+
+        In re:  Ann M. Veneman, Secretary of Agriculture, 
+                            Petitioner
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv03119)
+
+     Charles W. Scarborough, Attorney, U.S. Department of 
+Justice, argued the cause for petitioner.  With him on the 
+briefs were Roscoe C. Howard, Jr., U.S. Attorney, and Robert 
+M. Loeb, Attorney, U.S. Department of Justice.
+
+     Joseph M. Sellers argued the cause for respondents.  With 
+him on the brief were Suzette M. Malveaux, Alexander Pires, 
+Jr., David Frantz, and Phillip L. Fraas.
+
+     Michael L. Foreman, Elaine R. Jones, Norman J. Chach-
+kin, Paul M. Smith, Ian Heath Gershengorn, and John 
+Dossett were on the brief for amici curiae in support of 
+respondents.
+
+     Before:  Tatel and Garland, Circuit Judges, and Williams, 
+Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Rule 23(b)(2) of the Federal Rules of 
+Civil Procedure permits certification of class actions not 
+"exclusively or predominantly [for] money damages."  This 
+petition for interlocutory review presents the following ques-
+tion:  In a case involving requests for both monetary and 
+equitable relief, may a district court certify a Rule 23(b)(2) 
+class as to equitable relief only without first determining 
+whether, looking at the complaint as a whole, plaintiffs' 
+monetary claims predominate over their equitable claims?  
+Although this issue is both unsettled and fundamental--
+factors that may justify interlocutory review pursuant to Rule 
+23(f)--we nevertheless deny the petition because the critical 
+questions required to resolve it are entirely unbriefed and 
+because we are satisfied that the issue will not escape appel-
+late review.
+
+                                I.
+
+     The United States Department of Agriculture administers 
+several farm credit and benefit programs under the direction 
+of its Farm Service Agency ("FSA").  See Consolidated Farm 
+and Rural Development Act, 7 U.S.C. s 1921 et seq.;  7 C.F.R. 
+s 2.42(28).  Farmers seeking FSA loans or subsidies apply to 
+local county committees made up of farmers elected by other 
+farmers.  Pigford v. Veneman, 206 F.3d 1212, 1214 (D.C. Cir. 
+2000).  If the county committee approves the application, the 
+farmer receives the benefit.  If the committee denies the 
+application, the farmer may appeal to a state committee and 
+then to a federal review board.  Pigford v. Glickman, 182 
+F.R.D. 341, 343 (D.D.C. 1998).  Farmers believing that their 
+applications have been denied on the basis of race can file 
+complaints either directly with the FSA or with the Depart-
+ment.  Id.
+
+     Alleging that the Department discriminated against them 
+on the basis of race in its administration of these programs, 
+seven Native-American farmers filed this action in the United 
+States District Court for the District of Columbia on behalf of 
+
+themselves and others similarly situated.  The lawsuit fol-
+lowed the Department's release of a self-critical report that 
+had been prompted by longstanding accusations of racial 
+discrimination in the administration of agricultural programs.  
+Civil Rights Action Team, USDA, Civil Rights at the United 
+States Department of Agriculture 2-3 (1997), available 
+at http://www.usda.gov/news/civil/cr_next.htm.  Noting that 
+"discrimination in program delivery ... continues to exist to 
+a large degree unabated," id. at 2, the report found signifi-
+cant disparities between the Department's treatment of mi-
+nority and nonminority farmers, such as "lower participation 
+and lower loan approval rates for minorities in most [agency] 
+programs," and substantial inequalities in loan processing 
+rates, including "disparities between nonminority loan pro-
+cessing and American Indian loan processing" in certain 
+states, id. at 21.  Since "complaints [were] processed slowly, 
+if at all," id. at 25, farmers found "little relief" in the 
+Department's complaint process, "which, if anything, often 
+ma[de] matters worse," id. at 22.  According to the report, 
+Department officials did little to improve the Department's 
+record of civil rights enforcement;  indeed, "during the early 
+and mid-1980's USDA leaders had effectively dismantled 
+USDA's civil rights apparatus," and "numerous reorganiza-
+tions" since that time had left "civil rights at USDA ... in a 
+persistent state of chaos."  Id. at 47 (internal quotation 
+marks omitted).  Minority farmers, the report concluded, 
+"have lost significant amounts of land and potential farm 
+income as a result of discrimination by [USDA] programs."  
+Id. at 30.
+
+     Proceeding under the Equal Credit Opportunity Act, 15 
+U.S.C. ss 1691-1691f, the Administrative Procedure Act, 5 
+U.S.C. s 706(2)(A), and Title VI of the Civil Rights Act of 
+1964, 42 U.S.C. s 2000d et seq., the farmers, seeking both 
+equitable and monetary relief, allege discrimination in the 
+Department's handling of applications and in its failure to 
+investigate and process their discrimination complaints.  
+Four similar suits have been filed:  An action on behalf of 
+African-American and Latino farmers was dismissed, 
+Williams v. Glickman, No. 95-1149 (D.D.C. filed June 16, 
+
+1995);  another action brought by a class of African-American 
+farmers has been settled, see Pigford v. Veneman, 292 F.3d 
+918 (D.C. Cir. 2002);  and actions on behalf of Latino farmers, 
+Garcia v. Veneman, No. 00-2445 (D.D.C. filed Oct. 13, 2000), 
+and female and other farmers alleging discrimination on the 
+basis of age, sex, marital status, race, color, national origin, or 
+religion, Love v. Veneman, No. 00-2502 (D.D.C. filed Oct. 19, 
+2000), remain pending in district court.
+
+     In a motion for judgment on the pleadings, or in the 
+alternative, for summary judgment, the Department argued 
+(among other things) that the farmers' claims regarding its 
+failure to process their complaints were actionable under 
+neither the APA nor the ECOA.  The district court denied 
+the motion without prejudice, and the farmers moved to 
+certify a class consisting of "[a]ll Native-American farmers 
+and ranchers who believe that USDA discriminated against 
+them on account of their race in their applications for, or 
+USDA's administration of, USDA farm programs ... and 
+who complained of that discrimination to the USDA."
+
+     Under the Federal Rules of Civil Procedure, a class can be 
+certified if it meets Rule 23(a)'s four requirements--numeros-
+ity, commonality, typicality, and adequacy of representation--
+and if it falls into one of the three categories of class actions 
+described in Rule 23(b).  Fed. R. Civ. P. 23(a), 23(b);  Amchem 
+Prods., Inc. v. Windsor, 521 U.S. 591, 613-16 (1997).  Rules 
+23(b)(2) and (b)(3)--the two categories at issue in this case--
+have different requirements depending primarily on the na-
+ture of the relief sought.  Rule 23(b)(2) certification is appro-
+priate where plaintiffs seek declaratory or injunctive relief for 
+class-wide injury.  Such certification is particularly well-
+suited for civil rights actions where "a party is charged with 
+discriminating unlawfully against a class."  Fed. R. Civ. P. 
+23(b)(2) advisory committee notes.  According to the Adviso-
+ry Committee Notes, however, (b)(2) certification is not prop-
+er where "the appropriate final relief relates exclusively or 
+predominantly to money damages."  Id.
+
+     In contrast to Rule 23(b)(2), class certification pursuant to 
+Rule 23(b)(3) is appropriate even where plaintiffs seek only 
+
+monetary damages so long as "questions of law or fact 
+common to the members of the class predominate over any 
+questions affecting only individual members, and ... a class 
+action is superior to other available methods for the fair and 
+efficient adjudication of the controversy."  Fed. R. Civ. P. 
+23(b)(3).  Certification pursuant to Rule 23(b)(3), however, 
+comes with certain procedural requirements:  Because mem-
+bers of a class seeking substantial monetary damages may 
+have divergent interests, due process requires that putative 
+class members receive notice and an opportunity to opt out.  
+See Fed. R. Civ. P. 23(c)(2);  Robinson v. Metro-North Com-
+muter R.R. Co., 267 F.3d 147, 165-66 (2d Cir. 2001).  By 
+contrast, Rule 23(b)(2) imposes no similar requirements be-
+cause a class seeking primarily equitable relief for a common 
+injury is assumed to be a cohesive group with few conflicting 
+interests, giving rise to a presumption that adequate repre-
+sentation alone provides sufficient procedural protection.  See 
+Robinson, 267 F.3d at 165 (noting the presumption that an 
+adequate class representative in a (b)(2) action "will generally 
+safeguard absent class members' interests and thereby satisfy 
+the strictures of due process").
+
+     Seeking both equitable and monetary relief, the farmers 
+asked the district court to certify a so-called "hybrid" class:  a 
+(b)(2) class for their equitable claims and a (b)(3) class for 
+their monetary claims.  In support of this request, the farm-
+ers relied on language in Eubanks v. Billington, 110 F.3d 87 
+(D.C. Cir. 1997), which held that district courts may grant 
+opt-out rights in (b)(2) class actions either by certifying a 
+(b)(3) class as to claims for monetary relief or by exercising 
+their discretion under Rule 23(d)(5) to allow opt-outs from the 
+(b)(2).  Id. at 96.  The district court, however, certified only a 
+(b)(2) class and--central to this case--instead of determining 
+whether plaintiffs' monetary claims predominate over their 
+equitable claims, the district court limited the class to pursu-
+ing equitable relief, explaining that it lacked a sufficiently 
+developed factual record to rule on the appropriate treatment 
+of the monetary claims.  Keepseagle v. Veneman, No. 
+99-3119, mem. op. at 36 (D.D.C. Dec. 12, 2001).  Also, the 
+class the district court certified--all Native-American farm-
+
+ers and ranchers who filed a discrimination complaint with 
+the Department between January 1, 1981, and November 24, 
+1999--was narrower than the one the farmers had sought.  
+Keepseagle v. Veneman, mem. op. at 36.
+
+     Proceeding under Fed. R. Civ. P. 23(f), which allows courts 
+of appeals, "in their discretion," to entertain interlocutory 
+appeals of class certification decisions, the Department now 
+mounts two challenges to the district court's class certification 
+decision.  First, the Department claims that the farmers' 
+complaint-processing allegations fail Rule 23(a)'s commonality 
+and typicality requirements.  Second, the Department argues 
+that the district court lacked authority to certify a (b)(2) class 
+without first determining whether the "appropriate final relief 
+relates exclusively or predominately to money damages."  
+Fed. R. Civ. P. 23(b)(2) advisory committee notes.
+
+                               II.
+
+     Before considering the merits of the Department's petition, 
+we must address the farmers' argument that we lack jurisdic-
+tion because the petition was untimely.  Rule 23(f) gives 
+litigants ten days to petition the court of appeals for review of 
+an order granting or denying class certification.  In this case, 
+the Department filed its 23(f) petition on October 12, fourteen 
+calendar days after the district court issued its class certifica-
+tion order.  Citing Fed. R. App. P. 26(a), which requires 
+inclusion of all calendar days when computing filing periods, 
+the farmers contend that the Department's petition was late.
+
+     Although we agree that the Federal Rules of Appellate 
+Procedure govern the filing of Rule 23(f) petitions, the farm-
+ers rely on the wrong rule.  Rule 5(a), which governs peti-
+tions for permission to appeal, does not refer to Rule 26(a), 
+but instead instructs litigants to file their petitions within 
+"the time specified by the statute or rule authorizing the 
+appeal."  In this case, the rule "authorizing the appeal" is 
+Rule 23(f) of the Federal Rules of Civil Procedure.  The civil 
+rules have their own time-computation rule, which excludes 
+Saturdays, Sundays, and legal holidays when "computing any 
+period of time prescribed or allowed by [the civil] rules."  
+
+Fed. R. Civ. P. 6(a).  Because Rule 23(f) is a rule of civil 
+procedure, Rule 6(a) governs the timing of 23(f) petitions, as 
+every one of our sister circuits to have considered the matter 
+has held.  See Shin v. Cobb County Bd. of Educ., 248 F.3d 
+1061, 1065 (11th Cir. 2001);  see also In re Sumitomo Copper 
+Litig., 262 F.3d 134, 137 n.1 (2d Cir. 2001);  Lienhart v. 
+Dryvit Sys., Inc., 255 F.3d 138, 142 n.1 (4th Cir. 2001);  Blair 
+v. Equifax Check Servs., Inc., 181 F.3d 832, 837 (7th Cir. 
+1999).
+
+     Under Rule 6(a), the petition was timely.  Although the 
+Department filed it fourteen calendar days after the district 
+court issued its class certification order, those fourteen days 
+included four weekend days, and 14 - 4 = 10.
+
+                               III.
+
+     This brings us to the question of whether to exercise our 
+discretion under Rule 23(f) to entertain the Department's 
+challenges to the district court's class certification order.  In 
+this circuit, interlocutory review of class certification decisions 
+pursuant to Rule 23(f) is ordinarily appropriate in three 
+circumstances:  (1) when a "questionable" class certification 
+decision creates a "death-knell situation" for either party;  (2) 
+when the certification decision presents "an unsettled and 
+fundamental issue of law relating to class actions ... that is 
+likely to evade end-of-the-case review";  and (3) when the 
+certification decision is manifestly erroneous.  In re Lorazep-
+am & Clorazepate Antitrust Litig., 289 F.3d 98, 105 (D.C. 
+Cir. 2002).  Even if a case falls into none of these categories, 
+we will grant 23(f) interlocutory review in "special circum-
+stances," though we have cautioned that such review should 
+be "granted rarely."  Id. at 105-06.
+
+     If the Department had challenged only the district court's 
+application of Rule 23(a), we would have no trouble rejecting 
+the petition, for it falls into none of the Lorazepam catego-
+ries.  Beginning with the first category, we do not see how 
+the certification of a class limited to injunctive and declarato-
+ry relief can create the sort of high-stakes situation that puts 
+"substantial pressure on the defendant to settle independent 
+of the merits of the plaintiffs' claims."  Id. at 102 (citing 
+
+Blair, 181 F.3d 832 at 834).  The Department insists that the 
+district court's limitation of the class to equitable relief is 
+"irrelevant" because "this case is, at bottom, about compensa-
+tory relief for past wrongs," creating a "threat of 'hydraulic' 
+pressure to settle."  Petitioner's Reply Br. at 12.  As this 
+case now stands, however, the farmers may not seek compen-
+satory relief, so the Department faces no possibility of a 
+massive damage judgment.  A "death knell" will come, if at 
+all, when and if the district court authorizes the class to 
+proceed with its monetary claims.
+
+     Nor do we see anything either novel or manifestly errone-
+ous (the second and third Lorazepam categories) about the 
+district court's conclusion that the farmers' allegations con-
+cerning the Department's "failure to properly process, ac-
+count for, and/or investigate discrimination complaints," 
+which "affected each class member," satisfy Rule 23(a)'s 
+commonality and typicality requirements.  Keepseagle, mem. 
+op. at 19-20.  According to the Department, the farmers' 
+complaint-processing allegations are a sham:  the farmers, it 
+says, designed those allegations "solely to manufacture the 
+illusion of commonality" for class-certification purposes and 
+"have no intention of actually litigating this claim."  Petition-
+er's Opening Br. at 29-30.  As the district court observed, 
+however, nothing so far bears out the Department's dire 
+predictions, Keepseagle, mem. op. at 22 n.8, and we think that 
+the district court is in a far better position than we to 
+evaluate claims of this sort.  The Department's concern that 
+the farmers will one day abandon their complaint-processing 
+claim is too speculative to justify Rule 23(f) review.
+
+     In support of its challenge to the district court's 23(a) 
+findings, the Department also argues that the farmers' com-
+plaint-processing claim is actionable under neither the ECOA 
+nor the APA.  But this argument, which the Department also 
+made in its unsuccessful motion for judgment on the plead-
+ings, has no bearing on the question of class certification.  As 
+the Supreme Court has long held, courts may not examine 
+whether "plaintiffs have stated a cause of action or will 
+prevail on the merits" in order to determine whether class 
+certification is appropriate.  Eisen v. Carlisle & Jacquelin, 
+
+417 U.S. 156, 178 (1974) (internal quotation marks and cita-
+tion omitted).  To entertain the Department's claims concern-
+ing ECOA and APA coverage, now dressed up as challenges 
+to class certification, would "inappropriately mix the issue of 
+class certification with the merits."  Lorazepam, 289 F.3d at 
+107.
+
+     The Department's challenge to the district court's applica-
+tion of Rule 23(b) presents a closer question.  According to 
+the Department, the district court lacked authority to certify 
+only some of the plaintiffs' claims while leaving the rest "in 
+limbo--not dismissed, but merely deferred."  Petitioner's Re-
+ply Br. at 27.  Unlike the other questions the Department 
+raises in its petition, the question of whether district courts 
+may certify a (b)(2) class solely for purposes of equitable 
+relief without first determining if plaintiffs' claims for mone-
+tary relief predominate over their equitable claims is both 
+unsettled--we know of no circuit that has addressed that 
+issue--and fundamental.  It is not, however, likely to evade 
+end-of-the-case review.  And while we might nonetheless 
+regard the case as presenting "special circumstances," Lora-
+zepam, 289 F.3d at 106, we think the question inappropriate 
+for 23(f) review because the parties have failed to raise the 
+issues critical to its resolution.
+
+     Rule 23(c)(4)(A), which authorizes certification of class ac-
+tions "with respect to particular issues," would at first glance 
+seem to provide authority for the district court's order in this 
+case.  The issue, however, is not so clear.  To begin with, 
+Department counsel pointed out at oral argument that the 
+Advisory Committee Notes to Rule 23(b)(2) provide that 
+certification "does not extend to cases in which the appropri-
+ate final relief relates exclusively or predominantly to money 
+damages."  Fed. R. Civ. P. 23(b)(2) advisory committee notes 
+(emphasis added).  If by using the word "cases," the Advisory 
+Committee meant to refer to the entire set of issues that a 
+complaint raises, then partial certification under 23(c)(4)(A) 
+could occur only after the district court makes the (b)(2) 
+predominance determination.  But if, as counsel for the farm-
+ers contended at oral argument, the phrase "appropriate final 
+relief," not the word "cases," functions as the operative 
+portion of the Advisory Committee Notes, then where the 
+district court limits the class to seeking injunctive and declar-
+
+atory relief (as the district court did here), the appropriate 
+final relief in the "case" is equitable, not monetary.
+
+     More important, the introduction to subsection (c)(4) pro-
+vides that certification "with respect to particular issues" may 
+be ordered only "where appropriate."  As the court observed 
+at oral argument, whether partial certification is "appropri-
+ate" turns at least in part on its effect on two concerns 
+surrounding Rule 23 class actions:  first, how class certifica-
+tion affects the due process rights of absent class members to 
+have their own day in court, and second, whether parties are 
+bound to the judgment.  As to the first point, the Supreme 
+Court established in Phillips Petroleum Co. v. Shutts, 472 
+U.S. 797 (1985), that (1) before a court can bind absent class 
+members "concerning claims wholly or predominantly for 
+money damages," due process requires that they receive 
+adequate notice and an opportunity to opt out of the action, 
+id. at 811-13, and (2) the defendant in such an action has a 
+right ("standing") to demand that adequate notice be given to 
+class members, so as to avoid a situation where the defendant 
+would be bound by a loss yet class members would not be 
+bound by its win, id. at 804-06.  To complicate matters 
+further, the Supreme Court has expressly left open the 
+question of whether a judgment in a no-opt-out class action 
+(like the one the district court certified here) can ever pre-
+clude absent class members from bringing their own individu-
+al lawsuits for monetary damages.  Ticor Title Ins. Co. v. 
+Brown, 511 U.S. 117 (1994) (per curiam) (raising, without 
+deciding, the question of whether due process forbids enforc-
+ing a class-action judgment against an absent plaintiff who 
+wishes to bring her own individual lawsuit for money dam-
+ages, where the class was properly certified as a no-opt-out 
+class action).  Second, the constitutional concerns raised in 
+Shutts and Ticor may also implicate the concerns underlying 
+Rule 23.  The drafters of the 1966 amendments, which gave 
+rise to the rule as we know it today, were concerned with the 
+binding effect of class actions and the due process protections 
+required for parties to be bound.  Fed. R. Civ. P. 23 advisory 
+committee notes (noting the need to "assure procedural fair-
+ness, particularly giving notice to members of the class, which 
+
+may in turn be related in some instances to the extension of 
+the judgment to the class").  They drafted the rule to clarify 
+that "all class actions maintained to the end as such will 
+result in judgments including those whom the court finds to 
+be members of the class, whether or not the judgment is 
+favorable to the class."  Id.
+
+     Because of the importance of these issues to the interpreta-
+tion of Rule 23 and because their implications for this case 
+are entirely unbriefed, we think it best to decline to exercise 
+our Rule 23(f) discretion to consider the Department's argu-
+ments at this time.  Following full briefing in the district 
+court and any revised order issued by that court, the Depart-
+ment remains free to seek appellate review, either in another 
+23(f) petition or otherwise.
+
+     The Department's petition is denied.
+
+                                                                 So ordered.
+
+     

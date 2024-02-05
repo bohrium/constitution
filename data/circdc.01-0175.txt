@@ -1,0 +1,586 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued March 15, 2001     Decided August 21, 2001 
+
+                           No. 00-1204
+
+            Global Crossing Telecommunications, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+              Bell Atlantic-Delaware, Inc., et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Michael J. Shortley, III argued the cause for petitioner.  
+With him on the briefs were Danny E. Adams and Steven A. 
+Augustino.
+
+     Rodger D. Citron, Counsel, Federal Communications Com-
+mission, argued the cause for respondent.  On the brief were 
+Christopher J. Wright, General Counsel, John E. Ingle, Dep-
+uty Associate General Counsel, Laurel R. Bergold, Counsel, 
+A. Douglas Melamed, Acting Assistant Attorney General, 
+U.S. Department of Justice, and Catherine G. O'Sullivan and 
+Andrea Limmer, Attorneys.
+
+     Michael E. Glover, Edward Shakin, Gilbert E. Geldon and 
+John M. Goodman were on the brief for intervenors Verizon 
+Telephone Companies.
+
+     Before:  Sentelle, Tatel, and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Global Crossing Telecommunica-
+tions, Inc. petitions for review of an order of the Federal 
+Communications Commission (FCC), requiring Global Cross-
+ing to pay Verizon Telephone Companies compensation for 
+payphone calls originating from Verizon payphones and rout-
+ed over Global Crossing's network.1  Finding the FCC's 
+decision consistent with the statutory scheme and neither 
+arbitrary nor capricious, we deny the petition for review.
+
+                                I
+
+     In s 276 of the Telecommunications Act of 1996,2 Congress 
+directed the FCC to:
+
+     prescribe regulations that--
+     
+          (A) establish a per call compensation plan to ensure 
+          that all payphone service providers are fairly compen-
+          sated for each and every completed intrastate and 
+          interstate call using their payphone ...;  [and]
+          
+__________
+     1 At the time of the proceedings below, Global Crossing was 
+known as Frontier Communications Services, Inc., and Verizon was 
+known as Bell Atlantic.
+
+     2 Pub. L. No. 104-104, 110 Stat. 56 (1996) (codified in scattered 
+sections of 47 U.S.C.).
+
+          (B) discontinue ... all intrastate and interstate pay-
+          phone subsidies from basic exchange and exchange 
+          access revenues, in favor of a compensation plan as 
+          specified in subparagraph (A).
+          
+47 U.S.C. s 276(b)(1)(A), (B).3  Pursuant to Congress' di-
+rection, the FCC issued orders in 1996 that implemented the 
+provisions of s 276, including paragraphs (A) and (B).  See 
+Report and Order, Implementation of the Pay Telephone 
+Reclassification and Compensation Provisions of the Tele-
+communications Act of 1996, 11 FCC Rcd 20,541 (1996);  
+Order on Reconsideration, 11 FCC Rcd 21,233 (1996), aff'd in 
+part and remanded in part sub nom. Illinois Pub. Telecomm. 
+Ass'n, 117 F.3d 555 (D.C. Cir. 1997) (collectively, Payphone 
+Orders).
+
+     With respect to paragraph (A), the FCC required interex-
+change carriers (IXCs) that carry calls originating from pay-
+phones to compensate the payphone service provider (PSP).4  
+See 47 C.F.R. s 64.1300(a) ("[E]very carrier to whom a 
+completed call from a payphone is routed shall compensate 
+the payphone service provider for the call at a rate agreed 
+upon by the parties by contract.");  Report and Order, Pay-
+phone Orders, 11 FCC Rcd at 20,566, p 48;  id. at 20,584, p 83.  
+Previously, PSPs had received no revenue for originating 
+certain calls (such as subscriber 800 and other toll-free num-
+ber calls) and were prohibited from blocking callers from 
+making some of those calls (such as access code calls).  See 
+Bell Atlantic-Delaware v. Frontier Communications Servs., 
+Inc., 14 FCC Rcd 16,050, 16,053-54, p 5 (Com. Car. Bur. 1999) 
+
+__________
+     3 For background regarding s 276, see American Pub. Commu-
+nications Council v. FCC, 215 F.3d 51, 53 (D.C. Cir. 2000);  Illinois 
+Pub. Telecomm. Ass'n v. FCC, 117 F.3d 555, 558-61 (D.C. Cir. 
+1997).
+
+     4 "Long-distance telephone traffic is ordinarily transmitted by a 
+local exchange carrier ('LEC') from its origin to a long-distance 
+carrier (or interexchange carrier or 'IXC').  The IXC carries the 
+traffic to its region of destination and hands it off to the LEC 
+there."  U.S. Tel. Ass'n v. FCC, 188 F.3d 521, 523-24 (D.C. Cir. 
+1999).
+
+(hereinafter "Bureau Order").  The Commission concluded 
+that PSPs must be compensated for all such calls, and 
+determined that IXCs, as the primary beneficiaries of those 
+calls, should be responsible for providing that compensation.  
+See id. at 16,054, p 5;  Report and Order, Payphone Orders, 
+11 FCC Rcd at 20,584, p 83.
+
+     To implement paragraph (B), the FCC ruled that in order 
+to receive compensation for completed calls originating from 
+its payphones, a PSP that is also a local exchange carrier 
+(LEC PSP), see supra note 4, "must be able to certify" that it 
+has complied with several requirements, including the institu-
+tion of "effective intrastate tariffs reflecting the removal of 
+charges that recover the costs of payphones and any intra-
+state [payphone] subsidies."  Order on Reconsideration, Pay-
+phone Orders, 11 FCC Rcd at 21,293, p 131.  The FCC 
+delegated to its Common Carrier Bureau the authority to 
+make "any necessary determination as to whether a LEC has 
+complied with all requirements" for compensation.  Id. at 
+21,294, p 132.
+
+     Verizon is a LEC PSP that offers local exchange and 
+payphone services in the northeast and mid-Atlantic states.  
+Global Crossing is an IXC that provides both interstate and 
+intrastate telephone toll service.  Since October 1997, when 
+the per call compensation requirement became effective, Veri-
+zon has delivered calls from its payphones to Global Crossing.
+
+     In June 1997, in order to obtain compensation for calls 
+originating from Verizon's payphones and carried by Global 
+Crossing, Verizon presented Global Crossing with signed 
+letters attesting that it had complied with all of the conditions 
+for receiving compensation, including the elimination of intra-
+state subsidies.  Global Crossing replied that it would not pay 
+compensation until Verizon provided additional information, 
+specified by Global Crossing, establishing that Verizon had in 
+fact satisfied the compensation eligibility prerequisites--par-
+ticularly the removal of those subsidies.  In June 1998, 
+representatives of Verizon and Global Crossing met with staff 
+of the Common Carrier Bureau, who advised that under the 
+FCC's rules and orders, "IXCs must compensate a LEC 
+
+payphone service provider upon receipt of the LEC's certifi-
+cation of eligibility without further inquiry or requirements."  
+Bureau Order, 14 FCC Rcd at 16,058, p 10.  Nonetheless, 
+Global Crossing continued to refuse to pay, and, on July 15, 
+1998, Verizon filed a formal complaint with the FCC pursuant 
+to 47 U.S.C. s 208.5  The complaint alleged that Global 
+Crossing had violated 47 U.S.C. s 276, as well as 47 C.F.R. 
+s 64.1300, by failing to compensate Verizon for more than 
+11,200,000 calls.  Complaint pp 33-35.
+
+     In September 1999, the Common Carrier Bureau held that 
+Verizon had adequately certified its compliance with the 
+prerequisites for receiving compensation and ordered Global 
+Crossing to pay Verizon for applicable past and future calls.  
+Bureau Order, 14 FCC Rcd at 16,052, p 3.  The Bureau 
+determined that "[t]he term 'certification' ... does not man-
+date that a LEC payphone service provider prove to the IXC 
+payor that it has satisfied each compensation eligibility pre-
+requisite," but rather requires that a LEC "attest[ ] authori-
+tatively to an IXC payor that such LEC payphone service 
+provider has satisfied each prerequisite."  Id. (emphasis add-
+ed).  The Bureau found that interpretation to be consistent 
+with prior Commission orders, and permissible under the 
+language of s 276.  Id. at 16,063-65, pp 18-19, 22.  And it 
+held that if Global Crossing (or any other IXC) wished to 
+question "the veracity of a LEC's certification," it was obliged 
+to do so by filing its own complaint with the Commission, 
+
+__________
+     5 Section 208, entitled "Complaints to Commission," states:
+
+     a) Any person ... complaining of anything done or omitted to 
+     be done by any common carrier subject to this chapter, in 
+     contravention of the provisions thereof, may apply to said 
+     Commission by petition....  If such carrier ... shall not 
+     satisfy the complaint within the time specified or there shall 
+     appear to be any reasonable ground for investigating said 
+     complaint, it shall be the duty of the Commission to investigate 
+     the matters complained of in such manner and by such means 
+     as it shall deem proper.
+     
+47 U.S.C. s 208.
+
+rather than by simply refusing to make payment.  Id. at 
+16,068, p 27.
+
+     The FCC affirmed the Bureau's decision in all respects.  
+Order on Review, Bell Atlantic-Delaware v. Frontier Com-
+munications Servs., Inc., 15 FCC Rcd 7475, 7480, p 11 (2000) 
+(hereinafter "FCC Order").  The Commission also refused to 
+consider Global Crossing's "affirmative defense" that Verizon 
+"in fact, had not qualified for payphone compensation."  Id. at 
+7479, p 9.  The Commission held that this "so-called 'affirma-
+tive defense' " was "irrelevant to evaluating [Global Cross-
+ing's] obligation to pay upon receiving certification," and "was 
+not properly before the Bureau in the context of" a complaint 
+filed by a LEC PSP.  Id.  "[T]he proper way for an IXC to 
+challenge a LEC's failure to remove unlawful subsidies," the 
+FCC declared, "is to initiate a Section 208 proceeding at the 
+Commission."  Id. at 7479-80, p 9.
+
+                                II
+
+     Global Crossing contends that the FCC's determination, 
+that an IXC must pay a LEC PSP compensation merely upon 
+certification that the LEC has discontinued subsidizing its 
+payphone service, is neither consistent with s 276 of the 
+Telecommunications Act nor the product of reasoned deci-
+sionmaking.  We consider these two arguments below.
+
+                                A
+
+     In addressing Global Crossing's statutory argument, we 
+apply the two-step framework of Chevron U.S.A. Inc. v. 
+Natural Resources Defense Council, Inc., 467 U.S. 837 
+(1984).6  We first ask "whether Congress has directly spoken 
+to the precise question at issue," in which case we "must give 
+effect to the unambiguously expressed intent of Congress."  
+
+__________
+     6 In United States v. Mead Corp., the Supreme Court confirmed 
+the applicability of the Chevron test to a case like this one, where 
+"Congress delegated authority to the agency generally to make 
+rules carrying the force of law, and ... the agency interpretation 
+claiming deference was promulgated in the exercise of that authori-
+ty."  121 S.Ct. 2164, 2171 (2001).
+
+Id. at 842-43.  If, however, the "statute is silent or ambigu-
+ous with respect to the specific issue," we move to the second 
+step and defer to the agency's interpretation as long as it is 
+"based on a permissible construction of the statute," id. at 
+843, and is "reasonable in light of the Act's text, legislative 
+history, and purpose," Southern Cal. Edison Co. v. FERC, 
+116 F.3d 507, 511 (D.C. Cir. 1997).
+
+     Global Crossing asserts that permitting Verizon to receive 
+compensation merely upon its certification that it has discon-
+tinued subsidies is inconsistent with the express language of 
+s 276, which requires the Commission to promulgate regula-
+tions that "discontinue ... all intrastate and interstate pay-
+phone subsidies ... in favor of a compensation plan."  47 
+U.S.C. s 276(b)(1)(B).  That language, Global Crossing ar-
+gues, "ties the timing of the receipt of compensation to the 
+removal of the subsidies," rendering Verizon unqualified to 
+receive compensation until it first removes all of its subsidies.  
+Reply Br. at 10.  By allowing Verizon to rely on certification 
+alone, petitioner continues, the FCC permitted the LEC PSP 
+to receive per call compensation without regard to whether it 
+had in fact discontinued its payphone subsidies.
+
+     The FCC does not disagree that s 276 requires Verizon to 
+discontinue subsidies before it may receive compensation.  
+Indeed, the Bureau's decision "emphasize[s] that a LEC's 
+certification letter does not substitute for the LEC's obli-
+gation to comply" with the requirements for compensation, 
+and that "LECs must satisfy the requirements ... to be 
+eligible to receive compensation."  Bureau Order, 14 FCC 
+Rcd at 16,068, p 28.  The Commission rightly notes, however, 
+that the statute is silent regarding the mechanism the FCC 
+should adopt to ensure that the statute's requirements are 
+carried out.  See id. at 16,065, p 22.  That being so, the only 
+question for us is whether, under Chevron step two, the 
+FCC's interpretation "is based on a reasonable construction 
+of the statutory term[s]."  Chevron, 467 U.S. at 840.  And we 
+see nothing unreasonable about the FCC's conclusion that the 
+statute permits it to adopt a certification regime.
+
+     Global Crossing contends that by relying upon certifica-
+tion--upon nothing more than the word of the LEC PSP--
+the FCC cannot ensure that subsidies have been discontinued 
+"in favor of" compensation, and hence cannot ensure compli-
+ance with that statutory requirement.  But the FCC does not 
+rely solely upon certification;  certification is merely the initial 
+step in the Commission's enforcement scheme.  If an IXC 
+believes that a LEC PSP's certification is false or otherwise 
+unsupported, the IXC may file a complaint under s 208 of the 
+Communications Act and, if correct, will recover damages, 
+including its payments and interest thereon.  See 47 U.S.C. 
+ss 206-09.  Moreover, if a LEC PSP is found to have certi-
+fied falsely, it faces additional penalties, including fines and 
+forfeitures, in an enforcement action brought by the Commis-
+sion.  See 47 U.S.C. ss 501-04.  Taken together, these proce-
+dural mechanisms appear reasonably calculated to accomplish 
+the congressional purpose.
+
+     Although the enforcement regime chosen by the Commis-
+sion may not be the only one possible, we must uphold it as 
+long as it is a reasonable means of implementing the statuto-
+ry requirements.  See New England Tel. & Tel. Co. v. FCC, 
+826 F.2d 1101, 1107-08 (D.C. Cir. 1987).  Certification is the 
+mechanism the FCC employs for a broad range of its other 
+statutory functions.7  There is nothing about the language or 
+purpose of s 276 to indicate that certification is an inappro-
+
+__________
+     7 See, e.g., Cellular Phone Taskforce v. FCC, 205 F.3d 82, 92-93 
+(D.C. Cir. 2000) (rejecting a challenge to the FCC's decision to 
+allow undocumented self-certification of compliance with environ-
+mental guidelines by FCC license applicants);  CHM Broad. Ltd. 
+P'ship v. FCC, 24 F.3d 1453, 1455-56 (D.C. Cir. 1994) (noting that 
+the FCC uses self-certification to implement the statutory require-
+ment that applicants for radio station licenses demonstrate their 
+financial qualifications);  Supplemental Order Clarification, Imple-
+mentation of the Local Competition Provisions of the Telecommu-
+nications Act of 1996, 15 FCC Rcd 9587, 9602-03, p 29 (2000) 
+(clarifying that "incumbent LECs must allow requesting carriers to 
+self-certify" that they meet certain requirements, and noting that "a 
+letter sent to the incumbent LEC by a requesting carrier is a 
+practical method of certification").
+
+priate method of fulfilling the payphone requirements of the 
+Telecommunications Act as well.
+
+                                B
+
+     In addition to its statutory argument, Global Crossing 
+advances two further arguments that are best characterized 
+as claims that the FCC's certification policy does not repre-
+sent reasoned decisionmaking.  As to these claims, we apply 
+the deferential standard of the Administrative Procedure Act 
+(APA), and will uphold the Commission's policy judgments as 
+long as they are not "arbitrary, capricious, an abuse of 
+discretion, or otherwise not in accordance with law."  5 
+U.S.C. s 706(2)(A).  To satisfy that standard, an agency must 
+"examine the relevant data and articulate a satisfactory expla-
+nation for its action including a 'rational connection between 
+the facts found and the choice made.' "  Motor Vehicle Mfrs. 
+Ass'n of United States, Inc. v. State Farm Mut. Auto. Ins. 
+Co., 463 U.S. 29, 43 (1983) (quoting Burlington Truck Lines, 
+Inc. v. United States, 371 U.S. 156, 168 (1962)).
+
+     In an argument that largely overlaps with its claims under 
+Chevron step two, Global Crossing asserts that the FCC 
+failed to articulate any reasoned basis for relying on a policy 
+of certification.  We are not persuaded.  As discussed in Part 
+II.A, the Commission reasonably concluded that certification 
+of compliance, coupled with provisions for complaint and 
+enforcement proceedings, will accomplish the statutory pur-
+pose of discontinuing payphone subsidies.  At the same time, 
+the FCC reasonably determined that requiring IXCs to pay 
+immediately upon certification for calls routed over their 
+networks will promote certainty in the achievement of Con-
+gress' other purpose:  " 'ensur[ing] that all payphone service 
+providers are fairly compensated for each and every ... 
+call.' "  Bureau Order, 14 FCC Rcd at 16,064, p 20 (quoting 47 
+U.S.C. s 276(b)(1)(A)).  Global Crossing may be correct in 
+arguing that certainty of compensation can also be ensured 
+by permitting an IXC to decide whether a LEC PSP's proof 
+of compliance is sufficient, and then requiring the LEC to file 
+a complaint with the Commission if it is dissatisfied.  But 
+
+Congress has delegated the authority to make the choice 
+between such alternatives to the FCC, and our only responsi-
+bility is to ensure that the choice the FCC has made is a 
+reasonable one.
+
+     Global Crossing also contends that, in requiring payment 
+upon mere certification, the FCC departed from its prior 
+orders and precedents without explanation.  It is true that 
+"an agency changing its course by rescinding a rule" or 
+departing from precedent "is obligated to supply a reasoned 
+analysis for the change."  State Farm, 463 U.S. at 42;  see 
+Greater Boston Television Corp. v. FCC, 444 F.2d 841, 852 
+(D.C. Cir. 1970).  But it is also true that we must defer to an 
+agency's reading of its own regulations unless that reading is 
+"plainly erroneous or inconsistent with the regulation[s]," 
+Auer v. Robbins, 519 U.S. 452, 461 (1997), and that we must 
+accord deference to an agency's reasonable interpretation of 
+its own precedents, see Cassell v. FCC, 154 F.3d 478, 483 
+(D.C. Cir. 1998).  We perceive no unexplained departure from 
+the agency's prior policies here.
+
+     To implement s 276(b)(1)(B), the FCC issued an order 
+providing that a LEC PSP "must be able to certify" that it 
+has, inter alia, removed intrastate subsidies before it may 
+receive compensation for calls originating from its payphones.  
+Order on Reconsideration, Payphone Orders, 11 FCC Rcd at 
+21,293, p 131.  The Commission's order did not specify the 
+requirements for such certification, but instead delegated to 
+the Common Carrier Bureau the authority to make "any 
+necessary determination as to whether a LEC has complied 
+with all requirements" for compensation.  Id. at 21,294, p 132.  
+Global Crossing maintains that "to certify" means more than 
+merely to attest to compliance;  rather, it requires the LEC 
+PSP to provide the IXC with full proof that it has satisfied all 
+regulatory conditions.  The Bureau, however, interpreted the 
+phrase as requiring only attestation, and the FCC confirmed 
+that as the correct construction of the Commission's own 
+language.  FCC Order, 15 FCC Rcd at 7479, p 7.
+
+     The Bureau's interpretation of the Commission's order is a 
+reasonable one.  The Bureau relied upon "the ordinary mean-
+ing of the term 'to certify,' " defined by Black's Law Dictio-
+nary as "the formal assertion in writing of some fact," and by 
+Webster's as "to attest as being true."  Bureau Order, 14 
+FCC Rcd at 16,062, p 16 (citing Black's Law Dictionary 227 
+(6th ed. 1990);  Webster's Ninth New Collegiate Dictionary 
+223 (1989)).  It also noted that the Commission has used this 
+meaning of "certify" in other contexts.  Id. at 16,062-63, p  17 
+(citing 47 C.F.R. s 1.734(c) (providing that the signature of a 
+party on a pleading "shall be a certificate that ... to the best 
+of his or her knowledge [the pleading] is well grounded in 
+fact"));  see also CHM Broad. Ltd. P'ship v. FCC, 24 F.3d 
+1453, 1455 (D.C. Cir. 1994) (noting that an applicant for an 
+FM radio license "certifies" that it has sufficient assets to 
+construct and operate a station by checking "yes" on an FCC 
+form).
+
+     The Bureau further observed, correctly, that this interpre-
+tation of "to certify" is consistent with decisions issued by the 
+FCC and the Bureau since the promulgation of the initial 
+1996 Payphone Orders.  The Bureau pointed out, for exam-
+ple, that the Commission had ruled that LEC PSPs are not 
+required to file a certification with any state or federal 
+regulatory agency, or to obtain a formal certification of 
+compliance from either the states or the FCC, in order to be 
+eligible to receive compensation.  Bureau Order, 14 FCC Rcd 
+at 16,054-55, p 6 (citing Second Report and Order, 13 FCC 
+Rcd at 1780, p 1 n.9).  The Bureau also noted that, in its 
+Intrastate Tariffing Waiver Order, it specifically refused 
+AT&T's request to declare that "a LEC is not eligible for 
+payphone compensation 'until it has provided proof of state 
+action verifying the LEC's compliance with section 276.' "  Id. 
+at 16,063, p 18 (quoting 12 FCC Rcd at 21,377, p 16).  Instead, 
+the Bureau "reiterated that the Commission's previous orders 
+required only that a LEC 'be able to certify' compliance with 
+the payphone compensation prerequisites."  Id. (quoting 12 
+FCC Rcd at 21,380, p 22).  And in two further orders, the 
+Bureau declared that "LECs that have certified to the IXC 
+that they comply with the requirements of the Payphone 
+Orders must receive per-call compensation."  Implementa-
+
+tion of the Pay Telephone Reclassification and Compensa-
+tion Provisions of the Telecommunications Act of 1996, 13 
+FCC Rcd 4998, 5002, p 4 (Com. Car. Bur. 1998) (emphasis 
+added);  see also Implementation of the Pay Telephone Re-
+classification and Compensation Provisions of the Telecom-
+munications Act of 1996, 13 FCC Rcd 10,893, 10,899, p 12 
+(Com. Car. Bur. 1998).
+
+     In sum, the agency order at issue in this case reflects 
+neither a failure to articulate a reasonable basis for decision, 
+nor a departure from FCC policy and precedent.  We there-
+fore find it to be consistent with the APA's standards for 
+reasoned decisionmaking.
+
+                               III
+
+     Global Crossing also challenges the Commission's determi-
+nation that an IXC seeking to contest the veracity of a LEC 
+PSP's certification must file its own complaint for damages 
+under 47 U.S.C. s 208, and may not assert lack of compliance 
+as an "affirmative defense" to a complaint brought by a LEC 
+PSP.  Petitioner contends that by directing it to pay Verizon 
+without considering its defense of noncompliance, the Com-
+mission abdicated its "duty to adjudicate issues raised in 
+complaint proceedings."  Global Crossing Br. at 12.  Citing 
+our opinion in American Telephone & Telegraph Co. v. FCC, 
+978 F.2d 727 (D.C. Cir. 1992), Global Crossing argues that by 
+refusing to address its affirmative defense, the FCC breached 
+its duty to consider Global Crossing's claim on the merits.
+
+     We do not agree.  First, as the FCC points out, there was 
+no failure to consider an "affirmative defense" here because 
+the FCC has not designated noncompliance as an affirmative 
+defense;  rather, it is part of the case-in-chief that an IXC 
+must initiate on its own.  Second, this approach is not con-
+trary to our ruling in American Telephone.  In that case, the 
+Commission relied on the validity of an earlier FCC order in 
+dismissing a complaint brought by AT&T against a competi-
+tor--without adjudicating AT&T's claim that the order was 
+unlawful.  The Commission said that it would instead consid-
+er the validity of the order in a new rulemaking.  We held 
+
+that the Commission could not postpone a question concern-
+ing the application of existing law by declaring its intent to 
+consider a future change in that law.  The Commission, we 
+said, appeared to be trying to "avoid judicial review" of its 
+order by engaging in "a sort of administrative law shell 
+game."  American Tel. & Tel., 978 F.2d at 731-32;  see id. at 
+729, 731-32.
+
+     Here, however, there is no shell game, because the FCC 
+has made quite clear under which shell the pea lies.  The 
+Commission has advised Global Crossing several times that if 
+it wishes to contest Verizon's qualifications for payphone 
+compensation, it should bring a separate action under s 208.  
+And the Commission has also made clear that if Global 
+Crossing brings such an action, it will decide the matter in 
+that forum.  Although the Commission does have an obli-
+gation to adjudicate claims raised by a party filing a com-
+plaint, see American Tel. & Tel., 978 F.2d at 732, it will fulfill 
+that obligation by considering Global Crossing's allegations 
+when they are properly filed.8
+
+     Nor has Global Crossing been able to articulate how it is 
+disadvantaged by the Commission's requirement that it be a 
+complainant rather than a respondent.  As petitioner con-
+ceded at oral argument, there is no difference in the alloca-
+tion of the burden of proof:  Although the party that brings a 
+s 208 complaint bears the burden, see Hi-Tech Furnace Sys., 
+Inc. v. FCC, 224 F.3d 781, 787 (D.C. Cir. 2000), so does a 
+party that asserts an affirmative defense to such a complaint, 
+see AT&T v. Business Telecom, Inc., FCC 01-185, 2001 WL 
+575527, at p 46 (rel. May 30, 2001).  At oral argument, Global 
+Crossing also denied that it would derive any economic 
+benefit from being a respondent rather than a complainant:  
+It noted that because it would recover its payments with 
+interest if it prevailed on a s 208 complaint, there was no 
+difference between asserting noncompliance as an affirmative 
+
+__________
+     8 See AT&T v. FCC, 220 F.3d 607, 631 (D.C. Cir. 2000) (holding 
+that the FCC may, consistent with American Telephone, bar collat-
+eral challenges to other FCC orders in proceedings brought to 
+adjudicate applications to provide in-region long distance service).
+
+defense to nonpayment, and paying upon demand and then 
+filing a complaint to recover.  Indeed, Global Crossing even 
+denied that cash-flow considerations made the position of 
+respondent preferable.  But if Global Crossing truly has 
+nothing to gain from the alternative for which it presses, and 
+hence suffers no disadvantage from the procedural posture to 
+which the FCC has assigned it, then it would appear to have 
+little basis for complaining about the FCC's decision.
+
+     It is well-settled that the Commission "enjoys wide discre-
+tion in fashioning its own procedures."  City of Angels 
+Broad., Inc. v. FCC, 745 F.2d 656, 664 (D.C. Cir. 1984).  
+Section 208 authorizes the FCC to investigate a complaint "in 
+such manner and by such means as it shall deem proper."  47 
+U.S.C. s 208.  More generally, 47 U.S.C. s 154(j) provides 
+that "[t]he Commission may conduct its proceedings in such 
+manner as will best conduce to the proper dispatch of busi-
+ness and to the ends of justice."  Although Global Crossing 
+contends that designation of an issue as part of an affirmative 
+case rather than as an affirmative defense is a matter of 
+substance, not procedure, we disagree.  The Supreme Court 
+has interpreted s 154(j) "as explicitly and by implication 
+delegating to the Commission power to resolve subordinate 
+questions of procedure such as the scope of the inquiry, 
+whether applications should be heard contemporaneously or 
+successively, whether parties should be allowed to intervene 
+in one another's proceedings, and similar questions."  FCC v. 
+Schreiber, 381 U.S. 279, 289 (1965) (internal quotations omit-
+ted).  The question of whether an issue is properly designat-
+ed as an affirmative defense falls well within that rubric.  Cf. 
+Fed. R. Civ. P. 8(c) (designating certain issues as "affirmative 
+defenses" rather than "counterclaims");  AT&T, 220 F.3d 607, 
+630 (D.C. Cir. 2000) (according deference, in a proceeding 
+under 47 U.S.C. s 271, to the FCC's decision to bar a 
+collateral challenge to a prior FCC order and instead to 
+require the filing of a separate petition for review).  And 
+because there is nothing arbitrary about the FCC's decision 
+to require Global Crossing to raise its claim of noncompliance 
+by separate complaint, the Commission's decision "may not be 
+
+impeached merely because reasonable minds might differ on 
+the wisdom thereof."  Id. at 292.
+
+                                IV
+
+     For the foregoing reasons, Global Crossing's petition for 
+review is denied and the FCC's order on review is
+
+                                                                 Affirmed.
+
+                                                          

@@ -1,0 +1,622 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 16, 2000   Decided December 19, 2000 
+
+                           No. 99-1223
+
+                Tesoro Alaska Petroleum Company, 
+                            Petitioner
+
+                                v.
+
+            Federal Energy Regulatory Commission and 
+                    United States of America, 
+                           Respondents
+
+             Williams Alaska Petroleum Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                    99-1224, 99-1239, 99-1250
+
+            On Petitions for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+                            ---------
+
+     Virginia A. Seitz and Robert H. Benna argued the causes 
+for petitioners Exxon Company, U.S.A. and Tesoro Alaska 
+Petroleum Company.  With them on the briefs were Eugene 
+R. Elrod, Steven S. Hill and Jeffrey G. DiSciullo.
+
+     Andrew K. Soto, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondents.  With him on 
+the brief were John H. Conway, Acting Solicitor at the time 
+the brief was filed, Timm L. Abendroth, Attorney, Joel I. 
+Klein, Assistant Attorney General, John J. Powers, III and 
+Robert J. Wiggers, Attorneys.  Jay L. Witkin, Solicitor, and 
+Susan J. Court, Special Counsel, Federal Energy Regulatory 
+Commission, entered appearances.
+
+     John A. Donovan argued the cause for intervenors BP 
+Exploration (Alaska), Inc. et al.  With him on the brief were 
+Matthew W.S. Estes, Bradford G. Keithley, Charles William 
+Burton, Jason F. Leif, Richard Curtin, Randolph L. Jones, 
+Jr.  John W. Griggs and W. Stephen Smith.  Dean H. Lefler 
+entered an appearance.
+
+     Albert S. Tabor, Jr., John E. Kennedy and S. Scott Gaille 
+were on the brief for intervenors TAPS Carriers.  Alex A. 
+Goldberg entered an appearance.
+
+     Before:  Williams, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  The Trans Alaska Pipeline Sys-
+tem ("TAPS") is a 48-inch diameter pipeline carrying crude 
+oil from Alaska's North Slope approximately 800 miles south 
+to Valdez, Alaska.  Each shipper delivers its own crude oil to 
+the pipeline, in which the oils are commingled;  at the termi-
+nus the shipper takes delivery of a proportional share of the 
+common stream.  The crude oils delivered initially differ from 
+each other in various characteristics that affect market value.  
+Because of the commingling, a shipper will not in all likeli-
+hood receive the same quality of oil at Valdez that it delivered 
+to the pipeline.  Without some adjustment, the ones deliver-
+ing relatively higher-value crudes would unfairly lose, and the 
+ones delivering lower-value crudes would unfairly gain.  The 
+
+parties here battle over the formula governing the adjust-
+ment, which the Federal Energy Regulatory Commission 
+controls in the exercise of its authority to regulate interstate 
+oil pipeline rates.1
+
+     Exxon Company, U.S.A.2 and Tesoro Alaska Petroleum 
+Company filed complaints with the Federal Energy Regulato-
+ry Commission assailing aspects of the prevailing formula.  
+Exxon challenges the formula itself, a so-called "distillation" 
+methodology that the Commission adopted in 1993 and later 
+modified in 1997;  Tesoro contests the specific valuation of 
+two "cuts" of petroleum, West Coast naphtha and West Coast 
+vacuum gas oil ("VGO").  A rate order must be modified 
+where "new evidence warrants the change."  Tagg Bros. & 
+Moorhead v. United States, 280 U.S. 420, 445 (1930).  Both 
+Exxon and Tesoro appear to have offered evidence that is 
+new in relation to what was before the Commission in its 
+earlier determinations and sufficiently compelling to require 
+reconsideration of the earlier resolution.  We therefore re-
+verse and remand the case for the Commission to reconsider 
+the adoption of the distillation methodology and the pricing of 
+West Coast naphtha and West Coast VGO, or to provide a 
+suitable explanation for why it should not.
+
+__________
+     1  The authority was originally vested in the Interstate Com-
+merce Commission, then transferred to the Federal Energy Regula-
+tory Commission when it replaced the Federal Power Commission 
+in 1977.  See 49 U.S.C. App. ss 1 et seq. (1988);  see also 49 U.S.C. 
+s 60502 ("The Federal Energy Regulatory Commission has the 
+duties and powers related to the establishment of a rate or charge 
+for the transportation of oil by pipeline or the valuation of that 
+pipeline that were vested on October 1, 1977, in the Interstate 
+Commerce Commission or an officer or component of the Interstate 
+Commerce Commission.") (emphasis added).  The Commission's 
+jurisdiction over the rates for oil going through to Valdez is 
+uncontested.  See Trans Alaska Pipeline System, 23 FERC 
+p 61,352 at 61,762 (1983).
+
+     2  Exxon Company, U.S.A. was a division of Exxon Corporation.  
+Since filing its appeal, Exxon Corporation has merged with Mobil 
+Corporation to become Exxon Mobil Corporation.
+
+                             *  *  *
+
+     In 1984 the Commission approved a settlement agreement 
+establishing a "Quality Bank" to make the required adjust-
+ments between shippers.  See Trans Alaska Pipeline Sys-
+tem, 29 FERC p 61,123 (1984).3  The Quality Bank initially 
+used a so-called "gravity" method.  As the term gravity is 
+used here, it is a measure of density established by the 
+American Petroleum Institute ("API").  In contrast to "spe-
+cific gravity", a higher API gravity represents a less dense 
+crude oil or petroleum product.  See Exxon Co., U.S.A. v. 
+FERC, 182 F.3d 30, 35 n.1 (D.C. Cir. 1999).  Because crude 
+oil was generally more valuable to the extent that it was 
+"higher"-gravity, i.e., lighter, the Quality Bank initially valued 
+crude oils according to their gravity.
+
+     Starting in 1987, the amount of natural gas liquids 
+("NGLs") in the stream increased, changing the picture--or 
+at least the perception.  Two factors contributed to this 
+increase.  First, natural gas operations expanded in Prudhoe 
+Bay, resulting in sharply increased deliveries of NGLs at the 
+head of the pipeline.  OXY USA, Inc. v. FERC, 64 F.3d 679, 
+691 (D.C. Cir. 1995);  see also Exxon Co., U.S.A. v. Amerada 
+Hess Pipeline Corp., 87 FERC p 61,133 at 61,521 (1999) 
+("Exxon Decision").  Second, expansion of one refinery and 
+construction of another along the route led to an increase in 
+removal of valuable mid-weight petroleum products from the 
+stream, apparently leaving a higher proportion of the lighter 
+NGLs in the petroleum at the end of the pipeline.  OXY, 64 
+F.3d at 691;  see also 57 FERC p 63,010, at 65,053 (1991).  
+NGLs have a much higher API gravity relative to other 
+petroleum components, but critics of the gravity method 
+argue that NGLs reduce rather than raise the value of the 
+common stream.  See OXY, 64 F.3d at 686.
+
+     Responding to the resulting complaints under s 13(2) of 
+the Interstate Commerce Act, the Commission in 1989 started 
+to investigate the gravity method.  It found that the method 
+was no longer just and reasonable and, in approving a con-
+
+__________
+     3  Unless stated otherwise, all citations to FERC orders have 
+the title "Trans Alaska Pipeline System".
+
+tested settlement in 1993, adopted the distillation method.  
+See 65 FERC p 61,277 (1993) ("Distillation Decision"), order 
+on reh'g, 66 FERC p 61,188 (1994), further order on reh'g, 67 
+FERC p 61,175 (1994).  This latest method recognizes eight 
+"cuts" of petroleum products (propane, isobutane, normal 
+butane, natural gasoline, naphtha, distillate, VGO and resid) 
+in each stream entering TAPS, ranked by their boiling points.  
+The cuts are individually priced.  Each shipper's delivery is 
+categorized under this system and valued in accordance with 
+the volume-weighted price of its component cuts.  Because 
+Alaskan North Slope ("ANS") oil is sold in both the Gulf 
+Coast and West Coast markets, each cut is assigned Gulf 
+Coast and West Coast prices.  Distillation Decision, 65 
+FERC at 62,290.
+
+     For some cuts there were acceptable indicators of market 
+value from the Oil Price Information Service ("OPIS") or 
+Platt's Oilgram.  No such markers were available, however, 
+for distillate, VGO or resid, or for West Coast naphtha.  For 
+these cuts the settlement proposed to use prices for kindred 
+products, adjusted for differences between them and the 
+actual cuts.  The Commission rejected this approach, saying 
+that for a system to be non-discriminatory it must use 
+"market prices, uncomplicated by subjective adjustments."  
+Id. at 62,289.  As part of this "No Adjustment Policy," the 
+Commission rejected the proposed use of adjusted West 
+Coast prices to value the West Coast naphtha cut and instead 
+set a Gulf Coast price for the cut.  On rehearing, it also 
+ordered the use of Gulf Coast prices for West Coast deliveries 
+of VGO.  Tesoro Alaska Petroleum Co. v. Amerada Hess 
+Pipeline Corp., 87 FERC p 61,132 at 61,514 (1999) ("Tesoro 
+Decision").  In OXY we affirmed the switch from the gravity 
+to the distillation method but remanded to the Commission its 
+refusal to adjust the reference prices for the distillate and 
+resid cuts.  64 F.3d at 701.  In due course the Commission 
+approved a nine-party settlement on these issues, providing 
+for some redefinition of cuts and for use (for several of the 
+cuts) of petroleum product prices adjusted to reflect process-
+ing costs.  See 81 FERC p 61,319, at 62,462-65 (1997).  On 
+
+review, we rejected the revised valuation of the resid cut and 
+again remanded.  Exxon, 182 F.3d at 42.
+
+     In 1996, while the OXY remand was under way, Exxon filed 
+a complaint against seven TAPS owners pursuant to ss 9, 
+13(1) and 15(1) of the Interstate Commerce Act, 49 U.S.C. 
+App. ss 9, 13(1), 15(1) (1988)--leading to the present case.  
+Upholding an ALJ decision, the Commission dismissed the 
+complaint, holding that Exxon had failed to produce evidence 
+of changed circumstances to justify re-examination of the 
+1993 adoption of the distillation method.  Exxon Decision, 87 
+FERC at 61,527-30.
+
+     Tesoro participated in the proceedings before the ALJ on 
+Exxon's complaint, raising issues that the ALJ ultimately 
+identified as different from Exxon's.  The ALJ's order of 
+dismissal mooted Tesoro's arguments but noted that Tesoro 
+was free to file its own complaint.  Exxon Co., U.S.A. v. 
+Amerada Hess Pipeline Corp., 83 FERC p 63,011, at 65,102 & 
+n.90 (1998).  It did so in August 1998, attacking the valuation 
+of the naphtha and VGO cuts.  The Commission dismissed 
+this, also on a finding of no changed circumstances.  Tesoro 
+Decision, 87 FERC at 61,517-20.
+
+     Petitioners argue that because their complaints were dis-
+posed of by Motion for Summary Disposition, our review is de 
+novo.  That would be true if we were reviewing a district 
+court's equivalent action.  But these dismissals implicate the 
+Commission's expertise and policy-making authority, compel-
+ling deference.  Motor Vehicle Manufacturers Ass'n of the 
+United States v. State Farm Mutual Auto. Ins. Co., 463 U.S. 
+29, 43 (1983).  The requisite deference does not, however, 
+mean passive acceptance of irrational or unexplained decision 
+making.  Id.;  see also Louisiana Public Service Comm'n v. 
+FERC, 184 F.3d 892, 895 (D.C. Cir. 1999).  Here we find the 
+Commission's answers to the evidence unconvincing.
+
+                              * * *
+
+     In Tagg Bros. & Moorhead v. United States, 280 U.S. 420 
+(1930), the Supreme Court held that a "rate order is not res 
+judicata."  Id. at 445.  Specifically, where a party presents 
+
+"new evidence [that] warrants the change," the regulatory 
+agency has the power and duty "to institute new proceed-
+ings."  Id.  Just as a plaintiff may allege a new cause of 
+action for every time a conspiracy in restraint of trade 
+operates against him, see Stanton v. District of Columbia 
+Court of Appeals, 127 F.3d 72, 78 (D.C. Cir. 1997), so each 
+new shipment by a carrier gives rise to a new cause of action, 
+as to which a previous adverse determination is not res 
+judicata, Interoceanica Corp. v. Sound Pilots, Inc., 107 F.3d 
+86, 91 (2d Cir. 1997);  Hawaiian Telephone Co. v. Public 
+Utilities Comm'n of Hawaii, 827 F.2d 1264, 1274 (9th Cir. 
+1987).  Issue preclusion might nonetheless be applicable, but 
+Tagg Bros. suggests that any such application is quite weak.
+
+     The Commission acknowledges the authority of Tagg Bros., 
+but reframes Justice Brandeis's formula--allowing re-opening 
+for "new evidence"--into one requiring evidence of "changed 
+circumstances."  It is unclear if any such limit may be 
+imposed.  In OXY itself we observed, "[t]he fact that a rate 
+was once found reasonable does not preclude a finding of 
+unreasonableness in a subsequent proceeding."  64 F.3d at 
+690 (internal quotation omitted).  See also Texas Eastern 
+Transmission Corp. v. FERC, 893 F.2d 767, 774 (5th Cir. 
+1990).  In OXY, as we noted, there were changed circum-
+stances--the increased proportion of NGLs in the common 
+stream, and in Texas Eastern there was an issue that the 
+prior determination had not confronted (the consistency of 
+minimum commodity bills with cost allocation based on the 
+modified fixed variable approach), 893 F.2d at 774.  In rate 
+cases that look toward the setting of a future rate (as this 
+does, having been brought under s 13(1) of the Interstate 
+Commerce Act), unacceptable competitive distortions could 
+occur if one shipper were perpetually locked into a rate less 
+advantageous than the one enjoyed by a competitor.  The 
+Supreme Court has emphasized this concern in the tax con-
+text:
+
+     [A] subsequent modification of the significant facts or a 
+     change or development in the controlling legal principles 
+     may make that [judicial] determination obsolete or erro-
+     
+     neous, at least for future purposes.  If such a determina-
+     tion is then perpetuated each succeeding year as to the 
+     taxpayer involved in the original litigation, he is accorded 
+     a tax treatment different from that given to other tax-
+     payers of the same class.
+     
+Commissioner of Internal Revenue v. Sunnen, 333 U.S. 591, 
+599 (1948).  Accordingly, we have upheld the denial of issue 
+preclusion where the Commission had initially rejected a 
+requested rate on grounds of difficulties in tracing costs of 
+service, but in a later proceeding the utility offered a solution.  
+Second Taxing Dist. of Norwalk v. FERC, 683 F.2d 477, 484 
+(D.C. Cir. 1982).  The new solution was perhaps a changed 
+circumstance, but it was one under the control of the utility 
+and thus seems somewhat akin to new evidence.  In any 
+event, because the outcome of our decision here does not turn 
+on the distinction between evidence of changed circumstances 
+and evidence that is merely new, we need not decide whether 
+there is any reason to retreat from the language of Justice 
+Brandeis.
+
+     Exxon provided the testimony of Dr. Pavlovic, an economic 
+consultant, who tested the accuracy of the modified distilla-
+tion methodology for 34 crude oils in the California crude oil 
+market from 1993 to 1996.  Pavlovic used regression analysis 
+to compare the relative values of the cuts produced by the 
+distillation method with actual market prices.  He claimed his 
+tests showed that the distillation method "substantially over-
+values low-value, heavier petroleum and substantially under-
+values high-value, lighter petroleum."  Joint Appendix 
+("J.A.") at 430.  He also testified that this bias "increase[d] 
+dramatically in 1994 and remain[ed] large thereafter."  Id. at 
+451.  A perfect pricing method would produce a coefficient of 
+1.0 in a regression of the method's relative values on those of 
+the benchmark market.  Whereas the coefficient--also called 
+a bias measure--was indeed just over 1.0 for 1993 (1.07), it 
+jumped in 1994 to 1.65 and remained around 1.6 for the next 
+two years.  Id. at 495.  Pavlovic argued that he could reject, 
+at a statistically significant level, the hypothesis that the bias 
+
+measure was 1.0 in 1994-1996.4 Id. at 453.
+
+     Pavlovic's testimony appears to constitute not only new 
+evidence but changed circumstances as well.  It shows that, 
+for reasons not yet conclusively determined, the degree of 
+bias resulting from the use of the distillation method rose 
+from imperceptible to severe after 1993.  The Commission's 
+answer--that it "consistently has refused to base its decisions 
+on how the TAPS Quality Bank should operate based on 
+regression analyses of West Coast or world crude values," 
+Exxon Decision, 87 FERC at 61,528--baffles us.  The Com-
+mission cannot be saying that regression analysis, good 
+enough to be a valuable tool for everyone else interested in 
+quantitative analysis, is never good enough for the Commis-
+sion.
+
+     The Intervenors offer an explanation that may be part of 
+what the Commission in fact had in mind:  "Dr. Pavlovic's 
+analysis was like testing a methodology designed to value 
+Alaskan apples by applying that methodology to a crate of 
+California oranges."  Intervenors' (BP Exploration (Alaska), 
+Inc. et al.) Br. at 13 ("Intervenors' Br.").  This glib use of the 
+old apples-oranges metaphor overlooks the problem confront-
+ing the Commission:  There simply are no market prices for 
+the Alaskan crude oils delivered into TAPS.  If there were, 
+there would be little or no issue about inferring their relative 
+values.  To the extent that the California crudes are similar 
+to the Alaskan crudes, Pavlovic's technique seems to test the 
+accuracy of the distillation method.  Compare J.A. at 440-43.
+
+     Exxon also provided the testimony of Mr. Moore, an engi-
+neer, and Dr. Hausman, an applied economist.  Moore 
+stressed that the gravity of ANS crude oil (consisting of the 
+streams that enter at the start of the pipeline at Pumping 
+Station #1 and the return stream from refineries along its 
+path) had increased from about 28ø API in 1992 to about 30ø 
+API in 1996.  Id. at 323.  In the face of the theory that 
+
+__________
+     4  The parties appear to agree that here the reference point is 
+November 30, 1993, the day on which the Commission ruled that 
+the distillation method was just and reasonable.  See Exxon Deci-
+sion, 87 FERC at 61,526.
+
+gravity increases due to NGL blending had undermined the 
+gravity formula, Moore tracks the seemingly close positive 
+relationship between the fraction of NGLs and gravity of this 
+crude oil, and, critically, between the gravity and price of 
+ANS crude (measured against West Texas Intermediate, a 
+"marker crude" used as a reference for valuing other crudes).  
+Id. at 323, 419, 421.
+
+     Exxon invokes the testimony of Moore not only to suggest 
+that the premise of the 1993 abandonment of gravity was 
+mistaken, but also to explain why one should expect occur-
+rence of the sort of distortions that Pavlovic seemingly 
+showed in the distillation method.  Although there is an 
+obvious link between crude oil values and petroleum product 
+prices, they do not move in lockstep.  The same event may 
+drive the prices of the two in different directions.  If a 
+refinery shuts down because of equipment problems, for 
+instance, it is likely to raise the market price of the refined 
+petroleum product, but may reduce demand for crude oil and 
+lower its price.  See id. at 342.
+
+     Hausman testified that regression results on price and 
+gravity data from 1988 to 1997 showed that gravity was a 
+significantly positive predictor of the price of ANS crude.  Id. 
+at 511-13.  This evidence seems to show a positive correlation 
+between (1) NGL blending, (2) gravity, and (3) value.  Peti-
+tioners rely on the Moore and Hausman testimony to suggest 
+that the distillation method seriously undervalues the NGL 
+contribution to the TAPS stream.  Aspects of Hausman's 
+testimony might pose questions about the line between evi-
+dence that is "new" and evidence of changed circumstances.  
+After all, Hausman claims that his regression results apply to 
+the entire period of his data--from 1988 to 1997--indicating 
+that the pre-1993 data also show the positive effect of gravity 
+on ANS value.  Overall, however, it certainly confirms the 
+implication of the Pavlovic and Moore testimony that the 
+distillation method is seriously flawed.
+
+     To dismiss the testimony of Moore and Hausman, the 
+Commission's decision invoked our deference in OXY to the 
+ALJ's conclusion that "the current straightline gravity basis 
+
+for valuing crude oil does not assign an accurate value for 
+NGLs," and our statement, "It follows from this conclusion 
+that shippers delivering oil with a high NGL content were 
+either being overcompensated or undercompensated under 
+the gravity methodology...."  64 F.3d at 691 (cited by the 
+Commission, Exxon Decision, 87 FERC at 61,528).  But 
+these remarks were plainly not intended to suggest indiffer-
+ence to the impact of NGL contributions to the value of the 
+common stream.  Quite the reverse:  We were endorsing the 
+ALJ's point that "the issue was not whether the gravity 
+methodology accurately valued NGLs per se, but whether it 
+placed a proper value on petroleum whose gravity had been 
+increased as a result of the injection of substantial quantities 
+of NGLs."  64 F.3d at 691.  That issue is precisely what 
+Exxon's testimony speaks to, seemingly calling into question 
+the Commission's 1993 determinations.
+
+                             *  *  *
+
+     Tesoro challenges the current pricing of the naphtha and 
+VGO cuts based on Gulf Coast market prices under the 
+modified distillation method.  Tesoro wants the Quality Bank 
+to value West Coast naphtha using a formula based on West 
+Coast gasoline prices and West Coast VGO using OPIS's 
+quoted price for West Coast high sulfur VGO.
+
+     Tesoro argues that the Commission's use of the published 
+Gulf Coast price, rather than a formula based on West Coast 
+gasoline prices, significantly undervalues West Coast naph-
+tha.5  Its claim is based on three propositions.  First, Tesoro 
+presents evidence, and the Intervenors acknowledge, that 
+Gulf Coast deliveries of ANS crude "have declined consider-
+ably from the somewhat less than 20% level that existed in 
+1993."  Intervenors' Br. at 25;  see also Distillation Decision, 
+65 FERC at 62,290.  The nearly complete disappearance of 
+
+__________
+     5  Naphtha is used to make gasoline.  Because there are consid-
+erable trades on the Gulf Coast, there is a quoted price for Gulf 
+Coast naphtha.  On the West Coast, however, refineries over-
+whelmingly use their own naphtha rather than buying it.  See J.A. 
+at 940-41.
+
+Gulf Coast ANS sales suggests that the Commission's current 
+reliance is more dubious now than in 1993.
+
+     Second, the Commission has changed its outlook on the use 
+of "adjusted" market prices.  In OXY we held that the 
+Commission's "No Adjustment Policy," which used market 
+prices instead of formulas, lacked an adequate foundation 
+with respect to the distillate and resid cuts.  64 F.3d at 694 
+(holding that the Commission "cannot, consistent with the 
+requirement of reasoned decisionmaking, value some cuts 
+precisely and others haphazardly").  On remand, the Com-
+mission seems to have abandoned its No Adjustment Policy, 
+adopting adjusted prices for several cuts.  See 81 FERC at 
+62,460-65.  The Commission tries to distinguish its treatment 
+of distillate and resid by suggesting that its No Adjustment 
+Policy could be trumped only when there is no reliable 
+published price for a cut in either market.  See Respondents' 
+Br. at 56.  But our decision in OXY does not rely on this 
+distinction.  See 64 F.3d at 693.  In fact, we made clear in 
+OXY that our concern was that the Commission use uniform 
+methods, id. at 694, a principle that would be breached if the 
+availability of an adequate non-adjusted benchmark for the 
+Gulf Coast prevented the use of an adjusted benchmark for 
+the West Coast.  See also Exxon, 182 F.3d at 38 ("[W]e did 
+not remand because the old method was inaccurate, but 
+because it was unfairly nonuniform.").
+
+     Despite the Commission's claims to the contrary, its deci-
+sion to use the Gulf Coast price for West Coast deliveries of 
+naphtha appears to have been based at least in part on the 
+now abandoned No Adjustment Policy.  Indeed even its brief 
+invokes the benefits of making no adjustments.  See Respon-
+dents' Br. at 13.  And the Intervenors admit that the Com-
+mission declined to adopt a formula based on West Coast 
+gasoline prices for naphtha because it did not want to assume 
+"the risk that the formulas the parties proposed would be 
+manipulated in some fashion to favor one party over another."  
+Intervenors' Br. at 26.  Even on a narrow view of OXY's 
+impact on the No Adjustment Policy, the changes in the Gulf 
+Coast naphtha market improve the trade-off for using an 
+
+adjusted price rather than one from the dwindling Gulf Coast 
+market.
+
+     Third, Tesoro presents evidence that appears to show a 
+large disparity between the Commission's valuation and the 
+true value of West Coast naphtha.  According to Mr. Stancil, 
+an engineer and energy consultant, the quoted Gulf Coast 
+naphtha price in December 1996 ($26.38 per barrel) underval-
+ued West Coast deliveries by $2.71 per barrel.6  This alleged 
+disparity dwarfs the ones that required remand in OXY.  See 
+81 FERC at 62,462 (revising valuation of light distillate by 
+$0.005 per gallon, or $0.21 per barrel, after OXY remand).
+
+     These three propositions may well be answerable by the 
+Commission.  But without an adequate Commission response, 
+they at the least establish a prima facie case that new 
+evidence warrants re-examination of how West Coast naphtha 
+should be valued.
+
+     Tesoro also challenges the valuation of the VGO cut.  In its 
+original decision on the distillation method, the Commission 
+found that illiquidity in the West Coast market required it to 
+use Gulf Coast prices for West Coast VGO.  67 FERC at 
+61,531.  Tesoro suggests that because the Commission later 
+found the West Coast NGL market, which is allegedly less 
+liquid than the West Coast VGO market, to be sufficiently 
+liquid to be used for NGL cuts, the Commission should also 
+use West Coast VGO prices for West Coast VGO.
+
+     The Commission provides two responses.  The first is 
+plainly inadequate.  The Commission says that it considered 
+Tesoro's evidence in 1998 in evaluating--and rejecting--a 
+proposal to change the valuation of West Coast VGO because 
+of a change in how Gulf Coast VGO prices were being 
+reported.  82 FERC p 61,343 (1998).  See also Tesoro Deci-
+sion, 87 FERC at 61,519 (citing the 1998 decision).  But when 
+Tesoro sought review of the resulting order in this court, the 
+Commission moved--successfully--for dismissal of the peti-
+tion for review on the ground that the order was non-final.  
+
+__________
+     6  Using adjusted gasoline prices, Stancil claims that West Coast 
+naphtha is worth $29.09 per barrel.  See J.A. at 1001.
+
+Petitioners' Br. at App. A.  Agencies may not use shell games 
+to elude review.  See AT&T Co. v. Federal Communications 
+Commission, 978 F.2d 727, 731-32 (D.C. Cir. 1992).
+
+     Second, the Commission argues that in its decision to use 
+the West Coast NGL market another factor was in play--
+differences between the coasts' petrochemical industries and 
+consequently their demand for NGLs--that is apparently 
+inapplicable to VGO.  That much is true.  In approving a 
+switch to reliance on the West Coast market for West Coast 
+NGLs in 1998, it reasoned that the higher demand for NGLs 
+on the Gulf Coast made it a less reliable standard for West 
+Coast NGLs than the West Coast market, despite the latter's 
+illiquidity.  81 FERC at 62,466.  But Tesoro's argument is 
+more subtle.  It is that the switch to reliance on the illiquid 
+West Coast NGL prices reflects a liberalization in the Com-
+mission's liquidity standards.
+
+     To this the Commission's reply is that it has no "generic 
+standards for liquidity."  Respondents' Br. at 57.  Thus the 
+1998 decision on NGLs could not have reflected a change in 
+such standards.  But the answer is illogical.  Clearly the 
+Commission regards illiquidity as a factor weighing against 
+the use of a possible benchmark.  When it changed its 
+position in 1998 to allow use of the illiquid West Coast market 
+it invoked disparities between the Gulf and West Coast 
+markets, but it never asserted that there has been a change 
+in those disparities.  Accordingly, Tesoro's inference that the 
+NGL change reflects a reduced Commission anxiety about 
+illiquidity is hardly unfair.  Of course it may be that for VGO 
+the Commission might reasonably find the balance to tilt 
+more strongly in favor of Gulf Coast prices, so that Tesoro's 
+claim will ultimately lose.  But Tesoro has shown enough to 
+get its foot in the door, entitling it to an attempt to persuade 
+the Commission to make a different trade-off on VGO.
+
+                             *  *  *
+
+     Whether or not Exxon's ultimate goal is to resurrect the 
+gravity method in some form (a matter the parties dispute), 
+its evidence at least suggests changed circumstances regard-
+
+ing the reasonableness of the distillation methodology.  Teso-
+ro has also supported its prima facie case about the valuation 
+of the naphtha and VGO cuts.  The Commission's failure to 
+respond meaningfully to the evidence renders its decisions 
+arbitrary and capricious.  Unless an agency answers objec-
+tions that on their face appear legitimate, its decision can 
+hardly be said to be reasoned.  International Harvester Co. 
+v. Ruckelshaus, 478 F.2d 615, 648 (D.C. Cir. 1973);  see also 
+City of Vernon v. FERC, 845 F.2d 1042, 1048 (D.C. Cir. 1988).
+
+                             *  *  *
+
+     Exxon in a footnote arguably challenges the Commission's 
+observation that "changes in the quality bank would be on a 
+prospective basis, and no damages awarded."  Exxon Deci-
+sion, 87 FERC at 61,524 n.28 (cited in Petitioners' Br. at 10-
+11 n.8).  The issue appears premature, as there has yet been 
+no finding that the prevailing methodology is not just and 
+reasonable.  Presumably the availability of damages turns in 
+the first instance on the applicable statutory language.  See, 
+e.g., 49 U.S.C. App. s 15(1)(1988) ("Whenever, after full 
+hearing, upon a complaint made as provided in section 13 [of 
+the Interstate Commerce Act] ... the Commission shall be of 
+opinion that any ... rate ... is or will be unjust or unreason-
+able ..., the Commission is authorized and empowered to 
+determine and prescribe what will be the just and reasonable 
+... rate ... to be thereafter followed....").  See also 49 
+U.S.C. App. s 13(2) (1988) (withholding authority to make 
+"orders for the payment of money" under this section);  49 
+U.S.C. App. s 15(7) (1988) (providing for Commission suspen-
+sion of carrier-filed rate schedules pending hearing, and for 
+refunds when the rate issues are resolved);  cf. OXY, 64 F.3d 
+at 698-700.  But see Exxon, 182 F.3d at 49-50.  Because the 
+claim is premature, we do not address it.
+
+                             *  *  *
+
+     The absence of a reasoned Commission explanation re-
+quires us to reverse and remand the case for further proceed-
+ings.
+
+                                                             So ordered.
+
+                                              

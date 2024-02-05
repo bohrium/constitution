@@ -1,0 +1,1295 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued October 17, 2000     Decided March 2, 2001 
+
+                           No. 94-1035
+
+               Time Warner Entertainment Co., L.P. 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                 BellSouth Corporation, et al., 
+                           Intervenors
+
+                        Consolidated with 
+               95-1337, 99-1503, 99-1504, 99-1522, 
+                    99-1541, 99-1542, 00-1086
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+     David W. Carpenter argued the cause for petitioners 
+AT&T Corporation and Time Warner Entertainment Co., 
+
+L.P.  With him on the briefs were Peter Keisler, David L. 
+Lawson, C. Frederick Beckner III, Henk Brands and Robert 
+D. Joffe.  Charles S. Walsh, Richard B Beckner, Stuart W. 
+Gold and Marc C. Rosenblum entered appearances.
+
+     Robert D. Joffe and Henk Brands were on the briefs for 
+petitioner Time Warner Entertainment Co., L.P.  Charles S. 
+Walsh, Richard B. Beckner and Stuart W. Gold entered 
+appearances.
+
+     Andrew Jay Schwartzman, Cheryl A. Leanza and Harold 
+Feld were on the briefs for petitioner Consumers Union.
+
+     James M. Carr, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  With him on the 
+brief were Christopher J. Wright, General Counsel, Daniel 
+M. Armstrong, Associate General Counsel, Joel Marcus and 
+James M. Carr, Counsel, David W. Ogden, Acting Assistant 
+Attorney General, U.S. Department of Justice, Mark B. Stern 
+and Jacob M. Lewis, Attorneys, and Wilma A. Lewis, U.S. 
+Attorney.  William E. Kennard, General Counsel, Federal 
+Communications Commission, John E. Ingle, Deputy Associ-
+ate General Counsel, and Catherine G. O'Sullivan, Robert B. 
+Nicholson and Robert J. Wiggers, Attorneys, U.S. Depart-
+ment of Justice, entered appearances.
+
+     Henk J. Brands, Robert D. Joffe, Peter D. Keisler, David 
+L. Lawson and C. Frederick Beckner III were on the brief for 
+intervenor Time Warner Entertainment Co., L.P. in No. 
+99-1522.  Mark C. Rosenblum entered an appearance.
+
+     Before:  Williams, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  Section 11(c) of the Cable Televi-
+sion Consumer Protection and Competition Act of 1992, Pub. 
+L. No. 102-385, 106 Stat. 1460 ("1992 Cable Act"), amends 47 
+U.S.C. s 533 to direct the Federal Communications Commis-
+sion to set two types of limits on cable operators.  The first 
+type is horizontal, addressing operators' scale:  "limits on the 
+
+number of cable subscribers a person is authorized to reach 
+through cable systems owned by such person, or in which 
+such person has an attributable interest."  47 U.S.C. 
+s 533(f)(a)(1)(A).  The second type is vertical, addressing 
+operators' integration with "programmers" (suppliers of pro-
+grams to be carried over cable systems):  "limits on the 
+number of channels on a cable system that can be occupied by 
+a video programmer in which a cable operator has an attrib-
+utable interest."  47 U.S.C. s 533(f)(a)(1)(B).  The FCC has 
+duly promulgated regulations.  See 47 C.F.R. s 76.503-04.  
+Petitioners Time Warner and AT&T challenge the horizontal 
+limit as in excess of statutory authority, as unconstitutional 
+infringements of their freedom of speech, and as products of 
+arbitrary and capricious decisionmaking which violate the 
+Administrative Procedure Act.  Time Warner similarly chal-
+lenges the vertical limit.  Together with AT&T, Time Warner 
+also challenges as arbitrary and capricious the rules for 
+determining what counts as an "attributable interest."  Con-
+cluding that the FCC has not met its burden under the First 
+Amendment and, in part, lacks statutory authority for its 
+actions, we remand for further consideration of both limits.  
+In addition we vacate specific portions of the attribution rules 
+as lacking rational justification.
+
+     Consumers Union also files a petition for review, which 
+need not detain us long.  It objects to the Commission's 
+action to the extent that it continued a stay on enforcement of 
+the horizontal limit.  See Implementation of Section 11(c) of 
+the Cable Television Consumer Protection and Competition 
+Act of 1992, 14 F.C.C.R. 19098, 19127-28 p p 71-73 (1999) 
+("Third Report").  The Commission issued the stay after a 
+district court found the statute underlying that limit unconsti-
+tutional, see Daniels Cablevision, Inc. v. United States, 835 
+F. Supp. 1 (D.D.C. 1993), and provided that in the event of 
+Daniels's reversal the stay would end.  See Implementation 
+of Sections 11 and 13 of the Cable Television Consumer 
+Protection and Competition Act of 1992, 8 F.C.C.R. 8565, 
+8609 p 109 (1993) ("Second Report").  We did reverse Daniels 
+in Time Warner Entertainment Co. v. United States, 211 
+
+F.3d 1313 (D.C. Cir. 2000) ("Time Warner I"), so the stay 
+ended automatically.1  Thus the stay issue is moot unless the 
+issue posed is capable of repetition yet evading review.  Even 
+if we assume that the issue evades review, its recurrence is 
+not probable enough to qualify it as "capable of repetition."  
+See Spencer v. Kemna, 523 U.S. 1, 17 (1998) (requiring "a 
+reasonable expectation that the same complaining party [will] 
+be subject to the same action again") (internal citations 
+omitted).  Although we find here that the regulations fail 
+constitutional scrutiny, the specific condition that led to the 
+stay--a pending challenge to the statute's constitutionality--
+is highly unlikely to recur.  We therefore find Consumers 
+Union's claim moot and dismiss the petition.
+
+                              * * *
+
+     The horizontal rule imposes a 30% limit on the number of 
+subscribers that may be served by a multiple cable system 
+operator ("MSO").  See 47 C.F.R. s 76.503;  Third Report 14 
+F.C.C.R. at 19119 p 55.  Both the numerator and denomina-
+tor of this fraction include only current subscribers to multi-
+channel video program distributor ("MVPD") services.  See 
+id. at 19107-10 p p 20-25.  Subscribers include not only users 
+of traditional cable services but also subscribers to non-cable 
+MVPD services such as Direct Broadcast Satellite ("DBS"),2 a 
+
+__________
+     1 The cross-appeals of the government and the cable firms from 
+the district court's decision in Daniels were originally consolidated 
+with the cable firms' petitions for review of earlier iterations of the 
+implementing regulations.  See Time Warner I, 211 F.3d at 1315-
+16.  After a date for oral argument was set, the FCC initiated a 
+new rulemaking as part of its planned quinquennial review of the 
+horizontal regulations.  We therefore severed the Daniels appeals 
+from the challenges to the regulations, holding the latter in abey-
+ance until the completion of the new rulemaking.  See id.  The 
+challenge to the new horizontal rules has supplanted that portion of 
+the earlier challenges.
+
+     2 DBS "is a nationally distributed subscription video service that 
+delivers programming via satellite to a small parabolic 'dish' anten-
+na located at the viewer's home."  Annual Assessment of the Status 
+of Competition in the Market for the Delivery of Video Program-
+
+rapidly growing segment of the MVPD market.  See id. at 
+19110-12 p p 26-35.  The Commission pointed out that under 
+this provision the nominal 30% limit would allow a cable 
+operator to serve 36.7% of the nation's cable subscribers if it 
+served none by DBS.  See id. at 19113 p 37 & n.82.3  In an 
+express effort to encourage competition through new provi-
+sion of cable, the Commission excluded from any MSO's 
+numerator all new subscribers signed up by virtue of "over-
+building," the industry's term for cable laid in competition 
+with a pre-existing cable operator.  See id. at 19112-13 p p 34, 
+37.  Further, subscribers to a service franchised after the 
+rule's adoption (October 20, 1999) do not go into an MSO's 
+numerator, even if not the result of an overbuild.  See id. at 
+19112 p 33.  As a result, the rule's main bite is on firms 
+obtaining subscribers through merger or acquisition.
+
+     The vertical limit is currently set at 40% of channel capaci-
+ty, reserving 60% for programming by non-affiliated firms.  
+See 47 C.F.R. s 76.504;  Second Report, 8 F.C.C.R. at 8593-
+94 p 68;  Implementation of Section 11(c) of the Cable Televi-
+sion Consumer Protection and Competition Act of 1992, 10 
+F.C.C.R. 7364, 7368 p 14 (1995) ("Reconsideration Order").  
+Channels assigned to broadcast stations, leased access, and 
+for public, educational, or governmental uses are included in 
+the calculation of channel capacity.  See id. at 7371-73 p p 20-
+27.  Capacity over 75 channels is not subject to the limit, so a 
+cable operator is never required to reserve more than 45 
+channels for others (.60 x 75 = 45).  See id. at 7374-76 
+p p 31-35.
+
+__________
+ming, Seventh Annual Report, CS Docket No. 00-132, FCC 01-01 
+(rel. Jan. 8, 2001) p 71 (2000) ("Seventh Annual Report").
+
+     3 30% of roughly 80 million MVPD subscribers would be about 24 
+million subscribers, which in turn would be 36.69% of roughly 66 
+million cable subscribers.  Under the Commissions most recent 
+subscriber estimates, this provision would allow an MSO to serve 
+37.4% of cable subscribers, or approximately 1.1 million more 
+customers than when the Third Report was written.  See Seventh 
+Annual Report at p p 6-7.
+
+     As cable operators, Time Warner and AT&T "exercise[ ] 
+editorial discretion in selecting the programming [they] will 
+make available to [their] subscribers," Time Warner I, 211 
+F.3d at 1316, and are "entitled to the protection of the speech 
+and press provisions of the First Amendment," Turner 
+Broadcasting System, Inc. v. Federal Communications Com-
+mission, 512 U.S. 622, 636 (1994) ("Turner I") (quoting 
+Leathers v. Medlock, 499 U.S. 439, 444 (1991)).  The horizon-
+tal limit interferes with petitioners' speech rights by restrict-
+ing the number of viewers to whom they can speak.  The 
+vertical limit restricts their ability to exercise their editorial 
+control over a portion of the content they transmit.
+
+     In Time Warner I we upheld the statutory provisions 
+against a facial attack, after finding them subject to interme-
+diate rather than, as the cable firms argued, strict scrutiny.  
+Time Warner I, 211 F.3d at 1316-22.  The regulations here 
+present a related but independent set of questions.  Constitu-
+tional authority to impose some limit is not authority to 
+impose any limit imaginable.
+
+     In briefs written before the issuance of Time Warner I, 
+petitioners argued here for strict scrutiny.  At oral argument 
+they withdrew from this position and said, euphemistically, 
+that they were "happy to stand on intermediate scrutiny."  
+Because of that concession and, in any event, not seeing any 
+distinction between the statute and the regulations for level-
+of-scrutiny purposes, we apply intermediate scrutiny.  Under 
+the formula set forth in United States v. O'Brien, 391 U.S. 
+367, 377 (1968), and reaffirmed by Turner Broadcasting 
+System, Inc. v. Federal Communications Commission, 520 
+U.S. 180, 189 (1997) ("Turner II"), a governmental regulation 
+subject to intermediate scrutiny will be upheld if it "advances 
+important governmental interests unrelated to the suppres-
+sion of free speech and does not burden substantially more 
+speech than necessary to further those interests."  Id. (quot-
+ing O'Brien, 391 U.S. at 377).
+
+     The interests asserted in support of the horizontal and 
+vertical limits are the same interrelated interests that we 
+found sufficient to support the statutory scheme in Time 
+
+Warner I:  "the promotion of diversity in ideas and speech" 
+and "the preservation of competition."  Time Warner I, 211 
+F.2d at 1319;  see also Turner I, 512 U.S. at 662-64 (conclud-
+ing that both qualify as important governmental interests).  
+After a review of the legislative history, we concluded that 
+Congress had drawn "reasonable inferences, based upon sub-
+stantial evidence, that increases in the concentration of cable 
+operators threatened diversity and competition in the cable 
+industry."  Time Warner I, 211 F.3d at 1319-20.  But the 
+FCC must still justify the limits that it has chosen as not 
+burdening substantially more speech than necessary.  In 
+addition, in "demonstrat[ing] that the recited harms are real, 
+not merely conjectural," Turner I, 512 U.S. at 664, the FCC 
+must show a record that validates the regulations, not just 
+the abstract statutory authority.
+
+                              * * *
+
+     The FCC asserts that a 30% horizontal limit satisfies its 
+statutory obligation to ensure that no single "cable operator 
+or group of cable operators can unfairly impede ... the flow 
+of video programming from the video programmer to the 
+consumer," 47 U.S.C. s 533(f)(2)(A), while adequately re-
+specting the benefits of clustering4 and the economies of scale 
+that are thought to come with larger size.  See Third Report, 
+14 F.C.C.R. at 19123-24 p 61.  It interpreted this statutory 
+language as a directive to prohibit large MSOs--either by the 
+action of a single MSO or the coincidental or collusive actions 
+of several MSOs--from precluding the entry into the market 
+of a new cable programmer.  See id. at 19116 p 43.  In 
+setting the limit at 30%, it assumed there was a serious risk 
+of collusion.  See id., Part VI, at 19113-25 p p 36-65.  But 
+
+__________
+     4 "Clustering" refers to the strategy under which MSOs concen-
+trate their operations within a particular geographic region, giving 
+up scattered holdings around the country.  The benefits are 
+thought to be in achieving economies of both scale and scope, 
+allowing MSOs to spread fixed investment costs over a larger 
+customer base and to better compete with telephone companies 
+owning local loops that are actual or potential substitutes.  See 
+Seventh Report p p 152-53.
+
+while collusion is a form of anti-competitive behavior that 
+implicates an important government interest, the FCC has 
+not presented the "substantial evidence" required by Turner 
+I and Turner II that such collusion has in fact occurred or is 
+likely to occur;  so its assumptions are mere conjecture.  See 
+Turner II, 520 U.S. at 195 (citing Turner I, 512 U.S. at 666).  
+The FCC alternatively relies on its supposed grant of authori-
+ty to regulate the non-collusive actions of large MSOs.  Con-
+gress may indeed, under certain readings of Turner I and 
+Turner II, have the power to regulate the coincidental but 
+independent actions of cable operators solely in the interest of 
+diversity, but "[w]here an administrative interpretation of a 
+statute invokes the outer limits of Congress' power, we expect 
+a clear indication that Congress intended that result."  Solid 
+Waste Agency v. United States Army Corps of Eng'rs, __ 
+U.S. __, 121 S. Ct. 675, 683 (2001).  The 1992 Cable Act, as 
+we shall see, instead expresses the contrary intention.
+
+     Part VI of the Third Report lays out the calculations that 
+lead the FCC to the 30% limit.  See Third Report, Part VI, 
+14 F.C.C.R. at 19113-25 p p 36-65.  First the FCC deter-
+mines that the average cable network needs to reach 15 
+million subscribers to be economically viable.  See id. at 
+19114-16 p p 40-42.  This is 18.56% of the roughly 80 million 
+MVPD subscribers, and the FCC rounds it up to 20% of such 
+subscribers.  The FCC then divines that the average cable 
+programmer will succeed in reaching only about 50% of the 
+subscribers linked to cable companies that agree to carry its 
+programming, because of channel capacity, "programming 
+tastes of particular cable operators," or other factors.  Id. at 
+19117-18 p 49.  The average programmer therefore requires 
+an "open field" of 40% of the market to be viable (.20/.50 = 
+.40).  See id. at 19117-18 p p 46-50.
+
+     Finally, to support the 30% limit that it says is necessary to 
+assure this minimum, the Commission reasons as follows:  
+With a 30% limit, a programmer has an "open field" of 40% of 
+the market even if the two largest cable companies deny 
+carriage, acting "individually or collusively."  Id. at 19119 
+p 53.  A 50% rule is inadequate because, if a duopoly were to 
+result, "[t]he probability of tacit collusion is higher with 2 
+
+competitors than 3 competitors."  Id. at 19118-19 p 51.  Even 
+if collusion were not to occur, independent rejections by two 
+MSOs could doom a new programmer, thwarting congression-
+al intent as the Commission saw it.  See id.  A 40% limit is 
+insufficient for the same reason:  "two MSOs, ... represent-
+ing a total of 80% of the market, might decline to carry the 
+new network" and leave only 20% "open," which by hypothe-
+sis is not enough (because of the 50% success rate).  Id. at 
+19119 p 52.  Although the Commission doesn't spell out the 
+intellectual process, it is necessarily defining the requisite 
+"open field" as the residue of the market after a programmer 
+is turned down either (1) by one cable company acting alone, 
+or (2) by a set of companies acting either (a) collusively or (b) 
+independently but nonetheless in some way that, because of 
+the combined effect of their choices, threatens fulfillment of 
+the statutory purposes.  We address the FCC's authority to 
+regulate each of these scenarios in turn.
+
+     The Commission is on solid ground in asserting authority to 
+be sure that no single company could be in a position single-
+handedly to deal a programmer a death blow.  Statutory 
+authority flows plainly from the instruction that the Commis-
+sion's regulations "ensure that no cable operator or group of 
+cable operators can unfairly impede, either because of the size 
+of any individual operator or because of joint actions of 
+operators of sufficient size, the flow of video programming 
+from the video programmer to the consumer."  47 U.S.C. 
+s 533(f)(2)(A) (emphasis added).  Constitutional authority is 
+equally plain.  As the Supreme Court said in Turner II:  "We 
+have identified a corresponding 'governmental purpose of the 
+highest order' in ensuring public access to 'a multiplicity of 
+information sources.' "  520 U.S. at 190 (quoting Turner I, 
+512 U.S. at 663);  see also Time Warner Entertainment Co. v. 
+Federal Communications Commission, 93 F.3d 957, 969 
+(D.C. Cir. 1996).  If this interest in diversity is to mean 
+anything in this context, the government must be able to 
+ensure that a programmer have at least two conduits through 
+which it can reach the number of viewers needed for viabili-
+ty--independent of concerns over anticompetitive conduct.
+
+     Assuming the validity of the premises supporting the 
+FCC's conclusion that a 40% "open field" is necessary (a 
+question that we need not answer here), the statute's express 
+concern for the act of "any individual operator" would justify 
+a horizontal limit of 60%.  To reach the 30% limit, the FCC's 
+action necessarily involves one or the other of two additional 
+propositions:  Either there is a material risk of collusive 
+denial of carriage by two or more companies, or the statute 
+authorizes the Commission to protect programmers against 
+the risk of completely independent rejections by two or more 
+companies leaving less than 40% of the MVPD audience 
+potentially accessible.  Neither proposition is sound.
+
+     First, we consider whether there is record support for 
+inferring a non-conjectural risk of collusive rejection.  Either 
+Congress or the Commission could supply that record, and we 
+take them in that order.  We give deference to the predictive 
+judgments of Congress, see Turner II, 520 U.S. at 195-96 
+(citing Turner I, 512 U.S. at 665), but Congress appears to 
+have made no judgment regarding collusion.  The statute 
+plainly alludes to the possibility of collusion when it autho-
+rizes regulations to protect against "joint actions by a group 
+of operators of sufficient size." 47 U.S.C. s 533(f)(2)(A) (em-
+phasis added).  But this phrase, while granting the Commis-
+sion authority to take action in the event that it finds collu-
+sion extant or likely, is not itself a congressional finding of 
+actual or probable collusion.  Such findings have not been 
+made.  No reference to collusion appears in the Act's findings 
+or policy, see 1992 Cable Act s 2, 106 Stat. at 1460-63, nor in 
+the legislative history discussing the horizontal or vertical 
+limits.  See H.R. Rep. No. 102-628, at 40-43 (1992) ("House 
+Report");  S. Rep. No. 102-92, at 24-29, 32-34, reprinted in 
+1991 U.S.C.C.A.N. 1133, at 1156-62, 1165-67 ("Senate Re-
+port").  It was thus appropriate for the FCC to describe 
+Congress's reference to "joint" action as merely a "legislative 
+assumption."  Third Report, 14 F.C.C.R. at 19116 p 43 (em-
+phasis added).
+
+     The Commission's own findings amount to precious little.  
+It says only:
+
+     The legislative assumption [about joint action] is not 
+     unreasonable given an environment in which all the 
+     larger operators in the industry are vertically integrated 
+     so that all are both buyers and sellers of programming 
+     and have mutual incentives to reach carriage decisions 
+     beneficial to each other.  Operators have incentives to 
+     agree to buy their programming from one another.  
+     Moreover, they have incentives to encourage one another 
+     to carry the same non-vertically integrated programming 
+     in order to share the costs of such programming.
+     
+Id.  None of these assertions is supported in the record.  The 
+Commission never explains why the vertical integration of 
+MSOs gives them "mutual incentive to reach carriage deci-
+sions beneficial to each other," what may be the firms' 
+"incentives to buy ... from one another," or what the proba-
+bilities are that firms would engage in reciprocal buying 
+(presumably to reduce each other's average programming 
+costs).  After all, the economy is filled with firms that, like 
+MSOs, display partial upstream vertical integration.  If that 
+phenomenon implies the sort of collusion the Commission 
+infers, one would expect the Commission to be able to point to 
+examples.  Yet it names none.  Further, even if one accepts 
+the proposition that an MSO could benefit from sharing the 
+services of specific programmers, programming is not more 
+attractive for this purpose merely because it originates with 
+another MSO's affiliate rather than with an independent.
+
+     The only justification that the FCC offers in support of its 
+collusion hypothesis is the economic commonplace that, all 
+other things being equal, collusion is less likely when there 
+are more firms.  See Third Report 14 F.C.C.R. at 19118-19 
+p 51.  This observation will always be true, although margin-
+ally less so for each additional firm;  but by itself it lends no 
+insight into the question of what the appropriate horizontal 
+limit is.  Turner I demands that the FCC do more than 
+"simply 'posit the existence of the disease sought to be 
+cured.' "  Turner I, 512 U.S. at 664 (quoting Quincy Cable 
+TV, Inc. v. Federal Communications Commission, 768 F.2d 
+1434, 1455 (D.C. Cir. 1985).  It requires that the FCC draw 
+"reasonable inferences based on substantial evidence."  Tur-
+
+ner I, 512 U.S. at 666.  Substantial evidence does not require 
+a complete factual record--we must give appropriate defer-
+ence to predictive judgments that necessarily involve the 
+expertise and experience of the agency.  See Turner II 520 
+U.S. at 196, citing Federal Communications Commission v. 
+National Citizens Comm. For Broadcasting, 436 U.S. 775, 
+814 (1978).  But the FCC has put forth no evidence at all that 
+indicates the prospects for collusion.
+
+     That having been said, we do not foreclose the possibility 
+that there are theories of anti-competitive behavior other 
+than collusion that may be relevant to the horizontal limit and 
+on which the FCC may be able to rely on remand.  See 47 
+U.S.C. s 533(f)(1).  Indeed, Congress considered, among oth-
+er things, the ability of MSOs dominant in specific cable 
+markets to extort equity from programmers or force exclu-
+sive contracts on them.  See 1992 Cable Act s 2(a)(4)-(5), 106 
+Stat. at 1460-61;  Senate Report at 3, 14, 23-29, 32-34, 
+reprinted in 1991 U.S.C.C.A.N. at 1135, 1146-47, 1156-62, 
+1165-67;  House Report at 40-43.  A single MSO, acting 
+alone rather than "jointly," might perhaps be able to do so 
+while serving somewhat less than the 60% of the market (i.e., 
+less than the fraction that would allow it unilaterally to lock 
+out a new cable programmer) despite the existence of anti-
+trust laws and specific behavioral prohibitions enacted as part 
+of the 1992 Cable Act, see 47 U.S.C. s 536, and the risk might 
+justify a prophylactic limit under the statute.  See Time 
+Warner I, 211 F.3d at 1322-23.  So the absence of any 
+showing of a serious risk of collusion does not necessarily 
+preclude a finding of a sufficient governmental interest in 
+preventing unfair competition.  (We express no opinion on 
+whether exploitation of a monopoly position in a specific cable 
+market to extract rents that would otherwise flow to pro-
+grammers alone gives rise to an "important governmental 
+interest" justifying a burden on speech.)  But the FCC made 
+no attempt to justify its regulation on these grounds.
+
+     We pause here to address an aspect of petitioners' statuto-
+ry challenge that is relevant to a showing of non-conjectural 
+harm.  Congress required that in setting the horizontal limit, 
+the FCC "take particular account of the market structure ... 
+
+including the nature and market power of the local franchise."  
+47 U.S.C. s 533(f)(2)(C).  Petitioners assert that the Commis-
+sion's failure to take adequate account of the competitive 
+pressures brought by the availability and increasing success 
+of DBS make the horizontal limit arbitrary and capricious.  
+Although DBS accounts for only 15.4% of current MVPD 
+households, the annual increase in its total subscribership is 
+almost three times that of cable (nearly three million addi-
+tional subscribers over the period June 1999 to June 2000, as 
+against one million for cable).  See Seventh Annual Report 
+p p 6-8.  To the extent petitioners argue that the horizontal 
+limit must fail because market share does not equal market 
+power, they misconstrue the statutory command.  The Com-
+mission is not required to design a limit that falls solely on 
+firms possessing market power.5  The provision is directed to 
+the Commission's intellectual process, and requires it, in 
+evaluating the harms posed by concentration and in setting 
+the subscriber limit, to assess the determinants of market 
+power in the cable industry and to draw a connection between 
+market power and the limit set.
+
+     It follows naturally from our earlier discussion that we do 
+not believe the Commission has satisfied this obligation.  
+Having failed to identify a non-conjectural harm, the Commis-
+sion could not possibly have addressed the connection be-
+tween the harm and market power.  But the assessment of a 
+real risk of anti-competitive behavior--collusive or not--is 
+itself dependent on an understanding of market power, and 
+the Commission's statements in the Third Report seem to 
+ignore the true relevance of competition.  In changing the 
+calculation of the horizontal limit to reflect subscribers in-
+stead of homes at which a service is available, for instance, 
+the Commission wrote:
+
+     [W]hether subscribership or homes passed data is used is 
+     largely a mechanical issue in terms of the market power 
+     issue....  As the market develops in terms of competi-
+     
+__________
+     5 Contrast Congress's requirement that the FCC "make such 
+rules and regulations reflect the dynamic nature of the communica-
+tions marketplace."  47 U.S.C. s 533(f)(2)(E) (emphasis added).
+
+     tion we believe ... that an operator's actual number of 
+     subscribers more uniformly and accurately reflects pow-
+     er in the programming marketplace.
+     
+Third Report, 14 F.C.C.R. at 19108 p 22.
+
+     But normally a company's ability to exercise market power 
+depends not only on its share of the market, but also on the 
+elasticities of supply and demand, which in turn are deter-
+mined by the availability of competition.  See AT&T Corp. v. 
+Federal Communications Commission, 236 F.3d 729, 736 
+(D.C. Cir. 2001).  If an MVPD refuses to offer new program-
+ming, customers with access to an alternative MVPD may 
+switch.  The FCC shows no reason why this logic does not 
+apply to the cable industry.  Indeed, its most recent competi-
+tion report suggests that it does.  According to the Commis-
+sion, "several very small and rural cable systems have used a 
+variety of schemes to add digital channels, expand their 
+program offerings, and take preemptive action against ag-
+gressive DBS marketing."  Seventh Annual Report p 67.
+
+     Given the substantial changes in the cable industry since 
+publication of the Third Report in 1999 and our reversal on 
+other grounds, there is little point in our reviewing the 
+Commission's assessment of then-existing market power of 
+cable MVPDs.  But whatever conclusions are to be drawn 
+from the new data, it seems clear that in revisiting the 
+horizontal rules the Commission will have to take account of 
+the impact of DBS on that market power.  Already when the 
+Third Report was written, DBS could be considered to "pass 
+every home in the country."  Third Report, 14 F.C.C.R. at 
+19107-08 p 20.  The technological and regulatory changes 
+since then appear only to strengthen petitioners' contention.  
+See Seventh Annual Report p p 60-82, 140.
+
+     With the risk of collusion inadequately substantiated to 
+support the 30% limit and no attempt to find other anti-
+competitive behavior, there remains the Commission's alter-
+native ground--that programming choices made "unilateral-
+ly" by multiple cable companies, Third Report, 14 F.C.C.R. at 
+19118-19 p 51;  see also id. at 19119 p 53 ("individually"), 
+might reduce a programmer's "open field" below the 40% 
+
+benchmark.  The only support the Commission offered for 
+regulation based on this possibility was the idea that every 
+additional chance for a programmer to secure access would 
+enhance diversity:
+
+     [T]he 30% limit serves the salutary purpose of ensuring 
+     that there will be at least 4 MSOs in the marketplace.  
+     The rule thus maximizes the potential number of MSOs 
+     that will purchase programming.  With more MSOs mak-
+     ing purchasing decisions, this increases the likelihood 
+     that the MSOs will make different programming choices 
+     and a greater variety of media voices will therefore be 
+     available to the public.
+     
+Id. p 54.  Petitioners challenge the FCC's authority to regu-
+late for this purpose on both constitutional and statutory 
+grounds.
+
+     We have some concern how far such a theory may be 
+pressed against First Amendment norms.  Everything else 
+being equal, each additional "voice" may be said to enhance 
+diversity.  And in this special context, every additional splin-
+tering of the cable industry increases the number of combina-
+tions of companies whose acceptance would in the aggregate 
+lay the foundations for a programmer's viability.  But at 
+some point, surely, the marginal value of such an increment in 
+"diversity" would not qualify as an "important" governmental 
+interest.  Is moving from 100 possible combinations to 101 
+"important"?  It is not clear to us how a court could deter-
+mine the point where gaining such an increment is no longer 
+important.  And it would be odd to discover that although a 
+newspaper that is the only general daily in a metropolitan 
+area cannot be subjected to a right of reply, see Miami 
+Herald Publishing Co. v. Tornillo, 418 U.S. 241 (1974), it 
+could in the name of diversity be forced to self-divide.  Cer-
+tainly the Supreme Court has not gone so far.
+
+     We need not face that issue, however, because we conclude 
+that Congress has not given the Commission authority to 
+impose, solely on the basis of the "diversity" precept, a limit 
+that does more than guarantee a programmer two possible 
+outlets (each of them a market adequate for viability).  We 
+
+analyze the agency action under the familiar framework of 
+Chevron USA, Inc. v. National Resources Defense Council, 
+Inc., 467 U.S. 837 (1984).  If we find (using traditional tools of 
+statutory interpretation) that Congress has resolved the ques-
+tion, that is the end of the matter.  FDA v. Brown & 
+Williamson Tobacco Corp., 529 U.S. 120, 132 (2000);  Nation-
+al Resources Defense Council, Inc. v. Browner, 57 F.3d 1122, 
+1125 (D.C. Cir. 1995).  We must place the statutory language 
+in context and "interpret the statute 'as a symmetrical and 
+coherent regulatory scheme.' "  Brown & Williamson, 529 
+U.S. at 133.
+
+     We begin with the statutory language.  The relevant sec-
+tion requires the FCC to
+
+     ensure that no cable operator or group of cable operators 
+     can unfairly impede, either because of the size of any 
+     individual operator or because of joint actions by a group 
+     of operators of sufficient size, the flow of video program-
+     ming from the video programmer to the consumer.
+     
+47 U.S.C. s 533(f)(2)(A).
+
+     The language addresses only "unfair[ ]" impediments to the 
+flow of programming.  The word "unfair" is of course ex-
+tremely vague.  Certainly, the action of several firms that is 
+"joint," in the sense of collusive, may often entail unfairness 
+of a conventional sort.  The statute goes further, plainly 
+treating exercise of editorial discretion by a single cable 
+operator as "unfair" simply because that operator is the only 
+game in town.  (And Time Warner I authoritatively deter-
+mines that the government is constitutionally entitled to 
+impose limits solely on that ground.)  But we cannot see how 
+the word unfair could plausibly apply to the legitimate, inde-
+pendent editorial choices of multiple MSOs.  A broad inter-
+pretation is plausible only for actions that impinge at least to 
+some degree on the interest in competition that lay at the 
+heart of Congress's concern.6  The Commission's reading of 
+
+__________
+     6 The Commission's economic theory--that cable operators have 
+an incentive to contract with the same programmers in order to 
+lower the programmers' average costs (see discussion in the collu-
+
+the clause effectively deletes the word "joint" and opens the 
+door to illimitable restrictions in the name of diversity.
+
+     Looking at the statute as a whole does little to support the 
+FCC's position.  The "interrelated interests" of promoting 
+diversity and fair competition run throughout the 1992 Cable 
+Act's various provisions.  Turner II, 520 U.S. at 189.7  But 
+despite the duality of interests at work in this section, see 
+Time Warner I, 211 F.3d at 1319, it is clear from the 
+structure of the statute that Congress's primary concern in 
+authorizing ownership limits is "fair" competition.  The stat-
+ute specifies, after all, that these regulations are to be pro-
+mulgated "[i]n order to enhance effective competition."  47 
+U.S.C. s 533 (f)(1).  In only two of the other sections of the 
+1992 Cable Act does Congress specify a dominant purpose.8 
+
+__________
+sion context, supra p. 11)--would seem to apply regardless of any 
+horizontal limit.  Putting various special cases aside, any profit-
+maximizing firm will have an incentive to lower its costs.  In a 
+market where a cable operator is a monopolist, the resulting benefit 
+to the firm would be classified as monopoly rents.  In a market 
+where an operator is in competition, it can be expected to pass the 
+benefits on to its customers.  But the FCC has not shown why such 
+pursuit of lower costs, by the monopolist or the competitive firm, is 
+by itself "unfair," and the statute allows for regulation only if 
+unfairness can be shown.
+
+     7 The 1992 Cable Act is a wide-ranging statute that includes, 
+besides the ownership limits, must-carry and leased-access require-
+ments, rate regulation, behavioral prohibitions, and privacy protec-
+tions.  See 1992 Cable Act, 106 Stat. 1460.
+
+     8 The leased access provision was amended to add the words "to 
+promote competition in the delivery of diverse sources of video 
+programming" to the section's previously stated purpose of assuring 
+"that the widest possible diversity of information sources are made 
+available."  1992 Cable Act s 9(a), 106 Stat. at 1484;  47 U.S.C. 
+s 532(a).  The various behavioral rules designed to prevent cable 
+operators from abusing their market power were passed for the 
+stated purpose of promoting "the public interest, convenience, and 
+necessity by increasing competition and diversity in the multichan-
+nel video programming market."  1992 Cable Act s 19, 106 Stat. at 
+1494;  47 U.S.C. s 547.
+
+This statement of purpose supports a reading that sharply 
+confines the authority to regulate solely in the interest of 
+diversity.
+
+     The FCC points to the statutory findings that the "cable 
+industry has become highly concentrated" and that "the 
+potential effects of such concentration are barriers to entry 
+for new programmers and a reduction in the number of media 
+voices available to consumers."  Third Report, 14 F.C.C.R. at 
+19118-19 p 51, 1992 Cable Act s 2(a)(4), 106 Stat. at 1460.  
+But reference to a congressional finding cannot overcome the 
+clear language and purpose of the actual provision.  The 
+quoted finding stands as little more than support for the 
+proposition that Congress was concerned with the possibilities 
+for market failure and the possible impact on new program-
+mers.  The legislative history also offers little.  Again, the 
+fact that Congress's interest in anti-competitive behavior may 
+have been animated by an interest in preserving diversity 
+doesn't give the FCC carte blanche to cobble cable operators 
+in the name of the latter value alone.  After all, Congress also 
+sought to "ensure that cable operators continue to expand, 
+where economically justified, their capacity," 1992 Cable Act 
+s 2(b)(3), 106 Stat. at 1463, and it specifically directed the 
+FCC, in setting the ownership limit, to take into account the 
+"efficiencies and other benefits that might be gained through 
+increased ownership or control."  47 U.S.C. s 533(f)(2)(D).
+
+     On the record before us, we conclude that the 30% horizon-
+tal limit is in excess of statutory authority.  While a 60% limit 
+might be appropriate as necessary to ensure that program-
+mers had an adequate "open field" even in the face of 
+rejection by the largest company, the present record supports 
+no more.  In addition, the statute allows the Commission to 
+act prophylactically against the risk of "unfair" conduct by 
+cable operators that might unduly impede the flow of pro-
+gramming, either by the "joint" actions of two or more 
+companies or the independent action of a single company of 
+sufficient size.  But the Commission has pointed to nothing in 
+the record supporting a non-conjectural risk of anti-
+competitive behavior, either by collusion or other means.  
+
+Accordingly, we reverse and remand with respect to the 30% 
+rule.
+
+                              * * *
+
+     The FCC presents its 40% vertical limit as advancing the 
+same interests invoked in support of its statutory authority to 
+adopt the rule:  diversity in programming and fair competi-
+tion.  As with the horizontal rules the FCC must defend the 
+rules themselves under intermediate scrutiny and justify its 
+chosen limit as not burdening substantially more speech than 
+necessary.  Far from satisfying this test, the FCC seems to 
+have plucked the 40% limit out of thin air.
+
+     The FCC relies almost exclusively on the congressional 
+findings that vertical integration in the cable industry could 
+"make it difficult for non-cable affiliated ... programmers to 
+secure carriage on vertically integrated cables systems" and 
+that "vertically integrated program suppliers have the incen-
+tive and the ability to favor their affiliated cable operators 
+... and program distributors."  Second Report, 8 F.C.C.R. at 
+8583 p 41 (citing 1992 Cable Act s 2(a)(5), 106 Stat. at 1460).  
+Regulatory limits in response to these consequences would 
+"increase the diversity of voices available to the public."  
+Second Report, 8 F.C.C.R. at 8583-84 p 42 (citing Senate 
+Report at 80, reprinted in 1991 U.S.C.C.A.N. at 1213).  In 
+Time Warner I we thought these findings strong enough to 
+overcome the First Amendment challenge to the relevant 
+provision of the 1992 Cable Act.  In doing so, we held that 
+such a prophylactic rule was not "rendered unnecessary 
+merely because preexisting statutes [such as the antitrust 
+laws and the antidiscrimination provisions of the 1992 Cable 
+Act] impose behavioral norms."  Time Warner I, 211 F.3d at 
+1322-23.  Beyond that we did not assess the appropriateness 
+of the burden on speech.  We upheld no specific vertical 
+limit--none was before us.
+
+     We recognize that in drawing a numerical line an agency 
+will ultimately indulge in some inescapable residue of arbi-
+trariness;  even if 40% is a highly justifiable pick, no one 
+could expect the Commission to show why it was materially 
+
+better than 39% or 41%.  See Missouri Public Service 
+Comm'n v. FERC, 215 F.3d 1, 5 (D.C. Cir. 2000).  But to pass 
+even the arbitrary and capricious standard, the agency must 
+at least reveal " 'a rational connection between the facts found 
+and the choice made.' "  Dickson v. Secretary of Defense, 68 
+F.3d 1396, 1404-05 (D.C. Cir. 1995) (quoting Motor Vehicle 
+Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 
+43 (1983).  Here the FCC must also meet First Amendment 
+intermediate scrutiny.  Yet it appears to provide nothing but 
+the conclusion that "we believe that a 40% limit is appropriate 
+to balance the goals."  See Second Report, 8 F.C.C.R. at 
+8593-95 p 68.  What are the conditions that make 50% too 
+high and 30% too low?  How great is the risk presented by 
+current market conditions?  These questions are left unan-
+swered by the Commission's discussion.
+
+     The FCC argued before us that no MSO has yet com-
+plained that the 40% vertical limit has required it to alter 
+programming.  This is no answer at all, as it says nothing 
+about plans that the rule may have scuttled.  Petitioners 
+responded that their subsidiaries frequently must juggle their 
+channel lineups to stay within the cap.  Furthermore, it 
+appears uncontested that AT&T's merger with MediaOne 
+brings the vertical limits into play.  See In the Matter of 
+Applications for Consent to the Transfer of Control of Licens-
+es and Section 214 Authorizations from MediaOne Group, 
+Inc. to AT&T Corporation, 15 F.C.C.R. 9816 (2000).
+
+     In fairness, the FCC does make an attempt to review some 
+relevant conditions.  See Second Report, 8 F.C.C.R. at 8583-
+85 p p 41-45.  The FCC cites the House Report's conclusion 
+that "some" vertically integrated MSOs favor their affiliates 
+and "may" discriminate against others.  Id. at 8583-84 p 42 
+(citing House Report at 43).  But it also notes a report that 
+none of the top five MSOs "showed a pattern" of favoring 
+their affiliates.  Id. at 8584 p 43.  Indeed, the FCC concludes 
+that "vertical relationships had increased both the quality and 
+quantity of cable programming services."  Id. p 44.  But still 
+it settled on a limit of 40%.  There is no effort to link the 
+numerical limits to the benefits and detriments depicted.  
+Further, given the pursuit of diversity, one might expect 
+
+some inquiry into whether innovative independent originators 
+of programming find greater success selling to affiliated or to 
+unaffiliated programming firms, but there is none.
+
+     Quite apart from the numerical limit vel non, petitioners 
+attack the Commission's refusal to exclude from the vertical 
+limit cable operators that are subject to effective competition.  
+The FCC had proposed exempting cable operators who met 
+the definition of effective competition provided by s 623 of 
+the Communications Act of 1934.  See Implementation of 
+Sections 11 and 13 of the Cable Television Consumer Protec-
+tion and Competition Act of 1992, 8 F.C.C.R. 6828, 6862 p 231 
+(1993) ("First Report");  see also 47 U.S.C. s 543(l )(1) (defin-
+ing the categories of cable operators that are not subject to 
+rate regulation under that section).9  Of course our decision 
+in Time Warner I acknowledged the existence of incentives 
+__________
+     9 The term "effective competition" means that--
+     (A) fewer than 30 percent of the households in the franchise 
+     area subscribe to the cable system;
+     
+     (B) the franchise area is--
+     
+          (i) served by at least two unaffiliated multichannel video 
+          programming distributors each of which offers comparable 
+          video programming to at least 50 percent of the households 
+          in the franchise area;  and
+          
+          (ii) the number of households subscribing to programming 
+          services offered by multichannel video programming distrib-
+          utors other than the largest multichannel video programming 
+          distributor exceeds 15 percent of the households in the 
+          franchise area;  or
+          
+     (C) a multichannel video programming distributor operated by 
+     the franchising authority for that franchise area offers video 
+     programming to at least 50 percent of the households in that 
+     franchise area;  or
+     
+     (D) a local exchange carrier or its affiliate (or any multichannel 
+     video programming distributor using the facilities of such carri-
+     er or its affiliate) offers video programming services ... in the 
+     franchise area of an unaffiliated cable operator which is provid-
+     ing cable service in that franchise area, but only if the video 
+     programming services so offered in that area are comparable to 
+     
+to use affiliated programming.  211 F.3d at 1322.  For exam-
+ple, even where an unaffiliated supplier offered a better cost-
+quality trade-off, a company might be reluctant to ditch or 
+curtail an inefficient in-house operation because of the impact 
+on firm executives or other employees, or the resulting 
+spotlight on management's earlier judgment.  But petitioners 
+argue, quite plausibly, that exposure to competition will have 
+an impact on a cable company's ability to indulge in favorit-
+ism for in-house productions.  After all, while reliance on in-
+house suppliers offering an inferior price-quality trade-off will 
+reduce a monopolist's profits, it may threaten a competitive 
+firm's very survival.  This analysis is not foreign to the 
+Commission, which endorsed it when proposing the exemp-
+tion:
+
+     We believe that this proposal is appropriate since effec-
+     tive competition will preclude cable operators from exer-
+     cising the market power which originally justified chan-
+     nel occupancy limits.  Where systems face effective 
+     competition, their incentive to favor an affiliated pro-
+     grammer will be replaced by the incentive to provide 
+     programming that is most valued by subscribers.
+     
+First Report, 8 F.C.C.R. at 6862 p 231.
+
+     The FCC makes two arguments to justify its refusal to 
+exempt MVPDs that are subject to effective competition.  
+First, it says that the definition of competition provided by 47 
+U.S.C. s 543 was "not adopted for this specific purpose" but 
+rather for relief from rate regulation.  See Reconsideration 
+Order 10 F.C.C.R. at 7379 p 47.  Indeed, we have recognized 
+that one of the ways in which the statutory standard is met 
+may be surprisingly defective as a mark of real competition.  
+See Time Warner Entertainment Co., L.P. v. Federal Com-
+munications Commission, 56 F.3d 151, 166 (D.C. Cir. 1995) 
+(MVPDs satisfying subsection (A) of 47 U.S.C. s 543(l )(1) 
+(low penetration) may do so more as a result of geography 
+than competition).  But the Commission is free to carve out 
+
+__________
+     the video programming services provided by the unaffiliated 
+     cable operator in that area.
+     
+47 U.S.C. s 543(l )(1).
+
+subsections that are truly pertinent to competition, as it had 
+proposed.  See First Report, 8 F.C.C.R. at 8662-63 p 232;  
+Second Report, 8 F.C.C.R. at 8602 p 85.
+
+     Of course competition that is adequate to justify dispensing 
+with rate regulation could still leave an undue likelihood of 
+improper favoritism for affiliated programmers.  But the 
+possible failure of readily available criteria does not itself 
+justify the use of so blunt a blade.  Congress expressly 
+directed the Commission to take "particular account of the 
+market structure..., including the nature and market power 
+of the local franchise."  47 U.S.C. s 533(f)(2)(C) (emphasis 
+added).  Because competition raises the stakes for a firm that 
+sacrifices the optimal price-quality trade-off in its acquisition 
+of programming, the issue seems to trigger the legislative 
+directive.  Yet the Commission seems to ignore its own 
+conclusions about cable companies' incentives and constraints, 
+and the dynamics of the programming industry.  See First 
+Report, 8 F.C.C.R. at 6862 p 231.  If the criteria of 
+s 543(l )(1) are unsuitable, the Commission can consider con-
+cepts of effective competition that it finds more apt for these 
+purposes.
+
+     Second, the FCC comments that if a competing MVPD 
+favored its own affiliated programmers, the presence of com-
+petition would have no tendency to create room for indepen-
+dent programmers.  See Reconsideration Order 10 F.C.C.R 
+at 7379 p 47.  But this theory seems contradicted by the 
+Commission's own observation, mentioned earlier, that no 
+vertically integrated MPVD has complained of reaching the 
+40% limit.  Vertically integrated MVPDs evidently use loads 
+of independent programming.  Further, although cable oper-
+ators continue to expand their interests in programmers, 
+"[t]he proportion of vertically integrated channels ... contin-
+ue[d] to decline" for each of the last two years.  Sixth 
+Annual Report, 15 F.C.C.R. at 1058-59 p 181, Seventh Annu-
+al Report p 173 (emphasis added).  Even if competing MSOs 
+filled all of their channels with affiliates' products (as unlikely 
+as that seems), the Commission nowhere explains why, in the 
+pursuit of diversity, the independence of competing vertically 
+integrated MVPDs is inferior to the independence of unaffili-
+
+ated programmers.  In any event, the Commission's point 
+here does not respond to the intuition that competition spurs 
+a firm's search for the best price-quality trade-off.
+
+     In its brief the Commission adds the argument that truly 
+effective competition under s 543(l )(1) existed only for a tiny 
+fraction of cable systems.  Indeed, it said in its Sixth Annual 
+Report that of the nation's 33,000 cable community units, only 
+157 satisfy the definition through being in a market offering 
+more than one wireline MVPD.  Sixth Annual Report, 15 
+F.C.C.R. at 1045-46 p 142.  (In the Seventh Annual Report 
+we learn that now 330, or 1% of the total, meet the competi-
+tion standard through exposure to another MVPD;  in this 
+report the qualifier "wireline" is absent.  See Seventh Annual 
+Report p 138.)  But in determining whether or not the regula-
+tions burden substantially more speech than necessary, it is a 
+weak move to point to the paucity of MVPDs facing competi-
+tion if, as seems the case, it is easy to exempt them from the 
+limit.
+
+     We find that the FCC has failed to justify its vertical limit 
+as not burdening substantially more speech than necessary.  
+Accordingly, we reverse and remand to the FCC for further 
+consideration.
+
+                              * * *
+
+     We turn, finally, to several aspects of the rules for attribut-
+ing ownership for purposes of the horizontal and vertical 
+limits, recently revised by the FCC and challenged by peti-
+tioners.  See Implementation of the Cable Television Con-
+sumer Protection and Competition Act of 1992, 14 F.C.C.R. 
+19014 (1999) ("Attribution Order").  Petitioners suggest that 
+these rules affect their ability to "speak" to subscribers 
+because of their connection to the horizontal and vertical 
+limits.  But petitioners' speech rights are implicated only 
+where their interest allows them to exercise editorial control, 
+in which case attribution would be proper and it is the 
+horizontal or vertical limit that constrains speech.  The only 
+effect of the attribution rules where no control is exercised is 
+to limit the extent of petitioners' investments in a particular 
+
+class of companies.  We therefore review the agency actions 
+under the APA standards, to determine whether they are 
+"arbitrary, capricious, an abuse of discretion, or otherwise not 
+in accordance with law."  See 5 U.S.C. s 706(2)(A).
+
+     The FCC adopted as its starting point the pre-existing 
+rules for attributing ownership of broadcast television sta-
+tions, finding that the purposes of the rules are the same.  
+See Attribution Order, 14 F.C.C.R. at 19030 p 35;  Second 
+Report 8 F.C.C.R. at 8577-79, 8593-96 p p 30-35, 56-63.  Un-
+der that standard, attribution is triggered by ownership of 5% 
+of the voting shares of a company, with various exceptions.  
+See Attribution of Ownership Interests, 97 FCC 2d 997 
+(1984).  Because the decisions in the Attribution Order 
+tracked, to a large degree, similar decisions related to the 
+broadcast attribution rules, the FCC incorporated by refer-
+ence much of the reasoning from the broadcast orders.  See 
+Attribution Order, 14 F.C.C.R. at 19015-16 p 1.
+
+     Petitioners challenge the sufficiency and relevance of the 
+Commission's evidence in support of the 5% attribution rule 
+and its failure to adopt an alternative proposed by cable 
+industry interests.  They begin by asserting that the FCC 
+improperly relied on two studies that were mentioned neither 
+in the FCC's notice nor in any party's submission.  See 
+Notice of Proposed Rulemaking, 13 F.C.C.R. 12990 (1998).  
+Although it is true that an agency cannot rest a rule on data 
+" 'that, [in] critical degree, is known only to the agency,' " 
+Community Nutrition Institute v. Block, 749 F.2d 50, 57 
+(D.C. Cir. 1984) (quoting Portland Cement Ass'n v. Ruckel-
+shaus, 486 F.2d 375, 393 (D.C. Cir. 1973);  see also Interna-
+tional Union, UAW v. OSHA, 938 F.2d 1310, 1324-35 (D.C. 
+Cir. 1991) (approving reliance on documents not exposed to 
+comment if not "vital" to agency's support for rule), obviously 
+not every cited document is "critical."
+
+     Here, although petitioners assert that the studies were the 
+sole evidence cited by the FCC, the Commission also relied 
+on a survey, used to support the 1984 broadcast attribution 
+rules, showing that in widely held corporations, an owner of 
+5% or more would ordinarily be one of the two or three 
+
+largest shareholders.  See Attribution Order, 14 F.C.C.R. at 
+19034 p 46;  Block, 749 F.2d at 58 (1984) (new information 
+"expanded on and confirmed information").  The earlier rule-
+making had inferred that with such ownership a holder of 5% 
+or more would be able "to potentially affect the outcome of 
+elective or discretionary decisions and to command the atten-
+tion of management."  Attribution of Ownership Interests, 97 
+FCC 2d at 1005-06 p 14.  This hardly seems implausible.  
+Presumably an owner of 5% or more typically has enough of 
+an interest to justify the burden of informing himself about 
+the company's activities and trying to influence (or supplant) 
+management, a fact that management would bear in mind in 
+deciding to whose exhortations it should pay attention.  Peti-
+tioners have not pointed to any evidence suggesting that the 
+FCC's survey is no longer accurate, or that the conclusion 
+they draw from it has been undermined.
+
+     Furthermore, in attacking the relevance of the new studies, 
+the petitioners fail to acknowledge that the FCC sought a 
+rule that would capture "influence or control," not just con-
+trol.  Attribution Order, 14 F.C.C.R. at 19015-16 p 1 (empha-
+sis added).  The Commission specifically noted that a "firm 
+does not need actual operational control over ... a company 
+in order to exert influence."  Id. at 19030-31 p 36.  This 
+distinction also tends to rebut petitioners' critique of the 
+Commission's reliance on the Securities and Exchange Com-
+mission's requirement that investors report to the SEC when 
+their holdings exceed 5% of any class of a firm's shares.  See 
+15 U.S.C. s 78m(d)(1).  The FCC noted that the purpose of 
+the SEC's requirement was to alert investors to potential 
+changes in control, and reasoned that this was similar to its 
+own purpose in the attribution rules, encompassing not mere-
+ly control but influence.  See Attribution Order, 14 F.C.C.R. 
+at 19035 p 49 (citing Securities and Exchange Comm'n v. 
+Savoy Indus., Inc., 587 F.2d 1149 (D.C. Cir. 1978)).
+
+     Finally, petitioners contend that it was arbitrary for the 
+FCC to reject a "control certification" approach, such as it 
+adopted for partnerships, under which a partner can avoid 
+attribution if (but only if) it certifies to the absence of certain 
+relationships that might betoken control.  In this argument, 
+
+petitioners make a classic apples-and-oranges mix, since the 
+bases that they proposed for self-certification, see Attribution 
+Order at 19024 p 22, are quite different from those adopted by 
+the Commission for partnerships, see id. at 19038 p 57 n.163.  
+Even if corporations and partnerships were virtually identi-
+cal, the Commission would hardly be guilty of self-
+contradiction if it rejected certification scheme A for corpora-
+tions and accepted certification scheme B for partnerships.  
+In any event, for corporations the Commission rejected a 
+case-by-case approach on conventional grounds, observing 
+that a bright-line rule was to be preferred because it "reduces 
+regulatory costs, provides regulatory certainty, and permits 
+planning of financial transactions."  Id. at 19035 p 48;  see 
+also id. at 19031 p 38.  Given an agency's very broad discre-
+tion whether to proceed by way of adjudication or rulemak-
+ing, see N.L.R.B. v. Bell Aerospace Co., 416 U.S. 267, 294 
+(1974), and the reasonableness of the 5% criterion, we doubt 
+there was need to explain further.  The Commission did, 
+however, observe that the certification proposals offered did 
+"not take into account the variety of ways that an investor 
+may exert influence or control over a company."  Id. at 
+19030-31 p 36.  And it implicitly distinguished its treatment 
+of partnerships when it said that a limited partner's influence 
+may not be proportional to equity interest "because the 
+extent of its power may be modified by contract."  Id. at 
+19039 p 61.  Indeed, the Commission's certification rules for 
+partnerships require voting restrictions that would not nor-
+mally, and perhaps could not, be paralleled in the corporate 
+world (such as abnegation of any power to remove the general 
+partner except under extremely limited circumstances, see id. 
+at 19038 p 57 n.163).  We find the Commission's discussion 
+adequate.
+
+     We also uphold the FCC's adoption of an "equity-and-debt" 
+rule to capture "nonattributable investments that could carry 
+the potential for influence."  Id. at 19047 p 83.  The rule 
+triggers attribution "to an investor that holds an interest that 
+exceeds 33% of the total asset value (equity plus debt) of the 
+
+applicable entity."  Id. at 19046-47 p 82.10  Petitioners attack 
+the sufficiency of evidence to support both the rule itself and 
+the selection of 33% as limit.  They observe in particular that 
+the Commission's own claims seem to depend on combina-
+tions of debt and equity with contractual rights.  See, e.g., id. 
+at 19047 p 83.  But the Commission explicitly relied on an 
+earlier rulemaking, see, e.g., id. at 19047 p 83, citing Review 
+of the Commission's Regulations Governing Attribution of 
+Broadcast and Cable/MDS Interests, 14 F.C.C.R. 12559 
+(1999) ("Broadcast Attribution Order"), which in turn relied 
+on academic literature, see id. at 12589 p 62 nn.132, 134.  
+Petitioners offer no critique of that literature's relevance, and 
+it is not our role to launch one on our own.  So we must 
+accept the Commission's basic finding.
+
+     Although petitioners independently attack the Commis-
+sion's selection of 33% as the debt-and-equity limit, we are 
+constrained in our review by the sketchy character of their 
+attack on the basic theory.  The Commission's choice of 33% 
+certainly has modest support.  It recited the numbers offered 
+by various parties, which ranged from 10% to 50%, in some 
+cases with variations dependent on the presence of special 
+contract provisions.  Attribution Order, 14 F.C.C.R. at 
+19048-49 p p 85-86.  Obviously 33% is not far off the median, 
+but, as the Commission says nothing to evaluate the numbers 
+recited, that tells us little.
+
+     The Commission also cited its own past decisions, saying 
+that it had used the same percentage for the parallel rule in 
+its broadcast cross-interest policy, and that there it "does not 
+
+__________
+     10 The Commission often writes as if investors owned the assets 
+of the companies in which they hold stock or bonds.  See, e.g., 
+Attribution Order, 14 F.C.C.R. at 19047-48 p 84 n.230.  No issue is 
+made here of how its calculations are to be made, e.g., percentage of 
+book value, percentage of market capitalization, or some other 
+method, although the Commission has attempted "clarification" in 
+the broadcast context by allowing applicants to choose their valua-
+tion method.  See Review of the Commission's Regulations Govern-
+ing Attribution of Broadcast and Cable/MDS Interest, MM Docket 
+No. 94-150, FCC 00-438 (rel. Jan. 19, 2001) p p 26-28 (2001) ("Attri-
+bution Clarification Order").
+
+appear to have had a disruptive effect," id. at 19048-49 p 86, 
+though without indicating what (if any) assessment it had 
+made.  And it referred to two prior adjudications.  Id. (citing 
+Cleveland Television Corp., 91 FCC 2d 1129 (Rev. Bd. 1982), 
+aff'd, Cleveland Television Corp. v. Federal Communications 
+Commission, 732 F.2d 962 (D.C. Cir. 1984), and Roy M. 
+Speer, 11 F.C.C.R. 18393 (1996)).  In Cleveland Television it 
+had simply held that a one-third preferred stock interest 
+conferred " 'insufficient incidents of contingent control' " un-
+der various policies, Attribution Order, 14 F.C.C.R. at 19048-
+49 p 86 (emphasis added).  In Roy M. Spear, it relied on 
+Cleveland Television to impose a 33% ownership on a credi-
+tor's purchase option, but deferred establishment of any 
+general rule.  See 11 F.C.C.R. 18393 p 126 n.26.  These prior 
+adjudications provide thin affirmative support for the choice 
+of 33%, though they at least suggest that the Commission has 
+not indulged in self-contradiction.  But given the absence of a 
+real probe of the Commission's underlying reasoning for 
+having the restriction at all, the inevitable difficulty in picking 
+such a number, and the deference due the Commission, we 
+cannot find the choice of 33% arbitrary.  See Cassell v. 
+Federal Communications Commission, 154 F.3d 478, 485 
+(D.C. Cir. 1998).
+
+     Petitioners also challenge the Commission's elimination of 
+an exemption that prevailed in the broadcast attribution rules 
+at the time the cable attribution rules were promulgated.  In 
+the broadcast context, an otherwise covered minority share-
+holder in a company with a single majority shareholder was 
+exempted, on the principle that in such a case the minority 
+shareholder would ordinarily not be able to direct the activi-
+ties of the company.11  See Attribution of Ownership Inter-
+ests, 97 FCC 2d at 1008-09 p 21;  Attribution Order, 14 
+F.C.C.R. at 19044-46 p p 74-81.  There were contentions in 
+the Broadcast Attribution Order proceeding that the majority 
+shareholder exemption was being used evasively.  See 14 
+F.C.C.R. at 12574-75 p 29.  The Commission neither rejected 
+
+__________
+     11 The FCC has since eliminated the single majority owner ex-
+emption in the broadcast rules to bring it into conformity with the 
+cable rules.  See Attribution Clarification Order at p p 41-44.
+
+nor accepted these claims, but retained the exemption.  See 
+id. at p 36.  In dispatching the exemption here, the Commis-
+sion cited only its concern that a minority shareholder might 
+be able to exercise influence even in these circumstances, the 
+"lack of a record ... that the exemption should be retained," 
+and the fact that no one claimed to be using the exemption.  
+Attribution Order, 14 F.C.C.R. at 19046 p 81.
+
+     The Commission argues here that petitioners lack standing 
+because they have not shown that they are using the exemp-
+tion.  Again, the FCC disregards the impact the rule can 
+have on investment plans.  Petitioners say that they are 
+continually reviewing investment opportunities and that they 
+are constrained by the absence of the single majority exemp-
+tion.  See supra p. 20.  This is an actual "injury in fact" that 
+is "fairly traceable" to the administrative action.  See Lujan 
+v. Defenders of Wildlife, 504 U.S. 555, 561 (1992);  see also 
+Committee for Effective Cellular Rules v. Federal Communi-
+cations Commission, 53 F.3d 1309, 1315-16 (D.C. Cir. 1995).  
+And of course the absence of current use is no reason to 
+delete an exemption.  Removal of the exemption is a tighten-
+ing of the regulatory screws, if perhaps a minor one.  It 
+requires some affirmative justification, cf. State Farm, 463 
+U.S. at 41-42 (requiring justification for removal of a restric-
+tion), yet the Commission effectively offers none.  Its "con-
+cern" about the possibility of influence would be a basis, if 
+supported by some finding grounded in experience or reason, 
+but the Commission made no finding at all.  Accordingly, 
+deletion of the exemption cannot stand.
+
+     Finally, petitioners object to one of the seven criteria that a 
+cable operator must satisfy in order to be exempt from 
+attribution of limited partnership.  The general rule is that 
+any partnership interest, no matter how small, leads to 
+attribution, Attribution Order, 14 F.C.C.R. at 19039-40 p 61, 
+but a limited partner can secure exemption if it certifies 
+compliance with certain criteria intended to ensure that the 
+partner "will not be materially involved in the media manage-
+ment and operations of the partnership."  Id.  The Commis-
+sion interprets one of these criteria to bar exemption when a 
+limited partner that is a vertically integrated MSO also sells 
+
+programming to the partnership.  See id. at 19055 p 106.  
+This criterion applies even though the limited partner, to 
+achieve exemption, must have certified that it does not "com-
+municate with the licensee or general partners on matters 
+pertaining to the day-to-day operations of its video-
+programming business."  Id. at 19040-41 p 64.
+
+     We agree with petitioners that the no-sale criterion bears 
+no rational relation to the goal, as the Commission has drawn 
+no connection between the sale of programming and the 
+ability of a limited partner to control programming choices.  
+Of course a programmer might secure contract terms giving 
+it some control over a partnership's programming choices, 
+but, given the independent criterion barring even communica-
+tions on the video-programming business, see Attribution 
+Order, 14 F.C.C.R. at 19040-41 p 64, exercise of that power 
+would seem to be barred.  Even if it weren't, the bargaining 
+opportunity would depend on the desirability of the partner's 
+programming, not on its status as a partner.  The FCC does 
+not even offer a hypothetical to the contrary.
+
+                              * * *
+
+     To summarize, we reverse and remand the horizontal and 
+vertical limits, including the refusal to exempt cable operators 
+subject to effective competition from the vertical limits, for 
+further proceedings.  We also reverse and remand the elimi-
+nation of the majority shareholder exception and the prohibi-
+tion on sale of programming by an insulated limited partner.  
+We uphold the basic 5% attribution rule and the creation of a 
+33% equity-and-debt rule.
+
+                                                              So ordered.
+
+                                                                     

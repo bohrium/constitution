@@ -1,0 +1,1504 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+                 Argued En BancSeptember 17, 2002
+                            Decided January 31, 2003 
+
+                           No. 00-1100
+
+                         Greg Ruggiero, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Robert T. Perry argued the cause and filed the briefs for 
+petitioner.
+
+     Jacob M. Lewis, Attorney, U.S. Department of Justice, 
+argued the cause for respondents.  With him on the brief 
+were Robert S. Greenspan and Mark S. Davies, Attorneys, 
+and Jane E. Mago, General Counsel, Federal Communica-
+tions Commission, and C. Grey Pash, Jr., Counsel.
+
+     Before:  Ginsburg, Chief Judge, and Edwards, Sentelle, 
+Henderson, Randolph, Rogers, Tatel, and Garland, Circuit 
+Judges.
+
+     Opinion for the Court by Chief Judge Ginsburg, with whom 
+Circuit Judges Edwards, Sentelle, Henderson, Randolph, 
+Rogers, and Garland join.
+
+     Concurring opinion filed by Circuit Judge Randolph.
+
+     Concurring opinion filed by Circuit Judge Rogers.
+
+     Dissenting opinion filed by Circuit Judge Tatel.
+
+     Ginsburg, Chief Judge:  This petition for review challenges 
+the constitutionality of the character qualification provision of 
+the Radio Broadcasting Preservation Act of 2000, which 
+makes ineligible for a low-power FM (LPFM) radio license 
+anyone who engaged in "the unlicensed operation of any 
+station in violation of ... the Communications Act of 1934."  
+Pub. L. No. 106-553, 114 Stat. 2762, s 632(a)(1)(B).  The 
+petitioner raises a facial challenge to the statute and to the 
+regulations that implement it, asserting that they are overin-
+clusive or, alternatively, underinclusive, in violation of the 
+First Amendment to the Constitution of the United States.  
+A divided panel granted the petition.  The full court then 
+vacated the judgment issued by the panel and reheard the 
+case en banc.  We now uphold the constitutionality of the 
+character qualification and deny the petition for review.
+
+                          I. Background
+
+     Since 1927 the Congress has prohibited any person from 
+operating a radio station without a license issued by the 
+Federal Communications Commission (or its predecessor, the 
+Federal Radio Commission).  See 47 U.S.C. s 301.  The 
+Commission is to grant a broadcast license only if the "public 
+interest, convenience, and necessity would be served," 47 
+U.S.C. s 309(a), and only if the applicant "set[s] forth such 
+facts as the Commission by regulation may prescribe as to 
+the citizenship, character, and financial, technical, and other 
+qualifications of the applicant to operate the station."  47 
+U.S.C. s 308(b).
+
+     In 1948, the Commission first licensed noncommerical 
+LPFM stations operating at a maximum of ten watts.  Some 
+30 years later, when the Commission determined that high-
+power FM stations could use the channels more efficiently by 
+"serv[ing] larger areas, and bring[ing] effective noncommer-
+cial educational radio service to many who ... lack[ed] it," 
+Changes in the Rules Relating to Noncommercial Educ. FM 
+Broad. Stations, 69 F.C.C.2d 240, p 24 (1978), modified, 70 
+F.C.C.2d 972 (1979) (codified at scattered sections of 47 
+C.F.R.), the Commission stopped licensing LPFM stations 
+and required most existing LPFM stations to move to com-
+mercial frequencies or to upgrade to at least 100 watts.  Id. 
+at p p 11-32.
+
+     Thereafter, numerous individuals and entities began oper-
+ating LPFM stations without a broadcast license.  In many 
+cases these so-called "pirate" broadcasters operated their 
+stations in open defiance of the Commission's ban on LPFM 
+broadcasts.  In response, the Commission dedicated consider-
+able resources to enforcing the license requirement.  Not-
+withstanding, however, the array of powers the Commission 
+had to combat unlicensed broadcasting, including the authori-
+ty to seek an injunction, 47 U.S.C. s 401(b), to issue a cease-
+and-desist order, 47 U.S.C. s 312(b), to seize equipment used 
+in unlicensed broadcasting, 47 U.S.C. s 510(a), and to impose 
+a monetary forfeiture, 47 U.S.C. s 503(b), the problem per-
+sisted and indeed grew worse in the 1990s.  In 1998, 1999, 
+and the first two months of 2000 the Commission shut down, 
+on average, more than a dozen unlicensed radio stations each 
+month.  FCC's Low Power FM:  A Review of the FCC's 
+Spectrum Management Responsibilities:  Hearing on H.R. 
+3439 Before the Subcomm. on Telecomm., Trade, and Con-
+sumer Protection of the House Comm. on Commerce, 106th 
+Cong. 85 (2000).  In that same period unlicensed radio opera-
+tions using uncertified equipment disrupted air traffic control 
+communications at Sacramento and interfered with such com-
+munications at the Miami and West Palm Beach airports.  
+Creation of a Low Power Radio Serv., 14 F.C.C.R. 2471, p 65 
+(1999) (Notice of Proposed Rule Making) (hereinafter Low 
+
+Power Proposal).  Therefore, it was clear to the Commission 
+that action needed to be taken to stop unlicensed broadcast-
+ing.
+
+     In 1999 the Commission proposed to modify its low-power 
+radio rules and sought public comment upon whether it 
+should "create two classes of low power radio service, both of 
+which would operate in the existing FM radio band:  a 1000-
+watt primary service and a 100-watt secondary service."  Id. 
+at p 1.  The Commission also sought comment upon whether 
+it should establish "a third, 'microradio' class of low power 
+radio service that would operate in the range of 1 to 10 
+watts."  Id. at p 1.
+
+     After receiving many comments concerning the Low Power 
+Proposal, the Commission issued an order creating new 100-
+watt and 10-watt classes of LPFM stations.  Creation of Low 
+Power Radio Serv., 15 F.C.C.R. 2205, p 11 (2000) (Report and 
+Order).  The Commission also stated that it would accept a 
+low-power application from an applicant who had broadcast 
+without a license in the past if the applicant certified under 
+penalty of perjury that it had ceased such operations within 
+24 hours of being directed to do so by the Commission and no 
+later than the deadline (February 26, 1999) set out in the Low 
+Power Proposal.  Id. at p p 53-54.  This licensing condition 
+for broadcast pirates was applicable both to individuals and to 
+corporate applicants, including the applicant's officers and 
+directors.  Id. at p 54.
+
+     The Commission's proposal conditionally to license former 
+pirates was received with dismay in the Congress.  Senator 
+Gregg, who introduced a bill to repeal the LPFM rules in 
+toto, argued against the Commission's character qualification 
+in particular:  "mak[ing] formerly unlicensed, pirate radio 
+operators eligible for LPFM licenses," he said, would "rein-
+force[ ] their unlawful behavior and encourage[ ] future illegal 
+activity by opening the door to new unauthorized broadcast-
+ers."  146 Cong. Rec. S613-02 (daily ed. Feb. 10, 2000).  
+Congressman Oxley made the same argument at a House 
+committee hearing on a similar bill.  See House Hearing, 
+106th Cong. at 4.  See also H.R. Rep. No. 106-567, 106th 
+Cong., at 8 (2000) (House Committee on Commerce concluded 
+
+"that the operation of an unlicensed station demonstrates a 
+lack of commitment to follow the basic rules and regulations 
+which are essential to having a broadcast service that serves 
+the public, and those individuals or groups should not be 
+permitted to receive licenses in the LPFM service").
+
+     The Congress ultimately responded to the Commission's 
+decision by enacting the Radio Broadcast Preservation Act of 
+2000 (RBPA), Pub. L. No. 106-553, 114 Stat. 2762, s 632, 
+which among other things directed the Commission to modify 
+its rules to "prohibit any applicant from obtaining a low-
+power FM license if the applicant has engaged in any manner 
+in the unlicensed operation of any station in violation of 
+section 301 of the Communications Act of 1934."  Id. 
+s 632(a)(1)(B).  In contrast to the Commission, that is, the 
+Congress barred all low-power pirates from obtaining an 
+LPFM license regardless whether or when they had ceased to 
+operate unlawfully.
+
+     As directed, the Commission modified its rules to imple-
+ment the more stringent character qualification required by 
+the Congress.  Creation of Low Power Radio Serv., 16 
+F.C.C.R. 8026, p 10 (2001) (Second Report and Order).  The 
+resulting regulation provides that "[n]o application for an 
+LPFM station may be granted unless the applicant certifies, 
+under penalty of perjury, that neither the applicant, nor any 
+party to the application, has engaged in any manner including 
+individually or with persons, groups, organizations or other 
+entities, in the unlicensed operation of any station in violation 
+of Section 301 of the Communications Act of 1934."  47 
+C.F.R. s 73.854.
+
+     Ruggiero, an admitted former pirate, sought review in this 
+court of the Second Report and Order, arguing that the 
+character qualification on its face violates the First Amend-
+ment.  A divided panel of this court held the RBPA and the 
+implementing regulation unconstitutional.  Ruggiero v. FCC, 
+278 F.3d 1323 (D.C. Cir. 2002).  We granted the Commis-
+sion's petition for rehearing en banc and vacated the prior 
+judgment.  Having now reheard the case en banc, we adopt 
+the decision of the panel concerning the jurisdiction of the 
+
+court, id. at 1327-29, but on the merits hold that the charac-
+ter qualification provision is neither overinclusive nor under-
+inclusive in violation of the First Amendment.
+
+                           II. Analysis
+
+     Before we turn to the merits of the constitutional question, 
+we must identify the level of first amendment scrutiny appro-
+priate to the nature of the statute being challenged.
+
+A.   Standard of Review
+
+     Ruggiero asserts that under FCC v. League of Women 
+Voters, 468 U.S. 364, 399 (1984), we are to apply "intermedi-
+ate scrutiny" to all broadcast regulations other than those 
+that are purely "structural," that is, those involving the 
+"where" and "when" of broadcasting.  Under the rubric of 
+intermediate scrutiny we would have to determine whether 
+the LPFM character qualification is "narrowly tailored to 
+further a substantial governmental interest."  Id. at 380.  
+Alternatively, Ruggiero asserts the court should apply the 
+"heightened rational basis scrutiny" to which we alluded, but 
+had no occasion to apply, in News America Publishing Inc. v. 
+FCC, 844 F.2d 800, 814 (D.C. Cir. 1988).  For its part, the 
+Commission argues we should apply the "rational basis stan-
+dard" associated with minimal scrutiny and hence need only 
+determine whether the character qualification is "a reason-
+able means of promoting the public interest."  FCC v. Na-
+tional Citizens Comm. for Broad., 436 U.S. 775, 802 (1978) 
+(NCCB).
+
+     We conclude, as did the panel that first heard this case, 
+that the appropriate standard of review occupies a ground 
+somewhere between the minimal scrutiny advocated by the 
+Commission and the intermediate scrutiny proposed by Rug-
+giero.  First, we reject Ruggiero's principal argument, name-
+ly, that the character qualification is content-based and 
+therefore, pursuant to League of Women Voters, subject to 
+intermediate scrutiny.  At issue in that case was a statute 
+
+prohibiting noncommercial educational stations from editori-
+alizing, 47 U.S.C. s 399, a ban "defined solely on the basis of 
+the content of the suppressed speech."  468 U.S. at 383.  Be-
+cause the object of the anti-editorial statute was content, the 
+Supreme Court gave it intermediate scrutiny, asking whether 
+the restriction was narrowly tailored to advance a substantial 
+government interest.  The ban on editorials failed that test 
+twice over:  it was both overinclusive and underinclusive.  
+The ban was overinclusive in that it prohibited speech "on 
+topics that [did] not take a directly partisan stand or that 
+ha[d] nothing whatever to do with ... government," id. at 
+395, and thus did not implicate the Government's stated 
+interests in (a) protecting broadcasters from government 
+interference and (b) preventing the public from assuming the 
+editorials represented the view of the Government.  The 
+statute was underinclusive in that broadcasters could still 
+present controversial or partisan views in news and other 
+programming.  Id. at 396.  See also Greater New Orleans 
+Broad. Ass'n v. United States, 527 U.S. 173 (1999) (applying 
+intermediate scrutiny to ban on broadcast advertising of 
+private casino gambling as restriction on content of commer-
+cial speech).
+
+     In contrast, as the Commission correctly points out, the 
+character qualification at issue in this case applies without 
+regard to any content the applicant may have broadcast 
+unlawfully or might be expected to broadcast if a license were 
+issued to him.  The character qualification is triggered solely 
+by the applicant's conduct, specifically, having "engaged ... 
+in the unlicensed operation of any station in violation of 
+section 301 of the Communications Act."  Pub. L. No. 
+106-553, 114 Stat. 2762, s 632(a)(1)(B).  Contrary to Ruggie-
+ro's brief, the character qualification is not directed at the 
+alleged "viewpoint espoused by many pirates" that "civil 
+disobedience in the form of unlicensed broadcasting [was] ... 
+necessary to prod the FCC to rescind its longstanding ban on 
+low power FM radio broadcasting."  Rather, the statute on 
+its face is based solely upon the applicant's prior lack of 
+compliance with the licensing requirement;  the character 
+qualification applies equally to all unlicensed broadcasters 
+
+regardless of the motivation for, or the message disseminated 
+by, their illegal broadcasting.  See Employment Div. v. 
+Smith, 494 U.S. 872, 878 (1990) ("[I]f prohibiting the exercise 
+of religion ... is not the object of the tax but merely the 
+incidental effect of a generally applicable and otherwise valid 
+provision, the First Amendment has not been offended").  See 
+also Kahn v. United States, 753 F.2d 1208, 1216 (3d Cir. 1985) 
+(prosecution of taxpayer for filing fraudulent tax return, as 
+act of civil disobedience, did not violate First Amendment;  
+"penalty was imposed because the taxpayer's conduct failed 
+to comply with the requirement of the tax laws that she 
+properly report her tax liability, not because she expressed 
+unpopular political views") (emphasis in original).
+
+     Though we reject Ruggiero's assertion that intermediate 
+scrutiny applies, we do not embrace the Commission's posi-
+tion that only minimal scrutiny is warranted.  Minimal scruti-
+ny is appropriate to the indirect effect upon speech that may 
+attend "structural" regulation of the broadcast industry.  See 
+Leflore Broad. Co. v. FCC, 636 F.2d 454, 458 n.26 (D.C. Cir. 
+1980) (structural regulations "insure diversity in broadcasting 
+while minimizing government attention to broadcast con-
+tent").  In NCCB, upon which the Commission relies, the 
+Supreme Court gave only minimal scrutiny to and upheld the 
+Commission's newspaper-broadcast cross-ownership rule, 
+which prohibited common ownership of a broadcast station 
+and a daily newspaper in the same community.  436 U.S. at 
+779.  The cross-ownership rule, however, merely constrained 
+the newspaper publisher's choice of the community in which 
+to own a radio or television station;  it did not prohibit the 
+publisher from broadcasting altogether.  Id. at 800 ("Under 
+the regulations ... a newspaper owner need not forfeit 
+anything in order to acquire a license for a station located in 
+another community").  The RBPA, in contrast, makes the 
+pirate broadcaster ineligible to obtain an LPFM license - the 
+only type of license practicably available to most individuals - 
+in any community.  It is the would-be speaker's inability to 
+broadcast at all that takes this case outside the "structural" 
+framework and makes minimal scrutiny insufficiently rigorous 
+
+to protect the freedom of speech protected by the First 
+Amendment.
+
+     Having rejected each party's favored standard of review, 
+we, like the panel that first heard this case, "find ourselves in 
+a middle ground, sure only that the appropriate standard is 
+neither NCCB's minimal scrutiny nor League of Women 
+Voters' intermediate scrutiny."  278 F.3d at 1331.  Clearly, as 
+Ruggiero suggests in his alternative argument, something 
+more than minimal rationality is required to uphold the 
+statute.  Id.;  News America, 844 F.2d at 814.  We need not 
+be more precise, however, because we conclude that the 
+character qualification provision is reasonably tailored to 
+satisfying a substantial government interest, and that is 
+surely enough to uphold a prohibition upon broadcast speech 
+that, although complete within its limited sphere, is in no 
+respect content-based.
+
+B.   Under- and Overinclusiveness
+
+     As the Commission points out, unlicensed LPFM transmis-
+sions can not only prevent the public from receiving the 
+signals of licensed broadcasters, see, e.g., United States v. 
+Any and All Radio Station Transmission Equip., 204 F.3d 
+658 (6th Cir. 2000) (interference complaint against pirate by 
+licensed FM station);  they can also, as we have seen, inter-
+fere with "public safety communications and aircraft frequen-
+cies."  Low Power Proposal, 14 F.C.C.R. 2471, at p 65.  Be-
+cause the Government has chosen to address the problem of 
+interference through socialization and administrative alloca-
+tion of the right to broadcast, rather than relying upon the 
+common law, see Thomas W. Hazlett, The Rationality of U.S. 
+Regulation of the Broadcast Spectrum, 33 J.L. & Econ. 133, 
+148-52 (1990);  and Ronald H. Coase, The Federal Communi-
+cations Commission, 2 J.L. & Econ. 1, 14 (1959) (treating 
+problem of interference as he would later treat other incom-
+patible uses in The Problem of Social Cost, 3 J.L. & Econ. 1 
+(1959)), there can be no doubt it has a substantial interest in 
+ensuring compliance with the Communications Act and in 
+particular with its central requirement of a license to broad-
+cast.
+
+     Ruggiero argues, nonetheless, that the character qualifica-
+tion is impermissibly underinclusive because it does not dis-
+qualify persons guilty of "serious misconduct other than 
+piracy - murder, rape, child abuse, bribery, fraud, illegal 
+wiretapping, antitrust violations, [and] lying to the FCC, to 
+give but a few examples."  He continues in the same vein:
+
+     Because Congress has ignored a broad range of miscon-
+     duct "giving rise to precisely the same harm that suppos-
+     edly motivated it to [enact the character qualification 
+     provision]," Sanjour v. EPA, 56 F.3d [85,] 95 [(D.C. Cir. 
+     1995) (en banc)], it is "serious[ly] doubt[ful]" that the 
+     character qualification provision substantially advances 
+     the governmental interest in increasing compliance with 
+     broadcast laws and regulations in a meaningful way.
+     
+This is nonsense on stilts.
+
+     First, Ruggiero's factual premise is incorrect, not to say 
+absurd.  The Congress has not "ignored" misconduct "giving 
+rise to precisely the same harm" that caused it to impose the 
+character qualification.  Not only are murderers, rapists, 
+child molesters, and the like not particularly associated with 
+the harms caused by unlicensed broadcasting, the harms that 
+these malefactors do cause are not without other and more 
+severe penalties (state or federal) than ineligibility for an 
+LPFM license.
+
+     Second, it was entirely reasonable for the Congress to 
+make the policy judgment that all broadcast pirates, and only 
+broadcast pirates, should be disqualified categorically from 
+holding an LPFM license while leaving to the Commission the 
+discretion to evaluate on a case-by-case basis the myriad 
+other ways an applicant's character can be drawn into ques-
+tion.  All broadcast pirates, by definition, have violated al-
+ready the requirement of obtaining a broadcast license.  As 
+Judge Henderson pointedly asked in her dissent from the 
+decision of the panel, "[w]hat could be more reasonable or 
+logical than to suspect that those who ignored the Commis-
+sion's LPFM broadcast regulations in the past are likely to do 
+so in the future and therefore to head them off[?]"  278 F.3d 
+at 1335.  Indeed, even as it adopted its own more forgiving 
+
+approach to pirates before the Congress enacted the RBPA, 
+the Commission acknowledged that "past illegal broadcast 
+operations reflect on that entity's proclivity to deal truthfully 
+with the Commission and to comply with our rules and 
+policies, and thus on its basic qualifications to hold a license." 
+15 F.C.C.R. 2205, at p 54.  Thus the Congress could reason-
+ably conclude that other violations of law simply do not reflect 
+as directly upon the offender's qualification to hold an LPFM 
+license.  Moreover, insofar as such criminals may seek LPFM 
+(or indeed any type of broadcast) licenses, they are, as the 
+Commission notes, "subject to the FCC's [general] character 
+qualification policy, under which they are likely to be disquali-
+fied for such serious crimes in any event."  See Policy Re-
+garding Character Qualifications in Broad. Licensing, 102 
+F.C.C.2d 1179, p p 34-44 (1986);  see also, e.g., In re Contem-
+porary Media, Inc., 12 F.C.C.R. 14254 (1997) (revocation of 
+license and denial of application for new license because 
+principal had been convicted of sexual abuse of children), 
+aff'd, Contemporary Media, Inc. v. FCC, 214 F.3d 187, 193 
+(D.C. Cir. 2000).  Therefore, we can hardly say the Congress 
+was prohibited by the First Amendment from responding to 
+the discrete problem of broadcast piracy - which goes to the 
+heart of the Communications Act, namely, preventing inter-
+ference caused by unlicensed broadcasting - with a categori-
+cal ban.
+
+     Third, even if it could be thought that categorically disqual-
+ifying murderers and the like from getting an LPFM license 
+would deter some unlicensed broadcasting, "a regulation is 
+not fatally underinclusive simply because an alternative regu-
+lation, which would restrict ... the speech of more people, 
+could be more effective."  Blount v. SEC, 61 F.3d 938, 946 
+(D.C. Cir. 1995) (emphasis in original).  In sum, we agree 
+with the Commission's position that the character qualifica-
+tion provision of the RBPA is not underinclusive but is, 
+rather, because it targets those who have already violated the 
+broadcast license requirement, reasonably tailored to further 
+the Government's substantial interest in minimizing unli-
+censed LPFM broadcasting.
+
+     We reject also Ruggiero's claim that the character qualifi-
+cation is overinclusive because it prohibits all pirates, includ-
+ing those good pirates who stopped broadcasting illegally 
+when ordered to do so, and those "former pirates [who] 
+subsequently have become model citizens," from obtaining a 
+license.  All unlicensed LPFM broadcasters violated the 
+Communications Act.  Any unlicensed broadcasting demon-
+strates a willful disregard of the most basic rule of federal 
+broadcasting regulation.  See H.R. Rep. No. 106-567, at 8 
+(2000);  Creation of Low Power Radio Service, 15 F.C.C.R. 
+19208, p 96 (2000) (Opinion and Order).  The Congress did 
+not hit wide of the mark, therefore, when it treated all pirates 
+alike.*
+
+__________
+     * Although necessarily couched in terms of under- and overinclu-
+siveness, our dissenting colleague's concern seems really to be with 
+what he sees as the disproportionality of disqualifying LPFM 
+pirates from holding an LPFM license, as compared with the 
+consequences visited upon other unlicensed broadcasters and other 
+offenders against the broadcast regulatory regime.  See dissent at 
+8, asking "why does the RBPA's automatic and permanent ban not 
+extend to unlicensed full power broadcasters";  and at 9, where he 
+"agree[s] that deterrence is a substantial governmental interest, but 
+[asks] why impose a lifetime ban?," which he refers to as "a 
+broadcasting 'mark of Cain.' "
+
+ The judgment that one offense is more serious than another, like 
+the judgment that a punishment of a certain severity is warranted 
+for a particular offense, is not for the judiciary to make.  Cf. 
+Hutchins v. District of Columbia, 188 F.3d 531, 543 (D.C. Cir. 1999) 
+(noting that under intermediate scrutiny, "the [Government] is not 
+obliged to prove a precise fit between the nature of the problem and 
+the legislative remedy," and rejecting claim that curfew was uncon-
+stitutional because it did not include 17-year-olds);  Schleifer v. City 
+of Charlottesville, 159 F.3d 843, 850 (4th Cir. 1998) (applying 
+intermediate scrutiny and rejecting claim that city's decision to 
+exclude 17-year-olds from curfew was unconstitutional, because "[i]t 
+is not the function of a court to hypothesize independently on the 
+desirability or feasibility of any possible alternative[s] to the statu-
+tory scheme" (quoting Lalli v. Lalli, 439 U.S. 259, 274 (1978))).  
+Our concern in this case is limited to whether the Congress has 
+
+C.   Equal Protection
+
+     Ruggiero also claims that because the character qualifica-
+tion "imposes special burdens on the First Amendment rights 
+of a single class of speakers (pirates)," and is not " 'narrowly 
+tailored' to serve a 'substantial' governmental interest," it 
+violates the Equal Protection guarantee of the Fifth Amend-
+ment.  This claim fails for the same reasons the first amend-
+ment claims fail:  the legislative classification, which treats 
+former pirates differently from others, is reasonably tailored 
+to the government's substantial interest in protecting the 
+broadcast spectrum.
+
+     Although equal protection analysis focuses upon the validi-
+ty of the classification rather than the speech restriction, "the 
+critical questions asked are the same."  Community-Service 
+Broad. of Mid-America, Inc. v. FCC, 593 F.2d 1102 (D.C. Cir. 
+1978) (en banc).  We believe that the same level of scrutiny, 
+heightened rational basis, is therefore appropriate in both 
+contexts, and that the policy withstands such scrutiny.
+
+                   III. Summary and Conclusion
+
+     The character qualification of the RBPA is a targeted 
+response to the problem of pirate broadcasting, affects only 
+those who violated the license requirement, and does so 
+utterly without regard to the content of, or any view ex-
+pressed by, their unlicensed broadcasts.  There is a rea-
+sonable fit between the character qualification and the Gov-
+ernment's substantial interests in deterring unlicensed 
+broadcasting and preventing further violations of the regu-
+lations applicable to broadcasters.  Accordingly, we hold 
+that s 632(a)(1)(B) of the RBPA and the regulation imple-
+menting it do not on their faces violate the First Amend-
+ment.  The petition for review is, accordingly,
+
+                                        Denied.
+
+__________
+reasonably tailored the character qualification to fit the substantial 
+government interest it is intended to serve.
+
+     Randolph, Circuit Judge, concurring:  Ruggiero has two 
+First Amendment arguments.  The first is that the statutory 
+and regulatory bar against granting a low-power FM broad-
+cast license to anyone who illegally operated without one is 
+overbroad.  The second is that the bar is underinclusive.  I 
+write separately because, in my view, he is not entitled to 
+make the first argument;  and his second argument miscon-
+ceives First Amendment doctrine.
+
+     Ruggiero has not applied to the FCC for a low-power 
+license.  He does not claim that his particular circumstances 
+would warrant any special treatment.  His attack is on the 
+face of the statute and the implementing regulations.  The 
+lifetime bar is overbroad, he claims, because there may be 
+applicants who "briefly or long ago engaged in unlicensed 
+broadcast operations" and who now have become "model 
+citizens."  Petitioner's Br. at 26.  The court rejects Ruggie-
+ro's claim on the ground that Congress rationally treated all 
+pirates alike.  Maj. op. at 12.  Although I agree with the 
+court, I believe another rationale leads to the same result.
+
+     Litigants ordinarily do not have standing to raise the rights 
+of others.  But in arguing about hypothetical third parties, 
+Ruggiero is in effect invoking the familiar overbreadth doc-
+trine, a staple of First Amendment jurisprudence.  The doc-
+trine, which may be traced to Thornhill v. Alabama, 310 U.S. 
+88 (1940), permits facial challenges brought on the ground 
+that the statute or regulation reaches constitutionally protect-
+ed speech of parties not before the court.  If the statute is 
+substantially overbroad--that is, if it abridges protected 
+speech of others in a good number of cases--the statute is 
+unconstitutional.  See Broadrick v. Oklahoma, 413 U.S. 601, 
+612-15 (1973).  Overbreadth is sometimes viewed as an ex-
+ception to traditional standing rules.  See Bd. of Trustees of 
+the State Univ. of New York v. Fox, 492 U.S. 469, 482-84 
+(1989);  Los Angeles Police Dep't v. United Reporting Publ'g 
+Corp., 528 U.S. 32, 38 (1999).  The doctrine rests on the 
+assumption that if a statute could not be challenged for 
+overbreadth, those not before the court would be chilled and 
+would refrain from exercising their First Amendment rights.  
+See generally New York v. Ferber, 458 U.S. 747, 766-73 
+(1982).  The "principal advantage of the overbreadth doctrine 
+
+for a litigant is that it enables him to benefit from the 
+statute's unlawful application to someone else."  Fox, 492 U.S. 
+at 483.  The Supreme Court has treated the doctrine as 
+" 'strong medicine' " to be employed " 'only as a last resort.' "  
+Ferber, 458 U.S. at 769 (quoting Broadrick, 413 U.S. at 613).
+
+     The assumption underlying the overbreadth doctrine is 
+inapplicable here.  There is no possibility that third parties 
+could be chilled in the exercise of their First Amendment 
+rights.  See Bates v. State Bar of Ariz., 433 U.S. 350, 380-81 
+(1977).  We are not dealing with a criminal provision.  All 
+that is involved is filing an application with the FCC.  Many 
+pirates have done so.  Creation of a Low Power Radio Serv., 
+16 F.C.C.R. 8026, 8030, 8060 (2001).  If they file applications 
+in the future no harm will befall them.  Their applications will 
+simply be denied.
+
+     There is in short no chilling effect and Ruggiero therefore 
+cannot invoke the overbreadth doctrine.  See Los Angeles 
+Police Dep't, 528 U.S. at 38-41;  United States v. Hsia, 176 
+F.3d 517, 523 (D.C. Cir. 1999).  Without the benefit of the 
+doctrine, he can succeed in his facial challenge only if he 
+establishes "that no set of circumstances exists under which 
+the Act [and the implementing regulations] would be valid," 
+United States v. Salerno, 481 U.S. 739, 745 (1987);  see Amfac 
+Resorts, L.L.C. v. U.S. Dep't of Interior, 282 F.3d 818, 826 
+(D.C. Cir.), cert granted sub nom. Nat'l Park Hospitality 
+Ass'n v. Dep't of Interior, 123 S. Ct. 549 (2002) ;  James 
+Madison Ltd., by Hecht v. Ludwig, 82 F.3d 1085, 1101 (D.C. 
+Cir. 1996);  Chem. Waste Mgmt., Inc. v. EPA, 56 F.3d 1434, 
+1437 (D.C. Cir. 1995);  Steffan v. Perry, 41 F.3d 677, 693 (D.C. 
+Cir. 1994) (en banc);  but see INS v. Nat'l Ctr. for Immi-
+grants' Rights, 502 U.S. 183, 188 (1991).  This is a burden 
+Ruggiero admits he cannot meet.  He has conceded that 
+"some former pirates may lack the requisite character traits 
+to hold [low-power] licenses."  Petitioner's Reply Br. at 11.  
+Ruggiero himself committed "three-year-long, nearly continu-
+ous violations of the licensing requirement," Free Speech v. 
+Reno, No. 98 Civ. 2680 (MBM), 1999 WL 147743, at *11 
+(S.D.N.Y. Mar. 18, 1999), aff'd sub nom. Free Speech ex rel. 
+Ruggiero v. Reno, 200 F.3d 63 (2d Cir. 1999), and hardly 
+qualifies as a pirate who "briefly" operated without a license.
+
+     As against this, the dissent has two responses.  The first 
+is that Ruggiero is not really mounting an overbreadth 
+challenge;  the second is that he is entitled to mount an 
+overbreadth challenge because others may be chilled from 
+applying for a license since this requires disclosing past 
+broadcasting violations.  Dissent at 14-16.  Neither reply is 
+correct.  As to the nature of Ruggiero's argument, his at-
+tack is on the face of the statute and his claim is that the 
+character qualification provision may not be applied to him 
+because it would be unconstitutional to apply it to others 
+not before the court.  E.g., Petitioner's Br. at 25-27;  Peti-
+tioner's Reply Br. at 11.  To put the matter more specifi-
+cally, his argument--and the argument of the dissent--is 
+that the statute cannot be validly applied to Ruggiero or 
+anyone else, no matter how egregious their past violations, 
+because there may be others whose violations were not so 
+egregious.  Ruggiero never claims that his past violations 
+were not egregious;  we know that they were.  This then is 
+a classic statement of an overbreadth claim. See, e.g., Fox, 
+492 U.S. at 482-84.  The dissent says that Ruggiero is 
+contending the statute "cannot constitutionally be applied to 
+anyone because the statute automatically bars unlicensed 
+microbroadcasters...."  Dissent at 14.  That indeed is his 
+contention.  But what the dissent fails to grasp is that in 
+every overbreadth attack, the plaintiff claims the statute is 
+unconstitutional with respect to everyone;  that is the very 
+nature of this sort of attack and of the relief it seeks--
+invalidation of the statute on its face.  See, e.g., Kathleen 
+M. Sullivan & Gerald Gunther, First Amendment Law 322 
+(1999).  The dissent also suggests that in order to make a 
+successful overbreadth attack, the plaintiff must concede 
+that the statute can validly be applied to him.  Dissent at 
+14.  The Supreme Court has never imposed any such re-
+quirement.  The Court simply assumes that even if the 
+statute is constitutional as applied to the plaintiff, or even if 
+another provision could be drawn with greater specificity, 
+the statute might nevertheless be invalid because of its 
+effect on others.  Ferber, 458 U.S. at 769.
+
+     In the alternative, the dissent claims there is a chilling 
+effect on others because unlicensed broadcasters, in applying 
+for a license, will be reluctant to disclose their past violations 
+under penalty of perjury.  Dissent at 15.  The trouble for the 
+dissent is that this particular chilling effect exists regardless 
+whether the statute is upheld or struck down.  Anyone 
+applying for a license must be prepared to divulge past 
+violations of Commission rules.  Not even the dissent con-
+tends that unlicensed broadcasting is irrelevant to the Com-
+mission's decision whether to grant a license.  The Commis-
+sion's 1986 comprehensive policy statement on character 
+qualifications for licensees states that "as a general matter 
+any violations of the Communications Act, Commission rules 
+or Commission policies can be said to have a potential bear-
+ing on character qualifications."  Policy Regarding Character 
+Qualifications in Broadcast Licensing, 102 F.C.C.2d 1179, 
+1209 (1986).  And even before Congress passed the statutory 
+bar we are considering, the Commission required applicants 
+for low-power licenses to certify that they had not operated a 
+station without a license.  Creation of a Low Power Radio 
+Serv., 16 F.C.C.R. at 8030.  The question here--a question 
+the dissent does not address--is whether the statutory dis-
+qualification, by its very existence, deters more speech than 
+did the preceding regime.  And the answer to that question is 
+clearly no.  In short, the statute imposes no new "chilling 
+effect" on the First Amendment rights of others, and as I 
+have discussed, for that reason Ruggiero cannot bring an 
+overbreadth challenge.  Besides, the question here is not just 
+whether there is some chilling effect--the claim must be that 
+protected speech is being deterred.  Yet there is no chilling 
+effect on speech.  "No one has a First Amendment right to a 
+license," Red Lion Broad. Co. v. FCC, 395 U.S. 367, 389 
+(1969), and it follows that no one has a First Amendment 
+right to apply for a license.
+
+     As to underinclusiveness, Ruggiero's claim is that the bar 
+violates the First Amendment because persons who have 
+engaged in other sorts of serious misconduct are not automat-
+ically banned from obtaining a low-power license.  The court 
+dispatches this argument on the ground that Congress's 
+
+judgment was reasonable.  Maj. op. at 10-11.  I agree, but 
+believe there is an alternative answer.  The First Amend-
+ment does not impose "an 'underinclusiveness' limitation[,] 
+but a 'content discrimination' limitation upon a State's prohi-
+bition of proscribable speech."  R.A.V. v. City of St. Paul, 505 
+U.S. 377, 387 (1992).  In other words, the relevance of a 
+statute's underinclusiveness is that it may reveal discrimina-
+tion on the basis of viewpoint or content, or may undercut the 
+statute's purported non-discriminatory purpose.  See id.;  Re-
+publican Party of Minn. v. White, 122 S. Ct. 2528, 2537 
+(2002);  City of Ladue v. Gilleo, 512 U.S. 43, 52-53 (1994).  
+States could not, for instance, ban only fighting words that 
+criticize a certain race.  But the Court pointed out in R.A.V. 
+that there would be no First Amendment problem whatever 
+with a State's prohibiting obscenity in only certain media, 
+although that would be underinclusive.  505 U.S. at 387.  
+Here, there is no colorable claim that the statute and the 
+regulation ban speech on the basis of content.  As the court 
+points out, the ban is based entirely on past violations, not on 
+what the broadcaster said in the past or would say in the 
+future if he were allowed to take to the airwaves again.  Maj. 
+op. at 7-8.  I would therefore reject Ruggiero's underinclu-
+siveness argument on this ground.  For this reason I also 
+view the dissent's discussion of underinclusiveness--which 
+notes that not even murderers and rapists are automatically 
+barred from obtaining a license--as beside the point.
+
+     Rogers, Circuit Judge, concurring:  Upon consideration of 
+this appeal by the en banc court, I generally join Judge 
+Randolph's concurring opinion.  Based on the standard estab-
+lished in News America Publishing, Inc. v. FCC, 844 F.2d 
+800 (D.C. Cir. 1988), as applied and explained in that case, I 
+initially was persuaded by Ruggiero's argument challenging 
+s 632(a)(1)(B) of the Radio Broadcasting Preservation Act of 
+2000, Pub. L. No. 106-553, 114 Stat. 2762, s 632(a)(1)(B), and 
+its implementing rule, 47 C.F.R. s 73.854.  However, upon 
+further consideration, I am persuaded that Ruggiero does not 
+have standing to raise the question of whether the statutory 
+ban is overbroad.  That conclusion, combined with the fact 
+that the en banc court is not constrained by our precedent 
+News America, precedent whose analysis I read to require a 
+determination that the ban was unconstitutional, now leads 
+me to a different result.
+
+     The court is in agreement that the News America standard 
+of something "more than minimal scrutiny," 844 F.2d at 813, 
+is the appropriate standard to be applied in Ruggiero's case, 
+rejecting the rational basis test urged by the government.  
+The court does not further define the standard and the 
+majority, unlike the dissent, does not adopt the analysis of 
+News America.  In News America, the court did not address 
+the question of overbreadth, resting instead on the extraordi-
+nary underinclusiveness of the statutory provision at issue 
+that, in fact, applied to a single licensee.  844 F.2d at 810.  
+The panel majority in Ruggiero adopted the News America 
+standard because the statutory ban focused on a defined 
+(albeit not closed) group "with the precision of a laser beam," 
+Ruggiero v. FCC, 278 F.3d 1323, 1331 (D.C. Cir. 2002), and 
+concluded that the statute (and its associated rule) was uncon-
+stitutional under the News America standard in part because 
+it "covers circumstances only marginally related to the pur-
+pose of increasing regulatory compliance," id. at 1332.  The 
+en banc majority eschews that conclusion and instead decides 
+that because "[a]ll unlicensed LPFM broadcasters violated 
+the Communications Act," they have "demonstrate[d] a willful 
+disregard of the most basic rule of federal broadcasting 
+
+regulation" and are properly covered by the statute and 
+implementing rule.  Maj. Op. at 12.
+
+     The differing applications of the overbreadth doctrine by 
+the en banc majority and the panel majority suggest the 
+importance of considering whether the doctrine properly ap-
+plies at all to Ruggiero's appeal.  See L.A. Police Dep't v. 
+United Reporting Publ'g Corp., 528 U.S. 32, 38-41 (1999).  
+The en banc majority does not address this threshold ques-
+tion.  Although the parties did not brief the issue of whether 
+the overbreadth doctrine applies, the question was raised by 
+the en banc court during oral argument and the parties' 
+attention was drawn to the Supreme Court's decision in Los 
+Angeles Police Department.  Each party was afforded an 
+opportunity to respond to the question and neither party 
+sought permission from the court to file a supplemental 
+memorandum on the question.  As a jurisdictional issue that 
+the court can raise sua sponte, insofar as the question impli-
+cates whether Ruggiero is a proper party to challenge the 
+overbroad nature of the statute and rule, see New York v. 
+Ferber, 458 U.S. 747, 767-68 & n.20 (1982), it behooves the 
+court to address the threshold question of whether the doc-
+trine applies here, see Steel Co. v. Citizens for a Better Env't, 
+523 U.S. 83, 94-95 (1998).
+
+     For the reasons generally set forth in Judge Randolph's 
+concurring opinion, I would deny the petition for review.  In 
+light of Los Angeles Police Department, the overbreadth 
+doctrine does not apply.  Although the dissent treats Ruggie-
+ro's challenge to the ban as based on underinclusiveness and 
+overinclusiveness, and continues to apply the News America 
+analysis, dissenting op. at 7-14, as Judge Randolph makes 
+clear, one of Ruggiero's First Amendment challenges is an 
+overbreadth challenge.  Concurring op. Randolph, J. at 1, 3.  
+There is no evidence that the speech of any pirate has been 
+chilled as a result of the ban, and when counsel for Ruggiero 
+was asked at oral argument what chilling effect the ban might 
+have on other pirates, he was only able to identify the fact 
+that "many of these individuals won't even bother to go 
+through the process of applying for a broadcast license," 
+because "[t]hey don't have a lot of money to hire lawyers."  
+
+The financial inability of private parties to file suit to chal-
+lenge arguably unconstitutional statutes is insufficient to 
+show a chilling effect.  Moreover, Ruggiero's own history 
+with the Commission leaves no room for doubt that such a 
+ban can be constitutionally applied to so flagrant a violator of 
+the Communications Act.  See Free Speech v. Reno, No. 98 
+CIV. 2680(MBM), 1999 WL 147743, at *11 (S.D.N.Y. Mar. 18, 
+1999), aff'd sub nom. Free Speech ex rel. Ruggiero v. Reno, 
+200 F.3d 63 (2d Cir. 1999);  In re Creation of Low Power 
+Radio Serv., 15 F.C.C.R. 19,208, 19,245 & n.140 (2000), 
+amended by 16 F.C.C.R. 8026 (2001).  Indeed, the dissent 
+does not suggest to the contrary, but would void the ban 
+because it is not confined to flagrant violators.  Dissenting 
+op. at 11-13.  Thus his facial challenge fails.  See concurring 
+op. Randolph, J. at 2.
+
+     Were the overbreadth doctrine brought to the court by a 
+proper party, our dissenting colleague, admittedly, makes a 
+strong case for why Congress might have done better than to 
+ban all pirates from applying for a broadcast license.  See 
+dissenting op. at 11-14.  However, because Ruggiero may not 
+avail himself of that doctrine, the only remaining question for 
+the court is whether, under something more than minimal 
+scrutiny, Congress reasonably could have concluded that a 
+blanket prohibition of granting low-power licenses to individu-
+als such as Ruggiero would further the purposes underlying 
+what is, essentially, a regulatory system largely reliant on 
+voluntary compliance.  See In re Creation of Low Power 
+Radio Serv., 15 F.C.C.R. 2205, 2226, on reconsideration 15 
+F.C.C.R. 19,208 (2000), amended by 16 F.C.C.R. 8026 (2001);  
+Maj. Op. at 10-11.  In other words, the question is whether 
+Congress's method is "substantially related to the Govern-
+ment's interest -- a somewhat higher level of inquiry than 
+mere rational relationship."  News America, 844 F.2d at 821 
+(Robinson, J., dissenting).  The ban, which applies without 
+regard to the content of the pirates' speech, advances a 
+strong governmental interest by precluding pirates, who have 
+intentionally violated the Communications Act, from applying 
+for a license under a regulatory scheme that depends heavily 
+on voluntary compliance.  Maj. Op. at 6-8, 10-11.  Hence, 
+
+Ruggiero fails to show that the ban violates the First Amend-
+ment or the Equal Protection Clause.
+
+     Tatel, Circuit Judge, dissenting:  No one doubts, as this 
+court and the Commission repeatedly emphasize, that broad-
+casting without a license is a serious offense.  Severe penal-
+ties, including fines, forfeitures, and even imprisonment, have 
+long existed for unlicensed broadcasting.  Morever, the Com-
+mission has ample authority, which it regularly exercises, to 
+deny licenses to former unlicensed broadcasters who, in the 
+Commission's judgment, cannot be trusted to function as 
+truthful and reliable licensees.  The question presented here 
+is whether unlicensed microbroadcasters, many of whom have 
+already been punished for their misdeeds, may be subjected 
+to a unique and draconian sanction that automatically and 
+forever bars them--unlike any other violator of the Commu-
+nications Act or regulations--from applying for low power 
+licenses regardless of either the circumstances of their of-
+fenses or evidence that they can nevertheless operate in the 
+public interest.  Because this double standard is indefensible, 
+because the statute's automatic lifetime ban restricts speech, 
+and because the court, though purporting to embrace this 
+circuit's more than minimal scrutiny standard, actually sub-
+jects the statute to the minimal scrutiny reserved for non-
+First Amendment cases, I respectfully dissent.
+
+                                I.
+
+     The Radio Broadcasting Preservation Act's character quali-
+fication "prohibit[s] any applicant from obtaining a low power 
+FM license if the applicant has engaged in any manner in the 
+unlicensed operation of any station in violation of section 301 
+of the Communications Act of 1934."  Pub. L. No. 106-553, 
+114 Stat. 2762, s 632(a)(1)(B) (2000) (RBPA).  The court 
+glosses over the statute's unusual harshness.  No other viola-
+tions of the Communications Act or broadcasting regulations 
+result in automatic disqualification nor are punishable by this 
+broadcasting equivalent of the death penalty.  Except in the 
+case of unlicensed microbroadcasters, the Commission 
+"treat[s] violations of the Communications Act, Commission 
+rules or Commission policies as having a potential bearing on 
+character qualification."  Policy Regarding Character Quali-
+fications in Broadcast Licensing, 102 F.C.C.2d 1179, p 56 
+(1986) ("1986 Character Policy Statement") (emphasis added), 
+recon. granted in part and denied in part, 1 F.C.C.R. 421 
+
+(1986).  Even as to FCC-related misconduct involving "mis-
+representation," viewed by the Commission as "rais[ing] im-
+mediate concerns over the licensee's ability to be truthful in 
+any future dealings with the Commission," no Commission 
+rule subjects full power applicants to automatic, lifetime 
+disqualification.  Id. p 57.  In addition, the Commission allows 
+full power applicants with unclean records to demonstrate 
+rehabilitation.  Id. p 105.  In this regard, the Commission 
+considers "the passage of time since the misconduct, the 
+frequency of misconduct, the involvement of management and 
+the efforts to remedy the situation."  Id.  Moreover, any 
+misconduct, communications-related or otherwise, occurring 
+more than ten years prior to the filing of a full power 
+application is completely disregarded.  Id.
+
+     The RBPA treats unlicensed microbroadcasters quite dif-
+ferently, however.  Instead of having past offenses evaluated 
+as just one factor in assessing their qualifications, instead of 
+having an opportunity to demonstrate rehabilitation, and in-
+stead of having their sins forgiven after ten years, they are 
+automatically and forever barred from low power frequencies.  
+This capital sanction has been imposed not just on Petitioner 
+Greg Ruggiero, but also on education- and church-related 
+organizations that, in response to the Commission's RBPA 
+implementing regulation, confessed to some prior acts of 
+unlicensed broadcasting:  Foundation for California State 
+University, San Bernardino;  Hume Lake Christian Camps;  
+Calvary Chapel of Simi Valley, Inc.;  Friends of the South 
+County Library;  All That Is Catholic Ministries;  and Pente-
+costal Church of the Eternal Rock.  See Creation of a Low 
+Power Radio Serv., 16 F.C.C.R. 8026, 8060-61 (2001) ("Sec-
+ond Low Power Report and Order") (amending Creation of 
+Low Power Radio Serv., 15 F.C.C.R. 2205 (2000) ("First Low 
+Power Report and Order") (codified at 47 C.F.R. s 73.854)).
+
+     Not only is the RBPA's character qualification an unusually 
+harsh broadcasting regulation, but automatic lifetime bans 
+appear rarely in American law.  True, the Fourteenth 
+Amendment allows states to ban felons from voting, U.S. 
+Const. Amend. XIV, s 2;  see Richardson v. Ramirez, 418 
+
+U.S. 24 (1974), and the Commission points to a few statutes 
+that authorize lifetime bans, see Respondent's Br. at 20-21, 
+but none involves restrictions on speech.
+
+                               II.
+
+     The court gets off to a good start:  It says it rejects the 
+Commission's position that in reviewing the RBPA's constitu-
+tionality, we should apply only minimal scrutiny.  Maj. Op. at 
+8.  I have two concerns with what follows, however.  First, I 
+think the First Amendment values at stake here are weighti-
+er than the court's opinion suggests.  Second, in sustaining 
+the RBPA's constitutionality, the court actually applies the 
+same minimal scrutiny standard it purports to reject.
+
+     First, the values at stake:  Although no one has a First 
+Amendment right to broadcast, see Red Lion Broad. Co. v. 
+FCC, 395 U.S. 367, 388-89 (1969), denial of a license unques-
+tionably burdens an applicant's opportunity for future speech.  
+The purpose of the licensing process is to facilitate constitu-
+tionally protected speech, albeit speech somewhat less pro-
+tected than that occurring outside broadcasting.  See FCC v. 
+League of Women Voters, 468 U.S. 364, 378 (1984) ("[W]e 
+have ... made clear that broadcasters are engaged in a vital 
+and independent form of communicative activity.").
+
+     As the Supreme Court made clear in Red Lion, moreover, 
+the public has a First Amendment right "to receive suitable 
+access to social, political, esthetic, moral, and other ideas and 
+experiences."  Red Lion Broad. Co., 395 U.S. at 390.  The 
+Court further explained:
+
+     [T]he people as a whole retain their interest in free 
+     speech by radio and their collective right to have the 
+     medium function consistently with the ends and 
+     purposes of the First Amendment....  It is the 
+     purpose of the First Amendment to preserve an 
+     uninhibited marketplace of ideas in which truth will 
+     ultimately prevail, rather than to countenance mo-
+     nopolization of that market, whether it be by the 
+     Government itself or a private licensee.
+     
+Id.  The public's First Amendment right to diverse broad-
+casting is especially important, for it is the source of the 
+Commission's authority to limit broadcast ownership and to 
+apportion scarce broadcast spectrum to persons of good mor-
+al character.  See League of Women Voters, 468 U.S. at 380 
+("Thus, although the broadcasting industry plainly operates 
+under restraints not imposed upon other media, the thrust of 
+these restrictions has generally been to secure the public's 
+First Amendment interest in receiving a balanced presenta-
+tion of views on diverse matters of public concern.");  FCC v. 
+Nat'l Citizens Comm. for Broad., 436 U.S. 775, 794-95 (1978) 
+("NCCB");  Red Lion Broad. Co., 395 U.S. at 387-90.  In-
+deed, when the Commission authorized the new low power 
+service in its 2000 Report and Order, it did so expressly to 
+increase broadcasting diversity.  "We believe that the LPFM 
+service authorized in this proceeding," the Commission ex-
+plained, "will provide opportunities for new voices to be heard 
+and will ensure that we fulfill our statutory obligation to 
+authorize facilities in a manner that best serves the public 
+interest."  First Low Power Report and Order, 15 F.C.C.R. 
+at 2206, p 1.
+
+     Our decision in News America Publishing, Inc. v. FCC, 844 
+F.2d 800 (D.C. Cir. 1988), identifies still another reason for 
+rejecting rational basis analysis.  In that case, we confronted 
+a statute that forbade the Commission from extending exist-
+ing waivers of the cross-ownership rules.  The provision 
+affected only two such waivers, both held by a single publish-
+er/broadcaster, Rupert Murdoch.  News America's challenge 
+to the provision "l[ay] at the intersection of the First Amend-
+ment's protection of free speech and the Equal Protection 
+Clause's requirement that government afford similar treat-
+ment to similarly situated persons."  Id. at 804.  Reviewing 
+the case law, we identified a "spectrum" of possible broadcast 
+restrictions, "from the purely content-based (e.g., 'No one 
+shall criticize the President') to the purely structural (e.g., the 
+cross-ownership rules themselves)," and suggested that the 
+applicable level of constitutional scrutiny increases with the 
+extent to which a challenged provision relies on the identity of 
+the speaker or the content of the covered speech.  Id. at 812.  
+
+On this spectrum, the challenged prohibition on extending 
+cross-ownership waivers was "far from purely structural ... 
+as it applie[d] to a closed class of one publisher broadcaster."  
+Id.  Concerned that "[t]he safeguards of a pluralistic political 
+system are often absent when the legislature zeroes in on a 
+small class of citizens," but wary of intermediate scrutiny, we 
+concluded that "[w]hat suffices for this case is that more is 
+required than 'minimum rationality.' "  Id. at 813-14.  Apply-
+ing this heightened rational basis standard to the challenged 
+provision, we held that the provision's narrow focus on exten-
+sion of existing waivers of the newspaper-television cross-
+ownership rules--rather than, for example, extensions of 
+future waivers or extensions of waivers of the newspaper-
+radio cross ownership rules--rendered the prohibition uncon-
+stitutionally underinclusive.  Id. at 814-15.
+
+     Like the prohibition at issue in News America, the RBPA's 
+character qualification raises not just First Amendment con-
+cerns (it restricts future lawful speech), but equal protection 
+concerns as well because it applies to a limited class of 
+unlicensed microbroadcasters.  Id. at 812.  Although this 
+class is neither "closed" nor as small as News America's, the 
+class is well-defined--it consists of all unlicensed microbroad-
+casters and applies only to those frequencies reserved for 
+local voices--and the character qualification focuses on the 
+class "with the precision of a laser beam."  Id. at 814.  
+Indeed, the RBPA prohibition is far more severe than the 
+rule at issue in News America:  Unlicensed microbroadcast-
+ers may never lawfully operate low power stations anywhere 
+in the country, whereas Rupert Murdoch, consistent with the 
+cross-ownership rules, could lawfully have operated television 
+stations outside any community in which he "own[ed] or 
+control[led] a daily newspaper."  Id. at 802;  cf. NCCB, 436 
+U.S. at 800.
+
+     For all these reasons, the appropriate standard of review is 
+neither NCCB's minimal scrutiny nor League of Women 
+Voters' intermediate scrutiny, but rather "more than minimal 
+scrutiny."  News Am. Publ'g, Inc., 844 F.2d at 813.  Although 
+purporting to agree, this court goes on to apply what is 
+effectively minimal rationality review.  It treats the RBPA as 
+
+presumptively valid and disregards the many ways in which 
+the statute is poorly tailored.  See FCC v. Beach Communi-
+cations, Inc., 508 U.S. 307, 313-16 (1993) (explaining charac-
+teristics of rational basis review).  It is of course true that 
+this en banc court may overrule News America, but not, as it 
+has effectively done, without providing a reasoned explanation 
+for doing so.  See Planned Parenthood of Southeastern Penn. 
+v. Casey, 505 U.S. 833, 866 (1992) (opinion of O'Connor, 
+Kennedy, Souter) ("The need for principled action to be 
+perceived as such is implicated to some degree whenever this, 
+or any other appellate court, overrules a prior case.").  In any 
+event, I know of no decision, either of the Supreme Court or 
+this circuit, that applies rational basis review to a statute 
+limiting important First Amendment rights.
+
+     Applying our more than minimal scrutiny standard, I have 
+no doubt that ensuring truthful and reliable low power licen-
+sees and deterring future violations of the Communications 
+Act--the reasons Congress enacted the RBPA's character 
+qualification--represent important governmental objectives.  
+But this does not end our analysis.  We must determine 
+"how well [the RBPA's] aim corresponds with [its] legitimate 
+public purpose."  News Am. Publ'g, Inc., 844 F.2d at 814.  If 
+the statute is poorly aimed--either because its automatic, 
+lifetime mechanism operates to exclude "conduct that seems 
+indistinguishable in terms of the law's ostensible purpose" of 
+increasing regulatory compliance, id. at 805, or because it 
+covers conduct only remotely related to that purpose--then it 
+limits more speech than necessary and "raise[s] a suspicion" 
+that perhaps Congress's "true" objective was not to increase 
+regulatory compliance, but to penalize microbroadcasters' 
+"message."  Id.;  see Petitioner's Br. at 30-32 (arguing that 
+Congress passed the RBPA to punish microbroadcasters' 
+message).  One need neither endorse the microbroadcasters' 
+tactics, see Grid Radio v. FCC, 278 F.3d 1314 (D.C. Cir. 
+2002) (rejecting an argument that penalizing microbroadcast-
+ing piracy violates the First Amendment), nor believe the 
+RBPA discriminates against their "message" in order to 
+conclude that the provision's inaccurate aim--it's both under- 
+and overinclusive--is fatal.
+
+                               III.
+
+     I begin with the statute's underinclusiveness.  See City of 
+Ladue v. Gilleo, 512 U.S. 43, 51-52 (1994) (explaining that 
+underinclusiveness in speech regulations may suggest a con-
+tent or viewpoint discriminatory motive and cast doubt on the 
+government's asserted justification for restricting speech).  If 
+banning unlicensed microbroadcasters is vital to ensuring 
+truthfulness and reliability, why does the RBPA exclude so 
+much conduct that seems equally or even more related to 
+those objectives?  Specifically, the character qualification 
+bans low power license applications only from unlicensed 
+microbroadcasters, leaving the Commission free to evaluate 
+applications from anyone else under its non-automatic, more 
+permissive general character qualification policy.  See supra 
+at p. 2.  Inveterate regulatory violators, including those full 
+power applicants who broadcast without a license, retain the 
+opportunity to demonstrate that notwithstanding their of-
+fenses, they can reliably operate low power stations in the 
+public interest.  For example, applicants guilty of fraud or 
+misrepresentation, long considered by the Commission to be 
+among the most serious indicators of unreliability, are not 
+automatically ineligible.  See 1986 Character Policy State-
+ment, 102 F.C.C.2d 1179, p 57.  They may apply for licenses, 
+and the Commission will consider their misdeeds in evaluat-
+ing their fitness to hold a license, or even disregard their 
+misbehavior altogether if it occurred more than ten years ago.  
+Of course, Congress need not address a "perceived prob-
+lem"--here, the possibility of regulatory violations by other 
+wrongdoers--"all at once," but we reject that "facile one-bite-
+at-a-time explanation" for otherwise inexplicable underinclu-
+siveness in "rules affecting important First Amendment val-
+ues."  News Am. Publ'g, Inc., 844 F.2d at 815.
+
+     The RBPA's underinclusiveness is quite pronounced, par-
+ticularly when compared to the Commission's treatment of 
+full power broadcasters.  The Commission does not automati-
+cally disqualify full power applicants who have engaged in 
+even "the most atrocious infractions."  Weiner Broad. Co., 7 
+F.C.C.R. 832, 834 (1992).  In Weiner, the Commission re-
+voked the "incorrigible Weiner['s]" broadcast license as a 
+
+result of his numerous alleged violations of Commission 
+rules--including broadcasting without a license, evading a 
+court injunction prohibiting his unlicensed broadcasting, and 
+misrepresenting his true intentions in construction permit 
+and license applications filed with the Commission--but only 
+after considering Weiner's evidence of rehabilitation.  Id. at 
+833.  "Should a 'decent interval' ensue without notable delict," 
+the Commission even offered, "Weiner is not estopped from 
+applying again."  Id. at 834.  Likewise, in L.D.S. Enterprises, 
+Inc., 86 F.C.C.2d 283 (1981), a case involving "perhaps the 
+most amoral skein of detected villainy in domestic broadcast 
+history," Weiner Broad. Co., 7 F.C.C.R. at 834, the Commis-
+sion considered an applicant's evidence of rehabilitation even 
+though he had deliberately distorted newscasts to favor cer-
+tain senatorial candidates, made illegal campaign contribu-
+tions, bribed public officials, and attempted to eavesdrop on 
+and intimidate Commission witnesses.  L.D.S. Enter., Inc., 86 
+F.C.C.2d at 286.  Finally, in Modesto Broadcast Group, 7 
+F.C.C.R. 3404 (1992), the Commission reviewed a license 
+application filed by a station whose general manager had 
+operated during the day with relatively high, nighttime pow-
+er, thus risking interference with other stations.  Although 
+the Commission ultimately rejected the application, it did so 
+only after considering the willfulness, duration, and timing of 
+the violations--factors that the RBPA prohibits the Commis-
+sion from considering in cases involving unlicensed micro- 
+broadcasters who seek LPFM licenses.  Id. at 3422-23.
+
+     This court offers three unconvincing explanations for the 
+statute's underinclusiveness.  First, it says that "other viola-
+tions of law simply do not reflect as directly upon the 
+offender's qualification to hold an LPFM license."  Maj. Op. 
+at 11.  Assuming that to be true, why does the RBPA's 
+automatic and permanent ban not extend to unlicensed full 
+power broadcasters, such as the "incorrigible Weiner"?  In 
+any event, I think it not at all obvious that unlicensed 
+microbroadcasters who broadcast briefly and years ago and 
+who shut down promptly when told to do so present any 
+greater risk of unreliable behavior than applicants who re-
+cently obtained their licenses through fraud or misrepresenta-
+
+tion or who perpetrated the "most amoral skein of detected 
+villainy in domestic broadcast history."  If anything, the 
+Weiners of the world should be of greater concern.  Nor do I 
+think it inherently obvious that former unlicensed microb-
+roadcasters necessarily present a higher risk of frequency 
+interference than do Weiner or the Modesto general manag-
+er.  Whether caused by unlicensed microbroadcasters or by 
+licensed broadcasters operating on someone else's frequency, 
+frequency interference is frequency interference.  Indeed, 
+unauthorized full power broadcasters, whose range and power 
+far exceed that of microbroadcasters, would seem to present a 
+greater risk of interference.  Of course, such observations 
+would be irrelevant were we applying rational basis review, 
+see Beach Communications, 508 U.S. at 313-16, but our more 
+than minimal scrutiny standard requires us to determine 
+whether Congress's means are appropriately tailored to 
+achieve its goals.
+
+     The court's second explanation for the RBPA's single-
+minded focus on unlicensed microbroadcasters is this:  "There 
+is a reasonable fit between the character qualification and the 
+Government's substantial interests in deterring unlicensed 
+broadcasting and preventing further violations of the regula-
+tions applicable to broadcasters."  Maj. Op. at 13.  I agree 
+that deterrence is a substantial governmental interest, but 
+why impose a lifetime ban?  Even given the many violations 
+that occurred during the movement to end the low power ban, 
+what is it about unlicensed microbroadcasters, alone among 
+applicants who have committed offenses, that requires a 
+broadcasting "mark of Cain" to deter future offenses?  Gene-
+sis 4:15.
+
+     The weakness of the deterrence rationale is particularly 
+evident in view of the fact that the Commission's 2000 Report 
+and Order, which the RBPA replaced, made crystal clear that 
+applicants who continue broadcasting without licenses after 
+the 1999 Notice of Proposed Rule Making would be automati-
+cally and forever ineligible for any broadcast license.  "[T]he 
+illegality of unauthorized broadcasting," the Commission ex-
+plained, "must now be presumed to be well-known, and any 
+
+unlicensed broadcast operation occurring more than 10 days 
+after the Notice was issued will make the applicant ineligible 
+for low power, full power, or any other kind of license and will 
+be subject to fines, seizure of their equipment, and criminal 
+penalties."  First Low Power Report and Order, 15 F.C.C.R. 
+at 2227, p 55.  Neither the court nor the Commission explains 
+why banning all former unlicensed broadcasters would fur-
+ther deter unlicensed broadcasting, and for good reason:  If 
+the threat of automatic and lifetime disqualification is insuffi-
+cient to deter someone from broadcasting, that person is 
+unlikely to experience a sudden change of heart simply 
+because Congress retroactively extended an identical ban to 
+microbroadcasters who operated illegally prior to the NPRM.  
+And even if, as Commission counsel suggested at oral argu-
+ment, the RBPA's deterrent effect would be greater because 
+the Commission had authority to waive its more limited bar, 
+Tr. of Oral Arg. at 28:8-32:23, Congress could have corrected 
+that defect simply by making the Commission's rule nonwaiv-
+able.
+
+     The court's final response to the RBPA's underinclusive-
+ness is that "[t]he judgment that one offense is more serious 
+than another, like the judgment that a punishment of a 
+certain severity is warranted for a particular offense, is not 
+for the judiciary to make."  Maj. Op. at 12 n.*.  In support of 
+this proposition, the court cites two cases holding that juve-
+nile curfews, both of which included numerous exemptions to 
+protect First Amendment rights, were not unconstitutionally 
+underinclusive because they applied only to juveniles sixteen 
+and under, but not to seventeen-year-olds.  Id. (citing Hutch-
+ins v. District of Columbia, 188 F.3d 531 (D.C. Cir. 1999) (en 
+banc);  Schleifer v. City of Charlottesville, 159 F.3d 843 (4th 
+Cir. 1998)).  The records in both cases, however, contained 
+evidence of disproportionate criminal activity by juveniles 
+sixteen and under, thus providing an empirical justification 
+for the curfews' differential treatment of seventeen-year-olds.  
+See Hutchins, 188 F.3d at 543 ("[T]he District brought to our 
+attention more data showing that arrests for youths under 17 
+have been increasing steadily.");  Schleifer, 159 F.3d at 849-50 
+("[T]he City's evidence documents a serious problem of crime 
+
+among younger juveniles.").  In Hutchins, moreover, this 
+court recognized a logical justification for excluding seven-
+teen-year-olds from the curfew--their inclusion increased the 
+curfew's intrusiveness as well as its enforcement burden.  
+Hutchins, 188 F.3d at 543.  Far from holding that we should 
+ignore underinclusiveness in regulations that affect important 
+First Amendment rights, the two curfew cases stand for the 
+unexceptional proposition that legislation is not underinclu-
+sive if its differential treatment has empirical or logical 
+justification.  Absent any such justification for the RBPA's 
+differential treatment of microbroadcasters, this court's disre-
+gard of the statute's underinclusiveness is more characteristic 
+of the rationality review the court says it rejects than of the 
+heightened scrutiny it purports to apply.
+
+                               IV.
+
+     The RBPA's character qualification is poorly aimed for a 
+second reason:  Although the RBPA certainly eliminates any 
+risk that unlicensed microbroadcasters will become unreliable 
+or untruthful licensees--after all, they can never become 
+licensees--the statute, because of its automaticity, covers 
+circumstances only marginally if at all related to the purpose 
+of increasing regulatory compliance.  See Simon & Schuster 
+v. Crime Victims Bd., 502 U.S. 105 (1991) (invalidating stat-
+ute as overinclusive);  League of Women Voters, 468 U.S. at 
+396-99 (same).  For example, the character qualification bans 
+applications from former unlicensed operators who violated 
+the licensing requirement only briefly or long ago;  from 
+operators who shut down immediately upon receiving a Com-
+mission order to do so;  from operators who have since 
+exhibited, in whatever manner, an ability to abide by federal 
+laws and regulations;  from operators who (like Ruggiero, see 
+Wangaza Decl.) seek only to serve as members of a multi-
+member board, rather than as president or CEO of an 
+applicant station;  and, most tellingly, from operators who 
+were unaware of the licensing requirement at the time of 
+their violation.  I do not understand how a restriction that 
+ignores such factors can accurately target those former unli-
+
+censed microbroadcasters who do pose real risks of future 
+malfeasance.
+
+     According to this court, "[a]ny unlicensed broadcasting 
+demonstrates a willful disregard of the most basic rule of 
+federal broadcasting regulation."  Maj. Op. at 12.  Of course 
+that's not true of operators who were unaware of the licensing 
+requirement and ceased broadcasting immediately upon being 
+told to do so.  In any event, why impose a lifetime ban even 
+for willful violators?  Statutory and regulatory violations by 
+full power broadcasters are considered as just one element in 
+the licensing process and completely forgiven under certain 
+circumstances.  What is it about these little unlicensed mi-
+crobroadcasters, some of whom are education and church 
+organizations, see supra p. 2, that leads this court to exclude 
+any possibility of rehabilitation?  I see no rational basis for 
+assuming that all unlicensed microbroadcasters, regardless of 
+either who they are or the circumstances of their violations, 
+can never again be trusted to hold low power licenses.
+
+     Contrary to the court's opinion, moreover, neither the 
+Commission Order on Reconsideration nor the House Report 
+supports the proposition that all unlicensed microbroadcast-
+ers should be automatically and forever banned.  In fact, the 
+Commission rejected a total ban, applying automatic disquali-
+fication to only those unlicensed microbroadcasters who re-
+fused to stop either after being told to do so or within ten 
+days of the 1999 NPRM.  See Creation of Low Power Radio 
+Serv., 15 F.C.C.R. 19,208, p 96 (2000) (Opinion and Order on 
+Reconsideration).  And nothing in the House Report's one-
+sentence discussion of the RBPA's character qualification 
+explains why all former unlicensed microbroadcasters, re-
+gardless of the circumstances of their violations or evidence of 
+rehabilitation, must be automatically barred in order to en-
+sure licensee truthfulness and reliability.  H.R. Rep. No. 
+106-567, at 8 (2000).
+
+     The RBPA's overinclusiveness is serious.  Because the 
+statute covers so much behavior unrelated to regulatory 
+compliance, it limits more speech than necessary to accom-
+
+plish Congress's objectives.  Moreover, contrary to Red Lion, 
+by unnecessarily denying licenses to potential speakers, the 
+RBPA may be limiting broadcast diversity and doing so in the 
+very portion of the spectrum set aside for new voices.  See 
+Ashcroft v. ACLU, 535 U.S. 564, ___, 122 S. Ct. 1700, 1718 
+(2002) (Kennedy, J., concurring) ("Indeed, when Congress 
+purports to abridge the freedom of a new medium, we must 
+be particularly attentive to its distinct attributes, for 'differ-
+ences in the characteristics of new media justify ... differ-
+ences in the First Amendment standards applied to them.' " 
+(quoting Red Lion Broad. Co., 395 U.S. at 386)).
+
+     Though arising in a different context, the Supreme Court's 
+recent decision in Thomas v. Chicago Park District, 534 U.S. 
+316 (2002), highlights the RBPA's fatal overinclusiveness.  
+Thomas involved a challenge to an ordinance that permitted 
+(but did not require) denial of an application to parade in a 
+public park when an applicant had, among other things, 
+"violated the terms of a prior permit."  Id. at 324.  Holding 
+that the First Amendment does not preclude discretionary 
+license denials, the Supreme Court explained:
+
+     The prophylaxis achieved by insisting upon a rigid, 
+     no-waiver application of the ordinance requirements 
+     would be far outweighed, we think, by the accompa-
+     nying senseless prohibition of speech ... by organi-
+     zations that fail to meet the technical requirements 
+     of the ordinance but for one reason or another pose 
+     no risk of the evils that those requirements are 
+     designed to avoid.
+     
+Id. at 325.  The issue in Thomas is quite similar to the one 
+we face here, even though the broadcast spectrum, unlike a 
+public park, is not a public forum.  See Arkansas Educ. 
+Television Comm'n v. Forbes, 523 U.S. 666, 676 (1998) (hold-
+ing that public forum doctrine did not apply to public televi-
+sion broadcast).  Both cases involve forums unable to accom-
+modate all speakers, and in both cases the government seeks 
+to avoid chaos and to ensure the forums' availability for use 
+by as many speakers as possible.  In Thomas, the Court 
+discussed the constitutionality of a "rigid, no-waiver" rule that 
+
+would automatically deny permits to persons who had violated 
+park district rules;  here, Congress adopted a "rigid, no-
+waiver" rule that automatically denies low power licenses to 
+all former unlicensed microbroadcasters.  To use Thomas's 
+words, then, the "prophylaxis achieved by" the RBPA's char-
+acter standard is "far outweighed ... by the accompanying 
+senseless prohibition of speech" by applicants who once 
+broadcast illegally "but for one reason or another pose no risk 
+of the evils that those requirements are designed to avoid."
+
+     The concurring opinion, relying on Los Angeles Police 
+Department v. United Reporting, Inc., 528 U.S. 32 (1999), 
+argues that Ruggiero "cannot invoke the [First Amendment] 
+overbreadth doctrine."  Randolph Op. at 2.  I disagree for 
+two reasons.  First, unlike United Reporting, the respondent 
+in Los Angeles Police Department, Ruggiero is not " 'a per-
+son to whom [the RBPA] may constitutionally be applied' " 
+who is " 'challeng[ing] that statute on the ground that it may 
+conceivably be applied unconstitutionally to others in situa-
+tions not before the Court.' "  L.A. Police Dep't, 528 U.S. at 
+38 (quoting New York v. Ferber, 458 U.S. 747, 767 (1982)).  
+Ruggiero has never conceded that the RBPA may be applied 
+constitutionally to him, much less to anyone else.  Quite to 
+the contrary, he argues that the RBPA cannot constitutional-
+ly be applied to anyone because the statute automatically 
+bars unlicensed microbroadcasters (unlike all other Communi-
+cations Act violators) from future speech without an opportu-
+nity to demonstrate to the Commission that notwithstanding 
+their offenses, they can function as truthful and reliable 
+licensees.
+
+     It is true that Ruggiero concedes that "some former pirates 
+may lack the requisite character traits to hold [low power] 
+licenses," Petitioner's Reply Br. at 11, and that he never says 
+that his behavior is "not egregious," Randolph Op. at 3.  But 
+that's beside the point.  Ruggiero argues not that he has a 
+right to serve on the low power station's board of directors, 
+but that this poorly tailored statute automatically bars him 
+from even trying to demonstrate to the Commission--which 
+under its general character policy automatically disqualifies 
+not even the most "atrocious" violators--that he can never-
+
+theless be trusted to function in the public interest.  Ruggie-
+ro thus has no need to take advantage of the overbreadth 
+doctrine's " 'departure from traditional rules of standing,' " 
+designed "to enable persons who are themselves unharmed 
+by the defect in a statute nevertheless 'to challenge that 
+statute on the ground that it may conceivably be applied 
+unconstitutionally to others, in other situations not before the 
+Court.' "  Bd. of Trustees v. Fox, 492 U.S. 469, 484 (1989) 
+(quoting Broadrick v. Oklahoma, 413 U.S. 601, 613 (1973) 
+(emphasis added)).
+
+     Second, even if the RBPA could constitutionally be applied 
+to Ruggiero, I believe he would prevail on an overbreadth 
+challenge.  To begin with, and contrary to the concurring 
+opinions, the RBPA does present a classic chilling effect.  
+Because the Commission's RBPA regulations require low 
+power license applicants to disclose all prior unlicensed broad-
+casting, those applicants whose piracy went undetected--a 
+situation the Commission considers to be covered by the 
+RBPA, see Second Low Power Report and Order, 16 F.C.C.R. 
+at 8030, p 11--must either (1) admit to a prior act of unli-
+censed broadcasting, an admission leading not just to perma-
+nent ineligibility, but also to possible administrative and/or 
+criminal sanctions, or (2) deny their prior misconduct, risking 
+both prosecution for perjury and "additional enforcement 
+actions," id.  It is thus not accurate to say that "[i]f [unli-
+censed broadcasters] file applications in the future no harm 
+will befall them.  Their applications will simply be denied."  
+Randolph Op. at 2.  Rather than face the Scylla of adminis-
+trative and criminal prosecution for unlawful broadcasting or 
+the Charybdis of perjury and Commission enforcement ac-
+tions for failing to disclose such broadcasting, former unli-
+censed microbroadcasters may find it far safer to forego 
+applying for licenses and simply remain silent.  See Nat'l 
+Endowment for the Arts v. Finley, 524 U.S. 569 (1998) 
+(allowing overbreadth challenge based on potential cutoff of 
+government funding).
+
+     It is true that under the Commission's general character 
+policy, applicants must disclose any unlicensed broadcasting.  
+See Randolph Op. at 4.  But the question here is whether the 
+
+RBPA, not the Commission's general character policy, has a 
+chilling effect.  I am unaware of any decision rejecting an 
+overbreadth challenge because the "preceding regime" not 
+actually at issue may have had an equally chilling effect as 
+the challenged provision.  Id.  And for the same reason the 
+RBPA is unconstitutionally overinclusive, Ruggiero could pre-
+vail on an overbreadth challenge.  See Bd. of Airport 
+Comm'rs v. Jews for Jesus, Inc., 482 U.S. 569, 574 (1987) 
+(finding statute banning all First Amendment activities at 
+airport "substantially overbroad" and unconstitutional under 
+overbreadth doctrine).
+
+                                V.
+
+     Declaring the RBPA unconstitutional would not leave Con-
+gress powerless to bar unlicensed microbroadcasters from 
+receiving low power licenses.  This circuit's more than mini-
+mal scrutiny standard leaves ample room for carefully aimed 
+licensing restrictions.  Moreover, the Commission already has 
+authority under its long-existing character qualification policy 
+to deny licenses to unlicensed microbroadcasters who, in the 
+Commission's considered judgment, have demonstrated an 
+inability " 'to deal truthfully with the Commission and to 
+comply with [its] rules and policies.' "  First Low Power 
+Report and Order, 15 F.C.C.R. at 2226, p 54 (internal citation 
+omitted).  In view of this circuit's heightened rational basis 
+standard, however, the court has no basis for sanctioning an 
+automatic, lifetime ban on future lawful speech that applies, 
+indefensibly, to only a limited class of unlicensed microbroad-
+casters and to just the portion of the spectrum created for 
+new voices.
+
+                  

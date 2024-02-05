@@ -1,0 +1,376 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 8, 2000     Decided June 30, 2000 
+
+                           No. 99-7090
+
+       United States of America ex rel. Joseph T. Siewick, 
+                            Appellant
+
+                                v.
+
+         Jamieson Science and Engineering, Inc., et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 92cv00045)
+
+     Joseph J. Aronica argued the cause for appellant.  With 
+him on the briefs was Robert B. Norris.
+
+     Gary Howard Simpson argued the cause and filed the brief 
+for appellees.
+
+     Before:  Williams, Henderson and Randolph, Circuit 
+Judges.
+
+      Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  Any person can initiate a lawsuit 
+in the name of the United States for substantive violations of 
+the False Claims Act (the "Act" or "FCA").  See 31 U.S.C. 
+s 3730(b) (authorizing action by a "person").  Such violations 
+include presenting to the government "a false or fraudulent 
+claim for payment or approval."  See id. s 3729(a) (establish-
+ing liability).  Here the non-government person (known as 
+the relator), Dr. Joseph T. Siewick, a physicist hired by 
+Jamieson Science and Engineering, Inc. ("JSE") in May 1990 
+but laid off in December 1991, presses a claim against JSE 
+and two of its officers at the relevant time, Vincent T. 
+O'Connor and Dr. John A. Jamieson.  He argues that the 
+monthly invoices that JSE submitted to the government for 
+payment under government contracts were false claims.  
+They were false, in his view, because JSE filed them notwith-
+standing alleged violations by O'Connor of a criminal statute 
+aimed at "revolving door" abuses by former government 
+employees, 18 U.S.C. s 207.
+
+     Siewick proposes two theories to support the alleged falsi-
+ty.  First, he says, the certified invoices implicitly declared 
+"compliance with applicable law, including Section 207," and 
+thus were "impliedly false."  Appellant's Br. at 11.  Second, 
+Siewick argues that a violation of s 207 renders a govern-
+ment contract unenforceable.  From this supposed unenforce-
+ability he reasons that both O'Connor and Jamieson knew 
+that JSE was not entitled to the payments JSE requested, so 
+JSE's invoices claiming that JSE was entitled to payment 
+were false.
+
+     Neither of Siewick's theories convinces us that the alleged 
+s 207 violations transformed JSE's invoices into the type of 
+false claims made actionable by the qui tam provisions of the 
+FCA.  We affirm the district court's grant of partial sum-
+mary judgment.
+
+                             *  *  *
+
+     In 1986, the Strategic Defense Initiative Organization 
+("SDIO") sought proposals for a project assessing its infrared 
+sensors and related technology.  O'Connor was the contract 
+
+officer assigned to the project and consequently received the 
+proposal submitted by JSE.  Although he didn't have the 
+power to choose the winning bidder, he was assigned the task 
+of negotiating JSE's fee and the final contract price.  After a 
+day of negotiations, the contract was signed on December 8, 
+1986 by O'Connor for the United States and Jamieson for 
+JSE.  O'Connor retained some role in administering the 
+contract, but the parties disagree as to its scope.
+
+     In the summer of 1987, O'Connor decided to leave govern-
+ment service.  He filed the requisite notice indicating his 
+intention to retire and began discussing employment opportu-
+nities with government contractors.  A technical representa-
+tive within SDIO, Peter Franklin, mentioned to Jamieson that 
+O'Connor was retiring and that he would be a helpful addition 
+to JSE's staff.  And after Jamieson and O'Connor met, 
+Jamieson offered O'Connor the job of Executive Vice Presi-
+dent of JSE, which he accepted as of November 1, 1987.
+
+     JSE bid on and received a second and third contract as the 
+previous contracts expired.  Siewick alleges that in represent-
+ing JSE in matters related to these contracts, O'Connor 
+repeatedly violated 18 U.S.C. s 207.  According to Siewick, 
+these violations began even before O'Connor had fully parted 
+company with the Navy (he had been on terminal leave from 
+November 1, 1987 to January 1, 1988) and continued through 
+to the period covered by the third contract.  Siewick claims 
+that these violations taint nearly every invoice submitted on 
+the three contracts.
+
+     The district court granted summary judgment in favor of 
+the defendants on the claims premised upon s 207 violations.  
+The court found both that Siewick's evidence was insufficient 
+as a matter of law to prove a violation of s 207 and that even 
+if s 207 had been violated, the violation did not transform the 
+invoices into false claims.  But it denied the defendants' 
+motion for summary judgment on Siewick's claims premised 
+upon padding and falsification of timesheets;  those claims 
+remain before the district court.  Siewick requested that the 
+district court enter final judgment pursuant to Fed. R. Civ. P. 
+54(b) on his s 207 claims, and the district court granted this 
+
+request after explicitly finding no just reason for delay.  
+Siewick filed a timely appeal.
+
+     After hearing oral argument we ordered this case held in 
+abeyance pending the Supreme Court's decision in Vermont 
+Agency of Natural Resources v. United States ex rel. Stevens, 
+___ U.S. ____, 120 S. Ct. 1858 (2000);  the Court had ex-
+pressed interest in standing in qui tam actions generally, 
+Stevens, 120 S. Ct. at 523 (expanding cert. grant).  As the 
+Court ultimately found no generic lack of standing, Stevens, 
+120 S. Ct. at 1863, 1865, and as we see no particular infirmity 
+here, we turn to the merits.
+
+                             *  *  *
+
+     We review a district court's grant of summary judgment de 
+novo;  a party is not entitled to summary judgment if a 
+reasonable jury could return a verdict for the nonmoving 
+party.  See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 
+248 (1986);  Aka v. Washington Hosp. Ctr., 156 F.3d 1284, 
+1288 (D.C. Cir. 1998) (en banc).  We assume in favor of 
+Siewick that his case could withstand summary judgment on 
+the proposition that JSE violated s 207.  But we find that 
+s 207 violations would not in themselves render JSE's in-
+voices "false claims" covered by the Act.
+
+     The Act establishes liability for anyone who "knowingly 
+presents, or causes to be presented, to an officer or employee 
+of the United States Government ... a false or fraudulent 
+claim for payment or approval."  31 U.S.C. s 3729(a)(1).  
+Siewick's problem is that because of defects in his theories 
+and the evidence, a reasonable jury could not find that JSE 
+knowingly presented a false or fraudulent claim.
+
+     For both theories it is essential that the vouchers and 
+invoices at issue here constitute "claims" within the meaning 
+of the Act.  They do.  A "claim" is "any request or demand, 
+whether under a contract or otherwise, for money or property 
+which is made to a contractor, grantee, or other recipient."  
+Id. s 3729(c).  Indeed, any request for payment is properly 
+considered a claim for purposes of the FCA.  See United 
+States v. Neifert-White Co., 390 U.S. 228, 233 (1968);  see also 
+
+United States ex. rel. Schwedt v. Planning Research Corp., 59 
+F.3d 196, 203 (D.C. Cir. 1995).
+
+     Siewick's first theory--that the vouchers made an "implicit 
+certification" of non-violation of s 207--is a non-starter.  It is 
+doomed by the rule, adopted by all courts of appeals to have 
+addressed the matter, that a false certification of compliance 
+with a statute or regulation cannot serve as the basis for a 
+qui tam action under the FCA unless payment is conditioned 
+on that certification.  As the Ninth Circuit said,
+
+     Violations of laws, rules, or regulations alone do not 
+     create a cause of action under the FCA.  It is the false 
+     certification of compliance which creates liability when 
+     certification is a prerequisite to obtaining a government 
+     benefit.
+     
+United States ex rel. Hopper v. Anton, 91 F.3d 1261, 1266 
+(9th Cir. 1996) (second emphasis added).  Courts have been 
+ready to infer certification from silence, but only where 
+certification was a prerequisite to the government action 
+sought.  See, e.g., Harrison v. Westinghouse Savannah River 
+Co., 176 F.3d 776, 793 (4th Cir. 1999) ("[The FCA] claim fails 
+on the pleadings because [the relator] has never asserted that 
+such implied certifications were in any way related to, let 
+alone prerequisites for, receiving continued funding.").  See 
+also United States ex rel. Weinberger v. Equifax, Inc., 557 
+F.2d 456, 461 (5th Cir. 1977);  compare United States ex rel. 
+Thompson v. Columbia/HCA Healthcare Corp., 125 F.3d 899, 
+902 (5th Cir. 1997) (seeming to require that the certification 
+be a prerequisite to receiving funds before liability under the 
+FCA can attach, even where the certification is express:  
+"false certifications of compliance create liability under the 
+FCA when certification is a prerequisite to obtaining a gov-
+ernment benefit.").  Siewick points to nothing suggesting that 
+JSE was required to certify compliance with s 207 as a 
+condition of its contract.  Thus his claim of implied certifica-
+tion fails.
+
+     The assessment of Siewick's second theory--that JSE's 
+invoices contained "expressly false" statements--turns in part 
+on the FCA's definition of "knowingly."  It says that a 
+
+defendant acts "knowingly" if he "(1) has actual knowledge of 
+the information;  (2) acts in deliberate ignorance of the truth 
+or falsity of the information;  or (3) acts in reckless disregard 
+of the truth or falsity of the information."  Id. s 3729(b).  
+The key issue, then, is whether (assuming violations of s 207) 
+JSE's claims were knowingly false or fraudulent.
+
+     The invoices in the record request that the U.S. Govern-
+ment pay JSE "the sums owing for all work performed" 
+under the relevant contract and certify that (1) "all these 
+charges are for work authorized and performed under the 
+referenced contract and that payment has not been received," 
+(2) "all claims are consistent with this clause," and (3) "the 
+required deliveries ... have been made to the distribution 
+specified in the contract."  The parties agree that these 
+statements "inform[ ] the government that work which enti-
+tles JSE to reimbursement has been performed."  See Appel-
+lee's Br. at 27.  Siewick's argument is that JSE knew that the 
+contract was void or voidable (Siewick flips back and forth 
+between these characterizations), and thus knew that it was 
+not entitled to be paid.
+
+     A void contract is one under which the promisor has no 
+duty of performance.  See Restatement (Second) of Contracts 
+s 7 cmt. a.  (Indeed, some purists say that a "void contract" 
+is a contradiction in terms, because the word contract always 
+includes some element of enforceability.  See 1 Joseph M. 
+Perillo, Corbin on Contracts s 1.7 (rev. ed. 1993)).  A voida-
+ble contract is one under which a party, usually a victim of 
+some wrong by another party, may "elect" to avoid any legal 
+obligations.  Restatement (Second) of Contracts s 7.1 The 
+first category is generally reserved for a handful of contracts 
+that are seen as being in fundamental violation of public 
+policy, such as agreements to do acts that both parties know 
+
+__________
+     1 Siewick most commonly argues that the contracts at issue 
+here were "unenforceable," a legal status that appears to encompass 
+voidable contracts but is often treated separately.  See Restate-
+ment (Second) of Contracts s 8 & cmts. a & b;  1 Corbin on 
+Contracts s 1.8.  In context, however, his claims are best under-
+stood as alleging either voidness or voidability.
+
+will constitute a felony, see Corbin on Contracts s 1.7, or 
+wagering agreements made in jurisdictions where gambling is 
+illegal, see 7 Richard A. Lord, Williston on Contracts s 17:22 
+(4th ed. 1997).  See generally id. at s 12:1 (examining kinds 
+of agreements usually considered void).
+
+     We can safely rule out any suggestion that s 207 violations 
+could, alone, have voided the contracts (let alone that JSE 
+could have "known" of the voiding).  In United States v. 
+Mississippi Valley Generating Co., 364 U.S. 520 (1961), de-
+cided in an era when Supreme Court readiness to infer 
+remedies from criminal statutes was at a high point, the 
+Court found that violations of a predecessor of s 207's statu-
+tory neighbor criminalizing certain conflicts of interest, 18 
+U.S.C. s 208, gave the government the right to "disaffirm a 
+contract which is infected by an illegal conflict of interest."  
+364 U.S. at 566.  There is no suggestion in the opinion that 
+the contract self-destructed into voidness, depriving the gov-
+ernment of its election.  The decision assumes (without dis-
+cussion, to be sure) that the government would want to retain 
+the option to treat the contract as fully in effect.  See id. at 
+563 ("This protection [from corrupting influences] can be fully 
+accorded only if contracts which are tainted by a conflict of 
+interest ... may be disaffirmed by the Government." (em-
+phasis added)).  Reasons why the government would wish to 
+preserve that election abound:  the officials authorized to 
+decide might regard the violation as minor;  they might think 
+that the criminal penalties provide ample punishment of the 
+present violation and deterrence of future ones;  they might 
+be concerned that disaffirmance would unduly impede future 
+transactions with the contracting firm (possibly in possession 
+of skills or other resources of exceptional value to the govern-
+ment) or with other potential contractors.  Longrun interests 
+often argue against pushing legal rights to the hilt.
+
+     We note that the Federal Circuit has said that government 
+contracts "tainted by fraud or wrongdoing" are "void ab 
+initio."  In the first such case, J.E.T.S., Inc. v. United States, 
+838 F.2d 1196, 1200 (Fed. Cir. 1988), nothing turned on the 
+characterization.  In the second, Godley v. United States, 5 
+F.3d 1473, 1476 (Fed. Cir. 1993), the consequences were 
+
+obscure, and the opinion in any event disregarded the lan-
+guage of Mississippi Valley Generating that supports voida-
+bility and pointed to none supporting voidness.  Read for all 
+their worth, these opinions would vastly expand the normally 
+minute group of contracts treated as void.
+
+     But the issue is open whether s 207 violations in the 
+securing or execution of a contract might render it voidable.  
+Of course the revolving door at which s 207 is aimed may 
+seem less problematic than the sort of actual conflict of 
+interest at stake in s 208 and in Mississippi Valley Generat-
+ing.  And in concluding that the voidability issue was open, 
+the court in United States v. Medico Indus., Inc., 784 F.2d 
+840 (7th Cir. 1986), noted that at the time of Mississippi 
+Valley Generating the Court "was freer [than currently] with 
+the creation of additional remedies."  Id. at 845.  But the 
+Medico court went on to point out that remedies created in 
+that era had generally survived and that the Mississippi 
+Valley Generating viewpoint was the one prevailing at the 
+time of s 207's enactment.  Id.  In the end the Seventh 
+Circuit left the issue open because Medico had dropped the 
+issue in the district court.  Id. at 844-45.  We also leave the 
+issue open;  its resolution is unnecessary to today's case.
+
+     Whatever the ultimate answer to that question, the obsta-
+cles to a conclusion that JSE "knowingly" misrepresented the 
+validity of the contract obligations are legion.  First, if the 
+panel in Medico was uncertain whether a s 207 violation 
+created voidability, it is hard to see how Jamieson or O'Con-
+nor could--with respect even to voidability, let alone validi-
+ty--have satisfied even the loosest standard of knowledge, 
+i.e., acting "in reckless disregard of the truth or falsity of the 
+information."  31 U.S.C. s 3729(b)(3).  While a faulty esti-
+mate or opinion can qualify as a false statement where the 
+speaker knows facts "which would preclude such an opinion," 
+Harrison, 176 F.3d at 792 (emphasis added), the "facts" of 
+which the Harrison court spoke are those that the speaking 
+party could reasonably classify as true or false, see id.  Here 
+there is only legal argumentation and possibility.
+
+     Moreover, a final decision that s 207 violations may allow 
+the government to disaffirm a contract would leave other 
+legal uncertainties.  Assuming that O'Connor and Jamieson 
+had some reason to think that s 207 had been violated, and 
+that a contract tainted with such a violation could become 
+voidable, they would also have had to know whether voidabili-
+ty requires materiality, i.e., whether the s 207 violations must 
+have affected the terms of the contracts.  In most circum-
+stances, the party seeking to avoid the contract must prove 
+that the defect had a material effect on the transaction in 
+question.  See Restatement (Second) of Contracts ss 7 cmt. 
+b (fraud, mistake, or duress);  15 cmt. b (mental illness);  16 
+cmt. b (intoxication);  but see id. s 7 cmt b (materiality 
+presumed when one party is an infant).
+
+     Second, even assuming that JSE's contracts were voidable, 
+invalidity is a distinct issue.  Siewick's theory is concededly 
+and necessarily that JSE knew that the contracts were 
+invalid.  But even if voidable they would have become invalid 
+only on a contingency--the contingency that the government 
+would exercise the assumed right to disclaim.
+
+     Third, a court that found contracts invalid in a qui tam 
+action where the government has not joined the plaintiff 
+would have unilaterally divested the government of the oppor-
+tunity to exercise precisely the discretion that is among the 
+key differentiations of voidness from voidability:  the discre-
+tion to accept or disaffirm the contract on the basis of 
+complex variables reflecting the officials' views of the govern-
+ment's longterm interests.
+
+     The implications of Siewick's position are extraordinary.  
+Disputes arise between the government and its contractors 
+every day.  Contractors do not win every penny they claim.  
+On Siewick's theory, any contracting party that misunder-
+stands its legal entitlements and therefore fails to recover on 
+an invoice in full would be liable under the False Claims 
+Act--except in instances where it was unaware of the facts 
+that led to its failure to recover in full.  This is not a 
+prescription for fair or efficient contracting.
+
+     Accordingly, we find a want of evidence from which a jury 
+could reasonably infer that JSE knowingly asserted a falsity 
+in its claims for payment under the contracts.
+
+     The district court's grant of partial summary judgment is
+
+                                                                                                 Affirmed.
+
+                                                       

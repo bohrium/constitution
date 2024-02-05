@@ -1,0 +1,363 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 5, 2002   Decided October 25, 2002 
+
+                           No. 00-1498
+
+          Canadian Association of Petroleum Producers, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                 Northwest Pipeline Corporation, 
+                            Intervenor
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     James H. Holt argued the cause and filed the briefs for 
+petitioner.
+
+     Judith A. Albert, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     Steven W. Snarr, Alex A. Goldberg, and Timothy W. Mul-
+ler were on the brief for intervenor Northwest Pipeline 
+Corporation.
+
+     Before:  Ginsburg, Chief Judge, and Sentelle and 
+Randolph, Circuit Judges.
+
+     Opinion for the Court filed by Chief Judge Ginsburg.
+
+     Ginsburg, Chief Judge:  The Canadian Association of Petro-
+leum Producers petitions for review of two orders of the 
+Federal Energy Regulatory Commission approving an in-
+crease in the rates charged by Northwest Pipeline Corpora-
+tion for transporting natural gas.  The CAPP contends that 
+the Commission allowed Northwest an excessive rate of re-
+turn on equity (ROE), resulting in unduly high rates.  Be-
+cause the CAPP failed in its request for rehearing before the 
+Commission to raise its current challenge to the proxy group 
+range of ROEs upon which the Commission based North-
+west's ROE, we lack jurisdiction to consider, and therefore 
+dismiss, that aspect of its petition.  Because the Commis-
+sion's decision to place Northwest at the median of the proxy 
+group range was reasonable and supported by substantial 
+evidence, we deny the remainder of the petition.
+
+                          I. Background
+
+     In 1995 Northwest applied for a general rate increase that 
+would raise its revenues by $19.2 million per year.  The 
+Commission, pursuant to its authority under s 4 of the Natu-
+ral Gas Act, 15 U.S.C. s 717c, to regulate rates for interstate 
+gas transmission, scheduled an evidentiary hearing before an 
+Administrative Law Judge to consider, among other things, 
+the appropriate rate of return on the equity invested in the 
+pipeline.
+
+     The Commission uses a discounted cash flow (DCF) analy-
+sis to determine the appropriate ROE for a regulated pipeline 
+company.  See Canadian Association of Petroleum Produc-
+ers v. F.E.R.C., 254 F.3d 289, 293 (D.C. Cir. 2001) 
+
+("CAPP I").  For a publicly-traded company, DCF analysis 
+provides an estimate of ROE based upon the price of the 
+company's stock, the dividend it pays, and projected growth 
+in its earnings.  Id.  For a company that is not publicly 
+traded, such as Northwest,
+
+     the Commission has recourse to calculating the implicit 
+     rate of return on companies that are comparable (or at 
+     least companies whose business is predominantly the 
+     operation of natural gas pipelines) and publicly traded.  
+     These companies are called the "proxy group."  The 
+     Commission then makes adjustments for specific charac-
+     teristics of the company whose rates are in question.
+     
+Id. at 294.
+
+     Northwest proposed to calculate its ROE using a DCF 
+analysis of a "proxy group" composed of six companies.  The 
+CAPP, through its expert witness Malcolm Ketchum, chal-
+lenged the representativeness of that group based upon a 
+"fundamental and continuing evolution taking place in the 
+portfolio of business ventures" in which the proxy companies 
+were engaged.  According to Mr. Ketchum, deregulation had 
+enabled pipeline companies to diversify by segregating "pure 
+pipeline" gas transmission operations into affiliated entities 
+and then pursuing related--or, indeed, unrelated--lines of 
+business that posed higher risks but offered greater potential 
+for earnings growth.  A higher estimate of growth, when 
+factored into the Commission's DCF analysis, results in a 
+higher ROE than would be required to attract investment in 
+a less risky, pure pipeline company.  Therefore, Mr. Ketchum 
+argued, the Commission should supplement its DCF analysis 
+with "a critical assessment of the relative business risks faced 
+by a pure regulated pipeline, such as Northwest."
+
+     The ALJ did not adjust the proxy group range of ROEs 
+upon the basis of Mr. Ketchum's analysis.  Neither, however, 
+did the ALJ accept Northwest's ROE figure, which was based 
+upon a DCF analysis using only short-term growth projec-
+tions.  Instead, using the Commission's then-prevailing DCF 
+methodology, the ALJ calculated the proxy group range by 
+giving equal weight to short- and long-term growth projec-
+
+tions.  See Northwest Pipeline Corp., 87 F.E.R.C. p 61,266 at 
+62,058, 1999 WL 357897 (June 1, 1999) ("Order").  Based 
+upon Northwest's risk profile, the ALJ then placed North-
+west at the midpoint of the proxy group range.  Id.
+
+     The Commission modified the ALJ's calculation of the 
+proxy group range in keeping with an intervening decision, 
+Transcontinental Gas Pipe Line Corp., 84 F.E.R.C. p 61,084, 
+1998 WL 608596 (July 29, 1998) ("Transco"), in which the 
+Commission had decided to give short-term growth projec-
+tions more weight than long-term growth projections in its 
+DCF calculations.  Order at 62,061.  As for placement of 
+Northwest within the range, the Commission analyzed the 
+company's competitive circumstances and the status of its 
+contracts for the delivery of gas to users, and affirmed the 
+ALJ's finding that Northwest faced an average level of risk.  
+In another modification stemming from Transco, however, 
+the Commission placed Northwest, as a company of average 
+risk, at the median rather than the midpoint of the proxy 
+group range of ROEs.  Id. at 62,068.  The Commission noted 
+but, curiously, did not address the CAPP's argument that the 
+ALJ had erred by failing to take into account, when placing 
+Northwest within the range, the difference in risk between 
+Northwest and the companies in the proxy group.  Order at 
+62,065.
+
+     The CAPP sought rehearing of the Order in two respects 
+relevant here.  First, the CAPP argued that the Commission 
+had erred in placing Northwest at the median of the proxy 
+group range.  Specifically, the CAPP challenged the Commis-
+sion's finding that Northwest faced significant competition 
+and argued that the Commission's analysis of Northwest's 
+contracts was flawed.  Again curiously, however, the CAPP 
+did not protest the Commission's failure to address the 
+CAPP's argument for adjusting Northwest's position within 
+the range to account for differences between Northwest and 
+the proxy companies.
+
+     Rather, the CAPP relied upon those differences to support 
+its second ground for rehearing, namely, that the Commis-
+sion, in determining the proxy group range, should not have 
+
+applied the recently-revised weighting formula adopted in 
+Transco. The CAPP argued that short-term growth projec-
+tions were influenced by the non-pipeline businesses of the 
+proxy group companies and thus skewed upward the range of 
+ROEs for the proxy group.
+
+     The Commission rejected both the CAPP's arguments.  
+Northwest Pipeline Corp., 92 F.E.R.C. p 61,287, 2000 WL 
+1457024 (Sept. 29, 2000) ("Rehearing Order").  First, the 
+Commission adhered to its position in Transco that short-
+term growth projections are inherently more reliable than 
+long-term growth projections, and therefore should be 
+weighted more heavily.  Id. at 62,003-04.  Acknowledging 
+that "there may be some differences between the proxy 
+companies and Northwest," the Commission was satisfied 
+nevertheless that the proxy group comprised "the six publicly 
+traded companies whose operations most closely mirror the 
+operations of a pure pipeline company."  Id. at 62,005.  Sec-
+ond, the Commission reiterated its conclusion that Northwest 
+faced average business risks stemming from actual and po-
+tential competition and from a short average contract life 
+relative to the depreciable life of its facilities.  Id. at 62,006-
+08.
+
+                         II. Jurisdiction
+
+     Before addressing the merits of the CAPP's petition for 
+review, we consider, at the Commission's urging, a jurisdic-
+tional question arising from the difference between the 
+CAPP's position here and what it urged before the Commis-
+sion in its request for rehearing.  Upon the CAPP's motion, 
+we held the briefing in this case in abeyance pending our 
+disposition of CAPP I, a related petition in which we upheld 
+the Commission's relative weighting of short- and long-term 
+growth projections in calculating the proxy group range of 
+ROEs.  254 F.3d at 297.  In the wake of that decision the 
+CAPP abandoned the similar challenge it had raised in its 
+rehearing request before the Commission in this case.  In-
+stead, the CAPP now argues--as it had in earlier stages of 
+the proceedings before the Commission--that the Commis-
+
+sion should have adjusted Northwest's placement within the 
+range to account for the differences between Northwest and 
+the proxy group companies.
+
+     Section 19(b) of the Natural Gas Act, 15 U.S.C. s 717r(b), 
+provides that "[n]o objection to the order of the Commission 
+shall be considered by the court unless such objection shall 
+have been urged before the Commission in the application for 
+rehearing unless there is reasonable ground for failure to do 
+so."  The Commission contends that because the CAPP's 
+rehearing argument was limited to challenging the Commis-
+sion's decision to afford greater weight to short-term growth 
+projections, the CAPP is barred from arguing on review for 
+an adjustment to Northwest's placement within the range 
+based upon a challenge to the representativeness of the proxy 
+group.  The CAPP responds that it has consistently objected 
+that "the use of growth estimates representative of growth in 
+diversified, unregulated businesses produces an unreasonable 
+ROE for FERC-regulated pipelines," and that the Commis-
+sion is merely quibbling about a difference in the particular 
+manner in which that objection was raised in different con-
+texts.
+
+     To evaluate the CAPP's point, one must bear in mind that 
+the Commission's process for setting the ROE for a non-
+publicly traded pipeline company consists of two discrete 
+phases:  (1) determination of the range of reasonableness and 
+of its median;*  and (2) assessment of the individual pipeline 
+company's circumstances and "other factors" to determine 
+whether to make a "pragmatic adjustment" away from the 
+median.  Tennessee Gas Pipeline Co. v. F.E.R.C., 926 F.2d 
+1206, 1209 (D.C. Cir. 1991).  In its request for rehearing, the 
+CAPP challenged the Commission's weighting policy, which is 
+part of the first phase.  Accordingly, the Commission ad-
+dressed the CAPP's argument in its discussion of the DCF 
+
+__________
+     * In CAPP I, we remanded to the Commission for further 
+consideration its use of the median of the proxy group range.  254 
+F.3d at 297-99.  In this case, the CAPP does not challenge the 
+Commission's use of the median, and we express no opinion upon 
+that issue.
+
+methodology, a significant portion of which was devoted to 
+defending its weighting policy.  Rehearing Order at 62,001-
+05.
+
+     The CAPP did not urge, as it now does, that the difference 
+in riskiness between the proxy group and a pure pipeline 
+company should be accounted for in the second phase--the 
+company's placement within the range.  Had the CAPP done 
+so, then the Commission might have come out differently in 
+its rehearing order.  Or it might not have.  That the matter 
+is open to such speculation, however, concludes the point;  the 
+"obvious purpose" of the rehearing requirement "is to afford 
+the Commission the first opportunity to consider, and per-
+haps dissipate, issues which are headed for the courts."  
+Moreau v. F.E.R.C., 982 F.2d 556, 564 (D.C. Cir. 1993) 
+(emphasis omitted).  The CAPP's decision upon rehearing to 
+focus its argument about the differences between Northwest 
+and the proxy companies solely upon the initial calculation of 
+the range of ROEs denied the Commission the opportunity to 
+consider the precise challenge the CAPP now raises for 
+judicial review.  This we cannot countenance.  See New Jer-
+sey Zinc Co. v. F.E.R.C., 843 F.2d 1497, 1502-03 (D.C. Cir. 
+1988) (finding no jurisdiction where specific objection was not 
+made in rehearing application, despite claim it was encom-
+passed by "overarching objection").  Simply put, the court 
+cannot review what the Commission has not viewed in the 
+first instance.
+
+     Nor do we see any "reasonable ground" for the CAPP's 
+failure to renew in its rehearing request its argument that the 
+Commission must take Mr. Ketchum's analysis into account 
+when locating Northwest within the proxy range of ROEs.  
+The CAPP protests that in seeking rehearing it "placed its 
+objection in the context of the weighting not because that was 
+the only means, or even CAPP's preferred means, of address-
+ing [it] ... but because the revised weighting was the only 
+portion of the Commission's order in which the FERC made 
+any mention of the growth estimates."  The CAPP's tactical 
+decision to "frame its objection to conform to the way the 
+Commission was interpreting the issue" cannot be accepted, 
+however, in mitigation of the CAPP's failure also to present 
+
+its argument for a downward adjustment.  We therefore 
+conclude that we are without jurisdiction to consider, and 
+must dismiss, the portion of the CAPP's petition challenging 
+the representativeness of the proxy group.
+
+                         III. The Merits
+
+     The CAPP also challenges the Commission's determination 
+that, in light of Northwest's competitive circumstances and 
+the duration of its long-term transmission contracts, the 
+pipeline company faced average levels of business risk and 
+therefore should earn a ROE at the median of the proxy 
+range.  We review the Commission's factual findings for 
+substantial evidence, 15 U.S.C. s 717r(b), and conclude that 
+the CAPP's objections are without merit.
+
+     The record demonstrates that Northwest does not have a 
+monopoly in the geographic market it serves;  customers do 
+have alternatives and have made use of them.  For example, 
+Tuscarora Gas Transmission Company beat out Northwest 
+for a major contract in Nevada, while Pacific Gas Transmis-
+sion Company competes with Northwest in Washington, Ore-
+gon, and Northern California.  In addition, the Commission 
+identified competitive threats, such as the application of BC 
+Gas to enter Northwest's region and the potential for indus-
+trial customers to bypass Northwest's system by connecting 
+directly with a gas producer.  Although the CAPP faults the 
+Commission for relying in part upon evidence portending 
+future competition, in neither Williams Natural Gas Co., 77 
+F.E.R.C. p 61,277, 1996 WL 862628 (Dec. 19, 1996), nor Ozark 
+Gas Transmission Sys., 68 F.E.R.C. p 61,032, 1994 WL 
+363498 (July 7, 1994), upon which the CAPP relies, did the 
+Commission announce a blanket rule against considering po-
+tential competitive threats.  Indeed, because the ROE neces-
+sary to attract investment depends upon market perception of 
+future risks, such a rule would make little sense.  The 
+Commission therefore reasonably factored evidence of poten-
+tial competition into its ROE calculus.
+
+     The Commission also addressed adequately the CAPP's 
+contention that Northwest's exposure to risk is reduced by 
+
+the buoyant demand for gas in the area it serves.  That other 
+states outside the region experienced similar and even great-
+er increases in consumption led the Commission reasonably to 
+conclude that growth in demand was not "abnormally" high in 
+Northwest's territory.  Rehearing Order at 62,007.  The 
+Commission was likewise reasonable in declining to attach 
+conclusive weight to Northwest's favorable ranking in Stan-
+dard and Poor's credit reports, preferring instead to make its 
+own assessment of the degree of risk facing the company.  
+Id.
+
+     Finally, we hold that the Commission reasonably consid-
+ered it a risk factor that, although Northwest's facilities were 
+being depreciated over a 50-year period, its long-term con-
+tracts had on average only 14 years to run.  Id. at 62,007-08.  
+In some cases the Commission has examined a pipeline's 
+remaining contract life in isolation, and the CAPP points out 
+that by this measure Northwest compares favorably to other 
+pipelines.  The comparison of contract life to depreciable life, 
+however, wants neither logic nor Commission precedent to 
+support it.  See id. at 62,008 (quoting Pine Needle LNG Co., 
+75 F.E.R.C. p 61,121 at 61,410, 1996 WL 208856 (Apr. 30, 
+1996)).  Here, the Commission has identified record evidence 
+for its conclusion that the greater than 3:1 ratio of North-
+west's remaining period of depreciation to the average life of 
+its contracts was equivalent to or higher than that of other 
+pipeline companies.  That evidence is not particularly 
+strong--Northwest's expert conceded upon cross-examination 
+that he did not conduct a comparative "study"--but the 
+Commission was entitled to credit it.
+
+                          IV. Conclusion
+
+     For the foregoing reasons, the petition for review is
+
+                    Dismissed in part and denied in part.
+
+     

@@ -1,0 +1,761 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued January 17, 2002     Decided July 23, 2002 
+
+                           No. 00-1530
+
+                 A.E. Staley Manufacturing Co., 
+                            Petitioner
+
+                                v.
+
+                       Secretary of Labor, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+         Occupational Safety and Health Review Commission
+
+     Sally J. Scott argued the cause for petitioner.  With her on 
+the briefs was Robert E. Mann.
+
+     Scott Glabman, Attorney, U.S. Department of Labor, ar-
+gued the cause for respondent.  With him on the brief were 
+Joseph M. Woodward, Associate Solicitor, and Bruce F. 
+Justh, Counsel.
+
+     Before:  Edwards, Henderson, and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  A.E. Staley Manufacturing Com-
+pany petitions for review of a final order of the Occupational 
+Safety and Health Review Commission (OSHRC).  The Com-
+mission found that Staley committed 89 willful violations of 29 
+C.F.R. s 1910.307(b) (the "hazardous locations standard"), 
+which mandates that electrical equipment in hazardous loca-
+tions be approved for use in such locations.  OSHRC also 
+concluded that Staley committed two willful violations of 29 
+C.F.R. s 1910.1200(h) (the "hazard communication stan-
+dard"), which requires employers to provide employees with 
+effective information and training regarding hazardous chemi-
+cals in their work areas.  Staley does not dispute that it 
+committed the violations, but contends that the Commission 
+erred in deeming them willful.  Finding no error, we deny the 
+petition for review.
+
+                                I
+
+     Staley is a corn refiner that produces corn starch, corn oil, 
+fructose, and dextrose at a number of facilities.  This case 
+concerns Staley's Decatur, Illinois plant.  In 1990, the plant 
+included over 130 buildings and had approximately 833 hourly 
+employees.  In July of that year, the Occupational Safety and 
+Health Administration (OSHA)1 began an inspection of the 
+
+__________
+     1  As the Supreme Court has explained, the OSH Act "assigns 
+distinct regulatory tasks to two different administrative actors":  
+the Secretary of Labor and OSHRC.  Martin v. OSHRC, 499 U.S. 
+144, 147 (1991).  The Secretary, who has delegated certain statuto-
+ry duties to OSHA, is responsible for setting and enforcing work-
+place health and safety standards.  If the Secretary determines 
+that an employer is not complying with a standard, she is autho-
+rized to issue a citation and assess a penalty.  29 U.S.C. ss 658, 
+659.  OSHRC is responsible for "carrying out adjudicatory func-
+tions" under the Act.  Id. s 651(b)(3).  If an employer contests a 
+citation, an ALJ appointed by the Commission makes an initial 
+decision, which becomes a final order of the Commission unless it 
+
+plant, prompted by a May 1990 accident in which an employee 
+was fatally asphyxiated.  As a result of the inspection, the 
+Secretary of Labor, acting through OSHA, issued two sets of 
+citations alleging hundreds of violations of the Occupational 
+Safety and Health Act ("OSH Act"), 29 U.S.C. ss 651-678.  
+One set of citations alleged violations of safety standards, 
+including the hazardous locations standard, 29 C.F.R. 
+s 1910.307(b).  The other set charged violations of health 
+standards, including the hazard communication standard, id. 
+s 1910.1200(h), and the asbestos standard, id. 
+s 1910.1001(j)(2), (k)(1).
+
+     Partial settlements led to the withdrawal of all citations for 
+non-willful violations.  Staley contested the remaining 177 
+safety and four health citations, and the Commission assigned 
+an Administrative Law Judge (ALJ) to hear the case.  The 
+ALJ upheld 171 of the safety citations and all four of the 
+health citations.  However, he concluded that only 87 of the 
+safety violations (all for hazardous locations) and two of the 
+health violations (both for asbestos) were willful.  He found 
+the remaining violations, including the two violations of the 
+hazard communication standard, to be serious but not willful.2  
+Both parties appealed the ALJ's decision to OSHRC.
+
+     The Commission affirmed all of the ALJ's findings of 
+violations, as well as all of his findings of willfulness.  In 
+addition, it upgraded several violations from serious to willful, 
+including two further hazardous locations violations (making a 
+total of 89) and the two hazard communication violations 
+(which it grouped as one for penalty purposes).  In finding 
+willfulness, the Commission relied on evidence that previous 
+
+__________
+grants discretionary review.  Id. s 661(j).  Both employers and the 
+Secretary may seek review of Commission orders in the courts of 
+appeals.  Id. s 660(a), (b).
+
+     2  An employer guilty of a "serious" violation of a health or 
+safety standard "shall be assessed a civil penalty of up to $7,000 for 
+each such violation."  29 U.S.C. s 666(b).  An employer who "will-
+fully or repeatedly" violates such a standard, however, "may be 
+assessed a civil penalty of not more than $70,000 for each violation, 
+but not less than $5,000 for each willful violation."  Id. s 666(a).
+
+dust explosions, internal audits, and a survey by the National 
+Institute for Occupational Safety and Health had put Staley 
+on notice of serious safety and health problems, including the 
+location of non-approved electrical equipment in the vicinity 
+of combustible dust and a lack of employee training concern-
+ing dangerous chemicals.  The Commission concluded that 
+Staley's continued failure to take corrective action in the face 
+of these widespread problems supported a determination of 
+willfulness.  A.E. Staley Mfg. Co., 19 O.S.H. Cas. (BNA) 1199, 
+1221-22 (OSHRC 2000).  Staley then filed a petition for 
+review in this court pursuant to section 10(c) of the OSH Act, 
+29 U.S.C. s 659(c).
+
+                                II
+
+     A reviewing court must uphold the factual findings of the 
+Commission if they are "supported by substantial evidence on 
+the record considered as a whole," 29 U.S.C. s 660(a), and 
+must uphold its other conclusions as long as they are not 
+arbitrary, capricious, an abuse of discretion, or otherwise 
+contrary to law, 5 U.S.C. s 706(2)(A).  See Anthony Crane 
+Rental, Inc. v. Reich, 70 F.3d 1298, 1302 (D.C. Cir. 1995).  
+Moreover, "[w]e defer to the Secretary's interpretation of the 
+Act and regulations, upholding such interpretations so long as 
+they are consistent with the statutory language and otherwise 
+reasonable."  Id. (citing Martin v. OSHRC, 499 U.S. 144, 
+150-51 (1991)).
+
+     Staley does not contest the Commission's findings that it 
+committed serious violations of the OSH Act.  It disputes 
+only the findings that the 89 hazardous locations and two 
+hazard communication violations were willful.  In the OSH 
+Act context, a willful violation is "an act done voluntarily with 
+either an intentional disregard of, or plain indifference to, the 
+Act's requirements."  Kaspar Wire Works, Inc. v. Secretary 
+of Labor, 268 F.3d 1123, 1127 (D.C. Cir. 2001) (quoting Conie 
+Constr., Inc. v. Reich, 73 F.3d 382, 384 (D.C. Cir. 1995)).  The 
+Commission based its findings of willfulness on its determina-
+tion that Staley was plainly indifferent to the requirements of 
+the Act.
+
+     Staley argues that the Commission committed two errors in 
+deeming its violations willful.  First, Staley contends that 
+substantial evidence does not support the Commission's de-
+termination that the company was plainly indifferent to its 
+violations of OSHA standards.  Second, with respect to the 
+hazardous locations standard, Staley maintains that even if 
+there were evidence of its plain indifference to that standard, 
+the Commission legally erred in finding willfulness without 
+finding that the company knew of each specific violation cited 
+by OSHA.  We consider these two arguments in Parts III 
+and IV below.
+
+                               III
+
+     The Commission found Staley willful because it demon-
+strated plain indifference to its violations of the standards 
+requiring it:  (1) to use only approved electrical equipment in 
+hazardous locations, and (2) to train and inform its employees 
+regarding hazardous chemicals in their work areas.  Staley 
+maintains that there is an absence of substantial evidence to 
+support findings of plain indifference with respect to either 
+standard.  We disagree.
+
+                                A
+
+     The 89 violations of the hazardous locations standard, af-
+firmed by the Commission and undisputed by Staley, all 
+involved the presence of non-approved electrical equipment in 
+Class II, Division 2 locations.3  The equipment at issue 
+included exposed wiring, bulbs without protective globes, and 
+improperly sealed junction boxes--all potential ignition 
+
+__________
+     3  Class II, Division 2 locations include locations where "dust 
+may be in suspension in the air as a result of infrequent malfunc-
+tioning of handling or processing equipment, and dust accumula-
+tions resulting therefrom may be ignitible by abnormal operation or 
+failure of electrical equipment," as well as locations "where dust 
+accumulations might form on or in the vicinity of electric equip-
+ment."  29 C.F.R. s 1910.399.
+
+sources for combustible dust.  The evidence of Staley's plain 
+indifference to those violations is as follows.
+
+     In May 1987, Staley conducted a mock OSHA inspection 
+and found unsafe electrical equipment in places that Staley 
+considered Class II, Division 2 locations, including the eleva-
+tors and Buildings 9, 44, and 75--all places in which OSHA 
+inspectors subsequently found violations at issue in this case.  
+Joint Appendix (J.A.) at 325, 327-28, 339.  Two years later, in 
+April 1989, an internal audit conducted by Staley safety 
+engineer Ken Page turned up more instances of unprotected 
+electrical equipment in hazardous locations.  Page's handwrit-
+ten report warned that Building 44 had "literally gone to hell 
+in a handbasket" and contained "hundreds of safety type 
+violations."  J.A. at 361.  Page testified that those violations 
+included uncovered electrical boxes and exposed wires.  Sup-
+plemental Appendix (S.A.) at 47-48.  He recommended that a 
+wall-to-wall audit of the plant be conducted as soon as possi-
+ble, and noted that Staley's potential liability for OSHA 
+penalties was very high.  J.A. at 361-62.
+
+     Page's recommendation for a wall-to-wall audit was not 
+approved.  Page testified that his supervisor, Lynn Elder, 
+director of Staley's department of environmental sciences and 
+safety, told Page that he had advised Bob Jansen, corporate 
+vice president of operations, of Page's findings.  Jansen 
+reportedly replied that he was aware of the problems in the 
+plant, but that another Staley project had priority.  Page also 
+testified that Elder told him that he should not distribute his 
+report because "the legal department would crucify us."  
+Instead, Elder suggested that Page's report be either de-
+stroyed, or stamped "privileged and confidential" and sent to 
+the legal department.  Page, however, did not destroy the 
+report.  He kept a copy for himself and gave copies to three 
+others, including Bob Trent, Decatur's chief of plant protec-
+tion, and Jim Brinkmeyer, the corporate industrial hygienist.  
+Elder did permit Page to make an oral presentation to plant 
+staff during which he explained his findings in detail.  But 
+Elder assigned another auditor, J.B. Webb, the supervisor of 
+the Decatur safety department, to revise Page's written re-
+port.  The revised report substantially toned down Page's 
+
+language and omitted references to hundreds of the specific 
+electrical and safety violations that Page had observed.  J.A. 
+at 363-65;  S.A. at 38-43, 51-52.
+
+     In May 1989, a major dust explosion and fire occurred at 
+the Decatur plant.  It was not the first:  other explosions and 
+fires had occurred in several buildings over the years.  In the 
+same month, an insurance loss-control report for Building 44 
+noted open electrical junction boxes, and warned that "[m]ois-
+ture, lint, dust and combustible materials can easily come in 
+contact with the exposed wiring and create a potential igni-
+tion."  S.A. at 10-11, 56-58.  The following year, after the 
+fatal May 1990 accident, Staley's president instructed Page to 
+conduct another audit of the plant.  Page submitted a report 
+that identified exposed wires, conduits, breaker boxes, junc-
+tion boxes, and bulbs in hazardous locations.  The locations 
+again included the elevators and Buildings 9 and 75.  J.A. at 
+122, 373-74, 390, 417-19;  S.A. at 59-67.
+
+     Two months later, OSHA conducted the inspection that 
+resulted in the findings of 89 violations of the hazardous 
+locations standard.  That inspection also revealed that many 
+of Staley's supervisory personnel were not properly trained 
+regarding the hazards presented by Class II, Division 2 
+areas.  Some were not even aware that the areas they 
+supervised were classified locations.  Others received no 
+training on the classification of areas or the requirements for 
+such areas.  For example, Michael Slimbarski, the plant 
+operations manager, had not been trained concerning the 
+hazardous locations standard and, with one exception, did not 
+know which areas of the plant were classified.  J.A. at 269-70.  
+Shift coordinators Gordon Green and Ron Young were also 
+untrained on the standard and unaware that faulty electrical 
+equipment could produce dust explosions.  J.A. at 283-89, 
+304-05.  Even electricians lacked training regarding the exis-
+tence of classified hazardous locations in the plant.  S.A. at 
+183.
+
+     We agree with the Commission that the evidence just 
+recited constitutes substantial evidence that the 89 hazardous 
+locations violations were part of a pattern or practice of plain 
+
+indifference to violations of that standard.  A.E. Staley Mfg. 
+Co., 19 O.S.H. Cas. (BNA) at 1222.4  The series of internal 
+reports between 1987 and 1990 put Staley on notice of unsafe 
+electrical equipment in hazardous locations, and of the persis-
+tence of that problem over the years covered by those 
+reports.  A series of dust explosions and fires, although not 
+themselves caused by faulty electrical equipment, also put the 
+company on heightened notice of the dangers of combustible 
+dust.  Yet despite this notice, the company failed to train its 
+employees about such hazards, attempted to suppress Page's 
+internal audit report, and ignored his recommendations for 
+correction.  Within months of Page's last audit, OSHA in-
+spectors found the same kinds of unsafe equipment in many 
+of the same locations that Page did.  This evidence is more 
+than sufficient to sustain the Commission's determination of 
+willfulness.  See, e.g., Caterpillar, Inc. v. OSHRC, 122 F.3d 
+437, 441 (7th Cir. 1997) (holding that the fact that an employ-
+er "rejected or ignored the recommendations of the very 
+person" it had asked to make safety recommendations showed 
+plain indifference to employee safety).
+
+     Staley's principal attacks on the sufficiency of the evidence 
+require only brief mention.  First, the company contends that 
+the 89 violations were too few to demonstrate plain indiffer-
+ence, as the equipment involved represented only a small 
+percentage of all of the company's electrical equipment.  That 
+is not an adequate defense.  Even a single violation of the 
+OSH Act may be found willful, regardless of whether the 
+workplace is otherwise safe.  See Kaspar Wire Works, 268 
+F.3d at 1128 (holding that an employer cannot "contend that 
+it was entitled to rely on its lack of prior violations to 
+undermine a finding of willfulness," because then "an employ-
+er with no prior citations could choose to violate a regulatory 
+obligation without risking a finding of willfulness");  Valdak 
+Corp. v. OSHRC, 73 F.3d 1466, 1469 (8th Cir. 1996).
+
+__________
+     4  The Commission specifically found that the hazardous loca-
+tions violations "have a similar factual basis and are reflective of a 
+pattern or practice by Staley of ignoring the hazard of explosive 
+dust."  19 O.S.H. Cas. (BNA) at 1213 n.28.
+
+     Staley also argues that Page's report did not heighten its 
+awareness of safety problems at Decatur because his hand-
+written notes were never given to plant staff.  As described 
+above, there is substantial evidence to the contrary:  Page 
+gave his notes to both Bob Trent and Jim Brinkmeyer;  they 
+were read by his supervisor, Lynn Elder;  they were orally 
+reported by Elder to vice president Jansen;  and Page re-
+counted them in a detailed oral presentation to the staff.  
+That knowledge is properly imputed to the company.  See 
+Caterpillar, Inc. v. Herman, 154 F.3d 400, 402 (7th Cir. 1998).  
+Moreover, to the extent that Page's report was not more 
+widely disseminated, it was only because Elder directed that 
+it not be distributed, and that a revised report--omitting 
+references to hundreds of specific violations--be distributed 
+instead.  S.A. at 38-43, 51-52.  Such willful blindness is no 
+defense at all.  See United States v. Schnabel, 939 F.2d 197, 
+203 (4th Cir. 1993).
+
+     Finally, Staley argues that the Commission ignored evi-
+dence of its good faith efforts to comply with the hazardous 
+locations standard, pointing specifically to its plant-wide 
+(joint) safety committee and to the 25 separate departmental 
+safety committees that were scheduled to meet monthly to 
+address safety issues.  The joint committee, however, lacked 
+authority to initiate or direct corrective action, while the 
+departmental safety committees held their meetings only half 
+the time.  S.A. at 115-16.  Moreover, the record shows that 
+many members of the departmental committees were dis-
+mayed at Staley's safety program:  many resigned because 
+safety problems were not corrected, meetings were canceled, 
+and management either did not attend meetings or sent 
+different managers each month.  S.A. at 103-04, 120-21.  Far 
+from being evidence of good faith, then, the record of Staley's 
+safety committees offers only further evidence of the compa-
+ny's plain indifference to its violations of safety standards.
+
+                                B
+
+     Staley also contends that substantial evidence does not 
+support the Commission's determination that the company 
+exhibited plain indifference to the two hazard communication 
+
+violations.  Those violations were:  (1) failing to provide haz-
+ard communication training for twelve substances (including 
+silica sand, filteraid,5 asbestos, and feed dust) for which Staley 
+did not have material safety data sheets (MSDSs);6  and (2) 
+failing to train employees regarding the meaning of the 
+hazard communication symbols used on the company's ethy-
+lene oxide, propylene oxide, caustic, and sulfuric acid storage 
+tanks.  The evidence of Staley's plain indifference is as 
+follows.
+
+     In November 1988, the Decatur plant's joint health and 
+safety committee warned of serious deficiencies in Staley's 
+hazard communication program.  In a memorandum, the 
+committee noted that bags of filteraid were strewn around 
+and that the material was tracked all over Building 11--one 
+of the buildings specifically named in OSHA's 1990 hazard 
+communication citation.  The committee further noted that 
+"[b]uilding personnel need to be trained on the danger of this 
+product."  A.E. Staley Mfg. Co., 19 O.S.H. Cas. (BNA) at 
+1204;  S.A. at 22.
+
+     In March 1989, the National Institute for Occupational 
+Safety and Health (NIOSH) conducted an evaluation of health 
+hazards at the Decatur plant.  NIOSH industrial hygienists 
+observed that Staley employees were improperly trained with 
+respect to the hazards of toxic chemicals.  NIOSH also found 
+that employees disregarded an alarm that sounded when 
+ethylene oxide and propylene oxide leaked into the air, that 
+they did not have immediately available respirators, and that 
+they engaged in work practices that increased their exposure 
+to chemicals.  S.A. at 3-5.  Following its evaluation, NIOSH 
+
+__________
+     5  Filteraid is the generic name for a filtering material used in 
+the beverage industry.  Staley's filteraid is composed largely of 
+silica, exposure to which may result in silicosis, a potentially life-
+threatening lung disease.  See A.E. Staley Mfg. Co., 19 O.S.H. Cas. 
+(BNA) at 1204 n.10, 1205 n.13.
+
+     6  The hazard communication standard requires employers to 
+make available to their employees MSDSs for hazardous chemicals 
+in the employees' work areas.  29 C.F.R. s 1910.1200(h)(2)(iii).  An 
+MSDS must contain detailed information about the physical charac-
+teristics and health hazards of the chemical.  Id. s 1910.1200(g)(2).
+
+sent J.B. Webb, the Decatur safety supervisor, a summary of 
+its findings:
+
+     [W]e feel there is significant potential for chemical over-
+     exposures in the starch reaction area, and possibly 
+     throughout the starch stream.  This appears to be due to 
+     improper work practices, poor management oversight, 
+     and emphasis of production over worker safety.  Includ-
+     ed among the chemicals used in this area are ethylene 
+     oxide, propylene oxide, and vinyl acetate.  Ethylene ox-
+     ide is currently regulated as a cancer hazard by [OSHA].  
+     Propylene oxide is very similar in chemical structure to 
+     ethylene oxide and is currently being evaluated by 
+     NIOSH with regard to potential carcinogenicity....  In 
+     addition, lack of training and demand for product seems 
+     to have circumvented measures which were specifically 
+     implemented to reduce potential exposure.
+     
+S.A. at 5.
+
+     Ken Page's April 1989 audit disclosed further serious defi-
+ciencies in employee training regarding hazardous sub-
+stances.  Page noted that hazardous chemicals were not 
+properly labeled, annual training was not being conducted in 
+several buildings, and employees lacked access to MSDSs.  
+He also observed large quantities of filteraid on the floor of 
+two buildings, including Building 11, and continuing problems 
+with the material in a third.  A.E. Staley Mfg. Co., 19 O.S.H. 
+Cas. (BNA) at 1205;  J.A. at 341-45, 347-48, 350-53, 359-60.  
+A second auditor, Robert Moore, notified his supervisor about 
+the results of the audit and the presentation Page made to 
+plant staff:
+
+     The staff was told that the Hazard Communications 
+     Compliance, Respiratory Protection Compliance, and 
+     Hazardous Material Control had deteriorated since we 
+     last conducted such a survey (1986).  In our opinion, an 
+     OSHA inspection prompted by the NIOSH visit could 
+     potentially result in the assessment of major penalties.
+     
+S.A. at 6 (emphasis added).
+
+     Notwithstanding these warnings, Staley management told 
+Page that completing another project had priority over cor-
+
+recting the problems he had identified.  A year later, when 
+Page undertook another audit following the fatal May 1990 
+accident, he found that containers of hazardous materials 
+were improperly labeled in two buildings, updated MSDSs 
+were absent in two buildings, and hazard communication 
+training had not been conducted for years.  Page received no 
+feedback from Staley regarding his May 1990 report.  J.A. at 
+400, 406, 415;  S.A. at 43, 87.
+
+     As noted above, when OSHA inspected the plant in July 
+1990, it cited Staley for failing to train employees regarding 
+twelve hazardous substances for which Staley did not have 
+MSDSs, including silica sand, filteraid, asbestos, and feed 
+dust;  and for failing to train employees concerning the sym-
+bols used to label the ethylene oxide, propylene oxide, caustic, 
+and sulfuric acid storage tanks.  The inspection found that 
+many of Staley's managers had received little or no training 
+about OSHA compliance, and that both managers and hourly 
+employees were untrained regarding the cited hazardous 
+chemicals.  MSDSs were mostly either unavailable or kept in 
+locked offices.  Of particular concern, employees working in 
+the vicinity of hazardous chemicals like ethylene oxide and 
+propylene oxide were untrained in the labeling system and 
+had no idea what the colors and numbers meant.  As a 
+consequence, they were unaware of the hazards posed by the 
+chemicals and of how to protect themselves.  J.A. at 186-207, 
+234-40, 277, 298;  S.A. at 105-14, 169-86.
+
+     We again agree with the Commission that this record 
+evidence is more than sufficient to sustain its findings that 
+Staley was plainly indifferent to its violations of the hazard 
+communication standard.  The NIOSH evaluation and inter-
+nal surveys and audits gave Staley a heightened awareness of 
+its hazard communication problems, including problems with 
+the specific chemicals for which Staley was later cited.  Yet, 
+the company responded unappreciatively to those warnings 
+and substantially failed to ensure the required training of its 
+managers and employees.  In the Commission's words, "Sta-
+ley's HazCom program remained grossly deficient."  A.E. 
+Staley Mfg. Co., 19 O.S.H. Cas. (BNA) at 1205.
+
+     Staley seeks to minimize the scope of its failure by noting 
+that the training violations concerned "only" 15 of 120 build-
+ings and 12 of 1200 hazardous materials used at the Decatur 
+plant.  As we have already noted, however, an otherwise safe 
+workplace does not prevent findings of willfulness with re-
+spect to those violations that do occur.  Moreover, five of the 
+chemicals cited in the two health violations--ethylene oxide, 
+propylene oxide, sulfuric acid, asbestos, and silica--are among 
+Staley's "mean fifteen" chemicals, the most dangerous in the 
+plant.  All five may produce acute or chronic health effects in 
+exposed employees.  S.A. at 22-23, 88-89;  see 29 C.F.R. 
+s 1910.1200(c).  Accordingly, Staley's effort to minimize its 
+violations of OSHA's health standards is unavailing, and we 
+conclude that the Commission was justified in describing 
+Staley's attitude toward its violations as "plain indifference 
+to[ ] the Act's requirements."  Kaspar Wire Works, 268 F.3d 
+at 1127.
+
+                                IV
+
+     Staley's second major argument is that, even if it was 
+plainly indifferent to the requirements of the OSH Act, its 
+violations of the hazardous locations standard were not willful 
+because it was unaware of the specific conditions for which it 
+was cited.  There is no evidence in the record, Staley notes, 
+that its management knew of the precise uncovered electrical 
+boxes and exposed wires discovered by the OSHA inspectors.  
+Although these conditions were of the same kind and in the 
+same locations as problems found in earlier internal audits, 
+Staley stresses that OSHA cannot prove that they were the 
+same pieces of noncompliant equipment.  In the company's 
+view, "implicit to a finding of willfulness is employer knowl-
+edge of the existence of a condition, an awareness that the 
+condition does not meet the Act's requirements ..., and a 
+conscious decision not to correct the condition...."  Staley 
+Br. at 14.
+
+     Staley offers little support for this position, and we reject 
+it.  The OSH Act authorizes its most severe civil penalties for 
+any employer who "willfully" violates a health or safety 
+
+standard.  29 U.S.C. s 666(a);  see supra note 2.  The Act 
+does not itself define "willfully."  In its decision below, the 
+Commission, citing its own precedents, defined a willful viola-
+tion as one "committed with intentional, knowing or voluntary 
+disregard for the requirements of the Act, or with plain 
+indifference to employee safety."  A.E. Staley Mfg. Co., 19 
+O.S.H. Cas. (BNA) at 1202 (quoting Falcon Steel Co., 16 
+O.S.H. Cas. (BNA) 1179, 1181 (OSHRC 1993), and A.P. 
+O'Horo Co., 14 O.S.H. Cas. (BNA) 2004, 2012 (OSHRC 1991)) 
+(emphasis added).7  Under this definition, "plain indifference" 
+to violations of the Act is an alternative to "knowing or 
+voluntary disregard" (also referred to as "conscious disre-
+gard"), and willfulness can be inferred from evidence of plain 
+indifference without direct evidence that the employer knew 
+of each individual violation.  See also A.E. Staley Mfg. Co., 19 
+O.S.H. Cas. (BNA) at 1202 (describing the "state of mind" 
+required as "conscious disregard or plain indifference for the 
+safety and health of employees" (citing General Motors, 14 
+O.S.H. Cas. (BNA) at 2168)).
+
+     Staley seeks to undermine the Commission's formulation by 
+pointing to a definition of "willfully" that this court has often 
+cited in OSH Act cases:  "an act done voluntarily with either 
+an intentional disregard of, or plain indifference to, the Act's 
+requirements."  Kaspar Wire Works, 268 F.3d at 1127 (quot-
+ing Conie Constr., 73 F.3d at 384).  Placing great stress on 
+the location of the word "voluntarily" in the Kaspar Wire 
+Works formulation, Staley contends that this definition re-
+quires that an act be both voluntary and done with plain 
+indifference to be regarded as willful.  Moreover, for a viola-
+tion to be "voluntary," Staley insists, the company's manage-
+ment must know that the specific piece of equipment at issue 
+was noncompliant and then must decide not to correct it.
+
+__________
+     7  Accord Branham Sign Co., 18 O.S.H. Cas. (BNA) 2132, 2134 
+(OSHRC 2000);  Pepperidge Farm Inc., 17 O.S.H. Cas. (BNA) 1993, 
+1998 (OSHRC 1997);  J.A. Jones Constr. Co., 15 O.S.H. Cas. (BNA) 
+2201, 2209 (OSHRC 1993);  General Motors Corp., Electro-Motive 
+Div., 14 O.S.H. Cas. (BNA) 2064, 2068 (OSHRC 1991).
+
+     The Secretary of Labor agrees that Kaspar Wire Works 
+applies here, but she does not regard its definition of willful 
+as different from that applied by the Commission.  In the 
+Secretary's view, as in the Commission's, there are two 
+prongs to the definition:  conscious disregard and plain indif-
+ference.  Only the former requires direct evidence that the 
+employer knew of the specific noncomplying condition.  If 
+proven, plain indifference substitutes for knowledge of the 
+specific condition as a means of inferring the employer's 
+willful intent.
+
+     Because the OSH Act is silent as to the meaning of 
+"willful," we are required to defer to the Secretary's interpre-
+tation as long as it is reasonable.  Anthony Crane Rental, 70 
+F.3d at 1302 (citing Martin, 499 U.S. at 150-51).  Where "the 
+Secretary and the Commission agree, there is no question but 
+that we must accord deference to their joint view."  RAG 
+Cumberland Res. LP v. Federal Mine Safety & Health 
+Review Comm'n, 272 F.3d 590, 596 (D.C. Cir. 2001) (referring 
+to a parallel statutory scheme under the Mine Act).  We find 
+that joint view reasonable in this case.
+
+     The use of a state of mind like plain indifference as a 
+substitute for knowledge of a specific condition is well recog-
+nized in other legal contexts.8  In Daskalea v. District of 
+Columbia, for example, this court held that the District of 
+Columbia was "deliberately indifferent" to, and hence liable 
+under 42 U.S.C. s 1983 for, its jail guards' sexual abuse of a 
+female prisoner--even without evidence that District policy-
+makers knew of the harassment of the particular prisoner.  
+227 F.3d 433, 441-43 (D.C. Cir. 2000).  In Daskalea, indiffer-
+ence was proven by evidence that the District had been on 
+notice of prior incidents against other prisoners, that similar 
+
+__________
+     8  See, e.g., McGinty v. New York, 193 F.3d 64, 69 (2d Cir. 1999) 
+(holding that to prove a willful violation of the Age Discrimination in 
+Employment Act, evidence of "reckless disregard" is an alternative 
+to evidence of actual knowledge);  Saba v. Compagnie Nationale 
+Air France, 78 F.3d 664, 667 (D.C. Cir. 1996) (holding that "reckless 
+disregard" is equivalent to "willful misconduct" for purposes of 
+liability under the Warsaw Convention).
+
+incidents nonetheless continued, and that the District failed to 
+train or supervise its officers adequately.  Id.  The parallels 
+to the evidence of Staley's indifference, as recounted in Part 
+III above, are obvious.
+
+     Staley notes that in many cases under the OSH Act, 
+employers have been found liable for willful violations where 
+they "were aware of the requirements of the standard and 
+the noncompliant condition, but deliberately chose not to 
+comply with the requirements."  Staley Br. at 13 (emphasis 
+added) (citing Donovan v. Williams Enters., Inc., 744 F.2d 
+170, 179-80 (D.C. Cir. 1984), and Conie Constr., 73 F.3d 382).  
+Staley's observation is correct, but nondispositive.  The fact 
+that cases have found willfulness where both kinds of knowl-
+edge were proven does not mean that both are required.  
+Staley points to no case in which, although an employer was 
+plainly indifferent to compliance with an OSHA standard, a 
+violation was found non-willful because the employer did not 
+know of the specific unlawful condition.  Indeed, Staley con-
+cedes that many OSH Act cases have found violations willful 
+even without evidence that the employer was aware of the 
+applicable standard.9  In those cases, plain indifference sub-
+stituted for employer knowledge, even though the cases pro-
+claimed--as Staley proclaims with respect to knowledge of 
+conditions--that "there must be evidence that an employer 
+knew of an applicable standard."  Williams Enters., Inc., 13 
+O.S.H. Cas. (BNA) 1249, 1257 (OSHRC 1987);  see id. (stating 
+
+__________
+     9  See Valdak, 73 F.3d at 1269 ("Valdak's claimed ignorance of 
+the OSHA standard does not negate a finding of willfulness.  Will-
+fulness can be proved by 'plain indifference' to the Act's require-
+ments.");  Georgia Elec. Co. v. Marshall, 595 F.2d 309, 320 (5th Cir. 
+1979) (rejecting the claim that a company "cannot be held liable for 
+willfully violating provisions of which it was unaware," and holding 
+that it "is precisely because the Company made no effort whatsoev-
+er to make anyone with supervisory authority ... aware ... that 
+the Company can be said to have acted with plain indifference and 
+thereby acted willfully");  Staley Reply Br. at 4 (agreeing that 
+"plain indifference is applicable in situations where the employer 
+did not know of the standard's requirements but had a reckless 
+disregard for employee safety").
+
+that evidence of "reckless disregard" can substitute for evi-
+dence of "familiarity with the standard's terms").
+
+     Moreover, although Staley cannot point to a case that 
+directly supports its position, the Secretary of Labor can 
+point to several that support hers.  One is Kaspar Wire 
+Works itself.  In that case, we upheld the Commission's 
+finding that Kaspar committed hundreds of willful violations 
+of the OSH Act by failing to record serious injuries on an 
+OSHA reporting form.  The Commission noted the volume of 
+violations, the seriousness of the unreported injuries, and the 
+abundant evidence of Kaspar's actual knowledge of what was 
+required under OSHA's reporting regulations.  Kaspar Wire 
+Works, 268 F.3d at 1126.  Although the employer claimed 
+that it had not purposely changed its recordkeeping practices 
+to omit the injuries, we held that "[f]rom this evidence, the 
+Commission could reasonably infer" that "Kaspar Wire's 
+recordkeeping practices underwent a dramatic" and intention-
+al change.  Id. at 1128.
+
+     Another case to which the Secretary directs our attention is 
+Pepperidge Farm Inc., 17 O.S.H. Cas. (BNA) 1993, 1998 
+(OSHRC 1997).  In that case, the Commission again found 
+the employer to have committed numerous willful violations of 
+the Act by failing to report occupational injuries.  The Com-
+mission deemed the violations willful notwithstanding that "no 
+one at Pepperidge checked the accuracy" of the firm's report 
+form--and thus, in Staley's terms, notwithstanding that the 
+company lacked knowledge of the specific cited conduct.  Id. 
+at 1999.  Willfulness was established by evidence that, de-
+spite the fact that its officials had a "heightened awareness" 
+of OSHA recordkeeping requirements, the employer failed to 
+provide basic training to those making the entries and "made 
+no attempt to remedy" the recordkeepers' lack of understand-
+ing.  Id. at 2000.  The parallels to Staley's conduct are, again, 
+obvious.
+
+     Ironically, given its focus on the Kaspar Wire Works 
+formulation, Staley's principal response to the Secretary's 
+citation of Kaspar Wire Works and Pepperidge Farm is to 
+suggest that the Commission decided them wrongly.  Staley 
+
+Br. at 21.  Since this court affirmed Kaspar Wire Works, that 
+is not a winning argument.  Alternatively, Staley argues that 
+recordkeeping cases should be treated differently from equip-
+ment cases.  But since both involve violations by omission, it 
+is reasonable for the Secretary and the Commission to regard 
+them as of a piece.  Indeed, we see little distinction between 
+Kaspar Wire Works and Pepperidge Farm, where the willful 
+violations were failures to include serious injuries in reports, 
+and this case, where the violation was a failure to use only 
+approved equipment in hazardous locations.
+
+     Finally, we are also persuaded by the Secretary's argument 
+that, were she not permitted to substitute plain indifference 
+for knowledge of specific conditions, cases like this one--in 
+which the citation is for failing to act rather than for affirma-
+tively acting--would be difficult if not impossible to prove.  
+Cf. Saba v. Compagnie Nationale Air France, 78 F.3d 664, 
+668 (D.C. Cir. 1996) (noting that, if recklessness were not 
+permitted as a proxy for intent in Warsaw Convention cases, 
+"it might be all too easy for the wrongdoer to deliberately 
+blind himself to the consequences of his tortious action").  
+Indeed, to adopt Staley's position would be to write the 
+doctrine of "willful blindness," well known in the criminal law, 
+out of OSH Act enforcement.  That doctrine "allows the jury 
+to impute the element of knowledge to the defendant if the 
+evidence indicates that he purposely closed his eyes to avoid 
+knowing what was taking place around him."  Schnabel, 939 
+F.2d at 203.  As we pointed out at oral argument, under 
+Staley's formulation, a company could avoid liability for willful 
+violations of OSHA standards by literally blindfolding its 
+safety inspectors:  because the inspectors could not see the 
+unsafe conditions, the conditions could not be regarded as 
+"voluntary."  Although Staley's counsel conceded that, under 
+her client's proposed rule, those violations would not be 
+willful, she suggested that Staley might make an exception 
+for such an egregious case.  But both the making of excep-
+tions and the crafting of general rules are tasks the statute 
+delegates to the Secretary, not to Staley.  And as long as 
+
+those rules are reasonable, as they are here, we are bound to 
+defer.
+
+                                V
+
+     The record in this case contains ample evidence that Sta-
+ley's violations of the hazardous locations and hazard commu-
+nication standards were committed with plain indifference to 
+the requirements of the OSH Act.  The Commission was 
+therefore well within its discretion to find those violations 
+willful and to assess the attendant penalties.  Accordingly, 
+the petition for review is
+
+                                                                 Denied.
+
+                                          

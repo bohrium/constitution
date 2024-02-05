@@ -1,0 +1,922 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 23, 2001     Decided June 8, 2001 
+
+                           No. 99-1268
+
+               Appalachian Power Company, et al., 
+                           Petitioners
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+                  Commonwealth of Pennsylvania, 
+         Department of Environmental Protection, et al. 
+                           Intervenors
+
+                        Consolidated with 
+          99-1270, 99-1274, 99-1276, 99-1277, 99-1279, 
+          99-1280, 99-1281, 99-1286, 99-1287, 00-1169, 
+          00-1187, 00-1189, 00-1190, 00-1191, 00-1192, 
+                             00-1194
+
+           On Petitions for Review of an Order of the 
+                 Environmental Protection Agency
+
+                            ---------
+
+     Norman W. Fichthorn argued the cause for the Industry 
+Petitioners on the Electric Generating Facility Issues.  With 
+him on the briefs were Andrea Bear Field, James D. Elliott, 
+Mel S. Schulze, David M. Flannery, Kathy G. Beckett, Gale 
+R. Lea, Scott D. Goldman, and Jeff F. Cherry.  Kyle W. 
+Danish entered an appearance.
+
+     Marc D. Bernstein, Assistant Attorney General, State of 
+North Carolina, argued the cause for the Petitioning States.  
+With him on the briefs were Michael F. Easley, Attorney 
+General, James C. Gulick and J. Allen Jernigan, Special 
+Deputy Attorneys General, James P. Longest, Jr. and Amy 
+R. Gillespie, Assistant Attorneys General, Betty D. Montgom-
+ery, Attorney General, State of Ohio, Bryan F. Zima, Assis-
+tant Attorney General, Bill Pryor, Attorney General, State of 
+Alabama, Tommy E. Bryan and Prudence A. Cash-Brown, 
+Assistant Attorneys General, Jennifer Granholm, Attorney 
+General, State of Michigan, Alan F. Hoffman, Assistant 
+Attorney General, Charles M. Condon, Attorney General, 
+State of South Carolina, Samuel L. Finklea and Thomas G. 
+Eppink, Attorneys, Mark L. Earley, Attorney General, Com-
+monwealth of Virginia, Roger L. Chaffe, Senior Assistant 
+Attorney General, Stewart T. Leeth, Assistant Attorney Gen-
+eral, and Thomas H. Zerbe, Senior Counsel, State of West 
+Virginia.
+
+     Theodore L. Garrett argued the cause for the Split State 
+Petitioners Kansas City Power & Light Company, et al.  
+With him on the briefs were Michael D. Hockley and Terry 
+W. Schackman.
+
+     Scott H. Segal argued the cause for the Non-Electric 
+Generating/Industrial Petitioners.  With him on the briefs 
+were Lisa M. Jaeger, Charles S. Carter, Deborah Ann Hotel, 
+Kathy G. Beckett and Scott Goldman.
+
+     Andrew J. Doyle, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With him on the brief were 
+
+Lois J. Schiffer, Assistant Attorney General, and Sara 
+Schneeberg, Attorney, U.S. Environmental Protection Agen-
+cy.
+
+     Robert A. Reiley and M. Dukes Pepper, Jr. were on the 
+brief of Intervenor Commonwealth of Pennsylvania.  Thomas 
+Y. Au entered an appearance.
+
+     Before:  Edwards, Chief Judge, Williams and Sentelle, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  This case involves multiple chal-
+lenges to "Technical Amendments" to the "NOx SIP Call" 
+rulemaking at issue in Michigan v. EPA, 213 F.3d 663 (D.C. 
+Cir. 2000), cert. denied, 121 S.Ct. 1225 (2001).  At issue here 
+are revisions to the database used to establish state "budgets" 
+for emissions of nitrogen oxide ("NOx") which are regulated 
+by the Environmental Protection Agency ("EPA") under the 
+Clean Air Act ("CAA").  Petitioners include upwind states 
+subject to the NOx SIP Call and industries located therein.  
+The Commonwealth of Pennsylvania intervenes in support of 
+the EPA.
+
+     We hold that petitioners' challenges to the EPA's growth 
+factors are neither time-barred nor estopped by principles of 
+res judicata.  On the merits, we remand the EPA's growth 
+factors for electric generating units for the same reasons as 
+in Appalachian Power Co. v. EPA, Nos. 99-1200, et al. (May 
+15, 2001).  The remaining claims in the various petitions for 
+review are denied with two exceptions.  We remand the 
+EPA's source definitions pending completion of further rule-
+makings in accordance with Michigan, and remand and va-
+cate the NOx emission budget for the state of Missouri as the 
+EPA continues to include portions of the state for which no 
+significant contribution findings have been made.
+
+                          I. Background
+
+A.   Relevant Facts
+
+     In October 1998, the EPA issued the "NOx SIP Call"--a 
+final rule under CAA section 110(k)(5), 42 U.S.C. s 7410(k)(5), 
+
+requiring 22 states and the District of Columbia ("upwind 
+states") to revise their State Implementation Plans ("SIPs") 
+to impose additional controls on NOx emissions.  See Finding 
+of Significant Contribution and Rulemaking for Certain 
+States in the Ozone Transport Assessment Group Region for 
+Purposes of Reducing Regional Transport of Ozone, 63 Fed. 
+Reg. 57,356 (Oct. 27, 1998) ("NOx SIP Call").  The EPA 
+concluded that emissions from the upwind states "contribute 
+significantly" to ozone nonattainment in downwind states, in 
+violation of CAA section 110(a)(2)(D)(i).  42 U.S.C. 
+s 7410(a)(2)(D)(i).  Under the SIP Call, upwind states are 
+required to reduce NOx emissions by the amount accomplish-
+able by "highly cost-effective controls," defined as those 
+controls capable of removing NOx at a cost of $2,000 or less 
+per ton.
+
+     Under the NOx SIP Call, each upwind state must limit its 
+summertime NOx emissions to a statewide emission "budget" 
+for the year 2007.  "The budgets represent the amount of 
+allowable NOx emissions remaining after a covered state 
+prohibits the NOx amount contributing significantly to down-
+wind nonattainment."  Michigan, 213 F.3d at 686.  Specifical-
+ly, the NOx state budgets represent the EPA's projection for 
+what NOx emissions in 2007 would be for each state were 
+"highly cost-effective controls" implemented.  Under the NOx 
+SIP Call, states have substantial flexibility in selecting combi-
+nations of emission control measures to meet their respective 
+budgets, so long as they do so by the regulatory deadline.
+
+     In setting the NOx budgets, the EPA relied upon emission 
+inventory data collected by the Ozone Transport Assessment 
+Group, a working group comprised of federal, state, industry, 
+and environmental group representatives.  See Findings of 
+Significant Contribution and Rulemaking on Section 126 Peti-
+tions for Purposes of Reducing Interstate Ozone Transport, 
+64 Fed. Reg. 28,250, 28,253 (May 25, 1999);  Michigan, 213 
+F.3d at 672.  The EPA divided each state's NOx emissions 
+according to five source types or "sectors":  electric generat-
+ing units ("EGUs"), non-EGU stationary sources (such as 
+industrial boilers), area sources (smaller stationary sources), 
+highway mobile sources, and nonroad mobile sources.  The 
+
+EPA calculated 2007 budget allocations for each sector.  Un-
+der the NOx SIP Call, the EPA assumed that emission 
+reductions would occur primarily in the EGU and non-EGU 
+sectors, representatives of which are petitioners here.  In 
+developing their SIPs, however, states are free to achieve 
+emission reductions from other sources, so long as the SIP 
+provides for attainment of the requisite emission reduction 
+level.
+
+     To calculate the EGU emission budgets, the EPA obtained 
+source-specific "utilization" (heat-input) data for either 1995 
+or 1996.  To this baseline, the EPA applied "growth factors" 
+derived from growth projections for the years 2001 through 
+2010 generated by the "Integrated Planning Model" ("IPM"), 
+a widely used utility planning model.  Even though the EPA 
+had 2007 utilization projections from the IPM, the EPA 
+instead opted to apply the 2001-2010 growth factors to pro-
+ject growth over the 1996-2007 period in each state.  The 
+resulting 2007 emission projections were then reduced based 
+on the EPA's estimate of the amount of emission reductions 
+that could be achieved through "highly cost-effective" means.  
+The resulting 2007 budgets are at issue in this case.
+
+     On March 3, 2000 this Court upheld the bulk of the EPA's 
+NOx SIP Call.  See Michigan, 213 F.3d 663.  Relevant to 
+this case, we specifically upheld the EPA's ability to set state-
+specific NOx budgets.  At the same time, this Court remand-
+ed the regulatory definition of EGU because the EPA failed 
+to provide an adequate explanation.  This Court also partially 
+vacated and remanded the SIP call as it applied to Missouri 
+because the EPA included portions of Missouri in the SIP call 
+with no evidence that these areas contributed to downwind 
+nonattainment.
+
+     At the same time that it promulgated the NOx SIP Call, 
+the EPA also proposed a Federal Implementation Plan 
+("FIP") that would impose direct emission controls on EGUs 
+and non-EGUs in any state that failed to implement an 
+adequate SIP by the regulatory deadline--May 31, 2004.  In 
+January 2000, the EPA also mandated specific NOx emission 
+controls on EGUs and non-EGUs in upwind states in re-
+
+sponse to petitions filed by eight Northeastern states under 
+section 126 of the CAA.  42 U.S.C. s 7426.  Both the FIP 
+and the section 126 rule seek NOx reductions in accordance 
+with the NOx budgets established for the NOx SIP Call, as 
+amended by the rules challenged in this case.  Earlier this 
+year, this Court upheld the EPA's section 126 rule in most 
+respects, though some portions of that rule relevant to this 
+case were remanded to the EPA for additional consideration.  
+See Appalachian Power Co. v. EPA, Nos. 99-1200, et al. (May 
+15, 2001).
+
+B.   The Technical Amendments
+
+     In the final SIP Call rule promulgated on October 27, 1998, 
+the EPA reopened public comment on the accuracy of data 
+upon which the emission inventories and budgets were based.  
+See NOx SIP Call, 63 Fed. Reg. at 57,427.  On December 24, 
+the EPA extended the comment period "for emission invento-
+ry revisions to 2007 baseline sub-inventory information used 
+to establish each State's budget in the NOx SIP Call," and 
+further explained that it was seeking comment on the rele-
+vant data and assumptions so the agency could correct errors 
+and update information used to compute the 2007 budgets. 
+See Correction and Clarification to the Finding of Significant 
+Contribution and Rulemaking for Purposes of Reducing Re-
+gional Transport of Ozone, 63 Fed. Reg. 71,220 (Dec. 24, 
+1998) ("SIP Call Correction").  The EPA also announced that 
+it would reopen the comment period on equivalent inventory 
+data for the FIP and section 126 rulemakings as well because 
+all three rules relied upon the same inventories.  Id.
+
+     Following this rulemaking, the EPA published two "Techni-
+cal Amendments" ("TAs") revising the SIP Call NOx emission 
+budgets.  In the first TA published May 14, 1999 ("May 1999 
+TA"), the EPA made some modifications to source-specific 
+emissions data, as well as to the 2007 baseline inventories.  
+Technical Amendment to the Finding of Significant Contribu-
+tion and Rulemaking for Certain States for Purposes of 
+Reducing Regional Transport of Ozone, 64 Fed. Reg. 26,298 
+(May 14, 1999).  In the second Technical Amendment publish-
+ed March 2, 2000 ("March 2000 TA"), the EPA made addi-
+
+tional "corrections" based upon additional public comments it 
+received and the EPA's own internal review of the accuracy 
+of its data and calculations.  Technical Amendment to the 
+Finding of Significant Contribution and Rulemaking for Cer-
+tain States for Purposes of Reducing Regional Transport of 
+Ozone, 65 Fed. Reg. 11,222 (Mar. 2, 2000).  The EPA also 
+explained that the March 2000 TA was "necessary to make 
+the NOx SIP Call inventory consistent with the inventory 
+adopted" by the EPA in the final section 126 rule, as the two 
+rules were to be based upon the same inventory.  Id.  The 
+EPA also made "corrections to the growth rates of many non-
+EGU sources" because it had "misapplied" these growth rates 
+in the May 1999 TA "version of the budget."  Id. at 11,223.  
+These changes altered the 2007 baselines for some source 
+categories and some states.
+
+       II. Industry Petitioners--Electric Generating Issues
+
+A.   EGU Growth Factors
+
+     Industry Petitioners challenge the lawfulness of the NOx 
+emission budgets as set forth in the TAs, specifically, the 
+particular "growth factors" the EPA used to project future 
+utilization rates for EGUs in 2007.  Petitioners allege that the 
+EPA's reliance upon these growth factors was arbitrary and 
+capricious because the growth factors were unsupported and 
+in conflict with state-based growth estimates.  Petitioners 
+further contend that the EPA arbitrarily failed to determine 
+whether the resulting emission budgets could be achieved in a 
+cost-effective manner.  Other petitioners raise similar chal-
+lenges to the TAs.  Before turning to the merits of these 
+arguments, we must first address several jurisdictional issues 
+raised by the EPA.  Specifically, the EPA claims that peti-
+tioners' claims are time barred and precluded by our Michi-
+gan decision under principles of res judicata and collateral 
+estoppel.1
+
+__________
+     1 The EPA's alternative claim that this Court should stay consid-
+eration of these issues pending resolution of Appalachian Power 
+Co. v. EPA, Nos. 99-1200, et al. (May 15, 2001), is obviously moot.
+
+     1.   Statute of Limitations
+          
+     The EPA contends that petitioners' objections to the EGU 
+growth factor determinations are not properly before this 
+Court because they were resolved in the underlying NOx SIP 
+Call rulemaking, not in the TA proceeding.  Therefore, the 
+growth factors were subject to challenge in Michigan, and 
+not here.  The EPA outlined and finalized its method for 
+determining state emission budgets, including the use of 
+growth factors, in the NOx SIP Call rulemaking.  See NOx 
+SIP Call, 63 Fed. Reg. at 57,405-39.  The EPA argues that 
+under CAA section 307(b)(1), 42 U.S.C. s 7607(b)(1), petition-
+ers had sixty days from the publication of the SIP Call in the 
+Federal Register to challenge the EPA's final growth factor 
+determinations.  By these lights, petitioners may not chal-
+lenge the growth factors because they did not raise their 
+challenges within sixty days of publication of the SIP Call.
+
+     In October 1998, the EPA reopened comment on "the 
+source-specific data used to establish each State's budget."  
+NOx SIP Call, 63 Fed. Reg. at 57,427.  However, the EPA 
+maintains petitioners' claims are precluded because it did not 
+explicitly invite comments on growth rate methodology.  In 
+other words, the EPA argues that it undertook the TA 
+rulemakings for the purpose of ensuring the accuracy of the 
+EPA's data inputs, and not to reconsider prior methodological 
+determinations, such as how to construct growth factors and 
+how to use those growth factors in determining 2007 emission 
+budgets.  According to the EPA, "[c]omments related to the 
+use of growth factors in determination of State budgets" were 
+addressed "in the context of the final NOx SIP call."  May 
+1999 Response to Comments at 47.  Therefore, the agency 
+pleads, petitioners' growth factor arguments are time-barred 
+under National Ass'n of Reversionary Property Owners v. 
+Surface Transportation Board, 158 F.3d 135, 141 (D.C. Cir. 
+1998) ("NARPO") ("If NARPO's reopening theory does not 
+apply, we are without jurisdiction to consider NARPO's due 
+process claim.").
+
+     The TA proceedings are not as clear cut as the EPA 
+maintains, nor are our precedents so restrictive.  The initial 
+
+TA rulemaking invited comment on both the source-specific 
+emission data used to calculate state budgets and the "2007 
+baseline sub-inventory information."  NOx SIP Call, 63 Fed. 
+Reg. at 57,493.  As the EPA recognizes, the 2007 baseline 
+sub-inventory information is nothing more than the product of 
+growth factors and the source-specific emission data used to 
+calculate state budgets.  See SIP Call Correction, 63 Fed. 
+Reg. at 71,223 (noting that 2007 baseline inventory "is based 
+on the universe of sources in the 1995 inventory and a growth 
+factor ..." (emphasis added)).  Therefore, insofar as the 
+EPA reopened comment on the 2007 baselines, it would seem 
+that the EPA reopened comment on the growth factors in 
+addition to the source-specific emission data used to calculate 
+state budgets.  While the EPA did not reopen comment on 
+the broader issues of its authority to impose NOx emission 
+budgets on states, it did open comment on the budgets 
+themselves.  Insofar as the agency was ambiguous on this 
+point, that only further supports petitioners' argument that 
+the growth factor issue was reopened.  See NARPO, 158 F.3d 
+at 142 ("Ambiguity in an NPRM may also tilt toward a 
+finding that the issue has been reopened.").
+
+     Even accepting that the EPA did not explicitly reopen 
+growth factors for public comment, this does not preclude 
+petitioners' claim.  Under Public Citizen v. NRC, "whether 
+an agency has in fact reopened an issue" is dependent upon 
+"the entire context of the rulemaking including all relevant 
+proposals and reactions of the agency," and not just on the 
+agency's stated intent.  901 F.2d 147, 150 (D.C. Cir. 1990).  
+Thus, "if an agency's response to comments 'explicitly or 
+implicitly shows that the agency actually reconsidered the 
+rule, the matter has been reopened.' "  Panamsat Corp. v. 
+FCC, 198 F.3d 890, 897 (D.C. Cir. 1999) (citation omitted).
+
+     The EPA claims that the growth factors were completely 
+settled for the purposes of the NOx SIP Call by the time the 
+TA rulemaking began in October 1998.  Yet this claim is 
+difficult to square with the EPA's purported justification for 
+the TA rulemakings--specifically to conform the emission 
+inventories of the NOx SIP Call and section 126 rules.  The 
+TA rulemaking began in October 1998, but the first section 
+
+126 rule was not final until May 1999.  Thus, if the EPA was 
+sincere in seeking to use the TA rulemaking to conform the 
+emission inventories of the two rules, then the EPA's various 
+growth factor methodologies must have been open for com-
+ment for the purposes of the NOx SIP Call as they were 
+subject to revision in the section 126 rulemaking at least up 
+until the close of that proceeding.
+
+     Where a rulemaking notice is ambiguous "and could fairly 
+be read to 'suggest [ ] that the search for harmony might lead 
+to the rethinking of old positions' " this Court has "found that 
+the earlier decision was reopened."  NARPO, 158 F.3d at 142 
+(citation omitted).  This is an apt description of what hap-
+pened here.  Therefore, insofar as there are problems with 
+section 126 inventories and budgets, the EPA implicitly gave 
+petitioners an opportunity to identify the equivalent problems 
+with the NOx SIP Call inventories and budgets when the 
+EPA opened the TA rulemaking for the purpose of conform-
+ing the inventories for the two rules.
+
+     2.   Res Judicata and Collateral Estoppel
+          
+     Res judicata "bars relitigation not only of matters deter-
+mined in a previous litigation but also ones that a party could 
+have raised."  NRDC v. Thomas, 838 F.2d 1224, 1252 (D.C. 
+Cir. 1988) (emphasis in EPA brief).  Collateral estoppel fur-
+ther bars parties from relitigating issues of law or fact 
+resolved in prior cases between those parties.  Securities 
+Indus. Ass'n v. Bd. of Governors, 900 F.2d 360, 363 (D.C. Cir. 
+1990) ("When a court determines an issue of fact or law that 
+is actually litigated and necessary to its judgment, that 
+conclusion binds the same parties in a subsequent action.").  
+As the growth factor determinations were made as part of the 
+NOx SIP Call, the EPA maintains that petitioners should 
+have presented any challenge to the growth factors in Michi-
+gan, where "there were actual legal and factual challenges on 
+budget and growth-related topics" and where "nearly all" of 
+the petitioners here were represented. Brief for Respondent 
+EPA at 24-25.
+
+     Petitioners' challenges are based upon the emission inven-
+tories and budgets laid out in the TAs.  As such, they present 
+
+issues not litigated in Michigan.  Though it is true that 
+petitioners could have challenged the EPA's growth factor 
+methodologies in that litigation, we hold here that the EPA 
+reopened comment on that issue.  Just as it would be absurd 
+for the EPA to argue that res judicata and collateral estoppel 
+would preclude review had the EPA decided to change its 
+growth factor methodologies in response to invited comments, 
+so too is it absurd for the EPA to argue here that res 
+judicata and collateral estoppel preclude review of its deci-
+sion not to change in response to those same invited com-
+ments.
+
+     3.   Merits
+          
+     On the merits, Industry Petitioners allege that the EPA's 
+emission budget determinations for EGUs are arbitrary and 
+unsupported on several grounds.  First, they maintain that 
+the 2007 emission baselines reflect the unrealistic assump-
+tions that utilization growth will be linear.  Second, they 
+question the EPA's use of IPM-generated 2001-2010 growth 
+rates to estimate growth over the 1996-2007 period.  Third, 
+they claim the EPA's reliance upon the growth factors result-
+ed in unrealistic utilization estimates.  For example, 1998 
+utilization rates in some states, such as Michigan and West 
+Virginia, are greater than the 2007 baselines estimated by the 
+EPA.
+
+     Petitioners contend that the arbitrariness of the growth 
+factors is compounded by the fact that more representative 
+growth estimates were available.  In conducting its cost-
+effectiveness analysis, the EPA used the IPM to generate 
+growth assumptions for 1996-2001, as well as to generate 
+state-by-state EGU utilization estimates for 2007.  Yet the 
+EPA did not use this data for the purpose of developing its 
+growth factors for the 2007 baseline, and it offered no reason-
+able explanation for its choice.  Even if the EPA finds on 
+remand that its choice was the better one, failure to "examine 
+the relevant data and articulate a satisfactory explanation for 
+its action" either is arbitrary decisionmaking or at least 
+prevents a court from finding it non-arbitrary.  Motor Vehicle 
+Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 
+43 (1983).
+
+     We confronted nearly identical challenges to the EPA's use 
+of growth factors to estimate baseline NOx emissions for 2007 
+in the section 126 litigation.  See Appalachian Power Co. v. 
+EPA, Nos. 99-1200, et al. (May 15, 2001).  Although the NOx 
+SIP Call covers more states than the section 126 rule, the 
+EPA's methodological choices and explanations (or lack there-
+of) were the same.  Therefore, we see no reason to depart 
+from our conclusions in that litigation.
+
+     There is no question that "[a]gency determinations based 
+upon highly complex and technical matters are 'entitled to 
+great deference.' "  Id., slip op. at 32 (quoting Public Citizen 
+Health Research Group v. Brock, 823 F.2d 626, 628 (D.C. Cir. 
+1987)).  The EPA has "undoubted power to use predictive 
+models," such as the IPM, but it must "explain the assump-
+tions and methodology used in preparing the model" and 
+"provide a complete analytic defense" should the model be 
+challenged.  Small Refiner Lead Phase-Down Task Force v. 
+EPA, 705 F.2d 506, 535 (D.C. Cir. 1983) (citations and inter-
+nal quotation marks omitted).  "Given the highly deferential 
+standard of review applied to such questions, and the EPA's 
+clear authority to rely upon computer models in place of 
+inconsistent, incomplete, or unreliable empirical data, the 
+Agency's decision to rely upon the IPM, rather than the 
+projections offered by individual states, was not arbitrary and 
+capricious."  Appalachian Power Co., slip op. at 34.  Howev-
+er, this Court cannot excuse the EPA's reliance upon a 
+methodology that generates apparently arbitrary results par-
+ticularly where, as here, the agency has failed to justify its 
+choice.
+
+     In the case at hand, the EPA adopted a particular method-
+ology to estimate EGU utilization rates in 2007 that generat-
+ed seemingly implausible results, such as a negative growth 
+forecast for some states in the coming decade.  The EPA 
+adopted this methodology without offering any reasoned ex-
+planation for its choice.  The EPA's decision not to use the 
+IPM projections for 2007 that were used to estimate the cost-
+effectiveness of emissions controls may well have been rea-
+sonable.  So too may have been the EPA's choice to rely upon 
+IPM projections for the 2001-2010 period in order to gener-
+
+ate a growth factor for the 1996-2007 period.  However, 
+there is no way for us to tell because the EPA never offered 
+an explanation.  Merely asserting that the choice was "rea-
+sonable" is not enough.
+
+     As we held in the section 126 litigation, so too here:
+
+     the EPA has not fully explained the bases upon which it 
+     chose to use one set of growth-rate projections for costs 
+     and another for budgets, nor has it addressed what 
+     appear to be stark disparities between its projections and 
+     real world observations.  "With its delicate balance of 
+     thorough record scrutiny and deference to agency exper-
+     tise, judicial review can occur only when agencies explain 
+     their decisions with precision, for 'it will not do for a 
+     court to be compelled to guess at the theory underlying 
+     the agency's action ...' "  American Lung Ass'n v. 
+     EPA, 134 F.3d 388, 392 (D.C. Cir. 1998) (quoting SEC v. 
+     Chenery Corp., 332 U.S. 194, 196-97 (1947)).  As a result, 
+     we have no choice but to remand the EPA's EGU growth 
+     factor determinations so that the agency may fulfill its 
+     obligation to engage in reasoned decisionmaking on how 
+     to set EGU growth factors and explain why results that 
+     appear arbitrary on their face are, in fact, reasonable 
+     determinations.
+     
+Id. at 37-38.
+
+     4.   Cost-Effectiveness
+          
+     Industry Petitioners make the additional argument that the 
+EPA failed to find the 2007 budgets achievable at the $2,000/
+ton significant-contribution cut-off established in the NOx 
+SIP Call rule.  Essentially, petitioners contend that the bud-
+gets the EPA analyzed for cost-effectiveness purposes were 
+different from the emission budgets imposed on the states.  
+This argument is without merit.  The emission budget levels 
+themselves are based upon reductions deemed by the EPA to 
+be cost-effective.  In the case of EGUs, the EPA concluded 
+that an average emissions rate of 0.15 lb/mmBtu could be 
+achieved at a cost of less than $2000/ton.  NOx SIP Call, 63 
+Fed. Reg. at 57,399-403.  Thus, insofar as the EPA properly 
+
+generates, and adequately explains, estimated 2007 utilization 
+rates, it need not repeat its cost-effectiveness analysis.
+
+B.   Significant Contribution
+
+     Industry petitioners also allege that the TAs are arbitrary 
+because they rely upon emission inventories that are substan-
+tially different from those that were used to make the initial 
+"contribution" findings for the NOx SIP Call.  Essentially, 
+petitioners argue that because the TAs changed the underly-
+ing state emission inventories and budgets, thereby altering 
+the relative contributions of upwind states to downwind non-
+attainment, the EPA was obligated to reevaluate its "signifi-
+cant contribution" findings for each of the affected states.  
+For example, the TAs decreased the 2007 baseline emissions 
+for West Virginia, an upwind state, and increased baseline 
+emissions for New York, a downwind state.  Due to this 
+change, petitioners contend, the EPA could not continue to 
+assume that West Virginia contributes to New York nonat-
+tainment without additional analysis.
+
+     It is black-letter administrative law that "[a]bsent special 
+circumstances, a party must initially present its comments to 
+the agency during the rulemaking in order for the court to 
+consider the issue."  Tex Tin Corp. v. EPA, 935 F.2d 1321, 
+1323 (D.C. Cir. 1991) (citing Eagle-Picher Indus. v. EPA, 822 
+F.2d 132, 146 (D.C. Cir. 1987)).  Generalized objections to 
+agency action or objections raised at the wrong time or in the 
+wrong docket will not do.  "An objection must be made with 
+sufficient specificity reasonably to alert the agency."  Id.  An 
+agency cannot be faulted for failing to address such issues 
+that were not raised by petitioners.  Petitioners waived their 
+argument, and can cite no "special circumstances" to justify 
+their waiver.
+
+     Petitioners are able to cite no comments that were in the 
+relevant docket that raise the significant contribution issue.  
+For example, petitioners note that the West Virginia Manu-
+facturers Association argued that "[i]f EPA has in fact made 
+adjustments to the inventories, we believe that this would 
+dramatically affect the modeled impact of the contribution of 
+upwind states and sources to downwind ozone nonattain-
+
+ment."  The problem is that this document was submitted to 
+the dockets for the section 126 and FIP rulemakings, and was 
+not part of the TA rulemaking.  Petitioners do cite other 
+documents which were part of the relevant rulemaking, but 
+these documents do not address the significant contribution 
+argument.  This is insufficient;  notice does not operate by 
+osmosis.  Having failed to raise their concern in the relevant 
+agency docket, petitioners could perhaps have cured their 
+waiver by seeking reconsideration before the EPA, but they 
+did not.  Thus, petitioners waived their argument that the 
+EPA was required to revisit its significant contribution find-
+ings.
+
+                      III. State Petitioners
+
+     State Petitioners echo many of the arguments addressed 
+above.  Their claims are unique insofar as they object to the 
+EPA's imposition of "erroneous projections of their economic 
+growth" on states through the NOx SIP Call.  Joint Brief of 
+Petitioning States at 4.  The State Petitioners' primary com-
+plaint is with the EPA's reliance upon the IPM to generate 
+state-by-state growth rates without promulgating a mecha-
+nism to review these projections based upon actual growth 
+rates.  Petitioning states contend that the EPA's projections 
+underestimate actual growth in some affected states, but the 
+EPA refused to address this concern in the TA rulemaking.  
+While the EPA acknowledged some inconsistency between 
+IPM growth projections and those provided by individual 
+states, the EPA rejected the claim that the states' projections 
+are inherently more reliable.  State Petitioners claim that it 
+was unreasonable for the EPA to reach this conclusion with-
+out conducting any analysis of the state projections.
+
+     State Petitioners aver that deference to the EPA's findings 
+in this area is unwarranted because deference is only due 
+within an agency's area of expertise.  See NRDC v. EPA, 194 
+F.3d 130, 136 (D.C. Cir. 1999).  Were the EPA making 
+environmental projections, they concede, deference would be 
+warranted.  Since, however, the growth projections are es-
+sentially economic projections, this Court should give the 
+
+EPA no more deference "than it would to the agency's 
+predictions of 2007 interest rates or the level of the Dow 
+Jones Index."  Joint Brief of Petitioning States at 10 (citing 
+Montana v. EPA, 137 F.3d 1135, 1141 (9th Cir. 1998)).  While 
+the EPA has authority to impose emission limits on states, 
+they argue, it does not have the authority to regulate a state's 
+economic growth.  Insofar as the EPA has done this through 
+its growth projections, it has adopted an "overly broad" 
+reading of the CAA that "usurps States' sovereign power to 
+manage their own economic growth."  Id. at 12.
+
+     The EPA raises the same untimeliness arguments dis-
+cussed above.  See infra Part II.A.1-2.  We reject them for 
+the same reasons.  However, insofar as the State Petitioners 
+seek relief beyond that which is provided above, their com-
+plaints are not well taken.  The EPA has sufficient discretion 
+to use the IPM model in the first instance even if states 
+believe that some other state-specific modeling is more accu-
+rate.  When it comes to these sorts of technical matters, the 
+EPA is entitled to great deference.  See Environmental 
+Action, Inc. v. FERC, 939 F.2d 1057, 1064 (D.C. Cir. 1991) 
+("[I]t is within the scope of the agency's expertise to make 
+such a prediction about the market it regulates, and a reason-
+able prediction deserves our deference notwithstanding that 
+there might also be another reasonable view.").  "[I]t is only 
+when the model bears no rational relationship to the charac-
+teristics of the data to which it is applied that we will hold 
+that the use of the model was arbitrary and capricious."  
+Appalachian Power Co. v. EPA, 135 F.3d 791, 802 (D.C. Cir. 
+1998).
+
+     "That the EPA's projections depend, in large part, on 
+economic projections, rather than environmental factors, 
+makes little difference."  Appalachian Power Co. v. EPA, 
+Nos. 99-1200, et al. (May 15, 2001), slip op. at 34.  Congress 
+has delegated to the EPA the power to set emissions limits 
+under the Clean Air Act.  Merely because this requires the 
+selection and utilization of complex computer models to fore-
+cast future emissions does not change the standard with 
+which we evaluate the agency's actions, so long as the agen-
+cy's actions are, as here, confined to those technical issues 
+
+that must be resolved for the agency intelligently to address 
+the matters over which Congress has given it authority.  See 
+generally id.;  Small Refiner Lead Phase-Down Task Force 
+v. EPA, 705 F.2d 506, 535 (D.C. Cir. 1983).  State Petitioners' 
+hyperbolic suggestion that the EPA's choice of industry fore-
+casting models is tantamount to stock market forecasting is 
+simply absurd.
+
+     Similarly, that the EPA's selection of a computer model 
+and forecasting methodology results in the imposition of 
+emission controls on states that crimp economic growth does 
+not change the underlying analysis.  In Michigan, this Court 
+squarely upheld the EPA's authority to establish state-
+specific NOx budgets against a claim that such authority 
+impermissibly intrudes on the statutory rights of states to 
+select their own emission control policies in the first instance.  
+Michigan v. EPA, 213 F.3d 663, 686-87 (D.C. Cir. 2000).  
+Acknowledging this point, State Petitioners seek to argue 
+that the Michigan holding somehow left open the claim that 
+the EPA's authority to set state emission budgets did not 
+entail authority to make the state-specific growth projections 
+upon which such emission budgets are inevitably based.  This 
+is a distinction without a meaningful difference.  Given the 
+regulatory structure created by the Clean Air Act, the former 
+authority clearly encompasses the latter, notwithstanding 
+State Petitioners' veiled appeals to federalism principles.
+
+     For these reasons, we hold that State Petitioners are not 
+entitled to any relief beyond that which is entailed by re-
+manding the growth factor determinations for further pro-
+ceedings in response to Industry Petitioners' claims.
+
+           IV. Non-Electric Generating Facility Issues
+
+     Non-Electric Generating Petitioners ("Non-EGU Petition-
+ers") make two additional arguments against the EPA's TAs 
+to the NOx SIP Call.  First, petitioners allege that the EPA 
+modified its methodology for calculating budgets for non-
+EGUs in its final rule without providing non-EGUs with 
+adequate notice of the change.  Second, Non-EGU Petition-
+ers claim that insofar as the EPA's emission budgets for 
+
+Non-EGUs rely upon the source definitions remanded in 
+Michigan v. EPA, they are contrary to law and must be 
+remanded here as well, if not vacated in their entirety.  We 
+conclude that the EPA's misapplication of non-EGU growth 
+factors constituted little more than clerical error, which the 
+EPA corrected without additional notice and comment.  
+While petitioners erroneously challenge the characterization 
+of the error as clerical, they do not challenge the power of the 
+EPA to correct clerical errors, compare Utility Solid Waste 
+Activities Group v. EPA, 236 F.3d 749 (D.C. Cir. 2001), and 
+we do not address that issue.  The petitioners are therefore 
+not entitled to vacatur.  However, petitioners are correct that 
+the EPA continues to rely upon source definitions that were 
+issued without adequate notice and comment and remanded 
+in Michigan.  Therefore, we remand the source definitions 
+here as well.
+
+A.   Notice
+
+     The EPA began the budget-setting process with incomplete 
+data on emission sources upon which to base its 2007 projec-
+tions.  The EPA also began the process relying on one set of 
+growth factors, Non-EGU Petitioners charge, but then sub-
+stituted other factors.  The constant changes to the EPA's 
+methodology, "combined with the virtual inaccessibility of the 
+files containing the growth factors," made it impossible for 
+affected parties to determine whether the EPA's calculations 
+were reasonably accurate.  Joint Brief of Non-Electric Gen-
+erating/Industrial Petitioners at 6.  As the aggregate non-
+EGU budget changed over time, petitioners allege the EPA 
+did not maintain a consistent explanation for these revisions.  
+In the May 1999 TA, the EPA said that a fourteen percent 
+increase in the aggregate non-EGU budget was due to source 
+reclassifications.  May 1999 TA, 64 Fed. Reg. at 26,299.  In 
+the March 2000 TA, however, it claimed that the budget 
+change was due to the EPA's prior misapplication of the 
+proper growth factors.  Rather than consistently modify its 
+estimates, Petitioners attest that the EPA should have ex-
+plained how the growth factors were misapplied and specifi-
+cally sought comment from affected parties.  In failing to do 
+so, it disregarded regulated entities' rights to notice and 
+
+comment.  Even if providing such opportunity to comment 
+would have delayed SIP implementation, Non-EGU Petition-
+ers argue that this would not authorize the EPA to deprive 
+regulated entities of their rights to notice and comment.
+
+     The EPA responds that Non-EGU Petitioners allege no 
+more than a harmless procedural error.  See 5 U.S.C. s 706 
+(instructing courts to take "due account ... of the rule of 
+prejudicial error.").  The EPA merely adjusted inventory 
+data to fix clerical errors to ensure conformity between the 
+various rules.  Petitioners had ample opportunity to comment 
+and yet have failed to identify "a single source that has not 
+been able to determine the growth factor assigned to it."  
+Brief for Respondent EPA at 42.  The EPA readily admits 
+that it did not announce the correction of its previous misap-
+plication of non-EGU growth factors until the March 2000 
+TA.  Insofar as Non-EGU Petitioners challenge specific 
+changes in the Non-EGU portion of emission budgets, we 
+agree with the EPA.  The record suggests that the changes 
+complained of here were little more than fixes to technical 
+errors, and not the sort of modifications that evince a change 
+in policy or methodology.  Therefore, this portion of the 
+petition for review is denied.  Petitioners' entreaty at oral 
+argument that their notice challenge was tantamount to an 
+unintelligible rulemaking challenge is likewise denied, as it 
+came too late.
+
+B.   Source Definitions
+
+     Non-EGU Petitioners further challenge the EPA's reliance 
+upon regulatory definitions of EGUs and non-EGUs that 
+were remanded by this Court in Michigan.  There, we found 
+that the EPA changed the definition of "EGU" in the final 
+NOx SIP Call rule without providing sufficient notice and 
+opportunity to comment.  Michigan, 213 F.3d at 692.  The 
+altered definition reclassified some non-EGUs as EGUs.  
+This is significant because the EPA assumed that EGUs can 
+reduce more NOx emissions cost effectively, on a percentage 
+basis, than can non-EGUs.  The EPA maintains that a new 
+source definition rulemaking is imminent, see Brief for Re-
+spondent EPA at 51 ("EPA is, in fact, presently reconsidering 
+
+its EGU definition and intends to issue a proposed rule in the 
+near future, perhaps as early as December 2000.").  However, 
+as of oral argument, a year had passed since the Michigan 
+remand and the EPA had yet to initiate new administrative 
+proceedings on source definitions.
+
+     Non-EGU Petitioners maintain that the EPA's continued 
+reliance on the remanded source definitions requires remand-
+ing and vacating the TAs in their entirety because the EPA 
+cannot accurately apply growth factors and calculate state 
+budgets until source categories are final.  The EPA contends 
+that Non-EGU Petitioners seek more relief here than they 
+were afforded in Michigan.  As the EPA notes, we did not 
+vacate the budgets or any other portion of the NOx SIP Call 
+in Michigan.  Instead, we left the budgets in place while 
+EPA reconsidered a handful of narrow issues, including the 
+proper delineation of what constitutes an EGU.  It seems 
+that Non-EGU Petitioners are entitled to the same relief 
+here-no more and no less.  Therefore, because the "EPA did 
+not provide sufficient notice and opportunity to comment for 
+its redefinition of EGUs," 213 F.3d at 693, we remand this 
+portion of the rulemaking to the EPA for further consider-
+ation in light of this opinion and that in Michigan.
+
+             V. Missouri ("Split-State Petitioners")
+
+     A group of Missouri utilities and the City of Independence, 
+Missouri ("Split-State Petitioners") argue that the Technical 
+Amendments are unlawful insofar as they establish a budget 
+for the state of Missouri.  In Michigan, this Court vacated 
+and remanded the NOx SIP Call insofar as it applied to 
+Missouri because the EPA's Missouri NOx budget was "calcu-
+lated on the basis of hypothesized cutbacks from areas that 
+have not been shown to have made significant contributions."  
+213 F.3d at 684.  Specifically, the EPA set a NOx emission 
+budget for the entire state of Missouri, even though the 
+computer models upon which the EPA relied only included 
+the eastern portion of the state.  Before requiring a state or 
+portion thereof to control emissions that make a "significant" 
+contribution to downwind nonattainment, we held the EPA 
+
+"must first establish that there is a measurable contribu-
+tion."  Id. at 683-84 (emphasis in original).  Where the 
+agency's own data "inculpate part of a state and not another, 
+EPA should honor the resulting findings."  Id. at 684.
+
+     Even though the NOx emission budget for Missouri was 
+vacated and remanded in Michigan, the EPA included Mis-
+souri's budget in the TAs.  It is undisputed that insofar as 
+the TAs include a statewide Missouri emission budget they 
+are unlawful under Michigan.  The only real dispute between 
+Split-State Petitioners and the EPA is on the proper remedy 
+for EPA's failure to address the Michigan holding.
+
+     Split-State Petitioners contend that this court must vacate 
+the entire Missouri budget, covering the budget for the "1-
+hour" ozone standard as well as the "8-hour" ozone standard 
+at issue in American Trucking Ass'ns v. EPA, 175 F.3d 1027, 
+reh'g granted in part and denied in part, 195 F.3d 4 (D.C. 
+Cir. 1999), rev'd in part sub nom. Whitman v. American 
+Trucking Ass'ns, 121 S. Ct. 903 (2001).  The EPA prefers a 
+more limited remand.  In Michigan, this Court vacated the 
+budget for the 1-hour standard, but stayed addressing the 
+applicability of the 8-hour standard to the NOx SIP Call, at 
+the EPA's request, due to the pendency of the American 
+Trucking litigation.  Michigan, 213 F.3d at 671.  On this 
+basis, we only resolved issues involving the EPA's 1-hour 
+ozone standard, leaving issues related to the 8-hour standard 
+until another day.
+
+     Because we did not consider 8-hour issues in Michigan, the 
+EPA suggests, we should only vacate and remand Missouri's 
+budget under the 1-hour standard and stay consideration of a 
+statewide Missouri budget under the 8-hour standard pend-
+ing completion of litigation.  In other circumstances, we 
+might be inclined to offer the more modest remedy the EPA 
+suggests.  After all, the EPA is simply asking that the 
+judgment in this case mirror that in Michigan, and that this 
+Court stay consideration of the 8-hour basis for Missouri's 
+budget until such time as the stay on the 8-hour standard is 
+lifted.  Were there reason, any reason, to believe that the 
+EPA could justify a statewide Missouri budget based upon 
+
+existing record evidence, this would be a prudent step.  As it 
+happens, the record and briefing in Michigan addressed both 
+standards, and the EPA offered no evidence that would 
+suggest western Missouri contributes significantly to down-
+wind nonattainment of any ozone standard.  The EPA as-
+serts that "it is entirely possible that the EPA's record could 
+support including Missouri in the SIP Call under the 8-hour 
+standard and assigning it a budget."  Brief for Respondent 
+EPA at 49.  However, the EPA does not dispute that it has 
+never modeled western Missouri sources under any standard.  
+In other words, it is undisputed that the EPA has no more 
+analytical basis for setting a statewide Missouri NOx budget 
+under the 8-hour standard than it did for the 1-hour stan-
+dard, for which it had no analytical basis at all.  While there 
+may be areas for which the EPA could, with existing data and 
+analysis, justify setting an emission budget for purposes of 
+the 8-hour standard, but not for purposes of the 1-hour 
+standard, western Missouri is not among them.
+
+     So long as any statewide NOx budget remains in place, 
+Split-State Petitioners and other entities potentially subject 
+to emission controls in western Missouri must operate under 
+the cloud of potential future controls.  Therefore, we find it 
+prudent to vacate and remand the TAs insofar as they include 
+a budget for Missouri under any ozone standard.  While we 
+vacate and remand the statewide Missouri budget, it should 
+be clear that we take this step only upon the record proffered 
+to date.  As noted above, the EPA concedes that it has never 
+conducted the analyses that would be required to impose a 
+statewide budget for Missouri.  Should the agency ever con-
+duct such analyses and, for instance, model the contribution 
+of facilities located in western Missouri to downwind nonat-
+tainment of the 8-hour standard, it is quite possible that such 
+a budget could be justified.  This decision should be read 
+neither to endorse nor to preclude such action.  If the EPA 
+some day decides to impose a statewide NOx budget for 
+Missouri, that decision will be evaluated on its own merits at 
+that time.
+
+                          VI. Conclusion
+
+     In accordance with the above, we remand the EPA's EGU 
+growth factors as well as the source definitions challenged by 
+Non-EGU Petitioners.  We further remand and vacate the 
+NOx emission budget for Missouri.  With respect to all other 
+issues, including those not discussed expressly herein, the 
+petitions are denied.
+
+                              

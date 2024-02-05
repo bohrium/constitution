@@ -1,0 +1,396 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 7, 2000   Decided November 3, 2000 
+
+                           No. 98-5516
+
+           Diamond Game Enterprises, Incorporated and 
+               The Cheyenne and Arapaho Tribes of 
+          Oklahoma Gaming Commission, on behalf of the 
+            Cheyenne and Arapaho Tribes of Oklahoma, 
+                            Appellants
+
+                                v.
+
+              Janet Reno, Attorney General, et al., 
+                            Appellees
+
+                        Consolidated with 
+                             99-5345
+
+          Appeals from the United States District Court 
+                  for the District of Columbia 
+                         (No.  97cv00452)
+
+                            ---------
+
+     James E. Townsend argued the cause for appellants.  With 
+him on the briefs were David W. McElroy, Munford Page 
+Hall, II, Virginia W. Boylan and Stephen A. Lenske.  Philip 
+Baker-Shenk entered an appearance.
+
+     Leander Bergen, Geoffrey M. Standing Bear and Andrew 
+W. Baldwin were on the brief for amici Pueblo of San Juan, 
+et al.
+
+     John T. Stahr, Attorney, U.S. Department of Justice, ar-
+gued the cause for the Federal appellees and Jonathan A. 
+Glogau, Special Counsel, State of Florida, argued the cause 
+for the State appellees.  With them on the joint brief were 
+Lois J. Schiffer, Assistant Attorney General, U.S. Depart-
+ment of Justice, David C. Shilton and Edward J. Passarelli, 
+Attorneys, and Sara J. Drake, Supervising Deputy Attorney 
+General, State of California.  Jared A. Goldstein, Attorney, 
+U.S. Department of Justice, entered an appearance.
+
+     Before:  Ginsburg, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  This case requires us to determine 
+whether a gambling machine known as the Lucky Tab II, an 
+electromechanical device that dispenses paper pull-tabs and 
+then displays their contents on a video monitor, should be 
+classified under the Indian Gaming Regulatory Act as a Class 
+II "aid" or a Class III "facsimile."  The Act prohibits Indian 
+tribes from operating Class III facsimiles without first negoti-
+ating a compact with the state.  Applying the statute's plain 
+language, guided by our only relevant precedent, Cabazon 
+Band of Mission Indians v. NIGC, 14 F.3d 633 (D.C. Cir. 
+1994), and proceeding without any views from the agency 
+charged with the Act's implementation, we conclude that the 
+Lucky Tab II is a Class II aid.
+
+                                I
+
+     The Indian Gaming Regulatory Act of 1988 ("IGRA"), 25 
+U.S.C. s 2701-19, regulates gambling operations run by Indi-
+an tribes.  The Act's purpose is to "provide a statutory basis 
+for the operation of gaming by Indian tribes as a means of 
+
+promoting tribal economic development, self-sufficiency, and 
+strong tribal governments."  25 U.S.C. s 2702(1).
+
+     The Act divides Indian gaming into three classes, each 
+requiring a different level of authorization.  Class I gaming 
+consists of social games played solely for prizes of minimal 
+value as well as traditional forms of Indian gaming.  See 25 
+U.S.C. s 2703(6).  Indian tribes may operate Class I games 
+as they wish.  See 25 U.S.C. s 2710(a)(1).
+
+     Class II gaming includes bingo, and if conducted in the 
+same hall as bingo, it also includes lotto, punch boards, and 
+tip jars, as well as pull-tabs, the game at issue here.  See 25 
+U.S.C. s 2703(7)(A).  In language central to the dispute in 
+this case, the Act allows the use of "electronic, computer, or 
+other technologic aids" in connection with Class II games, 25 
+U.S.C. s 2703 (7)(A)(i), but prohibits the use of "[e]lectronic 
+or electromechanical facsimiles of any game of chance." 25 
+U.S.C. s 2703 (7)(B)(ii).  Tribes may conduct Class II gaming 
+if the state in which they are located permits such forms of 
+gambling and if the governing body of the tribe adopts a 
+gaming ordinance that is then approved by the Chairman of 
+the National Indian Gaming Commission, the agency created 
+by Congress to implement IGRA.  See 25 U.S.C. ss 2710(b), 
+2704.
+
+     Class III gaming includes all gambling not covered by 
+either Class I or Class II, including "facsimiles" of Class II 
+devices.  See 25 U.S.C. s 2703(8).  In order to conduct Class 
+III operations, tribes must obtain state approval through 
+negotiation of a tribal-state compact.  See 25 U.S.C. 
+s 2710(d)(1).
+
+     Commission regulations define Class II aids and Class III 
+facsimiles.  An aid is "a device ... that when used ... [i]s 
+not a game of chance but merely assists a player or the 
+playing of a game [and] is readily distinguishable from the 
+playing of a game of chance on an electronic or electrome-
+chanical facsimile."  25 C.F.R. s 502.7.  A facsimile is "any 
+gambling device as defined in [the Johnson Act]."  25 C.F.R. 
+s 502.8.  Predating IGRA by more than 30 years, the John-
+son Act prohibits the use of gambling devices on federal land, 
+
+in interstate commerce, and in "Indian country." See 15 
+U.S.C. ss 1171-78 (1953).  Both the Commission's regula-
+tions and this Court have interpreted IGRA as limiting the 
+Johnson Act prohibition to devices that are neither Class II 
+games approved by the Commission nor Class III games 
+covered by tribal-state compacts.  See Cabazon, 14 F.3d at 
+635, n.3 (noting that IGRA repealed the Johnson Act with 
+regard to Class III devices subject to a tribal-state compact 
+but that there is no other repeal of the Johnson Act in IGRA, 
+implying that Class II aids, permitted under IGRA, do not 
+run afoul of the Johnson Act).
+
+     This case concerns a game known as pull-tabs.  A small, 
+two-ply paper card, a pull-tab bears symbols and patterns 
+similar to tic-tac-toe that appear when players peel off the 
+pull-tab's top layer.  The pattern of the symbols determines 
+whether the player wins a prize.  In the traditional pull-tabs 
+game, bingo hall clerks sell pull-tabs from counters or mobile 
+carts, and winners present the tabs to either clerks or cash-
+iers to collect prizes.  Pull-tabs are sold from large pools 
+known as "deals."  Containing anywhere from 1200 to 100,000 
+pull-tabs, deals have a fixed number of winners and losers.
+
+     At issue in this case is the proper classification of a 
+gambling device known as the Lucky Tab II, an electrome-
+chanical dispenser of paper pull-tabs.  The machine dispenses 
+pull-tabs from a roll containing approximately 7500 tabs.  
+About 100 rolls comprise a deal, within which winning pull-
+tabs are randomly distributed.  The machine cuts the pull-tab 
+from the roll and drops it into a tray.  A bar code scanner 
+inside the machine automatically reads the tab and then 
+displays its contents on a video screen.  A placard on the 
+machine informs players that "[v]ideo images may vary from 
+actual images on pull tabs.  Each tab must be opened to 
+verify."  To collect prizes, players must present the actual 
+winning tab to a clerk.  In many bingo halls, players pur-
+chase pull-tabs either from a Lucky Tab II or from clerks;  in 
+such cases, machines and clerks cut pull-tabs from rolls that 
+are part of the same deal.
+
+     In 1994, the Kickapoo Traditional Tribe of Texas and 
+Diamond Game Enterprises, the manufacturer of the Lucky 
+Tab II, asked the Commission to classify the machine as a 
+Class II aid.  Two years passed without Commission action.  
+In August 1996, the Kickapoo Tribe began operating approxi-
+mately 100 Lucky Tab II machines.  At this point, the record 
+becomes complicated and, to say the least, confusing.  As far 
+as we can tell, the following events of significance to this case 
+transpired:  The Commission's Director of Enforcement ad-
+vised the Tribe that the machines were Class III gambling 
+devices that could only be operated pursuant to a tribal-state 
+compact.  See Diamond Game Enterprises, Inc. v. Reno, 9 F. 
+Supp. 2d 13, 15 (D.D.C. 1998).  Notwithstanding the Di-
+rector's action, the members of the Commission were appar-
+ently divided over the proper classification of the Lucky Tab 
+II, some thinking it an aid and others a facsimile.  Because of 
+this disagreement, the Commission sought advice from the 
+Department of Justice, but DOJ lawyers were themselves 
+divided over the proper classification of the machine.  See 
+Memorandum from Deputy Assistant Attorney General Rich-
+ard Shiffrin to Associate Deputy Attorney General Seth P. 
+Waxman, at 1 (June 13, 1996) (noting that the Office of Tribal 
+Justice and the Criminal Division had reached opposite con-
+clusions on the appropriate classification of the Lucky Tab 
+II--the former concluding that it falls under Class II and the 
+latter concluding that it belongs in Class III).  The Commis-
+sion never formally responded to the request to classify the 
+Lucky Tab II.
+
+     According to the Tribe and Diamond Game, certain mem-
+bers of the Commission recommended that the Tribe and the 
+company file a declaratory judgment action in federal court to 
+resolve the issue.  Acting on that advice, they filed this action 
+in the U.S. District Court for the District of Columbia seek-
+ing, among other things, a declaratory judgment that the 
+machine qualifies as a Class II aid.  The Cheyenne and 
+Arapaho Tribes of Oklahoma intervened as plaintiffs.  Ala-
+bama, California, and Florida intervened as defendants.
+
+     The parties filed cross motions for summary judgment.  
+Finding that the Lucky Tab II "performs all the functions 
+that a player of the traditional pull-tab game would have 
+performed," the district court found the machine to be a Class 
+III facsimile and granted summary judgment to the govern-
+ment.  See Diamond Game, 9 F. Supp. 2d at 20.  Subse-
+quently, Diamond Game and the Tribes filed a Rule 60(b) 
+motion, claiming that the company had made technical 
+changes to the Lucky Tab II.  Finding that the modifications 
+were not new evidence, the district court denied the motion.
+
+                                II
+
+     Unlike the legal issues presented in this case, the policy 
+questions are both interesting and challenging.  In determin-
+ing the proper classification of the Lucky Tab II, how do we 
+further Congress' objective of allowing Indian tribes to use 
+gaming as a means of "promoting tribal economic develop-
+ment, self-sufficiency, and strong tribal governments," 25 
+U.S.C. s 2702(1), while at the same time "shield[ing] [Indian 
+tribes] from organized crime and other corrupting influ-
+ences," 25 U.S.C. s 2702(2)?  Will the Lucky Tab II enable 
+tribes to "take advantage of modern methods of conducting 
+class II games"?  S. Rep. No. 100-446, at 9 (1988).  Or does 
+the machine increase the risk of corruption or excessive 
+gambling losses, concerns that government counsel told us at 
+oral argument require its classification as a Class III device?  
+To resolve such issues, Congress created the National Indian 
+Gaming Commission, headed by a Chair appointed by the 
+President and confirmed by the Senate presumably for his or 
+her expertise on Indian gaming.  Yet whether because of 
+bureaucratic gridlock or, as the tribes allege, because of 
+congressional interference, we have no idea what the Com-
+mission thinks about the policy questions presented by the 
+Lucky Tab II.  Not only does this leave us with no agency 
+position to which we might defer, see Chevron U.S.A. v. 
+Natural Resources Defense Council, Inc., 467 U.S. 837, 844 
+(1984) ("[A] court may not substitute its own construction of a 
+statutory provision for a reasonable interpretation made by 
+the administrator of an agency"), but the Commission's IGRA 
+
+regulations provide no assistance in interpreting the statute.  
+Boiled down to their essence, the regulations tell us little 
+more than that a Class II aid is something that is not a Class 
+III facsimile.  We mention this not to escape our duty to 
+decide this case--to the contrary, because we have jurisdic-
+tion, we must determine how the Lucky Tab II should be 
+classified--but to highlight the fact that we have no choice 
+but to proceed without the benefit of a Commission position, a 
+situation we expect Congress neither anticipated nor would 
+appreciate.  That said, we turn to the parties' arguments 
+about the classification of the Lucky Tab II.  See Everett v. 
+United States, 158 F.3d 1364, 1367 (D.C. Cir. 1998) ("We 
+review a grant of summary judgment de novo.").
+
+     Diamond Game and the Tribes contend that the Lucky Tab 
+II acts as a permitted "electronic aid" to the Class II game of 
+pull-tabs.  They emphasize that the machine's operation de-
+pends entirely on pre-printed paper pull-tabs that can be (and 
+in fact are) played without the mechanical dispenser.  The 
+Lucky Tab II, in other words, cannot function without rolls of 
+paper pull-tabs.  The Tribes also emphasize that despite the 
+fact that the Lucky Tab II presents a video image of the 
+contents of the pull-tabs it dispenses, the machine does not 
+give the player the final word on the game;  players must still 
+peel off the top layer to verify its contents and present it to a 
+clerk to receive their winnings.  For all of these reasons, they 
+argue, the Lucky Tab II cannot be considered a facsimile of 
+the paper game of pull-tabs.
+
+     According to the government, because the machine mirrors 
+the traditional game played by purchasing cards from clerks, 
+it is a Class III facsimile, not a Class II aid.  The government 
+embraces the district court's description of the Lucky Tab II:  
+"When the participant plays the Lucky Tab II, she is not 
+playing the pull-tabs inside the machine;  she is engaging the 
+machine that replicates the functions of the traditional pull-
+tab game." Diamond Game, 9 F. Supp. 2d at 13, 20.  As to 
+the possibility that the information on the video screen might 
+be inaccurate, the government says mistakes are rare and for 
+all practical purposes, the Lucky Tab II is a duplicate of the 
+paper version.
+
+     Both sides claim support from Cabazon Band of Mission 
+Indians v. NIGC, 14 F.3d 633 (D.C. Cir. 1994).  There, we 
+held that a video pull-tabs game was a "computerized ver-
+sion" of pull-tabs and therefore a Class III facsimile.  The 
+machine "randomly selects a card for the gambler, pulls the 
+tab at the gambler's direction, and displays the result on the 
+screen.  The computer version, like the paper version, has a 
+fixed number of winning cards in each deal." Cabazon, 14 
+F.3d at 635.  Finding that video pull-tabs "exactly repli-
+cate[s]" the game of pull-tabs in computer form, Cabazon 
+concluded that it amounted to a facsimile of the game.  See 
+id.;  see also Sycuan Band of Mission Indians v. Roache, 54 
+F.3d 535, 541-42 (9th Cir. 1994) (holding that a self-contained 
+unit containing a computer linked to a video monitor and a 
+printer constitutes an electronic facsimile of pull-tabs).
+
+     We think the Lucky Tab II is quite different from the 
+machine at issue in Cabazon.  To begin with, the Lucky Tab 
+II is not a "computerized version" of pull-tabs.  Although the 
+Lucky Tab II has a video screen, the screen merely displays 
+the contents of a paper pull-tab.  Instead of using a computer 
+to select patterns, the Lucky Tab II actually cuts tabs from 
+paper rolls and dispenses them to players.  In other words, 
+the game is in the paper rolls, not, as in the case of the 
+Cabazon machine, in a computer.  Indeed, players using the 
+Lucky Tab II often play a deal simultaneously with other 
+players in the same hall who have chosen to purchase pull-
+tabs from clerks.  For players using the Lucky Tab II, the 
+machine functions as an aid--it "helps or supports," or "as-
+sists" the paper game of pull-tabs.  Webster's Third New 
+International Dictionary 44 (1993).  Without the paper rolls, 
+the machine has no gaming function at all.  It is, in essence, 
+little more than a high-tech dealer.  Viewed this way, the 
+game played with the Lucky Tab II is not a facsimile of paper 
+pull-tabs, it is paper pull-tabs.
+
+     Another difference between the Lucky Tab II and the video 
+machine at issue in Cabazon reinforces our belief that the 
+Lucky Tab II should be classified as a Class II aid.  The 
+
+Cabazon machine plays the game of pull-tabs in its entirety, 
+dispensing receipts for players to redeem winnings.  By 
+contrast, the Lucky Tab II dispenses actual paper pull-tabs 
+that players must peel and display to a clerk before they can 
+obtain prizes.  Although the machine's scanner apparently 
+commits few errors when reading paper pull-tabs, the fact 
+remains that unlike the Cabazon machine, the Lucky Tab II 
+is technically not final.  It is, in other words, an aid to the 
+game of pull-tabs.
+
+     Notwithstanding the differences between the Lucky Tab II 
+and the machine at issue in Cabazon, the government insists 
+that the Lucky Tab II is a Class III device.  At oral 
+argument, the government even asserted that removing the 
+video screen would not convert the Lucky Tab II into a Class 
+II aid.  Asked what in the government's view would be an 
+aid, counsel pointed us to an electronic scanner called the 
+"Tab Force Validation System."  As we understand this 
+device, after a clerk dispenses a paper pull-tab, instead of 
+peeling off the top layer, the player inserts the pull-tab into 
+the machine, which scans the bar code and displays the 
+results on a video screen.  The Commission has issued advi-
+sory opinions classifying the Tab Force and other similar 
+machines as Class II aids, concluding that the systems "sim-
+ply read the pull-tabs and display whether or not they are 
+winners....  [They] cannot change the outcome of the 
+game."  See NIGC Advisory Opinion, at 2 (June 8, 1998).
+
+     We see no principled difference between the Tab Force and 
+the Lucky Tab II.  Both devices electronically "read" paper 
+pull-tabs and display their contents on a screen, and neither 
+can "change the outcome of the game."  Unlike the machine 
+involved in Cabazon, neither contains an internal computer 
+that generates the game.  Rather, both machines facilitate 
+the playing of paper pull-tabs. They are thus Class II aids.
+
+     The government makes two additional arguments in sup-
+port of its position that the Lucky Tab II is a Class III 
+facsimile.  First, like the district court, it relies on language 
+from a Senate Indian Affairs Committee report describing a 
+Class II aid as a device that enables tribes to "take advantage 
+of modern methods of conducting class II games" by, for 
+
+example, "join[ing] with other tribes to coordinate their class 
+II operations and thereby enhance the potential of increasing 
+revenues."  S. Rep. No. 100-446, at 9 (1988).  Class II aids 
+are thus limited to devices that "merely broaden the potential 
+participation levels and [are] readily distinguishable from ... 
+electronic facsimiles in which a single participant plays a 
+game with or against a machine rather than with or against 
+other players." Id.  Unlike computers, cables, or telephone 
+lines that connect bingo games on different reservations--
+examples the Senate Report gives of aids that expand partic-
+ipation--the Lucky Tab II, the government argues, neither 
+increases participation levels nor enhances competition among 
+players.  Second, the government claims that the Lucky Tab 
+II makes it easier for players to play pull-tabs, thus increas-
+ing the potential for players to "lose the rent money."
+
+     These statutory interpretations, resting as they do on the 
+policy underlying IGRA, are interesting and might even be 
+worthy of Chevron two deference had they been offered by 
+the Commission.  But they come only from appellate coun-
+sel--indeed the "lose-the-rent" argument surfaced for the 
+first time at oral argument. Moreover, nothing in the Senate 
+Report suggests that an electronic device must link players 
+on different reservations to qualify as a Class II aid.  Accord-
+ingly, because of the similarities between the Lucky Tab II 
+and the Tab Force Validation System, which the Commission 
+has found to be a Class II aid, and because of the differences 
+between the Lucky Tab II and the Class III device at issue in 
+Cabazon, we reverse the district court and remand with 
+instructions to enter summary judgment for appellants.  In 
+view of this disposition, we have no need to address the 
+district court's denial of the Rule 60(b) motion.
+
+                                                            So ordered.
+          
+         

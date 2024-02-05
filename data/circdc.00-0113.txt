@@ -1,0 +1,554 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued March 13, 2000     Decided May 5, 2000 
+
+                           No. 99-1048
+
+                Environmental Defense Fund, et al 
+                           Petitioners
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+
+               Edison Electric Institute, et al., 
+                           Intervenors
+
+                            ---------
+
+                        Consolidated with 
+                           No. 99-1049
+
+           On Petitions for Review of an Order of the 
+                 Environmental Protection Agency
+
+     David R. Case argued the cause for petitioners. With him 
+on the briefs was Karen Florini.
+
+     Norman L. Rave, Jr., Attorney, U.S. Department of Jus-
+tice, argued the cause for respondent.  With him on the brief 
+were Lois J. Schiffer, Assistant Attorney General, and Alan 
+Carpien, Attorney, Environmental Protection Agency.  
+Christopher S. Vaden, Attorney, U.S. Department of Justice, 
+entered an appearance.
+
+     William K. Rawson, Claudia M. O'Brien, Douglas H. 
+Green, Steven J. Groseclose, David F. Zoll, Katheryn W. 
+Smith, Lynn L. Bergeson and Cara S. Jablon were on the 
+joint brief for intervenors Chemical Manufacturers Associa-
+tion, et al.
+
+     Before:  Silberman, Randolph and Rogers, Circuit Judges.
+
+       Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  The Environmental Defense Fund 
+("EDF") and the Environmental Technology Council ("ETC") 
+petition for review of a final determination by the Environ-
+mental Protection Agency ("EPA") not to add fourteen sol-
+vent wastes to its list of hazardous wastes under Subtitle C of 
+the Resource Conservation and Recovery Act of 1976 
+("RCRA"), as amended, 42 U.S.C. s 6921-6939b.  Petitioners 
+challenge two aspects of EPA's decision.  First, petitioners 
+contend that EPA made the scope of its listing rulemaking 
+narrower than is permissible under the plain language of 
+EPA's regulation governing such listing determinations.  
+EPA analyzed whether the wastes produced when each of the 
+fourteen chemicals is used as a solvent is hazardous.  Such 
+wastes usually consist of a number of constituent substances, 
+but EPA limited its inquiry to whether the presence of the 
+chemical solvent in the resulting waste was by itself a suffi-
+cient reason to list the waste as hazardous.  Petitioners 
+contend that EPA's regulation, 40 C.F.R. s 261.11(a)(3), 
+which refers to "any toxic constituent," imposed on EPA the 
+heavier burden of surveying the range of constituent sub-
+stances comprising the waste before deciding not to list such 
+wastes.  Second, under EPA's regulation, EPA is to gauge 
+
+the risks posed by a waste in part by considering plausible 
+mismanagement scenarios, and petitioners challenge EPA's 
+decision that wastes produced when one chemical, isophorone, 
+is used as a solvent could not plausibly be disposed of in a 
+landfill, maintaining that EPA lacked sufficient data to make 
+that decision, rendering it arbitrary.
+
+     We hold that because EPA's regulation is silent as to how 
+EPA must conduct its listing inquiry and because EPA 
+reasonably concluded that no wastes from the solvent use of 
+isophorone were, or were likely to be, disposed of in landfills, 
+EPA permissibly limited the scope of its rulemaking to the 
+toxicity of the solvents and conducted a reasonable evaluation 
+of plausible mismanagement scenarios for isophorone.  Ac-
+cordingly, we deny the petition for review.
+
+                                I.
+
+     Congress enacted Subtitle C of RCRA, 42 U.S.C. ss 6921-
+6939b, to establish a "cradle-to-grave" regulatory structure 
+providing for the safe treatment, storage, and disposal of 
+hazardous waste.  Natural Resources Defense Council v. 
+EPA, 25 F.3d 1063, 1065 (D.C. Cir. 1994).  Congress defined 
+"hazardous waste" broadly in RCRA,1 delegating to EPA the 
+
+__________
+     1 "Hazardous waste" is:
+     a solid waste, or combination of solid wastes, which because of 
+     its quantity, concentration, or physical, chemical, or infectious 
+     characteristics may-
+     
+          (A) cause, or significantly contribute to an increase in mor-
+     tality or an increase in serious irreversible, or incapacitating 
+     reversible, illness;  or
+     
+          (B) pose a substantial present or potential hazard to human 
+     health or the environment when improperly treated, stored, 
+     transported, or disposed of, or otherwise managed.
+     
+42 U.S.C. s 6903(5).  "Solid waste" is "any garbage, refuse, sludge 
+from a waste treatment plant, water supply treatment plant, or air 
+pollution control facility or other discarded material, including solid, 
+liquid, semisolid, or contained gaseous material resulting from 
+industrial, commercial, mining, and agricultural operations, and 
+from community activities...."  Id. s 6903(27).
+
+task of promulgating regulations identifying the characteris-
+tics of hazardous waste and listing specific wastes as hazard-
+ous.  Id.  Pursuant to this authority, EPA has promulgated 
+listing criteria to determine whether solid wastes are hazard-
+ous.  40 C.F.R. s 261.11.  Once listed as "hazardous," a 
+waste is subject to significant regulation.  See Columbia 
+Falls Aluminum Co. v. EPA, 139 F.3d 914, 915 (D.C. Cir. 
+1998);  American Petroleum Institute v. EPA, 906 F.2d 729, 
+733 (D.C. Cir. 1990) (citing 42 U.S.C. ss 6922-6925).
+
+     In 1984, Congress amended RCRA to require EPA to 
+decide by February 1986 whether to list "solvents" as haz-
+ardous wastes.  42 U.S.C. s 6921(e)(2).  When EPA did not 
+act promptly, EDF filed suit seeking an order directing EPA 
+to make a listing determination as to the hazardous nature 
+of certain solvents.  The result was a consent decree requir-
+ing EPA to "promulgate a final listing determination for 
+solvent wastes on or before May 31, 1997."2  The consent 
+decree specified that the "listing determination [was to] in-
+clude the following spent solvent wastes, still bottoms from 
+the recovery of the following solvents, and spent solvent 
+mixtures:  cumene, phenol, isophorone, acetonitrile, furfural, 
+epicholorohydrin, methyl chloride, ethylene dibromide, ben-
+zyl chloride, ... p-dichlorobenzene, ... 2-methoxyethanol, 
+2-methoxyethanol acetate, 2-ethoxyethanol acetate, and cy-
+clohexanol."3
+
+     The rulemaking under review is one of a series in which 
+EPA has considered whether wastes from the use of specified 
+chemicals as solvents should be listed as hazardous.  See 51 
+Fed. Reg. 6537 (1986);  45 Fed. Reg. 74,884 (1980).  To date, 
+EPA has listed wastes from solvent use of approximately 30 
+chemicals.  See 40 C.F.R. s 261.31, waste codes F001-F005.  
+EPA determined that it could rely on the methodology it had 
+used in the prior solvent rulemakings consistent with its 
+
+__________
+     2 The deadline was advanced one year on stipulation of EDF 
+and EPA.
+
+     3 EPA asserts in its brief that the chemicals at issue are not 
+general use solvents, but are used, if at all, in a variety of specialty 
+applications because of price and other characteristics.
+
+obligations under the consent decree.  See 63 Fed. Reg. 
+64372, 64373 (1998).
+
+     After conducting its preliminary analysis, EPA issued a 
+proposed rule on August 14, 1996, not to amend the solvent 
+waste listing in 40 C.F.R. s 261.31 to include the fourteen 
+solvent wastes.  61 Fed. Reg. 42,318, 42,138 (1996).  Relying 
+on its longstanding methodology, EPA stated that it was 
+examining the toxicity of the spent solvents only, as opposed 
+to any additional chemicals that might mix with the solvent to 
+form a larger waste stream.  See id. at 42,319-20.  EPA 
+explained that many of these solvent wastes are already 
+regulated as hazardous waste because they either exhibit a 
+hazardous waste characteristic or are mixed with other sol-
+vent wastes that are listed as hazardous.  Id. at 42,319.  EPA 
+further explained that in limiting the scope of its proposed 
+rule to "a determination only regarding the need for adding 
+these specific wastes to the RCRA hazardous waste listings 
+based on the specific criteria in the listing regulations," id. 
+(emphasis added), it was exercising its broad discretion under 
+RCRA and the consent decree "to reasonably define the 
+scope of the listing determination."  Id. at 42,320.  This 
+approach also was necessary as a practical matter, in EPA's 
+view, because of the ubiquity of "solvents" in general.  Id.  03 
+The proposed rule also identified the research and data 
+gathered by EPA to determine "plausible mismanagement 
+scenarios" for the solvents.  Id. at 42,320-49.
+
+     Petitioners filed comments objecting to the limited scope of 
+the proposed rule in view of the regulatory requirement to 
+consider "any" hazardous constituents listed in Appendix VIII 
+to 40 C.F.R. Part 261.4  Petitioners also argued that EPA had 
+failed to consider all plausible mismanagement scenarios.  
+Petitioners contended that because the universe of possible 
+solvent uses is too large to capture all mismanagement sce-
+narios through empirical study, EPA should have relied upon 
+
+__________
+     4 ETC noted a general objection that "the hazardous constitu-
+ents that are typically found in these solvents were not identified, 
+nor were the risks posed by multiple hazardous constituents evalu-
+ated."
+
+such "standard" mismanagement scenarios as those involving 
+land disposal even if EPA's particular research did not sug-
+gest the presence of such disposal methods.
+
+     In the final rule, EPA concluded that the solvents should 
+not be listed as hazardous wastes.  63 Fed. Reg. at 64,372.  
+EPA reiterated that it defined "spent solvent wastes" solely 
+in terms of the solvent constituents, and that in view of the 
+large number of potential solvent waste combinations, prac-
+tical necessity dictated this manner of proceeding.  Id. at 
+64,373-74, 64,383.  EPA defended its methodology for deter-
+mining plausible waste mismanagement scenarios, and 
+deemed implausible those management scenarios EDF as-
+serted to be "plausible."  Id. at 64,377-82, 64,383-85.  EDF 
+and ETC petition for review.
+
+                               II.
+
+     Petitioners contend that EPA acted inconsistently with its 
+regulation by limiting the scope of its rulemaking to solvents 
+only, and that EPA acted arbitrarily and capriciously by 
+relying on an industry-wide survey to identify plausible mis-
+management scenarios for solvent wastes.5  The first con-
+tention turns on petitioners' interpretation of EPA's listing 
+regulation;  the second is limited by petitioners' focus on 
+mismanagement scenarios for the solvent isophorone.
+
+__________
+     5 The court has jurisdiction to review EPA's determination not 
+to amend 40 C.F.R. s 261.31 to include any of the fourteen solvent 
+wastes under RCRA, 42 U.S.C. s 6976(a)(1), as a denial of a 
+petition.  The relevant petition is EDF's complaint in the district 
+court that led to the consent decree upon which EPA acted.  While 
+the court in American Portland Cement Alliance v. EPA, 101 F.3d 
+772 (D.C. Cir. 1996), rejected the view that comments submitted 
+during an agency initiated rulemaking constituted a petition for 
+purposes of s 7006(a) review of the agency's deferral of rulemaking, 
+id. 778-79, EDF's complaint in the district court led to the rulemak-
+ing proceeding in which EPA reached a non-listing decision, and 
+thus served the function of a petition that EPA denied, thereby 
+completing the regulatory process.  See id. 779.
+
+                                A.
+
+     EPA's listing regulation provides in pertinent part:
+
+     (a) The Administrator shall list a solid waste as a haz-
+     ardous waste only upon determining that the solid waste 
+     meets one of the following criteria:
+     
+          (1) It exhibits any of the characteristics of hazardous 
+     waste identified in subpart C.
+     
+          (2) It has been found to be fatal to humans in low 
+     doses or.... [has been shown through laboratory studies 
+     or otherwise to be capable of causing severe illness or 
+     death].
+     
+          (3) It contains any of the toxic constituents listed in 
+     appendix VIII and, after considering [certain enumerat-
+     ed] factors, the Administrator concludes that the waste is 
+     capable of posing a substantial present or potential haz-
+     ard to human health or the environment when improper-
+     ly treated, stored, transported or disposed of, or other-
+     wise managed....
+     
+40 C.F.R. s 261.11 (emphasis added).6  Petitioners focus on 
+the italicized language of subsection (3) as requiring EPA to 
+
+__________
+     6 EPA identified "enumerated factors" to be considered after 
+determining the presence of a toxic constituent in the waste as:
+          (i) The nature of the toxicity presented by the constituent.
+               (ii) The concentration of the constituent in the waste.
+               (iii) The potential of the constituent or any toxic degradation 
+     product of the constituent to migrate from the waste into the 
+     environment under the types of improper management consid-
+     ered in paragraph (a)(3)(vii) of this section.
+               (iv) The persistence of the constituent or any toxic degrada-
+     tion product of the constituent.
+               (v) The potential for the constituent or any toxic degradation 
+     product of the constituent to degrade into non-harmful constit-
+     uents and the rate of degradation.
+               (vi) The degree to which the constituent or any degradation 
+     product of the constituent bioaccumulates in ecosystems.
+     
+
+consider the presence of "any" hazardous constituents listed 
+in Appendix VIII to 40 CFR Part 261, not just the solvent 
+itself.  Petitioners also maintain that to conclude otherwise 
+would render meaningless the distinction between the routes 
+to listing provided in subsections (1) and (2), which focus on 
+the toxicity of the waste to be listed, and subsection (3), which 
+focuses on the existence of toxic constituents in the waste and 
+the potential for the waste to pose a health or environmental 
+hazard when improperly managed.  Further, because most of 
+the solvents at issue are not listed in Appendix VIII of Part 
+261, petitioners maintain that EPA cannot construe 
+s 261.11(a)(3), which refers to the presence of "toxic constitu-
+ents listed in appendix VIII", to mean that the chemical 
+solvent is the toxic constituent to be examined.  In addition, 
+petitioners contest EPA's view of the impracticality of exam-
+ining other toxic constituents potentially present in the sol-
+vent wastes.
+
+     The court is bound to accept " '[a]n agency's interpretation 
+of its own regulations ... unless it is plainly wrong.' "  Chem-
+ical Waste Management, Inc. v. EPA, 869 F.2d 1526, 1538-39 
+(D.C. Cir. 1989) (quoting General Carbon Co. v. Occupational 
+Safety and Health Review Comm'n, 860 F.2d 479, 483 (D.C. 
+Cir. 1988)).  See also, e.g., Natural Resources Defense Coun-
+cil v. EPA, 25 F.3d 1063, 1068-69 (D.C. Cir. 1994);  Hazard-
+ous Waste Treatment Council v. Reilly, 938 F.2d 1390, 1395 
+(D.C. Cir. 1991).  Especially "on 'a highly technical question 
+
+__________
+          (vii) The plausible types of improper management to which 
+     the waste could be subjected.
+     
+          (viii) The quantities of the waste generated at individual 
+     generation sites or on a regional or national basis.
+               (ix) The nature and severity of the human health and envi-
+     ronmental damage that has occurred as a result of the improp-
+     er management of wastes containing the constituent.
+     
+          (x) Action taken by other governmental agencies or regula-
+     tory programs based on the health or environmental hazard 
+     posed by the waste or waste constituent.
+     
+          (xi) Such other factors as may be appropriate.
+     
+40 C.F.R. s 261.11(a)(3).
+
+... courts necessarily must show considerable deference to 
+an agency's expertise.' "  Chemical Waste Management, 869 
+F.2d at 1539 (quoting MCI Cellular Tel. Co. v. FCC, 738 F.2d 
+1322, 1333 (D.C. Cir. 1984)).  We hold that EPA did not 
+clearly err in interpreting its listing regulation to require only 
+that it analyze the toxicity of the solvents, rather than other 
+constituents with which the solvents might be combined.
+
+     Petitioners' "plain language" and supporting contentions 
+are unpersuasive.  Subsection (3), on which petitioners rely, 
+merely provides a threshold that must be met before a listing 
+determination may be made on the basis of constituent con-
+tent:  that is, that "any" Appendix VIII constituent be present 
+in the waste.  40 C.F.R. s 261.11(a)(3).  And the distinction 
+relied on by petitioners between the three major listing 
+criteria in s 261(a) demonstrates only that EPA has given 
+itself the option of evaluating either toxic characteristics of 
+the waste as a whole, s 261(a)(1) and (2), or of specific 
+constituents within the waste, s 261(a)(3), and does not pre-
+clude the possibility that a waste may consist of one constitu-
+ent, much less that in a particular rulemaking EPA will focus, 
+pursuant to s 261(a)(3), on one constituent.7  That all of the 
+solvents are not listed in Appendix VIII does not demonstrate 
+error;  EPA points out that it is routine to add a waste to 
+Appendix VIII and simultaneously to list a waste as hazard-
+ous based on that constituent.  See Dithiocarbamate Task 
+Force v. EPA, 98 F.3d 1394, 1398 (D.C. Cir. 1996).8
+
+__________
+     7 Indeed, the consent decree defines the relevant "spent sol-
+vent" wastes as the solvents, mandating that EPA evaluate "the 
+following spent solvent wastes", and then listing the solvents alone.
+
+     8 Contrary to EPA's contention, petitioners' reference to the 
+legislative history of 1984 delisting legislation, 42 U.S.C. s 6921(f), 
+was properly raised in its reply brief in response to the statement in 
+EPA's brief that in amending RCRA in 1984 Congress was aware of 
+EPA's practice of making solvent listing determinations based 
+solely on the toxicity of the solvent.  Petitioners' legislative history 
+argument fails substantively, however, because delisting is different 
+from the imposition of reasonable restrictions on the scope of a 
+listing determination.
+
+     It is also significant that EPA does not purport to have 
+made a non-listing determination for specific solvent waste 
+combinations without having evaluated the toxicity of those 
+combinations;  to the contrary, EPA made clear that its 
+rulemaking concerns only the toxicity of the solvents.  See, 
+e.g., 63 Fed. Reg. at 64,383.  There is nothing to suggest that 
+EPA could not in the future examine specific solvent waste 
+combinations on the basis that the specific waste combina-
+tions as a whole are toxic;  many such wastes already are 
+listed due to the existence of toxic constituents other than the 
+solvent itself.  61 Fed. Reg. 42,319.  EPA thus not only did 
+not misinterpret its regulation, but did not abuse its discre-
+tion under its regulation.9
+
+                                B.
+
+     To the extent that petitioners contend that EPA's risk 
+analysis was flawed insofar as its study of "plausible misman-
+agement" scenarios was inadequate, petitioners focus only on 
+the solvent isophorone.  EPA's approach, as illustrated by its 
+examination of isophorone, involved gathering data on those 
+industry categories (known as "standard industry classifica-
+tions", or "SIC"s) that might include facilities that use isopho-
+rone as a solvent, mailing preliminary questionnaires to facili-
+ties within those SICs, and then mailing more detailed, 
+
+__________
+     9 Merely disputing EPA's evaluation of the impracticality of 
+examining what presently is an unknown number of solvent waste 
+combinations, as petitioners do, is not the same as demonstrating 
+that EPA abused its discretion to limit the scope of its rulemaking 
+under s 261.11(a)(3).  Because we conclude that EPA did not abuse 
+its discretion in analyzing only the solvents, we need not be 
+detained by EPA's contention that petitioners failed in their initial 
+brief to make an "arbitrary and capricious" challenge but relied 
+instead on the broader contention that EPA had acted contrary to 
+its listing regulation.
+
+"Section 3007"10 questionnaires to those facilities for whom 
+follow-up was warranted.  Contending that EPA's initial liter-
+ature search was insufficiently thorough to target all relevant 
+SICs, petitioners argue first, that a number of isophorone 
+users were discovered through "pure serendipity" when they 
+were mailed surveys for other reasons, and that there thus is 
+no way of knowing how many remaining isophorone users 
+exist, and second, that EPA has not accounted for all known 
+domestic and imported quantities of isophorone in the United 
+States.  More fundamentally, petitioners assert that the at-
+tempt to conduct a comprehensive industry survey was flawed 
+from the beginning, and that a "random sampling" would 
+have been a preferred approach, because the solvents are 
+potentially used by so many facilities in so many different 
+industries.  As a result, petitioners conclude, EPA mistakenly 
+assumed that it had isolated all potential isophorone misman-
+agement scenarios and improperly disregarded the "presump-
+tive" mismanagement scenario of landfill disposal on the basis 
+that this scenario did not match EPA's empirical data.
+
+     Upon considering petitioners' challenge to EPA's methodol-
+ogy, we hold that petitioners fail to show that EPA's action 
+was "arbitrary, capricious, an abuse of discretion, or other-
+wise not in accordance with law."  5 U.S.C. s 706(2)(A).  
+Rather, EPA's "reasons and policy choices ... conform to 
+'certain minimal standards of rationality'...."  Small Refin-
+er Lead Phase-Down Task Force v. EPA, 705 F.2d 506, 520-
+21 (D.C. Cir. 1983) (citation omitted).  See also, e.g., Citizens 
+
+__________
+     10 The "RCRA s 3007 Solvent Use Questionnaire" was more 
+detailed than EPA's preliminary questionnaire, and concerned the 
+use of twenty-one chemicals as solvents, including the fourteen 
+chemicals at issue here.  EPA sent the s 3007 questionnaire to 
+approximately 10% of the facilities to whom the preliminary ques-
+tionnaire had been sent, given the responses from most facilities 
+indicating either a lack of use of the chemicals as solvents, or small 
+volume of use.
+
+to Preserve Overton Park, Inc. v. Volpe, 401 U.S. 402, 416 
+(1971).  EPA has demonstrated that a landfilling "presump-
+tion" did not necessarily apply in the case of isophorone.  
+Rather, EPA concluded that the high organic content of 
+isophorone found in EPA's survey called for a presumption of 
+thermal treatment, such as incineration, combustion in a 
+boiler, or fuel blending, given the fuel value of organic waste 
+and the potential for liability arising from landfilling organic 
+matter.11  See 61 Fed. Reg. at 42,345;  63 Fed. Reg. at 64,384-
+85;  59 Fed. Reg. 66,072, 66,074 (1994).  EPA employed a 
+reasonable methodology in reaching this conclusion, both in 
+analyzing isophorone data to determine the high organic 
+content of the solvent, and in analyzing isophorone treatment 
+to compare the presumptive thermal treatment of organic 
+waste with the empirical reality of isophorone's disposal.  
+While petitioners maintain that EPA's literature search was 
+incomplete, EPA's decision to review the relevant literature 
+to identify uses of isophorone by SIC code, and to limit its 
+review of the publication Chemical Abstracts to a four-year 
+period, was well within its discretion.  As EPA pointed out, 
+isophorone solvent use is extremely limited, and it is highly 
+unlikely that a process that is still in use today would not be 
+reported in recent publications.  A four-year research limita-
+tion thus was a reasonable choice for EPA to make.  Similar-
+ly, petitioners fail to show that EPA's methodology for com-
+piling a facilities mailing list, which involved cross-referencing 
+the SIC codes relevant to isophorone with other EPA data 
+sources, was not reasonably designed to identify and contact 
+
+__________
+     11 The only wastes for which EPA's research indicated that 
+landfilling might be a plausible management scenario were sludge 
+from biological treatment and ash from combustion.  63 Fed. Reg. 
+at 64,384.  Because biological treatment and combustion are effec-
+tive in destroying solvents, EPA could reasonably conclude that 
+these residuals contained at most a de minimis amount of solvent, 
+and thus would not pose a sufficient solvent-based risk to warrant 
+listing.  Id.
+
+those facilities utilizing isophorone as a solvent.  Such cross-
+referencing between the relevant SIC codes and EPA's Toxic 
+Release Inventory ("TRI") for all facilities reporting the use 
+of other TRI chemicals marks a thorough approach to scan-
+ning across facilities to determine possible isophorone users 
+that would not otherwise be located.  While there may be 
+other ways to approach the task that EPA identified, EPA's 
+approach was not arbitrary.
+
+     Furthermore, regarding petitioners' contention that EPA 
+overlooked many isophorone-using facilities that were later 
+identified through "pure serendipity", EPA points out that all 
+of the facilities responding to its initial survey that claimed to 
+use isophorone as a solvent were either included in the 
+targeted SIC codes or mistakenly responded where their use 
+of isophorone did not meet the definition of solvent use.12  
+Similarly, a number of responses to the final survey mistak-
+enly claimed non-solvent uses of isophorone, and hence the 
+final number of reported responses differs from the number 
+originally identified as potential survey recipients.  More 
+fundamentally, petitioners have provided no basis on which 
+the court can conclude that "random sampling" would have 
+produced more accurate data.  So far as we can tell from 
+petitioners' succinct statement, the advantage of random sam-
+pling arises from the fact that it purports to do no more than 
+to gather representative facts from which to draw logical 
+presumptions as to management scenarios, whereas EPA's 
+"industry survey" risks analytical rigidity where the survey 
+falls short of its task.  However, EPA did no more than draw 
+the logical conclusion of presumptive thermal treatment from 
+the high organic content of the isophorone wastes surveyed, a 
+conclusion confirmed by empirical waste treatment data and 
+
+__________
+     12 The mistaken responses of non-solvent isophorone use are 
+recorded in telephone logs and other background documents.
+
+thus supporting the reasonableness of EPA's methodology.13
+
+     Accordingly, we deny the petition for review.
+
+__________
+     13 For similar reasons, petitioners' argument that EPA might 
+not have accounted for all isophorone produced or imported into the 
+United States is a red herring.  Even if EPA's survey did not 
+account for all isophorone used as a solvent in the United States, its 
+methodology provided a reliable approximation thereof, and thus a 
+sound basis on which to presume plausible mismanagement scenar-
+ios from the high organic content of the isophorone surveyed, and to 
+check that presumption against empirical data.  In any event, 
+petitioners concede EPA's point that the term "consumption" in the 
+Chemical Economics Handbook--the value of which EPA's analysis 
+was based on--includes imports to the United States.  While peti-
+tioners argue that EPA's consumption figure is unlikely, as it would 
+require United States import and export figures to match, it offers 
+no evidence to suggest that the figure is incorrect.
+
+                               

@@ -1,0 +1,649 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued October 7, 1999     Decided April 14, 2000 
+
+                           No. 98-1294
+
+           Connecticut Valley Electric Company, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+          Granite State Hydropower Association, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     James H. McGrew argued the cause and filed the briefs for 
+petitioner.
+
+     Beth G. Pacella, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+
+the brief were Jay L. Witkin, Solicitor, and John H. Conway, 
+Deputy Solicitor.
+
+     Earle H. O'Donnell, Donna M. Attanasio, Laurel W. 
+Glassman, Margaret A. Moore, and Howard E. Shapiro were 
+on the brief for intervenors Westmoreland-LG & E Partners 
+and Wheelabrator Claremont Company, L.P.  Allan W. 
+Anderson, Jr., and David B. Ward entered appearances for 
+intervenor Granite State Hydropower Association.
+
+     Before:  Ginsburg, Rogers, and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  Connecticut Valley Electric Com-
+pany, a local distribution company serving some 10,000 cus-
+tomers in New Hampshire and Vermont, petitions for review 
+of two orders of the Federal Energy Regulatory Commission 
+denying Connecticut Valley any relief against a power pro-
+ducing facility that violated s 3(17)(C)(ii) of the Federal Pow-
+er Act (FPA).  Connecticut Valley claims the Commission's 
+orders violate s 210 of the Public Utility Regulatory Policies 
+Act of 1978 (PURPA), and that the Commission is required 
+by s 3(17)(C)(ii) of the FPA to revoke the facility's status as a 
+"Qualifying Facility" (QF), or alternatively that the Commis-
+sion's refusal to revoke the facility's QF status or to provide 
+any other relief is an abuse of the agency's remedial discre-
+tion.
+
+     We hold that we are without jurisdiction to address Con-
+necticut Valley's claim arising under s 210 of the PURPA.  
+We reject Connecticut Valley's claim that s 3(17)(C)(ii) of the 
+FPA requires the Commission to revoke the facility's QF 
+status, and we conclude that the Commission's decision to 
+deny any relief was a valid exercise of its remedial discretion.  
+We therefore deny the petition for review.
+
+                          I. Background
+
+     The Congress enacted Title II of the PURPA, Pub. L. No. 
+95-617, 92 Stat. 3117, 3134 (1978), in an effort to encourage 
+the development of cogeneration and small power production 
+facilities.  A "cogeneration facility" produces both electric 
+
+energy and steam or some other form of usable energy, 16 
+U.S.C. s 796(18)(A);  a "small power production facility" pro-
+duces less than 80 megawatts of electricity using biomass, 
+waste, renewable resources, or geothermal resources as the 
+primary energy source, id. s 796(17)(A).  The Supreme Court 
+described s 210 of the PURPA in FERC v. Mississippi, 456 
+U.S. 742, 750-51 (1982) (citations omitted):
+
+          ... [Congress] felt that two problems impeded the 
+     development of nontraditional generating facilities:  (1) 
+     traditional electricity utilities were reluctant to purchase 
+     power from, and to sell power to, the nontraditional 
+     facilities, and (2) the regulation of these alternative ener-
+     gy sources by state and federal utility authorities im-
+     posed financial burdens upon the nontraditional facilities 
+     and thus discouraged their development.
+     
+          In order to overcome the first of these perceived 
+     problems, s 210(a) directs FERC ... to promulgate ... 
+     rules requiring utilities to offer to sell electricity to, and 
+     purchase electricity from, qualifying cogeneration and 
+     small power production facilities....
+     
+          To solve the second problem perceived by Congress, 
+     s 210(e), 16 U.S.C. s 824a-3(e), directs FERC to pre-
+     scribe rules exempting the favored cogeneration and 
+     small power facilities from certain state and federal laws 
+     governing electricity utilities.
+     
+In order to secure these benefits to qualifying cogeneration 
+and small power production facilities--so-called Qualifying 
+Facilities, or QFs--the Commission has promulgated the 
+following regulations, respectively:  18 C.F.R. ss 292.303-305, 
+which require an electric utility to sell to a QF electricity for 
+use in its operations at regulated tariff rates and to buy the 
+QF's output at the utility's "avoided cost";*  and 18 C.F.R. 
+
+__________
+     * PURPA s 210(b), 16 U.S.C. s 824a-3(b), caps the total amount 
+a utility may be required to pay for purchases from a QF at 
+"incremental cost," also called "full avoided cost," American Paper 
+Inst., Inc. v. American Elec. Power Serv. Corp., 461 U.S. 402, 404 
+(1983), which is defined as "the cost to the electric utility of the 
+electric energy which, but for the purchase from such cogenerator 
+
+ss 292.601-602, which exempt a QF from the Public Utility 
+Holding Company Act of 1935, 15 U.S.C. s 79 et seq., most 
+state regulation as a public utility, and much of the FPA.  A 
+small power producer (SPP) is a QF only if it (1) meets 
+various Commission requirements respecting fuel use, fuel 
+efficiency, and reliability, 16 U.S.C. s 796(17)(C)(i) and (2) "is 
+... not primarily engaged in the generation or sale of electric 
+power (other than electric power solely from cogeneration 
+facilities or small power production facilities)," id. 
+s 796(17)(C)(ii).
+
+     A.   Regulatory Background:  Gross Versus Net Output
+          
+     There are two ways of measuring the power production 
+capacity of a QF:  one looks to gross output, which is all 
+electricity produced by the facility, the other to net output, 
+which is gross output less the electricity used in the QF's own 
+operations.  The distinction is important because many QFs 
+purchase their internal operating needs at tariffed rates from 
+the electric utility to which they sell their output, which the 
+utility is required to buy at the utility's full avoided cost.  If 
+the QF were allowed to sell its gross output to the electric 
+utility at full avoided cost, then it would in effect be selling 
+back at a significant markup the quantum of electricity it 
+purchased from the utility for its internal operating needs.
+
+     In 1991, the Commission for the first time addressed 
+whether a facility that sold its gross output would lose its 
+
+__________
+or small power producer, such utility would generate or purchase 
+from another source," s 210(d), 16 U.S.C. s 824a-3(d).  In promul-
+gating regulations to implement s 210, the Commission adopted 
+this statutory cap as the amount a utility would be required to pay 
+for all purchases from a QF.  See 18 C.F.R. s 292.304(b)(2).  In 
+other words, the Commission set the rate at the maximum level.  
+The Supreme Court approved in American Paper, 461 U.S. at 417.
+
+ Calculation of the full avoided cost rate is complicated.  See 18 
+C.F.R. s 292.304(e).  For purposes of this petition the important 
+point is that the rate that a QF can require a utility to pay is almost 
+always higher than the regulated tariff rate at which the QF can 
+purchase from the utility electricity for its internal operating needs.
+
+status as a QF because it would no longer be, as required by 
+s 3(17)(C)(ii),* "not primarily engaged in the generation or 
+sale of electric power (other than electric power solely from 
+cogeneration facilities or small power production facilities)."  
+Turners Falls Ltd. Partnership, 55 FERC p 61,487.  The 
+Commission began by recognizing that s 3(17)(C)(ii) is ambig-
+uous:  If a utility provides a QF with power for its operations 
+through one line, and the QF provides its gross output back 
+to the utility through a separate line, then in one sense 
+(namely, the physical) the QF is selling only electricity "solely 
+from cogeneration or small power production facilities" and 
+the requirement of s 3(17)(C)(ii) is satisfied;  in another 
+(namely, the economic) sense, however, the QF is selling back 
+to the utility electricity that was generated by the utility, in 
+violation of that section.  See id. at 62,668.
+
+     In light of this ambiguity and the broad discretion the 
+Congress granted the Commission in s 3 of the FPA to 
+determine the requirements for QF certification, the Commis-
+sion concluded that it could lawfully interpret the statute 
+either to allow or to preclude a QF's sale of its gross output.  
+See id. at 62,669.  In the end, however, the Commission 
+decided that the policies of the PURPA are served better if 
+the statute is read to say that a facility that sells its gross 
+output is not a QF.  See id. at 62,671.
+
+     B.   Procedural Background:  Petition to Revoke Clare-
+          mont's QF Status
+          
+     Wheelabrator Claremont Company (hereinafter Claremont) 
+operates an SPP facility in Claremont, NH.  In 1983 the New 
+Hampshire Public Utilities Commission approved a settle-
+ment agreement among Connecticut Valley, Claremont 
+(through its predecessor in interest), and the NHPUC's own 
+
+__________
+     * Turners Falls actually addressed a cogenerator's status as a 
+QF pursuant to s 3(18)(B)(ii).  Section 3(17)(C)(ii), which applies to 
+SPPs, and s 3(18)(B)(ii), which applies to cogenerators, are identi-
+cal;  the parties agree that the Commission's interpretation of 
+s 3(18)(B)(ii) in Turners Falls applies to both provisions.  For the 
+sake of consistency, therefore, we refer to s 3(17)(C)(ii) throughout 
+this opinion.
+
+staff.  See In re New Hampshire/Vermont Solid Waste Pro-
+ject, DR 82-343, Order No. 16,232, 68 NHPUC 96.  The 
+settlement, as embodied in a contract executed between Con-
+necticut Valley and Claremont and approved by the NHPUC 
+in 1984, provided that Connecticut Valley would purchase the 
+"entire electrical output" of Claremont's proposed SPP facili-
+ty for 20 years at Connecticut Valley's full avoided cost (of 
+nine cents per kWh, adjusted for inflation) while simulta-
+neously providing Claremont with its needs for electricity in 
+its operations, at Connecticut Valley's consolidated tariff rate, 
+which has proven to be less than the adjusted contract rate.  
+Claremont applied to the Commission for QF certification, 
+representing that its output would be 4.5 MW but it did not 
+specify whether that was its gross or net output.  The 
+Commission certified the Claremont facility as a QF in 1986, 
+and in 1987 Claremont began selling to Connecticut Valley its 
+gross electrical output of 4.5 MW.
+
+     In 1993 Claremont, in response to an inquiry from the 
+NHPUC, reported that its gross output was 4.5 and its net 
+output 3.9 MW.  Connecticut Valley then asked the NHPUC 
+to investigate whether Claremont qualified as a QF in view of 
+its having sold its gross output.  Instead, the NHPUC, noting 
+that the FERC has exclusive jurisdiction over the decertifica-
+tion of a QF, ordered Connecticut Valley to petition the 
+Commission for revocation of Claremont's QF status.  See In 
+re Connecticut Valley, DR 93-196, Order No. 21,000 
+(NHPUC Oct. 18, 1993).
+
+     Connecticut Valley duly filed a complaint with the Commis-
+sion seeking revocation of Claremont's QF status based upon 
+Claremont's sales of gross output and its alleged misrepre-
+sentations to the Commission in applying for QF status.  
+Connecticut Valley further requested that, once Claremont's 
+QF status was revoked, the Commission take jurisdiction over 
+Connecticut Valley's contract with Claremont pursuant to 
+ss 205-206 of the FPA and either rescind the contract and 
+retroactively determine just and reasonable rates for past 
+sales, or at least prospectively reform the contract so that 
+Connecticut Valley need purchase only Claremont's net out-
+put.
+
+     Although the Commission agreed with Connecticut Valley 
+that Claremont could not be a QF because its gross sales took 
+it outside the rule of s 3(17)(C)(ii), the Commission denied 
+Connecticut Valley any relief.  See Connecticut Valley Elec. 
+Co. v. Wheelabrator Claremont Co., 82 FERC p 61,116, at 
+61,422 (1998).  The Commission explained that the statute is 
+ambiguous and could be read to allow gross sales by a QF.  
+Not until Turners Falls, the Commission concluded, had it 
+made clear that gross sales would violate s 3(17)(C)(ii) and 
+thus preclude QF status.  See id. at 61,418.  Noting, however, 
+that many QFs had in good faith entered into long-term 
+contracts for the sale of their gross output, and not wanting 
+to upset their settled expectations, the Commission adopted a 
+remedial policy that was only partially retroactive:  "We will 
+... revoke the QF status of any facility which sells in excess 
+of its net output pursuant to a contract entered into after the 
+date of issuance of Turners Falls."  Id. at 61,420.  Because 
+the Claremont contract predated Turners Falls, the Commis-
+sion declined to revoke Claremont's QF status or to take any 
+other remedial action.  See id. at 61,422.
+
+     Connecticut Valley petitioned for rehearing, arguing that 
+s 3(17)(C)(ii) is not ambiguous and therefore the Commission 
+should have decertified Claremont or provided Connecticut 
+Valley some alternative relief for Claremont's acknowledged 
+violation of the statute.  The Commission denied rehearing, 
+83 FERC p 61,136 (1998), and Connecticut Valley petitioned 
+this court for review of both Commission orders.
+
+                           II. Analysis
+
+     Connecticut Valley and the Commission agree that under 
+s 3(17)(C)(ii) of the FPA an SPP that sells more than its net 
+output, as Claremont does, cannot be a QF.  The Commission 
+maintains that it may nonetheless refuse to revoke Clare-
+mont's QF status and may deny Connecticut Valley any 
+alternative relief.  Connecticut Valley claims that the Com-
+mission's refusal to revoke Claremont's QF status or to 
+provide some alternative relief violates s 210 of the PURPA 
+
+and s 3(17)(C)(ii) of the FPA, and is an abuse of the Commis-
+sion's remedial discretion.
+
+     A.   Section 210 of the PURPA
+          
+     Connecticut Valley claims that under the challenged orders 
+it is required to pay Claremont more for electricity than the 
+lawful maximum established by s 210 of the PURPA, that is, 
+its full avoided cost.  The matter is less than straightforward 
+because s 210 actually caps the total amount (not just the per 
+unit rate) a utility is required to pay a QF for electricity:  the 
+utility can be required to pay no more than "the cost to the 
+electric utility of the electric energy which, but for the 
+purchase from such cogenerator or small power producer, 
+such utility would generate or purchase from another source."  
+16 U.S.C. s 824a-3(d).  Connecticut Valley claims its contract 
+with Claremont requires it to purchase Claremont's gross 
+output, whereas but for the purchase from Claremont, Con-
+necticut Valley would need to generate or purchase electricity 
+equal only to Claremont's net output.  Thus the Commission's 
+refusal to revoke Claremont's QF status and reform the 
+contract requires Connecticut Valley to pay more than its full 
+avoided cost.
+
+     Although neither party raised this issue in their briefs, we 
+asked the parties to address at oral argument whether we 
+have jurisdiction to adjudicate in the first instance a dispute 
+arising under s 210.  See New York State Electric & Gas 
+Corp. v. FERC, 117 F.3d 1473, 1477 (D.C. Cir. 1997);  Niaga-
+ra Mohawk Power Corp. v. FERC, 117 F.3d 1485, 1489 (D.C. 
+Cir. 1997).  The Commission takes the position that we do 
+not.  Connecticut Valley replies with a variety of arguments, 
+none of which is responsive to the Commission's jurisdictional 
+argument.
+
+     We agree with the Commission that New York State Elec-
+tric and Niagara Mohawk control this case.  Section 210 sets 
+up an elaborate enforcement scheme in which the roles of the 
+Commission, the state public utility commissions (PUCs), and 
+the federal courts are specifically delineated.  Under 
+s 210(a), the Commission is required to promulgate regula-
+tions governing utilities' purchases of electricity from QFs, 
+
+including regulations implementing the statutory cap under 
+ss 210(b)-(d).  16 U.S.C. ss 824a-3(a), (b), (d).  The state 
+PUCs are then required (by s 210(f), 16 U.S.C. s 824a-3(f)) 
+to implement the Commission's regulations.  If a PUC fails to 
+implement the regulations, the Commission may bring an 
+enforcement action against that PUC in federal district court.  
+Alternatively, if a private party petitions the Commission to 
+initiate an enforcement action against a PUC and the Com-
+mission declines, then that party may itself sue the PUC in 
+federal district court to force implementation of the regula-
+tions.  See s 210(h)(2), 16 U.S.C. s 824a-3(h)(2);  see also 
+New York State Electric, 117 F.3d at 1476.
+
+     Thus, when Connecticut Valley says that s 210 "requires 
+FERC to cap QF rates at full avoided cost," it is correct only 
+in the limited sense that the Commission is required to 
+promulgate regulations to that effect.  The Commission satis-
+fied that obligation when it promulgated 18 C.F.R. 
+s 292.304(a)(2), which limits the cost at which a utility pur-
+chases power from an SPP at an amount equal to the utility's 
+full avoided cost.  The Commission's only obligations under 
+s 210 are the promulgation and periodic revision of these 
+regulations and of the exemption regulations required by 
+s 210(e);  therefore, the Commission's decision not to take 
+any action in response to Claremont's apparent violation of 
+s 3(17)(C)(ii) cannot be a violation of s 210 by the Commis-
+sion.  The Commission has in effect merely "announced the 
+position ... it would take in any future enforcement action 
+that [Connecticut Valley] might bring," New York State Elec-
+tric, 117 F.3d at 1476, namely, that it will not seek to remedy 
+violations of s 210 arising from Claremont's sale of gross 
+output under a contract entered into prior to the Commis-
+sion's decision in Turners Falls.
+
+     Connecticut Valley may have a valid claim that the 
+NHPUC has violated s 210 by approving a contract that 
+requires Connecticut Valley to purchase gross output and 
+therefore to pay more than the utility's full avoided cost.  As 
+we have said before, "[t]he failure of a state commission to 
+ensure that a rate does not exceed a utility's avoided cost is a 
+failure to comply with a [Commission] regulation implement-
+
+ing the PURPA," which "would ordinarily be challenged 
+through an enforcement action brought in district court under 
+s 210(h)."  Id.  Based upon the Commission's position as 
+stated in the orders under review, that agency would presum-
+ably decline to bring an enforcement action if Connecticut 
+Valley petitioned it to do so;  and its declination would clear 
+the way for Connecticut Valley to bring its own enforcement 
+action in district court.
+
+     If this court, in the guise of reviewing the Commission's 
+present no-action position, were to address the question 
+whether the petitioner's contract with Claremont violates 
+s 210, then we would "usurp the role of the district court as 
+the court of first instance, contrary to the enforcement 
+scheme adopted by the Congress in s 210(h) of the PURPA."  
+Industrial Cogenerators v. FERC, 47 F.3d 1231, 1235 (D.C. 
+Cir. 1995).  Therefore, we conclude we are without jurisdic-
+tion to address Connecticut Valley's claim arising under 
+s 210.  See id. at 1236;  New York State Electric, 117 F.3d at 
+1477;  Niagara Mohawk, 117 F.3d at 1489.
+
+     B.   Section 3(17)(C)(ii) of the FPA
+          
+     Connecticut Valley next challenges the Commission's deci-
+sion to grandfather contracts entered into prior to its decision 
+in Turners Falls and therefore not to revoke Claremont's QF 
+status.  Connecticut Valley claims that in view of the clear 
+congressional decision in FPA s 3(17)(C)(ii) that an SPP 
+selling more than its net output is not within the definition of 
+a QF, "the Commission lack[s] the discretion to grandfather 
+any QF contracts requiring utilities to purchase a QF's gross 
+output."
+
+     In order to establish that the Commission has no remedial 
+discretion, Connecticut Valley must demonstrate not only that 
+Claremont's sale of gross output violates s 3(17)(C)(ii), but 
+also that the Commission is required to apply the revocation 
+rule of Turners Falls to contracts predating that decision.  
+The first point is moot, for the Commission agrees that 
+Claremont is in violation of the statute.  The second point is 
+the difficult one for Connecticut Valley because "the breadth 
+of agency discretion is, if anything, at [its] zenith when the 
+
+action assailed relates primarily not to the issue of ascertain-
+ing whether conduct violates the statute, or regulations, but 
+rather to the fashioning of policies, remedies and sanctions."  
+Niagara Mohawk Serv. Corp. v. FPC, 379 F.2d 153, 159 (D.C. 
+Cir. 1967);  Louisiana Public Power Comm'n v. FERC, 174 
+F.3d 218, 225 (D.C. Cir. 1999).  In other words, the Commis-
+sion ordinarily has remedial discretion, even in the face of an 
+undoubted statutory violation, unless the statute itself man-
+dates a particular remedy.  See, e.g., Towns of Concord, 
+Norwood, & Wellesley v. FERC, 955 F.2d 67, 72-73, 76 n.8 
+(D.C. Cir. 1992).
+
+     Section 3(17)(C)(ii) does not expressly specify a particular 
+remedy for the violation of its terms.  Compare National 
+Insulation Transp. Comm. v. ICC, 683 F.2d 533, 537-38 (D.C. 
+Cir. 1982) (ICC would lack remedial discretion for certain 
+rate violations because 49 U.S.C. s 10707(d)(1) (1982) ex-
+pressly mandates refund).  Connecticut Valley argues, none-
+theless, that s 3(17)(C)(ii) unambiguously defines the require-
+ments for status as a QF, and the Commission must carry out 
+this clear congressional command by denying QF status to 
+any facility that does not fit the bill.
+
+     We reject this claim because, contrary to the petitioner's 
+premise, s 3(17)(C)(ii) is not unambiguous.  As the Commis-
+sion first recognized in Turners Falls, when electricity sales 
+between a QF and a utility are analyzed from a physical 
+perspective, s 3(17)(C)(ii) can reasonably be interpreted to 
+allow a QF to sell its gross output.  See Turners Falls, 55 
+FERC at 62,668.  Based upon this ambiguity, the Commis-
+sion, as the agency charged with administering the FPA, 
+determined that it had discretion to interpret the statute as 
+allowing or precluding the sale of gross output by a QF;  it 
+then determined that the interpretation more in keeping with 
+the purpose of the Act prohibits such sales.  Both interpreta-
+tions of s 3(17)(C)(ii) are self-evidently reasonable in the face 
+of this ambiguity, and Connecticut Valley raises no legal 
+principle that would require the Commission--despite the 
+severe impact upon both the settled expectations of private 
+parties and the governmental interest in encouraging the 
+development of nontraditional generating facilities--to apply 
+
+retroactively the interpretation of s 3(17)(C)(ii) it ultimately 
+adopted in Turners Falls.  Cf. Clark-Cowlitz Joint Operating 
+Agency v. FERC, 826 F.2d 1074, 1081 (D.C. Cir. 1987) (en 
+banc) (private and governmental interests may overcome 
+"general principle [that agency] may apply ... new interpre-
+tation" retroactively).  In light of the ambiguity of 
+s 3(17)(C)(ii) and the absence of a specific remedial command 
+from the Congress, we conclude that the Commission retains 
+remedial discretion to decide whether to revoke Claremont's 
+status as a QF.
+
+     C.   Abuse of Remedial Discretion
+          
+     Because we conclude that the Commission has discretion 
+with respect to remedying Claremont's violation of 
+s 3(17)(C)(ii), Connecticut Valley is remitted to challenging 
+the Commission's exercise of that discretion, which we review 
+only for abuse.  See Louisiana Public Serv. Comm'n v. 
+FERC, 174 F.3d 218, 225 (D.C. Cir. 1999).  An agency abuses 
+its remedial discretion if its decision "conflicts with the 'core 
+purpose[]' " of the statute it administers, Towns of Concord, 
+955 F.2d at 74 (quoting Maislin Indus., Inc. v. Primary 
+Steel, Inc., 497 U.S. 116, 133 (1990)), or if it is not "otherwise 
+reasonable," that is, based upon a reasonable accommodation 
+of all the relevant considerations and not inequitable under 
+the circumstances.  Towns of Concord, 955 F.2d at 75-76;  see 
+also Koch Gateway Pipeline Co. v. FERC, 136 F.3d 810 (D.C. 
+Cir. 1998);  Laclede Gas Co. v. FERC, 997 F.2d 936 (D.C. Cir. 
+1993).  Insofar as the Commission's remedial decision is 
+based upon factual determinations, they must be supported 
+by substantial evidence in the record.  See 16 U.S.C. 
+s 825l(b);  Louisiana Public Serv. Comm'n, 174 F.3d at 225.
+
+     Connecticut Valley argues that the Commission's decision 
+not to revoke Claremont's QF status or to provide any 
+alternative relief is an abuse of discretion for a number of 
+reasons.  First, Connecticut Valley claims the decision direct-
+ly conflicts with all three statutory purposes expressed in 
+s 101 of the PURPA, to wit, "conservation of energy," "op-
+timization of [electric utility] efficiency," and "equitable rates 
+to electric consumers."  16 U.S.C. s 2611.
+
+     As the Commission properly notes, however, s 101 applies 
+only to Title I of the PURPA, whereas QF status is a 
+creature of Title II.  And the Supreme Court has said that 
+the core purpose of Title II is "to encourage the development 
+of cogeneration and small power production facilities" by 
+addressing "problems imped[ing] the development of nontrad-
+itional generating facilities."  FERC v. Mississippi, 456 U.S. 
+at 750.  In other words, Title II reflects, predominantly, 
+solicitude for certain types of producers rather than for the 
+consumers who must pay their rates.  Accordingly, the Com-
+mission deemed it material in the orders under review that 
+"many QFs ... have entered into contracts which require[ ] 
+or permit[ ] the ... sale of gross output."  82 FERC at 
+61,419.  Revoking the QF status of those facilities, or altering 
+their "obligations and responsibilities under[ ] such executed 
+PURPA sales contracts," id. at 61,420, would undercut the 
+purpose of the Congress in Title II to encourage the develop-
+ment of these nontraditional generating facilities.  We see no 
+conflict, therefore, between the Commission's exercise of re-
+medial discretion and the relevant statutory purpose.
+
+     Nor can we accept Connecticut Valley's second argument, 
+which is that the Commission's failure even to consider harm 
+to consumers was an abuse of discretion.  According to 
+Connecticut Valley, s 210(b) of the PURPA expressly re-
+quires the Commission to balance the interests of consumers 
+against those of producers, thus:
+
+     The rules prescribed under subsection (a) of this section 
+     shall insure that, in requiring any electric utility to offer 
+     to purchase electric energy from any [QF], the rates for 
+     such purchase ... shall be just and reasonable to the 
+     electric consumers of the electric utility and in the public 
+     interest....
+     
+16 U.S.C. s 824a-3(b).  This requirement is directed, howev-
+er, at the Commission's exercise of rulemaking authority over 
+the rates utilities must pay QFs for power.  The Supreme 
+Court has already held that the full avoided cost rule satisfies 
+the requirements of s 210(b).  See American Paper Inst., 461 
+U.S. at 415-17.  Therefore the Commission did not abuse its 
+
+discretion when it omitted explicitly to consider anew the 
+interests of consumers.
+
+     Third, Connecticut Valley claims the Commission failed 
+adequately to consider whether Occidental Geothermal, Inc., 
+17 FERC p 61,231 (1981), and Power Developers, Inc., 32 
+FERC p 61,101 (1985), put Claremont on notice, before the 
+contract was executed (or at least before Claremont filed its 
+application for certification as a QF), that a QF may not sell 
+its gross output.  The Commission did not fail fully to consid-
+er those cases.  On the contrary, the Commission expressly 
+read both cases as having resolved issues related to but not 
+the same as that resolved in Turners Falls:  In Occidental 
+Geothermal the Commission held that net output is the 
+appropriate measure of the 80-MW limitation upon SPPs;  
+and in Power Developers it concluded that "a QF may not sell 
+more than net output at avoided cost rates."  Connecticut 
+Valley, 82 FERC at 61,417-18.  Although both cases were, of 
+course, relevant to the Commission's understanding of this 
+case, the Commission reasonably concluded that it was not 
+until Turners Falls that it "removed any remaining ambiguity 
+about whether the 'simultaneous buy-sell' rule permitted a 
+sale in excess of net output [and] clearly stated that a sale in 
+excess of net output would deprive a facility of its QF status."  
+Id. at 61,417;  see also 83 FERC p 61,136, at 61,610.  There 
+was no abuse of discretion here.
+
+     Fourth, Connecticut Valley argues the Commission failed to 
+consider whether Claremont intentionally or negligently mis-
+led the Commission by stating its gross rather than its net 
+output in its application for certification.  The Commission 
+did not have to address this claim in the orders under review, 
+however;  it was rendered moot when the Commission held 
+that it was reasonable for a facility applying for QF certifica-
+tion prior to the Turners Falls decision to have believed that 
+the Commission's "simultaneous buy-sell" rule allowed the QF 
+to sell its gross output.  See 82 FERC at 61,418.  The 
+Commission noted that many applicants--and indeed several 
+state PUCs--had thought gross sales were permitted under 
+the Commission's regulations, and that although this point 
+had been "clarified to a significant degree in 1985 in Power 
+
+Developers," it was not until Turners Falls in 1991 that the 
+Commission "removed any remaining ambiguity."  Id.  The 
+Commission could hardly say, therefore, that prior to that 
+decision a QF was either intentionally deceptive or even 
+merely negligent if it listed its gross rather than its net 
+output in applying for QF certification.
+
+     Finally, Connecticut Valley claims the Commission failed to 
+support with substantial evidence a key factual determination, 
+namely, that Claremont had a settled expectation it could 
+lawfully sell its gross output when it entered into the con-
+tract.  As Connecticut Valley conceives the issue, the Com-
+mission must show that, in developing and financing the SPP 
+facility, Claremont actually relied upon being able to sell its 
+gross output.
+
+     The Commission never made a factual finding about Clare-
+mont's actual reliance, however.  Rather, the Commission 
+reiterated its general policy "against invalidating contracts 
+for which a PURPA-based challenge was not timely raised--
+that is, before the contracts were executed," so as not "to 
+upset the settled expectations of parties to, and to invalidate 
+any of their obligations and responsibilities under, such exe-
+cuted PURPA sales contracts."  Id. at 61,419-20;  see also 83 
+FERC p 61,136, at 61,611.  The Commission reasonably in-
+fers the parties' settled expectations from the terms of their 
+executed contract;  either party may avoid such an inference 
+by including a specific reservation in its contract or by 
+challenging the validity of a contract provision at the time it 
+executes the contract.
+
+     Because the Commission did not make a factual finding 
+relative to settled expectations, but rather drew a reasonable 
+inference in accord with its established policy, it need not 
+support this aspect of its decision with substantial evidence.  
+Nor does Connecticut Valley claim that the Commission is 
+legally required to determine settled expectations by making 
+a case-specific factual inquiry rather than relying upon a rule 
+of general applicability.  The only question remaining, there-
+fore, is whether the Commission's application of its general 
+rule in this case was arbitrary and capricious.  See Southeast-
+
+ern Michigan Gas Co. v. FERC, 133 F.3d 34, 38 (D.C. Cir. 
+1998).  Connecticut Valley included no reservation clause in 
+the contract suggesting disagreement about or uncertainty 
+over the purchase and sale of Claremont's gross output;  nor 
+was Connecticut Valley challenging gross sales in court or 
+before the Commission at the time it entered into the con-
+tract.  We therefore conclude that the Commission's applica-
+tion in this case of its general rule inferring the settled 
+expectations of the parties to a contract from the terms of 
+their agreement was not arbitrary or capricious.
+
+                   III. Summary and Conclusion
+
+     We are without jurisdiction to review Connecticut Valley's 
+claim that the orders under review violate s 210 of the 
+PURPA.  As to Connecticut Valley's other challenges, we 
+conclude that the Commission acted within its remedial dis-
+cretion in refusing to revoke Claremont's QF status or to 
+provide any other relief to Connecticut Valley.  Therefore, 
+the petition for review is
+
+                                                          Denied.
+
+                                                                               

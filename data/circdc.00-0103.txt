@@ -1,0 +1,639 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued December 3, 1999    Decided May 19, 2000 
+
+                           No. 96-5272
+
+              Time Warner Entertainment Co., L.P., 
+                             Appellee
+
+                                v.
+
+                    United States of America, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 92cv02494)
+
+     Robert D. Joffe argued the cause for appellee.  With him 
+on the briefs was Henk Brands. Stuart W. Gold entered an 
+appearance.
+
+     Jacob M. Lewis, Attorney, U.S. Department of Justice, 
+argued the cause for appellant.  With him on the brief were 
+David W. Ogden, Acting Assistant Attorney General, Mark B. 
+Stern, Attorney, Wilma A. Lewis, U.S. Attorney, Christopher 
+
+J. Wright, General Counsel, Federal Communications Com-
+mission, Daniel M. Armstrong, Associate General Counsel, 
+and James M. Carr, Counsel. William E. Kennard, General 
+Counsel, and C. Grey Pash, Jr., Counsel, entered appear-
+ances.
+
+     Andrew Jay Schwartzman, Angela J. Campbell and Randi 
+M. Albert were on the brief for amici curiae Center for Media 
+Education, Association of Independent Video and Filmmak-
+ers, National Association of Artists' Organizations, National 
+Alliance for Media Arts and Culture, Consumer Federation of 
+America, National Council of Senior Citizens, and Office of 
+Communication, Inc. of the United Church of Christ.
+
+     Before:  Ginsburg, Rogers and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  The Time Warner Entertainment 
+Company and the United States appeal from portions of the 
+judgment in Daniels Cablevision, Inc. v. United States, 835 
+F. Supp. 1 (D.D.C. 1993).  At issue is the facial constitutional-
+ity of two provisions of the Cable Television Consumer Pro-
+tection and Competition Act of 1992, Pub. L. No. 102-385, 106 
+Stat. 1460 (1992 Cable Act).  The "subscriber limits provi-
+sion" directs the Federal Communications Commission to 
+limit the number of subscribers a cable operator may reach.  
+47 U.S.C. s 533(f)(1)(A).  The "channel occupancy provision" 
+directs the Commission to limit the number of channels on a 
+cable system that may be devoted to video programming in 
+which the operator has a financial interest.  Id. 
+s 533(f)(1)(B).  Time Warner argues that both provisions 
+facially--that is, no matter how sensitively or sensibly they 
+might be implemented--violate the First Amendment to the 
+Constitution of the United States;  the Commission argues 
+the opposite.  We conclude that both provisions are facially 
+constitutional.
+
+                          I. Background
+
+     Time Warner and other owners of cable television systems 
+challenged the constitutionality of the subscriber limits, the 
+channel occupancy, and various other provisions of the 1992 
+
+Cable Act in Daniels Cablevision.  Upon cross-motions for 
+summary judgment, the district court held that the subscrib-
+er limits provision is unconstitutional, see 835 F.Supp. at 10, 
+but the channel occupancy provision is constitutional, see id. 
+at 7 & n.11.*  The Government appealed the former ruling 
+while Time Warner appealed the latter.
+
+     We consolidated both appeals with Time Warner's petition 
+to this court for review of the regulations the Commission had 
+promulgated to implement the two provisions.  See Time 
+Warner Entertainment Co., L.P. v. Federal Communications 
+Comm'n (Time Warner), 93 F.3d 957, 979-80 (D.C. Cir. 1996).  
+In September 1999, however, after the consolidated cases had 
+been scheduled for oral argument, the Commission initiated 
+further rulemaking proceedings with respect to the two provi-
+sions.  Consequently, we severed Time Warner's statutory 
+challenges from its petition for review of the regulations, held 
+the latter in abeyance pending the completion of the further 
+rulemaking, and heard oral argument on the constitutionality 
+of the two statutory provisions that we address today.
+
+                           II. Analysis
+
+     We review de novo the district court's grant of summary 
+judgment.  See, e.g., Aka v. Washington Hospital Center, 156 
+F.3d 1284, 1288 (D.C. Cir. 1998).
+
+A.   The Subscriber Limits Provision
+
+     1.   The Standard of Review
+          
+     Time Warner argues that the subscriber limits provision is 
+a content-based restriction of its ability to communicate with 
+its audience, and as such is subject to strict scrutiny.  See 
+
+__________
+     * The district court at least appears to have found the channel 
+occupancy provision constitutional on its face.  The court noted in a 
+footnote that "[l]ike the other vertical integration restrictions, the 
+channel occupancy limits appear unrelated to content.  Whether or 
+not the regulations ultimately promulgated by the Commission will 
+pass constitutional muster under [intermediate scrutiny] is, of 
+course, at this point unclear."  835 F. Supp. at 7 n.11.
+
+Turner Broadcasting System, Inc. v. Federal Communica-
+tions Comm'n (Turner I), 512 U.S. 622, 642 (1994) (Court has 
+applied "the most exacting scrutiny to regulations that sup-
+press, disadvantage, or impose differential burdens upon 
+speech because of its content").  The Government denies that 
+the subscriber limits provision is content-based, and argues 
+for an intermediate level of scrutiny.  See id.
+
+     In order to determine the applicable standard of review, 
+then, we must decide whether the subscriber limits provision 
+is content-based.  In general, the "principal inquiry in deter-
+mining content neutrality ... is whether the government has 
+adopted a regulation of speech because of [agreement or] 
+disagreement with the message it conveys."  Id. (quoting 
+Ward v. Rock Against Racism, 491 U.S. 781, 791 (1989)).  A 
+law that singles out speech based upon the ideas or views 
+expressed is content-based, whereas a law that "confer[s] 
+benefits or impose[s] burdens on speech without reference to 
+the ideas or views expressed" is most likely content-neutral.  
+Id. at 643;  see also id. at 661 (law that does not "pose ... 
+inherent dangers to free expression, or present ... potential 
+for censorship or manipulation, [will not] ... justify applica-
+tion of the most exacting level of First Amendment scruti-
+ny").
+
+     As a cable operator, Time Warner exercises editorial dis-
+cretion in selecting the programming it will make available to 
+its subscribers.  Time Warner argues that the congress limit-
+ed its ability to speak by restricting the number of subscrib-
+ers--and therefore potential viewers--it may reach with the 
+programming it has selected.  That this limitation is content-
+based, according to Time Warner, is evident from the Senate 
+Report that accompanied the final version of the 1992 Cable 
+Act.  See H.R. Conf. Rep. No. 102-862, at 81-82 (1992), 
+reprinted in 1992 U.S.C.C.A.N. 1133, 1133, 1263-64 (adopting 
+provisions of Senate Bill, as described in Senate Report, S. 
+Rep. No. 102-92, at 32 (1991) [hereinafter S. Rep.]).
+
+     That Report indicated the Congress was concerned about 
+increasing concentration of ownership and control in the cable 
+industry:
+
+          ...  First, there are special concerns about concentra-
+     tion of the media in the hands of a few who may control 
+     the dissemination of information.  The concern is that 
+     the media gatekeepers will (1) slant information accord-
+     ing to their own biases, or (2) provide no outlet for 
+     unorthodox or unpopular speech because it does not sell 
+     well, or both....
+     
+          ....
+     
+          The second concern about horizontal concentration is 
+     that it can be the basis of anticompetitive acts.  For 
+     example, a market that is dominated by one buyer of a 
+     product, a monopsonist, does not give the seller any of 
+     the benefits of competition....
+     
+S. Rep. at 32-33.
+
+     Time Warner contends that the Congress's concern that 
+media gatekeepers would "slant" information or fail to pro-
+vide outlets for "unorthodox" speech reflects a preference for 
+one type of content and an intent to suppress another, 
+namely, the speech of cable operators.  The Company likens 
+the Congress's efforts to limit its speech to the restraints the 
+Supreme Court held unconstitutional in Buckley v. Valeo, 424 
+U.S. 1 (1976), and First National Bank of Boston v. Bellotti, 
+435 U.S. 765 (1978).  Buckley involved a federal campaign 
+finance law aimed at "equalizing the relative ability of individ-
+uals and groups to influence the outcome of elections" by 
+limiting their political expenditures.  Id. at 48.  The Court 
+rejected "the concept that government may restrict the 
+speech of some elements of our society in order to enhance 
+the relative voice of others [as] wholly foreign to the First 
+Amendment."  Id. at 48-49.  Bellotti similarly involved a 
+state statute that prohibited certain types of businesses from 
+making contributions or expenditures for the purpose of 
+influencing particular ballot initiatives.  The Court reiterated 
+the point it had made in Buckley:  A state's effort to control 
+some voices in order to "enhance the relative voices" of less 
+influential speakers "contradicts basic tenets of First Amend-
+ment jurisprudence."  Bellotti, 435 U.S. at 791 n.30 (noting 
+exception "in the special context of limited access to the 
+
+channels of communication" and citing Red Lion Broadcast-
+ing Co. v. FCC, 395 U.S. 367 (1969)).
+
+     The expenditure limit at issue in Buckley, like the prohibi-
+tion at issue in Bellotti, was content-based because it "was 
+concerned with the communicative impact of the regulated 
+speech."  Turner I, 512 U.S. at 658.  As the Supreme Court 
+made quite clear in Turner I, however, making way for some 
+speakers, in the cable context where that necessarily means 
+limiting the speech of others, is not inherently content-based.  
+Id. at 643-45.  There the Court determined that the "must-
+carry" provision of the 1992 Cable Act, which required cable 
+operators to "carry the signals of a specified number of local 
+broadcast television stations," id. at 630, was not content-
+based, and applied intermediate scrutiny in its review of that 
+provision.  Although the must-carry obligation restricted ca-
+ble operators' speech by limiting the number of channels they 
+could program at will, it did so in a content-neutral fashion 
+and for a content-neutral reason, namely, to protect the 
+interests of non-cable subscribers in maintaining the viability 
+of the television broadcasting industry.  Id. at 646.
+
+     According to Time Warner, the subscriber limits provision 
+expresses a hostility to the content of large cable operators' 
+speech that did not underlie the must-carry obligation:  The 
+subscriber limits are meant to restrict large cable operators 
+from presenting information in accord with their own "bias-
+es," in order thereby to promote a diversity of views in cable 
+programming.  Increasing the diversity of programming is 
+not, Time Warner argues, among the ends the Supreme 
+Court deemed content-neutral in Turner I.
+
+     Time Warner is correct that the Court's acceptance of the 
+must-carry obligation as content-neutral rested in large part 
+upon the Court's understanding that the purpose of the 
+statute was to maintain the availability of broadcast television 
+for those without cable;  that does not render Turner I wholly 
+inapplicable, however.  The Court also identified the "bottle-
+neck monopoly power" of the cable operator, arising out of 
+the operator's "control over most (if not all) of the television 
+programming that is channeled into the subscriber's home," 
+
+as the threat to broadcast television.  512 U.S. at 656-57, 661.  
+In enacting the subscriber limits, the Congress was con-
+cerned that cable operators might use that same bottleneck 
+power to exclude other providers of cable programming.  As 
+with the must-carry obligation, its concern was not with what 
+a cable operator might say, but that it might not let others 
+say anything at all in the principal medium for reaching much 
+of the public.  See id. at 657 ("The First Amendment's 
+command that government not impede the freedom of speech 
+does not disable the government from taking steps to ensure 
+that private interests not restrict, through physical control of 
+a critical pathway of communication, the free flow of informa-
+tion and ideas").  The must-carry obligation and the subscrib-
+er limits provision both preserve for consumers some compe-
+tition in the provision of programming.  The must-carry 
+obligation preserves competition between broadcasters and 
+the cable operator, while the subscriber limits preserve com-
+petition between the cable operator and its affiliated pro-
+grammers on the one hand and unaffiliated providers of cable 
+programming on the other.  By placing a value upon diversity 
+and competition in cable programming the Congress did not 
+necessarily also value one speaker, or one type of speech, 
+over another;  it merely expressed its intention that there 
+continue to be multiple speakers.
+
+     Finally, Time Warner argues that the subscriber limits 
+provision improperly singles out for regulation the cable 
+medium, as opposed to other video programmers such as 
+Direct Broadcast Satellite (DBS) operators.  Here it refers 
+us to Turner I, 512 U.S. at 659, where the Court observed, 
+"Regulations that discriminate among media, or among differ-
+ent speakers within a single medium, often present serious 
+First Amendment concerns."  According to Time Warner, 
+with the subscriber limits the Congress "targeted a small 
+number of [the various] speakers" capable of purchasing and 
+providing video programming, id. at 660, without providing 
+any justification for limiting the regulation to the cable medi-
+um.
+
+     In Turner I, however, the Court rejected Turner Broad-
+casting's claim of discrimination, stating that "[i]t would be 
+
+error to conclude ... that the First Amendment mandates 
+strict scrutiny for any speech regulation that applies to one 
+medium (or a subset thereof) but not others."  Id. at 660.  
+Indeed, the same unique characteristic of the cable medium 
+that justified the imposition of the must-carry obligation is 
+also invoked by the Government to justify the subscriber 
+limits, namely, "the bottleneck monopoly power exercised by 
+cable operators."  Id. at 661.  In Turner I this bottleneck 
+power was seen to jeopardize the viability of broadcast televi-
+sion;  in this case, it arguably threatens diversity and compe-
+tition in the provision of cable programming.  As the Govern-
+ment notes, other video programmers such as DBS lack the 
+bottleneck power of cable operators;  nor do they reach 
+nearly as many households as does cable.
+
+     In sum, upon examination of the statute, the Senate Report 
+that accompanied it, and the Supreme Court's analysis of the 
+must-carry provision at issue in Turner I, we conclude that 
+the subscriber limits provision is not content-based.  In order 
+to determine whether it is constitutional, therefore, we apply 
+intermediate, rather than strict scrutiny.  Id. at 662.
+
+     2.   The Merits
+          
+     A content-neutral regulation of speech "will be sustained 
+under the First Amendment if it [1] advances important 
+governmental interests unrelated to the suppression of free 
+speech and [2] does not burden substantially more speech 
+than necessary to further those interests."  Turner Broad-
+casting System, Inc. v. Federal Communications Comm'n 
+(Turner II), 520 U.S. 180, 189 (1997) (citing United States v. 
+O'Brien, 391 U.S. 367, 377 (1968)).  If a regulation on speech 
+is intended to redress an actual or an anticipated harm to an 
+important governmental interest, then the Government "must 
+demonstrate that the recited harms are real, not merely 
+conjectural, and that the regulation will in fact alleviate these 
+harms in a direct and material way."  Turner I, 512 U.S. at 
+664.  Our review of the Congress's predictive judgments is 
+deferential;  we ask only whether, "in formulating its judg-
+ments, Congress has drawn reasonable inferences based on 
+substantial evidence."  Turner II, 520 U.S. at 195.  Finally, 
+
+we will uphold a regulation if the important governmental 
+interest in question "would be achieved less effectively absent 
+the regulation" and the regulation does not "burden substan-
+tially more speech than is necessary to further that interest."  
+Id. at 213-14 (quoting Turner I, 512 U.S. at 662).
+
+     As to advancing an important governmental interest, the 
+Congress enacted the subscriber limits based upon two stated 
+concerns:  that cable operators would impose their own biases 
+upon the information they disseminate, and that a few domi-
+nant cable operators might preclude new programming ser-
+vices from attaining the critical mass audience necessary to 
+survive.  See S. Rep. at 32-33.  Time Warner does not argue 
+that the Congress failed to identify an important governmen-
+tal interest, but rather faults the Congress for having acted 
+without having made findings, and without having evidence 
+upon which it could have made findings, that either of these 
+problems is a real one.  See, e.g., Reno v. American Civil 
+Liberties Union, 521 U.S. 844, 117 S. Ct. 2329, 2348 (1997) 
+(invalidating portion of Communications Decency Act "in the 
+light of the absence of any detailed findings by the Congress, 
+or even hearings addressing the special problems of the 
+CDA").
+
+     According to Time Warner, cable operators in fact can 
+neither bias the flow of information nor obstruct the expres-
+sion of unpopular speech because other statutory provisions 
+require them to carry independent programming, including 
+public, educational, and governmental (PEG) programming, 
+and the programming on leased access channels and local 
+broadcast stations.  See 47 U.S.C. ss 531, 532, 534 & 535.  As 
+for the concern that cable operators might erect barriers to 
+the entry of new programming services, Time Warner argues 
+that the Congress did not establish either that cable opera-
+tors have attempted to exclude new cable programmers, or 
+that they have an incentive to do so.
+
+     The Government responds that the promotion of diversity 
+in ideas and speech, as well as the preservation of competi-
+tion, are important governmental interests, and that the 
+Congress reasonably viewed increased concentration in the 
+
+cable industry as a threat to both diversity and competition.  
+The Government acknowledges that the 1992 Cable Act re-
+quires cable operators to carry PEG and several other types 
+of local programming, but argues that these requirements 
+were not meant directly to preserve competition, nor do they 
+promote diversity in the sources of cable programming at the 
+national level.
+
+     The Senate Report accompanying the 1992 Cable Act noted 
+that concentration of ownership had increased dramatically:  
+by 1990, the five largest cable operators served nearly half 
+the country's cable subscribers.  S. Rep. at 32.  Witnesses 
+testified that as a result of this increase in concentration "the 
+large MSOs [multiple system operators] have the market 
+power to determine what programming services can 'make it' 
+on cable."  S. Rep. at 33.  Based upon this and related 
+evidence, the Congress found that "[t]he potential effects of 
+...  concentration [in the cable industry] are barriers to 
+entry for new programmers and a reduction in the number of 
+media voices available to consumers."  47 U.S.C. s 521(a)(4).  
+It also found that "[t]here is a substantial governmental and 
+First Amendment interest in promoting a diversity of views 
+provided through multiple technology media."  Id. 
+s 521(a)(6).  We conclude that the Congress drew reasonable 
+inferences, based upon substantial evidence, that increases in 
+the concentration of cable operators threatened diversity and 
+competition in the cable industry.  See Turner II, 520 U.S. at 
+195-96 (discussing deference due to Congress's findings).
+
+     As to burdening more speech than necessary, Time Warner 
+argues that subscriber limits will not increase the diversity of 
+information sources available to the public in any locale.  
+Nor, we are told, are subscriber limits necessary in order to 
+promote competition;  the antitrust laws, as well as the anti-
+discrimination provision of the 1992 Cable Act, see 47 U.S.C. 
+s 536(a)(3), provide a sufficient check upon any potentially 
+anticompetitive conduct by cable operators.
+
+     Although we cannot say that a national ownership cap will 
+surely increase the diversity of programming available at the 
+local level, neither are we required to do so in order to uphold 
+
+the statute as constitutional.  See, e.g., United States v. 
+Albertini, 472 U.S. 675, 689 (1985) ("The validity of [a] 
+regulation[ ] does not turn on a judge's agreement with the 
+responsible decisionmaker concerning the most appropriate 
+method for promoting significant government interests").  It 
+is enough that, having determined that "[c]oncentration has 
+grown dramatically in the cable industry," S. Rep. at 32, the 
+Congress reasonably concluded that this concentration threat-
+ened the diversity of information available to the public and 
+could form a barrier to the entry of new cable programmers.  
+That is hardly an unreasonable inference.  See Federal Com-
+munications Comm'n v. National Citizens Committee for 
+Broadcasting, 436 U.S. 775, 780 (1978);  Phillip E. Areeda et 
+al., Antitrust Law p 420a (1995).
+
+     Nor is it a fatal flaw that the subscriber limits provision 
+focuses upon behavior already arguably proscribed by other 
+laws.  In the subscriber limits provision the Congress took a 
+structural approach to the regulation of cable operators, 
+whereas the antidiscrimination provision of the 1992 Cable 
+Act and the antitrust laws are behavioral prohibitions.  As a 
+structural limitation, the subscriber limits provision adds a 
+prophylaxis to the law and avoids the burden of individual 
+proceedings to remedy particular instances of anticompetitive 
+behavior.  Cf. Turner II, 520 U.S. at 222-23 (dismissing 
+petitioner's suggestion that antitrust enforcement or an ad-
+ministrative complaint procedure is an adequate alternative to 
+must-carry obligation:  "Congress could conclude ... that the 
+considerable expense and delay inherent in antitrust litiga-
+tion, and the great disparities in wealth and sophistication 
+between the average independent broadcast station and aver-
+age cable system operator, would make these remedies inade-
+quate substitutes").  In sum, Time Warner has not demon-
+strated that the subscriber limits provision is on its face 
+either unnecessary or unnecessarily overburdensome.
+
+B.   The Channel Occupancy Provision
+
+     1.   The Standard of Review
+          
+     The channel occupancy provision requires the Commission 
+to establish limits upon "the number of channels on a cable 
+
+system that can be occupied by a video programmer in which 
+a cable operator has an attributable interest."  47 U.S.C. 
+s 533(f)(1)(B).  Time Warner likens this provision to "a law 
+prohibiting newspapers from devoting more than a fraction of 
+their columns to editorial content of their own."  That this 
+restriction is content-based, it argues, is evident from the 
+Senate Report:
+
+          Vertical integration in the cable industry .... gives 
+     cable operators the incentive and ability to favor their 
+     affiliated programming services.  For example, the cable 
+     operator might give its affiliated programmer a more 
+     desirable channel position than another programmer, or 
+     even refuse to carry other programmers.
+     
+          ....
+     
+          [The channel occupancy provision] is designed to in-
+     crease the diversity of voices available to the public.  
+     Some [MSOs] own many programming services.  It 
+     would be unreasonable for them to occupy a large per-
+     centage of channels on a cable system.
+     
+          The intent of this provision is to place reasonable 
+     limits on the number of channels that can be occupied by 
+     each MSO's programming services.
+     
+S. Rep. at 25, 80.
+
+     Time Warner argues that because the Congress expressed 
+concern that cable operators might favor their affiliated pro-
+gramming services the legislature's "stated design was to 
+suppress cable operators' speech," and to advance the speech 
+of nonaffiliated programmers.  Again analogizing itself to a 
+newspaper publisher, see Miami Herald Publishing Co. v. 
+Tornillo, 418 U.S. 241, 255-56 (1974), Time Warner argues 
+that a cable operator has a constitutional right to favor its 
+own speech.  By interfering with that right in order to alter 
+the mix of programming available on cable, the Congress has 
+impermissibly regulated the content of cable operators' 
+speech.
+
+     A cable operator is unlike a newspaper publisher, however, 
+in the one respect crucial to the Congress's reason for 
+
+enacting the channel occupancy provision:  A newspaper pub-
+lisher does not have the ability to exclude competing publica-
+tions from its subscribers' homes.  The cable operator's bott-
+leneck monopoly is a physical and economic barrier to such 
+intra-medium competition.  The channel occupancy provision 
+responds in kind, without regard to the content of either the 
+cable operator's speech or that of the unaffiliated program-
+mer for which it secures an outlet.  See Turner I, 512 U.S. at 
+656.
+
+     Nor does the Congress's wanting to ensure a multiplicity of 
+voices on cable inherently bespeak a preference for or a bias 
+against the content of any speech.  That is why, in Time 
+Warner, we upheld under intermediate scrutiny the "leased 
+access provision" of the 1992 Cable Act.  That provision 
+requires cable operators to set aside a percentage of their 
+channels for commercial use by unaffiliated programmers in 
+order both to bring "the widest possible diversity of informa-
+tion sources" to cable subscribers and "to promote competi-
+tion in the delivery of diverse sources of video programming."  
+93 F.3d at 968-69.  In that case, we rejected Time Warner's 
+argument that the leased access provision was a content-
+based restriction, and therefore subject to strict scrutiny, 
+because nothing in the statute favored or disfavored speech 
+on the basis of its content:  "The statutory objective ... [is] 
+framed in terms of the sources of information rather than the 
+substance of the information."  Id. at 969 (citing Associated 
+Press v. United States, 326 U.S. 1, 20, 65 (1945)).
+
+     Time Warner now argues that whereas the objective of the 
+leased access provision was to promote speech from various 
+sources without regard to content, the channel occupancy 
+provision is meant to limit speech from a particular type of 
+source and therefore necessarily imposes a content-based 
+restriction.  Here it refers us to the statement in the Senate 
+Report that cable operators may have "the incentive and 
+ability to favor" their own or an affiliate's speech.  S. Rep. at 
+25.  In response, the Government explains, and we agree, 
+that the legislative concern was not with the speech of a 
+particular source but solely with promoting diversity and 
+competition in the cable industry.  Like the leased access 
+
+provision, that is, the focus of the channel occupancy provi-
+sion is upon the source of speech, not its content.  See Time 
+Warner, 93 F.3d at 969 (the "qualification [of nonaffiliates] to 
+lease time on [a cable operator's] channels depends not on the 
+content of their speech, but on their lack of affiliation with the 
+operator, a distinguishing characteristic stemming from con-
+siderations relating to the structure of cable television").
+
+     We recognize, of course, the possibility that a seemingly 
+neutral limitation may have been crafted in such a way as to 
+single out for regulation the speech of some group that the 
+legislature finds objectionable.  See Minneapolis Star & 
+Tribune Co. v. Minnesota Comm'r of Revenue, 460 U.S. 575, 
+580, 592 (1983) (noting that result in Grosjean v. American 
+Press Co., 297 U.S. 233 (1936), "may have been attributable in 
+part to the perception on the part of the Court that the State 
+imposed the tax with an intent to penalize a selected group of 
+newspapers"). There is not a shred of evidence, however, that 
+such an illicit consideration underlies the channel occupancy 
+provision, and indeed Time Warner stops well short of claim-
+ing otherwise.  We are therefore confident that the channel 
+occupancy provision is content-neutral and subject only to 
+intermediate scrutiny.
+
+     2.   The Merits
+          
+     In applying intermediate scrutiny, we inquire "not whether 
+Congress, as an objective matter, was correct" that the 
+channel occupancy provision is necessary to increase the 
+diversity of voices available to the public via cable, but rather 
+"whether the legislative conclusion was reasonable and sup-
+ported by substantial evidence in the record before Con-
+gress."  Turner II, 520 U.S. at 211.  Time Warner argues 
+that the Congress's reason for enacting the channel occupan-
+cy provision--to prevent cable operators from favoring affili-
+ated programmers and possibly even excluding others--ad-
+dresses only a speculative harm because the Congress had no 
+evidence that such exclusionary conduct actually had oc-
+curred.  On the contrary, Time Warner contends, a cable 
+operator has an incentive to contract with unaffiliated pro-
+grammers to the extent that doing so will increase the 
+
+attractiveness of the video programming packages it offers to 
+subscribers;  this incentive is reinforced by increased competi-
+tion from DBS and other alternative providers of video 
+programming.
+
+     Nothing in these protestations demonstrates that the Con-
+gress's legislative conclusion was either unreasonable or un-
+supported by substantial evidence.  See Turner II, 520 U.S. 
+at 211.  The findings in the 1992 Cable Act document the 
+Congress's concerns with affiliation between cable operators 
+and cable programmers:
+
+     The cable industry has become vertically integrated;  
+     cable operators and cable programmers often have com-
+     mon ownership.  As a result, cable operators have the 
+     incentive and ability to favor their affiliated program-
+     mers.  This could make it more difficult for noncable-
+     affiliated programmers to secure carriage on cable sys-
+     tems.  Vertically integrated program suppliers also have 
+     the incentive and ability to favor their affiliated cable 
+     operators over nonaffiliated cable operators and pro-
+     gramming distributors using other technologies.
+     
+47 U.S.C. s 521(a)(5).  The Senate Report accompanying the 
+Act discusses the evidence upon which the Congress based 
+these conclusions.  Time Warner is of course correct that a 
+cable operator has an incentive to offer an attractive package 
+of programs to consumers, but the company does not deny 
+that a cable operator also has an incentive to favor its 
+affiliated programmers;  where the two forces are in conflict, 
+the operator may, as a rational profit-maximizer, compromise 
+the consumers' interests.  Hence, the concern of the Con-
+gress is well grounded in the evidence and a bit of economic 
+common sense.
+
+     Finally, Time Warner argues that the channel occupancy 
+provision is unnecessary in light of the anti-discrimination 
+provision of the 1992 Cable Act as well as the antitrust laws.  
+As we noted earlier, however, a prophylactic, structural limi-
+tation is not rendered unnecessary merely because pre-
+existing statutes impose behavioral norms and ex post reme-
+dies.  Cf. Turner II, 520 U.S. at 222-23.
+
+                         III. Conclusion
+
+     For the foregoing reasons, we conclude that the subscriber 
+limits and channel occupancy provisions do not run afoul of 
+the first amendment.  The judgment of the district court is 
+reversed insofar as it held that the subscriber limits provision 
+is unconstitutional, and affirmed insofar as it held that the 
+channel occupancy provision is constitutional.
+
+                                                           So ordered.
+
+              

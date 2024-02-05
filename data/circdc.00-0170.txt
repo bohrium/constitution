@@ -1,0 +1,442 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued April 10, 2000        Decided July 25, 2000 
+
+                           No. 99-1222
+
+         East Texas Electric Cooperative, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+            Central Power and Light Company, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     A. Hewitt Rose, III argued the cause for the petitioners.
+
+     David H. Coffman, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for the respondent.  John H. 
+Conway, Acting Solicitor, Federal Energy Regulatory Com-
+mission, was on brief.  Jay L. Witkin, Solicitor, and Susan J. 
+
+Court, Counsel, Federal Energy Regulatory Commission, en-
+tered appearances.
+
+     Clark Evans Downs argued the cause for the Intervenors.  
+Martin V. Kirkwood was on brief.
+
+     Before:  Edwards, Chief Judge, Henderson and Rogers, 
+Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  Petitioners 
+East Texas Electric Cooperative, Inc., Northeast Texas Elec-
+tric Cooperative, Inc. and Tex-La Electric Cooperative of 
+Texas, Inc. (collectively, Texas Electric) seek review of three 
+orders of the Federal Energy Regulatory Commission 
+(FERC, Commission) ultimately approving the open access 
+transmission tariff the CSW Operating Companies (CSW)1 
+proposed for their provision of electric power to Texas Elec-
+tric, inter alia.  Texas Electric argues that the Commission, 
+in its Tariff Order, Central Power & Light Co., 81 F.E.R.C. 
+p 61,311 (1997), accepted certain rates included in CSW's 
+proposed rates but rejected and ordered modification of 
+another.  CSW not only responded to the Commission's di-
+rective regarding modification of the specified rate, they also 
+eliminated a different rate which, Texas Electric argues, had 
+been accepted and was therefore not supposed to be eliminat-
+ed.  The Commission accepted CSW's compliance filing in 
+relevant part in its Compliance Order, Central Power & Light 
+Co., 85 F.E.R.C. p 61,224 (1998), including the alleged rate 
+change resulting from the elimination of the rate earlier 
+accepted.  Finally, in its Rehearing Order, Central Power & 
+Light Co., 87 F.E.R.C. p 61,073 (1999), the Commission reject-
+ed Texas Electric's arguments and concluded CSW had com-
+plied with the Tariff Order directives.
+
+__________
+     1  The Central and South West Corporation, a registered public 
+utility holding company, is comprised of four operating companies 
+(CSW):  Southwestern Electric Power Company;  Public Service 
+Company of Oklahoma;  Central Power and Light Company;  and 
+West Texas Utilities Company.  CSW filed a brief as intervenors in 
+support of the Commission.
+
+     Texas Electric argues, citing 16 U.S.C. s 824d, that CSW 
+failed to justify the rate change as the Federal Power Act 
+(Act) requires and that the Commission's acceptance, without 
+explanation, of CSW's compliance filing and its resulting 
+approval of CSW's elimination of the previously accepted 
+charge (thereby effecting a rate change) also failed to satisfy 
+the Commission's duty under the Administrative Procedure 
+Act, 5 U.S.C. s 706(2).  Texas Electric further contends the 
+new rates unduly discriminate against it (and other CSW 
+customers) and that the Commission violated its duty under 
+the Act, 16 U.S.C. s 824e, to assure that rates are not unduly 
+discriminatory.
+
+     The Commission on the other hand claims it did not accept 
+the proposed rates in the Tariff Order and that nothing 
+therein prohibited CSW from eliminating the rate at issue.  
+Rather, the Commission claims that its Tariff Order makes 
+clear the decision was left to CSW's discretion.  We defer to 
+FERC's interpretation of its Tariff Order as not limiting 
+CSW's revised transmission tariff.  We conclude, however, 
+that the Tariff Order did not sufficiently notify Texas Electric 
+of CSW's discretion to modify the original proposal, particu-
+larly in light of the Tariff Order's language approving the 
+rates at issue.  Hence Texas Electric's failure to seek rehear-
+ing does not bar it from raising this issue before us.  More-
+over, the Commission failed to explain why the revised tariff 
+was lawful, that is, just and reasonable.  Given that the 
+revision at issue could not fairly have been anticipated by 
+Texas Electric, the Commission erred in summarily approv-
+ing that part of the Compliance Tariff without explaining 
+whether the new rates were just and reasonable;  accordingly, 
+we remand for FERC to make that determination.
+
+                                I.
+
+     The CSW System operates in two power districts:  the 
+Southwest Power Pool (SPP) and the Electric Reliability 
+Council of Texas (ERCOT).  Of the four operating companies 
+in the CSW System, two are entirely within SPP and the 
+
+other two are entirely within ERCOT.2  CSW's facilities are 
+interconnected, however, forming a single, integrated system.
+
+     In 1996 FERC addressed the rate systems of public utili-
+ties, like those comprising CSW, who are members of regis-
+tered public utilities holding companies.  In Order No. 888 
+(filed May 10, 1996), Promoting Wholesale Competition 
+Through Open Access Non-discriminatory Transmission 
+Services by Public Utilities, FERC Stats. & Regs. p 31,035, 
+61 Fed. Reg. 21,540 (1996), codified as revised at 18 C.F.R. 
+Pts. 35 & 385 (1999),3 which resulted from a rule-making 
+proceeding designed to remedy undue discrimination in the 
+transmission of electric power, FERC required all such utili-
+ties to file a tariff permitting transmission service across the 
+holding company's entire system at a single price.  See 
+Transmission Access Policy Study Group, 2000 WL 762706, 
+at *3, *5 (D.C. Cir. June 30, 2000);  see also Tariff Order, 81 
+F.E.R.C. at 62,430 (discussing Order No. 888).  Thus, individ-
+ual member utilities within a holding company could no longer 
+charge separate, "pancaked" rates4 for what is a single trans-
+
+__________
+     2  ERCOT operates entirely in Texas and, to a large extent, is 
+governed by the Public Utility Commission of Texas.  Although the 
+ERCOT companies became subject to FERC jurisdiction as a result 
+of their interconnection with the SPP companies, FERC commonly 
+defers to the Texas transmission ratemaking methodologies within 
+ERCOT.  See Brief of Commission at 7;  Brief of Petitioners at 5.
+
+     3  For the revisions and clarifications of Order No. 888, see 76 
+F.E.R.C. p 61,009 (1996), 76 F.E.R.C. p 61,347 (1996), and 79 
+F.E.R.C. p 61,182 (1997), on reh'g, Order No. 888-A, FERC Stats. 
+& Regs. p 31,048, 62 Fed. Reg. 12,274 (1997), on reh'g, Order No. 
+888-B, 81 F.E.R.C. p 61,248, 62 Fed. Reg. 64,688 (1997), on reh'g, 
+Order No. 888-C, 82 F.E.R.C. p 61,046 (1998), aff'd in part and 
+remanded sub nom. Transmission Access Policy Study Group v. 
+FERC, 2000 WL 762706 (D.C. Cir. June 30, 2000).
+
+     4  A "pancaked" rate is equal to the sum of the rates for a single 
+transmission of two or more utilities within a holding company's 
+system.  In other words, the customer must pay each utility's 
+separate charge for a single transmission:  here, the customer would 
+pay both SPP and ERCOT rates for a transmission through their 
+
+mission over the holding company's system.  Id. at 62,432.  
+Instead, the utilities must provide the transmission under a 
+single rate, resulting in a de facto reduction of the overall 
+charge.  FERC addressed the CSW System specifically, di-
+recting the utilities therein to file "a system tariff that will 
+provide comparable service to all wholesale users on the CSW 
+System, regardless of whether they take transmission service 
+wholly within ERCOT or the SPP, or take transmission 
+service between the reliability councils over the North and 
+East Interconnections."  Order No. 888, 61 Fed. Reg. at 
+21,595.  Furthermore, FERC noted that "[i]t may be appro-
+priate to have different rates for transmission service wholly 
+within ERCOT or the SPP, and for service between [them]."  
+Id. at 21,595 n.422.
+
+     CSW filed a proposed transmission tariff that provided 
+separate rates for wholly intra-ERCOT service and wholly 
+intra-SPP service but did not provide a single CSW System-
+wide rate for transmissions through both ERCOT and SPP.  
+Thus, customers requiring service traversing the SPP- 
+ERCOT boundary would pay pancaked rates.  In its Tariff 
+Order the Commission analyzed CSW's separate rates for the 
+two service areas (ERCOT and SPP) and determined that the 
+rate structures were reasonable.
+
+     Assessing different rates for service in the different 
+     regions is reasonable....  [I]t is appropriate to allow 
+     CSW to adopt the Texas Commission's regional network 
+     pricing structure for services wholly in ERCOT.  As a 
+     corollary, it is also reasonable for CSW to assess a single 
+     postage stamp rate for service wholly within SPP.
+     
+Tariff Order, 81 F.E.R.C. at 62,432-33.  The Commission, 
+however, then rejected the pancaked rates for service tra-
+versing both areas.  See id. at 62,433.  It "require[d] CSW to 
+revise its tariff to propose a single rate for use of the entire 
+CSW system" and added that, "[w]hile CSW may continue to 
+propose multiple charges, their total sum may not exceed 
+
+__________
+separate service areas but within the CSW System.  See Brief of 
+Commission at 11.
+
+CSW's average system cost."  Id.  In closing the Commission 
+further described its action:
+
+     The Commission orders:
+     
+          (A) CSW is hereby directed to make the changes 
+     discussed in the body of this order within 30 days of the 
+     date of this order.
+     
+          (B) The proposed CSW Tariff is hereby accepted for 
+     filing, as modified as directed in Ordering Paragraph (A) 
+     above, effective January 1, 1997....
+     
+Id. at 62,440.
+
+     CSW filed a Compliance Tariff proposing a single four-
+company, system-wide rate applicable both to customers 
+served by transmissions through ERCOT and SPP and to 
+customers accessing only SPP service.5  The tariff also set a 
+rate applicable to customers using only ERCOT but eliminat-
+ed the comparable rate for "SPP-only" customers it had 
+originally proposed.  Texas Electric protested the Compli-
+ance Tariff's elimination of the intra-SPP rate.  It argued 
+that the Tariff Order had approved the intra-SPP rate and, 
+therefore, CSW must justify elimination of the rate as the Act 
+requires.  In addition, Texas Electric argued that the intra-
+SPP rate was necessary to prevent undue discrimination in 
+light of the intra-ERCOT rate which remained in effect and 
+was less expensive than the system-wide rate to which 
+SPP-only customers had become subject.  In the Compliance 
+Order the Commission focused on whether CSW had com-
+plied with the Tariff Order.  The Commission found that it 
+had:  "In the [Tariff Order], we directed [CSW] to submit a 
+single, system-wide rate, and they have done so."  Compli-
+ance Order, 85 F.E.R.C. at 61,924.  Accordingly, the Commis-
+sion approved elimination of the intra-SPP rate.
+
+     Texas Electric requested rehearing challenging FERC's 
+approval of the elimination of the intra-SPP rate in the 
+
+__________
+     5  Although Texas Electric requested rehearing on "the Com-
+mission's approval of direct assignment of the costs of transmission 
+facility upgrades," Joint Appendix 42, it did not challenge the 
+system-wide rates or CSW's authority to establish multiple charges.
+
+Compliance Tariff.  It argued that elimination of the rate was 
+not consistent with the Tariff Order and lacked adequate 
+justification by CSW and adequate consideration by the Com-
+mission.  In the Rehearing Order, the Commission again 
+rejected Texas Electric's challenges because it found CSW 
+had complied with its directive in the Tariff Order (that is, to 
+propose a single rate for use of the entire CSW system) when 
+it eliminated the intra-SPP rate in favor of a single-system 
+rate.  See Rehearing Order, 87 F.E.R.C. at 61,300.  The 
+Commission added that, if Texas Electric wished to challenge 
+the directive, it could have done so on rehearing of the Tariff 
+Order but not on rehearing of the Compliance Order.  See id.
+
+                               II.
+
+     "As a general matter, we will uphold FERC's factual 
+findings if supported by substantial evidence and will endorse 
+its orders so long as they are based on reasoned decision 
+making."  Texaco, Inc. v. FERC, 148 F.3d 1091, 1095 (D.C. 
+Cir. 1999) (citing Koch Gateway Pipeline Co. v. FERC, 136 
+F.3d 810, 814 (D.C. Cir. 1998)).  And if FERC interprets its 
+own orders reasonably, we will sustain its interpretations.  
+See Natural Gas Clearinghouse v. FERC, 108 F.3d 397, 399 
+(D.C. Cir. 1997).
+
+     Arguing that the Tariff Order left CSW free to eliminate 
+the multiple charges they had proposed, FERC relies on the 
+permissive "may" in the statement that "CSW may continue 
+to propose multiple charges," Tariff Order, 81 F.E.R.C. at 
+62,433 (emphasis added).  Although FERC precedent gener-
+ally confines the scope of modifications in compliance filings 
+to the Commission's particular directives, see Entergy Power 
+Mktg. Corp., 75 F.E.R.C. p 61,282 at 61,903 (1996);  Southern 
+Co. Servs., 63 F.E.R.C. p 61,217 at 62,595-96 (1993), here the 
+Commission specifically left to CSW the decision whether to 
+"continue to propose multiple charges."  81 F.E.R.C. at 
+62,433.  Thus, CSW's subsequent elimination of the intra-SPP 
+rate was contemplated and in fact authorized, albeit not 
+ordered, in the Tariff Order.  FERC points to specific lan-
+guage supporting its interpretation of its Tariff Order as non-
+
+prescriptive with regard to proposing multiple charges, see 
+Brief of Commission at 21,6 and, finding FERC's interpreta-
+tion of its own order reasonable, we must sustain it against 
+Texas Electric's challenge.  See Natural Gas Clearinghouse, 
+108 F.3d at 399.
+
+     Nevertheless the Tariff Order did not provide sufficient 
+notice to Texas Electric that CSW could eliminate the ap-
+proved intra-SPP rate.  See McElroy Elecs. Corp. v. FCC, 
+990 F.2d 1351, 1358 (D.C. Cir. 1993) ("[W]e look not at the 
+reasonableness of the Commission's intended interpretation, 
+but at the clarity with which the agency made that intent 
+known.").  Much of the Tariff Order indicated acceptance of 
+CSW's proposed tariff, including the declarations in the intro-
+ductory paragraph:  "In this order, the Commission directs 
+modifications to and accepts for filing, as modified, a joint 
+system-wide open access transmission tariff."  Tariff Order, 
+81 F.E.R.C. at 62,430 (emphasis added).  In the Commission's 
+concluding list of orders, it also accepted the tariff for filing 
+conditioned on the modifications CSW were directed to make.7  
+See id. at 62,440.  The Commission approved the separate 
+intra-SPP and intra-ERCOT rates so long as their sum did 
+not exceed CSW's average system cost.  See id. at 62,432-33.  
+In fact, FERC deemed the methodology used to determine 
+separate rates "appropriate" and "reasonable."  Id. at 62,433.  
+One reasonable interpretation of the phrase granting CSW 
+discretion is an indication of FERC policy toward future rate 
+
+__________
+     6  In brief the Commission argued:
+
+          As for any requirement that [CSW] must retain their intra-
+     SPP rates, the Tariff Order spoke to that as well.  The Tariff 
+     Order specifically stated that "[w]hile CSW may continue to 
+     propose multiple charges, their total sum may not exceed 
+     CSW's average system cost."  By using the permissive "may," 
+     FERC made clear that [CSW] had the discretion to keep or 
+     eliminate multiple charges including the SPP-only rates.
+     
+Brief of Commission at 21 (citations omitted) (emphasis in original).
+
+     7  As noted earlier, proposed tariff modifications are ordinarily 
+limited to what the Commission directs but the Commission did not 
+direct CSW to eliminate the intra-SPP rate.
+
+changes, as "may continue" implies future action.  This inter-
+pretation is all the more reasonable if, given FERC's discus-
+sion in approving the separate, regional rates, the reader 
+interpreted the order as accepting the proposed rates that 
+were not subject to the directed modification.  On the whole 
+it was not unreasonable for Texas Electric to have overlooked 
+or misread the permissive language of the Tariff Order so as 
+to relieve it of the obligation to petition for clarification or 
+rehearing.  It is for this reason we disagree with the Com-
+mission's statement in the Rehearing Order that Texas Elec-
+tric failed to preserve its challenge (thus precluding our 
+exercise of jurisdiction) because it did not raise the objection 
+in its petition for rehearing of the Tariff Order.
+
+     The judicial review portion of the Act provides that "[n]o 
+objection to the order of the Commission shall be considered 
+by the court unless such objection shall have been urged 
+before the Commission in the application for rehearing unless 
+there is reasonable ground for failure so to do."  16 U.S.C. 
+s 825l(b).  We have consistently rejected agency efforts to 
+bind parties "by what the agency intended, but failed to 
+communicate."  McElroy Elecs. Corp. v. FCC, 990 F.2d 1351 
+(D.C. Cir. 1993).  Rather, an agency order must provide 
+reasonable notice of its import:
+
+     The policy requiring timely filing of motions for reconsid-
+     eration is one of fairness to [FERC8] and to parties 
+     affected by its order;  only a perversion of that policy 
+     could be used to cut off the rights of a party that filed its 
+     application in good faith, as soon as it could reasonably 
+     have become aware of the import of an [FERC] order.  
+     Endorsement of the position that the [FERC] takes 
+     would permit an administrative agency to enter an am-
+     biguous or obscure order, wilfully or otherwise, wait out 
+     the required time, then enter an "explanatory" order that 
+     
+__________
+     8  Instead of referring to FERC, the opinion refers to "FPC," 
+the former Federal Power Commission and the predecessor of 
+FERC.  See, e.g., Elizabethtown Gas Co. v. FERC, 575 F.2d 885, 
+886 (D.C. Cir. 1978).
+
+     would extinguish the review rights of parties prejudicial-
+     ly affected.
+     
+Sam Rayburn Dam Elec. Coop. v. Federal Power Comm'n, 
+515 F.2d 998, 1007 (D.C. Cir. 1975).  As earlier discussed, it 
+was not clear that the Commission could allow elimination of 
+the intra-SPP rate (absent statutorily mandated procedures) 
+until it did so in the Compliance Order.  Texas Electric's 
+challenge made in its request for rehearing of the Compliance 
+Order, therefore, was not untimely.  See MCI Telecomms. 
+Corp. v. FCC, 765 F.2d 1186, 1190-91 (D.C. Cir. 1985) (be-
+cause implication of policy did not follow from earlier order, 
+request for rehearing of subsequent order enunciating policy 
+was timely);  Sam Rayburn Dam, 515 F.2d at 1007-08 (not 
+clear until further clarification order that purchaser of elec-
+tric power was "aggrieved" so application for rehearing was 
+timely filed);  see also RCA Global Communications, Inc. v. 
+FCC, 758 F.2d 722, 730-31 (D.C. Cir. 1985) ("We simply 
+cannot agree that a fair reading of the Prescription Order ... 
+permits the conclusion that [petitioner] did know or should 
+have known that the Commission had confronted, much less 
+resolved, the issue [petitioner] now petitions us to review.");  
+cf. ANR Pipeline Co. v. FERC, 988 F.2d 1229, 1230 (D.C. Cir. 
+1993) ("[W]e believe that an ordinary reader familiar with the 
+industry background would have recognized a very substan-
+tial likelihood that the order meant what the Commission 
+ultimately said it meant.").
+
+     Having concluded that Texas Electric's challenge to the 
+Compliance Order was timely, we look at its merits.  The 
+Commission's summary approval of the Compliance Tariff 
+cannot be regarded as a finding that a modification beyond 
+the modifications directed, that is, the new rate to which 
+SPP-only customers were subjected, was just and reason-
+able.9  Ultimately, the Commission failed to offer anything 
+
+__________
+     9  While it might be argued that the mere reference to the Tariff 
+Order was sufficient to establish that the rates accepted in the 
+Compliance Order were reasonable because no multiple rates would 
+be summed and yield a rate exceeding CSW's average system cost 
+
+from which the court can "discern a reasoned path ... to the 
+decision [the Commission] reached."  K N Energy, Inc. v. 
+FERC, 968 F.2d 1295, 1303-04 (D.C. Cir. 1992).  Accordingly, 
+we conclude the Commission's approval of the rates proposed 
+in the Compliance Tariff was arbitrary and capricious and 
+remand for reconsideration.  See AT&T v. FCC, 974 F.2d 
+1351, 1355 (D.C. Cir. 1992) ("We conclude that the Reconsid-
+eration Order is arbitrary and capricious for want of an 
+adequate explanation and remand it for further consider-
+ation.").
+
+     For the foregoing reasons, we remand to FERC for further 
+proceedings consistent with this opinion.
+
+                                                                            So ordered.
+
+__________
+in violation of the condition the Commission had set, see Tariff 
+Order, 81 F.E.R.C. at 62,433, nonetheless we cannot agree that the 
+Commission determined the rates reflected in the Compliance Tariff 
+were just.  For example, the Commission did not respond to Texas 
+Electric's challenge that the elimination of the separate, intra-SPP 
+rate constituted undue discrimination in light of the continued 
+existence of a separate, intra-ERCOT rate.
+
+                  

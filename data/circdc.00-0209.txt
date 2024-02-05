@@ -1,0 +1,878 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued February 22, 2000     Decided August 8, 2000 
+
+                           No. 99-1220
+
+                Hi-Tech Furnace Systems, Inc. and 
+                       Robert E. Kornfeld, 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+               Sprint Communications Company L.P., 
+                            Intervenor
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Michael C. Spencer argued the cause and filed the briefs 
+for petitioner.  Steven G. Schulman entered an appearance.
+
+     Laurel R. Bergold, Counsel, Federal Communications Com-
+mission, argued the cause for respondent.  With her on the 
+brief were Joel I. Klein, Assistant Attorney General, U.S. 
+Department of Justice, Robert B. Nicholson and Robert J. 
+Wiggers, Attorneys, Christopher J. Wright, General Counsel, 
+Federal Communications Commission, and John E. Ingle, 
+Deputy Associate General Counsel.
+
+     Leon M. Kestenbaum and Michael B. Fingerhut were on 
+the brief for intervenor Sprint Communications Company 
+L.P.
+
+     Before:  Edwards, Chief Judge, Tatel and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Hi-Tech Furnace Systems, Inc. 
+and its president, Robert E. Kornfeld,1 filed a complaint with 
+the Federal Communications Commission (FCC) concerning 
+revisions Sprint Communications made in a long distance 
+calling program known as "Fridays Free."  Concluding that 
+the revisions were lawful, the FCC denied the complaint.  We 
+affirm.
+
+                                I
+
+     Sprint, a common carrier regulated under the Communica-
+tions Act of 1934, provides long distance telephone service to 
+the public.  See 47 U.S.C. ss 153(h), 203.  Hi-Tech is a small 
+business located in the state of Michigan.  On December 14, 
+1995, Sprint filed tariff provisions proposing to offer its new 
+and existing "Business Sense" customers a promotion under 
+which they would be able to make free domestic and interna-
+tional long distance calls on one day of the week for twelve 
+months.  Sprint selected Friday as the day for free service 
+and promoted its new offering as "Fridays Free."  The 
+
+__________
+     1 For ease of reference, Hi-Tech and its president will be re-
+ferred to collectively as "Hi-Tech" or "petitioner."
+
+Fridays Free tariff provisions went into effect on January 1, 
+1996.2
+
+     On February 29, 1996, Hi-Tech enrolled in the Fridays 
+Free program by signing Sprint's standard agreement form.  
+The agreement committed subscribers to a minimum enroll-
+ment term of two years and a minimum monthly usage 
+requirement of $50.  In compliance with the agreement, Hi-
+Tech switched its long distance service to Sprint.
+
+     Shortly after initiating Fridays Free, Sprint began experi-
+encing a substantial increase in international call volume on 
+Fridays.  The growth was so pronounced that it produced 
+capacity problems at Sprint's international gateway switch in 
+New York.3  The volume of traffic impaired the carrier's 
+ability to complete calls to many international locations and 
+threatened to crash Sprint's international network.  See Hi-
+Tech Furnace Sys. v. Sprint Communications Co., 14 
+F.C.C.R. 8040, 8047-48 (1999) [hereinafter Hi-Tech].  Sprint 
+tried to handle the overload by installing a new, more power-
+ful processor at the New York gateway.  Nonetheless, call 
+volume on Fridays remained at dangerously high levels and 
+continued to increase.  See id. at 8042, 8047.
+
+     On April 4, 1996, in an effort to ameliorate the overload 
+problem, Sprint filed a tariff revision to take effect on April 
+18.  Under the revision, Sprint removed 10 countries4 with 
+high numbers of calls from the list of approximately 220 
+foreign locations to which free calling was permitted under 
+the Fridays Free program.  Sprint subsequently restored one 
+__________
+     2 Section 203(a) of the Communications Act requires every com-
+munications common carrier to file with the FCC a schedule of its 
+charges, and the "classifications, practices, and regulations affecting 
+such charges."  47 U.S.C. s 203(a).  In this case, the Fridays Free 
+promotion was a revision of Sprint's existing Business Sense tariff.
+
+     3 During the period at issue in this case, an international call had 
+to go through the "gateway switch" that connected with the interna-
+tional cable system serving the country to which the call was made.  
+See Sprint Br. at 4 n.7.
+
+     4 The deleted countries were Bolivia, China, the Dominican Re-
+public, Ecuador, India, Iran, Israel, Myanmar, Pakistan, and Thai-
+land.
+
+country, the Dominican Republic, to the list, leaving a total of 
+nine deletions.  Sprint notified its subscribers of the modifica-
+tions by mailgram.  In lieu of free Friday calling to the 
+deleted countries, Sprint offered subscribers a 25% discount 
+on calls to those countries every day of the week.  Sprint also 
+allowed Fridays Free customers who did not want to continue 
+in the program to terminate their subscription without penal-
+ty--although it did not advise subscribers of this option 
+unless they affirmatively communicated their lack of contin-
+ued interest.
+
+     The tariff revisions immediately remedied Sprint's system 
+capacity problems.  The occupancy level of the New York 
+gateway switch declined from 109% on April 12, to 59% on 
+April 19, the day after the program was revised.  The total 
+number of calls made to those countries dropped from 3.69 
+million on April 12 to 1.43 million on April 19, 1996.  See Hi-
+Tech, 14 F.C.C.R. at 8048.
+
+     On April 18, 1996, the day the tariff revisions became 
+effective, Hi-Tech filed a class action in Missouri state court, 
+alleging that Sprint had breached its contract with its Fridays 
+Free subscribers.  Sprint removed the case to the United 
+States District Court for the Western District of Missouri.  
+There, the district court concluded that Hi-Tech's complaint 
+required a determination of the reasonableness of Sprint's 
+revised tariff, and that such a determination was within the 
+primary jurisdiction of the FCC.  See Hi-Tech Furnace Sys. 
+v. Sprint Communications Co., No. 96-0566-CV-W-3 (W.D. 
+Mo. May 9, 1997).  The court permitted Hi-Tech to amend its 
+complaint to add counts alleging violations of the Communica-
+tions Act, and thereafter referred the case to the FCC "for all 
+further proceedings."  Hi-Tech Furnace Sys. v. Sprint Com-
+munications Co., No. 96-0566-CV-W-3 (W.D. Mo. Aug. 29, 
+1997).  At the same time, it dismissed Hi-Tech's contract 
+claim without prejudice and denied its motion for class certifi-
+cation as moot.
+
+     On April 17, 1998, Hi-Tech filed a complaint against Sprint 
+with the FCC, alleging that Sprint's curtailment of the Fri-
+days Free program violated section 201(b) of the Communica-
+
+tions Act because it was unjust and unreasonable,5 and sec-
+tion 203(c) because it was in breach of Sprint's existing 
+tariffs.6  On April 16, 1999, the Commission ruled against Hi-
+Tech on both claims.  See Hi-Tech, 14 F.C.C.R. at 8041.  Hi-
+Tech then petitioned for review in this court, limiting its 
+petition to the claim that Sprint violated section 201(b).  See 
+Hi-Tech Br. at 4 n.1.  Petitioner challenges the FCC's deci-
+sion on both procedural and substantive grounds, and we 
+consider those challenges in turn.
+
+                                II
+
+     Hi-Tech levels two procedural attacks against the FCC's 
+decision.  First, it contends that the Commission improperly 
+assigned it the burden of proof on the question of whether 
+Sprint's tariff revisions were just and reasonable.  Second, it 
+argues that the Commission improperly denied its requests 
+for discovery from Sprint.
+
+                                A
+     The FCC assigned Hi-Tech the burden of proof, holding 
+that "[i]t is well established that, in a formal complaint 
+proceeding brought under section 208 of the Act, the com-
+plainant has the burden of proof to demonstrate that the 
+carrier has violated the Act."  Hi-Tech, 14 F.C.C.R. at 8044.  
+Hi-Tech argues that this allocation was error.  First, it 
+contends that it brought this proceeding not under Communi-
+cations Act section 208,7 but rather under section 
+__________
+     5 Section 201(b) requires that "[a]ll charges, practices, classifica-
+tions and regulations" of communications common carriers "shall be 
+just and reasonable."  47 U.S.C. s 201(b).
+
+     6 Section 203(c) provides that "no carrier shall (1) charge, de-
+mand, collect, or receive a greater or less or different compensation 
+... for any service ... than the charges specified in the [tariff] 
+then in effect."  47 U.S.C. s 203(c).
+
+     7 Section 208, entitled "Complaints to the Commission," states:
+
+     (a) Any person ... complaining of anything done or omitted to 
+     be done by any common carrier subject to this chapter, in 
+     contravention of the provisions thereof, may apply to said 
+     Commission by petition....  If such common carrier within 
+     the time specified shall make reparation for the injury alleged    
+204,8 which expressly places the burden of proof on the 
+carrier.  See 47 U.S.C. s 204 ("At any hearing involving a 
+new or revised charge, or a proposed new or revised charge, 
+the burden of proof to show that the new or revised charge, 
+__________
+     to have been caused, the common carrier shall be relieved of 
+     liability to the complainant....  If such carrier ... shall not 
+     satisfy the complaint within the time specified or there shall 
+     appear to be any reasonable ground for investigating said 
+     complaint, it shall be the duty of the Commission to investigate 
+     the matters complained of in such manner and by such means 
+     as it shall deem proper.
+47 U.S.C. s 208.
+    
+ 8 Section 204, entitled "Hearings on new charges," states:
+     (a)(1) Whenever there is filed with the Commission any new or 
+     revised charge ... or practice, the Commission may either 
+     upon complaint or upon its own initiative without complaint ... 
+     enter upon a hearing concerning the lawfulness thereof;  and 
+     pending such hearing and the decision thereon ... may sus-
+     pend the operation of such charge ... or practice, ... but not 
+     for a longer period than five months beyond the time when it 
+     would otherwise go into effect;  and after full hearing the 
+     Commission may make such order with reference thereto as 
+     would be proper in a proceeding initiated after such charge ... 
+     or practice had become effective.  If the proceeding has not 
+     been concluded and an order made within the period of the 
+     suspension, the proposed new or revised charge ... or practice 
+     shall go into effect at the end of such period....  At any 
+     hearing involving a new or revised charge, or a proposed new 
+     or revised charge, the burden of proof to show that the new or 
+     revised charge, or proposed charge, is just and reasonable shall 
+     be upon the carrier....
+     
+     (b) Notwithstanding the provisions of subsection (a) of this 
+     section, the Commission may allow part of a charge ... or 
+     practice to go into effect, based upon a written showing by the 
+     carrier or carriers affected ... that such partial authorization 
+     is just, fair, and reasonable.  Additionally, or in combination 
+     with a partial authorization, the Commission, upon a similar 
+     showing, may allow ... a charge ... or practice to go into 
+     effect on a temporary basis pending further order of the 
+     Commission.
+     
+47 U.S.C. s 204.
+
+or proposed charge, is just and reasonable shall be upon the 
+carrier....").  Second, even if the proceeding had been 
+brought under section 208, Hi-Tech contends it would be 
+unlawful to allocate the burden differently under that section.
+
+     We agree with the FCC that the complaint was brought, 
+and properly so, under section 208 rather than section 204.9  
+That Hi-Tech brought the complaint under section 208 is 
+apparent from its own pleadings, which attached a form 
+identifying section 208(a) as the statutory basis for the claims.  
+See Formal Complaint Intake Form (J.A. at 79).  That sec-
+tion 208 was the proper avenue derives from an analysis of 
+the purposes of the two sections.
+
+     The FCC interprets section 204 as granting it a quasi-
+legislative authority to evaluate a carrier's proposals for new 
+or revised rates.  It understands section 208, by contrast, as 
+granting it authority, upon complaint by an injured party, to 
+adjudicate the lawfulness of a carrier's past and present rates 
+and practices.  See, e.g., National Exchange Carrier Ass'n, 2 
+F.C.C.R. 3679, 3679 (1987) ("[I]ssues [that] ... relate to 
+currently effective tariff provisions ... cannot be raised in a 
+petition for a Section 204 investigation.  Objections to an 
+existing tariff provision may be presented in a Section 208 
+complaint.").  We have previously expressed the same under-
+standing,10 and the distinction is similar to that which courts 
+
+__________
+     9 At oral argument, petitioner verified that these are the only 
+sections at issue.  Hi-Tech did not, it conceded, endeavor to bring 
+its complaint under another possibly relevant section, section 205, 
+which permits the FCC (on its own initiative or upon complaint) to 
+determine that an existing rate is unjust or unreasonable and to 
+provide prospective relief.  See 47 U.S.C. s 205;  Illinois Bell Tel. 
+Co. v. FCC, 966 F.2d 1478, 1482 (D.C. Cir. 1992).
+
+     10 Compare Southwestern Bell Tel. Co. v. FCC, 168 F.3d 1344, 
+1350 (D.C. Cir. 1999) ("Section 204(a) gives the Commission the 
+authority to approve or suspend a proposed charge...."), and 
+Southwestern Bell Corp. v. FCC, 43 F.3d 1515, 1524 (D.C. Cir. 1995) 
+("Upon complaint or on its own initiative, the Commission may hold 
+hearings and declare unlawful proposed rate increases under sec-
+tion 204."), with AT&T v. FCC, 978 F.2d 727, 732 (D.C. Cir. 1992) 
+
+have made with respect to analogous provisions in both the 
+Interstate Commerce Act (ICA)11 and the Natural Gas Act 
+(NGA).12  As the FCC's construction constitutes a reasonable 
+interpretation of the statutory language,13 we are bound to 
+__________
+(describing s 208 proceeding as one in which the FCC's task was, 
+"as an adjudicator of private rights," to determine "whether or not 
+[the carrier] has been, and currently was, violating the law").  See 
+also Direct Mktg. Ass'n v. FCC, 772 F.2d 966, 969 (D.C. Cir. 1985).
+
+     11 49 U.S.C. ss 10101 et seq.  See Southern Ry. v. Seaboard 
+Allied Milling Corp., 442 U.S. 444, 446, 450, 454 (1979) (noting 
+distinction between proceedings under ICA s 15(8)(a) to challenge 
+proposed rate increases, and "posteffective proceedings" to protect 
+"aggrieved" parties under ICA s 13(1));  Baer Bros. Mercantile Co. 
+v. Denver & Rio Grande R.R., 233 U.S. 479, 486 (1914) ("[A]warding 
+reparation for the past and fixing rates for the future involve the 
+determination of matters essentially different.  One is in its nature 
+private and the other public.  One is made by the Commission in its 
+quasi-judicial capacity to measure past injures sustained by a 
+private shipper;  the other, in its quasi-legislative capacity, to 
+prevent future injury to the public.");  see also MCI Tel. Corp. v. 
+FCC, 59 F.3d 1407, 1418 (D.C. Cir. 1995) ("Because the Congress 
+borrowed heavily from the Interstate Commerce Act when it draft-
+ed the Communications Act of 1934 ... both this court and the 
+[FCC] often turn to decisions under the ICA for guidance in 
+interpreting the Communications Act.").  The Interstate Commerce 
+Commission was abolished in 1996, and its remaining functions were 
+transferred to the Surface Transportation Board.  See ICC Termi-
+nation Act of 1995, Pub. L. No. 104-88, 109 Stat. 803 (1995).
+
+     12 15 U.S.C. ss 717 et seq.  See Public Serv. Comm'n v. FERC, 
+866 F.2d 487, 488 (D.C. Cir. 1989) (noting distinction between 
+proceedings concerning "proposed rates" under NGA s 4, and 
+proceedings concerning existing rates under s 5);  see also Las 
+Cruces TV Cable v. FCC, 645 F.2d 1041, 1047 (D.C. Cir. 1981) 
+(stating that ratesetting provisions of Communications Act are 
+analogous to provisions of NGA and "trace their lineage" to ICA).
+
+     13 Section 204 contains repeated indications of its intended appli-
+cation to charges not yet in effect.  It applies to "any new or 
+revised" charge or practice;  it permits suspension of such charge or 
+practice for not longer than five months "beyond the time when it 
+would otherwise go into effect";  if an order has not been issued 
+
+defer to it.  See Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837, 
+842-45 (1984).
+
+     Hi-Tech did not file a complaint with the Commission 
+before the Fridays Free revisions went into effect.  Instead, 
+it challenged them two years after they had been in place.  
+Accordingly, under the foregoing interpretation of the two 
+statutory provisions, Hi-Tech's complaint falls within section 
+208.
+
+     Unlike section 204, section 208 is silent as to which party 
+bears the burden of proof.  Hi-Tech argues that it is unlawful 
+for the FCC to place the burden on the complainant in section 
+208 proceedings, when the statute places it on the carrier in 
+proceedings under section 204.  We disagree.
+
+     Well-established FCC precedent imposes the burden of 
+proof on the complainant in section 208 proceedings.14  So 
+
+__________
+within the period of the suspension, it provides that "the proposed 
+new or revised" charge or practice "shall go into effect";  and it 
+authorizes the Commission to allow a charge or practice "to go into 
+effect on a temporary basis" pending further order.  Section 208, by 
+contrast, contains repeated indications of its intended application to 
+past actions.  For example, it permits any person complaining of 
+anything "done or omitted to be done" by any common carrier to 
+petition the FCC, and it relieves the carrier of liability if it makes 
+reparations "for the injury alleged to have been caused."  See 47 
+U.S.C. s 204, set out at supra note 8;  47 U.S.C. s 208, set out at 
+supra note 7.
+
+     14 See Beehive Tel., Inc., 12 F.C.C.R. 17950, 17961-62 (1995) 
+("Although carriers who file new or revised rates bear the burden of 
+proof in Section 204 proceedings, it is well settled that complainants 
+in Section 208 formal complaint proceedings bear the burden of 
+proof."), aff'd on other grounds, 179 F.3d 941 (D.C. Cir. 1999);  see 
+also Ascom Communications, Inc. v. Sprint Communications Co., 
+15 F.C.C.R. 3223, 3230 n.41 (2000);  AT&T v. Bell Atlantic, 14 
+F.C.C.R. 556, 570 (1998);  Directel, Inc. v. AT&T, 11 F.C.C.R. 7554, 
+7560 (1996);  Connecticut Office of Consumer Counsel, 4 F.C.C.R. 
+8130, 8133 (1989), aff'd on other grounds, 915 F.2d 75 (2d Cir. 1990).  
+The petitioner's references to FCC opinions in agency proceedings 
+initiated under sections other than s 208 are inapposite.
+
+does our own.15  Such an allocation is consistent with the 
+Administrative Procedure Act (APA), which takes into ac-
+count the distinction between statutory provisions that do and 
+do not mention the burden of proof, and which directs that:  
+"Except as otherwise provided by statute, the proponent of a 
+rule or order has the burden of proof."  5 U.S.C. s 556(d).  It 
+is likewise consistent with the Supreme Court's allocation of 
+the burden of proof under the analogous provisions in the 
+ICA,16 and with our own allocation of the burden under the 
+analogous provisions in the NGA.17  Accordingly, we find 
+
+__________
+     15 See American Message Ctrs. v. FCC, 50 F.3d 35, 41 (D.C. Cir. 
+1995) (stating, regarding a case brought under s 208, that "[t]he 
+rules place the burden of pleading and documenting a violation of 
+the Act on [the complainant].  They do not require [the carrier] to 
+prove it has not violated the Act.");  Aeronautical Radio, Inc. v. 
+FCC, 642 F.2d 1221, 1235 n.34 (D.C. Cir. 1980) (noting that the 
+complaint procedure of ss 206-209 "shifts the burden of proof onto 
+the aggrieved party").  See generally Copley Press, Inc. v. FCC, 444 
+F.2d 985, 988 (D.C. Cir. 1971) (holding s 204 burden-allocation 
+provision may not be relied upon to assess burden in non-204 
+proceeding).
+
+     16 See Southern Ry., 442 U.S. at 446, 450, 454 (noting that burden 
+of proof is on carrier in s 15(8)(a) proceeding, while burden is on 
+shipper (customer) in s 13(1) proceeding);  Aeronautical Radio, 642 
+F.2d at 1235 n.34 (relying on Southern Railway for conclusion that 
+ss 206-209 of Communications Act "shift[ ] the burden of proof 
+onto the aggrieved party").  See generally supra note 11.
+
+     17 In Public Service, we held that "[u]nder s 4 [of the NGA] the 
+company has the burden of showing that [its] proposed rates are 
+just and reasonable, while under s 5 the Commission must show 
+that the [filed] rates it would alter are not just and reasonable....  
+The unifying principle is that the proponent of change bears the 
+burden."  866 F.2d at 488.  Section 4 of the NGA, 15 U.S.C. 
+s 717c(e), like section 204 of the Communications Act, expressly 
+provides that "[a]t any hearing involving a rate or charge sought to 
+be increased, the burden of proof to show that the increased rate or 
+charge is just and reasonable shall be upon the natural-gas compa-
+ny."  Section 5 of the NGA, like section 208 of the Communications 
+Act, is silent as to the burden of proof.  See ANR Pipeline v. 
+
+nothing unlawful about the FCC's decision to impose upon 
+Hi-Tech the burden of proof regarding the reasonableness of 
+the tariff revisions.
+
+                                B
+
+     After filing its complaint with the FCC, Hi-Tech served 
+Sprint with a set of seven interrogatories.  Sprint objected 
+and, Hi-Tech contends, FCC counsel declined to direct the 
+carrier to respond.18  Instead, the Commission undertook its 
+own investigation, making its own demands for information 
+from the parties and following up with supplemental inquiries.  
+Hi-Tech contends that the agency acted unlawfully in failing 
+to allow petitioner to conduct its own discovery.
+
+     The FCC responds that this court has no jurisdiction to 
+review its decision not to permit discovery.  It asserts that 
+discovery is agency action "committed to agency discretion by 
+law" within the meaning of the APA, 5 U.S.C. s 701(a)(2), and 
+thus is not subject to judicial review.  See generally Heckler 
+v. Chaney, 470 U.S. 821, 828-29 (1985).  For support, the 
+FCC points to the broad language of Communications Act 
+s 208(a), which states that "it shall be the duty of the 
+Commission to investigate the matters complained of in such 
+manner and by such means as it shall deem proper."  And it 
+further cites our decision in Sprint Communications Co. v. 
+FCC, 76 F.3d 1221, 1231 (D.C. Cir. 1996), which it reads as 
+declaring, albeit in dictum, that the Commission's refusal to 
+permit discovery under section 208(a) is a matter within its 
+unreviewable discretion.
+
+     The United States, represented by the Department of 
+Justice, is by law a co-respondent with the FCC in this case.  
+See 28 U.S.C. ss 2344, 2348.  In contrast to the FCC, the 
+United States believes that the agency's decision regarding 
+discovery is reviewable.  See Resp'ts Br. at 32 n.69.  We 
+agree.  The FCC's position confuses the narrow category of 
+agency action wholly committed to agency discretion under 
+__________
+
+FERC, 771 F.2d 507, 513 (D.C. Cir. 1985) (discussing different 
+burdens of proof under NGA).  See generally supra note 12.
+
+     18 The FCC contends that Hi-Tech never filed a motion to compel 
+a response.
+
+APA s 701(a)(2), with the primary category of agency action 
+that is subject to review for "abuse of discretion" under APA 
+s 706(2)(A).  See Heckler, 470 U.S. at 828-29.  We do not 
+lightly place a matter within the former category, as the APA 
+embodies "a 'basic presumption of judicial review.' "  Lincoln 
+v. Vigil, 508 U.S. 182, 190 (1993) (quoting Abbott Labs. v. 
+Gardner, 387 U.S. 136, 140 (1967)).  The exception for agency 
+action "committed to agency discretion by law" is a "very 
+narrow" one, reserved for "those rare instances where stat-
+utes are drawn in such broad terms that in a given case there 
+is no law to apply."  Citizens to Preserve Overton Park v. 
+Volpe, 401 U.S. 402, 410 (1971) (internal quotation omitted);  
+see Lincoln, 508 U.S. at 191.
+
+     As the United States correctly points out, this court's 
+dictum in Sprint Communications does not support the 
+FCC's claim to immunity from judicial review.  Sprint stated 
+that "it appears that the FCC's decision whether to investi-
+gate a particular matter is an 'agency action ... committed 
+to agency discretion by law.' "  76 F.3d at 1231 (emphasis 
+added).19  The court suggested, by its immediately-following 
+citation to Heckler v. Chaney, that an agency's decision not to 
+commence an investigation is analogous to an agency's deci-
+sion not to take enforcement action--which the Supreme 
+Court held unreviewable in Heckler.  See Heckler v. Chaney, 
+470 U.S. at 832.  An agency's decision not to permit discov-
+ery, however, is not analogous to a decision not to take 
+enforcement action.  Unlike the latter, which the Court noted 
+has long been regarded as committed to an agency's absolute 
+discretion, see id. at 831 (citing precedent dating to 1869), this 
+court and others have long reviewed agency decisions regard-
+ing discovery.20  In fact, in American Message Centers v. 
+
+__________
+     19 Although the Sprint opinion noted the petitioner's objection "to 
+the FCC's failure to permit discovery or to conduct an evidentiary 
+proceeding in order to investigate the alleged fraudulent conceal-
+ment," the court's comment on reviewability mentioned only the 
+"decision whether to investigate a particular matter."  Sprint Com-
+munications, 76 F.3d at 1231 (emphasis added).  Moreover, not-
+withstanding its comment, the court went on to review the FCC's 
+failure and found no abuse of discretion.  See id.
+
+     20 See Lakeland Bus Lines v. ICC, 810 F.2d 280, 287-88 (D.C. Cir. 
+1987) (reversing in part ICC denial of petitioner's discovery request 
+
+FCC, 50 F.3d 35, 40-41 (D.C. Cir. 1995), we reviewed for 
+abuse of discretion the FCC's refusal to compel discovery in a 
+section 208 proceeding.  We follow that course here as well.
+
+     This court reviews such a determination, however, with 
+"extreme deference."  Lakeland Bus Lines v. ICC, 810 F.2d 
+280, 286 (D.C. Cir. 1987).  "[T]he conduct and extent of 
+discovery in agency proceedings is a matter ordinarily en-
+trusted to the expert agency in the first instance and will not, 
+barring the most extraordinary circumstances, warrant the 
+Draconian sanction of overturning a reasoned agency deci-
+sion."  Trailways Lines v. ICC, 766 F.2d 1537, 1546 (D.C. 
+Cir. 1985).  Although we have concluded that the Commis-
+sion's actions are reviewable for abuse of discretion, we agree 
+with both the United States and the Commission that there 
+has been no such abuse here.
+
+     In this case, a body of evidence was generated by the 
+formal written submissions of the litigants.  In addition, the 
+FCC made its own inquires, directing the parties to respond 
+to detailed requests for information.  The Commission also 
+had available Sprint's responses to the discovery requests 
+served by Hi-Tech during proceedings in the district court.  
+As our analysis in Part III below makes clear, the sum of 
+these measures created the record necessary to make the just 
+and reasonableness determination contemplated by 47 U.S.C. 
+s 201(b).
+
+__________
+on ground that denial relied on inaccurate factual premise);  Trail-
+ways Lines v. ICC, 766 F.2d 1537, 1546 (D.C. Cir. 1985) (reviewing, 
+but upholding as reasonable, ICC's rejection of petitioners' discov-
+ery request);  Cross-Sound Ferry Svcs., Inc. v. ICC, 738 F.2d 481, 
+486-87 (D.C. Cir. 1984) (holding that ICC's failure to gather suffi-
+cient evidence from applicant for common carrier authority was 
+arbitrary and capricious);  McClelland v. Andrus, 606 F.2d 1278, 
+1286 (D.C. Cir. 1979) (reviewing agency discovery decision and 
+remanding for further consideration);  Virginia Petroleum Jobbers 
+Ass'n v. FPC, 293 F.2d 527, 529 (D.C. Cir. 1961);  see also, e.g., 
+Pacific Gas and Elec. Co. v. FERC, 746 F.2d 1383, 1387-88 (9th Cir. 
+1984);  Armstrong, Jones & Co. v. SEC, 421 F.2d 359, 364 (6th Cir. 
+1970);  NLRB v. Gala-Mo Arts, Inc., 232 F.2d 102, 106 (8th Cir. 
+1956).
+
+     Hi-Tech's real dispute is not with the discovery measures 
+the FCC took, but with additional measures it did not take.  
+Specifically, petitioner insists that the Commission should 
+have permitted Hi-Tech itself to take discovery from Sprint, 
+in the form of its own interrogatories and depositions, in 
+order to test Sprint's responses "through normal adversarial 
+proceedings."  Hi-Tech Br. at 17.  But Hi-Tech's demand 
+misapprehends the nature of the administrative process it 
+entered into when its complaint was ousted from the district 
+court and referred to the FCC.  As we have pointed out 
+before in affirming an FCC decision not to compel discovery 
+sought by a petitioner:  Complaint proceedings under the 
+Communications Act, "unlike court litigation or 
+administrative-trial type hearings, are often resolved solely on 
+the written pleadings," and the Commission has properly 
+"placed limitations on the scope and methods of discovery in 
+its formal complaint proceedings that do not exist in trials 
+governed by the Federal Rules."  American Message Ctrs., 
+50 F.3d at 41;  see McClelland v. Andrus, 606 F.2d 1278, 1285 
+(D.C. Cir. 1979) ("The extent of discovery that a party 
+engaged in an administrative hearing is entitled to is primari-
+ly determined by the particular agency:  ... courts have 
+consistently held that agencies need not observe all the rules 
+and formalities applicable to courtroom proceedings.").
+
+     Nothing in either the Communications Act or the APA 
+entitles a party to the specific procedures Hi-Tech demands.  
+To the contrary, and as the FCC properly emphasizes, section 
+208 of the Communications Act expressly authorizes the 
+Commission "to investigate the matters complained of in such 
+manner and by such means as it shall deem proper."  47 
+U.S.C. s 208;  cf. FCC v. Schreiber, 381 U.S. 279, 289 (1965).  
+Moreover, the Supreme Court has firmly instructed us that 
+"courts are not free to impose upon agencies specific proce-
+dural requirements that have no basis in the APA" or statute.  
+Pension Benefit Guar. Corp. v. LTV Corp., 496 U.S. 633, 654 
+(1990).  Although "[a]gencies are free to grant additional 
+procedural rights in the exercise of their discretion,"21 "re-
+
+__________
+     21 FCC regulations permit complainants to file requests for inter-
+rogatories, but leave it to Commission staff to "determine the 
+
+viewing courts are generally not free to impose them if the 
+agencies have not chosen to grant them."  Vermont Yankee 
+Nuclear Power Corp. v. NRDC, 435 U.S. 519, 524 (1978).
+
+     Cross-Sound Ferry Services, Inc. v. ICC, cited by petition-
+er, is not to the contrary.  738 F.2d 481, 486-87 (D.C. Cir. 
+1984).  In that case, a ferry company challenged the ICC's 
+decision to grant common carrier authority to its competitor, 
+the Bridgeport & Port Jefferson Steamboat Company 
+(B&PJ).  On appeal from the agency, this court held that the 
+ICC had acted arbitrarily in failing to gather the information 
+necessary to make the statutory determination of whether the 
+proposed service was " 'required by the present or future 
+public convenience and necessity.' "  Id. at 482-84 (quoting 49 
+U.S.C. s 10922(a)).  We did not, however, say that the error 
+was the ICC's failure to permit discovery by the complainant.  
+Rather, the error was the Commission's refusal to generate 
+an appropriate record--"by requiring greater specificity from 
+B&PJ or by permitting Cross-Sound to ferret out relevant 
+evidence through discovery"--which left the ICC without 
+"sufficient record evidence to permit a reasoned application of 
+statutory directives."  Id. at 484 (emphasis added).
+
+     As we have noted above, the FCC did compile a record 
+sufficient to make the statutory determination at issue in this 
+case.  Hi-Tech does not specify any additional information 
+that should have been obtained, nor does it point out any way 
+in which conducting its own discovery would have made a 
+difference--other than to emphasize its skepticism of the 
+"self-serving" nature of Sprint's responses and the need to 
+test them by the adversary process.  Since the Supreme 
+Court has made clear that we are not permitted to impose 
+any such testing procedure on an agency, we have no basis 
+for setting aside the FCC's decision.
+
+__________
+interrogatories, if any, to which parties shall respond."  47 C.F.R. 
+s 1.729(d).  The regulations also authorize the Commission, in its 
+discretion, to allow additional discovery, including depositions.  See 
+47 C.F.R. s 1.729(h).
+
+                               III
+
+     With these preliminary matters attended to, we now reach 
+the merits of Hi-Tech's complaint.  We review the FCC's 
+denial only to determine whether it was "arbitrary, capri-
+cious, an abuse of discretion, or otherwise not in accordance 
+with law."  5 U.S.C. s 706(2)(A);  see American Message 
+Ctrs., 50 F.3d at 39.
+
+     The gravamen of Hi-Tech's complaint is that the changes 
+Sprint made in its Fridays Free program breached the 
+requirement of section 201(b) that "charges, practices, classi-
+fications, and regulations ... be just and reasonable."  47 
+U.S.C. s 201(b).  To determine whether the revisions met the 
+statutory standard, Hi-Tech urged the Commission to employ 
+its so-called "substantial cause" test:  that is, to determine 
+whether Sprint had "substantial cause" to amend the tariff.  
+See Hi-Tech Br. at 21-23;  see generally Showtime Networks 
+Inc. v. FCC, 932 F.2d 1 (D.C. Cir. 1991) (discussing "substan-
+tial cause" test for determining whether tariff modifications 
+are just and reasonable);  RCA American Communications, 
+Inc., 86 F.C.C.2d 1197, 1201-02 (1981) (holding that a carri-
+er's decision "to revise material provisions in the middle of a 
+term" will be considered "reasonable" if the carrier can make 
+a showing of "substantial cause" for so doing).  The FCC 
+noted that it had previously applied the substantial cause test 
+only to revisions of individually-negotiated contract tariffs and 
+to revisions of generic, long-term service tariffs filed by 
+dominant carriers.  See Hi-Tech, 14 F.C.C.R. at 8045-46.  
+The Commission had not yet decided, however, whether the 
+test should be applied to "a nondominant carrier's generic, 
+long-term service tariff, such as the Fridays Free promotion 
+at issue here."  Id. at 8046.  Nonetheless, the FCC agreed to 
+apply the standard, arguendo, to Sprint's tariff revisions.  See 
+id.
+
+     Under the substantial cause test, the FCC measures the 
+reasonableness of a tariff modification by weighing two princi-
+pal considerations:  the "carrier's explanation of the factors 
+necessitating the desired changes at that particular time," 
+and the "position of the relying customer."  RCA American, 
+86 F.C.C.2d at 1201;  see Hi-Tech, 14 F.C.C.R. at 8045.  The 
+
+FCC resolved the first factor in Sprint's favor, concluding 
+that "Sprint has demonstrated that the tariff revisions were 
+necessary to prevent the overloading of Sprint's network, 
+despite reasonable efforts by Sprint to preserve the Fridays 
+Free promotion in its original form."  Hi-Tech, 14 F.C.C.R. 
+at 8046.  The Commission found that on each successive 
+Friday after the promotion began, call volume increased 
+dramatically.  See id. By late March, "the extraordinarily 
+high call volumes on Fridays threatened to bring down 
+Sprint's New York international gateway switch ... which 
+repeatedly reached over 100% of designed traffic capacity."  
+Id. at 8047.  Moreover, "because of this international over-
+load, the New York domestic switch ... also approached 
+overload levels."  Id.  Together, "[t]hese system overloads 
+prevented the completion of many international calls from all 
+over the country."  Id.
+
+     The FCC also found that Sprint had taken steps to try to 
+resolve the overload problem short of deleting countries from 
+the Fridays Free program.  See id.  Sprint purchased and 
+installed a new processor, and it changed the routing of calls 
+so that the domestic New York switch would receive less 
+traffic.  See id.  Despite these efforts, "[t]raffic loads contin-
+ued to increase dangerously" and threatened to crash the 
+gateway switch.  Id. at 8047-48.  Sprint then filed its tariff 
+revisions, and on the first Friday after they took effect, call 
+volume dramatically decreased and the threat was eliminated.  
+See id. at 8048.
+
+     These findings reasonably support the FCC's conclusion 
+that Sprint satisfied the first half of the substantial cause 
+test, by establishing its need for the revisions in the Fridays 
+Free program.  This was not a case in which the carrier 
+sought midterm changes based merely on a "generalized 
+assertion of rising costs," RCA American, 86 F.C.C.2d at 
+1205, or on a claim "that it will make less money" without 
+them, AT&T Communications, 5 F.C.C.R. 6777, 6779 
+(1990)--rationales the agency has found unpersuasive in the 
+past.  Here, the FCC concluded that revisions were neces-
+sary "to protect the integrity of [Sprint's] network"--to pre-
+vent the crash of key switches with consequent disruption for 
+
+all of Sprint's subscribers.  Hi-Tech, 14 F.C.C.R. at 8050.  
+Although Hi-Tech argues that Sprint could have expanded its 
+facilities rather than curtail the program, the FCC reasonably 
+noted that Sprint had already tried that to no avail, and that 
+further expansion of Sprint's international capacity would 
+have required negotiations with a foreign carrier, a process 
+that could not have been completed in time to resolve the 
+capacity crisis.  See id. at 8048.
+
+     Hi-Tech also argues that Sprint should have employed a 
+"less onerous" alternative than deletion of the nine countries.  
+Hi-Tech Br. at 26.  Of course, deletion was itself a less 
+drastic alternative than canceling the entire program:  Sprint 
+continued to permit free Friday calling to more than 200 
+foreign locations, as well as to all domestic locations.  None-
+theless, Hi-Tech argues that Sprint could have retained free 
+calling to the nine countries, but "spread the program bene-
+fits over more days of the week" by "designating different 
+days of the week for different segments of customers."  Id. at 
+26-27 (quoting Compl. p 27).  Sprint should not be permitted 
+to revise its tariff "in a way that is economically beneficial to 
+the carrier," Hi-Tech insists, "when better and fairer alterna-
+tives are available."  Id. at 27.
+
+     The FCC rejected this demand.  The Commission noted 
+Sprint's representations that such a plan would have been 
+impractical, and noted that Hi-Tech had failed to offer any 
+evidence to the contrary.  See Hi-Tech, 14 F.C.C.R. at 8049.  
+It further pointed out that Hi-Tech had failed to show why 
+free calling on one day of the week was any more reasonable 
+than the alternative Sprint adopted:  a 25% discount every 
+day.  The FCC's statutory mandate is only to ensure that 
+tariff revisions are "just and reasonable," 47 U.S.C. s 201(b), 
+not that they are the "least onerous" alternative available.  
+See Showtime, 932 F.2d at 4 (holding that substantial cause 
+test is only an aid in ascertaining whether newly filed modifi-
+cations to long-term tariffs are "within the zone of reason-
+ableness," and "not an additional hurdle" for carriers to 
+overcome).  And our statutory mandate is only to ensure that 
+the agency's determinations are themselves reasonable, re-
+gardless of whether there may be other "better and fairer" 
+
+alternatives.  Cf. Serono Labs., Inc. v. Shalala, 158 F.3d 1313, 
+1321 (D.C. Cir. 1998).  The FCC's finding with respect to 
+Sprint's need for the tariff revisions meets that standard.
+
+     Turning to the second half of the substantial cause test, the 
+FCC looked for evidence of Hi-Tech's reliance on the provi-
+sions of the Fridays Free plan--and found it to be minimal.  
+Hi-Tech's president conceded that he had switched to Sprint 
+not only because of the Fridays Free promotion, but also 
+because Sprint's "rate was attractive in itself."  J.A. at 228 
+(Kornfeld Dep.).  There was no evidence that, during the 
+month and a half in which it subscribed to the unrevised 
+Fridays Free program, Hi-Tech had made any calls to any of 
+the nine deleted countries--with the exception of three calls 
+its president made after Sprint announced the revisions, calls 
+he conceded making to take advantage of the last free-calling 
+opportunity under the program.  See Hi-Tech, 14 F.C.C.R. at 
+8049;  J.A. at 237, 239, 241 (Kornfeld Dep.).  Nor did the 
+company offer evidence to show that it had been any better 
+off under Fridays Free than it was under the new 25%-
+discount plan.  And while Hi-Tech contends that it should be 
+able to support its case by showing the detrimental reliance 
+of Sprint customers other than itself--because it initially filed 
+the case in court as a class action22--there is no evidence of 
+such reliance in the record.  To the contrary, the Commission 
+concluded that because Sprint permitted Fridays Free cus-
+tomers to terminate their contracts without penalty if they 
+were dissatisfied with the revisions, they were "no worse off 
+than if they had never enrolled in Sprint's Fridays Free 
+promotion."  Hi-Tech, 14 F.C.C.R. at 8050.23
+
+__________
+     22 But see Krauss, 14 F.C.C.R. 2770, 2774 (1999) (finding it 
+inappropriate to determine carrier's liability for injuries to other 
+subscribers, as that "would, in effect, transform this section 208 
+complaint proceeding into a class action suit, a result neither 
+contemplated by, nor consistent with, the private remedies created 
+under sections 206 through 209 of the Act");  Certified Collateral 
+Corp., 2 F.C.C.R. 2171, 2173 (1987) (noting that FCC rules "do not 
+contemplate class action complaints").
+
+     23 The FCC also noted that the standard order form signed by 
+Hi-Tech stated that the promotion was "governed by the applicable 
+
+     In sum, we discern no abuse of discretion in the agency's 
+conclusion that the tariff revisions were just and reasonable 
+under both prongs of the substantial cause test.
+
+                                IV
+
+     As a final argument, Hi-Tech contends that the FCC 
+should have used "commercial contract law principles" to 
+resolve this case, and that if it had, Hi-Tech would have 
+prevailed.  It further argues that because the FCC did not 
+employ such principles, we are obliged to vacate the Commis-
+sion's order.  Without deciding what the result would be 
+under "commercial contract law principles," it is clear that 
+petitioner has misperceived both the Commission's role in this 
+dispute and our own.
+
+     Hi-Tech's breach-of-contract claims were dismissed by the 
+district court in Missouri, and we have no jurisdiction (and 
+have not been asked) to review that decision.  Instead, un-
+der review here is the FCC's determination of whether 
+Sprint's tariff revisions were just and reasonable--which is, 
+as we have noted above, the only authority the Commission 
+has under section 201(b) of the Communications Act.  At 
+Hi-Tech's own request, the Commission agreed to evaluate 
+reasonableness under the "substantial cause" standard.  
+That test requires an evaluation of the carrier's need for 
+tariff revisions and of the subscriber's reliance on the tariff's 
+original terms.  Although these factors may reflect familiar 
+contract law principles, see, e.g., Restatement (Second) of 
+Contracts s 261 (1979), they are not intended to replicate 
+
+__________
+Sprint tariffs, as they may be amended from time to time."  Hi-
+Tech, 14 F.C.C.R. at 8050.  The Commission did not rest on this 
+point in stating its ultimate conclusion, see id. at 8050, and we would 
+not regard it as sufficient to establish lack of justified reliance on 
+the part of Hi-Tech.  Although Sprint was free to amend its tariff, 
+it could not do so--regardless of the boilerplate language--unless 
+the amendment was "just and reasonable" under s 201.  See RCA 
+American, 86 F.C.C.2d at 1202 ("[T]he mere presence of some 
+sweeping reservation to unilaterally change any and all terms and 
+conditions will not serve to lessen our original concerns.").
+
+contract law analysis, but only to assist the FCC in deter-
+mining whether the revisions were "within the zone of rea-
+sonableness" required by the statute.  Showtime, 932 F.2d 
+at 4;  see Cahnmann v. Sprint Corp., 133 F.3d 484, 488 (7th 
+Cir. 1998) (holding that "[a]ny rights that the plaintiff has to 
+complain about a breach of contract" in a tariff revision case 
+are evaluated "by the principle of reasonableness that the 
+FCC uses to determine the validity of ... an amendment to 
+a tariff.")
+
+     As we have also stressed above, our authority is limited to 
+determining whether the FCC's determination was itself rea-
+sonable--that is, whether the agency's decision was "arbi-
+trary, capricious, [or] an abuse of discretion."  5 U.S.C. 
+s 706(2)(A).  Finding no violation of that deferential stan-
+dard, we deny the petition for review.
+
+                 

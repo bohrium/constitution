@@ -1,0 +1,617 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 11, 2000   Decided February 2, 2001 
+
+                           No. 99-5145
+
+                Leon Sloan and Jimmie Lee Furby, 
+                           Appellants,
+
+                                v.
+
+                          United States 
+          Department of Housing and Urban Development, 
+                            Appellee.
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                          (No. 98cv1201)
+
+     James K. Kearney argued the cause for appellants.  With 
+him on the briefs were James P. Gallatin, Jr., David T. 
+Hickey, and Andrew J. Hungerman IV.
+
+     Scott S. Harris, Assistant United States Attorney, argued 
+the cause for appellee.  With him on the brief were Wilma A. 
+
+Lewis, United States Attorney, and R. Craig Lawrence, As-
+sistant United States Attorney.
+
+     Before:  Edwards, Chief Judge, Henderson and Garland, 
+Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Plaintiffs Leon Sloan and Jimmie 
+Lee Furby appeal from the dismissal of their Federal Tort 
+Claims Act (FTCA) complaint against the United States 
+Department of Housing and Urban Development (HUD).  
+We find that, in light of the discretionary function exception 
+to the FTCA, the district court properly concluded that it 
+lacked jurisdiction to entertain plaintiffs' complaint.
+
+                                I
+
+     Sloan and Furby were partners in a contracting business, 
+J&L Renovation Company (J&L).  In 1993, J&L won a 
+subcontract for interior demolition as part of the rehabilita-
+tion of Burns Heights, a public housing project located in 
+Duquesne, Pennsylvania, and owned by the Allegheny County 
+Housing Authority (ACHA).  HUD provided ACHA with 
+funds for the project.
+
+     HUD's Office of Inspector General (OIG) began to investi-
+gate the Burns Heights project in late 1994, after another 
+contractor alleged that J&L was not complying with lead-
+based paint abatement requirements.  OIG auditor Mark 
+Chandler was assigned to conduct a performance audit of the 
+project.  In November 1994, Chandler and HUD attorney 
+Dane Narode visited Burns Heights and observed demolition 
+techniques that would have been unacceptable in a project 
+involving lead-based paint--including the failure to contain 
+dirt, dust, and paint chips.  Chandler and Narode also visited 
+a landfill, situated about 300 feet from the Monongahela 
+River, where J&L had been taking plaster debris from Burns 
+Heights.  The landfill was not approved for the dumping of 
+plaster, as then-applicable Pennsylvania regulations required;  
+moreover, had the plaster been contaminated with lead paint, 
+its dumping would have created a health hazard.  When the 
+
+operator of the landfill discovered the investigators, he chased 
+them off the site and allegedly threatened to "blow [Narode's] 
+head off."  During a subsequent visit to the site, the investi-
+gators observed the operator burying the debris.
+
+     Chandler then interviewed David McLean, Director of 
+Maintenance and Development for ACHA, who told Chandler 
+that Burns Heights was a lead-based paint abatement project.  
+ACHA's records, however, indicate that McLean was mistak-
+en.  Those records reflect that in 1992-93, several tests had 
+been performed to determine the lead content of debris and 
+air at Burns Heights;  the tests indicated the absence of 
+hazardous lead levels.  The records further reflect that after 
+receiving those test results in 1993, ACHA agreed that there 
+was no need for its contractors and subcontractors to follow 
+hazardous lead-based paint protocols at Burns Heights or to 
+dispose of demolition debris as contaminated waste.
+
+     Although ACHA provided Chandler with copies of the lead 
+tests, Chandler was not qualified to interpret the results.  
+Nor did he further inquire as to their meaning or speak with 
+J&L regarding the scope of work under the demolition sub-
+contract.  Chandler's final audit report, which was issued by 
+the OIG in October 1995, found that ACHA had not ensured 
+compliance with lead-based paint abatement requirements 
+during the interior demolition of the Burns Heights buildings.  
+The report did not mention any contractors or subcontractors 
+by name. OIG, HUD, Report No. 96-AO-209-1804, Review of 
+Contracted Lead-Based Paint Activities:  ACHA, Pittsburgh, 
+PA (1995) [hereinafter Audit Report].
+
+     On August 18, 1995, before completing the audit, HUD 
+notified Sloan, Furby, and J&L that it was suspending them 
+from all HUD-related government contracting work, pending 
+further proceedings that might debar them from such work 
+for five years.  The notice, issued by HUD's Assistant Secre-
+tary for Public and Indian Housing, based the suspension and 
+proposed debarment on three "serious irregularities in 
+[J&L's] business dealings with the government":
+
+     1.   Improper cleanup of waste from the lead-based paint 
+          abatement process;
+          
+     2.   Improper disposal of construction debris from the 
+          demolition work;  [and]
+          
+     3.   Failure to adhere to contract requirements or HUD 
+          guidelines with respect to ... hazardous waste....
+          
+Letter from Asst. Sec'y Joseph Shuldiner to Leon Sloan, Sr. 
+(Aug. 18, 1995).
+
+     Sloan and Furby invoked their right to an administrative 
+hearing to contest these charges.  During the proceeding, the 
+government withdrew the third charge as unsupported by the 
+evidence, and the Administrative Law Judge (ALJ) dismissed 
+the first for the same reason.  In re Sloan, HUDBCA No. 
+96-C-106-D3, at 11-12 (Aug. 30, 1996), 1996 WL 506267.  
+The ALJ upheld the second charge, although she did so only 
+because J&L had dumped the debris in an unapproved site, 
+and not because it posed an environmental hazard.  Because 
+she found no environmental hazard, the ALJ rejected HUD's 
+request for debarment and terminated the suspensions.  Id. 
+at 12-13.  She declined, however, to grant plaintiffs' request 
+to void the suspensions ab initio.  Id. at 14.  The Secretary 
+of HUD affirmed the ALJ's decision.  In re Sloan, HUDBCA 
+No. 96-C-106-D3 (Dec. 18, 1996).
+
+     Thereafter, Sloan and Furby filed complaints in the district 
+court, seeking injunctive and declaratory relief under the 
+Administrative Procedure Act (APA), 5 U.S.C. ss 702-03, and 
+damages for constitutional torts under Bivens v. Six Un-
+known Named Agents of the Federal Bureau of Narcotics, 
+403 U.S. 388 (1971).  Those actions were consolidated and 
+subsequently dismissed by the district court.  On appeal, this 
+court affirmed the dismissal of the Bivens claim (on grounds 
+other than those relied upon by the district judge), but 
+reversed HUD's refusal to void the suspensions ab initio as 
+arbitrary and capricious under the APA.  Sloan v. Dep't of 
+Hous. & Urban Dev., 231 F.3d 10, 12 (D.C. Cir. 2000).
+
+     On May 13, 1998, Sloan and Furby filed a separate action 
+for money damages under the FTCA, 28 U.S.C. ss 1346(b), 
+2671 et seq., alleging that HUD had negligently conducted the 
+audit of Burns Heights.  According to the complaint, HUD's 
+
+investigation was conducted in a manner that violated the 
+laws and professional standards governing auditors, and that 
+amounted to negligence and professional malpractice under 
+District of Columbia law.  HUD moved to dismiss, asserting 
+that the discretionary function exception to the FTCA, 28 
+U.S.C. s 2680(a), deprived the court of subject matter juris-
+diction.  The district court agreed and granted the motion.
+
+                                II
+
+     On appeal, we review the dismissal of the plaintiffs' FTCA 
+complaint de novo, Moore v. Valder, 65 F.3d 189, 196 (D.C. 
+Cir. 1995), and "accept all of the factual allegations in [the] 
+complaint as true,"  United States v. Gaubert, 499 U.S. 315, 
+327 (1991) (quoting Berkovitz v. United States, 486 U.S. 531, 
+540 (1988)).  The FTCA grants federal district courts juris-
+diction over claims arising from certain torts committed by 
+federal employees in the scope of their employment, and 
+waives the government's sovereign immunity from such 
+claims.  28 U.S.C. ss 1346(b), 2674.  The grant of jurisdiction 
+and waiver of immunity are subject to a number of express 
+exceptions.  See 28 U.S.C. s 2680.  The exception at issue 
+here, the discretionary function exception, is for "any claim 
+... based upon the exercise or performance or the failure to 
+exercise or perform a discretionary function or duty on the 
+part of a federal agency or an employee of the Government, 
+whether or not the discretion involved be abused."  28 U.S.C. 
+s 2680(a).  If the discretionary function exception applies, the 
+district court lacks subject matter jurisdiction over the case.  
+See Cope v. Scott, 45 F.3d 445, 448 (D.C. Cir. 1995).
+
+     In United States v. Gaubert, the Supreme Court set forth a 
+two-part test for determining whether a challenged govern-
+ment action is protected as a discretionary function.  First, 
+the exception "covers only acts that are discretionary in 
+nature, acts that 'involv[e] an element of judgment or 
+choice.' "  Gaubert, 499 U.S. at 322 (quoting Berkovitz, 486 
+U.S. at 536).  This "requirement of judgment or choice is not 
+satisfied if a 'federal statute, regulation or policy specifically 
+
+prescribes a course of action for an employee to follow.' "  
+Gaubert, 499 U.S. at 322 (quoting Berkovitz, 486 U.S. at 536).
+
+     Second, even if "the challenged conduct involves an element 
+of judgment," that judgment must be "of the kind that the 
+discretionary function exception was designed to shield."  
+Gaubert, 499 U.S. at 322-23 (quoting Berkovitz, 486 U.S. at 
+536).  Because the exception was designed to " 'prevent judi-
+cial "second guessing" of legislative and administrative deci-
+sions grounded in social, economic and political policy through 
+the medium of an action in tort,' " the Court concluded that 
+"the exception 'protects only governmental actions and deci-
+sions based on considerations of public policy.' "  Gaubert, 
+499 U.S. at 323 (quoting Berkovitz, 486 U.S. at 537).
+
+                               III
+
+     In the district court, Sloan and Furby argued that neither 
+HUD's investigation, nor its decision to suspend plaintiffs 
+from government contract work, is a discretionary act exempt 
+from challenge under the FTCA.  On appeal, plaintiffs no 
+longer press the latter argument, apparently conceding that 
+the decision to suspend is covered by the discretionary func-
+tion exception.  Appellants' Br. at 28.  We have no doubt that 
+it is, but discuss the suspension in some detail because it is 
+relevant to our analysis of the status of HUD's investigation, 
+set forth in Part IV below.
+
+     The decision to initiate a prosecution has long been regard-
+ed as a classic discretionary function.  See, e.g., Moore, 65 
+F.3d at 197 ("[A]ctions that require the prosecutor to exercise 
+his professional judgment ... are ... quintessentially discre-
+tionary.");  Gray v. Bell, 712 F.2d 490, 513 (D.C. Cir. 1983) 
+("Prosecutorial decisions as to whether, when and against 
+whom to initiate prosecution are quintessential examples of 
+government discretion ....");  General Dynamics Corp. v. 
+United States, 139 F.3d 1280, 1283 (9th Cir. 1998).  In Butz v. 
+Economou, 438 U.S. 478 (1978), the Supreme Court held that 
+"agency officials performing certain functions analogous to 
+those of a prosecutor should," like prosecutors, "be able to 
+claim absolute immunity" from suits brought under the Con-
+
+stitution.  Id. at 515.  In language equally applicable to suits 
+brought under the FTCA, the Court said:
+
+     The decision to initiate administrative proceedings 
+     against an individual or corporation is very much like the 
+     prosecutor's decision to initiate or move forward with a 
+     criminal prosecution. An agency official, like a prosecu-
+     tor, may have broad discretion in deciding whether a 
+     proceeding should be brought and what sanctions should 
+     be sought.
+     
+Id. HUD's decision to suspend plaintiffs, which began a 
+course of administrative proceedings regarding possible de-
+barment, see 24 C.F.R. s 24.411(e), falls well within this 
+rubric.
+
+     That HUD's suspension of plaintiffs is protected by the 
+discretionary function exception is confirmed by application of 
+Gaubert's two-part test.  First, the decision to suspend is 
+plainly discretionary in nature, involving "an element of judg-
+ment or choice."  Gaubert, 499 U.S. at 322.  Indeed, the 
+applicable regulation expressly so states.  See 24 C.F.R. 
+s 24.115 ("Debarment and suspension are discretionary ac-
+tions ....").  Although HUD rules require that certain condi-
+tions be met before a suspension may issue, see 24 C.F.R. 
+s 24.400(b) (stating that suspension may be imposed only 
+when there is "adequate evidence" of specified wrongdoing 
+and when "[i]mmediate action is necessary to protect the 
+public interest"), that requirement does not convert the deci-
+sion into a nondiscretionary act.  Determining whether those 
+broadly stated conditions exist involves substantial elements 
+of judgment.  See 24 C.F.R. s 24.400(c) ("In assessing the 
+adequacy of the evidence, the agency should consider how 
+much information is available, how credible it is given the 
+circumstances, whether or not important allegations are cor-
+roborated, and what inferences can reasonably be drawn as a 
+result.");  cf. Gaubert, 499 U.S. at 329 (holding that Federal 
+Home Loan Bank Board had discretion regarding appoint-
+ment of receiver notwithstanding that governing statute "enu-
+merated specific grounds warranting an appointment," be-
+cause "the determination of whether any of these grounds 
+
+existed depended upon the opinion of the Board" (internal 
+quotation omitted)).
+
+     The HUD regulation's express delegation of discretion to 
+the suspending official may also, alone, satisfy Gaubert's 
+second requirement--that the challenged action be based on 
+considerations of public policy.  "When established govern-
+mental policy, as expressed or implied by statute, regulation, 
+or agency guidelines, allows a Government agent to exercise 
+discretion," Gaubert held, "it must be presumed that the 
+agent's acts are grounded in policy when exercising that 
+discretion."  499 U.S. at 324.  But it is hardly necessary to 
+rely on such a presumption here.  HUD's regulations place 
+public policy at the forefront of the decision of the suspending 
+official.  The official must determine, for example, whether 
+the contractor's violations are "so serious as to affect the 
+integrity of an agency program," 24 C.F.R. s 24.305(b), and 
+whether "[i]mmediate action is necessary to protect the public 
+interest," 24 C.F.R. s 24.400.  See also 24 C.F.R. s 24.115 
+(stating that "[i]n order to protect the public interest, it is the 
+policy of the Federal Government to conduct business only 
+with responsible persons," and that debarment and suspen-
+sion "are appropriate means to implement this policy").  As 
+the decision to suspend a contractor is therefore "grounded in 
+the policy of the regulatory regime," Gaubert, 499 U.S. at 325, 
+it is protected by the discretionary function exception.
+
+                                IV
+
+     Apparently recognizing that suspension itself is a discre-
+tionary function, plaintiffs focus their primary attention not 
+on the suspension but on the investigation and audit that 
+preceded it.  Although suspension may be discretionary, they 
+argue, standards of professional practice constrain HUD's 
+auditors during the investigatory phase and preclude applica-
+tion of the discretionary function exception.
+
+     This argument fails for two reasons.  First, it is impossible 
+to sever HUD's investigation from the subsequent suspension 
+in the way plaintiffs urge.  Second, even if the investigation 
+
+could be severed, it, too, constitutes a discretionary function 
+under Gaubert.
+
+                                A
+
+     In Gray v. Bell, we held that where the "allegation of 
+improper investigatory conduct is inextricably tied to the 
+decision to prosecute and the presentation of evidence," the 
+discretionary function exception applies and preserves gov-
+ernmental immunity.  712 F.2d 490, 516 (D.C. Cir. 1983);  see 
+Moore, 65 F.3d at 196-97;  Ernst v. Child & Youth Servs. of 
+Chester County, 108 F.3d 486, 488-89 (3d Cir. 1997).  Gray 
+involved a suit brought by Acting FBI Director L. Patrick 
+Gray III.  Gray had been investigated and then indicted for 
+allegedly authorizing warrantless searches of the homes of 
+friends and relatives of Weatherman Underground fugitives.  
+After the government agreed to dismiss the indictment, Gray 
+sued the prosecutors for the "improper, tortious, and consti-
+tutionally defective manner in which [the] investigation was 
+carried out."  712 F.2d at 515.  In particular, he contended 
+that the Justice Department had conducted a grossly negli-
+gent pre-indictment investigation, and, as a result, failed to 
+present exculpatory evidence and instead presented false and 
+misleading evidence to the grand jury.  Id. at 495, 516. 
+
+     On appeal, this court concluded that Gray's suit was barred 
+by the FTCA's discretionary function exception, because 
+there was "no meaningful way in which the allegedly negli-
+gent investigatory acts could be considered apart from the 
+totality of the prosecution."  Id. at 516.  The "gist of Gray's 
+complaint," we said, focused "on alleged causal links between 
+the negligent investigation, the presentation of false and 
+misleading evidence, and the ultimate prosecution."  Id.  Un-
+der those circumstances, "[s]eparating allegations in the com-
+plaint that focus on the investigation from the ultimate prose-
+cution merely would elevate the form of Gray's complaint 
+over its essence."  Id.
+
+     In this case, as in Gray, the challenged investigation is 
+inextricably tied to the discretionary, quasi-prosecutorial deci-
+sion to suspend plaintiffs from governmental contracting.  
+The complaint does not allege any damages arising from the 
+
+investigation itself, but only harm caused by the suspension to 
+which it assertedly led.  See First Am. Compl. p 200 (reciting 
+that plaintiffs were damaged by having to challenge wrongful 
+suspension, defend in debarment proceeding, and appeal 
+HUD decision);  id. p 201 ("Sloan and Furby were further 
+actually damaged because during the period of their wrongful 
+suspension they were prevented from obtaining any contract 
+work from HUD, were prevented from obtaining other con-
+tract work as a result of the wrongful suspension and suf-
+fered in standing and professional reputation." (emphasis 
+added)).  At oral argument, plaintiffs were given a further 
+opportunity to disentangle the investigation and suspension 
+by proffering an amendment to the complaint that would 
+allege some harm arising from the investigation that was 
+separate from the suspension itself;  they were unable to do 
+so.  Because the allegedly improper investigation thus caused 
+no injury "distinct from the harm caused by the ultimate 
+prosecution itself," the former is not "sufficiently separable 
+from [the] protected discretionary decision[ ]" and "cannot by 
+itself support suit under the FTCA."  Gray, 712 F.2d at 515;  
+see General Dynamics, 139 F.3d at 1285-86 (holding discre-
+tionary function exception protected Defense Department 
+audit where harm to plaintiff arose from subsequent criminal 
+prosecution).
+
+                                B
+
+     Even if HUD's investigation of the Burns Heights project 
+were not inextricably linked to the plaintiffs' suspension, that 
+investigation would nonetheless constitute a discretionary 
+function under the Gaubert test.  We consider the two ele-
+ments of that test below.
+
+                                1
+
+     First, the sifting of evidence, the weighing of its signifi-
+cance, and the myriad other decisions made during investiga-
+tions plainly involve elements of judgment and choice.1  That 
+
+__________
+     1 See Sabow v. United States, 93 F.3d 1445, 1452-53 (9th Cir. 
+1996);  Black Hills Aviation, Inc. v. United States, 34 F.3d 968, 
+
+the conduct at issue here was undertaken by investigators 
+and auditors rather than by Assistant Secretaries is irrele-
+vant.  In United States v. Varig Airlines, 467 U.S. 797 (1984), 
+for example, the Federal Aviation Administration (FAA) had 
+established a regulatory regime of "spot checking" airplanes 
+for compliance with safety standards.  As the Supreme Court 
+later explained in Gaubert, Varig "held that not only was this 
+act discretionary but so too were the acts of agency employ-
+ees in executing the program since they had a range of 
+discretion to exercise in deciding how to carry out the spot-
+check activity."  Gaubert, 499 U.S. at 325 (citing Varig, 467 
+U.S. at 820).  The discretionary function exception, the Court 
+held, does not apply "exclusively to policymaking or planning 
+functions," but rather extends as well to decisions made at 
+the operational level.  499 U.S. at 325.
+
+     Plaintiffs insist that the Burns Heights investigation differs 
+from others because it took the form of an "audit."  "[T]he 
+actions of government auditors are not discretionary," plain-
+tiffs argue, "because compliance with federal audit guidelines 
+is mandatory."  Appellants' Br. at 14.2  It is true that the 
+Inspector General Act of 1978 commands OIG auditors to 
+"comply with standards established by the Comptroller Gen-
+eral of the United States for audits of Federal ... programs, 
+activities, and functions."  5 U.S.C. app. 3, s 4(b)(1)(A).  But 
+it is also clear that the auditing standards that plaintiffs 
+contend HUD transgressed leave ample room for the exercise 
+of professional judgment.  See Gen. Accounting Office, Gov't 
+
+__________
+973-74 (10th Cir. 1994);  Blakey v. U.S.S. Iowa, 991 F.2d 148, 153-
+54 (4th Cir. 1993);  Pooler v. United States, 787 F.2d 868, 870-71 (3d 
+Cir. 1986).
+
+     2 Although termed an "audit," HUD's investigation was not a 
+"financial statement audit" designed to determine conformity with 
+generally accepted accounting principles, but rather a "program 
+audit"--a variety of "performance audit" intended to assess the 
+performance of a government program.  Compare Gen. Accounting 
+Office, Gov't Auditing Standards s 2.4 (June 1994), with id. 
+s 2.7(b).  See O'Reilly et al., Montgomery's Auditing 23 (11th ed. 
+1994) (noting that program audits are often not stated "in terms of 
+
+Auditing Standards, at chs. 3, 6 (June 1994) [hereinafter Gov't 
+Auditing Standards];  cf. Thor Power Tool Co. v. Comm'r of 
+Internal Revenue, 439 U.S. 522, 544 (1979) ("Accountants 
+long have recognized that 'generally accepted accounting 
+principles' are far from being a canonical set of rules that will 
+ensure identical accounting treatment of identical transac-
+tions. 'Generally accepted accounting principles,' rather, toler-
+ate a range of 'reasonable' treatments, leaving the choice 
+among alternatives to management." (citation omitted)).3  In-
+deed, those standards expressly state that "[a]uditors should 
+use sound professional judgment in determining the stan-
+dards that apply to the work to be conducted."  Gov't Audit-
+ing Standards s 3.29.4
+__________
+economic actions or events" and "may at times stretch the definition 
+of auditing").
+
+     3 The principal standards that plaintiffs contend HUD violated 
+are:  Gov't Auditing Standards s 3.3 ("The staff assigned to con-
+duct the audit should collectively possess adequate professional 
+proficiency for the tasks required.");  s 3.11 ("[T]he audit organiza-
+tion and the individual auditors ... should maintain an independent 
+attitude and appearance.");  s 3.31 ("Each audit organization ... 
+should have an appropriate internal quality control system....");  
+s 6.2 ("Work is to be adequately planned.");  s 6.5(g) ("[A]uditors 
+should ... [i]dentify potential sources of data that could be used as 
+audit evidence and consider the validity and reliability of these 
+data.");  s 6.22 ("Staff are to be properly supervised.");  and s 6.46 
+("Sufficient, competent, and relevant evidence is to be obtained to 
+afford a reasonable basis for the auditors' findings and conclu-
+sions."). See generally Moore, 65 F.3d at 197 n.15 (holding that 
+deciding what is required by regulation directing prosecutors to 
+disclose "substantial" evidence "directly" negating the guilt of a 
+suspect "is itself a discretionary act").
+
+     4 See also OIG, HUD, Consolidated Audit Guide for Audits of 
+HUD Programs s 1-1 (Aug. 1997) ("This guide is not ... intended 
+to supplant the auditor's judgment of audit work required.");  OMB 
+Circular A-133, Audits of Institutions of Higher Education and 
+Other Nonprofit Organizations, 55 Fed. Reg. 10,019, 10,021 (Mar. 
+16, 1990) ("These principles, to the extent permitted by law, consti-
+tute guidance to be applied by agencies consistent with and within 
+the discretion, conferred by the statutes governing agency action.");  
+Am. Inst. of Certified Pub. Accountants, Codification of State-
+ments on Auditing Standards, AU s 110.04 (1995) ("In the observ-
+
+     Plaintiffs' argument here parallels that made by the plain-
+tiff in Gaubert, who sought damages for the alleged negli-
+gence of Federal Home Loan Bank Board (FHLBB) officials 
+in the day-to-day management of a failing financial institution.  
+Gaubert argued that the FHLBB's actions fell outside the 
+discretionary function exception "because they involved the 
+mere application of technical skills and business expertise."  
+499 U.S. at 331.  The Court rejected that argument, stating 
+that while "[i]t may be that certain decisions resting on 
+mathematical calculations, for example, involve no choice or 
+judgment in carrying out the calculations," the FHLBB's 
+actions "involved the exercise of choice and judgment" and 
+hence fell within the exception.  Id.  The same is true here.5
+
+     As plaintiffs themselves point out, the heart of the auditing 
+standards is the exhortation that "[d]ue professional care 
+should be used in conducting [an] audit and in preparing 
+related reports."  Gov't Auditing Standards s 3.26;  see id. 
+s 3.28 ("[E]xercising due professional care means using 
+sound judgment in establishing the scope, selecting the meth-
+odology, and choosing tests and procedures for the audit.").  
+Plaintiffs endeavor to turn this point on its head, arguing that 
+because the use of sound professional judgment by auditors is 
+mandatory, no discretion is left to them.  The flaw in this 
+argument is that the Supreme Court has defined a "discre-
+
+__________
+ance of generally accepted auditing standards, the independent 
+auditor must exercise his judgment in determining which auditing 
+procedures are necessary in the circumstances to afford a reason-
+able basis for his opinion.").
+
+     5 This case is readily distinguishable from Appley Brothers v. 
+United States, 164 F.3d 1164 (8th Cir. 1999), upon which plaintiffs 
+heavily rely, in which the Eighth Circuit held the discretionary 
+function exception inapplicable to an Agriculture Department in-
+spector's failure to investigate grain shortages at a warehouse.  The 
+court noted that "although the inspector had discretion in selecting 
+how he would investigate," under express regulations "he had no 
+discretion not to undertake some investigation."  Id. at 1172 (em-
+phasis added).  Plaintiffs' challenge here, by contrast, is to how 
+HUD investigated at Burns Heights.
+
+tionary act" as "one that involves choice or judgment."  Gau-
+bert, 499 U.S. at 325 (emphasis added);  see Moore, 65 F.3d at 
+197 (stating that "actions that require the prosecutor to 
+exercise his professional judgment ... are ... quintessential-
+ly discretionary").  Hence, plaintiffs' argument reduces to 
+nothing more than the untenable contention that auditors lack 
+discretion because they must exercise it. 
+
+                                2
+
+     Plaintiffs contend that even if the auditors' conduct does 
+involve an element of discretion, it "does not implicate consid-
+erations of public policy or involve the exercise of political, 
+social, or economic judgment."  Appellants' Br. at 22.  There-
+fore, they argue, the audit fails Gaubert's second prong.  
+Again, we disagree.
+
+     HUD's audit of Burns Heights was part of a national audit 
+of lead-based paint contracting activities.  See Audit Report 
+at 2, 4.  Its objective was to determine whether lead-based 
+paint abatement at the facility was in compliance with the 
+demolition contract.  Id. at 2.  Pursuant to the same auditing 
+standards cited by plaintiffs, one of HUD's responsibilities 
+was to determine "the extent to which the desired results or 
+benefits established by the legislature or other authorizing 
+body are being achieved."  Gov't Auditing Standards s 2.7(b).  
+The audit concluded that the housing authority had "not 
+protected tenants or community residents from potential 
+health problems from improper lead-based paint removal and 
+disposal."  Audit Report at 3.  Whether that conclusion is 
+correct or not, it unquestionably implicates considerations of 
+public policy.
+
+     As was true of the first part of the discretionary function 
+test, satisfaction of the second is not limited to actions taken 
+at the policy-planning level.  Thus, in Gaubert, the Court held 
+that the conduct of FHLBB employees "involved the kind of 
+policy judgment that the discretionary function exception was 
+designed to shield," notwithstanding that it consisted of day-
+to-day decisions regarding the operations of a savings and 
+loan.  Id. at 332.  "[T]hose day-to-day 'operational' decisions 
+
+were undertaken for policy reasons of primary concern to the 
+regulatory agencies," the Court said, including preservation 
+of the assets of the institution "for the benefit of depositors 
+and shareholders."  Id. (citation omitted).  See also Varig, 
+467 U.S. at 815-820.  The same is true in this case:  the 
+auditors' decisions were undertaken for policy reasons of 
+significant concern to HUD, including the protection of ten-
+ants living in HUD-funded housing "from potential health 
+problems from improper lead-based paint removal and dispos-
+al."  Audit Report at 3.6  Accordingly, the audit falls under 
+the aegis of the discretionary function exception to the FTCA.
+
+                                IV
+
+     Because the discretionary function exception applies to the 
+agency actions challenged by plaintiffs, the district court 
+lacked jurisdiction over their FTCA complaint.  The court's 
+dismissal of the complaint is therefore
+
+                                                                   Affirmed.
+
+__________
+     6 This distinguishes the HUD audit from the placement of road 
+signs by the National Park Service, which we found to involve 
+engineering rather than policy judgment in Cope, 45 F.3d at 451-52.  
+See Berkovitz, 486 U.S. at 545 (indicating that determinations 
+involving the "application of objective scientific standards" do not 
+involve policy judgment and are not covered by the discretionary 
+function exception);  see also Black Hills Aviation, 34 F.3d at 976 
+(holding that quick handling of crash investigation to facilitate 
+Army activities involves policy judgment);  Blakey, 991 F.2d at 153 
+(holding that course of military investigation "implicates policy 
+considerations").
+
+                                                                            

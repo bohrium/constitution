@@ -1,0 +1,751 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued November 8, 2000     Decided July 6, 2001 
+
+                           No. 99-5064
+
+    Tenet HealthSystems HealthCorp., f/k/a OrNda Healthcorp., 
+                             Appellee
+
+                                v.
+
+                 Tommy G. Thompson, Secretary of 
+                   Health and Human Services, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 97cv02723)
+
+     Anne Murphy, Attorney, U.S. Department of Justice, ar-
+gued the cause for appellant.  With her on the briefs were 
+David W. Ogden, Assistant Attorney General, Anthony J. 
+Steinmeyer, Assistant Director, and Wilma A. Lewis, U.S. 
+Attorney at the time the briefs were filed.  R. Craig Law-
+rence and Scott S. Harris, Assistant U.S. Attorneys, entered 
+appearances.
+
+     Joanne B. Erde argued the cause for appellee.  With her 
+on the brief was Harry R. Silver.
+
+     Before:  Tatel and Garland, Circuit Judges, and 
+Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Tenet HealthSystems Health-
+Corp., a Medicare provider, contends that the Department of 
+Health and Human Services (HHS) inadequately reimbursed 
+it for its losses on the sale of a hospital.  The district court 
+agreed and remanded the case to HHS for redetermination of 
+the amount due.  We disagree and reverse the judgment of 
+the district court.
+
+                                I
+
+     We begin with an exposition of the Medicare regulations 
+applicable to this appeal, and then describe the proceedings 
+below.
+
+                                A
+
+     During the period relevant to this case, and with caveats 
+unnecessary to discuss here, HHS reimbursed health care 
+providers for their capital-related costs in providing services 
+to Medicare patients.1  Under the pertinent regulations, 
+these costs include Medicare's share of a provider's deprecia-
+tion expenses and capital losses.2  The regulations use the 
+"cost basis" of the depreciable assets of a provider's hospital 
+in determining both the provider's annual depreciation allow-
+ances and its gain or loss when the hospital is sold.  42 
+C.F.R. s 413.134(f), (g).  Annual depreciation is calculated as 
+a yearly fraction of the hospital's basis, distributed over its 
+useful life.  42 C.F.R. s 413.134(d).  Gain or loss upon sale is 
+
+__________
+     1  See 42 U.S.C. ss 1395f(b)(1), 1395x(v)(1)(A)(i);  42 C.F.R. 
+ss 412.113(a), 413.130;  see also 42 C.F.R. s 412.304 (implementing 
+prospective payment system for capital costs beginning October 
+1991, pursuant to 42 U.S.C. s 1395ww(g)).
+
+     2  See 42 C.F.R. ss 413.50, .53, .130, .134;  42 U.S.C. 
+s 1395x(v)(1)(A)(i), (v)(1)(O).
+
+determined by subtracting (with appropriate adjustments) the 
+hospital's basis from its selling price.3  Hence, the higher the 
+basis, the higher the depreciation expenses that HHS will 
+reimburse and the smaller the gain or greater the loss it will 
+calculate upon sale.  See Nursing Ctr. of Buckingham & 
+Hampden, Inc. v. Shalala, 990 F.2d 645, 646 (D.C. Cir. 1993).
+
+     The Medicare regulations permit a provider that purchased 
+a hospital after July 31, 1970 and before July 18, 1984--as 
+Tenet did--to "step-up," or increase, the basis of the facility 
+above that of the previous owner.  See Nursing Ctr., 990 F.2d 
+at 646.4  Pursuant to 42 C.F.R. s 413.134(g)(1) and (2), the 
+
+__________
+     3  See Health Care Fin. Admin., Medicare Provider Reimburse-
+ment Manual, HCFA Pub. 15-1, s 104.10(C), ex. 5 [hereinafter 
+Provider Manual];  see also Whitecliff, Inc. v. Shalala, 20 F.3d 488, 
+489 (D.C. Cir. 1994).
+
+     4  In the Deficit Reduction Act of 1984 (DEFRA), Congress 
+limited the basis in a hospital purchased on or after July 18, 1984 to 
+"the lesser of the allowable acquisition cost of such asset to the 
+owner of record as of the date of the enactment of [DEFRA], ... or 
+the acquisition cost of such asset to the new owner."  Pub. L. 
+98-369, s 2314(a), 98 Stat. 494, 1079 (current version at 42 U.S.C. 
+s 1395x(v)(1)(O)(i)).  HHS has stated that:  "The practical effect of 
+DEFRA is that Medicare will no longer allow a 'write-up' from the 
+historical cost basis of the acquired depreciable assets.  It is 
+possible, however, for a 'write-down' of assets to occur, when the 
+limitation is applied."  Health Care Fin. Admin., Medicare Interme-
+diary Manual, HCFA Pub. 13, s 4508.1(B) [hereinafter Intermedi-
+ary Manual];  see 42 C.F.R. s 413.134(g)(3).  According to the 
+legislative history, Congress imposed the DEFRA limitation out of 
+concern "that Medicare ha[d] been paying for the same capital 
+assets more than once."  H.R. Conf. Rep. No. 98-861, at 1339 (1984).  
+In the Balanced Budget Act of 1997, Congress further amended the 
+Medicare statute to provide simply that, for hospitals acquired on or 
+after August 5, 1997, the basis "shall be the historical cost of the 
+asset ... less depreciation allowed, to the owner of record as of the 
+date of enactment of the [Act]."  Pub. L. 105-33, s 4404(a)(1)(D), 
+111 Stat. 251, 400 (codified at 42 U.S.C. s 1395x(v)(1)(O)(i));  see 42 
+C.F.R. s 413.134(g)(4).
+
+basis of such a hospital's depreciable assets may not exceed 
+the lowest of:  (1) the allocated price paid for the facility by 
+the purchaser, (2) the allocated fair market value of the 
+facility at the time of the sale, or (3) the "current reproduc-
+tion cost depreciated on a straight-line basis over the life of 
+the asset to the time of the sale."  Id.5  The last category, 
+depreciated reproduction cost, reflects the depreciated cost of 
+reproducing the assets at current market prices.6
+__________
+     5  42 C.F.R. s 413.134(g)(1) and (2) provide in relevant part:
+     (g) Establishment of cost basis on purchase of facility as an 
+     ongoing operation--(1) Assets acquired after July 1, 1966 and 
+     before August 1, 1970.  The cost basis for the assets of a 
+     facility purchased as an ongoing operation after July 1, 1966, 
+     and before August 1, 1970, is the lowest of the--   
+          (i) Total price paid for the facility by the purchaser, as 
+     allocated to the individual assets of the facility;  [or]
+     
+          (ii) [and (iii)] ... fair market value of the facility at the time 
+     of the sale, as allocated to the individual assets....  
+     
+          (2) Assets acquired after July 31, 1970 and, for hospitals 
+     and SNFs [skilled nursing facilities], before July 18, 1984.  
+     For depreciable assets acquired after July 31, 1970 and, for 
+     hospitals and SNFs, before July 18, 1984, in addition to the 
+     limitations specified in paragraph (g)(1) of this section, the cost 
+     basis of the depreciable assets may not exceed the current 
+     reproduction cost depreciated on a straight-line basis over the 
+     life of the asset to the time of the sale.
+     
+     6  "Current reproduction cost" is the "cost at current prices, in a 
+particular locality or market area, of reproducing an item of proper-
+ty or a group of assets."  42 C.F.R. s 413.134(b)(6).  The term is 
+further defined in the Provider Manual as "the cost of reproducing 
+substantially identical assets of like type, quality, and quantity at a 
+price level in a bona fide market as of the date of acquisition."  
+Provider Manual s 134.  Section 413.134(g)(2) of the Medicare 
+regulations requires that the appraiser account for the age of the 
+facility using straight-line depreciation, which distributes current 
+reproduction cost "in equal amounts over the period of the estimat-
+ed useful life of the asset," 42 C.F.R. s 413.134(b)(3).
+
+ HHS describes depreciated reproduction cost "as an accounting 
+check against purchase price and fair market value," which "incor-
+porates the common-sense principle that a purchaser would not pay 
+
+     A health care provider generally establishes its entitlement 
+to Medicare reimbursement by submitting a cost report to a 
+fiscal intermediary.  See 42 U.S.C. ss 1395f(a), 1395h;  42 
+C.F.R. ss 413.24(f), 421.1-.128.  If the provider is dissatisfied 
+with the intermediary's determination of the amount due, it 
+may seek review from HHS' Provider Reimbursement Re-
+view Board.  See 42 U.S.C. s 1395oo(a), (b).  The Board's 
+decision in a case is final, unless the Administrator of the 
+Health Care Financing Administration accepts the case for 
+review.  See 42 U.S.C. s 1395oo(f);  42 C.F.R. s 405.1875.  
+After a final administrative decision, providers may obtain 
+judicial review.  42 U.S.C. s 1395oo(f).
+
+                                B
+
+     In September 1983, Tenet purchased two hospitals, Nauti-
+lus Memorial Hospital and Gibson General Hospital, from 
+Humana of Tennessee, Inc.7  Tenet paid Humana $12,100,000 
+for both hospitals.  Based on an appraisal performed by 
+Valuation Counselors Southwestern, Inc., Tenet allocated 
+$4,516,202 of the total purchase price to Nautilus Memorial.
+
+     Tenet changed Nautilus Memorial's name to Three Rivers 
+Community Hospital and operated it as an acute care facility 
+for the next six years.  In its first Medicare cost report for 
+Three Rivers, covering the period from October 1, 1983 to 
+August 31, 1984, Tenet claimed depreciation allowances calcu-
+
+__________
+more for a used building than the cost of constructing exactly the 
+same building today."  HHS Br. at 24.  Others have described it as 
+"an economically meaningless application of up-to-date prices to 
+out-of-date properties."  Bonbright et al., Principles of Public 
+Utility Rates 294 (1988);  see also Farmers Union Cent. Exch., Inc. 
+v. FERC, 734 F.2d 1486, 1520 n.68 (D.C. Cir. 1984).  We have no 
+occasion to comment on the accuracy of either description.
+
+     7  Throughout this opinion, we use "Tenet" to include Tenet 
+HealthSystems HealthCorp. and all of its predecessors in interest.  
+American Healthcare Management, Inc. was the original purchaser 
+of the hospitals in 1983.  In 1984, OrNda Healthcorp. purchased 
+American Healthcare, and in 1997 OrNda was itself purchased by 
+Tenet.
+
+lated by using a stepped-up basis that reflected the allocated 
+price it paid in 1983.  That price, Tenet said, was lower than 
+both the hospital's fair market value and its depreciated 
+reproduction cost as determined by the Valuation Counselors 
+appraisal, and was thus the appropriate figure for the hospi-
+tal's basis pursuant to 42 C.F.R. s 413.134(g).8  However, the 
+Medicare intermediary, Blue Cross & Blue Shield of Tennes-
+see, refused to recognize the step-up on the ground that 
+Tenet had failed adequately to document the hospital's depre-
+ciated reproduction cost.  Instead, Blue Cross limited Tenet's 
+basis to that of the previous owner, adjusted for subsequent 
+capital improvements, disposals, and accumulated deprecia-
+tion, which it referred to as the hospital's "net book value" as 
+of the date of Tenet's 1983 purchase.  As a consequence of 
+the lower basis, Blue Cross reduced Tenet's allowable depre-
+ciation expenses for 1984.
+
+     Tenet did not appeal Blue Cross' 1984 determination.  
+Nonetheless, Tenet continued to claim depreciation allow-
+ances using the stepped-up basis (with adjustments) in each 
+of its next four annual cost reports.  Each time, Blue Cross 
+limited Tenet's basis to adjusted 1983 net book value, and 
+reduced Tenet's allowable depreciation expenses accordingly.  
+Tenet did not appeal any of those four annual determinations.
+
+     In 1989, Tenet sold Three Rivers for $1,000,000, with the 
+purchase agreement between Tenet and the buyer allocating 
+$770,000 of the sales price to depreciable assets.  That year, 
+Tenet submitted a cost report that again used the 1983 
+purchase price (with adjustments) as the hospital's basis.  
+Using that basis, Tenet calculated its loss on the sale as 
+$5,062,801 and billed Medicare for its share.  See 42 C.F.R. 
+s 413.134(f).  Once again, Blue Cross reduced Tenet's basis 
+to the adjusted 1983 net book value of the assets.  The 
+substitution of net book value for Tenet's claimed basis 
+reduced Tenet's loss from $5,062,801 to $642,512.9  For the 
+
+__________
+     8  According to Tenet, the fair market value and depreciated 
+reproduction cost were the same.  See Tenet Br. at 20.
+
+     9  Tenet calculated its basis as $5,832,801, and its loss on the 
+sale as $5,062,801.  See J.A. at 206.  Blue Cross reduced Tenet's 
+basis to $1,412,512, and its loss to $642,512.  See J.A. at 209.
+
+first time, Tenet appealed the reduction of the basis to the 
+Provider Reimbursement Review Board (PRRB).
+
+     After an evidentiary hearing, the PRRB sustained the 
+intermediary's decision.  The Board held that, under the 
+Medicare regulations, a hospital's basis may not exceed its 
+depreciated reproduction cost, and that Tenet "had failed to 
+adequately document ... its value for current depreciated 
+reproduction cost."  Three Rivers Cmty. Hosp., PRRB Dec. 
+No. 97-D97, at 11 (Sept. 10, 1997) [hereinafter "PRRB Op."]. 
+The Board further held that because a reliable value for 
+depreciated reproduction cost was unavailable, a stepped-up 
+basis was inappropriate and the intermediary's decision to use 
+the previous owner's basis (net book value) was reasonable.  
+Id.  The Administrator of the Health Care Financing Admin-
+istration declined to review the Board's decision, rendering 
+that decision final.
+
+     Tenet then filed suit against HHS in the United States 
+District Court for the District of Columbia.  On cross-motions 
+for summary judgment, the court found the PRRB's decision 
+arbitrary and capricious, principally because the court read 
+the Medicare regulations to bar the use of net book value as a 
+purchaser's basis.  Tenet HealthSystems HealthCorp. v. Sha-
+lala, No. 97cv2723, slip op. at 1 (D.D.C. Jan. 12, 1999).  HHS 
+now appeals.
+
+                                II
+
+     Our standard for reviewing a decision of the PRRB is the 
+same as that which the district court must apply:  We may set 
+aside a Board decision only if it is "unsupported by substan-
+tial evidence," or if it is "arbitrary, capricious, an abuse of 
+discretion, or otherwise not in accordance with law."  5 
+U.S.C. s 706(2)(E), (A);  see 42 U.S.C. s 1395oo(f)(1) (provid-
+ing that judicial review of PRRB decisions shall be pursuant 
+to the provisions of 5 U.S.C. ss 701 et seq.);  HCA Health 
+Servs. of Okla., Inc. v. Shalala, 27 F.3d 614, 616 (D.C. Cir. 
+1994).  In addition, we must defer to HHS' reading of its own 
+regulations, unless that reading is "plainly erroneous or in-
+consistent with the regulation[s]."  Auer v. Robbins, 519 U.S. 
+
+452, 461 (1997) (internal quotation omitted);  see Thomas 
+Jefferson Univ. v. Shalala, 512 U.S. 504, 512 (1994).  Because 
+we apply the same standard of review as the district court, we 
+proceed de novo, as if Tenet had brought the case here on 
+direct appeal.  See County of L.A. v. Shalala, 192 F.3d 1005, 
+1012 (D.C. Cir. 1999);  Biloxi Reg'l Med. Ctr. v. Bowen, 835 
+F.2d 345, 348-49 (D.C. Cir. 1987).
+
+     Tenet emphasizes that it does not challenge the lawfulness 
+or reasonableness of the Medicare regulations, but rather 
+only the way in which the PRRB applied them to its reim-
+bursement request.  Tenet Br. at 11-14.  The provider raises 
+two principal objections to the PRRB decision, contending 
+that:  (1) the Board's determination that the Valuation Coun-
+selors appraisal was inadequate to warrant a stepped-up basis 
+is unsupported by substantial evidence;  and (2) the Board's 
+determination that net book value was a reasonable basis for 
+the hospital is arbitrary, capricious, and not in accordance 
+with law.  We consider these two arguments below.
+
+                                A
+
+     The PRRB did not dispute that Tenet would have been 
+eligible for a stepped-up basis had it submitted adequate 
+supporting data.  PRRB Op. at 10-11.  It concluded, howev-
+er, that Tenet failed to do so.  Id. at 11.  Although Tenet 
+contends that this conclusion is unsupported by substantial 
+evidence in the record, we disagree.
+
+     As the PRRB explained, and as Tenet concedes, the basis 
+for Three Rivers Hospital may not exceed the lowest of its:  
+(1) purchase price, (2) fair market value, or (3) depreciated 
+reproduction cost.  42 C.F.R. s 413.134(g)(1), (2).  Under the 
+Medicare regulations, "[p]roviders receiving payment on the 
+basis of reimbursable cost must provide adequate cost data," 
+42 C.F.R. s 413.24(a)--i.e., data that is "accurate and in 
+sufficient detail to accomplish the purposes for which it is 
+intended," 42 C.F.R. s 413.24(c).  Blue Cross accepted the 
+figures offered by Tenet for the hospital's purchase price and 
+fair market value.  But it concluded, and the Board agreed, 
+that Tenet failed to meet its burden of submitting reliable 
+
+evidence of the third regulatory criterion:  the hospital's 
+depreciated reproduction cost.10  Accordingly, Tenet could 
+not establish that its proffered basis was less than or equal to 
+depreciated reproduction cost, and hence could not meet the 
+step-up requirements of s 413.134(g).  PRRB Op. at 10-11.
+
+     In support of its claim to a stepped-up basis, Tenet submit-
+ted the appraisal prepared by Valuation Counselors at the 
+time of the 1983 sale.  Although the Board and the intermedi-
+ary listed a number of flaws in the appraisal, we consider only 
+the most important one here:  As the Board correctly noted, 
+the 1983 appraisal simply "did not provide detailed documen-
+tation to support how it arrived at its depreciated reproduc-
+tion cost[ ]."  Id. at 11.  The appraisal listed a bottom-line 
+figure for the depreciated reproduction cost of the hospital 
+buildings, but it included no supporting analysis or data.  
+Appraisal at 9 (J.A. at 16).  Although Valuation Counselors 
+attached an item-by-item, priced inventory of the hospital's 
+equipment, it attached no similar schedule for the hospital's 
+buildings--notwithstanding that the buildings constituted al-
+most 90% of the facility's total appraised value.  See id. at 10 
+(J.A. at 17).  Indeed, the appraisal did not even use the term 
+"depreciated reproduction cost" to describe the value it listed, 
+but rather the term "depreciated replacement cost."  Id. at 7 
+(J.A. at 14).  Although Tenet contends that Valuation Coun-
+selors regarded the latter as equivalent to the former, without 
+a more detailed description of the appraiser's methods and 
+results it is impossible to determine whether that was so.11
+
+__________
+     10  Tenet argues that under 42 C.F.R. s 413.134(f)(2)(iv), when 
+an intermediary is dissatisfied with an appraisal, it is the intermedi-
+ary rather than the provider that is obligated to seek a new 
+appraisal.  The cited regulation, however, applies only when a lump 
+sum sales price must be allocated among various assets, and when 
+"the buyer and seller cannot agree on an allocation of the sales 
+price, or ... there is insufficient documentation of the current fair 
+market value of each asset" to make the allocation.  Id.  There was 
+no dispute about the allocation of the lump sum sales price in this 
+case.
+
+     11  We have previously referred to "reproduction cost" as the 
+"present cost of reproducing the same physical assets," while refer-
+
+     In sum, the appraisal submitted by Tenet left the interme-
+diary's auditors without "auditable evidence" from which they 
+could determine the depreciated reproduction cost of the 
+Three Rivers facility.  Intermediary's Position Paper, PRRB 
+Case. No. 92-1576, at 13 (J.A. at 161).  Because that figure is 
+essential to the calculation set forth in s 413.134(g), this flaw 
+is sufficient to support the Board's conclusion that the ap-
+praisal was inadequate to warrant a stepped-up basis.12
+
+     Twelve years after it purchased the Three Rivers facility, 
+Tenet endeavored to cure the flaw in the 1983 Valuation 
+Counselors appraisal by submitting a list of the items that 
+purportedly comprised the 1983 valuation of the buildings' 
+reproduction cost.  The PRRB was not satisfied with the 
+degree of detail submitted.  PRRB Op. at 8.  Although Tenet 
+neither included this list in the parties' Joint Appendix, nor 
+referred to it in its brief, at oral argument Tenet's counsel 
+directed us to the appropriate pages of the agency record.  
+We have examined those pages and concur in the PRRB's 
+
+__________
+ring to "replacement cost" as the "present cost of building a like 
+enterprise taking advantage of modern technology."  Farmers Un-
+ion Cent. Exch. v. FERC, 584 F.2d 408, 412 n.3 (D.C. Cir. 1978);  see 
+also, e.g., Dickler v. Cigna Prop. & Cas. Co., 957 F.2d 1088, 1100 (3d 
+Cir. 1992).  The Valuation Counselors appraisal described its "re-
+placement cost" figure as "the cost of producing new duplicate 
+assets on the basis of current prices using the same or similar 
+materials," Appraisal at 1 (J.A. at 8) (emphasis added), while the 
+Provider Manual defines "reproduction cost" as the "cost to repro-
+duce the actual facility in like kind, and should not be inflated by 
+such factors as ... different construction types,"  Provider Manual 
+s 134.2.
+
+     12  In addition to this flaw, the Board also found, inter alia, that 
+the depreciation figure used in the appraisal was so low as to cast 
+doubt on the appraisal's overall validity.  PRRB Op. at 11.  The 
+intermediary had noted that Valuation Counselors' calculation 
+"yields an accumulated depreciation of only $406,300 from the 
+construction date [1969] to the point of sale [1983]."  Id. at 8.  That 
+figure, the intermediary observed, corresponds to "a useful life in 
+excess of 175 years"--a facially implausible assumption given "the 
+standard estimated useful life of a building of 40 years."  Id. at 8.
+
+assessment.  The new material does no more than list thir-
+teen gross components of the Three Rivers buildings 
+("floors," "roof," "ceilings," etc.) and attach dollar figures to 
+each.  Administrative Record (A.R.) at 740.  It does not 
+indicate how those figures were calculated;  it does not even 
+state whether they were the original 1983 calculations or 
+simply retrospective reconstructions.
+
+     It was not only the Valuation Counselors appraisal itself 
+that caused the Board concern about accepting Tenet's pro-
+posed basis.  Another valuation of the hospital, conducted for 
+Tenet by the firm of Marshall and Stevens, Inc., raised still 
+further doubts.  PRRB Op. at 11.  The Marshall and Stevens 
+report valued the depreciated reproduction cost of the hospi-
+tal buildings at $3,000,000 lower than had Valuation Counsel-
+ors, as of approximately the same date.  Id. at 9.  "There are 
+no reasonable explanations for this large variance," the Board 
+said, "which leads to the conclusion that the data is unreliable 
+for computation of loss on sale of the facility."  Id. at 9 
+(summarizing intermediary's view).
+
+     Finally, we note that Tenet itself created the evidentiary 
+difficulty it now faces.  Although Blue Cross pointed out the 
+inadequacy of Tenet's appraisal data as early as 1984, Tenet 
+"neither appealed the Intermediary's decision when it was 
+made, nor did it request a reopening of the cost report within 
+three years of the original" decision.  Id. at 11.  Tenet also 
+failed to challenge Blue Cross' determination in any of the 
+four succeeding cost years, and never offered a new appraisal 
+that corrected the flaws in the original.  Although HHS has 
+not argued that this constitutes a waiver, the agency does 
+reasonably contend that Tenet's failure to appeal the first 
+cost report has made the determination of the hospital's basis 
+all the more problematic.  See, e.g., 15 Mertens, Law of 
+Federal Income Taxation s 59:11 (1997) (noting the "difficul-
+ty of establishing the value of property a number of years 
+after the valuation date" and that, as a result, a valuation 
+made at such time "will be regarded as lacking in probative 
+value").  Hence, Tenet has no one but itself to blame for its 
+present predicament.  We conclude that the PRRB's determi-
+nation, that the Valuation Counselors report "failed to ade-
+
+quately document the basis of its value for current depreciat-
+ed reproduction cost," PRRB Op. at 11, is supported by 
+substantial evidence in the record before the agency.13
+
+                                B
+
+     We next consider Tenet's contention that the PRRB's 
+decision was arbitrary, capricious, and not in accordance with 
+law.  Tenet makes two arguments in this regard.  First, 
+Tenet argues that Medicare acted arbitrarily in rejecting the 
+Valuation Counselors appraisal for the purpose of determin-
+ing Tenet's basis in the hospital, while accepting the appraisal 
+for the purpose of computing Humana's gain on the same 
+sale.  Second, Tenet argues that the Medicare regulations bar 
+HHS from using net book value as a hospital's basis.
+
+                                1
+
+     Tenet correctly points out that, although Blue Cross reject-
+ed the Valuation Counselors appraisal for the purpose of 
+determining Tenet's basis in the hospital it purchased from 
+Humana, the intermediary accepted that appraisal for the 
+purpose of computing Humana's gain on the sale.14  Specifi-
+cally, the intermediary accepted the appraisal's allocation of 
+$4,516,202 of the total sales price to Three Rivers.  By 
+
+__________
+     13  We reject Tenet's contention that Blue Cross' refusal to rely 
+on the 1983 Valuation Counselors appraisal was inconsistent with a 
+letter in which the intermediary stated that the appraisal "met the 
+Medicare Guidelines [for] an acceptable appraisal."  See May 7, 
+1992 Blue Cross Letter at 1 (J.A. at 196).  That statement follows 
+directly after a sentence in which Blue Cross wrote that "[t]his 
+appraisal was based on the fair market value (FMV) method," id., 
+and, as we have noted above, Blue Cross did in fact find the 
+appraisal acceptable for calculating the hospital's fair market value.  
+The sentences that follow, however, make absolutely clear that Blue 
+Cross regarded the appraisal as unacceptable for calculating the 
+facility's depreciated reproduction cost.  Id.
+
+     14  As discussed below, when a provider sells a depreciable asset 
+for a gain, Medicare recaptures its previous depreciation payments 
+from that gain.  See 42 C.F.R. s 413.134(f)(1).
+
+accepting the appraisal for this purpose, while rejecting it for 
+calculating Tenet's basis in the hospital, Tenet contends that 
+Medicare acted arbitrarily and capriciously.  Indeed, Tenet 
+continues, this treatment gave Medicare a "windfall," because 
+Medicare was able to use the higher valuation to recapture 
+the depreciation expenses it had paid to Humana, while using 
+the lower valuation to pay lower depreciation reimbursements 
+to Tenet.  We conclude, however, that there is nothing arbi-
+trary about the conclusion that the appraisal was acceptable 
+for one purpose but inadequate for the other.
+
+     First, and foremost, the Medicare regulations expressly 
+require different data for valuing a property for the purpose 
+of calculating the purchaser's basis than for the purpose of 
+calculating the seller's gain.  As noted above, the regulations 
+provide that the purchaser's basis in depreciable assets is the 
+lowest of three figures:  purchase (sales) price, fair market 
+value, and depreciated reproduction cost.  42 C.F.R. 
+s 413.134(g)(1), (2).  As further noted, because the intermedi-
+ary reasonably concluded that the Valuation Counselors ap-
+praisal of depreciated reproduction cost was unsupported, it 
+was also reasonable for it to conclude that the appraisal was 
+unacceptable for the purpose of calculating Tenet's basis.
+
+     The regulations governing the seller's gain, however, are 
+different.  Gain is determined by subtracting the seller's 
+adjusted basis from the sales price.  The seller's adjusted 
+basis is its net book value, which is unaffected by the sale.  
+See Provider Manual s 104.10(c), ex. 5;  see also Whitecliff, 20 
+F.3d at 489.  The sales price is "determined by allocating the 
+lump sum sales price among all the assets sold, in accordance 
+with the fair market value of each asset."  42 C.F.R. 
+s 413.134(f)(2)(iv).  Accordingly, for purposes of calculating 
+the seller's gain, valuation of the property at the time of the 
+sale requires only two figures:  total sales price and fair 
+market value, the latter being required to allocate the sales 
+price when more than one asset is sold.  As we have noted, 
+the intermediary accepted Valuation Counselors' figures for 
+both the total sales price and the fair market value, and hence 
+of the allocated sales price of the hospital facilities.  Because 
+the only figure disputed by the intermediary--depreciated 
+
+reproduction cost--does not enter into the formula for calcu-
+lating Humana's gain, it was not arbitrary to accept the 
+appraisal for the purpose of calculating Humana's gain while 
+rejecting it for the purpose of calculating Tenet's basis.
+
+     Second, although Tenet is correct that the consequence of 
+using the appraisal for calculating the seller's gain was to 
+permit Medicare to recapture its prior depreciation payments 
+to Humana, there is nothing arbitrary about that result.  
+Rather, it flows directly from the operation of regulations 
+that are not themselves challenged here.  Under those regu-
+lations, providers are permitted "[a]n appropriate allowance 
+for depreciation on buildings and equipment used in the 
+provision of patient care."  42 C.F.R. s 413.134(a).  When a 
+provider sells a depreciable asset for a gain, Medicare recap-
+tures its previous depreciation payments from that gain.  See 
+42 C.F.R. s 413.134(f)(1).  Because annual depreciation allow-
+ances are only estimates of the true depreciation of the asset, 
+recapture permits Medicare to recover when actual deprecia-
+tion--as reflected in the sales price--turns out to be less than 
+anticipated.  See generally Whitecliff, 20 F.3d at 489.  And 
+this means that the amount of money the seller actually 
+receives for the property--the allocated sales price--is the 
+key variable.
+
+     By contrast, establishing the purchaser's basis is not in-
+tended to permit Medicare to recover for past overpayments 
+generated by using estimates of actual depreciation, but 
+rather to provide the initial value from which future esti-
+mates--i.e., the purchaser's depreciation allowances--will be 
+calculated.  42 C.F.R. s 413.130(a)(1), .134.  As set forth in a 
+regulation that Tenet has not challenged, 42 C.F.R. 
+s 413.134(g), depreciated reproduction cost is one of the three 
+variables needed to determine the purchaser's basis.  There 
+is nothing arbitrary about rejecting an appraisal that did not 
+reliably establish the magnitude of that variable.15
+
+__________
+     15  We also note that while the accuracy of the appraisal of 
+Tenet's basis was important to both Medicare and Tenet, the 
+accuracy of the appraisal of Humana's sales price was not equally 
+significant to either Medicare or Humana.  Since the amount of 
+
+                                2
+
+     Tenet also argues that the Medicare regulations bar HHS 
+from using net book value as a hospital's basis.  As the 
+provider correctly points out, paragraphs (1) and (2) of 42 
+C.F.R. s 413.134(g) do not mention net book value as a 
+permissible basis:  They mention only purchase price, fair 
+market value, and depreciated reproduction cost.  As HHS 
+correctly notes in response, however, these paragraphs re-
+quire the intermediary to select the lowest of those three 
+variables as the basis, and are simply silent as to what should 
+be done if the data are insufficient to support one or more of 
+them.  The paragraphs do not mention net book value at all, 
+let alone expressly forbid its use.
+
+     When an agency regulation is silent or ambiguous with 
+respect to the specific point at issue, we must defer to the 
+agency's interpretation as long as it is reasonable.  Indep. 
+Petroleum Ass'n of Am. v. Babbitt, 92 F.3d 1248, 1256 (D.C. 
+Cir. 1996);  see Foothill Presbyterian Hosp. v. Shalala, 152 
+F.3d 1132, 1134, 1135 (9th Cir. 1998).  Indeed, the Supreme 
+Court has advised that "[t]his broad deference is all the more 
+warranted" when the regulation concerns a "complex and 
+highly technical regulatory program" like Medicare, "in which 
+the identification and classification of relevant criteria neces-
+sarily require significant expertise and entail the exercise of 
+judgment grounded in policy concerns."  Thomas Jefferson 
+Univ., 512 U.S. at 512 (internal quotation omitted).  More-
+over, as the Court has further explained, HHS does not have 
+a statutory duty to promulgate regulations that "address 
+every conceivable question in the process of determining 
+equitable reimbursement."  Shalala v. Guernsey Mem'l 
+Hosp., 514 U.S. 87, 96 (1995).  Rather, for "particular reim-
+bursement details not addressed by" regulations, HHS prop-
+erly "relies upon an elaborate adjudicative structure which 
+
+__________
+Humana's gain was well above the level that would permit Medicare 
+to completely recapture its depreciation payments, neither Humana 
+nor Medicare had any reason to dispute the precise amount of the 
+gain.  See HHS Reply Br. at 9 & n.3;  A.R. at 460.
+
+includes the right to review by the [PRRB]."  Id.  The 
+agency reasonably relied on that structure here.
+
+     Lacking an acceptable figure for depreciated reproduction 
+cost, the intermediary concluded that it could not determine 
+which of the three values listed in the regulation was the 
+lowest, and hence could not step-up the basis under 
+s 413.134(g).  In such circumstances, Blue Cross recognized, 
+a literal reading of the regulation could require it to assign a 
+basis of zero:  "Without the determination of ... current 
+depreciated reproduction costs, the lesser ... of these three 
+variables becomes -0- and the Provider's asset basis thus 
+becomes -0-."  Intermediary's Position Paper at 8 (J.A. at 
+156).  Instead of adopting such a Draconian position, howev-
+er, Blue Cross permitted Tenet to use the basis of the 
+previous owner.  "This basis was chosen," the intermediary 
+said, "because it would not exceed the purchase price, fair 
+market value, or depreciated reproduction cost" of the hospi-
+tal.  May 7, 1992 Blue Cross Letter at 2 (J.A. at 197).  In 
+addition, the previous owner had maintained "adequate docu-
+mentation ... on the assets which properly supported their 
+net book value."  Id.  Finally, Blue Cross had been applying 
+net book value as Tenet's basis, without appeal, for each of 
+the previous five years.  Under these circumstances, the 
+PRRB determined, and we agree, that "the intermediary's 
+use of the net book value was reasonable."  PRRB Op. at 11.
+
+     We also note that relegating the provider to the basis of 
+the previous owner is consistent with the agency's long-
+standing characterization of s 413.134 as a regulation that 
+permits a purchaser to "step-up" the property's basis from 
+that of the prior owner.  See HHS Br. at 9;  see also 
+Intermediary Manual s 4508.1 (referring to the calculation as 
+a " 'write-up' from the historical cost basis of the acquired 
+depreciable assets").  Although the regulation does not itself 
+use the term "step-up," Tenet also characterizes it as a "step-
+up" regulation, see Tenet Br. at 6, as has this court, see 
+Nursing Ctr., 990 F.2d at 646;  Richey Manor, Inc. v. 
+Schweiker, 684 F.2d 130, 133 (D.C. Cir. 1982).  The logical 
+consequence of such a characterization is that a purchaser 
+who fails to satisfy the regulation's requirements will not be 
+
+permitted to step-up the basis, and hence will appropriately 
+be left with that of the prior owner.16
+
+     In a further attack on the intermediary's assignment of the 
+seller's basis to Tenet, Tenet contends that another para-
+graph of s 413.134(g) expressly bars the use of the seller's 
+basis unless the sale was not bona fide.  See Tenet Br. at 25-
+29 (citing para. (5)).  Since there has never been any sugges-
+tion that Humana's sale to Tenet was anything but bona fide, 
+Tenet concludes that HHS was barred from assigning Three 
+Rivers a basis equivalent to the prior owner's net book value.
+
+     This argument simply misreads the cited paragraph.  Para-
+graph (5) of s 413.134(g), entitled "Transactions other than 
+bona fide," states that "[i]f the purchaser cannot demonstrate 
+that the sale was bona fide, in addition to the limitations 
+specified in paragraph[s] (g)(1) [and] (2) ... of this section, 
+the purchaser's cost basis may not exceed the seller's cost 
+basis, less accumulated depreciation."  This paragraph does 
+provide that if a sale was not bona fide, the purchaser's basis 
+
+__________
+     16  The district court was concerned that limiting the purchaser 
+to the prior owner's net book value "would cause all assets that 
+have exceeded their estimated useful life to have a depreciable basis 
+of $0 assigned to them upon sale," a result the court thought 
+inconsistent with the PRRB's recognition in a prior case that fully 
+depreciated assets may continue to have value.  Tenet HealthSys-
+tems, slip op. at 14 (citing Unity Hospital, PRRB Dec. No. 78-D86, 
+Medicare & Medicaid Guide (CCH) p 29,590 (Dec. 21, 1978)).  This 
+concern is unwarranted.  First, although it is true that the applica-
+tion of straight-line depreciation can reduce an asset's depreciable 
+basis to zero, that would ordinarily occur only at the end of the 
+asset's useful life, which had not been reached here.  Second, this 
+result is not arbitrary, but rather the logical consequence of the 
+straight-line method of depreciation, which is embedded in Medi-
+care regulations not themselves challenged by Tenet.  See 42 
+C.F.R. s 413.134(b)(3), (g)(2).  Finally, the PRRB did not hold that 
+every purchaser should be relegated to the seller's net book value, 
+only that this was an appropriate result in Tenet's case because 
+Tenet had failed to satisfy the regulatory requirements for a step-
+up.  As discussed in the text above, that determination was reason-
+able.
+
+is limited to that of the seller.  But paragraph (5) does not 
+say that the only time the intermediary may use the seller's 
+basis is when the sale was not bona fide.  To the contrary, 
+paragraph (5) says nothing at all about how to calculate the 
+basis when the transaction was bona fide, and instead refers 
+the reader to paragraphs (g)(1) and (2) of the same section.  
+Those are the paragraphs already considered above, which 
+require the use of the lowest of purchase price, fair market 
+value, and depreciated reproduction cost, and which the 
+PRRB reasonably read as permitting use of the seller's basis 
+when the figure offered for depreciated reproduction cost is 
+not reliable.  We therefore reject Tenet's contention that the 
+Board's decision is "not in accordance with law."
+
+                               III
+
+     The PRRB's decision to approve a cost basis for Tenet's 
+hospital that was equal to that of the prior owner is supported 
+by substantial evidence and is not arbitrary, capricious, or 
+contrary to law.  Indeed, the use of that basis represented 
+Medicare's reasonable effort to be fair to a purchaser that 
+could not satisfy the regulatory requirements for a stepped-
+up basis.  Accordingly, the judgment of the district court is
+
+                                                                  Reversed.
+
+             

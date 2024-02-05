@@ -1,0 +1,513 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 2, 2000    Decided June 16, 2000 
+
+                           No. 99-1114
+
+         American Public Communications Council, et al. 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+
+        Telecommunications Resellers Association, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                    99-1115, 99-1117, 99-1122
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+     Michael K. Kellogg argued the cause for petitioner Pay-
+phone Service Providers. With him on the briefs were Albert 
+
+H. Kramer and Robert F. Aldrich.  David M. Janas, Michael 
+J. Zpevak and Robert M. Lynch entered appearances.
+
+     Jodie L. Kelley argued the cause for petitioners MCI 
+WorldCom, Inc., et al.  and supporting intervenors. With her 
+on the briefs were Maria L. Woodbridge, Mark B. Ehrlich, 
+Donald B. Verrilli, Jr., Leon M. Kestenbaum, Jay C. Keith-
+ley, H. Richard Juhnke, Robert Digges, Jr., Mark C. Rosen-
+blum, James S. Blaszak, Janine F. Goodman, Carl W. Nor-
+throp, E. Ashton Johnston, Howard J. Symons, Sara F. 
+Seidman, David Carpenter, Peter Keisler, Danny E. Adams, 
+Steven A. Augustino, Robert J. Aamoth, Dana Frix, C. Joel 
+Van Over, Teresa K. Gaugler, Michael J. Shortley, III, 
+Thomas Gutierrez, J. Justin McClure, Charles C. Hunter and 
+Catherine M. Hannan.  John B. Morris, Jr., Michelle W. 
+Cohen, James M. Smith and Genevieve Morelli entered ap-
+pearances.
+
+     Joel Marcus, Counsel, Federal Communications Commis-
+sion, argued the cause for respondents.  Joel I. Klein, Assis-
+tant Attorney General, U.S. Department of Justice, Robert B. 
+Nicholson and Robert J. Wiggers, Attorneys, Christopher J. 
+Wright, General Counsel, Federal Communications Commis-
+sion, John E. Ingle, Deputy Associate General Counsel, and 
+Lisa A. Burns, Counsel, were on the brief.
+
+     Albert H. Kramer argued the cause for intervenors Pay-
+phone Service Providers.  With him on the brief were Robert 
+F. Aldrich and Michael K. Kellogg.
+
+     H. Richard Juhnke argued the cause for Long Distance, 
+Paging and Consumer intervenors.  With him on the brief 
+were Leon M. Kestenbaum, Jay C. Keithley, Charles C. 
+Hunter, Catherine M. Hannan, Carl W. Northrop, Robert 
+Digges, Jr., Howard J. Symons, Sara F. Seidman, Mark C. 
+Rosenblum, David W. Carpenter, Danny E. Adams, Steven 
+A. Augustino, Robert J. Aamoth, Dana Frix, C. Joel Van 
+Over, Michael J. Shortley, III, Teresa K. Gaugler, Thomas 
+Gutierrez and J. Justin McClure.
+
+     Before:  Edwards, Chief Judge, Sentelle and Randolph, 
+Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Section 276 of the Telecommuni-
+cations Act of 1996, that comprehensively amended the Com-
+munications Act of 1934, see Telecommunications Act of 1996, 
+Pub. L. No. 104-104, 110 Stat. 56 ("1996 Act"), concerns 
+payphone services.  It requires the Federal Communications 
+Commission ("FCC" or "Commission") to promulgate regula-
+tions to "establish a per call compensation plan to ensure that 
+all payphone service providers are fairly compensated for 
+each and every completed intrastate and interstate call using 
+their payphone."  47 U.S.C. s 276(b)(1)(A) (Supp. III 1997).  
+Petitioners representing various interests of the payphone 
+industry seek review of the FCC's third attempt at a sustain-
+able per-call fee plan to fulfill its s 276 obligations.  We hold 
+that the FCC's order withstands scrutiny under the Adminis-
+trative Procedure Act.  See 5 U.S.C. s 706 (1994).
+
+                          I. Background
+
+     This case is before us for the third time.  In two previous 
+orders, the FCC has attempted to develop and justify a per-
+call fee for coinless calls from payphones.  See In re Imple-
+mentation of the Pay Telephone Reclassification and Com-
+pensation Provisions of the Telecommunications Act of 1996, 
+11 F.C.C.R. 20541 (1996) ("First Order");  In re Implementa-
+tion of the Pay Telephone Reclassification and Compensa-
+tion Provisions of the Telecommunications Act of 1996, 13 
+F.C.C.R. 1778 (1997) ("Second Order").  Acting on previous 
+petitions for review, we have twice remanded the Commis-
+sion's determinations for a lack of reasoned decisionmaking.  
+See Illinois Pub. Telecomms. Ass'n v. FCC, 117 F.3d 555, 558 
+(D.C. Cir. 1997) ("Payphones I");  MCI Telecomms. Corp. v. 
+FCC, 143 F.3d 606, 607 (D.C. Cir. 1998) ("Payphones II").  
+Today we consider petitions challenging the FCC's third 
+order on the subject.  See In re Implementation of the Pay 
+Telephone Reclassification and Compensation Provisions of 
+
+the Telecommunications Act of 1996, 14 F.C.C.R. 2545 (1999) 
+("Third Order").
+
+     Historically, only local phone service providers (local ex-
+change carriers or "LECs") provided payphone services.  
+The development of so-called "smart" payphones in the mid-
+1980s allowed independent payphone service providers 
+("PSPs") to compete with the LECs.  PSPs obtained their 
+revenues from either coin calls or from contracts with interex-
+change carriers ("IXCs" or operations services providers, 
+"OSPs") for collect calls and calling card calls.  See Pay-
+phones I, 117 F.3d at 558-59.
+
+     Before the 1996 Act was passed, PSPs were largely uncom-
+pensated for a third type of payphone call:  "dial around" 
+coinless calls, where the caller uses a long distance carrier 
+other than the payphone's presubscribed carrier.  "Dial 
+around" coinless calls include toll-free calls to long distance 
+providers (such as 1-800-CALL-ATT), and the 10-10-XXX 
+type of calls.  See id. at 559.  PSPs are prohibited from 
+blocking these dial around calls.  See Telephone Operator 
+Consumer Services Improvement Act of 1990, Pub. L. No. 
+101-435, 104 Stat. 986 (codified at 47 U.S.C. s 226 (1994)).  
+In s 276 of the 1996 Act Congress addressed the problem of 
+uncompensated calls by requiring the FCC to "establish a per 
+call compensation plan to ensure that all payphone service 
+providers are fairly compensated for each and every complet-
+ed intrastate and interstate call using their payphone."  47 
+U.S.C. s 276(b)(1)(A) (Supp. III 1997).  The statute directs 
+the Commission to prescribe regulations "[i]n order to pro-
+mote competition among payphone service providers and 
+promote the widespread deployment of payphone services to 
+the benefit of the general public" to meet this end.  Id. 
+s 276(b)(1).
+
+     The FCC decided that the best way to ensure fair competi-
+tion was to allow the market to set the price for each call.  
+See First Order, 11 F.C.C.R. 20541 p 70.  But because no 
+market has previously existed for dial around coinless calls, 
+the Commission first adopted a market-based surrogate--the 
+price of a local coin call at a typical deregulated payphone of 
+
+$.35.  In imposing this rate, the FCC simply said that the 
+"cost[s] of originating the various types of payphone calls are 
+similar."  Id.
+
+     Various parties sought review of this part of the Commis-
+sion's decision, as well as several other portions of the First 
+Order.  See Payphones I, 117 F.3d at 563-64.  We remanded 
+the coinless call rate determination because the Commission 
+had ignored record evidence that the costs of coin calls and 
+coinless calls are not similar.  See id.;  see also Illinois Pub. 
+Telecomms. Ass'n v. FCC, 123 F.3d 693, 694 (D.C. Cir. 1997).  
+For example, numerous IXCs had noted that coin calls cost 
+more than coinless calls because of the typical costs of using 
+coin mechanisms in payphones.  We concluded that "[t]he 
+FCC's ipse dixit conclusion, coupled with its failure to re-
+spond to contrary arguments resting on solid data, epitomizes 
+arbitrary and capricious decisionmaking."  Payphones I, 117 
+F.3d at 564 (citing Motor Vehicle Mfrs. Ass'n v. State Farm 
+Mut. Auto. Ins. Co., 463 U.S. 29, 46-57 (1983)).
+
+     On remand, the FCC attempted to develop an actual mar-
+ket-based rate for coinless calls.  See Second Order, 13 
+F.C.C.R. 1778 p 29.  The Commission used the deregulated 
+coin market rate as a starting point ($.35), and subtracted 
+$.066 per call as representing the difference between coin and 
+coinless calls, resulting in a per call rate of $.284.  See id. 
+p 41-42.  On appeal, we again found error in the agency's 
+decisionmaking.  See Payphones II, 143 F.3d at 608-09.  We 
+faulted the Commission's failure to explain why the coinless 
+market rate could be found by simply subtracting costs from 
+coin call rates:  "If costs and rates depend on different 
+factors, as they sometimes do, then this procedure would 
+resemble subtracting apples from oranges."  Id. at 608.  We 
+noted that although the Commission "may have depended on 
+the premise that the market rate for coin calls generally 
+reflects the costs of those calls," it had failed to articulate its 
+assumptions and connect them to its reasoning.  Id. We 
+remanded for further proceedings.  See id. at 609.
+
+     The Commission went back to the drawing board one more 
+time.  On February 9, 1999, the FCC issued its Third Order, 
+
+which we now review.  The FCC switched from the "top-
+down methodology" of the Second Order to a "bottom-up" 
+method, meaning that it started from zero and added up the 
+costs of coinless calls to develop a coinless call rate.  See 
+Third Order, 14 F.C.C.R. 2545 p 13.  The resulting new rate 
+is $.24.
+
+     Briefly put, the Commission first determined the "joint and 
+common" costs of a payphone;  that is, the monthly capital 
+expense of a payphone, using the cost of a typical payphone 
+and accoutrements.  The FCC did not include the cost of a 
+coin mechanism in this figure because it determined that that 
+cost is only necessary for coin calls, but did include amounts 
+as joint and common costs for monthly line charge costs, 
+maintenance costs, overhead costs (known as Sales, General, 
+and Administrative Costs or "SG&A"), and coding digit costs.  
+Total monthly costs per payphone came to $101.29.
+
+     To translate total monthly costs into a per call rate, the 
+FCC divided that figure by the average number of calls 
+received by a marginal payphone.  A marginal payphone is 
+one that gathers revenue to meet its costs (including an 
+assumption that the payphone does not pay location rent to 
+the owner of the premises because of its marginal status) but 
+is not otherwise profitable.  Relying on data submitted by the 
+Regional Bell Operating Companies Coalition ("RBOC Coali-
+tion"), the FCC came up with a figure of 439 calls per month.  
+This number represents the midpoint between 414, where the 
+data showed that a premises owner would not need to subsi-
+dize a payphone in order to keep it, and 464, where the data 
+showed that location rents would be typically required by 
+premises owners.  The Commission declined to rely on other 
+data which used call volumes from an average payphone 
+because it would cause many payphones with below-average 
+call volume to become unprofitable.
+
+     This yielded a per call figure of $.231 ($101.29 divided by 
+439, rounded to the nearest one-thousandth).  The FCC 
+adjusted the figure upwards $.009 to cover the interest associ-
+ated with having to wait for payment from IXCs, for a grand 
+
+total of $.24.  The FCC declined to add additional amounts to 
+the dial around rate for bad debts and collection costs associ-
+ated only with dial around calls.
+
+     Two groups of petitioners again seek review of the FCC's 
+determination, raising multiple issues.  The first, represent-
+ing the interests of PSPs, claims that the final rate is too low.1  
+The other, representing the interests of IXCs, claims, not 
+surprisingly, that the final rate is too high.2  Each interest 
+group has also filed briefs intervening in the petitions of the 
+other.3
+
+                           II. Analysis
+
+     Although the petitions from the First Order were more 
+wide-ranging, the area of dispute has now narrowed to the 
+coinless call rate.  PSPs and IXCs raise a number of objec-
+tions to the Commission's order on that subject.  Although 
+we have given attention to each, only three are sufficiently 
+weighty to warrant separate discussion in this opinion:  (1) 
+the FCC's failure to include a bad debt figure in the coinless 
+call rate, (2) the FCC's failure to include a separate figure to 
+account for collection costs associated with coinless calls, and 
+(3) the decision to use data based on marginal rather than 
+average payphones.  In considering those three objections, 
+along with those which we do not separately discuss herein, 
+
+__________
+     1 The individual petitioners are American Public Communica-
+tions Counsel ("APCC"), Ameritech Corporation, Bell Atlantic Cor-
+poration, Bellsouth Corporation, GTE Service Corporation, SBC 
+Communications Inc., and US West, Inc.
+
+     2 The individual petitioners are MCI Worldcom, Inc. and Sprint 
+Corporation, joined by intervenors Ad Hoc Telecommunications 
+Users Committee, AirTouch Communications, Inc., American 
+Trucking Associations, Inc., Truckload Carriers Association, AT&T 
+Corporation, Cable & Wireless USA, Inc., Competitive Telecommu-
+nications Association, Excel Telecommunications, Inc., Frontier 
+Corporation, Qwest Communications Corporation, Skytel Communi-
+cations, Inc., and Telecommunications Resellers Association.
+
+     3 MCI Worldcom, Inc. is not part of the IXC group intervening 
+on the petitions of the PSPs.
+
+we apply the standard of review drawn from the Administra-
+tive Procedure Act and uphold the Commission's determina-
+tions unless they are "arbitrary, capricious, an abuse of 
+discretion, or otherwise not in accordance with law."  5 
+U.S.C. s 706(2)(A) (1994);  see, e.g., Achernar Broad. Co. v. 
+FCC, 62 F.3d 1441, 1445 (D.C. Cir. 1995).  Each of the 
+decisions questioned by petitioners herein survives review 
+under that standard.
+
+                           A. Bad Debt
+
+     As we noted above, the Commission declined to add any 
+amount to the coinless call fee for bad debts associated with 
+the collection of coinless call fees.  The PSPs, before the 
+FCC, advanced arguments based on their own alleged bad 
+debt experience, and now argue that the FCC should have 
+been able to calculate some amount for inclusion in the 
+coinless call rate based on that evidence.  Cross petitioners 
+argued before the Commission, and here, that the debts on 
+which the proffered evidence was based were either the result 
+of PSP negligence in collection, or do not genuinely represent 
+bad debt losses at all, but only unresolved billing disputes.  
+The Commission concluded that it had insufficient information 
+about the levels of bad debt to enable it to rationally calculate 
+an appropriate figure for inclusion.
+
+     Specifically, the Commission found that the data regarding 
+uncollected per-call compensation was not reliable enough to 
+predict accurately future levels of bad debt.  See Third 
+Order, 14 F.C.C.R. 2545 p 162.  The Commission noted that it 
+could not determine what percentage of uncollected per-call 
+compensation was the result of PSP billing errors (i.e., not 
+charging the correct IXC), as opposed to deadbeat carriers 
+(i.e., the appropriate party is billed but refuses to pay).  The 
+Commission further noted that providing an improperly com-
+puted allowance for uncollectibles could result in double re-
+covery if the PSP ultimately collected from the delinquent 
+carrier.  That is, the PSP would collect once from the IXC 
+and once from the consumer (through the bad debt cost 
+element included in the higher compensation amount).  Final-
+
+ly, the Commission determined that a bad debt allowance was 
+unnecessary because the agency had ensured in the Third 
+Order that PSPs will receive interest on late payments for as 
+long as such payments are overdue.  In short, with insuffi-
+cient information, the Commission found "that it would be 
+unwise to establish a cost element for bad debt at this time."  
+Id.
+
+     The PSP petitioners argue that the Commission was re-
+quired to include some estimate of bad debt in its calculation 
+and that the failure to do so "effectively determin[es] that 
+dial-around uncollectibles would be zero."  (The PSPs rely on 
+some of the same data that the Commission deemed not 
+sufficient to allow a rational decision.)  We disagree.
+
+     Perhaps the FCC could have formulated some best-guess 
+figure for bad debt, but we cannot require an agency to enter 
+precise predictive judgments on all questions as to which 
+neither its staff nor interested commenters have been able to 
+supply certainty.  "Where existing methodology or research 
+in a new area of regulation is deficient, the agency necessarily 
+enjoys broad discretion to attempt to formulate a solution to 
+the best of its ability on the basis of available information."  
+Industrial Union Dep't, AFL-CIO v. Hodgson, 499 F.2d 467, 
+474-75 n.18 (D.C. Cir. 1974) (citing Permian Basin Area Rate 
+Cases, 390 U.S. 747, 811 (1968));  see also FCC v. National 
+Citizens Comm. for Broad., 436 U.S. 775, 813-14 (1978).  
+That is exactly the situation the FCC faced here.  The 
+agency was presented with bad debt data culled from a 
+relatively short historical period, while knowing that some of 
+the factors affecting that data may change in the future.  Any 
+figure that it might have chosen to represent bad debt would 
+likely be challenged on that and other similar evidentiary 
+bases.  We conclude that it was prudent and reasonable for 
+the Commission to decide that, on balance, the existing bad 
+debt data was not reliable enough to warrant any educated 
+guess as to future bad debt percentages.  It may not have 
+been the only decision it could have made, but it was a 
+reasonable one under the circumstances.
+
+     In upholding the reasonableness of the Commission's exclu-
+sion of the bad debt element from coinless call cost, we are 
+mindful of the nature of the debt involved.  As intervenor 
+long distance carriers remind us, the "[f]ailure to pay the 
+required compensation is a violation of FCC rules for which 
+the carrier is subject to damages as well as fines and penal-
+ties."  See 47 U.S.C. ss 206-08, 501-03 (1994).  The plight of 
+the allegedly uncompensated payphone service provider does 
+not equate to that of a merchant pursuing deadbeat custom-
+ers in the marketplace.  Furthermore, for any harm that may 
+be done to the PSPs, they are not left without remedy.  After 
+noting that it was "unable to generate a sufficient record on 
+this question for issuing this Order," the FCC invited the 
+parties to file petitions for clarification on the bad debt issue.  
+Third Order, 14 F.C.C.R. 2545 p 162.  The RBOC Coalition 
+has made such a filing;  the Commission has received that 
+petition;  sought and received comments;  and, is considering 
+the issue.  See Common Carrier Bureau Seeks Comment on 
+the RBOC/GTE/SNET Payphone Coalition Petition for Clar-
+ification Regarding Carrier Responsibility for Payphone 
+Compensation Payment, CC Docket No. 96-128, DA 99-730 
+(1999), available at 1999 WL 335783.
+
+                       B. Collection Costs
+
+     The Commission's calculation of the joint and common costs 
+of a payphone include a figure representing "Sales, General, 
+and Administrative (SG&A) costs."  Third Order, 14 F.C.C.R. 
+2545 p 178.  SG&A includes "overhead costs, such as legal 
+fees, administrative costs, salaries, and management costs."  
+Id. The FCC reasoned that as the proportion of coin calls 
+changes as compared to coinless calls, more employees in a 
+payphone company would likely take on duties related to the 
+busier type of call traffic, but that the overall overhead costs 
+should remain the same.  The Commission considered data 
+on the subject filed with it before the issuance of the Second 
+Order and data provided by the RBOC Coalition in the 
+present proceeding.  Based on its review of the evidence, the 
+Commission determined that a reasonable estimate of SG&A 
+
+costs on a per-phone-per-month basis was $19.62.  See id. 
+p 178-79.
+
+     The Commission included this SG&A figure in calculating 
+the coinless call cost but did not include in the coinless call 
+rate any additional amount to account for the marginal costs 
+of billing and collection of coinless fees.  See id. p 163-64.  
+The FCC reasoned that it had insufficient information with 
+which to determine the variance of administrative costs which 
+occur from a rise in coinless calls relative to coin calls.  See 
+id. p 164.  It stated that "it [is] fair to assume that the 
+amount that coin-related SG&A positions contribute to SG&A 
+expenses approximate the same expense that billing and 
+collection positions contribute to SG&A."  Id.
+
+     The PSPs claim that record evidence showed considerable 
+actual expenses in the collection process.  In their view, 
+SG&A costs cannot be counted as covering these expenses 
+because coinless call collection costs are properly viewed as 
+an incremental expense of coinless calls, not a joint and 
+common cost of payphones.
+
+     We again disagree.  It is plausible to reason, as the FCC 
+did, that the percentage of SG&A overhead costs which can 
+be traced to coinless call business will increase in the future if 
+the market embraces coinless calls.  Before the advent of dial 
+around call compensation, overhead necessarily constituted 
+costs attributable only to the prior forms of payphone com-
+pensation.  As the payphone service market shifts between 
+coin calls and coinless calls, it is reasonable to expect that the 
+relative portion of overhead attributable to separate underly-
+ing elements of expense will change with it.  This does not 
+mean that either the Commission or the regulated entities 
+should expect to undertake a perennial and constant adjust-
+ment of cost allocation based upon that moving target.  The 
+use in accounting of the concept of "overhead" presupposes 
+that some details of costs will be submerged in that greater 
+item of calculation.  If this were not the case, and if the 
+PSP's argument were accepted and taken to its logical ex-
+treme, we would be forced to conclude that virtually every 
+dollar characterized as overhead should be treated by the 
+
+Commission as either a cost of coin calls or coinless calls.  
+But the collective concept of overhead prevents us and the 
+Commission from having to determine that because a data 
+input employee of a PSP spends ten percent of the time at 
+her computer on coinless call matters and ninety percent on 
+coin calls, the cost of her mousepad should be divided on a 
+one-to-nine basis between those expense categories rather 
+than classified as overhead.  The FCC reasonably did not go 
+down that detailed a path, and therefore did not act arbitrari-
+ly, capriciously, or contrary to law in deciding that the 
+collection costs of dial around compensation are fairly repre-
+sented by the SG&A portion of joint and common costs.
+
+                 C. Marginal Payphone Methodology
+
+     The FCC based its calculations on the number of calls from 
+a marginal payphone--a payphone that breaks even--to en-
+sure fair compensation under s 276(b)(1).  The Commission 
+wanted to ensure the "widespread deployment of payphones" 
+as required by the statute, and declined to use average 
+payphone call volume because that would render below aver-
+age payphones unprofitable.  Third Order, 14 F.C.C.R. 2545 
+p 141.
+
+     To determine the number of calls a marginal payphone 
+receives, the FCC requested that the RBOC Coalition provide 
+two figures:  (1) the number of calls placed at a phone that 
+does not pay rent, and (2) the number of calls made from a 
+location that begins to pay rent.  The two numbers reported 
+back were 414 and 464, with a midpoint of 439 which the FCC 
+adopted.
+
+     The IXCs fault the FCC for relying on the RBOC Coalition 
+data.  They claim that the data cannot be used because the 
+RBOC Coalition did not explain their underlying methodology 
+for developing the data.  In City of New Orleans v. SEC, 969 
+F.2d 1163 (D.C. Cir. 1992), we found error in an agency's 
+reliance on estimates which had "no explanation or underly-
+ing support."  Id. at 1167.  However, that is not the case 
+here.  The RBOC Coalition did explain how it developed the 
+data, and noted certain difficulties it had in doing so.  For 
+
+example, it pointed out that average revenue depends in part 
+on factors other than call volume, such as the mix of types of 
+calls and the maintenance expense of specific locations.  It 
+explained its attempt to determine the average daily revenue 
+needed to decide to place a new payphone and the average 
+revenue needed to begin paying commissions on such a 
+phone, and then determined what mix of calls will produce 
+that revenue.  The RBOC Coalition also explained that the 
+final numbers were a weighted average of numbers submitted 
+by members of the Coalition.  While the data submitted by 
+the RBOC Coalition could be subjected to various challenges, 
+we cannot say that it was unreasonable or arbitrary for the 
+FCC in the exercise of its expertise to rely upon it.  See 
+Madison Gas and Elec. Co. v. SEC, 168 F.3d 1337, 1344 (D.C. 
+Cir. 1999).
+
+                                      III. Conclusion
+
+     In summary, we conclude that petitioners have not estab-
+lished that any portion of the FCC's rate calculation for 
+coinless calls is arbitrary, capricious, or otherwise contrary to 
+law.  The errors which required us to remand on two prior 
+occasions have been rectified.  The petitions for review are 
+therefore
+
+                                                                            Denied.
+

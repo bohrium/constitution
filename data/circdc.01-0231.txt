@@ -1,0 +1,495 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 1, 2001   Decided December 28, 2001 
+
+                           No. 00-1406
+
+             MCI Worldcom Network Services, Inc. and 
+           MCImetro Access Transmission Services LLC, 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                     Verizon Communications, 
+                            Intervenor
+
+             Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Jodie L. Kelley argued the cause for petitioners.  With her 
+on the briefs were Donald B. Verrilli Jr., Lara M. Flint, 
+Thomas F. O'Neil III and William Single IV.
+
+     Rodger D. Citron, Counsel, Federal Communications Com-
+mission, argued the cause for respondent.  On the brief were 
+John Rogovin, Deputy General Counsel, John E. Ingle, Depu-
+ty Associate General Counsel, and Laurel R. Bergold, Coun-
+sel.  Laurence N. Bourne, Counsel, Andrea Limmer and 
+Catherine G. O'Sullivan, Attorneys, U.S. Department of Jus-
+tice, entered appearances.
+
+     J.C. Rozendaal argued the cause for intervenor.  With him 
+on the brief were Mark L. Evans and Michael E. Glover.
+
+     Before:  Ginsburg, Chief Judge, Sentelle and Randolph, 
+Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  MCI Worldcom Network Ser-
+vices, Inc., and MCImetro Access Transmissions Services, 
+LLC (collectively "MCI") petition this Court for review of the 
+Federal Communications Commission's ("FCC" or "Commis-
+sion") order dismissing its complaint against Bell Atlantic 
+Corporation (now Verizon Communications, Inc.1), in which 
+MCI alleged that Bell Atlantic violated the pricing require-
+ment set forth by the FCC in its order approving the merger 
+of Bell Atlantic and NYNEX Corporation.  See Memorandum 
+Opinion and Order, AT&T Corp. v. Bell Atlantic Corp., and 
+MCI Telecommunications Corp., et al. v. Bell Atlantic Corp., 
+15 FCC Rcd 17066 (2000) ("Dismissal Order").  In the Dis-
+missal Order the FCC reasoned that the proper forum for 
+MCI's complaint was the state public utility commissions, 
+pursuant to 47 U.S.C. s 252 (2000), and that the merger 
+order imposed no cost methodology requirement that is not 
+independently applicable in such section 252 proceedings.  
+MCI alleges that the dismissal was arbitrary and capricious, 
+effectively nullifying the merger order pricing requirement.  
+Because the FCC did not act unreasonably in declining to 
+enforce the merger order requirement in what amounts to a 
+parallel and duplicative proceeding under 47 U.S.C. s 208, we 
+deny the petition for review.
+
+__________
+     1 For clarity, we will refer to this company as "Bell Atlantic."
+
+                          I. Background
+
+              A. Statutory and Regulatory Framework
+
+     The Telecommunications Act of 1996, Pub. L. No. 104-104, 
+110 Stat. 56, codified at 47 U.S.C. ss 151-276 ("the Act"), was 
+enacted to bring about market competition in the local tele-
+phone service market.  As part of its comprehensive scheme, 
+it requires incumbent local telephone service providers to 
+interconnect with new market entrants, and to allow these 
+new entrants to lease elements that make up the local net-
+work to provide local telecommunications service.  See 47 
+U.S.C. s 251 (2000).  The Act mandates that the rates for 
+interconnection and access to unbundled network elements be 
+"just and reasonable" and "based ... on cost."  Id. at 
+s 252(d)(1).  The Act further expressly provides that a "State 
+[public utility] commission" must, in arbitration proceedings, 
+"establish ... rates for interconnection, services, or network 
+elements."  Id. at s 252(c)(2).  However, Congress empow-
+ered the FCC to prescribe the general methodology to be 
+used by the state commissions in setting these rates.  See id. 
+at s 252(d)(1);  AT&T Corp. v. Iowa Utils. Bd., 525 U.S. 366, 
+385 (1999) (holding "that the Commission has jurisdiction to 
+design a pricing methodology").  Thus Congress created a 
+kind of "intergovernmental partnership" with a division of 
+responsibility between the FCC and the states.  Michigan v. 
+EPA, 268 F.3d 1075, 1078 (D.C. Cir. 2001);  cf. Virginia v. 
+EPA, 108 F.3d 1397, 1408 (D.C. Cir. 1997) (describing a 
+partnership between the states and the federal government 
+as an "experiment in federalism").
+
+     Pursuant to section 252(d)(1), the FCC issued its Imple-
+mentation of the Local Competition Provisions in the Tele-
+communications Act of 1996, 11 FCC Rcd 15499, modified on 
+recon., 11 FCC Rcd 13042 (1996) ("Local Competition Or-
+der"), in which it set forth a forward-looking pricing method-
+ology based on the so-called Total Element Long-Run Incre-
+mental Cost ("TELRIC") of a local network.  TELRIC is a 
+forward-looking cost methodology in which it is assumed that 
+a carrier uses a hypothetical network with the most advanced 
+and efficient technology available, at a significant reduction in 
+
+cost over the network elements that are actually in use.  See 
+Local Competition Order, 11 FCC Rcd at 15850, p 690. 
+TELRIC is just one "particular species of forward-looking 
+cost methodology."  Dismissal Order, 15 FCC Rcd at 17071-
+72, p 13.  The Local Competition Order required the state 
+public utility commissions to use a forward-looking methodol-
+ogy, specifically TELRIC, in setting rates.  See Dismissal 
+Order, 15 FCC Rcd at 17069, p 7.
+
+     The Local Competition Order and the division of labor 
+between the state commission and the FCC have been the 
+subject of much litigation, with cases being consolidated in 
+the U.S. Court of Appeals for the Eighth Circuit.  See Iowa 
+Utils. Bd. v. FCC, 109 F.3d 418, 421 (8th Cir. 1996).  That 
+court originally ruled that the FCC lacked authority to issue 
+pricing methodology regulations binding on the states.  Iowa 
+Utils. Bd. v. FCC, 120 F.3d 753 (8th Cir. 1997).  The Supreme 
+Court reversed in AT&T Corp. v. Iowa Utilities Board, 525 
+U.S. 366 (1999).  On remand, the Eighth Circuit agreed with 
+the FCC that it could prescribe use of a forward-looking cost 
+methodology under the 1996 Act, but invalidated the FCC's 
+particular pricing methodology-TELRIC.  Iowa Utils Bd. v. 
+FCC, 219 F.3d 744 (8th Cir. 2000).  That decision is currently 
+before the Supreme Court, Verizon Communications v. FCC, 
+121 S. Ct. 877 (2001) (granting certiorari), where oral argu-
+ment was held on October 10, 2001.
+
+                B. The Bell Atlantic/NYNEX Merger
+
+     Bell Atlantic (which became Verizon as part of a subse-
+quent merger with GTE Corporation) and NYNEX an-
+nounced their intent to merge on April 23, 1996, and sought 
+FCC approval of the transfer of licenses.  On August 14, 
+1997, the FCC approved the merger, but with nine conditions 
+that would remain in effect for a four-year period.  See 
+Memorandum Opinion and Order, Applications of NYNEX 
+Corp., Transferor, and Bell Atlantic Corp., Transferee, For 
+Consent to Transfer Control of NYNEX Corp. and Its Sub-
+sidiaries, 12 FCC Rcd 19985, 20069-79 (1997) ("Merger Or-
+der").  The Merger Order outlines significant concerns over 
+
+the harm to competition that would be caused by the Bell 
+Atlantic/NYNEX merger.  See id. at 20008-63.  In response 
+to the concerns, on "July 19, 1997, Bell Atlantic and NYNEX 
+submitted an ex parte filing proffering a number of specific 
+commitments they would undertake as conditions of the ap-
+proval of the transfer of [the] licenses."  Id. at 20069, p 178.  
+Based on these commitments, the FCC proceeded to approve 
+the merger.  See id.  The FCC concluded that "these com-
+mitments are sufficient to outweigh the harm to the public 
+interest," and approved the merger, subject to the nine 
+voluntary conditions set forth by the FCC in Appendix C of 
+the Merger Order.  Id. at 20069, p 179.  The conditions are:  
+1) The preparation of Performance Monitoring Reports;  2) 
+providing uniform interfaces for use by carriers purchasing 
+interconnection;  3) conducting operational testing of the in-
+terfaces;  4) proposing certain options for carriers purchasing 
+interconnection;  5) providing shared transport based on for-
+ward-looking, economic costs;  6) proposing rates based upon 
+forward-looking, economic cost;  7) engaging in good faith 
+negotiations to establish performance standards;  8) a 48-
+month sunset provision;  and 9) a commitment to negotiate 
+requested supplements to existing agreements based on these 
+conditions.  Merger Order, 12 FCC Rcd at 20107-12, App. C 
+p p 1-9.  At issue in this appeal is Paragraph 6 of the 
+conditions, which provides:
+
+     To the extent Bell Atlantic/NYNEX proposes rates, in-
+     cluding in interconnection negotiations and arbitrations, 
+     for interconnection, transport and termination, or unbun-
+     dled network elements, including both recurring and non-
+     recurring charges, any such proposal shall be based upon 
+     the forward-looking, economic cost to provide those 
+     items.
+     
+Id. at 20111, p 6.  The Merger Order was issued less than a 
+month after the Eighth Circuit originally ruled that the FCC 
+lacked authority to issue pricing methodology regulations 
+binding on the states and vacated the FCC's pricing rules.  
+See Dismissal Order, 15 FCC Rcd at 17069, p 9.
+
+                       C. Proceedings Below
+
+     A few months after the release of the Merger Order, AT&T 
+Corporation and MCI filed formal complaints with the FCC 
+pursuant to 47 U.S.C. s 208, alleging Bell Atlantic had com-
+mitted various violations of Paragraph 6 of the Merger Order 
+in seven different jurisdictions.  See Dismissal Order, 15 
+FCC Rcd at 17067, p 4.  AT&T and MCI argued that Bell 
+Atlantic had not used TELRIC or a forward-looking cost 
+methodology in setting rates.  See id. at 17067-68, p 4.  The 
+complainants sought FCC enforcement of the Paragraph 6 
+pricing condition of the Merger Order against Bell Atlantic.  
+Bell Atlantic moved for the FCC to dismiss or deny the 
+complaints and pointed out that the complainants already had 
+litigated whether Bell Atlantic's proposed rates were based 
+on forward-looking costs in state arbitration proceedings pur-
+suant to 47 U.S.C. ss 251 and 252.  See Dismissal Order, 15 
+FCC Rcd at 17068, p 6.  Specifically, Bell Atlantic argued 
+that the complainants' claims were either moot, as state 
+commissions had already set rates, or should be dismissed 
+"on the basis of comity," out of respect for the dominant role 
+the 1996 Act assigns the states in setting rates.  See id.  Bell 
+Atlantic also contended that MCI's complaint was wrong on 
+the merits in two respects:  The Merger Order only required 
+that rates be based "upon the forward-looking, economic cost" 
+and not necessarily TELRIC;  and Bell Atlantic's rate propos-
+als were in fact based on forward-looking costs as well as the 
+specific requirements of TELRIC.  See id. at 17068, p p 5-6.
+
+     During 1998, the parties conducted discovery and filed 
+merits briefs.  In early 1999, after the Supreme Court issued 
+its ruling in AT&T Corp. v. Iowa Utilities Board, the FCC 
+requested supplemental briefing.  In March 2000, AT&T 
+petitioned this Court for a writ of mandamus, seeking an 
+order directing the FCC to decide the complaints.  In re 
+AT&T Corp., No. 00-1133 (filed March 23, 2000), dismissed 
+as moot, (D.C. Cir. Sept. 19, 2000).  That petition was ren-
+
+dered moot when the FCC issued its order dismissing AT&T 
+and MCI's complaints.  See id.
+
+     In its Dismissal Order, the FCC observed that it had 
+adopted Paragraph 6 of the Merger Order in light of the 
+uncertainty created by the Eighth Circuit's vacatur of the 
+generally applicable forward-looking pricing rules of the Lo-
+cal Competition Order in Iowa Utilities Board v. FCC, 120 
+F.3d 753 (8th Cir. 1997).  See Dismissal Order, 15 FCC Rcd 
+at 17069, p 9.  It explained that Paragraph 6 was a gap-filling 
+measure to replace the Local Competition Order, and that it 
+was no longer necessary given the Supreme Court's reversal 
+of the Eighth Circuit.  See id. at 17071, p 12.
+
+     The FCC stated that the regulatory objective underlying 
+Paragraph 6 had been satisfied both by the state commis-
+sions' adoption of forward-looking pricing standards and the 
+Supreme Court's reversal.  See id. at 17069-70, p 10.  It 
+rejected the argument that Paragraph 6 required the use of 
+TELRIC.  Rather, the Merger Order only required the use of 
+a forward-looking cost methodology, without specifying any 
+particular version.  See id. at 17071-72, p 13.  The FCC 
+observed that Paragraph 6 imposes "no cost methodology 
+requirement that is not independently applicable in section 
+252 proceedings," and therefore "the substance of the pricing 
+methodology that the state commissions have employed (and 
+must continue to employ) in section 252 proceedings wholly 
+subsumes the substance of the merger condition [in Para-
+graph 6.]"  Id. at 17071, p 12 (emphasis added).  The only 
+question remaining was "whether, as a procedural matter, the 
+merger condition compels [the FCC] to duplicate the rate 
+inquiry that Congress entrusted to the state commissions and 
+the federal courts on review."  Id.  The Commission conclud-
+ed that duplication of the rate inquiry entrusted to the state 
+commissions by statute "could unnecessarily raise substantial 
+comity concerns," and rejected the argument that the Merger 
+Order required it to adjudicate Bell Atlantic's compliance with 
+Paragraph 6 through a section 208 proceeding.  Id.  Instead, 
+it ruled that a section 208 proceeding was inappropriate 
+because the "merger condition was designed to ensure the 
+use of a forward-looking cost methodology as a substantive 
+matter;  it was not independently designed to bypass the 
+statutory procedural framework for ensuring compliance with 
+
+that methodology under section 252."  Id. (emphasis added).  
+The Commission dismissed MCI's and AT&T's complaints 
+with prejudice.  Id. at 17072, p 14.
+
+     MCI sought review of the Dismissal Order in this Court.  
+AT&T did not.
+
+                           II. Analysis
+
+     MCI contends that the Dismissal Order "represents a 
+fundamental departure from prior policy, effectively eliminat-
+ing a critical requirement imposed on Bell Atlantic as a 
+condition of the Commission's approval of the Bell Atlantic-
+NYNEX merger."  Thus, at the heart of the dispute, MCI 
+argues that the FCC failed to provide an adequate explana-
+tion for this alleged departure, and therefore the Dismissal 
+Order is arbitrary and capricious.
+
+     The Dismissal Order is subject to reversal if the agency's 
+action was "arbitrary, capricious, an abuse of discretion, or 
+otherwise not in accordance with law."  5 U.S.C. s 706(2)(A) 
+(2000).  This is a " 'deferential standard' that 'presume[s] the 
+validity of agency action.' "  Global NAPs, Inc. v. FCC, 247 
+F.3d 252, 257 (D.C. Cir. 2001) (quoting Southwestern Bell Tel. 
+Co. v. FCC, 168 F.3d 1344, 1352 (D.C. Cir. 1999)).  "[T]he 
+Court must consider whether the decision was based on a 
+consideration of the relevant factors and whether there has 
+been a clear error of judgment....  The Court is not empow-
+ered to substitute its judgment for that of the agency." 
+Citizens to Preserve Overton Park, Inc. v. Volpe, 401 U.S. 
+402, 416 (1971);  see Motor Vehicle Mfrs. Ass'n v. State Farm 
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983).  In making this 
+assessment, we review an agency's interpretation of its own 
+regulations under a highly deferential standard.2  See Omni-
+point Corp. v. FCC, 78 F.3d 620, 631 (D.C. Cir. 1996).  We 
+give "an agency's interpretation of its own regulation 'control-
+ling weight unless it is plainly erroneous or inconsistent with 
+the regulation.' "  Associated Builders and Contractors, Inc. 
+
+__________
+     2 The Local Competition Order, while styled an "order," is not 
+the product of adjudication, but rather partakes of the nature of 
+regulation.
+
+v. Herman, 166 F.3d 1248, 1254 (D.C. Cir. 1999) (quoting 
+Military Toxics Project v. EPA, 146 F.3d 948, 954 (D.C. Cir. 
+1998)).  Moreover, "it is well established that an agency's 
+interpretation of the intended effect of its own orders is 
+controlling unless clearly erroneous."  Southwest Gas Corp. v. 
+FERC, 145 F.3d 365, 370 (D.C. Cir. 1998) (citation and 
+internal quotation marks omitted).
+
+     In this case, the FCC contends that the purpose of its 
+Merger Order was to ensure, insofar as possible in light of the 
+uncertainty created by the Eighth Circuit's (now-overruled) 
+jurisdictional ruling in Iowa Utilities Board v. FCC, 120 F.3d 
+753 (8th Cir. 1997), that "Bell Atlantic-NYNEX's rates would 
+be based upon a forward-looking cost methodology."  Thus 
+the purpose was a substantive one, not intended to create a 
+procedural bypass of the section 252 procedure specified by 
+Congress.  However, the FCC submits that those objectives 
+were achieved, both by the voluntary actions of all of the 
+relevant state commissions and by the reinstatement of the 
+general forward-looking cost requirement of the pricing rules 
+by the Supreme Court.  See Dismissal Order, 15 FCC Rcd at 
+17069-71, p p 10, 12.  To the extent that any uncertainty 
+remains over the authority of the Commission to mandate 
+that a carrier calculate its prices according to TELRIC, it is 
+irrelevant, as the Merger Order only requires the use of a 
+forward-looking methodology, and not necessarily TELRIC.  
+See Iowa Utils. Bd. v. FCC, 219 F.3d 744, 750-52 (8th Cir. 
+2000) (holding "the FCC's use of a forward-looking cost 
+methodology was reasonable," but rejecting the use of a 
+"hypothetical" network standard);  Dismissal Order, 15 FCC 
+Rcd at 17071-72, p 13 ("Although the Eighth Circuit invalidat-
+ed some aspects of our pricing rules, it affirmed our require-
+ment that UNE rates be based on forward-looking rather 
+than historical costs.").
+
+     Therefore, the FCC submits that this case "is not about 
+whether the Commission should or will continue to require 
+Bell Atlantic-NYNEX to base it rates upon forward-looking 
+costs."  There has been no change in its policy, as the Local 
+Competition Order affirmatively obligates all Local Exchange 
+Carriers ("LECs"), including Bell Atlantic, to base their 
+
+interconnection and element rates upon a forward-looking 
+cost methodology.  In short, the FCC reasons that it did not 
+decide that Bell Atlantic-NYNEX should be free of the 
+substantive requirement that it base its rates upon forward-
+looking costs;  instead, it dismissed MCI's complaint because 
+MCI can obtain (and, in the relevant states, either has 
+obtained or is in the process of obtaining) redress for any 
+violations of the forward-looking cost requirement by Bell 
+Atlantic-NYNEX through the section 252 process.
+
+     In the Merger Order, the Commission did suggest that 
+MCI could seek enforcement of the order through a proceed-
+ing other than that specified in s 252.  Specifically, the 
+Commission observed that MCI could object to a violation 
+through, for example, a complaint pursuant to s 208, opposi-
+tion to an application by Bell Atlantic for a radio license 
+under s 309, or opposition to an application for a certificate of 
+convenience and necessity under s 214.  See Merger Order, 
+12 FCC Rcd at 20075-76, p 191.  The Commission now de-
+clares that it will not consider MCI's complaint under section 
+208 because to do so would "duplicate the rate inquiry that 
+Congress entrusted to the state commissions."  Dismissal 
+Order, 15 FCC Rcd at 17071, p 12.
+
+     We have recognized that the Commission is "entitled to 
+reconsider and revise its views as to the public interest and 
+the means to protect that interest," so long as it gives a 
+reasoned explanation for the revision.  DirecTV, Inc. v. FCC, 
+110 F.3d 816, 826 (D.C. Cir. 1997).  With the state commis-
+sions having adopted the substance of Paragraph 6, the 
+Commission determined that the reduced need for hearings 
+under section 208 as a means of enforcing the Merger Order 
+no longer could justify the threat to comity that the hearings 
+would entail.  See Dismissal Order, 15 FCC Rcd at 17071, 
+p 12.  To the extent that the Dismissal Order departed from 
+the policy stated in the Merger Order, the change was 
+therefore a reasonable exercise of the agency's discretion.
+
+     The Commission noted that MCI took the opportunity to 
+litigate in each of the seven relevant state jurisdictions on 
+whether Bell Atlantic-NYNEX's rates are based upon for-
+
+ward-looking costs, and presented the same substantive argu-
+ments that it now asks the FCC to adjudicate in its section 
+208 complaint.  See Dismissal Order, 15 FCC Rcd at 17071, 
+p 12.  The FCC contends that the real issue is whether MCI, 
+by challenging Bell Atlantic-NYNEX's compliance with Para-
+graph 6 in a section 208 complaint proceeding, can require the 
+Commission to re-litigate the same substantive issues already 
+decided (or soon to be decided) by state public utility commis-
+sions and federal courts in fulfilling their statutorily defined 
+duties, and concludes that it cannot.
+
+     Given the presumption of validity and the high level of 
+deference due to an agency in interpreting its own orders and 
+regulations, see Southwest Gas Corp., 145 F.3d at 370;  Asso-
+ciated Builders, 166 F.3d at 1254, we cannot say that the 
+FCC acted unreasonably in declining to enforce the Para-
+graph 6 condition of the Merger Order in a parallel and 
+duplicative section 208 proceeding.  MCI seeks no relief from 
+the FCC that the state public utility commissions cannot 
+grant in their capacity as arbitrators under section 252.  
+Regardless of whether the FCC could offer some additional 
+relief, it would be entirely reasonable for the FCC to defer to 
+the states as a matter of comity.  See Dismissal Order, 15 
+FCC Rcd at 17071, p 12.  At oral argument, we noted the 
+potential for a procedural nightmare in which the FCC 
+reached a different conclusion as to whether rates were 
+"forward-looking," from a federal district court, based on the 
+same body of evidence.  A federal court, reviewing a state 
+public utility commission's arbitration, might conclude that 
+forward-looking rates had been applied, and yet, the FCC 
+conclude that the exact same rates, proposed by Bell Atlantic, 
+were not forward-looking. By deferring to the statutorily 
+defined role of the state public utility commissions, the FCC 
+reasonably avoids this quagmire.  Cf. Neal v. United States, 
+516 U.S. 284, 295 (1996) ("Once we have determined a stat-
+ute's meaning, we adhere to our ruling under the doctrine of 
+stare decisis, and we assess an agency's later interpretation 
+of the statute against that settled law.").
+
+     Moreover, all parties fully recognize Bell Atlantic-
+NYNEX's legal obligation to base its rate upon forward-
+
+looking costs.  Although some uncertainty lingers as to the 
+future of TELRIC, all the Merger Order requires is the use 
+of a forward-looking methodology.  See Dismissal Order, 15 
+FCC Rcd at 17071-72, p 13.  Therefore, as noted by the FCC, 
+the dispute between MCI and Bell Atlantic "centers upon 
+factual issues," and will center upon those factual issues 
+whether the case is litigated before the FCC as a section 208 
+proceeding or state commissions through the section 252 
+process.  At issue are prices for complex network elements 
+and inputs--and each category would have to be calculated 
+for each of the seven jurisdictions, taking into account the 
+unique circumstances in each location.  The Commission's 
+task in adjudicating the merits of MCI's complaint thus would 
+be larger than the task confronting any individual state 
+commission.  Contrary to MCI's assertion, there is no great 
+streamlining to be gained should the FCC adjudicate the 
+issue, as it would have to consider the relevant facts on a 
+state-by-state basis too.  The FCC is reasonable in its conclu-
+sion that these disputes are as readily resolved in the section 
+252 process as in a section 208 complaint.  See Dismissal 
+Order, 15 FCC Rcd at 17071, p 12 (observing Paragraph 6 
+"imposes no cost methodology requirement that is not inde-
+pendently applicable [by enforcement of the FCC's pricing 
+rules] in section 252 proceedings").  We agree with the FCC 
+that any alleged shortcomings in the section 252 process do 
+not undercut the Commission's reliance on the statutory role 
+of the state commissions and federal district courts in setting 
+rates--and any complaints about the efficacy of section 252 
+procedures are better addressed to Congress than to this 
+Court.
+
+                         III. Conclusion
+
+     The FCC's Dismissal Order does not work a change in the 
+Commission's substantive policy of requiring incumbent carri-
+ers to use a forward-looking methodology in determining 
+interconnection rates for new market entrants.  The FCC's 
+determination that the conditions imposed in Paragraph 6 of 
+the Merger Order were "wholly subsume[d]" by the Supreme 
+Court's reinstatement of the Local Competition Order is not 
+unreasonable.  See Dismissal Order, 15 FCC Rcd at 17071, 
+
+p 12. Because it was not unreasonable for the FCC to decline 
+to engage in an inquiry that duplicates the function given 
+state public utility commissions and the federal courts by law 
+in the Telecommunications Act of 1996, 47 U.S.C. s 252, we 
+deny the petition for review.
+
+                                  

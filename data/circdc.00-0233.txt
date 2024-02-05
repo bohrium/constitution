@@ -1,0 +1,388 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 11, 2000   Decided November 21, 2000 
+
+                           No. 99-1515
+
+                         Multimax, Inc., 
+                            Petitioner
+
+                                v.
+
+                Federal Aviation Administration, 
+                            Respondent
+
+                  Informatica of America, Inc., 
+                            Intervenor
+
+            On Petition for Review of an Order of the 
+                 Federal Aviation Administration
+
+     Katherine S. Nucci argued the cause for petitioner.  With 
+her on the briefs was Timothy Sullivan.
+
+     Daniel L. Kaplan, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With him on the brief were 
+David W. Ogden, Acting Assistant Attorney General, Mark B. 
+Stern, Attorney, and Wilma A. Lewis, U.S. Attorney.  Wil-
+liam G. Kanter, Deputy Director, U.S. Department of Jus-
+tice, entered an appearance.
+
+     Patricia H. Wittie was on the brief for intervenor Informa-
+tica of America, Inc.
+
+     Before:  Edwards, Chief Judge, Rogers, Circuit Judge and 
+Silberman, Senior Circuit Judge.*
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  The Federal Aviation Administra-
+tion ("FAA") awarded a contract to Multimax, Inc. ("Multi-
+max"), but reversed its decision after an unsuccessful bidder, 
+Informatica of America, Inc. ("Informatica"), protested the 
+award to FAA's Office of Dispute Resolution for Acquisition 
+("ODRA").  ODRA found the contract award to Multimax to 
+be "without a rational basis and contrary to the [required 
+procurement] evaluation criteria."  The FAA Administrator 
+issued a final order adopting ODRA's findings and recommen-
+dations to terminate Multimax's contract and hire Informatica 
+to complete the contract.  On appeal, Multimax contends that 
+ODRA applied the wrong standard of review, that its key 
+findings of fact are unsupported by substantial evidence, and 
+that its disregard of evidence was arbitrary and capricious, 
+resulting in an abuse of discretion and a decision contrary to 
+law.  We deny the petition for review.
+
+                                I.
+
+     On May 11, 1999, the FAA announced a solicitation for bids 
+on a contract to provide information technology support ser-
+vices at the William J. Hughes Technical Center (the "Cen-
+ter"), a New Jersey facility for research, development, and 
+testing of aviation programs.1  The solicitation informed pro-
+
+__________
+     * Senior Judge Silberman was in regular active service at the 
+time of oral argument.
+
+     1  The FAA's Acquisition Management System was developed in 
+response to Congress' directive "notwithstanding the provisions of 
+Federal acquisition law," to provide for more timely and cost-
+effective acquisitions of equipment and materials.  49 U.S.C. 
+s 40110(d) (West,  WESTLAW through P.L. 106-274, approved 
+Sept. 22, 2000).  ODRA is a review body that was created pursuant 
+
+spective bidders that their proposals would be subjected to a 
+"best value" evaluation-a type of bidding process in which 
+"combined technical criteria are more important than price."  
+Thus, the solicitation stated that "the successful offeror may 
+not necessarily be the [one providing the] lowest priced 
+offer," but also advised that "[p]rice may become more impor-
+tant as the difference between competing technical scores 
+decrease[s]."
+
+     At the Center, a five-member Technical Evaluation Team 
+(the "TET"), chaired by Dennis Steelman, evaluated the 
+contract proposals.  After the TET eliminated non-
+competitive proposals, four offerors remained, including In-
+formatica and Multimax.  The TET considered and ranked 
+the proposals according to five factors:  (1) Management 
+Plan/Technical Approach;  (2) Key Personnel;  (3) Oral Pre-
+sentation;  (4) Staffing Plan;  and (5) Past Performance.  The 
+offerors were also required to submit a price proposal, sepa-
+rately from their technical proposal, about which the TET 
+was not supposed to learn or take into account until its 
+technical report was completed.  By late August 1999, the 
+TET had reached a consensus that Informatica had provided 
+the "technically superior offer," and recommended that Infor-
+matica be awarded the contract.  Informatica had scored 
+about three and a half points higher than its closest competi-
+tor on TET's combined evaluation, and its proposal was the 
+only one ranked "excellent" (the other three fell into the 
+"good" range).
+
+     The TET reported to the Integrated Products Team (the 
+"IPT"), which consisted of Dennis Steelman and Anne Marie 
+Ternay.  The IPT was responsible for completing a Technical 
+Evaluation Report and an Award Recommendation and De-
+termination.  On Friday, August 27, 1999, Steelman submit-
+ted an initial version of the Technical Evaluation Report to 
+the appropriate FAA contracting official, Michael Ward.  
+This report recommended awarding the contract to Informati-
+ca, based on its clear technical superiority.  The same day, 
+
+__________
+to this mandate, and it handles protests and contract disputes that 
+arise under the Acquisition Management System.  See 14 C.F.R. 
+part 17 (2000).
+
+Steelman learned price information for the four finalists.  
+The following Tuesday, August 31, 1999, Ternay notified 
+Steelman that the Factor 5 scoring had been completed 
+incorrectly, because Informatica had been judged on the past 
+performance of its subcontractor.2
+
+     The next day, September 1, 1999, the TET was reconvened, 
+and its members agreed that a Factor 5 scoring error had 
+been made.  Informatica was given the opportunity to submit 
+additional past performance references.  However, the TET 
+found these references lacking, and Informatica's score on 
+Factor Five was reduced considerably, from average to poor.  
+After the Factor 5 rescoring, on September 3, 1999, the TET 
+characterized Informatica as the "marginally technically supe-
+rior offeror."  Informatica's edge over its closest competitor 
+had dropped from three and a half to two points, although its 
+proposal was still the only one that had won an "excellent" 
+rating.
+
+     However, the revised Technical Evaluation Report complet-
+ed by the IPT after the Factor 5 rescoring did not reflect the 
+TET's consensus that Informatica still possessed a measura-
+ble and meaningful technical edge over its competitors.  In-
+stead, this report stated that "the overall technical ratings of 
+each proposal are too close to identify the superior offeror, 
+that each is capable of providing the services called for ... 
+and for the purposes of this technical evaluation each is the 
+equal of the other."  The final Award Recommendation and 
+Determination, prepared by Steelman, Ternay, and Ward, 
+awarded the contract to Multimax.  It stated that "there is 
+insufficient demonstrated technical superiority on the part of 
+Informatica to justify the additional expense of awarding the 
+IT contract to that offeror.  Over the life of the contract, 
+Informatica would cost almost a million dollars more than 
+Multimax.  [$23,926,570.40 for [Informatica];  $22,960,852.00 
+
+__________
+     2  As noted subsequently by ODRA, potential offerors and con-
+tracting officials at the Center demonstrated some confusion about 
+whether Factor 5 was confined to evaluation of performance as a 
+general contractor only.
+
+for Multimax....]"  A contract with Multimax was executed 
+on September 15, 1999.
+
+     Informatica filed a protest with ODRA on September 28, 
+1999, charging that the Center had departed from the evalua-
+tion criteria set forth in the Screening Information Request, 
+and in subsequent materials stating that its proposals would 
+have "looked very different" if it had understood price would 
+be given a central role in the selection decision.  Multimax 
+intervened, and after receiving the parties' comments and 
+responses, ODRA issued its findings and recommendations.  
+ODRA's report suggested that the IPT allowed concerns 
+about price to corrupt the evaluation process.  ODRA deter-
+mined that "the Center improperly 'departed' from the Solici-
+tation's evaluation criteria, abandoning the 'best value' 
+scheme and effectively making an award to the lowest 
+price/technically acceptable offeror."  Additionally, the ODRA 
+report stated,
+
+     without a rational basis, [Steelman] re-worded the [TET] 
+     report, systematically eradicating the previous conclusion 
+     that [Informatica's] proposal was technically superior to 
+     that of Multimax.  The ODRA concludes that Mr. Steel-
+     man's actions, which were taken 'with the result [of 
+     awarding the contract to Multimax] in mind,' leveled the 
+     technical field completely (at least on paper), allowing 
+     low price to determine the award decision.
+     
+     ODRA bolstered its conclusions by referring to an email 
+message that was sent from Ternay to Steelman on Septem-
+ber 8, 1999, after the Factor 5 rescoring that narrowed 
+Informatica's edge over its competitors.  This message in-
+cluded a draft award recommendation that stated, in part, 
+"given the solicitation's emphasis on technical superiority over 
+price, the qualitative differences between the two companies 
+fully justifies [sic] paying a 4% premium for Informatica over 
+Multimax."  Based on this email message, ODRA drew the 
+inference that on September 8 Ternay believed that even 
+though Informatica's margin of technical superiority over its 
+competitors had shrunk, Informatica still provided the best 
+value.  However, draft documents that Steelman transmitted 
+
+to Ternay, Ward, and other officials at the Center on Septem-
+ber 8 characterized the offerors as equally capable and rec-
+ommended awarding the contract to Multimax.  ODRA inter-
+preted the events of September 8 as evidence of a dramatic 
+difference in viewpoint between Steelman and Ternay on that 
+date.  Thus, ODRA considered Steelman's drafts expressing 
+a preference for Multimax to be a "total about-face" from the 
+judgment of Ternay that was unduly influenced by price 
+information.
+
+     In view of its findings, ODRA recommended that the 
+contract with Multimax be terminated, and remaining parts of 
+the contract be awarded to Informatica.  ODRA's report 
+stated that "it is clear that [Informatica] should have been 
+awarded the contract, had the Solicitation's evaluation criteria 
+been followed, and there is nothing that would render imprac-
+ticable an [Informatica] takeover at this stage."  The FAA 
+Administrator adopted ODRA's findings and recommenda-
+tions, and Multimax challenges the Administrator's order, 
+requesting that it be vacated with instructions to terminate 
+the contract with Informatica and to execute a new contract 
+with Multimax.
+
+                               II.
+
+     On appeal, Multimax challenges the FAA's Order in three 
+respects.  First, Multimax contends that ODRA impermissi-
+bly substituted its judgment for that of the Center's person-
+nel by relying on inferences from an incomplete review of the 
+evolving evaluation and source selection process, rather than 
+considering the reasonableness of the Center's final evalua-
+tion and award decisions.  Second, Multimax contends that 
+ODRA erred as a matter of law in concluding that the 
+Center's award decision was contrary to the "best value" 
+criteria based on an inference drawn from the events of one 
+day, September 8, 1999.  Third, Multimax contends that 
+ODRA's key findings are unsupported by substantial evi-
+dence.  Multimax asserts that ODRA ignored Steelman's 
+sworn testimony and documentary evidence available in dis-
+covery materials provided to ODRA to which that testimony 
+
+referred, namely that the so-called critical "Price/Technical 
+Trade-off" section in the September 8 version of the award 
+recommendation document was created before the Factor 5 
+rescoring.
+
+     Our review is confined to determining whether the FAA's 
+order adopting the ODRA's findings and recommendations is 
+arbitrary or capricious or contrary to law.  See 5 U.S.C. 
+s 706(2)(A).  Thus, as the court recently stated in J.A. Jones 
+Management Services v. FAA, 225 F.3d 761 (D.C. Cir. 2000), 
+"[u]nder this standard, [the court] 'may reverse only if the 
+agency's decision is not supported by substantial evidence, or 
+the agency has made a clear error in judgment.' "  Jones, 225 
+F.3d at 764 (quoting Kisser v. Cisneros, 14 F.3d 615, 619 
+(D.C. Cir. 1994));  see also 49 U.S.C.A. s 46110(c) (West 
+1997).  The court's scrutiny is highly deferential because the 
+court is reviewing an agency procurement decision that impli-
+cates the agency's technical expertise.  "Where a procure-
+ment decision requires an agency to assess an offeror's 
+qualifications to perform a contract, our review is 'especially 
+deferential.'  See Iceland S.S. Co., Ltd.-Eimskip v. United 
+States Dept. of the Army, 201 F.3d 451, 461 (D.C. Cir. 2000).  
+[The court is] particularly reluctant to second-guess agency 
+decisionmaking on these " 'delicate questions.' "  Elcon En-
+ters., Inc. v. Washington Metro. Area Transit Auth., 977 F.2d 
+1472, 1479 (D.C. Cir. 1992) (quoting Delta Data Sys. Corp. v. 
+Webster, 744 F.2d 197, 203 (D.C. Cir. 1984))." Jones, 225 F.3d 
+at 765.
+
+     Thus, Multimax's contention that ODRA applied the wrong 
+standard of review is misplaced.  To the extent that ODRA 
+was required to apply an arbitrary and capricious standard of 
+review, ODRA met this requirement.  Because ODRA deter-
+mined that the IPT had impermissibly deviated from a "best 
+value" evaluation scheme, it was not unreasonable for ODRA 
+to recommend that Informatica's protest be sustained.  Given 
+our highly deferential scrutiny, we conclude, in the absence of 
+evidence that ODRA's decision process "involved a clear and 
+prejudicial violation of applicable statutes or regulations," 
+that ODRA's findings and recommendations are consistent 
+with arbitrary and capricious review.  Elcon Enters., 977 
+F.2d at 1478 (quoting Kentron Hawaii, Ltd. v. Warner, 480 
+
+F.2d 1166, 1169 (D.C. Cir. 1973) (internal quotation marks 
+omitted));  see also Kisser, 14 F.3d at 618.
+
+     Similarly, Multimax fails to demonstrate that ODRA erred 
+by substituting its technical judgment for the Center's assess-
+ment of price and technical tradeoffs, instead of simply check-
+ing to see that the Center's final procurement decision was 
+rational.  ODRA's report focused on the integrity of the 
+procurement process, and correctly scrutinized the actions of 
+the Center's officials to determine whether they adhered to a 
+"best value" evaluation.  Furthermore, the regulations that 
+govern ODRA afford it broad discretion to choose an appro-
+priate remedy for a successful protest.  See 14 C.F.R. s 17.21 
+(2000).
+
+     Multimax's contention that ODRA's findings are not sup-
+ported by substantial evidence also fails.  Substantial evi-
+dence is defined as "more than a 'scintilla,' but less than a 
+preponderance of the evidence."  Evans Fin. Corp. v. Di-
+rector, Office of Workers Compensation Programs, 161 F.3d 
+30, 34 (D.C. Cir. 1998) (citations and internal quotation marks 
+omitted).  Again, Jones provides useful guidance.  "[T]he 
+question [the court] face[s] is 'not whether [petitioner's] view 
+of the facts supports its version of what happened, but rather 
+whether the [agency's] interpretation of the facts is reason-
+ably defensible.'  Harter Tomato Prods. Co. v. NLRB, 133 
+F.3d 934, 938 (D.C. Cir. 1998) (internal quotation marks 
+omitted)."  Jones, 225 F.3d at 765.
+
+     Multimax relies heavily on a document that is not in the 
+administrative record to dispute ODRA's conclusions about 
+the email messages that Ternay and Steelman sent on Sep-
+tember 8, 1999.  Multimax attempts to call our attention to 
+this new evidence to prop up its contention that ODRA 
+mistakenly inferred that on this date disagreement about the 
+merits of the offerors' proposals existed between Ternay and 
+Steelman, and mistakenly concluded that Steelman's Septem-
+ber 8 drafts should be characterized as a dramatic "about-
+face."  It would, however, be fundamentally inappropriate for 
+the court to consider this new evidence.  Although this evi-
+dence was made available to Multimax during discovery, it 
+
+was not made part of the administrative record, and hence 
+ODRA had no opportunity to rule on it.  Multimax was a 
+party to the ODRA adjudication, received during discovery 
+the document that it now uses to dispute ODRA's findings, 
+and is unable to provide any excuse for its failure to bring the 
+document to ODRA's attention.  "The burden of uncovering 
+and pointing to the facts relevant to the case before the 
+agency [belongs to] the parties most concerned in the matter 
+... Our role is to review the agency's handling of the 
+objections put before it, not to provide a forum for new 
+arguments based upon different facts that the petitioner could 
+have but did not bring out below."  Sprint Communications 
+Co., L.P. v. FCC, 76 F.3d 1221, 1227-28 (D.C. Cir. 1996).
+
+     In view of the record before it, ODRA's inference that the 
+language in Ternay's September 8 email message supported 
+the conclusion that the Technical Evaluation Report departed 
+from the principles of "best value" proposal evaluation was 
+reasonable.  Furthermore, even if that particular inference 
+about the events of September 8 could be considered dubious, 
+ODRA's decision remains supported by substantial evidence.  
+Even if there was no disagreement between Ternay and 
+Steelman on September 8, there is still evidence to support 
+the conclusion that the IPT deviated from the principles of 
+"best value" assessment.  Contrary to Multimax's contention, 
+ODRA's findings are not solely based on its interpretation of 
+the email messages sent by the IPT on September 8.  Rath-
+er, the bulk of ODRA's findings and the core elements of its 
+recommendations are supported by at least three other con-
+siderations.
+
+     First, ODRA noted the dichotomy between the consensus 
+the TET reached, that Informatica's proposal was measurably 
+superior to the other offerors' proposals, and the conclusion 
+the IPT presented in the final Technical Evaluation Report, 
+that each offeror was equally "capable."  The use of the term 
+"capable" is strongly indicative of a "lowest priced/technically 
+acceptable" evaluation rather than a "best value" analysis.  
+Second, ODRA pointed to Steelman's admission that he had 
+drafted the final TET report, which was supposed to present 
+an objective perspective on the technical merits of the propos-
+
+als, with the particular result of awarding the contract to 
+Multimax in mind.  Third, ODRA was influenced by the way 
+that Steelman revised the Technical Evaluation Report and 
+the Award Recommendation and Determination after he 
+learned about the prices of the proposals, making Informati-
+ca's strengths seem less significant and making Multimax's 
+weaknesses appear less problematic.  These three factors 
+serve as substantial evidence to support ODRA's conclusion 
+that the IPT abandoned the "best value" analysis to which it 
+was required to adhere.  Thus, any mistaken inference that 
+ODRA may have made does not require reversal.  See Jones, 
+225 F.3d at 764, citing 5 U.S.C. s 706.
+
+     Accordingly, we deny the petition for review.
+
+                                                   

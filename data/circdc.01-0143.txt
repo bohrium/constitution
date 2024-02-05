@@ -1,0 +1,337 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 2, 2001     Decided June 1, 2001 
+
+                           No. 00-1005
+
+     Pan-Alberta Gas, Ltd. and Pan-Alberta Gas (U.S.) Inc., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                   Southwest Gas Corporation, 
+                            Intervenor
+
+On Petition for Review of Orders of the Federal 
+Energy Regulatory Commission
+
+     John R. Staffier argued the cause for petitioner.  With him 
+on the brief was Marisa A. Sifontes.
+
+     Dennis Lane, Solicitor, Federal Energy Regulatory Com-
+mission, argued the cause for respondent.  On the brief were 
+
+John H. Conway, Deputy Solicitor, Timm L. Abendroth and 
+Monique L. Penn-Jenkins, Attorneys.
+
+     Alex A. Goldberg argued the cause for amicus curiae 
+Northwest Pipeline Corporation.  With him on the brief were 
+Steven W. Snarr and Tim W. Muller.
+
+     Before:  Edwards, Chief Judge, Ginsburg and Tatel, 
+Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  Pan-Alberta Gas, Ltd. and an 
+affiliate petition for review of orders of the Federal Energy 
+Regulatory Commission authorizing Northwest Pipeline Cor-
+poration to add capacity to its natural gas pipeline and to sell 
+that capacity to Duke Trading and Marketing, LLC and its 
+affiliate.  Pan-Alberta argues that the orders are not based 
+upon substantial evidence in the record, arbitrary and capri-
+cious, and contrary to both Commission policies and North-
+west's tariff.  Because each of these arguments lacks merit, 
+we deny Pan-Alberta's petition.
+
+                          I. Background
+
+     In 1999 the Commission granted Northwest a certificate of 
+public convenience and necessity authorizing the company to 
+expand by 50,000 dekatherms per day ("Dth/d") the physical 
+capacity of a segment of its natural gas pipeline in Oregon 
+and Washington.  Northwest Pipeline Corp., 87 F.E.R.C. 
+p 61,227 at 61,914 (1999) ("Order");  see also Northwest Pipe-
+line Corp., 89 F.E.R.C. p 61,172 (1999) ("Rehearing Order" 
+denying Pan-Alberta's requests for rehearing and clarification 
+of the Order).  The Commission also approved Northwest's 
+sale of this new capacity to Duke, which agreed to pay 
+Northwest an annual "reservation Facility Charge" that 
+"would compensate Northwest for the incremental cost-of-
+service attributable to the additional facilities."  Order at 
+61,915.  In addition, the Commission approved Duke's and 
+Northwest's agreement to amend 19 existing contracts.  
+Those contracts, which in the aggregate provided firm capaci-
+ty for the transport of 50,000 Dth/d of gas between two points 
+
+in Colorado, would be amended to provide instead (with no 
+change in financial terms) for transport between points in 
+Oregon and in Washington.  Order at 61,914.  Duke's total 
+payments to Northwest for the Washington-Oregon capacity 
+would thus consist of two elements:  the charge for the 
+capacity itself, as provided in the 19 amended contracts (and 
+sometimes called the "reservation charge," see, e.g., 18 C.F.R. 
+s 284.7(e);  Order at 61,918), plus the newly agreed upon 
+"reservation Facility charge," see Order at 61,915.
+
+     The 19 contracts involved in this transaction arose out of 
+Duke's application of the "capacity release/segmentation pro-
+cess" to what had been a single contract between Duke and 
+Northwest for 40,000 Dth/d of firm capacity along a segment 
+of Northwest's pipeline in Colorado.  Rehearing Order at 
+61,521 n.2, 61,523;  accord Order at 61,914 & n.5.  Both 
+"capacity release" and "segmentation" require some explana-
+tion.
+
+     "Capacity release" describes a transaction in which the 
+holder of a contract for firm transport (the "releasing" ship-
+per) sells that capacity to a "replacement" shipper.  The 
+releasing and replacement shippers may agree upon any price 
+up to the applicable reservation charge -- the maximum price 
+per unit of firm capacity established in the pipeline's tariff.  A 
+shipper seeking to release capacity may either auction it to 
+the highest bidder on a public bulletin board maintained by 
+the pipeline or bypass the auction to contract at the reserva-
+tion charge with a replacement shipper of its choosing.  See 
+18 C.F.R. s 284.8(a)-(e).  Once a deal to release capacity has 
+been struck, the replacement shipper pays the agreed-upon 
+price not to the releasing shipper but to the pipeline, with 
+which it enters into a new capacity contract.  The pipeline 
+then credits payments received from the replacement shipper 
+to the account of the releasing shipper;  and the releasing 
+shipper continues to pay the price stated in the original 
+contract, which remains in force.  See id. s 284.8(f).  The 
+pipeline therefore gains nothing from a capacity release 
+transaction;  its income is fixed at the price originally agreed 
+upon with the releasing shipper, regardless of the terms of 
+the capacity release agreement.
+
+     "Segmentation" describes a transaction in which an owner 
+of firm capacity sells that capacity piecemeal.  To use the 
+Commission's example, a shipper that owns the right to 
+transport 10,000 Dth/d between the Gulf of Mexico and New 
+York City could release to one replacement shipper the right 
+to transport 10,000 Dth/d from the Gulf to Atlanta, and 
+release to another replacement shipper the right to transport 
+10,000 Dth/d from Atlanta to New York.  See Pipeline Ser-
+vice Obligations, and Revisions to Regulations Governing 
+Self-Implementing Transportation Under Part 284 of the 
+Commission's Regulations, Order 636-B, 61 F.E.R.C. p 
+61,272 at 61,997 (1992).  Because Northwest charges a "post-
+age stamp" rate -- that is, a shipper purchasing capacity at 
+the reservation charge pays the same price to ship gas across 
+the country as it does to ship gas across town, see Northwest 
+Pipeline Corp., 82 F.E.R.C. p 61,158 at 61,576 (1998) -- a 
+shipper that resells its capacity in segments can realize 
+multiples of what it paid for that capacity.
+
+     An owner of firm capacity also has the right under the 
+Commission's regulations to change the specified segment of 
+the pipeline along which that capacity is to be provided (the 
+so-called "service path");  for example, in this case Duke, the 
+owner of firm capacity for the transport of gas between two 
+points in Colorado, sought to amend its contract to provide 
+instead for the same amount of capacity between Oregon and 
+Washington.  See Rehearing Order at 61,523.  Because ca-
+pacity is sold at a postage stamp rate, such an amendment 
+does not entail a change in the price paid by the shipper.  
+Like a segmentation transaction, a change in service path is 
+limited by the operational constraints of the pipeline, see 18 
+C.F.R. s 284.7(d).  Because the Northwest pipeline is bidirec-
+tional, however, the net effect of all existing gas flows on the 
+pipeline (so-called net "displacement") may enable a shipper 
+to introduce gas into and remove gas from the pipeline at 
+newly designated points without Northwest having the physi-
+cal capacity for that gas to traverse the path between the two 
+points.  See, e.g., Order at 61,914.
+
+     With these techniques available to it, one can see how "a 
+sequence of long-term, segmented releases, and subsequent 
+
+receipt and delivery point amendments," Northwest Applica-
+tion for Certificate of Public Convenience and Necessity, 
+FERC Docket No. CP-96-554, at 9 (May 1998), could enable 
+Duke, without increasing its total payments to Northwest, to 
+convert its original contract for 40,000 Dth/d of capacity into 
+multiple contracts, including 19 or more contracts that in the 
+aggregate provide it with firm capacity of 50,000 Dth/d or 
+more.  See Order at 61,914 n.5.  The release and replacement 
+of segmented contracts allow a shipper to increase its total 
+capacity under a firm transportation contract without incur-
+ring a price increase, and service path amendments permit a 
+shipper to transform a short path into a long one that can be 
+further segmented and the parts sold, thus creating what 
+Northwest calls a "daisy chain" of transactions.  Indeed, the 
+transaction approved in the Order is but the latest service 
+path amendment in Duke's "daisy chain."  Like its predeces-
+sors, this transaction does not affect the reservation charge 
+Duke pays for its capacity, which remains fixed at the price in 
+the original contract for 40,000 Dth/d.  It differs from the 
+others in the chain only in that Duke agreed to pay a facilities 
+charge to Northwest in addition to the reservation charge.
+
+     Pan-Alberta registered various objections to this transac-
+tion before the Commission, see Order at 61,916, and upon 
+issuance of the Order reiterated them in a request for rehear-
+ing and clarification, which the Commission denied.  Pan- 
+Alberta here seeks review of both the Order and the Rehear-
+ing Order, and Northwest appears as amicus curiae in sup-
+port of the Commission.
+
+                           II. Analysis
+
+     Pan-Alberta argues that the Commission based its determi-
+nation of the public convenience and necessity upon a misun-
+derstanding of how much capacity Duke controlled on North-
+west's pipeline.  According to Pan-Alberta, the Commission 
+lacked substantial evidence to support its conclusion that 
+Duke had effective control over only 50,000 Dth/d of capacity, 
+making the Commission's answer to the "fundamental ques-
+tion" of the extent of Duke's holdings "inherently arbitrary 
+
+and capricious."  See Wisconsin Valley Improvement Co. v. 
+FERC, 236 F.3d 738, 745 (D.C. Cir. 2001) (agency decision is 
+arbitrary and capricious if factual determinations lack sub-
+stantial evidence).  In the alternative, Pan-Alberta argues 
+that the orders under review violate both Northwest's tariff 
+and the Commission's policy regarding release and replace-
+ment.
+
+     The Orders are indeed less than pellucid about how much 
+capacity Duke controls, and the parties' briefs do nothing to 
+clarify the situation.  Particularly confusing is the Commis-
+sion's failure in the Orders, and all the parties' failure in their 
+briefs, unequivocally to state whether Duke's 19 contracts for 
+50,000 Dth/d of capacity are the sole progeny of the original 
+40,000 Dth/d contract between Northwest and Duke or 
+whether they are but a subset of the contracts resulting from 
+the "daisy chain" of transactions based upon the original 
+agreement.  This confusion is exacerbated by the Commis-
+sion's statement in the Rehearing Order (at 61,523) that Duke
+
+     has effectively transferred its contractual obligation for 
+     40,000 Dth a day of capacity to the northern segment of 
+     Northwest's system [i.e., from Oregon to Washington].  
+     This frees up 40,000 Dth a day of capacity on the 
+     southern segment [i.e., in Colorado].
+     
+In fact, the transfer "frees up" 50,000 Dth/d, not 40,000 Dth/d, 
+of capacity on the southern segment.  Pan-Alberta suggests 
+this shows that the Commission mistakenly believed itself to 
+be approving a transfer of the original 40,000 Dth/d of 
+capacity at the root of the daisy chain rather than the 50,000 
+Dth/d that blossomed from it, or at least that the Commission 
+was confused regarding the amount of capacity at issue.  The 
+Commission insists that it fully understood the transaction, 
+but concedes in its brief that some confusion could have been 
+avoided had it described the "transfer" in terms of the larger 
+quantity.
+
+     We agree with the Commission that, notwithstanding their 
+expository shortcomings, the Orders do enable one accurately 
+to understand the transaction and do not show that the 
+Commission misunderstood any material fact.  The Orders 
+
+make clear that Duke began with a single contract for 40,000 
+Dth/d of firm capacity, that it parlayed that contract into 
+multiple contracts for a total of 50,000 Dth/d of capacity, and 
+that it sought in the subject transaction to amend the service 
+path for that 50,000 Dth/d from one in Colorado to a route 
+between Oregon and Washington, along a segment of the 
+pipeline that Northwest had agreed to expand.  See Order at 
+61,914 & n.5.  As the Commission points out, its above-quoted 
+description of the transfer, although confusing, is entirely 
+consistent with this understanding and in no way inaccurate:  
+Duke has in fact "effectively transferred" its original 40,000 
+Dth/d contract to give it control over 50,000 Dth/d of capacity 
+on "the northern segment of Northwest's system."  Rehear-
+ing Order at 61,523.
+
+     Pan-Alberta suggested before the Commission that "Duke's 
+capacity will increase [as a result of the Order] from the 
+original 40,000 Dth a day under its original primary contracts 
+to as much as 90,000 Dth a day (50,000 Dth a day of new 
+capacity on the expansion facilities plus the original 40,000 
+Dth a day in Colorado)."  Id.  As Northwest explains, howev-
+er, the 90,000 Dth/d figure is an artifact of the arrangement 
+whereby the contract of a releasing shipper continues in force 
+even as that shipper cedes effective control of its capacity to 
+the replacement shipper.  See above at 3.  Duke, which is 
+both the releasing and the replacement shipper in the disput-
+ed transaction, thus emerges from the Order with contracts 
+for 90,000 Dth/d of capacity:  as the replacement shipper it 
+controls 50,000 Dth/d of capacity in the north, while as the 
+releasing shipper it nominally maintains its original contract 
+for 40,000 Dth/d of capacity in the south.  Of course, by 
+releasing its capacity Duke has ceded any right actually to 
+ship gas along the Colorado service path;  its 90,000 Dth/d of 
+contracts notwithstanding, it effectively controls only 50,000 
+Dth/d of capacity.  This account is again fully consistent with 
+the Orders.
+
+     Indeed, because any release of capacity generates a new 
+contract between the pipeline and the replacement shipper 
+while leaving the releasing shipper's contract in force, a daisy 
+chain of transactions necessarily creates a corresponding 
+
+daisy chain of contracts.  Depending upon the number of 
+links in the chain, Duke may well be party to contracts that 
+formally give it the rights to even more than 90,000 Dth/d of 
+capacity, over much of which it has no effective control.
+
+     We also reject Pan-Alberta's claim that the total amount of 
+capacity that Duke controls is a fact "fundamental" to wheth-
+er the transaction at issue serves the public interest and 
+necessity.  As the Commission points out, the orders under 
+review do not address let alone ratify the transactions by 
+which Duke parlayed its 40,000 Dth/d of capacity into 50,000 
+Dth/d;  they address only whether Duke and Northwest may 
+"change the primary service path[ ]" for the 50,000 Dth/d of 
+capacity that Duke had secured previously.  Order at 61,914.  
+Even if the daisy chain in fact yielded contracts that in the 
+aggregate gave Duke effective (not just formal) control over 
+more than 50,000 Dth/d of capacity, such additional capacity 
+would be immaterial to the transaction now in suit.  For the 
+same reason, we do not consider Pan-Alberta's claim that the 
+daisy chain of transactions by which Duke parlayed its 40,000 
+Dth/d into 50,000 Dth/d is inconsistent with the Commission's 
+policy that "releasing and replacement shippers do not have a 
+right to obtain more capacity than that which the releasing 
+shipper initially held."  Transcontinental Gas Pipe Line 
+Corp. (Transco), 89 F.E.R.C. p 61,167 at 61,503 (1999) (citing 
+Tennessee Gas Pipeline Co., 85 F.E.R.C. p 61,052 at 61,163 
+(1998)).  Because the daisy chain transactions were not at 
+issue when the Orders were before the Commission, Pan- 
+Alberta may not challenge their validity in this case.  Cf. 
+Southwest Gas Corp. v. FERC, 145 F.3d 365, 370 (D.C. Cir. 
+1998) ("The Commission need not revisit the reasoning of a 
+general order every time it applies it to a specific circum-
+stance").
+
+     Finally, Pan-Alberta claims that the arrangement under 
+which Duke pays usage charges only on its original 40,000 
+Dth/d of capacity rather than on the 50,000 Dth/d violates the 
+requirement of Northwest's tariff that the shipper pay a 
+reservation charge for each Dth/d of capacity it controls.  As 
+the Commission notes, however, this requirement is satisfied 
+because Duke makes payments on each of its two distinct 
+
+contracts with Northwest -- one as a releasing shipper with 
+respect to 40,000 Dth/d, and one as a replacement shipper 
+with respect to 50,000 Dth/d.  See Order at 61,918.  The tariff 
+is not violated merely because the payments Duke makes on 
+its replacement contract for 50,000 Dth/d are credited to its 
+account in its role as releasing shipper.  See id.
+
+                         III. Conclusion
+
+     For the foregoing reasons, the petition for review is
+
+                                                          Denied.
+
+                       

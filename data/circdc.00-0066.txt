@@ -1,0 +1,802 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 2, 2000    Decided March 17, 2000 
+
+                           No. 99-1176
+
+                GTE Service Corporation, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+            NorthPoint Communications, Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             99-1201
+
+                      On Petitions for Review of an Order of the 
+                    Federal Communications Commission
+
+     Mark L. Evans argued the cause for petitioners.  With him 
+on the briefs were William P. Barr, M. Edward Whelan III., 
+
+John F. Raposa, Dan L. Poole, Robert B. McKenna, Michael 
+K. Kellogg, Lawrence E. Sarjeant, Linda Kent, John W. 
+Hunter, and Julie E. Rones.
+
+     Laurence N. Bourne, Counsel, Federal Communications 
+Commission, argued the cause for respondents.  With him on 
+the brief were Joel I. Klein, Assistant Attorney General, 
+United States Department of Justice, Catherine G. O'Sulli-
+van and Nancy C. Garrison, Attorneys, Christopher J. 
+Wright, General Counsel, Federal Communications Commis-
+sion, and John E. Ingle, Deputy Associate General Counsel.
+
+     Mark C. Rosenblum, Peter D. Keisler, James P. Young, 
+William Single, IV., Mark D. Schneider, Ruth M. Milkman, 
+Robert J. Aamoth, Jonathan Jacob Nadler, Leon M. Kestenb-
+aum, Jay C. Keithley, H. Richard Juhnke, Glenn B. Manish-
+in, Christy C. Kunin, Renee R. Crittendon, Randall B. Lowe, 
+Eric J. Branfman, Andrew D. Lipman, and Rodney L. Joyce. 
+Harold R. Juhnke were on the brief for intervenors AT & T 
+Corporation, et al.  Michael B. Fingerhut, David W. Carpen-
+ter, Jodie L. Kelley, Mark B. Ehrlich, and Emily M. 
+Williams entered appearances.
+
+     Before:  Edwards, Chief Judge, Ginsburg and Sentelle, 
+Circuit Judges.
+
+     Opinion for the Court filed by Chief Judge Edwards.
+
+     Edwards, Chief Judge:  Section 251(c)(6) of the Telecommu-
+nications Act of 1996 (the "Act"), 47 U.S.C. s 251(c)(6), impos-
+es a statutory duty on incumbent local exchange carriers 
+("LECs") to provide physical or virtual collocation for com-
+peting providers ("competitors").  The Act also requires the 
+Federal Communications Commission ("FCC" or "Commis-
+sion") to issue implementing regulations to fulfill the colloca-
+tion mandate.  See 47 U.S.C. s 251(d)(1).  In March 1999, in 
+Deployment of Wireline Services Offering Advanced Telecom-
+munications Capability ("Collocation Order"), 14 FCC Rcd 
+4761 (1999), the FCC issued rules purporting to implement 
+s 251(c)(6).  According to the Commission, a principal pur-
+
+pose of the Collocation Order is to "adopt ... additional 
+measures to further facilitate the development of competition 
+in the advanced services market ... [by] strengthen[ing] ... 
+collocation rules to reduce the costs and delays faced by 
+competitors that seek to collocate equipment in an incumbent 
+LEC's central office."  Id. at 4764 p 6.
+
+     The petitioners before the court are LECs who challenge 
+the Collocation Order on the ground that it impermissibly 
+imposes intrusive "physical collocation" requirements on 
+them. Section 251(c)(6) says that LECs must provide for 
+physical collocation of equipment "necessary for interconnec-
+tion or access to unbundled network elements at the premises 
+of the local exchange carrier."  47 U.S.C. s 251(c)(6).  The 
+FCC has taken the position that "necessary" means that "an 
+incumbent LEC may not refuse to permit collocation of any 
+equipment that is 'used or useful' for either interconnection or 
+access to unbundled network elements, regardless of other 
+functionalities inherent in such equipment."  Collocation Or-
+der, 14 FCC Rcd at 4776-77 p 28.  Petitioners argue that, 
+with the adoption of this rule, the FCC seeks to require 
+collocation well beyond what has been authorized by Con-
+gress.  Petitioners also claim that the Collocation Order is 
+unauthorized and unreasonable in forcing LECs to offer 
+competitors "cageless collocation," defining "premises" in 
+s 251(c)(6) to include a LEC's central office and adjacent 
+property, allowing competitors to have too much say over the 
+placement of their equipment in a LEC's central office, and 
+depriving LECs of an opportunity to gain full recovery of the 
+initial costs of preparing collocation space for competitors.
+
+     Petitioners' position that "physical collocation" under the 
+Act is limited to caged collocation is meritless, as is the claim 
+that the FCC's definition of "premises" is unduly broad. We 
+also reject petitioners' challenge to the cost recovery mecha-
+nism under the Collocation Order.  We agree with petition-
+ers, however, that the FCC's interpretations of "necessary" 
+and "physical collocation" appear to be impermissibly broad.  
+We therefore vacate the challenged Collocation Order insofar 
+as it embraces unduly broad definitions of "necessary" and 
+
+"physical collocation" and remand for further consideration 
+by the FCC.
+
+                          I. Background
+
+     In recent years, the FCC has sought to increase competi-
+tion in the market for interstate access services, which con-
+nect long-distance companies with local telephone networks 
+and subscribers.  In 1992 and 1993, the Commission issued 
+orders requiring LECs to set aside portions of their premises 
+for occupation and use by competitive access providers, thus 
+generating legal battles that have continued to the present.  
+See Bell Atlantic Telephone Cos. v. FCC, 24 F.3d 1441 (D.C. 
+Cir. 1994).  In their initial attempts to require LECs to 
+permit physical collocation of competitors' equipment on de-
+mand, the FCC relied on s 201(a) of the Communications Act 
+of 1934, 47 U.S.C. s 201(a), which empowers the agency to 
+order "physical connections" as necessary for the public inter-
+est.  The FCC reasoned that its efforts to create a level 
+playing field of competition in the market for interstate 
+access services served the public interest. On review, howev-
+er, this court upheld a challenge to the Commission's physical 
+collocation rule, finding that nothing in the Communications 
+Act of 1934 explicitly authorized the FCC to order takings of 
+LECs' property through physical collocation.  See id. at 1446 
+("The Commission's power to order 'physical connections,' 
+undoubtedly of broad scope, does not supply a clear warrant 
+to grant third parties a license to exclusive physical occupa-
+tion of a section of the LEC's central offices.").  The court 
+was concerned that
+
+     Chevron deference to agency action that creates a broad 
+     class of takings claims, compensable in the Court of 
+     Claims, would allow agencies to use statutory silence or 
+     ambiguity to expose the Treasury to liability both mas-
+     sive and unforeseen.
+     
+Id. at 1445 (citing Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837 (1984)).  Thus, absent a 
+more definite congressional authorization, the court was un-
+
+willing to defer to the FCC's unduly broad reading of 
+s 201(a).
+
+     The FCC responded to the court's ruling in Bell Atlantic 
+Telephone by adopting new rules that gave LECs the option 
+to rely more on "virtual collocation" in lieu of physical colloca-
+tion.  See Expanded Interconnection with Local Telephone 
+Company Facilities, Memorandum Opinion and Order, 9 FCC 
+Rcd 5154 (1994).  Virtual collocation allows a LEC to retain 
+physical control of the equipment, along with the responsibili-
+ty for installing, maintaining, and repairing it.  Virtual collo-
+cation therefore minimizes the takings problem, because com-
+petitors do not have physical access to a LEC's property.  
+The LECs petitioned for review of this order, but the issue on 
+appeal was rendered moot with the passage of the Telecom-
+munications Act of 1996.  The court therefore remanded the 
+case for reconsideration in light of 47 U.S.C. ss 251(c)(6) & 
+(g), as applied after the enactment of the Telecommunications 
+Act of 1996.  See Pacific Bell v. FCC, 81 F.3d 1147 (D.C. Cir. 
+1996).
+
+     The 1996 Act completely revamped the statutory landscape 
+by providing explicit congressional authorization for physical 
+collocation.  Under s 251(c)(6), LECs are now required
+
+     to provide, on rates, terms, and conditions that are just, 
+     reasonable, and nondiscriminatory, for physical colloca-
+     tion of equipment necessary for interconnection or access 
+     to unbundled network elements at the premises of the 
+     local exchange carrier, except that the carrier may pro-
+     vide for virtual collocation if the local exchange carrier 
+     demonstrates to the State commission that physical collo-
+     cation is not practical for technical reasons or because of 
+     space limitations.
+     
+47 U.S.C. s 251(c)(6) (emphasis added).
+
+     Armed with this explicit congressional authorization, the 
+FCC first adopted rules resembling earlier orders mandating 
+collocation.  See Implementation of the Local Competition 
+
+Provisions in the Telecommunications Act of 1996 (CC Dock-
+et No. 96-98), 11 FCC Rcd 15499 ("Local Competition Or-
+der"), aff'd in part and rev'd in part, Iowa Utils. Bd. v. FCC, 
+120 F.3d 753 (8th Cir. 1997), rev'd in part and aff'd in part, 
+AT & T Corp. v. Iowa Utils. Bd., 525 U.S. 366 (1999).  
+However, under the heat of critical commentary, the Com-
+mission decided that more was necessary "to remove[ ] barri-
+ers to competition so that competing providers are able to 
+compete effectively with incumbent LECs and their affiliates 
+in the provision of advanced services."  Collocation Order, 14 
+FCC Rcd at 4763 p 3.  After studying the issue and review-
+ing comments, the FCC "adopted several measures" in the 
+Collocation Order that are designed to "promote competition 
+in the advanced services market."  Id. p 4.
+
+     The Collocation Order obviously strengthens the Commis-
+sion's stance on physical collocation.  First, the Order re-
+quires LECs to allow competitors to collocate "all equipment 
+that is necessary for interconnection or access to unbundled 
+network elements, regardless of whether such equipment 
+includes a switching functionality, provides enhanced service 
+capabilities, or offers other functionalities."  Id. at 4776 p 28.  
+In particular, the Order says that "an incumbent LEC may 
+not refuse to permit collocation of any equipment that is 'used 
+or useful' for either interconnection or access to unbundled 
+network elements, regardless of other functionalities inherent 
+in such equipment."  Id. at 4776-77 p 28.  Second, the Order 
+requires LECs to offer competitors both caged and cageless 
+collocation.  Third, the Order requires LECs to offer colloca-
+tion space in both their central offices and in adjacent con-
+trolled environmental vaults or similar structures;  and it 
+prohibits LECs from imposing unreasonable minimum space 
+requirements on collocators.  Finally, the Order requires 
+LECs to bear the initial costs of preparing collocation space 
+for their competitors, as opposed to requiring the first collo-
+cator to bear the entire cost of preparing new collocation 
+space--and thus bear the risk of unoccupied space--as an up-
+front charge.  Petitioners claim that these new rules are 
+
+neither authorized by the Act nor justified by reasoned 
+decisionmaking.
+
+                          II. Discussion
+
+A.   Standard of Review
+
+     The principal issue in this case is whether the Commis-
+sion's interpretation of s 251(c)(6) of the Telecommunications 
+Act of 1996 can withstand scrutiny.  In particular, petitioners 
+challenge the FCC's Collocation Order on the ground that the 
+agency's constructions of "necessary," "physical collocation," 
+and "premises" will allow unauthorized takings of LEC prop-
+erty by their competitors.
+
+     As this court noted in Bell Atlantic Telephone Companies 
+v. FCC, 131 F.3d 1044 (D.C. Cir. 1997),
+
+     Chevron U.S.A., Inc. v. Natural Resources Defense 
+     Council, 467 U.S. 837 (1984), governs review of agency 
+     interpretation of a statute which the agency administers.  
+     Under the first step of Chevron, the reviewing court 
+     "must first exhaust the 'traditional tools of statutory 
+     construction' to determine whether Congress has spoken 
+     to the precise question at issue."  Natural Resources 
+     Defense Council, Inc. v. Browner, 57 F.3d 1122, 1125 
+     (D.C. Cir. 1995) (quoting Chevron, 467 U.S. at 843 n.9, 
+     104 S. Ct. at 2782 n.9).  The traditional tools include 
+     examination of the statute's text, legislative history, and 
+     structure, see Southern California Edison Co. v. FERC, 
+     116 F.3d 507, 515 (D.C. Cir. 1997);  as well as its purpose, 
+     see First Nat'l Bank & Trust v. National Credit Union, 
+     90 F.3d 525, 529-30 (D.C. Cir. 1996).  This inquiry using 
+     the traditional tools of construction may be characterized 
+     as a search for the plain meaning of the statute.  If this 
+     search yields a clear result, then Congress has expressed 
+     its intention as to the question, and deference is not 
+     appropriate.  See Hammontree v. NLRB, 894 F.2d 438, 
+     441 (D.C. Cir. 1990).  If, however, "the statute is silent 
+     or ambiguous with respect to the specific issue," Chev-
+     ron, 467 U.S. at 843, 104 S. Ct. at 2782, Congress has not 
+     
+     spoken clearly, and a permissible agency interpretation 
+     of the statute merits judicial deference.  Id.
+     
+Id. at 1046-47.
+
+     There is no doubt here that Congress has delegated to the 
+FCC the authority to issue regulations implementing 
+s 251(c)(6).  See 47 U.S.C. s 251(d)(1).  It is equally clear 
+that, given the complexity of the task at hand, any search for 
+"plain meaning" in the statute is fruitless.  The disputed 
+terms at issue--"necessary," "physical collocation," and 
+"premises"--all bear relatively clear definitions if taken out of 
+the context of the statutory provision in which they are found.  
+The problem here is that these terms are found in a circum-
+scribed statutory provision that seeks to ensure competition 
+in areas of advanced technology in telecommunications;  i.e., 
+the statute gives competitors access to the private property of 
+LECs by requiring LECs to offer physical collocation on 
+reasonable terms, but this access is neither open-ended nor is 
+it even required if not practical for technical reasons or 
+because of space limitations.  This is hardly the stuff of "plain 
+meaning."
+
+     Because the disputed terms in s 251(c)(6) are ambiguous in 
+their meanings, we are required to consider the Commission's 
+interpretations.  Under the second step of Chevron, we will 
+defer to the Commission's interpretations if they are reason-
+able and consistent with the statutory purpose.  See Troy 
+Corp. v. Browner, 120 F.3d 277, 285 (D.C. Cir. 1997) (noting 
+that an agency's interpretation must be "reasonable and 
+consistent with the statutory purpose");  City of Cleveland v. 
+U.S. Nuclear Regulatory Comm'n, 68 F.3d 1361, 1367 (D.C. 
+Cir. 1995) (providing that an agency's interpretation must be 
+"reasonable and consistent with the statutory scheme and 
+legislative history").  However, a court will not uphold an 
+interpretation "that diverges from any realistic meaning of 
+the statute."  Massachusetts v. Department of Transp., 93 
+F.3d 890, 893 (D.C. Cir. 1996).  In this case, as will be shown 
+below, the FCC's interpretations of "necessary" and "physical 
+collocation" appear to diverge from any realistic meaning of 
+the statute, because the Commission has favored the LECs' 
+
+competitors in ways that exceed what is "necessary" to 
+achieve reasonable "physical collocation" and in ways that 
+may result in unnecessary takings of LEC property.
+
+     Petitioners' claim that the Collocation Order unfairly pre-
+cludes LECs from gaining full recovery of the initial costs of 
+preparing collocation space for competitors raises a matter 
+that is subject to review under the traditional "arbitrary and 
+capricious" standard.  As the Supreme Court explained in 
+Motor Vehicle Manufacturers Ass'n v. State Farm Mutual 
+Automobile Insurance Co., 463 U.S. 29, 43 (1983),
+
+     [t]he scope of review under the "arbitrary and capri-
+     cious" standard is narrow and a court is not to substitute 
+     its judgment for that of the agency.  Nevertheless, the 
+     agency must examine the relevant data and articulate a 
+     satisfactory explanation for its action including a "ration-
+     al connection between the facts found and the choice 
+     made."  Burlington Truck Lines, Inc. v. United States, 
+     371 U.S. 156, 168 (1962).  In reviewing that explanation, 
+     we must "consider whether the decision was based on a 
+     consideration of the relevant factors and whether there 
+     has been a clear error of judgment."  Bowman Trans-
+     portation, Inc. v. Arkansas-Best Freight System, Inc., 
+     [419 U.S. 281, 285 (1974)];  Citizens to Preserve Overton 
+     Park v. Volpe, [401 U.S. 402, 416 (1971)].  Normally, an 
+     agency rule would be arbitrary and capricious if the 
+     agency has relied on factors which Congress has not 
+     intended it to consider, entirely failed to consider an 
+     important aspect of the problem, offered an explanation 
+     for its decision that runs counter to the evidence before 
+     the agency, or is so implausible that it could not be 
+     ascribed to a difference in view or the product of agency 
+     expertise.  The reviewing court should not attempt itself 
+     to make up for such deficiencies;  we may not supply a 
+     reasoned basis for the agency's action that the agency 
+     itself has not given.  SEC v. Chenery Corp., 332 U.S. 194, 
+     196 (1947).  We will, however, "uphold a decision of less 
+     than ideal clarity if the agency's path may reasonably be 
+     discerned."  Bowman Transportation, Inc. v. Arkansas-
+     
+     Best Freight System, Inc., [419 U.S. at 286].  See also 
+     Camp v. Pitts, 411 U.S. 138, 142-143 (1973) (per curiam).
+     
+Id.;  see also Communications Satellite Corp. v. FCC, 836 
+F.2d 623 (1988) (quoting Motor Vehicle Mfrs. Ass'ns, 463 U.S. 
+at 43).  As we indicate below, the cost allocation rules under 
+the Collocation Order easily survive arbitrary and capricious 
+review.  There is a discernible, reasoned basis for the agen-
+cy's action, and the decision reached by the agency does not 
+reflect a clear error of judgment.
+
+     We now turn to a consideration of the statutory interpreta-
+tion questions, focused on the meaning of s 251(c)(6).
+
+B.   "Necessary"
+
+     The first question in this case centers on the meaning of 
+"necessary" under 47 U.S.C. s 251(c)(6).  As noted above, the 
+statute requires LECs to provide physical collocation of 
+equipment as "necessary for interconnection or access to 
+unbundled network elements at the premises of the local 
+exchange carrier."  This statutory provision is, at first blush, 
+fairly straightforward.  Something is necessary if it is re-
+quired or indispensable to achieve a certain result.  Thus, 
+competitors who are protected by the Act have a right to 
+collocate any equipment that is required or indispensable to 
+achieve interconnection or access to unbundled network ele-
+ments at the premises of the local exchange carrier.  In the 
+Collocation Order, however, the FCC appears to ignore the 
+statutory reference to "necessary" in requiring LECs to 
+collocate any competitors' equipment that is " 'used or useful' 
+for either interconnection or access to unbundled network 
+elements, regardless of other functionalities inherent in such 
+equipment."  14 FCC Rcd at 4776-77 p 28.  Petitioners argue 
+that by interpreting "necessary" as "used or useful" and by 
+permitting competitors to collocate equipment that may do 
+more than what is required to achieve interconnection or 
+access, the FCC's Collocation Order impermissibly invites 
+unwarranted intrusion upon LECs' property rights.  The 
+petitioners' argument has merit, for the Collocation Order as 
+presently written seems overly broad and disconnected from 
+the statutory purpose enunciated in s 251(c)(6).
+
+     The Collocation Order makes two critical points in inter-
+preting "necessary" under s 251(c)(6):  First, the Order says 
+that "an incumbent LEC may not refuse to permit collocation 
+of any equipment that is 'used or useful' for either intercon-
+nection or access to unbundled network elements, regardless 
+of other functionalities inherent in such equipment."  Id. at 
+4776-77 p 28 (emphasis added).  Second, the Order makes it 
+clear that LECs must allow competitors to collocate "all 
+equipment that is necessary for interconnection or access to 
+unbundled network elements, regardless of whether such 
+equipment includes a switching functionality, provides en-
+hanced services capabilities, or offers other functionalities."  
+Id. at 4776 p 28 (emphasis added).  In other words, the 
+Collocation Order appears to permit competitors to collocate 
+equipment that may do more than what is required to achieve 
+interconnection or access.
+
+     Petitioners' concerns with the breadth of the Collocation 
+Order are not idle.  The Supreme Court recently had occa-
+sion to address a similar problem in reviewing a challenge to 
+the FCC's interpretation of 47 U.S.C. s 251(d)(2), which 
+provides, in relevant part, that
+
+     [i]n determining what network elements should be made 
+     available for purposes of subsection (c)(3) of this section, 
+     the Commission shall consider ... whether ... access to 
+     such network elements as are proprietary in nature is 
+     necessary.
+     
+47 U.S.C. s 251(d)(2).  In AT & T Corp. v. Iowa Utilities 
+Board, 525 U.S. 366 (1999), the Court faced a controversy 
+over what "necessary" meant in the context of s 251(d)(2).  
+See id. at 388.  The Court rejected the FCC's formulation, 
+concluding that "the Act requires the FCC to apply some 
+limiting standard, rationally related to the goals of the Act, 
+which it has simply failed to do."  Id.  The Court noted that
+
+     the Commission announced that it would regard the 
+     'necessary' standard as having been met, regardless of 
+     whether 'requesting carriers can obtain the requested 
+     proprietary element from a source other than the incum-
+     bent,' since '[r]equiring new entrants to duplicate unnec-
+     
+     essarily even a part of the incumbent's network could 
+     generate delay and higher costs for new entrants, and 
+     thereby impede entry by competing local providers and 
+     delay competition, contrary to the goals of the 1996 Act.' 
+     ...  The Commission cannot, consistent with the statute, 
+     blind itself to the availability of elements outside the 
+     incumbent's network.  That failing alone would require 
+     the Commission's rule to be set aside.  In addition, 
+     however, the Commission's assumption that any increase 
+     in cost (or decrease in quality) imposed by denial of a 
+     network element renders access to that element 'neces-
+     sary' ... is simply not in accord with the ordinary and 
+     fair meaning of [the statute's] terms.
+     
+Id. at 389-90.
+
+     As is clear from the Court's judgment in Iowa Utilities 
+Board, a statutory reference to "necessary" must be con-
+strued in a fashion that is consistent with the ordinary and 
+fair meaning of the word, i.e., so as to limit "necessary" to 
+that which is required to achieve a desired goal.  The Court's 
+admonition seems particularly relevant here where a broader 
+construction of "necessary" under s 251(c)(6) might result in 
+an unnecessary taking of private property.
+
+     One clear example of a problem that is raised by the 
+breadth of the Collocation Order's interpretation of "neces-
+sary" is seen in the Commission's rule requiring LECs to 
+allow collocating competitors to interconnect their equipment 
+with other collocating carriers.  See Collocation Order, 14 
+FCC Rcd at 4780 p 33 ("We see no reason for the incumbent 
+LEC to refuse to permit the collocating carriers to cross-
+connect their equipment, subject only to the same reasonable 
+safety requirements that the incumbent LEC imposes on its 
+own equipment.").  The obvious problem with this rule is that 
+the cross-connects requirement imposes an obligation on 
+LECs that has no apparent basis in the statute.  Section 
+251(c)(6) is focused solely on connecting new competitors to 
+LECs' networks.  In fact, the Commission does not even 
+attempt to show that cross-connects are in any sense "neces-
+sary for interconnection or access to unbundled network 
+
+elements."  Rather, the Commission is almost cavalier in 
+suggesting that cross-connects are efficient and therefore 
+justified under s 251(c)(6).  This will not do.  The statute 
+requires LECs to provide physical collocation of equipment as 
+"necessary for interconnection or access to unbundled net-
+work elements at the premises of the local exchange carrier," 
+and nothing more.  As the Supreme Court made clear in 
+Iowa Utilities Board, the FCC cannot reasonably blind itself 
+to statutory terms in the name of efficiency.  Chevron defer-
+ence does not bow to such unbridled agency action.
+
+     There are other examples, as well, to demonstrate that the 
+FCC's interpretation of "necessary" under s 251(c)(6) is im-
+permissibly broad.  At oral argument, counsel was asked 
+whether, under the Collocation Order, a LEC would be 
+required to afford collocation of a competitor's equipment that 
+included unnecessary multi-purpose features, such as en-
+hancements that might facilitate payroll or data collection 
+features.  In other words, must a LEC allow collocation of 
+equipment that is not truly "necessary" for a competitor's 
+"interconnection or access to unbundled network elements"?  
+Counsel could offer no satisfactory answer to the question.  
+Counsel seemed to recognize that to require collocation on 
+such broad terms would not really square with the terms of 
+s 251(c)(6);  yet, the literal terms of the Collocation Order 
+seem to embrace any and all equipment that is otherwise 
+necessary without regard to whether such equipment unnec-
+essarily "includes a switching functionality, provides en-
+hanced service capabilities, or offers other functionalities."  
+Collocation Order, 14 FCC Rcd at 4776 p 28 (emphasis add-
+ed).  The FCC's Collocation Order seeks to justify this broad 
+rule by contending that "competitive telecommunications pro-
+viders must be permitted to collocate integrated equipment 
+that lowers costs and increases the services they can offer 
+their customers."  Id. at 4777-78 p 29.  It was precisely this 
+kind of rationale, based on presumed cost savings, that the 
+Supreme Court flatly rejected in Iowa Utilities Board.  See 
+525 U.S. at 389-90.  In short, the FCC's interpretation of 
+"necessary" under s 251(c)(6) goes too far and thus "diverges 
+
+from any realistic meaning of the statute."  Massachusetts v. 
+Department of Transp., 93 F.3d at 893.
+
+     Because, in some significant respects, the FCC's current 
+definition of "necessary" finds no support in the Act, we 
+vacate the offending portions of the Collocation Order and 
+remand the case to the agency for further consideration.  We 
+do not mean to vacate the Collocation Order to the extent 
+that it merely requires LECs to provide collocation of com-
+petitors' equipment that is directly related to and thus neces-
+sary, required, or indispensable to "interconnection or access 
+to unbundled network elements."  Anything beyond this, 
+however, demands a better explanation from the FCC, for the 
+current rules under the Collocation Order make no sense in 
+light of what the statute itself says.  And the Commission 
+must operate within the limits of "the ordinary and fair 
+meaning of [the statute's] terms."  Iowa Utilities Bd., 525 
+U.S. at 390.
+
+C.   "Physical Collocation" and "Premises"
+
+     Petitioners also challenge the FCC's interpretations of 
+"physical collocation" and "premises" under s 251(c)(6).  The 
+Collocation Order requires LECs to make "cageless" colloca-
+tion available to requesting competitors.  Absent problems 
+related to technical feasibility or specific security concerns, 
+new competitors are entitled "to collocate in any unused space 
+in the incumbent LEC's premises."  Collocation Order, 14 
+FCC Rcd at 4785 p 42.  And to protect against bogus claims 
+by LECs that they have run out of space, the Collocation 
+Order provides that, when space is legitimately exhausted, 
+LECs must "permit collocation in adjacent controlled envi-
+ronmental vaults or similar structures to the extent technical-
+ly feasible."  Id. at 4786 p 44.
+
+     Petitioners claim that the FCC lacks the authority to 
+promulgate such sweeping rules in support of cageless collo-
+cation, because "[a]s the language, structure, and history of 
+s 251(c)(6) reflect, Congress understood 'physical collocation' 
+to mean the installation of a competitor's equipment in an 
+area that is physically separate from the incumbent's own 
+facilities."  Br. of Petitioners at 24.  Petitioners also contend 
+
+that Congress intended collocation to be limited to available 
+space within a LEC's central office, and not to extend to 
+anywhere on a LEC's property beyond the confines of the 
+central office.
+
+     Although petitioners raise some telling points, their argu-
+ments go too far.  Section 251(c)(6) merely provides that 
+incumbents have a duty to provide "for physical collocation of 
+equipment necessary for interconnection or access to unbun-
+dled network elements at the premises of the local exchange 
+carrier."  47 U.S.C. s 251(c)(6).  Congress chose not to de-
+fine either "premises" or "physical collocation," and, at least 
+in this context, the meaning of these terms is far from self-
+evident.  Moreover, nothing in the statute can be read to 
+require caged collocation, so the FCC surely was free to 
+promulgate reasonable rules implementing physical colloca-
+tion under a cageless regime.
+
+     The FCC has satisfied its burden under step two of Chev-
+ron in interpreting s 251(c)(6) as requiring cageless colloca-
+tion.  The Collocation Order points out that caged collocation 
+results in the "inefficient use of the limited space in a LEC 
+premises," Collocation Order, 14 FCC Rcd at 4784 p 42.  A 
+cageless regime, the Order notes, ensures that LECs do not 
+place unreasonable minimum space requirements on collocat-
+ing competitors;  the rule thus has the effect of reducing the 
+cost of collocation and reducing the likelihood of premature 
+space exhaustion.  See id. at 4785-86 p 43.  We find that the 
+agency's interpretation in support of cageless collocation is 
+reasonable and consistent with the statutory purpose of pro-
+moting competition, without raising the threat of unnecessary 
+takings of LEC property.  Indeed, on the record at hand, it is 
+hardly surprising that the FCC opted to prohibit LECs from 
+forcing competitors to build cages, particularly given the 
+alternative means available to LECs to ensure the security of 
+their premises.
+
+     We also reject petitioners' claim that the FCC lacks author-
+ity to require LECs to make available space beyond their 
+central offices for the collocation of competitors' equipment.  
+The Collocation Order simply requires "incumbent LECs, 
+
+when space is legitimately exhausted in a particular LEC 
+premises, to permit collocation in adjacent controlled environ-
+mental vaults or similar structures to the extent technically 
+feasible."  Id. at 4786 p 44.  The rule seeks to address the 
+"issue of space exhaustion by ensuring that competitive carri-
+ers can compete with the incumbent, even when there is no 
+space inside the LEC's premises."  Id.  The rule clearly 
+furthers the purpose underlying s 251(c)(6).  The rule is also 
+eminently reasonable:  adjacent collocation is required only 
+when space in the central offices is exhausted;  adjacent 
+collocation may occur only to the extent that it is technically 
+feasible;  adjacent collocation is subject to state regulations 
+over zoning, design, and construction parameters;  and adja-
+cent collocation is subject to reasonable safety and mainte-
+nance requirements.  And petitioners can find no argument 
+to show that this rule is impermissible under s 251(c)(6), for 
+the simple reason that the disputed "adjacent" properties all 
+are on the LECs' "premises," which is all that is required by 
+the statute.
+
+     In sum, the FCC's regulations forbidding LECs from re-
+quiring competitors to "cage" their equipment and requiring 
+LECs, under limited circumstances, to use adjacent property 
+for the collocation of competitors' equipment are permissible 
+and reasonable under step two of Chevron.  This is not the 
+end of the inquiry, however, regarding petitioners' challenge 
+to the FCC's interpretation of "physical collocation" under 
+s 251(c)(6).
+
+     Petitioners argue that, even conceding the validity of cage-
+less collocation and an interpretation of "premises" that in-
+cludes both the central office and adjacent property, the 
+Collocation Order still goes too far in giving competitors 
+rights well beyond what is reasonably required by s 251(c)(6).  
+In particular, petitioners point to paragraph 42 of the Colloca-
+tion Order, which states, in part, that LECs
+
+     must give competitors the option of collocating equip-
+     ment in any unused space within the incumbent's prem-
+     ises, to the extent technically feasible, and may not 
+     
+     require competitors to collocate in a room or isolated 
+     space separate from the incumbent's own equipment.
+     
+Id. at 4785 p 42 (emphases added);  see also Reply Br. at 16 
+(complaining about paragraph 42).  The Order acknowledges 
+that a LEC "may take reasonable steps to protect its own 
+equipment, such as enclosing the equipment in its own cage," 
+id., but this gloss does not save the rest of the paragraph.
+
+     The FCC offers no good reason to explain why a competi-
+tor, as opposed to the LEC, should choose where to establish 
+collocation on the LEC's property;  nor is there any good 
+explanation of why LECs are forbidden from requiring com-
+petitors to use separate entrances to access their own equip-
+ment;  nor is there any reasonable justification for the rule 
+prohibiting LECs from requiring competitors to use separate 
+or isolated rooms or floors.  It is one thing to say that LECs 
+are forbidden from imposing unreasonable minimum space 
+requirements on competitors;  it is quite another thing, how-
+ever, to say that competitors, over the objection of LEC 
+property owners, are free to pick and choose preferred space 
+on the LECs' premises, subject only to technical feasibility.  
+There is nothing in s 251(c)(6) that endorses this approach.  
+The statute requires only that LECs reasonably provide 
+space for "physical collocation of equipment necessary for 
+interconnection or access to unbundled network elements at 
+the premises of the local exchange carrier," nothing more.
+
+     The sweeping language in paragraph 42 of the Collocation 
+Order appears to favor the LECs' competitors in ways that 
+exceed what is "necessary" to achieve reasonable "physical 
+collocation" and in ways that may result in unnecessary 
+takings of LEC property.  Once again we find that the FCC's 
+interpretation of s 251(c)(6) goes too far and thus "diverges 
+from any realistic meaning of the statute."  Massachusetts v. 
+Department of Transp., 93 F.3d at 893.
+
+     The Collocation Order again suggests that there may be 
+cost savings that will flow from the enunciated approach.  See 
+Collocation Order, 14 FCC Rcd at 4785 p 42.  This is a weak 
+claim.  First, there is no explanation from the FCC as to why 
+this would be so.  It is not intuitive that all of what is 
+
+required by paragraph 42 of the Collocation Order will sup-
+port a decrease in the cost of collocation and an increase in 
+the amount of available collocation space, as suggested by the 
+FCC.  See id. And merely saying it does not make it so.  
+Second, and more importantly, as noted by the Court in Iowa 
+Utilities Board, "delay and higher costs for new entrants ... 
+[that may] impede entry by competing local providers and 
+delay competition" cannot be used by the FCC to overcome 
+statutory terms in the Telecommunications Act of 1996.  525 
+U.S. at 389-90.
+
+     We therefore vacate the Collocation Order insofar as it 
+embraces the aforecited sweeping rules on physical colloca-
+tion in paragraph 42.  On remand, the FCC will have an 
+opportunity to refine its regulatory requirements to tie the 
+rules to the statutory standard, which only mandates physical 
+collocation as "necessary for interconnection or access to 
+unbundled network elements at the premises of the local 
+exchange carrier."  47 U.S.C. s 251(c)(6).  Even counsel for 
+the Commission seemed unwilling to embrace an expansive 
+view of paragraph 42:  He suggested that LECs should be 
+allowed to choose the collocation space;  he also suggested 
+that the LECs should be allowed to segregate collocation 
+space from the rest of a LEC's property.  If counsel's 
+interpretation is correct, the FCC must make that clear.  In 
+any event, paragraph 42, as presently written, does not 
+withstand scrutiny under step two of Chevron.
+
+D.   The FCC's Cost Allocation Rule
+
+     The final issue before the court is petitioners' challenge to 
+the FCC's cost allocation rule.  The Collocation Order pro-
+vides that LECs
+
+     must allocate space preparation, security measures, and 
+     other collocation charges on a pro-rated basis so the first 
+     collocator in a particular incumbent premises will not be 
+     responsible for the entire cost of site preparation....  
+     In order to ensure that the first entrant into an incum-
+     bent's premises does not bear the entire cost of site 
+     preparation, the incumbent must develop a system of 
+     partitioning the cost by comparing, for example, the 
+     
+     amount of conditioned space actually occupied by the new 
+     entrant with the overall space conditioning expenses.
+     
+Collocation Order, 14 FCC Rcd at 4789 p 51.  State commis-
+sions are charged to oversee this process "to ensure that 
+incumbent LECs properly allocate site preparation costs 
+among new entrants."  Id. at 4790 p 51.
+
+     Petitioners claim that the new rule is arbitrary and capri-
+cious, because it forces LECs to bear the risk of unoccupied 
+space.  On this score, petitioners argue that "[i]t is bad 
+enough that the incumbent must prepare space so that its 
+competitors can take its property;  it is beyond the pale that 
+the Commission would make incumbents pay to do so."  Br. 
+of Petitioners at 32.  This argument is specious.
+
+     The approach adopted by the Commission is fully justified 
+as a reasonable way to ensure that LECs do not impose 
+prohibitive requirements on new competitors and thus kill 
+competition before it ever gets started.  As the Government 
+pointed out in its brief in support of the FCC,
+
+     new entrants asserted that incumbent LEC pricing prac-
+     tices with respect to the preparation of collocation space 
+     acted as an unreasonable barrier to competitive entry.  
+     In particular, they assailed the practice of many [LECs] 
+     of charging the first collocator up front for the entire 
+     cost of preparing new collocation space (e.g., air condi-
+     tioning and power generation upgrades), even if that 
+     collocator was only going to use a small portion of the 
+     available central office space.
+     
+See Br. of Respondents at 16.  Petitioners do not seriously 
+challenge this assertion.
+
+     Petitioners nonetheless contend that the Commission's cost 
+allocation rules fail to give them any reasonable mechanism to 
+recover their costs for space that is not fully or permanently 
+occupied.  Petitioners' complaints are based, however, upon 
+an apparent misreading of the Collocation Order.  The Order 
+does not define the contours of a recovery mechanism, but it 
+clearly does not foreclose mechanisms for the recovery of 
+LECs' prudently incurred costs.  Rather, the Order simply 
+
+notes that state commissions are charged with the responsi-
+bility of "determin[ing] the proper pricing methodology," 
+which undoubtedly may include recovery mechanisms for 
+legitimate costs.  Collocation Order, 14 FCC Rcd at 4789-90 
+p 51;  see also Br. for Respondents at 51 ("[T]he Order, fairly 
+read, contemplates mechanisms for the recovery of [a LEC's] 
+prudently incurred costs.").  The FCC's cost allocation rule 
+thus withstands judicial scrutiny, because it is neither arbi-
+trary nor capricious.
+
+                         III. Conclusion
+
+     Consistent with the foregoing opinion, we grant the peti-
+tions for review in part and hereby vacate the challenged 
+Collocation Order insofar as it embraces unduly broad defini-
+tions of "necessary" and "physical collocation."  The case will 
+be remanded for further consideration by the FCC with 
+respect to these two points.  On all other points, the petition 
+for review is denied.
+
+                             

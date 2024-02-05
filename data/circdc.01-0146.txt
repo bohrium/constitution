@@ -1,0 +1,1326 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 12, 2001    Decided July 31, 2001 
+
+                      Nos. 00-5050 & 00-5396
+
+                  Andrx Pharmaceuticals, Inc., 
+                             Appellee
+
+                                v.
+
+               Biovail Corporation International, 
+                            Appellant
+
+          Appeals from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv00099)
+
+     Richard J. Leighton argued the cause for the appellant.  
+John B. Dubeck, Douglas J. Behr and Eric H. Singer were on 
+brief.
+
+     Louis M. Solomon argued the cause for the appellee.  
+Eugene M. Pfeifer, James D. Miller and Peter M. Todaro 
+were on brief.
+
+     Before:  Henderson, Randolph and Garland, Circuit 
+Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  Appellant Bio-
+vail Corporation (Biovail) appeals two district court decisions. 
+One dismissed with prejudice its antitrust counterclaim 
+against appellee Andrx Pharmaceuticals, Inc (Andrx).  The 
+second denied its motion for reconsideration of the court's 
+dismissal.  For the reasons that follow, we affirm the district 
+court's dismissal of the counterclaim but reverse its decision 
+to do so with prejudice.
+
+                     I. Statutory Background
+
+     A company wishing to market a new drug must seek the 
+approval of the United States Food & Drug Administration 
+(FDA) by completing a "New Drug Application" (NDA).  See 
+American Bioscience, Inc. v. Thompson, 243 F.3d 579, 580 
+(D.C. Cir. 2001);  Mova Pharm. Corp. v. Shalala, 140 F.3d 
+1060, 1063 (D.C. Cir. 1998);  see also 21 U.S.C. s 355(a) ("No 
+person shall introduce or deliver for introduction into inter-
+state commerce any new drug, unless an approval of an 
+application filed pursuant to (b) or (j) of this section is 
+effective with respect to such drug.").  An NDA is time-
+consuming and costly to prepare because it must include data 
+from studies showing the drug's safety and effectiveness.  See 
+Mova, 140 F.3d at 1063. In 1984 the Congress enacted the 
+Hatch-Waxman Amendments to the Food, Drug and Cosmet-
+ic Act (Amendments) to, inter alia, simplify the procedure for 
+FDA approval.  See Drug Price Competition and Patent 
+Term Restoration Act of 1984, Pub. L. No. 98-417, 98 Stat. 
+1585 (1984) (codified in various sections of titles 21, 35 & 42 
+U.S.C.);  see generally Allan M. Fox & Allan R. Bennett, The 
+Legislative History of the Drug and Patent Term Restora-
+tion Act of 1984, at 259 (1987);  James J. Wheaton, "Generic 
+Competition and Pharmaceutical Innovation:  the Drug Price 
+Competition and Patent Term Restoration Act of 1984," 35 
+Cath. Univ. L. Rev. 433 (1986).  Under the Amendments, the 
+original applicant for FDA approval (the "pioneer" applicant) 
+
+must still prepare an NDA. Subsequent applicants who wish 
+to manufacture generic versions1 of the pioneer drug, howev-
+er, need only complete an Abbreviated New Drug Application 
+(ANDA) that relies on the FDA's previous determination that 
+the drug is safe and effective.2  See Mova, 140 F.3d at 1063.  
+The generic drug share of the prescription drug market has 
+grown from 19 per cent in 1983 to over 40 per cent in 1995.  
+See Congressional Budget Office, How Increased Competition 
+from Generic Drugs Has Affected Prices and Returns in the 
+Pharmaceutical Industry ix (1998).  In addition, almost all of 
+the most popular pioneer drugs with expired patents now 
+have generic versions available.  Id. at xii.
+
+     Although the Congress was interested in increasing the 
+availability of generic drugs, it also wanted to protect the 
+patent rights of the pioneer applicants.  See David A. Balto, 
+"Pharmaceutical Patent Settlements:  The Antitrust Risks," 
+55 Food & Drug L.J. 321, 324 (2000).  The Amendments, 
+therefore, require that an NDA contain a list of any patents 
+"which claim[ ] the drug ... or which claim[ ] a method of 
+using such drug and with respect to which a claim of patent 
+infringement could reasonably be asserted if a person not 
+licensed by the owner engaged in the manufacture, use, or 
+sale of the drug."  21 U.S.C. s 355(b)(1).  The FDA main-
+tains a record of such information in its publication entitled 
+Approved Drug Products with Therapeutic Equivalence, 
+commonly known as the Orange Book.  See 21 U.S.C. 
+s 355(j)(7)(A). For each patent applicable to the pioneer drug 
+listed in the Orange Book, an ANDA applicant must certify 
+
+__________
+     1 A generic version of a pioneer drug (often described as a brand-
+name drug) contains the same active ingredients, but not necessari-
+ly the same inactive ingredients, as the pioneer drug.  A generic 
+drug, as the name implies, is ordinarily sold without a brand name 
+and at a lower price.  See United States v. Generix Drug Corp., 460 
+U.S. 453, 454-55 (1983).
+
+     2 Before the Amendments, an earlier version of the ANDA proce-
+dure was available to a generic drug manufacturer of a pioneer 
+drug approved before 1962.  A generic version of a pioneer drug 
+approved after 1962, however, could be approved only through a full 
+NDA.  See Fox & Bennett, supra, at 95.
+
+whether the proposed generic drug would infringe that patent 
+and, if not, why not.  An ANDA applicant has four certifica-
+tion options. It may certify (1) that the required patent 
+information has not been filed, (2) that the patent has expired, 
+(3) that the patent has not expired but will expire on a 
+particular date or (4) that the patent is invalid or will not be 
+infringed by the drug for which the applicant seeks approval.  
+See 21 U.S.C. s 355(j)(2)(A)(vii).  The last of these options, 
+and the one relevant here, is the Paragraph IV certification.  
+After an applicant makes a Paragraph IV certification, the 
+statute provides a 45-day window during which the patent 
+holder may bring suit against the applicant.  If the patent 
+holder brings a timely suit, the statute bars the FDA from 
+approving the applicant's ANDA, or any subsequent ANDA, 
+for thirty months or until the successful resolution of the 
+patent infringement suit, whichever is earlier, at which time 
+the first ANDA applicant is eligible for FDA approval and 
+upon such approval is awarded a 180-day exclusivity period in 
+which to market its generic version.  See 21 U.S.C. 
+s 355(j)(5)(B)(iii). The statute permits the court to lengthen 
+or shorten the 30-month waiting period if it determines that 
+either party has failed to "reasonably cooperate in expediting 
+the action."  Id.3
+
+__________
+     3 The full text of section 355(j)(5)(B)(iii) provides:
+
+     If the applicant made a certification described in subclause (IV) 
+     of paragraph (2)(A)(vii), the approval shall be made effective 
+     immediately unless an action is brought for infringement of a 
+     patent which is the subject of the certification before the 
+     expiration of forty-five days from the date the notice provided 
+     under paragraph (2)(B)(i) is received.  If such an action is 
+     brought before the expiration of such days, the approval shall 
+     be made effective upon the expiration of the thirty-month 
+     period beginning on the date of the receipt of the notice 
+     provided under paragraph (2)(B)(i) or such shorter or longer 
+     period as the court may order because either party to the 
+     action failed to reasonably cooperate in expediting the action, 
+     except that--
+     
+           (I) if before the expiration of such period the court decides 
+          that such patent is invalid or not infringed, the approval shall 
+          be made effective on the date of the court decision,
+          
+                          II. Background
+
+     Hoechst Marion Roussel, Inc. (HMRI) is the manufacturer, 
+marketer and patent holder of the brand name prescription 
+drug Cardizem CD, which consists of a once-daily dosage of 
+the chemical compound dilitiazem hydrochloride. Cardizem 
+CD is widely prescribed for the treatment of chronic chest 
+pains (angina) and hypertension and for the prevention of 
+heart attacks and strokes.  See In re Cardizem CD Antitrust 
+Litig., 105 F. Supp. 2d 618, 622 (E.D. Mich. 2000).  On 
+September 22, 1995 Andrx filed an ANDA with the FDA 
+seeking approval to manufacture and sell a generic form of 
+Cardizem CD.  On December 31, 1995 it made the Paragraph 
+IV certification with regard to all unexpired patents included 
+in the Orange Book's Cardizem CD entry and certified that 
+its generic form of Cardizem CD did not infringe the patents 
+owned or controlled by HMRI or its affiliates.  See 21 U.S.C. 
+s 355(j)(2)(A)(vii)(IV);  21 C.F.R. s 314.94(a)(12)(i)(A)(4). In 
+early 1996 HMRI filed a timely suit against Andrx for patent 
+
+__________
+           (II) if before the expiration of such period the court 
+          decides that such patent has been infringed, the approval 
+          shall be made effective on such date as the court orders 
+          under section 271(e)(4)(A) of Title 35, or
+          
+           (III) if before the expiration of such period the court 
+          grants a preliminary injunction prohibiting the applicant 
+          from engaging in the commercial manufacture or sale of the 
+          drug until the court decides the issues of patent validity and 
+          infringement and if the court decides that such patent is 
+          invalid or not infringed, the approval shall be made effective 
+          on the date of such court decision.
+          
+     In such an action, each of the parties shall reasonably 
+cooperate in expediting the action.  Until the expiration of 
+forty-five days from the date the notice made under para-
+graph (2)(B)(i) is received, no action may be brought under 
+section 2201 of Title 28, for a declaratory judgment with 
+respect to the patent.  Any action brought under section 
+2201 shall be brought in the judicial district where the 
+defendant has its principal place of business or a regular 
+and established place of business.
+
+infringement.4  The filing of the suit triggered the statutory 
+30-month waiting period during which any subsequent ANDA 
+applicant, including Biovail, could not receive final approval of 
+its generic version of Cardizem CD. See 21 U.S.C. 
+s 355(j)(5)(B)(iii).
+
+     In June 1997 Biovail filed an ANDA with the Paragraph IV 
+certification for its generic version of Cardizem CD but 
+HMRI filed no patent infringement suit against it.  On 
+September 15, 1997 the FDA issued its tentative approval of 
+Andrx's ANDA.5  Nine days later, on September 24, 1997, 
+HMRI and Andrx entered into an agreement (Agreement or 
+HMRI-Andrx Agreement) purporting to maintain the status 
+quo pending the outcome of HMRI's patent infringement suit 
+against Andrx.  Under the terms of the Agreement, Andrx 
+agreed not to sell its generic version of Cardizem CD until a 
+specific time agreed upon by the parties.  It also agreed to 
+diligently prosecute its ANDA and not to relinquish or other-
+wise compromise any right accruing thereunder.  HMRI 
+agreed to make interim payments to Andrx in the amount of 
+$40 million per year, payable quarterly, beginning on the date 
+Andrx's generic version of Cardizem CD received FDA ap-
+proval and ending on the date Andrx either began to sell its 
+generic version or was adjudged liable for patent infringe-
+ment.
+
+     In early 1998 Andrx filed suit against the FDA and certain 
+ANDA applicants (including Biovail) to clarify its right as the 
+first to file an ANDA for Cardizem CD.  The suit sought 
+injunctive relief requiring the FDA to provide Andrx with "a 
+period of 180 days of marketing exclusivity for its controlled-
+release generic formulations of the drugs Dilacor XR and 
+Cardizem CD."  JA 13.  It also requested injunctive relief 
+prohibiting the FDA "from approving any ANDA submitted 
+by defendant Biovail ... for a generic version of Cardizem 
+CD that contains a paragraph 4 certification until 180-days 
+after Andrx begins marketing its generic formulation of Car-
+__________
+     4 Later in 1996 Faulding Inc. filed an ANDA with a Paragraph IV 
+certification for its generic version of Cardizem CD.  In January 
+1997 HMRI also filed suit against Faulding for patent infringement.
+
+     5 The FDA issued tentative, as opposed to final, approval due to 
+the pending infringement suit and the resulting 30-month statutory 
+waiting period.
+
+dizem CD or a court enters a judgment in the patent litiga-
+tion brought by HMRI in the Southern District of Florida, 
+whichever is earlier."  JA 22.  Biovail counterclaimed, alleg-
+ing that Andrx had violated sections 1 and 2 of the Sherman 
+Act as well as New Jersey common law.6
+
+     On July 3, 1998 the FDA granted final approval to Andrx's 
+ANDA for a generic version of Cardizem CD.  JA 44.  By 
+then, the 30-month waiting period had expired and Andrx 
+was no longer restricted under the statutory scheme from 
+marketing and selling its generic drug.  Andrx, however, did 
+not do so and on July 9, 1998, pursuant to the Agreement, 
+HMRI began making quarterly payments of $10 million to 
+Andrx.  By not marketing its generic version of Cardizem 
+CD, Andrx did not trigger the 180-day market exclusivity 
+period, which in turn prevented the FDA from giving final 
+approval to any subsequently filed applications for competing 
+generic versions of Cardizem CD.
+
+     Approximately one year later, HMRI and Andrx terminat-
+ed their Agreement and entered into a stipulation settling the 
+patent litigation.  On June 23, 1999, Andrx then began to 
+market its generic version and its 180-day exclusivity period 
+began to run.  In October 1999 the FDA gave tentative 
+approval to Biovail's ANDA and final approval on December 
+
+__________
+     6 On July 14, 1998 the FDA published a notice entitled "Guidance 
+for Industry on 180-Day Generic Drug Exclusivity Under the 
+Hatch-Waxman Amendments to the Federal Food, Drug, and Cos-
+metic Act;  Availability," interpreting the Hatch-Waxman Amend-
+ments so as to give Andrx the relief it sought in its complaint. The 
+Guidance explained that the FDA intended to delete the "successful 
+defense" provisions from s 314.107(c)(1) and that the FDA would 
+not enforce the "successful defense" provisions in the interim. See 
+63 Fed. Reg. 37,890 (July 14, 1998);  see also JA 62 (Federal 
+Defendant's Motion to Dismiss);  JA 198 (Notice of Dismissal). 
+Accordingly, the district court subsequently dismissed the com-
+plaint.  See JA 199.  Andrx had earlier moved to dismiss Biovail's 
+counterclaim for failure to state a claim upon which relief may be 
+granted because, inter alia, Biovail lacked standing to assert an 
+antitrust violation.
+
+23, 1999.7  Neither Andrx nor Biovail, however, informed the 
+district court of these developments.  On January 6, 2000 the 
+district court granted Andrx's Rule 12(b)(6) motion to dismiss 
+Biovail's counterclaim, the federal antitrust counts with preju-
+dice and the state law claims without prejudice.  The court 
+concluded that Biovail did not, and in fact could not, plead an 
+antitrust injury causally linked to Andrx's alleged anticompet-
+itive behavior.  Andrx Pharm., Inc. v. Friedman, 83 F. Supp. 
+2d 179, 185-87 (D.D.C. 2000) ("Court cannot find that Biovail 
+can establish that it has suffered 'antitrust injury.' ").  On 
+February 2, 2000 Biovail moved for reconsideration under 
+FRCP 60(b) and on February 4, 2000 it filed a notice of 
+appeal (No. 00-5050).  The district court subsequently denied 
+the motion for reconsideration and Biovail noticed its appeal 
+of that decision (No. 00-5396) on November 3, 2000.  This 
+court granted Biovail's motion to consolidate the appeals.
+
+                          III. Analysis
+
+     We give de novo review to a Rule 12(b)(6) dismissal.  See 
+NRA v. Reno, 216 F.3d 122, 126 (D.C. Cir. 2000);  see also 
+Amarel v. Connell, 102 F.3d 1494, 1507 (9th Cir. 1997) 
+(holding that antitrust standing is question of law reviewed de 
+novo).  "The complaint should not be dismissed unless plain-
+tiffs can prove no set of facts in support of their claim which 
+would entitle them to relief."  Kowal v. MCI Communica-
+tions Corp., 16 F.3d 1271, 1276 (D.C. Cir. 1994).  We liberally 
+construe the complaint in the plaintiff's favor and grant the 
+plaintiff the benefit of all inferences that can be derived from 
+the facts alleged.  "However, the court need not accept 
+inferences drawn by plaintiffs if such inferences are unsup-
+ported by the facts set out in the complaint.  Nor must the 
+court accept legal conclusions cast in the form of factual 
+allegations."  Id.  The court reviews the denial of the appel-
+lant's Rule 60(b) motion for abuse of discretion "unless the 
+decision is 'rooted in an error of law.' "  United Mine Work-
+
+__________
+     7 In a letter dated October 22, 1999 the FDA explained to Biovail 
+that it had "completed review" of its ANDA and found its generic 
+"safe and effective."  JA 322.  It gave tentative, rather than final, 
+approval because of "the exclusivity granted by the agency to 
+Andrx."  JA 323;  see also JA 327.
+
+ers of Am. 1974 Pension v. Pittston Co., 984 F.2d 469, 476 
+(D.C. Cir. 1993) (citation omitted).
+
+     Section 4 of the Clayton Act provides that a private person 
+"injured in his business or property by reason of anything 
+forbidden in the antitrust laws ... shall recover threefold the 
+damages by him sustained, and the cost of suit, including a 
+reasonable attorney's fee."  15 U.S.C. s 15(a).  The Clayton 
+Act includes the Sherman Act8 as one of the "antitrust laws."  
+See 15 U.S.C. s 12. A person "threatened [with] loss or 
+damage by a violation of the antitrust laws" can seek injunc-
+tive relief under section 16 of the Clayton Act.  15 U.S.C. 
+s 26.  The availability of a private antitrust action, and its 
+accompanying treble damages remedy, serves both to com-
+pensate private persons for their injuries and to punish 
+wrongdoers.  See 2 Phillip E. Areeda, Herbert Hovenkamp & 
+Roger D. Blair, Antitrust Law p 330, at 273 (2d. ed. 2000).  
+Private enforcement of the nation's antitrust laws also in-
+creases the likelihood that violators will be discovered.  See 
+Blue Shield of Va. v. McCready, 457 U.S. 465, 473 n.10 (1982) 
+("Only by requiring violators to disgorge the 'fruits of their 
+illegality' can the deterrent objectives of the antitrust laws be 
+fully served.") (citation omitted).  In fact, private enforce-
+ment actions account for the overwhelming majority of anti-
+trust litigation in the United States.  See William F. Dolan, 
+Developments in Private Antitrust Enforcement in 1999, 
+1181 PLI/Corp 971, 975 (2000).
+
+     "On its face, s 4 contains little in the way of restrictive 
+language."  Reiter v. Sonotone Corp., 442 U.S. 330, 337 
+(1979).  "The statute does not confine its protection to con-
+
+__________
+     8 Section 1 of the Sherman Act prohibits contracts, combinations 
+or conspiracies "in restraint of trade or commerce among the 
+several States, or with foreign nations."  15 U.S.C. s 1.  Section 2 
+states that "[e]very person who shall monopolize, or attempt to 
+monopolize, or combine or conspire with any other person or 
+persons, to monopolize any part of the trade or commerce among 
+the several States, or with foreign nations, shall be deemed guilty of 
+a felony."  15 U.S.C. s 2.  In its counterclaim, Biovail alleged that 
+Andrx violated both sections 1 and 2 of the Sherman Act.  JA 20-
+21.
+
+sumers, or to purchasers, or to competitors, or to sellers....  
+The Act is comprehensive in its terms and coverage, protect-
+ing all who are made victims of the forbidden practices by 
+whomever they may be perpetrated."  Mandeville Island 
+Farms, Inc. v. American Crystal Sugar Co., 334 U.S. 219, 236 
+(1948).  The Supreme Court, however, has recognized that 
+"the potency of the remedy implies the need for some care in 
+its application" and does not construe the section 4 language 
+to allow suit by every party affected by an antitrust violator's 
+"ripples of harm."  McCready, 457 U.S. at 476-77. An anti-
+trust plaintiff must establish an injury-in-fact or a threatened 
+injury-in-fact caused by the defendant's alleged wrongdoing.  
+See Associated Gen. Contractors of Cal., Inc. v. California 
+State Council of Carpenters, 459 U.S. 519, 535 (1983).  More-
+over, the injury must affect the plaintiff's business or proper-
+ty and must be the kind of injury the antitrust laws were 
+intended to prevent;  it must "flow[ ] from that which makes 
+defendants' acts unlawful."  Brunswick Corp. v. Pueblo 
+Bowl-O-Mat, Inc., 429 U.S. 477, 489 (1977).  Additional 
+factors to be considered in determining whether the plaintiff 
+has "antitrust standing" include:  the directness of the injury, 
+whether the claim for damages is "speculative," the existence 
+of more direct victims, the potential for duplicative recovery 
+and the complexity of apportioning damages.  See Associated 
+Gen. Contractors, 459 U.S. at 542-45;  see also Adams v. Pan 
+Am. World Airways, Inc., 828 F.2d 24, 26 (D.C. Cir. 1987).  
+We review the district court's decision dismissing Biovail's 
+antitrust counterclaim with prejudice in light of these stand-
+ing requirements.
+
+     A.   Injury-in-Fact and Causation
+          
+     As in any civil action for damages, the plaintiff in a private 
+antitrust lawsuit must show that the defendant's illegal con-
+duct caused its injury.  See 2 Areeda et al., supra, p 338, at 
+316;  see also Restatement (Second) of Torts ss 431, 433 
+(1965). The plaintiff's first step is to plead an injury-in-fact or, 
+in a suit for equitable relief, a threatened injury-in-fact to 
+business or property.9  See Hecht v. Pro-Football, Inc., 570 
+
+__________
+     9 Section 4 of the Clayton Act authorizes a private suit only for 
+injury to "business or property."  15 U.S.C. s 15;  see 2 Areeda et 
+
+F.2d 982, 993 (D.C. Cir. 1977).  The "burden of proving the 
+fact of damage under s 4 of the Clayton Act is satisfied by [ ] 
+proof of some damage flowing from the unlawful conspiracy;  
+inquiry beyond this minimum point goes only to the amount 
+and not the fact of damage."  Zenith Radio Corp. v. Hazel-
+tine Research, Inc., 395 U.S. 100, 114 n.9 (1969) (emphasis 
+original).  The district court held that Biovail not only failed 
+to plead an injury or a threatened injury but also was unable 
+to do so because Biovail had yet to receive FDA approval for 
+its generic version of Cardizem CD and gave no assurance 
+that it would have entered the market had it gained approval.  
+Cf. Indium Corp. of Am. v. Semi-Alloys, Inc., 781 F.2d 879, 
+882 (Fed. Cir. 1985) (because plaintiff was not prepared to 
+enter market, defendant's conduct caused no injury).
+
+     When competitors violate the antitrust laws and another 
+competitor is forced from a market, the latter suffers an 
+injury-in-fact.  A competitor that has not yet entered the 
+market may also suffer injury but courts require a "potential" 
+competitor to demonstrate both its intention to enter the 
+market and its preparedness to do so.  See Hecht, 570 F.2d at 
+987, 994 ("[A] potential competitor cannot achieve standing 
+merely by demonstrating his intention to enter a field;  he 
+must also demonstrate his preparedness to do so." (emphasis 
+original));  see Indium Corp., 781 F.2d at 882 (no injury if 
+plaintiff not prepared to enter market).  "Indicia of prepared-
+ness include adequate background and experience in the new 
+field, sufficient financial capability to enter it, and the taking 
+of actual and substantial affirmative steps toward entry, 'such 
+as the consummation of relevant contracts and procurement 
+of necessary facilities and equipment.' "  Hecht, 570 F.2d at 
+994 (footnote and citation omitted).  Thus, in evaluating 
+whether Biovail sufficiently pleaded or can sufficiently plead 
+
+__________
+al., supra, p 336, at 303.  At the very least, "business or property" 
+includes "commercial interests or enterprises."  Hawaii v. Stan-
+dard Oil Co., 405 U.S. 251, 264 (1972).  In Reiter v. Sonotone Corp., 
+the Supreme Court noted that "the word 'property' has a naturally 
+broad and inclusive meaning."  Id. at 338.  On appeal, the parties 
+do not raise the issue of whether Biovail sufficiently alleged an 
+injury to "business or property."
+
+an injury or threatened injury, we must examine its intent 
+and preparedness to enter the market from which it alleges it 
+was excluded, that is, the Cardizem CD, or controlled-release 
+dilitiazem-based drug, market.
+
+     In the pharmaceutical industry, FDA approval is a prereq-
+uisite to enter any drug market.  See 21 U.S.C. s 355(a) ("No 
+person shall introduce or deliver for introduction into inter-
+state commerce any new drug, unless an approval of an 
+application filed pursuant to subsection (b) or (j) of this 
+section is effective with respect to such drug.").  The district 
+court concluded that Biovail suffered no injury as a result of 
+the HMRI-Andrx Agreement "because even today, Biovail 
+could not go to market with a generic version of Cardizem, 
+because it had not received FDA approval."10  Andrx 
+Pharm., 83 F. Supp. 2d at 186 (emphasis original).  The only 
+facts Biovail alleged to support its claim of injury were that 
+the Agreement "prevent[ed] generic Cardizem CD products 
+by Biovail and others from reaching the market as soon as 
+they would otherwise be allowed," JA 44 (p 19), and that 
+Biovail had filed an ANDA for a generic version of Cardizem 
+CD, JA 50 (p 41).  Biovail did not explicitly allege that it was 
+prepared to bring a generic version of Cardizem CD to 
+market or that it anticipated FDA approval.  In addition, 
+when the FDA eventually approved its ANDA, Biovail inex-
+plicably failed to inform the district court.  Based on Biovail's 
+failure to plead sufficient intent and preparedness to enter 
+the market, the district court dismissed Biovail's antitrust 
+counterclaim.11  See Andrx Pharm., 83 F. Supp. 2d at 187.
+
+__________
+     10 By the time of the district court's decision, however, the FDA 
+had approved Biovail's ANDA for its generic version of Cardizem 
+CD although the court was not apprised of that development.
+
+     11 The issues of injury-in-fact and causation are closely linked on 
+this point. By not alleging facts indicating its intent and prepared-
+ness to enter the Cardizem CD market, Biovail failed to allege both 
+an injury (no loss of profits because not prepared to enter market) 
+and causation (any damages not related to HMRI-Andrx Agree-
+ment because Agreement did not cause loss of profits).
+
+     The district court, however, went beyond dismissing the 
+counterclaim based on the pleading's insufficiency.  It dis-
+missed Biovail's antitrust counterclaim with prejudice.  In so 
+doing it decided, as a matter of law, that Biovail was unable to 
+set forth any set of facts that would entitle it to the relief it 
+sought.  "[D]ismissal with prejudice should be granted only 
+when a trial court determines that 'the allegation of other 
+facts consistent with the challenged pleading could not possi-
+bly cure the deficiency.' "  Jarrell v. United States Post. 
+Serv., 753 F.2d 1088, 1091 (D.C. Cir. 1985) (quoting Bonnano 
+v. Thomas, 309 F.2d 320, 322 (9th Cir. 1962)).  The district 
+court did not conclude that Biovail did not intend to enter the 
+market or that it was not sufficiently prepared to do so but 
+instead that it had not sufficiently alleged its intent and 
+capacity to enter the market.  See Andrx Pharm., Inc., 83 
+F. Supp. 2d at 184-85. Its statement that the FDA had not 
+yet approved Biovail's ANDA as of the date of its ruling was 
+understandable in light of the parties' failure to inform the 
+court to the contrary but the statement was nonetheless 
+erroneous and not a ground to dismiss with prejudice.
+
+     As its motion for reconsideration manifests, Biovail can 
+allege facts sufficient to indicate its intent and preparedness. 
+See JA 297, 300-02. And even before the FDA approved 
+Biovail's ANDA, Biovail could have alleged its intent and 
+preparedness to enter the market by claiming that FDA 
+approval was probable. Andrx's original suit, which sought to 
+enjoin the FDA from approving Biovail's ANDA, suggests 
+that Biovail (or so Andrx believed) may have intended and 
+been sufficiently prepared to enter the market.  See Zenith 
+Radio, 395 U.S. at 130 ("[Section 16] authorizes injunctive 
+relief upon the demonstration of 'threatened' injury. That 
+remedy is characteristically available even though the plaintiff 
+has not yet suffered actual injury;  he need only demonstrate 
+a significant threat of injury from an impending violation of 
+the antitrust laws or from a contemporary violation likely to 
+continue or recur.") (citation and footnote omitted);  L.A. 
+Mem'l Coliseum Comm'n v. National Football League, 468 
+F. Supp. 154, 159 (C.D. Cal. 1979).  And unlike the plaintiffs 
+in Confederate Memorial Association, Inc. v. Hines, 995 F.2d 
+
+295 (D.C. Cir. 1993), where this court upheld the trial court's 
+dismissal with prejudice of the plaintiffs' RICO claims be-
+cause the plaintiffs failed to allude to facts "entitling them to 
+recover," Biovail has (in its motion for reconsideration) allud-
+ed to facts--FDA approval and intent to enter market--that 
+may entitle it to relief.  Id. at 299;  cf. Askins v. District of 
+Columbia, 877 F.2d 94, 99 (D.C. Cir. 1989) (dismissal with 
+prejudice of unripe legal claim is legal error).  Because 
+Biovail may be able to cure its pleading deficiency, we 
+conclude that dismissal with prejudice was erroneously grant-
+ed.
+
+     Andrx responds, however, that an independent legal 
+ground supports dismissal with prejudice.  It argues Biovail 
+is unable to allege causation.  To sufficiently plead causation, 
+a plaintiff must allege that the defendant violated the anti-
+trust laws, that the defendant's alleged violation "had a 
+tendency to injure" the plaintiff's business or property, Amer-
+inet, Inc. v. Xerox Corp., 972 F.2d 1483, 1495 (8th Cir. 1992), 
+and that the plaintiff suffered a decline in its business or 
+property "not shown to be attributable to other causes."  
+Bigelow v. RKO Radio Pictures, Inc., 327 U.S. 251, 264 
+(1945).  The Supreme Court has explained "[i]t is enough that 
+the illegality is shown to be a material cause of the injury;  a 
+plaintiff need not exhaust all possible alternative sources of 
+injury in fulfilling his burden of proving compensable injury 
+under [section 4 of the Clayton Act]."  Zenith Radio, 395 
+U.S. at 114 n.9.
+
+     The district court found that Biovail failed to establish the 
+requisite causal connection between its injury and the alleged 
+anticompetitive conduct.  It concluded that any injury Biovail 
+may have suffered was caused not by the HMRI-Andrx 
+Agreement but instead by the lack of FDA approval of its 
+generic version of Cardizem CD and by the delay period 
+prescribed by the Hatch-Waxman Amendments.  We dis-
+agree.  Although we affirm the district court's dismissal to 
+the extent Biovail failed to allege an injury-in-fact, we dis-
+agree with its conclusion that any injury Biovail might plead 
+would be caused by "the existence of a troublesome statutory 
+scheme that prohibits it from marketing a drug until the first 
+ANDA recipient goes to market, and which places no restric-
+tions on when, or even whether, that applicant must to [sic] 
+
+go to market."  Andrx Pharms., 83 F. Supp. 2d at 185.  We 
+also reject Andrx's argument that any rational actor like itself 
+would not market its generic drug until the patent infringe-
+ment suit against it was resolved, making any loss of profits 
+caused by Biovail's exclusion from the market a result of the 
+statutory scheme, not Andrx's conduct.  A reasonable juror 
+could conclude that Andrx's argument contradicts the very 
+premise of the HMRI-Andrx Agreement.  Under the Agree-
+ment, HMRI paid Andrx 10 million dollars per quarter effec-
+tively not to enter the market.  One can fairly infer from 
+these facts, which were alleged in the counterclaim, that but 
+for the Agreement, Andrx would have entered the market.  
+As one commentator has noted, "[a] payment flowing from 
+the innovator to the challenging generic firm may suggest 
+strongly the anticompetitive intent of the parties in entering 
+the agreement and the rent-preserving effect of that agree-
+ment."  Balto, supra, at 335.
+
+     Andrx, however, argues that it "did nothing other than to 
+act in accordance with rights granted to it under the Hatch-
+Waxman [Amendments].  The exercise of these statutory 
+rights, exclusionary though they may be, cannot support a 
+claim under the antitrust laws."  Appellee Br. 31.  Andrx 
+may be correct that "[a] plaintiff cannot be injured in fact by 
+private conduct excluding him from the market when a stat-
+ute prevents him from entering that market in any event."  
+City of Pittsburgh v. West Penn Power Co., 147 F.3d 256, 268 
+(3d Cir. 1998) (quoting Philip E. Areeda & Herbert Hoven-
+kamp, Antitrust Law, p 363(b) at 222 (1995)).  Although the 
+Hatch-Waxman Amendments provide a 180-day period of 
+market exclusivity to the first applicant to file an ANDA for a 
+generic version of a pioneer drug, see 21 U.S.C. 
+s 355(j)(5)(B)(iv),12 through the Amendments, "Congress 
+__________
+     12 Section 355(j)(5)(B)(iv) provides:
+
+     If the application contains a certification described in subclause 
+     (IV) of paragraph (2)(A)(vii) and is for a drug for which a 
+     previous application has been submitted under this subsection 
+     continuing such a certification, the application shall be made 
+     effective not earlier than one hundred and eighty days after--
+     
+sought to get generic drugs into the hands of patients at 
+reasonable prices--fast."  In re Barr Lab., Inc., 930 F.2d 72, 
+76 (D.C. Cir. 1991).  We disagree with Andrx that "its 
+conduct was not only permitted under but clearly contemplat-
+ed by the Hatch-Waxman" Amendments.  Appellee Br. 32.  
+Although it is true that the first to file an ANDA is permitted 
+to delay marketing as long as it likes, the statutory scheme 
+does not envision the first applicant's agreeing with the 
+patent holder of the pioneer drug to delay the start of the 
+180-day exclusivity period.  See Mova Pharm., 140 F.3d at 
+1072 (acknowledging and describing as anomaly fact situation 
+here presented).13
+
+     By accepting payments from HMRI, Andrx received the 
+benefit of the 180-day exclusivity period without starting the 
+clock.  By agreeing with HMRI to share HMRI's profits 
+from the sale of Cardizem CD, it was able to exclude other 
+competitors from entering the market.  Andrx's commitment 
+
+__________
+          (I) the date the Secretary receives notice from the applicant 
+     under the previous application of the first commercial market-
+     ing of the drug under the previous application, or
+     
+          (II) the date of a decision of a court in an action described in 
+     clause (iii) holding the patent which is the subject of the 
+     certification to be invalid or not infringed,
+     whichever is earlier.
+     
+     13 The court stated in a footnote:
+
+     An amicus brief filed by Biovail Corporation International 
+     dramatically illustrates an analogous risk, not necessarily in-
+     volving collusion.  Biovail was the second applicant to file a 
+     paragraph IV ANDA for a generic version of a heart medi-
+     cation. Biovail was not sued by the pioneer drug company.  
+     The first applicant and the pioneer drug company are now in 
+     litigation, and, Biovail claims, the pioneer is paying the first 
+     applicant some $10 million per quarter in exchange for the first 
+     applicant's agreement not to sell its product after the 30-month 
+     waiting period expires.  Under these circumstances, neither 
+     party would seem to have maximum incentive to bring the 
+     litigation to a close.
+     
+Id. at 1072 n.14.
+
+not to trigger the running of the 180-day exclusivity period 
+could have caused Biovail's injury (assuming FDA approval 
+was probable and it was sufficiently prepared to enter the 
+market) by denying it the ability to proceed to market with 
+its own generic version. Although the 180-day provision of 
+the Hatch-Waxman Amendments legally barred it from sell-
+ing its product, Andrx's manipulation of the exclusivity period 
+trigger date extended the legal bar.
+
+     Andrx maintains that the Agreement was not a restraint 
+cognizable under the antitrust laws because, under the FDA 
+regulations in effect at the time, it could not have caused the 
+delay of FDA approval of Biovail's ANDA.  In September 
+1997 (when the Agreement was signed) Andrx contends that 
+the FDA regulations provided that the first ANDA applicant 
+to file a Paragraph IV certification would not be granted a 
+180-day exclusivity period unless it had "successfully defend-
+ed" any patent infringement action brought by the patent 
+holder "before a subsequent applicant's ANDA was ready to 
+be approved."  Appellee Br. 37-38 (citing 21 C.F.R. 
+s 314.107(c)(i) (1997)).  We rejected the FDA's "successful 
+defense" regulation in Mova Pharm., 140 F.3d at 1076.  
+Andrx argues that before the court invalidated the regulation, 
+it could have done nothing to prolong its exclusivity period by 
+delaying FDA approval of Biovail's ANDA because it was 
+entitled to the exclusionary period only if it successfully 
+defended the patent litigation before the FDA approved a 
+subsequent applicant's ANDA.  Had the FDA approved Bio-
+vail's ANDA, Andrx asserts, the Agreement would not have 
+prevented Biovail from entering the market under the old 
+regulation.
+
+     We reject this argument.  On January 23, 1997 the district 
+court in Mova issued a preliminary injunction against the 
+FDA, holding that its "successful defense" regulation was 
+inconsistent with the plain language of the statute and there-
+fore unenforceable.  See Mova Pharm. Corp. v. Shalala, 955 
+F. Supp. 128, 131-32 (D.D.C. 1997).  HMRI and Andrx did 
+not enter into their agreement until September 1997, almost 
+nine months after the court's ruling.  On April 14, 1998 this 
+court affirmed the district court.  Mova, 140 F.3d at 1076.  
+
+The Agreement did not go into effect until three months 
+later, in July 1998.  The timing of the Agreement and of the 
+demise of the successful defense requirement defeats Andrx's 
+argument on this point.
+
+     Andrx nevertheless relies on the holding in Polk Bros., Inc. 
+v. Forest City Enters., Inc., 776 F.2d 185 (7th Cir. 1985).  In 
+Polk Bros., two companies, one that sold appliances and home 
+furnishings and the other that sold building materials, lum-
+ber, tools and related products, reached an agreement to 
+build on a large parcel of land one building, partitioned on the 
+interior, to house both stores.  Id. at 187.  The arrangement 
+was attractive to both firms due to the complementary nature 
+of their products.  They feared, however, that one day com-
+petition might replace cooperation so they negotiated a cove-
+nant restricting the products each could sell.  Id.  Years later 
+one of the firms wanted to sell certain products in violation of 
+the covenant and challenged the covenant on antitrust 
+grounds when the other firm sought to enforce it.  Id. at 187-
+88.  Although the case arose under Illinois antitrust law, state 
+law used federal antitrust law as a guide.  Id. at 188.  The 
+Seventh Circuit upheld the validity of the covenant on the 
+ground that, although "naked" restraints on trade are unlaw-
+ful per se, ancillary restraints that facilitate productive activi-
+ty are not.  The court provided the following example:
+
+     If A hires B as a salesman and passes customer lists to 
+     B, then B's reciprocal covenant not to compete with A is 
+     "ancillary."  At the time A and B strike their bargain, 
+     the enterprise (viewed as a whole) expands output and 
+     competition by putting B to work.  The covenant not to 
+     compete means that A may trust B with broader respon-
+     sibilities, the better to compete against third parties.  
+     Covenants of this type are evaluated under the Rule of 
+     Reason as ancillary restraints, and unless they bring a 
+     large market share under a single firm's control they are 
+     lawful.  See United States v. Addyston Pipe & Steel Co., 
+     85 F. 271, 280-83 (6th Cir. 1898) (Taft, J.), aff'd, 172 U.S. 
+     211 (1899).
+     
+Id. at 189.  Thus even were we to adopt Andrx's characteriza-
+tion of the Agreement as "designed to preserve the status 
+quo by duplicating relief that the court could have ordered 
+had HMR[I] proceeded with" its motion for a preliminary 
+injunction in the patent infringement litigation, the Agree-
+ment's allegedly anticompetitive provisions, including Andrx's 
+pledge to continue to pursue its ANDA so as to forestall other 
+applicants from receiving final FDA approval, were not neces-
+sarily ancillary restraints but rather could reasonably be 
+viewed as an attempt to allocate market share and preserve 
+monopolistic conditions.
+
+     Finally, Andrx contends that there were reasonable alter-
+natives available to Biovail that could have avoided the exclu-
+sionary effect of the Agreement by triggering the 180-day 
+period.  Andrx relies on CBS Broad. Sys., Inc. v. ASCAP, 620 
+F.2d 930, 935 (2d Cir. 1980), which held that "a practice that 
+is not a per se violation ... does not restrain trade when the 
+complaining consumer elects to use it in preference to realis-
+tically available marketing alternatives."  There the court 
+found that to avoid injury, the consumer plaintiff had only to 
+do nothing "more extraordinary than offer to buy from com-
+peting sellers."  Id. at 936.  Andrx argues that Biovail had 
+two alternatives in lieu of waiting for Andrx to market its 
+generic version of Cardizem CD. First, Biovail could have 
+triggered the start of the 180-day exclusivity period itself 
+under the "court decision" prong of the Hatch-Waxman 
+Amendments, 21 U.S.C. s 355(j)(5)(B)(iv)(II), by seeking a 
+declaratory judgment of non-infringement or invalidity of 
+HMRI's patent.  The successful resolution (or dismissal) of 
+the declaratory judgment action would have started the 180-
+day exclusivity period.  See Teva Pharm. USA, Inc. v. FDA, 
+182 F.3d 1003, 1007-08 (D.C. Cir. 1999).  Alternatively, Bio-
+vail could have petitioned the FDA to nullify Andrx's 180-day 
+exclusivity period. FDA regulations provide that "if FDA 
+concludes that the applicant submitting the first application is 
+not actively pursuing approval of its abbreviated application, 
+FDA will make the approval of subsequent abbreviated appli-
+cations immediately effective if they are otherwise eligible for 
+
+an immediately effective approval."  21 C.F.R. 
+s 314.107(c)(3).
+
+     The CBS holding is easily distinguishable;  the language on 
+which Andrx relies appears in the context of determining 
+whether an agreement determined not to be per se unlawful 
+nonetheless restrains trade on the facts.  There the agree-
+ment benefitted the consumer by bundling various music 
+copyright licenses, relieving the consumer of having to negoti-
+ate licenses with every individual artist.  Andrx has cited no 
+consumer benefit here. Biovail could have sought a declarato-
+ry judgment;  however, as evidenced by the HMRI-Andrx 
+patent infringement litigation, the time involved to obtain 
+such a judgment made this option less than "fully available."  
+CBS, 620 F.2d at 935. Likewise, as long as Andrx was 
+pursuing FDA approval, Biovail could not use 21 C.F.R. 
+s 314.107(c)(3) to revoke the 180-day exclusivity period.  In-
+deed, according to the HMRI-Andrx Agreement, Andrx was 
+to continue to pursue approval, which prevented the FDA 
+from denying it the 180-day exclusivity period.  Accordingly, 
+we conclude the district court erred in dismissing with preju-
+dice Biovail's counterclaim for failure to plead injury caused 
+by Andrx's alleged unlawful restraint of trade.  See supra 
+note 8.
+
+     B.   Antitrust Injury
+          
+     "A private antitrust plaintiff does not acquire standing 
+merely by showing that it was injured in a proximate and 
+reasonably measurable way by conduct of the defendant 
+violating the antitrust laws (injury-in-fact).  Nor is it enough 
+that the injury be causally connected to the acts that violate 
+the antitrust laws (causation)."  2 Areeda et al., supra, p 337a, 
+at 305.  In Brunswick, the Supreme Court explained that 
+"[p]laintiffs must [also] prove antitrust injury, which is to say 
+injury of the type the antitrust laws were intended to prevent 
+and that flows from that which makes defendants' acts unlaw-
+ful."  429 U.S. at 489 (emphasis original).  "The injury should 
+reflect the anticompetitive effect either of the violation or of 
+anticompetitive acts made possible by the violation. It should, 
+in short, be 'the type of loss that the claimed violations ... 
+
+would be likely to cause.' "  Id. (quoting Zenith Radio, 395 
+U.S. at 125).14  The Supreme Court has declared that the 
+antitrust laws "were enacted for 'the protection of competi-
+tion not competitors.' "  Id. at 488 (quoting Brown Shoe Co. 
+v. United States, 370 U.S. 294, 320 (1962)) (emphasis original).  
+Thus a competitor may not claim an injury resulting from 
+competition even when such competition was actually caused 
+by conduct that violates the antitrust laws.  See 2 Areeda et 
+al., supra, p 337, at 306;  see also Matsushita Elec. Indus. Co. 
+v. Zenith Radio Corp., 475 U.S. 574, 596 n.20 (1986) (competi-
+tors suffer no harm from conspiracy to raise prices);  J. 
+Truett Payne Co. v. Chrysler Motors Corp., 451 U.S. 557, 568 
+(1981) (violation of antitrust laws not enough to confer stand-
+ing).
+
+     In asserting that Biovail cannot assert an antitrust injury, 
+Andrx compares it to the Brunswick plaintiffs.  In Bruns-
+wick, the plaintiffs, three bowling alleys, complained that the 
+defendant's acquisition of several financially troubled bowling 
+centers violated section 7 of the Clayton Act.  In seeking 
+damages, the plaintiffs "attempted to show that had [the 
+defendant] allowed the defaulting centers to close, [the plain-
+tiffs'] profits would have increased."  Brunswick, 429 U.S. at 
+481.  The Supreme Court held that even though the plaintiffs' 
+injury--loss of profits--was caused by the defendant's poten-
+tially unlawful acquisitions, the plaintiffs suffered no antitrust 
+injury because the increased competition resulting from the 
+defendant's purchase and operation of competing bowling 
+alleys was not an injury antitrust laws were designed to 
+prevent.  Id. at 488.  The Court explained that the plaintiffs' 
+injury resulted from competitive, not anticompetitive, con-
+duct.  Further, because the plaintiffs would have suffered the 
+same injury had their rivals been lawfully acquired by some-
+
+__________
+     14 In a suit for equitable relief under section 16 of the Clayton 
+Act, the plaintiff must also establish an antitrust injury, although 
+the injury need only be threatened.  See Zenith Radio, 395 U.S. 130 
+(section 16 "invokes traditional principles of equity and authorizes 
+injunctive relief upon the demonstration of 'threatened' injury");  
+see also Cargill, Inc. v. Monfort of Colo., Inc., 479 U.S. 104, 122 
+(1986).
+
+one else, their injury did not occur " 'by reason of anything 
+forbidden in the antitrust laws':  while [plaintiffs'] loss oc-
+curred 'by reason of' the unlawful acquisitions, it did not 
+occur 'by reason of' that which made the acquisitions unlaw-
+ful."  Id.  Unlike the Brunswick plaintiffs' injury, Biovail's 
+alleged injury is the type the antitrust laws were designed to 
+prevent.  If Biovail's allegations are correct, the Andrx-
+HMRI Agreement neither enhanced competition nor benefit-
+ted consumers;  if anything, it accomplished just the opposite 
+by preserving HMRI's monopoly.  Moreover, Biovail alleged 
+that its exclusion from the market occurred not only by 
+reason of the unlawful Agreement but also by reason of that 
+which made the Agreement unlawful, that is, an illegal re-
+straint of trade.  See Brunswick, 429 U.S. at 488.
+
+     Andrx next argues that it could have lawfully excluded 
+Biovail from the Cardizem CD market by deciding, on its 
+own, to delay marketing of its generic version of Cardizem 
+CD and therefore Biovail's alleged injury does not constitute 
+an antitrust injury.  It contends that because its underlying 
+conduct was legal, the fact that it combined to act that way 
+cannot give rise to an antitrust violation.  See ES Dev., Inc. v. 
+RWM Enters., Inc., 939 F.2d 547, 553 (8th Cir. 1991) (explain-
+ing that "[t]he evidence must also establish that the alleged 
+participants combined or conspired to 'achieve an unlawful 
+objective' ").  Under the Hatch-Waxman Amendments, 
+Andrx was lawfully entitled to unilaterally delay marketing its 
+product until the patent infringement claims against it were 
+resolved. Although its unilateral decision not to market its 
+generic version of Cardizem CD would have prevented others, 
+including Biovail, from entering the market, the counterclaim 
+alleges that Andrx entered into an anticompetitive agreement 
+with HMRI in order to exclude others;  HMRI's ten million 
+dollar quarterly payments were presumably in return for 
+something that Andrx would not otherwise do, that is, delay 
+marketing of its generic.  Andrx's argument that any rational 
+actor would wait for resolution of the patent infringement suit 
+is belied by the quid of HMRI's quo.  See 54 Fed. Reg. 
+42,873, 42,882-83 ("[I]t can be mutually beneficial for the 
+innovator and the generic company that is awarded 180 days 
+
+of generic exclusivity to enter into agreements that block 
+generic competition for extended periods.  This delayed com-
+petition harms consumers by slowing the introduction of 
+lower priced products into the market and thwarts the intent 
+of the Hatch-Waxman Amendments.").15
+
+     Antitrust law looks at entry into the market as one mecha-
+nism to limit and deter exploitation of market power by those 
+who may temporarily possess it.  "Existing firms know that if 
+they collude or exercise market power to charge supracom-
+petitive prices, entry by firms currently not competing in the 
+market becomes likely, thereby increasing the pressure on 
+them to act competitively."  FTC v. H.J. Heinz Co., 246 F.3d 
+708, 717 n.13 (D.C. Cir. 2001).  The FDA acknowledges that 
+"[u]nder current regulatory provisions, the first generic appli-
+cant to file a substantially complete ANDA with a paragraph 
+IV certification can delay generic competition by entering into 
+certain commercial arrangements with an innovator compa-
+ny."  64 Fed. Reg. 42,882.16  Such an arrangement can 
+
+__________
+     15 The statutorily granted monopoly of patent rights is similar.  
+Like a drug's 180-day exclusive market period, a patent grant in 
+and of itself is "an exception to the general rule against monopolies 
+and to the right to a free and open market."  Walker Process 
+Equip., Inc. v. Food Mach. & Chem. Corp., 382 U.S. 172, 177 (1965) 
+(quoting Precision Instrument Mfg. Co. v. Automotive Mainte-
+nance Mach. Co., 324 U.S. 806, 816 (1945)).  But even a patent-right 
+holder is not immune from antitrust liability.  In United States v. 
+Singer Mfg. Co., 374 U.S. 174 (1963), two competitors, Singer and 
+Gegauf, entered into a cross-licensing agreement to settle a Patent 
+Office interference proceeding involving their conflicting patent 
+claims. Although Singer (like Andrx) had no obligation to pursue a 
+patent grant and could have, on its own, withdrawn from the 
+interference proceeding, it nevertheless acted unlawfully when it 
+agreed with a competitor to settle the dispute, suppress information 
+and exclude others from the market.  See id. at 196;  see also 
+American Cyanimid Co., 72 F.T.C. 623 (1967), aff'd sub nom. 
+Charles Pfizer & Co. v. FTC, 401 F.2d 574 (6th Cir. 1968) (Tetracy-
+cline case).
+
+     16 The FDA has proposed a "triggering period" during which 
+there must exist either a favorable court decision regarding the 
+
+manipulate the statutory grant of a monopoly to bar competi-
+tive entries.  See Balto, supra, at 331 ("The competitive 
+concern is that the 180-day exclusivity provision can be used 
+strategically by a patent holder to prolong its market power 
+in ways that go beyond the intent of the patent laws and the 
+Hatch-Waxman Act by delaying generic entry for a substan-
+tial period.").  Andrx argues that the Agreement merely 
+preserved the status quo--in effect a stipulated preliminary 
+injunction--until the conclusion of the patent infringement 
+suit. When the court grants preliminary injunctive relief, 
+however, it does so only after considering the public interest 
+and the likelihood of success on the merits.  See Washington 
+Metro. Area Transit Comm'n v. Holiday Tours, Inc., 559 
+F.2d 841, 842-43 (D.C. Cir. 1977);  accord Serono Labs., Inc. 
+v. Shalala, 158 F.3d 1313, 1317-18 (D.C. Cir. 1998);  CityFed 
+Fin. Corp. v. Office of Thrift Supervision, 58 F.3d 738, 746-47 
+(D.C. Cir. 1995).17  Moreover, even if Andrx's agreement to 
+maintain the status quo was lawful, its commitment to contin-
+ue to prosecute its ANDA and do nothing to jeopardize its 
+180-day exclusivity period went beyond preserving the status 
+quo.  "To be ancillary, and hence exempt from the per se 
+rule, an agreement eliminating competition must be subor-
+
+__________
+alleged infringed patent or the first applicant must begin commer-
+cial marketing.  If the first applicant does neither, it forfeits its 
+180-day exclusivity period.  See 64 Fed. Reg. 42,877.  "In most 
+cases, the triggering period would begin to run on the day a 
+subsequent ANDA applicant with a paragraph IV certification 
+receives a tentative approval stating that but for the first appli-
+cant's exclusivity, the subsequent ANDA would receive final approv-
+al."  Id.  The triggering period would also begin to run upon 
+expiration of any 30-month stay in place.
+
+     17 By contrast, a private agreement purporting to maintain the 
+status quo may not be in the public interest or may have little 
+likelihood of success on review.  See generally Sheila F. Anthony, 
+Prepared Remarks before the ABA "Antitrust and Intellectual 
+Property:  The Crossroads" Program, Riddles and Lessons from 
+the Prescription Drug Wars:  Antitrust Implications of Certain 
+Types of Agreements Involving Intellectual Property (June 1, 2000), 
+available at www.ftc.gov/speeches/anthony/sfip000601.htm.
+
+dinate and collateral to a separate, legitimate transaction....  
+If [the restraint] is so broad that part of the restraint 
+suppresses competition without creating efficiency, the re-
+straint is, to that extent, not ancillary."  Rothery Storage & 
+Van Co. v. Atlas Van Lines, Inc., 792 F.2d 210, 224 (D.C. Cir. 
+1986). As Biovail has pleaded the facts, HMRI and Andrx 
+combined to achieve an unlawful objective, namely, the exten-
+sion of the exclusivity period granted under the Hatch-
+Waxman Amendments.  Accordingly, we conclude that Bio-
+vail can allege an antitrust injury, that is, one the antitrust 
+laws were designed to prevent and that flows from that which 
+makes the defendant's conduct unlawful.
+
+     C.   Speculative Nature of Harm
+          
+     Standing may yet be denied if damages "rest[ ] at bottom 
+on some abstract conception or speculative measure of harm."  
+McCready, 457 U.S. at 475 n.11.  In Associated General 
+Contractors, the Court denied standing because the plaintiff's 
+damages claim was "highly speculative."  459 U.S. at 542;  
+accord Adams, 828 F.2d at 30.  It noted that the plaintiff 
+union did not allege (1) that any of its collective bargaining 
+agreements were terminated as a result of the defendant's 
+alleged anticompetitive acts, (2) that union firms' aggregate 
+share of the contracting market had been diminished and (3) 
+that its revenue from dues and initiation fees had decreased. 
+On the other hand, in Bigelow, the Court held that the 
+plaintiff's damages were not too speculative to support the 
+jury's verdict of damages.  327 U.S. at 265.  There, the movie 
+theater owner plaintiffs claimed that defendant distributors 
+and affiliated movie theaters conspired to prevent the plain-
+tiffs from obtaining movies for their theaters until after the 
+defendant theaters had shown them.  Id. at 254.  The Court 
+permitted the jury to consider evidence of decline in prices, 
+profits and values not shown to be attributable to other 
+causes to calculate the quantum of damage caused by the 
+defendants' unlawful acts.  Id. at 264.
+
+     We find Biovail's damages claim, assuming it can plead its 
+intent and preparedness to enter the market, more like that 
+in Bigelow than in Associated General Contractors.  Accord-
+
+ing to its counterclaim, Biovail was not an inexperienced 
+newcomer;  it already manufactured generic pharmaceuticals. 
+It had already developed its product and, once FDA gave 
+tentative approval to its ANDA, was simply waiting out 
+Andrx's 180-day exclusivity period.18  Although damages may 
+be difficult to quantify, "[t]he most elementary conceptions of 
+justice and public policy require that the wrongdoer shall 
+bear the risk of the uncertainty which his own wrong has 
+created."  Bigelow, 327 U.S. at 265;  see Story Parchment Co. 
+v. Paterson Parchment Paper Co., 282 U.S. 555, 562 (1931).  
+Biovail may ultimately fail to establish the amount of dam-
+ages beyond a nominal amount, see Associated Gen. Contrac-
+tors, 459 U.S. at 544-45, but Biovail could continue to seek (if 
+not moot) injunctive relief.  See Blue Cross & Blue Shield of 
+Wis. v. Marshfield Clinic, 152 F.3d 588, 595 (7th Cir. 1998).19
+
+__________
+     18 Biovail received tentative approval in October 1999. On Novem-
+ber 5, 1999 Andrx petitioned for reconsideration and for a stay of 
+the FDA's tentative approval.  The parties dispute the effect of the 
+petition on the timing of Biovail's final approval on December 23, 
+1999.  Even if Biovail's damages period were relatively short, 
+Biovail would nevertheless be able to seek recovery.  Moreover, 
+"[d]ifficulty of ascertainment [should not be] confused with right of 
+recovery."  McCready, 457 U.S. at 475 n.11 (quoting Bigelow, 327 
+U.S. at 265).
+
+     19 Antitrust standing also requires proximity between the alleged 
+cause and the alleged injury.  See Associated Gen. Contractors, 459 
+U.S. at 540;  McCready, 457 U.S. at 476-77 (" '[D]espite the broad 
+wording of s 4 there is a point beyond which the wrongdoer should 
+not be held liable.' " (citation omitted));  2 Areeda et al., supra, 
+p 339, at 325-26.  In evaluating whether an injury is too remote, 
+"we look (1) to the physical and economic nexus between the alleged 
+violation and the harm to the plaintiff, and (2), more particularly, to 
+the relationship of the injury alleged with those forms of injury 
+about which Congress was likely to have been concerned in making 
+defendant's conduct unlawful and in providing a private remedy 
+under s 4."  McCready, 457 U.S. at 478;  see In re Multidistrict 
+Vehicle Air Pollution M.D.L., 481 F.2d 122, 129 (9th Cir. 1973).  In 
+McCready, the Supreme Court held that health insurance subscrib-
+ers had standing to sue their insurance company for colluding with 
+physicians and psychiatrists to deny them reimbursement for pay-
+
+     D.   Existence of More Appropriate Plaintiff
+          
+     In evaluating standing, courts also consider whether there 
+exists a more directly injured plaintiff to vindicate the public 
+interest.  See Associated Gen. Contractors, 459 U.S. at 544.  
+"Inferiority" to another plaintiff does not necessitate that we 
+deny standing but it is a relevant factor.  See 2 Areeda et al., 
+supra, p 339, at 332.  We are more likely to find no standing 
+if the plaintiff's injury both derives from and is measured by 
+another's more direct injury.  See Adams, 828 F.2d at 30-31 
+(existence of superior plaintiffs--employer airline as well as 
+consumers of transatlantic air transportation--militated 
+against employees' standing).  Additionally, lack of standing 
+is more likely as layers of superior plaintiffs increase.  See 2 
+Areeda et al., supra, p 339, at 332.
+
+     The district court held that "[t]hose most directly affected 
+by [Andrx's] violation would be the consumers faced to pay 
+artificially high prices for Cardizem."  Andrx Pharm., 83 
+F. Supp. 2d at 186.  It reasoned that "[i]f Andrx's activity 
+violates the antitrust laws, it is because it is keeping others 
+out of the market and thereby maintaining artificially high 
+costs for generic drugs."  Id.  But Biovail's alleged injury is 
+not derived from or measured by the injury to consumers;  
+instead it is measured by the loss of profits it would have 
+otherwise made had it not been excluded from the market.  
+See Story Parchment, 282 U.S. at 562-64;  Eastman Kodak 
+Co. v. Southern Photo Co., 273 U.S. 359, 378-79 (1927).  
+
+__________
+ments made to psychologists.  The Court acknowledged that while 
+the psychologists (not the patients) were the targets of the conspir-
+acy, standing "cannot reasonably be restricted to those competitors 
+whom the conspirators hoped to eliminate from the market."  
+McCready, 457 U.S. at 479. It thus affirmed the subscribers' 
+standing.  Applying the same reasoning, we conclude that Biovail's 
+alleged injury is "so integral an aspect" of the alleged anticompeti-
+tive behavior, "there can be no question but that the loss was 
+precisely 'the type of loss that the claimed violations ... would be 
+likely to cause.' "  Id. (quoting Brunswick, 429 U.S. at 489).  When 
+a competitor is excluded from a market by the collusive acts of its 
+rivals, its loss of profits is directly caused by that anticompetitive 
+behavior.
+
+Biovail does not seek damages for profits it would have 
+earned at higher, less competitive prices.  See, e.g., Atlantic 
+Richfield Co. v. USA Petroleum Co., 495 U.S. 328, 337 (1990);  
+Brunswick, 429 U.S. at 487-89.  It seeks damages to compen-
+sate for profits it would have earned by competing in the 
+market.  Irrespective of consumer injury, an excluded com-
+petitor like Biovail suffers a distinct injury if it is prevented 
+from selling its product.  "[A] rival has clear standing to 
+challenge the conduct of rival(s) that is illegal precisely 
+because it tends to exclude competitors from the market."  2 
+Areeda et al., supra, p 348, at 387.  Unlike the "high probabil-
+ity of substantial overlap" the Adams court found between 
+the injury the plaintiffs there alleged (employees' lost jobs 
+and lower wages) and those of more direct victims (company's 
+loss of profits and transatlantic passengers' increased airfare), 
+Biovail's alleged injury is not measured by or derived from 
+consumer plaintiffs.  Adams, 828 F.2d at 30 n.12.  And to the 
+extent Biovail seeks injunctive relief, its standing is plainly 
+not derivative.
+
+     E.   Duplicative Recovery and Complex Apportionment of 
+          Damages
+          
+     In Illinois Brick Co. v. Illinois, 431 U.S. 720 (1977), the 
+Supreme Court held that antitrust suits brought by indirect 
+purchasers increased both the risk of multiple recoveries and 
+the difficulty of apportionment of damages.  The Court ex-
+plained that in addition to adding complexity to the case, 
+apportionment pares the direct purchasers' recovery, thereby 
+diminishing their incentive to bring treble damage actions 
+under section 4 of the Clayton Act.  Id. at 737-47;  see 
+McCready, 457 U.S. at 475 n.11.
+
+     The district court concluded that the existence of both 
+consumer suits and Biovail's own suit against HMRI raised 
+"the potential here for duplicative recoveries and inconsistent 
+holdings."  Id.  As we have explained, however, Biovail's 
+injuries are neither derived from nor measured by injuries 
+consumers may have suffered.  Any injury to consumers 
+would result from paying a supracompetitive price for Cardiz-
+em CD. Biovail's injury, on the other hand, is the result of 
+
+foregone profits, i.e., the difference between the competitive 
+market price it would have charged had it been in the market 
+and its total costs.  See Eastman Kodak, 273 U.S. at 378-79.  
+Moreover, Biovail has settled its suit with HMRI.  See Bio-
+vail Corp. Int'l v. Aktiengesellschaft, Civ. No. 98-1434 (D.N.J. 
+Jan. 31, 2001).20
+
+     F.   Noerr-Pennington Doctrine
+          
+     Having concluded that dismissal with prejudice was errone-
+ously granted, we must consider Andrx's claim that the 
+Agreement is litigation-related conduct exempted from anti-
+trust liability by the Noerr-Pennington doctrine.  The Noerr-
+Pennington doctrine insulates from antitrust challenge com-
+petitors' decision to combine to petition the government, even 
+if their underlying intention is to restrain competition or gain 
+advantage over competitors.  See United Mine Workers of 
+Am. v. Pennington, 381 U.S. 657, 670 (1965);  see also City of 
+Columbia v. Omni Outdoor Adver., Inc., 499 U.S. 365, 379-80 
+(1991) ("The federal antitrust laws also do not regulate the 
+conduct of private individuals in seeking anticompetitive ac-
+tion from the government.").  The doctrine is rooted in First 
+Amendment law and "rests ultimately upon a recognition that 
+the antitrust laws, 'tailored as they are for the business world, 
+are not at all appropriate for application in the political 
+arena.' "  Omni, 499 U.S. at 380 (citation omitted).21
+
+__________
+     20 Moreover, the Federal Trade Commission has withdrawn its 
+complaint against HMRI and Andrx and entered into consent 
+agreements with both manufacturers prospectively barring them 
+from entering into certain anticompetitive agreements and requir-
+ing that future interim settlements of patent litigation be approved 
+by the court with notice to the Commission.  See 66 Fed. Reg. 
+18,636 (proposed consent decree).
+
+     21 The doctrine derives its name from two Supreme Court deci-
+sions.  The first, Eastern Railroad Presidents Conference v. Noerr 
+Motor Freight, Inc., 365 U.S. 127 (1961), held that the antitrust laws 
+do not apply to conduct resulting from valid government actions. 
+The Supreme Court held that attempts by railroads to influence 
+legislation designed to restrict competition from the trucking indus-
+try were exempt from antitrust liability.  The Court remarked, "no 
+
+     In California Motor Transport Co. v. Trucking Unlimited, 
+the Court extended the right to petition all departments of 
+the government, including the "courts, the third branch of 
+Government."  404 U.S. 508, 510 (1972)  ("The right of access 
+to the courts is indeed but one aspect of the right of peti-
+tion.").  Whether conduct falls with "[t]he scope of this pro-
+tection depends, however, on the source, context, and nature 
+of the anticompetitive restraint at issue."  Allied Tube & 
+Conduit Corp. v. Indian Head, Inc., 486 U.S. 492, 499 (1988).  
+If anticompetitive harm is caused by the decision of a court, 
+even though granted at the request of a private party, no 
+private restraint of trade occurs because the intervening 
+government action breaks the causal chain.  See 1 Phillip 
+Areeda & Herbert Hovenkamp, Antitrust Law p 202c, at 159-
+62 (2d ed. 2000).
+
+     Andrx argues that its Agreement should receive the same 
+protection as threatened litigation or an offer of settlement.  
+See, e.g., Coastal States Mktg., Inc. v. Hunt, 694 F.2d 1358, 
+1367 (5th Cir. 1983) (extending doctrine to cover activities not 
+necessarily part of petitioning process, but reasonably inci-
+dent or normally attendant to it, e.g., genuine litigation 
+threat);  McGuire Oil Co. v. Mapco, Inc., 958 F.2d 1552, 1560 
+(11th Cir. 1992) (same).22  We disagree.  Although certain 
+
+__________
+violation of the [Sherman] Act can be predicated upon mere at-
+tempts to influence the passage or enforcement of laws."  Id. at 
+135.  The Court came to the same conclusion in Pennington, 381 
+U.S. 657 (1965).  There, mine operators and workers petitioned the 
+Executive Branch to induce the Tennessee Valley Authority to 
+curtail spot market purchases and to increase minimum wages.  
+The Court explained that "[j]oint efforts to influence public officials 
+do not violate the antitrust laws even though intended to eliminate 
+competition.  Such conduct is not illegal, either standing alone or as 
+a part of a broader scheme itself violative of the Sherman Act."  Id. 
+at 670.
+
+     22 See also 1 Areeda & Hovenkamp, supra, p 205e, at 238 ("Most 
+lawsuits are prefaced by various communications, such as demand 
+letters that expressly or impliedly threaten suit unless the address-
+ee alters its conduct or provides other relief.  Such prelitigation 
+communications provide useful notice and facilitate the resolution of 
+
+litigation conduct is protected under the doctrine, it does not 
+extend to the HMRI-Andrx Agreement.  See California Mo-
+tor Transp., 404 U.S. at 512-13 (examples of unprotected 
+litigation conduct include perjury by witnesses and fraudu-
+lently obtained patent);  cf. Omni, 499 U.S. at 380 ("sham" 
+petitioning such as filing frivolous objections to license appli-
+cation of a competitor to impose expense and delay not 
+protected).  In In re Cardizem CD Antitrust Litigation, 105 
+F. Supp. 2d 618, the district court found the alleged anticom-
+petitive harm stemming from the Agreement separate from 
+any anticompetitive effects that may have resulted from 
+resolution of the HMRI patent infringement suit.  The harm, 
+the court declared, was not the result of a court decision.  
+"Rather, it is the result of purely private conduct and thus 
+constitutes a private restraint of trade subject to liability 
+under the antitrust laws."  Id. at 635;  see also In re Brand 
+Name Prescription Drugs Antitrust Litig., 186 F.3d 781, 789 
+(7th Cir. 1999) ("[T]he doctrine does not authorize anticom-
+petitive action in advance of government's adopting the in-
+dustry's anticompetitive proposal.  The doctrine applies when 
+such action is the consequence of legislation or other govern-
+mental action, not when it is the means for obtaining such 
+action (or in this case inaction)." (emphasis original)).  The 
+Agreement is not unlike a final, private settlement agreement 
+resolving the patent infringement litigation by substituting a 
+market allocation agreement. Such a settlement agreement 
+would not enjoy Noerr-Pennington immunity and neither 
+does the Agreement here.
+
+                          IV. Conclusion
+
+     In sum, although the district court correctly dismissed 
+Biovail's antitrust counterclaim for failure to sufficiently al-
+lege injury caused by the HMRI-Andrx Agreement, it should 
+have granted the dismissal without prejudice to allow Biovail 
+the opportunity to replead.  Accordingly, appeal No. 00-5050 
+
+__________
+controversies.  It would be foolish to adopt antitrust rules encour-
+aging suit before communication by penalizing the communication 
+but not the suit.").
+
+is remanded to the district court for proceedings not inconsis-
+tent with this opinion.  In light of our holding, we dismiss as 
+moot appeal No. 00-5396.
+
+                                                            So ordered.
+
+                                                                          

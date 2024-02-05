@@ -1,0 +1,702 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 12, 2002     Decided July 16, 2002 
+
+                           No. 01-1085
+
+               United States Telecom Association, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                     State of Iowa, et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     William F. Maher Jr. argued the cause for petitioner.  
+With him on the briefs were Lawrence E. Sarjeant, Linda 
+Kent, John W. Hunter, Julie E. Rones, and Stephen Good-
+man.
+
+     James M. Carr, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  With him on the 
+briefs were John A. Rogovin, Deputy General Counsel, and 
+John E. Ingle, Deputy Associate General Counsel.
+
+     Michael D. Hays argued the cause for intervenors State of 
+Iowa and Iowa Telecommunications and Technology Commis-
+sion.  With him on the briefs were J.G. Harrington and 
+Kenneth D. Salomon.
+
+     Before:  Ginsburg, Chief Judge, Rogers and Garland, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  The United States Telecom Asso-
+ciation (USTA) challenges a Federal Communications Com-
+mission (FCC) order finding that the Iowa Communications 
+Network (ICN) is a common carrier.  The order makes ICN 
+eligible to receive federal subsidies for providing discounted 
+telecommunications services under the Telecommunications 
+Act of 1996, 47 U.S.C. s 254(h)(1).  We first consider whether 
+USTA has standing to bring this suit, and then whether the 
+FCC reasonably classified ICN as a common carrier.  We 
+answer both questions in the affirmative and uphold the 
+FCC's order.
+
+                                I
+
+     ICN was established by the Iowa legislature to provide 
+subsidized high-speed telecommunications services through-
+out Iowa, especially in areas inadequately covered by local 
+exchange carriers.  The governing statute bars ICN from 
+offering services to individuals and to most private busi-
+nesses.  Iowa Code s 8D.11(2) (2001).  Instead, ICN's cus-
+tomers are "public and private agencies."  Under the statute, 
+"public agency" means:  "a state agency, an institution under 
+the control of the board of regents, the judicial branch ..., a 
+school corporation, a city library, a regional library ..., a 
+county library ...[,] a judicial district department of correc-
+tional services ..., an agency of the federal government, or a 
+United States post office which receives a federal grant for 
+
+pilot and demonstration projects."  Id. s 8D.2(5).  A "private 
+agency" is:  "an accredited nonpublic school, a nonprofit insti-
+tution of higher education eligible for tuition grants, or a 
+[licensed] hospital ... or a physician clinic [for specified 
+services]."  Id. s 8D.2(4).1
+
+     Section 254(h)(1) of the Telecommunications Act of 1996 
+requires a "telecommunications carrier" to provide services at 
+discounted rates to schools, libraries, and rural health care 
+providers.  47 U.S.C. s 254(h)(1).  Such a carrier is entitled 
+to receive from the FCC, in an amount equal to the aggregate 
+discount it gives to those entities, either a reimbursement or 
+an offset against the carrier's obligation to participate in or 
+contribute to the universal service fund.  Id.  The Act defines 
+a "telecommunications carrier" as "any provider of telecom-
+munications services," id. s 153(44), and defines "telecommu-
+nications service" as "the offering of telecommunications for a 
+fee directly to the public, or to such classes of users as to be 
+effectively available directly to the public, regardless of the 
+facilities used," id. s 153(46).
+
+     In 1998, ICN petitioned the FCC for a declaration that it 
+qualifies as a "telecommunications carrier" under the Act, and 
+hence is eligible to receive direct reimbursement for provid-
+ing services at discounted rates.  In 1999, citing its decision 
+in an earlier case, the Commission held that the term "tele-
+communications carrier" includes only carriers that offer tele-
+communications on a "common carrier" basis.  Federal-State 
+
+__________
+     1 Iowa law divides "public and private agencies" into two further 
+subcategories:  "certifying users," which are higher education insti-
+tutions, area education agencies, and certain post offices;  and 
+"preauthorized users," which are all other public and private agen-
+cies.  Certifying users must obtain specific legislative authorization 
+to connect to the network unless they certified their intention to 
+connect by July 1, 1994, and must take all of their telecommunica-
+tions services from ICN unless they obtain a statutory waiver.  
+Preauthorized users may choose whether to connect to ICN and 
+which services to take from it.  See id. s 8D.9;  Iowa Admin. Code 
+s 751-7.1(8D) (2001).  ICN will serve any qualifying user that 
+requests service.  See Iowa v. FCC, 218 F.3d 756, 757-58 (D.C. Cir. 
+2000).
+
+Joint Bd. on Universal Serv., Declaratory Ruling, 14 
+F.C.C.R. 3040, 3040 (1999) [hereinafter 1999 Declaratory 
+Ruling] (citing Federal-State Joint Bd. on Universal Serv., 
+Report & Order, 12 F.C.C.R. 8776, 9177-78 (1997)).  To 
+define "common carrier," the FCC turned to the two-pronged 
+test it had previously applied under the Communications Act 
+of 1934, 47 U.S.C. ss 151 et seq., a test derived from the 
+common law as interpreted in this circuit's case law.  Under 
+that test, common carrier status turns on:
+
+     (1) whether the carrier "holds himself out to serve indif-
+     ferently all potential users";  and (2) whether the carrier 
+     allows "customers to transmit intelligence of their own 
+     design and choosing."2
+     
+The FCC ruled that ICN fails to satisfy the first prong 
+because the network does not hold itself out to serve all 
+potential users, but rather is limited by Iowa law to a select 
+clientele.  1999 Declaratory Ruling, 14 F.C.C.R. at 3050-51.3  
+The Commission did not reach the second prong of the test.
+
+__________
+     2 1999 Declaratory Ruling, 14 F.C.C.R. at 3050 (quoting South-
+western Bell Tel. Co. v. FCC, 19 F.3d 1475, 1480 (D.C. Cir. 1994), 
+and citing National Ass'n of Regulatory Util. Comm'rs v. FCC, 525 
+F.2d 630, 640-41 (D.C. Cir. 1976) ("NARUC I"), and National Ass'n 
+of Regulatory Util. Comm'rs v. FCC, 533 F.2d 601, 608-09 (D.C. 
+Cir. 1976) ("NARUC II"));  see Federal-State Joint Bd. on Univer-
+sal Serv., Order on Remand, 16 F.C.C.R. 571, 573, 576 (2000) 
+(noting common-law origins of test).
+
+     3 The FCC also held that ICN further fails the first prong 
+because it does not hold itself out to serve even that select group 
+"indifferently," but instead treats each of the subcategories of ICN 
+users according to different terms fixed by the legislature.  1999 
+Declaratory Ruling, 14 F.C.C.R. at 3051;  see supra note 1 (describ-
+ing subcategories).  In light of the FCC's subsequent characteriza-
+tion of this holding on appeal, we concluded in Iowa v. FCC, 218 
+F.3d 756 (D.C. Cir. 2000), that it was not an independent basis for 
+denying ICN common carrier status.  Rather, it was equivalent to 
+the FCC's holding that offering "service only to the class of users 
+authorized by law to receive it is inconsistent with being a common 
+carrier."  Id. at 760.  On remand, the FCC reversed itself and 
+found "persuasive ICN's position that while its enabling statute may 
+
+     In Iowa v. FCC, 218 F.3d 756 (D.C. Cir. 2000), this court 
+granted Iowa's petition for review and remanded the case to 
+the Commission for further consideration.  We held that the 
+FCC had failed to consider Iowa's argument that ICN quali-
+fies as a common carrier, even though its user base is legally 
+restricted, because it offers service to all users that it is 
+authorized by law to serve.  See id. at 757.  We pointed out 
+that two cases that had considered the meaning of "common 
+carrier" under the Communications Act of 1934--FCC v. 
+Midwest Video Corp., 440 U.S. 689 (1979), and National 
+Ass'n of Regulatory Util. Comm'rs v. FCC, 525 F.2d 630 
+(D.C. Cir. 1976) ("NARUC I")--"can be read as approving 
+the general rule that a carrier offering its services only to a 
+legally defined class of users may still be a common carrier if 
+it holds itself out indiscriminately to serve all within that 
+class."  Iowa, 218 F.3d at 759.  Although we made clear that 
+we were "not suggesting that Midwest Video or NARUC ... 
+require[s] a decision in Iowa's favor," we held that "the 
+Commission's failure to address Iowa's argument requires 
+that we remand this matter for the Commission's further 
+consideration."  Id.
+
+     On remand, the FCC reversed its 1999 ruling.  The Com-
+mission held that ICN is a common carrier, and hence a 
+telecommunications carrier for purposes of s 254(h)(1).  In so 
+holding, the Commission concluded that "a carrier offering its 
+services only to a legally defined class of users may still be a 
+common carrier if it holds itself out indiscriminately to serve 
+all within that class."  Federal-State Joint Bd. on Universal 
+Serv., Order on Remand, 16 F.C.C.R. 571, 573 (2000) [herein-
+after 2000 Order].  Finding that ICN does not discriminate 
+among entities within its legally defined user classes, the 
+FCC held that ICN passes the first prong of the common 
+carrier test.  See id. at 574-75.  It also found ICN to satisfy 
+
+__________
+discriminate among various classes of users, it does not allow ICN 
+to discriminate among entities within each class of users."  Federal-
+State Joint Bd. on Universal Serv., Order on Remand, 16 F.C.C.R. 
+571, 574 (2000).  The FCC thus held that ICN does treat its 
+authorized users "indifferently," id. at 575, and USTA has not 
+appealed that ruling.
+
+the second prong, because it "allows customers to transmit 
+intelligence of their own design and choosing."  Id. at 575.  
+The Commission therefore declared ICN "eligible to receive 
+direct reimbursement for discounted telecommunications ser-
+vices provided to schools and libraries."  Id. at 577.
+
+     USTA petitions for review of the Commission's order, 
+contending that ICN fails both prongs of the common carrier 
+test.  We discuss those contentions in Part III below.  In 
+Part II, we first consider whether USTA has standing to 
+bring this case.
+
+                                II
+
+     USTA is a trade association representing local exchange 
+carriers.  Its members provide voice, data, and video services 
+over wireline and wireless networks throughout the United 
+States.  Although the initial briefs of the FCC and intervenor 
+State of Iowa did not dispute USTA's standing, we have an 
+independent obligation to assure ourselves that the petitioner 
+has constitutional standing to bring this challenge to the 
+FCC's decision.  See Steel Co. v. Citizens for a Better Env't, 
+523 U.S. 83, 94-95 (1998);  Liquid Carbonic Indus. Corp. v. 
+FERC, 29 F.3d 697, 701 (D.C. Cir. 1994).  Accordingly, we 
+directed the parties to submit supplemental briefs on the 
+issue, and, at oral argument, gave USTA a further opportuni-
+ty to submit affidavits in support of its position.  Thereafter, 
+USTA submitted three affidavits, two from individual USTA 
+members and one from the association itself.  We have 
+reviewed those affidavits and are satisfied that USTA has 
+made the requisite showing.
+
+     As a trade association, USTA has standing to sue on behalf 
+of its members if "its members would otherwise have stand-
+ing to sue in their own right, the interests it seeks to protect 
+are germane to the organization's purpose, and neither the 
+claim asserted nor the relief requested requires the partic-
+ipation of individual members in the lawsuit."  Fund Democ-
+racy, LLC v. SEC, 278 F.3d 21, 25 (D.C. Cir. 2002) (citing 
+Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), 
+Inc., 528 U.S. 167, 181 (2000)).  There is no question that 
+
+USTA satisfies the latter two conditions;  the only question is 
+whether USTA members meet the constitutional require-
+ments for suit in their own right.  Those "irreducible consti-
+tutional minimum" requirements are:
+
+     (1) that the plaintiff have suffered an "injury in fact"--
+     an invasion of a judicially cognizable interest which is (a) 
+     concrete and particularized and (b) actual or imminent, 
+     not conjectural or hypothetical;  (2) that there be a causal 
+     connection between the injury and the conduct com-
+     plained of--the injury must be fairly traceable to the 
+     challenged action of the defendant, and not the result of 
+     the independent action of some third party not before the 
+     court;  and (3) that it be likely, as opposed to merely 
+     speculative, that the injury will be redressed by a favor-
+     able decision.
+     
+Bennett v. Spear, 520 U.S. 154, 167 (1997).
+
+     USTA contends that the FCC's order injures its members 
+by making ICN eligible for a subsidy that permits it to offer 
+lower prices for the same telecommunications services.4  We 
+have repeatedly recognized that parties "suffer constitutional 
+injury in fact when agencies ... allow increased competition" 
+against them.  Louisiana Energy & Power Auth. v. FERC, 
+141 F.3d 364, 367 (D.C. Cir. 1998);  see, e.g., Wabash Valley 
+Power Ass'n v. FERC, 268 F.3d 1005, 1113 (D.C. Cir. 2001);  
+MD Pharm., Inc. v. Drug Enforcement Admin., 133 F.3d 8, 
+11 (D.C. Cir. 1998).  And we have likewise recognized that 
+regulatory decisions that permit subsidization of some partici-
+pants in a market can have the requisite injurious impact on 
+those participants' competitors.  See Exxon Co., U.S.A. v. 
+FERC, 182 F.3d 30, 43 (D.C. Cir. 1999);  Liquid Carbonic, 29 
+F.3d at 701.
+
+__________
+     4 USTA also maintains that its members suffer injury because, if 
+ICN is improperly reimbursed for providing discounted telecommu-
+nications, insufficient universal service funds will be left to reim-
+burse USTA members.  Because we find that USTA's "competitive 
+injury" theory satisfies the requirements of standing, we do not 
+address this alternative theory.
+
+     Nor is the injury to USTA's members "conjectural or 
+hypothetical."  The affidavit of one of USTA's members, an 
+independent local exchange carrier, avers that the member 
+has tried to sell its services to a school that currently takes 
+similar services from ICN, but has been unsuccessful because 
+ICN's subsidy enables it to charge substantially lower rates.  
+Whipple Aff. pp 5-6.  The affidavit of another USTA member 
+states that it lost a customer to ICN because the subsidy 
+enabled ICN to charge lower rates for similar services.  
+Kilburg Aff. pp 5, 7.  And an affidavit from USTA, summariz-
+ing information it gathered from a survey of its members, 
+avers that other members have had like experiences--either 
+losing business to ICN or being unable to compete for new 
+customers because of ICN's subsidy.  Flerl Aff. pp 4-5.
+
+     These affidavits show that USTA's members are ready, 
+willing, and able to compete with ICN in providing telecom-
+munications to schools and libraries, and that ICN's subsidy 
+prevents them from doing so on an equal basis.  That show-
+ing is sufficient to establish that the association's members 
+have suffered cognizable injury in fact.  See Dynatlantic 
+Corp. v. Department of Defense, 115 F.3d 1012, 1016 (D.C. 
+Cir. 1997).  And it is also sufficient to satisfy the remaining 
+two requirements of constitutional standing:  The competitive 
+injury suffered by USTA's members is fairly traceable to the 
+FCC's decision to render ICN eligible for the subsidy, and 
+that injury would likely be redressed by a favorable decision 
+of this court vacating the FCC's order.  See High Plains 
+Wireless, L.P. v. FCC, 276 F.3d 599, 605 (D.C. Cir. 2002);  
+Exxon, 182 F.3d at 43;  Liquid Carbonic, 29 F.3d at 701.  We 
+therefore conclude that USTA has constitutional standing to 
+seek judicial review of the order on behalf of its members.
+
+                               III
+
+     USTA contends that ICN cannot satisfy either prong of the 
+common carrier test, and that the FCC therefore erred in 
+finding ICN eligible for reimbursement from universal ser-
+vice funds.  The association also argues that the FCC's order 
+is not entitled to a deferential standard of review because it 
+
+rests on an interpretation of this circuit's Iowa, NARUC, and 
+other decisions, rather than on an interpretation of a statute.  
+We disagree, and conclude that we must review the agency's 
+order with deference.
+
+     At bottom, the FCC's order rests not on judicial precedent 
+but on its interpretation of the term "telecommunications 
+carrier" in the Telecommunications Act of 1996.  The Com-
+mission interprets the term as the equivalent of "common 
+carrier" under the Communications Act of 1934, a term which 
+was itself previously defined by a two-pronged test derived 
+from the common law as construed by this circuit.  USTA 
+does not dispute the FCC's decision to interpret "telecommu-
+nications carrier" as "common carrier," or its decision to 
+define the latter through the two-pronged test.  Indeed, we 
+have previously upheld the FCC's approach as a reasonable 
+construction of an ambiguous statutory term.  See Iowa, 218 
+F.3d at 757 (citing Chevron, U.S.A., Inc. v. Natural Res. Def. 
+Council, Inc., 467 U.S. 837 (1984));  Virgin Islands Tel. Corp. 
+v. FCC, 198 F.3d 921, 922, 925-26 (D.C. Cir. 1999).
+
+     In deciding that ICN satisfies the requirements of the 
+common carrier test, the FCC further elaborated upon the 
+meaning of "common carrier," and then applied its version of 
+the two-pronged test to the facts of ICN's situation.  Where a 
+statute is "ambiguous with respect to [a] specific issue," the 
+only question for this court is whether the agency's interpre-
+tation "is based on a permissible construction of the statute."  
+Chevron, 467 U.S. at 843.  We also defer to an agency's 
+reasonable interpretation of its own rules and precedents.  
+See Global Crossing Telecomms., Inc. v. FCC, 259 F.3d 740, 
+746 (D.C. Cir. 2001);  Cassell v. FCC, 154 F.3d 478, 484 (D.C. 
+Cir. 1998).  And we give deference as well to an agency's 
+application of its statutory and administrative interpretations 
+to specific circumstances--asking only whether such applica-
+tions are "arbitrary, capricious, an abuse of discretion, or 
+otherwise not in accordance with law."  5 U.S.C. s 706(2)(A);  
+see Global Crossing, 259 F.3d at 747;  Cassell, 154 F.3d at 483 
+n.4;  Huls America Inc. v. Browner, 83 F.3d 445, 452 (D.C. 
+Cir. 1996).  Finally, where an agency has adopted a judicial 
+test as its own, we likewise review its application of that test 
+
+only to determine whether it is unreasonable or arbitrary and 
+capricious.  See Independent Petroleum Ass'n of Am. v. 
+Babbitt, 92 F.3d 1248, 1257-58 (D.C. Cir. 1996) (noting con-
+vergence of Chevron and arbitrary and capricious review 
+where agency adopts court decision as its rule).
+
+     In the following sections, we apply this deferential standard 
+of review to the two challenges that USTA levels against the 
+FCC's order.
+
+                                A
+
+     USTA's first contention is that, because Iowa law greatly 
+restricts the universe of the network's authorized users, ICN 
+fails to satisfy the first prong of the common carrier test:  
+that the carrier hold itself out to serve indifferently "all 
+potential users."  1999 Declaratory Ruling, 14 F.C.C.R. at 
+3050.  USTA argues that, under our opinion in NARUC I, a 
+carrier cannot satisfy this prong unless it holds itself out to 
+"the public."  See NARUC I, 525 F.2d at 640.  And ICN's 
+"class of legally authorized users," USTA maintains, "is not 
+broad enough to be considered a portion of 'the public.' "  
+Pet'r Br. at 11.
+
+     In response to this argument below, the FCC determined 
+that "legal restrictions on eligibility to use a carrier's services 
+do not necessarily preclude common carrier status," and that 
+this proposition is consistent with NARUC I.  2000 Order, 16 
+F.C.C.R. at 573.  We agree.  As we said in Iowa, our decision 
+in NARUC I "can be read as approving the general rule that 
+a carrier offering its services only to a legally defined class of 
+users may still be a common carrier if it holds itself out 
+indiscriminately to serve all within that class."  Iowa, 218 
+F.3d at 759.
+
+     In NARUC I, this court held that mobile radio operators 
+known as Specialized Mobile Radio Systems (SMRS) were not 
+foreclosed from common carrier status--even though "SMRS 
+offer a service that may be of practical use to only a fraction 
+of the population," and even though an FCC order "limit[ed] 
+possible subscribers to SMRS services to eligibles" under 
+three specific sections of the FCC's regulations.  NARUC I, 
+
+525 F.2d at 642 (emphasis added).  "The key factor," we said, 
+"is that the operator offer indiscriminate service to whatever 
+public its service may legally and practically be of use."  Id. 
+(emphasis added).5  As the FCC noted, this passage from 
+NARUC I "directly supports" its conclusion in the instant 
+case.  2000 Order, 16 F.C.C.R. at 573.
+
+     USTA counters, however, that the list of authorized ICN 
+users is so much more restricted than was the list of SMRS 
+eligibles that ICN's list "cannot be considered the public" and 
+ICN cannot qualify as a common carrier.  Pet'r Br. at 11.  
+We do not agree.  Authorized ICN users include state agen-
+cies, institutions under the control of the board of regents, the 
+judicial branch, schools, libraries, departments of correctional 
+services, federal agencies, certain post offices, certain non-
+profit institutions of higher education, licensed hospitals, and 
+physician clinics (for some purposes).  See Iowa Code 
+s 8D.2(4)-(5).  Together, these amount to at least 500 dis-
+crete entities.  See 2000 Order, 16 F.C.C.R. at 574.  More-
+over, the network's end-users are all those who can access 
+ICN at authorized facilities--a group that includes students, 
+library patrons, and state and federal employees, and that 
+potentially extends to all Iowans.  See Iowa Admin. Code 
+s 751-7.5(8D).
+
+     Like the list of authorized ICN users, the list of eligible 
+SMRS subscribers in NARUC I was legally circumscribed.  
+The FCC limited SMRS subscribers to "eligibles under Sec-
+tions 89, 91 and 93 of the Regulations."  NARUC I, 525 F.3d 
+at 642.  Those included local governments, police and fire 
+departments, motor carriers, taxicab companies, and other 
+specified commercial and noncommercial entities in need (pri-
+marily) of dispatch services.  See id. at 634, 639, 642-43.6  
+
+__________
+     5 In NARUC I, we eventually upheld the FCC's determination 
+that it could treat SMRS as non-common carriers because there was 
+no evidence that they would indifferently serve all eligible custom-
+ers.  See id. at 643-44.
+
+     6 Parts 89, 91, and 93 of the FCC's regulations listed specific 
+types of eligible subscribers for three categories of private radio 
+service:  "Public Safety," "Industrial," and "Land Transportation."  
+
+Although we do not have enough information to count the 
+number of eligible SMRS subscribers, the SMRS list is not 
+any more readily characterizable as "the public" than is the 
+list of those eligible to use ICN.  See NARUC I, 525 F.2d at 
+634 (characterizing class of eligible SMRS subscribers as "a 
+limited group of users").  In any event, it is certainly not 
+arbitrary for the FCC to regard the two situations as compa-
+rable.
+
+     USTA also argues that ICN cannot qualify as a common 
+carrier because Iowa bars the network's use for "profit-
+making venture[s]."  Iowa Admin. Code s 751-14.1(8D)(1)(a).  
+NARUC I, however, does not impose a for-profit requirement 
+on common carriers.  Instead, USTA points to "this Court's 
+guidance in NARUC II," Pet'r Br. at 15, an opinion stating 
+that price discrimination by cable system operators in favor of 
+noncommercial users did not necessarily preclude those oper-
+ators from common carrier status--"at least if not carried to 
+the point of excluding all commercial users."  National Ass'n 
+of Regulatory Util. Comm'rs v. FCC, 533 F.2d 601, 609 (D.C. 
+Cir. 1976) ("NARUC II").  USTA's argument rests solely on 
+the quoted phrase, and puts more weight on that phrase than 
+either its words or the NARUC II opinion as a whole can 
+bear.
+
+     First, the quoted phrase concerned the operators' voluntary 
+decision to engage in price discrimination;  NARUC II was 
+not a case in which either discrimination or exclusion was 
+mandated by law.  Second, the phrase served at most as 
+dictum in the opinion, since NARUC II was also not a case in 
+which price discrimination effectively excluded all commercial 
+users.  Finally, the portion of NARUC II cited by the 
+petitioner is not the opinion of "this Court," but rather the 
+opinion of Judge Wilkey alone.7  Although we have subse-
+__________
+
+See, e.g., 47 C.F.R. s 89.251 (1975) (local government);  id. s 89.301 
+(police);  id. ss 89.501-89.519 (special emergency users);  id. 
+s 89.551 (state guards);  id. s 91.301 (petroleum radio service);  id. 
+s 91.351 (forest products radio service);  id. s 93.251 (motor carri-
+ers);  id. s 93.351 (railroads);  id. s 93.506 (contract road service 
+vehicles);  id. s 98.401 (taxicabs).
+
+     7 See NARUC II, 533 F.3d at 621 (Lumbard, J., concurring) 
+(deeming it "unnecessary to reach" common carriage question);  id. 
+
+quently approved some of the views expressed by Judge 
+Wilkey in NARUC II, see Southwestern Bell Tel. Co. v. FCC, 
+19 F.3d 1475, 1480 (D.C. Cir. 1994), we have never held that a 
+carrier is barred from common carrier status unless it is 
+authorized to serve commercial users.  Indeed, given 
+NARUC I's declaration that the key factor in determining 
+common carriage is whether the carrier offers "indiscriminate 
+service to whatever public its service may legally and prac-
+tically be of use," 525 F.2d at 642 (emphasis added), we have 
+no warrant for concluding that the exclusion of commercial 
+users from ICN's network compels the Commission to dis-
+qualify it as a common carrier.
+
+     USTA further purports to discern significant inconsisten-
+cies between the FCC's order and the Supreme Court's 
+decision in FCC v. Midwest Video Corp., 440 U.S. 689 (1979).  
+Succeeding on that argument, however, is an uphill struggle 
+in light of our statement in Iowa that Midwest Video, like 
+NARUC I, "can be read as approving the general rule that a 
+carrier offering its services only to a legally defined class of 
+users may still be a common carrier."  218 F.3d at 759.  
+Nonetheless, USTA contends that Midwest Video supports its 
+claim that ICN fails the first prong of the common carrier 
+test because ICN's class of authorized users both is too small 
+and excludes profit-making ventures.
+
+     Midwest Video, however, said nothing about either of these 
+issues.  Indeed, to the extent the case is relevant at all, it is 
+by implication only and in that respect supports the FCC.  In 
+Midwest Video, the Supreme Court considered FCC regula-
+tions requiring cable television systems to allocate channels 
+for educational, government, public, and leased access users.  
+The regulations mandated that the public and leased access 
+channels be open to all users, but that the educational channel 
+be dedicated to "local educational authorities" and the govern-
+ment channel be dedicated to "local government."  47 C.F.R. 
+s 76.254(a)(2), (3) (1977).  The Supreme Court held that the 
+access rules effectively "relegated cable systems, pro tanto, to 
+
+__________
+at 634 (Skelly Wright, J., dissenting) (accepting only "arguendo" 
+that cable operators were common carriers).
+
+common-carrier status"--an action the Court held to be be-
+yond the authority of the Commission.  440 U.S. at 700-01;  
+see id. at 708-09.
+
+     On its face, Midwest Video is substantially more helpful to 
+the FCC than to USTA.  As we noted in Iowa, the Midwest 
+Video Court found that the FCC's regulations had effectively 
+transformed the cable systems into common carriers, notwith-
+standing that "use of the educational and government access 
+channels was limited respectively to 'local educational authori-
+ties' and the 'local government' " and that a "private organiza-
+tion could not air an educational program on the educational 
+access channel because it would not come within the class of 
+users authorized by law."  218 F.3d at 758.  Thus, like the 
+Iowa Code, the FCC regulations at issue in Midwest Video 
+narrowly defined the class of authorized users for each chan-
+nel and barred profit-making enterprises from using the 
+government and educational channels.  Undaunted by these 
+similarities, USTA contends that the Supreme Court did not 
+analyze the regulations on a channel-by-channel basis, but 
+instead considered them as a unit that included not only the 
+nonprofit channels but also the public and leased access 
+channels that were available to the general public.  Nothing 
+in the Midwest Video opinion, however, suggests that the 
+Court relied on the existence of the public channels to reach 
+its conclusion about common carriage.  Instead, the Court 
+focused on the fact that the regulations required the cable 
+systems to offer use of the allocated channels to all who 
+qualified for them on a nondiscriminatory basis, and deprived 
+the systems of the power to select individual users or to 
+control the programming of those who qualified.  See Mid-
+west Video, 440 U.S. at 699-702.  Accordingly, nothing in 
+Midwest Video supports USTA's claim that the list of ICN 
+users is too narrowly delineated for the network to qualify as 
+a common carrier.
+
+     Finally, USTA argues that to affirm the FCC's decision 
+here would be to accept that a carrier may be designated as 
+"common" even if it has only a single authorized user.  That 
+is hardly the case, and it is certainly not this case.  Regard-
+less of whether the FCC could label a single-user network as 
+
+a common carrier without being arbitrary and capricious, the 
+Commission's determination that ICN--with its far broader 
+customer base--qualifies as a common carrier constitutes a 
+reasonable application of the test the Commission has 
+adopted to define that term.
+
+                                B
+
+     USTA's second contention is that ICN cannot satisfy the 
+second prong of the common carrier test because it does not 
+allow customers to "transmit intelligence of their own design 
+and choosing."  1999 Declaratory Ruling, 14 F.C.C.R. at 3050.  
+This prong of the test is intended to confine common carrier 
+status to operators that do not regulate the content of their 
+customers' communications.  Although USTA concedes that 
+"ICN does not specify the individual words or messages sent 
+over the network," Pet'r Br. at 17, it argues that Iowa 
+nonetheless restricts users' communications because its regu-
+lations require them to adopt policies acknowledging that:  (1) 
+"[t]he use of the network must be consistent with the written 
+mission of the authorized user," and (2) "[t]he network ... 
+cannot be used for a profit-making venture."  Iowa Admin. 
+Code s 751-14.1(8D)(1)(b), (a).
+
+     The FCC rejected this argument in its order, concluding 
+that these restrictions are "intended to acknowledge the 
+statutorily-prescribed customer base, rather than to limit the 
+'intelligence' [customers] may transmit over the network."  
+2000 Order, 16 F.C.C.R. at 575.  "The effect of this limita-
+tion," the FCC continued, is merely "to restrict the use of the 
+ICN to the primary purpose for which the network exists."  
+Id. at 575-76.  The Commission accepted ICN's representa-
+tions that it does not police the content that a user transmits, 
+and instead places the responsibility on the user to determine 
+whether its use of the network is consistent with its written 
+mission statement.  See id. at 576.  The FCC further noted 
+that "ICN states, and no party disputes, that it has never 
+denied or cut off service on the basis of an acceptable use 
+issue."  Id. (internal quotation marks omitted).
+
+     These considerations persuade us that the FCC reasonably 
+concluded that ICN meets the second prong of the common 
+carrier test.  As we held in Part III.A, Iowa's limitation of 
+ICN's services to specified categories of eligible users is 
+consistent with the network's status as a common carrier.  A 
+requirement that users adhere to the missions that make 
+them statutorily eligible is therefore also consistent, as it 
+represents nothing more than a method of enforcing that 
+limitation.  Indeed, in NARUC I we held that SMRS' com-
+mon carrier status was not precluded by the fact that the 
+governing regulations "require that SMRS applicants certify 
+that they will not provide service to ineligibles."  525 F.2d at 
+642.  Similarly, the requirement that users adopt policies 
+stating that ICN "cannot be used for a profit-making ven-
+ture" represents nothing more than an acknowledgment that 
+use of the network is limited to nonprofits, a limitation that 
+we also upheld in Part III.A.  Moreover, beyond the implicit 
+condition that a user's mission be one that qualifies for 
+network eligibility, ICN places no limits on the scope of a 
+user's written mission statement and no restrictions on a 
+user's ability to change its mission statement.
+
+     USTA once again turns to Midwest Video for support in its 
+attack on the FCC's order, but again that case offers only 
+further support for the Commission's decision.  USTA points 
+out that, when the Supreme Court ruled that the cable access 
+regulations imposed common carrier obligations on cable 
+operators, it stated that "[o]perators are prohibited from 
+determining or influencing the content of access program-
+ming"--a prohibition USTA claims is breached by the Iowa 
+regulations recounted above.  Midwest Video, 440 U.S. at 
+702.  But the Court's statement was made in a context that 
+demonstrates that it did not regard the restriction of users to 
+their authorized missions as the kind of content control that 
+precludes common carrier status.  As we have already noted, 
+under the regulations at issue in Midwest Video, "use of the 
+educational and government access channels was limited re-
+spectively to 'local educational authorities' and the 'local 
+government,' " and a "private organization could not air an 
+educational program on the educational access channel be-
+
+cause it would not come within the class of users authorized 
+by law."  Iowa, 218 F.3d at 758.  Moreover, Midwest Video's 
+more complete description of the prohibition on content con-
+trol in that case makes it plain that the Court did not regard 
+the exclusion of commercial content as inconsistent with 
+common carriage:  "System operators," the Court said, "are 
+specifically enjoined from exercising any control over the 
+content of access programming except that they must adopt 
+rules proscribing the transmission on most access channels 
+of ... commercial matter."  440 U.S. at 693 (emphasis add-
+ed).
+
+     In sum, we find that the FCC reasonably concluded that 
+ICN does permit its customers to "transmit intelligence of 
+their own design and choosing."  As the FCC held, the 
+regulations highlighted by USTA do not control the content 
+of communications, but rather merely "acknowledge the stat-
+utorily-prescribed customer base."  2000 Order, 16 F.C.C.R. 
+at 575.
+
+                                IV
+
+     In ruling that ICN is a "telecommunications carrier" eligi-
+ble for subsidies under s 254(h)(1), the FCC reasonably 
+interpreted the language of its governing statute, and reason-
+ably construed and applied the test it had previously adopted 
+to give meaning to that language.  Accordingly, USTA's 
+petition for review is
+
+                                                             Denied.
+
+                                         

@@ -1,0 +1,649 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 11, 2000   Decided November 14, 2000 
+
+                           No. 99-5146
+
+                       Leon Sloan, Sr. and 
+                        Jimmie Lee Furby, 
+                            Appellants
+
+                                v.
+
+       Department of Housing & Urban Development, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 97cv00764)
+
+     James K. Kearney and Joseph L. Luciana, III argued the 
+cause for appellants.  With them on the briefs were James P. 
+Gallatin, Jr., David T. Case, and A. Thomas Morris.
+
+     Scott S. Harris, Assistant United States Attorney, argued 
+the cause for appellees.  With him on the brief were Wilma 
+
+A. Lewis, United States Attorney, and R. Craig Lawrence, 
+Assistant United States Attorney.
+
+     Before:  Edwards, Chief Judge, Henderson and Garland, 
+Circuit Judges.
+
+     Opinion for the Court filed by Chief Judge Edwards.
+
+     Edwards, Chief Judge:  Appellants Leon Sloan, Sr. and 
+Jimmie Lee Furby were partners and owners of J&L Reno-
+vation Company ("J&L"), a small demolition contracting com-
+pany specializing in interior demolition.  On August 18, 1995, 
+they received a notice from the United States Department of 
+Housing and Urban Development ("HUD") that the agency 
+was seeking debarment of Sloan, Furby, and J&L from 
+government contracting for a period of five years based upon 
+allegations of improper clean-up and disposal of waste at a 
+public housing construction site.  HUD issued suspensions 
+pending a final determination on the debarment action.  In 
+August 1996, a HUD Administrative Law Judge ("ALJ") 
+denied the five-year debarment and terminated the suspen-
+sions.  The ALJ, however, declined to void the suspensions ab 
+initio, and the Secretary of HUD affirmed this decision.
+
+     Sloan and Furby sought relief in the District Court, claim-
+ing that the agency's failure to void the suspensions ab initio 
+violated the Administrative Procedure Act ("APA"), and that 
+the actions of various HUD officials deprived them of due 
+process.  In a second complaint against individual HUD 
+officials, Sloan and Furby sought damages under Bivens v. 
+Six Unknown Named Agents of the Federal Bureau of 
+Narcotics, 403 U.S. 388 (1971).  The District Court, after 
+consolidating the cases, entered an order dismissing the 
+consolidated complaint.  In a related, unconsolidated case, 
+Sloan and Furby brought claims pursuant to the Federal Tort 
+Claims Act ("FTCA").  Appellants' FTCA claims are the 
+subject of a separate appeal, Sloan v. United States Depart-
+ment of Housing and Urban Development, No. 99-5145, 
+heard on the same day as this case.
+
+     Appellants raise two principal issues in the instant appeal.  
+Appellants' first claim is that HUD's refusal to void their 
+
+suspensions ab initio was arbitrary and capricious.  Appellee 
+HUD contends that there was ample evidence to support the 
+suspensions at the time they were imposed, as well as when 
+the case was heard by the ALJ.  We disagree.  HUD origi-
+nally had based the issuance of the suspensions on three 
+distinct charges.  The debarment proceeding conclusively 
+revealed that the first and third charges--relating to hazard-
+ous waste containment--were completely unsupported.  Fur-
+thermore, the ALJ did not find, and HUD does not argue, 
+that the second charge alone--relating to improper disposal 
+of construction debris--would have supported issuance of the 
+suspensions.  Finally, the Secretary's decision is devoid of 
+any good reason to justify the denial of the relief sought by 
+appellants.  On this record, we hold that the agency's failure 
+to void the suspensions ab initio was arbitrary and capricious.
+
+     Appellants' second claim challenges the District Court's 
+finding that the APA's comprehensive remedial structure 
+precludes recognition of appellants' Bivens claims.  We need 
+not reach this issue, however, because we reject appellants' 
+claim that individual HUD defendants violated their constitu-
+tional rights to due process in conducting and supervising the 
+investigations and prosecution associated with the suspen-
+sions and debarment proceedings.  We therefore affirm the 
+judgment of the District Court dismissing the Bivens claims.
+
+                          I. Background
+
+A.   Factual Background
+
+     In 1989, the Allegheny County Housing Authority 
+("ACHA") received funds from HUD to perform moderniza-
+tion work at the Burns Heights public housing project in 
+Duquesne, Pennsylvania.  Part of the funding was intended 
+for lead-based paint testing at the site.  Because a previous 
+x-ray fluorescence ("XRF") test for lead-based paint had 
+proven inconclusive, ACHA prepared specifications calling for 
+the demolition contractor to assume all existing painted sur-
+faces contained lead-based paint.
+
+     In November 1992, Mistick Construction, PBT ("Mistick"), 
+in conjunction with its bid for demolition work at Burns 
+Heights, reviewed ACHA's XRF test and hired an industrial 
+hygienist to perform a toxic characteristic leaching procedure 
+("TCLP") test of Burns Heights wall debris.  The TCLP test 
+established that the lead content of the wall debris was 
+substantially less than the United States Environmental Pro-
+tection Agency ("EPA") threshold for hazardous waste.  
+ACHA subsequently hired Mistick to perform the demolition 
+work.
+
+     In January 1993, before beginning the demolition work, 
+Mistick conducted a test of the air inside the Burns Heights 
+buildings to determine whether hazardous levels of lead were 
+present.  The air test results indicated that lead levels were 
+significantly less than the Occupational Safety & Health 
+Administration ("OSHA") limit;  Mistick therefore concluded 
+that OSHA worker protection requirements need not be 
+followed when work was done on the site.  Mistick provided 
+the TCLP and air test results to ACHA, and ACHA con-
+firmed that hazardous lead-based paint protocols were not 
+required for demolition work at Burns Heights.  The parties 
+agreed, in writing, that the test results were "well within 
+EPA guidelines" and that demolition waste from Burns 
+Heights need not be disposed of as contaminated waste.  
+Mistick Inc. Proposed Hazardous Materials Work Plan for 
+the Burns Heights Project (Jan. 7, 1993), reprinted in Appen-
+dix ("App.") 416, 419.
+
+     In February 1993, Mistick subcontracted the interior demo-
+lition work at Burns Heights to J&L, the company owned by 
+appellants Sloan and Furby.  From February 1993 until May 
+1995, when J&L completed its demolition work, J&L disposed 
+of most of its demolition debris in dumpsters provided by 
+Mistick.  For a period beginning in 1994, however, J&L 
+began separating plaster from other demolition debris and 
+delivering it to an unapproved landfill (the "Perrone site").  
+Under the then applicable Pennsylvania regulations, plaster 
+was defined as construction/demolition waste which had to be 
+dumped in an approved landfill.  See 25 Pa. Code s 271.1 
+(1999) (adopted April 8, 1988, effective April 9, 1988).  Appel-
+
+lants were unaware of the change in state regulations.  See 
+Matter of Sloan, HUDBCA Nos. 96-C-106-D3, 96-C-107-
+D4, 96-C-108-D5, 1996 WL 506267 (H.U.D.B.C.A. Aug. 30, 
+1996) (ALJ determination) (finding that appellants "would not 
+have dumped the plaster debris in an unapproved landfill if 
+they had been aware of the change in state regulations").
+
+     Upon discovering that a rival construction group was fol-
+lowing and taping J&L's dumping activities, Mistick request-
+ed J&L to discontinue disposing of plaster at the unapproved 
+site, which J&L did.  Mistick subsequently informed the 
+Pennsylvania Department of Environmental Protection 
+("Pennsylvania DEP") of the placement of plaster at the 
+Perrone site.  The Pennsylvania DEP determined that no 
+action was required.
+
+     In November 1994, during an unrelated HUD debarment 
+proceeding, HUD received information that Mistick was not 
+properly performing lead-based paint abatement at Burns 
+Heights.  Thereafter, two HUD officials, Mark Chandler, an 
+auditor in HUD's Office of Inspector General, and Dane 
+Narode, an attorney from HUD's Office of Public and Indian 
+Housing, began investigating the demolition work at Burns 
+Heights.  Chandler conducted the performance audit.
+
+     Chandler and Narode visited the Perrone site, where they 
+observed paint chips resembling those from the Burns 
+Heights project before allegedly being chased from the site 
+by its owner.  Chandler and Narode also visited Burns 
+Heights where they photographed J&L's failure to contain 
+dirt, dust, and paint chips.  Chandler then spoke with Furby 
+on the telephone and also met with David McLean, Director 
+of Maintenance and Development for ACHA.  During the 
+latter conversation, McLean mistakenly indicated that Burns 
+Heights was an ACHA lead-based paint project.  Chandler 
+did not inquire as to whether there were hazardous levels of 
+lead at Burns Heights nor whether lead-based paint abate-
+ment was being performed there.
+
+     Subsequent to his meeting with McLean, Chandler received 
+from ACHA copies of the XRF test, the November 1992 
+TCLP test, and the January 1993 air test.  These tests 
+
+clearly indicated that there were no hazardous levels of lead 
+present at Burns Heights, but Chandler was not qualified to 
+interpret or evaluate the test results.  Amazingly, Chandler 
+did not ask either ACHA or Mistick what the test results 
+meant and he never spoke to Mistick or J&L about whether 
+the subcontract covered lead-based paint abatement.  Chan-
+dler's final audit report, which was sent to HUD's Pittsburgh 
+Area Office on October 18, 1995, stated, without good basis, 
+that Mistick and J&L had failed to properly perform lead-
+based paint abatement;  on this erroneous finding, Chandler's 
+report concluded that Mistick and J&L had not performed 
+demolition work at Burns Heights in accordance with contrac-
+tual requirements.
+
+B.   Administrative Proceedings
+
+     On August 18, 1995, three months after the demolition 
+work at Burns Heights had been completed, Assistant Secre-
+tary for Public and Indian Housing Joseph Shuldiner noti-
+fied Sloan and Furby that they were suspended from all 
+HUD-related government contracting work and that HUD 
+was seeking a five-year debarment from participation in 
+HUD-funded construction work.  The notice asserted that 
+the Department had information "indicating serious irregu-
+larities in [J&L's] business dealings with the Government," 
+namely:  (1) improper cleanup of waste from the lead-based 
+paint abatement process;  (2) improper disposal of construc-
+tion debris from the demolition;  and (3) failure to adhere to 
+contract requirements or HUD Guidelines by allowing haz-
+ardous waste to be tracked outside of containment and al-
+lowing workers to perform abatement work without proper 
+notification.  See Letters from Joseph Shuldner, Assistant 
+Secretary, HUD, to Jimmie L. Furby, Leon Sloan, Sr., and 
+J&L Renovation Company (Aug. 18, 1995), reprinted in App. 
+151, 153, 155.  George Dickey, a HUD Program Official in 
+the Office for Public and Indian Housing, processed the 
+sanctions against Mistick and J&L.
+
+     Appellants contend that, during discovery for the debar-
+ment proceeding, they requested depositions of Assistant 
+Secretary Shuldiner and Dickey.  HUD opposed the deposi-
+
+tions and the ALJ denied the requests.  Appellants also aver 
+that, during discovery, HUD failed to produce an exchange of 
+letters confirming that ACHA did not find "sufficient grounds 
+to pursue a claim for non-performance, and that contamina-
+tion and associated costs are non-existent."  See Letter from 
+George Arendas, Executive Director, ACHA, to Paul LaMar-
+ca, HUD Pittsburgh Area Office (Jan. 17, 1995), reprinted in 
+App. 174.  Appellants argue that the failure to produce these 
+"exculpatory documents" hindered their efforts at the debar-
+ment proceeding.  See Appellants' Br. at 14.
+
+     On August 30, 1996, after a five-day administrative hearing, 
+the ALJ rejected the Government's case seeking debarment 
+and terminated the suspensions against J&L, Sloan, and 
+Furby.  Matter of Sloan, 1996 WL 506267 (ALJ determina-
+tion).  The ALJ specifically found that "there was not a lead 
+hazard present at Burns Heights that would have made lead-
+based paint abatement protocols necessary."  Id.  The ALJ, 
+however, denied Sloan and Furby's request to have their 
+suspensions voided ab initio.  The ALJ's decision not to void 
+the suspensions ab initio was based on an erroneous finding 
+that the written contract documents required Mistick to treat 
+the job as though there were hazardous levels of lead present 
+at Burns Heights.  See id.  After unsuccessfully appealing 
+the ALJ's ruling to the HUD Secretary, Sloan and Furby 
+filed suit in the District Court.
+
+                           II. Analysis
+
+A.   The APA challenge
+
+     The disputed suspension and debarment actions in this case 
+arose pursuant to the federal regulations implementing sec-
+tion 3 of Executive Order 12549, 51 Fed. Reg. 6370 (1986), 
+which provides that, to the extent permitted by law, Execu-
+tive departments and agencies shall participate in a govern-
+ment-wide system for nonprocurement debarment and sus-
+pension.  24 C.F.R. s 24.100(a) & (b) (1995).  Under the 
+applicable regulations, debarment and suspension are discre-
+tionary measures taken to protect the public interest and to 
+promote an agency's policy of "conduct[ing] business only 
+
+with responsible persons."  24 C.F.R. s 24.115(a) (1995).  
+The issuance of a suspension is a "serious action," hence it 
+"may be imposed only when:  (1) [t]here exists adequate 
+evidence of one or more of the causes set out in s 24.405, and 
+(2) [i]mmediate action is necessary to protect the public 
+interest."  24 C.F.R. s 24.400(b) (1995);  see also 24 C.F.R. 
+s 24.405 (1995).  A party who contests a suspension or possi-
+ble debarment may request a hearing before an ALJ pursu-
+ant to 24 C.F.R. s 24.313 (1995), followed by an appeal to and 
+discretionary review by the Secretary pursuant to 24 C.F.R. 
+s 24.314(c) (1995).  Any review taken by the Secretary "shall 
+be based on the record of the initial hearing [before the ALJ] 
+and shall fully recite the evidentiary grounds upon which the 
+Secretary's determination is made."  24 C.F.R. s 24.314(e) 
+(1995).
+
+     The parties agree that judicial review of the Secretary's 
+final decision in this case is available pursuant to the Adminis-
+trative Procedure Act ("APA"), 5 U.S.C. ss 702, 704, 706 
+(1994).  Appellants contend that the agency's refusal to void 
+their suspensions ab initio was arbitrary and capricious and 
+thus violated s 706(2)(A) of the APA, and that the agency's 
+administrative procedures infringed their due process rights 
+in violation of s 706(2)(B) of the APA.  We find merit in 
+appellants' first claim.
+
+     Neither party contests the applicability of the APA's "arbi-
+trary and capricious" standard.  Appellee urges, nonetheless, 
+that our review of HUD's decision in the instant case should 
+be "highly deferential," and "presume the validity of agency 
+action."  See Appellees' Br. at 15 (quoting Kisser v. Cisneros, 
+14 F.3d 615, 618 (D.C. Cir. 1994)).  It is well-established that, 
+when conducting review under the "arbitrary and capricious" 
+standard, a court may not substitute its judgment for that of 
+agency officials;  rather, our inquiry is focused on whether 
+"the agency [ ] examine[d] the relevant data and articulate[d] 
+a satisfactory explanation for its action including a 'rational 
+connection between the facts found and the choice made.' "  
+Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 
+463 U.S. 29, 43 (1983) (quoting Burlington Truck Lines, Inc. 
+v. United States, 371 U.S. 156, 168 (1962)).  Our deference to 
+
+agency decisionmaking does not require us, however, to coun-
+tenance an agency's failure to "consider[ ] ... relevant fac-
+tors" or "clear error[s] of judgment."  Id. (quoting Bowman 
+Transp., Inc. v. Arkansas-Best Freight Sys., Inc., 419 U.S. 
+281, 285 (1974)).
+
+     On the basis of the record before us, we find that HUD's 
+decision not to void the suspensions ab initio cannot with-
+stand review, because the decision cannot be squared with the 
+applicable regulations and, also, because the decisions of the 
+ALJ and the Secretary fail to "articulate a satisfactory expla-
+nation for [the agency's] action including a 'rational connec-
+tion between the facts found and the choice made.' "  State 
+Farm, 463 U.S. at 43 (quoting Burlington Truck Lines, Inc., 
+371 U.S. at 168).
+
+     Under the applicable regulations, a suspension is justified 
+only when there is "adequate evidence" of wrongdoing and 
+"immediate action is necessary to protect the public interest."  
+24 C.F.R. s 24.400(b).  "In assessing the adequacy of the 
+evidence, the agency should consider how much information is 
+available, how credible it is given the circumstances, whether 
+or not important allegations are corroborated, and what infer-
+ences can reasonably be drawn as a result."  24 C.F.R. 
+s 24.400(c) (1995).  Moreover, the agency's "assessment 
+should include an examination of basic documents such as 
+grants, cooperative agreements, loan authorizations, and con-
+tracts."  Id.  In applying these regulations, the ALJ and the 
+Secretary are required to consider both whether there is 
+adequate justification for the suspensions at the time they are 
+issued, and whether, in light of the evidence adduced at the 
+debarment hearing, there is good reason to terminate the 
+suspensions.  See 24 C.F.R. ss 24.313, 24.314 (1995).
+
+     Many years ago, in Horne Brothers, Inc. v. Laird, 463 F.2d 
+1268 (D.C. Cir. 1972), Judge Leventhal had occasion to con-
+strue what it means for an agency to have "adequate evi-
+dence" to justify the "suspension" of a government contrac-
+tor:
+
+     The "adequate evidence" showing need not be the kind 
+     necessary for a successful criminal prosecution or a 
+     
+     formal debarment.  The matter may be likened to the 
+     probable cause necessary for an arrest, a search warrant, 
+     or a preliminary hearing.  This is less than must be 
+     shown at the trial, but it must be more than uncorrob-
+     orated suspicion or accusation.
+     
+Id. at 1271.  Obviously, as Horne Brothers suggests, "[a] 
+question of judgment is involved" in any agency decision 
+to issue a suspension.  Id.  What is noteworthy here, how-
+ever, is that, under the controlling regulations, there can 
+be no suspension without "adequate evidence," the necessi-
+ty of "immediate action...to protect the public interest," a 
+consideration of "whether or not important allegations are 
+corroborated," "an examination of basic documents," and a 
+determination, based on "all available evidence," that rea-
+sonable inferences of wrongdoing can be drawn.  24 
+C.F.R. ss 24.400, 24.410 (1995).
+
+     At the hearing before the ALJ, the Government withdrew 
+the third ground for debarment and suspension--failure to 
+adhere to contract requirements or HUD Guidelines--recog-
+nizing that the agency had nothing concrete upon which to 
+justify this charge.  The ALJ subsequently dismissed the 
+first charge--improper cleanup of waste from the lead-based 
+paint abatement process--finding no basis in the record.  
+Matter of Sloan, 1996 WL 506267 (ALJ determination).  This 
+left only the charge that J&L had improperly disposed of 
+construction debris from the demolition.  The ALJ did not 
+find, and appellee does not argue, that this single remaining 
+charge provided cause for the suspensions.  Rather, appellee 
+asserts that the decision not to void the suspensions ab initio 
+should be upheld because the administrative judge found 
+appellants and Mistick largely to blame for the misunder-
+standings leading to the faulty audit and resulting sanctions.  
+The suggestion that appellants should bear the onus of 
+HUD's poor investigatory work is ridiculous.  Had HUD 
+officials been more precise in their investigation, they would 
+have discovered that the November 1992 TCLP test and the 
+January 1993 air test clearly established that there were no 
+hazardous levels of lead present at Burns Heights.  The 
+
+auditor had only to examine the test results or request 
+assistance with their interpretation.
+
+     We also reject appellee's related argument, that the deci-
+sion not to void the suspensions ab initio rests on the ALJ's 
+conclusion that government investigators had been misled 
+into thinking that lead abatement was part of the disputed 
+contract because the change in contract specification regard-
+ing lead abatement had not been captured in a written 
+amendment.  See Appellees' Br. at 20-21.  The ALJ's finding 
+on this point is simply wrong;  the record is clear that the 
+parties had agreed in writing that demolition waste from 
+Burns Heights need not need be disposed of as contaminated 
+waste.  See Mistick Inc. Proposed Hazardous Materials Work 
+Plan for the Burns Heights Project, reprinted in App. 416, 
+419 (Jan. 7, 1993).
+
+     Whatever agency officials may have thought about the case 
+against the appellants when the suspensions were issued, 
+their view of the case should have changed rather dramatical-
+ly following the hearing before the ALJ.  The hearing made 
+it clear that the initial finding of probable cause was flimsy at 
+best, riding on the heels of a hastily-conducted and technical-
+ly-flawed audit.  In other words, even if HUD officials 
+thought they had more than "uncorroborated suspicion or 
+accusation" at the time when the suspensions were issued, it 
+was abundantly clear at the conclusion of the hearing that 
+there had been no basis at the outset to suspend appellants.  
+It was therefore arbitrary and capricious for the agency to 
+deny full relief to appellants.
+
+     Government contracting has become an economic mainstay 
+for a number of commercial enterprises.  It goes without 
+saying, therefore, that disqualification from government con-
+tracting is a very serious matter for these businesses.  See 
+Gonzalez v. Freeman, 334 F.2d 570, 574 & n.5 (D.C. Cir. 
+1964).  In this case, appellants have endured economic losses, 
+professional indignities, and injuries to their reputations, and 
+these sufferings no doubt will continue to linger so long as 
+appellants are tarnished by an official record suggesting that 
+they engaged in "serious irregularities" in their business 
+
+dealings with the Government.  Even the applicable regula-
+tions recognize the potentially harsh consequences that flow 
+from suspension, for they make it clear that "[s]uspension is a 
+serious action" that should be imposed only "when it has been 
+determined that immediate action is necessary to protect the 
+Government's interest."  24 C.F.R. s 24.410(c).
+
+     In this case, appellants' claim for relief was sufficiently 
+compelling that the Secretary granted review specifically to 
+consider the following question:  "Under what circumstances 
+is it appropriate for the Secretarial designee to void a suspen-
+sion ab initio when, in hindsight, it is clear that the Respon-
+dents are not guilty of the charges that led to the suspen-
+sion?"  Matter of Sloan, HUDBCA Nos. 96-C-106-D3, 96-C-
+107-D4, 96-C-108-D5 (Nov. 18, 1996) (order granting respon-
+dent's petition for secretarial review);  see also Matter of 
+Sloan, HUDBCA Nos. 96-C-106-D3, 96-C-107-D4, 96-C-
+108-D5 (Dec. 18, 1996) (order on Secretarial review), reprint-
+ed in App. 452 n.1.  It is not surprising that the Secretary 
+accepted discretionary review of the appellants' administra-
+tive appeal, for the Secretary's decision does not doubt the 
+availability of the relief sought by appellants.  See Matter of 
+Guillen, HUDBCA No. 91-1739-DB, 1992 WL 45853 
+(H.U.D.B.C.A. Feb. 28, 1992) (ALJ determination).  What is 
+surprising, however, is the Secretary's treatment of appel-
+lants' claim.
+
+     It is clear that there was no need for "immediate action" to 
+be taken against appellants.  See 24 C.F.R. s 24.400(b)(2).  
+The Secretary's decision does not suggest that appellants 
+should have been suspended for the allegations that prompted 
+the first and third charges.  And the Secretary acknowledges 
+that appellants' alleged improper activity in connection with 
+the second charge--placing debris in an unapproved landfill--
+had ceased before the issuance of the suspensions.  In other 
+words, the Secretary could not find that there was adequate 
+evidence that appellants lacked "present responsibility" when 
+the suspensions were issued.  Nonetheless, the Secretary's 
+decision suggests that appellants' "past irresponsible acts" in 
+connection with the second charge justified the suspensions.  
+See Matter of Sloan (order on Secretarial review), reprinted 
+
+in App. 454.  This is a specious conclusion.  First, the 
+Secretary's decision simply ignores the requirement that 
+there must be a real need for immediate action to protect the 
+public interest in order to justify a suspension.  Further-
+more, as noted above, the Government does not contend that 
+the second charge against appellants, without more, could 
+have warranted suspensions, so the Secretary's reason for 
+refusing to void the suspensions ab initio makes no sense.
+
+     The Secretary's decision is at best a half-hearted attempt 
+to address appellants' claim for relief.  And, as is true with 
+portions of the ALJ's decision, the Secretary's decision seems 
+to blame the appellants for the blunders committed by agency 
+investigators.  In short, the decision fails to "articulate a 
+satisfactory explanation for [the agency's] action including a 
+'rational connection between the facts found and the choice 
+made.' "  State Farm, 463 U.S. at 43 (quoting Burlington 
+Truck Lines, Inc., 371 U.S. at 168).  Accordingly, we find the 
+agency's action to be arbitrary and capricious.
+
+     Because we find that the decision not to void the suspen-
+sions ab initio was arbitrary and capricious, we need not 
+linger on appellants' alternative argument that HUD violated 
+the due process rights of Sloan and Furby by failing to 
+produce critical witnesses and HUD documents.  "An agency 
+may not impose even a temporary suspension without provid-
+ing the 'core requirements' of due process:  adequate notice 
+and a meaningful hearing."  Commercial Drapery Contrac-
+tors, Inc. v. United States, 133 F.3d 1, 6 (D.C. Cir. 1998);  see 
+also Reeve Aleutian Airways, Inc. v. United States, 982 F.2d 
+594, 595, 599-602 (D.C. Cir. 1993).  In the instant case, the 
+procedures followed by HUD adequately safeguarded appel-
+lants' due process rights.
+
+B.   The Bivens claims
+
+     In asserting their Bivens claims for money damages 
+against individual HUD defendants, appellants charge that 
+HUD officials violated their due process rights in conducting 
+and supervising the audit, processing and issuing the sanc-
+tions, and prosecuting the suspensions.  The District Court 
+held that any Bivens remedy was precluded by the availabili-
+
+ty of relief under the APA.  Examining the APA, the District 
+Court found it to be a comprehensive remedial scheme for 
+administering public rights which did not inadvertently omit 
+damage remedies for certain claimants.
+
+     We need not decide whether the APA precludes appellants' 
+Bivens claims, because we find that appellants have failed to 
+allege the violation of a constitutional right.  The focus here, 
+in contrast to the APA claim, is on the investigation into 
+appellants' alleged misdeeds as well as the decisions to pro-
+cess and enforce the administrative sanctions--not the result-
+ing records of suspension.  Indeed, with the exception of the 
+claim against Attorney Narode for prosecution of the adminis-
+trative action, all of appellants' Bivens claims center mainly 
+on the investigations conducted before the administrative 
+hearing.
+
+     Appellants maintain that the disputed investigations and 
+prosecution by government officials violated their due process 
+rights.  The law is clear, however, that "there is no constitu-
+tional right to be free of investigation," United States v. 
+Trayer, 898 F.2d 805, 808 (D.C. Cir.), cert. denied, 498 U.S. 
+839 (1990), and appellants have not shown that the investiga-
+tion was part of a scheme or conspiracy to deprive them of 
+their constitutional rights.  See, e.g., Anthony v. Baker, 767 
+F.2d 657, 662 (10th Cir. 1985).
+
+     Appellants contend that individual HUD employees contra-
+vened the broad standards incorporated in HUD's Consolidat-
+ed Audit Guide for Audits of HUD Programs, but these 
+alleged violations do not support a claim for denial of due 
+process.  See, e.g., Schweiker v. Hansen, 450 U.S. 785, 789, 
+reh'g denied, 451 U.S. 1032 (1981) (stating that Social Securi-
+ty Administration claims manual, as opposed to official regu-
+lations, had no legal force);  Kugel v. United States, 947 F.2d 
+1504, 1507 (D.C. Cir. 1991) (department guidelines "do not 
+create a duty in favor of the general public");  Lynch v. 
+United States Parole Comm'n, 768 F.2d 491, 497 (2d Cir. 
+1985) (finding that Police Commission internal procedures 
+manual did not create due process rights enforceable in 
+court).  We therefore conclude that the errors committed by 
+
+HUD officials during their investigation of appellants did not 
+rise to the level of constitutional infringement.
+
+     Furthermore, as noted above, appellants were given clear 
+notice of the charges against them and a fair opportunity to 
+prepare a defense;  they were then afforded extensive rights 
+to a full hearing before an ALJ, during which the Govern-
+ment carried the burden of proof, followed by an appeal to 
+the Secretary and then judicial review.  In other words, they 
+were given a full panoply of due process protections to 
+redress any preceding mistakes that may have occurred 
+during the agency investigations.  Assuming, arguendo, that 
+appellants had cognizable property or liberty interests justify-
+ing due process protections, see, e.g., Old Dominion Dairy 
+Prods. v. Secretary of Defense, 631 F.2d 953 (D.C. Cir. 1980), 
+the postdeprivation procedures provided under HUD regula-
+tions were more than enough to satisfy the requirements of 
+procedural due process.  See Hudson v. Palmer, 468 U.S. 
+517, 533 (1984);  see also Stuto v. Fleishman, 164 F.3d 820, 
+825 (2d Cir. 1999) (quoting Hudson, 468 U.S. at 533) ("[T]he 
+negligent or intentional deprivation of property through the 
+random and unauthorized acts of a state or federal employee 
+does not constitute a deprivation of due process if 'a meaning-
+ful postdeprivation remedy for the loss is available.' ").
+
+     Finally, appellants' claims against Attorney Narode for 
+prosecution of the administrative sanctions fail because of 
+absolute immunity.  See Butz v. Economou, 438 U.S. 478, 
+516-17 (1978);  Imbler v. Pachtman, 424 U.S. 409, 424-29 
+(1976).  In Butz, the Court held that, in general, federal 
+executive officials charged with constitutional violations were 
+entitled only to qualified immunity.  See Butz, 438 U.S. at 
+507.  The Court noted, however, that there were "some 
+officials whose special functions require[d] a full exemption 
+from liability," id. at 508, and observed that the adjudicatory 
+process within federal administrative agencies "share[d] 
+enough of the characteristics of the judicial process that those 
+who participate in such adjudication should also be immune 
+from suits for damages."  Id. at 512-13.  Finding "no sub-
+stantial difference between the function of the agency attor-
+ney in presenting evidence in an agency hearing and the 
+
+function of the prosecutor who brings evidence before a 
+court," id. at 516, the Court granted absolute immunity to 
+federal attorneys whose duties in administrative proceedings 
+were functionally similar to those of a prosecutor.  See id. at 
+517.  We recognize a fortiori that the actions taken to enforce 
+the sanctions against Sloan and Furby, such as presenting 
+evidence at the administrative hearing, deserve no less pro-
+tection from suit.
+
+     In view of our conclusion that appellants have not alleged 
+the violation of a constitutional right, we need not determine 
+whether appellants' Bivens claims are precluded by the APA.  
+This court has suggested that a Bivens action may be fore-
+closed where the possibility of judicial review under the APA, 
+along with other "statutes, executive orders and regulations," 
+provides a meaningful remedy.  Krodel v. Young, 748 F.2d 
+701, 712-13 & 712 n.6 (D.C. Cir. 1984), cert. denied, 474 U.S. 
+817 (1985).  The Government, however, did not suggest that 
+Krodel was applicable here.
+
+                         III. Conclusion
+
+     For the foregoing reasons, the judgment of the District 
+Court is affirmed in part and reversed in part.  The agency's 
+refusal to void appellants' suspensions ab initio was arbitrary 
+and capricious and is accordingly reversed.  The case is 
+hereby remanded to the agency with instructions to make 
+void appellants' suspensions ab initio.
+
+                                                        So ordered.
+
+              

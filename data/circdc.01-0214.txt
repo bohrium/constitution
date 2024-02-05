@@ -1,0 +1,933 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 6, 2001   Decided November 9, 2001 
+
+                           No. 00-1207
+
+              Verizon Telephone Companies, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                   Sprint Corporation, et al., 
+                            Intervenor
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+     Aaron M. Panner argued the cause for petitioners and 
+supporting intervenors.  With him on the briefs were Michael 
+K. Kellogg, Michael E. Glover, John M. Goodman, James D. 
+
+Ellis, Roger K. Toppins, Jeffry A. Brueggeman, Jay C. 
+Keithley, and Michael B. Fingerhut.
+
+     John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, argued the cause for respon-
+dents.  With him on the briefs were Daniel M. Armstrong, 
+Associate General Counsel, Laurel R. Bergold and Lisa E. 
+Boehley, Counsel, John M. Nannes, Acting Assistant Attor-
+ney General, United States Department of Justice, Robert B. 
+Nicholson and Robert J. Wiggers, Attorneys.  Christopher J. 
+Wright, General Counsel, Federal Communications Commis-
+sion, and Lisa S. Gelb, Counsel, entered appearances.
+
+     Michael J. Thompson, Albert H. Kramer, Katherine J. 
+Henry, and Andrew J. Phillips were on the joint brief of 
+intervenors ABTEL Communications, Inc., et al.  Robert F. 
+Aldrich entered an appearance.
+
+     Michael E. Glover, John M. Goodman, James D. Ellis, 
+Roger K. Toppins, Jeffry A. Brueggeman, Michael K. Kel-
+logg, Aaron M. Panner, Jay C. Keithley, and Michael B. 
+Fingerhut were on the brief of Local Exchange Carrier 
+intervenors.
+
+     Before:  Ginsburg, Chief Judge, Edwards and Sentelle, 
+Circuit Judges
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  A group of local phone companies 
+(known as "local exchange carriers," or "LECs") seek review 
+of an order of the Federal Communications Commission 
+("FCC" or "Commission") holding them liable for violating 
+the unreasonable charge provisions of 47 U.S.C. s 201(b) 
+(1994).  The violations occurred when the LECs wrongfully 
+imposed so-called End User Common Line ("EUCL") fees on 
+certain "independent payphone providers" ("IPPs").  In an 
+agency adjudication that addressed complaints challenging 
+the fees, the FCC initially construed the rules enunciated in 
+an earlier rulemaking, In re MTS and WATS Market Struc-
+ture, 97 F.C.C.2d 682 (1983) ("Access Charge Reconsidera-
+tion") (setting rules by which LECs could recover costs 
+associated with calls made on payphones), to allow the imposi-
+
+tion of the fees.  However, the FCC's decision did not survive 
+judicial review.  In C.F. Communications Corp. v. FCC, 128 
+F.3d 735 (D.C. Cir. 1997), the court held that the Access 
+Charge Reconsideration did not allow for the fees.  The case 
+was remanded, leading the Commission to reverse itself in 
+the order now under review.  See In re C.F. Communications 
+Corp. v. Century Tel. of Wisconsin, Inc., 15 F.C.C.R. 8759 
+(2000) ("Liability Order").  In changing its position following 
+judicial review, the FCC conclusively determined that the 
+LECs had violated the applicable Access Charge Reconsidera-
+tion rules by imposing the EUCL charges;  the Commission 
+decided, however, that the question of what damages should 
+flow from that violation was best reserved for another day.
+
+     In their present petition, the LECs contend, first, that the 
+Liability Order is final, and thus immediately reviewable by 
+this court.  Second, they argue that the agency may not now 
+sanction them for conduct that had been expressly approved, 
+and may have even been compelled, by the Commission itself.  
+The FCC responds that we lack jurisdiction at this time, 
+because by leaving the issue of damages unresolved, the 
+Liability Order was rendered non-final.  Moreover, the Com-
+mission asserts that even if we do reach the merits, the 
+LECs' retroactivity argument must fail, as whatever reliance 
+those carriers placed on ultimately erroneous FCC pro-
+nouncements cannot excuse their violations of governing 
+law - as that law is properly construed.  We conclude that 
+the Liability Order is final, and that we therefore have 
+jurisdiction to review it.  It is true that the general rule is 
+that an adjudicatory decision resolving only liability and not 
+damages is not final.  In this case, however, the relevant 
+jurisdiction-conferring statute, 47 U.S.C. s 208(b), provides 
+that an order "concluding an investigation ... of the lawful-
+ness of a charge" is a final order subject to immediate appeal.  
+We are presented with just such an order here.
+
+     On the merits, we hold that it was appropriate for the FCC 
+to find the LECs liable for their EUCL charges, even though 
+the Commission initially construed the Access Charge Recon-
+sideration rules to allow the charges.  We do not believe that 
+the Commission should be prevented from stating the law 
+
+correctly merely because it may have misconstrued the appli-
+cable rules in the past.  We emphasize, however, that this 
+holding does not necessarily doom the LECs' retroactivity 
+arguments.  Because the FCC has not yet fixed the means by 
+which it will calculate damages, the LECs are not foreclosed 
+from presenting their equitable concerns to the agency during 
+the next phase of the proceedings.  We therefore express no 
+opinion as to the Commission's authority to impose damages 
+on the LECs for charges that they may have collected in 
+reliance on the agency's initial (and mistaken) interpretations 
+of the Access Charge Reconsideration rules.
+
+                          I. Background
+
+     Much of the regulatory and procedural background to the 
+present petition is set out in C.F. Communications.  See 128 
+F.3d at 736-38.  We will not repeat that entire discussion 
+here, but rather will concentrate on the most salient points.  
+The underlying issue in this case is how local phone compa-
+nies are to recover the costs that they incur when long-
+distance calls are made on coin-operated telephones.  The 
+story begins in 1983, when the FCC issued general rules 
+establishing a regulatory mechanism for LECs to be compen-
+sated for providing long-distance carriers (known as "interex-
+change carriers" or "IXCs") access to their local networks.  
+In re MTS and WATS Market Structure, Third Report and 
+Order, 93 F.C.C.2d 241 (1983) ("Access Charge Rulemaking"), 
+modified on recon., 97 F.C.C.2d 682 (1983), modified on 
+further recon., 97 F.C.C.2d 834 (1984), aff'd and remanded in 
+part sub nom. Nat'l Ass'n of Regulatory Util. Comm'rs v. 
+FCC, 737 F.2d 1095 (D.C. Cir. 1984).  For most phones, the 
+Commission decided that these costs were to be footed by 
+"end users" who would be assessed EUCL charges by the 
+LECs.  Pay telephones, however, which tend to have no 
+predetermined end-user, required a different solution.  Ac-
+cordingly, the FCC decided to exempt public payphones from 
+EUCL fees altogether, instead allowing the LECs to recover 
+their costs from the IXCs directly, in the form of Carrier 
+Common Line ("CCL") charges.  See Access Charge Recon-
+sideration at 705.  Not all payphones were exempted, howev-
+
+er.  Instead, the FCC distinguished between true "public" 
+payphones - such as those in airports and on street corners - 
+and those which it labeled "semi-public" - a category that 
+included coin-operated phones found in restaurants and gas 
+stations, where "there is a combination of general public and 
+specific customer need for the service."  Id. at 704 & n.40.  
+Reasoning that this latter class could be linked to identifiable 
+subscribers, the Commission allowed the LECs to impose flat 
+EUCL charges on those subscribers, just as they would do 
+for ordinary private phones.  See id. at 706.
+
+     At the time when the Access Charge Reconsideration was 
+issued, all of the nation's payphones were owned by the LECs 
+themselves.  This situation was soon undermined when the 
+FCC allowed a group of "independent" providers to enter the 
+payphone market.  See Registration of Coin Operated Tele-
+phones, 49 Fed. Reg. 27,763 (July 6, 1984).  These IPPs 
+brought with them a technological advantage:  so-called 
+"smart" phones, which connected to ordinary phone lines 
+rather than to the special coin lines that linked the LEC-
+owned phones to the central processors that supervise their 
+calls.  The new phones, which were able to perform this 
+managerial task internally, needed no such specialized hook-
+up.  However, despite their architectural and cognitive differ-
+ences, the two types of phones are found in the same kinds of 
+places and are basically indistinguishable from the lay user's 
+perspective.  Nevertheless, when it came to EUCL charges, 
+the LECs decided to treat the smart phones rather different-
+ly from their less sophisticated cousins.  Acting at first 
+without any guidance from the Commission other than the 
+original Access Charge Reconsideration, the LECs imposed 
+EUCL fees on all of the new phones - not merely those 
+located in semi-public places - and assessed these tolls on the 
+IPPs directly.
+
+     Unsurprisingly, the IPPs balked at these charges.  Their 
+concerns, however, were not well received by officials at the 
+FCC.  In 1988 and 1989, informal complaints filed by two 
+IPPs generated two letters from Anita J. Thomas, an analyst 
+in the Enforcement Division of the Commission's Common 
+Carrier Bureau.  In both of these letters, Thomas declared 
+
+that by imposing EUCL fees on IPPs, the LECs violated 
+neither their own tariffs nor the agency's regulations.  See 
+Letter from Anita J. Thomas to LeRoy A. Manke, Manager, 
+Coon Valley Farmers Telephone Co. (Apr. 4, 1989), reprinted 
+in Joint Appendix ("J.A.") 154;  Letter from Anita J. Thomas 
+to Lance C. Norris, Vice President, American Payphones, Inc. 
+(Sept. 14, 1988), reprinted in J.A. 152.  In May of 1989, 
+another IPP, C.F. Communications Corp. ("CFC"), filed a 
+formal complaint, alleging that the LECs' conduct had violat-
+ed various provisions of the Communications Act and seeking 
+reparations for the wrongfully collected EUCL charges.  This 
+challenge proved unsuccessful at the agency level, as both the 
+Common Carrier Bureau and ultimately the Commission it-
+self sided with the LECs.  In re C.F. Communications Corp. 
+v. Century Tel. of Wisconsin, 8 F.C.C.R. 7334 (Com. Car. 
+Bur. 1993);  10 F.C.C.R. 9775 (1995) ("EUCL Decisions").  In 
+rejecting CFC's complaint, the FCC concluded that IPPs 
+were properly considered "end users" and thus could be 
+subjected to EUCL charges.  Moreover, the agency held that 
+the IPPs' payphones were "semi-public" within the meaning 
+of the Access Charge Reconsideration no matter where they 
+were located or how they were used.
+
+     CFC sought review of the FCC decision in this court and 
+found some success.  In C.F. Communications, the court 
+vacated the EUCL Decisions, holding both that the classifica-
+tion of IPPs as "end users" was an unreasonable interpreta-
+tion of the relevant regulation, 47 C.F.R. s 69.2(m), and that 
+the FCC had not adequately justified allowing EUCL charges 
+to be collected for IPP phones while exempting similarly 
+situated LEC-owned payphones from such fees.  See 128 
+F.3d at 738-42.  In deciding this second issue, the court 
+pointedly rejected the FCC's theory that a payphone should 
+be denied "public" (and thus EUCL-exempt) status under the 
+Access Charge Reconsideration merely because it was capa-
+ble of private use.  Rather, the court stated that the relevant 
+question was how a phone was actually used, that is, the 
+manner in which it was held out to the public.  Id. at 741-42.  
+These holdings were significant because they undermined the 
+legal basis on which the LECs had relied to rationalize their 
+
+disparate treatment of independently owned "smart" pay-
+phones.  And, without such support, the LECs' actions seem 
+to collapse into the kind of unreasonable discrimination pro-
+scribed by the Communications Act.  See 47 U.S.C. s 202(a).  
+However, the court in C.F. Communications declined to 
+decide "whether the Commission's interpretation compelled 
+LECs to discriminate under Section 202(a), or the precise 
+consequences if it did," leaving those issues for another day.  
+128 F.3d at 742.
+
+     On remand, the FCC chose not to mount a renewed 
+defense of its decision to allow the LECs to assess end-user 
+fees on the IPPs.  Instead, the Commission decided to hold 
+the LECs liable for devising and implementing that policy in 
+the first place.  In the Liability Order now on review, the 
+FCC concluded that, in light of the C.F. Communications 
+decision, a EUCL fee imposed on an independent payphone 
+that is used in the same manner as a LEC-owned "public" 
+payphone is an "unreasonable charge" under 47 U.S.C. 
+s 201(b).  See Liability Order at 8766, p 20.  The agency 
+then concluded that an award of damages for such liability 
+was appropriate.  Id. at 8768-69, p p 27-29.  At the same 
+time, however, the agency postponed a final ruling on dam-
+ages, reasoning that further briefing and argument were 
+needed in order to fix the proper amount of the award.  Id. at 
+8771, p p 33-34.  The LECs filed the present petition for 
+review before that phase of the proceedings commenced.
+
+                         II. Discussion 
+
+     This petition presents two central questions, one jurisdic-
+tional and one merits-based.  The first is whether the FCC's 
+Liability Order is final and therefore subject to immediate 
+judicial review.  We answer this question in the affirmative.  
+The second is whether it was permissible for the Commission 
+to hold the LECs liable for imposing charges that had 
+previously been condoned by the FCC itself.  We answer this 
+question in the affirmative as well.  At the same time, 
+however, we note that, because the agency has not yet 
+conclusively determined how it will measure damages, the 
+
+LECs still will be able to raise their concerns about retroac-
+tivity and reliance with the FCC during the next phase of 
+these proceedings.  And, until the Commission reaches a 
+conclusion on that issue, we are unable to review the propri-
+ety and permissible extent of damages in this case.
+
+A. Finality under 47 U.S.C. s 208(b)
+
+     Under 28 U.S.C. s 2342(1) (1994), this court has jurisdic-
+tion to determine the validity of "all final orders of the 
+Federal Communications Commission made reviewable by 
+section 402(a) of title 47."  In turn, 47 U.S.C. s 208(b) states 
+that "[a]ny order concluding an investigation" of, inter alia, 
+"the lawfulness of a charge" commenced at the behest of a 
+party complaining about the actions of a common carrier 
+"shall be a final order and may be appealed under section 
+402(a) of this title."  The jurisdictional question in this case, 
+then, is whether the Liability Order "concluded" the investi-
+gation that began with CFC's original 1989 complaint against 
+the LECs.
+
+     All parties agree that, in the Liability Order, the FCC 
+reached a final determination that the LECs had imposed 
+unreasonable charges in collecting EUCL fees from the IPPs, 
+thereby violating 47 U.S.C. s 201(b).  See Liability Order at 
+8773, p p 40-41.  This decision is undoubtedly final, in the 
+sense that there is no indication that the agency will revisit it 
+in future proceedings.  Indeed, neither the Commission's 
+brief nor agency counsel's argument on appeal claimed that 
+the finding of liability is subject to further review by the FCC 
+sans a court order requiring it.  Nonetheless, the Commission 
+contends that its decision to bifurcate the damages phase of 
+its investigation from the liability phase stripped the entire 
+Liability Order of its finality.  In other words, according to 
+the FCC, an investigation under s 208 of a single complaint 
+that seeks a determination of liability and an award of 
+damages is not over until the Commission has resolved both 
+aspects of the complaint.  See Br. for Respondents at 27.
+
+     As a general proposition, an FCC order is final if it "(1) 
+represents a terminal, complete resolution of the case before 
+the agency, and (2) determines rights or obligations, or has 
+
+some legal consequence."  Capital Network Sys., Inc. v. FCC, 
+3 F.3d 1526, 1530 (D.C. Cir. 1993) (internal quotations and 
+citations omitted).  Here, we are sure that the Liability 
+Order, even without a concomitant determination of damages, 
+has "some legal consequence" for the LECs.  The actions of 
+the FCC bear this out.  Agency officials have relied on the 
+Liability Order at least twice in unrelated cases to deny 
+requests made by SBC Communications, one of the named 
+LECs, to have sanctions against it mitigated.  See In re SBC 
+Communications, Inc., 16 F.C.C.R. 10963, 10968, p 15 & n.38 
+(Enf. Bur. rel. May 24, 2001);  In re SBC Communications, 
+Inc., 16 F.C.C.R. 5535, 5543, p 19 & n.53 (Enf. Bur. rel. Mar. 
+15, 2001).  If the Liability Order now furnishes the basis for 
+agency judgments in subsequent cases, the FCC is hard 
+pressed to deny that the finding of legal liability is sufficient 
+to satisfy the second prong of the finality test.  Cf. Consolida-
+tion Coal Co. v. Fed. Mine Safety & Health Review Comm'n, 
+824 F.2d 1071, 1078 (D.C. Cir. 1987) (holding that an agency 
+designation that "became a part of [the regulated party's] 
+permanent record, thereby exposing [it] to more severe sanc-
+tions for later violations" supplied "the 'modicum of injury' 
+necessary to support jurisdiction") (quoting Meredith Corp. v. 
+FCC, 809 F.2d 863, 868 (D.C. Cir. 1987)).
+
+     The FCC is, however, quite correct to point out that, under 
+a well-established principle of finality, when a tribunal elects 
+to resolve the issue of liability in a particular action while 
+reserving its determination of damages on that liability, that 
+decision generally is not considered "final" for purposes of 
+judicial review.  See Franklin v. District of Columbia, 163 
+F.3d 625, 628 (D.C. Cir. 1998) ("In damage and injunction 
+actions, a final judgment in a plaintiff's favor declares not 
+only liability but also the consequences of liability--what, if 
+anything, the defendants must do as a result.");  see also 
+Liberty Mut. Ins. Co. v. Wetzel, 424 U.S. 737, 744 (1976) 
+(holding that a summary judgment order imposing liability is 
+not considered final under 28 U.S.C. s 1291 where "assess-
+ment of damages or awarding of other relief remains to be 
+resolved").  This basic understanding of finality is the norm 
+not only in civil litigation, but also in the administrative 
+
+context, at least where the relevant statute does not embrace 
+a non-traditional view of finality.  See, e.g., Rivera-Rosario v. 
+United States Dept. of Agric., 151 F.3d 34, 37 (1st Cir. 1998) 
+("A final decision in an adjudicatory proceeding is one that 
+resolves not only the claim but, if liability is found, also the 
+relief to be afforded.");  Washington Metro. Area Transit 
+Auth. v. Dir., Office of Workers' Comp. Programs, 824 F.2d 
+94 (D.C. Cir. 1987);  accord AAA Eng'g & Drafting, Inc. v. 
+Widnall, 129 F.3d 602, 603 (Fed. Cir. 1997) (holding that an 
+order of the Armed Service Board of Contract Appeals was 
+not final because it resolved only "entitlement" (liability) 
+while reserving decision as to "quantum" (damages)).
+
+     In this case, however, this norm of finality has been sup-
+planted by statute.  Congress added subsection (b) to 47 
+U.S.C. s 208 in 1988.  See Pub. L. No. 100-594, s 8(c), 102 
+Stat. 3021 (1988).  This amendment converted what had been 
+s 208 - which allowed a broad group of entities to bring 
+complaints to the FCC challenging the actions of common 
+carriers, thus triggering investigations by the Commission of 
+the "matters complained of" - into what is now subsection (a).  
+In turn, the new provision, subsection (b), established time 
+limits pursuant to which certain investigations cognizable 
+under subsection (a) had to be concluded, and decreed that 
+dispositions in those investigations would be subject to imme-
+diate judicial scrutiny.  Thus, when the FCC conducts an 
+investigation into the "lawfulness" of a (1) charge, (2) classifi-
+cation, (3) regulation, or (4) practice, "any order concluding" 
+such an investigation is deemed to be a final order under 
+s 208(b).  This case falls squarely within the meaning of this 
+expediting amendment.
+
+     Our conclusion is compelled by the statutory text.  The 
+crucial word in s 208(b) is "lawfulness," which must be read 
+to mean what it says, namely that which is "allowed or 
+permitted by law."  Webster's Third New International 
+Dictionary 1279 (1993);  cf. Holland v. Williams Mountain 
+Coal Co., 256 F.3d 819, 826 (D.C. Cir. 2001) (Sentelle, J., 
+concurring) ("While it is fashionable in some legal circles to 
+deride 'hyper-technical reliance upon statutory provisions,' 
+this Court does not - and should not - move in them.") (citing 
+
+Palm Beach County Canvassing Bd. v. Harris, 772 So.2d 
+1220, 1227 (Fla. 2000), vacated, 531 U.S. 70 (2000)).  As such, 
+interpreted literally (as we think is proper), s 208(b) applies 
+to final determinations of liability of the sort that the FCC 
+has delivered here.
+
+     This conclusion is further buttressed by the fact that 
+s 208(b) does not mention damages.  By contrast, damages 
+are specifically covered in three other sections of the chapter:  
+s 206 makes common carriers who do anything "declared to 
+be unlawful" liable for damages;  s 207 allows any party 
+harmed by the actions of a common carrier to file a complaint 
+with the FCC seeking damages;  and s 209 authorizes the 
+Commission to "make an order directing the carrier to pay to 
+the complainant the sum to which he is entitled" if it deter-
+mines that damages are appropriate.  Given that s 208(b) 
+was designed to render only a limited category of FCC 
+decisions final, the failure of that provision to mention dam-
+ages, set against the explicit reference to damages in these 
+other provisions, militates in favor of applying s 208(b) as it 
+is written.
+
+     It is also noteworthy that s 201(b) declares all "charges, 
+practices, classifications, and regulations" that are "unjust or 
+unreasonable" to be "unlawful."  The categories listed in 
+s 201(b) are coterminous with those cognizable under 
+s 208(b), further suggesting that, as to this class of investiga-
+tions, a determination of lawfulness is separate and distinct 
+from a determination of what damages (if any) should flow 
+from a violation of the law.  For, even if the FCC ultimately 
+decides that the LECs need not pay any damages for their 
+EUCL charges, it would not follow from such a decision that 
+they had done nothing unlawful.  One can violate the law 
+without being made to pay for it.  Accordingly, when the 
+FCC conclusively resolved that the EUCL charges were 
+unreasonable within the meaning of s 201(b) and the Access 
+Charge Reconsideration, see Liability Order at 8766, p 20, it 
+simultaneously and necessarily concluded its investigation 
+into the "lawfulness" of those charges, as it left nothing more 
+to be said on the question of whether the LECs had run afoul 
+of the statute's proscriptions.
+
+     To the argument that the original "investigation" has not 
+been concluded because CFC's original complaint sought 
+damages, and the agency's failure to determine damages 
+means that it has not resolved all of the "matters complained 
+of" under s 208(a), our answer is simple.  The class of 
+investigations contemplated by s 208(b), and subject both to 
+that subsection's time limitations and finality rules, is narrow-
+er than the class of investigations contemplated by s 208(a).  
+Indeed, the FCC has conceded as much.  See Br. for Respon-
+dents at 32.  This difference in coverage is stark, and plain on 
+the face of the statute.  Under s 208(a), investigations can be 
+launched regarding "anything done or omitted to be done by 
+any common carrier subject to this chapter in contravention 
+of the provisions thereof."  By contrast, s 208(b) governs 
+only the four types of investigations enumerated above.  Its 
+text refers not to investigations "of the matters complained 
+of," but rather to investigations "of the lawfulness of a 
+charge, classification, regulation, or practice."
+
+     Taken together, then, the language of s 208(b), which 
+speaks only of lawfulness, and the structure of the common 
+carrier chapter, which contemplates separate determinations 
+of lawfulness and damages, compel the conclusion that when 
+the FCC enters an order dealing solely with the lawfulness of 
+a charge, that order is final under s 208(b)(3) even if it fails 
+to resolve a complainant's properly presented claim for dam-
+ages.  Our holding in no way limits how the Commission may 
+elect to investigate complaints under s 208.  No FCC order 
+is subject to review under s 208(b)(3) unless it actually 
+terminates an investigation of the lawfulness of a common 
+carrier's activities.  Thus, had the agency not bifurcated the 
+proceedings in this case, but instead reserved final judgment 
+on the LECs' liability until it was in a position to consider 
+damages simultaneously, this court would have been com-
+pelled to wait as well.  But, having elected to bifurcate, and 
+thus to render a conclusive finding that the LECs acted 
+unlawfully, the FCC subjected its decision to immediate 
+review.  Accordingly, we proceed to the merits of the LECs' 
+petition.
+
+B.   The LECs' Liability for Imposing EUCL Charges
+
+     The LECs argue that the Liability Order was arbitrary 
+and capricious for two related reasons.  First, they contend 
+that the Supreme Court's decision in Arizona Grocery Co. v. 
+Atchison, Topeka & Santa Fe Railway Co., 284 U.S. 370 
+(1932), precludes a finding of liability where a common carrier 
+imposes charges pursuant to and in reliance on the Commis-
+sion's official mandate.  Second, they assert that the FCC's 
+change in position amounted to a "new" rule, and, therefore, 
+the agency was foreclosed from applying it retroactively.  We 
+reject both claims.  In doing so, we emphasize that our 
+analysis here is limited to the question of whether it was 
+permissible for the FCC to hold the LECs liable for violating 
+the Communications Act.  We do not decide the question of 
+whether the FCC may award damages for the LECs' charges 
+that have been found to be unlawful.
+
+     1.   The Arizona Grocery Rule
+          
+     In Arizona Grocery, the Supreme Court held that the 
+Interstate Commerce Commission could not order a common 
+carrier to pay reparations for charging a rate that the agency 
+had explicitly approved at the time it was collected, but 
+subsequently determined to have been unreasonable.  In that 
+case, the ICC had, in a proceeding described by the Court as 
+"quasi-legislative," 284 U.S. at 388-89, ordered railroads ship-
+ping sugar from California to Phoenix, Arizona to charge no 
+rate exceeding 96.5 cents per 100 pounds.  In response, the 
+carriers adopted a rate of 86.5 cents, which they later reduced 
+to 84 cents;  these rates were then challenged before the 
+Commission.  In that proceeding, which the Court described 
+as "quasi-judicial," id. at 389, the agency determined that this 
+rate was unreasonable to the extent that it exceeded 71 to 73 
+cents and awarded the sugar shippers reparations from the 
+carriers for the difference.  The Supreme Court ultimately 
+held that this damages award was improper:
+
+     Where the Commission has, upon complaint and after 
+     hearing, declared what is the maximum reasonable rate 
+     to be charged by a carrier, it may not at a later time, and 
+     upon the same or additional evidence as to the fact 
+     
+     situation existing when its previous order was promulgat-
+     ed, by declaring its own finding as to reasonableness 
+     erroneous, subject a carrier which conformed thereto to 
+     the payment of reparation measured by what the Com-
+     mission now holds it should have decided in the earlier 
+     proceeding to be a reasonable rate.
+     
+Id. at 390.
+
+     Despite the superficial appeal of this passage, the rule 
+enunciated therein is of no help to the LECs in this case.  
+First, Arizona Grocery deals only with the power of the ICC 
+to award reparations to shippers for unreasonable rates that 
+they had paid to carriers.  See id. at 381 ("This case turns 
+upon the power of the Interstate Commerce Commission to 
+award reparations with respect to shipments which moved 
+under rates approved or prescribed by it.").  Arizona Gro-
+cery has been and should be understood in the terms in which 
+it was decided, as a proscription against the retroactive 
+revision of established rates through ex post reparations.  
+See, e.g., Alabama Power Co. v. ICC, 852 F.2d 1361, 1373 
+(D.C. Cir. 1988) (suggesting that Arizona Grocery stands for 
+the proposition that requiring railroads "to pay refunds, 
+based on a determination that the earlier Commission-
+approved rates were impermissible, runs counter to the well-
+established prohibition against retroactive ratemaking");  
+AT&T v. FCC, 836 F.2d 1386, 1394-95 (D.C. Cir. 1988) (Starr, 
+J., concurring) (citing Arizona Grocery for the "basic rule of 
+ratemaking" that "when the Commission determines that 
+existing rates are excessive, it cannot order a refund of past 
+payments under the revoked rate");  cf. Sea Robin Pipeline 
+Co. v. FERC, 795 F.2d 182, 189 n.7 (D.C. Cir. 1986) ("FERC 
+may not order a retroactive refund based on a post hoc 
+determination of the illegality of a filed rate's prescription.").
+
+     As such, neither Arizona Grocery nor the rule it announced 
+are concerned with a situation such as the one presented 
+here, in which we must decide not whether the FCC may 
+force the LECs to repay that which they took through EUCL 
+charges, but rather whether the Commission may make a 
+retroactive determination that those charges were unlawful at 
+
+the time that they were imposed.  Indeed, the rule against 
+retroactive ratemaking is premised on the implicit under-
+standing that an established rate is not made illegal if it is 
+later found to be impermissible or unreasonable.  See, e.g., 
+Arizona Grocery, 284 U.S. 370, 389 (1932) (the ICC "could 
+repeal the order as it affected future action, and substitute a 
+new rule of conduct as often as occasion might require, but 
+this was obviously the limit of its power, as of that of the 
+legislature itself");  Town of Norwood, Mass. v. FERC, 53 
+F.3d 377, 381 (D.C. Cir. 1995) ("The retroactive ratemaking 
+doctrine prohibits the Commission from authorizing or requir-
+ing a utility to adjust current rates to make up for past errors 
+in projections.  If a utility includes an estimate of certain 
+costs in its rates and subsequently finds out that the estimate 
+was too low, it cannot adjust future rates to recoup past 
+losses.");  Sea Robin, 795 F.2d at 189 n.7 ("Sea Robin had a 
+right to rely on the legality of the filed rate once the 
+Commission allowed it to become effective.").  The subse-
+quent determination rejecting the earlier rate prescription is 
+similar to a congressional action revising an earlier statutory 
+enactment - the later action may suggest that the original 
+legislative act was ill-advised, but this will not justify repara-
+tions for persons who were disadvantaged by the original 
+legislative enactment.  This case does not involve the sort of 
+ratemaking contemplated by Arizona Grocery, so the same 
+assumptions do not apply here.
+
+     Second, in light of the implicit assumptions underlying the 
+rule against retroactive revision of established rates through 
+ex post reparations, it is not surprising that the Court in 
+Arizona Grocery observed that the ICC had prescribed a 
+legal rate in its "quasi-legislative capacity."  284 U.S. at 388.  
+The Court recognized that ratemaking - "fixing rates or rate 
+limits for the future" - is a legislative function, and held that 
+once the Commission had exercised such a power it could only 
+undo the results prospectively.  Id. at 388-89.  In other 
+words, Arizona Grocery, by its own terms, does not apply 
+where an adjudicating agency alters, even with retroactive 
+effect, a policy established in a previous quasi-judicial action.  
+Nor has it ever been so applied.  The lines between these 
+
+categories of activity are not always clear - indeed, in Ari-
+zona Grocery itself the quasi-legislative rates were estab-
+lished in an adjudicatory proceeding, see id. at 388.  Never-
+theless, the Court in Arizona Grocery made clear that there 
+is an important distinction between rules resulting from 
+quasi-adjudication and rules resulting from quasi-legislation.  
+We are therefore bound to follow the Court's mandate and 
+apply this distinction.
+
+     With these principles in mind, we are constrained to con-
+clude that the FCC's actions in this case are not governed by 
+the rule established in Arizona Grocery.  The Access Charge 
+Reconsideration, a rulemaking designed to establish how the 
+LECs were to recover end-user costs in the future, was 
+undoubtedly legislative in character.  But this rulemaking 
+was not "revised" by the Liability Order that the LECs now 
+challenge.  Rather, the Liability Order merely corrected the 
+EUCL Decisions, agency adjudications that had erroneously 
+interpreted the original Access Charge Reconsideration by 
+holding that particular instances of challenged conduct on the 
+part of the LECs did not violate the regulations arising from 
+that rulemaking.  In those decisions, the FCC did not pur-
+port to substitute a new legislative rule for an old one.  
+Moreover, when the court in C.F. Communications vacated 
+the judgment in the EUCL Decisions, it did so on the 
+grounds that the FCC had misconstrued the Access Charge 
+Reconsideration rulemaking.  See 128 F.3d at 741-42.  Our 
+opinion in that case did not, however, suggest that the 
+underlying rulemaking was in any way infirm.  And on 
+remand, the FCC issued the Liability Order to rectify the 
+errors found pursuant to the judicial review of the EUCL 
+Decisions.
+
+     Therefore, the FCC's actions in issuing the orders in the 
+EUCL Decisions and the Liability Order were not analogous 
+to the situation in Arizona Grocery.  In Arizona Grocery, the 
+ICC purported to retroactively revise an established rate 
+(that was the product of a "quasi-legislative" action);  in this 
+case, by contrast, the FCC purported to interpret and apply 
+legislative regulations in succeeding adjudications.
+
+     There is no doubt that the EUCL Decisions were intended 
+to have prospective application, in the sense that these adjudi-
+catory actions purported to interpret the Access Charge Re-
+consideration rulemaking, which remained in force all along.  
+But this fact does not advance the LECs' argument.  It is 
+well understood that judicial interpretations of legislative 
+enactments have consequences for parties in the future;  yet, 
+this does not render the statutory construction a legislative 
+activity.  See Japan Whaling Ass'n v. Am. Cetacean Soc., 478 
+U.S. 221, 230 (1986) ("[u]nder the Constitution, one of the 
+Judiciary's characteristic roles is to interpret statutes ...");  
+Northwest Airlines, Inc. v. Transport Workers Union of Am., 
+451 U.S. 77, 95 & n.34 (1981) (emphasizing that "the federal 
+lawmaking power is vested in the legislative, not the judicial, 
+branch of government," but that once the legislature speaks, 
+"the task of the federal courts is to interpret and apply 
+statutory law").  So too with adjudication by administrative 
+agencies.  See Bowen v. Georgetown Univ. Hosp., 488 U.S. 
+204, 216-17 (1988) (Scalia, J., concurring) ("Adjudication ... 
+has future as well as past legal consequences, since the 
+principles announced in an adjudication cannot be departed 
+from in future adjudications without reason.");  Goodman v. 
+FCC, 182 F.3d 987, 994 (D.C. Cir. 1999) ("[T]he nature of 
+adjudication is that similarly situated non-parties may be 
+affected by the policy or precedent applied, or even merely 
+announced in dicta, to those before the tribunal.").  To sug-
+gest, as the LECs do here, that the EUCL Decisions were 
+somehow "legislative" merely because they interpreted a 
+rulemaking or because they had some future impact would 
+entirely collapse the distinction between rulemaking and adju-
+dication, and thus the very distinction on which Arizona 
+Grocery rests.  As such, we hold that when the FCC depart-
+ed from the EUCL Decisions in a subsequent adjudication, it 
+was not constrained by Arizona Grocery's blanket prohibition 
+on retroactive repeals of quasi-legislative ratemaking.
+
+     2.   The Retroactivity Doctrine
+          
+     This is not to say that agency adjudications that modify or 
+repeal rules established in earlier adjudications may always 
+and without limitation be given retroactive effect.  To the 
+
+contrary, there is a robust doctrinal mechanism for alleviating 
+the hardships that may befall regulated parties who rely on 
+"quasi-judicial" determinations that are altered by subsequent 
+agency action.  Over fifty years ago, in SEC v. Chenery 
+Corp., 332 U.S. 194, 203 (1947), the Supreme Court cautioned 
+that the ill effects of retroactivity "must be balanced against 
+the mischief of producing a result which is contrary to a 
+statutory design or to legal and equitable principles."
+
+     In the ensuing years, in considering whether to give retro-
+active application to a new rule, the courts have held that
+
+     [t]he governing principle is that when there is a "substi-
+     tution of new law for old law that was reasonably clear," 
+     the new rule may justifiably be given prospectively-only 
+     effect in order to "protect the settled expectations of 
+     those who had relied on the preexisting rule."  Williams 
+     Natural Gas Co. v. FERC, 3 F.3d 1544, 1554 (D.C. Cir. 
+     1993).  By contrast, retroactive effect is appropriate for 
+     "new applications of [existing] law, clarifications, and 
+     additions."  Id.
+     
+Pub. Serv. Co. of Colo. v. FERC, 91 F.3d 1478, 1488 (D.C. Cir. 
+1996) ("PSCC").  See also Aliceville Hydro Assocs. v. FERC, 
+800 F.2d 1147, 1152 (D.C. Cir. 1986) (discussing the distinc-
+tion between "new applications of law" and "substitutions of 
+new law for old law").  In a case in which there is a 
+"substitution of new law for old law that was reasonably 
+clear," a decision to deny retroactive effect is uncontroversial.  
+Epilepsy Found. of N. Ohio v. NLRB, No. 00-1332, slip op. at 
+12-13 (D.C. Cir. Nov. 2, 2001).  In cases in which there are 
+"new applications of existing law, clarifications, and addi-
+tions," the courts start with a presumption in favor of retroac-
+tivity.  See, e.g., Health Ins. Ass'n of Am. v. Shalala, 23 F.3d 
+412, 424 (D.C. Cir. 1994). However, retroactivity will be 
+denied "when to apply the new rule to past conduct or to 
+prior events would work a 'manifest injustice.' "  Clark-
+Cowlitz Joint Operating Agency v. FERC, 826 F.2d 1074, 
+1081 (D.C. Cir. 1987) (en banc) (quoting Thorpe v. Housing 
+Auth. of the City of Durham, 393 U.S. 268, 282 (1969));  see 
+also Consol. Freightways v. NLRB, 892 F.2d 1052, 1058 (D.C. 
+Cir. 1989).
+
+     This court has not been entirely consistent in enunciating a 
+standard to determine when to deny retroactive effect in 
+cases involving "new applications of existing law, clarifica-
+tions, and additions" resulting from adjudicatory actions.  In 
+Clark-Cowlitz, the en banc court adopted a non-exhaustive 
+five-factor balancing test, see 826 F.2d at 1081-86 (citing 
+Retail, Wholesale & Dep't Store Union v. NLRB, 466 F.2d 
+380, 390 (D.C. Cir. 1972).  In a subsequent case, however, we 
+substituted a similar three-factor test.  See Dist. Lodge 64 v. 
+NLRB, 949 F.2d 441, 447-49 (D.C. Cir. 1991) (citing Chevron 
+Oil Co. v. Huson, 404 U.S. 97, 106-07 (1971)).  And in other 
+cases, the court has jettisoned multi-pronged balancing ap-
+proaches altogether.  See Cassell v. FCC, 154 F.3d 478, 486 
+(D.C. Cir. 1998) (declining to "plow laboriously" through the 
+Clark-Cowlitz factors, which "boil down to a question of 
+concerns grounded in notions of equity and fairness");  PSCC, 
+91 F.3d at 1490 (concluding that "the apparent lack of detri-
+mental reliance ... is the crucial point supporting retroactivi-
+ty").
+
+     In the present case, the LECs argue that the Liability 
+Order should not be given retroactive effect, because it would 
+be grossly unfair to punish them for imposing EUCL charges 
+that were approved, and perhaps even required, by the 
+authoritative pronouncements of the Commission itself.  Be-
+fore addressing these concerns, we note that even if we were 
+to accept the LECs' argument in full, there would still remain 
+a period of approximately four years - from the IPPs' entry 
+into the payphone market in 1984 until the first Thomas letter 
+in 1988 - during which no claim of reliance can possibly be 
+maintained.  During this period, the LECs imposed EUCL 
+fees on the IPPs wholly on their own initiative, i.e., without 
+specific guidance from the FCC, and thus entirely at their 
+own risk.
+
+     That said, we conclude that the FCC's decision to hold the 
+LECs liable for EUCL charges levied even after the Commis-
+sion had spoken on the issue was not an abuse of discretion or 
+otherwise impermissible.  In reaching this determination, we 
+rely primarily on two factors.  The first is the fact that the 
+FCC's policy regarding the propriety of imposing end-user 
+
+fees on IPPs was never authoritatively articulated outside of 
+the same complaint proceeding in which it was eventually 
+reversed.  Indeed, the two EUCL Decisions, on which the 
+LECs' reliance argument primarily rests, were part of a 
+single chain of decisions triggered by CFC's original com-
+plaint, a chain whose natural progression led to this court, 
+where the Commission's holdings were vacated.  Thus, the 
+agency orders on which the LECs claim to have relied not 
+only had never been judicially confirmed, but were under 
+unceasing challenge before progressively higher legal authori-
+ties.  Our cases indicate that under such circumstances reli-
+ance is typically not reasonable, a conclusion that significantly 
+decreases concerns about retroactive application of the rule 
+eventually announced.  See Clark-Cowlitz, 826 F.2d at 1083 
+n.7 ("[A] holding of nonretroactivity ... cannot be premised 
+on a single, recent agency decision ... that is still in the 
+throes of litigation when it is overruled.").
+
+     Indeed, our holding in PSCC is directly on point here.  In 
+that case, a group of natural gas producers increased the 
+prices that they charged their pipeline customers in order to 
+recover an ad valorem tax imposed by the state of Kansas;  
+the legal theory behind this increase was that this tax was a 
+severance tax under s 110 of the Natural Gas Policy Act.  
+These price hikes were challenged before FERC, which sided 
+with the producers, holding that the Kansas tax came within 
+the meaning of s 110.  Reviewing this decision, this court 
+found that FERC's statutory interpretation was unreasonable 
+and reversed.  On remand, the Commission retreated from 
+its earlier analysis and found that the tax did not qualify as a 
+severance tax, and therefore that the producers had over-
+charged the pipelines. We upheld the retroactive application 
+of this decision, in the process rejecting the claims of reliance 
+advanced by the producers, claims that uncannily echo those 
+made by the LECs in the present case.  91 F.3d at 1488-91.  
+The court held that as soon as the pipelines had petitioned 
+the Commission for a ruling that the producers' preferred 
+interpretation of s 110 was incorrect, the producers were put 
+on notice that the recoverability of the tax was "in dispute."  
+Once this challenge had been lodged, it was then unreason-
+
+able for the producers to rely on that interpretation, even 
+though it was explicitly endorsed by the agency before ulti-
+mately being reversed by this court.  Id. at 1490.  Thus, we 
+concluded that it was appropriate for FERC to hold the 
+producers liable for that which they had taken when the law 
+was uncertain but the Commission was on their side.  Just so 
+here.  Because the object of the LECs' reliance was neither 
+settled (but rather was perpetually enmeshed in litigation) 
+nor "well-established," see Clark-Cowlitz, 826 F.2d at 1083 
+("[T]he Commission's ruling in that solitary proceeding can 
+scarcely be viewed as 'well-established.' "), we are skeptical 
+that retroactive liability against the LECs would actually 
+impose a manifest injustice.  In light of the ongoing legal 
+challenges to the EUCL Decisions, whatever reliance the 
+LECs placed on those rulings was something short of reason-
+able for purposes of the retroactivity analysis.
+
+     The second factor pointing toward retroactive liability is 
+that the agency pronouncements on which the LECs relied 
+were subsequently held by this court to be mistaken as a 
+matter of law.  As such, the FCC's Liability Order was 
+largely an exercise in error correction.  We have previously 
+held that administrative agencies have greater discretion to 
+impose their rulings retroactively when they do so in re-
+sponse to judicial review, that is, when the purpose of retroac-
+tive application is to rectify legal mistakes identified by a 
+federal court.  See Exxon Co., USA v. FERC, 182 F.3d 30, 
+49-50 (D.C. Cir. 1999);  cf. Pub. Utils. Comm'n of the State of 
+Cal. v. FERC, 988 F.2d 154, 161-63 (D.C. Cir. 1993) (noting 
+that the normal rule against retroactive ratemaking may be 
+relaxed where the original order was challenged and deter-
+mined by this court to be unlawful).  Indeed, there can be 
+little dispute that had the FCC originally (whether in 1993 or 
+1995) held in favor of the IPPs, the Commission at that point 
+would have been well within its rights to have held the LECs 
+liable for violating the unreasonable charge provisions of 47 
+U.S.C. s 201(b).  As such, the LECs' argument that the FCC 
+may not reach the same conclusion now reduces to the 
+assertion that the agency may not retroactively correct its 
+own legal mistakes, even when those missteps have been 
+
+highlighted by the federal judiciary.  But this is not the law.  
+See United Gas Improvement Co. v. Callery Props., Inc., 382 
+U.S. 223, 229 (1965) ("An agency, like a court, can undo what 
+is wrongfully done by virtue of its order.");  Natural Gas 
+Clearinghouse v. FERC, 965 F.2d 1066, 1073 (D.C. Cir. 1992) 
+(reading Callery to embody the "general principle of agency 
+authority to implement judicial reversals").
+
+     In sum, then, the IPPs should not be denied now what they 
+asked for in their original complaint - a determination that 
+the LECs violated the law - merely because the FCC bun-
+gled their case the first time around.  To do so would make a 
+mockery of the error-correcting function of appellate review.  
+It would be to say that the LECs must prevail now because 
+they (wrongfully) prevailed below.  We are unwilling to tie 
+the Commission's hands in this way.  Cf. Exxon USA, 182 
+F.3d at 49 ("There is also a strong equitable presumption in 
+favor of retroactivity that would make the parties whole.").  
+As such, we conclude that the Liability Order represented a 
+permissible exercise of the FCC's discretion and therefore 
+deny the LECs' petition for review.
+
+     Having upheld the imposition of retroactive liability, we 
+decline to address whether a similar finding regarding dam-
+ages would be equally permissible.  As described above, the 
+FCC has not yet entered a final order with respect to 
+damages.  Both the amount that the LECs will ultimately 
+have to pay, and the time period that those payments will 
+cover, remain for determination.  As such, the LECs' conten-
+tion that equitable restitution, and not legal damages, is the 
+sole remedy available to the IPPs, see Atlantic Coast Line 
+R.R. Co. v. Florida, 295 U.S. 301 (1935);  Moss v. Civil 
+Aeronautics Bd., 521 F.2d 298, 314 (D.C. Cir. 1975), is plainly 
+not ripe for adjudication at this time.  See Abbott Labs. v. 
+Gardner, 387 U.S. 136, 149-50 (1967).  Only after the Com-
+mission both commits itself to a method for calculating the 
+proper amount of the award, and concretely applies that 
+method to the LECs, will this court be in a position to 
+evaluate the arguments regarding damages.  See Eagle-
+Pitcher Indus., Inc. v. EPA, 759 F.2d 905, 915 (D.C. Cir. 
+
+1985).  By bifurcating the proceedings as it did, the FCC left 
+those decisions for another day.
+
+     As we read the Liability Order, the FCC has suggested a 
+possible means for figuring damages, but has not foreclosed 
+the possibility of modifying that suggestion during the next 
+phase of the proceedings.  See Liability Order at 8771, 
+p p 33-34.  Specifically, the FCC has not reached a conclusive 
+determination that it will compel the LECs to return all of 
+the monies that they collected in possible reliance on the 
+FCC's official pronouncements.  Nor has it rendered a final 
+judgment that the LECs are not entitled to some kind of 
+equitable offset in light of such reliance.  We will not pre-
+judge these issues in advance of the agency.
+
+                         III. Conclusion
+
+     For the reasons given above, we hold that the Liability 
+Order is final despite its failure to reach the issue of damages.  
+Rejecting the LECs' arguments that either the Arizona 
+Grocery doctrine or the rule against retroactivity bars the 
+FCC from imposing liability, we deny the petition for review 
+and uphold the Commission's finding that the LECs violated 
+the unreasonable charge provisions of the Communications 
+Act.  At the same time, we express no opinion as to whether 
+damages or some other monetary remedy are appropriate in 
+this case, or whether such a remedy, if appropriate, may be 
+imposed retroactively.
+
+                                                                         

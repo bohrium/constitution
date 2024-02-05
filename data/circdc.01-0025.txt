@@ -1,0 +1,385 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued December 13, 2000   Decided January 12, 2001 
+
+                           No. 99-5327
+
+                         Jane G. Fitts, 
+                            Appellant
+
+                                v.
+
+            Federal National Mortgage Association and 
+             Unum Life Insurance Company of America, 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv00617)
+
+     John J. Witmeyer III argued the cause for appellant.  
+With him on the briefs was David E. Schreiber.
+
+     M. Carolyn Cox argued the cause for appellee Federal 
+National Mortgage Association.  With her on the brief was 
+Craig Goldblatt.
+
+     Frank C. Morris, Jr. argued the cause for appellee Unum 
+Life Insurance Company of America.  With him on the brief 
+was Ann M. Courtney.
+
+     Before:  Edwards, Chief Judge, Rogers and Garland, 
+Circuit Judges.
+
+     Opinion for the court filed Per Curiam.
+
+     Per Curiam:  Jane G. Fitts sued her former employer and 
+the insurance company that administers claims under the 
+employer's long-term disability plan, alleging that they violat-
+ed the Americans with Disabilities Act of 1990 (ADA) and the 
+Employee Retirement Income Security Act of 1974 (ERISA) 
+by terminating her disability benefits after 24 months.  The 
+district court dismissed Fitts' ADA counts and granted sum-
+mary judgment against her on the ERISA count.  We affirm 
+the dismissal of the ADA counts on the ground that the long-
+term disability plan comes within the safe harbor provisions 
+of that statute.  Because we conclude that the district court 
+applied the wrong standard of review to the ERISA count, 
+however, we reverse the grant of summary judgment and 
+remand the case for further proceedings.
+
+                                I
+
+     Under its employee welfare benefit plan, the Federal Na-
+tional Mortgage Association ("Fannie Mae")1 offers its em-
+ployees the opportunity to select from an array of benefits, 
+including a long-term disability insurance policy provided by 
+Unum Life Insurance Company of America.  In the event 
+that an employee insured under the policy later becomes 
+totally disabled, the policy pays a percentage of the employ-
+ee's income until the age of 65.  The policy, however, places a 
+24-month cap on benefits for disabilities due to mental illness, 
+which it defines as "mental, emotional or nervous diseases or 
+disorders of any type."
+
+__________
+     1 Fannie Mae is a federally-chartered, private corporation that 
+facilitates the secondary market in residential mortgages.  Federal 
+National Mortgage Association Charter Act, 12 U.S.C. s 1716b.
+
+     Jane Fitts, an attorney, was employed by Fannie Mae from 
+1982 to 1995 and paid the required premiums for the long-
+term disability policy.  In 1995, Fitts became disabled by 
+bipolar disorder, an illness characterized by cycles of depres-
+sive and manic episodes.  See Am. Psychiatric Ass'n, Diagnos-
+tic & Statistical Manual of Mental Disorders 395 (4th ed. 
+text rev. 2000).  Fitts applied to Unum for benefits under the 
+policy, which Unum granted.  Because Unum classified her 
+disorder as a mental illness, however, it limited her benefits 
+to 24 months.  Fitts unsuccessfully protested Unum's deci-
+sion, arguing that bipolar disorder is associated with changes 
+in the physical structure of the brain and often runs in 
+families, suggesting genetic causation.  Unum asserts that it 
+invited Fitts to submit additional medical information sup-
+porting her claims, but that she responded only with "conclu-
+sory" letters from her treating psychiatrist and two other 
+psychiatrists.  Fitts asserts that she signed a release permit-
+ting Unum to view her entire medical file, which contained 
+data supporting her claim.  Unum refused to alter its classifi-
+cation of bipolar disorder as a mental illness and ceased 
+paying Fitts benefits after 24 months.
+
+     Fitts sued both Unum and Fannie Mae, contending that the 
+termination of her benefits after 24 months violated Titles I 
+and III of the ADA, 42 U.S.C. ss 12101-12213.  Title I 
+prohibits a covered employer from discriminating "against a 
+qualified individual with a disability because of the disability 
+of such individual in regard to ... [the] terms, conditions and 
+privileges of employment."  42 U.S.C. s 12112(a).  Title III 
+prohibits discrimination "on the basis of disability in the full 
+and equal enjoyment of the goods, services, facilities, privi-
+leges, advantages, or accommodations of any place of public 
+accommodation ...."  42 U.S.C. s 12182(a).  Fitts also 
+claimed that the termination of her benefits violated ERISA, 
+29 U.S.C. ss 1001-1461, which entitles a participant or bene-
+ficiary of a covered plan "to recover benefits due to him under 
+the terms of his plan," 29 U.S.C. s 1132(a)(1)(B).2
+
+__________
+     2 In addition, Fitts asserted claims under the District of Columbia 
+Human Rights Act (DCHRA), D.C. Code s 1-2501 et seq., and 
+
+     Pursuant to Federal Rule of Civil Procedure 12(b)(6), the 
+district court dismissed Fitts' claim under Title I of the ADA 
+because, as a totally disabled individual, she was not a 
+"qualified individual with a disability" eligible to sue under 
+Title I.  Fitts v. Federal Nat'l Mortgage Ass'n, 44 F. Supp. 
+2d 317, 322-23 (D.D.C. 1999).  The court also dismissed Fitts' 
+claim under Title III of the ADA, finding that the long-term 
+disability policy was not a good or service provided by a 
+public accommodation and hence that neither Fannie Mae nor 
+Unum was subject to suit under that Title.  Id. at 324.  
+Finally, the court granted Unum's motion for summary judg-
+ment on Fitts' ERISA claim, ruling that Unum had not acted 
+in an arbitrary and capricious manner in classifying bipolar 
+disorder as a mental illness.  Fitts v. Federal Nat'l Mortgage 
+Ass'n, 77 F. Supp. 2d 9, 24 (D.D.C. 1999).  We review both 
+the dismissal of the ADA claims and the grant of summary 
+judgment on the ERISA claim de novo.  See Systems Council 
+EM-3 v. AT&T Corp., 159 F.3d 1376, 1378 (D.C. Cir. 1998);  
+Heller v. Fortis Benefits Ins. Co., 142 F.3d 487, 492 (D.C. Cir. 
+1998).
+
+                                II
+
+     In EEOC v. Aramark Corp., 208 F.3d 266 (D.C. Cir. 2000), 
+plaintiffs challenged an employee benefit plan that provided 
+24 months of long-term disability benefits for persons with 
+disabilities caused "to any extent" by mental conditions, but a 
+longer benefit period for those with physical disabilities.  As 
+Fitts does here, the Aramark plaintiffs contended that the 
+
+__________
+District of Columbia common law.  The district court dismissed 
+those claims.  Fitts did not appeal the dismissal of her common law 
+claims and has not argued the DCHRA issue in her briefs.  Accord-
+ingly, neither is before us on this appeal.  See Fed. R. App. P. 
+28(a)(9) (brief must "contain appellant's contentions and the reasons 
+for them");  see also Artis v. Greenspan, 158 F.3d 1301, 1302 n.1 
+(D.C. Cir. 1998) (issues listed but not briefed may be deemed 
+waived).  The one sentence Fitts provides on the DCHRA issue in 
+her reply brief is insufficient, and we would not in any event 
+consider an argument raised for the first time in a reply brief.  See 
+Herbert v. Nat'l Acad. of Sciences, 974 F.2d 192, 196 (D.C. Cir. 
+1992).
+
+early termination of disability benefits violated Titles I and 
+III of the ADA.  The district court dismissed the Aramark 
+plaintiffs' claims for the same reasons relied upon by the 
+district court here.  On appeal, we declined to address the 
+district court's reasons, affirming instead on a different 
+ground--that the challenged plan was protected by the 
+ADA's safe harbor for bona fide employee benefit plans.  
+Aramark, 208 F.3d at 268.  That provision, contained in ADA 
+s 501(c), states:
+
+     Subchapters I through III of this chapter and title IV of 
+     this Act shall not be construed to prohibit or restrict--
+     
+               (1) an insurer ... or any agent, or entity that 
+          administers benefit plans, or similar organizations 
+          from underwriting risks, classifying risks, or adminis-
+          tering such risks that are based on or not inconsistent 
+          with State law;  or
+          
+               (2) a person or organization covered by this chapter 
+          from establishing, sponsoring, observing or administer-
+          ing the terms of a bona fide benefit plan that are based 
+          on underwriting risks, classifying risks, or administer-
+          ing such risks that are based on or not inconsistent 
+          with State law;  or
+          
+               (3) a person or organization covered by this chapter 
+          from establishing, sponsoring, observing or administer-
+          ing the terms of a bona fide benefit plan that is not 
+          subject to State laws that regulate insurance.
+          
+     Paragraphs (1), (2), and (3) shall not be used as a 
+     subterfuge to evade the purposes of subchapter[s] I and 
+     III of this chapter.
+     
+42 U.S.C. s 12201(c).
+
+     The Aramark parties agreed that the benefit plan came 
+within the language of s 501(c)(3), because it was "bona fide 
+in that it exists and pays benefits," 208 F.3d at 269 (quoting 
+Public Employees Ret. Sys. of Ohio v. Betts, 492 U.S. 158, 166 
+(1989)), and because the preemption provisions of ERISA 
+rendered it "not subject to State laws that regulate insur-
+ance," id. (quoting 42 U.S.C. s 12201(c)(3)).  Plaintiffs ar-
+
+gued, however, that the plan failed to qualify for safe harbor 
+because it was a "subterfuge."  Id. We disagreed, holding 
+that because Aramark's long-term disability benefit plan, 
+including the 24-month cap on mental disability benefits, had 
+been in place since 1982--long before the ADA's 1990 enact-
+ment--the 24-month benefit limit could not fall within 
+s 501(c)'s subterfuge exception to the safe harbor.  Aramark, 
+208 F.3d at 269-70.
+
+     At Fitts' request, her appeal was held in abeyance pending 
+the decision in Aramark.  The parties have fully briefed the 
+safe harbor issue, including the applicability of Aramark to 
+the instant case.  We conclude that Aramark controls here 
+and requires that we affirm the dismissal of Fitts' ADA 
+claims.
+
+     Like the plaintiffs in Aramark, Fitts does not dispute that 
+Fannie Mae's long-term disability plan, as implemented 
+through the Unum policy, comes within the language of 
+s 501(c)(3) as a bona fide benefit plan not subject to state law 
+because of ERISA preemption.  Fitts does contend that the 
+plan is a "subterfuge," but in light of Aramark that argument 
+is unavailing:  Fitts concedes that the 24-month cap on dis-
+ability benefits for mental illness has been in place--without 
+modification--since at least 1985.  Although Fitts argues that 
+the intentional retention of the cap since the 1990 passage of 
+the ADA renders the subterfuge provision applicable, adop-
+tion of such a theory would eviscerate the rule announced in 
+Aramark.  Accordingly, we conclude that Fannie Mae falls 
+within the protection of the safe harbor provision of 
+s 501(c)(3).
+
+     Unum is likewise eligible for safe harbor protection, al-
+though as the insurer it is protected under s 501(c)(1) rather 
+than (c)(3).  Subsection (c)(1) requires both that the long-
+term disability plan not be a subterfuge to evade the purposes 
+of the ADA and that it not be "inconsistent with State law."  
+The record contains an uncontested declaration that the 
+Unum policy was approved by the District of Columbia 
+Department of Insurance and Securities Regulation, J.A. at 
+30, and Fitts cites no District of Columbia case or statute 
+with which the plan is inconsistent.  Accordingly, we affirm 
+
+the dismissal of appellant's ADA claims against both Fannie 
+Mae and Unum.
+
+                               III
+
+     Under ERISA, a participant in or beneficiary of a covered 
+plan may sue "to recover benefits due to him under the terms 
+of his plan."  29 U.S.C. s 1132(a)(1)(B).  Fitts contends that 
+Unum and Fannie Mae improperly classified her disability as 
+mental rather than physical, and hence improperly terminat-
+ed her long-term disability benefits after only 24 months.  
+The district court concluded that the appropriate standard of 
+review for that classification was whether it was arbitrary and 
+capricious, determined that it was not, and granted summary 
+judgment for defendants.
+
+     In Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101 
+(1989), the Supreme Court held that a denial of benefits 
+challenged under ERISA s 1132(a)(1)(B) is to be reviewed 
+under a de novo standard--not under the more deferential 
+arbitrary and capricious standard--"unless the benefit plan 
+gives the administrator or fiduciary discretionary authority to 
+determine eligibility for benefits or to construe the terms of 
+the plan."  489 U.S. at 115.  Firestone's employee benefit 
+plan provided severance benefits for employees "if released 
+because of a reduction in work force or if ... physically or 
+mentally unable to perform [the] job."  Id. at 105-06.  The 
+Court held that those provisions did not require that the 
+administrator's eligibility determinations be given deference.  
+Id. at 111-12.
+
+     Unum contends that, as the claims administrator of the 
+long-term disability policy, it has discretionary authority to 
+determine benefits eligibility because the policy requires the 
+insured to submit proof of disability.  Such a requirement, 
+Unum asserts, necessarily gives the insurer discretion be-
+cause it must evaluate the legitimacy of the proof submitted.  
+Unum Br. at 10.  As Unum conceded at oral argument, 
+however, virtually all insurance policies require proof of eligi-
+bility before the dispensation of benefits--hardly a surprising 
+fact, since insurance companies are not in the business of 
+
+giving away money to anyone who requests it.  Accordingly, 
+if we were to regard any plan that requires proof of eligibility 
+as conferring discretion, Firestone's exception would swallow 
+its rule and render the standard of review deferential in 
+almost every case.  As Unum's argument would effectively 
+circumvent the Supreme Court's decision, we cannot accept 
+it.3
+
+     As a fallback, Unum points out that under Fannie Mae's 
+Flexible Benefits Plan, of which the long-term disability 
+insurance plan is a part, the company's Benefit Plans Com-
+mittee is designated the Plan Administrator, s 2.01(e), and is 
+to "be afforded maximum deference allowed by law" in all of 
+its "decisions, interpretations [and] determinations," s 7.01.  
+The Plan further provides that the Committee "may" dele-
+gate its authority to "outside consultants or companies," 
+including "those matters involving the exercise of discretion."  
+s 7.03 (emphasis added).  Unum contends that "by purchas-
+ing and incorporating into its plan the terms of the long-term 
+disability policy, which itself grants Unum discretion, Fannie 
+Mae in fact did delegate discretionary authority to Unum."  
+Unum Br. at 9.
+
+     First, as we have noted above, the policy does not grant 
+Unum discretion;  hence the purchase and incorporation of 
+
+__________
+     3 Most circuits that have considered the issue have concluded that 
+the mere requirement of proof of eligibility does not confer discre-
+tion upon an administrator.  See Herzberger v. Standard Ins. Co, 
+205 F.3d 327, 332 (7th Cir. 2000) ("That the plan administrator will 
+not pay benefits until he receives satisfactory proof of entitlement 
+... states the obvious, echoing standard language in insurance 
+contracts not thought to confer any discretionary powers on the 
+insurer.");  see also Feder v. Paul Revere Life Ins. Co., 228 F.3d 
+518, 524 (4th Cir. 2000);  Kinstler v. First Reliance Standard Life 
+Ins. Co., 181 F.3d 243, 252 (2d Cir. 1999);  Kearney v. Standard Ins. 
+Co., 175 F.3d 1084, 1089-90 (9th Cir. 1999) (en banc).  Unum relies 
+heavily on the Sixth Circuit's decision in Perez v. Aetna Life Ins. 
+Co., 150 F.3d 550 (6th Cir. 1998).  The policy at issue there, 
+however, did not simply require proof of eligibility but "satisfacto-
+ry" proof.  No such language appears in Unum's policy.  Moreover, 
+Perez's view has been rejected by the above-cited circuits.
+
+the policy into the benefits plan establishes nothing.  Nor is 
+there any other indication that Fannie Mae (or, more precise-
+ly, the Committee) has delegated any discretionary authority 
+to Unum to determine eligibility.4  Finally, there is no "deci-
+sion[ ], interpretation[ ] [or] determination[ ]" by Fannie Mae 
+itself at issue here.  Fannie Mae has renounced its own 
+discretionary authority with respect to disability benefits 
+determinations.  See Fannie Mae Br. at 11.  At oral argu-
+ment, the parties agreed that Fannie Mae exercised no 
+discretion with respect to the eligibility determination in this 
+case, and further agreed that there is no appeal to Fannie 
+Mae from Unum's disability benefit determinations.  Thus, 
+neither Unum nor Fannie Mae exercised the discretion that 
+would justify the application of arbitrary and capricious re-
+view.
+
+     For the foregoing reasons, we conclude that Unum's classi-
+fication of Fitts' illness as mental rather than physical must 
+be reviewed de novo.  We do not, however, proceed with the 
+de novo review ourselves, because numerous factual disagree-
+ments persist.  Fitts contends that if Unum's classification is 
+reviewed de novo, the record will demonstrate that her 
+disability is physical;  Unum asserts the contrary.  Fitts 
+contends that current medical research on bipolar disorder 
+supports her claim;  Unum argues that there is no such 
+medical consensus.  Unum asks us to rule on a motion to 
+exclude certain items of evidence proffered by the plaintiff;  
+Fitts argues that the evidence is admissible.  Although the de 
+novo standard might theoretically permit this court to per-
+form the necessary review, the intensely factual nature of the 
+record counsels that we return the case for the district court's 
+examination.  In light of the change in the standard of 
+review, the parties will be free to supplement the existing 
+record by, inter alia, submitting current medical evidence 
+regarding bipolar disorder.
+
+__________
+     4 Indeed, section 7.10(d) of the Plan provides that "notwithstand-
+ing any other provision of this section 7, claims with respect to the 
+benefits provided under an insurance contract ... shall be made 
+and reviewed under the terms of such contract."  As discussed, the 
+terms of the long-term disability policy do not confer discretion on 
+Unum.
+
+                                IV
+
+     We affirm the district court's dismissal of Fitts' claims 
+under the ADA on the ground that the long-term disability 
+plan is protected by the statute's safe harbor provision.  We 
+reverse the court's grant of summary judgment on the 
+ERISA claim, however, and remand for de novo review of 
+Unum's classification of Fitts' disability as a mental illness.
+
+   

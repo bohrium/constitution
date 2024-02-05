@@ -1,0 +1,654 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 14, 2001   Decided December 7, 2001 
+
+                           No. 00-1438
+
+                  RAG Cumberland Resources LP, 
+                            Petitioner
+
+                                v.
+
+      Federal Mine Safety and Health Review Commission and 
+                       Secretary of Labor, 
+                           Respondents
+
+            On Petition for Review of an Order of the 
+         Federal Mine Safety and Health Review Commission
+
+     Ralph Henry Moore II argued the cause and filed the 
+briefs for petitioner.
+
+     Harold P. Quinn, Jr. and Michael F. Duffy were on the 
+brief for amicus curiae National Mining Association.
+
+     Robin A. Rosenbluth, Attorney, U.S. Department of Labor, 
+argued the cause for respondents.  With her on the brief was 
+W. Christian Schumann, Counsel.  John T. Sullivan, Attor-
+ney, Federal Mine Safety and Health Review Commission, 
+entered an appearance.
+
+     Before:  Garland, Circuit Judge, Silberman and Williams,* 
+Senior Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Petitioner RAG Cumberland Re-
+sources LP, the owner and operator of a coal mine, challenges 
+an order issued against it pursuant to s 104(d)(2) of the 
+Federal Mine Safety and Health Act of 1977 (the "Mine Act"), 
+30 U.S.C. s 814(d)(2).  The Secretary of Labor issued the 
+order after a federal mine inspector discovered that, for the 
+second time in four months, the petitioner had violated a 
+mandatory mine safety standard through conduct constituting 
+more than ordinary negligence.  RAG Cumberland does not 
+deny that it committed those violations, but asserts that the 
+Mine Act bars the Secretary from issuing the order because 
+its mine passed a "clean inspection" during the period be-
+tween the two violations.  An administrative law judge (ALJ) 
+for the Federal Mine Safety and Health Review Commission 
+(FMSHRC or the "Commission") agreed with the petitioner 
+and vacated the order.  On discretionary review, the Commis-
+sion set aside the ALJ's conclusion and reinstated the order.  
+For the reasons set forth below, we deny RAG Cumberland's 
+petition for review of the Commission's decision.
+
+                                I
+
+     The Mine Act requires the Secretary of Labor to promul-
+gate mandatory health and safety standards for the nation's 
+mines.  Mine Act s 101(a), 30 U.S.C. s 811(a).  To ensure 
+compliance with those standards, the Act requires representa-
+tives of the Secretary to inspect each underground mine "in 
+its entirety" at least four times per year and to develop 
+
+__________
+     * Senior Circuit Judge Williams was in regular active service at 
+the time of oral argument.
+
+guidelines for conducting additional inspections as appropri-
+ate.  Mine Act s 103(a), 30 U.S.C. s 813(a).  The Mine 
+Safety and Health Administration (MSHA) conducts these 
+inspections on behalf of the Secretary.
+
+     Section 104 of the Mine Act, 30 U.S.C. s 814, directs the 
+Secretary to issue citations and orders to mine operators who 
+are not in compliance with the Act or the regulations promul-
+gated thereunder.  A MSHA inspector who discovers a viola-
+tion of a mandatory health or safety standard must issue a 
+s 104(a) citation to the operator.  The citation must describe 
+the violation with particularity and fix a reasonable time for 
+its abatement.  30 U.S.C. s 814(a).
+
+     Section 104(d) of the Act, 30 U.S.C. s 814(d), the principal 
+section at issue here, creates a "chain" of increasingly severe 
+sanctions for certain violations of mandatory standards.  Nac-
+co Mining Co. v. Sec'y of Labor, 9 F.M.S.H.R.C. 1541, 1545-
+46 (1987).  If an inspector finds a violation of a mandatory 
+standard that could "significantly and substantially" contrib-
+ute to a mine safety or health hazard, and that was caused by 
+an "unwarrantable failure" of the operator to comply with the 
+standard,1 MSHA issues what is commonly referred to as a 
+s 104(d)(1) citation.  30 U.S.C. s 814(d)(1);  see Sec'y of 
+Labor v. Cyprus Cumberland Res. Corp., 21 F.M.S.H.R.C. 
+722, 725 (1999) ("Commission Decision I").  If, during the 
+same inspection or any subsequent inspection within the next 
+ninety days, an inspector discovers another violation of a 
+mandatory standard caused by an unwarrantable failure to 
+comply, MSHA issues a s 104(d)(1) withdrawal order--also 
+known as a "predicate order."  See Sec'y of Labor v. Wyo-
+ming Fuel Co., 16 F.M.S.H.R.C. 1618, 1622 n.7 (1994).2  A 
+withdrawal order requires the mine operator to remove all 
+
+__________
+     1  An unwarrantable failure occurs when the violation is caused 
+by "aggravated conduct constituting more than ordinary negli-
+gence."  Emery Mining Corp. v. Sec'y of Labor, 9 F.M.S.H.R.C. 
+1997, 2004 (1987).
+
+     2 "Unlike section 104(d)(1) citations, section 104(d)(1) withdrawal 
+orders require no 'significantly and substantially' findings."  Sec'y 
+of Labor v. FMSHRC, 111 F.3d 913, 919 (D.C. Cir. 1997).
+
+persons (except those needed to correct the problem) from 
+the area until the violation has been corrected.  30 U.S.C. 
+s 814(d)(1).  When such an order is issued, production in the 
+affected area of the mine must cease.
+
+     Once a s 104(d)(1) withdrawal order has been issued, if 
+"upon any subsequent inspection" an inspector finds a viola-
+tion caused by an unwarrantable failure, the inspector issues 
+a s 104(d)(2) withdrawal order.3  The chain of sanctions 
+continues, with each new unwarrantable violation generating 
+a s 104(d)(2) withdrawal order "until such time as an inspec-
+tion of such mine discloses no similar violations."  30 U.S.C. 
+s 814(d)(2) (emphasis added);  see United Mine Workers v. 
+FMSHRC, 768 F.2d 1477, 1478-79 (D.C. Cir. 1985);  Nacco 
+Mining Co., 9 F.M.S.H.R.C. at 1545.4  The "inspection of 
+
+__________
+     3  Unlike a s 104(d)(1) withdrawal order, which may only be 
+issued within ninety days of its predicate s 104(d)(1) citation, a 
+s 104(d)(2) withdrawal order may be issued within any period after 
+its predicate s 104(d)(1) withdrawal order.
+
+     4  Section 104(d)(2) states:
+
+          If a withdrawal order with respect to any area in a ... mine 
+     has been issued pursuant to [s 104(d)(1)], a withdrawal order 
+     shall promptly be issued by an [inspector] who finds upon any 
+     subsequent inspection the existence in such mine of violations 
+     similar to those that resulted in the issuance of the withdrawal 
+     order under [s 104(d)(1)] until such time as an inspection of 
+     such mine discloses no similar violations.  Following an inspec-
+     tion of such mine which discloses no similar violations, the 
+     provisions of [s 104(d)(1)] shall again be applicable to that 
+     mine.
+     
+30 U.S.C. s 814(d)(2).  As used in s 104(d)(2), the term "similar 
+violations" means other violations caused by unwarrantable failures;  
+they need not be substantively similar to the violation upon which 
+the original order was based.  See S. Rep. No. 95-181, at 32 (1977);  
+Greenwich Collieries v. Sec'y of Labor, 12 F.M.S.H.R.C. 940, 945 
+(1990);  see also Int'l Union, United Mine Workers v. Kleppe, 532 
+F.2d 1403, 1406-07 (D.C. Cir. 1976).  In addition, a s 104(d)(2) 
+withdrawal order, like a s 104(d)(1) withdrawal order, "may issue 
+on the basis of 'unwarrantable failure' findings alone," without a 
+
+such mine" necessary to end the sanctions chain is known as a 
+"clean inspection."  See Sec'y of Labor v. Kitt Energy Corp., 6 
+F.M.S.H.R.C. 1596, 1596 (1984).  To sustain a s 104(d)(2) 
+withdrawal order, the Secretary has the burden of proving, 
+by a preponderance of the evidence, that a clean inspection 
+has not occurred since the issuance of the previous withdraw-
+al order.  Id. at 1600.
+
+                                II
+
+     RAG Cumberland owns and operates the Cumberland 
+Mine, an underground bituminous coal mine near Waynes-
+burg, Pennsylvania.5  Each year, MSHA conducts four regu-
+lar health and safety inspections of the entire Cumberland 
+Mine.  The inspections are conducted quarterly by two 
+MSHA inspectors who are assigned to the mine on a full-time 
+basis.  An inspection usually takes a full quarter to complete.  
+Other inspectors from MSHA's Waynesburg field office peri-
+odically visit the mine to assist the two full-time inspectors.  
+See Commission Decision I, 21 F.M.S.H.R.C. at 723.
+
+     On June 18, 1997, during a regular quarterly inspection, a 
+MSHA inspector issued the Cumberland Mine a s 104(d)(1) 
+withdrawal order for a significant and substantial and unwar-
+rantable violation of a mandatory safety standard.  Id.  On 
+September 24, 1997, during the next quarterly inspection, the 
+mine was issued a s 104(a) citation for a violation of MSHA's 
+mandatory roof control standard.  In response, the mine 
+installed a hydraulic jack to support the roof, which tempo-
+rarily abated the violation, and placed two warning signs in 
+the area.  The next day, however, the inspector discovered 
+that the jack and signs had been removed and that miners 
+
+__________
+finding that the violation was significant and substantial.  Sec'y of 
+Labor v. FMSHRC, 111 F.3d at 919.
+
+     5  At the time of the events in question, the mine was operated 
+by Cyprus Cumberland Resources Corporation.  RAG Cumberland 
+is the new parent company of Cyprus and is the petitioner here.  
+For purposes of clarity, in this opinion we will refer to RAG 
+Cumberland as the entity against which the Secretary's enforce-
+ment action was taken.
+
+had been working beneath the unsupported roof.  This, he 
+determined, constituted a significant and substantial and un-
+warrantable violation of the roof control standard.  In light of 
+the predicate June 18 order, MSHA issued RAG Cumberland 
+a s 104(d)(2) withdrawal order on September 25.  Id. at 724.
+
+     RAG Cumberland filed a challenge to the September 25 
+order with FMSHRC.  The company stipulated to the validi-
+ty of the June 18 predicate order, and further stipulated both 
+that it had violated the roof control standard on September 25 
+and that the violation was significant and substantial and had 
+been caused by an unwarrantable failure.  The sole basis for 
+RAG Cumberland's challenge was its contention that a 
+s 104(d)(2) withdrawal order was unjustified because MSHA 
+had conducted a clean inspection of the Cumberland Mine 
+during the period between June 18 and September 25.  The 
+Secretary, in turn, stipulated that MSHA had, in fact, thor-
+oughly inspected all areas of the mine between those dates--
+with the exception of the 60 West Mains haulage, a 4200-foot 
+passage that serves as the primary route into and out of the 
+mine.  Thus, the only question affecting the validity of the 
+September 25 order was whether MSHA had conducted a 
+clean inspection of the 60 West Mains haulage itself between 
+June 18 and September 25.  Id.
+
+     RAG Cumberland's challenge to MSHA's September 25 
+withdrawal order made two complete trips through the 
+FMSHRC adjudicatory process before arriving at this court.  
+The challenge was initially heard before an ALJ, who con-
+cluded that MSHA had conducted an intervening clean in-
+spection of the haulage and therefore downgraded the 
+s 104(d)(2) withdrawal order to a s 104(d)(1) citation.  Cy-
+prus Cumberland Res. Corp. v. Sec'y of Labor, 20 
+F.M.S.H.R.C. 285, 295 (1998) ("ALJ Decision I").  The ALJ 
+based his conclusion on the Secretary's stipulation that, dur-
+ing the relevant period, MSHA inspectors traveled through 
+the 60 West Mains haulage "many times," in both open and 
+closed vehicles, en route to conduct inspections in other areas 
+of the mine.  Id. at 294.  The ALJ disagreed with the 
+Secretary's view that such travel was insufficient to constitute 
+a clean "inspection of such mine" within the meaning of 
+
+s 104(d)(2).  The ALJ did not dispute the reasonableness of 
+the Secretary's statutory interpretation:  that to constitute an 
+"inspection," inspectors must leave their vehicles and conduct 
+a detailed examination for non-obvious hazards.  Id. at 289.  
+Rather, he simply "decline[d] to defer to the Secretary's 
+interpretation," id., holding instead that the inspectors' "op-
+portunity to observe" the mine's conditions was enough to 
+represent a clean inspection under the Act, id. at 294.
+
+     On discretionary review, the Commission vacated the ALJ's 
+decision.  It concluded that the ALJ had erred in relying on 
+the inspectors' repeated travel through the haulage, rather 
+than examining evidence of actual inspection activity.  Com-
+mission Decision I, 21 F.M.S.H.R.C. at 727.  The Commis-
+sion explained that under controlling precedent, the physical 
+presence of an inspector in each area of the mine is insuffi-
+cient to constitute a clean inspection.  To the contrary, such 
+an inspection requires inspectors to conduct a "thorough and 
+complete" examination for all potential hazards, not only 
+those that are visible or obvious.  Id. at 726.  Since RAG 
+Cumberland's own safety manager had conceded "that an 
+inspector would have to stop and exit the vehicle in order to 
+inspect a number of conditions," id. at 727 n.6 (citing ALJ 
+Hr'g Tr. at 772, 818, 827-29, 844-48),6 the Commission reject-
+ed the ALJ's premise that the inspectors' vehicular travel 
+constituted a clean inspection of the 60 West Mains haulage.  
+It therefore remanded the case to the ALJ to determine 
+whether the Secretary had met her burden of establishing the 
+absence of a clean inspection, "by examining evidence regard-
+ing any inspection activity in the haulage area during the time 
+period in question."  Id. at 728.  The Commission specifically 
+instructed the ALJ to examine a log, maintained by the mine 
+operator, that depicted all inspection activity in the mine.  Id.
+
+     On remand, the ALJ again converted the s 104(d)(2) with-
+drawal order to a s 104(d)(1) citation.  Cyprus Cumberland 
+Res. Corp. v. Sec'y of Labor, 21 F.M.S.H.R.C. 1112, 1118 
+
+__________
+     6  Those included "electrical installations, fire fighting equip-
+ment, roof and rib conditions, ventilation, and the condition of the 
+track."  Id.
+
+(1999) ("ALJ Decision II").  The ALJ noted that, during 
+their many trips through the haulage, the inspectors had "an 
+opportunity, if not an obligation, to repeatedly observe the 
+roof, rib and track conditions," and that they "could have left 
+their battery operated vehicles at any time if they had 
+observed any hazardous or violative condition."  Id. at 1113.  
+"The Secretary cannot prevail," the ALJ said, "simply by 
+establishing that inspectors had not exited their battery 
+operated vehicles to inspect electrical boxes located in the 60 
+Mains."  Id. at 1115.  Rather, the ALJ held, the decisive 
+question was whether a "reasonable person ... would con-
+clude" that the inspectors' observations during their trips 
+through the haulage "constitute[d] an adequate inspection for 
+hazardous conditions."  Id. at 1116.  Applying this "reason-
+able person test," the ALJ held that it would be "unreason-
+able to conclude" that the inspectors had not conducted a 
+clean inspection.  Id.
+
+     Once again, the Commission reversed.  Sec'y of Labor v. 
+RAG Cumberland Res. Corp., 22 F.M.S.H.R.C. 1066 (2000) 
+("Commission Decision II").  The Commission held that an 
+actual, "thorough and complete" inspection--not the mere 
+opportunity to observe visible hazards--is required to sever 
+the chain of sanctions.  Id. at 1072.  Applying that standard 
+to the facts of record, the Commission reinstated the Secre-
+tary's s 104(d)(2) withdrawal order.  Id.
+
+                               III
+
+     The Federal Mine Safety and Health Review Commission 
+adjudicates disputes arising under the Mine Act, including 
+challenges by mine operators to citations and orders issued 
+by the Secretary of Labor pursuant to s 104.  See Mine Act 
+s 113, 30 U.S.C. s 823.  Under the statutory scheme, the 
+Commission is required to accord deference to " 'the Secre-
+tary's interpretations of the law and regulations.' "  Sec'y of 
+Labor v. Cannelton Indus., Inc., 867 F.2d 1432, 1435 (D.C. 
+Cir. 1989) (quoting S. Rep. No. 95-181, at 49 (1977)).  And 
+while it may reverse a decision by an ALJ for legal error, the 
+Commission must uphold an ALJ's factual determinations if 
+
+they are supported by substantial evidence.  See Donovan ex 
+rel. Chacon v. Phelps Dodge Corp., 709 F.2d 86, 90-91 (D.C. 
+Cir. 1983) (interpreting 30 U.S.C. s 823(d)(2)).7
+
+     Any person adversely affected by a Commission order may 
+petition to this court for review.  Mine Act s 106(a), 30 
+U.S.C. s 816(a).  Like the Commission, we are required to 
+accord deference to the Secretary's reasonable interpreta-
+tions of the language of the Mine Act.  See Cannelton, 867 
+F.2d at 1435 (citing Chevron U.S.A. Inc. v. Natural Res. Def. 
+Council, Inc., 467 U.S. 837 (1984)).8  When the Secretary and 
+the Commission divide, we must defer to the Secretary.  See 
+id.;  see also Sec'y of Labor v. FMSHRC, 111 F.3d 913, 920 
+(D.C. Cir. 1997);  cf. Martin v. Occupational Safety & Health 
+Review Comm'n, 499 U.S. 144, 152-53 (1991) (holding that, 
+under a similar split-enforcement scheme, court must defer to 
+the interpretation of the Secretary of Labor rather than to 
+that of OSHRC).9  Where, as here, the Secretary and the 
+Commission agree, there is no question but that we must 
+accord deference to their joint view.  See Energy West Min-
+ing Co. v. FMSHRC, 111 F.3d 900, 903 (D.C. Cir. 1997);  
+Emerald Mines Co. v. FMSHRC, 863 F.2d 51, 54 (D.C. Cir. 
+1988).  Finally, we are required to uphold the Commission's 
+
+__________
+     7  In this regard, administrative review under the Mine Act is 
+unlike that under the Administrative Procedure Act, 5 U.S.C. 
+s 557(b), which ordinarily "empowers agencies to make independent 
+factual findings on the basis of a record developed by an ALJ."  
+Donovan, 709 F.2d at 91.
+
+     8  Of course, "the Secretary, the Commission, and this court ... 
+'must give effect to the unambiguously expressed intent of Con-
+gress.' "  Cannelton, 867 F.2d at 1435 (citing Chevron, 467 U.S. at 
+843).  But the Mine Act is silent with respect to what constitutes 
+the "inspection" required to break the chain of s 104(d)(2) sanc-
+tions.
+
+     9  Cf. also Martin, 499 U.S. at 157 (holding that "the Secretary's 
+litigating position before [OSHRC] is as much an exercise of 
+delegated lawmaking powers as is the Secretary's promulgation of a 
+workplace health and safety standard," and that "the Secretary's 
+interpretation is not undeserving of deference merely because the 
+Secretary advances it for the first time in an administrative adjudi-
+cation").
+
+factual findings "if supported by substantial evidence on the 
+record considered as a whole."  Mine Act s 106(a)(1), 30 
+U.S.C. s 816(a)(1).10
+
+     RAG Cumberland contends that, in reversing the ALJ's 
+conclusion regarding the occurrence of a clean inspection, the 
+Commission exceeded its statutorily prescribed standard of 
+review.  The Commission did this, petitioner asserts, by 
+reweighing the evidence before the ALJ rather than uphold-
+ing factual determinations that were supported by substantial 
+evidence.  See Donovan, 709 F.2d at 92 (holding that, under 
+the Mine Act, the Commission may not "substitute a compet-
+ing view of the facts for the view the ALJ reasonably 
+reached").  We disagree.  The Commission did not reverse 
+the ALJ because it weighed the record evidence differently 
+than he did.  Instead, the Commission reversed because the 
+ALJ applied a legally erroneous interpretation of the clean 
+inspection standard to the record facts, and because it was 
+clear that under the correct standard those facts established 
+the absence of a clean inspection.  We uphold the Commis-
+sion's decision on both counts.
+
+__________
+     10  As discussed above, although it may reverse an ALJ's deci-
+sion for legal error, the Commission must uphold an ALJ's factual 
+determinations if they are supported by substantial evidence.  Don-
+ovan, 709 F.2d at 90.  Because in this case we conclude that the 
+Commission properly vacated the ALJ's decision for legal error, we 
+need not consider the precise standard of review we would apply to 
+a Commission decision reversing an ALJ's findings of fact.  Cf. 
+Burns v. Director, Office of Workers' Compensation Programs, 41 
+F.3d 1555, 1562 (D.C. Cir. 1994) (holding that, on a petition for 
+review of a decision by the Benefits Review Board under the split-
+enforcement scheme of the Longshore and Harbor Workers' Com-
+pensation Act, rather than defer to the Board the court must 
+"conduct an independent review of the record to determine if the 
+ALJ's findings are supported by substantial evidence") (internal 
+quotation marks omitted);  id. at 1565 (Silberman, J., concurring) 
+(observing the anomaly of a court independently reviewing the 
+record, but noting uncertainty as to whether "any different scope of 
+review[ ] is even theoretically available to a court of appeals under 
+this statute").
+
+                                A
+
+     In its review of the ALJ's initial decision, the Commission 
+determined that he misapplied the law by holding that the 
+inspectors' repeated travel through the 60 West Mains haul-
+age was sufficient to establish a clean inspection.  The Com-
+mission remanded, instructing the ALJ to consider the record 
+evidence regarding actual inspection activity in the haulage, 
+including RAG Cumberland's inspection log, in order to deter-
+mine whether the Secretary had met her burden of proving 
+that a thorough and complete inspection had not occurred.  
+Commission Decision I, 21 F.M.S.H.R.C. at 727-28.  In 
+reviewing the ALJ's decision on remand, the Commission 
+determined that he failed to comply with its instructions to 
+consider "the record evidence regarding inspections in the 
+haulage."  Commission Decision II, 22 F.M.S.H.R.C. at 1071.  
+"Rather," the Commission said, "the judge applied the 'rea-
+sonable person test' " to determine whether a clean inspection 
+had occurred.  Id.
+
+     The ALJ described the "reasonable person test" he thought 
+applicable to this case as follows:
+
+     The question is whether a reasonable person, familiar 
+     with the deterrent purposes of section 104(d)(2) with 
+     respect to unwarrantable failure, would conclude that the 
+     numerous mine inspectors' observations (during approxi-
+     mately 135 round trips) of the 60 West Mains haulage 
+     ribs, roof, and track, constitute an adequate inspec-
+     tion....
+     
+ALJ Decision II, 21 F.M.S.H.R.C. at 1116.  The Commission 
+rightly rejected that test as legally erroneous.  Congress did 
+not delegate the authority to determine the meaning of a 
+statutory term like "inspection" to a theoretical reasonable 
+person.  To the contrary, as we noted above, Congress in-
+tended the Secretary of Labor to interpret the terms of the 
+Mine Act.  See Cannelton, 867 F.2d at 1435 (citing S. Rep. No. 
+95-181, at 49).  And ALJs, the Commission, and this court are 
+all bound to defer to the Secretary's interpretations--provid-
+ed, of course, that they are reasonable.  Id.
+
+     The Commission also rejected the definition of a clean 
+inspection that the ALJ apparently thought a reasonable 
+person would adopt.  The ALJ noted that the "inspectors 
+could have left their vehicles at any time if they had observed 
+any conditions that caused concern," suggesting that the 
+opportunity to examine visible hazards was sufficient even if 
+there was no evidence that the inspectors had done so.  ALJ 
+Decision II, 21 F.M.S.H.R.C. at 1113 (emphasis added).  
+Moreover, the ALJ held that the Secretary "cannot prevail 
+simply by establishing that inspectors had not exited their 
+battery operated vehicles to inspect electrical boxes located in 
+the 60 Mains," suggesting that the inspection of non-visible 
+hazards (e.g., ones that could only be determined by opening 
+electrical boxes) was not required.  Id. at 1115 (emphasis 
+added).
+
+     The Commission rejected these views, agreeing with the 
+Secretary that a clean inspection requires a "thorough and 
+complete" inspection for violations of any kind, "obvious or 
+otherwise."  See Commission Decision II, 22 F.M.S.H.R.C. 
+at 1072;  id. at 1069 (stating the Secretary's position);  see 
+also Commission Decision I, 21 F.M.S.H.R.C. at 726 (citing 
+Eastern Associated Coal Corp., 3 I.B.M.A. 331, 357-58, 81 
+Interior Dec. 567, 579-80 (Bd. Mine Op. App. 1974) (holding 
+that, under the same language in the predecessor to the Mine 
+Act, a clean inspection required a "thorough examination of 
+conditions and practices throughout a mine")).  The Commis-
+sion also agreed with the Secretary that the opportunity to 
+conduct such an inspection is not alone sufficient.  And the 
+Commission further emphasized that "mere travel through an 
+area of the mine, without evidence of a thorough and com-
+plete inspection, does not suffice to support a finding that a 
+clean inspection occurred."  Commission Decision II, 22 
+F.M.S.H.R.C. at 1073.  Accordingly, the Commission held, 
+evidence of actual "inspection activity in the haulage area 
+during the relevant time period must be considered" in order 
+to decide the instant case.  Id.
+
+     The Commission's ruling constitutes a reasonable interpre-
+tation of the statutory phrase "inspection of such mine" in 
+s 104(d)(2), and hence one to which we must defer.  Indeed, 
+
+we would be hard pressed to decide otherwise, since the 
+Commission expressly rested its interpretation on a prior 
+decision of this court.  See id. at 1072-74 (citing United Mine 
+Workers v. FMSHRC, 768 F.2d 1477 (D.C. Cir. 1985)).  As 
+the Commission accurately observed, in United Mine Work-
+ers we rejected the notion that "an inspector's physical pres-
+ence in each area of the mine--regardless of the object of the 
+inspection or the hazards actually examined for in each 
+particular area--qualifies as an intervening 'clean' inspec-
+tion."  768 F.2d at 1479.  "The only rational reading of the 
+intervening 'clean' inspection requirement," we held, "is that 
+all areas of a mine must be inspected for all hazards," both 
+the "unseen" and the "visible."  Id. at 1480.  In fact, contrary 
+to the very example used by the ALJ here, we suggested that 
+in order to conduct a clean inspection, an inspector must 
+"open an electrical junction box to see whether the wiring 
+inside is safe."  Id. at 1479-80.11
+
+     Notwithstanding the previously expressed views of both the 
+Secretary and this court, RAG Cumberland challenges the 
+validity of the Commission's conclusion that a clean inspection 
+requires an examination for non-obvious hazards, arguing 
+that there is evidence that MSHA inspectors do not always 
+inspect as thoroughly as this view of the statute requires.  
+Lax inspection practices in the field, however, cannot trump 
+the views of the Secretary of Labor and the Commission.  Cf. 
+Serono Labs., Inc. v. Shalala, 158 F.3d 1313, 1321 (D.C. Cir. 
+1998) (explaining that "deference is owed to the decisionmak-
+er authorized to speak on behalf of the agency, not to each 
+individual agency employee").  We therefore hold that the 
+Commission properly vacated the ALJ's decision as based on 
+a legally erroneous definition of the requirements of a clean 
+inspection under s 104(d)(2) of the Mine Act.
+
+                                B
+
+     Having vacated the ALJ's erroneous view of the law, the 
+Commission examined the record evidence regarding actual 
+
+__________
+     11  As another example, we observed that to "determine whether 
+there are unsafe concentrations of gases or dust an inspector must 
+employ special monitoring equipment."  Id. at 1479.
+
+inspection activity in the 60 West Mains haulage, and, based 
+on that evidence, reinstated the Secretary's s 104(d)(2) with-
+drawal order.  Commission Decision II, 22 F.M.S.H.R.C. at 
+1073-75.  Although the Commission may not "substitute a 
+competing view of the facts for the view the ALJ reasonably 
+reached," Donovan, 709 F.2d at 92, it may apply the law to 
+the facts in the record and "modify the decision or order of 
+the administrative law judge in conformity with the record."  
+Mine Act s 113(d)(2)(C), 30 U.S.C. s 823(d)(2)(C).12  If sup-
+ported by substantial evidence, the Commission's findings are 
+conclusive upon this court.  Mine Act s 106(a)(1), 30 U.S.C. 
+s 816(a)(1).
+
+     In deciding that there had not been an intervening clean 
+inspection at the Cumberland Mine, the Commission relied on 
+two categories of evidence:  the testimony of two of the full-
+time MSHA inspectors responsible for quarterly inspections 
+of the mine and a log tracking actual inspection activity at the 
+mine.  The two inspectors testified that they did not conduct 
+an inspection of the haulage between June 18 and September 
+25, 1997.  ALJ Hr'g Tr. 287-88, 476, 501.  As one of the 
+inspectors put it, "I didn't stop and I didn't do the things 
+necessary to inspect the haulage.  I just traveled across it."  
+Id. at 288 (quoted in Commission Decision II, 22 
+F.M.S.H.R.C. at 1074).  RAG Cumberland maintains that this 
+testimony is inconclusive because it fails to prove that no 
+inspector conducted a clean inspection.  But the Commission 
+properly rejected the contention that, to meet her burden of 
+proof, the Secretary must submit evidence from every inspec-
+tor who traveled through the haulage.  Commission Decision 
+II, 22 F.M.S.H.R.C. at 1070.  As the Commission pointed out, 
+
+__________
+     12  Under s 113(d)(2)(C) of the Mine Act, the Commission must 
+remand the case to the ALJ only if it "determines that further 
+evidence is necessary on an issue of fact."  30 U.S.C. s 823(d)(2)(C);  
+see Walker Stone Co. v. Sec'y of Labor, 156 F.3d 1076, 1085 n.6 
+(10th Cir. 1998) (holding remand unnecessary where the "essential 
+facts were not in dispute");  Sellersburg Stone Co. v. FMSHRC, 736 
+F.2d 1147, 1153 (7th Cir. 1984) (holding remand not required 
+"[g]iven the Commission's conclusion that uncontroverted evidence 
+did not warrant further factual findings").
+
+when it originally placed the burden of proving the absence of 
+a clean inspection on the Secretary, it also made clear that to 
+carry this burden the Secretary "need not prove a negative."  
+Id. (citing Kitt Energy Corp., 6 F.M.S.H.R.C. at 1600).
+
+     The Commission's precedent also provides that, to show the 
+absence of a clean inspection, the Secretary may rely upon 
+inspection records for the period in question.  See Kitt Ener-
+gy Corp., 6 F.M.S.H.R.C. at 1600. Here, the mine operator 
+kept a log, which the Commission found and the record 
+confirms documents all inspection activity in the mine during 
+the relevant period.  See Commission Decision I, 21 
+F.M.S.H.R.C. at 728.  "Of special significance," the Commis-
+sion said, was "the [ALJ's] finding, which is undisputed on 
+review, that the log entries do not indicate that any regular or 
+spot inspections took place in the 60 West Mains" haulage 
+between June 18 and September 25.  Commission Decision 
+II, 22 F.M.S.H.R.C. at 1073 (citing ALJ Decision II, 21 
+F.M.S.H.R.C. at 1114).  We agree that the absence of a log 
+reference to any inspections in the haulage is strong evidence 
+that the area was not inspected.
+
+     Contrary to RAG Cumberland's contention, the fact that 
+the mine operator rather than the Secretary initially intro-
+duced the log into evidence does not mean that it cannot be 
+used to support a finding in favor of the Secretary.  See 
+Burroughs Corp. v. Rocky Mountain Prestress, Inc., 431 F.2d 
+1185, 1187 (10th Cir. 1970).  Nor does it make the log any 
+less probative.  If anything, the fact that the mine operator 
+itself maintained the log makes it even more probative, 
+because the operator had every incentive to list particular 
+areas as having been inspected in order to break the chain of 
+s 104(d)(2) sanctions.13
+
+__________
+     13  RAG Cumberland also contends that the log does not docu-
+ment areas that were inspected, but instead merely indicates an 
+inspector's ultimate destination on a particular day.  The ALJ did 
+not make such a finding, and the company's characterization is 
+contradicted by the record.  In addition to testimony by a Cumber-
+land employee that the log tracks the areas of the mine that were 
+
+     In sum, RAG Cumberland's log of inspection activity, to-
+gether with the testimony of the MSHA inspectors, provides 
+substantial evidence for the Commission's conclusion that a 
+clean inspection of the 60 West Mains haulage did not occur 
+prior to the issuance of the September 25 withdrawal order.
+
+                                IV
+
+     Because the Commission adopted an appropriate standard 
+for determining whether there was a clean inspection of the 
+60 West Mains haulage, and because substantial evidence in 
+the record supports the Commission's decision to reinstate 
+the Secretary's s 104(d)(2) withdrawal order under that stan-
+dard, the petition for review is
+
+                                                                      Denied.
+
+__________
+inspected, ALJ Hr'g Tr. 774-75, the caption of the relevant column 
+of the log reads "area inspected"--not "area traveled to."  J.A. at 
+59.
+
+              

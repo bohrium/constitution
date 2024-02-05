@@ -1,0 +1,1309 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued October 25, 1999    Decided April 21, 2000 
+
+                           No. 98-1368
+
+         Association of Battery Recyclers, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+            U.S. Environmental Protection Agency and 
+                Carol M. Browner, Administrator, 
+              U.S. Environmental Protection Agency,
+                           Respondents
+
+                        Consolidated with 
+                 Nos. 98-1381, 98-1392 & 98-1394
+
+           On Petitions for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Donald J. Patterson, Jr. argued the cause for petitioners 
+on the RCRA classification issues. With him on the joint 
+
+briefs were Harold P. Quinn, Jr., Roderick T. Dwyer, Karl S. 
+Bourdeau, Michael W. Steinberg, Joshua D. Sarnoff, David 
+F. Zoll, Ronald A. Shipley, William R. Weissman and Steven 
+J. Groseclose.  Michael B. Wigmore and Robert N. Stein-
+wurtzel entered appearances.
+
+     William R. Weissman argued the cause for petitioners on 
+the LDR treatment standards issues. With him on the briefs 
+was Steven J. Groseclose.
+
+     Michele L. Walter, Attorney, U.S. Department of Justice, 
+and Steven Silverman, Attorney, Office of General Counsel, 
+U.S. Environmental Protection Agency, argued the causes for 
+respondents. With them on the brief was Cecilia Kim, Attor-
+ney, U.S. Department of Justice.
+
+     David R. Case argued the cause for intervenors Environ-
+mental Defense Fund, Environmental Technology Council 
+and National Mining Association.  With him on the brief were 
+Karen Florini, Donald J. Patterson, Jr., Harold P. Quinn, 
+Jr., and Roderick T. Dwyer.
+
+     Before:  Silberman, Ginsburg, and Randolph, Circuit 
+Judges.
+
+     Opinion for the Court by Circuit Judge Randolph.
+
+     Opinion for the Court by Circuit Judge Ginsburg.
+
+     Opinion dissenting in part by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  These are consolidated petitions 
+for judicial review of Environmental Protection Agency regu-
+lations promulgated on May 26, 1998, under the Resource 
+Conservation and Recovery Act of 1976 ("RCRA"), Pub. L. 
+No. 94-580, 90 Stat. 2795.  The regulations--known collec-
+tively as the "Land Disposal Restrictions Phase IV" Rule--
+deal with residual or secondary materials generated in mining 
+and mineral processing operations and EPA's classification of 
+these materials as "solid waste";  with the treatment stan-
+dards for a specific category of hazardous waste;  and with 
+EPA's test for determining whether certain wastes are haz-
+ardous.  Our opinion is in three parts.  The first part decides 
+whether EPA properly defined "solid waste."  We are unani-
+mous that it did not.  The second part decides, again unani-
+
+mously, that EPA's treatment standards for a particular 
+category of hazardous waste are lawful. The third part, 
+written by Judge Ginsburg and joined by Judge Silberman, 
+decides that EPA's test for determining toxicity is valid for 
+certain wastes but not for others.  I disagree with their 
+conclusion for the reasons stated in my dissenting opinion.
+
+                   I. Definition of Solid Waste
+
+     Two petitioners--the National Mining Association and the 
+American Iron and Steel Institute--and an intervenor-the 
+Chemical Manufacturers Association--challenge the portion 
+of EPA's Phase IV Rule defining a "solid waste" in terms of 
+how materials "generated and reclaimed within the primary 
+mineral processing industry" are stored.  40 C.F.R. 
+s 261.2(e)(iii).  The question is of substantial importance to 
+these petitioners because, together, they represent most of 
+the nation's producers of coal, metals, and industrial and 
+agricultural minerals;  two thirds of the nation's steel produc-
+tion;  and more than ninety percent of the nation's productive 
+capacity of basic industrial chemicals.
+
+     RCRA defines "solid waste" as "any garbage, refuse, 
+sludge from a waste treatment plant, water supply treatment 
+plant, or air pollution control facility and other discarded 
+material...."  42 U.S.C. s 6903(27).  Solid wastes are "con-
+sidered hazardous if they possess one of four characteristics 
+(ignitability, corrosivity, reactivity, and toxicity) or if EPA 
+lists them as hazardous following a rulemaking."  Columbia 
+Falls Aluminum Co. v. EPA, 139 F.3d 914, 915 (D.C. Cir. 
+1998) (citing 42 U.S.C. s 6921(a), 40 C.F.R. pt. 261).  Disposal 
+of hazardous waste is forbidden unless the waste is treated to 
+reduce its hazardous constituents or stored in a manner 
+ensuring that the hazardous constituents will not migrate 
+from the disposal unit.  See id. (citing 42 U.S.C. s 6924(g)(5), 
+(m)).
+
+     To understand the contentions of the parties, it will be 
+helpful to outline the current solid waste classification system 
+(most of which predates the Phase IV Rule and is not being 
+challenged).  EPA's general regulation defining "solid waste" 
+begins by repeating a portion of the statutory definition:  "a 
+
+solid waste is any discarded material."  40 C.F.R. 
+s 261.2(a)(1).  It then defines "discarded material" to mean 
+"any material which is Abandoned ... or Recycled, as ex-
+plained in paragraph (c) of this section...."  Id. 
+s 261.2(a)(2).  Paragraph (c) identifies four situations in 
+which "recycled" materials will be considered "solid waste":  
+when the materials are "used in a manner constituting dispos-
+al";  when the materials are "burn[ed] for energy recovery";  
+when the materials are "reclaimed";  and when the materials 
+are "accumulated speculatively."  40 C.F.R. s 261.2(c)(1)-(4).
+
+     The Phase IV Rule revised only the reclamation provision.  
+Before the revision, EPA classified reclaimed spent materials 
+and scrap metal as solid waste.  See 40 C.F.R. s 261.2(c)(3) & 
+tbl.1 (1996).  Reclaimed sludges and by-products were classi-
+fied as solid waste only if they had been specifically listed in 
+40 C.F.R. pt. 261 as a hazardous waste following an EPA 
+rulemaking.  See 40 C.F.R. s 261.2(c)(3) & tbl.1 (1996).  Re-
+claimed sludges and by-products exhibiting a characteristic of 
+hazardous waste, but not specifically listed as hazardous 
+wastes, were not classified as solid waste.  See id.  This 
+classification system applied without regard to the industry 
+that produced the materials.
+
+     The Phase IV Rule purported to take materials reclaimed 
+by the mineral processing industry outside this framework 
+and to subject these secondary materials to a new test for 
+determining whether they constituted "solid waste."  See 40 
+C.F.R. s 261.2(c)(3) & tbl.1.  We say "purported" because it 
+is not clear to us that EPA accomplished its objective.  The 
+relevant part of the new recycling-reclamation provision 
+reads:
+
+     Materials [listed in a table] are not solid wastes when 
+     reclaimed (except as provided under 40 CFR 
+     261.4(a)(17)).[1]
+     
+__________
+     1 The final rule published in the Federal Register incorrectly 
+cited s 261.4(a)(15).  See 63 Fed. Reg. 28,556, 28,636 (1998).  EPA 
+later corrected its mistake.  See 64 Fed. Reg. 25,408, 25,408 (1999).
+
+Id.  The new s 261.4(a)(17) gave a so-called "conditional 
+exclusion":  if the provision's criteria were met, reclaimed 
+mineral processing secondary materials would not be classi-
+fied as solid waste.  We have trouble making sense of these 
+two provisions.  The first provision (s 261.2(c)(3)) broadly 
+describes what is not a solid waste, unless it complies with the 
+other provision.  But the other provision--s 261.4(a)(17)--is 
+an exclusion, and the consequence of not complying with the 
+provision is, of course, loss of exclusion.  In other words, read 
+together, the provisions seem to say that something is not a 
+solid waste unless it is not excluded from being a solid waste.  
+Lewis Carroll would be proud.  But petitioners make nothing 
+of the point and we shall therefore assume that if secondary 
+material of this sort--derived from mineral processing--does 
+not meet the conditions specified in s 261.4(a)(17), EPA will 
+consider the material "solid waste" potentially subject to full 
+RCRA Subtitle C regulation.
+
+     As to the conditions set forth in s 261.4(a)(17), EPA's 
+dividing line between "waste" and nonwaste is the manner of 
+storage.  If the mineral processor stores secondary material 
+destined for recycling in tanks, containers, buildings, or on 
+properly maintained pads, the materials are not considered 
+"solid waste."  See id. s 261.4(a)(17)(iii), (iv).  Given our 
+assumption (and that of the parties), if by-products and 
+sludges exhibiting a characteristic of hazardous waste are not 
+stored in such a manner prior to being recycled, they may be 
+regulated as hazardous "waste."
+
+     How long the materials are stored is of no consequence 
+according to the regulation.  See Fed. Reg. 28,556, 28,582-83 
+(1998).  They could be placed on the ground for only a few 
+minutes before being put back into the production process, 
+yet they would still be subject to RCRA if not stored in 
+accord with s 261.4(a)(17).  Petitioners say this rule extends 
+EPA's authority far beyond the statute.  They ask how 
+secondary material held for recycling in production could 
+possibly qualify as "waste" when the statute defines "waste" 
+as "discarded materials"?  42 U.S.C. s 6903(27).
+
+     The question is not a new one.  It was asked and answered 
+in American Mining Congress v. EPA, 824 F.2d 1177 (D.C. 
+Cir. 1987) ("AMC I").  The court began by referring to the 
+"ordinary, plain-English meaning" of "discarded"--" 'disposed 
+of,' 'thrown away,' or 'abandoned.' "  Id. at 1184.  Secondary 
+materials destined for recycling are obviously not of that sort.  
+Rather than throwing these materials away, the producer 
+saves them;  rather than abandoning them, the producer 
+reuses them.  After examining the structure and history of 
+RCRA, see id. at 1184-92, the AMC I court concluded:  
+"Congress clearly and unambiguously expressed its intent 
+that 'solid waste' (and therefore EPA's regulatory authority) 
+be limited to materials that are 'discarded' by virtue of being 
+disposed of, abandoned, or thrown away."  Id. at 1190.  The 
+court therefore set aside an EPA rule regulating secondary 
+"materials reused within an ongoing industrial process," id. at 
+1182, because the materials were "neither disposed of nor 
+abandoned," id. at 1193.
+
+     The holding in AMC I thus appears to answer the question 
+we have before us.  See Chevron U.S.A. Inc. vs. Natural 
+Resources Defense Council, Inc., 467 U.S. 837 (1984).  The 
+Supreme Court has a rule:  "Once we have determined a 
+statute's clear meaning, we adhere to that determination 
+under the doctrine of stare decisis, and we judge an agency's 
+later interpretation of the statute against our prior determi-
+nation of the statute's meaning."  Maislin Indus., U.S., Inc. 
+v. Primary Steel, Inc., 497 U.S. 116, 131 (1990);  see also 
+Lechmere, Inc. v. NLRB, 502 U.S. 527, 536-37 (1992).  We 
+too follow stare decisis.  The complication, for an administra-
+tive agency, of conflicting interpretations of the same statute 
+from different circuits is not present.  The D.C. Circuit is the 
+exclusive venue for pre-enforcement judicial review of RCRA 
+regulations.  See 42 U.S.C. s 6976(a)(1).  And so, our inter-
+pretation of RCRA binds not only this court but also EPA.
+
+     EPA nevertheless insists that RCRA may be applied to 
+materials that are not disposed of, abandoned, or thrown 
+away, but are destined for reuse in an on-going industrial 
+process.  The argument is that AMC I was a narrow decision, 
+and that "subsequent judicial opinions have sharply limited 
+
+the scope of AMC I."  63 Fed. Reg. at 28,580.  These later 
+decisions, according to EPA, absolutely bar the agency from 
+treating secondary materials as "discarded" (42 U.S.C. 
+s 6903(27)) if and only if "reclamation is continuous in the 
+sense that there is no interdiction in time--i.e. materials 
+moving from one step of a recovery process to another 
+without a break in the process, as for storage."  63 Fed. Reg. 
+at 28,581.  We believe EPA misapprehends the law of the 
+circuit.
+
+     As to AMC I, EPA supports its interpretation of the 
+decision on the basis that the court twice used the phrase 
+"immediate reuse":
+
+     Here, Congress defined "solid waste" as "discarded ma-
+     terial."  The ordinary, plain-English meaning of the word 
+     "discarded" is "disposed of," "thrown away" or "aban-
+     doned."  Encompassing materials retained for immediate 
+     reuse within the scope of "discarded" strains, to say the 
+     least, the everyday usage of that term.
+     
+                              *  *  *
+
+     The question we face, then, is whether ... Congress was 
+     using the term "discarded" in its ordinary sense--"dis-
+     posed of" or "abandoned"--or whether Congress was 
+     using it in a much more open-ended way, so as to 
+     encompass materials no longer useful in their original 
+     capacity though destined for immediate reuse in another 
+     phase of the industry's ongoing production process.
+     
+824 F.2d at 1183-84, 1185.  EPA reads, or rather misreads, 
+these passages to mean that it may treat secondary materials 
+as "discarded" whenever they leave the production process 
+and are stored for any length of time.
+
+     For one thing, "the language of an opinion is not always to 
+be parsed as though we were dealing with language of a 
+statute," Reiter v. Sonotone Corp., 442 U.S. 330, 341 (1979)--
+an admonition the AMC I court itself repeated.  See 824 F.2d 
+at 1183 n.6 (quoting Reiter, 442 U.S. at 341);  see also St. 
+Mary's Honor Ctr. v. Hicks, 509 U.S. 502, 515 (1993) ("[W]e 
+
+think it generally undesirable, where holdings of the Court 
+are not at issue, to dissect the sentences of the United States 
+Reports as though they were the United States Code.").  Yet 
+EPA treats "immediate reuse" as if these were statutory 
+terms in need of a regulatory definition.  See, e.g., 63 Fed. 
+Reg. at 28,582-83.  EPA supplies the definition:  immediate 
+reuse is "continuous recirculation of secondary materials back 
+into recovery processes without prior storage" unless the 
+storage for later recycling complies with the conditions EPA 
+sets forth in the new s 261.4(a)(17) of its regulations.  63 
+Fed. Reg. at 28,580-83.  Of course, this thoroughly ignores 
+the AMC I court's holding that, under RCRA, material must 
+be thrown away or abandoned before EPA may consider it to 
+be "waste."  As we have said, material stored for recycling is 
+plainly not in that category.
+
+     For another thing, in the two passages quoted above, the 
+word "immediate" cannot mean what EPA thinks.  The court 
+wrote of secondary material "retained"--held for a time--and 
+"destined"--denoting the future--for "immediate reuse."  
+This more than suggests that the court had in mind materials 
+that were being held or stored for later recycling or reuse.  
+EPA assumes, without saying why, that when the AMC I 
+court wrote "immediate" in these sentences it meant "at 
+once."  But the word "immediate" has another common 
+meaning--"direct," as in "my immediate superior" or "the 
+immediate cause of the accident."  It is clear to us that this is 
+what the AMC I court intended.  It is clear because retaining 
+signifies holding onto, keeping, storing.  And so retaining, on 
+the one hand, and reusing at once, on the other hand, sounds 
+like a physical impossibility.  It is clear because the AMC I 
+court stressed, again and again, that it was interpreting 
+"discarded" to mean what it ordinarily means.  To say that 
+when something is saved it is thrown away is an extraordi-
+nary distortion of the English language.  Yet that is where 
+EPA's definition leads. It is also clear that the AMC I court 
+intended "direct" when it wrote "immediate" because EPA 
+never even argued that materials sent back into the produc-
+tion process, with no intermediate storage, were "waste."  
+EPA never made the argument because its rule at the time 
+
+did not consider such secondary materials to be discarded 
+(and thus "solid waste" under RCRA).  EPA's AMC I brief 
+stated:  "when secondary materials are recycled by being 
+returned directly (without undergoing significant reprocess-
+ing) for use as feedstock to the process which generated 
+them, the activity often is like an on-going production process.  
+Secondary materials being recycled in this way--referred to 
+as a 'closed-loop' process--therefore are not defined as solid 
+wastes."  Brief for Respondent at 11 (citing 40 C.F.R. 
+s 261.2(e)(iii)(1986)), AMC I.
+
+     That the "immediate reuse" phrase was not mentioned in 
+the critical portions of the AMC I opinion containing the 
+court's holding is still another reason for rejecting EPA's 
+position.  The court stated:  "In sum, our analysis of the 
+statute reveals clear Congressional intent to extend EPA's 
+authority only to materials that are truly discarded, disposed 
+of, thrown away, or abandoned," 824 F.2d at 1190;  and 
+"[t]hese materials have not yet become part of the waste 
+disposal problem;  rather, they are destined for beneficial 
+reuse or recycling in a continuous process by the generating 
+industry itself," id. at 1186 (italics in original);  and "we are 
+persuaded that by regulating in-process secondary materials, 
+EPA has acted in contravention of Congress' intent," id. at 
+1193.  Nothing here about saved materials being transformed 
+into discarded materials unless they are placed back into the 
+production process forthwith.
+
+     Still further, the AMC I court thought that EPA's final rule 
+illegally regulated the following:  "valuable metal-bearing and 
+mineral-bearing dusts are often released in processing a 
+particular metal.  The mining facility typically recaptures, 
+recycles, and reuses these dusts, frequently in production 
+processes different from the one from which the dusts were 
+originally emitted."  Id. at 1181.  The court must have been 
+referring to the following illustration provided in the mining 
+industry's brief:
+
+     If, for example, "an emission control dust from a primary 
+     zinc smelting furnace" is not returned to the zinc produc-
+     
+     tion process but instead to on-site "cadmium recovery 
+     operations," it is classified as solid waste.
+     
+Brief for Petitioner American Mining Congress at 20 (citing 
+50 Fed. Reg. 614, 640 (1985)), AMC I.  In this example, the 
+dust is not placed back into the production process at once, 
+and yet the AMC I court held that EPA had no authority to 
+regulate the dust as solid waste because it had not been 
+thrown away or otherwise discarded.  To state the matter 
+more generally, the court in AMC I set aside EPA's rule 
+because secondary materials which are treated prior to recy-
+cling cannot be considered discarded if they are "reused 
+within an ongoing industrial process."  824 F. 2d at 1182.2
+
+     We have written enough to explain why we disagree with 
+EPA's reading of AMC I and why the Phase IV Rule 
+contradicts that decision.  Later cases in this court do not 
+limit AMC I, as EPA supposes.  American Petroleum Insti-
+tute v. EPA, 906 F.2d 729 (D.C. Cir. 1990) ("API"), was, as 
+
+__________
+     2 An example from the rulemaking record in this case illustrates 
+how temporary storage can be a necessary phase of reclaiming 
+mineral processing secondary material.  The Cyprus Amax Miner-
+als Company commented on EPA's proposed 48 hour rule, which 
+would have defined any such secondary material stored for more 
+than 48 hours as solid waste, see 62 Fed. Reg. 26,041, 26,051 
+(1997)--a more limited assertion of authority than the current rule, 
+which requires no minimum time period of storage.  See Comments 
+of Cyprus Amax Minerals Company:  Land Disposal Restrictions 
+Phase IV, at J.A. 839.  At its Miami smelter, Cyprus recycles 
+reverts, a mixture of "converter slag and matte which has frozen to 
+the wall and bottom of a transfer ladle."  Id. at 864.  To accomplish 
+this, the reverts must be removed from the production process. 
+"This frozen layer of material (reverts) is physically knocked loose 
+from the ladle once it reaches a thickness that significantly reduces 
+the ladle transfer capacity.  The freshly removed revert's tempera-
+ture may still be as much as 1800-1900øF, and the large mass of 
+material will require many hours to cool sufficiently to allow equip-
+ment to move it to the crushing and sizing operations.  The reverts 
+inventory is constantly in process of being reused."  Id.  The 
+inventory is not always equal to demand, so some reverts, after the 
+crushing and sizing, remain in that area before reentering the 
+furnaces.  See id.
+
+EPA acknowledged in the Phase IV rulemaking, at "the end 
+of the [jurisdictional] continuum ...  where EPA's authority 
+is most certain."  63 Fed. Reg. at 28,580.  In that case, the 
+Natural Resources Defense Council challenged EPA's deci-
+sion not to regulate K061 slag.  It was "undisputed" that 
+K061, an individually listed, zinc-bearing hazardous waste 
+generated from air pollution control equipment in steel indus-
+try electric furnaces, see 906 F.2d at 734, was "a 'solid waste' 
+when it le[ft] the electric furnace in which it [was] produced."  
+Id. at 740.  But EPA, citing AMC I, disavowed authority over 
+K061 after it had been transported to a metals reclamation 
+facility.  Hence, slag produced when K061 went through a 
+smelting furnace at the reclamation facility was not automati-
+cally classified as a solid waste.3  See id. at 738-39;  53 Fed. 
+Reg. 11,742, 11,753 (1988).
+
+     The court rejected EPA's view that AMC I precluded 
+classifying K061 slag as solid waste.  The material was sent 
+to reclamation facilities not as part of an " 'ongoing manufac-
+turing or industrial process' within 'the generating industry,' 
+but as part of a mandatory waste treatment plan prescribed 
+by EPA."  906 F.2d at 741.  API thus involved the taking of 
+solid waste from the steel industry and reclaiming it within 
+another industry, typically primary zinc smelting or some 
+other type of secondary metal recovery.  See 53 Fed. Reg. at 
+11,752.  The API decision is entirely consistent with AMC I. 
+In fact the AMC I court recognized EPA's authority over 
+comparable secondary materials:  "Oil recyclers typically col-
+lect discarded used oils, distill them, and sell the resulting 
+material for use as fuel in boilers. Regulation of those activi-
+ties is likewise consistent with an everyday reading of the 
+term 'discarded.'  It is only when EPA attempts to extend 
+the scope of that provision to include the recycling of undis-
+carded oils at petroleum refineries that conflict occurs."  824 
+F.2d at 1187 n.14, cited in API, 906 F.2d at 741 n.16.
+
+__________
+     3 Under the "derived from" rule, "once EPA determines that a 
+particular substance is a hazardous waste, the agency continues to 
+treat as a hazardous waste any product 'derived from' that sub-
+stance in the course of waste treatment."  906 F.2d at 738 (citing 40 
+C.F.R. s 261.3(c)(2)).
+
+     American Mining Congress v. EPA, 907 F.2d 1179 (D.C. 
+Cir. 1990) ("AMC II"), the other case featured in EPA's 
+argument, did not disturb AMC I's interpretation of "discard-
+ed."  Industry groups contested EPA's authority to regulate 
+three specifically listed hazardous wastes--K064 (acid plant 
+blowdown sludge from primary copper production);  K065 
+(surface impoundment solids from primary lead smelting);  
+and K066 (wastewater treatment sludge from primary zinc 
+production).  See 907 F.2d at 1183, 1185.  The court ex-
+plained that copper, lead and zinc smelting operations "pro-
+duce large volumes of wastewater that the smelting company 
+must treat before discharging it.  Many smelting operations 
+use surface impoundments to collect, treat, and dispose of the 
+wastewater."  Id. at 1185-86.  Solids in the wastewater set-
+tle.  Petitioners claimed that the resulting sludge "may at 
+some time in the future be reclaimed" and therefore could not 
+be considered solid waste because they had not discarded it.  
+Id. at 1186.  The key word in the passage just quoted is 
+"may."  Could EPA consider this secondary material--mate-
+rial that may in the future be reclaimed--to be discarded?  
+The AMC II court thought the answer to this "precise 
+question" was not clear from RCRA and so it deferred to 
+EPA's interpretation.  Id.
+
+     EPA regulates the speculative accumulation of secondary 
+materials through 40 C.F.R. s 261.2(c)(4), a provision not 
+challenged in this case, and not challenged in AMC II.  This 
+regulation, in itself, supported EPA's viewing the three types 
+of sludge in AMC II as waste.  EPA, however, dismissed the 
+language in the AMC II opinion indicating that the court had 
+before it speculative accumulation.  According to EPA, AMC 
+II did not involve speculative accumulation because each 
+sludge "was actually recycled 100 percent, not stored with the 
+expectation of recycling.  50 FR at 40292, 40296;  Brief of 
+Petitioner American Mining Congress in AMC II (filed March 
+30, 1990) pp. 18, 29."  63 Fed. Reg. at 28,581.  EPA is flatly 
+wrong about this.  As to K064 (acid plant blowdown sludge 
+from primary copper production), only 31 percent was eventu-
+ally recycled throughout the industry, as the AMC II peti-
+tioners conceded.  See 50 Fed. Reg. at 40,296;  Final Brief of 
+
+Consolidated Petitioners at 26, AMC II.  As to K066 (waste-
+water treatment sludge from primary zinc production), recy-
+cling totaled 69 percent nationwide.  See 50 Fed. Reg. at 
+40,296;  Final Brief of Consolidated Petitioners at 13 n.15, 
+AMC II.  As to K066 (surface impoundment solids from 
+primary lead smelting), EPA reported 100 percent recycling 
+in the past but--and the "but" is critical--lead smelting 
+plants were now storing this material for years and "due to 
+declining lead demands, there is a strong potential that these 
+sludges may not be recycled."  50 Fed. Reg. at 40,297.
+
+     Even if we credited EPA's mistaken notion about AMC II, 
+the court's decision there was not at odds with AMC I.  The 
+best authority for this is EPA itself.  In defense of its listing 
+of the materials in AMC II, the agency argued that it had 
+acted consistently with AMC I's holding that "discarded," as 
+used in RCRA, carries its ordinary, everyday meaning.4  
+Here is the heart of EPA's argument in AMC II:
+
+          The record demonstrates that the sludges in question 
+     are managed in wastewater treatment surface impound-
+     ments, which are within the definition of solid waste.  
+     Moreover, the sludges exhibit sufficient elements of dis-
+     card to be solid wastes, even if they may be, in part, later 
+     reclaimed.
+     
+                              *  *  *
+
+          EPA acted consistently with AMC in assessing wheth-
+     er each specific sludge at issue here was, considering all 
+     facts and indicia, discarded....
+     
+          Wastewater treatment surface impoundments are not 
+     part of an ongoing, continuous primary smelting produc-
+     tion process.  The impoundments receive process waste-
+     water, from which sludges settle or precipitate out.
+     
+__________
+     4 RCRA jurisdiction over these types of sludge may have existed 
+even without resort to the "discarded material" term in the solid 
+waste definition.  Congress defined solid waste to include "any ... 
+sludge from a waste treatment plant," 42 U.S.C. s 6903(27), a point 
+EPA made in its AMC II brief.  See Brief for Respondent at 15, 
+AMC II.
+
+Brief for Respondent at 12, 19-20 (footnotes omitted), AMC 
+II.  The AMC II court agreed with this argument:  "Nothing 
+in AMC prevents the agency from treating as 'discarded' the 
+wastes at issue in this case, which are managed in land 
+disposal units that are part of waste treatment systems."  907 
+F.2d at 1186 (italics in original).  The point of AMC II, and 
+for that matter API, is that once material qualifies as "solid 
+waste,"5 something derived from it retains that designation 
+even if it might be reclaimed and reused at some future time.  
+In contrast, the Phase IV Rule seeks to regulate materials 
+that are not a by-product of solid waste, but a direct by-
+product of industrial processes.
+
+     EPA thinks that in light of API and AMC II, "discarded" is 
+now ambiguous and thus we should defer to its interpretation.  
+To accept EPA's contention would be to conclude that two 
+later panels of this court overruled the decision in AMC I that 
+"discarded" was not ambiguous.  See AMC I, 824 F.2d at 
+1193.  We think nothing of the sort occurred.  A term may be 
+ambiguous as applied to some situations, but not as applied to 
+others.  The AMC II court said as much:  nothing in RCRA 
+"shows the term 'discarded' to be any less ambiguous regard-
+ing sludges stored in surface impoundments than it was 
+regarding the materials at issue in API."  907 F.2d at 1186.6
+
+__________
+     5 The "solid waste" to which we refer is the wastewater.  Under 
+RCRA a "solid" waste may be liquid.  See 42 U.S.C. s 6903(27).
+
+     6 It is true that the AMC II court quoted the "immediate reuse" 
+language from AMC I we mentioned earlier.  It is also true that the 
+AMC II court quoted a good deal more of AMC I, for instance:  
+"We held [in AMC I] that the agency could not treat such materials 
+as solid wastes, because they 'have not yet become part of the waste 
+disposal problem;  rather, they are destined for beneficial reuse or 
+recycling in a continuous process by the generating industry itself.'  
+[824 F.2d at 1186]."  907 F.2d at 1186 (italics in original).  While 
+the AMC II court said that AMC I "concerned only materials that 
+are 'destined for immediate reuse in another phase of the industry's 
+ongoing production process,' " id. (quoting 824 F.2d at 1185, and 
+adding italics), we have already explained why the italicized lan-
+guage cannot carry the meaning EPA ascribes to it.  See pp. 6-10, 
+supra.
+
+     Some mineral processing secondary materials covered un-
+der the Phase IV Rule may not proceed directly to an 
+ongoing recycling process and may be analogous to the sludge 
+in AMC II.  The parties have presented this aspect of the 
+case in broad abstraction, providing little detail about the 
+many processes throughout the industry that generate residu-
+al material of the sort EPA is attempting to regulate under 
+RCRA.7  At this stage, all we can say with certainty is that at 
+least some of the secondary material EPA seeks to regulate 
+as solid waste is destined for reuse as part of a continuous 
+industrial process and thus is not abandoned or thrown away.  
+Once again, "by regulating in-process secondary materials, 
+EPA has acted in contravention of Congress' intent," 824 
+F.2d at 1193, because it has based its regulation on an 
+improper interpretation of "discarded" and an incorrect read-
+ing of our AMC I decision.
+
+               II. Alternative Treatment Standards
+
+                                A.
+
+     Once it is determined that materials are hazardous waste 
+and thus subject to RCRA, EPA is required to take several 
+steps, one of which is to promulgate regulations prohibiting 
+land disposal of certain hazardous wastes.  See 42 U.S.C. 
+s 6924(d), (e) & (g).  If a waste falls under this disposal 
+restriction, it cannot be disposed of "unless the waste is 
+treated so as to minimize the short-term and long-term 
+threats to human health and the environment posed by toxic 
+and hazardous constituents ... or unless the EPA finds that 
+no migration of hazardous constituents from the facility will 
+occur after disposal."  Chemical Waste Management, Inc. v. 
+EPA, 976 F.2d 2, 8 (D.C. Cir. 1992) (citing 42 U.S.C. s 6924 
+(g)(5), (m)).  We are concerned in this portion of the opinion 
+
+__________
+     7 The Phase IV Rule encompasses recycling activities in "all 
+primary mineral processing sectors" of which EPA has identified at 
+least 41.  63 Fed. Reg. at 28,580 (citing EPA, Identification and 
+Description of Mineral Processing Sectors and Waste Streams 
+(1996)).
+
+with the first option--the land disposal restriction ("LDR") 
+treatment standards.
+
+     EPA originally promulgated technology-based LDR treat-
+ment standards, see Hazardous Waste Treatment Council v. 
+EPA, 886 F.2d 355, 361-66 (D.C. Cir. 1989), usually examin-
+ing the available treatment data and requiring use of the 
+"best demonstrated available technology" ("BDAT"), see 61 
+Fed. Reg. 18,780, 18,807 (1996).  Beginning in 1991, see 56 
+Fed. Reg. 55,160, 55,172-77 (1991),8 EPA began to rethink 
+whether BDAT standards should apply to all soils containing 
+hazardous wastes.  While continuing to believe that BDAT 
+standards are best for newly-generated wastes, the agency 
+doubted that this was also true for wastes generated during 
+remediation of contaminated soils.  See 61 Fed. Reg. 18,780, 
+18,808 (1996).  BDAT standards "create an incentive to gen-
+erate less of the affected waste in the first instance."  Id.  
+This incentive is what EPA desires in the context of newly-
+generated wastes, but in the remediation context it serves as 
+a barrier to desirable cleanup efforts.  See id.
+
+     EPA thus proposed, and promulgated in the rule before us, 
+alternative treatment standards for soils.  Rather than re-
+quiring BDAT, the alternative standards allow any treatment 
+that results in a ninety percent reduction in the concentration 
+of hazardous constituents, unless the ninety percent reduction 
+would result in a concentration less than ten times the 
+Universal Treatment Standard (based on BDAT) for that 
+constituent.  See 40 C.F.R. s 268.49(c)(1).  In that case, the 
+concentrations can be reduced only to ten times the Universal 
+Treatment Standard.  See id. s 268.49(c)(1)(C).
+
+__________
+     8 This first mention of alternative standards was during part of 
+the Phase II LDR rulemaking.  See 56 Fed. Reg. 55,160, 55,172-77 
+(1991);  58 Fed. Reg. 48,092, 48,122-33 (1993).  The development of 
+the alternative standards continued in the Hazardous Waste Identi-
+fication Rule for Contaminated Media, see 61 Fed. Reg. 18,780, 
+18,783-85, 18,803-13 (1996) and in the Phase IV rule currently 
+before this court, see 63 Fed. Reg. 28,556, 28,571-52, 28,609-10 
+(1998).
+
+     The final rule applies solely to soils that are placed "into a 
+land disposal unit."  See id. s 268.49(a).  Four industry 
+groups representing electric and gas utilities challenge the 
+regulation because it departed from the proposed rules, which 
+petitioners contend applied to any "land disposal" of soils.  
+The practical effect of this difference is that the alternative 
+standards do not apply to soils that are recycled into products 
+placed on land.  See 63 Fed. Reg. at 28,609.  These petition-
+ers prefer the proposed rule because in their efforts to clean 
+up manufactured gas plant sites, they often recycle contami-
+nated soils into asphalt, brick, or cement--products that are 
+placed on land.  Petitioners voice procedural objections to the 
+final rule, claiming it violated the notice and comment provi-
+sions of the APA, see 5 U.S.C. s 533, and the public partic-
+ipation requirements of RCRA, see 42 U.S.C. s 6974(b)(1).  
+They also argue that the final rule should be set aside as 
+"arbitrary and capricious."  See 5 U.S.C. s 706(2)(A).
+
+                                B.
+
+     There is a jurisdictional hurdle to get over.  Intervenors 
+Environmental Defense Fund and Environmental Technology 
+Council, but not EPA, question whether we may hear peti-
+tioners' challenge to the Phase IV Rule for something it did 
+not do--that is, its failure to apply the alternative treatment 
+standards to soils that are recycled into products placed on 
+land.  RCRA gives this court jurisdiction over "a petition for 
+review of action of the Administrator in promulgating any 
+regulation...."  42 U.S.C. s 6976(a)(1).  Our court lacks 
+jurisdiction under this provision to hear petitions complaining 
+that the "EPA should have promulgated a rule which, up until 
+now, it has not promulgated."  United Technologies Corp. v. 
+EPA, 821 F.2d 714, 720-21 (D.C. Cir. 1987);  see also Hazard-
+ous Waste Treatment Council v. EPA, 861 F.2d 277, 287 
+(D.C. Cir. 1988).  In United Technologies, a petitioner chal-
+lenged an EPA regulation because it did not promulgate 
+groundwater monitoring regulations for solid (but not hazard-
+ous) waste management units.  See 821 F.2d at 721.  EPA 
+
+had not yet acted either to adopt or to reject proposed 
+regulations.  See id.
+
+     In the Phase IV final rule, however, EPA acted.  It "stud-
+ied carefully" whether to apply alternative LDR standards to 
+soils that are recycled into products placed on land.  63 Fed. 
+Reg. at 28,575.  While the new regulations do not apply to 
+soils that are recycled into products placed on land, the 
+jurisdictional provision does not limit review to the actual 
+regulations.  It allows for review "of action of the Adminis-
+trator in promulgating any regulation," 42 U.S.C. 
+s 6976(a)(1) (italics added).  When EPA considers and rejects 
+a proposed regulation it has acted.  Unlike the United Tech-
+nologies situation, there are standards by which to judge 
+EPA's action because the agency selected what, in its view, is 
+the "appropriate method of ascertaining compliance with stat-
+utory and regulatory norms."  821 F.2d at 721.
+
+                                C.
+
+     The Administrative Procedure Act requires that a "[g]ener-
+al notice of proposed rule making shall be published in the 
+Federal Register" and "[t]he notice shall include ... either 
+the terms or substance of the proposed rule or a description 
+of the subjects and issues involved."  5 U.S.C. s 553(b).9  
+This notice then allows interested persons to comment on the 
+proposed rules.  See id. s 553(c).  EPA published notices of 
+proposed rulemaking on alternative LDR standards for soil in 
+1991, 1993, and 1996.  See 56 Fed. Reg. 55,160, 55,172-77 
+(1991);  58 Fed. Reg. 48,092 (1993);  61 Fed. Reg. at 18,813.  
+Affected industries thus had numerous opportunities to com-
+ment about whether the alternative LDR standards should, or 
+
+__________
+     9 Petitioners also rely on the public participation provisions of 
+RCRA.  See 42 U.S.C. s 6974(b)(1).  They note, however, that the 
+APA provides "greater specificity" of notice requirements, see Brief 
+of Petitioners Edison Electric Institute et al. on LDR Treatment 
+Standard Issues at 14, and support their argument only with 
+reference to APA case law.  They do not explain how the RCRA 
+provision creates additional notice requirements relevant to this 
+petition.
+
+should not, apply to their processes.  Petitioners did just 
+that.  But they now contend that they were not given proper 
+notice of the final rule, which, as discussed above, applied 
+only to soils placed in land disposal units.
+
+     Petitioners are correct that the final Phase IV Rule is not 
+exactly the same as the proposed rules.  But notice require-
+ments do not require that the final rule be an exact replica-
+tion of the proposed rule.  If that rigidity were required, the 
+purpose of notice and comment--to allow an agency to recon-
+sider, and sometimes change, its proposal based on the com-
+ments of affected persons--would be undermined.  Agencies 
+would either refuse to make changes in response to comments 
+or be forced into perpetual cycles of new notice and comment 
+periods.  Recognizing this, we hold that notice and comment 
+requirements are met when an agency issues rules "that do 
+not exactly coincide with the proposed rule so long as the 
+final rule is the 'logical outgrowth' of the proposed rule."  
+Fertilizer Inst. v. EPA, 935 F.2d 1303, 1311 (D.C. Cir. 1991).  
+"[T]he key focus is on whether the purposes of notice and 
+comment have been adequately served....  [A] final rule will 
+be deemed to be the logical outgrowth of a proposed rule if a 
+new round of notice and comment would not provide commen-
+ters with 'their first occasion to offer new and different 
+criticisms which the agency might find convincing.' "  Id. 
+(quoting United Steelworkers of America v. Marshall, 647 
+F.2d 1189, 1225 (D.C. Cir. 1980) (quoting BASF Wyandotte 
+Corp. v. Costle, 598 F.2d 637, 642 (1st Cir. 1979))).
+
+     The Phase IV final rule on alternative LDR treatment 
+standards is a logical outgrowth of the proposed rules.  EPA 
+proposed allowing alternative standards for remediated soils.  
+The proposal was just that--a proposal.  One would logically 
+conclude that EPA could have ended up allowing alternative 
+standards for all soils as the proposal suggested, for no soils, 
+or--as it turned out--for some soils.  Petitioners submitted 
+comments on why remediation activities involving soils recy-
+cled into products placed on land should be subject to the 
+alternative standards.  EPA responded to those comments.  
+Petitioners say that they "would have submitted comments 
+demonstrating that utility companies have engaged in such 
+
+recycling under regulatory oversight...."  Brief of Petition-
+er Edison Electric et al. on LDR Treatment Standard Issues 
+at 21.  They think this would have been convincing because 
+"[w]hat ultimately seemed to be dispositive was EPA's belief 
+that recycling is not subject to regulatory supervision."  Id. 
+(citing 63 Fed. Reg. at 28,610).  Not so.  In 1996, EPA 
+suggested that it might limit the alternative treatment stan-
+dards to remediation activities subject to regulatory over-
+sight:  "[S]hould the Agency adopt soil treatment standards 
+that are adjusted to account for the lack of State or Agency 
+oversight over how they are administered?"  See 61 Fed. 
+Reg. at 18,813.  This notified affected persons that they 
+should submit information discussing the regulatory oversight 
+of any remediation activities at issue.
+
+     The short of the matter is that petitioners have identified 
+no relevant information they might have supplied had they 
+anticipated EPA's final rule.  We therefore hold that EPA 
+complied with the notice and comment requirements.
+
+                                D.
+
+     This brings us to the arbitrary and capricious challenge.  
+EPA concluded that soils recycled into products placed on 
+land should continue to be treated with the "best treatment 
+available" because these products "can be placed virtually 
+anywhere, compounding potential release mechanisms, expo-
+sure pathways, and human and environmental receptors."  63 
+Fed. Reg. at 28,610.  The agency stressed the "uncertainties 
+posed by this method of land disposal" in refusing to apply 
+the alternative LDR standards.  See id. at 28,609-10.
+
+     Petitioners claim this "uncertainty" is not a rational basis 
+for agency decisionmaking and that EPA did not adequately 
+support its environmental concerns with recycled soils placed 
+on land. There is nothing to this.  EPA decided not to apply 
+alternative standards unless it was certain the new standards 
+would result in safe disposal.  "[N]othing [in RCRA] requires 
+the Administrator to determine that a method of land disposal 
+is not safe before prohibiting it.  Rather, the statute com-
+mands the Administrator to promulgate prohibitory regula-
+
+tions unless he has made an affirmative determination of 
+safety."  Natural Resources Defense Council, Inc. v. EPA, 
+907 F.2d 1146, 1153 (D.C. Cir. 1990).  EPA applies a similar 
+presumption in granting variances from treatment standards.  
+See 40 C.F.R. s 268.44.  EPA also sufficiently supported its 
+view that environmental risks exist when soils are recycled 
+into products placed on land.  See 63 Fed. Reg. at 28,610 
+(citing 53 Fed. Reg. at 31,197-98);  J.A. 2131-32.  It engaged 
+in reasoned decisionmaking in finding that contaminated soils 
+placed on the ground as asphalt or cement pose greater 
+environmental risks than similar soils placed in land disposal 
+units.
+
+                             *  *  *
+
+     EPA must define "solid waste" in accordance with this 
+opinion.  The parenthetical--"(except as provided under 40 
+CFR 261.4(a)(17))"--to the second sentence of 40 C.F.R. 
+s 261.2(c)(3), through which EPA purportedly expanded its 
+regulation of mineral processing secondary materials, is 
+therefore set aside.
+
+     The petitions challenging the alternative treatment stan-
+dards for soils are denied.
+
+                                                      So ordered.
+
+     Ginsburg, Circuit Judge:  A solid waste not specifically 
+listed as "hazardous" by the EPA is nonetheless deemed 
+"hazardous" if it exhibits one or more of four characteristics:  
+ignitability, corrosivity, reactivity, or toxicity.  40 C.F.R. 
+ss 261.20, 261.21, 261.22, 261.23 & 261.24.  In order to deter-
+mine whether a solid waste is toxic, the EPA has adopted a 
+test called the Toxicity Characteristic Leaching Procedure 
+(TCLP).  40 C.F.R. s 261.24.  The EPA created the TCLP, 
+and its predecessor the Extraction Procedure (EP), as part of 
+its response to the command of the Congress to "promulgate 
+regulations identifying the characteristics of hazardous 
+waste."  42 U.S.C. s 6921(b)(1);  see also 51 Fed. Reg. 21,653 
+(describing evolution of EP and TCLP).  Because the Con-
+gress had defined hazardous waste to include any solid waste 
+that may "pose a substantial present or potential hazard to 
+human health or the environment when improperly treated, 
+stored, transported, or disposed of, or otherwise managed," 
+42 U.S.C. s 6903(5)(B), the EPA set out to design a test that 
+would determine whether a solid waste would pose a risk to 
+human health or the environment if it was mismanaged.  See 
+55 Fed. Reg. 11,806/1.  Rejecting as impractical an approach 
+in which the test for toxicity would vary depending upon the 
+manner in which a waste was actually disposed of, see 55 Fed. 
+Reg. 11,807, the EPA instead decided to adopt a test designed 
+to simulate the disposal practice that is the most dangerous to 
+human health and the environment and yet still plausible.  
+See id.  Although the EPA included in the TCLP several 
+refinements the EP lacked, both tests model essentially the 
+same worst-case mismanagement scenario.  See 51 Fed. Reg. 
+21,653;  Edison Electric Institute v. EPA, 2 F.3d 438, 442 
+(D.C. Cir. 1993).
+
+     That scenario assumes the "co-disposal of toxic wastes in an 
+actively decomposing municipal landfill which overlies a 
+groundwater aquifer," 45 Fed. Reg. 33,110/3;  this hypotheti-
+cal landfill is composed of "5 percent industrial solid waste 
+and 95 percent municipal waste," 51 Fed. Reg. 21,653/3;  the 
+toxic waste leaches unattenuated to the groundwater strata, 
+see 45 Fed. Reg. 33,111/2;  and the closest well for drinking 
+water is 500 feet down gradient from the landfill.  See id.
+
+     In order to conduct the TCLP, the EPA first determines 
+the composition of the waste sample.  If the sample contains 
+less than 0.5% dry solid matter, called the "solid phase," then 
+the waste is filtered;  the liquid passing through the filter is 
+considered the TCLP extract and is analyzed to determine 
+the concentrations of various chemicals.  See Office of Solid 
+Waste, EPA, Method 1311, in Test Methods for Evaluat- 
+ing Solid Waste, Physical/Chemical Methods, ss 2.1, 7.3.15, 
+7.3.16 (3d ed. 1998) (EPA Publication SW-846).  After apply-
+ing a dilution and attenuation factor to simulate the diminu-
+tion in concentration "expected to occur between the point of 
+leachate generation and the point of human or environmental 
+exposure," Edison Electric, 2 F.3d at 441, the EPA deter-
+mines whether any of the resulting concentrations of certain 
+chemicals are equal to or greater than the concentrations 
+listed in 40 C.F.R. s 261.24, tbl. 1.  If they are, then the 
+waste is considered toxic and, consequently, hazardous.  40 
+C.F.R. s 261.24(a).
+
+     If the waste contains more than 0.5% solid phase, then the 
+solid phase is separated from the "liquid phase," see EPA 
+Publication SW-846 at s 2.2, if any, and reduced to particle 
+size in order to simulate the various processes that break 
+down large solids in a landfill.  See id. at s 7.1.3;  Edison 
+Electric, 2 F.3d at 444.  An "extraction fluid" is then mixed 
+with the solid phase and the resulting leachate, called the 
+"liquid extract," is filtered through a glass fiber filter.  EPA 
+Publication SW-846 at ss 2.2, 7.1.4.  The liquid phase and 
+the liquid extract, treated collectively as the TCLP extract, 
+are then analyzed to determine the concentration of various 
+chemicals, see id. at s 2.3;  again, the dilution and attenuation 
+factor is applied and the resulting concentrations compared 
+with those listed in the table at 40 C.F.R. s 261.24.
+
+     In Edison Electric we held that the EPA's decision to use 
+one test based upon a single, hypothetical mismanagement 
+scenario was authorized under a permissible construction of 
+the RCRA and entitled to our deference pursuant to Chevron 
+U.S.A. Inc. v. Natural Res. Def. Council, 467 U.S. 837 (1984).  
+See Edison Electric, 2 F.3d at 446.  Applying the Administra-
+tive Procedure Act, however, we rejected as arbitrary and 
+
+capricious the EPA's attempt to apply the TCLP to mineral 
+processing wastes in general and in particular to those miner-
+al processing wastes known as manufactured gas plant (MGP) 
+waste.  See id. at 446-47.  Specifically, we held that although 
+the "EPA need not demonstrate that mineral wastes [includ-
+ing MGP waste] are typically or commonly deposited in 
+[municipal solid waste] landfills ... the Agency must at least 
+provide some factual support for its conclusion that such a 
+mismanagement scenario is plausible."  Id. at 446.  The EPA 
+could alternatively justify the application of the TCLP to 
+mineral processing and MGP wastes if it could demonstrate 
+"on the record that [these] wastes were exposed to conditions 
+similar to those simulated by the TCLP."  Id. at 447.  Re-
+cently, we reaffirmed our holding that the EPA must demon-
+strate a rational relationship between the hypothetical mis-
+management scenario underlying the TCLP and the actual 
+way in which the wastes tested by the TCLP are discarded.  
+See Columbia Falls Aluminum Co. v. EPA, 139 F.3d 914 
+(1998).
+
+     In the Phase IV Rule the EPA once again has used the 
+TCLP as the test for determining the toxicity of mineral 
+processing wastes, including MGP waste.  See 63 Fed. Reg. 
+28,574, 28,599.  The National Mining Association, the Ameri-
+can Iron and Steel Institute, the Edison Electric Institute, 
+and the Chemical Manufacturers Association (collectively the 
+Associations) argue that the EPA has failed to demonstrate 
+that the mismanagement scenario underlying the TCLP bears 
+a rational relationship to the way in which mineral processing 
+and MGP wastes are disposed of in fact;  they therefore ask 
+this court once again to strike down the EPA's application of 
+the TCLP to these wastes as arbitrary and capricious.  Addi-
+tionally, the Associations argue that the EPA failed to consid-
+er or to respond to significant comments the Associations 
+submitted suggesting the use of both the TCLP and another 
+test, known as the Synthetic Precipitation Leaching Proce-
+dure (SPLP).  Although we hold that the EPA has justified 
+its use of the TCLP alone to determine the toxicity of mineral 
+processing wastes generally, and that the EPA did respond to 
+the Associations' comments, we nonetheless find that the 
+
+EPA has failed to justify application of the TCLP to MGP 
+waste.  Accordingly, we grant the petition for review in part 
+and vacate the Phase IV Rule insofar as it provides for use of 
+the TCLP to determine whether MGP waste exhibits the 
+characteristic of toxicity.
+
+A.   Mineral Processing Wastes (Other than MGP waste)
+
+     Paralleling our holding in Edison Electric, the EPA at-
+tempts to justify its application of the TCLP to mineral 
+processing wastes on two grounds:  (1) It is likely that 
+mineral processing wastes have been disposed of in municipal 
+landfills;  and (2) mineral processing wastes have been "ex-
+posed to conditions similar to those simulated by the TCLP."  
+Because we find that evidence in the record supports the first 
+proposition, we do not address the EPA's alternative justifica-
+tion.
+
+     In response to this court's remand in Edison Electric, the 
+EPA prepared a document entitled Applicability of the 
+[TCLP] to Mineral Processing Wastes. There the EPA col-
+lected an impressive amount of evidence that mineral process-
+ing wastes may have been disposed of as hypothesized in the 
+mismanagement scenario modeled by the TCLP.  First, the 
+EPA catalogued evidence that many facilities generating min-
+eral processing wastes are located near population centers 
+with municipal landfills and that a substantial portion of 
+mineral processing facilities generate mineral processing 
+wastes in quantities small enough to be deposited in a munici-
+pal landfill.  Second, the EPA collected 14 cases of either 
+"likely," "possible," or "potential" disposal of mineral process-
+ing wastes in municipal landfills.  In one of the two "likely" 
+cases an eyewitness saw waste taken from A&W Smelters 
+and Refiners, a mineral processing facility, being dumped in a 
+municipal landfill.  In the other "likely" case, a landfill locat-
+ed on an abandoned "strip mine" was closed after having 
+accepted industrial wastes without a permit;  an unidentified 
+slag was among the laundry list of wastes found at the site.  
+In the "possible" cases, "materials such as 'slag,' 'dusts,' and 
+'ash' [were disposed of] in various landfills";  the materials 
+involved are not precisely described and because "these 
+
+wastes often become indistinguishable from the soil and de-
+bris in municipal landfills," it is difficult to determine whether 
+mineral processing wastes were actually involved.  The "po-
+tential" cases typically "involve mineral processing and mu-
+nicipal solid wastes being disposed of in close proximity to 
+each other (e.g., in two separate on-site disposal areas)."  
+Finally, the EPA collected ten instances in which mineral 
+processing wastes had been stored at mineral processing 
+facilities along with materials commonly found in municipal 
+landfills.  For example, one facility had a landfill on site that 
+contained 98% plant trash and two percent "spent catalyst," 
+while another facility operated a landfill on site composed of 
+90% plant trash and 10% "mercury contaminated soil."
+
+     The Associations argue that this evidence is insufficient to 
+meet the standard announced in Edison Electric, although 
+they do not dispute the facts concerning the location of 
+mineral processing facilities and the volume of waste they 
+produce.  Rather, the Associations maintain that all the 
+EPA's evidence does not establish that mineral processing 
+wastes are plausibly disposed of in the manner modeled by 
+the TCLP.  For example, they claim that there is no evidence 
+that the material the eyewitness saw moved from A&W 
+Smelters and Refiners originated at that facility or, alterna-
+tively, that the material was subject to regulation under the 
+RCRA as hazardous waste.  See 42 U.S.C. s 6921(b)(3)(A)(ii) 
+(Bevill exclusion, as implemented by EPA, exempts from 
+regulation under Subtitle C of RCRA solid wastes from 
+extraction and beneficiation of ores and minerals and 20 
+mineral processing wastes);  Solite Corp. v. EPA, 952 F.2d 
+473, 479 n.4, 481-82 & n.6 (D.C. Cir. 1991).  Finally, the 
+Associations contend that the EPA's examples of landfills 
+located at mineral processing facilities are inadequate because 
+most of those sites did not contain the mixture of 95% 
+municipal waste and 5% industrial waste that the TCLP 
+simulates and the two sites that did have a similar ratio did 
+not contain mineral processing wastes.
+
+     We hold that the evidence the EPA has marshaled in 
+support of applying the TCLP to mineral processing wastes is 
+sufficient to meet the standard announced in Edison Electric.  
+
+In that case we did not demand that the EPA demonstrate 
+that the TCLP exactly reflects actual disposal practices, but 
+only that the mismanagement scenario underlying the TCLP 
+bears some "rational relationship" to those practices.  See 
+Edison Electric, 2 F.3d at 446.  Therefore, to the extent the 
+Associations seek to exploit factual uncertainties in the EPA's 
+account--such as whether the waste the eyewitness saw 
+taken from A&W was actually a mineral processing waste 
+subject to Subtitle C of the RCRA--we can agree that the 
+evidence is not conclusive and nonetheless hold that it is 
+sufficient to make application of the TCLP "rational" or 
+"plausible."  Especially with respect to on-site landfills, the 
+Associations' objections amount to nothing more than re-
+peated observations that the EPA's evidence about actual 
+disposal does not precisely match the conditions the agency 
+models in the TCLP.  Such complaints are of little moment, 
+for they merely point up an inherent feature of the TCLP, 
+and indeed of any model.  As we have previously explained, 
+because "a model is meant to simplify reality in order to 
+make it tractable," it is no criticism of a model "[t]hat [it] 
+does not fit every application perfectly."  Chemical Manufac-
+turers Ass'n v. EPA, 28 F.3d 1259, 1264 (1994).
+
+B.   MGP Waste
+
+     The Associations also argue that the EPA has not justified 
+applying the TCLP to MGP waste because the MGP industry 
+stopped producing waste about 40 years ago and there is no 
+evidence that MGP waste is currently being disposed of in 
+municipal landfills.  In response, the EPA makes two points.  
+First, the EPA notes that, prior to the demise of the MGP 
+industry, MGP waste was deposited in landfills and at indus-
+try facilities, many of which are currently being remediated.  
+Second, the EPA argues that some of the MGP waste from 
+the sites being remediated could be sent to municipal land-
+fills, as evidenced by the following passage in a handbook 
+issued by the Edison Electric Institute advising utilities on 
+how to clean up contaminated sites:
+
+     Landfilling is the most common and simplest of the 
+     disposal methods.  If the wastes are hazardous then they 
+     
+     must be disposed of in a properly licensed secure landfill.  
+     The nearest such landfill may be hundreds of miles from 
+     the site, which results in high transportation costs.  If 
+     the wastes are non-hazardous, disposal may be at a local 
+     commercial municipal landfill.  It is therefore important 
+     to determine if the wastes are hazardous or non-
+     hazardous both for different transportation costs and for 
+     the extreme difference in disposal costs, with secure 
+     landfill costs being much higher.
+     
+On the basis of this publication, the EPA concludes that "the 
+utilities' own characterization of its disposal practices demon-
+strates that MGP wastes that do not display the toxicity 
+characteristic are commonly disposed in municipal solid waste 
+landfills, evidently because it is cheaper to do so."
+
+     The Associations contend that because the EPA has not 
+provided any evidence indicating that any remediation waste 
+has ever found its way into any municipal landfill--or is for 
+some particular reason likely to do so--the agency has failed 
+to carry its burden, as set out in Edison Electric, of "pro-
+vid[ing] some factual support for its conclusion that such a 
+mismanagement scenario is plausible."  Although the Associ-
+ations do not dispute that there are many sites, including 
+municipal landfills, that contain MGP waste, they point out 
+that the EPA has not provided any evidence linking the waste 
+at those sites to waste generated during the remediation of 
+sites contaminated with MGP.  Further, the Associations 
+argue that the handbook issued by the Edison Electric Insti-
+tute simply canvasses the available options for waste disposal 
+without advocating any practice and without indicating that 
+remediation wastes were or should be deposited in municipal 
+landfills.  Indeed, the handbook specifically warns against 
+disposing of hazardous MGP waste in a municipal landfill.  As 
+the Associations see it, the EPA's evidence establishes, at 
+most, that it is possible for MGP waste from a remediation 
+site to be deposited in a municipal landfill.
+
+     As we have said, the EPA must show that the mismanage-
+ment scenario the TCLP simulates bears "some rational 
+relationship" to how wastes subject to that test are actually 
+
+managed.  See Edison Electric, 2 F.3d at 446.  Here, the 
+EPA has demonstrated the possibility that MGP waste from 
+remediation sites could be disposed of in a municipal landfill, 
+but has not produced a shred of evidence indicating that has 
+happened or is likely to happen.  Upon the current record, 
+therefore, we must conclude that the EPA has not justified its 
+application of the TCLP to MGP waste.
+
+     Judge Randolph, post, expresses dismay that the Court 
+rejects the EPA's application of the TCLP to MGP waste--
+for which he would find there is at least some record sup-
+port--while approving the agency's application of the TCLP 
+to the other "350 or so wastes in this rulemaking for which 
+the agency uses TCLP," Diss. op. at 1, and about which the 
+record is silent.  Suffice to say, we do not require the EPA to 
+present evidence justifying application of the TCLP to any 
+other specific mineral processing waste because no party 
+challenges the TCLP with respect to any other specific waste.
+
+     The Associations have pointed out that MGP waste differs 
+in one very real respect from other mineral processing 
+wastes:  MGP waste is no longer produced and therefore will 
+not be disposed of in municipal landfills unless that happens 
+in the course of a remediation effort.  Evidence that mineral 
+processing wastes that are still being produced have been 
+disposed of in municipal landfills offers no support for the 
+different proposition that MGP waste from a remediation 
+effort has been or will be so disposed.
+
+     Furthermore, the incomplete and vague evidence in the 
+record relating to MGP waste is far less persuasive than the 
+evidence the EPA produced for mineral processing wastes 
+generally.  For instance, even in the two examples singled 
+out by Judge Randolph--by far the strongest in the record--
+there is no evidence that the "coal tar, kerosene, and other 
+wastes typically produced at MGP sites," Diss. op. at 2, and 
+found at the landfills actually originate from an MGP site at 
+all, let alone evidence that they came to the landfill from a 
+remediation effort.  Nor, contrary to Judge Randolph's sug-
+gestion, see Diss. op. at 2, does evidence that the MGP 
+industry disposed of its waste in municipal landfills--when 
+
+that industry was actively producing waste--support the in-
+ference that remediation waste containing MGP waste will 
+now be deposited in landfills.  For these reasons, we do not 
+think the EPA's evidence supporting application of the TCLP 
+to mineral processing wastes justifies its application to MGP 
+waste.
+
+C.   Significant Comments
+
+     The Associations also argue that the EPA failed to consider 
+and respond to their comments suggesting the use of both the 
+SPLP and the TCLP to determine toxicity.  This argument is 
+without merit.  During the rulemaking, the EPA responded 
+to the Associations' comments by highlighting evidence that 
+the SPLP is no more accurate than the TCLP and by 
+reiterating its decision to use a single test to determine 
+toxicity instead of using different tests depending upon how 
+the waste is actually managed.  The EPA therefore adequate-
+ly considered and responded to the Associations's comments.
+
+                             *  *  *
+
+     For the foregoing reasons we grant the petition for review 
+in part and vacate the Phase IV Rule insofar as it provides 
+for the use of the TCLP to determine whether MGP waste 
+exhibits the characteristic of toxicity.
+
+                                                      So ordered.
+
+     Randolph, Circuit Judge, dissenting in part:  I respectfully 
+dissent from Judge Ginsburg's conclusion, for himself and 
+Judge Silberman, that EPA failed to justify "its application of 
+TCLP to MGP wastes."  Maj. op. at 22.
+
+     Edison Electric Institute v. EPA, 2 F.3d 438, 446 (D.C. Cir. 
+1993), and Columbia Falls Aluminum Co. v. EPA, 139 F.3d 
+914, 922-23 (D.C. Cir. 1998), require EPA to show a rational 
+relationship between its chosen toxicity test--TCLP--and the 
+wastes to which the test is applied.  (TCLP simulates what 
+would occur if waste were dumped in a landfill.)  The case 
+before us involves the application of TCLP to 358 different 
+types of mineral processing wastes generated by 41 different 
+sectors of the mineral processing industry.  Has EPA satis-
+fied the "rational relationship" test with respect to all 358 
+types of waste?  Yes, my colleagues decide, because there are 
+2 cases of "likely" disposal of mineral processing wastes in 
+municipal landfills and 12 such "possible" cases.  Quite obvi-
+ously, this "proof" says nothing whatever about hundreds of 
+types of waste thrown off by this industry.  The majority's 
+inference must be that if some types of mineral processing 
+waste may be dumped in a landfill, it is plausible to suppose 
+that all types may wind up there.
+
+     I have no quarrel with this reasoning, although I wish it 
+had been made more explicit.  But I cannot comprehend why 
+the reasoning does not apply equally to one other type of 
+mineral processing waste--"manufactured gas plant" (MGP) 
+waste.  See 63 Fed. Reg. at 28,574;  Edison Elec., 2 F.3d at 
+443, 446-47 (treating MGP waste no differently than other 
+mineral processing wastes).  Put another way, why is it that 
+of the 350 or so wastes in this rulemaking for which the 
+agency uses TCLP, my colleagues reach in and pluck out this 
+one--MGP--to place under the judicial microscope?  Odder 
+still, the record contains more support for using the test on 
+MGP wastes than for using it on the hundreds of other 
+unnamed mineral processing wastes, which the court sustains.
+
+     My colleagues share EPA's conjecture that because mineral 
+processing operations are often located near urban areas, 
+their wastes are likely to be disposed in municipal landfills.  
+See maj. op. at 25.  But MGP plants too were located in such 
+spots, producing gas for municipalities.  While EPA identified 
+
+only 14 examples of "likely" or "possible" landfill disposal for 
+all 358 mineral processing wastes, the agency listed 14 exam-
+ples of codisposal for MGP wastes alone.  See Office of Solid 
+Waste, EPA, Applicability of the Toxicity Characteristic 
+Leaching Procedure to Mineral Processing Wastes at 14 
+(1998).  The record is a bit hazy regarding some of these 
+instances.  For two of them, though, there is sufficient evi-
+dence to make it likely that MGP waste was disposed in 
+municipal landfills.  In both the New Lyme (Ohio) Landfill, 
+see id. app. D, and the Schilling Landfill in Ironton, Ohio, see 
+id., there were significant concentrations of coal tar, kero-
+sene, and other wastes typically produced at MGP sites.
+
+     The majority's concern seems to be that these two exam-
+ples did not involve "remediation waste," that is, waste from 
+clean up operations after the MGP plants ceased functioning.  
+Maj. op. at 27-28.  How can my colleagues know that?  No 
+findings to this effect appear in the record.  Besides, I believe 
+they are mistaken.  The New Lyme landfill, for example, did 
+not begin operation until 1969, see Applicability of the Toxici-
+ty Characteristic Leaching Procedure to Mineral Processing 
+Wastes app. D, yet MGPs "stopped producing waste about 40 
+years ago," maj. op. at 27;  see also Petitioners' Reply Brief 
+on RCRA Classification Issues at 17 (stating that MGP 
+industry defunct for 40 years).  If not from remediation, how 
+did this MPG waste wind up in the landfill?  At any rate, the 
+same factors that led to disposing of MPG waste in landfills in 
+the past--proximity to landfills, size of the waste, cost--are 
+with us today and should have been enough to sustain EPA's 
+rule.
+
+     I again ask why the special judicial treatment of MGP 
+waste?  Of the other 350 or so types of mineral processing 
+wastes, how many of these are (1) from abandoned plants;  (2) 
+near city dumps;  and (3) have in the past wound up in those 
+dumps?  The majority does not say because it does not know.  
+Yet it sustains application of TCLP to these wastes, for which 
+there is no evidence, and strikes down TCLP for manufac-
+tured gas plant wastes, despite abundant evidence showing a 
+rational relationship.  I therefore dissent.
+
+                                                                            

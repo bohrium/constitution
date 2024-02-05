@@ -1,0 +1,481 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued March 18, 2002      Decided June 28, 2002 
+
+                           No. 01-1153
+
+                 Costa de Oro Television, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                          CoxCom, Inc., 
+                            Intervenor
+
+             On Petition for Review of Orders of the 
+                Federal Communications Commission
+
+     Barry A. Friedman argued the cause for the petitioner.
+
+     Joel Marcus, Counsel, Federal Communications Commis-
+sion, argued the cause for the respondents.  Jane E. Mago, 
+General Counsel, Daniel M. Armstrong, Associate General 
+
+Counsel, Federal Communications Commission, and Cather-
+ine G. O'Sullivan and Andrea Limmer, Attorneys, United 
+States Department of Justice, were on brief.
+
+     Peter H. Feinberg and Scott Dailard were on brief for the 
+intervenor.
+
+     Before:  Ginsburg, Chief Judge, Henderson and Tatel, 
+Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  This case in-
+volves a dispute over the procedures the Federal Communica-
+tions Commission (FCC or Commission) uses to determine 
+local television market designations pursuant to the cable 
+television mandatory carriage rules.  In particular, Costa de 
+Oro Television, Inc. (Costa) petitions for review of two FCC 
+orders that sustain earlier market modification rulings but, at 
+the same time, change the market definition mechanism.  
+Costa also seeks review of the FCC decision promoting the 
+use of certain data (the Longley-Rice signal strength predic-
+tion methodology maps) in market modification proceedings.  
+Because we conclude that the Commission "articulated a 
+rational explanation" for its decisions, Eagle-Picher Indus., 
+Inc. v. EPA, 759 F.2d 905, 921 (D.C. Cir. 1985), we deny 
+Costa's petition.
+
+                          I. Background
+
+A.   Statutory and Regulatory Background
+
+     Concerned that local television broadcast stations were no 
+longer able to compete with the growing cable industry,1 the 
+Congress passed the Cable Television Consumer Protection 
+and Competition Act of 1992 (Cable Act), 47 U.S.C. ss 521 et 
+seq.  The Cable Act includes "must-carry" provisions that 
+require "[e]ach cable operator" to carry the signals of a 
+specific number of "local commercial television stations."  47 
+
+__________
+     1 See Congressional Findings and Policy:  Cable Television Con-
+sumer Protection and Competition Act of 1992, Pub. L. No. 102-385, 
+s 2(a), 106 Stat. 1460 (1992), reprinted in 47 U.S.C.A. s 521 note.
+
+U.S.C. s 534(a).2  A "local commercial television station" is 
+defined as "any full power television broadcast station ... 
+that, with respect to a particular cable system, is within the 
+same television market as the cable system."  47 U.S.C. 
+s 534(h)(1)(A).  A local commercial television station that 
+exercises its statutory must-carry right is entitled to cable 
+carriage in its local market but it does not receive compensa-
+tion therefor from the cable operator.  The Cable Act also 
+gives a broadcaster the option of cable carriage under a 
+retransmission consent provision that permits the broadcaster 
+and the cable operator to negotiate cable carriage arrange-
+ments and the broadcast station to receive compensation in 
+return.  Id. s 325(b).  Every three years, the broadcaster is 
+required to make an election between the must-carry and the 
+retransmission consent options.  See id. s 325(b)(3)(B).  The 
+first three-year cycle began in June 1993.  47 C.F.R. 
+s 76.64(f)(1).  A broadcast station's "market" is "determined 
+by the Commission by regulation or order using, where 
+available, commercial publications which delineate television 
+markets based on viewing patterns."  47 U.S.C. 
+s 534(h)(1)(C)(i).  In 1992, the year the Cable Act was enact-
+ed, the Commission's rules, now codified at 47 C.F.R. 
+s 76.55(e)(2), defined a station's market by reference to the 
+Area of Dominant Influence (ADI) data produced by Arbi-
+tron, an audience research organization.  Id. s 76.55(e)(1).  
+The ADI describes a particular geographic television market 
+based on measured viewing patterns.  See Report and Order 
+and Further Notice of Proposed Rulemaking, Definition of 
+Markets for Purposes of the Cable Television Broadcast 
+
+__________
+     2 These provisions are found in section 4 of the Cable Act, adding 
+new sections 614 and 615 to the Communications Act of 1934 
+(Communications Act), 47 U.S.C. ss 151 et seq.  In upholding the 
+constitutionality of the must-carry provisions, the United States 
+Supreme Court noted, "Congress sought to preserve the existing 
+structure of the Nation's broadcast television medium while permit-
+ting the concomitant expansion and development of cable television, 
+and, in particular, to ensure that broadcast television remains 
+available as a source of video programming for those without cable."  
+Turner Broad. Sys., Inc. v. FCC, 512 U.S. 622, 652 (1994).
+
+Signal Carriage Rules, 11 FCC Rcd 6201, 6203 p 4 (1996), 
+(First Order).  In general, every American county is assigned 
+to a discrete market according to those local-market stations 
+with a preponderance of total viewing hours in the county.  
+Id.
+
+     In December 1995, shortly after the first three-year elec-
+tion cycle ended, Arbitron discontinued its television ratings 
+business and ceased publishing updated ADI data.  In re-
+sponse and after notice and comment rulemaking, the FCC 
+determined to continue to use the ADI market list for the 
+1996 election and to substitute Nielsen Media Research's 
+television ratings service beginning with the 1999 election.  
+See First Order, 11 FCC Rcd at 6206-07 p 14.  Nielsen uses a 
+market designation called the "designated market area" 
+(DMA).  Both the ADI and the DMA use audience survey 
+information from cable and noncable households to determine 
+the assignment of counties to local television markets based 
+on local stations' respective viewer shares.  Id. at 6207-08 
+p 16.  Nonetheless, because of differences in methodology as 
+well as sampling and statistical variation, the switch to the 
+DMA-based market resulted in the reassignment of some 
+counties.  Id.  Differences between the 1991-1992 ADI mar-
+ket list and the 1995-1996 DMA market list manifested a 
+change in 126 markets with approximately 79 markets gaining 
+counties and 83 markets losing counties.  Id. at 6208-09 p 18.
+
+     While a broadcast station's market is generally based on 
+the ADI (now DMA) data, section 614(h) directs the Commis-
+sion to consider an individual request for a change in market 
+designation.  The FCC may "with respect to a particular 
+television broadcast station, include additional communities 
+within its television market or exclude communities from such 
+station's television market to better effectuate the purposes of 
+this section."  47 U.S.C. s 534(h)(1)(C)(i).  In considering 
+such requests, the Commission "shall afford particular atten-
+tion to the value of localism" by taking into account the 
+following factors, among others:
+
+          (I) whether the station, or other stations located in the 
+     same area, have been historically carried on the cable 
+     system or systems within such community;
+     
+          (II) whether the television station provides coverage 
+     or other local service to such community;
+     
+          (III) whether any other television station that is eligi-
+     ble to be carried by a cable system in such community in 
+     fulfillment of the requirements of this section provides 
+     new coverage of issues of concern to such community or 
+     provides carriage or coverage of sporting and other 
+     events of interest to the community;
+     
+          (IV) evidence of viewing patterns in cable and nonca-
+     ble households within the areas served by the cable 
+     system or systems in such community.
+     
+Id. s 534(h)(1)(C)(ii)(I)-(IV).  Typically, a request is made 
+either by a broadcast station wanting to be included as part of 
+a cable system in a market outside its DMA designation or by 
+a cable operator attempting to exclude a broadcast station 
+from the cable operator's market.  The Cable Act's legislative 
+history recites as a rationale of the 614(h) market modifica-
+tion procedure that:
+
+     where the presumption in favor of ADI [now DMA] 
+     carriage would result in cable subscribers losing access 
+     to local stations because they are outside the ADI in 
+     which a local cable system operates, the FCC may make 
+     an adjustment to include or exclude particular communi-
+     ties from a television station's market consistent with 
+     Congress' objective to ensure that television stations be 
+     carried in the areas which they serve and which form 
+     their economic market.
+     
+H.R. Rep. No. 102-628, at 97 (1992).  During the period 
+Arbitron's ADI market areas were in use, the Commission 
+ruled on numerous market modification requests filed pursu-
+ant to section 614(h).  See, e.g., In re Complaints of Costa de 
+Oro Television, Inc., 10 FCC Rcd 9468 (1995), aff'd on 
+recons., 12 FCC Rcd 22, 464 (1997), pet. for review denied, 
+Costa de Oro Television, Inc. v. FCC, 172 F.3d 919 (D.C. Cir. 
+1998).  The interplay between the FCC's earlier market 
+modification decisions under the ADI regime and its move to 
+a DMA-based market definition is the focus of Costa's appeal.
+
+B.   History of Costa's License
+
+     Costa is the licensee of television station KJLA3 located in 
+Ventura, California.  Ventura is in Ventura County.  Al-
+though Arbitron included Ventura County in the ADI market 
+for greater Los Angeles, it assigned KJLA to the Santa 
+Barbara-Santa Maria-San Luis Obispo ADI market.  Niel-
+son, however, has always placed KJLA in the Los Angeles 
+DMA.  The change in market designation results in a corre-
+sponding change in KJLA's must carry right because a 
+broadcast station generally has a right to carriage within its 
+"market" only.  While the Commission ordered carriage of 
+KJLA throughout the Los Angeles market once the station 
+was assigned to that DMA, it continued to exclude certain 
+communities that were the subject of earlier 614(h) market 
+modification rulings.  See Costa de Oro Television, Inc., 15 
+FCC Rcd 15,069 (2000);  Costa de Oro Television, Inc., 15 
+FCC Rcd 12,637 (2000).
+
+     As part of the ADI-to-DMA change, the Commission con-
+sidered, and sought comment on, the continuing validity of its 
+earlier 614(h) market modification rulings made using ADI 
+data.  Costa requested the Commission to reconsider de novo 
+any prior section 614(h) ruling based on ADI data if, as in 
+KJLA's case, the ADI-to-DMA change resulted in the reas-
+signment of a station to a new market.  In the Second Report 
+and Order on Definition of Markets for Purposes of the Cable 
+Television Broadcast Signal Carriage Rates, 14 FCC Rcd 
+8366 (1999), (Second Order), the Commission rejected Costa's 
+request.  It also decided to continue using ADI data to 
+process any market modification request filed before the 
+effective date of the change to DMA, that is, before January 
+1, 2000.  In its Second Order, however, the FCC noted that, 
+"[i]n cases in which the conversion to DMAs will have a direct 
+consequence, we will take the future DMA assignment into 
+
+__________
+     3 The station was formerly known by the call letters KSTV-TV.  
+The call letters were changed to KJLA(TV) on July 20, 1998.  See 
+Call Sign Report No. 336, located at http://www.fcc.gov/Burea 
+us/Mass_Media/Public_Notices/Call_Sign_Changes/pnmm8110.txt.
+
+account."  Second Order p 42.  With respect to prior market 
+modification rulings, then, "where the Commission has previ-
+ously decided to delete a community from a station's ADI 
+market, that deletion will remain in effect after the conver-
+sion to DMAs."  Second Order p 43.  Costa petitioned for 
+reconsideration and the FCC denied the petition, stating that 
+"we continue to believe that the reasoned determinations 
+reached in market modification proceedings should not be 
+upset as a result of the conversion to the DMA standard."  
+Order on Reconsideration on Definition of Markets for Pur-
+poses of the Cable Television Broadcast Signal Carriage 
+Rules, 16 FCC Rcd 5022 (2001), (Reconsideration Order) 
+p 17.
+
+     In the First Order, the Commission sought comment on 
+measures to expedite the modification process by establishing 
+more "focused and standardized evidentiary specifications." 
+First Order, 11 FCC Rcd at 6225.  It subsequently issued a 
+list of information required to be included in each modifica-
+tion request.  Second Order, 14 FCC Rcd at 8385-86 p 44.  
+Significant here, the Second Order also encouraged a petition-
+er to provide "a more specific technical coverage showing, 
+through the submission of service contour prediction maps 
+that take terrain into account, particularly maps using the 
+Longley-Rice prediction methodology."  Id. at 8388 p 50.  
+Costa's petition for reconsideration challenged the use of the 
+Longley-Rice method as contrary to the intent of the Cable 
+Act because it allegedly imposed an unreasonable financial 
+burden by reintroducing the "UHF handicap."  See Costa's 
+Pet. for Recons. at 7;  see also Reconsideration Order, 16 
+FCC Rcd at 5026 p 11 n.28 ("UHF handicap" refers to "the 
+difficulty that UHF stations had in accessing all of their 
+potential audience over the air because of the inferior signal 
+propagation characteristic of the UHF band").  Without 
+questioning the accuracy of the Longley-Rice maps, Costa's 
+concern was that a cable company using Longley-Rice had 
+"yet another quiver in [its] bow with which to avoid must-
+carry obligations."  Id.  In the Reconsideration Order, the 
+Commission emphasized with regard to Longley-Rice that "it 
+is frequently important in the market modification process to 
+
+find as precisely as possible the contours formed by a sta-
+tion's signal."  Reconsideration Order, 16 FCC Rcd at 5027 
+p 13-14.
+
+     Costa petitions for review of portions of both the Second 
+Order and the Reconsideration Order.
+
+                           II. Analysis
+
+     We review the Commission's orders "under the deferential 
+standard mandated by section 706 of the Administrative 
+Procedure Act, which provides that a court must uphold the 
+Commission's decision unless 'arbitrary, capricious, an abuse 
+of discretion, or otherwise not in accordance with the law.' "  
+Achernar Broad Co. v. FCC, 62 F.3d 1441, 1445 (D.C. Cir. 
+1995) (quoting 5 U.S.C. s 706).  In this task, we do not 
+substitute our judgment for that of the agency but rather 
+look to see whether its decision is based on a "consideration 
+of the relevant factors and whether there has been a clear 
+error of judgment."  Damsky v. FCC, 199 F.3d 527, 533 (D.C. 
+Cir. 2000) (citations omitted);  see Motor Vehicle Mfrs. Ass'n 
+v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 42-44 (1983).  
+Applying this standard, we conclude that the Commission did 
+not act arbitrarily in deciding not to reconsider its prior 
+market modification rulings.
+
+     Costa argues that with respect to a station that, like KJLA, 
+has changed markets, any prior market modification ruling 
+made under the ADI standard is obsolete.  The FCC re-
+sponds that market modification decisions turn on fact-
+specific assessments of the four section 614(h) factors, see 
+supra pp. 4-5, irrespective of the initial ADI or DMA market 
+designation, and, therefore, a change in market assignment 
+does not change the Commission's assessment of a station's 
+"true market."  Nonetheless, Costa asserts, initial market 
+designations "exert broad influence over market modification 
+proceedings by determining the presumption of carriage and 
+the allocation of burden of proof," see Reply Br. at 5.  Be-
+cause the prior market modification rulings could not have 
+considered a station's DMA market designation and conse-
+
+quent "carriage" presumption, Costa urges, the FCC acted 
+arbitrarily in not reconsidering them.
+
+     Both sides agree that generally a broadcast station has a 
+presumptive must-carry right in the ADI/DMA market in 
+which it is located.  Costa, however, overstates the continued 
+importance of the initial designation once a broadcaster or 
+cable operator requests a section 614(h) market modification 
+ruling.  Based on the statute's plain language, the FCC 
+modifies a market with "particular attention to the value of 
+localism" by applying the factors listed in section 
+614(h)(1)(C)(ii) to the specific circumstances of the station 
+and community.  In contrast, a station's ADI/DMA market 
+designation is merely the initial empirical assessment of the 
+station's market.  In its Implementation of the Cable Televi-
+sion Consumer Protection and Competition Act of 1992, the 
+Commission stated:
+
+     Section 614(h)(1)(C) of the 1992 Act permits the Commis-
+     sion to add to or subtract communities from a station's 
+     television market to better reflect the marketplace condi-
+     tions following a written request.  The Commission also 
+     may determine that particular communities are part of 
+     more than one television market.  The procedures recog-
+     nize that ADI markets may not always accurately reflect 
+     the area in which a particular television station should be 
+     entitled to cable carriage, and will help ensure that 
+     disruption to subscribers over the broadcast signals they 
+     receive is minimized.
+     
+8 FCC Rcd 2965, 2976 p 42 (1993).  In response to a section 
+614(h) request, the Commission assesses the initial ADI (now 
+DMA) market assignment using the statutory factors, includ-
+ing whether the station provides coverage or other local 
+service to the community.  To be sure, because a broadcast 
+station enjoys a presumption of carriage in the ADI or DMA 
+in which it is located, the initial market designation may 
+dictate which party has the burden of seeking modification.  
+For example, a cable operator in the Los Angeles market 
+must make a section 614(h) request indicating that Costa does 
+not serve the community (within the Los Angeles market) in 
+
+order to exclude Costa from the cable system's channel lineup 
+for that community.  Once the cable operator comes forward, 
+the FCC must evaluate whether the "value of localism" 
+(within the meaning of section 614(h)) is met by permitting 
+the cable operator to exclude Costa from that community 
+notwithstanding Costa's DMA assignment to the Los Angeles 
+market.4  There is no evidence that any prior market modifi-
+cation ruling was based solely on the initial market designa-
+tion nor can Costa demonstrate that the cable operator must 
+shoulder anything more than the burden of production.  Be-
+cause the ADI modification rulings turned on the statutory 
+factors rather than on KJLA's Santa Barbara or Los Angeles 
+initial market designation, we conclude that the Commission 
+acted reasonably in rejecting Costa's invitation to revisit the 
+same factors.
+
+     Moreover, even if the initial market designation does "color 
+the entire tenor of the modification process" in some respect, 
+Costa Br. at 14, the Commission, beginning with its First 
+Order, has pledged to consider a station's current DMA 
+assignment as part of any future section 614(h) proceeding.  
+See Second Order, 14 FCC Rcd at 8384 p 42 ("In cases in 
+which the conversion to DMAs will have a direct consequence, 
+we will take the future DMA assignment into account, as we 
+have done since the First Order was released.").  To the 
+extent Costa disputes whether the FCC will adequately weigh 
+its current DMA assignment in a future modification ruling, 
+that ruling will be subject to review by this Court at the 
+appropriate time with the benefit of the facts of record.5  
+
+__________
+     4 The Los Angeles market is geographically large, stretching 
+approximately 300 miles north to south and 250 miles east to west.  
+FCC Br. at 7 (citing Media One of Los Angeles, Inc., 15 FCC Rcd 
+at 19,393).  Ventura County, where KJLA's transmitters are locat-
+ed, lies in the northwestern part of the market separated from most 
+of the market by several moutain ranges.
+
+     5 Costa points to a prior market modification ruling to demon-
+strate the importance of the initial market designation.  See In re 
+Petition of Costa de Oro Television, Inc. for Modification of 
+Market, 13 FCC Rcd 4360 (1998).  There, the FCC stated that it 
+generally uses an "extra measure of caution" when a "station from 
+
+Furthermore, the Commission's desire "to avoid disturbing 
+settled expectations," Reconsideration Order, 16 FCC Rcd 
+5028 p 17, further convinces this court that the Commission's 
+decision to let the prior modification rulings stand does not 
+constitute a "clear error of judgment."  Motor Vehicle Mfrs. 
+Ass'n, 463 U.S. at 43 (citations omitted).
+
+     Finally, Costa's challenge to the Commission's decision to 
+encourage use of Longley-Rice maps misses the mark.  At 
+oral argument, Costa appeared to maintain that the Commis-
+sion must rely on Grade B contour maps (even if Longley-
+Rice maps more accurately assess a station's signal) simply 
+because a cable operator may use Longley-Rice maps to 
+exclude broadcast stations.  A Grade B contour map shows 
+the area in which 50 per cent of television sets receive a 
+viewable signal via antenna 50 per cent of the time.  See 47 
+C.F.R. s 73.684 (1997).  The Grade B contour map, however, 
+indicates only "the approximate extent of coverage over aver-
+age terrain in the absence of interference from other televi-
+sion stations."  See id. s 73.683(a) (2002);  see also ACLU v. 
+FCC, 823 F.2d 1554, 1560-61 n.8 (D.C. Cir. 1987) (Grade B 
+contour "is based on general engineering principles, and does 
+not take into account site-specific factors that could affect the 
+actual broadcast signal strength in a community").  In con-
+trast, the Longley-Rice model "provides a more accurate 
+representation of a station's technical coverage area because 
+it takes into account such factors as mountains and valleys 
+that are not specifically reflected in a traditional Grade B 
+contour analysis."  Second Order, 14 FCC Rcd at 8388 p 52.  
+In determining whether a television station in fact provides 
+"coverage or other local service" to a community, the 
+Longley-Rice model enables the Commission to assess this 
+section 614(h) factor with the best available evidence.  The 
+Commission has plainly provided "more than [the] modicum 
+
+__________
+one market is proposing to obtain mandatory carriage rights in the 
+core of another market."  Id. at 4374 p 29.  It then concluded, 
+however, that "this concern" has "less significance here than it 
+might in other cases," id., acknowledging the fact that Costa's 
+prospective DMA assignment to the Los Angeles market would 
+moot the issue.
+
+of reasoned analysis" required to affirm its decision to pro-
+mote the use of Longley-Rice maps in market modification 
+proceedings.  Hispanic Info. & Telecomms. Network, Inc. v. 
+FCC, 865 F.3d 1289, 1297-98 (D.C. Cir. 1989).  Moreover, the 
+Commission's conclusion that Longley-Rice maps are more 
+accurate than Grade B contours is "precisely the type of 
+technical issue on which we defer to the Commission's exper-
+tise."  Keller Communications v. FCC, 130 F.3d 1073, 1077 
+(D.C. Cir. 1997) (citing MCI Cellular Tel. Co. v. FCC, 738 
+F.2d 1322, 1333 (D.C.Cir.1984)).  Regarding Costa's concern 
+that in some instances the Grade B contour maps may give 
+more accurate assessments of a station's coverage, we find 
+the Commission's response in its Reconsideration Order suffi-
+cient:  "The Second Report and Order encourages parties to 
+provide maps using the Longley-Rice methodology.  They 
+are not required to do so.  Parties may submit traditional 
+Grade B contour maps in addition to, or instead of, Longley-
+Rice maps and may explain why they believe Grade B analy-
+sis is more relevant."  Reconsideration Order, 16 FCC Rcd 
+at 5027 p 50 (emphasis added).
+
+     For the foregoing reasons, Costa's petition for review is
+
+                                                                 Denied.
+
+                                                

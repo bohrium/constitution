@@ -1,0 +1,710 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued December 3, 1999     Decided March 7, 2000 
+
+                           No. 98-1415
+
+                 Automated Power Exchange, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+            Pacific Gas and Electric Company, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Martin V. Kirkwood argued the cause for petitioner.  With 
+him on the briefs was Clark Evans Downs.
+
+     Andrew K. Soto, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With him on 
+
+the brief were Jay L. Witkin, Solicitor, and John H. Conway, 
+Deputy Solicitor.
+
+     Before:  Ginsburg, Rogers and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  Automated Power Exchange, Inc. 
+("APX") petitions for review of two orders of the Federal 
+Energy Regulatory Commission ("FERC") asserting jurisdic-
+tion over APX as a public utility within the meaning of the 
+Federal Power Act and requiring APX to file certain informa-
+tion about itself.  APX operates a computerized marketplace 
+in which buyers and sellers of electric energy enter into 
+short-term power supply contracts at prices displayed by the 
+APX computer, subject to the buy and sell limits established 
+by market participants.  FERC concluded that because the 
+APX computer plays a role in setting market price, APX is a 
+public utility subject to regulation under the Federal Power 
+Act.  See 16 U.S.C. s 824(b) (1994).
+
+     APX contends that FERC has impermissibly expanded its 
+limited jurisdiction to include, for the first time, entities that 
+neither sell nor transmit power in interstate commerce but 
+only facilitate trades.  Viewing itself as no more than a "high 
+tech power broker," APX maintains that FERC's orders rely 
+on a faulty understanding of APX's marketplace and are 
+contrary to long-standing agency precedent defining the char-
+acteristics of a public utility.  APX contends, alternatively, 
+that assuming FERC's jurisdiction, FERC has arbitrarily 
+imposed different filing requirements on it than have been 
+imposed on similarly situated entities.1  Because FERC's 
+
+__________
+     1 The petitions of APX and the California Power Exchange Cor-
+poration ("CalPX") challenging FERC's imposition of the annual fee 
+paid by other public utilities have become unripe as a result of 
+FERC's decision to waive the annual fee until it has conducted a 
+general review of the issue.  See PJM Interconnection, L.L.C., 88 
+FERC p 61,109 at p. 61,257-58 (1999);  on reh'g, 89 FERC p 61,133 
+(1999).  Accordingly, the court granted petitioners' motion to dis-
+miss CalPX's appeal in No. 98-1419 and that portion of APX's 
+
+interpretation of the Federal Power Act is entitled to defer-
+ence and FERC has distinguished APX from the entities over 
+which it previously has declined to assert jurisdiction and has 
+explained why its decision here is in harmony with its rele-
+vant precedent, we deny the petition for review.
+
+                                I.
+
+     The instant case began when APX filed an application 
+requesting that FERC disclaim jurisdiction over its operation, 
+or, alternatively, grant APX market-based rate authority, 
+accept for filing its rate schedule to become effective January 
+1, 1998, and waive prior notice and other filing requirements 
+and annual charges.  The Federal Power Act ("FPA" or "the 
+Act") applies to the transmission or sale at wholesale of 
+electric energy in interstate commerce, see FPA s 201(b)(1), 
+16 U.S.C. s 824(b)(1) (1994), and FERC's jurisdiction extends 
+over all facilities for such transmission or sale of electric 
+energy.  See id.  As a result, FERC has jurisdiction over any 
+"public utility," which the Act defines as any person who owns 
+or operates facilities subject to FERC's jurisdiction.  FPA 
+s 201(e), 16 U.S.C. s 824(e) (1994).
+
+     In its application, APX asserted that it will not be a public 
+utility under the FPA because it will not make sales for resale 
+of electric power in interstate commerce or transmit electric 
+energy therein, and will not own or operate any facilities 
+subject to FERC's jurisdiction.  Furthermore, APX stated 
+that it will not take title to the electricity which is sold, will 
+not exercise control over decisions by any market participant 
+to purchase or sell electricity, and will not dictate prices at 
+which a buyer or seller must transact.  Rather, APX claimed, 
+it will serve as an information management agent for buyers 
+and sellers of electricity that choose to voluntarily trade using 
+APX's services.  Thus, APX's application put before FERC 
+the question whether a new market institution that will 
+operate as an electric power exchange is a public utility as 
+
+__________
+petition challenging the annual fee.  See Automated Power Exch. v. 
+FERC, 1999 WL 1215753 (D.C. Cir. Nov. 30, 1999).
+
+defined in the Federal Power Act and is therefore subject to 
+FERC's jurisdiction.
+
+     In the orders under review, FERC acknowledged that the 
+archetypal "facilities" under the Act are power generating 
+plants and transmission lines, but also recognized that the 
+phrase "facilities ...  for sale" has long been read broadly to 
+include, among other intangibles, contracts used by resellers.  
+See Automated Power Exchange, Inc., 82 FERC p 61,287 at 
+p. 62,106 (1998) ("Hearing Order");  see also Hartford Elec. 
+Light Co. v. FPC, 131 F.2d 953, 961 (2d Cir. 1942);  Citizens 
+Energy Corp., 35 FERC p 61,198 at p. 61,453 (1986).  FERC 
+recognized that APX does not own or operate either tradition-
+al physical facilities used to transmit power or paper facilities 
+used to resell power.  However, FERC had recognized a new 
+kind of public utility in recent decisions concerning the Cali-
+fornia Power Exchange ("CalPX"), a state-created market-
+place that operates in the geographic area in which APX 
+seeks to compete.  In its CalPX orders, FERC had construed 
+the FPA's provision covering facilities for wholesale sale of 
+electricity to include the operators of a power exchange if the 
+operator exercises "effective control" over sales in the mar-
+ketplace, Pacific Gas and Elec. Co. et al, 77 FERC p 61,204 
+at p. 61,805 (1996) ("First CalPX Order") or, alternatively, if 
+the operator is an "integral part of the transactional chain."  
+Southern Cal. Edison Co., 80 FERC p 61,262 at p. 61,946 
+(1997) ("Second CalPX Order").2  FERC thus concluded that, 
+like CalPX, APX also exercised "effective control" over sales 
+in its market and was an "integral part of the transactional 
+chain" because "APX will determine the market price at 
+which energy will be sold, and [ ] it will take the combined 
+actions of the seller and buyer participants as well as APX to 
+
+__________
+     2 Because FERC's jurisdiction over CalPX had not been contest-
+ed, FERC had pithily described that the key attributes of CalPX's 
+operations that rendered it jurisdictional were that CalPX would 
+control sales in its market by aggregating supply and demand, 
+setting price, and matching buyers and sellers, see, e.g., First CalPX 
+Order, 77 FERC at p. 61,806-07, and that CalPX was a necessary 
+intermediary through which all sales would take place.  See Second 
+CalPX Order, 80 FERC at p. 61,946.
+
+effectuate wholesale sales."  Hearing Order, 82 FERC at p. 
+62,108;  see also Automated Power Exchange, Inc., 84 FERC 
+p 61,020 at p. 61,085-86 (1998) ("Rehearing Order").  FERC 
+rejected the argument that APX was more like the computer-
+ized bulletin board system over which FERC had disclaimed 
+jurisdiction in Continental Power Exchange, 68 FERC 
+p 61,235 (1994), noting that unlike APX's market, participants 
+in Continental's system determined price through direct ne-
+gotiation.  See Hearing Order, 82 FERC at p. 62,108-09.  
+Upon denying the petition for rehearing, FERC ordered APX 
+to file a "detailed description and explanation of its services, 
+including the calculation of market price, fees, and all rele-
+vant terms" as described in its order.  Rehearing Order, 84 
+FERC at p. 61,089-91.
+
+                               II.
+
+     To appreciate the substance of APX's challenges to the 
+orders under review and FERC's reasoning, some back-
+ground concerning changes in the electric power industry and 
+how the APX market operates is needed.
+
+     At the end of the twentieth century, the wholesale electric 
+power industry was undergoing a significant transformation.  
+Beginning with Congress' decision to mandate that certain 
+power generators be allowed to "wheel" power,3 the tradition-
+al monopoly structure of the power industry began breaking 
+down, see Campaign for a Prosperous Georgia v. SEC, 149 
+F.3d 1282, 1284 (11th Cir. 1998), so that by the mid-1990s a 
+wholesale market for low-cost power generated by a variety 
+of power sellers had emerged and traditional vertically-
+integrated utilities were competing for sales of power at 
+
+__________
+     3 "Wheeling" involves a transfer by direct transmission or dis-
+placement electric power from one utility to another over the 
+facilities of an intermediate utility.  See Public Utilities Regulatory 
+Policies Act of 1978, 16 U.S.C. ss 796(17)-(18), 824a-3, 824i, 824k 
+(1994);  Otter Tail Power Co. v. United States, 410 U.S. 366, 368 
+(1973);  Richard D. Cudahy, Retail Wheeling:  Is This Revolution 
+Necessary?, 15 Energy L.J. 351, 351 & n.2 (1994);  cf. Association of 
+Oil Pipe Lines v. FERC, 83 F.3d 1424, 1429 (D.C. Cir. 1996).
+
+wholesale.  FERC, in response to enactment of the Energy 
+Policy Act of 1992, Pub. L. No. 102-486, 106 Stat. 2776, 2905-
+21 (1992), codified at 42 U.S.C. ss 13201-13556 (1994), pro-
+mulgated Order No. 888, Promoting Wholesale Competition 
+Through Open Access Non-Discriminatory Transmission 
+Services by Public Utilities, 61 Fed. Reg. 21,540 (1996), 
+codified as revised at 18 C.F.R. Pts. 35 & 385 (1999),4 which 
+"transformed the competitive environment."  Louisiana En-
+ergy and Power Auth. v. FERC, 141 F.3d 364, 370 (D.C. Cir. 
+1998).  As a result, FERC notes in it brief, the industry now 
+consists of a variety of electric power sellers and power 
+marketers, which purchase and resell power generated by 
+others.  APX seeks to market its services to participants in 
+the electric power market in the western United States, of 
+which California is the hub, consuming nearly half of the 
+power generated in the entire region.  As of 1997, approxi-
+mately 100 entities traded power in the western market;  
+furthermore, according to FERC, 650 entities in addition to 
+the owners and operators of physical facilities have applied to 
+act as middlemen (resellers) of power nationwide.5
+
+     Prior to the emergence of power exchanges, the industry 
+had developed standardized power contracts covering five 
+periods of time, ranging from power for the following month 
+to power in the next hour.6  Of these, the most prevalent 
+
+__________
+     4 For the revisions and clarifications of Order No. 888, see 76 
+F.E.R.C. p 61,009 (1996), 76 F.E.R.C. p 61,347 (1996), and 79 
+F.E.R.C. p 61,182 (1997), on reh'g, Order No. 888-A, 62 Fed. Reg. 
+12274 (1997), on reh'g, Order No. 888-B, 81 F.E.R.C. p 61,248 
+(1997), on reh'g, Order No. 888-C, 82 F.E.R.C. p 61,046 (1998), on 
+appeal sub nom. Transmission Access Policy Study Group, et al. v. 
+FERC, No. 97-1715 (D.C. Cir.) (submitted November 3, 1999).
+
+     5 This number does not necessarily reflect 650 new entrants 
+because a number of traditional utilities are divesting themselves of 
+their generating facilities and focusing on the transmission business.  
+See, e.g., Second CalPX Order, 80 FERC at p. 61,944.
+
+     6 Long-term (month-ahead) contracts are designed to meet easily 
+foreseeable demand in order to assure that a utility whose demand 
+routinely exceeds its own supply can meet its baseload require-
+
+have been contracts formed in the spot market for next-day 
+and hour-ahead power.  According to APX's brief, beginning 
+in the mid-1980s, buyers and sellers in both the long-term 
+and spot markets found each other through power brokers or 
+power marketers,7 a practice that made sense when the 
+universe of potential buyers and sellers was small, and consid-
+erations other than price were at issue.  The arrival of 
+market-based rate authority, and open access tariffs has 
+sparked an interest among industry participants to eschew 
+brokers and marketers in favor of trading power in a market-
+place, particularly in the spot market where transaction costs 
+have come to be perceived as too high.
+
+     To spur development of such a marketplace, the California 
+Public Utilities Commission ("CPUC") created the California 
+Power Exchange.  Buyers and sellers submit bids to CalPX, 
+which ranks, evaluates, and matches the bids.  Bids are 
+phrased in terms of megawatthours whereby participants 
+offer to contract, for example, for power to be delivered 
+
+__________
+ments, to supplement power to meet seasonal demand, or to assist 
+in financing investment in power generation.  Since 1996, the New 
+York Mercantile Exchange has provided a market in which month-
+long contracts can be traded.  By contrast, short-term contracts 
+meet less foreseeable demand, such as that caused by a heatwave, 
+and are divided into periods of (1) 23 days (power each day during 
+the 16 hours of peak demand);  (2) 6 days (same);  (3) next-day 
+(peak or off-peak);  and (4) hour-ahead.
+
+     7 A power broker seeks out potential buyers or sellers on behalf 
+of an undisclosed principal and proposes the terms on which the 
+principal is willing to deal.  At oral argument, it was clarified that 
+once a compatible counterpart has been identified and the broker 
+either commences, or even concludes, negotiations, at some point 
+the broker steps back from the transaction, which is concluded 
+directly between principals.  Thus, while the broker may have 
+facilitated price negotiations, the principals have not bound them-
+selves to accept the price the broker negotiates.  Unlike a broker, a 
+power marketer is a reseller who may not own or operate generat-
+ing or transmission facilities but who purchases (takes title) to 
+power and then resells (conveys title) it to its customers.  See 
+generally Citizens Energy Corp., 35 FERC p 61,198 (1986).
+
+during the peak hours the following day.  There is one round 
+of bidding, after which CalPX assesses the aggregate supply 
+and demand for each hour of power.  Although CalPX is not 
+formally a party to the contracts, CalPX matches buyers and 
+sellers for each hour of power at a price and on terms 
+determined by CalPX.  See First CalPX Order, 77 FERC at 
+p. 61,806-07.  To ensure that an adequate supply of power 
+would be available in the fledgling market, the CPUC direct-
+ed the three largest investor-owned public utilities in Califor-
+nia to sell their entire power supply through the CalPX 
+through the year 2001.  See id. at p. 61,803-05.
+
+     APX was established to compete with CalPX.  Like CalPX, 
+APX operates separate hourly markets, although APX's mar-
+ket is more expansive, dividing California into two power 
+zones and allowing participants to contract for up to 168 
+hours (one week's worth) of power.8  Unlike in CalPX's 
+market, bidding is ongoing in the APX market and prices 
+fluctuate from the opening of trading until trading stops 
+shortly before delivery.  However, price fluctuations in the 
+APX market are a function of the APX computer's algorithm 
+rather than a reflection of direct price negotiations by market 
+participants.  Thus, when a new hourly market opens, the 
+
+__________
+     8 Because each hour of power is traded separately, prices will 
+fluctuate for each hour.  For example, assume it is 10:00 a.m on 
+Monday, November 22, 1999.  Consistent with current practice, 
+APX allows for purchase of hour-ahead power, i.e., from 11:00 a.m. 
+to 12:00 p.m. of that day through and until one week from that 
+point.  If the price per megawatt for the period between 11:00 a.m. 
+to 12:00 p.m. is X, the price for power from 12:00 p.m. to 1:00 p.m. 
+could be Y;  and the price for the 1:00 p.m. to 2:00 p.m. period could 
+be Z;  and so on until 168 hours later:  9:00 a.m. to 10:00 a.m. of the 
+following Monday.  When it becomes 11:00 a.m. on Monday, No-
+vember 22, trading stops for the hour of 11:00 a.m. to 12:00 p.m. and 
+trading opens for the next hour one week later, i.e. 10:00 a.m. to 
+11:00 a.m. on Monday, November 29, 1999, and all hours prior.  
+Thus, at any given time, the APX markets cover the next 168 hours.  
+And the markets in each of the two California zones are indepen-
+dent so that the price of power from 10:00 a.m. to 11:00 a.m. on 
+November 22nd may differ between zones.
+
+APX computer, acting as electronic auctioneer, displays an 
+initial price per megawatthour based on the price for power 
+of the same hour of the day in the previous seven days.  
+Responding to the initial price, participants enter buy or sell 
+orders.  The orders specify the quantity sought or offered, 
+and may contain price or time limits within which the APX 
+computer shall fulfill an order.  If neither limitation is set, 
+the order remains pending until matched, and is for whatever 
+is the market price displayed by the APX computer at the 
+time the computer finds a matching order.  Then, after 
+displaying the initial price, the APX computer alters the price 
+periodically in response to the activity of the participants.  
+The price does not fluctuate with each new order placed.  
+Rather, at certain unspecified intervals, the APX computer 
+clears the market by matching as many buy and sell orders as 
+it can at the then-displayed price.  This matching process 
+forms binding contracts.9  The market-clearing process con-
+tinues throughout the 168-hour period in which trading for 
+that hour of power occurs, happening with increasing fre-
+quency as the time for delivery approaches.  Each time after 
+clearing the market, the APX computer alters the displayed 
+price, raising it if the majority of unmatched orders are to 
+buy (demand exceeds supply) and lowering it if unmatched 
+orders are to sell (supply exceeds demand).  The amount of 
+the price fluctuation is a function of the APX computer's non-
+public algorithm.
+
+     Consequently, the phrase "market price" when used in 
+relation to the APX marketplace describes the price APX's 
+computer estimates to be most likely to clear the market 
+rather than the more common meaning in other contexts, i.e., 
+
+__________
+     9 For example, if a seller offered to sell at or above $8.00 per 
+megawatthour and a buyer offered to buy at or below $8.20 per 
+megawatthour, and the APX Market Price at the time of clearing 
+was $8.05 per megawatthour, the computer would clear those orders 
+by forming a contract between the two parties for $8.05 per 
+megawatthour.  This example, furnished by the parties, assumes a 
+bilateral contract, but in reality it will more often be the case that 
+contracts formed through the APX market will be multilateral, 
+although the role of the APX Market Price is unchanged.
+
+a price at which willing buyers and sellers have agreed to 
+trade.10  While participants can set the price range or price 
+limits, only APX can set the final price at which the sale is 
+actually transacted. APX acknowledges that it could have 
+designed its computer program to allow participants to nego-
+tiate price by including a price term in their respective offers, 
+but APX considered that a less efficient means of operating a 
+power exchange.  Although APX considers its computer-
+generated "market price" to be a feature likely to attract 
+participants to its market, from FERC's perspective, it is 
+precisely this feature that makes APX a public utility.
+
+                               III.
+
+     APX challenges FERC's assertion of jurisdiction over it on 
+several grounds.  First, APX contends that the plain meaning 
+of "sale" in the FPA or as construed previously by FERC and 
+the courts limits FERC's jurisdiction to those entities that as 
+"public utilities" transmit or take title to power.  Second, 
+APX contends that even if the language of the FPA can 
+reasonably be interpreted to include as a "public utility" an 
+entity that exercises control over sales without taking title to 
+power, FERC's interpretation was arbitrary and capricious 
+because it failed to follow or explain its departure from its 
+precedents distinguishing the jurisdictional treatment of pow-
+er brokers and power marketers.  Third, APX contends that 
+even if FERC's statutory interpretation is consistent with its 
+precedent, FERC arbitrarily applied that interpretation to 
+the APX market by concluding that the price-setting feature 
+of APX's computer made APX more like CalPX, over which 
+FERC had asserted jurisdiction, than like the computerized 
+bulletin board system over which FERC had disclaimed 
+jurisdiction in Continental Power Exchange, 68 FERC 
+
+__________
+     10 See, e.g., Associates Commercial Corp. v. Rash, 520 U.S. 953, 
+117 S. Ct. 1879, 1884 & n.2 (1997);  United States v. 50 Acres of 
+Land, 469 U.S. 24, 25 n.1 (1984);  United States v. Cartwright, 411 
+U.S. 546, 551 (1973);  Recording Indus. Ass'n of Am. v. Librarian of 
+Congress, 176 F.3d 528, 533 (D.C. Cir. 1999).
+
+p 61,235 (1994).  Finally, APX contends that even if it is 
+subject to FERC's jurisdiction, FERC arbitrarily imposed 
+filing requirements on it different from those imposed on 
+similarly situated entities.
+
+     The court reviews FERC's statutory interpretation under 
+the now-familiar framework announced in Chevron U.S.A. 
+Inc. v. NRDC, Inc., 467 U.S. 837, 842-43 (1984).  Relying on 
+the traditional tools of statutory construction, the court first 
+considers whether Congress addressed the precise question 
+at issue.  See Southern Cal. Edison Co. v. FERC, 195 F.3d 
+17, 22-23 (D.C. Cir. 1999).  If Congress left ambiguous how 
+the FPA is to apply to power exchanges, the court will uphold 
+FERC's interpretation so long as it is reasonable.  See id. 
+Even if FERC's statutory interpretation might otherwise be 
+reasonable, however, FERC must also interpret the Act 
+consistently with its own precedent or explain its reasons for 
+departure therefrom.  See Louisiana Pub. Serv. Comm'n v. 
+FERC, 184 F.3d 892, 897 (D.C. Cir. 1999).  Finally, when 
+applying its interpretation of the Act, FERC must demon-
+strate that it has made a reasoned decision based upon 
+substantial evidence in the record.  See Sithe/Independence 
+Power Part., L.P. v. FERC, 165 F.3d 944, 948 (D.C. Cir. 
+1999).
+
+     APX's threshold contention--that either the plain meaning 
+of the FPA or FERC precedent limits FERC jurisdiction to 
+entities that, unlike APX, take title to the power--merits 
+little discussion.  The phrase "facilities ...  for [wholesale] 
+sale" of electricity admits of more than one meaning.  Power 
+exchanges such as APX did not exist when Congress enacted 
+s 201 of the FPA, and while this fact alone does not foreclose 
+the possibility that Congress enacted language directed at the 
+precise issue at hand, it makes that possibility unlikely.11  
+
+__________
+     11 Indeed, contrary to APX's position, the Second Circuit, in a 
+pre-Chevron case in which the court specifically avoided reliance on 
+the pre-Chevron form of judicial deference to administrative exper-
+tise, understood the plain meaning of "facilities" to be a "widely 
+inclusive term, embracing anything which aids or makes easier the 
+
+Moreover, the breadth of the statutory language and the 
+absence of other indicia of congressional intent concerning the 
+jurisdictional treatment of exchanges like APX demonstrates 
+that Congress did not address the precise question at hand.  
+See, e.g., Military Toxics Project v. EPA, 146 F.3d 948, 958 
+(D.C. Cir. 1998);  Formula v. Heckler, 779 F.2d 743, 758-59 
+(D.C. Cir. 1985).  Consequently, the question becomes, under 
+Chevron's second step, whether FERC's construction of the 
+FPA is reasonable.  Again, given the breadth of the statutory 
+language, FERC's interpretation of "facilities ... for [whole-
+sale] sale" as encompassing facilities used to exercise effective 
+control over the sale in a power exchange is a permissible 
+construction of the FPA.  Additionally, the FERC precedent 
+on which APX relies does not limit public utilities to those 
+entities that take title to power.  See, e.g., Washington Water 
+Power Co., 74 FERC p 61,033 at p. 61,083-84 (1996);  Citizens 
+Energy Corp., 35 FERC at p. 61,453.
+
+     APX's next contention, that FERC's statutory interpreta-
+tion in the orders under review is inconsistent with its 
+precedents concerning power brokers and power marketers, 
+fares no better.  APX acknowledges that FERC relied on its 
+statutory interpretation announced in the CalPX orders, but 
+APX contends that interpretation is unlawful.  Prior to the 
+emergence of power exchanges, FERC had distinguished 
+between power marketers (or resellers)--which were subject 
+to FERC jurisdiction because they took title to electricity and 
+therefore used contracts as paper facilities for the wholesale 
+sale of electricity--and power brokers, which were not sub-
+ject to FERC jurisdiction because they only acted as agents 
+of the principals and had no proprietary interest in the 
+electricity being purchased.  See Citizens Energy Corp., 35 
+FERC at p. 61,452-53.12  APX maintains that it is no more 
+
+__________
+performance of the activities involved in the business of a person or 
+corporation."  Hartford, 131 F.2d at 961, 966.
+
+     12 Citizens involved a non-profit organization that sought to act as 
+both a power broker and a power marketer.  With respect to the 
+brokering services, FERC opined that no question of jurisdiction 
+appeared to arise.  See Citizens Energy Corp., 35 FERC at p. 
+
+than a "high tech power broker" and that, therefore, the 
+orders under review are contrary to Citizens, where FERC 
+claimed jurisdiction because the non-profit organization would 
+take title to power as a reseller, and that FERC has failed to 
+offer a reasoned explanation for its departure from precedent.
+
+     Yet, FERC's decision in Citizens is not fairly read to have 
+held that an entity owns facilities for the wholesale sale of 
+electric power if, and only if, that entity takes title to the 
+power.  Similarly, in the power broker and related prece-
+dents cited by APX, FERC's reasoning did not address a 
+situation in which an entity did not take title but played a role 
+in setting the price at which wholesale power sales would 
+occur.  See Washington Water Power Co., 74 FERC at p. 
+61,084 ("Washington Power represents that it would not have 
+the obligation or ability to initiate, control, or change a 
+transaction.");  Idaho Power Co., 74 FERC p 61,149 at p. 
+61,524 (1996) (similar);  cf. LG & E Power Marketing, Inc., 68 
+FERC p 61,247 at p. 62,125 (1994).  Therefore, when FERC 
+addressed how the FPA applies to power exchanges, it was 
+not obliged to distinguish its power broker/power marketer 
+precedents.13
+
+__________
+61,452.  However, FERC asserted jurisdiction over Citizens with 
+respect to its reselling services because it would be using paper 
+facilities, such as contracts, accounts, and records, to engage in 
+wholesale sales of electric power in interstate commerce.  See id. at 
+p. 61,453.
+
+     13 APX also contends that FERC's integral-to-the-transaction 
+standard is inconsistent with other precedents in which FERC had 
+held that an entity that schedules wholesale sales but that does not 
+take title to power was not a public utility.  See Idaho Power Co., 
+74 FERC at p. 61,524-25.  APX's contention would have force were 
+FERC's standard read to include any actor without whom transac-
+tions may not occur.  But FERC made clear that to the extent its 
+standard carries with it a "but for" component, that component is 
+limited to those entities essential for a transaction to take place at a 
+specific price.  See Hearing Order, 82 FERC at p. 62,108 ("But for 
+APX's intervention in the process, wholesale sales transactions 
+between buyers and sellers will not necessarily occur at the speci-
+fied market price.").
+
+     APX maintains that even if the CalPX orders and Conti-
+nental are the correct frame of reference, and that a power 
+exchange is a public utility when it exercises effective control 
+over sales, FERC arbitrarily concluded that APX exercised 
+such control like CalPX and unlike Continental.  FERC in 
+fact recognized that APX does not play as interventionist a 
+role as CalPX in pairing buyers and sellers and in setting the 
+terms of their transactions, but the material similarity it 
+identified was that the APX computer selects a price within 
+the range set by participants and that price may be different 
+from the price the participants would have selected had they 
+engaged in direct negotiations.  See Rehearing Order, 84 
+FERC at p. 61,086;  Hearing Order, 82 FERC at p. 62,108.  
+APX somewhat misses the point in its response that this 
+observation is "irrelevant" because participants in its market 
+voluntarily submit to its "price setting" role and are, there-
+fore, not controlled by APX.  FERC concluded that even if, 
+under its current terms of service, APX may face economic 
+disincentives from setting price at the highest possible point 
+within the participants' range, because APX had the power to 
+set a price different from one that would have resulted from 
+direct negotiations, APX exercised effective control over sales 
+in its market.  Thus, FERC's analysis suffices to show that 
+voluntary participation in APX's marketplace does not make 
+irrelevant the potential gap between the APX-set price and a 
+directly-negotiated price.
+
+     However, there is some force to APX's argument that it is 
+materially different from CalPX because all participants in 
+APX's marketplace, unlike some of those in the CalPX mar-
+ket, can choose not to trade through APX's system at any 
+time and can carefully calibrate their bids through price and 
+
+__________
+ With respect to APX's contention that FERC failed to consider 
+whether it need assert jurisdiction over APX in order to protect 
+consumers inasmuch as FERC regulates sellers participating in 
+APX transactions, because APX did not raise this issue before 
+FERC in its rehearing request, the court lacks jurisdiction to 
+consider it under FPA s 313(b).  See Granholm ex rel. Michigan 
+Dep't of Natural Resources v. FERC, 180 F.3d 278, 282 (D.C. Cir. 
+1999).
+
+time limits.  FERC's analysis might have delved deeper into 
+why the power to select a price within a range set by 
+participants gives APX "control" over sales even when APX 
+market participants, presumed to be rational profit-seekers, 
+choose to rely on APX's computer to determine a market-
+clearing price in lieu of direct negotiations, power brokers, 
+CalPX, or any other marketplaces that may develop, particu-
+larly given that participants can exit from the APX market-
+place at any time should inequities or more attractive alterna-
+tives appear.  It is also true, as APX contends, that, under 
+the Federal Power Act, Congress did not vest FERC with 
+general jurisdiction over all participants in the wholesale 
+electric power industry, regardless of whether the industry 
+undergoes significant transformation not anticipated by Con-
+gress.  See Chemehuevi Tribe of Indians v. FPC, 420 U.S. 
+395, 422-24 (1975);  Henry v. FPC, 513 F.2d 395, 401 (D.C. 
+Cir. 1975).
+
+     Nonetheless, Congress chose broad language to describe 
+FERC's jurisdiction, and, under the applicable deferential 
+standard of review, see Public Util. Comm'n of the State of 
+California v. FERC, 143 F.3d 610, 615 (D.C. Cir. 1998), the 
+court cannot say that FERC unreasonably concluded that 
+facilities used to exercise control over wholesale sales are 
+subject to its jurisdiction and that the power to establish the 
+price at which sales will take place, notwithstanding market 
+participants' voluntary acquiescence in the exercise of such 
+power, is sufficient to demonstrate such control.  Although 
+the roles APX and CalPX play in their respective markets 
+differ in certain respects, FERC could reasonably focus, 
+consistent with the standards it has adopted for operators of 
+power exchanges, on the power to set price as being indica-
+tive of exercising control over wholesale sales of electricity.  
+With respect to that criterion, the record supports FERC's 
+view that APX is more like CalPX than Continental.  Indeed, 
+APX acknowledged in its brief that it "is no mere bystander 
+in the market it operates." At oral argument APX conceded 
+that participants who bid in the APX market are obliged to 
+accept the price APX sets within the overlapping range 
+established by the participants' bids, a price which, in theory, 
+
+could always be set at the highest point in that range without 
+the knowledge of participants or ratepayers.  These acknowl-
+edgments are tantamount to a concession that APX is a de 
+facto third party to the buyer-seller transaction, and, thus, 
+that its services make it an integral part of the transaction.
+
+     Although FERC may conclude after a period of experience 
+in the new computerized market for electricity that regulation 
+of such entities as APX is no longer necessary, FERC could 
+reasonably conclude in the orders under review that the 
+manner in which APX participates in the sale and purchase 
+makes it a de facto third party to the transaction and not 
+simply a bystander that provides information that the parties 
+can accept or reject.  While the parties voluntarily decide to 
+use APX's services and can set limits on the prices at which 
+they will sell and buy, they are bound to the market price 
+that APX sets within those limits once they submit a bid.  So 
+far as the record indicates, FERC has no way to determine at 
+this point exactly where APX will set the market price;  there 
+is no experience to show whether the APX price may always 
+be on the high end or, conversely, on the low end, of the 
+parties' price range.  Similarly, because APX treats informa-
+tion concerning the frequency of market clearing as a pro-
+prietary trade secret, it is unclear from the record how 
+responsive the APX market price is likely to be to partici-
+pants' bidding behavior, and, consequently, bidders' time 
+limits may afford insufficient leverage.  Notwithstanding 
+FERC's determination that prices set by APX for its services 
+will be fair and just, it remains to be seen whether prefer-
+ences or other forms of discrimination or unfairness may 
+result from APX's operations.
+
+     Under these circumstances, FERC's determination is rea-
+sonable even if participants in APX's market have decided 
+that savings from the lower transaction costs of the APX 
+pricing system outweigh any of its disadvantages relative to a 
+market-based, directly-negotiated pricing system.  Although 
+FERC might have taken a different tack, relying instead on 
+indirect monitoring of APX through review of filings by public 
+utilities that participate in the APX marketplace, see 16 
+U.S.C. s 824d(c);  LG&E Power Marketing, Inc., 68 FERC at 
+
+p. 62,124, its decision to assert jurisdiction directly over APX 
+is consistent with the Act and the standards FERC has 
+adopted for power brokers and resellers.  In time, FERC 
+may agree that APX's price "setting" activities reflect the 
+collective actions of the voluntary, profit-seeking participants 
+in a market, and is undertaken as an agent of the parties 
+rather than as an independent agent;  but deference to 
+FERC's expertise is due where it concludes that APX's de 
+facto third-party role is substantively different from that of a 
+traditional power broker over which FERC has previously 
+disclaimed jurisdiction.
+
+     Finally, APX's challenge to the filing requirements FERC 
+imposed is unpersuasive.  In many respects, FERC has 
+treated APX like other public utilities that lack market 
+power, granting it the same waivers as those utilities.  See 
+Rehearing Order, 84 FERC at p. 61,086;  Hearing Order, 82 
+FERC at p. 62,110.  To the extent that APX has been treated 
+differently, that treatment flows from the differences between 
+the role APX plays in jurisdictional sales, and the role played 
+by other public utilities granted market-based rate authority.  
+FERC has no prior experience with a market like the one 
+APX operates and it is entirely possible that the type of 
+information it seeks to have filed, namely, a detailed state-
+ment concerning APX's business, could ultimately cause 
+FERC to conclude, in light of experience with the APX 
+market, that there is no need for APX to be regulated.  In 
+the meantime, the court cannot conclude that FERC's filing 
+requirements are arbitrary inasmuch as those requirements 
+are reasonably related to FERC's legitimate regulatory con-
+cerns and to the differences between APX and other public 
+utilities.  APX's objections cannot overcome the fact that how 
+APX adjusts the price goes to the essence of FERC's juris-
+dictional concern--to ensure that APX's rate-setting and 
+power sales mechanisms are "just, reasonable, and not unduly 
+discriminatory or preferential."  Hearing Order, 82 FERC at 
+62, 107.
+
+     Accordingly, we deny the petition for review.
+
+             

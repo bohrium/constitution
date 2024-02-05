@@ -1,0 +1,252 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 11, 2000      Decided June 30, 2000 
+
+                           No. 99-5320
+
+          American Federation of Government Employees, 
+                        AFL-CIO, et al., 
+                            Appellants
+
+                                v.
+
+              Daniel R. Glickman, Secretary of the 
+             U.S. Department of Agriculture, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                           (98cv00893)
+
+     Anne M. Wagner argued the cause for appellants.  With 
+her on the briefs was Mark Roth.
+
+     Alfred Mollin, Attorney, U.S. Department of Justice, ar-
+gued the cause for appellees.  With him on the brief were 
+
+David W. Ogden, Acting Assistant Attorney General, William 
+B. Schultz, Deputy Assistant Attorney General, Barbara C. 
+Biddle, Attorney, and Wilma A. Lewis, U.S. Attorney.
+
+     Before:   Edwards, Chief Judge, Randolph and Garland, 
+Circuit Judges.
+
+             Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  The Federal Meat Inspection 
+Act ("FMIA"), 21 U.S.C. s 604, and the Poultry Products 
+Inspection Act ("PPIA"), 21 U.S.C. s 455, require inspectors 
+appointed by the Department of Agriculture ("USDA") to 
+perform a "post-mortem inspection" of the carcasses and 
+parts of all livestock and birds processed for human consump-
+tion.  The question in this appeal from the judgment of the 
+district court is whether the statutes permit federal inspec-
+tors to step back from the processing lines and perform their 
+inspection duties by overseeing inspections conducted by 
+plant employees.
+
+                                I
+
+     Inspectors from the USDA's Food Safety and Inspection 
+Service ("FSIS") generally conduct post-mortem inspections 
+while stationed at fixed points along the slaughter processing 
+line.  Using organoleptic methods, that is, relying on sight, 
+touch and smell, the inspectors examine the head, viscera, and 
+exterior of each carcass for signs of adulteration, such as 
+tumors, inflammation, parasites, and other diseases.  See 9 
+C.F.R. pts. 310-11, ss 381.76-94.  If the inspector detects no 
+signs of adulteration, the carcass is passed and marked with 
+the USDA legend.  See 9 C.F.R. ss 310.8, 381.79.  Under the 
+FMIA, if the inspector finds any lesion or other condition 
+"that might render the meat or any part unfit for food 
+purposes, or otherwise adulterated," the carcass (and its 
+parts) must be retained for veterinary disposition.  9 C.F.R. 
+s 310.3.  A carcass or part found to "be unsound, unhealthful, 
+unwholesome, or otherwise adulterated" is condemned and 
+marked as such.  Id. s 310.5.  Similar procedures apply to 
+inspections under the PPIA.  See id. ss 381.81-89.
+
+     The method of inspection just described had remained 
+unchanged for decades.  Then, in the mid-1990s, FSIS em-
+barked on a comprehensive food safety initiative targeting the 
+agency's resources at what it perceived as a serious health 
+risk--foodborne pathogens, such as salmonella and E. coli, 
+which cannot be detected by organoleptic inspection.  At the 
+same time it determined to make changes in the current 
+inspection process to combat these microbial causes of food-
+borne illness, FSIS addressed what it considered to be anoth-
+er failure of the present regulatory system--that it provides 
+processing plants with little incentive to detect and eliminate 
+unacceptable carcasses before presenting them for inspection.  
+For these reasons, FSIS decided to require "industry to 
+assume responsibility for producing safe products, reducing 
+foodborne pathogens, and ... to shift Agency inspection 
+resources to those areas which present the greatest public 
+health risk."  John W. McCutcheon Decl. at p 10.
+
+     In July 1996, FSIS took the first step in implementing its 
+new initiative by promulgating the Pathogen Reduction/ 
+Hazard Analysis and Critical Control Points ("HACCP") final 
+rule.  See 61 Fed. Reg. 38,806 (1996).  The rule "requires 
+plants to implement science-based process control systems as 
+a means of preventing food safety hazards, sets certain food 
+safety performance standards, and establishes testing pro-
+grams to ensure those standards are met." Food Safety and 
+Inspection Service, HACCP-Based Inspection Models 1 
+(1998).  It provides the industry with complete control over 
+production decisions and execution, subject only to the perfor-
+mance standards set by FSIS.  FSIS believes that heighten-
+ing the industry's responsibility for safe meat and poultry 
+products will increase "the incentives and flexibility establish-
+ments need to innovate and improve food safety."  HACCP 
+Final Rule, 61 Fed. Reg. 38,808.
+
+     Such advances, according to FSIS, cannot be achieved 
+without substantial changes to its approach to inspection.  As 
+the agency put it, the roles of establishments and federal 
+inspectors need to be "realigned to accord with the HACCP 
+philosophy."  Id.  To design and test new inspection models, 
+FSIS initiated the Inspection Models Development Project 
+
+(the "Models Project").  Under the regulatory framework 
+proposed in the Models Project, the task of separating normal 
+from abnormal carcasses and parts will be carried out solely 
+by industry personnel.  Federal inspectors will be responsible 
+for monitoring the plant's performance in sorting and for 
+verifying its compliance with performance standards and 
+regulatory requirements.  Under the new model, a finding 
+that a product is not adulterated will be based on FSIS's 
+determination that the establishment's food safety and sanita-
+tion control systems are preventing adulteration.1
+
+     Under the new inspection models, FSIS has said that 
+"slaughter process control will be an industry responsibility 
+subject to FSIS oversight and verification."  HACCP-Based 
+Meat and Poultry Inspection Concepts:  In-Plant Slaughter 
+Inspection Models Study Plan, 63 Fed. Reg. 40,381, 40,381 
+(1998).  It explained, "[e]stablishment employees will conduct 
+anatomical and pathological examinations of carcasses, and 
+FSIS inspectors will oversee, evaluate, and verify the effec-
+tiveness and reliability of the establishments' slaughter pro-
+cess controls."  Id. FSIS plans the transition to industry-
+based inspection to occur in stages.  At the outset, establish-
+ment employees will only be responsible for identifying and 
+removing trimmable defects.  They will later assume respon-
+sibility for generalized condemnable conditions.  And at the 
+final stage, employees will perform "all tasks related to 
+slaughter control," with the inspectors' role limited to over-
+sight and verification.  Food Safety and Inspection Service, 
+HACCP-Based Inspection Models Project In-Plant Slaugh-
+ter 10 (1998).
+
+     Draft guidance put out by FSIS gives some indication of 
+what oversight and verification entails.  Though the descrip-
+
+__________
+     1 The Models Project encompasses several phases.  The first 
+phase involves collecting baseline data of current performance 
+under federal inspection in order to ensure that the new system 
+achieves similar standards.  This is followed by a period of testing 
+the new inspection models at certain volunteer plants.  Testing 
+began in three such plants in September 1999, and FSIS has set 
+tentative start-up dates for eighteen others.
+
+tions vary slightly depending on the class of animals, over-
+sight amounts to inspectors observing establishment person-
+nel as they process carcasses and remove unacceptable 
+products from the food supply.  By verification, FSIS means 
+that inspectors will randomly sample and examine carcasses 
+that have been passed to determine if the establishment is 
+complying with the relevant performance standards.
+
+     The appellants are a group of federal meat and poultry 
+inspectors, their union, and the Community Nutrition Insti-
+tute.  They brought this suit to enjoin the Secretary from 
+"authorizing anything other than the carcass-by-carcass post-
+mortem inspection by a federal government inspector."  Brief 
+for Appellants at 5.  Following cross-motions for summary 
+judgment, the district court ruled in the government's favor 
+on the basis that the word "inspection" did not clearly require 
+an organoleptic inspection.  See American Fed'n of Gov't 
+Employees, AFL-CIO v. Glickman, No. 98-0893, Memoran-
+dum and Order (D.D.C. Sept. 23, 1999).
+
+                                II
+
+     The statutory language with which we are concerned, the 
+language supposedly allowing FSIS's oversight and verifica-
+tion regime, is as follows.  For meat, s 604 of the FMIA 
+provides:  "the Secretary shall cause to be made by inspectors 
+appointed for that purpose a post-mortem examination and 
+inspection of the carcasses and parts thereof of all [livestock] 
+to be prepared at any slaughtering, ... or similar establish-
+ment...."  21 U.S.C. s 604 (emphasis added).  For poultry, 
+s 455(b) of the PPIA states:  "[t]he Secretary, whenever 
+processing operations are being conducted, shall cause to be 
+made by inspectors post mortem inspection of the carcass of 
+each bird processed...."  21 U.S.C. s 455(b) (emphasis add-
+ed).
+
+     The government does not deny that in the ninety or so 
+years since passage of the FMIA in 1907, "inspection" has 
+been taken to mean an organoleptic examination of the car-
+cass, an inspection, that is, using the senses.  Now the 
+government has discovered another meaning.  A "federal 
+
+employee has performed an inspection of a carcass," the 
+government tells us, "when he has watched a plant employee 
+conduct the kind of examination, organoleptic or otherwise, 
+that is necessary to determine whether the carcass is fit for 
+human consumption.  And in making these observations, the 
+oversight inspector will observe all of the carcasses that pass 
+along the slaughter line."  Brief for the Appellees at 29.
+
+     In other words, the government believes that federal em-
+ployees fulfill their statutory duty to inspect by watching 
+others perform the task.  One might as well say that umpires 
+are pitchers because they carefully watch others throw base-
+balls.  The government thinks it can arrive at its position on 
+the basis that the word "inspection" is undefined in the 
+statutes.  But the lack of a statutory definition does not 
+render a term ambiguous.  See Bass v. Stolper, Koritzinsky, 
+Brewster & Neider, S.C., 111 F.3d 1322, 1325 (7th Cir. 1997).  
+It simply leads us to give the term its ordinary, common 
+meaning.  See Perrin v. United States, 444 U.S. 37, 42 (1979);  
+Johnson v. SEC, 87 F.3d 484, 487 (D.C. Cir. 1996).  And when 
+we treat the word "inspection" in that manner, it is easy to 
+see why there is nothing to the government's point that "an 
+oversight inspector will necessarily observe all carcasses and 
+parts that pass along the slaughter line."  See John W. 
+McCutcheon Decl. at p 21.  Every inspection entails an obser-
+vation, but not every observation amounts to an inspection.  
+One may observe something without paying close attention to 
+it, and without giving it a critical appraisal, although that is 
+what these statutes demand.  The military commander may 
+observe his troops without inspecting them.  The foreman of 
+an assembly line may do the same with widgets.
+
+     Both statutes clearly contemplate that when inspections are 
+done, it will be federal inspectors--rather than private em-
+ployees--who will make the critical determination whether a 
+product is adulterated or unadulterated.2  To the extent 
+federal employees are doing any systematic inspecting under 
+
+__________
+     2 "The term 'inspector' means:  (1) an employee or official of the 
+United States Government ..., or (2) any employee or official of the 
+government of any State...."  21 U.S.C. s 453(k).
+
+the Models Project, they are inspecting people not carcasses.  
+Delegating the task of inspecting carcasses to plant employ-
+ees violates the clear mandates of the FMIA and PPIA.  See 
+Chevron USA, Inc. v. Natural Resources Defense Council, 
+Inc., 467 U.S. 837, 842-43 (1984).  For that reason, we 
+reverse the grant of summary judgment and remand to the 
+district court for further proceedings consistent with this 
+opinion.
+
+                                                                 So ordered.
+
+ 

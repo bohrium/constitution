@@ -1,0 +1,340 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued November 7, 2001     Decided July 26, 2002 
+
+                           No. 00-1421
+
+                 Enron Power Marketing, Inc. and 
+              Virginia Electric and Power Company, 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                 Entergy Services, Inc, et al., 
+                           Intervenors
+
+              Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Jeffery D. Watkiss argued the cause and filed the briefs for 
+petitioners.
+
+     Beth G. Pacella, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+the brief was Dennis Lane, Solicitor.
+
+     Robert C. Glinski, Thomas C. Doolan and Floyd L. Norton 
+IV were on the brief for intervenors Entergy Services, Inc. 
+and Tennessee Valley Authority.  Edward S. James E. Fox 
+entered appearances. 
+
+     Before:  Sentelle, Tatel and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Petitioners Enron Power Mar-
+keting, Inc. and Virginia Electric and Power Company peti-
+tion for review of a Federal Energy Regulatory Commission 
+("FERC") order accepting for filing from Entergy Services, 
+Inc., an attachment revising its open access transmission 
+tariff, and a subsequent order denying rehearing.  Entergy 
+Services, Inc., 91 F.E.R.C. p 61,151, reh'g denied, 92 F.E.R.C. 
+p 61,108 (2000).  We deny the petition for review for the 
+reasons that follow.
+
+                          I. Background
+
+     In its Order No. 888 series, FERC required that the 
+wholesale transmission function be unbundled from the sale 
+of electric power and required electric utilities to provide 
+open access to their transmission lines in a nondiscriminatory 
+fashion. Promoting Wholesale Competition Through Open 
+Access Non-Discriminatory Transmission Services by Pub-
+lic Utilities, Order No. 888, FERC Stats. & Regs. p 31,036, 61 
+Fed. Reg. 21,540 (May 10, 1996), clarified, 76 F.E.R.C. 
+p 61,009, and 76 F.E.R.C. p 61,347 (1996), on reh'g, Order No. 
+888-A, FERC Stats. & Regs. p 31,048, 62 Fed. Reg. 12,274 
+(Mar. 14, 1997), clarified, 79 F.E.R.C. p 61,182 (1997), on 
+reh'g, Order No. 888-B, 81 F.E.R.C. p 61,248, 62 Fed. Reg. 
+64,688 (1997), on reh'g, Order No. 888-C, 82 F.E.R.C. p 61,046 
+(1998), aff'd, Transmission Access Policy Study Group v. 
+FERC, 225 F.3d 667 (D.C. Cir. 2000), aff'd sub nom. New 
+York v. FERC, 122 S. Ct. 1012 (2002) (hereinafter "Order 
+888").  To this end, FERC prescribed a pro forma open 
+
+access transmission tariff ("OATT") and required transmis-
+sion owners to file tariffs consistent with or superior to the 
+pro forma.  The pro forma OATT provides for both network 
+integration transmission service ("NITS") and point-to-point 
+transmission service.  FERC also ordered transmission own-
+ers and operators to provide timely capacity, reservation, and 
+scheduling information for OATT customers and transmission 
+owners via an open-access same-time information system 
+known by the acronym OASIS.
+
+     Entergy Services, Inc. ("ESI") filed such an OATT tariff as 
+agent for five affiliated operating companies:  Entergy Arkan-
+sas Inc., Entergy Gulf States, Inc., Entergy Louisiana, Inc., 
+Entergy Mississippi, Inc. and Entergy New Orleans, Inc. 
+(collectively with ESI, "Entergy").  On March 21, 2000, ESI 
+filed a proposed new Attachment M to that OATT.  In 
+pertinent part, Attachment M provided that
+
+     all transmission customers desiring point-to-point trans-
+     mission service under Entergy's OATT must submit to 
+     Entergy OASIS reservations and transmission schedules 
+     that designate specific and valid sources and sinks.  For 
+     a source and sink located on the Entergy transmission 
+     system, Entergy explains that the source must be a 
+     specific generator, and the sink must be a specific load. 
+     For a source and sink off the Entergy transmission 
+     system, Entergy states that the source can be the control 
+     area where the generator unit is located, and the sink 
+     can be the control area where the load is located.  How-
+     ever, Attachment M specifies that neither a generator, 
+     nor a generation-only control area will be accepted as a 
+     valid sink.  Similarly, loads and load-only control areas 
+     will not be accepted as valid sources.  In Attachment M, 
+     Entergy also outlines the procedures to be used in the 
+     event that the source and sink identified on the OASIS 
+     reservation is different from the source and sink provid-
+     ed in the transmission schedule.  In addition, Entergy 
+     proposes to limit the scheduled amount for any point-to-
+     point transmission schedule on Entergy's system to the 
+     rated capacity of the generator or the maximum load.  
+     
+     Entergy asserts that Attachment M is intended to im-
+     prove reliability and congestion management.
+     
+91 F.E.R.C. at 61,563 (emphasis added).  The required notice 
+of this filing in the Federal Register drew objections from, 
+among others, petitioners Enron and Virginia Power, who 
+argued that Attachment M was in fact not necessary on 
+reliability grounds and that it discriminated between Entergy 
+and petitioners.  FERC rejected all objections and approved 
+Attachment M.  Entergy Services, Inc., 91 F.E.R.C. p 61,151, 
+reh'g denied, 92 F.E.R.C. p 61,108 (2000).  Enron and Virgi-
+nia Power petitioned this court to review FERC's decision 
+approving Attachment M under the standards of the Adminis-
+trative Procedure Act and to set it aside as arbitrary, capri-
+cious, an abuse of discretion, or otherwise not in accordance 
+with law.  5 U.S.C. s 706(2)(A).
+
+                          II. Discussion
+
+     The petitioners have raised two issues:  the "discrimina-
+tion" or "comparability" issue and the "reliability-deference" 
+issue.  We hold with FERC on each.
+
+     A.   Comparability Issue
+          
+     The standard by which FERC reviews OATT filings, both 
+original and revised, is whether they are consistent with or 
+superior to the Order 888 pro forma OATT.  Order No. 888, 
+FERC Stats. & Regs. at 31,770.  The pro forma tariff is set 
+out in Appendix B to Order 888-A at 30,503-543.  Order 888 
+requires transmission owners to provide transmission services 
+to others and for such owners and their affiliates to take 
+transmission on their own facilities on the same terms and 
+conditions as those facilities are available to others.  This 
+requirement of nondiscrimination or comparability is one of 
+the foundations of Order 888.
+
+     Petitioners submit that the new requirements of Attach-
+ment M violate this principle of comparability.  Entergy's 
+Attachment M requires that both a reservation of point-to-
+point ("PTP") transmission capacity and the follow-on sched-
+uling of that transmission specify both the electrical source 
+
+from which the transmission arises and the electrical sink (or 
+destination) into which the transmission will sink or disap-
+pear.  Control areas, which are electric zones over whose 
+boundaries with other such control areas the flow of electrici-
+ty is measured and regulated, can be substituted for both 
+sources and sinks, but a control area substituted for a source 
+must have generation capacity and a control area substituted 
+for a sink must have electrical demand located therein, or 
+"native load."  Entergy will not accept a reservation or 
+schedule that identifies a generation-only control area as the 
+sink.  Because Entergy has both native load and generation 
+capacity within its control areas, this is no limitation on 
+Entergy, and petitioners assert that Entergy does reserve 
+and schedule into and out of its control area.  However, 
+because Enron and Virginia Power's Batesville, Mississippi, 
+control area is generation only, and is a control-area island in 
+an Entergy sea, Entergy will not accept Batesville as a sink 
+when Enron or Virginia Power attempt to reserve and sched-
+ule transmissions on Entergy facilities.  Per petitioners, this 
+interferes with their ability to set up hub transactions that 
+pass through Batesville, at least on paper, and other tech-
+niques of energy traders in a manner that Entergy, with both 
+generation capacity and customer load native to its control 
+areas, does not suffer.
+
+     In FERC's view, however, comparability of an OATT is 
+tested on the basis of terms and conditions offered to custom-
+ers, not on the usefulness of those terms and conditions to a 
+particular customer because of that customer's capacities and 
+needs.  Arguably, this rationale alone may be sufficient to 
+sustain FERC's decision on this point, but in any event, the 
+question under review is whether FERC's interpretation of 
+its own orders survives the arbitrary and capricious standard 
+imposed by the Administrative Procedure Act.  FERC's deci-
+sion easily passes that test.  See, e.g., Sithe/Independence 
+Power Partners v. FERC, 165 F.3d 944, 948 (D.C. Cir. 1999).  
+At base, FERC's decision was that Attachment M is consis-
+tent with or superior to the pro forma tariff.  It is neither 
+arbitrary nor capricious for FERC to forbid the fictitious 
+designation of a control area as a sink (ultimate user) site 
+
+when the control area is only a generator.  Cf. Wisconsin 
+Power and Light Co., 84 F.E.R.C. p 61,300 (1998) (disapproval 
+of a generator as a point of receipt in a PTP transmission).  
+Conversely, it is neither arbitrary nor capricious for FERC to 
+conclude that a load-only control area (one without generating 
+capacity) cannot serve as a source.  For Enron to designate 
+sinks as areas without load it would appear that it had not yet 
+sold the power it sought to obtain.  That is, if it had a true 
+sink, why did it designate the "fictitious" one?
+
+     Petitioners' best attempt at displaying arbitrariness and 
+capriciousness in FERC's decision is to claim that the deci-
+sion "reverse[s] unreasonably and without explanation two 
+long standing FERC policies:  one prohibiting discrimination 
+and instead requiring service comparability in access to the 
+interstate transmission grid, and the other requiring defer-
+ence in matters pertaining to the reliable operations of that 
+grid to the 'true expert in the field,' NERC."  Petitioners' 
+argument fails in its first premise.  FERC needed no expla-
+nation for any reversal of policy as to discrimination, since it 
+found no discrimination.  It is disingenuous of petitioners to 
+claim that FERC did not explain why it was no longer 
+prohibiting discrimination when it had found none as to which 
+any prohibition could be lifted.
+
+     Petitioners argue that Attachment M also discriminates in 
+the matter of net scheduling.  Net scheduling refers to a 
+practice, with respect to a particular electrical interface, of 
+scheduling for the same time period partially offsetting in-
+bound and outbound transmissions that differ arithmetically 
+by no more than the capacity of the interface.  In petitioners' 
+illustration, the Batesville generation only control area has a 
+rated generating capacity of 840 megawatts, and so should be 
+an acceptable scheduling sink for a particular time period for 
+2,000 megawatts of inflow and, for the same period, an 
+acceptable scheduling source for 2,840 megawatts of outflow 
+because the arithmetical difference does not exceed Bates-
+ville's rated 840 megawatt generating capacity, provided the 
+actual interchange, when it occurs, does not exceed Bates-
+ville's 840 megawatt generating capacity.  Attachment M 
+prohibits this scheduling practice, in effect, by limiting accept-
+
+able scheduling transactions by rated capacity--i.e., to the 
+electric reality of power flows that petitioners' own illustra-
+tion and argument conceded must ultimately be observed.  
+According to petitioners, the discrimination arises because it 
+is "undisputed" that Entergy net schedules for itself.  But 
+this "undisputed" discrimination is illusory.  FERC's order 
+adequately if briefly addresses this argument.  As FERC 
+makes plain, "in its filing, Entergy commits to apply the 
+proposed business practices on a nondiscriminatory basis."  
+Petitioners' assertion that Entergy will discriminatorily allow 
+itself net scheduling while discriminatorily burdening the 
+scheduling of its customers, is no more than an assertion.  
+Petitioners have offered no evidence to impeach FERC's 
+conclusion.  FERC's rejection may have been a terse one, but 
+petitioners' proffer required no more.  Cf. Lomak Petroleum, 
+Inc. v. Federal Energy Regulatory Commission, 206 F.3d 
+1193, 1198 (D.C. Cir. 2000) (petitioner had burden but "failed 
+to establish convincing inconsistencies").  FERC's treatment 
+is adequate given the clarity of FERC's position on "ficti-
+tious" reservation and scheduling data.  Attachment M ap-
+plies the scheduling limitations to all, which satisfies compara-
+bility, and the petitioners have not shown otherwise.
+
+     B.   Reliability Deference
+          
+     Petitioners' second argument is also founded on a flawed 
+premise.  Petitioners argue that FERC acted capriciously by 
+failing, without adequate explanation, to follow its allegedly 
+long-standing practice of deferring on matters of reliability to 
+the North American Electric Reliability Council ("NERC"), 
+an industry group formed after the massive power outage in 
+the northeastern United States in 1965 to facilitate voluntary 
+industry cooperation and standards on reliability issues.  This 
+argument is possibly more disingenuous than the first.  As to 
+discrimination, the flaw in petitioners' premise was in its 
+assertion that FERC had departed from its policies when it 
+had not had occasion to apply it.  As to the argument that 
+FERC improperly departed from its policy of deference to 
+NERC, it had no such policy in the first instance.
+
+     In support of their objection that the real-data-only reser-
+vation and scheduling requirements of Attachment M were 
+not necessary on reliability grounds, petitioners offered the 
+opinion of an ad hoc Policy Interpretation Task Force 
+("PITF") of NERC that had addressed a similar dispute 
+between an affiliate of petitioner Enron and the Tennessee 
+Valley Authority ("TVA").  (TVA is not subject to FERC 
+jurisdiction.)  The NERC PITF had expressed the view that 
+the hub scheduling and net scheduling practices favored by 
+petitioners were not inappropriate on electric-grid reliability 
+grounds, provided that complete actual flow data was avail-
+able sufficiently in advance to permit system-reliability analy-
+sis.  Further, the PITF expressed the view that if the volume 
+of "last minute" data changes and completions overwhelmed 
+analytic capabilities and put system stability at risk, the 
+closing of the timing window should be moved back for 
+everyone on a non-discriminatory basis.  It is this opinion to 
+which petitioners assert that FERC owes deference.
+
+     This argument is without merit.  Petitioners have failed 
+utterly to demonstrate any practice of FERC deference to 
+NERC.  We seriously question whether there validly could 
+be such a policy.  FERC is a creature of statute and has only 
+those authorities delegated to it by the Congress.  Petitioners 
+have offered no support for the proposition that Congress 
+ever has or even could delegate authority to a federal agency 
+which would then be able to essentially redelegate that au-
+thority by deferring to a private body associated with the 
+industry which Congress had commissioned it to regulate.  
+FERC may of course consider and accept the expert opinion 
+of NERC on an electric-grid reliability issue in the same 
+manner that any finder of fact or policy maker may consider 
+and accept the views of an expert, but that does not limit its 
+authority to reject or limit reliance upon the same expert in 
+future cases.  Moreover, even to the extent that FERC may 
+have a practice of accepting as helpful or useful the opinions 
+of NERC, NERC's reliability opinion does not appear to be 
+fundamentally inconsistent with FERC's acceptance of At-
+tachment M.  NERC's reliability opinion is at base a timing 
+issue, and Attachment M simply takes a conservative but non-
+
+discriminatory approach as to when it requires complete and 
+real data from everyone.  There is no binding practice of 
+deference by FERC to NERC, and nothing relevant to which 
+FERC might defer.
+
+                         III.  Conclusion
+
+     FERC reasonably concluded that Entergy's Attachment M 
+is consistent with or superior to FERC's own pro forma open-
+access transmission tariff, and comparable in the terms and 
+conditions on which point-to-point transmission service is 
+offered to affiliated and unaffiliated customers alike.  Its 
+determinations are not undermined by petitioners' arguments 
+regarding the allegedly discriminatory effect of Attachment 
+M's source and sink requirements and capacity limitations, 
+and FERC owed no deference to the opinion offered in an 
+unrelated matter of an ad hoc task force of the North 
+American Electric Reliability Council.  Accordingly, the peti-
+tion for review is
+
+                                                                 Denied.
+
+                               

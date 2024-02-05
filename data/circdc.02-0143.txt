@@ -1,0 +1,612 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 1, 2002       Decided June 21, 2002 
+
+                      Nos. 02-5052 & 02-5053
+
+                   Timothy C. Pigford, et al., 
+                            Appellees
+
+                                v.
+
+                   Ann M. Veneman, Secretary, 
+            United States Department of Agriculture, 
+                            Appellant
+
+          Appeals from the United States District Court 
+                  for the District of Columbia 
+                         (No. 97cv01978) 
+                         (No. 98cv01693)
+
+     Howard S. Scher, Attorney, U.S. Department of Justice, 
+argued the cause for appellant.  With him on the briefs were 
+Roscoe C. Howard, Jr., U.S. Attorney, and Robert M. Loeb, 
+Attorney, U.S. Department of Justice.
+
+     Jason A. Levine argued the cause for appellants.  With 
+him on the brief were Anthony Herman and Alexander J. 
+Pires, Jr.
+
+     Before:  Sentelle, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  The question presented in this ap-
+peal concerns a district court's authority to interpret or 
+modify a consent decree--here, the settlement of a class 
+action brought by over 20,000 African-American farmers 
+charging the United States Department of Agriculture with 
+racial discrimination in lending practices.  Due to class coun-
+sel's failure--"bordering on legal malpractice," the district 
+court called it--to meet critical consent decree deadlines, the 
+district court interpreted the decree to allow extension of 
+such deadlines "so long as justice requires."  Although we 
+find that the district court exceeded its interpretive authority 
+under the decree, we hold that class counsel's conduct justi-
+fies modifying the decree under Federal Rule of Civil Proce-
+dure 60(b)(5).  But because the order does not satisfy the 
+"tailor[ing]" requirement for a Rule 60(b)(5) modification, see 
+Rufo v. Inmates of the Suffolk County Jail, 502 U.S. 367, 383 
+(1992), we reverse and remand for further proceedings.
+
+                                I.
+
+     Proceeding under the Equal Credit Opportunity Act, 15 
+U.S.C. ss 1691-1691f, three African-American farmers filed 
+this class action against the United States Department of 
+Agriculture alleging racial discrimination in the administra-
+tion of federally funded credit and benefit programs.  The 
+class ultimately included 22,000 similarly situated farmers 
+from fifteen states.  Shortly before the farmers filed suit, the 
+Department released a report commissioned by then-
+Secretary Dan Glickman "to address [the agency's] long-
+standing civil rights problems," documented since the 1960s 
+by numerous federal government "[s]tudies, reports, and task 
+forces."  Civil Rights Action Team, USDA, Civil Rights at 
+
+the United States Department of Agriculture 2-3 (1997), 
+available at http://www.usda.gov/news/civil/cr_next.htm.  Ex-
+amining the "painful history" of its dealings with African-
+American farmers, the Department concluded that local cred-
+it and loan agencies responsible for administering Depart-
+ment programs often discriminated against the farmers.  Id. 
+at 6.  According to the Glickman report, Department officials 
+had "effectively dismantled" the Office for Civil Rights En-
+forcement--the very office charged with addressing discrimi-
+nation complaints.  Id. at 47-48 (internal quotation marks 
+and citation omitted).  "[O]ften mak[ing] matters worse," the 
+"complaints processing system" was a "bureaucratic night-
+mare" that "processed [complaints] slowly, if at all," resulting 
+in a huge "backlog," while at the same time the agency 
+"proceed[ed] with farm foreclosures--even where discrimina-
+tion may have contributed to the farmers' plight."  Id. at 22-
+25.  "Minority farmers," the report concluded, "lost signifi-
+cant amounts of land and potential farm income as a result of 
+discrimination by [USDA] programs."  Id. at 30.
+
+     After Congress intervened to preserve the farmers' claims 
+by tolling the Equal Credit Opportunity Act's two-year stat-
+ute of limitations, see Pigford v. Glickman, 185 F.R.D. 82, 88-
+89 (D.D.C. 1999) (citing 15 U.S.C. s 1691e(f)), the parties 
+entered into a consent decree.  Designed to "ensur[e] that in 
+their dealings with USDA, all class members receive full and 
+fair treatment that is the same as the treatment accorded to 
+similarly situated white persons," the decree establishes pro-
+cedures for resolving class members' individual claims.  Con-
+sent Decree at 2.  Specifically, the decree allows class mem-
+bers to choose between two claims procedures, known as 
+Tracks A and B.  In recognition of the fact that "most ... 
+[class] members ... had little in the way of documentation or 
+proof" of either discriminatory treatment or damages suf-
+fered, Track A awards $50,000 to those farmers able to "meet 
+only a minimal burden of proof."  Pigford, 185 F.R.D. at 103. 
+Track B--the mechanism at issue here--imposes no cap on 
+damages, but requires farmers who choose this track, after 
+limited discovery consisting "essentially [of] an exchange of 
+
+lists of witnesses and exhibits and depositions of the opposing 
+side's witnesses," to prove their claims by a preponderance of 
+the evidence in one-day mini-trials before an arbitrator.  Id. 
+at 106.  Set forth in paragraph 10 of the decree, Track B 
+establishes strict time frames:  the arbitrator sends a hearing 
+notice within 10 days of receiving a Track B claim and holds a 
+hearing no more than 150 days later;  at least 90 days before 
+the hearing, the Department and claimant file and serve on 
+each other witness lists, summaries of direct testimony, and 
+copies of all exhibits;  discovery ends no later than 45 days 
+before the hearing;  and no fewer than 21 days before the 
+hearing, both sides list witnesses they intend to cross-
+examine and file summaries of all legal and factual issues.  
+Consent Decree p 10(a)-(e).  Track A and B decisions are 
+final, except that the losing side may petition for review by a 
+court-appointed monitor.  Id. p p 9(a)(v), 9(b)(v), 10(i), 
+12(b)(iii).
+
+     Following notice to the class and a hearing, the district 
+court approved the consent decree as "fair, adequate, and 
+reasonable," pursuant to Federal Rule of Civil Procedure 23.  
+Pigford, 185 F.R.D. at 113.  According to the district court, 
+the decree represents an "historical first step toward righting 
+the wrongs visited upon thousands of African-American farm-
+ers for decades by the [USDA]."  Pigford v. Veneman, 127 
+F. Supp. 2d 35, 40 (D.D.C. 2001).  Our opinion affirming the 
+district court's approval of the decree noted its importance for 
+both the farmers and the government:  the "United States is 
+likely to provide an estimated $2 billion in debt relief and 
+monetary payments in consideration for the dismissal of the 
+class'[s] complaint." Pigford v. Glickman, 206 F.3d 1212, 1214 
+(D.C. Cir. 2000).  Ultimately, 21,546 claims were accepted for 
+review--21,358 under Track A and 188 under Track B.
+
+     Pursuant to the decree, class counsel received an advance 
+payment of $1 million in fees to cover decree "implementa-
+tion."  Consent Decree p 14(b).  The decree entitled counsel 
+to seek additional fees under the Equal Credit Opportunity 
+Act, 15 U.S.C. s 1691e(d), for their work in connection with 
+filing the action and implementing the decree, Consent De-
+cree p 14(a).  One year into the implementation process, the 
+
+district court "took the extraordinary step of awarding a 
+second advance"--this time for $7 million.  Order of the 
+United States District Court for the District of Columbia at 2 
+(Mar. 8, 2001) (No. 97cv01978).  The Department and class 
+counsel eventually settled all fee claims for $14.9 million.  
+Attorneys and firms sharing the fees were:  Alexander J. 
+Pires, Jr., of Conlon, Frantz, Phelan, Pires & Leavy;  Phillip 
+L. Fraas, of Tuttle, Taylor & Heron;  J.L. Chestnut, of 
+Chestnut, Sanders, Sanders & Pettaway;  T. Roe Frazer, of 
+Langston, Frazer, Sweet & Freese;  Hubbard Saunders IV, of 
+The Terney Firm;  Othello Cross, of Cross, Kearney & 
+McKissic;  Gerard Lear, of Speiser Krause;  and William J. 
+Smith.
+
+     Several months after class counsel received their second fee 
+advance and just two weeks prior to the deadline for filing 
+petitions for monitor review for the "vast majority of claim-
+ants [in both tracks]," class counsel filed an emergency 
+motion seeking an extension of time.  Order of the United 
+States District Court for the District of Columbia at 2 (Nov. 
+8, 2000) (No. 97cv01978).  Counsel revealed that they had 
+filed only a small fraction of the total petitions requested by 
+the farmers.  Concerned that "counsel's failings ... not be 
+visited on their clients," id. at 3, and relying on "explicit 
+assurances" by counsel as to the work load they could realis-
+tically shoulder into the future, Pigford v. Veneman, 141 
+F. Supp. 2d 60, 62 (D.D.C. 2001), the district court permitted 
+counsel to file pro forma petitions by the original deadline and 
+then to either file supporting materials or to withdraw the 
+petitions at the rate of at least 400 petitions per month, see 
+Order of the United States District Court for the District of 
+Columbia at 5-6 (Nov. 8, 2000) (No. 97cv01978).
+
+     A few months later, the district court observed "a very 
+disturbing trend":  class counsel had failed to meet their 
+monthly quota "even once."  Pigford, 141 F. Supp. 2d at 62.  
+Worse still, counsel had "drastically cut its staff, bring[ing] 
+Class Counsel's ability to represent the [farmers] into serious 
+question."  Id.  "[A]larmed by Class Counsel's consistent 
+failure" to meet decree timelines, the district court noted 
+counsel's "remarkable admission that they never had a realis-
+
+tic expectation of meeting" agreed-upon or court-ordered 
+deadlines for the monitor review process.  Order of the 
+United States District Court for the District of Columbia at 
+2-3 (Apr. 27, 2001) (No. 97cv01978).  The court described 
+counsel's performance as "dismal"--"border[ing] on legal mal-
+practice"--and "wonder[ed]" whether class counsel would 
+have been in such a predicament had they not filed "three 
+new sister class actions" against the Department.  Id. at 2-3 
+& n.1, 5.
+
+     The district court eventually imposed a series of escalating 
+daily fines on class counsel for untimely monitor review 
+filings.  Pigford v. Veneman, 143 F. Supp. 2d 28, 32 (D.D.C. 
+2001).  Instead of simply submitting materials in support of 
+their clients' petitions in a more timely fashion, however, 
+counsel drastically increased the rate at which they withdrew 
+petitions for monitor review--from 19% to 48%--"once again" 
+leading the district court to "question Class Counsel's fidelity 
+to their clients."  Pigford v. Veneman, 148 F. Supp. 2d 31, 33 
+& n.1 (D.D.C. 2001).
+
+     Class counsel's failure to cope with their responsibilities 
+extended to the Track B process.  Consider the case of Earl 
+Kitchen, a farmer from Arkansas who filed a Track B claim.  
+Kitchen was initially represented by Jesse L. Kearney, a 
+member of one of the firms sharing in the fee award, Cross, 
+Kearney & McKissic.  During the course of representing 
+Kitchen, Kearney obtained extensions of several paragraph 10 
+deadlines either with consent or over the Department's objec-
+tion.  Around the time the Department agreed to pay class 
+counsel $14.9 million, Kearney missed the deadline (already 
+extended by mutual consent) to submit written direct testimo-
+ny.  Kearney's failure could have drastic consequences, for 
+absent submission of testimony, Kitchen's claim will "be 
+extinguished."  Appellees' Br. at 12;  see also Consent Decree 
+p 10(g) (putting the burden of proof on the claimant).
+
+     In the meantime, the district court, deeply concerned about 
+the decree's viability, asked the American Bar Association 
+Committee on Pro Bono and Public Services to "assemble a 
+team of pro bono lawyers to assist Class Counsel on an 
+emergency basis."  Order of the United States District Court 
+for the District of Columbia at 7 (Apr. 27, 2001) (No. 
+
+97cv01978).  In response, lawyers from the Pro Bono Com-
+mittee and the firms of Arnold & Porter and Crowell & 
+Moring recruited some of Washington's largest law firms:  
+Covington & Burling;  Sidley, Austin, Brown & Wood;  Step-
+toe & Johnson;  Swidler, Berlin, Shereff & Friedman;  and 
+Wilmer, Cutler, and Pickering.  The district court, recogniz-
+ing the competing demands on class counsel arising out of 
+their representation of multiple claimants in both tracks and 
+at various stages of the claims resolution process, hoped that 
+this added assistance would lift the "heavy burden of Track B 
+litigation from the shoulders of Class Counsel," enabling them 
+to "focus on the petition [for monitor review] process."  Pig-
+ford, 143 F. Supp. 2d at 30 n.1.
+
+     Pro bono counsel took over the representation of Earl 
+Kitchen and asked the Department to extend the time for 
+filing written direct testimony.  The Department refused.  As 
+a result and because class counsel had apparently missed 
+deadlines in other Track B cases, pro bono counsel filed a 
+"motion to endow," asking the district court "to interpret (and 
+if necessary, to modify) the Consent Decree, so that Arbitra-
+tors have discretion to extend deadlines when strict compli-
+ance with the original scheduling framework would defeat the 
+Decree's overarching remedial purposes."  Pls.' Mot. to En-
+dow at 1.  Granting the motion, the district court found it 
+"implicit" in the Decree's terms that arbitrators have such 
+discretion.  Pigford v. Veneman, 182 F. Supp. 2d 50, 53 
+(D.D.C. 2002).
+
+     The Department appeals.  At its request, we entered a stay 
+pending appeal.
+
+                               II.
+
+     District courts possess two types of authority over consent 
+decrees.  First, they may interpret and enforce a decree to 
+the extent authorized either by the decree or by the related 
+order.  See Bd. of Trustees of Hotel & Rest. Employees Local 
+25 v. Madison Hotel, Inc., 97 F.3d 1479, 1484 n.8 (D.C. Cir. 
+1996) (observing that a district court retains enforcement 
+
+jurisdiction over a settlement if litigants so provide in their 
+stipulation of dismissal or the dismissal order incorporates 
+the settlement terms).  Second, they may modify a decree 
+pursuant to Federal Rule of Civil Procedure 60(b)(5).  See 
+Rufo, 502 U.S. at 378-79 (holding that the Rule 60(b)(5) 
+standard for modifying judgments applies to consent de-
+crees).  These two sources of authority reflect a consent 
+decree's hybrid character, having qualities of both contracts 
+and court orders.  See id. at 378 (explaining that a consent 
+decree "is contractual in nature" but also "an agreement that 
+the parties desire and expect will be reflected in, and be 
+enforceable as, a judicial decree").
+
+     The farmers based their "motion to endow" on both sources 
+of authority.  In granting the motion, the district court 
+explained that it was exercising its "authority to enforce and 
+to interpret an approved Consent Decree."  Pigford, 182 
+F. Supp. 2d at 51.  Although the court thus never addressed 
+the question of its Rule 60(b)(5) authority, the farmers main-
+tain that we may affirm the order on either ground.  We 
+consider each in turn.
+
+                  Interpretation and Enforcement
+
+     Reasoning that the decree "explicitly allows for its con-
+struction in a liberal manner," and that paragraph 10 "dele-
+gate[s]" the district court's authority over Track B claims to 
+arbitrators, the district court found it "implicit in the terms of 
+the Consent Decree" that arbitrators "have essentially the 
+same authority over Track B hearings that a trial judge 
+would have over a trial or related pre-trial proceedings," 
+including "discretion to allow for revision of certain deadlines, 
+even after the deadlines have passed, so long as justice 
+requires the revisions and provided that the burden on the 
+defendant is not so great as to outweigh the interest of the 
+claimant in fully presenting his or her claim."  Id. at 51-53.  
+The Department argues that the consent decree gives the 
+district court no such authority.  According to the Depart-
+ment, the district court's only authority either to interpret or 
+enforce the consent decree comes from paragraph 13, which 
+
+"concern[s] ... alleged violation[s] of any provision of th[e] 
+... Decree," and directs "[t]he person seeking enforcement of 
+a provision of th[e] ... Decree" to attempt to resolve any 
+problems without court intervention and then to seek enforce-
+ment through contempt proceedings.  Consent Decree p 13;  
+see also id. p 21 (retaining the court's authority to enforce the 
+decree through contempt proceedings).  Since the farmers 
+neither alleged a violation nor invoked the procedures for 
+"seeking enforcement," the Department contends that the 
+district court lacked jurisdiction to consider the "motion to 
+endow."  Defending the district court's order and relying on 
+our statement in Beckett v. Air Line Pilots Ass'n that it is a 
+"well-established principle that a trial court retains jurisdic-
+tion to enforce its consent decrees," 995 F.2d 280, 286 (D.C. 
+Cir. 1993), the farmers argue that the order was "properly 
+grounded on jurisdiction 'ancillary' to that explicitly conferred 
+by paragraph 13," Appellees' Br. at 21.  Pursuant to this 
+"ancillary jurisdiction," the farmers contend, the district court 
+properly "enforce[d]" the decree's "overarching remedial pur-
+poses."  Id. at 20.  The farmers also argue that quite apart 
+from paragraph 13, the district court had "inherent" authority 
+to interpret the decree.  Id. at 21.
+
+     We agree with the Department.  In Kokkonen v. Guardian 
+Life Insurance Co. of America, the Supreme Court held that 
+a district court lacked "ancillary jurisdiction" to enforce a 
+consent decree because neither the decree nor the order 
+dismissing the case expressly retained jurisdiction to do so.  
+511 U.S. 375, 380-81 (1994).  Although Kokkonen differs from 
+the situation here--the consent decree in this case does retain 
+certain enforcement jurisdiction--the decision teaches that 
+district courts enjoy no free-ranging "ancillary" jurisdiction to 
+enforce consent decrees, but are instead constrained by the 
+terms of the decree and related order.  See id. at 381 
+(explaining that if the dismissal order had retained jurisdic-
+tion or incorporated the settlement, then "a breach of the 
+agreement would be a violation of the order, and ancillary 
+jurisdiction to enforce the agreement would therefore exist").  
+
+Accordingly, an enforcement clause limited by its plain lan-
+guage, as is paragraph 13, to situations involving decree 
+violations confers no ancillary jurisdiction to enforce the 
+decree's "overarching ... purposes."  Indeed, when the dis-
+trict court approved the decree, it observed that the parties 
+added the enforcement provision because the original version 
+"appeared to prevent the Court from exercising jurisdiction in 
+the event that the USDA did not comply with [its] terms," 
+Pigford, 185 F.R.D. at 110, bolstering our view that the 
+enforcement provision means what it says.
+
+     Beckett does not warrant a different result.  Not only did 
+the Beckett decree preserve the district court's "jurisdiction 
+over [the] case to enforce the terms of [the] ... decree," 995 
+F.2d at 286, but the party seeking enforcement in Beckett--
+unlike the farmers here--alleged that the other party had 
+violated the decree's terms, id. at 281.
+
+     Equally unpersuasive is the farmers' argument that we 
+need not worry about paragraph 13's limitations because the 
+district court possesses "inherent" interpretive power over 
+the decree "whether or not for explicit enforcement pur-
+poses."  Appellees' Br. at 21.  For one thing, we see no way 
+the district court's interpretive authority can be unhinged 
+from its enforcement authority.  If the district court lacks 
+paragraph 13 enforcement authority (because the farmers 
+alleged no violation), then the farmers gain nothing from an 
+interpretation that arbitrators may adjust paragraph 13 dead-
+lines.  Furthermore, none of the appellate cases cited by the 
+farmers supports their assertion that "many cases ... have 
+recognized the 'inherent' jurisdiction of courts to interpret 
+consent decrees," id., apart from any enforcement power.  
+Two of the cases involved decree modifications, not interpre-
+tations.  See Waste Mgmt. of Ohio, Inc. v. Dayton, 132 F.3d 
+1142, 1146 & n.4 (6th Cir. 1997);  Alberti v. Klevenhagen, 46 
+F.3d 1347, 1365 (5th Cir. 1995).  The third upheld, as a valid 
+consent decree interpretation, a district court's imposition of 
+interim deadlines not specified in the decree.  See Juan F. 
+By and Through Lynch v. Weicker, 37 F.3d 874 (2d Cir. 
+1997).  The order in that case, however--unlike the one 
+here--provided for court intervention "when plaintiffs showed 
+the defendant was 'likely' to be in noncompliance";  the addi-
+
+tional deadlines represented a permissible interpretation be-
+cause they served to "ensur[e] compliance."  Id. at 879.
+
+     Our conclusion that the district court's interpretive and 
+enforcement authority depends on the terms of the decree 
+and related court order, rather than on some "ancillary" or 
+"inherent" power, comports with a consent decree's contrac-
+tual character.  See Rufo, 502 U.S. at 378.  In this case, for 
+example, the farmers and the Department bargained over 
+Track B's time frames.  Track B's "abbreviated and unambig-
+uous deadlines," the Department candidly tells us, serve its 
+interests by "limit[ing] the number of class members who ... 
+opt for the Track B process and ... enhanc[ing] the govern-
+ment's ability to defend against [those] claims."  Appellant's 
+Br. at 24-25.  The parties also bargained over paragraph 13, 
+agreeing to limit district court enforcement authority to situa-
+tions where the decree is violated.  To now hold that the 
+district court, through either some "ancillary" authority to 
+enforce the decree absent a violation or "inherent" authority 
+to interpret it, may permit extensions of Track B deadlines 
+would not only deny the Department the benefit of its bar-
+gain, but would also discourage settlements.  Who would sign 
+a consent decree if district courts had free-ranging interpre-
+tive or enforcement authority untethered from the decree's 
+negotiated terms?
+
+                           Modification
+
+     The farmers argue that even if the district court lacked 
+authority to interpret the decree to allow extension of Track 
+B deadlines, we may still affirm the order as a proper 
+modification pursuant to Rule 60(b)(5).  This rule permits 
+courts, "upon such terms as are just," to "relieve a party or a 
+party's legal representative from a final judgment, order, or 
+proceeding ... [if] it is no longer equitable that the judgment 
+should have prospective application."  "[A] significant change 
+in circumstances," the Supreme Court has held, may "war-
+rant[ ] revision of [a] decree."  Rufo, 502 U.S. at 383.  Such 
+changed circumstances include "unforeseen obstacles" that 
+
+make a decree "unworkable."  Id. at 384.  Any modification 
+must be "suitably tailored to the changed circumstances."  Id. 
+at 383.
+
+     According to the farmers, two "significant change[d] ... 
+circumstances" make the consent decree "unworkable."  They 
+first point to a "dramatic and unexpected expansion in class 
+size"--from 2000 (the number originally estimated) to 22,000 
+(the final number).  Appellees' Br. at 31.  As the Department 
+points out, however, at the time the district court approved 
+the decree, the parties realized the class already had between 
+"15,000 and 20,000" members.  Pigford, 185 F.R.D. at 94.  
+Although this may well suggest that the actual increase was 
+not "significant" enough to justify modification, we decline to 
+resolve that issue, for the district court did not rely on the 
+larger class size as a basis for the order at issue here.
+
+     Class counsel's "inability to represent all Track B claimants 
+adequately," Pigford, 182 F. Supp. 2d at 52, the farmers next 
+argue, also provides a basis for a Rule 60(b)(5) modification.  
+The Department concedes not only that counsel for "Kitchen 
+and a number of other class members" committed "what 
+appears to be malpractice," but also that this represents a 
+"relevant new fact."  Appellant's Br. at 28.  Even so, the 
+Department insists, the farmers' remedy is not to deny the 
+Department the benefit of its bargained-for Track B dead-
+lines, but rather to sue class counsel for malpractice.  
+" '[C]lients must be held accountable for the acts and omis-
+sions of their attorneys.' "  Id. at 29 (quoting Pioneer Inv. 
+Servs. Co. v. Brunswick Assocs., 507 U.S. 380, 396-97 (1993)).
+
+     As a general matter, the Department is correct.  In Link v. 
+Wabash Railroad Co., the case on which the Department 
+primarily relies, the Supreme Court held that the failure of 
+plaintiff's lawyer to attend a pretrial conference justified 
+dismissing the case for want of prosecution.  370 U.S. 626, 
+633 (1962).  Because plaintiff "voluntarily chose [his] attorney 
+as his representative," the Court held, he could "[ ]not ... 
+avoid the consequences of the acts or omissions of this freely 
+selected agent."  Id. at 633-34.
+
+     Neither Link nor any other case the Department cites, 
+however, was a class action.  In this case, except for the three 
+named plaintiffs, not one of the thousands of class members 
+"voluntarily chose" class counsel.  Quite to the contrary, by 
+certifying the class, the district court effectively appointed 
+counsel for the farmers.  Under Rule 23(a)(4), moreover, the 
+district court, as a condition of class certification, had to find 
+that class counsel would "adequately protect the interests of 
+the class."  Fed. R. Civ. P. 23(a)(4);  see also McCarthy v. 
+Kleindienst, 741 F.2d 1406, 1411 n.3 (D.C. Cir. 1984) (noting 
+that Rule 23's requirement of adequate representation encom-
+passes "concerns about the competency of class counsel" 
+(internal quotation marks and citation omitted)).  Exercising 
+this responsibility, the district court found that "Mr. Alexan-
+der Pires and Mr. Phillip Fraas as lead counsel and Mr. J.L. 
+Chestnut, Mr. Othello Cross, Mr. T. Roe Frazer, Mr. Hub-
+bard T. Saunders, IV, Mr. Gerald Lear and Mr. James Myart, 
+Jr., all serving as of counsel ... demonstrated that they will 
+advocate vigorously for the interests of the class" and there-
+fore "adequately will represent the interests of the class." 
+Pigford v. Veneman, 182 F.R.D. 341, 350 (D.D.C. 1998).
+
+     In so distinguishing Link, we do not mean to suggest that 
+the presumption of client accountability for attorney conduct 
+has no applicability in class actions.  Certainly a contrary rule 
+would make class action settlements problematic.  Moreover, 
+the Rule 23(a)(4) finding of class counsel adequacy may 
+partially substitute for the free choice found in conventional 
+non-class litigation.  Like most presumptions, however, this 
+one is rebuttable.  And in litigation involving a class--defined 
+from the outset by its numerosity--where counsel is not in 
+fact freely chosen by class members, it is logical that the 
+presumption should be more easily overcome than if the 
+clients had in fact freely chosen their attorneys.
+
+     At oral argument, the Department pointed out that even 
+though the farmers may not have "freely selected" class 
+counsel to pursue the underlying litigation, the decree per-
+mits them to choose other lawyers for Track A or B represen-
+tation.  Accordingly, the Department argues, holding the 
+farmers accountable for their lawyers' dismal performance is 
+
+perfectly appropriate.  We disagree.  Although the decree 
+technically permits class members to retain other lawyers, we 
+think the circumstances of this case, together with the terms 
+of the decree itself, make such choices unlikely.  For one 
+thing, the decree prohibits lawyers from charging for their 
+work in claims proceedings, see Consent Decree p 5(e), so 
+lawyers desiring payment must seek fees pursuant to the 
+Equal Credit Opportunity Act, 15 U.S.C. s 1691e(d).  Class 
+counsel, however, received an advance fee award to provide 
+such services.  Class counsel also benefit from the district 
+court's Rule 23 seal of approval.  No wonder Earl Kitchen 
+(the only claimant for whom the record contains relevant 
+information) was represented by Jesse Kearney, a member of 
+one of the firms that shared in the fee advance and ultimately 
+the $14.9 million settlement.  Because Kitchen did not "volun-
+tarily cho[o]se" Kearney in the usual sense, we see no basis 
+for holding Kitchen responsible for Kearney's failure to file 
+direct testimony on time.
+
+     Contrary to the Department's argument, we see nothing 
+unfair about this result.  Although we have no doubt that the 
+Department expected Track B's tight deadlines to discourage 
+claims--even to make them less winnable--the Department 
+never counted on class counsel's virtual malpractice.  Indeed, 
+the decree itself assumes competent representation for the 
+farmers.  The decree's express purpose is to "ensur[e] that in 
+their dealings with USDA, all class members receive full and 
+fair treatment," Consent Decree at 2, and its "main accom-
+plishment was the establishment of a process to adjudicate 
+individual claims."  Opinion and Order of the United States 
+District Court for the District of Columbia at 8 (Mar. 8, 2001) 
+(No. 97cv01978) (emphasis added).  Unless the farmers have 
+competent counsel, we cannot imagine how they could ever 
+obtain "full and fair treatment" in a claims process where (as 
+in Kitchen's case) missing a single deadline could be fatal.
+
+     For all of these reasons, we conclude that class counsel's 
+failure to meet critical Track B deadlines amounts to an 
+"unforeseen obstacle" that makes the decree "unworkable."  
+Rufo, 502 U.S. at 384.  To hold otherwise would sanction the 
+farmers' double betrayal:  first by the Department, see Civil 
+
+Rights at the United States Department of Agriculture 2-30, 
+and then by their own lawyers.
+
+     Having said all this, however, we cannot affirm the chal-
+lenged order as a proper Rule 60(b)(5) modification because 
+of Rufo's second requirement--that the modification be "suit-
+ably tailored to the changed circumstances."  502 U.S. at 391.  
+Because the district court viewed its order as an interpreta-
+tion, not a modification, it had no occasion to consider the 
+tailoring requirement.  In our view, the order, vesting arbi-
+trators with generic authority to revise deadlines "so long as 
+justice requires," Pigford, 182 F. Supp. 2d at 52-53, is far too 
+broad.  Although the order restores the farmers to the 
+position in which they would have been but for counsel's 
+dismal performance (it may even, as the Department argues, 
+put them in a better position), the order potentially deprives 
+the Department of all Track B deadlines.  By contrast, a 
+"suitably tailored" order would return both parties as nearly 
+as possible to where they would have been absent counsel's 
+failures.  In Kitchen's case, a properly "tailored" remedy 
+would, for example, reset the Track B clock at the point in 
+the process where Kearney dropped the ball, establishing a 
+new deadline for submitting direct testimony and leaving 
+subsequent deadlines unchanged. Whatever tailoring method 
+the district court ultimately adopts, see United States v. 
+Western Elec. Co., 46 F.3d 1198, 1207 (D.C. Cir. 1995) (recog-
+nizing a district court's "considerable discretion" in fashioning 
+a Rule 60(b)(5) modification), it must preserve the essence of 
+the parties' bargain:  for the farmers, an opportunity to have 
+their individual claims pursued by competent counsel;  and for 
+the Department, the benefit of the consent decree's tight 
+deadlines.
+
+                               III.
+
+     We reverse the district court's order and remand the case 
+for proceedings consistent with this opinion, Rule 60(b)(5), 
+and Rufo v. Inmates of the Suffolk County Jail, 502 U.S. 367, 
+377 (1992).  See 28 U.S.C. s 2106 (authorizing federal appel-
+late courts to "remand the cause and ... require such further 
+
+proceedings to be had as may be just under the circum-
+stances").
+
+                                                            So ordered.
+
+                                              

@@ -1,0 +1,1034 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 18, 1999   Decided January 11, 2000 
+
+                           No. 99-5088
+
+         The Iceland Steamship Company, Ltd.-Eimskip and 
+                 Van Ommeren Shipping (USA) LLC, 
+                            Appellees
+
+                                v.
+
+          The United States Department of the Army and 
+              Louis Caldera, Secretary of the Army, 
+                            Appellees
+
+              Transatlantic Lines-Iceland ehf. and 
+                  TransAtlantic Lines, L.L.C., 
+                            Appellants
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv02631)
+
+     Michael Joseph argued the cause for appellants. With him 
+on the briefs was Joseph O. Click.
+
+     David L. Smith, Assistant U.S. Attorney, argued the cause 
+for the federal appellees.  With him on the brief were Wilma 
+A. Lewis, U.S. Attorney, and R. Craig Lawrence, Assistant 
+U.S. Attorney.
+
+     Joanne W. Young argued the cause for the non-federal 
+appellees.  With her on the brief were David M. Kirstein, 
+Lee T. Ellis, Jr., Richard A. Hibey, and Constantine G. 
+Papavizas.
+
+     George J. Mannina, Jr., was on the brief for amicus curiae 
+The Government of the Republic of Iceland. With him on the 
+brief was Gary C. Adler.
+
+     Before:  Sentelle, Henderson and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Opinion concurring in part and dissenting in part filed by 
+Circuit Judge Henderson.
+
+     Sentelle, Circuit Judge:  Appellants TransAtlantic Lines-
+Iceland ehf. ("TLI") and TransAtlantic Lines, L.L.C. ("TLL") 
+are affiliated corporations and awardees of military shipping 
+contracts for shipping between the eastern United States and 
+Iceland.  They appeal from an order of the district court 
+allowing summary judgment in favor of appellees, Iceland 
+Steamship Company, Ltd.-Eimskip ("Eimskip") and Van Om-
+meren Shipping (USA) L.L.C. ("Van Ommeren"), and requir-
+ing the U.S. Army to rebid the contracts.  The district court 
+required rebidding on two grounds:  First, it held that a 1986 
+treaty entered into between the United States and Iceland 
+prohibited the award of the contracts to appellants because of 
+their affiliation with each other.  Second, the district court 
+held that the contracting officer's determinations of responsi-
+bility for appellants were arbitrary and capricious in that she 
+failed to follow relevant solicitation procedures.  Applying the 
+deferential standard of review of executive branch decisions 
+
+which govern in both these contexts, we reverse the district 
+court and uphold the Army's award.
+
+                             I. Facts
+
+                           A. Overview
+
+     While the interpretation of an international treaty is impli-
+cated in this action, this is essentially a disappointed bidder 
+case.  Cf. Elcon Enters., Inc. v. Washington Metro. Area 
+Transit Auth., 977 F.2d 1472 (D.C. Cir. 1992);  CACI, Inc.-
+Federal v. United States, 719 F.2d 1567 (Fed. Cir. 1983).  At 
+stake are government contracts for shipping between the 
+eastern United States and Iceland.  Appellants were awarded 
+the contracts on September 18, 1998, by the United States 
+Army's Joint Traffic Management Office of the Military Traf-
+fic Management Command ("Army").  Appellees were losing 
+bidders and the incumbent carriers on these contracts.  Dis-
+appointed bidders may challenge a government contract 
+award under the Administrative Procedure Act ("APA"), 
+which empowers courts to set aside any agency action that is 
+"arbitrary, capricious, an abuse of discretion, or otherwise not 
+in accordance with law."  5 U.S.C. s 706(2)(A) (1994);  see 
+Scanwell Lab., Inc. v. Shaffer, 424 F.2d 859, 874 (D.C. Cir. 
+1970).
+
+                           B.  History
+
+     This action is the latest in a series of disputes over the 
+military shipping contracts for trade between the United 
+States and Iceland.  We will briefly review the history of this 
+trade and the earlier disputes to provide context for the 
+current case.
+
+     The United States has maintained formal arrangements for 
+the use of military facilities in Iceland since at least 1951, 
+when the two countries entered into a defense agreement.  
+See Defense Agreement Pursuant to the North Atlantic Trea-
+ty ("Defense Agreement"), May 5, 1951, U.S.-Ice., 2 U.S.T. 
+1195.  Prior to 1984, Icelandic shippers traditionally serviced 
+the U.S. military's Keflavik Air Base in Iceland.  In that 
+
+year, Rainbow Navigation, a newly formed United States flag 
+carrier, took over the trade by invoking the Cargo Preference 
+Act of 1904, 10 U.S.C. s 2631 (1994).  That statute requires 
+that American military supplies be carried by U.S. flagged 
+vessels if available.  See Curran v. Laird, 420 F.2d 122, 127-
+28, 133 (D.C. Cir. 1969).
+
+     The government of Iceland asked that Icelandic shippers 
+be given some accommodation in order to maintain Iceland's 
+good defense relationship with the United States.  At first, 
+the U.S. Navy tried to disqualify Rainbow by invoking an 
+exception in the Cargo Preference Act for excessive rates, but 
+this was rejected as based on insufficient evidence.  See 
+Rainbow Navigation, Inc. v. Department of the Navy, 783 
+F.2d 1072, 1073, 1080-81 (D.C. Cir. 1986).  The Navy then 
+tried to "dispense with Rainbow's services by a diversion of 
+the cargo ... to military aircraft," but the District Court 
+rejected this tactic.  Rainbow Navigation, Inc. v. Depart-
+ment of the Navy, 686 F. Supp. 354, 355 (D.D.C. 1988) 
+(reviewing prior challenges).
+
+     Realizing that the Cargo Preference Act was a formidable 
+barrier, the United States (through the State Department) 
+and Iceland negotiated a treaty and memorandum of under-
+standing in 1986.  These documents are intended to ensure 
+that the Iceland trade will be shared by United States flag 
+carriers and Icelandic shippers.  Article I of the treaty 
+provides:
+
+     Transportation services for cargo transported by sea 
+     between Iceland and the United States for purposes of 
+     the Defense Agreement shall be provided by vessels of 
+     the United States and vessels operated by Icelandic 
+     shipping companies on the basis of competition between 
+     United States flag carriers and Icelandic shipping compa-
+     nies pursuant to this Article.  Any such competition shall 
+     result in contract awards that ensure that both United 
+     States flag carriers and Icelandic shipping companies are 
+     able to maintain a viable presence in the trade.  To 
+     ensure achievement of these objectives, the percentage of 
+     cargo transported ... by Icelandic shipping companies 
+     
+     and vessels of the United States on the basis of such 
+     competition shall be determined by agreement between 
+     the United States and Iceland.
+     
+Treaty to Facilitate Defense Relationship ("Treaty"), Sept. 
+24, 1986, U.S.-Ice., T.I.A.S. No. 11,098, at 3.  The memoran-
+dum of understanding fleshes out how this competition should 
+proceed:
+
+     Transportation services for cargo transported by sea 
+     between Iceland and the United States for purposes of 
+     the Defense Agreement shall be provided by vessels of 
+     the United States and vessels operated by Icelandic 
+     shipping companies on the basis of periodic competitions 
+     between United States flag carriers and Icelandic ship-
+     ping companies.  Each competition shall result in con-
+     tract awards to both an Icelandic shipping company and 
+     a United States flag carrier such that not to exceed 65 
+     percent of the cargo shall be carried by the lowest bidder 
+     and the remainder shall be carried by the next lowest 
+     bidder of the other country....
+     
+Memorandum of Understanding in Implementation of the 
+Treaty to Facilitate Defense Relationship ("MOU"), Sept. 24, 
+1986, U.S.-Ice., T.I.A.S. No. 11,098, at 2.  The MOU is to be 
+reviewed yearly and may be amended upon mutual agree-
+ment of the parties at any time.  See id. at 3.
+
+     Upon ratification of the Treaty, Icelandic shippers were 
+able to claim back some of Iceland trade.  In fact, the 
+Icelandic shippers got back 65 percent of the trade.  Al-
+though the MOU does not guarantee this allocation, Icelandic 
+shipping companies have much lower costs than U.S. flag 
+carriers, cf. Aeron Marine Shipping Co. v. United States, 695 
+F.2d 567, 569 (D.C. Cir. 1982), and generally will be able to 
+submit lower bids than their American competitors.  There-
+fore, in light of this economic reality, the lowest bidder among 
+Icelandic shipping companies will generally be awarded 65 
+percent of the trade, and the lowest bid from a U.S. flag 
+carrier will be awarded the remainder.
+
+     We interpreted the Treaty and MOU in Rainbow Naviga-
+tion, Inc. v. Department of the Navy, 911 F.2d 797 (D.C. Cir. 
+
+1990).  Rainbow Navigation claimed that the Treaty and 
+MOU, supplemented by legislative testimony on the ratifica-
+tion of the Treaty, required a bidding process protecting 
+Rainbow by including restrictive specifications to disqualify 
+small domestic supply boats.  It also contended that the 
+solicitation must include a provision ensuring it could recover 
+the fixed costs of operating a vessel which could carry 65 
+percent of the trade even if awarded only 35 percent.  See id. 
+at 801.  We rejected the theory that Rainbow should be 
+accorded any greater protection than other U.S. flag carriers, 
+seeing nothing in the language of the Treaty or MOU requir-
+ing such a result.  We summarized the requirements of the 
+Treaty and MOU:
+
+     By its terms, the Treaty and the MOU require only (1) 
+     that the [government] award contracts by means of a 
+     competition;  (2) in a manner that "ensure[s] that both 
+     United States flag carriers and Icelandic shipping compa-
+     nies are able to maintain a viable presence in the trade";  
+     and (3) that the lowest U.S. bidder receive at least 35 
+     percent of the cargo.
+     
+Id.
+
+                     C.  Present Controversy
+
+     This brings us to the present controversy.  On January 30, 
+1998, the Army1 issued a solicitation for the Iceland trade, 
+specifically stating that awards would be allocated "[p]ursuant 
+to the Treaty and its implementing Memorandum of Under-
+standing."  Of course, the solicitation stated numerous other 
+requirements for bidders to meet.  Those we mention here 
+are relevant to appellees' non-treaty related challenges.  The 
+solicitation required the Contracting Officer to make an "af-
+firmative determination" of offeror responsibility.  It cited to 
+Federal Acquisition Regulation ("FAR"), Subpart 9.1 on Re-
+
+__________
+     1 Although the Navy handled the administration of the bidding 
+process in the past, see, e.g., Rainbow, 911 F.2d at 799, this 
+responsibility was transferred at some point to the Army, who 
+administered this solicitation through the Joint Traffic Management 
+Office of the Military Traffic Management Command.
+
+sponsible Prospective Contractors, which mandates that an 
+awardee "[h]ave adequate financial resources to perform the 
+contract, or the ability to obtain them."  48 C.F.R. s 9.104-
+1(a) (1998).  The solicitation also stated that each offer should 
+"include sufficient evidence to establish control or irrevocable 
+right to gain control of the necessary vessels in sufficient time 
+to commence service on [the contract start date]."
+
+     The solicitation stated that offers were due on March 5, 
+1998, and the contracts had a proposed starting date of May 
+1, 1998 because the prior contracts were set to expire on April 
+30, 1998.  Due to delays in the bidding process, the proposed 
+start date was moved back to November 1 and the incumbent 
+carriers given a six month extension.
+
+     TLI and TLL each submitted bids.2  TLI and TLL have 
+substantially similar ownership and are principally managed 
+by Gudmundur Kjaernested, who is a citizen of Iceland and 
+United States resident.  At the time the original bids were 
+submitted, Kjaernested and Brandon C. Rose, a United 
+States citizen, were the primary owners of both companies.  
+Despite this close relationship, TLI and TLL are separate 
+corporate entities.  TLL is a limited liability company regis-
+tered in Delaware, and TLI is an Icelandic company regis-
+tered in Iceland.
+
+     The Army announced the awards on September 18, 1998.  
+TLI, the Icelandic company, was the lowest overall bidder 
+and the Army awarded it a contract covering 65 percent of 
+the trade.  The Army awarded TLL a contract for the 
+remaining 35 percent because it was the lowest bid among 
+U.S. flag carriers.
+
+     The Contracting Officer also made the required determina-
+tion that each company was a responsible contractor.  As to 
+TLI, the Contracting Officer cited a bank letter tentatively 
+approving a $1 million credit line to TLL.  This letter noted 
+the bank's prior history with TLI and TLL stockholder 
+
+__________
+     2 We are referring to separate bids that TLI and TLL submitted.  
+TLI and TLL also submitted two other bids which were rejected 
+because they were in the nature of joint venture proposals.
+
+Brandon Rose as being important in setting up the line of 
+credit.  The Contracting Officer also had a letter from Kjaer-
+nested stating that the credit line was available to both TLI 
+and TLL.  As to TLL, the Contracting Officer's responsibili-
+ty determination concluded that TLL had "the necessary 
+equipment and facilities to perform this contract."  Before 
+the officer were four letters from marine companies pledging 
+vessels, with varying levels of specificity.
+
+     Eimskip and Van Ommeren filed protests with the U.S. 
+Government Accounting Office ("GAO").  Under the Compe-
+tition in Contracting Act, this action automatically stayed the 
+awards.  See 31 U.S.C. s 3553(b)-(d) (1994).  On October 23, 
+1998, approval to override the stay was granted by the 
+Assistant Secretary of the Army.  Eimskip then filed this suit 
+in the district court causing the GAO to dismiss the bid 
+protest.  See 4 C.F.R. s 21.11 (1997).  TLL, TLI, and Van 
+Ommeren timely intervened.
+
+     During this same period, the government of Iceland sent a 
+diplomatic note to the U.S. Department of State protesting 
+the awards.  Citing the Treaty and MOU, Iceland stated two 
+problems it had with the awards to TLI and TLL:  (1) that as 
+commonly owned companies, TLI and TLL could not be 
+awardees, and (2) that TLI was not a true Icelandic shipping 
+company.  Specifically, the note stated:
+
+          The Government of Iceland has concluded, based on 
+     available information, that [TLI and TLL] are affiliated 
+     companies under common direction, ownership and/or 
+     control of Icelandic citizens, and that [TLI] lacks the 
+     necessary experience, technical capability, financial re-
+     sponsibility, and material connection with Iceland.
+     
+          ....  
+     
+          ... [T]he Government of Iceland interprets the Treaty 
+     and [MOU] to preclude awards by the [Army] of both the 
+     Icelandic and United States portions of the trade subject 
+     to the Treaty and [MOU] to affiliated companies under 
+     common direction, ownership and/or control.
+     
+          ... [T]he Government of Iceland interprets the Treaty 
+     and [MOU] to preclude any award of the Icelandic 
+     
+     portion of that trade to any company that lacks the 
+     experience, technical capability, financial responsibility, 
+     and material connection with Iceland that are necessary 
+     to ensure ... maintenance of a viable presence of Icelan-
+     dic shipping companies in that trade providing for the 
+     security of Iceland and the equitable participation of 
+     Iceland in the benefits of the Defense Agreement....
+     
+Iceland Ministry of Foreign Affairs, Diplomatic Note to the 
+Department of State of the United States of America (Sept. 
+28, 1998), Joint Appendix ("J.A.") 124, 126 ("Iceland Diplo-
+matic Note").
+
+     The U.S. State Department issued a diplomatic note on 
+December 30, 1998 in response to Iceland's position:
+
+     The Government of the United States considers its ac-
+     tions in the recent competition and award of the Icelan-
+     dic military cargo contract are fully consistent with the 
+     Treaty and MOU.
+     
+          ....
+     
+          ... Until the recent contract competition, the Govern-
+     ment of Iceland has not expressed any views regarding 
+     the qualifications of particular Icelandic companies nor 
+     informed the Government of the United States that it 
+     held views that appear to the United States to go beyond 
+     the plain meaning of the words themselves.
+     
+          ....
+     
+          ... The Government of the United States notes that 
+     none of [the] four criteria cited by the Government of 
+     Iceland to render [TLI] a non-Icelandic shipping compa-
+     ny appears in the text of the Treaty or MOU.
+               ....
+     
+          It is the position of the Government of the United 
+     States that none of the terms in the Treaty or MOU 
+     require recourse to supplementary means of interpreta-
+     tion when the terms of the treaty are plain and unambig-
+     uous....  Iceland, consistent with its obligations under 
+     international law, is of course free to enact specific 
+     statutory or regulatory criteria for "Icelandic shipping 
+     
+     companies" should it wish to do so (just as the internal 
+     law of the United States provides specific criteria for 
+     "U.S. flag vessels").
+     
+          ....
+     
+          ... [T]he Government of Iceland [has] expressed its 
+     concern that there had been no effective competition 
+     because of the relationship between two of the bidders.  
+     The Government of the United States, however, followed 
+     its own contracting processes in this procurement and 
+     believes that the goal of competition was indeed met....
+     
+          ... [T]here is no evidence of an attempt to eliminate 
+     competition from other bidders....  [T]he two compa-
+     nies ... were not competing to fill the same contract 
+     requirement.  Rather, the Iceland company submitted a 
+     proposal for the 65% share while the U.S.-flag company 
+     submitted one for the 35% share....
+     
+          Since the portion of the cargo trade which would be 
+     reserved for Icelandic interests was determined on the 
+     basis of competition between offers submitted by entities 
+     from each country, it is the view of the United States 
+     that any relationship between Icelandic companies and 
+     companies operating U.S.-flag vessels was and is irrele-
+     vant to the fact that there was full, vigorous, and open 
+     competition in full compliance with the Treaty and MOU.
+     
+U.S. Department of State, Diplomatic Note to the Embassy of 
+the Republic of Iceland (Dec. 30, 1998), J.A. 128, 128-35 
+("U.S. Diplomatic Note").
+
+     Meanwhile, appellees' district court action was proceeding.  
+Appellees challenged the award on two primary grounds 
+which are before us on appeal.  First, they claim that the 
+Treaty and MOU prohibited awards to TLI and TLL for the 
+same reasons cited by the Iceland Diplomatic Note:  (1) 
+because the common ownership of TLI and TLL made the 
+bidding process something other than a competition and (2) 
+because TLI is not a true "Icelandic shipping company."  
+Appellees also make two challenges to the Contracting Offi-
+cer's responsibility findings:  (1) that TLI was a financially 
+
+responsible contractor, and (2) that TLL was responsible in 
+that it had a vessel ready to perform.
+
+     After initially denying a motion for a preliminary injunc-
+tion, the district court granted appellees' motions for sum-
+mary judgment on February 3, 1999, and ordered the Army 
+to cancel the contracts and rebid.  The court first ruled that 
+the ownership status of TLL and TLI defeated the MOU's 
+requirement of a single competition for the Icelandic trade.  
+The court also found that the Army's decisions under the 
+solicitation procedures were arbitrary and capricious on both 
+counts.  The district court was not yet aware of the recently-
+issued U.S. Diplomatic Note addressing the treaty issues.
+
+     TLL, TLI, and the Army appealed the judgment of the 
+district court.  We granted a stay pending appeal.  The 
+Government of Iceland submitted an amicus brief on behalf of 
+the losing bidders.  The Army originally dismissed its appeal, 
+but has asked leave to file a brief which addresses only the 
+treaty issues.3
+
+     Addressing the treaty issues first, we conclude that the 
+Army's contract awards to TLL and TLI do not violate the 
+plain language of the Treaty and MOU.  As to the responsi-
+bility determinations of the Contracting Officer, the context 
+of which requires an especially deferential version of arbi-
+trary and capricious review, we determine that the Army's 
+actions were permissible.
+
+                        II. Treaty Issues
+
+                      A.  Standard of Review
+
+     When interpreting a treaty or memorandum of understand-
+ing, we are guided by principles similar to those governing 
+statutory interpretation.  We "must, of course, begin with the 
+language of the Treaty itself."  Sumitomo Shoji Am., Inc. v. 
+Avagliano, 457 U.S. 176, 180 (1982).  At this level, "[t]he 
+
+__________
+     3 The Army's brief does not address the responsibility determina-
+tions of the Contracting Officer.  At oral argument the Army 
+clarified that it has not changed its position on these issues but has 
+simply chosen not to appeal the district court's decision.
+
+clear import of treaty language controls unless 'application of 
+the words of the treaty according to their obvious meaning 
+effects a result inconsistent with the intent or expectations of 
+its signatories.' "  Id. (quoting Maximov v. United States, 373 
+U.S. 49, 54 (1963)).
+
+     To the extent that the meaning of treaty terms are not 
+plain, we give "great weight" to "the meaning attributed to 
+treaty provisions by the Government agencies charged with 
+their negotiation and enforcement."  Sumitomo, 457 U.S. at 
+184-85;  see also In re Papandreou, 139 F.3d 247, 252 n.2 
+(D.C. Cir. 1998).  Although "we give somewhat less defer-
+ence" where an agency and another country disagree on the 
+meaning of a treaty or MOU, where an agency has "wide 
+latitude in interpreting the MOU, ... we will defer to its 
+reasonable interpretation."  Air Canada v. U.S. Dep't of 
+Transp., 843 F.2d 1483, 1487 (D.C. Cir. 1988).
+
+     In this case, we deem it proper to refer to the U.S. 
+Diplomatic Note for guidance as to the meaning of the terms 
+"competition" and "Icelandic shipping companies" under the 
+Treaty and MOU, although the Note was not in the record 
+before the district court.  Although the Army may have 
+considered the Note confidential, TLL and TLI apparently 
+had access to it since they presented it to this court at the 
+time of the initial application for temporary restraint.  We 
+would not, of course, consider evidence offered to support a 
+factual proposition which had not been before the district 
+court.  However, the Diplomatic Note is not offered as evi-
+dence to support a factual proposition, but rather as an 
+interpretive guide for our use in making a legal interpreta-
+tion.  And although all parties refer to the Note in their 
+briefs, appellees do not object to those references, or our 
+consideration of the Note, on the ground that it was not in the 
+record below.  Because it is important for this court to have 
+the guidance of the agency responsible for negotiating this 
+treaty, we consider the Note along with the Army's argu-
+ments adopting the same views.  A diplomatic note is an 
+official position of the type which is unlikely to be taken for 
+litigation purposes, and is entitled to deference.  Cf. Smiley v. 
+Citibank (South Dakota), N.A., 517 U.S. 735, 741 (1996).
+
+                          B. Competition
+
+     Having reviewed the applicable principles guiding our rea-
+soning, we proceed to the issue of whether the affiliated 
+status of TLI and TLL transformed the bidding process into 
+something other than a "competition."  We hold that there 
+was still a "competition" under the Treaty and MOU.  The 
+plain meaning of the Treaty and MOU comport with this 
+view, but to the extent the meaning of the word "competition" 
+is in any doubt, it does not prevent bids of separate corporate 
+entities that have common ownership.  Therefore, we agree 
+with the U.S. Diplomatic Note that the bidding process was a 
+competition.4
+
+     On a surface level, a "competition" certainly occurred be-
+tween U.S. flag carriers and Icelandic shippers.  TLI and 
+TLL were competing against other U.S. flag carriers and 
+Icelandic shippers.  Regardless of whether TLI and TLL 
+competed against each other, nothing in the Treaty and MOU 
+suggests, as appellees contend, that each and every bidder 
+must compete against each and every other bidder.
+
+     In fact, that has never been the nature of the competition.  
+Because bidders may bid for between 35 percent and 65 
+percent of the trade each has never competed against all.  
+Because TLI was effectively vying for the 65 percent portion 
+and TLL for the remainder, perhaps it can be said they were 
+not in head to head competition.  But the same can be said 
+for Eimskip and Van Ommeren and all the other bidders.  
+Eimskip, being an Icelandic shipper, and Van Ommeren, a 
+U.S. flag carrier, were not in direct head to head competition 
+either.  The bottom line is that this conception of a "full 
+competition" has nothing to do with the affiliation of bidders.  
+Under the appellees' theory, a competition could not occur 
+unless each and every bidder requested 100 percent of the 
+trade.  The Treaty and MOU do not require such 100 percent 
+bids.
+
+__________
+     4 We have no occasion to consider whether appellants' behavior 
+would or would not constitute "competition" within the meaning of 
+the antitrust laws.
+
+     On a deeper level, a form of head to head competition does 
+occur between all bidders.  Every bidder is submitting bids in 
+a single competition to award the shipping trade.  All the 
+bids must be compared in the first instance to determine who 
+is the overall lowest bidder.  Even though TLL and Van 
+Ommeren (or other U.S. flag carriers) have little chance of 
+being the lowest overall bidder, they still compete against 
+everyone else.  In this portion of the competition, even TLI 
+and TLL's bids are stacked against each other.
+
+     While appellees object to the substantially common owner-
+ship of TLI and TLL, it is worth noting that the Comptroller 
+General allows affiliated companies to submit multiple bids 
+for the same procurement.  In Pioneer Recovery Sys., Inc., 
+B-214878, 1984 WL 46915, at *2 (Comp. Gen. Nov. 13, 1984), 
+the Comptroller General stated that "[t]he general rule is 
+that multiple bids may be accepted unless such multiple 
+bidding is prejudicial to the interests of the government or 
+other bidders in which case it is clear that the reason for 
+multiple bidding was not legitimate."  See also David I. Abse, 
+51 Comp. Gen. 403, 404-06 (1972) (upholding award where 
+high and low bids were signed by same person of affiliated 
+companies).  While the Comptroller General's opinion is not 
+binding precedent, we agree that the existence of affiliation 
+does not negate the presence of "competition" in the usual 
+sense of that word.
+
+     The language of the Treaty and MOU does not define 
+"competition" in any peculiar way requiring a different result.  
+There is "nothing in the Treaty ... clearly prohibit[ing] a 
+relationship between the two awardees."  Iceland Steamship 
+Co. v. United States Dep't of the Army, slip op. at 4, No. 
+98-2631 (D.D.C. Nov. 10, 1998) (order denying preliminary 
+injunction).  The Treaty contemplates awards "on the basis of 
+competition between United States flag carriers and Icelandic 
+shipping companies," and the MOU uses similar language.  
+Neither document addresses a situation in which a U.S. flag 
+carrier and Icelandic shipping company have similar owner-
+ship.
+
+     Appellees argue that the dictionary definition of competi-
+tion precludes affiliates from bidding.  Black's Law Dictio-
+nary, for example, describes "competition" as "[t]he effort of 
+two or more parties, acting independently, to secure the 
+business of a third party by the offer of the most favorable 
+terms."  Black's Law Dictionary 257 (5th ed. 1979).  But this 
+is exactly what all the bidders, including TLI and TLL, did.  
+Even if TLI and TLL colluded and were not acting indepen-
+dent of each other, the participation of other bidders would 
+meet the definition's requirements.  Appellees' "plain mean-
+ing" argument therefore fails.
+
+     We note that the suggestion of collusion (as opposed to 
+mere affiliation) could be cause for concern.  It might be 
+called "unfair competition," but even that term admits that a 
+"competition" occurs.  And there is a mechanism for protect-
+ing against collusive bidding.  A Certificate for Independent 
+Price Determination ("CIPD") certifies the independent de-
+velopment of a bid.  Appellees raised a CIPD issue before the 
+district court, but have not pressed it on appeal.
+
+     In Maximov v. United States, 373 U.S. 49 (1963), a peti-
+tioner similarly sought to impose a meaning on a term that it 
+could not bear.  Under the Income Tax Convention between 
+the United States of America and the United Kingdom, Apr. 
+16, 1945, 60 Stat. 1377, 1384, capital gains of a "resident of the 
+United Kingdom" were exempt from taxation by the United 
+States.  See id. at 49.  The petitioner was trustee of a trust 
+created under Connecticut law by a grantor who was a 
+resident of the United Kingdom.  A trust was considered a 
+person under the law of both countries and thus a "resident" 
+of the United States, not the United Kingdom, under the 
+treaty.  Petitioner urged that the purpose of the treaty 
+required the opposite result.  The Supreme Court disagreed.  
+Reviewing the plain language, the Court could not construe 
+the treaty to effect "so significant a deviation from normal 
+word use or domestic tax concepts."  Id. at 52.
+
+     This case is not unlike Maximov.  We cannot, in the name 
+of effectuating the purposes of the Treaty and MOU, read 
+into those documents a meaning of "competition" which would 
+
+prohibit the bids of separate corporate entities with common 
+ownership.  To do so would distort the meaning of the term 
+"competition."  If TLI and TLL were one corporation, then 
+the entire shipping trade could not be split between them 
+because the Treaty and MOU contemplate two separate 
+awards to one entity of each country.  But TLI and TLL are 
+separate entities, and are entitled to be treated as such. 
+Therefore, we conclude that the Treaty and MOU require-
+ment of a "competition" does not foreclose bids from affiliated 
+companies.  To the extent that the term admits of any 
+ambiguity, we will defer to the position of the U.S. Diplomatic 
+Note that the bids did not create some unnamed creature that 
+was not a "competition."
+
+                 C. Icelandic Shipping Companies
+
+     Our disposition of the meaning of "competition" does not 
+end our discussion of the Treaty.  We must also consider 
+whether TLI is an "Icelandic shipping company."  As a 
+preliminary point, we make clear that this dispute is not 
+whether TLI is a properly registered Icelandic company, 
+although it appears to be one.  Instead, we are asked to 
+decide whether it is an "Icelandic shipping company" as that 
+term in used in the Treaty and MOU.  While it could be said 
+these two inquiries, absent other direction, should be identi-
+cal, we need not decide that issue.  We can conclude that 
+whatever the Treaty and MOU require, the interpretation of 
+the U.S. Diplomatic Note is reasonable and is entitled to 
+deference.
+
+     The Iceland Diplomatic Note suggests that all Icelandic 
+shipping companies must fulfill four requirements:  "experi-
+ence, technical capability, financial responsibility, and materi-
+al connection with Iceland."  How much of any of these 
+factors is required?  The Note says sufficient "to ensure a 
+viable presence of Icelandic shipping companies" in the trade.  
+Unfortunately that is not helpful given that the term "Icelan-
+dic shipping company" is used in the "definition" itself.  
+Whichever Icelandic shipping company is awarded the con-
+tract will have a viable presence.  As the district court feared, 
+
+this is not a meaningful way for a court to analyze what 
+constitutes an Icelandic shipping company within the meaning 
+of the Treaty.  See Iceland Steamship Co. v. United States 
+Dep't of the Army, slip op. at 6 n.2, No. 98-2631 (D.D.C. Feb. 
+3, 1999).
+
+     We do recognize the concerns of the government of Ice-
+land.  Apparently, when the Treaty was drafted, it was not 
+contemplated that newly formed Icelandic-owned shipping 
+companies would be able to capture the trade.  Thus a 
+specific definition of the term was not included.  Just as 
+Rainbow Navigation was formed as a U.S. flag carrier in 1984 
+to capture to the entire trade under the Cargo Preference 
+Act, TLI was founded by an Icelandic citizen in an attempt to 
+capture the Icelandic portion under the regime established in 
+1986.  However, if Iceland wished the limitation it now seeks, 
+it could have insisted that a more specific definition be 
+included.  For example, the U.S. portion of the trade is 
+reserved for "U.S. flag carriers" instead of "U.S. shipping 
+companies."
+
+     The parties to the international agreements included no 
+explicit definition.  We have no authority for engrafting 
+terms onto the MOU that they did not include.  The plain 
+meaning of the words "Icelandic shipping company" does not 
+compel us to find as a matter of law that TLI does or does 
+not qualify for such status.  Insofar as there is any ambigui-
+ty, we will defer to the reasonable interpretation offered in 
+the U.S. Diplomatic Note.  We therefore hold that it was 
+reasonable for the Army to find that TLI is an Icelandic 
+shipping company under the Treaty and MOU.
+
+     Because we need only decide the case before us, we do not 
+identify a line between actions that are permitted and those 
+which are prohibited by the Treaty and MOU.  We recognize 
+that a reasonable range of choices might exist.  There is no 
+call for us to go further.
+
+                     III. Solicitation Issues
+
+                      A.  Standard of Review
+
+     Finally, we consider the challenges to the Contracting 
+Officer's responsibility determinations.  Because of the spe-
+
+cial nature of contracting determinations, our review is an 
+especially deferential application of the arbitrary and capri-
+cious standard.  We clarified the application of the standard 
+to contracting determinations in Old Dominion Dairy Prods., 
+Inc. v. Secretary of Defense, 631 F.2d 953 (D.C. Cir. 1980):
+
+     As stated in Keco Industries, Inc. v. United States, 492 
+     F.2d 1200, 1203 (Ct. Cl. 1974), the ultimate standard is 
+     "whether the Government's conduct was arbitrary and 
+     capricious toward the bidder-claimant."  Concerning a 
+     determination of nonresponsibility, the court in Keco 
+     Industries specifically stated that contracting officers 
+     "have very wide discretion," and that a complaining 
+     bidder "would normally have to demonstrate bad faith or 
+     lack of any reasonable basis in order to prevail."  Id. at 
+     1205.  In describing the reasonable basis test, the court 
+     elsewhere noted that, "although based on external facts 
+     and circumstances rather than a showing of animosity 
+     toward plaintiff or favoritism for a competitor, this prin-
+     ciple is not far removed from the bad faith test;  courts 
+     often equate wholly unreasonable action with conduct 
+     motivated by subjective bad faith."  Id. at 1204.
+     
+Old Dominion, 631 F.3d at 960;  see also YRT Servs. Corp. v. 
+United States, 28 Fed. Cl. 366, 387-88 (1993).
+
+     As in other agency review contexts, "a procurement deci-
+sion is not 'irrational' simply because we might have reached 
+a different decision in the first instance."  Elcon Enters., 977 
+F.2d at 1478.  But we look for no more than "substantial 
+compliance with applicable law and baseline substantive ra-
+tionality [because] '[j]udges are "ill-equipped to settle the 
+delicate questions involved in procurement decisions." ' "  Id. 
+at 1479 (quoting Delta Data Sys. Corp. v. Webster, 744 F.2d 
+197, 203 (D.C. Cir. 1984) (quoting Kinnett Dairies, Inc. v. 
+Farrow, 580 F.2d 1260, 1271 (5th Cir. 1978))).
+
+     Applying this deferential standard, we conclude that a 
+rational basis existed for the responsibility determinations of 
+the Contracting Officer.
+
+                              B. TLI
+
+     Although various challenges were advanced below, appel-
+lees' primary argument is that the Contracting Officer should 
+not have relied on a tentative letter of credit to one compa-
+ny--TLL--in finding another--TLI--to be financially re-
+sponsible.  While the basic proposition is appealing, on the 
+specific facts before us we cannot hold that the officer acted 
+improperly.  The line of credit letter relied on was addressed 
+to Mr. Rose at TLL, a stockholder of both companies, and 
+stated that the line of credit was based on the bank's relation-
+ship with Mr. Rose's family.  TLI also provided written 
+assurance to the Army that the letter of credit applied to both 
+companies.  And while the letter was "tentative," it does not 
+state what "tentative" means.
+
+     Viewing the totality of the evidence, we hold that the Army 
+had a rational basis for finding TLI to be responsible.  In 
+fact, before the district court, the Army even suggested that 
+the Contracting Officer could have found that no line of credit 
+was needed at all.  See Iceland Steamship Co. v. United 
+States Dep't of the Army, slip op. at 13 n.9, No. 98-2631 
+(D.D.C.  Feb. 3, 1999).  This suggestion highlights the diffi-
+culty of second-guessing the Contracting Officer's determina-
+tion.  We have no basis for requiring that a letter of credit be 
+more than "tentative."  And while the fact that the letter of 
+credit was addressed to TLL might be troubling, the ultimate 
+weight given to this piece of information is based on a 
+discretionary weighing of financial risks and rewards by the 
+Contracting Officer.
+
+     Furthermore, it is in an agency's self-interest to make 
+proper responsibility determinations.  Otherwise, the agency 
+runs the risk of contractor default which could cause "sub-
+stantial delay and inconvenience."  Keco Indus., 492 F.2d at 
+1206.  But in any event, considering the deferential standard 
+of review applied to this type of decision, and the fact that 
+judges are not financial advisors to the United States govern-
+ment, we conclude that there is no basis for overturning the 
+Contracting Officer's finding that TLI was responsible.
+
+                              C. TLL
+
+     Appellees challenge the Contracting Officer's responsibility 
+determination regarding TLL on the ground that TLL pre-
+sented insufficient evidence to show a right to control a 
+vessel.  The solicitation required "sufficient evidence to es-
+tablish control or irrevocable right to gain control of the 
+necessary vessels in sufficient time to commence service on 
+[the contract starting date]."  TLL submitted four letters 
+from marine companies pledging the availability of vessels.  
+For example, the letter from Tidewater Marine stated:
+
+     This is to confirm that [TLL] has the option to charter 
+     the supply boat Native Dancer....  The maximum char-
+     ter shall not exceed 180 days.  Additional unspecified 
+     options shall be mutually negotiated.
+     
+     The purpose of the charter is to fulfill a part of [TLL's] 
+     obligation to the Joint Traffic Management Office, in the 
+     event that the company is awarded the contract.
+     
+J.A. at 216.  Based on these submissions, the Contracting 
+Officer concluded that TLL would obtain the ships necessary 
+to be a responsible contractor.
+
+     Deferring to the expertise of the Contracting Officer in 
+these matters, we find this decision to be rational.  We have 
+no occasion to weigh the quantum of evidence needed to 
+establish the legal requirements of an irrevocable option.  
+Considering these letters, we cannot say it was arbitrary for 
+the Contracting Officer to decide that TLL would be able to 
+obtain vessels.  Moreover, we note that we have held in a 
+contract action that an irrevocable option can be created 
+despite a paucity of stated terms.  See Ammerman v. City 
+Stores Co., 394 F.2d 950, 954-55 (D.C. Cir. 1968).  Although 
+the letters apparently did not state price terms, we have no 
+information on the typical evidence required by contracting 
+officers, or furnished by prospective charterers.  Therefore, 
+we must conclude that the appellees have not established that 
+the Contracting Officer's decision was arbitrary or capricious.
+
+                          IV. Conclusion
+
+     For the reasons set forth above, we conclude that the 
+Army's decision to award the shipping contracts to TLI and 
+TLL does not require rebidding.  Because there are no issues 
+of material fact to be decided, we reverse the judgment of the 
+district court and remand for the entry of summary judgment 
+in favor of appellants.
+
+                                                      So ordered.
+
+Karen LeCraft Henderson, Circuit Judge, concurring in part 
+and dissenting in part:
+
+     The majority rightly focuses on our narrow standard of 
+review of the Contracting Officer's two responsibility determi-
+nations.  Although its focus is blurred by the quotation from 
+Old Dominion Dairy Products, Inc. v. Secretary of Defense, 
+631 F.2d 953, 960 (D.C. Cir. 1980), discussing an ill-defined 
+"reasonable basis test," Maj. Op. at 18, in the end my 
+colleagues adhere to the well-established arbitrary and capri-
+cious standard of review of administrative action.  See id. at 
+18, 20 ("[O]ur review is an especially deferential application of 
+the arbitrary and capricious standard.");  id. at 18 ("[T]he 
+ultimate standard is 'whether the Government's conduct was 
+arbitrary and capricious.' ") (quoting Old Dominion Dairy 
+Prods., Inc. v. Secretary of Defense, 631 F.2d 953 (D.C. Cir. 
+1980)).
+
+     In any event, even with "an especially deferential applica-
+tion" of an already deferential standard of review, id., we are 
+nevertheless obligated to review the administrative decisions 
+with some scrutiny.  The Army regulations mandate that 
+contracts "be awarded to[ ] responsible prospective contrac-
+tors only."  See 48 C.F.R. s 9.103(a).  My review of the 
+Contracting Officer's decision leads me to reject his determi-
+nation of TLI's financial responsibility.  In addition, although 
+I concur in the majority holding regarding the Contracting 
+Officer's determination of TLL's operational responsibility, I 
+cannot agree that our standard of review intends nothing 
+more than rubber-stamping the same.
+
+                                I.
+
+     The regulations governing the financial responsibility de-
+termination mandate that a bidder provide information "clear-
+ly indicating" it has, or can obtain, adequate financial re-
+sources to perform the contract.1  48 C.F.R. s 9.103(b) ("In 
+__________
+     1 The solicitation here provided:
+
+     The Government shall require a showing of financial and 
+     operational responsibility prior to making an award.  The 
+     applicable provisions of the FAR [Federal Acquisition Regula-
+     tion], Sub-part 9.1 require that prior to award, an affirmative 
+     determination be made by the Contracting Officer that the   
+the absence of information clearly indicating that the prospec-
+tive contractor is responsible, the contracting officer shall 
+make a determination of nonresponsibility.");  see id. s 9.104-
+1 ("To be determined responsible, a prospective contractor 
+must ... [h]ave adequate financial resources to perform the 
+contract, or the ability to obtain them.").  Evidence of a 
+prospective contractor's ability to obtain required resources 
+"normally consists of a commitment or explicit arrangement."  
+Id. s 9.104-3(a).  Moreover, the regulations consider affiliat-
+ed entities like TLL and TLI separately for the purpose of 
+determining financial responsibility.  See id. s 9.104-3(c).2
+
+     The majority concludes that there is no basis to overturn 
+the Contracting Officer's finding that TLI was financially 
+responsible.  See Maj. Op. at 19.  His determination was 
+based on a letter from the State Bank of Long Island 
+purporting to extend a tentative line of credit.  As the 
+majority notes, see id., the letter was addressed to Brandon 
+Rose, a stockholder in both TLI and TLL.  The majority, 
+however, omits that it was addressed to Rose at TLL.  More-
+over, the letter extended nothing to Rose and nothing to TLI;  
+it merely "tentatively approved" a line of credit to TLL.  JA 
+313.  One of the bases for the bank's decision was its relation-
+ship with Rose's family.  The bank also cited TLL's business 
+plan and made no reference to TLI.  Perhaps the State Bank 
+of Long Island would not extend credit equally to an entity 
+like TLI, organized under the laws of another country.  Per-
+haps TLI's financial status or business plan was not as sound 
+as TLL's.  I also wonder if the letter "clearly indicat[ed]" the 
+prospect of a line of credit for other companies Rose owned 
+stock in.3
+
+__________
+     prospective offeror is responsible and meets the minimum 
+     standards specified herein.
+     
+Joint Appendix (JA) 107-08.
+
+     2 Section 9.104-3(c) provides that "[a]ffiliated concerns ... are 
+normally considered separate entities in determining whether the 
+concern that is to perform the contract meets the applicable stan-
+dards for responsibility."
+
+     3 Although TLL provided the Contracting Officer a letter of 
+assurance that the credit applied equally to both companies, TLL 
+
+     Even assuming the letter bears on the determination of 
+TLI's financial responsibility, the letter approved the line of 
+credit only "tentatively."  JA 313.  The majority discounts 
+the conditional nature of the approval because the letter 
+"does not state what 'tentative' means."  Maj. Op. at 19.  
+Indeed, the letter did not detail what conditions must be 
+satisfied before the bank in fact extended credit.  But "tenta-
+tive" means "subject to change or withdrawal" or otherwise 
+"not final."  Webster's Third New International Dictionary 
+2357 (1981).  The majority also claims:  "We have no basis for 
+requiring that a letter of credit be more than 'tentative.' "  
+Maj. Op. at 19.  On the contrary, the standards that govern 
+award of a procurement contract (the FAR, Sub-part 9.1, 
+discussed above) plainly envision that a bidder provide more 
+than a tentatively approved line of credit to an affiliated 
+entity.  See 48 C.F.R. s 9.103(b) ("In the absence of informa-
+tion clearly indicating that the prospective contractor is re-
+sponsible, the contracting officer shall make a determination 
+of nonresponsibility.").
+
+     Because the letter from the bank neither "clearly indi-
+cat[ed]" applicability to TLI nor extended credit to anyone, I 
+would conclude that the Contracting Officer's determination 
+of TLI's financial responsibility was especially arbitrary and 
+capricious and that he was bound to "make a determination of 
+nonresponsibility."  Id.
+
+                               II.
+
+     The majority omits review of the Contracting Officer's 
+operational responsibility determination regarding TLL.  The 
+Army's solicitation mandates that "[n]o offer will be consid-
+ered for award which does not include sufficient evidence to 
+establish control or irrevocable right to gain control of the 
+necessary vessels in sufficient time to commence service on 
+[contract starting date]."  JA 102.  Because TLL proffered 
+no evidence "establish[ing] control," our review focuses on 
+
+__________
+did not purport to be speaking for the bank.  See JA 187.  In any 
+event, the regulations provide that affiliated entities are to be 
+considered separately.  See 48 C.F.R. s 9.104-3(c).
+
+whether TLL proffered sufficient evidence establishing "an 
+irrevocable right to gain control."  Id.  The majority notes 
+that the Contracting Officer relied on four letters from ma-
+rine companies pledging the availability of vessels to TLL.  It 
+concludes that "[w]e have no occasion to weigh the quantum 
+of evidence needed to establish the legal requirements of [an] 
+irrevocable option."  Maj. Op. at 20.  I disagree.  First, while 
+the majority is no doubt correct that, as a general rule, 
+"judges are ill-equipped to settle the delicate questions in-
+volved in procurement decisions," id. at 18, the determination 
+of an "irrevocable right to gain control" requires a legal 
+conclusion and, thus, a conclusion which judges are presum-
+ably adept at making.  Moreover, the solicitation provides 
+that an "irrevocable right" is a prerequisite to the operational 
+responsibility determination, JA 102;  therefore, finding a 
+bidder to be responsible without an irrevocable right is 
+arbitrary and capricious.  In reviewing the Contracting Offi-
+cer's responsibility determination under any formulation of 
+the arbitrary and capricious standard, then, we must consider 
+whether the four letters TLL submitted were sufficient to 
+establish an "irrevocable right to gain control of the neces-
+sary vessels."  JA 102.
+
+     Because I believe the four letters could constitute an 
+irrevocable option, see Ammerman v. City Stores Co., 394 
+F.2d 950 (D.C. Cir. 1968);  see generally Restatement (Sec-
+ond) of Contracts (1979) s 87(2) ("An offer which the offeror 
+should reasonably expect to induce action or forbearance of a 
+substantial character on the part of the offeree before accep-
+tance and which does induce such action or forbearance is 
+binding as an option contract to the extent necessary to avoid 
+injustice.");  3 Eric Mills Holmes, Corbin on Contracts s 11.7 
+(rev. ed. 1996) ("[A]n option contract can be made binding and 
+irrevocable ... by subsequent action ... by the option holder 
+in reliance on the option."), I join the majority in deferring to 
+the Contracting Officer's determination that the letters con-
+stituted "sufficient evidence" to establish an "irrevocable 
+right to gain control of the necessary vessels in sufficient time 
+to commence service," JA 102, and that TLL was therefore 
+operationally responsible.
+
+     Accordingly, I concur in toto in Parts I and II and in Parts 
+III.A and III.C as explained above.  I respectfully dissent 
+from Part III.B.  My resolution of Part III.B, finding revers-
+ible error in the award to TLI, would require remand to the 
+Army for rebidding.
+
+                                                                    

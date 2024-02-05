@@ -1,0 +1,527 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 6, 2000       Decided May 23, 2000 
+
+                           No. 99-7089
+
+        Vencor, Inc. d/b/a Vencor Hospitals Texas, LTD., 
+            d/b/a Vencor Hospital-Houston Northwest, 
+                    d/b/a THC of Texas, Inc., 
+               d/b/a Vencor Hospital-New Orleans, 
+                 d/b/a THC of Louisianna, Inc., 
+                 d/b/a Vencor Hospital-Sycamore, 
+                d/b/a Vencor Hospital-Sacramento, 
+            d/b/a Vencor Hospitals California, Inc., 
+                 d/b/a Vencor Hospital-Houston, 
+                  d/b/a Vencor Hospital-Dallas, 
+                            Appellant
+
+                                v.
+
+                Physicians Mutual Insurance Co., 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv00443)
+
+     Bradley L. Kelly argued the cause for appellant.  With him 
+on the briefs was Laura J. Oberbroeckling.
+
+     James J. Frost argued the cause for appellee.  With him on 
+the brief were Stephen A. Fennell and Terrence D. O'Hare.  
+Roger E. Warin entered an appearance.
+
+     Before:  Silberman, Williams and Sentelle, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  Vencor, Inc., a provider of long-
+term hospital care, filed a diversity action1 against Physicians 
+Mutual Insurance Company, seeking reimbursement for ex-
+penses incurred by 10 patients who stayed in six of its 
+hospitals beyond the period covered by Medicare.  Each of 
+the patients held "Medigap" insurance policies issued by 
+Physicians Mutual;  Vencor sues as third party beneficiary.  
+Among other defenses, Physicians Mutual claimed that cer-
+tain provisions of the Medicare Act and associated regulations 
+barred Vencor from charging patients more than the maxi-
+mum rate for Medicare-covered hospital days--a rate at 
+which Physicians Mutual had already reimbursed Vencor.  
+The district court granted Physicians Mutual's motion for 
+summary judgment on that limited ground.  Vencor, Inc. v. 
+Physicians Mutual Insurance Co., 39 F. Supp. 2d 1 (D.D.C. 
+1999).  Finding no such limitation in the cited provisions, we 
+reverse.
+
+                             *  *  *
+
+     Medicare, like most health insurance plans, provides bene-
+fits of limited duration.  For instance, it covers the first 90 
+days of hospital care for every "spell of illness," plus an 
+additional, non-renewable reserve of 60 days of coverage 
+(which, until it is exhausted, can be added to any "spell of 
+illness").  42 U.S.C. s 1395d(a)-(b), (g).  Once Medicare pa-
+
+__________
+     1 Vencor also claimed the district court had federal question 
+jurisdiction, which Physicians Mutual disputed.  Given the presence 
+of diversity jurisdiction, we need not reach the issue.
+
+tients fully exhaust their government-provided hospital bene-
+fits, see id. ss 1395c, 1395d, many rely on privately-
+purchased "Medigap" policies for extended coverage.  These 
+policies vary in their terms, but (as a result of a federal 
+regulatory process that we will soon describe) all offer at 
+least 365 days of post-Medicare hospital benefits.  See Medi-
+care Program;  HHS' Recognition of NAIC Model Standards 
+for Regulation of Medigap Policies, 57 Fed. Reg. 37,980, 
+37,991/1 (1992).
+
+     While the Medicare reimbursement rates of most hospitals 
+are governed by the so-called Prospective Payment System, 
+see 42 U.S.C. s 1395ww(d)(1)(B)(iv), Vencor, as an operator 
+of long-term care hospitals, can secure reimbursement for the 
+"reasonable cost" of providing its services.  Id. 
+ss 1395f(b)(1), 1395x(v).  For Medicare-covered services, it 
+must generally accept this amount as payment in full.  See 
+id. s 1395cc(a)(1)(A).
+
+     Vencor and Physicians Mutual filed cross motions for par-
+tial summary judgment on the limited question of whether 
+the Medicare statute or associated federal regulations prohib-
+ited it from charging patients for post-Medicare services at 
+more than the Medicare-approved rates.  We emphasize the 
+word "patients" because much of the legislative and regulato-
+ry materials that the parties dispute speak only to insurers' 
+obligations.  Of course for a third-party beneficiary's breach 
+of contract action, the patient's liability is the bedrock--
+without patient responsibility, there is no insurer responsibili-
+ty.  But insurer liability is often less than all of the primary 
+obligor's;  provisions for deductibles and co-insurance are 
+common, and some items and services may not be covered at 
+all.  Such insurer-specific limitations may affect Physicians 
+Mutual's liability on these 10 contracts, but no such limita-
+tions are before us.  The cross-motions for summary judg-
+ment frame the issue only in terms of patient liability.
+
+                             *  *  *
+
+     Physicians Mutual first argues that the Medicare Act itself 
+prohibits Vencor from charging its patients more than the 
+
+Medicare-approved rate.  It relies initially on 42 U.S.C. 
+s 1395cc(a)(1)(A), under which providers are eligible for 
+Medicare reimbursement only if they execute a contract with 
+the Secretary of Health and Human Services agreeing, 
+among other things,
+
+     not to charge ... any individual or any other person for 
+     items or services for which such individual is entitled to 
+     have payment made under this subchapter.
+     
+Id.
+
+     The most obvious difficulty with this provision as support 
+for Physicians Mutual is that it appears to have nothing to do 
+with charges for post-Medicare services.  The "subchapter" 
+(Subchapter XVIII, 42 U.S.C. ss 1395-1395ccc) contains pro-
+visions under which providers are "entitled" to be paid by 
+Medicare when their provision of services meets the many 
+statutory qualifications.  These appear to exhaust its provi-
+sion of entitlements.  Certainly Physicians Mutual points us 
+to nothing in the subchapter that "entitles" providers to be 
+paid for services provided after the lapse of Medicare entitle-
+ment.  For such entitlements, presumably, they must rely on 
+contract, or perhaps in some cases quasi-contract, under state 
+law.
+
+     Physicians Mutual seeks to get around this impediment by 
+claiming that because provisions in the subchapter establish 
+conditions under which the National Association of Insurance 
+Commissioners ("NAIC") may promulgate standardized Me-
+digap insurance contracts, which under certain conditions 
+become the exclusive form of lawful Medigap insurance con-
+tract, see id. s 1395ss(p), the subchapter "entitles" providers 
+to be paid for services falling in the Medicare gap.  But, 
+skipping over the distinction between the liabilities of insur-
+ers and of patients (recall that it is the latter that the parties' 
+motions for summary judgment have put in play;  insurers' 
+obligations follow only as a corollary), there is all the differ-
+ence in the world between the contractual obligations of the 
+common law, which create the entitlements of providers to be 
+paid, and federal limitations on those entitlements.  Section 
+1395ss does not entitle anyone to payment.
+
+     In an attempt to sidestep these difficulties, Physicians 
+Mutual argues that Medicare's general purpose of providing 
+"basic protection against the costs of hospital ...  services," 
+id. s 1395c, demonstrates a congressional intent to allow 
+Medicare recipients to "extend the benefits and protections 
+under the Medicare Act through the purchase of Medigap 
+insurance."  Appellee's Br. at 15.  Even if Physicians Mutual 
+were correct about the thrust of the statute's purpose, the 
+Supreme Court has instructed that:
+
+     [a]pplication of 'broad purposes' of legislation at the 
+     expense of specific provisions ignores the complexity of 
+     the problems Congress is called upon to address and the 
+     dynamics of legislative action.  Congress may be unani-
+     mous in its intent to stamp out some vague social or 
+     economic evil;  however, because its Members may differ 
+     sharply on the means for effectuating that intent, the 
+     final language of the legislation may reflect hard-fought 
+     compromises.  Invocation of the 'plain purpose' of legis-
+     lation at the expense of the terms of the statute itself 
+     takes no account of the processes of compromise and, in 
+     the end, prevents the effectuation of congressional intent.
+     
+Board of Governors of the Fed. Reserve Sys. v. Dimension 
+Financial Corp., 474 U.S. 361, 373-74 (1986).  See also 
+Rodriguez v. United States, 480 U.S. 522, 525-26 (1987) 
+(noting that "no legislation pursues its purposes at all costs" 
+and therefore "it frustrates rather than effectuates legislative 
+intent simplistically to assume that whatever furthers the 
+statute's primary objective must be the law").  So radical a 
+scheme as imposition of price controls on medical services not 
+covered by Medicare requires explicit language, not mere 
+brooding purposes (which, we should add, are in any event 
+not discernible in s 1395ss).
+
+     Physicians Mutual also points to a specific provision of the 
+Medicare statute governing "items or services ... in excess 
+of or more expensive than" a covered service:
+
+     Where a provider of services has furnished, at the re-
+     quest of such individual, items or services which are in 
+     excess of or more expensive than the items or services 
+     
+     with respect to which payment may be made under this 
+     subchapter, such provider of services may also charge 
+     such individual or other person for such more expensive 
+     items or services to the extent that the amount custom-
+     arily charged by it for the items or services furnished at 
+     such request exceeds the amount customarily charged by 
+     it for the items or services with respect to which pay-
+     ment may be made under this subchapter.
+     
+42 U.S.C. s 1395cc(a)(2)(B).
+
+     The parties curiously agree on the idea that this provision 
+governs post-Medicare hospital days, differing only as to its 
+effect.  We, by contrast, regard it as altogether inapplica-
+ble--because confined to superior versions of covered ser-
+vices.  (The parties' de facto stipulation of law does not 
+require us to analyze a statute on a premise we regard as 
+false.  See United States Nat'l Bank of Oregon v. Indepen-
+dent Ins. Agents of Am., 508 U.S. 439, 446 (1993).)
+
+     The archetypal example of a service that falls within the 
+ambit of this provision is a medically-unnecessary private 
+room requested by the patient instead of the semi-private 
+room covered by Medicare.  In such cases, "the provider may 
+bill the beneficiary for the difference between the private 
+room and semi-private room charges."  Medicare Program;  
+Elimination of Medicare Indirect Subsidy for Private Rooms, 
+47 Fed. Reg. 42,676, 42,676 (1982).  More generally, HCFA 
+has referred to items in services subject to s 1395cc(a)(2)(B), 
+as "luxury items and services," see Medicare Program;  Pro-
+spective Payments for Medicare Inpatient Hospital Services;  
+Interim Final Rule with Comment Period, 48 Fed. Reg. 
+39,752, 39,786/3 (1983), or as "partially covered" items and 
+services, see Medicare as Secondary Payer and Medicare 
+Recovery Against Third Parties, 54 Fed. Reg. 41,716, 41,740, 
+41,743 (1989).  The additional days of hospital coverage at 
+issue here do not fit these descriptions.  Indeed, in search of 
+its desired result, Physicians Mutual is driven to offer a 
+thoroughly confusing and improbable view of 
+s 1395cc(a)(2)(B).  Physicians Mutual assumes that hospital 
+services for pre-and post-exhaustion days are identical and 
+that the "amount customarily charged" is the Medicare rate 
+
+because that rate is paid by the majority of Vencor's patients.  
+But after fitting these assumptions into the statutory lan-
+guage, the upshot is that providers would have to offer free 
+hospital stays to post-exhaustion patients, as the difference 
+between the two "amounts customarily charged" is zero.  
+(Insurance would be no help to the provider, as insurers are 
+obligated to pay only to the extent that the patient is.)
+
+     By contrast, applying the statute is simple in the case of a 
+patient-requested luxury good or service.  For example, if a 
+provider offers a "standard appendectomy" at a customary 
+charge of $400 (for which Medicare reimbursement is limited 
+to $300), and a "super appendectomy" at a customary charge 
+of $600, it would be entitled to charge only $500 (the basic 
+$300 Medicare rate, plus the $200 premium) for the superior 
+procedure.
+
+     Moreover, the triggering fact, the furnishing of such a 
+service "at the request" of the recipient, seems to confirm our 
+reading;  the risk that services would be provided long past 
+the Medicare limit, without a request, seems very limited 
+(though not zero).  The Secretary's implementing regulation 
+not only requires patient request, see 42 CFR s 489.32(a)(2), 
+but also requires the provider to inform the beneficiary that 
+there will be a charge for the service "[t]o avoid misunder-
+standing," id. s 489.32(a)(3).  It is hard to imagine that an 
+extended hospital stay of several months' duration (which is 
+the amount that would be "in excess of" Medicare benefits for 
+most of the patients here) is the type of items or services for 
+which a patient might fail to understand that "there will be a 
+specified charge for that service."  Id.
+
+     The statutes being rather unpromising material for Physi-
+cians Mutual, it turns to a "Model Regulation" written by 
+NAIC.  Again Physicians Mutual encounters a statutory diffi-
+culty:  the authorizing legislation calls for regulation only of 
+insurance contracts, not providers' services or compensation.  
+See 42 U.S.C. s 1395ss(p).  NAIC was to amend its existing 
+Model Regulation to include no more than ten standardized 
+Medigap insurance plans.  See id. s 1395ss(p)(1)(A).  Each 
+plan was to include a minimum common core of benefits and 
+offer benefits widely available in then-existing policies, while 
+
+balancing the objectives of simplifying the market for Medi-
+gap insurance, avoiding adverse selection, providing consumer 
+choice, providing market stability, and promoting competition.  
+See id. s 1395ss(p)(2)-(3).  As a result of the statutory pro-
+gram, no Medigap policy may issue unless either the relevant 
+state insurance regulator, or in some circumstances the Sec-
+retary, has a mechanism for ensuring that the policy meets 
+the 1991 NAIC Model Regulation.2  See id. s 1395ss(a)(2), 
+(g)(2)(A), (k)(1)(A), (m), (p)(1).  Physicians Mutual identifies 
+nothing in the authorizing statute governing provider-patient 
+charges, and we see no such grant of power to NAIC.  If the 
+Model Regulation purported to cover such charges, it would 
+be ultra vires.
+
+     Unsurprisingly then, the text of NAIC's Model Regulation 
+does not purport to cover such charges.  The section relied 
+on by Physicians Mutual reads as follows:
+
+     Section 8.  Benefit Standards for Policies or Certificates 
+     ...
+     
+          B. Standards for Basic ("Core") Benefits Common to 
+     All Benefit Plans.  Every issuer shall make available a 
+     policy or certificate including only the following basic 
+     "core" package of benefits to each prospective in-
+     sured....
+     
+           (3). Upon exhaustion of the Medicare hospital inpa-
+          tient coverage including the lifetime reserve days, cov-
+          erage of the Medicare Part A eligible expenses for 
+          hospitalization paid at [rates consistent with the ordi-
+          nary hospital payment scheme] or other appropriate 
+          standard of payment, subject to a lifetime maximum 
+          benefit of an additional 365 days.
+          
+57 Fed. Reg. at 37,990-91.
+
+     Someone at NAIC has argued that this precludes provider 
+charges above the Medicare rate because such charges are 
+__________
+     2 Three states, Massachusetts, Minnesota, and Wisconsin, took 
+advantage of a waiver provision available to states with an alterna-
+tive simplification program in place as of November 5, 1990, see 42 
+U.S.C. s 1395ss(p)(6), and therefore need not implement NAIC's 
+Model Regulation.
+
+not "an appropriate standard of payment," Letter from Guen-
+ther Ruch, Chair, NAIC Senior Issues Task Force to Nancy-
+Ann Min DeParle, HCFA Administrator at 4, 5 (July 8, 1998) 
+("1998 NAIC Letter"), reprinted in Joint Appendix ("J.A.") 
+123, 127.  But s 8(B)(3), like s 1395ss(p), makes no mention 
+of limits on provider charges.
+
+     Perhaps recognizing that s 8(B)(3) applies only to insurers' 
+obligations, Physicians Mutual turns to the Model Regula-
+tion's mandatory disclosure provision to support its claim.  
+Section 16 states, in relevant part:
+
+     Section 16.  Required Disclosure Provisions
+               ...
+          
+     C. Outline of Coverage Requirements for Medicare 
+     Supplemental Policies
+     
+          (1) Issuers shall provide an outline of coverage to all 
+     applicants at the time application is presented to the 
+     prospective applicant ...
+     
+          ...
+          
+          (4) The following items shall be included in the outline 
+     of coverage in the order prescribed below.
+               ...
+          Disclosures
+     
+          Use this outline to compare benefits and premiums 
+     among policies.
+     
+     Read Your Policy Very Carefully
+     
+          This is only an outline describing your policy's most 
+     important features.  The policy is your insurance con-
+     tract.  You must read the policy itself to understand all 
+     of the rights and duties of both you and your insurance 
+     company.
+               ...
+          Notice
+               This policy may not fully cover all of your medical 
+     costs.
+     
+          ...
+
+_____________________________________________________________________________
+          SERVICES   MEDICARE      PLAN PAYS       YOU PAY
+                    PAYS         
+______________________________________________________________________________ 
+       Hospitalization                    
+                          
+          ...                 
+                            
+          --Once life-
+          time reserve 
+          days are used:                
+           ---Additional $0                        100% of                      $0
+               365 days                                 Medicare
+                                                        eligible
+                                                        expenses
+          ---Beyond the   $0                    $0                          All costs
+               additional
+               365 days                      
+_____________________________________________________________________________
+57 Fed. Reg. at 37,997, 37,998, 38,000, 38,001.
+
+     Physicians Mutual points to the "YOU PAY" column of this 
+table, which seems to say that the beneficiary pays "$0" for 
+an additional 365 days of post-exhaustion hospitalization.  57 
+Fed. Reg. at 38,001, 38,003, 38,005, 38,008, 38,011, 38,014, 
+38,017, 38,020, 38,023, 38,027.  The question posed is whether 
+the table has any legal effect on providers' charges.
+     As a matter of federal law, the answer must be No.  As we 
+have seen, the authorization in s 1395ss(p) to NAIC (and to 
+the Secretary as an alternative reviser of the Model Regula-
+tion) is confined to insurance contracts.  Authority to create a 
+class of standardized insurance contracts does not carry some 
+implicit authority to regulate transactions that give rise to the 
+potentially covered obligations.
+     The parties have nonetheless hotly disputed the meaning of 
+various expressions of opinion by representatives of NAIC 
+and the Secretary.  Physicians Mutual relies heavily on the 
+1998 NAIC letter in which a NAIC official claimed that 
+HCFA, "by adopting the NAIC Model Act and Regulation as 
+the federal standard for Medicare supplement insurance," has 
+embraced s 16 of the Model Regulation, which "in substance 
+limits the providers to charging only the Medicare-approved 
+amount for hospitalization when Medicare benefits have been 
+exhausted."  1998 NAIC Letter at 4, 5, J.A. at 126, 127.  The 
+1998 NAIC Letter relies in part on a 1992 letter in which 
+
+Thomas Hoyer, a HCFA official, interpreted the "day outlier" 
+language in s 8(B)(3) of the Model Regulation.  Letter from 
+Thomas E. Hoyer, Jr., Director, Division of Provider Services 
+Coverage Policy, HCFA, to F. David Wythe, Insurance Ana-
+lyst, Forms and Rates Section, Life, Accident and Health 
+Division, South Carolina Department of Insurance at 3 (Feb. 
+12, 1992), J.A. at 136.  Vencor, however, notes that just seven 
+months earlier, NAIC had quite candidly admitted that it 
+"cannot control what providers charge for their services" and 
+asked HCFA to take action to ensure that providers accept 
+the Medicare approved rates as payment in full for post-
+exhaustion hospital expenses.  Letter from Glenn Pomeroy, 
+Chair, NAIC Senior Issues Task Force to Nancy-Ann Min 
+DeParle, HCFA Administrator at 3 (Dec. 3, 1997), J.A. at 129, 
+131.  Vencor also offers a more recent letter from HCFA in 
+which the Deputy Administrator stated that neither Mr. 
+Hoyer nor anyone else at HCFA has taken a position as to 
+the 1991 NAIC Model Regulation's effects on providers' 
+charges for post-exhaustion hospital care.  See Letter from 
+Michael Hash, HCFA Deputy Administrator to Bradley L. 
+Kelly, Mintz, Levin, Cohen, Ferris, Glovsky & Popeo at 2-3 
+(Sept. 14, 1999).
+
+     To the extent that any of these letters attributes to s 16 of 
+the Model Regulation any limitation on provider charges to 
+patients, they exceed the unambiguous limits in the statutory 
+sections relied upon.  Thus, even if we were to assume that 
+NAIC--a private entity--were entitled to deference, or that 
+the Secretary were owed deference on her interpretation of 
+regulations drafted not by her but by NAIC, compare Thom-
+as Jefferson University v. Shalala, 512 U.S. 510, 512-13 
+(1994), the complete absence of statutory authority, even 
+assuming the full application of deference under Chevron 
+U.S.A. Inc. v. NRDC, Inc., 467 U.S. 837, 842-843 (1984), 
+would fatally undercut the interpretation claimed by Physi-
+cians Mutual.3
+
+__________
+     3 Thus we have no occasion to consider the effect of the Su-
+preme Court's recent decision in Christensen v. Harris County, No. 
+98-1167, slip op. (U.S. May 1, 2000) <http:  //www.supremecourtus. 
+gov/opinions/99pdf/98-1167.pdf>, stating that when an agency 
+
+     In theory the following question remains:  If a state adopts 
+the Model Regulation in order to make the sale of Medigap 
+policies lawful under federal law within its borders, could the 
+text of s 16(C) have the effect asserted by Physicians Mutu-
+al?  Recall that s 16(C) is simply a mandatory disclosure 
+provision in a contract between patient and insurer.  As such, 
+it would seem a weak basis for a claim of a binding restraint 
+on contracts between patients and providers.
+
+     Further, the language required by s 16(C)(4) itself explains 
+that its purpose is simply to enable the insured to compare 
+premiums and benefits (which are plainly independent of 
+providers' rates), and warns patients (1) that the policy rather 
+than the outline determines coverage, and (2) that the policy 
+may not cover all of the patient's medical costs.  Compare 
+Vencor Hosps. South v. Blue Cross and Blue Shield of R.I., 
+86 F. Supp. 2d 1155, 1159-60 (S.D. Fla. 2000) (concluding that 
+under Florida Law the outline is not part of the insurance 
+policy);  Vencor, Inc. v. Standard Life & Accident Ins. Co., 65 
+F. Supp. 2d 573, 578 (W.D. Ky. 1999) (same for Tennessee 
+law).  As Physicians Mutual has invoked the Model Regula-
+tion solely as a matter of federal law, however, disputes as to 
+its meaning under state law are not before us.
+
+     Finally, we note that in denying Vencor's motion under 
+Fed. R. Civ. P. 59(e) to alter or amend the judgment, the 
+district court said that Vencor had waived its claim that the 
+1991 NAIC Model Regulation is inapplicable to the six pa-
+tients whose policies took effect before August 21, 1992.  It is 
+not clear whether the district court would reach the same 
+conclusion in light of our decision that the authorities invoked 
+by Physicians Mutual do not bar Vencor from charging 
+patients its standard rates for post-exhaustion hospital care.  
+
+__________
+provides interpretations of an ambiguous statute in documents that 
+lack the force of law (such as opinion letters and policy statements), 
+such intepretations "do not warrant Chevron-style deference," id. at 
+10, but are " 'entitled to respect' under ... Skidmore v. Swift & Co., 
+323 U.S. 134, 140 (1944), but only to the extent that those intepreta-
+tions have the 'power to persuade,' " id. at 11.
+
+To avoid confusion, we emphasize that the claim remains live.  
+If the district court on remand is called upon to interpret the 
+individual insurance contracts, and if it concludes that any 
+version of NAIC's Model Regulation has any impact on the 
+outcome, it must determine which version was in effect in 
+each relevant state at the time that each contract took effect.
+
+                             *  *  *
+
+     Because we find no statute or regulation that prohibits 
+Vencor from charging its standard rates to patients who have 
+exhausted their Medicare hospital benefits, we reverse the 
+judgment of the district court and remand the case.
+
+                                                      So ordered.
+
+                                                                        

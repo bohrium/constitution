@@ -1,0 +1,315 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 4, 2000        Decided July 21, 2000 
+
+                           No. 99-7239
+
+     The District of Columbia Hospital Association, et al., 
+                            Appellees
+
+                                v.
+
+                    District of Columbia and 
+     Herbert Weldon, Deputy Director for Health Care Finance 
+              of Medical Assistance Administration, 
+                            Appellants
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv02575)
+
+                            ---------
+
+     Donna M. Murasky, Senior Assistant Corporation Counsel, 
+with whom Robert R. Rigsby, Corporation Counsel, and 
+Charles L. Reischel, Deputy Corporation Counsel, were on 
+the briefs, argued the cause for appellants.
+
+     Christopher L. Keough, with whom Ronald N. Sutter and 
+Kimberly N. Brown were on the brief, argued the cause for 
+appellees.
+
+     Before Silberman and Sentelle, Circuit Judges, and 
+Buckley, Senior Circuit Judge.
+
+     Opinion for the court filed by Senior Judge Buckley.
+
+     Buckley, Senior Judge:  The District of Columbia appeals 
+the district court's ruling that its method of computing certain 
+payments to hospitals violated the federal Medicaid statute.  
+Because we agree that the District of Columbia's interpreta-
+tion of the law is contrary to its plain meaning, we affirm the 
+district court's grant of summary judgment to the District of 
+Columbia Hospital Association.
+
+                          I. Background
+
+A.   Regulatory Framework
+
+     The Medicaid statute, Subchapter XIX of the Social Securi-
+ty Act, establishes a cooperative plan between the federal 
+government and the States to provide medical services to low-
+income individuals.  42 U.S.C. ss 1396-1396v (1994 & Supp. 
+III 1997).  The program is jointly funded by the Federal and 
+State governments and is administered by the States pursu-
+ant to federal guidelines.  See generally id. ss 1396a, 1396b;  
+42 C.F.R. s 430.0-.25 (1999).  The statute treats the District 
+of Columbia ("District") as a State.  42 U.S.C. s 1396d(b) 
+(Supp. III 1997).  To qualify for federal funding, a State must 
+have its own Medicaid plan approved by the Health Care 
+Financing Administration ("HCFA") of the United States 
+Department of Health and Human Services.  Id. s 1396;  42 
+C.F.R. s 430.10.
+
+     All State plans are required to provide Medicaid beneficia-
+ries with inpatient hospital services.  42 U.S.C. 
+ss 1396a(a)(10)(A), 1396d(a)(1).  Because of the greater costs 
+it found to be associated with the treatment of indigent 
+patients, Congress has directed that hospitals providing inpa-
+tient care must be compensated under the Medicaid program 
+
+at rates that "take into account ... the situation of hospitals 
+which serve a disproportionate number of low-income patients 
+with special needs."  Id.  s 1396a(a)(13)(A)(iv);  see also H.R. 
+Rep. No. 100-391(1), at 524, reprinted in 1987 U.S.C.C.A.N. 
+2313-1, 2313-344 (discussing adjustments in payments to 
+"disproportionate share hospitals" ("DSH")).  The adjust-
+ments mandated by Congress ("DSH adjustments" or "DSH 
+payments") are achieved through increases in the "rate or 
+amount of payment for such services."  42 U.S.C. 
+s 1396r-4(a)(1)(B).
+
+     States may select one of three complex formulae for calcu-
+lating the DSH payments.  Id. s 1396r-4(c)(1), (2), (3).  Un-
+der the formula selected by the District ("(c)(1) formula"), see 
+D.C. Mun. Regs. tit. 29, s 908.4(b) (1999), the DSH adjust-
+ment must equal "at least the product of [ ] the amount paid 
+under the State plan to the hospital for operating costs for 
+inpatient hospital services" ("base amount"), multiplied by the 
+hospital's "disproportionate share adjustment percentage."  
+42 U.S.C. s 1396r-4(c)(1).  Because this case hinges on the 
+calculation of the base amount, we will spare the reader the 
+labyrinthine process by which the disproportionate share 
+adjustment percentage is derived.  We simply observe that it 
+alone would justify the Supreme Court's description of the 
+Medicaid statute as "an aggravated assault on the English 
+language, resistant to attempts to understand it."  Schweiker 
+v. Gray Panthers, 453 U.S. 34, 43 n.14 (1981) (quoting Fried-
+man v. Berger, 409 F. Supp. 1225, 1226 (S.D.N.Y. 1976)).
+
+B.   The District of Columbia's Plan
+
+     The District's Medicaid plan is administered by an agency 
+within the Department of Human Services that was called the 
+Commission on Health Care Finance ("CHCF") at the time 
+this controversy originated.  Although it has since been re-
+named the Medical Assistance Administration, the parties 
+have continued to refer to the agency as the CHCF, as will 
+we.
+
+     District of Columbia residents who qualify for Medicaid on 
+the basis of their eligibility for assistance under the Tempo-
+rary Assistance for Needy Families program (formerly Aid to 
+
+Families with Dependent Children) are required by the Dis-
+trict's Medicaid Managed Care Amendment Act of 1992 to 
+enroll in managed care plans.  D.C. Code Ann. s 1-359(d)(2) 
+(1999 Repl. & Supp. 2000).  Other Medicaid beneficiaries 
+continue to receive services on a fee-for-service basis.  The 
+District pays the managed care organizations ("MCOs") that 
+administer the managed care plans a fixed pre-paid amount 
+per Medicaid enrollee.  The MCOs, in turn, are responsible 
+for providing these enrollees with all the health care services 
+to which they are entitled under the statute, including inpa-
+tient hospital services provided under contract between the 
+MCOs and participating hospitals.  Id. s 1-359(d)(2), (3).
+
+C.   The Litigation
+
+     Without delving too deeply into the tortuous history of this 
+litigation, it suffices to say that the District and the District of 
+Columbia Hospital Association ("Association") have been en-
+gaged for the better part of the past decade in an argument 
+over the District's calculation of DSH payments.  In 1994, the 
+Association filed a suit in which it claimed, among other 
+things, that the District's method of computing DSH adjust-
+ments violated the Medicaid statute by failing to take into 
+account the services provided managed care patients through 
+the MCOs.  While the suit was pending, a newly appointed 
+Commissioner of the CHCF agreed to revise the District's 
+methodology.  Because the parties believed this would re-
+solve their dispute, the district court dismissed the suit as 
+moot.  Subsequent to the dismissal of the case, it became 
+apparent that the parties were not in fact in accord as to how 
+DSH adjustments should be computed.  The bone remaining 
+in contention was the District's failure to include, in the (c)(1) 
+formula's base amount, the operating costs incurred by hospi-
+tals in providing inpatient services to Medicaid managed care 
+patients.
+
+     In 1998, the Association initiated the present action seeking 
+a declaratory judgment that the District's exclusion of Medic-
+aid managed care patients from the base amount violated the 
+Medicaid statute.  The Association subsequently filed a mo-
+tion requesting the district court to compel the District to 
+
+comply with representations the Association claims the Dis-
+trict made in settling the earlier litigation.  The court grant-
+ed the Association's motion for summary judgment based on 
+its holding that the District's method of calculating DSH 
+payments was contrary to law, and it granted the Associa-
+tion's motion to compel compliance with its version of the 
+earlier understanding.  District of Columbia Hosp. Ass'n v. 
+District of Columbia, 73 F. Supp. 2d 8 (D.D.C. 1999).  The 
+District filed a timely appeal, and we have jurisdiction to 
+review the district court's final order pursuant to 28 U.S.C. 
+s 1291.
+
+                           II. Analysis
+
+     We review a grant of summary judgment de novo, applying 
+the same standard as the district court.  See, e.g., Everett v. 
+United States, 158 F.3d 1364, 1367 (D.C. Cir. 1998), cert. 
+denied, 526 U.S. 1132 (1999).  Summary judgment is appro-
+priate where there is no genuine issue as to any material fact 
+and the moving party is entitled to judgment as a matter of 
+law.  Fed. R. Civ. P. 56(c).
+
+     The dispositive question in this case is one of statutory 
+interpretation.  Specifically, we are concerned here with the 
+proper application of the formula selected by the District for 
+the computation of the DSH adjustment.  That formula pro-
+vides that the adjustment must
+
+     be in an amount equal to at least the product of (A) the 
+     amount paid under the State plan to the hospital for 
+     operating costs for inpatient hospital services (of the kind 
+     described in section 1395ww(a)(4) of this title), and (B) 
+     the hospital's disproportionate share adjustment percent-
+     age (established under section 1395ww(d)(5)(F)(iv) of this 
+     title)[.]
+     
+42 U.S.C. s 1396r-4(c)(1) (emphasis added).
+
+     The controversy in this case centers on the meaning to be 
+given the word "under" in the quoted text.  The District 
+contends that it is not required to include the cost of provid-
+ing inpatient services to Medicaid managed care patients in 
+
+the base amount because the hospitals receive payments for 
+those services from MCOs rather than from the District.  
+Because the payments are not made directly by the District, 
+it reasons that they are not made "under the State plan."
+
+     It is axiomatic that "[t]he starting point in statutory inter-
+pretation is the language of the statute itself."  Ardestani v. 
+INS, 502 U.S. 129, 135 (1991) (internal quotation marks and 
+brackets omitted).  The Supreme Court has observed that 
+"[t]he word 'under' has many dictionary definitions and must 
+draw its meaning from its context."  Id.  We see nothing in 
+the context of the Medicaid statute, however, that would 
+require us to give the word other than its ordinary meaning.  
+"Under" is defined as "required by[,] in accordance with[, or] 
+bound by."  Webster's Third New International Dictionary 
+2487 (1981);  see also Ardestani, 502 U.S. at 135 (finding "the 
+most natural reading" of "under" in context of Equal Access 
+to Justice Act to mean " 'subject [or pursuant] to' or 'by 
+reason of the authority of' ") (quoting St. Louis Fuel and 
+Supply Co. v. FERC, 890 F.2d 446, 450 (D.C. Cir. 1989)).
+
+     Although payments from MCOs to hospitals for the care of 
+Medicaid patients are not made directly by the District, they 
+are clearly made pursuant to, and under the authority of, the 
+District's Medicaid plan.  MCOs may not receive payment for 
+services to Medicaid patients unless they have completed a 
+Medicaid managed care provider agreement with the District.  
+D.C. Mun. Regs. tit. 29, s 5308.1.  The contracts between the 
+MCOs and the hospitals that serve their Medicaid enrollees 
+are closely regulated by the District.  For example, District 
+regulations require MCOs to submit their contracts with 
+hospitals to the District for prior approval, id. s 5313.1;  to 
+notify the District before effecting any changes in such 
+agreements, id. s 5304.2-.3;  to contract only with hospitals 
+located in the District, id. s 5313.9;  and to assure that 
+financial and programmatic information maintained by the 
+hospital regarding Medicaid managed care patients will be 
+available for inspection by the MCO or the District.  Id. 
+s 5313.10(d).
+
+     Moreover, we can find nothing in the statute that would 
+require us to confine "the amount paid under [a] State plan to 
+[a] hospital" to that paid by the State itself.  To the contrary, 
+if Congress had so intended, it could have specified that only 
+a State's "direct" payments were to be taken into account, as 
+it did in the preceding subsection of the statute.  See 42 
+U.S.C. s 1396r-4(b)(3)(A)(i)(II) (referring to "the amount of 
+the cash subsidies for patient services received directly from 
+State and local governments") (emphasis added).  That it did 
+not do so here is compelling evidence that Congress did not 
+intend to limit the computation of payments to those made 
+directly by the District.  See Russello v. United States, 464 
+U.S. 16, 23 (1983) ("[W]here Congress includes particular 
+language in one section of a statute but omits it in another 
+section of the same Act, it is generally presumed that Con-
+gress acts intentionally and purposely in the disparate inclu-
+sion or exclusion.") (internal quotation marks and citation 
+omitted).
+
+     If more were required, our construction of the statutory 
+language is wholly consistent with Congress's purpose in 
+creating the DSH adjustment.  See Holloway v. United 
+States, 526 U.S. 1, 6 (1999) ("In interpreting the statute at 
+issue, we consider not only the bare meaning of the critical 
+word or phrase but also its ... purpose in the statutory 
+scheme.") (internal quotation marks and brackets omitted).  
+"Congress's 'overarching intent' in passing the disproportion-
+ate share provision was to supplement the ... payments of 
+hospitals serving 'low income' persons."  Legacy Emanuel 
+Hosp. and Health Ctr. v. Shalala, 97 F.3d 1261, 1265 (9th Cir. 
+1996) (quoting Jewish Hosp. v. Secretary of Health & Human 
+Serv., 19 F.3d 270, 275 (6th Cir. 1994)).  As the Ninth Circuit 
+has noted, "[p]atients meeting the statutory requirements for 
+Medicaid do not cease to be low-income patients on days that 
+the state does not pay Medicaid inpatient hospital benefits."  
+Id. at 1266.  Similarly, patients who must be enrolled in 
+MCOs pursuant to the District's Medicaid plan do not cease 
+to impose higher costs on the hospitals that serve them.
+
+     Finally, we are unpersuaded by the District's offer of a 
+letter from the General Accounting Office asserting that 
+States have the discretion to exclude Medicaid managed care 
+patients from their calculation of the maximum DSH adjust-
+ment a given hospital may receive under another section of 
+the Medicaid statute.  As the Supreme Court has recently 
+made clear, "[i]nterpretations such as those in opinion let-
+ters--like interpretations contained in policy statements, 
+agency manuals, and enforcement guidelines, all of which lack 
+the force of law--do not warrant Chevron-style deference."  
+Christensen v. Harris County, 120 S. Ct. 1655, 1662 (2000).  
+This is a reference to Chevron U.S.A. Inc. v. Natural Re-
+sources Defense Council, Inc., 467 U.S. 837 (1984), which 
+holds that courts must defer to an agency's permissible 
+construction of a statute it is charged with administering 
+when "the statute is silent or ambiguous with respect to the 
+specific issue" before the court.  Id. at 843.  Because the 
+provision at issue here is unambiguous, we owe no deference 
+to a contrary construction even if formally adopted by the 
+Secretary of Health and Human Services.
+
+                         III. Conclusion
+
+     Because the District's interpretation is contrary to the 
+plain meaning and purpose of the Medicaid statute, we hold 
+that the District may not exclude the operating costs incurred 
+by hospitals in their service of Medicaid managed care pa-
+tients in calculating DSH payments pursuant to the (c)(1) 
+formula.  We have no need, therefore, to reach the district 
+court's alternative holding based on the Association's motion 
+to compel.  The district court's grant of summary judgment 
+to the Association is therefore
+
+                                                            Affirmed.
+
+                                                 

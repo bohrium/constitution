@@ -1,0 +1,858 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 4, 2001   Decided October 30, 2001 
+
+                           No. 99-1151
+
+                        State of Michigan,
+          Michigan Department of Environmental Quality, 
+                            Petitioner
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+                         Navajo Nation, 
+                            Intervenor
+
+                        Consolidated with 
+                99-1152, 99-1153, 99-1154, 99-1155
+
+         On Petitions for Review of a Final Rule of the 
+                 Environmental Protection Agency
+
+                            ---------
+
+     Henry V. Nickel argued the cause for petitioners.  With 
+him on the briefs were Lauren E. Freeman, David S. Har-
+low, Edmund H. Kendrick, Brian J. Renaud, Susan M. 
+McMichael, Jennifer M. Granholm, Attorney General, State 
+of Michigan, and John Fordell Leone, Assistant Attorney 
+General.  Richard S. Wasserstrom entered an appearance.
+
+     Cynthia A. Drew, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With her on the brief were 
+John C. Cruden, Acting Assistant Attorney General, Andrew 
+J. Doyle, Attorney, Anthony F. Guadagno, Attorney, Envi-
+ronmental Protection Agency, and Michael W. Thrift, Attor-
+ney.  Lois J. Schiffer, Assistant Attorney General, U.S. De-
+partment of Justice, and Christopher S. Vaden, Attorney, 
+entered appearances.
+
+     Jill E. Grant was on the brief for intervenor Navajo 
+Nation.
+
+     Before:  Ginsburg, Chief Judge, Edwards and Sentelle, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  State of Michigan, et al. (herein-
+after petitioners), petition this Court for review of the Envi-
+ronmental Protection Agency's ("EPA") 1999 revisions to the 
+Part 71 federal operating permit program rule, 64 Fed. Reg. 
+8247 (Feb. 19, 1999) (codified at 40 C.F.R. pt. 71).1  Petition-
+ers argue that the EPA has exceeded its authority under the 
+Clean Air Act ("CAA" or "the Act"), 42 U.S.C. s 7401 et seq. 
+(2000), in proposing to promulgate and administer a federal 
+
+__________
+     1 The following petitions for review challenging the same EPA 
+rule were consolidated and are before us:  State of Michigan, 
+Michigan Dep't of Envtl. Quality v. EPA, No. 99-1151, American 
+Forest and Paper Ass'n, Inc. v. EPA, No. 99-1152, New Mexico Oil 
+& Gas Ass'n v. EPA, No. 99-1153, New Mexico Env't Dep't v. EPA, 
+No. 99-1154, and Public Serv. Co. of New Mexico and Salt River 
+Project Agric. Improvement and Power Dist. v. EPA, No. 99-1155.  
+Arizona Public Serv. Co. v. EPA, No. 99-1146, challenging the 
+same rule, was voluntarily dismissed without prejudice on Septem-
+ber 14, 2000.
+
+operating permits program for areas where EPA believes the 
+Indian country status is in question, and in proposing to make 
+state/tribe jurisdictional determinations on a case-by-case ba-
+sis rather than through notice and comment rulemaking.  
+Because we agree with petitioners that EPA has exceeded its 
+authority, we grant the petition for review.
+
+                          I. Background
+
+              A. The Clean Air Act and Indian Tribes
+
+     The Clean Air Act establishes an intergovernmental part-
+nership to regulate air quality in the United States.  De-
+scribed as an "experiment in federalism," Virginia v. EPA, 
+108 F.3d 1397, 1408 (D.C. Cir. 1997) (quoting Bethlehem Steel 
+Corp. v. Gorsuch, 742 F.2d 1028, 1036-37 (7th Cir. 1984)), the 
+Act gives EPA responsibility for establishing National Am-
+bient Air Quality Standards ("NAAQS").  42 U.S.C. s 7409;  
+see also Whitman v. American Trucking Ass'ns, 531 U.S. 
+457, __, 121 S. Ct. 903, 907 (2001). Title V of the 1990 Clean 
+Air Act Amendments gives states responsibility for imple-
+menting these standards.  See, e.g., 42 U.S.C. ss 7407, 7410.
+
+     As part of the 1990 Clean Air Act Amendments, Congress 
+also authorized EPA to "treat Indian tribes as States," thus 
+affording Indian tribes the same opportunity as states to 
+implement the NAAQS within tribal jurisdictions under a 
+Title V program.  42 U.S.C. s 7601(d).  Title V requires that 
+states submit and obtain EPA approval of a state operating 
+permit program ("SOP") that meets the "minimum elements" 
+set forth under 42 U.S.C. s 7661a(d) and EPA regulations 
+promulgated pursuant to 42 U.S.C. s 7661a(b).  Among the 
+requirements is that the state demonstrate that it has "ade-
+quate authority," including jurisdiction, to regulate the emis-
+sion sources subject to the SOP.  Id. at s 7661a(d).  This 
+same requirement applies to Indian tribes seeking to enact 
+their own implementation plan.  Id. at s 7601(d).
+
+     Congress recognized the unique legal status and circum-
+stances of Indian tribes by allowing tribes to be treated as 
+states, but not requiring them to apply to EPA to manage 
+
+Clean Air Act programs.  See id. at s 7601(d)(1)(A).  Tribes 
+may be treated as states if:  they have a governing body;  the 
+functions they are to exercise pertain to the management and 
+protection of air resources within the tribe's jurisdiction;  and 
+the tribe is capable of carrying out these functions.  See 42 
+U.S.C. s 7601(d)(2).  No tribe to date has sought to create an 
+implementation plan.  In the Tribal Authority Rule ("TAR"), 
+EPA exercised authority under 42 U.S.C. ss 7601(d)(2), (4) 
+by specifying those portions of the Clean Air Act for which it 
+deemed it appropriate to treat Indian tribes as states, and the 
+requirements necessary for tribes to establish jurisdiction to 
+develop Title V permitting programs.  See Indian Tribes:  Air 
+Quality Planning and Management, 63 Fed. Reg. 7254 (Feb. 
+12, 1998) (to be codified at 40 C.F.R. pts. 9, 35, 49, 50, and 81).  
+EPA's interpretation was upheld by this Court in Arizona 
+Pub. Serv. Co. v. EPA, 211 F.3d 1280 (D.C. Cir. 2000), cert. 
+denied, 121 S. Ct. 1600 (2001).  Under the TAR a tribe may 
+only develop a Title V permitting program for non-
+reservation areas if the tribe can demonstrate jurisdiction 
+under federal Indian law.  Therefore the TAR provides a 
+procedure for resolving jurisdictional disputes.  See 40 C.F.R. 
+s 49.9(e).
+
+     If a state fails to create an EPA-approved implementation 
+plan, or in cases where an approved program is not being 
+properly implemented, Congress requires EPA to "promul-
+gate, administer, and enforce" a federal operating permit 
+program. 42 U.S.C. ss 7661a(d)(3), (i)(3).  Further, in the 
+absence of an EPA-approved tribal implementation program, 
+EPA may adopt a federal implementation program.  See 42 
+U.S.C. s 7601(d)(4).  However, the parties before us disagree 
+as to the source of EPA's power to enact such a program for 
+Indian country.  The EPA claims its "authority under the 
+CAA is based in part on the general purpose of the CAA," 
+which was only supplemented in the Indian tribe context by 
+42 U.S.C. s 7601(d)(4).  64 Fed. Reg. at 8251;  see also 62 
+Fed. Reg. 13748, 13749 (proposed rule and notice) ("Today's 
+notice makes it clear that EPA's implementation of part 71 
+programs in Indian country is based on EPA's overarching 
+authority to protect air quality within Indian country, not 
+
+solely on its authority to act in the stead of an Indian Tribe.").  
+In contrast, petitioners essentially contend EPA is merely 
+authorized to act in the shoes of the tribes--providing a 
+federal implementation program for tribes as it would for a 
+state that failed to develop an approved program.  In any 
+event, both sides agree that in the absence of a tribal 
+implementation plan, EPA may provide a federal operating 
+plan for lands under the tribe's jurisdiction.
+
+                      B. Federal Indian Law
+
+     Determining tribal jurisdiction is far from straightforward 
+and involves delicate questions involving state and tribal 
+sovereignty.  Indeed, state-tribal relations have been a con-
+cern since the time of the founding.  See The Federalist No. 
+42 (Madison) ("What description of Indians are to be deemed 
+members of a State, is not yet settled, and has been a 
+question of frequent perplexity and contention in the federal 
+councils.").  Under principles of federal Indian law, "Indian 
+country" denotes the geographic scope where "primary juris-
+diction ... rests with the Federal Government and the Indian 
+tribe inhabiting it, and not with the States."  Alaska v. 
+Native Village of Venetie Tribal Gov't, 522 U.S. 520, 527 n.1 
+(1998).  "Indian country" is defined by statute as "all land 
+within the limits of any Indian reservation," "all dependent 
+Indian communities," and "all Indian allotments." 18 U.S.C. 
+s 1151 (2001).  "Although this definition by its terms relates 
+only to federal criminal jurisdiction, [the Supreme Court has] 
+recognized that it also generally applies to questions of civil 
+jurisdiction such as the one at issue here."  Venetie Tribal 
+Gov't, 522 U.S. at 527 (citing DeCoteau v. District County 
+Court for Tenth Judicial Dist., 420 U.S. 425, 427 n.2 (1975)).  
+Thus, unlike typical political boundaries, the jurisdictional 
+boundaries of Indian tribes are not always clearly delineated, 
+and often are determined through adjudication or other ad-
+ministrative proceedings.  See, e.g., id. at 534;  Tribal Author-
+ity Rule, 40 C.F.R. pt. 49, 63 Fed. Reg. 7254 (Feb. 12, 1998).
+
+     "[T]he test for determining whether land is Indian country 
+does not turn upon whether that land is denominated 'trust 
+
+land' or 'reservation.'  Rather, we ask whether the area has 
+been 'validly set apart for the use of the Indians as such, 
+under the superintendence of the Government.' "  Oklahoma 
+Tax Comm'n v. Citizen Band Potawatomi Indian Tribe of 
+Oklahoma, 498 U.S. 505, 511 (1991) (quoting United States v. 
+John, 437 U.S. 634, 648-49 (1978)). Difficult jurisdictional 
+questions can arise over lands that do not meet the prima 
+facie test for "Indian country."  Claims of superintendence 
+can be controversial for lands that tribes claim to be "depen-
+dent Indian communities," where title is not held by the 
+federal government or Indians, e.g. Venetie Tribal Gov't, 522 
+U.S. at 525-27, or lands outside the exterior boundaries of 
+formally-established reservations such as lands taken into 
+trust for tribes pursuant to the Indian Reorganization Act (25 
+U.S.C. s 465 (2000)), for which no action was taken by treaty, 
+Executive Order, or act of Congress to set the lands aside for 
+the use and benefit of a tribe.
+
+     It is against this background that EPA adopted its new 
+Part 71 rules providing for federal administration of an 
+operating permits program in Indian country.
+
+                     C. The 1999 Part 71 Rule
+
+     In 1999, EPA finalized its 1997 proposal, 62 Fed. Reg. 
+13748 (March 21, 1997), establishing the Part 71 federal 
+operating permits plan throughout "Indian country unless a 
+Tribal or State Part 70 program has been explicitly approved 
+for the area."  64 Fed. Reg. at 8247, 8249 (codified at 40 
+C.F.R. s 71.4(b)).  The major area of contention between 
+petitioners and EPA, and thus the issue before this Court is 
+EPA's authority to promulgate "Part 71 programs for Indian 
+country."  Section 71.4(b) provides:
+
+     The Administrator will administer and enforce an operat-
+     ing permits program in Indian country as defined in 
+     s 71.2, when an operating permits program which meets 
+     the requirements of part 70 of this chapter has not been 
+     explicitly granted full or interim approval by the Admin-
+     istrator for Indian country.  For purposes of administer-
+     ing the part 71 program, EPA will treat areas for which 
+     
+     EPA believes the Indian country status is in question as 
+     Indian country.
+     
+40 C.F.R. s 71.4(b) (emphasis added).  Specifically, this 
+Court must evaluate whether EPA's decision to "treat areas 
+for which EPA believes the Indian country status is in 
+question as Indian country" has exceeded the agency's au-
+thority under the Clean Air Act.
+
+     In its 1995 proposal for Part 71, EPA stated that the "Act 
+authorizes EPA to protect air quality on lands over which 
+Indian Tribes have jurisdiction."  60 Fed. Reg. at 20809 
+(emphasis added).  The purpose was to provide a "mechanism 
+by which EPA [could] assume responsibility to issue permits 
+in situations where the State, local, or Tribal agency has not 
+developed, administered, or enforced an acceptable permits 
+program...."  Id. at 20805.  Thus, under the 1995 proposal, 
+EPA would issue permits for "Tribal areas" that "EPA 
+determines to be within a Tribe's inherent authority."  Id. at 
+20830 (emphasis added).  As a prerequisite the 1995 proposal 
+would have "required Tribes to establish their jurisdiction 
+over certain areas of Indian country before EPA could imple-
+ment a Federal program for those areas."  64 Fed. Reg. at 
+8249 (emphasis added);  see 60 Fed. Reg. at 20809.  The 1999 
+rules adopted in Part 71 and the agency's approach to deter-
+mining jurisdiction differ sharply from the original 1995 pro-
+posal. Unlike the present rule, a final jurisdictional determi-
+nation would have been required regardless of whether the 
+tribe sought its own program.  Moreover, EPA proposed to 
+follow the same "approach to resolving jurisdictional issues 
+taken in the Tribal air rule."  60 Fed. Reg. at 20810.  "EPA 
+would notify appropriate governmental entities of the bound-
+ary of the Tribal area for a part 71 program at least 90 days 
+prior to the effective date of the program," and where a 
+dispute arose provide notice in the Federal Register and seek 
+comments.  Id.  Finally, the 1995 proposal anticipated that 
+EPA would "implement a part 71 program that covers all 
+undisputed areas, while withholding action on the portion 
+that addresses areas where a jurisdiction issue has not been 
+satisfactorily resolved."  Id. (emphasis added).  In contrast, 
+under the adopted rule, EPA assumes jurisdiction if "EPA 
+
+believes" the status of the area is "in question." 40 C.F.R. 
+s 71.4(b);  64 Fed. Reg. at 8262.
+
+     EPA contends that under its new Part 71 rule it need only 
+conclude there is a "bona fide" question before it will treat an 
+area's Indian country status as "in question."   See 64 Fed. 
+Reg. at 8248 n.1.  EPA claimed its authority with respect to 
+"in question" lands is based on the agency's "overarching 
+authority to protect air quality within Indian country, not 
+solely on its authority to act in the stead of an Indian Tribe."  
+62 Fed. Reg. at 13749.  Further, rather than determine 
+whether an area's status is Indian country or at least "in 
+question" through notice and comment rulemaking, the agen-
+cy proposes to use adjudications over individual emitting 
+sources to determine an area's status.  See 64 Fed. Reg. at 
+8255 ("EPA would not conduct area-specific rulemaking pro-
+cedures to assess the boundaries of programs in Indian 
+country....  Specific 'boundary' questions relating to appli-
+cability of the program to particular sources would be ad-
+dressed through a less formal consultation process [and] EPA 
+would make case-specific determinations on whether particu-
+lar sources are in Indian country.");  id. at 8257.  Petitioners 
+sought review in this Court of the portion of EPA's 1999 Part 
+71 Rule authorizing EPA to treat as "Indian country" lands 
+for which EPA has deemed "Indian country" status to be "in 
+question" and of EPA's determination to make jurisdictional 
+inquiries through case-by-case adjudications rather than no-
+tice and comment rulemakings.
+
+                           II. Analysis
+
+                        A. EPA's Authority
+
+     It is elementary that our federal government is one of 
+limited and enumerated powers.  "The powers of the legisla-
+ture are defined and limited;  and that those limits may not be 
+mistaken or forgotten, the constitution is written." Marbury 
+v. Madison, 5 U.S. (1 Cranch) 137, 176 (1803) (Marshall, C.J.).  
+This principle applies with equal force to the so-called modern 
+administrative state.  EPA is a federal agency--a creature of 
+statute.  It has no constitutional or common law existence or 
+
+authority, but only those authorities conferred upon it by 
+Congress.  "It is axiomatic that an administrative agency's 
+power to promulgate legislative regulations is limited to the 
+authority delegated by Congress." Bowen v. Georgetown 
+Univ. Hosp., 488 U.S. 204, 208 (1988).  Thus, if there is no 
+statute conferring authority, a federal agency has none.  We 
+must reverse EPA's decision to administer a federal operat-
+ing permit program in lands whose Indian country status is 
+considered to be "in question" if it is arbitrary, capricious, an 
+abuse of discretion, or otherwise not in accordance with law.  
+See Motor Vehicle Mfrs. Ass'n of the United States, Inc. v. 
+EPA, 768 F.2d 385, 389 n.6 (D.C. Cir. 1985), cert. denied, 474 
+U.S. 1082 (1986).  If EPA lacks authority under the Clean Air 
+Act, then its action is plainly contrary to law and cannot 
+stand.  See American Petroleum Inst. v. EPA, 52 F.3d 1113, 
+1119-20 (D.C. Cir. 1995) ("API");  Ethyl Corp. v. EPA, 51 
+F.3d 1053, 1060 (D.C. Cir. 1995).  To determine whether the 
+agency's action is contrary to law, we look first to determine 
+whether Congress has delegated to the agency the legal 
+authority to take the action that is under dispute.  United 
+States v. Mead Corp., 121 S. Ct. 2164, 2171 (2000) ("We hold 
+that administrative implementation of a particular statutory 
+provision qualifies for Chevron deference when it appears 
+that Congress delegated authority to the agency generally to 
+make rules carrying the force of law....");  Chevron U.S.A. 
+Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 
+837, 843-44.  Mere ambiguity in a statute is not evidence of 
+congressional delegation of authority.  See Sea-Land Servs., 
+Inc. v. Dep't of Transp., 137 F.3d 640, 645 (D.C. Cir. 1998) 
+("[Chevron] deference comes into play of course, only as a 
+consequence of statutory ambiguity, and then only if the 
+reviewing court finds an implicit delegation of authority to the 
+agency.") (emphasis added);  City of Kansas City, Mo. v. 
+Dep't of Housing & Urban Dev., 923 F.2d 188, 192-93 (D.C. 
+Cir. 1991) ("implicit delegation of interpretive authority," as 
+well as ambiguity, are required before Chevron-step-two def-
+erence is appropriate);  cf. Railway Labor Exec. Ass'n v. 
+Nat'l Mediation Bd., 29 F.3d 655 (D.C. Cir. 1994) (en banc).  
+However, when Congress has explicitly or impliedly left a gap 
+
+for an agency to fill, there is a delegation of authority to the 
+agency to give meaning to a specific provision of the statute 
+by regulation, "and any ensuing regulation is binding in the 
+courts unless procedurally defective, arbitrary and capricious 
+in substance, or manifestly contrary to the statute."  Mead, 
+121 S. Ct. at 2171.
+
+     Agency authority may not be lightly presumed.  "Were 
+courts to presume a delegation of power absent an express 
+withholding of such power, agencies would enjoy virtually 
+limitless hegemony, a result plainly out of keeping with 
+Chevron and quite likely with the Constitution as well."  
+Ethyl Corp. 51 F.3d at 1060 (D.C. Cir. 1995).2  "Thus, we will 
+not presume a delegation of power based solely on the fact 
+that there is not an express withholding of such power."  
+API, 52 F.3d at 1120.
+
+     We conclude that the plain meaning of 42 U.S.C. s 7601(d) 
+and s 7661a grants EPA the authority to "promulgate, ad-
+minister and enforce a [federal operating permit] program" 
+for a state or tribe if, and only if, (1) the state or tribe fails to 
+submit an operating program or (2) the operating program is 
+disapproved by EPA or (3) EPA determines the state or tribe 
+is not adequately administering and enforcing a program.  
+See 42 U.S.C. ss 7661a(d), (i).  Since Congress has not 
+delegated authority to the agency to act beyond these statuto-
+ry parameters, we will not defer to EPA's interpretation of 
+the Act as giving it the broader power to indefinitely run a 
+federal operating permit program in the absence of the 
+conditions set out by sections 7661a(d), (i), and 7601(d).  See 
+Mead, 121 S. Ct. at 2177 (Chevron deference not applicable 
+"where statutory circumstances indicate no intent to delegate 
+general authority to make rules with force of law");  Chevron, 
+467 U.S. at 842-43.
+
+            B. EPA's Treatment of "In Question" Lands
+
+     Petitioners and EPA agree that under the regime Congress 
+has created in the Clean Air Act, the states have primary 
+responsibility for ensuring that ambient air meets federally-
+
+__________
+     2 Such a result would be out of keeping with Mead as well.
+
+established standards.  Section 502 of the Act, 42 U.S.C. 
+s 7661a, addresses EPA approval of state programs.  EPA 
+must establish minimum elements of a permit program and 
+each state must develop such a program.  Id. at ss 7661a(b) 
+and (d).  Section 502(d)(3) specifies that "[i]f a program 
+meeting the requirements of this subchapter has not been 
+approved in whole for any State, the Administrator shall, 2 
+years after the date required for submission of such a pro-
+gram ... promulgate, administer, and enforce a program 
+under this subchapter for that State."  42 U.S.C. 
+s 7661a(d)(3) (emphasis added).  Similarly, if EPA deter-
+mines that a state (or tribe) is "not adequately administering 
+and enforcing a program, or portion thereof" then "unless the 
+State has corrected such deficiency within 18 months after 
+the date of such finding, the Administrator shall, 2 years after 
+the date of such finding, promulgate, administer, and enforce 
+a program under this subchapter for that State."  42 U.S.C. 
+ss 7661a(i)(1), (4) (emphasis added).
+
+     Section 502, 42 U.S.C. s 7661a, does not speak of underly-
+ing, residual, or even default EPA jurisdiction, authority, or 
+power.  It only speaks of the EPA running an implementa-
+tion program for a state that fails to develop an approved 
+program.  EPA has no authority or jurisdiction under section 
+502 to operate a federal program unless or until the state fails 
+to have a SOP approved within a specified time frame. 
+Further, if EPA does implement a program, the Administra-
+tor is instructed only "to administer and enforce federally 
+issued permits under this subchapter until they are replaced 
+by a permit issued by a permitting program," and EPA must 
+"suspend the issuance of permits promptly upon publication 
+of notice of approval of a permit program under this sec-
+tion...."  42 U.S.C. s 7661a(e).  Thus, once a state program 
+is approved, EPA's authority to operate a federal program 
+under section 502(d)(3) lapses.
+
+     Nothing in CAA section 301(d), 42 U.S.C. s 7601(d), adds 
+to EPA's jurisdiction to implement a federal program in place 
+of the states.  Section 301(d) permits the EPA to "treat 
+Indian tribes as States" if certain prerequisites are met, 
+including that the "functions to be exercised by the Indian 
+
+tribe pertain to the management and protection of air re-
+sources within the exterior boundaries of the reservation or 
+other areas within the tribe's jurisdiction." 42 U.S.C. 
+s 7601(d)(2)(B) (emphasis added).  If the EPA determines 
+that treatment of Indian tribes as identical to states is 
+inappropriate or administratively infeasible, then the EPA 
+"will directly administer such provisions so as to achieve the 
+appropriate purpose."  42 U.S.C. s 7601(d)(4).  Thus, under 
+section 301, EPA may treat qualifying tribes as states, and if 
+the tribe fails to meet the requirements set out under section 
+502, then EPA must implement a federal program.  Alterna-
+tively, if the tribe fails to qualify, then EPA must likewise 
+implement a federal program.  Again, there is no suggestion 
+of inherent or underlying EPA authority, but rather a role for 
+the EPA if the tribe, for whatever reason, does not promul-
+gate a tribal implementation program.
+
+     It is significant that neither the EPA nor the Intervenor, 
+Navajo Nation, can cite a single reference in the Clean Air 
+Act that suggests that the agency has some overarching 
+jurisdiction to implement federal programs.  If anything, the 
+"structure" and "history" of the Act, to which they appeal, 
+suggest otherwise, for it is an experiment in cooperative 
+federalism, as Intervenor notes.  Certainly the Act intended 
+to create an overarching federal role in air pollution control 
+policy, as Intervenor argues, but that overarching role is in 
+setting standards, not in implementation. EPA's role for 
+implementation is limited to the conditions set out in 42 
+U.S.C. ss 7601(d), 7661a.
+
+     The Intervenor's brief is telling.  To support its contention 
+of default federal jurisdiction it cites vague statements that 
+the Act is "national in scope," that it is to "protect and 
+enhance the quality of the Nation's air resources" or that 
+EPA has the authority to issue regulations necessary to 
+implement the Act.  But none of these implies that EPA has 
+some default authority to operate an implementation plan 
+except as specified in sections 301(d) and 502 of the Clean Air 
+Act, 42 U.S.C. ss 7601(d), 7661a.  In its brief, EPA claims 
+that it "always has nationwide enforcement authority under 
+the Act" because "Congress charged EPA not only with 
+
+generally administering the Act, but also with nationally 
+overseeing and enforcing its requirements."  Similarly, in 
+adopting the new Part 71 rules, EPA claimed its "authority 
+under the CAA is based in part on the general purpose of the 
+CAA." 64 Fed. Reg. at 8251.  However, "EPA cannot rely on 
+its general authority to make rules necessary to carry out its 
+functions when a specific statutory directive defines the rele-
+vant functions of EPA in a particular area." API, 52 F.3d at 
+1119.  Rather, we have before had occasion to remind EPA 
+that its mission is not a roving commission to achieve pure air 
+or any other laudable goal.   See, e.g., API, 52 F.3d at 1119;  
+Ethyl Corp., 51 F.3d at 1058.  Commendable though these 
+goals may be, they are not within EPA's portfolio unless the 
+states and tribes fail to implement a program, and the 
+conditions in 42 U.S.C. ss 7601(d) and 7661a are therefore 
+met.
+
+     Having determined that EPA's only authority to administer 
+a federal operating permit program is found in 42 U.S.C. 
+ss 7601(d) and 7661a, we must next determine whether EPA 
+is acting within that authority in the challenged procedure.  
+The answer is plainly no.  EPA asserts that where a state has 
+applied to operate a SOP under 42 U.S.C. s 7661a, EPA need 
+not actually determine whether the state has jurisdiction.  
+Rather, EPA claims it may administer a federal operating 
+permit program for sources in Indian country, including 
+areas where EPA believes a bona fide question of Indian 
+country status exists.  Much of EPA's brief is dedicated to 
+arguing that it has authority to administer a federal operating 
+permit program in Indian country.  However, these words 
+are wasted as petitioners do not claim otherwise.  At issue in 
+this case is EPA's authority to administer a federal program 
+where the Indian country status is merely in question.  The 
+petitioner states do not contend, as EPA and Intervenor 
+suggest, that the states should have jurisdiction over Indian 
+country lands.  Petitioners happily concede that tribes, and 
+thus, potentially the EPA--acting for the tribe--have juris-
+diction over Indian country.  Similarly, petitioners not only 
+concede that EPA may undertake initial jurisdictional line-
+drawing, subject to judicial review, they insist, correctly, that 
+
+EPA must make jurisdictional determinations.  That is, EPA 
+cannot acquire jurisdiction for itself merely by determining 
+that an area's status is in question.  Were we to hold other-
+wise, EPA would effectively have a blank check to expand its 
+own jurisdiction by not deciding jurisdictional questions.  The 
+Clean Air Act does not confer such authority.
+
+     EPA argues that it is the state's burden under 42 U.S.C. 
+s 7661a(d)(1) to make a showing of "adequate authority" (and 
+thus state jurisdiction) to carry out a SOP, and that unless a 
+state can demonstrate authority to regulate an area, then 
+EPA must provide for effective implementation of Title V 
+programs.  EPA contends it need not determine whether the 
+disputed area is within the jurisdiction of a state or a tribe, 
+and that by operating a federal program over "in question" 
+areas it avoids jurisdictional disputes. See 64 Fed. Reg. at 
+8254.  Because Congress has given EPA discretion to deter-
+mine how to preserve tribes' statutorily-granted options to 
+seek to run a Title V program for sources within Indian 
+country, EPA argues that this Court should defer to its 
+decision under Chevron step two, as a rule reasonably filling 
+the gap left by Congress.
+
+     What EPA fails to appreciate is that its actions create a 
+jurisdictional dispute.  If a state has an approved implemen-
+tation plan, then EPA's only grounds for jurisdiction under 
+the Act is the fact that an area is Indian country, not that its 
+status is "in question."  If the state does not have an ap-
+proved plan, then EPA is acting for the state.  There are no 
+intermediate grounds on which EPA may indefinitely exercise 
+jurisdiction--it is either acting in the shoes of a tribe or the 
+shoes of the state.  There is no residual authority granted by 
+the CAA for the EPA to refuse to make a jurisdictional 
+determination and operate a federal program under some 
+general authority of its own.  EPA comes close to arguing 
+that because Congress has not expressly forbidden this asser-
+tion of federal jurisdiction, the agency may assert it.  Howev-
+er, as we reminded the EPA in Ethyl Corp. and American 
+Petroleum Institute, to suggest "that Chevron step two is 
+implicated any time a statute does not expressly negate the 
+existence of a claimed administrative power ..., is both flatly 
+
+unfaithful to the principles of administrative law ... and 
+refuted by precedent."  51 F.3d at 1060;  52 F.3d at 1120.
+
+     EPA and Intervenor Navajo Nation also argue that EPA's 
+obligation to protect Indian interests in land, including juris-
+diction and other facets of self-government, and the strong 
+federal interest in preserving the sovereign rights of tribal 
+governments to regulate activities and enforce laws on Indian 
+lands, support the 1999 Part 71 rule allowing EPA to operate 
+a federal program for lands in question.  See Exec. Order No. 
+13175, s 3(a), 65 Fed. Reg. 67249 (Nov. 9, 2000) ("Agencies 
+shall respect Indian tribal self-government and sovereignty, 
+honor tribal treaty and other rights, and strive to meet the 
+responsibilities that arise from the unique legal relationship 
+between the Federal Government and Indian tribal govern-
+ments.").  Intervenor argues that to allow states to imple-
+ment Title V programs where the Indian country status is "in 
+question" would infringe on rights that belong to the tribes 
+under both the CAA and "general principles" of federal 
+Indian law.  EPA similarly asserts that by operating a feder-
+al program for "in question" areas, it "protect[s] tribal sover-
+eignty interests."  EPA essentially argues that its interpreta-
+tion of the CAA is correct because it favors Indian interests.  
+Yet, the bedrock canon of statutory interpretation in Ameri-
+can Indian jurisprudence that " 'statutes are to be construed 
+liberally in favor of the Indians, with ambiguous provisions 
+interpreted to their benefit' " is simply not implicated here. 
+Cobell v. Norton, 240 F.3d 1081, 1101 (D.C. Cir. 2001) (quot-
+ing Montana v. Blackfeet Tribe of Indians, 471 U.S. 759, 766 
+(1985)).  EPA is not interpreting 42 U.S.C. ss 7601(d) and 
+7661a for the benefit of Indian tribes.  It does not, for 
+example, propose to give Indian tribes jurisdiction over "in 
+question" lands. Rather it is refusing to make a jurisdictional 
+determination, thereby depriving both tribes and states of the 
+opportunity afforded them by Title V to operate a permitting 
+program.  If anything, by claiming independent federal juris-
+diction over "in question" areas, EPA is construing these 
+statutes for its own benefit.
+
+     EPA notes in its brief that "disputes" over whether a 
+particular parcel of land is Indian country "typically are 
+
+resolved by tribunals other than EPA."  However, EPA 
+offers no reason why it should refrain from deciding such 
+jurisdictional questions when they arise under the CAA.  
+Quite to the contrary, EPA has willingly accepted that it 
+must make jurisdictional decisions before approving a tribal 
+implementation plan.  That very issue was the topic of litiga-
+tion before this Court just last year in Arizona Public Service 
+Co. v. EPA, 211 F.3d 1280 (D.C. Cir. 2000).  EPA is not 
+seriously contending that it cannot or should not make juris-
+dictional decisions.  Rather it is suggesting it would prefer 
+just to run the program itself.  Ironically in the Tribal 
+Authority Rule at issue in Arizona Public Service Co., EPA 
+stated that a "territorial approach to air quality regulation 
+best advances rational, sound air quality management," 59 
+Fed. Reg. 43956, 43959 (Aug. 25, 1994), yet here EPA does 
+not want to decide who controls the territory, instead leaving 
+pockets of "in question" lands under federal, not Indian, 
+jurisdiction.
+
+     EPA claims in its brief that it will only assert authority if 
+there is a "bona fide" question of an area's status.  However, 
+in the Federal Register, EPA concluded that for the "pur-
+poses of this rule, there may be, but need not be, a formal 
+dispute, such as active litigation or other form of public 
+disagreement, for EPA to consider the Indian country status 
+of the area to be in question."  64 Fed. Reg. at 8254.  Thus, 
+at least in the Federal Register, EPA has set a low, indeed 
+virtually undefined, threshold for deciding there is a dispute.  
+In any event, the Clean Air Act does not provide for EPA to 
+administer a federal program even if there is a bona fide 
+question of the area's status.  Instead, under 42 U.S.C. 
+s 7661a(d), EPA must determine whether the state has ade-
+quate authority to carry out the SOP.  And EPA must tell 
+the state if the SOP is disapproved because of a lack of 
+jurisdiction.  Section 7661a(d)(1) requires that if the SOP is 
+disapproved, "in whole or in part, the Administrator shall 
+notify the Governor of any revisions or modifications neces-
+sary to obtain approval."  As petitioners point out, there 
+either is jurisdiction or there isn't, but either way EPA must 
+decide and not simply grab jurisdiction for itself on the 
+
+ground that an area is "in question."  Jurisdiction as between 
+states and tribes is binary, it must either lie with the state or 
+with the tribe--one or the other--and EPA does not have a 
+third option of not deciding.
+
+     Petitioners correctly fear that EPA is creating a situation 
+in which it may assume jurisdiction for itself and perpetually 
+keep it from the states (or the tribes) because of a lack of 
+showing of jurisdiction, without ever deciding who has juris-
+diction.  EPA even anticipates such an eventuality.  It notes:
+
+     Where a State and Tribe assert jurisdiction over an area 
+     whose Indian country status EPA believes is in question 
+     (and EPA has not resolved the question and has not 
+     explicitly approved a part 70 program as applying in the 
+     area), EPA would not view either the State or the Tribe 
+     as having satisfied the CAA section 502(b)(5) require-
+     ments to have adequate authority....  Only when the 
+     State or Tribe prevails on the Indian country question 
+     would EPA then be able to conclude that the section 
+     502(b)(5) requirements have been met for the area.  Un-
+     til that time, the absence of an approved part 70 pro-
+     gram in the area necessitates implementation of part 71.  
+     By federally implementing the title V program in areas 
+     for which EPA believes the Indian country status is in 
+     question, EPA can help avoid jurisdictional disputes that 
+     might hinder effective implementation of the CAA.
+     
+64 Fed. Reg. at 8254 (emphasis added).  Instead, EPA de-
+clines to resolve the dispute and imposes its own program.  
+This situation arises in part because "EPA believes there is 
+no reason to impose on Tribes the burden of making a 
+jurisdictional showing prior to EPA administering a Federal 
+program."  62 Fed. Reg. at 13750.  The source of EPA's 
+belief is not entirely clear.  EPA purports to rely on HRI, 
+Inc. v. EPA, 198 F.3d 1224 (10th Cir. 2000).  However, the 
+issues in that case were quite different from those confront-
+ing us today.  In HRI, Inc., the court was called upon to 
+determine whether (1) the EPA had properly determined that 
+a parcel of land was Indian country and (2) whether the EPA 
+had determined that another parcel of land was in dispute.  
+
+The Tenth Circuit affirmed the EPA decisions before it, but 
+remanded for the EPA to make the jurisdictional determina-
+tion concerning the disputed land.  That court certainly did 
+not determine that the EPA had acquired potentially perma-
+nent jurisdiction over a parcel of land simply by reason of its 
+status being in dispute.  Here we need not decide whether 
+EPA could temporarily operate a Part 71 federal program 
+while determining whether a state or a tribe has jurisdiction, 
+as that is not before us.  EPA does not propose to impose 
+federal jurisdiction over "in question" lands only until it can 
+resolve the dispute, but in perpetuity, or at least until a tribe 
+or state makes an adequate showing through some other 
+regulatory or adjudicatory mechanism.  EPA did announce it 
+would work with states, tribes, the Department of the Interi-
+or and other stakeholders "to assess whether sources are 
+located in Indian country," which EPA defines as including 
+areas for which EPA believes the Indian country is in ques-
+tion.  64 Fed. Reg. at 8256.  But that means only EPA will 
+take questions and comments on whether something is "in 
+question."  EPA does not promise--or even suggest--it will 
+determine jurisdiction.  It proposes to run a federal program 
+so long as the area is "in question" without resolving that 
+question--and EPA lacks that statutory authority to do so. 
+Even if Congress intended for EPA to fill jurisdictional gaps, 
+it did not empower EPA to create permanent, or even semi-
+permanent, ones.
+
+     Because EPA's only authority under the Clean Air Act to 
+operate a federal permitting program arises from 42 U.S.C. 
+ss 7601(d) and 7661a, and because these provisions require 
+that EPA make a determination as to whether a state or a 
+tribe has jurisdiction, we vacate the portion of EPA's 1999 
+Part 71 rule authorizing EPA to treat lands for which EPA 
+has deemed "Indian country" status to be "in question" as 
+"Indian country" for purposes of implementing a federal 
+program in those areas.
+
+       C. Procedure for Determining "Indian country" Status
+
+     In evaluating EPA's decision to use adjudication to resolve 
+jurisdictional questions on a case by case basis, we are guided 
+
+by SEC v. Chenery, 332 U.S. 194 (1947).  When Congress has 
+not specified an approach for the agency to follow, the form of 
+rulemaking or adjudicative procedure "lies primarily in the 
+informed discretion of the administrative agency." 332 U.S. at 
+203;  see Vermont Yankee Nuclear Power Corp. v. Natural 
+Resources Defense Council, Inc., 435 U.S. 519, 543 (1978) 
+("Absent constitutional constraints or extremely compelling 
+circumstances the administrative agencies should be free to 
+fashion their own rules of procedure and to pursue methods 
+of inquiry capable of permitting them to discharge their 
+multitudinous duties.") (quotations omitted).  Thus, EPA's 
+procedures for determining whether a particular emitting 
+source (and thus a particular area) falls within Indian country 
+(or is "in question") would typically be entitled to deference, 
+as the agency has broad discretion to choose between rule-
+making and adjudication.  See Chenery, 332 U.S. at 203;  
+Vermont Yankee, 435 U.S. at 543.  However, when Congress 
+has spoken, we are bound by that pronouncement.  Chevron, 
+467 U.S. at 842-43 (Chevron's step one).  Further, regardless 
+of the reasonableness of EPA's decision under Chenery or 
+Chevron step two, under the Administrative Procedure Act 
+("APA") this Court must determine whether the EPA's deci-
+sionmaking process was arbitrary, capricious, an abuse of 
+discretion, or otherwise not in accordance with law.  See 5 
+U.S.C. s 706(2)(A).  Here, Congress has clearly spoken, and 
+under Chevron step one, the inquiry ends there.
+
+     Section 502(d) of the Act, 42 U.S.C. s 7661a(d), requires 
+each state to develop a state program to submit to the EPA.  
+Each state must submit a legal opinion from the attorney 
+general (or environmental agency's chief legal officer) "that 
+the laws of the State, locality, or the interstate compact 
+provide adequate authority to carry out the program."  42 
+U.S.C. s 7661a(d)(1) (emphasis added).  It is this provision 
+which has been interpreted to require a showing of jurisdic-
+tion.  Then, "[n]ot later than 1 year after receiving a pro-
+gram, and after notice and opportunity for public comment, 
+the Administrator shall approve or disapprove such program, 
+in whole or in part."  Id. (emphasis added).  The Act clearly 
+requires notice and comment in approving or disapproving 
+
+any part of a state program.  That includes the showing of 
+adequate authority and thus jurisdiction.  EPA must deter-
+mine, as part of that proceeding, which must include notice 
+and comment, whether the state has jurisdiction.  It follows 
+that if the state has jurisdiction, then the tribe does not, and 
+vice versa.  Such proceedings are open to public comment, 
+and judicial review, thus protecting the interests of the tribes 
+as well as the states. Congress has explicitly required use of 
+notice and comment in determining adequate authority (and 
+jurisdiction) when the agency is evaluating the SOPs, and 
+therefore EPA's decision to use separate adjudicatory pro-
+ceedings that do not include notice and comment is contrary 
+to law and does not survive either Chevron step one or APA 
+review.
+
+     Section 502(i), 42 U.S.C. s 7661a(i), further confirms Con-
+gress's clear pronouncement.  Under that provision, "[w]hen-
+ever the Administrator makes a determination that a permit-
+ting authority is not adequately administering and enforcing a 
+program, or portion thereof, in accordance with the require-
+ments of this subchapter, the Administrator shall provide 
+notice to the State...."  42 U.S.C. s 7661a(i)(1).  If the 
+agency believes the state lacks jurisdiction, it must provide 
+notice to the state and give the state 18 months to correct the 
+"deficiency."  See id. at s 7661a(i)(4).
+
+     Thus, it is clear under 42 U.S.C. s 7661a that jurisdictional 
+determinations are to be made as part of approving or 
+disapproving a state's (or tribe's) operating permit program, 
+and with procedures that include "notice and opportunity for 
+public comment."  42 U.S.C. s 7661a(d)(1).  The statute here 
+is neither silent nor ambiguous;  it requires the use of notice 
+and comment proceedings in the context where questions of 
+jurisdiction are to be resolved.  As petitioners concede, such 
+proceedings will likely be complex and difficult.  Nonetheless, 
+they are mandated by Congress.  That ends our inquiry.
+
+                         III.  Conclusion
+
+     EPA must make jurisdictional determinations under the 
+Clean Air Act.  It cannot simply declare a jurisdictional 
+
+conflict and then implement a federal program in the absence 
+of clear state or tribal authority.  Congress specifically delin-
+eated a role for EPA and a role for states and tribes in the 
+Clean Air Act.  Under the Act's plain language, EPA's au-
+thority to implement a federal operating permits program is 
+premised on the failure of a state or tribe to implement its 
+own program, not some overarching national authority.  See 
+42 U.S.C. ss 7601(d), 7661a.  Where a valid state program 
+exists, EPA may implement a federal program only for 
+Indian country itself, not for lands the status of which EPA 
+deems "in question."  Thus, prior to implementing any feder-
+al operating permits program EPA must determine the scope 
+of state and tribal jurisdiction.
+
+     In making such determinations EPA must use notice and 
+comment proceedings.  The Act specifically provides for "no-
+tice and opportunity for public comment" in approving or 
+disapproving a state plan, in whole or in part, and it requires 
+"notice to the State" whenever the "Administrator makes a 
+determination that a permitting authority is not adequately 
+administering and enforcing a program, or portion thereof."  
+42 U.S.C. ss 7661a(d)(1), (i)(1).  This includes determinations 
+of "adequate authority," and thus determinations of jurisdic-
+tion under the Act.  Id. at s 7661a(d)(1).  Because Con-
+gress's intent is clear, EPA's proposed approach is simply 
+contrary to law.
+
+     We grant the petition for review, vacate the portion of the 
+1999 Part 71 rules authorizing EPA to treat lands for which 
+EPA has deemed "Indian country" status to be "in question" 
+as "Indian country," and remand to the agency for proceed-
+ings consistent with this opinion.
+
+      

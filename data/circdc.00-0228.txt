@@ -1,0 +1,454 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued May 16, 2000        Decided July 28, 2000 
+
+                           No. 97-1245
+
+              Benkelman Telephone Company, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                Nationwide Paging, Inc., et al., 
+                           Intervenors
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+                           No. 97-1294
+
+                   Metamora Telephone Company, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                           No. 99-1247
+
+                  Advanced Paging, Inc, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                           No. 99-1251
+
+                 Advanced Paging, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                           No. 99-1331
+
+                    Robert L. Wagner, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                           No. 99-1337
+
+          Personal Communications Industry Association, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+     Carl W. Northrop argued the cause for the petitioners and 
+intervenors.  Timothy E. Welch, Kenneth E. Hardman, John 
+D. Pellegrin, Frederick M. Joyce, Kenneth D. Patrich and 
+Robert L. Hoggarth were on brief. Ray M. Senkowski, Chris-
+tine M. Crowe and David A. Gross entered appearances.
+
+     Roberta L. Cook, Counsel, Federal Communications Com-
+mission, argued the cause for the respondents. Christopher J. 
+Wright, General Counsel, John E. Ingle, Deputy Associate 
+General Counsel, Federal Communications Commission, Joel 
+
+I. Klein, Assistant Attorney General, United States Depart-
+ment of Justice, and Robert B. Nicholson and Andrea Lim-
+mer, Attorneys, United States Department of Justice, were 
+on brief.  Daniel M. Armstrong, Associate General Counsel, 
+and Gregory M. Christopher, Counsel, Federal Communica-
+tions Commission, entered appearances.
+
+     Before:  Williams, Sentelle and Henderson, Circuit 
+Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  The petitioners 
+challenge a Federal Communications Commission (FCC) rule-
+making that established a geographic area licensing regime 
+for common carrier paging and 929 MHz private carrier 
+paging licenses1 and a competitive bidding procedure for 
+mutually exclusive2 applications filed thereunder.  See In re 
+Revision of Part 22 and Part 90 of the Comm'n's Rules to 
+Facilitate Future Dev. of Paging Sys., Second Report and 
+Order and Further Notice of Proposed Rulemaking, 12 
+F.C.C.R. 2732 (1997) (Second R&O);  In re Revision of Part 
+22 and Part 90 of the Comm'n's Rules to Facilitate Future 
+Dev. of Paging Sys., Memorandum Opinion and Order on 
+Reconsideration and Third Report and Order, 14 F.C.C.R. 
+10,030 (1999) (Third R&O).  The petitioners and intervenors 
+contend the FCC lacked statutory authority under 47 U.S.C. 
+s 309(j) to auction the new geographic paging licenses, that 
+the FCC arbitrarily failed to require that geographic licen-
+sees provide notice of construction to neighboring incumbent 
+
+__________
+     1 Common carrier paging licensees "gain[ ] the exclusive use of 
+the licensed frequency within their protected service area."  PSWF 
+Corp. v. FCC, 108 F.3d 354, 355 (D.C. Cir. 1997).  Private carrier 
+paging licensees, on the other hand, "ha[ve] to share their allotted 
+frequency with other such licensees operating in the same geo-
+graphic area."  Id.
+
+     2 Applications are considered "mutually exclusive" if only one can 
+be granted because they seek the same license or different licenses 
+that would interfere with each other.  See Lakeshore Broadcasting, 
+Inc. v. FCC, 199 F.3d 468, 470 (D.C. Cir. 1999) (citing Ashbacker 
+Radio Corp. v. FCC, 326 U.S. 327, 333 (1945)).
+
+licensees and that the algorithm the FCC used to identify 
+pending mutually exclusive applications violates the Paper-
+work Reduction Act of 1995 (PRA), 44 U.S.C. ss 3501 et seq. 
+For the reasons set out below we reject each of these 
+arguments and deny the petitions for review.
+
+                                I.
+
+     Before 1996 the FCC allocated licenses for common carrier 
+paging and exclusive private carrier paging service spectrum 
+under the traditional site-specific licensing scheme which 
+required a separate license for each paging transmitter site.  
+Each license application proposed a transmission frequency 
+and set out technical information on the proposed station, 
+including its potential for electrical interference with adjacent 
+stations.  See 47 C.F.R. s 22.529 (1996);  id. s 22.559.  Once 
+an applicant filed, the FCC reviewed each site-specific appli-
+cation preliminarily for formal compliance and issued public 
+notice of acceptance of filing.  See id. s 22.120.  Generally, if 
+an applicant's proposed service would overlap and interfere 
+with an incumbent licensee's transmission, the application was 
+denied.  See id. s 22.537(a).  When mutually exclusive site-
+specific applications were filed, a single applicant was selected 
+by lottery.  See id. s 22.131(c)(1).
+
+     In the challenged rulemaking the FCC replaced the site-
+specific licensing process with a scheme of geographic licens-
+es.  The new scheme authorizes a licensee to operate a 
+transmitter anywhere within the licensed geographic area 
+without notice to the FCC of the transmitter's operation or of 
+its precise location.  The geographic licensee must, however, 
+protect incumbent operators in the geographic area and 
+adjacent areas from harmful electrical interference.  In order 
+to bid at a geographic license auction, an applicant must file 
+an FCC Form 175 (Short Form) either identifying individual 
+channels and markets it seeks or checking the "All" box, 
+which allows it to bid on any or all of the channels and 
+markets being auctioned.  After filing the Short Form, but 
+before the auction, an applicant must submit an "upfront" 
+payment which "bear[s] a relation to the value of the licenses 
+
+to be awarded."  Second R&O, 12 F.C.C.R. at 2794.  A 
+successful bidder faces "automatic cancellation" of the license 
+if it does not either (1) "provide coverage to one-third of the 
+population within three years of the license grant, and to two-
+thirds of the population within five years of the license grant" 
+or (2) "provide substantial service to the geographic license 
+area within five years of license grant."  Id. at 2765.
+
+     In contemplation of the new geographic system, the FCC 
+imposed a filing freeze as of February 8, 1996. On February 
+19, 1997 the Commission released its Second Report and 
+Order outlining the auction procedures for the new geograph-
+ic licenses and authorizing the Wireless Telecommunications 
+Bureau to dismiss all pending exclusive paging applications 
+and to either grant or dismiss all pending non-mutually 
+exclusive paging applications.  On June 24, 1999 the FCC 
+issued its Third Report and Order affirming the geographic 
+licensing scheme but somewhat modifying its procedures.  On 
+August 12, 1999 the FCC issued a public notice announcing 
+the relevant auction procedures for the geographic paging 
+licenses.  See Auction of 929 MHz Paging Serv. Spectrum, 
+Public Notice (1999).  Applicants for the licenses filed their 
+Short Forms on January 20, 2000 and deposited their upfront 
+payments on February 7, 2000.  On February 24, 2000 the 
+FCC conducted the auction.
+
+     Six petitions for review of the FCC's rulemaking have been 
+filed at various points in the proceedings and have been 
+consolidated for consideration here.
+
+                               II.
+
+     The petitioners, consisting of incumbent paging licensees 
+and a paging industry trade association (licensee petitioners)3 
+
+__________
+     3 The incumbent licensees are Benkelman Telephone Co., Freder-
+ick W. Hiort dba B&B Beepers, Wauneta Telephone Co., Metamora 
+Telephone Co., Advanced Paging, Inc., Mark A. Apsley dba Pro-
+gressive Paging, Capitol Radiotelephone Co., Inc. dba Capitol Pag-
+ing, Express Message Corp., A. V. Lauttamus Communications, Inc. 
+and NEP, LLC dba Northeast Paging.  The trade association is 
+Personal Communications Industry Association.  For convenience, 
+
+and dismissed license applicants (applicant petitioners),4 chal-
+lenge the FCC's new geographic licensing scheme on three 
+grounds.  We address--and reject--each ground in turn.
+
+           A. Statutory Authority for License Auctions
+
+     The petitioning trade association and incumbent licensees, 
+joined by the intervenors,5 challenge the FCC's authority 
+under 47 U.S.C. s 309(j)(1) to require that existing licensees 
+bid at auction when they seek to "modify" their present 
+licenses.  Section 309(j)(1) requires:
+
+     If, consistent with the obligations described in paragraph 
+     (6)(E), mutually exclusive applications are accepted for 
+     any initial license or construction permit, then, except as 
+     provided in paragraph (2), the Commission shall grant 
+     the license or permit to a qualified applicant through a 
+     system of competitive bidding that meets the require-
+     ments of this subsection.
+     
+47 U.S.C. s 309(j)(1).  Section 309(j)(6)(E), in turn, provides:  
+"Nothing in this subsection, or in the use of competitive 
+bidding, shall ... (E) be construed to relieve the Commission 
+of the obligation in the public interest to continue to use 
+engineering solutions, negotiation, threshold qualifications, 
+service regulations, and other means in order to avoid mutual 
+exclusivity in application and licensing proceedings;...."  Id. 
+s 309(j)(6)(E).  In determining the Commission's authority 
+under this statute, "the court reviews the FCC's interpreta-
+tion of the Communications Act under the now-familiar stan-
+
+__________
+these petitioners or any subgroup of them will be identified as 
+"licensee petitioners."
+
+     4 These petitioners, whose applications, filed between November 
+15, 1995 and February 8, 1996, were dismissed without action 
+because the FCC considered them mutually exclusive, are Robert 
+L. Wagner, Melvia M. Woods, Robert Horn, John Piskor, Mo-
+hammed Siddiqui and Lenard Travis.
+
+     5 The intervenors include AirTouch Paging, Arch Communications 
+Group, Inc., Metrocall, Inc., Nationwide Paging, Inc. and Power-
+Page, Inc.
+
+dard set forth in Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837, 842-843, 104 S.Ct. 2778, 
+81 L.Ed.2d 694 (1984), by which the court considers 'whether 
+Congress has directly spoken to the precise question at issue,' 
+id. at 842, and if it has not, 'whether the agency's answer is 
+based on a permissible construction of the statute.' Id. at 
+843."  Community Television, Inc. v. FCC, Nos. 98-1106 et 
+al., slip op. at 5 (D.C. Cir. 2000).  We conclude that, while the 
+cited statutory language is ambiguous, the Commission has 
+reasonably construed it to authorize the challenged auctions.
+
+     The petitioners first argue modified licenses are not "ini-
+tial" licenses for which section 309(j)(1) authorizes competitive 
+bidding.  In order for a license to be considered initial under 
+section 309(j)(1), "a newly issued license must differ in some 
+significant way from the license it displaces." Fresno Mobile 
+Radio, Inc. v. FCC, 165 F.3d 965, 970 (D.C. Cir. 1999).  In 
+Fresno we noted that "nothing in the text of [section 309(j)] 
+forecloses [the FCC] from considering a license 'initial' if it is 
+the first awarded for a particular frequency under a new 
+licensing scheme, that is, one involving a different set of 
+rights and obligations for the licensee."  Id.  The FCC 
+reasonably treated the incumbent licensees' applications for 
+modification under the new geographic system as applications 
+for "initial" licenses under such a "new licensing scheme."  
+The petitioners note that the two licensing schemes  
+provide the same paging service on the same frequencies, 
+basically provide fill-in sites and maintain the same licensee buildout 
+requirements.  Nevertheless, they themselves acknowledge,  
+as they must, that the geographic license scheme has wrought 
+34fundamental alterations to the paging industry's market
+structure and licensing schemes.34  Petitioners' Br. 30.  Under
+the geographic scheme non-incumbents can compete for the 
+available spectrum, however much remains, on equal footing 
+with incumbents and successful applicants have far greater 
+freedom in selecting transmitter locations; yet at the same time 
+new licensees assume much more responsibility for researching site
+locations to protect incumbents from interference.  Given the new 
+scheme's 34fundamental34 alterations, we hold the FCC reasonably
+treated modification applications by incumbents as 34initial34 
+applications within the meaning of section 309(j)(1).
+
+     The petitioners also assert the FCC shirked its duty under 
+section 309(j)(6)(E) to affirmatively avoid mutual exclusivity 
+by adopting the new licensing scheme, which necessarily 
+causes a high rate of mutual exclusivity at certain frequen-
+cies, and by creating "phantom" or "artificial" mutual exclu-
+sivity through the "All" box option and the "substantial 
+service" alternative.  We reject this argument for substantial-
+ly the same reason we rejected a similar argument raised in 
+DIRECTV v. FCC, 110 F.3d 816, 827-28 (D.C. Cir. 1997).  In 
+DIRECTV the petitioners contended that "the Commission 
+lacked authority to adopt an auction rule under s 309(j) 
+because it did not first make sufficient efforts, while still 
+using the [previous] approach to the assignment of licenses, to 
+avoid mutual exclusivity among their applications." 
+DIRECTV, 110 F.3d at 828.  We concluded, however:
+
+     Once the Commission had abandoned [its previous] meth-
+     odology--for sufficient reasons, as we have seen--it was 
+     faced with mutually exclusive applications.  Nothing in 
+     s 309(j)(6)(E) requires the FCC to adhere to a policy it 
+     deems outmoded "in order to avoid mutual exclusivity in 
+     ... licensing proceedings";  rather, that provision in-
+     structs the agency, in order to avoid mutual exclusivity, 
+     to take certain steps, such as the use of an engineering 
+     solution, within the framework of existing policies.
+     
+Id. (quoting 47 U.S.C. s 309(j)(6)(E)).  Similarly here, the 
+FCC reasonably abandoned the site-specific system in favor 
+of a geographic one, finding that "the public interest is better 
+served by licensing all remaining paging spectrum through a 
+geographic licensing scheme than by processing additional 
+site-specific licenses," Third R&O, 14 F.C.C.R. at 10,043, 
+
+while "it would not be in the public interest to implement 
+other licensing schemes or other processes that avoid mutual 
+exclusivity," id at 10,042.  The Commission further reason-
+ably found that both the "All" box option and the substantial 
+service alternative were necessary to effectively implement 
+the new scheme--the former to "give[ ] bidders the flexibility 
+to pursue back-up strategies in the event they are unable to 
+obtain their first choice of licenses" and the latter to encour-
+age service to rural areas as required under section 309(j)(3).  
+Third R&O, 14 F.C.C.R. at 10,081-82.  Having found the 
+policy changes in the public interest, the Commission was 
+authorized to implement them without regard to section 
+309(j)(6)(E) which imposes an obligation only to minimize 
+mutual exclusivity "in the public interest," 47 U.S.C. 
+s 309(j)(6)(E), and "within the framework of existing poli-
+cies," DIRECTV, 110 F.3d at 828.  Thus, the FCC's authority 
+to adopt the new licensing scheme was not foreclosed by its 
+section 309(j)(6)(E) obligation.6
+
+                 B. Notice to Incumbent Licensees
+
+     Next, the licensee petitioners and two of the intervenors 
+contend that geographic licensees should be required under 
+the new system to provide advance notice of new construction 
+to adjacent site-specific licensees, in order to warn them of 
+potential interference, as they are required to do for adjacent 
+geographic licensees.  See Second R&O, 12 F.C.C.R. at 2765 
+App. A, s 22.503(h).  Site-specific incumbent licensees, how-
+ever, do not share geographic licensees' need for such warn-
+ing because the existing rules furnish interference protection 
+through requirements "that govern transmitter height and 
+power, distance between transmission stations, the licensee's 
+protected service area, and/or the field strength of the licen-
+see's service and interfering signals."  Second R&O, 12 
+
+__________
+     6 The petitioners also challenge the "substantial service" standard 
+as too vague to permit the FCC to provide notice to licensees of 
+license termination, as required under 5 U.S.C. s 558(c).  We find 
+adequate notice is provided, however, in the review procedure the 
+FCC requires before automatic termination can occur.  See Brief of 
+Respondents at 28.
+
+F.C.C.R. at 2767.7 Geographic licensees, by contrast, enjoy no 
+similar protection from interference.  Because of this distinc-
+tion, we conclude the FCC reasonably accorded the two 
+groups different treatment.
+
+                              C. PRA
+
+     Finally, the applicant petitioners and two intervenors claim 
+that the algorithm the FCC used to determine their applica-
+tions should be dismissed for mutually exclusivity is a "collec-
+tion of information" for which OMB approval was not ob-
+tained as required by the PRA.8  We disagree and hold that 
+the algorithm is not a "collection of information" under the 
+PRA.9  The PRA defines "collection of information" as "ob-
+taining, causing to be obtained, soliciting, or requiring the 
+disclosure to third parties or the public, of facts or opinions 
+by or for an agency."  44 U.S.C. s 3502(3)(A).  To come 
+within this definition the algorithm must impose a "reporting 
+requirement" on applicants.  See Saco River Cellular, Inc. v. 
+FCC, 133 F.3d 25, 33 (D.C. Cir. 1998).  It does not.  The 
+algorithm simply blocks applications that meet specific crite-
+ria for mutual exclusivity.  It is true, as the petitioners 
+assert, that "if an applicant is to ensure its basic acceptabili-
+
+__________
+     7 In addition, geographic licensees are required to provide con-
+struction information upon request.  See 47 C.F.R. s 22.529(c).
+
+     8 PRA section 3507(a) provides that "[a]n agency shall not con-
+duct or sponsor the collection of information unless in advance of 
+the adoption or revision of the collection of information ... the 
+agency has" submitted the proposed collection of information to the 
+OMB Director, "the [OMB] Director has approved the proposed 
+collection of information ...;  and ... the agency has obtained from 
+the [OMB] Director a control number to be displayed upon the 
+collection of information."  44 U.S.C. s 3507(a).
+
+     9 The FCC contests our jurisdiction over the claims of those 
+applicant petitioners who did not file a petition for reconsideration 
+of the FCC's dismissal of their applications.  See 47 U.S.C. 
+s 155(c)(7).  The FCC concedes, however, that the court has juris-
+diction over at least one of the petitions.  See Brief of Respondents 
+at 32.  The PRA issue is therefore squarely before the court.
+
+ty," it must research in advance whether or not the license it 
+seeks meets the algorithm's criteria, Reply Brief at 24, but 
+the FCC does not require such research or that its results be 
+reported.10
+
+     For the foregoing reasons, the petitions for review are
+
+                                                          Denied.
+
+__________
+     10 The petitioners' alternative argument that the algorithm vio-
+lates the Administrative Procedure Act, 5 U.S.C. s 553, because 
+promulgated without public notice and comment is waived because 
+the argument was raised for the first time in the petitioners' reply 
+brief.  See Grant v. United States Air Force, 197 F.3d 539, 543 
+(D.C. Cir. 1999) ("[A]n argument first made in a reply brief comes 
+too late.") (citing Fraternal Order of Police v. United States, 173 
+F.3d 898, 902-03 (D.C. Cir. 1999)).
+
+     

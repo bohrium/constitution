@@ -1,0 +1,534 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued December 5, 2002    Decided January 21, 2003 
+
+                           No. 01-1266
+
+                   Sprint Corporation, et al.,
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+      American Public Communications Council, Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+             Nos. 01-1521, 01-1522, 02-1041, 02-1042
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+     David P. Murray argued the cause for petitioners.  With 
+him on the briefs were H. Richard Juhnke, John E. Benedict, 
+
+Randy J. Branitsky, Thomas F. O'Neil III, William Single 
+IV, Jodie L. Kelley, Mark C. Rosenblum and Daniel Meron.  
+Kurt W. Hague, David L. Lawson and Peter D. Keisler 
+entered appearances.
+
+     Joel Marcus, Counsel, Federal Communications Commis-
+sion, argued the cause for respondents.  With him on the 
+briefs were Robert B. Nicholson and Robert J. Wiggers, 
+Attorneys, U.S. Department of Justice, John A. Rogovin, 
+Deputy General Counsel, Federal Communications Commis-
+sion, and John E. Ingle, Deputy Associate General Counsel.  
+Lisa E. Boehley, Counsel, entered an appearance.
+
+     Albert H. Kramer argued the cause for intervenors Ameri-
+can Public Communications Council, et al.  With him on the 
+brief were Robert F. Aldrich, Michael K. Kellogg, Aaron M. 
+Panner, Roger K. Toppins, Gary L. Phillips, James D. Ellis, 
+Michael E. Glover, Edward Shakin, and James G. Harral-
+son.  Edward G. Modell entered an appearance.
+
+     Before:  Ginsburg, Chief Judge, and Rogers and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  Sprint Corp., AT&T Corp., and 
+Worldcom, Inc. (collectively, "Sprint"), petition for review of a 
+Federal Communications Commission rule governing the 
+means by which payphone service providers are compensated 
+for certain calls made from their payphones.  Sprint contends 
+that the rule was promulgated in violation of the notice and 
+comment requirements of the Administrative Procedure Act 
+("APA"), 5 U.S.C. s 553(b) (2000), and is also arbitrary and 
+capricious.  Because the Commission failed to provide ade-
+quate notice and opportunity to comment, we grant the 
+petition and remand the case to the Commission.
+
+                                I.
+
+     Section 276(b)(1)(A) of the Telecommunications Act of 1996 
+("1996 Act") directs the Federal Communications Commission 
+
+to "establish a per call compensation plan to ensure that all 
+payphone service providers ["PSPs"] are fairly compensated 
+for each and every completed intrastate and interstate call 
+using their payphone...."  47 U.S.C. s 276 (2000).  Two 
+types of calls may be placed from a payphone.  The first and 
+most common type is the "coin call," in which the caller 
+inserts a coin directly into the payphone before making the 
+call;  the rates for coin calls are set by State commissions.  At 
+issue here is the second type of call--"coinless calls"--which 
+a caller places by using a service such as directory assistance, 
+operator service, an access code, or a subscriber 800 number.
+
+     The Commission explains in its brief that when a caller 
+places a coinless payphone call, the call is initially received by 
+the local exchange carrier ("LEC") that services the pay-
+phone.  If the call is local, the LEC completes the call itself;  
+if it is long distance, the LEC routes the call to a long-
+distance carrier, typically an interexchange carrier ("IXC").  
+The IXC, such as Sprint, AT&T, and Worldcom, is the first 
+facilities-based carrier to receive the call.  If the recipient of 
+the call is a customer of the IXC, the IXC will simply 
+transmit the call to the LEC that serves the customer;  the 
+IXC is thereby able, Sprint acknowledges, to "track" comple-
+tion of the call.  If the call recipient is not a customer of the 
+IXC, however, the IXC transfers the call to a "reseller" of the 
+IXC's services.  Two types of resellers exist.  The first, 
+known as switchless resellers, do not possess their own 
+switching facilities and must rely on an IXC to perform the 
+switching and transmission functions that are required to 
+complete a call.  When the IXC transfers the call to a 
+switchless reseller, the IXC handles the call as if it were 
+transferring it to one of its own customers, and the IXC is 
+again able to track the call to completion.  By contrast, the 
+second type, switch-based resellers ("SBRs"), possess their 
+own switching capacities;  hence, when an IXC routes a call to 
+an SBR, the SBR assumes control of the call, and, Sprint 
+asserts in its brief, the IXC can no longer track the call to 
+completion.  As the parties acknowledge, in some instances 
+the SBR transfers the call to another SBR, which in turn 
+routes the call to yet another SBR, and so on.
+
+     In 1996, the Commission issued a Notice of Proposed 
+Rulemaking ("NPRM") proposing a method for compensating 
+PSPs for coinless calls.  Notice of Proposed Rulemaking, 11 
+F.C.C.R. 6716 (1996).  A summary of this NPRM was also 
+published in the Federal Register.  61 Fed. Reg. 31,481.  
+After a period of notice and comment, the Commission deter-
+mined that "the primary economic beneficiary" should bear 
+the burden of both tracking coinless payphone calls to com-
+pletion and compensating PSPs for those calls.  Payphone 
+Docket, Report and Order, 11 F.C.C.R. 20,541, 20,584 p 83 
+(1996) ("First Payphone Order").  The Commission therefore 
+concluded that the IXC, or the "underlying, facilities-based 
+carrier," should, as the primary economic beneficiary, com-
+pensate the PSP "in lieu of a non-facilities-based carrier that 
+resells services."  Id. at 20,586 p 86.  The Commission did not 
+define the terms "facilities-based carrier" or "reseller."  The 
+Commission determined, in response to petitions for reconsid-
+eration or clarification, that SBRs possess the switching 
+capabilities necessary to track payphone calls and accordingly 
+clarified that SBRs are "facilities-based carriers" within the 
+meaning of the initial rule.  Payphone Docket, Order on 
+Reconsideration, 11 F.C.C.R. 21,233, 21,277 p 92 (1996) 
+("First Reconsideration Order").
+
+     As facilities-based carriers, then, SBRs were obligated 
+under the First Reconsideration Order to compensate PSPs 
+for all completed coinless payphone calls they handled.  Id.  
+IXCs, in turn, were required to compensate PSPs only for 
+those calls that the IXCs terminated on their own behalf or 
+on behalf of a switchless reseller, and not for those calls the 
+IXCs transferred to an SBR.  Id.  The Commission's Com-
+mon Carrier Bureau ("Bureau"), in granting, two years later, 
+a waiver to IXCs that had not complied with the First 
+Payphone Order within the required one-year period, further 
+clarified that IXCs must provide requesting PSPs with infor-
+mation about the SBRs to which the IXCs route their calls so 
+that the PSPs could identify precisely which SBRs owed them 
+compensation.  Payphone Docket, Mem. Opinion and Order, 
+13 F.C.C.R. 10,893, 10,915-16 p 38 (1998).  On review, the 
+court upheld the portions of the Commission's 1996 rules that 
+
+are pertinent here.  Illinois Pub. Telecomms. Ass'n v. FCC, 
+117 F.3d 555, 566-67 (D.C. Cir. 1997).
+
+     In 1999, a coalition of the largest PSPs ("Coalition") 
+submitted to the Commission a petition for clarification of the 
+payphone compensation orders ("Coalition Petition").  The 
+Coalition requested that the Commission "clarify, on a going-
+forward basis, which interexchange carrier is the party re-
+sponsible for payment of per-call compensation when a dial-
+around or subscriber call is made from a payphone."  The 
+Coalition explained that "[t]he Commission's effort to assign 
+this obligation" jointly to IXCs and SBRs "has led to dis-
+agreements among PSPs and IXCs, and has encouraged some 
+IXCs to shirk their payment responsibilities.  This has in 
+turn contributed to a serious shortfall in payments of per-call 
+compensation."  The Coalition suggested that "the best way 
+to reduce the shortfall would be to place the obligation for 
+payment of per-call compensation on the entity identified by 
+the Carrier Identification Code ('CIC') used to route the 
+compensable call from the Local Exchange Carrier's net-
+work."
+
+     In April 1999, the Common Carrier Bureau issued a "Public 
+Notice" seeking "comment on the issues raised in [the Coali-
+tion Petition's] request for clarification for payment responsi-
+bility of per-call compensation when a dial-around or sub-
+scriber call[ ] [is] made from a payphone."  Common Carrier 
+Bureau Seeks Comment on the RBOC/GTE/SNET Payphone 
+Coalition Petition for Clarification, 14 F.C.C.R. 6476 (1999).  
+The Bureau's Notice summarized the Coalition Petition's 
+general request for clarification and its suggested method of 
+using CICs to identify the entity responsible for compensat-
+ing the PSP.  Id.  The Notice included filing dates for 
+comments and reply comments, id., but the Bureau did not 
+publish the Notice in the Federal Register or issue a notice of 
+proposed rulemaking.  Sprint and others filed comments that 
+focused mainly on the Coalition's proposal to rely on CICs, 
+with little discussion of the general method of requiring both 
+IXCs and SBRs to compensate PSPs for coinless payphone 
+calls.  Sprint also registered a procedural objection, in a 
+letter to the Bureau, noting that the Commission could sub-
+
+stantively alter the existing compensation rules only after 
+providing notice and an opportunity for comment.
+
+     Two years after the Bureau issued its Notice, however, the 
+Commission largely jettisoned the approach adopted in the 
+First Reconsideration Order.  In the Second Order on Re-
+consideration, 16 F.C.C.R. 8098 (2001) ("Second Reconsidera-
+tion Order"), the Commission stated that it was "revis[ing]" 
+and "modify[ing]" its "rules to address the difficulty which 
+PSPs face in obtaining compensation for coinless calls placed 
+from payphones which involve a switch-based telecommunica-
+tions reseller in the call path."  Id. at 8098 p 1.  Declining to 
+adopt the Coalition's proposed method of using CICs to 
+identify the carrier responsible for compensating the PSP, id. 
+at 8107 p 22, the Commission instead shifted the burden of 
+tracking all calls to completion and compensating PSPs to the 
+IXCs alone, while permitting the IXCs to recover these costs 
+from the SBRs to which they transferred the calls.  Id. at 
+8098 p 2, 8106 p 18.  The Commission explained that the IXCs 
+were in the best position to track calls and to make reporting 
+a condition of their contracts for providing services.  Id. at 
+8105 p 16.  The Commission also broadened IXCs' reporting 
+obligations to require IXCs to inform each PSP of the volume 
+of calls for each access-code and 800 number that the IXC 
+received from that PSP's payphones.  Compare First Pay-
+phone Order, 11 F.C.C.R. at 20,596 p 110, with Second Recon-
+sideration Order, 16 F.C.C.R. at 8106 p 18.  Finally, the 
+Commission noted that PSPs could continue to arrange alter-
+native compensation schemes through private contracts with 
+IXCs and SBRs.  Second Reconsideration Order, 16 F.C.C.R. 
+at 8106-07 p 19.  The Commission amended its regulations to 
+reflect these changes.  See 47 C.F.R. ss 64.1300, 64.1310 
+(2001).  Denying reconsideration, the Commission rejected 
+the IXCs' objections to the new rule.  Third Order on 
+Reconsideration and Order on Clarification, 16 F.C.C.R. 
+20,922 (2001).  Sprint now petitions the court for review.
+
+                               II.
+
+     Sprint's contention that the Commission erred by failing to 
+issue a new NPRM prior to promulgating a new rule in the 
+
+Second Order on Reconsideration is based on the notice 
+requirement of s 553(b) of the APA, which provides in rele-
+vant part:  "General notice of proposed rule making shall be 
+published in the Federal Register, unless persons subject 
+thereto are named and either personally served or otherwise 
+have actual notice thereof in accordance with law."  5 U.S.C. 
+s 553(b).  The court has observed that the notice require-
+ment of the APA does not simply erect arbitrary hoops 
+through which federal agencies must jump without reason.  
+Rather, the notice requirement "improves the quality of 
+agency rulemaking" by exposing regulations " 'to diverse 
+public comment,' " ensures " 'fairness to affected parties,' " 
+and provides a well-developed record that "enhances the 
+quality of judicial review."  Small Refiner Lead Phase-Down 
+Task Force v. United States EPA, 705 F.2d 506, 547 (D.C. 
+Cir. 1983) (citations omitted).  In contrast to an informal 
+adjudication or a mere policy statement, which "lacks the 
+firmness of a [prescribed] standard," an agency's imposition 
+of requirements that "affect subsequent [agency] acts" and 
+have a "future effect" on a party before the agency triggers 
+the APA notice requirement.  Sugar Cane Growers Coop. v. 
+Veneman, 289 F.3d 89, 95-96 (D.C. Cir. 2002) (internal quota-
+tions and citation omitted).
+
+     At the same time, agencies possess the authority in some 
+instances to clarify or set aside existing rules without issuing 
+a new NPRM and engaging in a new round of notice and 
+comment.  For example, in City of Stoughton v. United 
+States EPA, 858 F.2d 747, 751 (D.C. Cir. 1988), the court held 
+that the EPA was not required to engage in a new round of 
+notice and comment where it merely adjusted a score under 
+the Comprehensive Environmental Response, Compensation 
+and Liability Act of 1980, Pub. L. No. 96-510, 94 Stat. 2767, in 
+response to public comments.  The authority to clarify or 
+reconsider a rule may arise directly from a statute, as in the 
+Natural Gas Act, see Tennessee Gas Pipeline Co. v. FERC, 
+871 F.2d 1099, 1108 (D.C. Cir. 1989), or pursuant to agency 
+rulemaking authority, as in the case of the Commission, 
+whose procedures authorize it to set aside an existing rule, on 
+
+its own motion, within thirty days of promulgating the rule.  
+FCC Practice and Procedure, 47 C.F.R. s 1.108 (2001).
+
+     Underlying these general principles is a distinction between 
+rulemaking and a clarification of an existing rule.  Whereas a 
+clarification may be embodied in an interpretive rule that is 
+exempt from notice and comment requirements, 5 U.S.C. 
+s 553(b)(3)(A), see Am. Mining Cong. v. Mine Safety & 
+Health Admin., 995 F.2d 1106, 1109 (D.C. Cir. 1993), new 
+rules that work substantive changes in prior regulations are 
+subject to the APA's procedures.  Thus, in National Family 
+Planning & Reproductive Health Ass'n v. Sullivan, the court 
+described as "a maxim of administrative law" the proposition 
+that, " '[i]f a second rule repudiates or is irreconcilable with [a 
+prior legislative rule], the second rule must be an amendment 
+of the first;  and, of course, an amendment to a legislative rule 
+must itself be legislative.' "  979 F.2d 227, 235 (D.C. Cir. 
+1992) (quoting Michael Asimow, Nonlegislative Rulemaking 
+and Regulatory Reform, 1985 Duke L.J. 381, 386);  see also 
+Am. Mining Cong., 995 F.2d at 1109.  The Commission 
+proceedings at issue illustrate the distinction.  In the First 
+Reconsideration Order, the Commission clarified its initial 
+rule by providing a definition of the phrase "facilities-based 
+carriers."  11 F.C.C.R. at 21,277 p 92 (1996).  Although defi-
+nitions may vary in a way that would trigger the APA notice 
+requirements, see Nat'l Family Planning, 979 F.2d at 235 
+(citing Homemakers North Shore, Inc. v. Bowen, 832 F.2d 
+408, 412 (7th Cir. 1987)), the Commission's clarification in the 
+First Reconsideration Order merely illustrated its original 
+intent.  By contrast, when an agency changes the rules of the 
+game--such that one source becomes solely responsible for 
+what had been a dual responsibility and then must assume 
+additional obligations, as occurred in the Commission's Sec-
+ond Reconsideration Order--more than a clarification has 
+occurred.  To conclude otherwise would intolerably blur the 
+line between when the APA notice requirement is triggered 
+and when it is not.
+
+     With these principles in mind, we turn to the Commission's 
+position that the APA notice requirement is inapplicable to its 
+determinations in the Second Reconsideration Order.  The 
+
+Commission concedes that it did not publish a NPRM--or 
+even the Bureau's Notice--in the Federal Register.  It also 
+acknowledges that, because the Bureau's Notice did not spe-
+cifically name Sprint, any "actual notice" that the agency 
+provided to Sprint does not suffice under s 553(b).  See Util. 
+Solid Waste Activities Group v. EPA, 236 F.3d 749, 754 (D.C. 
+Cir. 2001).  Instead, the Commission contends that its deter-
+minations in the Second Reconsideration Order did not neces-
+sitate a new NPRM and that Sprint in fact received adequate 
+notice and opportunity to comment.  The Commission offers 
+several alternative theories in support of its position.
+
+     First, the Commission maintains that it is permitted sua 
+sponte to reconsider its rules where a reconsideration order is 
+pending, so long as the original proposed rule supplied notice. 
+This principle, however, is inapposite in the context of new 
+rulemakings.  The Commission points to a regulation that 
+authorizes the Commission, "on its own motion," to "set aside 
+any action made or taken by it within 30 days from the date 
+of public notice of such action...."  Practice and Procedure, 
+47 C.F.R. s 1.108 (2001).  This thirty-day deadline, the Com-
+mission maintains, may be tolled by pending motions for 
+reconsideration, citing Central Florida Enterprises v. FCC, 
+598 F.2d 37, 48 n.51 (D.C. Cir. 1978).  But the Commission's 
+effort to take refuge in its regulation fails.  The court in 
+Central Florida merely stated that "where ... several peti-
+tions are consolidated for hearing and decision, a petition for 
+reconsideration of any of the ensuing orders tolls the thirty 
+day period as to all orders in the case."  Id.  Although 
+Central Florida's holding might assist the Commission were 
+it merely setting aside an existing rule, in the instant case the 
+Commission, more than four years after issuing its original 
+rule, changed the payment and reporting obligations of affect-
+ed parties.  While maintaining that it was merely setting 
+aside a previous action, the Commission itself stated in the 
+Second Reconsideration Order that it was "revis[ing]" and 
+"modify[ing]" its rules.  16 F.C.C.R. at 8098 p 1.  Moreover, 
+the Commission changed the text of the regulation appearing 
+in the Code of Federal Regulations.  This stands in contrast 
+to the First Reconsideration Order, when the Commission 
+
+simply clarified the definition of a phrase that it had used in 
+the initial rule.  11 F.C.C.R. at 21,277 p 92.
+
+     The Commission's reliance on American Mining Congress 
+v. United States EPA, 907 F.2d 1179 (D.C. Cir. 1990), is 
+similarly unavailing.  In that case, the court held that the 
+agency had complied with the APA's notice requirements 
+where it reinstated a rule that it had withdrawn eight years 
+earlier.  907 F.2d at 1182.  Because the petitioners had two 
+opportunities for notice and comment before the agency 
+promulgated the reinstated rule, the court held that "[t]his 
+was more than enough to satisfy the requirements of the 
+APA."  Id.  Here, by contrast, the Commission has not 
+simply reinstated a previously withdrawn rule, much less the 
+rule it promulgated in the First Payphone Order.  The rule 
+embodied in the Second Reconsideration Order differs from 
+the initial rule, which provided that the "underlying, facilities-
+based carrier," without defining that term, should compen-
+sate the PSPs.  First Payphone Order, 11 F.C.C.R. at 20,586 
+p 86 (1996).  When the Commission later defined the phrase 
+in the First Reconsideration Order, it clarified that "facili-
+ties-based carriers" include SBRs.  11 F.C.C.R. at 21,277 
+p 92 (1996).  Thus, the initial rule embodied a dual system of 
+payment responsibility involving both the IXCs and the 
+SBRs.  Because the Second Reconsideration Order departs 
+from that understanding and effects a change in the regula-
+tion, it is not identical to the initial rule.  It also differs from 
+the initial rule because the Second Reconsideration Order 
+increases the IXCs' reporting obligations substantially be-
+yond those contained in the First Payphone Order.  16 
+F.C.C.R. at 8106 p 18;  see also Miscellaneous Rules Relating 
+to Common Carriers, 47 C.F.R. s 64.1310(a) (2001).  Given 
+the changes to the payment-responsibility requirements, the 
+rule promulgated in the Second Reconsideration Order is not 
+a reinstatement of the original rule, and consequently nothing 
+in American Mining Congress would exempt the Commis-
+sion's determinations from the APA notice requirement.
+
+     Second, the Commission maintains that it was not required 
+to issue a new NPRM because its determination in the 
+Second Reconsideration Order was a "logical outgrowth" of 
+
+the Bureau's Notice.  "[A]n agency may make changes in its 
+proposed rule on the basis of comments without triggering a 
+new round of comments, at least where the changes are a 
+'logical outgrowth' of the proposal and previous comments."  
+City of Stoughton, 858 F.2d at 751.  In order for a final rule 
+to be a "logical outgrowth" of a proposal, however, the agency 
+first must have provided proper notice of the proposal.  "The 
+necessary predicate ... is that the agency has alerted inter-
+ested parties to the possibility of the agency's adopting a rule 
+different than the one proposed."  Kooritsky v. Reich, 17 
+F.3d 1509, 1513 (D.C. Cir. 1994).  Whereas in Kooritsky, id. 
+at 1512, and City of Stoughton, 858 F.2d at 749, the agencies 
+began their rulemaking processes with NPRMs, here the 
+Commission did not publish a notice in the Federal Register.  
+Instead, it purported to act through the Common Carrier 
+Bureau, which lacks the authority under the Commission's 
+regulations to issue notices of proposed rulemaking.  Com-
+mission Organization, 47 C.F.R. s 0.291(g) (2001).  Sprint, 
+therefore, was not on notice that the Commission was propos-
+ing to "revise" its initial rule, much less that it would shift the 
+locus of payment responsibility in any manner other than the 
+Coalition Petition's CIC proposal.  We leave open the ques-
+tion whether adoption of the CIC approach also would have 
+necessitated a new NPRM.  See Nat'l Family Planning, 979 
+F.2d at 235.  Suffice it to say, there can be no "logical 
+outgrowth" of a proposal that the agency has not properly 
+noticed.  See McClouth Steel Prods. Corp. v. Thomas, 838 
+F.2d 1317, 1323 (D.C. Cir. 1988).
+
+     Third, the Commission maintains that the Coalition Petition 
+and the Bureau's Notice placed Sprint on actual notice of the 
+new rule, and that this actual notice cures any procedural 
+deficiencies in the Commission's promulgation of a new rule.  
+But, as noted, the authority delegated to the Bureau by the 
+Commission to issue public notices does not extend to issu-
+ance of NPRMs, 47 C.F.R. s 0.291(g), and Sprint could 
+reasonably assume that the Commission would not undertake, 
+as a result of the Bureau's Notice, consideration of more than 
+the proposal in the Coalition's Petition.  Furthermore, the 
+comments submitted in response to the Bureau's Notice 
+demonstrate that the parties did not appreciate that the 
+
+Commission was contemplating revision of the dual scheme of 
+payment responsibility.  Nor did anything in the Bureau's 
+Notice suggest that the Commission would impose additional 
+reporting requirements on IXCs, and the commenters under-
+standably submitted no comments on this point.  See MCI 
+Telecomms. Corp. v. FCC, 57 F.3d 1136, 1142-43 (D.C. Cir. 
+1995).  Necessarily, then, the Bureau's Notice did not provide 
+"actual notice" sufficient to remedy the Commission's proce-
+dural shortcomings.
+
+     In a last gasp, the Commission contends that even if the 
+APA notice requirement applied to the Commission's revision 
+of the initial rule in the Second Reconsideration Order and 
+the Commission failed to follow the requirement, the APA 
+incorporates a prejudicial error rule, and Sprint has failed to 
+show prejudice from the Commission's procedural shortcom-
+ings.  The APA instructs that reviewing courts take "due 
+account ... of the rule of prejudicial error."  5 U.S.C. s 706.  
+In Sugar Cane Growers Cooperative v. Veneman, 289 F.3d 89 
+(D.C. Cir. 2002), the court noted the standard established in 
+McLouth, 838 F.2d at 1324, and explained that "an utter 
+failure to comply with notice and comment cannot be consid-
+ered harmless if there is any uncertainty at all as to the effect 
+of that failure."  Sugar Cane Growers, 289 F.3d at 96.  The 
+court observed that broadening the harmless error rule would
+
+     virtually repeal section 553's requirements:  if the gov-
+     ernment could skip those procedures, engage in informal 
+     consultation, and then be protected from judicial review 
+     unless a petitioner could show a new argument--not 
+     presented informally--section 553 obviously would be 
+     eviscerated.  The government could avoid the necessity 
+     of publishing a notice of a proposed rule and perhaps, 
+     most important, would not be obliged to set forth a 
+     statement of the basis and purpose of the rule, which 
+     needs to take account of the major comments--and often 
+     is a major focus of judicial review.
+     
+Id. at 96-97.
+
+     The same dangers are present here.  First, as noted, the 
+Commission's description of its determination in the Second 
+
+Reconsideration Order as a "revis[ion]" and "modif[ication]" 
+of its rules, as well as the Commission's amendment of its 
+regulations, indicates that more than a clarification of the 
+initial rule was involved.  This fact alone may have prejudiced 
+Sprint insofar as it is procedurally more difficult to obtain 
+reversal of a new rule than to petition for reconsideration of a 
+clarification.  Cf. Stuart-James Co. v. SEC, 857 F.2d 796, 801 
+(D.C. Cir. 1988).  Second, although a showing of actual preju-
+dice is not required under the prejudicial error rule, Sprint 
+has made a colorable claim that it would have more thorough-
+ly presented its arguments had it known that the Commission 
+was contemplating a rulemaking.  See Sugar Cane Growers, 
+289 F.3d at 97.  The Second Reconsideration Order assumes, 
+for example, that the IXCs are in a superior position to track 
+calls because they may use their market leverage to impose 
+client reporting requirements as a condition of service.  IXCs 
+might have been able to affect this determination (notwith-
+standing the Commission's view that the technology exists for 
+IXCs to track calls) by presenting additional information 
+demonstrating shortcomings and burdens that the Commis-
+sion had not adequately considered.  Without notice of the 
+Commission's assumption that IXCs alone were in a superior 
+position, however, the IXCs had no opportunity to present 
+their evidence.  Third, the Commission provided inadequate 
+notice that it was considering a change in reporting require-
+ments, which under the new rule are more burdensome than 
+in the initial rule.  Under the circumstances, the Commission 
+"has offered no persuasive evidence that possible objections 
+to its final rule[ ] have been given sufficient consideration."  
+Shell Oil v. EPA, 950 F.2d 741, 752 (D.C. Cir. 1991).  Thus, 
+the effect of the Commission's procedural errors is uncertain, 
+and the Commission's "utter failure" to afford proper notice 
+and comment was not harmless.  Sugar Cane Growers, 289 
+F.3d at 96.
+
+     Although the Commission must have flexibility to adjust a 
+regulatory scheme as concerns and problems arise in an 
+obviously complex and developing area, it must conform its 
+conduct to the APA notice requirement.  Because the Com-
+mission failed to issue a new NPRM to afford proper notice 
+
+and opportunity for comment, we grant the petition and 
+remand the case to the Commission.  In light of the remand, 
+we do not reach Sprint's contention that the rule is arbitrary 
+and capricious.
+
+              

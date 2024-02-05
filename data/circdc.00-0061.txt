@@ -1,0 +1,622 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 22, 1999    Decided March 24, 2000 
+
+                           No. 99-1094
+
+               Bell Atlantic Telephone Companies, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                                 
+        Telecommunications Resellers Association, et al., 
+                           Intervenors
+
+                        Consolidated with
+               99-1095, 99-1097, 99-1106, 99-1126, 
+                    99-1134, 99-1136, 99-1145,
+
+     On Petitions for Review of a Declaratory Ruling of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Mark L. Evans and Darryl M. Bradford argued the causes 
+for petitioners.  With them on the briefs were Thomas F. 
+O'Neil, III, Adam H. Charnes, Mark B. Ehrlich, Donald B. 
+Verrilli, Jr., Jodie L. Kelley, John J. Hamill, Emily M. 
+Williams, Theodore Case Whitehouse, Thomas Jones, Albert 
+H. Kramer, Andrew D. Lipman, Richard M. Rindler, Robert 
+M. McDowell, Robert D. Vandiver, Cynthia Brown Miller, 
+Charles C. Hunter, Catherine M. Hannan, Michael D. Hays, 
+Laura H. Phillips, J. G. Harrington, William P. Barr, M. 
+Edward Whelan, III, Michael K. Kellogg, Michael E. Glover, 
+Robert B. McKenna, William T. Lake, John H. Harwood, II, 
+Jonathan J. Frankel, Robert Sutherland, William B. Bar-
+field, Theodore A. Livingston and John E. Muench. Maureen 
+F. Del Duca, Lynn R. Charytan, Gail L. Polivy, John F. 
+Raposa and Lawrence W. Katz entered appearances.
+
+     Christopher J. Wright, General Counsel, Federal Commu-
+nications Commission, argued the cause for respondents. 
+With him on the brief were Daniel M. Armstrong, Associate 
+General Counsel, and John E. Ingle, Laurence N. Bourne and 
+Lisa S. Gelb, Counsel.  Catherine G. O'Sullivan and Nancy 
+C. Garrison, Attorneys, U.S. Department of Justice, entered 
+appearances.
+
+     David L. Lawson argued the cause for intervenors in 
+opposition to the LEC petitioners.  With him on the brief 
+were Mark C. Rosenblum, David W. Carpenter, James P. 
+Young, Emily M. Wiliams, Andrew D. Lipman, Richard M. 
+Rindler, Robert D. Vandiver, Cynthia Brown Miller, Theo-
+dore Case Whitehouse, Thomas Jones, John D. Seiver, 
+Charles C. Hunter, Catherine M. Hannan, Carol Ann Bis-
+choff and Robert M. McDowell.
+
+     William P. Barr, M. Edward Whelan, Michael E. Glover, 
+Mark L. Evans, Michael K. Kellogg, Mark D. Roellig, Dan 
+Poole, Robert B. McKenna, William T. Lake, John H. Har-
+wood, II, Jonathan J. Frankel, Robert Sutherland, William 
+B. Barfield, Theodore A. Livingston and John E. Muench 
+were on the brief for the Local Exchange Carrier intervenors.
+
+     Robert J. Aamoth, Ellen S. Levine, Charles D. Gray, 
+James B. Ramsay, Jonathan J. Nadler, David A. Gross, 
+
+Curtis T. White, Edward Hayes, Jr., and David M. Janas 
+entered appearances for intervenors
+
+     Before:  Williams, Sentelle and Randolph, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  The Telecommunications Act of 
+1996, Pub. L. No. 104-104, 110 Stat. 56, 47 U.S.C. ss 151-714, 
+requires local exchange carriers ("LECs") to "establish recip-
+rocal compensation arrangements for the transport and ter-
+mination of telecommunications."  Id. s 251(b)(5).  When 
+LECs collaborate to complete a call, this provision ensures 
+compensation both for the originating LEC, which receives 
+payment from the end-user, and for the recipient's LEC.  By 
+regulation the Commission has limited the scope of the recip-
+rocal compensation requirement to "local telecommunications 
+traffic."  47 CFR s 51.701(a).  In the ruling under review, it 
+considered whether calls to internet service providers 
+("ISPs") within the caller's local calling area are themselves 
+"local."  In doing so it applied its so-called "end-to-end" 
+analysis, noting that the communication characteristically will 
+ultimately (if indirectly) extend beyond the ISP to websites 
+out-of-state and around the world.  Accordingly it found the 
+calls non-local.  See In the Matter of Implementation of the 
+Local Competition Provisions in the Telecommunications 
+Act of 1996, Intercarrier Compensation for ISP-Bound Traf-
+fic, 14 FCC Rcd 3689, 3690 (p 1) (1999) ("FCC Ruling").
+
+     Having thus taken the calls to ISPs out of s 251(b)(5)'s 
+provision for "reciprocal compensation" (as it interpreted it), 
+the Commission could nonetheless itself have set rates for 
+such calls, but it elected not to.  In a Notice of Proposed 
+Rulemaking, CC Docket 99-68, the Commission tentatively 
+concluded that "a negotiation process, driven by market 
+forces, is more likely to lead to efficient outcomes than are 
+rates set by regulation," FCC Ruling, 14 FCC Rcd at 3707 
+(p 29), but for the nonce it left open the matter of implement-
+ing a system of federal controls.  It observed that in the 
+
+meantime parties may voluntarily include reciprocal compen-
+sation provisions in their interconnection agreements, and 
+that state commissions, which have authority to arbitrate 
+disputes over such agreements, can construe the agreements 
+as requiring such compensation;  indeed, even when the 
+agreements of interconnecting LECs include no linguistic 
+hook for such a requirement, the commissions can find that 
+reciprocal compensation is appropriate.  FCC Ruling, 14 
+FCC Rcd at 3703-05 (p p 24-25);  see s 251(b)(1) (establishing 
+such authority).  "[A]ny such arbitration," it added, "must be 
+consistent with governing federal law."  FCC Ruling, 14 FCC 
+Rcd at 3705 (p 25).
+
+     This outcome left at least two unhappy groups.  One, led 
+by Bell Atlantic, consists of incumbent LECs (the "incum-
+bents").  Quite content with the Commission's finding of 
+s 251(b)(5)'s inapplicability, the incumbents objected to its 
+conclusion that in the absence of federal regulation state 
+commissions have the authority to impose reciprocal compen-
+sation.  Although the Commission's new rulemaking on the 
+subject may eventuate in a rule that preempts the states' 
+authority, the incumbents object to being left at the mercy of 
+state commissions until that (hypothetical) time, arguing that 
+the commissions have mandated exorbitant compensation.  In 
+particular, the incumbents, who are paid a flat monthly fee, 
+have generally been forced to provide compensation for inter-
+net calls on a per-minute basis.  Given the average length of 
+such calls the cost can be substantial, and since ISPs do not 
+make outgoing calls, this compensation is hardly "reciprocal."
+
+     Another group, led by MCI WorldCom, consists of firms 
+that are seeking to compete with the incumbent LECs and 
+which provide local exchange telecommunications services to 
+ISPs (the "competitors").  These firms, which stand to re-
+ceive reciprocal compensation on ISP-bound calls, petitioned 
+for review with the complaint that the Commission erred in 
+finding that the calls weren't covered by s 251(b)(5).
+
+     The end-to-end analysis applied by the Commission here is 
+one that it has traditionally used to determine whether a call 
+is within its interstate jurisdiction.  Here it used the analysis 
+for quite a different purpose, without explaining why such an 
+extension made sense in terms of the statute or the Commis-
+
+sion's own regulations.  Because of this gap, we vacate the 
+ruling and remand the case for want of reasoned decision-
+making.
+
+                             *  *  *
+
+     In February 1996 Congress passed the Telecommunications 
+Act of 1996 (the "1996 Act" or the "Act"), stating an intent to 
+open local telephone markets to competition.  See H.R. Conf. 
+Rep. No. 104-458, at 113 (1996).  Whereas before local ex-
+change carriers generally had state-licensed monopolies in 
+each local service area, the 1996 Act set out to ensure that 
+"[s]tates may no longer enforce laws that impede[ ] competi-
+tion," and subjected incumbent LECs "to a host of duties 
+intended to facilitate market entry."  AT&T Corp. v. Iowa 
+Utils. Bd., 119 S. Ct. 721, 726 (1999).
+
+     Among the duties of incumbent LECs is to "provide, for 
+the facilities and equipment of any requesting telecommunica-
+tions carrier, interconnection with the local exchange carrier's 
+network ... for the transmission and routing of telephone 
+exchange service and exchange access."  47 U.S.C. 
+s 251(c)(2).  ("Telephone exchange service" and "exchange 
+access" are words of art to which we shall later return.)  
+Competitor LECs have sprung into being as a result, and 
+their customers call, and receive calls from, customers of the 
+incumbents.
+
+     We have already noted that s 251(b)(5) of the Act estab-
+lishes the duty among local exchange carriers "to establish 
+reciprocal compensation arrangements for the transport and 
+termination of telecommunications."  47 U.S.C. s 251(b)(5).  
+Thus, when a customer of LEC A calls a customer of LEC B, 
+LEC A must pay LEC B for completing the call, a cost 
+usually paid on a per-minute basis.  Although s 251(b)(5) 
+purports to extend reciprocal compensation to all "telecom-
+munications," the Commission has construed the reciprocal 
+compensation requirement as limited to local traffic.  See 47 
+CFR s 51.701(a) ("The provisions of this subpart apply to 
+reciprocal compensation for transport and termination of local 
+telecommunications traffic between LECs and other telecom-
+
+munications carriers.").  LECs that originate or terminate 
+long-distance calls continue to be compensated with "access 
+charges," as they were before the 1996 Act.  Unlike recipro-
+cal compensation, these access charges are not paid by the 
+originating LEC.  Instead, the long-distance carrier itself 
+pays both the LEC that originates the call and links the caller 
+to the long distance network, and the LEC that terminates 
+the call.  See In the Matter of Implementation of the Local 
+Competition Provisions in the Telecommunications Act of 
+1996, 11 FCC Rcd 15499, 16013 (p 1034) (1996) ("Local Com-
+petition Order").
+
+     The present case took the Commission beyond these tradi-
+tional telephone service boundaries.  The internet is "an 
+international network of interconnected computers that en-
+ables millions of people to communicate with one another in 
+'cyberspace' and to access vast amounts of information from 
+around the world."  Reno v. ACLU, 521 U.S. 844, 844 (1997).  
+Unlike the conventional "circuit-switched network," which 
+uses a single end-to-end path for each transmission, the 
+internet is a "distributed packet-switched network, which 
+means that information is split up into small chunks or 
+'packets' that are individually routed through the most effi-
+cient path to their destination."  In the Matter of Federal-
+State Joint Board on Universal Service, 13 FCC Rcd 11501, 
+11532 (p 64) (1998) ("Universal Service Report").  ISPs are 
+entities that allow their customers access to the internet.  
+Such a customer, an "end user" of the telephone system, will 
+use a computer and modem to place a call to the ISP server 
+in his local calling area.  He will usually pay a flat monthly 
+fee to the ISP (above the flat fee already paid to his LEC for 
+use of the local exchange network).  The ISP "typically 
+purchases business lines from a LEC, for which it pays a flat 
+monthly fee that allows unlimited incoming calls."  FCC 
+Ruling, 14 FCC Rcd at 3691 (p 4).
+
+     In the ruling now under review, the Commission concluded 
+that s 251(b)(5) does not impose reciprocal compensation 
+requirements on incumbent LECs for ISP-bound traffic.  
+FCC Ruling, 14 FCC Rcd at 3690 (p 1).  Faced with the 
+question whether such traffic is "local" for purposes of its 
+
+regulation limiting s 251(b)(5) reciprocal compensation to lo-
+cal traffic, the Commission used the "end-to-end" analysis 
+that it has traditionally used for jurisdictional purposes to 
+determine whether particular traffic is interstate.  Under this 
+method, it has focused on "the end points of the communica-
+tion and consistently has rejected attempts to divide commu-
+nications at any intermediate points of switching or exchanges 
+between carriers."  FCC Ruling, 14 FCC Rcd at 3695 (p 10).  
+We save for later an analysis of the various FCC precedents 
+on which the Commission purported to rely in choosing this 
+mode of analysis.
+     Before actually applying that analysis, the Commission 
+brushed aside a statutory argument of the competitor LECs.  
+They argued that ISP-bound traffic must be either "telephone 
+exchange service," as defined in 47 U.S.C. s 153(47), or 
+"exchange access," as defined in s 153(16).1  It could not be 
+the latter, they reasoned, because ISPs do not assess toll 
+charges for the service (see id., "the offering of access ... for 
+the purpose of the origination or termination of telephone toll 
+services"), and therefore it must be the former, for which 
+reciprocal compensation is mandated.  Here the Commis-
+sion's answer was that it has consistently treated ISPs (and 
+ESPs generally) as "users of access service," while treating 
+them as end users merely for access charge purposes.  FCC 
+Ruling, 14 FCC Rcd at 3701 (p 17).
+__________
+     1  "Telephone exchange service" is defined as:
+
+          (A) service within a telephone exchange, or within a connect-
+          ed system of telephone exchanges within the same exchange 
+          area operated to furnish to subscribers intercommunicating 
+          service of the character ordinarily furnished by a single 
+          exchange, and which is covered by the exchange service 
+          charge, or (B) comparable service provided through a system 
+          of switches, transmission equipment, or other facilities (or 
+          combination thereof) by which a subscriber can originate and 
+          terminate a telecommunications service.
+          
+47 U.S.C. s 153(47).  "Exchange access" is defined as:
+
+          the offering of access to telephone exchange services or 
+          facilities for the purpose of the origination or termination of 
+          telephone toll services.
+          
+Id. s 153(16).
+
+     Having decided to use the "end-to-end" method, the Com-
+mission considered whether ISP-bound traffic is, under this 
+method, in fact interstate.  In a conventional "circuit-switched 
+network," the jurisdictional analysis is straightforward:  a call 
+is intrastate if, and only if, it originates and terminates in the 
+same state.  In a "packet-switched network," the analysis is 
+not so simple, as "[a]n Internet communication does not 
+necessarily have a point of 'termination' in the traditional 
+sense."  FCC Ruling, 14 FCC Rcd at 3701-02 (p 18).  In a 
+single session an end user may communicate with multiple 
+destination points, either sequentially or simultaneously.  Al-
+though these destinations are sometimes intrastate, the Com-
+mission concluded that "a substantial portion of Internet 
+traffic involves accessing interstate or foreign websites."  Id.  
+Thus reciprocal compensation was not due, and the issue of 
+compensation between the two local LECs was left initially to 
+the LECs involved, subject to state commissions' power to 
+order compensation in the "arbitration" proceedings, and, of 
+course to whatever may follow from the Commission's new 
+rulemaking on its own possible ratesetting.
+
+                             *  *  *
+
+     The issue at the heart of this case is whether a call to an 
+ISP is local or long-distance.  Neither category fits clearly.  
+The Commission has described local calls, on the one hand, as 
+those in which LECs collaborate to complete a call and are 
+compensated for their respective roles in completing the call, 
+and long-distance calls, on the other, as those in which the 
+LECs collaborate with a long-distance carrier, which itself 
+charges the end-user and pays out compensation to the 
+LECs.  See Local Competition Order, 11 FCC Rcd at 16013 
+(p 1034) (1996).
+
+     Calls to ISPs are not quite local, because there is some 
+communication taking place between the ISP and out-of-state 
+websites.  But they are not quite long-distance, because the 
+subsequent communication is not really a continuation, in the 
+conventional sense, of the initial call to the ISP.  The Com-
+mission's ruling rests squarely on its decision to employ an 
+
+end-to-end analysis for purposes of determining whether ISP-
+traffic is local.  There is no dispute that the Commission has 
+historically been justified in relying on this method when 
+determining whether a particular communication is jurisdic-
+tionally interstate.  But it has yet to provide an explanation 
+why this inquiry is relevant to discerning whether a call to an 
+ISP should fit within the local call model of two collaborating 
+LECs or the long-distance model of a long-distance carrier 
+collaborating with two LECs.
+
+     In fact, the extension of "end-to-end" analysis from juris-
+dictional purposes to the present context yields intuitively 
+backwards results.  Calls that are jurisdictionally intrastate 
+will be subject to the federal reciprocal compensation require-
+ment, while calls that are interstate are not subject to federal 
+regulation but instead are left to potential state regulation.  
+The inconsistency is not necessarily fatal, since under the 
+1996 Act the Commission has jurisdiction to implement such 
+provisions as s 251, even if they are within the traditional 
+domain of the states.  See AT&T Corp., 119 S. Ct. at 730.  
+But it reveals that arguments supporting use of the end-to-
+end analysis in the jurisdictional analysis are not obviously 
+transferable to this context.
+
+     In attacking the Commission's classification of ISP-bound 
+calls as non-local for purposes of reciprocal compensation, 
+MCI WorldCom notes that under 47 CFR s 51.701(b)(1) 
+"telecommunications traffic" is local if it "originates and 
+terminates within a local service area."  But, observes MCI 
+WorldCom, the Commission failed to apply, or even to men-
+tion, its definition of "termination," namely "the switching of 
+traffic that is subject to section 251(b)(5) at the terminating 
+carrier's end office switch (or equivalent facility) and delivery 
+of that traffic from that switch to the called party's premises."  
+Local Competition Order, 11 FCC Rcd at 16015 (p 1040);  47 
+CFR s 51.701(d).  Calls to ISPs appear to fit this definition:  
+the traffic is switched by the LEC whose customer is the ISP 
+and then delivered to the ISP, which is clearly the "called 
+party."
+
+     In its ruling the Commission avoided this result by analyz-
+ing the communication on an end-to-end basis:  "[T]he com-
+munications at issue here do not terminate at the ISP's local 
+server ..., but continue to the ultimate destination or desti-
+nations."  FCC Ruling, 14 FCC Rcd at 3697 (p 12).  But the 
+cases it relied on for using this analysis are not on point.  
+Both involved a single continuous communication, originated 
+by an end-user, switched by a long-distance communications 
+carrier, and eventually delivered to its destination.  One, 
+Teleconnect Co. v. Bell Telephone Co., 10 FCC Rcd 1626 
+(1995), aff'd sub nom. Southwestern Bell Tel. Co. v. FCC, 116 
+F.3d 593 (D.C. Cir. 1997) ("Teleconnect"), involved an 800 call 
+to a long-distance carrier, which then routed the call to its 
+intended recipient.  The other, In the Matter of Petition for 
+Emergency Relief and Declaratory Ruling Filed by the Bell-
+South Corporation, 7 FCC Rcd 1619 (1992), considered a 
+voice mail service.  Part of the service, the forwarding of the 
+call from the intended recipient's location to the voice mail 
+apparatus and service, occurred entirely within the subscrib-
+er's state, and thus looked local.  Looking "end-to-end," 
+however, the Commission refused to focus on this portion of 
+the call but rather considered the service in its entirety (i.e., 
+originating with the out-of-state caller leaving a message, or 
+the subscriber calling from out-of-state to retrieve messages).  
+Id. at 1621 (p 12).
+
+     ISPs, in contrast, are "information service providers," Uni-
+versal Service Report, 13 FCC Rcd at 11532-33 (p 66), which 
+upon receiving a call originate further communications to 
+deliver and retrieve information to and from distant websites.  
+The Commission acknowledged in a footnote that the cases it 
+relied upon were distinguishable, but dismissed the problem 
+out-of-hand:  "Although the cited cases involve interexchange 
+carriers rather than ISPs, and the Commission has observed 
+that 'it is not clear that [information service providers] use 
+the public switched network in a manner analogous to IXCs,' 
+Access Charge Reform Order, 12 FCC Rcd at 16133, the 
+Commission's observation does not affect the jurisdictional 
+analysis."  FCC Ruling, 14 FCC Rcd at 3697 n.36 (p 12).  It 
+is not clear how this helps the Commission.  Even if the 
+difference between ISPs and traditional long-distance carriers 
+
+is irrelevant for jurisdictional purposes, it appears relevant 
+for purposes of reciprocal compensation.  Although ISPs use 
+telecommunications to provide information service, they are 
+not themselves telecommunications providers (as are long-
+distance carriers).
+
+     In this regard an ISP appears, as MCI WorldCom argued, 
+no different from many businesses, such as "pizza delivery 
+firms, travel reservation agencies, credit card verification 
+firms, or taxicab companies," which use a variety of communi-
+cation services to provide their goods or services to their 
+customers.  Comments of WorldCom, Inc. at 7 (July 17, 
+1997).  Of course, the ISP's origination of telecommunications 
+as a result of the user's call is instantaneous (although 
+perhaps no more so than a credit card verification system or 
+a bank account information service).  But this does not imply 
+that the original communication does not "terminate" at the 
+ISP.  The Commission has not satisfactorily explained why 
+an ISP is not, for purposes of reciprocal compensation, "sim-
+ply a communications-intensive business end user selling a 
+product to other consumer and business end-users."  Id.
+
+     The Commission nevertheless argues that although the call 
+from the ISP to an out-of-state website is information service 
+for the end-user, it is telecommunications for the ISP, and 
+thus the telecommunications cannot be said to "terminate" at 
+the ISP.  As the Commission states:  "Even if, from the 
+perspective of the end user as customer, the telecommunica-
+tions portion of an Internet call 'terminates' at the ISP's 
+server (and information service begins), the remaining portion 
+of the call would continue to constitute telecommunications 
+from the perspective of the ISP as customer."  Commission's 
+Br. at 41.  Once again, however, the mere fact that the ISP 
+originates further telecommunications does not imply that the 
+original telecommunication does not "terminate" at the ISP.  
+However sound the end-to-end analysis may be for jurisdic-
+tional purposes, the Commission has not explained why view-
+ing these linked telecommunications as continuous works for 
+purposes of reciprocal compensation.
+
+     Adding further confusion is a series of Commission rulings 
+dealing with a class, enhanced service providers ("ESPs"), of 
+which ISPs are a subclass.  See FCC Ruling, 14 FCC Rcd at 
+3689 n.1 (p 1).  ESPs, the precursors to the 1996 Act's 
+information service providers, offer data processing services, 
+linking customers and computers via the telephone network.  
+See MCI Telecommunications Corp. v. FCC, 57 F.3d 1136, 
+1138 (D.C. Cir. 1995).2  In its establishment of the access 
+charge system for long-distance calls, the Commission in 1983 
+exempted ESPs from the access charge system, thus in effect 
+treating them like end users rather than long-distance carri-
+ers.  See In the Matter of MTS & WATS Market Structure, 
+97 F.C.C.2d 682, 711-15 (p 77-83) (1983).  It reaffirmed this 
+decision in 1991, explaining that it had "refrained from apply-
+ing full access charges to ESPs out of concern that the 
+industry has continued to be affected by a number of signifi-
+cant, potentially disruptive, and rapidly changing circum-
+stances."  In the Matter of Part 69 of the Commission's 
+Rules Relating to the Creation of Access Charge Subelements 
+for Open Network Architecture, 6 FCC Rcd 4524, 4534 (p 54) 
+(1991).  In 1997 it again preserved the status quo.  In the 
+Matter of Access Charge Reform, 12 FCC Rcd 15982 (1997) 
+("Access Charge Reform Order").  It justified the exemption 
+in terms of the goals of the 1996 Act, saying that its purpose 
+was to "preserve the vibrant and competitive free market that 
+presently exists for the Internet and other interactive com-
+puter services."  Id. at 16133 (p 344) (quoting 47 U.S.C. 
+s 230(b)(2)).
+
+     This classification of ESPs is something of an embarrass-
+ment to the Commission's present ruling.  As MCI World-
+Com notes, the Commission acknowledged in the Access 
+Charge Reform Order that "given the evolution in [informa-
+tion service provider] technologies and markets since we first 
+
+__________
+     2  The regulatory definition states that ESPs offer "services ... 
+which employ computer processing applications that act on the 
+format, content, code, protocol or similar aspects of the subscriber's 
+transmitted information;  provide the subscriber additional, differ-
+ent, or restructured information;  or involve subscriber interaction 
+with stored information."  47 CFR s 64.702(a).
+
+established access charges in the early 1980s, it is not clear 
+that [information service providers] use the public switched 
+network in a manner analogous to IXCs [inter-exchange 
+carriers]."  12 FCC Rcd at 16133 (p 345).  It also referred to 
+calls to information service providers as "local."  Id. at 16132 
+(p 342 n.502).  And when this aspect of the Access Charge 
+Reform Order was challenged in the 8th Circuit, the Commis-
+sion's briefwriters responded with a sharp differentiation 
+between such calls and ordinary long-distance calls covered 
+by the "end-to-end" analysis, and even used the analogy 
+employed by MCI WorldCom here--that a call to an informa-
+tion service provider is really like a call to a local business 
+that then uses the telephone to order wares to meet the need.  
+Brief of FCC at 76, Southwestern Bell v. FCC, 153 F.3d 523 
+(8th Cir. 1998) (No. 97-2618).  When accused of inconsistency 
+in the present matter, the Commission flipped the argument 
+on its head, arguing that its exemption of ESPs from access 
+charges actually confirms "its understanding that ESPs in 
+fact use interstate access service;  otherwise, the exemption 
+would not be necessary."  FCC Ruling, 14 FCC Rcd at 3700 
+(p 16).  This is not very compelling.  Although, to be sure, the 
+Commission used policy arguments to justify the "exemp-
+tion," it also rested it on an acknowledgment of the real 
+differences between long-distance calls and calls to informa-
+tion service providers.  It is obscure why those have now 
+dropped out of the picture.
+
+     Because the Commission has not supplied a real explana-
+tion for its decision to treat end-to-end analysis as controlling, 
+Motor Vehicle Mfrs. Ass'n of U.S., Inc. v. State Farm Mut. 
+Auto. Ins. Co., 463 U.S. 29, 43 (1983);  5 U.S.C. s 706(2)(A), 
+we must vacate the ruling and remand the case.
+
+     There is an independent ground requiring remand--the fit 
+of the present rule within the governing statute.  MCI 
+WorldCom says that ISP-traffic is "telephone exchange ser-
+vice[ ]" as defined in 47 U.S.C. s 153(16), which it claims "is 
+synonymous under the Act with the service used to make 
+local phone calls," and emphatically not "exchange access" as 
+defined in 47 U.S.C. s 153(47).  Petitioner MCI WorldCom's 
+Initial Br. at 22.  In the only paragraph of the ruling in which 
+the Commission addressed this issue, it merely stated that it 
+
+"consistently has characterized ESPs as 'users of access 
+service' but has treated them as end users for pricing pur-
+poses."  FCC Ruling, 14 FCC Rcd at 3701 (p 17).  In a 
+statutory world of "telephone exchange service" and "ex-
+change access," which the Commission here says constitute 
+the only possibilities, the reference to "access service," com-
+bining the different key words from the two terms before us, 
+sheds no light.  "Access service" is in fact a pre-Act term, 
+defined as "services and facilities provided for the origination 
+or termination of any interstate or foreign telecommunica-
+tion."  47 CFR s 69.2(b).
+
+     If the Commission meant to place ISP-traffic within a third 
+category, not "telephone exchange service" and not "exchange 
+access," that would conflict with its concession on appeal that 
+"exchange access" and "telephone exchange service" occupy 
+the field.  But if it meant that just as ESPs were "users of 
+access service" but treated as end users for pricing purposes, 
+so too ISPs are users of exchange access, the Commission has 
+not provided a satisfactory explanation why this is the case.  
+In fact, in In the Matter of Implementation of the Non-
+Accounting Safeguards of Sections 271 and 272 of the Com-
+munications Act of 1934, as amended, 11 FCC Rcd 21905, 
+22023 (p 248) (1996), the Commission clearly stated that "ISPs 
+do not use exchange access."  After oral argument in this 
+case the Commission overruled this determination, saying 
+that "non-carriers may be purchasers of those services."  In 
+the Matter of Deployment of Wireline Services Offering 
+Advanced Telecommunications Capability, FCC 99-413, at 
+21 (p 43) (Dec. 23, 1999).  The Commission relied on its pre-
+Act orders in which it had determined that non-carriers can 
+use "access services," and concluded that there is no evidence 
+that Congress, in codifying "exchange access," intended to 
+depart from this understanding.  See id. at 21-22 (p 44).  The 
+Commission, however, did not make this argument in the 
+ruling under review.
+
+     Nor did the Commission even consider how regarding non-
+carriers as purchasers of "exchange access" fits with the 
+statutory definition of that term.  A call is "exchange access" 
+if offered "for the purpose of the origination or termination of 
+telephone toll services."  47 U.S.C. s 153(16).  As MCI 
+
+WorldCom argued, ISPs provide information service rather 
+than telecommunications;  as such, "ISPs connect to the local 
+network 'for the purpose of' providing information services, 
+not originating or terminating telephone toll services."  Peti-
+tioner MCI WorldCom's Reply Br. at 6.
+
+     The statute appears ambiguous as to whether calls to ISPs 
+fit within "exchange access" or "telephone exchange service," 
+and on that view any agency interpretation would be subject 
+to judicial deference.  See Chevron U.S.A. Inc. v. Natural 
+Resources Defense Council, Inc., 467 U.S. 837, 842-43 (1984).  
+But, even though we review the agency's interpretation only 
+for reasonableness where Congress has not resolved the 
+issue, where a decision "is valid only as a determination of 
+policy or judgment which the agency alone is authorized to 
+make and which it has not made, a judicial judgment cannot 
+be made to do service."  SEC v. Chenery Corp., 318 U.S. 80, 
+88 (1943).  See also Acme Die Casting v. NLRB, 26 F.3d 162, 
+166 (D.C. Cir. 1994);  Leeco, Inc. v. Hays, 965 F.2d 1081, 1085 
+(D.C. Cir. 1992);  City of Kansas City v. Department of 
+Housing and Urban Development, 923 F.2d 188, 191-92 (D.C. 
+Cir. 1991).
+
+                             *  *  *
+
+     Because the Commission has not provided a satisfactory 
+explanation why LECs that terminate calls to ISPs are not 
+properly seen as "terminat[ing] ... local telecommunications 
+traffic," and why such traffic is "exchange access" rather than 
+"telephone exchange service," we vacate the ruling and re-
+mand the case to the Commission.  We do not reach the 
+objections of the incumbent LECs--that s 251(b)(5) 
+preempts state commission authority to compel payments to 
+the competitor LECs;  at present we have no adequately 
+explained classification of these communications, and in the 
+interim our vacatur of the Commission's ruling leaves the 
+incumbents free to seek relief from state-authorized compen-
+sation that they believe to be wrongfully imposed.
+
+                                                      So ordered.
+
+                                                                         

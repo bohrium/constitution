@@ -1,0 +1,459 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued November 19, 2002    Decided January 21, 2003 
+
+                           No. 01-1381
+
+                 Florida Municipal Power Agency, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                 Florida Power & Light Company, 
+                            Intervenor
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Robert A. Jablon argued the cause for petitioner.  With 
+him on the briefs was Daniel I. Davidson.
+
+     Judith A. Albert, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     Clifford (Mike) Naeve was on the brief for intervenor.
+
+     Before:  Sentelle, Henderson and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Granted access to Florida Power & 
+Light's electricity transmission lines for the purpose of estab-
+lishing network transmission service, Petitioner Florida Mu-
+nicipal Power Agency challenges three decisions of the Feder-
+al Energy Regulatory Commission rejecting its request for 
+pricing credits.  Finding the Commission's decisions sup-
+ported by substantial evidence and neither arbitrary nor 
+capricious, we deny the petition.
+
+                                I.
+
+     After determining that utilities were discriminatorily deny-
+ing power suppliers access to electricity transmission lines, 
+the Federal Energy Regulatory Commission issued Order 
+No. 888 requiring public utilities that own, control, or operate 
+transmission facilities to file open access tariffs under which 
+they agree to provide non-discriminatory access to their 
+transmission networks in addition to the point-to-point service 
+they had been offering.  Promoting Wholesale Competition 
+Through Open Access Non-Discriminatory Transmission 
+Services by Public Utilities;  Recovery of Stranded Costs by 
+Public Utilities and Transmitting Utilities, Order No. 888, 
+F.E.R.C. Stats. & Regs.  p 31,036, 61 Fed. Reg. 21540, 21541 
+(1996), clarified, 76 F.E.R.C. p 61,009 and 76 F.E.R.C. 
+p 61,347 (1996), modified, Order No. 888-A, F.E.R.C. Stats. & 
+Regs. p 31,048, 62 Fed. Reg. 12,274 (1997), order on reh'g, 
+Order No. 888-B, 81 F.E.R.C. p 61,248, 62 Fed. Reg. 64,688 
+(1997), order on reh'g, Order No. 888-C, 82 F.E.R.C. p 61,046 
+(1998), aff'd Transmission Access Policy Study Group v. 
+FERC, 225 F.3d 667 (D.C. Cir. 2000) (per curiam) ("TAPS"), 
+aff'd, New York v. FERC, 535 U.S. 1 (2002).  In point-to-point 
+transmission service, utilities pay for energy transmission 
+from designated points of receipt to designated points of 
+
+delivery.  TAPS, 225 F.3d at 725 n.12.  As Order No. 888 
+explains, however, "[n]etwork service allows more flexibility 
+by allowing a transmission customer to use the entire trans-
+mission network to provide generation service for specified 
+resources and specified loads without having to pay multiple 
+charges for each resource-load pairing."  Order No. 888, 61 
+Fed. Reg. at 21,547 n.65.  Thus, unlike point-to-point service, 
+network service permits a utility using another utility's trans-
+mission lines "to fully integrate load [(the total demand for 
+service on a utility system)] and resources on an instantane-
+ous basis in a manner similar to the transmission owner's 
+integration of its own load and resources."  Id. at 21,547.
+
+     Three additional features of Order No. 888 are relevant to 
+this case.  First, the order requires load ratio pricing for 
+network transmission service, a form of transmission that 
+"provides the customer with the same full system ability for 
+transmitting power as the transmission owner."  TAPS, 225 
+F.3d at 725.  "Under load ratio pricing, the costs of the 
+transmission system are allocated on the basis of the ratio of 
+the network customer's load to the transmission provider's 
+entire load on its transmission system."  Respondent's Br. at 
+7.
+
+     The second relevant principle from Order No. 888 respond-
+ed to arguments made by utility customers (like Petitioner 
+Florida Municipal Power Agency (FMPA)) that because some 
+customers sell power in a way that does not bear on network 
+resources--known as behind-the-meter generation--load ra-
+tio pricing's use of total load for determining a customer's 
+rate might require payment for unneeded network transmis-
+sion.  TAPS, 225 F.3d at 725-26.  These transmission cus-
+tomers thought they should therefore receive pricing credits 
+for all behind-the-meter facilities.  Id.  FERC agreed in part.  
+Although holding that customers were entitled to pricing 
+credits for facilities "integrated" into the transmission net-
+work, the Commission cautioned that "[t]he fact that a trans-
+mission customer's facilities may be interconnected with a 
+transmission provider's system does not prove that the two 
+systems comprise an integrated whole such that the transmis-
+sion provider is able to provide transmission service to itself 
+
+or other transmission customers over those facilities--a key 
+requirement of integration."  Order No. 888, 61 Fed. Reg. at 
+21,630 (emphasis in original).  "[F]or a customer to be eligible 
+for a credit," FERC explained, "its facilities must not only be 
+integrated with the transmission provider's system, but must 
+also provide additional benefits to the transmission grid in 
+terms of capability and reliability, and be relied upon for the 
+coordinated operation of the grid."  Order No. 888-A, 62 Fed. 
+Reg. at 12,330.  In other words, FERC would determine 
+credits on a case-by-case basis.
+
+     Third, Order No. 888 adopts the principle of "comparabili-
+ty," meaning that the same integration standard that applies 
+to transmission customers for the purpose of determining 
+eligibility for pricing credits also applies to transmission 
+providers for rate determination purposes.  Order No. 888, 61 
+Fed. Reg. at 21,630 n.452.  Thus, if a transmission provider 
+includes a facility in its rate base, then its transmission 
+customers may receive rate credits for any similarly situated 
+facilities.
+
+     Running parallel to the development of Order No. 888, and 
+in many respects providing a basis for it, this case began in 
+1993 when FMPA, a nonprofit public agency that provides 
+point-to-point electric power supply to its twenty-nine mem-
+ber cities that sell retail electricity to the public, developed a 
+plan for offering network transmission service.  FMPA re-
+quested the right to purchase transmission service from 
+Intervenor Florida Power & Light, owner of the state's 
+largest transmission system.  When Florida Power rejected 
+that request, FMPA filed a complaint with FERC.  Granting 
+FMPA's request for network transmission service, FERC 
+ordered the parties to agree on rates, conditions, and terms of 
+service within sixty days.  Fla. Mun. Power Agency v. Fla. 
+Power & Light Co., 65 F.E.R.C. p 61,125 (1993), reh'g dis-
+missed, 65 F.E.R.C. p 61,372 (1993).
+
+     When FMPA and Florida Power failed to reach an agree-
+ment, FERC issued a final order addressing cost-of-service 
+issues.  Fla. Mun. Power Agency v. Fla. Power & Light Co., 
+67 F.E.R.C. p 61,167 (1994) ("FMPA I").  Foreshadowing 
+
+Order No. 888, FERC adopted Florida Power's load ratio 
+pricing proposal, but agreed that in certain circumstances 
+FMPA might be entitled to pricing credits for facilities that 
+are "integrated" into Florida Power's network.  The Commis-
+sion explained:
+
+     If FMPA has transmission facilities that will operate 
+     as part of the integrated transmission system, a 
+     credit would be reasonable.  Indeed, this is in line 
+     with Florida Power's position that it is redefining 
+     the native load served by the Florida Power trans-
+     mission system to include all of FMPA's resources 
+     and loads.  If FMPA owns grid facilities that are 
+     now used to integrate the same resources and loads, 
+     those facilities are part of the integrated transmis-
+     sion system, and Florida Power must include an 
+     appropriate credit for any such grid facilities when it 
+     submits its compliance filing in this case.
+     
+Id. at 61,482 n.76.
+
+     In 1996, acting on several requests for rehearing, FERC 
+rejected FMPA's argument that Florida Power had improper-
+ly refused to grant FMPA pricing credits, holding that none 
+of FMPA's facilities was integrated into Florida Power's 
+network.  Fla. Mun. Power Agency v. Fla. Power & Light, 74 
+F.E.R.C. p 61,006 (1996) ("FMPA II").  At the same time, 
+FERC recognized the comparability principle that later found 
+its way into Order No. 888:  "Just as FMPA cannot obtain 
+credit for facilities not used by Florida Power to provide 
+service, so Florida Power cannot charge FMPA for facilities 
+not used to provide transmission service."  Id. at 61,010 n.48.
+
+     In FMPA II, FERC rejected FMPA's request to supple-
+ment the record to include evidence relating to a facility 
+FMPA operates in Lake Worth, Florida, as well as evidence 
+relating to the "Rate Case."  Id. at 61,007.  The latter refers 
+to a separately docketed FERC proceeding that began in 
+1993 when Florida Power filed a proposed tariff adjustment 
+that would have affected the prices it charged transmission 
+users, including FMPA.  Fla. Power & Light Co., 64 F.E.R.C. 
+p 61,361 (1993).  Although Florida Power and FMPA reached 
+
+a settlement, that settlement did not resolve FMPA's claim 
+that Florida Power's rate base should be adjusted to exclude 
+facilities that are not "integrated" with the rest of Florida 
+Power's transmission system.  Fla. Power & Light Co., 92 
+F.E.R.C. p 61,241 (2000).  This issue, referred to as a "re-
+served issue," remains pending before the Commission.  Re-
+spondent's Br. at 10.  In FMPA II, therefore, FERC denied 
+FMPA's request that "if the Commission rejects the proposed 
+credits for FMPA facilities, Florida Power be directed to 
+exclude from its transmission rates the cost of transmission 
+facilities that FMPA believes are not part of the integrated 
+grid...."  FMPA II, 74 F.E.R.C. at 61,010 n.48.  "This 
+issue," the Commission explained, "is among the rate issues 
+being litigated in the Rate Case, and the parties have agreed 
+that all rate issues will be resolved in the Rate Case."  Id.
+
+     Finally, in FMPA III, the Commission denied FMPA's 
+second petition for rehearing.  Fla. Mun. Power Agency v. 
+Fla. Power & Light, Co., 96 F.E.R.C. p 61,130 (2001).  Reject-
+ing FMPA's request for pricing credits, FERC again held 
+that FMPA failed to demonstrate that its facilities were 
+integrated into Florida Power's network.  Id. at 61,545.  
+FERC also ruled that FMPA's contention that the Commis-
+sion should "reduce the Florida Power rate base to be 
+consistent with a disallowance of FMPA facilities that are 
+necessary to connect generation and load," fell outside the 
+scope of the instant proceeding.  Id.  Noting FMPA's argu-
+ment that the rate base reduction issue "was among the 
+reserved issues in the settlement proceeding," FERC ex-
+plained that "the reservation of an issue in one proceeding 
+does not operate to transfer such issue to another proceed-
+ing."  Id.
+
+                               II.
+
+     FMPA now challenges the Commission's denial of pricing 
+credits in FMPA I, FMPA II, and FMPA III.  We review 
+FERC's orders under the arbitrary and capricious standard 
+and uphold FERC's factual findings if supported by substan-
+
+tial evidence.  See, e.g., Pacific Gas & Elec. Co. v. FERC, 306 
+F.3d 1112, 1115 (D.C. Cir. 2002);  Process Gas Consumers 
+Grp. v. FERC, 292 F.3d 831, 836 (D.C. Cir. 2002).  "The 
+'substantial evidence' standard," we have explained, "requires 
+more than a scintilla, but can be satisfied by something less 
+than a preponderance of the evidence."  FPL Energy Me. 
+Hydro LLC v. FERC, 287 F.3d 1151, 1160 (D.C. Cir. 2002) 
+(internal citation omitted).
+
+     FMPA argues that the Commission erred by excluding 
+evidence from the Rate Case, or alternatively, that it improp-
+erly refused to consolidate the Rate Case with the FMPA 
+cases.  As to its first argument, FMPA claims not that the 
+excluded evidence pertains directly to the integration of its 
+facilities, but rather that FERC has allowed Florida Power to 
+include facilities in its rate base that are identical to FMPA 
+facilities in terms of network benefits.  According to FMPA, 
+because the comparability principle requires equal treatment 
+of transmission providers and users, the Commission must 
+grant FMPA credit for facilities similar to ones the Commis-
+sion allowed Florida Power to include in its rate base.  We 
+disagree.
+
+     To begin with, FMPA never argues--fatally for its posi-
+tion--that Rate Case evidence directly establishes that its 
+facilities are integrated into Florida Power's network.  More-
+over, even if FERC treats FMPA facilities differently from 
+similar Florida Power facilities, the Commission's denial of 
+pricing credits does not violate the comparability principle for 
+an obvious reason:  FERC has yet to rule on FMPA's request 
+for reductions in Florida Power's rate base.  See Petitioner's 
+Br. at 16 (noting that the Commission has not ruled on 
+reductions in Florida Power's rate base).  "As a theoretical 
+matter," FMPA concedes, "FERC could order relief in the 
+Rate Case."  Petitioner's Br. at 20.  Theoretical?  That 
+FERC "could order relief in the Rate Case" is dispositive.  
+Until FERC resolves FMPA's request for reductions in Flori-
+da Power's rate base (one of the "reserved issues"), FERC's 
+denial of pricing credits cannot violate the comparability 
+principle.  FERC's exclusion of Rate Case evidence was thus 
+not an abuse of discretion.
+
+     Nor did FERC improperly refuse to consolidate the Rate 
+Case with the FMPA proceedings.  Administrative agencies 
+enjoy "broad discretion" to manage their own dockets, Tele-
+comm. Resellers Assoc. v. FCC, 141 F.3d 1193, 1196 (D.C. Cir. 
+1998), and FMPA offers no reason to believe that FERC 
+abused that discretion in this case.  Even if, as FMPA claims, 
+FERC has unreasonably delayed deciding the Rate Case, the 
+place for resolving that issue is there, not here.
+
+     FMPA next argues that FERC ignored evidence demon-
+strating the integration of its facilities with those of Florida 
+Power's.  This contention appears to rest almost entirely on 
+FERC's statement in FMPA III that "FMPA has not demon-
+strated, nor does FMPA even argue, that its facilities meet 
+the [integration] test."  FMPA III, 96 F.E.R.C. at 61,545.  
+"These statements," FMPA insists, "show that FERC was 
+unaware of and, therefore, could not have considered basic 
+evidence and argument of integration."  Petitioner's Br. at 
+21.  Other statements in FMPA III, however, indicate that 
+FERC understood FMPA's arguments and its evidence, but 
+found them insufficient to justify granting credits.  "The key 
+issue in the case," the Commission wrote in FMPA III, "is 
+whether FMPA's facilities are integrated with Florida Pow-
+er's transmission system....  In FMPA II, the Commission 
+found that a credit was not appropriate."  FMPA III, 96 
+F.E.R.C. at 61,543.  The Commission also discussed its core 
+finding in FMPA II that FMPA's facilities are "interconnect-
+ed with Florida Power's facilities[,] ... not integrated" with 
+them.  Id.  Because FMPA presented no new evidence of 
+integration in FMPA III--a point FMPA counsel conceded at 
+oral argument--FERC's reliance on findings and conclusions 
+from FMPA II was entirely appropriate.
+
+     So what did FERC mean when it said that FMPA neither 
+argued nor presented sufficient evidence of integration?  We 
+have no idea.  The Commission's brief provides no explana-
+tion, nor was agency counsel able to do so at oral argument.  
+This enigma is not fatal, however, for under our deferential 
+standard of review, we uphold agency decisions if supported 
+by substantial evidence, "notwithstanding their expository 
+
+shortcomings."  Pan-Alberta Gas, Ltd. v. FERC, 251 F.3d 
+173, 176 (D.C. Cir. 2001).
+
+     Here, substantial evidence supports FERC's denial of pric-
+ing credits.  Florida Power's expert testified that five of the 
+seven FMPA cities at issue--Key West, Lake Worth, Clewi-
+ston, Green Cove Springs, and Jacksonville Beach--"are in-
+terconnected only with the [Florida Power] transmission sys-
+tem" and that each city is essentially a " 'dead-end' off the 
+[Florida Power] system, in that ... power delivered from the 
+Florida Power transmission system necessarily must be con-
+sumed wholly within the city."  Third Adjemian Aff. p 7.  The 
+expert also testified that the five FMPA facilities provide no 
+benefit to the Florida Power network:  "[W]hile the internal 
+facilities enable each utility to distribute power within its own 
+system, the facilities in no way reduce [Florida Power's] costs 
+in integrating the loads of each city with all of FMPA's other 
+network resources because they do not impact the facilities 
+required by [Florida Power] to transmit power to and from 
+these utilities."  Id. p 16.  Although FMPA's other two cit-
+ies--Ft. Pierce and Vero Beach--interconnect to Florida 
+Power's network at multiple points, Florida Power's expert 
+testified that those "facilities do not reduce [Florida Power's] 
+costs in providing network transmission service because the 
+[Ft. Pierce-Vero Beach] line has a negligible electrical impact 
+on [Florida Power's] ability to transmit power to and from the 
+two cities."  Id. p 18.  It is true, as FMPA points out, that the 
+expert also testified that "a negligible amount of power can 
+flow over the line," but the expert further explained that this 
+flow provided no benefit to Florida Power because "even 
+without the line, [Florida Power] is able to deliver power to 
+retail customers in that area and to transmit power to [Flori-
+da Power's] other load centers in South Florida."  Third 
+Adjemian Aff. p 19.  According to FMPA, Florida Power 
+relied on the Ft. Pierce-Vero Beach line during a planned 
+transmission system outage, but Florida Power presented 
+evidence that the line may not actually have assisted its 
+network and that it had sufficient capacity to serve its 
+customers during the outage.  See Fourth Adjemian Aff. at 
+p p 2-7;  Birch Aff. p p 7, 10.
+
+     Based on this and other record evidence, FERC concluded 
+that "[t]he transmission facilities of most FMPA members are 
+interconnected with the Florida Power transmission system 
+at single points that are used only to transfer power between 
+the Florida Power transmission system and each FMPA 
+member's transmission system."  FMPA II, 74 F.E.R.C. at 
+61,010.  The Commission further explained:
+
+     While the FMPA facilities may serve a transmission 
+     function on the FMPA side of the interconnection 
+     point between FMPA and the Florida Power system, 
+     they are not used by Florida Power to provide 
+     transmission service to FMPA or any other party.  
+     Nor are they used to transmit Florida Power's pow-
+     er to its non-FMPA customers.
+     
+Id. Crediting Florida Power's expert regarding the Ft. 
+Pierce-Vero Beach lines, FERC also concluded that the lines 
+were not integrated because they provided, at best, "unneed-
+ed redundancy" with Florida Power's network.  Id.  The 
+Commission explained, "[a]n integrated transmission system 
+(as opposed to two interconnected transmission systems) is 
+comprised of transmission facilities operated as part of the 
+same network, integrating all resources and loads on that 
+network."  Id.
+
+     To be sure, FMPA points to some contradictory evidence.  
+See Petitioner's Br. at 22-23 (arguing that FMPA facilities 
+benefit Florida Power by increasing reliability and that the 
+Ft. Pierce-Vero Beach lines allow Florida Power to sell 
+power in South Florida, increase Florida power grid capacity, 
+and effect Florida Power planning).  The question we must 
+answer, however, is not whether record evidence supports 
+FMPA's version of events, but whether it supports FERC's.  
+Ark. Elec. Energy Consumers v. FERC, 290 F.3d 362, 367 
+(D.C. Cir. 2002) (explaining court's limited role in reviewing 
+FERC decision under "substantial evidence" standard).  Ap-
+plying our deferential standard of review--a particularly def-
+erential standard where, as here, FERC decided between 
+"disputing expert witnesses," Wis. Valley Improvement Co. v. 
+FERC, 236 F.3d 738, 746-47 (D.C. Cir. 2001)--we have no 
+
+doubt that the Commission's decision to deny credits is 
+supported by substantial evidence.  See supra pp. 9-11.
+
+     FMPA's remaining challenges are equally unpersuasive.  
+FMPA says that FERC failed to consider evidence regarding 
+Key West.  But the lone document FMPA cites never men-
+tions Key West;  instead, it discusses FMPA's general argu-
+ments regarding integration which FERC addressed in 
+FMPA II.  See Fourth Malmsjo Aff. p 19.  FMPA says that 
+FERC improperly rejected its motion to lodge Florida Pow-
+er's proposal to buy the Lake Worth utility (allegedly showing 
+that Florida Power would have included Lake Worth in its 
+rate base) and ignored Breaker Diagrams showing the config-
+uration of Florida Power's system.  But because both the 
+Lake Worth evidence and the Breaker Diagrams relate to 
+Florida Power's rate base, not to the integration of FMPA's 
+facilities, FERC properly excluded them for the same reason 
+that it properly excluded the rest of the Rate Case evidence.  
+See supra pp. 7-8.  FMPA says that the Commission applies 
+the integration standard inconsistently, but we rejected just 
+that argument in TAPS.  See TAPS, 225 F.3d at 726-27 
+(describing FERC's discussion of integration in FMPA I and 
+FMPA II as "completely consistent with the Commission's 
+resolution of the credits issue in the proceedings before us").
+
+     Finally, FMPA argues that FERC's recently published 
+Standard Market Design Notice of Proposed Rule Making, 
+see Remedying Undue Discrimination Through Open Access 
+Transmission Service and Standard Electricity Market De-
+sign, 67 Fed. Reg. 55452 (Aug. 29, 2002) ("SMD-NPRM"), 
+"appears to reflect a significant shift in Commission policy," 
+Petitioner's Rep. Br. at 6-10, regarding the integration stan-
+dard, thus requiring remand pursuant to Williston Basin 
+Interstate Pipeline Co. v. FERC, 165 F.3d 54, 62-63 (D.C. 
+Cir. 1999) (holding that agency's adoption of new rule during 
+judicial proceeding requires immediate remand of pending 
+cases involving discarded rule).  The NPRM, however, ex-
+pressly states that it does not resolve any issues relating to 
+integration.  "Which facilities will or will not be under a 
+[Regional Transmission Organization's] operational control," 
+the Commission explained, "does not predetermine transmis-
+
+sion pricing, cost allocation, or rate design determina-
+tions...."  SMD-NPRM, 67 Fed. Reg. at 55,500 n.173.  In 
+any event, and unlike the rule at issue in Williston, FERC 
+has yet to finalize the NPRM.  Even if, as FMPA suspects, 
+FERC is applying the NPRM in other proceedings, adversely 
+affected parties in those cases may challenge the Commis-
+sion's actions pursuant to 16 U.S.C. s 825l(b).
+
+     The petition for review is denied.
+
+                                                       So ordered.
+
+                      

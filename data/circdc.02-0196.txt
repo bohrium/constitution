@@ -1,0 +1,890 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 5, 2002    Decided July 12, 2002 
+
+                           No. 97-1097
+
+             Atlantic City Electric Company, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                 Duquesne Light Company, et al., 
+                           Intervenors
+
+                            ---------
+
+                        Consolidated with 
+                    00-1459, 00-1460, 00-1503
+
+            On Petitions for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     David B. Raskin and Richard L. Roberts argued the cause 
+for PJM Utility petitioners and supporting intervenor.  With 
+
+them on the briefs were Charles G. Cole, David Earl Goroff, 
+Kenneth G. Jaffe, Richard P. Bonnifield, Donald A. Kaplan 
+and Floyd Ligon Norton IV.  Arnold H. Quint and Richard 
+T. Saas entered appearances.
+
+     Robert H. Solomon, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  Dennis Lane, 
+Solicitor, and Monique Watson, Attorney, were on the brief.
+
+     Barry S. Spector argued the cause for intervenors PJM 
+Interconnection, et al.  With him on the brief were Arnold B. 
+Podgorsky, Denise C. Goulet, Irwin Popowsky and William 
+F. Fields.  Paula M. Carmody entered an appearance.
+
+     Before:  Ginsburg, Chief Judge, Edwards and Sentelle, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Nine utility members of the 
+Pennsylvania-New Jersey-Maryland Interconnection (herein-
+after "utility petitioners"),1 petition this Court for review of 
+two final orders issued by the Federal Energy Regulatory 
+Commission ("FERC" or "the Commission").  These orders 
+directed the owners of transmission assets entering into an 
+agreement for an Independent System Operator ("ISO") to 
+give up their right to file changes in tariff rates, terms, and 
+conditions under section 205 of the Federal Power Act ("the 
+Act"), 16 U.S.C. s 824d, and required the owners of transmis-
+sion assets to modify their ISO agreements to forbid any 
+owner from withdrawing without prior FERC approval pur-
+suant to section 203 of the Act, 16 U.S.C. s 824b.  The utility 
+petitioners contend that FERC has exceeded its statutory 
+authority by requiring the owners of transmission assets to 
+cede their statutory right to file rate changes under section 
+205 of the Act.  They also argue that FERC lacks jurisdiction 
+
+__________
+     1 The nine petitioners are:  Atlantic City Electric Co., Baltimore 
+Gas and Electric Co., Delmarva Power & Light Co., Jersey Central 
+Power & Light Co., Metropolitan Edison Co., Pennsylvania Electric 
+Co., PPL Electric Utilities Corp., Potomac Electric Power Co., and 
+Public Service Electric and Gas Co.  Intervenor PECO Energy 
+Company only joins the utility petitioners' section 205 argument.
+
+under section 203 of the Act to require Commission approval 
+for withdrawal from an ISO.  Finally, petitioner Public Ser-
+vice Electric and Gas Company ("PSE&G") challenges 
+FERC's order requiring the generic reformation of pre-
+existing wholesale power contracts to reflect transmission 
+pricing concepts available under the new regime as failing to 
+comply with the Mobile-Sierra doctrine.  Because we agree 
+with the petitioners on all three issues, we grant the petitions 
+for review.
+
+                          I. Background
+
+              A. Statutory and Regulatory Framework
+
+     Section 201(b) of the Federal Power Act confers upon 
+FERC jurisdiction over all rates, terms, and conditions of 
+electric transmission service provided by public utilities in 
+interstate commerce, as well as over the sale of electric 
+energy at wholesale.  16 U.S.C. s 824(b).  Under section 205 
+of the Act, the Commission is obliged to assure that the rates 
+and charges demanded or received by any public utility in 
+connection with the interstate transmission or sale of electric 
+energy are just and reasonable, and that no public utility's 
+rates will unduly discriminate against any consumers.  Id. 
+s 824d(a), (b);  see NAACP v. Federal Power Comm'n, 425 
+U.S. 662, 669-71 (1976).  Section 206 of the Act authorizes 
+FERC to investigate, on its own motion or upon complaint, 
+rates and terms of service.  See 16 U.S.C. s 824e.
+
+     "Historically, electric utilities were vertically integrated, 
+owning generation, transmission, and distribution facilities 
+and selling these services as a 'bundled' package to wholesale 
+and retail customers in a limited geographical service area."  
+Public Utility Dist. No. 1 of Snohomish Co. v. FERC, 272 
+F.3d 607, 610 (D.C. Cir. 2001) ("Snohomish Co.") (citation 
+omitted);  see New York v. FERC, 122 S. Ct. 1012, 1016-18 
+(2002).  However, by 1940, significant economic changes and 
+technological advances made it possible for many new en-
+trants in the generating markets to sell energy at a lower 
+price than many existing generation facilities. See Snohomish 
+Co., 272 F.3d at 610;  New York v. FERC, 122 S. Ct. at 1017-
+
+18.  "But barriers to a competitive wholesale power market 
+remained because if and when the existing vertically integrat-
+ed utilities provided regional transmission access to these new 
+efficient generating plants, they favored their own genera-
+tion."  Snohomish Co., 272 F.3d at 610.  Finding that utilities 
+would use their market power to deny transmission access to 
+competing generation sources, FERC issued an order in 1996, 
+relying upon its statutory authority under sections 205 and 
+206 of the Act, see 16 U.S.C. ss 824d(b), 824e(a), requiring a 
+restructuring of the power industry.  That order, Order No. 
+888, required that the wholesale transmission function be 
+unbundled from the sale of power and required utilities to 
+provide open access to their transmission lines in a nondis-
+criminatory fashion.  Promoting Wholesale Competition 
+Through Open Access Non-Discriminatory Transmission 
+Services by Public Utilities, Order No. 888, FERC Stats. & 
+Regs. p 31,036, 61 Fed. Reg. 21,540 (May 10, 1996), clarified, 
+76 F.E.R.C. p 61,009, and 76 F.E.R.C. p 61,347 (1996), on 
+reh'g, Order No. 888-A, FERC Stats. & Regs. p 31,048, 62 
+Fed. Reg. 12,274 (Mar. 14, 1997), clarified, 79 F.E.R.C. 
+p 61,182 (1997), on reh'g, Order No. 888-B, 81 F.E.R.C. 
+p 61,248, 62 Fed. Reg. 64,688 (1997), on reh'g, Order No. 
+888-C, 82 F.E.R.C. p 61,046 (1998), aff'd, Transmission Ac-
+cess Policy Study Group v. FERC, 225 F.3d 667 (D.C. Cir. 
+2000), aff'd sub nom. New York v. FERC, 122 S. Ct.  1012 
+(2002) (hereinafter "Order No. 888").
+
+     Order No. 888, among other things, set forth the frame-
+work for voluntarily creating Independent System Operators 
+("ISOs"), independent companies that manage transmission 
+facilities owned by utilities.  61 Fed. Reg. at 21,595-97.  ISOs 
+have no financial stake in any power market participant, have 
+the ability to halt generation causing transmission system 
+constraints, and must provide real-time transmission informa-
+tion to market participants.  Id.  The Commission empha-
+sized that an ISO's independence with respect to governance 
+and financial interests was fundamental to assuring that an 
+ISO would not favor any class of transmission users.  Id. at 
+21,596. Order No. 888 also specifically required tight power 
+pools to file open access tariffs and reformed power pool 
+
+agreements to establish open, non-discriminatory member-
+ship provisions and to modify provisions that were unduly 
+discriminatory or preferential.  Id. at 21,594.  Tight power 
+pools are highly integrated pooling arrangements, involving a 
+central dispatch, where utilities extensively coordinate their 
+planning and operations.  FERC stated that power pools 
+could, but were not required to, satisfy Order No. 888's 
+comparability2 and nondiscrimination requirements by form-
+ing a properly constructed ISO.  See id. at 21,593-94.
+
+                    B. The PJM Interconnection
+
+     The Pennsylvania-New Jersey-Maryland ("PJM") Inter-
+connection is a tight power pool.  See Order No. 888, 61 Fed. 
+Reg. at 21,594.  The PJM power pool--the oldest and largest 
+power pool in the nation--was formed as a voluntary organi-
+zation comprised of investor-owned utilities that operate their 
+generating and transmission facilities in a coordinated man-
+ner so that regional power loads can be met reliably and 
+efficiently.  It was formed in 1927, and became a "tight" 
+power pool by operating as a single control area with free-
+flowing transmission ties in 1956.  Under the 1956 operating 
+agreement, the PJM members agreed to place their generat-
+ing facilities under the control of a central system dispatcher.  
+The PJM members formed the PJM Interconnection Associa-
+tion in 1993, an unincorporated association which served as 
+the system dispatcher, responsible for administering the PJM 
+service center and control center independent of any individu-
+al member of PJM.  At no point in the power pool's history 
+did FERC assert jurisdiction over the power pool under 
+section 203 of the Act, which provides in pertinent part:  "No 
+public utility shall sell, lease, or otherwise dispose of the 
+whole of its facilities subject to the jurisdiction of the Com-
+
+__________
+     2 Under the comparability standard, " '[a]n open access tariff that 
+is not unduly discriminatory or anticompetitive should offer third 
+parties access on the same or comparable basis, and under the same 
+or comparable terms and conditions, as the transmission provider's 
+uses of its [own] system.' "  Alliant Energy Corp. v. FERC, 253 
+F.3d 748, 751 n.3 (D.C. Cir. 2001) (quoting Transmission Pricing 
+Policy Statement, 59 Fed. Reg. 55,031, 55,034 (1994)).
+
+mission, or any part thereof of a value in excess of $50,000, or 
+by any means whatsoever, directly or indirectly, merge or 
+consolidate such facilities or any part thereof with those of 
+any other person, or purchase, acquire, or take any security 
+of any other public utility, without first having secured an 
+order of the Commission authorizing it to do so."  16 U.S.C. 
+s 824b(a).
+
+     In response to Order No. 888 the PJM members submitted 
+to FERC in 1996 an open access tariff and several negotiated 
+agreements that proposed to revise the PJM governance 
+structure to put in place an ISO.  The utility petitioners filed 
+the tariff and ISO agreement under section 205 and, at the 
+same time, petitioned FERC for a declaratory order disclaim-
+ing jurisdiction over the ISO agreement under section 203.  
+The proposal contemplated that the PJM Interconnection 
+Association would be transformed into the PJM ISO, a sepa-
+rate incorporated entity, which would be responsible for 
+administering operational aspects of the transmission net-
+work, including dispatching generation to customers.  PJM 
+utilities would continue to own and physically operate their 
+transmission facilities, subject to the ISO's directives.
+
+                       C. FERC Proceedings
+
+     FERC asserted jurisdiction over the PJM restructuring 
+under section 203, ruling that the proposal to transfer opera-
+tional responsibilities to the ISO is a "disposition of jurisdic-
+tional facilities" within the meaning of section 203, requiring 
+FERC authorization.  Atlantic City Elec. Co., 76 F.E.R.C. 
+p 61,306, at 62,513, reh'g denied as moot, 77 F.E.R.C. p 61,298 
+(1996) ("Jurisdictional Order").  FERC claimed authority to 
+require preapproval because "the creation of an ISO requires 
+the transfer of control of the operation of the PJM transmis-
+sion facilities from the transmission owners, i.e., the public 
+utilities that together comprise PJM, to the ISO" and was 
+thus a disposition under section 203.  Id.  Utility petitioners 
+sought rehearing of this order;  however, FERC dismissed 
+the rehearing petition as moot in light of its intervening order 
+
+rejecting the restructuring proposal on its merits under sec-
+tion 205.  See Atlantic City Elec. Co., 77 F.E.R.C. p 61,298 
+(1996).  The utility petitioners sought review of the Jurisdic-
+tional Order in this Court, and their petition was held in 
+abeyance pending the conclusion of the administrative pro-
+ceedings on the PJM restructuring.
+
+     In its November 13, 1996 order on the merits, FERC 
+recognized that formulating an acceptable ISO was a difficult 
+task, but found that the restructuring proposal did not con-
+form with the ISO principles set out in Order No. 888.  See 
+Atlantic City Elec. Co., 77 F.E.R.C. p 61,148, at 61,559 (1996).  
+Following the issuance of several orders by FERC providing 
+guidance regarding an acceptable restructuring proposal, the 
+PJM utilities submitted a revised proposal for an ISO on 
+June 6, 1997.  The new governance provisions provided for 
+the establishment of an independent ISO consisting of the 
+PJM Office of Interconnection ("PJM-OI") and an indepen-
+dent PJM Board of Managers ("PJM Board").  Under the 
+Operating Agreement, the PJM-OI would administer the 
+day-to-day operations of the PJM power pool, subject to the 
+PJM Board's oversight.  The PJM Board would be indepen-
+dent of all industry segments, thus precluding any group or 
+members from asserting undue influence over the operation 
+of the PJM power pool.  The ISO would administer certain 
+operational aspects of the transmission network, without as-
+suming physical control over the transmission assets.  The 
+PJM utilities would physically operate their transmission 
+facilities subject to the ISO's directives.
+
+     The Transmission Owners Agreement provided that the 
+utility owners would offer pool-wide transmission service, and 
+would transfer the administration of the tariff and regional 
+transmission planning and operations to the PJM-OI as the 
+ISO.  The Agreement established procedures for changes to 
+rate design and other tariff terms for transmission services.  
+It permitted the transmission owners to file changes in 
+transmission service rate design and non-rate terms and 
+conditions to the tariff under section 205.  However, the 
+independent PJM Board could reject a proposed change by a 
+
+majority vote "as inconsistent with the creation and operation 
+of a robust, competitive and non-discriminatory electric power 
+market in the PJM Control Area."  If the proposal was not 
+rejected by the PJM Board's majority, the PJM-OI would file 
+the proposal with FERC on behalf of the transmission owners 
+pursuant to section 205.  If the proposal were rejected by the 
+PJM Board, then any PJM party or group of parties could 
+submit alternative proposals to FERC pursuant to section 
+206 of the Act.  Finally, both the Operating Agreement and 
+the Transmission Owners Agreement provided that PJM 
+members had the right to withdraw from the ISO under 
+certain circumstances after giving 90 days notices to the 
+PJM-OI.  No provision required parties to seek or obtain 
+FERC approval before withdrawing from the ISO.
+
+     FERC found that the revised proposal generally satisfied 
+its ISO principles, and, subject to certain modifications, condi-
+tionally approved the ISO structure.  Pennsylvania-New 
+Jersey-Maryland Interconnection, 81 F.E.R.C. p 61,257 
+(1997), reh'g denied, 92 F.E.R.C. p 61,282 (2000) ("PJM Re-
+structuring Order").  The utility petitioners have sought re-
+view of two of these modifications and PSE&G has sought 
+review of a third. Specifically, FERC directed petitioners to 
+modify the provision governing changes to rate filings under 
+sections 205 and 206.  Id. at 62,279.  The utilities were 
+required to eliminate a provision allowing them "to unilateral-
+ly file to make changes in rate design, terms or conditions of 
+jurisdictional services," except that they could still unilateral-
+ly seek a change in the transmission revenue requirements.  
+Id.  FERC said that all changes in rate design, terms and 
+conditions of service on the utilities' facilities had to be 
+developed and modified "in accordance with the governance 
+process" approved in the order.  Id.  Rather than permit 
+unilateral filings by the individual utilities as provided in 
+section 205, FERC found that PJM-OI had the "right and 
+responsibility to participate in the development of any such 
+revisions and to intervene in any proceedings pertaining to 
+such filings."  Id.  Thus as FERC would have it, only the 
+ISO could propose changes in rate design.
+
+     FERC also prohibited the withdrawal of utilities from the 
+ISO without preclearance from the Commission.  Despite 
+finding that the PJM Board possessed "the requisite indepen-
+dence from the transmission owners," id. at 62,263, FERC 
+suggested that members might exercise "implicit" control 
+over the Board by terminating membership.  FERC directed 
+the petitioners to modify the restructuring agreements to 
+clarify that "any notice of termination or withdrawal from the 
+agreements must be filed with the Commission and may 
+become effective only upon the Commission's approval."  Id. 
+at 62,265 (emphasis in original).  Thus the "90-day withdraw-
+al right is effective only upon the Commission's approval."  
+Id. at 62,279 (emphasis in original).
+
+     Finally, the Commission ordered the transmission owners 
+to modify any agreements under which they provided trans-
+mission service to eliminate multiple transmission charges 
+and to reflect that PJM-OI administers those agreements.  
+Id. at 62,280-81.  Similarly FERC required the modification 
+of any existing bundled wholesale power sales agreements 
+that were inconsistent with the restructured PJM transmis-
+sion rate arrangements.  This modification was to eliminate 
+charges that the utility owners no longer had to pay.  Id. at 
+62,281-82.  One agreement affected by these requirements is 
+PSE&G's bundled wholesale agreement with the Old Domin-
+ion Electric Cooperative ("Old Dominion").  Their agreement, 
+reached in 1992, provided both parties with long-term capaci-
+ty price stability, by placing strict limitations on the parties' 
+rights to seek changes to the capacity rates.  PSE&G chal-
+lenged FERC's decision and sought rehearing, but the Com-
+mission maintained its position. Pennsylvania-New Jersey-
+Maryland Interconnection, 92 F.E.R.C. p 61,282, at 61,962 
+(2000) (order denying rehearing).  PSE&G petitioned this 
+Court for review of the PJM Restructuring Order as well as 
+the Compliance Order implementing the modification to its 
+bundled wholesale power sale agreement with Old Dominion.  
+Potomac Elec. Power Co., 83 F.E.R.C. p 61,162 (1998), reh'g 
+denied, 93 F.E.R.C. p 61,111 (2000) ("Compliance Order").
+
+     The Jurisdictional Order, 76 F.E.R.C. p 61,306 (1996), the 
+PJM Restructuring Order, 81 F.E.R.C. p 61,257 (1997), and 
+the Compliance Order, 83 F.E.R.C. p 61,162 (1998), are thus 
+properly before this Court on petition for review.
+
+                           II. Analysis
+
+     As a federal agency, FERC is a "creature of statute," 
+having "no constitutional or common law existence or authori-
+ty, but only those authorities conferred upon it by Congress."  
+Michigan v. EPA, 268 F.3d 1075, 1081 (D.C. Cir. 2001) 
+(emphasis added).  Thus, if there is no statute conferring 
+authority, FERC has none.  See id.;  Louisiana Public Ser-
+vice Comm'n v. FCC, 476 U.S. 355, 374 (1986) (recognizing 
+that "an agency literally has no power to act ... unless and 
+until Congress confers power upon it").  In the absence of 
+statutory authorization for its act, an agency's "action is 
+plainly contrary to law and cannot stand."  268 F.3d at 1081 
+(citing American Petroleum Inst. v. EPA, 52 F.3d 1113, 
+1119-20 (D.C. Cir. 1995) ("API");  Ethyl Corp. v. EPA, 51 
+F.3d 1053, 1060 (D.C. Cir. 1995)).
+
+     "To determine whether the agency's action is contrary to 
+law, we look first to determine whether Congress has delegat-
+ed to the agency the legal authority to take the action that is 
+under dispute."  Michigan, 268 F.3d at 1081 (citing United 
+States v. Mead Corp., 533 U.S. 218, 226-27 (2000)).  Where an 
+administrative agency is relying on a statute committed to its 
+administration for authority, we defer to that agency's inter-
+pretation of the statute under the familiar two-step approach 
+of Chevron U.S.A., Inc. v. Natural Resources Defense Coun-
+cil, 467 U.S. 837 (1984), "when it appears that Congress 
+delegated authority to the agency generally to make rules 
+carrying the force of law, and that the agency interpretation 
+claiming deference was promulgated in the exercise of that 
+authority."  Mead Corp., 533 U.S. at 226-27.  Thus, even if 
+an agency possesses delegated authority, if "Congress has 
+directly spoken to the precise question at issue," we "must 
+give effect to the unambiguously expressed intent of Con-
+gress," and that ends this Court's inquiry.  Chevron, 467 U.S. 
+
+at 842-43 (Chevron step one).  Where "the statute is silent or 
+ambiguous with respect to the specific issue, the question for 
+the court is whether the agency's answer is based on a 
+permissible construction of the statute."  Id. at 843 (Chevron 
+step two).  The agency's interpretation of the statute is 
+entitled to deference only if it is "reasonable and consistent 
+with the statute's purpose."  Independent Ins. Agents of Am., 
+Inc. v. Hawke, 211 F.3d 638, 643 (D.C. Cir. 2000).  However, 
+"[m]ere ambiguity in a statute is not evidence of congression-
+al delegation of authority" in the first instance. Michigan, 268 
+F.3d at 1082 (emphasis added).  Rather, Chevron "deference 
+comes into play of course, only as a consequence of statutory 
+ambiguity, and then only if the reviewing court finds an 
+implicit delegation of authority to the agency."  Sea-Land 
+Serv., Inc. v. Dep't of Transp., 137 F.3d 640, 645 (D.C. Cir. 
+1998) (emphasis added).
+
+     Indeed, "[a]gency authority may not be lightly presumed.  
+'Were courts to presume a delegation of power absent an 
+express withholding of such power, agencies would enjoy 
+virtually limitless hegemony, a result plainly out of keeping 
+with Chevron [, Mead,] and quite likely with the Constitution 
+as well.' "  Michigan, 268 F.3d at 1082 (quoting Ethyl Corp., 
+51 F.3d at 1060).  " 'Thus, we will not presume a delegation of 
+power based solely on the fact that there is not an express 
+withholding of such power.' "  Id. (quoting API, 52 F.3d at 
+1120).  Nonetheless, when Congress has explicitly or impli-
+edly left a gap for an agency to fill, there is a delegation of 
+authority to the agency to give meaning to a specific provision 
+of the statute by regulation, "and any ensuing regulation is 
+binding in the courts unless procedurally defective, arbitrary 
+and capricious in substance, or manifestly contrary to the 
+statute."  Mead, 533 U.S. at 227;  see 5 U.S.C. s 706(2)(A) 
+(agency action shall be set aside if found to be "arbitrary, 
+capricious, an abuse of discretion, or otherwise not in accor-
+dance with law").
+
+     With this standard in mind, we turn to the case at bar.  
+First we consider whether FERC had authority to require 
+the utility petitioners to give up their statutory rights under 
+section 205 and determine it did not.  Second we examine 
+
+whether section 203 confers authority on FERC to require 
+petitioners to modify the ISO agreement to allow withdrawal 
+only upon approval by the Commission, and conclude it does 
+not.  Finally, we find that FERC's requirement that pre-
+existing wholesale power contracts be modified was contrary 
+to law under the Mobile-Sierra doctrine.
+
+                      A. Section 205 Rights
+
+     Section 205 of the Federal Power Act gives a utility the 
+right to file rates and terms for services rendered with its 
+assets. 16 U.S.C. s 824d.  The PJM members had voluntarily 
+proposed a sharing arrangement on changes to rate design 
+that attempted to balance the utility owners' rights and the 
+ISO Board's independence.  FERC disapproved this sharing 
+arrangement and directed the utility petitioners to give up all 
+authority to make unilateral changes to rate design.  Peti-
+tioners contend that FERC lacks the authority to require the 
+utility owners to give up their statutory rights under section 
+205.  We agree.
+
+     FERC cannot point to any statute giving it authority for its 
+unprecedented decision to require the utility petitioners to 
+cede rights expressly given to them in section 205 of the 
+Federal Power Act.  FERC finds no authority in section 205.  
+Indeed, quite the contrary.  FERC is attempting to deny the 
+utility petitioners the very statutory rights given to them by 
+Congress.  Section 205(d) provides that a public utility may 
+file changes to rates, charges, classification, or service at any 
+time upon 60 days notice.  Id. s 824d(d).  FERC can then 
+review those changes under section 205 and suspend them for 
+a period of five months, but it can reject them only if it finds 
+that the changes proposed by the public utility are not "just 
+and reasonable."  Id. s 824d(e);  see Cities of Campbell v. 
+FERC, 770 F.2d 1180, 1184-85 (D.C. Cir. 1985);  Papago 
+Tribal Util. Auth. v. FERC, 723 F.2d 950, 952-53 (D.C. Cir. 
+1983).  As the Supreme Court stated in United Gas Pipe 
+Line Co. v. Memphis Light, Gas & Water Division, 358 U.S. 
+103, 113-14 (1958), the public utility, "like the seller of an 
+unregulated commodity, has the right ... to change its rates 
+
+... [at] will, unless it has undertaken by contract not to do 
+so."  Section 205 (and 206) of the Act "are simply parts of a 
+single statutory scheme under which all rates are established 
+initially by the [public utilities], by contract or otherwise, and 
+all rates are subject to being modified by the Commission 
+upon a finding that they are unlawful."  United Gas Pipe 
+Line Co. v. Mobile Gas Serv. Corp., 350 U.S. 332, 341 (1956) 
+(emphasis added) (addressing the provisions of the Natural 
+Gas Act parallel to the Federal Power Act).  Thus, FERC 
+plays "an essentially passive and reactive" role under section 
+205.  City of Winnfield v. FERC, 744 F.2d 871, 876 (D.C. Cir. 
+1984) (Scalia, J.).
+
+     Similarly, nothing in section 206 sanctions denying petition-
+ers their right to unilaterally file rate and term changes.  
+Section 206 merely permits the Commission--acting either on 
+its own initiative or after a complaint--to initiate changes to 
+existing utility rates and practices.  In order to make any 
+change in an existing rate or practice, FERC must first prove 
+that the existing rates or practices are "unjust, unreasonable, 
+unduly discriminatory or preferential."  16 U.S.C. s 824e(a);  
+see Alabama Power Co. v. FERC, 993 F.2d 1557, 1569 (D.C. 
+Cir. 1993).  Then FERC must show that its proposed changes 
+are just and reasonable.  Tennessee Gas Pipeline Co. v. 
+FERC, 860 F.2d 446, 454 (D.C. Cir. 1988).  Nothing in this 
+provision gives FERC the power to deny a utility the right to 
+file changes in the first instance.
+
+     The courts have repeatedly held that FERC has no power 
+to force public utilities to file particular rates unless it first 
+finds the existing filed rates unlawful.  See Pub. Serv. 
+Comm'n v. FERC, 866 F.2d 487, 488-89 (D.C. Cir. 1989) 
+(interpreting parallel provision of the Natural Gas Act, 15 
+U.S.C. s 717d) ("On four occasions in the last three years this 
+court has reviewed [FERC] efforts to compromise s 5's limits 
+on its power to revise rates.  On each the court has repelled 
+[FERC]'s gambit.  This is number five.");  Western Res., Inc. 
+v. FERC, 9 F.3d 1568, 1578 (D.C. Cir. 1993) ("We now make 
+it an even six.");  see also Consumers Energy Co. v. FERC, 
+226 F.3d 777, 780 (6th Cir. 2000) (Natural Gas Act);  Louisi-
+ana v. Federal Power Comm'n, 503 F.2d 844, 861 (5th Cir. 
+
+1974) (same).  Nor may FERC prohibit public utilities from 
+filing changes in the first instance.  Rather this Court, among 
+others, has stressed that the power to initiate rate changes 
+rests with the utility and cannot be appropriated by FERC in 
+the absence of a finding that the existing rate was unlawful. 
+Yet here, FERC purports to deny the utility petitioners any 
+ability to initiate rate design changes with respect to services 
+provided with their own assets.  FERC thereby eliminated 
+the very thing that the statute was designed to protect--the 
+ability of the utility owner to "set the rates it will charge 
+prospective customers, and change them at will," subject to 
+review by the Commission.  City of Cleveland v. FPC, 525 
+F.2d 845, 855 (D.C. Cir. 1976).
+
+     Of course, utilities may choose to voluntarily give up, by 
+contract, some of their rate-filing freedom under section 205.  
+Under the Supreme Court's Mobile-Sierra doctrine,3 parties 
+may negotiate a fixed-rate contract with a provision relin-
+quishing their right to file for a unilateral change in rates.  In 
+this case, the parties agreed to a sharing arrangement of the 
+section 205 filing responsibilities.  FERC claims that it relied 
+on Order No. 888 and the "bedrock principle" of ISO indepen-
+dence to require the utility petitioners to cede their section 
+205 rights and mandate a different sharing arrangement.  As 
+FERC believes an ISO to be a public utility within the scope 
+of the Federal Power Act, and thus entitled to make section 
+205 filings, FERC contends that its decision is "entirely 
+reasonable, and is entitled to Chevron deference."  Yet, 
+FERC's approach would turn Chevron on its head. FERC 
+cannot rely on one of its own regulations to trump the plain 
+meaning of a statute.  See Chevron, 467 U.S. at 842-43.  
+While an ISO may have certain section 205 rights, there is 
+simply no denying the utility petitioners' section 205 rights.  
+No matter how "bedrock" the principle of ISO independence 
+may be, Order No. 888 is merely a regulation.  It cannot be 
+
+__________
+     3 The doctrine derives its name from the companion cases United 
+Gas Pipe Line Co. v. Mobile Gas Serv. Corp., 350 U.S. 332 (1956), 
+and Federal Power Comm'n v. Sierra Pac. Power Co., 350 U.S. 348, 
+353 (1956).
+
+the basis for denying the petitioners their rights provided by 
+a statute enacted by both houses of Congress and signed into 
+law by the president.  While there may be some ambiguity in 
+how to treat an ISO under section 205, such "ambiguity is not 
+evidence of congressional delegation of authority" to set aside 
+the utility petitioners' statutory rights under section 205.  
+Michigan, 268 F.3d at 1082.  In sum FERC lacks the author-
+ity to require the petitioners to cede their right under section 
+205 of the Act to file changes in rate design with the 
+Commission.
+
+              B. FERC Jurisdiction Under Section 203
+
+     The utility petitioners argue that FERC erred in directing 
+them to modify their ISO agreements to require Commission 
+approval prior to a utility's withdrawal from the ISO under 
+section 203 of the Act.  Section 203 provides:  "No public 
+utility shall sell, lease, or otherwise dispose of" jurisdictional 
+facilities whose value exceeds $50,000 "without first having 
+secured an order of the Commission authorizing it to do so."  
+16 U.S.C. s 824b(a) (emphasis added).  FERC contends that 
+the formation of the ISO is a "dispos[ition]" of facilities within 
+the meaning of section 203, thus giving the Commission 
+jurisdiction under that section.  We disagree.  A utility does 
+not "sell, lease, or otherwise dispose" of its facilities when it 
+agrees to the changes in operational control necessary to 
+initially join or to withdraw from an ISO.  Therefore FERC 
+exceeded its jurisdiction by directing the utility petitioners to 
+modify their agreement to state that any notice of withdrawal 
+from the ISO shall become effective only upon FERC approv-
+al.
+
+     When the utilities joined the PJM ISO there was no 
+transfer of ownership or even physical operation of their 
+facilities.  Pursuant to the operating agreement, each of the 
+utilities retained both ownership and physical control of their 
+facilities, but gave to the PJM ISO certain operational re-
+sponsibilities relating to the provision of transmission services 
+using their jurisdictional facilities.  Thus, when a PJM mem-
+ber withdraws, there is again, no change in ownership, and no 
+
+grounds for FERC to require preapproval under section 203.  
+FERC contends that the word "dispose" in section 203 can be 
+construed broadly to include the transfer of supervisory 
+operational responsibility over facilities to the ISO.  We find 
+such an interpretation to be inconsistent with a logical read-
+ing of the statute and an unexplained departure from past 
+FERC practice.
+
+     First, the terms "sell" and "lease" in section 203 clearly 
+contemplate a transfer of ownership or proprietary interests.  
+Id.  The expression "otherwise dispose" requires a similar 
+interpretation under the principle noscitur a sociis.  See Dole 
+v. United Steelworkers of America, 494 U.S. 26, 36 (1990) 
+("words grouped in a list should be given a related meaning");  
+Neal v. Clark, 95 U.S. 704, 708-09 (1878) ("the coupling of 
+words together shows that they are to be understood in the 
+same sense").  Thus, the term "dispose" in section 203 can 
+only reasonably be read to refer to changes or transfers in 
+proprietary interests or something akin thereto.
+
+     Second, FERC's expansive reading of its section 203 juris-
+diction cannot be reconciled with section 202, which has been 
+definitively interpreted to make clear that Congress intended 
+coordination and interconnection arrangements be left to the 
+"voluntary" action of the utilities.  See 16 U.S.C. s 824a(a).  
+Section 202 provides that "the Commission is empowered and 
+directed to divide the country into regional districts for the 
+voluntary interconnection and coordination of facilities for the 
+generation, transmission, and sale of electric energy."  Id. 
+(emphasis added).  That provision does not provide FERC 
+with any substantive powers "to compel any particular inter-
+connection or technique of coordination."  Duke Power Co. v. 
+Federal Power Comm'n, 401 F.2d 930, 943 (D.C. Cir. 1968) 
+(emphasis in original);  see Central Iowa Power Coop. v. 
+FERC, 606 F.2d 1156, 1167-68 (D.C. Cir. 1979) ("Given the 
+expressly voluntary nature of coordination under section 
+202(a), the Commission could not have mandated adoption of 
+the [coordination] Agreement").  Thus, it would be anomalous 
+for FERC to have jurisdiction under section 203 to prohibit 
+the utility petitioners from ending their voluntary coordina-
+tion and interconnection through the PJM ISO.  This does 
+
+not mean that FERC is prohibited from reviewing entry to or 
+exit from an ISO.  The petitioners are not disputing FERC's 
+authority to review their agreements at the outset and to 
+decide, based on the evidence in the record, whether the 
+entrance and exit rights specified therein are just and reason-
+able within the meaning of section 205.  Nor do petitioners 
+contest FERC's authority to review a specific withdrawal 
+under section 205.  Rather it is only FERC's assertion of 
+jurisdiction under section 203 that is at issue.
+
+     Third, prior to this case this Commission held a similar 
+view of the limits of its own jurisdiction under section 203.  It 
+observed that "Section 203 was ... designed to insure that 
+transfers of utility property to, as well as from, the companies 
+subject to our jurisdiction would be in the public interest."  
+Duke Power Co., 36 F.P.C. 399, 402 (1966) (emphasis added), 
+rev'd on other grounds, Duke Power Co. v. Federal Power 
+Comm'n, 401 F.2d 930 (D.C. Cir. 1968).  Indeed, prior to this 
+case, FERC had never applied section 203 where only opera-
+tional control was transferred.  Cases such as Central Ver-
+mont Public Service Corp., 39 F.E.R.C. p 61,295 (1987), and 
+Savannah Electric & Power Co., 42 F.E.R.C. p 61,240 (1988), 
+cited by FERC, are not helpful to the Commission's position 
+because they involved changes in corporate ownership and 
+direct control.  Central Vermont involved a transfer of own-
+ership and control of jurisdictional facilities through a trans-
+fer of common stock from existing shareholders to a newly 
+created holding company.  Savannah Electric involved the 
+transfer of all of a public utility's stock to a registered public 
+utility holding company.  Indeed these cases note that there 
+was a change in proprietary interest contemplated in the 
+disputed transaction.  See Central Vermont, 39 F.E.R.C. at 
+61,960 ("Although the current stockholders of the public 
+utility will own stock in the holding company after the reorga-
+nization is completed, they will no longer have a proprietary 
+interest in, or direct control over, the jurisdictional facilities") 
+(emphasis added);  Savannah Electric, 42 F.E.R.C. at 61,778. 
+Similarly the sale/leaseback cases cited by FERC are not 
+relevant because they all involve transfers of proprietary 
+interests through an actual sale of facilities, which are then 
+
+leased back to the original owner.  See Baltimore Refuse 
+Energy Systems Co., 40 F.E.R.C. p 61,366 (1987).  In those 
+cases there was no change in operational control at all--there 
+section 203 approval was required solely because of a change 
+in the legal ownership of the facilities.  Thus, if these cases 
+show anything, it is that FERC's jurisdiction under section 
+203 turns on changes in ownership.
+
+     FERC's supporting intervenors argue that the transfer of 
+operational control over jurisdictional facilities to the ISO is a 
+"disposition" within the meaning of section 203.  Similarly, in 
+the Jurisdictional Order, FERC noted that "the creation of 
+an ISO requires the transfer of control of the operation of the 
+PJM transmission facilities from the transmission owners ... 
+to the ISO and is a disposition of jurisdictional facilities 
+requiring prior Commission authorization under section 203."  
+76 F.E.R.C. at 62,513.  Yet, FERC did not rely on this 
+analysis in its brief before this Court, and with good reason.  
+In the proceedings below, the Commission found that the 
+PJM power pool was already "operated" on a coordinated 
+basis, with a central dispatch, "by an independent staff re-
+ferred to as the PJM Office of Interconnection (PJM-OI)." 
+PJM Restructuring Order, 81 F.E.R.C. at 62,234 n.1.  Prior 
+to the attempt to create an ISO, FERC never asserted 
+section 203 jurisdiction over the PJM tight power pool.  The 
+"operational control" exercised by the ISO is no different 
+from that of its predecessor power pool.  The distinction 
+suggested by the intervenors, that the PJM utilities are 
+transferring control to an independent ISO rather than a 
+member-controlled tight power pool, is a very thin reed.  
+Moreover, although the ISO would exercise supervision over 
+the daily scheduling and dispatching activities of the network 
+facilities, the participating members would retain physical 
+control and ownership of the transmission facilities and be 
+responsible for their maintenance.  The transmission owners 
+would merely transmit energy in accordance with the di-
+rectives of the ISO.  Public utilities make decisions about the 
+operational control of their facilities on a regular basis.  They 
+give customers the right to demand capacity, they enter into 
+coordination agreements, and they join together in coopera-
+
+tive ventures that require common management.  Yet, for 
+more than half a century, section 203 has never been con-
+strued to give the Commission control over every such agree-
+ment.  Its focus is plainly upon the disposition of the facili-
+ties themselves.  As "[a]gency authority may not be lightly 
+presumed," Michigan, 268 F.3d at 1082, we find that FERC's 
+attempted reach under section 203 exceeds its statutorily-
+defined grasp.  No "disposition" within the meaning of sec-
+tion 203 is contemplated by the ISO agreements, and thus 
+FERC has no jurisdiction to require preapproval under that 
+provision.
+
+               C. Generic Modification of Contracts
+
+     Finally we turn to PSE&G's challenge to FERC's order 
+requiring the generic reformation of pre-existing wholesale 
+power contracts to reflect transmission pricing under the new 
+ISO regime.  PSE&G contends that the Commission failed to 
+make the particularized findings required under the Mobile-
+Sierra doctrine.  FERC concedes that it did make a "gener-
+ic" finding that existing bilateral and power sale agreements 
+of PJM members had to be modified, but that such a generic 
+finding was entirely appropriate because the PJM restructur-
+ing plan "transferr[ed] the obligation to provide open access 
+transmission services from the individual [utility owners] to 
+the ISO."  PJM Restructuring Order, 81 F.E.R.C. at 62,281.  
+FERC submits that a "decision to proceed generically across 
+a group of contracts that were universally affected in the 
+same way by the restructuring plan was reasonable."  Yet 
+petitioner PSE&G had a Mobile-Sierra contract that was 
+negotiated at arms length with Old Dominion and designed to 
+provide both parties with long-term price certainty and 
+FERC made no findings that modifications to this contract 
+were required by the public interest.  Because the Commis-
+sion has not made the required findings under the Mobile-
+Sierra doctrine, FERC's order is contrary to law and must be 
+vacated.
+
+     Prior to the formation of the PJM ISO, transmission ser-
+vice was (and in most parts of the country, still is) sold on a 
+
+utility-by-utility basis.  If a power sale required transmission 
+service over the lines of more than one utility to travel on a 
+path from the power plant to the buyer, transmission service 
+would be purchased separately from each intervening utility.  
+Under the Commission's ISO guidelines set forth in Order 
+No. 888, the transmission lines of all of the utilities that join 
+an ISO are to be pooled together and sold for a single rate, 
+even when a transaction uses the transmission lines of more 
+than one utility.  In Order No. 888 and its progeny, FERC 
+indicated that the new transmission pricing rules were to 
+apply prospectively only.  Pre-existing contracts would be left 
+unchanged unless the parties voluntarily agreed to an amend-
+ment or the customer proved, on a case-by-case basis, that 
+the facts presented by an individual contract justified a 
+change.  See Order No. 888, 61 Fed. Reg. at 21,557-58.  Yet, 
+in the PJM Restructuring Order the Commission ordered 
+that all pre-existing contracts be modified without making 
+any of the required findings under the Mobile-Sierra doc-
+trine.
+
+     Under the Mobile-Sierra doctrine FERC may abrogate or 
+modify freely negotiated private contracts that set firm rates 
+or establish a specific methodology for setting the rates for 
+service, and deny either party the right to unilaterally change 
+those rates, only if required by the public interest.  Texaco 
+Inc. v. FERC, 148 F.3d 1091, 1095 (D.C. Cir. 1998).  As we 
+have held, the purpose of the Mobile-Sierra doctrine is to 
+preserve the benefits of the parties' bargain as reflected in 
+the contract, assuming that there was no reason to question 
+what transpired at the contract formation stage.  See Town of 
+Norwood v. FERC, 587 F.2d 1306, 1312 (D.C. Cir. 1978).  The 
+public interest standard of the Mobile-Sierra doctrine is 
+much more restrictive than the just and reasonable standard 
+of section 205 of the Act.  See Potomac Elec. Power Co. v. 
+FERC, 210 F.3d 403, 407 (D.C. Cir. 2000);  Texaco, 148 F.3d 
+at 1097.  Yet, in requiring modifications to the PSE&G-Old 
+Dominion 1992 agreement, FERC failed to undertake, let 
+alone satisfy, the requirements of the Mobile-Sierra doctrine.  
+At no time did FERC make a particularized finding that the 
+
+public interest required the modification of the PSE&G-Old 
+Dominion contract.
+
+     FERC claims to have engaged in a fact-specific inquiry in a 
+section 206 complaint brought by Old Dominion.  See Old 
+Dominion Elec. Coop. v. Public Serv. Elec. & Gas Co., 84 
+F.E.R.C. p 61,155 (1998).  However, in that proceeding, the 
+Commission did not engage in any analysis;  instead, dismiss-
+ing Old Dominion's complaint, the Commission stated that 
+"we are not persuaded that this docket is the proper place to 
+address the issue of multiple [transmission] charges. Rather, 
+the docket in which this matter should be (and, in fact, 
+already has been) addressed is the PJM [Restructuring 
+Order] proceeding."  Id. at 61,844.  Nor is any case-specific 
+justification to be found in the PJM Restructuring Order. 
+Instead, FERC simply relied on its general policy to be 
+applied in ISOs that the charging of multiple, utility-specific 
+transmission rates in a transaction that requires use of more 
+than one utility owner's lines should be eliminated.  See PJM 
+Restructuring Order, 81 F.E.R.C. at 62,281.  This is insuffi-
+cient to satisfy the requirements of the Mobile-Sierra doc-
+trine.  "[M]ore is required to justify regulatory intervention 
+in a private contract than a simple reference to the policies 
+served by a particular rule."  Texaco, 148 F.3d at 1097.  
+While FERC may be "becoming hostile to Mobile-Sierra" and 
+the particularized findings that doctrine requires, Boston 
+Edison Co. v. FERC, 233 F.3d 60, 68 (1st Cir. 2000), the 
+Commission would do well to heed its own admonition and 
+"not take contract modification lightly."  Potomac Elec. Pow-
+er Co. v. Allegheny Power Sys., 85 F.E.R.C. p 61,160, at 
+61,632-33 (1998), aff'd, Potomac Elec. Power Co. v. FERC, 
+210 F.3d 403 (D.C. Cir. 2000).
+
+     Despite FERC's bald assertion that the transmission rate 
+under the PSE&G-Old Dominion 1992 agreement was "un-
+reasonable" or "discriminatory," this case involves little more 
+than a party to a contract seeking to avail itself of a lower 
+rate than it was entitled to under the terms of its original 
+agreement.  This Court has consistently held, however, that a 
+rate differential attributable to the operation of the Mobile-
+Sierra doctrine, is not, by itself, enough to demonstrate that 
+
+the public interest demands a modification to or an abroga-
+tion of an existing contract.  See, e.g., Potomac Elec., 210 
+F.3d at 409;  Cities of Bethany v. FERC, 727 F.2d 1121, 1139-
+41 (D.C. Cir. 1984).  As FERC's decision to require the 
+generic reformation of pre-existing wholesale power contracts 
+to reflect transmission pricing under the new ISO regime was 
+based on little else, it fails to comply with the Mobile-Sierra 
+doctrine, and is hereby vacated.
+
+                         III. Conclusion
+
+     FERC has attempted to exert authority where it has none. 
+FERC can point to no statute authorizing its requirement 
+that the utility petitioners cede their statutory rights under 
+section 205 of the Federal Power Act to file changes in rate 
+design with the Commission.  Nor does FERC have jurisdic-
+tion under section 203 of the Act to require the utility 
+petitioners to modify the ISO agreement to allow withdrawal 
+only upon approval by the Commission.  A utility does not 
+"sell, lease, or otherwise dispose" of facilities when it agrees 
+to the changes in operational control necessary to withdraw 
+from (or initially join) an ISO.  Finally, FERC's requirement 
+of generic reformation of pre-existing wholesale power con-
+tracts, without making a particularized finding that the public 
+interest requires modification of a particular agreement, is a 
+violation of the Mobile-Sierra doctrine.  Therefore, we grant 
+the petitions for review, vacate those portions of the Jurisdic-
+tional Order, PJM Restructuring Order, and the Compliance 
+Order that are inconsistent with this opinion, and remand for 
+further proceedings.
+
+                                                                 So ordered.
+

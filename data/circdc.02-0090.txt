@@ -1,0 +1,337 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 8, 2002    Decided April 9, 2002 
+
+                           No. 00-1092
+
+            Sithe/Independence Power Partners, L.P., 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+   Public Service Commission of the State of New York, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Richard P. Bress argued the cause for petitioner.  With 
+him on the briefs were David L. Schwartz and Minh N. Vu.
+
+     Beth G. Pacella, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+
+the brief were Cynthia A. Marlette, Acting General Counsel, 
+and Dennis Lane, Solicitor.
+
+     Elias G. Farrah, Rebecca J. Michael and Arnold H. Quint 
+were on the brief for intervenors New York Independent 
+System Operator, Inc. and New York Transmission Owners.
+
+     Before:  Edwards and Sentelle, Circuit Judges, and 
+Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Silberman.
+
+     Silberman, Senior Circuit Judge:  Sithe petitions for re-
+view of two orders by the Federal Energy Regulatory Com-
+mission, one conditionally accepting a proposal to restructure 
+wholesale electricity sales and transmission services in New 
+York State, the second denying Sithe's application for rehear-
+ing.  Because FERC failed to explain adequately its decision 
+to depart from its longstanding cost-causation principle in 
+approving a component of the proposal, we grant Sithe's 
+petition for review in part.
+
+                                I.
+
+     Sithe describes itself as a non-utility generator that owns 
+and operates an electric generation facility in New York.  Its 
+facility interconnects with the utility Niagara Mohawk Power 
+Corporation's transmission system.  Petitioner sells energy, 
+on a wholesale basis, to Niagara and Consolidated Edison 
+Company of New York, Inc. under privately negotiated power 
+purchase agreements.  Sithe challenges the Commission's 
+approval of new tariff provisions governing charges for so-
+called transmission losses.  In Order 888,1 FERC generally 
+
+__________
+     1  Promoting Wholesale Competition Through Open Access 
+Non-Discriminatory Transmission Servs. by Pub. Utils.;  Recov-
+ery of Stranded Costs by Pub. Utils. & Transmitting Utils., Order 
+No. 888, FERC Stats & Regs. p 31,036 (1996), order on reh'g, Order 
+No. 888-A, FERC Stats & Regs. p 31,048, order on reh'g, Order 
+888-B, 81 FERC p 61,248 (1997), order on reh'g, Order No. 888-C, 
+82 FERC p 61,046 (1998), affirmed in relevant part, remanded in 
+part on other grounds sub nom. Transmission Access Policy Study 
+
+required each public utility to file tariffs for open access 
+transmission services to remedy undue discrimination in ac-
+cess to their monopoly-owned transmission wires and re-
+quired certain power pools, including the New York Power 
+Pool (comprising eight utilities, including Niagra and Con Ed, 
+referred to as the "Member Systems"), to file reformed 
+pooling agreements by December 31, 1996.  Under the Order, 
+open access transmission tariffs were to contain at least 
+equivalent terms and conditions for non-discriminatory ser-
+vice to those set out in a Commission-prescribed pro forma 
+tariff.  It also encouraged the formation of independent sys-
+tem operators (ISOs) to administer transmission services and 
+new markets for wholesale electricity transactions.  These 
+ISOs were to adopt transmission (and ancillary services) 
+pricing policies to promote the efficient use of, and invest-
+ment in, generation, transmission, and consumption.  In re-
+sponse, the Member Systems filed a proposal to replace the 
+existing New York power pool structure with a newly created 
+ISO:  the New York Independent System Operator.  Accord-
+ing to the proposal, the NYISO would be an independent, 
+non-profit administrator of transmission services and of the 
+new markets for wholesale electricity transactions in New 
+York--the accompanying tariff was intended to provide a 
+single open access tariff over the entire New York State 
+transmission system.
+
+     This case involves the propriety of the Member Systems' 
+proposed transmission services pricing, specifically the pric-
+ing for transmission losses.  Transmission losses refer to the 
+amount of electric energy lost when electricity flows across a 
+transmission system:  it is a function of the square of the 
+amount of the current flowing on the wire and of the resis-
+tance it encounters.  In general, the current on a given 
+transmission line remains a constant, and the loss associated 
+with a single transmission of electricity is primarily a function 
+of the distance the electricity is transmitted.  Northern 
+States Power Co. (Minn) v. FERC, 30 F.3d 177, 179-80 (D.C. 
+
+__________
+Group v. FERC, 225 F.3d 667 (D.C. Cir. 2000), aff'd sub nom. New 
+York v. FERC, 122 S. Ct. 1012 (2002).
+
+Cir. 1994).  Utilities (who control the transmission lines) must 
+deliver to the electricity customer the entire amount contract-
+ed for, regardless of the inevitable loss, so a transmission 
+customer (an entity such as Sithe who pays a utility to 
+transmit electricity across its lines) generally compensates a 
+utility for lost energy either by providing more energy at the 
+injection point than the electricity customer receives at the 
+withdrawal point, or by providing energy in-kind to the 
+transmitting utility.
+
+     The Member Systems propose tariffs that would charge 
+transmission customers for transmission losses predicted on a 
+"locational based marginal pricing" (LBMP) method, which 
+would take into account costs imposed by congestion on the 
+system.  As its name implies, the methodology has both a 
+marginal and a locational element.  We gather from the 
+parties' submissions that it predicts costs taking into account 
+location, because the efficiency of a given electricity with-
+drawal or injection location may depend on the relative 
+crowdedness of a transmission route at that time.  It also 
+projects costs on the margin, meaning that it takes into 
+account how much electricity is already on the system when 
+an additional unit is added, because the more electricity on 
+the system at a given time the higher the costs.  For 
+example, in the event of ten consecutive transactions each 
+adding one unit of electricity to the system, the tenth transac-
+tion imposes a greater cost than the first additional unit.  The 
+parties do not make clear whether the LBMP method also 
+includes traditional cost factors such as the distance load 
+traveled.  Previously, losses had been calculated using either 
+a "rolled-in" rate or through modeling techniques that allocat-
+ed charges to each transmission customer based on average 
+(or approximate) system-wide costs imposed by the addition 
+of load.  When utilities allocated losses through a "rolled-in" 
+average system transmission loss factor, system-wide losses 
+were divided pro rata, and each customer paid a standard, 
+per-unit amount.  Similarly, utilities have previously allocated 
+losses based on their transmission customers' incremental 
+usage, using load flow models and prioritization systems to 
+approximate the marginal losses caused by each transmission 
+customer.  The Member Systems asserted that their pro-
+
+posed LBMP-based tariff would be an improvement.  It 
+would send efficient price signals to market participants 
+because it could calculate the actual marginal losses transmis-
+sion customers impose on the system.
+
+     But in its tariff, the Member Systems did not propose to 
+rely on a straight LBMP methodology;  instead, they added a 
+"simplifying assumption" that is the crux of this case.  Every 
+Mwh of energy injected into the system is treated as the 
+"last" Mwh of energy on the system, and therefore this 
+assumption would lead to the systematic overcollection of the 
+amount of revenue needed to offset the transmission system's 
+actual losses.  The record indicates that the overcollection 
+would be as high as 31%.  The Member Systems proposed 
+using the excess amounts to offset the NYISO's Scheduling, 
+System Control and Dispatch Service charge (the "Scheduling 
+Charge"), before allocating such costs among transmission 
+customers.  Generally, the total Scheduling Charge paid by a 
+particular transmission customer is the product of the Sched-
+uling Charge rate and the amount of power withdrawn by the 
+customer from the system.  That rate equals the NYISO's 
+monthly overhead and other costs and expenses, minus cer-
+tain credits such as overcollections for transmission losses, 
+divided by the total number of billing units in the system.  
+The Member Systems proposed to provide a sort of indirect 
+refund of overcollections to those transmission customers 
+subject to the Scheduling Charge.  Unfortunately, as dis-
+cussed below, FERC has never established that each entity 
+that would be overcharged by the LBMP methodology is 
+subject to and would benefit from a reduced Scheduling 
+Charge.
+
+     In relevant part, FERC conditionally accepted the Member 
+Systems' proposal;  summarily rejected Sithe's objections to 
+the proposed treatment of transmission losses;  and set re-
+maining issues for hearing.  Sithe petitioned for rehearing, 
+which the Commission denied.
+
+                               II.
+
+     Petitioner challenges as arbitrary and capricious both 
+FERC's approval of the LBMP methodology--with its simpli-
+
+fying assumption--as well as the agency's endorsement of the 
+proposed refund mechanism.  FERC disputes our jurisdiction 
+over the first issue;  section 313(b) of the Federal Power Act, 
+16 U.S.C. s 825l(b), provides that "[n]o objection to the order 
+of the Commission shall be considered by the court unless 
+such an objection shall have been urged before the Commis-
+sion in the application for rehearing unless there is a reason-
+able ground for failure to do so."
+
+     And in its rehearing request, Sithe made the following 
+statement:
+
+     Sithe does not seek rehearing of the Commission's deter-
+     mination that the ISO may charge for losses using a 
+     marginal methodology.  However, Sithe requests that 
+     the Commission reconsider its decision permitting the 
+     ISO to re-allocate to all loads (through the Scheduling 
+     charge) the amount of revenue that the ISO admittedly 
+     overcharged customers for transmission losses.  (Em-
+     phasis added.)
+     
+Sithe, rather unpersuasively, contends that its statement 
+below should be construed as not challenging the concept of 
+"a" LBMP charge but as raising a challenge to this particular 
+application of the methodology.  Nice try--but no cigar.  
+Although the record provides some indication that Sithe was 
+unhappy with the simplifying assumption (for example, it 
+submitted expert testimony as to different methodologies for 
+assessing transmission loss costs), it is also clear that Sithe 
+limited its challenge to the refund mechanism.
+
+     On the other hand, FERC reads Sithe's waiver too broadly.  
+The Commission would have us accept for purposes of this 
+case the LBMP methodology with the simplifying assumption 
+as if it were graven in stone, and therefore in judging its 
+response to Sithe's objection to the refund mechanism that 
+methodology must be regarded as sacrosanct.  But although 
+its challenge was directed to the refund mechanism, petition-
+er did clearly say that "[u]ntil [the member systems] can 
+deliver a means of assessing losses on a marginal basis that 
+permits refunds of overcharges to the customer that over-
+pays, the Commission should reject [the] proposal."  Al-
+
+though Sithe ostensibly has grabbed hold only of the tariff's 
+tail, the tariff cannot go forward so long as petitioner's legal 
+hold on its tail is sufficient.  And FERC cannot justify a 
+perfunctory response to petitioner's refund complaint on 
+grounds that the basic tariff methodology justifies it.
+
+     It will be recalled that the proposed refund mechanism 
+would reduce the Scheduling Charge for transmission custom-
+ers.  Sithe objects on two grounds.  It contends that it does 
+not even pay a Scheduling Charge because that charge is not 
+imposed on transmission customers, such as itself, that 
+"schedule" wholesale bilateral transactions within New York 
+State and do not serve end-use consumers.  The Commis-
+sion's counsel thought otherwise but could point to nothing in 
+the record to support her belief.
+
+     Assuming arguendo that Sithe is correct, it would be part 
+of a class of transmission customers who have been over-
+charged for transmission losses.  The Federal Power Act 
+provides that a utility may not charge rates that "make or 
+grant any undue preference or advantage to any person or 
+subject any person to any undue prejudice or disadvantage."  
+16 U.S.C. s 824d(b);  see also Electricity Consumers Re-
+source Council v. FERC ("ECRC"), 747 F.2d 1511 (D.C. Cir. 
+1984) (remanding a marginal rate scheme that resulted in 
+cross-subsidization of certain customers by other customers).  
+Similarly, under section 205(a) of the Federal Power Act, a 
+utility may charge only rates that are "just and reasonable."  
+16 U.S.C. s 824d(a).2 Interpreting that mandate, we have 
+
+__________
+     2  When assessing whether rate tariffs are just and reasonable, 
+we apply a standard akin to the APA's substantial evidence inquiry, 
+ECRC, 747 F.2d at 1513, which is a subset of the APA's arbitrary 
+and capricious standard.  Memorial Hospital/Adair County Health 
+Ctr., Inc. v. Bowen, 829 F.2d 111, 116-17 (D.C. Cir. 1987).  Similar-
+ly, approval of an unreasonable rate is arbitrary and capricious.  
+MCI Telecommunications Corp. v. FCC, 842 F.3d 1296, 1303-04 
+(D.C. Cir. 1988).  Arbitrary and capricious simply means unreason-
+able.  Detroit Typographical Union No. 18 v. NLRB, 216 F.2d 109, 
+118 (D.C. Cir. 2000);  Association of Data Processing Serv. Orgs., 
+Inc. v. Board of Governors of the Fed. Reserve Sys., 745 F.2d 677, 
+684 (D.C. Cir. 1984).
+
+explained that such rates "should be based on the costs of 
+providing service to the utility's customers, plus a just and 
+fair return on equity."  Alabama Elec. Coop. v. FERC, 684 
+F.2d 20, 27 (D.C. Cir. 1982).  We have consistently upheld 
+rates based on such a cost-causation principle, see, e.g., id.; 
+K N Energy, Inc. v. FERC, 968 F.2d 1295, 1300 (D.C. Cir. 
+1992).
+
+     Even if Sithe gains some benefit from the refund mecha-
+nism, it also claims that it would be entitled to a refund that 
+is equivalent to the amount it has been overcharged.  
+FERC's response in its order on rehearing was merely that 
+the tariffs and refund mechanism produced "efficient price 
+signals," and that petitioner's requested refunds would some-
+how disrupt that price signaling, would be "infeasible," and a 
+matter of "unending controversy."  To be sure, we have 
+acknowledged that feasibility concerns play a role in approv-
+ing rates, indicating that FERC is not bound to reject any 
+rate mechanism that tracks the cost-causation principle less 
+than perfectly, see, e.g., Tejas Power Corp. v. FERC, 908 F.2d 
+998, 1005 (D.C. Cir. 1990).  But the Commission's cursory 
+response simply will not do.  At no point did the Commission 
+explain how these considerations applied.  Why, we wonder, 
+would a different method of refunds, based more closely on 
+cost-causation principles, jeopardize desirable price signaling 
+or be infeasible?
+
+     It may well be that the Commission's refusal to consider 
+petitioner's refund proposal is really attributed to a desire to 
+protect the simplifying assumption.  It could be thought that 
+a more precise refund mechanism--matching the refunds to 
+overpayments--would render the simplifying assumption use-
+less.  But we do not see how the Commission can justify its 
+refusal to insist on equitable refunds, based on its approval of 
+a presumably discriminatory tariff, just because petitioner 
+challenged squarely only the refund mechanism.  If FERC's 
+position were to be that the refund mechanism is inextricably 
+intertwined with the simplifying assumption, then petitioner's 
+challenge to the refund mechanism would perforce question 
+the simplifying assumption.
+
+                             * * * *
+
+     Accordingly, the petition for review is granted in part and 
+we remand the case to the Commission to more adequately 
+respond to petitioner's contentions.
+
+                                                             So ordered.
+
+                                                                     

@@ -1,0 +1,626 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 24, 2000     Decided May 2, 2000 
+
+                           No. 99-1209
+
+                 Potomac Electric Power Company, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                   FirstEnergy Corp., et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Steven J. Ross argued the cause for petitioner.  With him 
+on the briefs were Allen C. Barringer, David B. Raskin and 
+Cynthia L. Taub.
+
+     Lona T. Perry, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+
+the brief was John H. Conway, Deputy Solicitor.  Jay L. 
+Witkin, Solicitor, and Susan J. Court, Special Counsel, en-
+tered appearances.
+
+     Kevin J. McIntyre and Leonard W. Belter were on the 
+brief for intervenors FirstEnergy Corp., et al.
+
+     Before:  Williams, Rogers and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  Potomac Electric Power Company 
+("PEPCO") petitions for review of two orders of the Federal 
+Energy Regulatory Commission ("FERC") denying its re-
+quest under s 206 of the Federal Power Act ("FPA"), 16 
+U.S.C. s 824e (1994), for unilateral modification of the rates 
+prescribed by a long-term, fixed rate, power transmission 
+service agreement between PEPCO and the Allegheny Power 
+System ("APS").  Because FERC did not abuse its discretion 
+in applying the stringent Mobile-Sierra public interest stan-
+dard, and because a mere rate disparity or a benefit to the 
+purchasing utility or its customers from a rate modification 
+does not suffice, without more, to satisfy that standard, we 
+conclude that FERC's decision to dismiss the complaint was a 
+reasonable exercise of its authority.  Accordingly, we deny 
+the petition.
+
+                                I.
+
+     In 1987, PEPCO entered into an 18.5 year power supply 
+agreement with the Ohio Edison System, which was com-
+prised of Ohio Edison Company and Pennsylvania Power 
+Company.  In order to effect delivery of the power to 
+PEPCO's service area, PEPCO and the Ohio Edison System 
+each entered into a transmission service agreement with the 
+APS, an integrated electric utility system directly connected 
+to both PEPCO and the Ohio Edison System.  Under the 
+three agreements, PEPCO would purchase contract entitle-
+ments to a share of the Ohio Edison System's installed 
+generating capacity and associated energy, APS would pur-
+chase from the Ohio Edison System the power intended for 
+PEPCO, and APS would, in turn, resell the power purchased 
+
+from the Ohio Edison System to PEPCO.  The dispute in the 
+instant case involves the agreement between PEPCO and 
+APS.
+
+     PEPCO's agreement with APS provided in relevant part 
+that the base rate for the APS transmission service would 
+commence at $1.70 per kW-month, increase to $2.255 per kW-
+month in 1994, and increase again to $2.815 per kW-month in 
+1999.  In addition, the agreement required PEPCO to pay an 
+"adder" of $1.00 per megawatt-hour for each megawatt-hour 
+of energy that APS delivered.  Furthermore, the agreement 
+was a "fixed rate" contract, meaning that the parties agreed 
+not to unilaterally request a rate change from the Commis-
+sion, as provided in section 9.3 of the agreement, which 
+stated:
+
+     It is the intention of the parties that the rates and terms 
+     of service specified herein shall remain in effect for the 
+     entire term set forth in this Article, and shall not be 
+     subject to change pursuant to the Federal Power Act 
+     absent mutual agreement of the parties or as provided in 
+     section 3.4.
+     
+Section 3.4, in turn, provided for renegotiation "[i]n the event 
+that reasonably unforeseeable circumstances beyond the con-
+trol of any party to this Agreement result in a gross inequity 
+to any party" and outlined a procedure for dispute resolution 
+in case parties fail to reach a new agreement.
+
+     APS submitted the three agreements for FERC approval 
+in March 1987.  See Monongahela Power Co., 39 F.E.R.C. 
+p 61,350, reh'g denied, 40 F.E.R.C. p 61,256 (1987).  In its 
+review of the filing, FERC noted that PEPCO represented 
+that "the rate levels are completely justified on the basis of 
+cost factors."  Id. at 62,093.  Also as recounted by FERC at 
+the time, PEPCO maintained that "once rates are determined 
+to be cost-justified, the noncost factors such as the potential 
+savings to PEPCO are superfluous, and the filing cannot be 
+deemed deficient even if the noncost support were deemed 
+insufficient."  Id.  FERC also noted that "[n]o party to [the] 
+proceeding has alleged that the rates under the three pro-
+posed agreements are unjust and unreasonable," and that 
+"[o]ur review indicates that the rates to PEPCO will not 
+
+generate excessive revenues and should be accepted for filing 
+without suspension."  Id. at 62,096.  FERC accepted the 
+three contracts for filing to become effective June 1, 1987.  
+See id. at 62,098.
+
+     In 1996, FERC issued the first in a series of orders known 
+collectively as "Order No. 888" to address problems associat-
+ed with electric transmission monopolies in the bulk power 
+markets.  See Promoting Wholesale Competition Through 
+Open Access Non-Discriminatory Transmission Services by 
+Public Utilities, 61 Fed. Reg. 21,540 (1996), codified as 
+revised at 18 C.F.R. Pts. 35 & 385 (1999).1  The Order 
+required all public utilities that own, operate, or control 
+interstate transmission facilities to file an open access non-
+discriminatory transmission tariff.  See id. at 21,540.  In its 
+open access transmission tariff ("OATT") proceeding pursu-
+ant to Order No. 888, APS agreed to charge a rate of $1.49 
+per kW-month for its transmission service, a rate substantial-
+ly less than the rate PEPCO was obligated to pay under its 
+1987 agreement with APS.
+
+     Thereafter, PEPCO filed a complaint against APS, request-
+ing that FERC summarily order APS to reduce the rate for 
+transmission services under the 1987 agreement to the same 
+level as APS's rate for comparable service under its OATT.  
+The Federal Power Act provides that electricity rates may be 
+modified in one of two ways:  under s 205, the seller may 
+attempt to prompt rate changes by filing a new rate schedule, 
+which will be reviewed by FERC to determine whether the 
+proposed rates are just and reasonable, see 16 U.S.C. s 824d, 
+and under s 206, FERC may reform the rates "upon its own 
+motion or upon complaint" if it determines the rates have 
+become "unjust, unreasonable, unduly discriminatory or pref-
+
+__________
+     1 For the revisions and clarifications of Order No. 888, see 76 
+F.E.R.C. p 61,009 (1996), 76 F.E.R.C. p 61,347 (1996), and 79 
+F.E.R.C. p 61,182 (1997), on reh'g, Order No. 888-A, 62 Fed. Reg. 
+12274 (1997), on reh'g, Order No. 888-B, 81 F.E.R.C. p 61,248 
+(1997), on reh'g, Order No. 888-C, 82 F.E.R.C. p 61,046 (1998), on 
+appeal sub nom. Transmission Access Policy Study Group, et al. v. 
+FERC, No. 97-1715 (D.C. Cir.) (submitted November 3, 1999).
+
+erential."  Id. s 824e(a).  PEPCO's request for a rate de-
+crease, claiming that APS's rate was "excessive and unreason-
+able," asked FERC to exercise its authority under s 206 to 
+modify existing contracts and reduce the contractual trans-
+mission rate to the OATT rate.
+
+     APS moved to dismiss the complaint, citing section 9.3 of 
+the agreement under which the parties had agreed to elimi-
+nate the right of either party to initiate rate modification 
+pursuant to FERC's s 206 authority.  APS relied primarily 
+on the "Mobile-Sierra" doctrine, named after the two Su-
+preme Court cases that established the "public interest" 
+standard for FERC review of electricity rates in contracts 
+restraining unilateral rate changes.  See United Gas Pipe 
+Line Co. v. Mobile Gas Serv., 350 U.S. 332 (1956);  Federal 
+Power Comm'n v. Sierra Pacific Power Co., 350 U.S. 348 
+(1956). Under the public interest standard of the Mobile-
+Sierra doctrine, FERC has s 206 authority to modify rates 
+"fixed" by a Mobile-Sierra provision " 'where [the existing 
+rate structure] might impair the financial ability of the public 
+utility to continue its service, cast upon other consumers an 
+excessive burden, or be unduly discriminatory.' "  Papago 
+Tribal Util. Auth. v. FERC, 723 F.2d 950, 953 (D.C. Cir. 
+1983) (alteration in original) (quoting Sierra, 350 U.S. at 355);  
+see also Metropolitan Edison Co. v. FERC, 595 F.2d 851, 855 
+(D.C. Cir. 1979).  In essence, APS maintained that PEPCO 
+failed to make the required showing under the Mobile-Sierra 
+doctrine that the public interest was adversely affected by the 
+existing contract.
+
+     In response, PEPCO asserted that the public interest was 
+adversely affected by the contractual rate because the exces-
+sive rates were entirely borne by its ratepayers.  PEPCO 
+also maintained that because of APS's market power, it had 
+little bargaining power at the time it entered the agreement 
+to influence the terms of the contract, including the Mobile-
+Sierra provision in section 9.3.  Furthermore, PEPCO con-
+tended that the rate APS charged itself and others, approxi-
+mately half of what PEPCO was being charged for the same 
+service, constituted undue discrimination prohibited under the 
+Mobile-Sierra doctrine.
+
+     FERC dismissed PEPCO's complaint.  See Potomac Elec. 
+Power Co. v. Allegheny Power Sys., 85 F.E.R.C. p 61,160 
+(1998).  Emphasizing that it "does not take contract modifica-
+tion lightly," FERC reasoned that the mere fact that PEPCO 
+was subject to higher rates under its agreement with APS 
+than it would be under APS's OATT was insufficient reason 
+for abrogating an agreement that PEPCO had fully sup-
+ported at the time of filing and FERC had approved as just 
+and reasonable.  Id. at 61,632-33.  FERC also rejected PEP-
+CO's request that it act sua sponte to reduce the rates for the 
+benefit of PEPCO's ratepayers, reasoning that it would be 
+inappropriate to convert PEPCO's unilateral request for ref-
+ormation into a FERC-initiated contract modification where 
+the parties' agreement contained a Mobile-Sierra provision, 
+and where PEPCO had failed to satisfy the public interest 
+standard.  See id. at 61,633.
+
+     In denying PEPCO's petition for rehearing, FERC reject-
+ed PEPCO's contention that FERC had erred by failing to 
+assess whether the rates were just and reasonable, and 
+defined the issue instead to be whether the rates, having been 
+found to be just and reasonable when originally approved, 
+had become contrary to the public interest.  See Potomac 
+Elec. Power Co. v. Allegheny Power Sys. 87 F.E.R.C. 
+p 61,030, at 61,105 (1999).  FERC noted that, under its prece-
+dent, the fact that a contract has become uneconomic to one 
+of the parties does not necessarily make the contract contrary 
+to the public interest under the FPA.  FERC found no 
+reason to deviate from this precedent because PEPCO failed 
+to present any other ground for finding the agreement con-
+trary to the public interest.  See id.  Responding to PEPCO's 
+argument that the contract was the result of uneven bargain-
+ing power and that FERC's failure to modify the rates rested 
+on its faulty assumption that PEPCO had willingly entered 
+into the agreement, FERC stated first, that PEPCO's conten-
+tion was inconsistent with PEPCO's representations in 1987, 
+see id. at 61,106 n.10, and second, that FERC's decision was 
+based not on PEPCO's initial willingness to enter the agree-
+ment, but on PEPCO's failure to demonstrate that revising 
+the agreement was in the public interest.  See id. at 61,106.  
+
+Finally, in response to PEPCO's request that FERC follow 
+the approach it had adopted in Order No. 888 to allow 
+modification where rates are shown to be no longer just and 
+reasonable, FERC deemed the request misplaced because its 
+Order No. 888 Mobile-Sierra finding applied only to a dis-
+crete set of wholesale requirements contracts, not to trans-
+mission contracts like the one at issue.  See id. at 61,106 n.11.
+
+                               II.
+
+     On appeal, PEPCO contends that by emphasizing only the 
+policies favoring fixed rate contracts and ignoring the FPA's 
+concerns with fairness and anti-competitiveness, FERC failed 
+to meet the FPA's mandate.  More specifically, PEPCO first 
+maintains that FERC's application of the Mobile-Sierra pub-
+lic interest standard ignored FERC's precedent calling for a 
+"flexible" version of the test in situations where FERC is 
+acting or is requested to act on behalf of non-party ratepay-
+ers that are affected by the contract.  Even if FERC applied 
+the correct "version" of the standard, PEPCO maintains 
+second that FERC failed to fulfill its obligation under the 
+public interest standard to ensure that the rates charged 
+under PEPCO's agreement with APS are neither unduly 
+discriminatory nor excessively burdensome on PEPCO's rate-
+payers.  Nor had FERC, PEPCO continues, taken into ac-
+count that the agreement was the result of uneven bargaining 
+power, even though FERC had stated this factor was relevant 
+to a public interest analysis and had made a general finding 
+that transmission contracts entered into before Order No. 888 
+often reflected the exercise of market power.  In other 
+words, PEPCO submits, FERC acted arbitrarily and capri-
+ciously by not applying a flexible public interest standard and, 
+alternatively, by concluding that PEPCO had not met its 
+burden under the stringent Mobile-Sierra public interest 
+standard.
+
+     The court will uphold FERC's orders unless they are 
+"arbitrary, capricious, an abuse of discretion, or otherwise not 
+in accordance with law."  5 U.S.C. s 706(2)(A).  Likewise, the 
+court will uphold FERC's factual findings as long as they are 
+
+supported by substantial evidence.  See 16 U.S.C. s 825l(b);  
+see also Texaco, Inc. v. FERC, 148 F.3d 1091, 1095 (D.C. Cir. 
+1998) (citing Koch Gateway Pipeline Co. v. FERC, 136 F.3d 
+810, 814 (D.C. Cir. 1998)).  We hold that FERC's decision to 
+dismiss the complaint was not an unreasonable exercise of its 
+authority.
+
+     PEPCO concedes, implicitly in its briefs and explicitly at 
+oral argument, that the public interest standard set out in 
+Mobile and Sierra, and not the just and reasonable standard, 
+controls PEPCO's s 206 request.  The court has observed 
+that the Mobile-Sierra public interest standard is much more 
+restrictive than the FPA's "just and reasonable" standard, 
+see, e.g., Union Pacific Fuels, Inc. v. FERC, 129 F.3d 157, 
+161 (D.C. Cir. 1997);  San Diego Gas & Elec. Co. v. FERC, 
+904 F.2d 727, 730 (D.C. Cir. 1990), even characterizing the 
+burden under the public interest standard as "practically 
+insurmountable," Papago, 723 F.2d at 954, and "almost insur-
+mountable."  Kansas Cities v. FERC, 723 F.2d 82, 87-88 
+(D.C. Cir. 1983);  see also Tennessee Gas Pipeline Co., 60 
+F.E.R.C. p 61,318, at 62,104 (1992);  Central Maine Power 
+Co., 54 F.E.R.C. p 61,206, at 61,613-14 (1991).  PEPCO chal-
+lenges such a restrictive characterization of the standard, and 
+contends that FERC was bound by its own precedent to 
+adopt an approach "less restrictive" than the Papago court's 
+phrase "practically insurmountable" suggests.
+
+     For this proposition, PEPCO relies on Northeast Utilities 
+Service Company, 66 F.E.R.C. p 61,332 (1994), aff'd 55 F.3d 
+686 (1995).  In Northeast Utilities, FERC, reviewing a rate 
+agreement in connection with a utility merger, modified a 
+fixed-rate contract "under the public interest standard re-
+quired by the Mobile-Sierra doctrine."  Id. at 62,076.  In 
+modifying the contract, FERC rejected the proposition that 
+the Mobile-Sierra doctrine requires a generally applicable 
+standard that is so stringent as to be "practically insurmount-
+able."  FERC explained:
+
+     [I]f the Commission is to comply with both the Mobile-
+     Sierra imperative to respect contractual arrangements, 
+     on the one hand, and our statutory mandate to protect 
+     
+     the public interest and ensure that rates are just and 
+     reasonable and not unduly discriminatory or preferential, 
+     on the other, the "public interest" standard of review 
+     under the Mobile-Sierra doctrine cannot be "practically 
+     insurmountable" in all cases.
+     
+Id. (footnote omitted) (quoting Papago, 723 F.2d at 954).  In 
+other words, FERC took the position that the court's charac-
+terization of the standard in Papago did not "preclude[ ] the 
+Commission from concluding in other circumstances that the 
+interests of third parties sufficiently outweigh the contracting 
+parties' interests in contract stability to justify the Commis-
+sion's ordering contract modifications."  Id. at 62,086.  FERC 
+distinguished Papago on the basis that "Papago expressly 
+addressed rate changes, not the scope of the Commission's 
+authority upon its initial review of a newly-filed contract," id., 
+and declared that in situations where it is reviewing a fixed-
+rate agreement "for the first time, without having had any 
+previous opportunity to determine whether its terms are 
+lawful," a more relaxed public interest standard is warranted.  
+Id. at 62,087.  The First Circuit affirmed.  See Northeast 
+Utils. Serv. Co. v. FERC, 55 F.3d 686, 692 (1st Cir. 1995).
+
+     FERC, in two subsequent cases that PEPCO also relies on, 
+reaffirmed its position in Northeast Utilities. In Southern 
+Company Services, Inc., 67 F.E.R.C. p 61,080 (1994), FERC 
+reiterated that "the public interest standard of review does 
+not bind the Commission to a practically insurmountable 
+burden in all cases in which the Commission might act to 
+change rates."  Id. at 61,227.  More specifically, FERC stat-
+ed that the cases do not "impose a practically insurmountable 
+burden when the Commission proceeds sua sponte or at the 
+request of non-parties to change rates, terms and conditions 
+in order to protect non-parties to a contract."  Id. (citing 
+Northeast Utils., 66 F.E.R.C. at 62,081-88).  Similarly, in 
+Florida Power & Light Co., 67 F.E.R.C. p 61,141 (1994), 
+FERC stated, "when we are acting sua sponte or at the 
+request of non-parties to change rates, terms and conditions 
+in order to protect non-parties, we are not bound to a 
+standard of review that is practically insurmountable."  Id. at 
+61,399.
+
+     Thus, as PEPCO contends, FERC has at times expressed 
+an intent to apply a standard that is more flexible than the 
+"practically insurmountable" standard that Papago described.  
+However, unlike the circumstances in which FERC has stated 
+it would apply a more flexible standard, PEPCO's s 206 
+request does not involve "the Commission proceed[ing] sua 
+sponte or at the request of non-parties to change rates ... in 
+order to protect non-parties to a contract."  Southern Co., 67 
+F.E.R.C. at 61,227;  see also Florida Power, 67 F.E.R.C. at 
+61,399.  PEPCO is not itself a non-party.  Nor did it offer 
+any evidence (beyond speculation) that the only potential non-
+parties here, its ratepayers, were adversely affected by the 
+existing rates;  it did not, for example, even attempt to show 
+how much if any of the rate disparity was passed on to 
+PEPCO ratepayers rather than borne by the utility itself.  
+Nor does PEPCO's request involve a "newly-filed or previ-
+ously unreviewed agreement."  Northeast Utils, 66 F.E.R.C. 
+at 62,087.2  FERC was clear in Northeast Utilities that it was 
+"not being asked to allow a party a unilateral rate change 
+from a fixed-rate contract whose terms [it] previously accept-
+ed," and that it was instead "reviewing the ... [c]ontract for 
+the first time, without having had any previous opportunity to 
+determine whether its terms are lawful."  Id.  As FERC 
+explained, applying the "practically insurmountable" standard 
+in first review cases would mean that "[its] ability to protect 
+the public interest would be negligible and public regulation 
+would consist of little more than rubber-stamping private 
+contracts."  Id.  By contrast, FERC had approved PEPCO's 
+1987 agreement with APS long before it was presented in 
+1998 with a complaint by one party to the agreement seeking 
+
+__________
+     2 This court has not had occasion to address, and need not do so 
+here, whether FERC has authority to apply a Mobile-Sierra stan-
+dard that is more flexible than the "practically insurmountable" 
+standard whenever it reviews a "newly-filed or previously unre-
+viewed agreement," Northeast Utils, 66 F.E.R.C. at 62,087, or 
+"proceeds sua sponte or at the request of non-parties to change 
+rates ... in order to protect non-parties to a contract."  Southern 
+Co., 67 F.E.R.C. at 61,227;  see also Florida Power, 67 F.E.R.C. at 
+61,399.
+
+a unilateral rate change.  The concerns that FERC raised in 
+Northeast Utilities with regard to applying the "practically 
+insurmountable" public interest standard when reviewing a 
+contract for the first time thus do not apply here.
+
+     The question remains whether FERC abused its discretion 
+in concluding that PEPCO failed to meet its burden under the 
+Mobile-Sierra public interest standard.  PEPCO contends 
+that FERC, in its public interest analysis, failed to consider 
+the excessive burden on PEPCO's ratepayers and the dis-
+criminatory impact of the disparity between the transmission 
+rates set by the 1987 agreement and APS's OATT transmis-
+sion rate.  The problem with PEPCO's position is that, other 
+than pointing out that the contract rate is twice APS's OATT 
+rate, it has presented no evidence regarding how the contract 
+rates are unduly discriminatory or excessively burdensome on 
+PEPCO ratepayers.  The court has repeatedly emphasized 
+the importance of contractual stability in a number of cases 
+involving the Mobile-Sierra doctrine.  See, e.g., Maine Pub. 
+Serv. Co. v. FERC, 964 F.2d 5, 10 (D.C. Cir. 1992);  Cities of 
+Bethany v. FERC, 727 F.2d 1131, 1139 (D.C. Cir. 1984);  
+Town of Norwood v. FERC, 587 F.2d 1306, 1313 (D.C. Cir. 
+1978).  Furthermore, the court has consistently stated that 
+rate disparity attributable to the operation of the Mobile-
+Sierra doctrine is not on that basis alone unduly discriminato-
+ry.  See Maine Pub. Serv., 964 F.2d at 10;  Cities of Bethany, 
+727 F.2d at 1139, 1141;  Metropolitan Edison, 595 F.2d at 857 
+n.38;  Boroughs of Chambersburg v. FERC, 580 F.2d 573, 
+577-78 (D.C. Cir. 1978).  In addition, FERC precedent makes 
+clear that the fact that a contract has become uneconomic to 
+one of the parties does not necessarily render the contract 
+contrary to the public interest.  See Soyland Power Coop., 
+Inc. v. Central Illinois Pub. Serv. Co., 51 F.E.R.C. p 61,004, 
+at 61,013 (1990);  Public Service Co., 43 F.E.R.C. p 61,469, at 
+62,152 (1988);  Gulf States Utils. Co. v. Southern Co. Servs., 
+Inc., 43 F.E.R.C. p 61,003, at 61,014 (1988).  Considering such 
+precedent in favor of protecting contractual stability, 
+PEPCO's failure to provide any evidence of undue discrimina-
+tion or excessive burden, other than the disparity in rates and 
+a bald claim that PEPCO ratepayers would derive benefit 
+
+from a rate modification, renders its request wholly inade-
+quate.  Therefore, FERC's summary dismissal of PEPCO's 
+public interest argument was within its authority.
+
+     PEPCO also maintains that because of uneven bargaining 
+power in 1987, it did not necessarily enter into the fixed-rate 
+agreement with APS willingly.  However, PEPCO's willing-
+ness was not part of FERC's rationale for dismissing the 
+complaint.  FERC pointed out in denying rehearing:
+
+     The "premise" for the Commission's ruling is not that 
+     PEPCO willingly agreed to the Agreement's rates and 
+     terms.  Rather, the "premise" for the Commission's rul-
+     ing is that contract modification is not to be taken lightly 
+     and that, in this case, PEPCO has failed to demonstrate 
+     that a revision to the Agreement is in the public interest.
+     
+PEPCO, 87 F.E.R.C. at 61,106 (footnote omitted).  Moreover, 
+PEPCO can hardly escape the consequences of the fact that 
+its statements to FERC in 1987 show that it fully supported 
+the fixed-rate agreement, see id. at 61,106 n.10, and that it 
+has not alleged bad faith negotiation on the part of the parties 
+to the agreement.  Nothing in the record on appeal demon-
+strates that the contract was the result of APS's market 
+power;  to the contrary, PEPCO has admitted that it had 
+other supply options when it entered the agreement with APS 
+in 1987.  See Monongahela Power Co., 39 F.E.R.C. at 62,092.  
+While the existence of other options does not necessarily 
+mean an absence of market power, PEPCO's assertion to 
+FERC in 1987 that the transmission agreement was cost-
+justified and represented cost savings over other supply 
+options supports such a conclusion.  Therefore, absent any 
+claim, much less evidence, of unfairness or bad faith in the 
+original negotiations, it is reasonable for FERC to require 
+parties "to live with their bargains as time passes and various 
+projections about the future are proved correct or incorrect."  
+Norwood, 587 F.2d at 1312-13.
+
+     To the extent that PEPCO maintains that FERC's refusal 
+to modify the contract is inconsistent with Order No. 888-A, 
+it fares no better.  In Order No. 888-A, FERC found that, 
+prior to July 11, 1994, wholesale requirements contracts 
+
+were "entered into during an era in which transmission 
+providers exerted monopoly control over access to their 
+transmission facilities," and that, as a result, "[m]any of 
+these contracts were the result of uneven bargaining power."  
+Order No. 888-A, FERC Stats. & Regs. p 31,048, at 30,193 
+(1997).  Accordingly, FERC concluded that it was in the 
+public interest to permit those requirements customers to 
+seek modification of their contracts under the just and rea-
+sonable standard, even if the contract contained a Mobile-
+Sierra provision.  See id. at 30,189.  However, as PEPCO 
+concedes, Order No. 888-A's exception to application of the 
+Mobile-Sierra standard plainly applies only to requirements 
+contracts.  Moreover, as PEPCO again concedes, for non-
+requirements contracts, such as the APS agreement, FERC 
+declined to extend its generic Mobile-Sierra findings to all 
+long-term block purchases of electricity.  See id. at 30,195.  
+FERC distinguished these contracts from requirements con-
+tracts based on its conclusion that, in "the majority of cir-
+cumstances, such long-term supply contracts are voluntary 
+arrangements in which neither party had market power."  
+Id.  FERC noted, "[p]arties can avail themselves of the 
+section 205 and 206 procedure already available if they want 
+to seek modification of such contracts."  Id.  That is what 
+PEPCO did here by requesting FERC to employ its s 206 
+authority, and FERC denied PEPCO's petition under the 
+Mobile-Sierra doctrine.  Therefore, FERC has precisely fol-
+lowed the procedure it outlined in Order No. 888-A.
+
+     It appears, then, that PEPCO's complaint is ultimately 
+directed at FERC's application of the Mobile-Sierra doctrine.  
+PEPCO maintains that APS had monopoly power at the time 
+of the 1987 agreement and that FERC, "[h]aving expressly 
+offered buyers ... the opportunity to make section 206 filings 
+to demonstrate that contracts that they previously had en-
+tered into were the subject of uneven bargaining power," has 
+an obligation to take APS's monopoly power into account in 
+its application of the Mobile-Sierra doctrine.  PEPCO's con-
+tention amounts to a claim that FERC's decision to loosen the 
+Mobile-Sierra standard for certain wholesale requirements 
+contracts is equivalent to a commitment on FERC's part to 
+
+conduct a case-by-case inquiry into the presence and extent of 
+market power in every other non-requirement contract con-
+taining a Mobile-Sierra provision.  However, Order No. 
+888-A merely states that "[p]arties can avail themselves of 
+the section 205 and 206 procedures ... if they want to seek 
+modification," id., and does not say anything one way or the 
+other about the relevance of uneven bargaining power to the 
+standard Mobile-Sierra analysis.3  Besides, FERC's position 
+in Order No. 888-A was a carefully considered balance be-
+tween "the desire to honor existing contractual arrange-
+ments" and "the need to provide some means to accelerate 
+the opportunity of parties to participate in competitive mar-
+kets."  Id. at 30,192.  FERC continued, "To accomplish this 
+balance, the Commission ... has made Mobile-Sierra public 
+interest findings ... only as to a limited set of contracts:  
+those wholesale requirements contracts executed on or before 
+July 11, 1994...."  Id.  Therefore, any request for FERC to 
+extend its Order No. 888-A exception for requirements con-
+tracts must be considered in light of the need for such a 
+balance, and nothing in Order No. 888-A obliges FERC to 
+strike the balance in the same way in all contexts.  While 
+PEPCO correctly points out that FERC's discussion of 
+PEPCO's No. 888-A contention is terse, see PEPCO, 87 
+
+__________
+     3 In fact, at least one circuit court has expressed skepticism 
+about the relevance of uneven bargaining power in Mobile-Sierra 
+analysis.  The First Circuit stated:
+
+     As for the seller's market power, reliance on this factor threat-
+     ens to erode the Mobile-Sierra doctrine so substantially that a 
+     fuller explanation from the Commission is required before 
+     proceeding down this route.  After all, some measure of mar-
+     ket power could be present in a large number of contracts.  A 
+     case-by-case inquiry into the presence and extent of market 
+     power would inject a new and potentially time-consuming ele-
+     ment into the Mobile-Sierra analysis, and it is not entirely 
+     clear in any event why the Commission should protect a buyer 
+     who voluntarily enters into an agreement with a dominant 
+     seller.
+     
+Northeast Utils. Serv. Co. v. FERC, 993 F.2d 937, 961 (1st Cir. 
+1993).
+
+F.E.R.C. at 61,106 n. 11, and the relevance of uneven bargain-
+ing power to the Mobile-Sierra analysis remains unclear, 
+PEPCO has failed to demonstrate that it was subject to 
+APS's monopoly power at the time it entered into the 1987 
+agreement.  Having presented no evidentiary detail that 
+might have compelled FERC to consider whether, by analo-
+gy, it should extend its Order No. 888-A public interest 
+findings on a case-by-case basis to non-requirements con-
+tracts possibly involving relevantly similar factual circum-
+stances, PEPCO fails to show that FERC's summary dismiss-
+al was unreasonable.
+
+     Ultimately, PEPCO's case suffers from a failure of proof.  
+PEPCO's counsel explained at oral argument that PEPCO 
+did not seek a hearing before FERC on its s 206 complaint 
+because PEPCO considered its allegations regarding the im-
+pact of the 1987 agreement on its ratepayers to be unrebut-
+ted.  The court strains, in light of precedent, to imagine how 
+PEPCO could conclude that it did not have a burden to offer 
+evidence on this and other relevant factual issues, such as 
+whether and the extent to which the agreement rates ad-
+versely impact PEPCO's ratepayers and whether APS had 
+market power at the time the 1987 agreements were signed.  
+PEPCO's position would undoubtedly have been strengthened 
+had there been evidence in the record to support the asser-
+tions in its briefs regarding the asserted impact on ratepayers 
+and APS's market power, although we express no opinion on 
+the outcome under those circumstances.
+
+     In sum, given the practically insurmountable standard that 
+it faced, PEPCO was obligated to do more than point to the 
+disparity between the agreement rates and the rates it would 
+pay under the APS open access tariff.  FERC reasonably 
+concluded that PEPCO failed to demonstrate that the APS 
+rates in the 1987 agreement are contrary to the public 
+interest.  While FERC retains the statutory authority and 
+duty to correct or prevent an electric rate schedule that 
+" 'might impair the financial ability of the public utility to 
+continue its service, cast upon other consumers an excessive 
+burden, or be unduly discriminatory,' " Papago 723 F.2d at 
+953 (quoting Sierra, 350 U.S. at 355), it acted within its 
+discretion to conclude from the face of the complaint that the 
+
+rates in the previously approved agreement that PEPCO fully 
+supported and claimed was justified were not contrary to the 
+public interest.  Accordingly, we deny the petition.
+
+                  

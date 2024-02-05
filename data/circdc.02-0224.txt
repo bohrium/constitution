@@ -1,0 +1,630 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 5, 2002   Decided October 25, 2002 
+
+                           No. 00-1272
+
+           Competitive Telecommunications Association, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                    AT&T Corporation, et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Robert J. Aamoth argued the cause and filed the briefs for 
+petitioner.
+
+     Mark D. Schneider argued the cause for intervenors 
+WorldCom, Inc., et al., in support of petitioner.  With him on 
+
+the briefs were Michael B. DeSanctis, Katherine A. Fallow, 
+Thomas F. O'Neil III, William Single IV, David W. Carpen-
+ter, Peter D. Keisler, C. Frederick Beckner III, Mark C. 
+Rosenblum, Charles C. Hunter, and Catherine M. Hannan.
+
+     John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, argued the cause for respon-
+dents.  With him on the briefs were John Rogovin, Deputy 
+General Counsel, and Laurence N. Bourne, Counsel.  Nancy 
+C. Garrison, Attorney, U.S. Department of Justice, entered 
+an appearance.
+
+     Michael K. Kellogg argued the cause for intervenors SBC 
+Communications Inc., et al., in support of respondents.  With 
+him on the briefs were Aaron M. Panner, Michael E. Glover, 
+Edward Shakin, Gary L. Phillips, James D. Ellis, and 
+Robert McKenna, Jr.
+
+     Before:  Edwards and Rogers, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  The Telecommunications 
+Act of 1996, Pub. L. No. 104-104, 110 Stat. 56 (codified at 47 
+U.S.C. s 151 (2000)), requires "incumbent" Local Exchange 
+Carriers ("ILECs")--the Bell Operating Companies and their 
+successors, inheritors of AT&T's local exchange facilities and 
+services--to lease unbundled network elements ("UNEs") to 
+their competitors, the competitive Local Exchange Carriers 
+("CLECs").  See s 251(c)(3) of the Act, 47 U.S.C. s 251(c)(3).  
+The object is to enable CLECs to provide telecommunications 
+services in competition with the ILECs.  Petitioner Competi-
+tive Telecommunications Association ("CompTel") is com-
+posed of CLECs, many of whom--perhaps all--are also inter-
+exchange carriers ("IXCs").  CompTel seeks review of two 
+interim Federal Communications Commission orders, In re 
+Implementation of the Local Competition Provisions of the 
+Telecommunications Act of 1996, Supplemental Order, 15 
+FCC Rcd 1760 (1999) ("Supplemental Order"), and In re 
+Implementation of the Local Competition Provisions of the 
+
+Telecommunications Act of 1996, Supplemental Order Clari-
+fication, 15 FCC Rcd 9587 (2000) ("Clarification"), which 
+impose some limits on CompTel's members' access to certain 
+UNEs.
+
+     Specifically, the orders address CLECs' access to a combi-
+nation of UNEs known as the enhanced extended link 
+("EEL").  EELs consist of unbundled loops and transport 
+network elements.  Clarification, 15 FCC Rcd 9587 at p 2.  A 
+loop is a telephone line that runs from the customer's premis-
+es to the ILEC "end office," which houses switches used to 
+route calls to their destination.  A transport then takes the 
+traffic to the IXC or CLEC office, which will route the call to 
+its final destination.  Leasing this combination of facilities 
+enables new entrants to compete without building their own 
+local loops and transport facilities.  And it is especially desir-
+able for them to acquire EELs as UNEs because as such 
+they are priced under a formula of the Commission's known 
+as "total-element long run incremental cost," or "TELRIC."  
+By contrast, the same functions are more costly if they are 
+purchased as a part of the ILEC's tariffed services (evidently 
+under mandates imposed by the Commission pursuant to 
+s 201), and known in this guise as Special Access services.
+
+     An EEL is useful both for the provision of long distance 
+and local service, and the Commission here sought to channel 
+CLECs' use of EELs toward local service.  In the Supple-
+mental Order it limited access to firms who would use EELs 
+to provide "a significant amount of local exchange service."  
+Supplemental Order, 15 FCC Rcd 1760 at p 2.  In the Clarifi-
+cation it refined this concept and embodied it in numerically 
+defined safe harbors.  Clarification, 15 FCC Rcd 9587 at p 22.
+
+     CompTel contests the restriction favoring provision of local 
+service, stating that the 1996 Act does not allow the FCC to 
+make that sort of distinction (referred to as a use or a 
+service-by-service restriction).  It further argues that none of 
+the FCC's justifications for the interim rules makes it accept-
+able.  Finally, it argues that the safe harbor provisions of the 
+order are arbitrary and capricious, mainly asserting that they 
+impose tracking burdens that are difficult or impossible for 
+
+the CLECs to fulfill and that they impose needless restric-
+tions against commingling of local and long distance traffic.  
+We first address the timeliness of this appeal.  Once having 
+found jurisdiction, however, we are unpersuaded by Comp-
+Tel's merits claims.
+
+                             *  *  *
+
+     A petition for judicial review of a final order of the FCC 
+must be filed "within 60 days after its entry."  28 U.S.C. 
+s 2344 (2000);  see also 47 U.S.C. s 402(a).  In this case, the 
+petition for review was filed within 60 days of the Clarifica-
+tion but not within 60 days of the Supplemental Order.  
+Respondent argues that it is timely only as to claims that 
+arose from the Clarification, not as to ones essentially aimed 
+at the Supplemental Order.
+
+     But the Clarification radically changed the Supplemental 
+Order in a way we have not yet mentioned.  In the Supple-
+mental Order the Commission said that it would issue a final 
+decision on the EELs restriction in the Fourth Further 
+Notice of Proposed Rulemaking ("FNPRM"), which notice 
+"will occur on or before June 30, 2000."  Supplemental 
+Order, 15 FCC Rcd 1760 at p 2 (emphasis added).  In its 
+Clarification, the FCC freed itself of this deadline, continuing 
+to state that the order would last until the Fourth FNPRM 
+but giving no time period in which that would occur.  Clarifi-
+cation, 15 FCC Rcd 9587, at p p 1, 35.
+
+     We hold that this extension newly aggrieved CompTel and 
+thus made its petition timely.  See Sam Rayburn Dam Elec. 
+Coop. v. Fed. Power Comm'n, 515 F.2d 998, 1007 (D.C. Cir. 
+1975) (stating that where a party was "aggrieved" by a later 
+interpretation of a rule that it could not have reasonably 
+anticipated, the time limit starts to run at the later event).  
+Cases have held that extension of a temporary order may 
+entitle the parties to seek judicial review of the order.  See 
+Public Citizen v. Nuclear Regulatory Comm'n, 901 F.2d 147, 
+151 (D.C. Cir. 1990) (holding that where a temporary order is 
+later made permanent, the permanent order may be chal-
+lenged);  Illinois Cent. Gulf R.R. v. Interstate Commerce 
+
+Comm'n, 720 F.2d 958, 961 (7th Cir. 1983) (holding that a 
+temporary order with no fixed time period had lasted so long 
+as to make judicial review timely).
+
+     Here the initial order appeared to present CompTel with 
+the prospect of enduring an interim order for a period of no 
+more than six months.  After six months, another order was 
+issued extending the time period and setting no ultimate date 
+of resolution.  The rules have now been in place for over two 
+and a half years.  If we were to hold that such a petition is 
+not timely, a party that found an order not worth litigating 
+because of its apparently short term would have to sue for 
+fear that it might drag on indefinitely.  And we might also 
+create a temptation for the FCC to let its deadlines slip.  
+Thus we find the petition for review timely.
+
+                             *  *  *
+
+     CompTel finds in the language of the 1996 Act a bar on the 
+Commission's making a service-by-service distinction in decid-
+ing under what circumstances an ILEC is required to lease 
+UNEs.  We review, of course, under the usual standard of 
+Chevron U.S.A. Inc. v. Natural Resources Defense Council, 
+467 U.S. 837, 842-43 (1984), under which the court must give 
+effect to the clearly expressed intent of Congress, and must if 
+the statute is ambiguous defer to any reasonable construction 
+by the agency.  The parties appear to assume that neither 
+the Act as a whole nor s 251(d)(2)(B) in particular requires 
+that impairment findings be service-by-service or that the 
+UNE mandates be confined to services as to which such a 
+finding has been made;  accordingly we do not address those 
+issues, but rather try only to answer the question of whether 
+the Act bars such service-by-service distinctions.
+
+     The first source CompTel points to as a basis for barring a 
+service-by-service distinction--in other words, requiring that 
+any UNE be mandatory for all telecommunications services, 
+once it is found appropriate for one telecommunications ser-
+vice--is s 251(c)(3).  It says that incumbent local exchange 
+carriers have
+
+     [t]he duty to provide, to any requesting telecommunica-
+     tions carrier for the provision of a telecommunications 
+     service, nondiscriminatory access to network elements on 
+     an unbundled basis at any technically feasible 
+     point....  
+     
+47 U.S.C. s 251(c)(3).
+
+     We do not see that the phrase "for the provision of a 
+telecommunications service" helps CompTel.  If Congress 
+had spoken of "the provision of any telecommunication ser-
+vice," the language might conceivably be taken to suggest 
+that once an element was ordered to be made available for 
+one telecommunications service, it must be made available for 
+all.  But the vaguer phrasing chosen by Congress does not 
+lend itself even to that suggestion.
+
+     CompTel also sees hope in s 251(d)(2)(B), which states that
+
+     [i]n determining what network elements should be made 
+     available for purposes of subsection (c)(3) of this section, 
+     the Commission shall consider, at a minimum, whether-- 
+     ... 
+     
+          (B) the failure to provide access to such network ele-
+          ments would impair the ability of the telecommunica-
+          tions carrier seeking access to provide the services that 
+          it seeks to offer.
+          
+47 U.S.C. s 251(d)(2) (emphasis added).  Far from helping 
+CompTel's cause, this passage seems to cut strongly against 
+it.  By referring to the "services that [the requesting carrier] 
+seeks to offer," it seems to invite an inquiry that is specific to 
+particular carriers and services.  That the Commission has 
+never gone down the path of carrier-by-carrier UNE analysis 
+provides no basis that we can see for making it forego 
+service-by-service limitations.
+
+     In United States Telecom Association v. Federal Commu-
+nications Commission, 290 F.3d 415 (D.C. Cir. 2002) 
+("USTA"), we clearly found in the FCC an authority to make 
+distinctions that were based on regional differences or on 
+customer markets.  See id. at 422-23.  If these are permissi-
+
+ble, it is hard to understand why the Act would not allow 
+restrictions keyed to a specific "service" of the requesting 
+carriers.  The Clarification offers the essential and compel-
+ling reasoning:
+
+     Although ambiguous, that language [s 251(d)(2)] is rea-
+     sonably construed to mean that we may consider the 
+     markets in which a competitor "seeks to offer" services 
+     and, at an appropriate level of generality, ground the 
+     unbundling obligation on the competitor's entry into 
+     those markets in which denial of the requested elements 
+     would in fact impair the competitor's ability to offer 
+     services.
+     
+Clarification, 15 FCC Rcd 9587 at p 15.  CompTel's theory, 
+by contrast, would mean that once the Commission found a 
+single purpose as to which an "element" met the impairment 
+standard, no matter how limited, it would be forced to man-
+date provision of the element for all, no matter how little 
+potential impairment was involved in the remainder of the 
+telecommunications field.  CompTel never explains what logic 
+could have persuaded Congress to lock the Commission into 
+such a scheme.
+
+     CompTel also claims support in the Act's definition of a 
+"network element" as "a facility or equipment used in the 
+provision of a telecommunications service."  See 47 U.S.C. 
+s 153(29).  We cannot discern a bar on service-by-service 
+mandates in this bland phrasing.
+
+     Finally, CompTel argues that past orders of the FCC make 
+it clear that the FCC understood the statute not to allow it to 
+make a service-by-service distinction.  CompTel points to 
+orders issued by the FCC both before and after the court's 
+decision in AT&T Corp. v. Iowa Utilities Board, 525 U.S. 366 
+(1999).  See In re Implementation of the Local Competition 
+Provisions in the Telecommunications Act of 1996, First 
+Report and Order, 11 FCC Rcd 15499 at p p 264, 356, 358 
+(1996) ("Local Competition Order");  In re Implementation of 
+the Local Competition Provisions of the Telecommunications 
+Act of 1996, Third Report and Order and Fourth Further 
+Notice of Proposed Rulemaking, 15 FCC Rcd 3696 at p 484 
+
+(1999) ("UNE Remand Order").  In the Clarification the FCC 
+indeed acknowledged that
+
+     [b]efore the Supreme Court issued its decision in Iowa 
+     Utilities Board, we sometimes approached an incum-
+     bent's obligation to unbundle network elements as 
+     though it were an all-or-nothing proposition, suggesting 
+     that, if a competitor were entitled to obtain access to an 
+     element for one purpose, it was generally also entitled to 
+     obtain access to that element for wholly different pur-
+     poses as well.
+     
+See Clarification, 15 FCC Rcd 9587 at p 12.  The FCC 
+further acknowledged that it had not properly focused on the 
+relationship between that issue and the impair standard, and 
+that the court's opinion in Iowa Utilities Board made it 
+appropriate to "revisit the issue."  Id.  The Commission is 
+clearly correct that Iowa Utilities Board required it to limit 
+its former all-encompassing interpretation of the necessary 
+and impair language of 47 U.S.C. s 251(d)(2).  Iowa Utils. 
+Bd., 525 U.S. at 388-90;  see also USTA, 290 F.3d at 418-19.
+
+     CompTel points out that the FCC's statement in the UNE 
+Remand Order followed Iowa Utilities Board;  CompTel 
+reads the statement as a reaffirmation of a prohibition on use 
+restrictions.  But the relevant section plainly does no more 
+than accurately recount past Commission conclusions, re-
+peatedly saying, "the Commission found ...," and closing 
+with the observation that its rule against usage restrictions 
+"was not challenged in court by any party."  UNE Remand 
+Order, 15 FCC Rcd 3696 at p 484.  Other provisions of the 
+order made it clear that the FCC did not consider the issue at 
+all settled.  See, e.g., id. at p p 489, 493-96.  The FCC is 
+obviously entitled--indeed required--to reconsider orders 
+that rest on faulty readings of a statute.  That is all it has 
+done here.
+
+                             *  *  *
+
+     CompTel next argues that even if the Commission is autho-
+rized to place service-by-service restrictions on the use of 
+UNEs, it acted arbitrarily and capriciously because its justifi-
+
+cations for doing so here were unreasonable.  As we said 
+above, all hands assume that the Commission can mandate 
+provision of a UNE for all telecommunications services even 
+though its finding of s 251(d)(2)(B) impairment is based on 
+only one service.  But it is far from obvious to us that the 
+FCC has the power, without an impairment finding as to non-
+local services, to require that ILECs provide EELs for such 
+services on an unbundled basis.  Here there is no finding by 
+the Commission that lack of access to EELs would "impair" 
+CLECs' ability to provide long distance or exchange access 
+service.  Rather the FCC observed in the Clarification that it 
+had the power to inquire into whether there was any such 
+impairment, Clarification, 15 FCC Rcd 9587 at p 15, but it 
+then explicitly declined to reach that question without a 
+chance to "gather evidence," id. at p p 16-17.  CompTel 
+makes no argument that the Commission should have (or 
+even could have!)  made any finding without further evidence.  
+As both parties assume, however, that the Commission can 
+require a network element to be unbundled for all services 
+when it only finds it to be impaired as to one service, we 
+accept the assumption arguendo and address the question of 
+whether it exercised reasonable judgment in withholding such 
+a requirement here.
+
+     The FCC gives in essence two justifications for its interim 
+restrictions on the unbundling of EELs.  First, it argues that 
+the rule is necessary to avoid disruption of its reform of 
+access charge policies and of the implicit subsidies for univer-
+sal service that remain embedded in access charges.  It also 
+reasons that its restrictions are needed to promote facilities-
+based competition.
+
+     Avoidance of market disruption pending broader reforms 
+is, of course, a standard and accepted justification for a 
+temporary rule.  See, e.g., MCI Telecommunications Corp. v. 
+Fed. Communications Comm'n, 750 F.2d 135, 141 (D.C. Cir. 
+1984);  see also ACS of Anchorage, Inc. v. Fed. Communica-
+tions Comm'n, 290 F.3d 403, 410 (D.C. Cir. 2002).  Here the 
+broader reform involves an attempt to make access charges 
+more truly cost based and to correct the divergences from 
+cost that have been mandated in the interest of implicitly 
+
+subsidizing some users at the expense of others.  See In re 
+Access Charge Reform, First Report and Order, 12 FCC Rcd 
+15982 at p p 42, 44 (1997) ("Access Charge Reform Order").  
+Both of the orders that the FCC cites as part of its "access 
+charge reform policies" are steps on the way to eliminating 
+implicit subsidies.  Id.;  In re Access Charge Reform, Sixth 
+Report and Order in CC Docket Nos. 96-262 and 94-1, 
+Report and Order in CC Docket No. 99-249, Eleventh Report 
+and Order in CC Docket No. 96-45, 15 FCC Rcd 12962 at 
+p p 24-25 (2000) ("CALLS Order").
+
+     The link between access charge reform and unrestricted 
+access to EELs is that without the restrictions competitive 
+carriers would use EELs as an alternative to switched access 
+services and thus avoid paying the implicit subsidy, under-
+mining the subsidy scheme.  Supplemental Order, 15 FCC 
+Rcd 1760 at p 7.
+
+     CompTel does not appear to deny either that the Commis-
+sion can justify a policy by reference to the purposes of 
+avoiding disruption pending a broader reform, or that the 
+EEL restriction would disrupt implicit subsidies contained in 
+access charges.  Rather, it asserts that the access reform is 
+actually complete rather than pending, so that the Commis-
+sion's justification is pure pretext.
+
+     The first variation of this claim is an argument that 47 
+U.S.C. s 254(a) requires elimination of implicit subsidies 
+within 15 months of adoption of the Act, i.e., by May 1997;  
+thus, apparently, any residual implicit subsidies are illegiti-
+mate and not a permissible basis for the Commission's orders.  
+This is a misreading of s 254(a).  The section requires that 
+the Commission start a proceeding to assess recommenda-
+tions of a Federal-State Joint Board on the subject and 
+complete the proceeding within 15 months of the date of 
+enactment, setting a timetable for the reform.  47 U.S.C. 
+s 254(a).  But there is no time limit on realization of the 
+reform.  And the petitioner offers no evidence to show why 
+the proposed timetable given by the CALLS Order is unrea-
+sonable.
+
+     Second, CompTel argues that the CALLS Order, issued 
+two days prior to the Supplemental Order, immediately 
+eliminated implicit subsidies for universal service, replacing 
+them with an explicit mechanism of support.  Since the FCC 
+has totally removed implicit subsidies, CompTel claims there 
+are none left to protect.  In support CompTel cites p 202 and 
+other sections of the CALLS Order, arguing that the FCC 
+estimated the cost of universal support to be $650 million per 
+year and immediately created an explicit support mechanism 
+of exactly that amount.  See CALLS Order, 15 FCC Rcd 
+12962 at p p 30, 32, 186, 196, 201, 202, 226.  But a close look at 
+the CALLS Order makes clear that implicit subsidies are 
+phased out over time.
+
+     The CALLS Order identifies a number of elements in 
+access charges that have been sources of revenue for implicit 
+subsidies.  See id. at p 23.  It names (1) the multi-line 
+business Presubscribed Interexchange Carrier Charge 
+("PICC"), which is a flat per-line charge imposed by a ILEC 
+on an end user's IXC, see id. at p p 2, 19;  (2) Carrier 
+Common Line ("CCL") rates (per-minute charges assessed on 
+the end user's IXC whenever the end user placed an inter-
+state long-distance call), see id. at p 18, which have per-
+minute charges for a service that has a fixed cost;  and (3) 
+geographic averaging, which suppresses geographically based 
+cost differentials and subsidizes users in the more costly low-
+density areas.  Id. at p 23.
+
+     The CALLS Order's treatment of these charges makes us 
+confident that it did not stop the subsidies on a dime.  While 
+multi-line business PICCs are higher than would be appropri-
+ate (vis-A-vis cost) given the caps on subscriber line charges 
+for residential and single-line businesses, id. at p 23, the 
+CALLS Order phases them out over a five-year period.  See 
+id. at p 110 ("For example, we estimate that by July 2004, the 
+multi-line business PICC will be eliminated under ... the 
+proposal for all BOCs except for BellSouth, which would have 
+a multi-line business PICC at that time of approximately 
+$0.20 per line.")  If this were not strong enough evidence, 
+p 111 specifically recognizes that the existence of this rate in 
+some areas "may constitute an implicit non-portable subsidy."  
+
+Id. at p 111.  It then goes on to justify this subsidy as an 
+interim mechanism that provides a reasonable solution to the 
+tension between protecting universal service and providing 
+cost based rates.  Id.
+
+     Similarly the Commission provides for gradual phase-out of 
+the CCL charges, see id. at p 144 ("Upon the earlier of the 
+elimination of the CCL charges or June 30, 2004"), speaks of 
+"reducing" averaging, id. at p 26, and indicates that deaverag-
+ing will proceed under "limited conditions and safeguards," 
+id. at p 115.
+
+     Thus, in three major areas, subsidies are gradually pared 
+back over time.  As the implicit subsidies for universal ser-
+vice have not been eliminated, the FCC has an interest in 
+preserving the process of their gradual reduction and extinc-
+tion.
+
+     Finally, CompTel attacks the Commission's explanation of 
+the orders as an effort to protect facilities-based access 
+providers.  Invoking this interest, the Commission said that 
+immediate provision of special access as a UNE "could under-
+cut the market position of many facilities-based competitive 
+access providers," a form of access that originated in the mid-
+1980s and "is a mature source of competition in telecommuni-
+cations markets."  Clarification, 15 FCC Rcd 9587 at p 18.  
+CompTel argues that favoring facilities-based competition is 
+not a valid policy goal.
+
+     But the Supreme Court's discussion of the incentive effects 
+of TELRIC in Verizon Communications, Inc. v. Federal 
+Communications Commission, 122 S. Ct. 1646 (2002), would 
+be meaningless if the Court had not understood the Act to 
+manifest a preference for facilities-based competition.  In-
+deed, the Court puts it expressly, characterizing the ILECs' 
+critique of TELRIC as a claim that its "result will be, not 
+competition, but a sort of parasitic free-riding, leaving 
+TELRIC incapable of stimulating the facilities-based competi-
+tion intended by Congress."  Id. at 1669.  Obviously accept-
+ing the ILECs' view that Congress preferred "facilities-based 
+competition" over "parasitic free-riding," the Court went on 
+to decide that the FCC could reasonably conclude that 
+
+TELRIC would not create the perverse incentives the ILECs 
+claimed.  Id. at 1669-78.  See also our opinion in USTA, 290 
+F.3d at 424-25.
+
+     In this case, the FCC has only issued an interim rule while 
+it further studies the issues to determine what rule will best 
+promote facilities-based competition.  Certainly when com-
+bined with the other rationales in this case this constitutes 
+adequate justification for the rule.
+
+                             *  *  *
+
+     Finally, CompTel makes two arguments that the safe har-
+bor provisions are arbitrary and capricious.  First, it says 
+that CLECs don't have the information needed to comply 
+with them, and that the difficulties of obtaining such informa-
+tion will in most cases outweigh the benefits of the EELs.  
+Second, it argues that the commingling restrictions will deny 
+its members a substantial market benefit of the EELs and, 
+like the information requirements, are unnecessary.
+
+     Expressed in its most plausible form, CompTel's argument 
+about the safe harbors' information demands--going simply 
+to the usage patterns for the facilities--is that the data are 
+not information that the companies normally obtain, that 
+obtaining the information and insuring its accuracy would be 
+difficult and costly, and that in most instances the costs of 
+complying outweigh the benefits of the EELs.
+
+     The difficulty with this argument is that it suggests no 
+alternative way for ensuring that EELs are only provided 
+where they are used for "a significant amount of local ex-
+change service."  Thus, if we were to find that the safe 
+harbor provisions were too demanding on carriers, we would 
+essentially be deciding that the FCC simply could not imple-
+ment its use restriction because it is not administratively 
+feasible.  But it is plain that supplying the information is 
+feasible, as the FCC has produced evidence that some carri-
+ers are taking advantage of the safe harbors.
+
+     CompTel's second target, the Commission's anti-
+commingling rule, essentially "does not allow loop-transport 
+
+combinations [taken as UNEs] to be connected to the incum-
+bent LEC's tariffed services."  Clarification, 15 FCC Rcd 
+9587 at p 22.  CompTel and intervenors argue that it is much 
+more cost effective to use the same transport facility for both 
+local and long distance than to have two separate facilities, 
+each carrying a smaller amount of traffic.  They further 
+argue that there is no reason not to allow commingling, as it 
+is impossible for parties to use commingling to eviscerate the 
+local use requirement.  The FCC, on the contrary, argues 
+that a restriction against commingling is the only way to 
+prevent carriers from using these units "solely or primarily to 
+bypass special access services."  Id. at p 28.  We find that 
+CompTel has not met its burden of showing that the restric-
+tion is arbitrary and capricious.
+
+     One of the difficulties of this question is the way in which it 
+is raised and addressed in the briefs.  In their opening briefs 
+both CompTel and intervenors argued that the restriction on 
+commingling was oppressive, and they stated in a cursory 
+manner (CompTel devoting all of one page to the issue) that 
+it was not needed to carry out the FCC's goal of preventing 
+special access bypass.  The FCC responded in an equally 
+cursory way, saying that allowing commingling would allow 
+carriers to avoid the requirement that each customer be 
+provided a significant amount of local exchange service.  In 
+their reply briefs, both petitioner and intervenors explained in 
+more detail exactly why allowing commingling would not 
+result in "gaming" of the system.  As we explain below, we 
+find in the record indications of why the Commission might 
+have fears about commingling--even under the conditions 
+suggested by the petitioner and intervenors.  The FCC did 
+not raise these reasons in its brief, but we cannot fault it for 
+this omission given the sketchy character of CompTel's and 
+the intervenors' initial arguments.  "[T]he Commission cannot 
+be asked to make silk purse responses to sow's ear argu-
+ments."  City of Vernon v. FERC, 845 F.2d 1042, 1047 (D.C. 
+Cir. 1988);  see also McBride v. Merrell Dow and Pharms., 
+Inc., 800 F.2d 1208, 1210 (D.C. Cir. 1986) ("We generally will 
+not entertain arguments omitted from an appellant's opening 
+brief and raised initially in his reply brief.")
+
+     There are, as we said above, two more complex reasons 
+why gaming might occur.  The first appears to be that 
+commingling will allow the entire base of the loop or "channel 
+termination" portion of special access circuits to be converted 
+into unbundled loops.  The reason is that there are no use 
+restrictions on unbundled loops, and therefore allowing loops 
+to be freely connected to special access services would allow 
+loops that provide no local services to be unbundled and then 
+merely attached to special access transports.  See May 11, 
+2000 letter from MCIWorldCom to FCC at pp. 2-3 ("World-
+Com Letter"), Joint Appendix ("J.A.") at 418-19.  The second 
+concern appears to depend on possible erosion of the line 
+between UNEs and certain non-UNE capabilities that an 
+ILEC, seeking authority to offer long distance service in the 
+region where it provides local services, is required to offer 
+under the so-called "competitive checklist."  See 47 U.S.C. 
+s 271(c)(2)(B);  UNE Remand Order, 15 FCC Rcd 3696 at 
+p 468;  WorldCom Letter at 3-5, J.A. at 419-21.  The idea is 
+evidently that through the interaction between s 251 and 
+s 271, free "mixing and matching" in the present context 
+would lead ultimately to CLECs' securing UNE rates for 
+these competitive checklist capabilities even when the Com-
+mission had found that lack of the capabilities would not meet 
+the "impair" standard for UNEs under s 251(d)(2).  World-
+Com Letter at 3-5, J.A. 419-21.
+
+     As we have said, the FCC did not present this argument or 
+point to a place in the record where it had made it.  We know 
+of it from a WorldCom letter to the FCC articulating it and a 
+possible solution that WorldCom said would still allow com-
+mingling in the case at hand.  See WorldCom Letter at 2-5, 
+J.A. 418-21.  Because neither CompTel nor intervenors dealt 
+with these more difficult questions in their briefs, we are in 
+no position to assess the feasibility of the solution, or to 
+decide whether the FCC might have solved the problem in a 
+different and less burdensome way.  But on the present 
+record we are plainly unable to say that the restriction on 
+commingling is arbitrary and capricious.
+
+     The intervenors raise a third issue (collocation) regarding 
+the safe harbor provisions, but since this was not raised by 
+
+the principal parties, the intervenors are procedurally barred 
+from arguing it.  See United States Tel. Ass'n v. Fed. Com-
+munications Comm'n, 188 F.3d 521 (D.C. Cir. 1999).
+
+     For the reasons stated above, the petitions for review are
+
+                                                                 Denied.
+
+                                                                    

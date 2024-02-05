@@ -1,0 +1,562 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued May 17, 2000        Decided July 11, 2000 
+
+                           No. 99-1513
+
+                  AMSC Subsidiary Corporation, 
+                            Appellant
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+                    Globalstar, L.P., et al., 
+                           Intervenors
+
+           Appeal of an Order and Authorization of the 
+                Federal Communications Commission
+
+     Bruce D. Jacobs argued the cause for appellant.  With him 
+on the briefs were Barry H. Gottfried, Lon C. Levin and 
+Hadrian R. Katz.
+
+     Philip L. Malet, William D. Wallace and William F. Adler 
+were on the briefs for intervenors supporting appellant.
+
+     Gregory M. Christopher, Counsel, Federal Communications 
+Commission, argued the cause for appellee.  With him on the 
+brief were Christopher J. Wright, General Counsel, and Dan-
+iel M. Armstrong, Associate General Counsel.
+
+     Gregory C. Staple and R. Edward Price were on the brief 
+for intervenors supporting appellee.
+
+     Before:  Ginsburg, Randolph, and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  AMSC Subsidiary Corporation 
+petitions for review of the Federal Communications Commis-
+sion's decision to license mobile earth terminals (METs) to 
+receive Mobile Satellite Service (MSS) from a foreign-licensed 
+satellite in the Upper L-band of the electromagnetic spec-
+trum.  See In re Applications of SatCom, Order & Authoriza-
+tion, 14 F.C.C.R. 20,798, 20,798 p 1 (1999).  AMSC claims the 
+Commission effectively modified its license to provide MSS in 
+the Upper L-band without affording it the hearing required 
+by s 316 of the Communications Act of 1934.  AMSC also 
+claims the Commission's decision was arbitrary and capricious 
+because it abandoned without explanation the agency's long-
+standing policy against authorizing more than one MSS sys-
+tem to operate in the Upper L-band.  In addition, two 
+intervenors claim the Commission could not lawfully allow 
+METs in the United States to use a satellite that is not itself 
+licensed by the Commission to serve the United States.  
+Finding no merit in AMSC's claims, and not reaching that of 
+the intervenors, we deny the petition for review.
+
+                          I. Background
+
+     MSS is a realtime voice and data telecommunications ser-
+vice provided to and from METs located anywhere within the 
+transmission area of the satellite.  MSS can be used on land, 
+including areas too sparsely settled to support cellular or 
+other land-based telecommunications services, at sea, or in 
+the air.  In a typical MSS system, a MET transmits to the 
+satellite on one frequency and the satellite simultaneously 
+transmits back to the MET on another frequency.  The 
+
+satellite also communicates with a fixed earth terminal that is 
+connected to the public switched telephone network, thereby 
+allowing direct communications between a MET and an ordi-
+nary telephone.
+
+     The technical characteristics of MSS create a unique inter-
+ference problem.  A MET uses a nearly omnidirectional 
+antenna to communicate with an MSS satellite, and is incapa-
+ble of discriminating among transmissions from different 
+MSS satellites;  likewise, an MSS satellite transmits indis-
+criminately to a large geographic area.  Therefore, if satel-
+lites or METs in two MSS systems covering the same geo-
+graphic area transmit on the same frequency, then their 
+signals will interfere with one another and one or both signals 
+will not be useful.  This can occur even if the two METs are 
+thousands of miles apart.  Because of this problem, no two 
+MSS systems can operate on the same frequencies insofar as 
+the footprints of their satellites overlap.
+
+     A.   AMSC's License
+          
+     In 1985 the Commission proposed to license an MSS sys-
+tem to serve the United States in the 28 MHz that comprise 
+the Upper L-band.  After receiving comments on its propos-
+al, the Commission estimated that the minimum spectrum 
+needed for a viable MSS system was 20 MHz;  considering 
+that estimate, the limited amount of spectrum available, and 
+the high cost of building an MSS system, the Commission 
+decided to license only one system.  See In re Amendment of 
+Parts 2, 22 and 25 of the Commission's Rules, Second Report 
+& Order, 2 F.C.C.R. 485, 486 p 6 (1987) (Upper L-band 
+Licensing Order).  The Commission therefore ordered the 
+license applicants to form a consortium for the purpose of 
+developing a single MSS system;  in 1989 the Commission 
+licensed that consortium, AMSC, to provide MSS in the 
+United States using the entire Upper L-band.  See In re 
+Amendment of Parts 2, 22 and 25 of the Commission's Rules, 
+Memorandum Opinion, Order & Authorization, 4 F.C.C.R. 
+6041, 6058 p 121 (1989) (AMSC Licensing Order).
+
+     In addition to AMSC's, there are four MSS satellites 
+transmitting to all or parts of North America in the Upper L-
+
+band:  TMI (licensed by Canada), Telecomm (licensed by 
+Mexico), TMSat (licensed by Russia), and Inmarsat (licensed 
+by the United Kingdom).  If AMSC transmitted on all the 
+frequencies in the Upper L-band, its signals would interfere 
+with those of the other MSS operators.  Therefore, although 
+it licensed AMSC to use the entire Upper L-band, the 
+Commission expressly conditioned AMSC's use of the license 
+upon the outcome of "international coordination," id. at 6048 
+p 52, that is, the multilateral negotiating process used to avoid 
+interference among carriers licensed by different nations to 
+operate in the same band of spectrum.  Thus, in the jargon of 
+the trade, AMSC is authorized to operate only in those 
+portions of the Upper L-band that are "coordinated for" its 
+use.  Order & Authorization, 14 F.C.C.R. at 20805 p 14.
+
+     B.   International Coordination
+          
+     The Commission, representing the United States in negoti-
+ations with the other four affected nations, sought to coordi-
+nate 20 MHz of spectrum in the Upper L-band for the 
+exclusive use of AMSC.  Because the combined spectrum 
+demands of the five different licensees far exceeded the 
+amount of spectrum available, the five nations were unable to 
+reach a permanent coordination agreement and the Commis-
+sion was unable to secure 20 of the 28 MHz for AMSC.  In 
+1996, however, the five nations did enter into an interim 
+agreement (known as the Mexico City Memorandum of Un-
+derstanding (MOU)) under which, pending a permanent coor-
+dination agreement, the Upper L-band would be coordinated 
+on a yearly basis by agreement among the five MSS opera-
+tors themselves.  See Order & Authorization, 14 F.C.C.R. at 
+20802 p 18.
+
+     Under the Mexico City MOU, the amount of spectrum 
+coordinated for each MSS system can change from year to 
+year.  See id. The key variables guiding negotiations among 
+the five operators are their (1) present spectrum usage and 
+(2) projected near-term needs.  The five operators were able 
+to reach agreements for 1997, 1998, and 1999 but not for 2000.  
+See id. at 20814 p 34.
+
+     C.   DISCO II
+          
+     As mentioned above, the Commission determined in the 
+Upper L-band Licensing Order that it would license only one 
+MSS system in the Upper L-band.  The adoption by the 
+United States in 1997 of the WTO Agreement on Basic 
+Telecommunications Services, however, obligated the United 
+States to open its satellite markets to foreign systems li-
+censed by other WTO member countries.  See Fourth Proto-
+col to the General Agreement on Trade in Services (GATS) 
+(April 30, 1996), 36 I.L.M. 336 (1997) (entered into force Jan. 
+1, 1998).  The Commission therefore adopted procedures to 
+give satellite systems licensed by other countries access to 
+the U.S. market.  See In re Amendment of the Commission's 
+Regulatory Policies to Allow Non-U.S. Licensed Space Sta-
+tions to Provide Domestic and International Satellite Service 
+in the United States, Report & Order, 12 F.C.C.R. 24,094 
+(1997) (DISCO II).
+
+     In addition to allowing a satellite operator licensed by a 
+foreign country to apply for a U.S. license in the same way 
+that a would-be domestic operator applies for a license to 
+serve customers in the United States, that is, through a 
+"space station processing round," the Commission established 
+a second mechanism by which a foreign system could get 
+access to the U.S. market:  Earth stations located in the 
+United States could apply for a license to receive service from 
+a satellite licensed by another country even if that satellite 
+was not itself licensed to serve the United States.  See id. at 
+24173-74 p p 183-88.  The Commission announced it would 
+grant these earth station licenses if doing so was in the public 
+interest, see id. p 186, taking into account "competition in the 
+United States[,] ... spectrum availability, eligibility ... and 
+operating requirements, and national security, law enforce-
+ment, foreign policy, and trade issues," id. at 24106 p 29.
+
+     Concerning spectrum availability--the one factor in the 
+DISCO II public interest analysis that is relevant to this 
+case--the Commission acknowledged that the WTO agree-
+ment did not require it to authorize a satellite licensed by a 
+foreign country to serve customers in the United States if 
+
+there was inadequate spectrum:  "[The Commission does] not 
+expect to require existing U.S. satellite systems to change 
+their licensed operating parameters or to decrease their 
+capacity in order to accommodate additional non-U.S. sys-
+tems."  Id. at 24158 p 147.  If the foreign satellite operator 
+sought access to the U.S. market by applying for earth 
+station licenses for U.S. customers to use its satellite, then 
+the Commission indicated that in assessing spectrum avail-
+ability as part of the public interest analysis it would:
+
+     determine whether, and to what extent, the proposed 
+     U.S. service will impact existing operations in the United 
+     States....  [In] exceptional cases where grant would 
+     create debilitating interference problems or where the 
+     only technical solution would require U.S.-licensed sys-
+     tems to significantly alter their operations[,] we would 
+     impose technical constraints on the foreign system's op-
+     erations in the United States or, in cases where any such 
+     measures would be insufficient to remedy the technical 
+     problem, deny the request.
+     
+Id. at 24159 p 150.  AMSC did not petition for review of 
+DISCO II.
+
+     D.   The Order & Authorization
+          
+     Shortly after DISCO II was released, SatCom Systems, 
+Inc., a U.S. company, and TMI Communications, the company 
+that operates the MSS satellite system licensed by Canada, 
+each applied to the Commission for earth station licenses that 
+would allow up to 125,000 new METs in the United States to 
+use the TMI satellite for MSS in the Upper L-band.  See 
+Order & Authorization, 14 F.C.C.R. at 20799 p p 2-3.  The 
+Commission reviewed the license applications under the pub-
+lic interest analysis announced in DISCO II.  On the issue of 
+spectrum availability, the Commission concluded that the new 
+METs would have no effect upon AMSC's existing operations.  
+See id. at 20810 p 25.  Although the METs would be licensed 
+to receive MSS from the TMI satellite throughout the Upper 
+L-band, their licenses would be conditioned upon receiving 
+service only in those portions of the Upper L-band coordinat-
+
+ed for the use of the TMI satellite, see id. at 20826 p p 63-64, 
+and not on spectrum coordinated for AMSC.
+
+     This license condition comes into play, however, only when 
+there is a coordination agreement in effect.  See id. As AMSC 
+pointed out to the Commission, the existing coordination 
+agreement was set to expire on December 31, 1999--less than 
+two months after the Commission adopted the Order & 
+Authorization.  If no new coordination agreement was 
+reached, AMSC argued, then the new METs would be free to 
+operate anywhere in the Upper L-band, potentially interfer-
+ing with AMSC's licensed MSS operations.
+
+     The Commission responded to this concern by further 
+conditioning the new earth station licenses upon noninterfer-
+ence with AMSC (and all other MSS operations):
+
+     In the absence of any continuing operator-to-operator 
+     agreement in the L-band, SatCom and TMI's opera-
+     tions[,] like those of AMSC ... will be on a non-
+     interference basis until a future operator-to-operator 
+     agreement is reached.
+     
+Id. at 20814 p p 33-34;  see also id. at 20826 p p 63-64.  Find-
+ing that the requested earth station licenses satisfied this and 
+the other public interest requirements laid out in DISCO II, 
+the Commission granted earth station licenses to SatCom and 
+TMI.
+
+                           II. Analysis
+
+     AMSC petitions this court for review of the Order & 
+Authorization, raising two challenges:  (1) the Commission in 
+effect modified AMSC's license without affording it the hear-
+ing required by s 316 of the Communications Act;  and (2) 
+the Commission, without giving a reasoned explanation, re-
+versed its longstanding policy of having only one MSS licen-
+see in the Upper L-band.  The Intervenors raise a different 
+claim:  The Commission could not allow METs in the United 
+States to use a satellite that is not licensed by the Commis-
+sion to serve the United States.
+
+     A. Modification of AMSC's License
+
+     In s 316 of the Communications Act the Commission is 
+expressly authorized to modify a license as follows:
+
+     Any station license or construction permit may be modi-
+     fied by the Commission ... if in the judgment of the 
+     Commission such action will promote the public interest, 
+     convenience, and necessity, or the provisions of this 
+     chapter or of any treaty ratified by the United States will 
+     be more fully complied with.
+     
+47 U.S.C. s 316(a)(1).  AMSC claims that in the Order & 
+Authorization the Commission modified AMSC's license to 
+provide MSS throughout the Upper L-band without providing 
+the hearing required by s 316.  The Commission does not 
+dispute that s 316 requires a hearing if the Commission 
+modifies a license, but contends that it did not modify 
+AMSC's license and therefore did not have to hold a hearing.
+
+     Although the Commission did not, of course, literally 
+change the terms of AMSC's license, we regard "a license [as] 
+modified for purposes of section 316 when an unconditional 
+right conferred by the license is substantially affected."  
+P&R Temmer v. FCC, 743 F.2d 918, 927-28 (D.C. Cir. 1984).  
+AMSC claims the Commission substantially affected rights 
+conferred by its license in two respects.
+
+     First, AMSC argues that the Commission has "harm[ed] 
+AMSC's ... prospects" for coordinating sufficient spectrum 
+to meet its needs in future rounds of international negotia-
+tions.  By licensing METs in the United States to use the 
+TMI satellite, the Commission increased TMI's present and 
+future needs in the Upper L-band, thereby reducing AMSC's 
+need as a proportion of aggregate international demand for 
+that spectrum.  Because the crucial variables affecting coor-
+dination under the Mexico City MOU are present spectrum 
+usage and projections of short-term future spectrum need, 
+AMSC claims the Commission "dramatically improve[d] 
+TMI's negotiating position and correspondingly weaken[ed] 
+AMSC's negotiating position," thus ensuring that AMSC will 
+be unable to obtain through the international coordination 
+process the 20 MHz it says it needs.
+
+     The Commission responds that AMSC's license has always 
+been expressly conditioned upon the international coordina-
+tion process.  AMSC's license does not guarantee success in 
+those negotiations;  it merely provides the opportunity to 
+participate, which is unaffected by the Order & Authoriza-
+tion.
+
+     We agree with the Commission.  We assume for the sake 
+of the argument that AMSC is correct in predicting that TMI 
+will obtain more L-band spectrum at AMSC's expense in 
+future rounds of international coordination.  That does not 
+work a modification of AMSC's license because the license 
+contains no "unconditional right" to any particular outcome in 
+the coordination process.  P&R Temmer, 743 F.2d at 927.  
+On the contrary, the license is expressly conditioned upon and 
+thereby made subordinate to the outcome of international 
+coordination.  We further note that AMSC is not required to 
+accept any future coordination agreement;  it can simply veto 
+an agreement it believes offers it an unduly limited amount of 
+spectrum, whether as a result of TMI's greater traffic in the 
+United States or for any other reason.
+
+     Second, AMSC claims the Commission modified its license 
+by subjecting it to an increased risk of electrical interference.  
+See FCC v. National Broadcasting Co. (KOA), 319 U.S. 239, 
+245 (1943);  Western Broadcasting Co. v. FCC, 674 F.2d 44, 50 
+(D.C. Cir. 1982).  The Commission acknowledged in the Or-
+der & Authorization that the AMSC and TMI satellites cover 
+the same geographic area and so would cause mutually de-
+structive interference to the extent they operate on the same 
+frequencies.  14 F.C.C.R. at 20815 p 36.  Therefore, AMSC 
+argues, the Commission's licensing of new METs to use the 
+TMI satellite increases the likelihood that AMSC will face 
+interference in conducting its operations.
+
+     Because the new METs are limited to the spectrum coordi-
+nated for use by TMI, however, the Commission denies that 
+the Order & Authorization increases the likelihood that 
+AMSC will face interference.  The Commission's point is 
+plainly well-taken when an international coordination agree-
+ment is in effect:  With each system licensed to use only the 
+
+Upper L-band frequencies that have been coordinated for its 
+use, AMSC and TMI will not interfere with each other.
+
+     AMSC claims, however, that when there is no coordination 
+agreement in effect SatCom and TMI are free to operate on 
+any frequency in the Upper L-band, including the frequencies 
+that had previously been coordinated for AMSC.  The Com-
+mission responds that even then the likelihood of interference 
+is not increased by the Order & Authorization because 
+SatCom's and TMI's licenses are expressly conditioned upon 
+their operating "on a non-interference basis."  Id. at 20826 
+p p 63-64.  If they violate that express condition, then the 
+Commission may revoke their licenses.  See 47 U.S.C. s 312.  
+(We note, without surprise, that AMSC does not claim to have 
+experienced any interference since December 31, 1999, when 
+the last coordination agreement expired.)
+
+     In sum, we agree with the Commission that in these 
+circumstances AMSC's claim of an increased likelihood of 
+interference is too speculative to constitute a modification of 
+its license cognizable under s 316.  Therefore, no hearing 
+was required.
+
+     B.   Reasoned Decision Making
+          
+     AMSC claims the Commission failed adequately to explain 
+in the Order & Authorization the reversal of its long-held 
+position that the amount of spectrum needed for a viable MSS 
+system precludes the Commission from licensing more than 
+one such system in the Upper L-band.  AMSC is correct that 
+the Commission's policy had been to authorize only one MSS 
+system in the Upper L-band;  AMSC's claim fails, however, 
+because the Commission reversed that policy in DISCO II, 
+and replaced it with a public interest condition that the 
+Commission then applied--with an adequate explanation--in 
+the Order & Authorization here under review.
+
+     The Commission points out in the Order & Authorization 
+that it had established rules in DISCO II for licensing earth 
+stations to receive service from a satellite licensed by another 
+country if such service would be in the public interest.  14 
+F.C.C.R. at 20804 p 11.  AMSC had expressed its concern in 
+
+DISCO II that there was inadequate spectrum in the Upper 
+L-band to allow a non-U.S. satellite to serve MSS customers 
+in the United States.  See Reply Comments of AMSC Subsid-
+iary Corp., IB Docket No. 96-111 (Sept. 5 1997). Although it 
+was aware of AMSC's concern, the Commission did not treat 
+the satellite market in the Upper L-band differently than any 
+other U.S. satellite market.  By its terms, therefore, the 
+public interest analysis in DISCO II appears to govern entry 
+by foreign-licensed satellites into the Upper L-band MSS 
+market in the United States.
+
+     AMSC argues, however, that the public interest analysis in 
+DISCO II did not alter the Commission's existing spectrum 
+management policy for the Upper L-band;  to the contrary, 
+AMSC claims DISCO II incorporated that policy as one 
+requirement that a non-U.S. licensed satellite must satisfy in 
+order to use the Upper L-band to serve customers in the 
+United States.  In other words, AMSC reads DISCO II as 
+merely contingent:  If at some future point AMSC were to 
+obtain 20 MHz of spectrum (or if the Commission were to 
+give a reasoned explanation why AMSC should make do with 
+less than 20 Mhz) then the Commission could authorize a 
+foreign MSS to serve the United States in the Upper L-band 
+pursuant to the DISCO II procedures.  Because AMSC has 
+less than 20 MHz of spectrum, however, and the Commission 
+has not explained why AMSC has enough spectrum to be 
+viable--indeed, it expressly reserved the issue how much 
+spectrum is required for an MSS to be viable, see Order & 
+Authorization, 14 F.C.C.R. at 20813 p 31 & n.85--AMSC 
+claims the Commission failed to provide a reasoned explana-
+tion for allowing a second MSS system to serve the United 
+States in the Upper L-band.
+
+     The Commission denies that the public interest analysis in 
+DISCO II carried forward the Commission's prior spectrum 
+management policy for the Upper L-band.  The policy prior 
+to DISCO II had been concerned with AMSC's eventual 
+spectrum needs;  the Commission's goal had been to secure 
+for AMSC use of at least 20 MHz in the Upper L-band.  The 
+factor of spectrum availability in the public interest analysis 
+of DISCO II, however, protects only AMSC's existing opera-
+
+tions.  See DISCO II, 12 F.C.C.R. at 24158-59 p p 147, 150 
+(Commission "d[oes] not expect to require existing U.S. satel-
+lite systems to change their licensed operating parameters or 
+to decrease their capacity in order to accommodate additional 
+non-U.S. systems," and Commission will condition or decline 
+license applications "where grant would create debilitating 
+interference problems or where the only technical solution 
+would require U.S.-licensed systems to significantly alter 
+their operations").
+
+     We agree with the Commission that in the DISCO II 
+rulemaking proceeding it changed the spectrum management 
+policy for the Upper L-band;  we think the matter is clear 
+but, even were it opaque, we would accept the Commission's 
+reasonable interpretation of its own rules.  See Cassell v. 
+FCC, 154 F.3d 478, 484 (D.C. Cir. 1998).  The only open 
+question, therefore, is whether the Commission applied DIS-
+CO II in an arbitrary and capricious manner in the present 
+case.  The Commission explained at length in the Order & 
+Authorization why SatCom's and TMI's licenses satisfy the 
+tests for spectrum availability announced in DISCO II:  The 
+new METs will not require AMSC to change its licensed 
+operating parameters, see 14 F.C.C.R. at 20810 p 25, nor to 
+decrease its system capacity, see id. at 20811 p 26;  neither 
+will they cause interference problems for AMSC, see id. 
+p p 27, 33-34.  Because the Commission thus gave a thorough 
+and reasoned explanation of its decision, we deny AMSC's 
+petition for review.*
+
+     C. The Intervenors' Claim
+
+     Intervenors Globalstar L.P. and Space System License, 
+Inc. claim the Commission cannot license METs in the United 
+
+__________
+     * AMSC claims in its reply brief that the Commission failed to 
+address AMSC's objection to SatCom's and TMI's failure to provide 
+certain technical information required by Commission regulations.  
+Although AMSC alluded to the factual basis for this claim in the 
+statement of facts in its opening brief, it did not actually make the 
+argument until its reply brief.  The argument is therefore waived.  
+See Sitka Sound Seafoods, Inc. v. NLRB, 206 F.3d 1175, 1181 (D.C. 
+Cir. 2000).
+
+States to use the TMI satellite without that satellite having 
+first been licensed to operate in the United States--a require-
+ment that would have obliged the Commission to conduct a 
+space station processing round in which the intervenors could 
+also have competed for a license.  The Commission urges us 
+not to consider the intervenors' claim because the petitioner 
+did not raise it and there are no exceptional circumstances 
+warranting its consideration at the instance of an intervenor.  
+The intervenors reply that they do not raise an issue different 
+from that raised by AMSC;  rather, as required by D.C. Cir. 
+Rule 28(e), they merely "focus upon points not made or 
+adequately elaborated upon in [AMSC's] brief, although rele-
+vant to the issues" raised by AMSC.  Specifically, the com-
+mon issue as they state it is "whether the FCC unlawfully 
+granted [the TMI satellite] access to MSS spectrum in the 
+United States that was not otherwise available for licensing 
+except to AMSC."
+
+     Recall that AMSC claimed the Commission was required to 
+explain why AMSC could make do with less than 20 MHz 
+before it allowed another satellite to serve customers in the 
+United States using the Upper L-band;  it did not deny that 
+with such an explanation the Commission could allow the 
+second satellite to provide such service using the licensing 
+procedure for earth stations it announced in DISCO II.  
+Ratcheting down the intervenors' issue to a comparable level 
+of abstraction, one can see that the intervenors are indeed 
+trying to raise a different issue than does the petitioner.  The 
+intervenors argue that even if the Commission fully explained 
+why there is sufficient spectrum in the Upper L-band for two 
+MSS systems to serve U.S. customers, it still could not allow 
+TMI to serve customers in the United States without con-
+ducting a space station processing round.
+
+     We have repeatedly held that only in "extraordinary cases," 
+Lamprecht v. FCC, 958 F.2d 382, 389 (D.C. Cir. 1992), will we 
+address an issue raised solely by an intervenor.  We have 
+identified two factors, at least one (and perhaps both) of 
+which must be present to establish such circumstances:  The 
+intervenor had no incentive to file its own petition for review;  
+and resolution of the issue raised by the intervenor is an 
+
+"essential predicate" to the resolution of the issue raised by 
+the petitioner.  Synovus Fin. Corp. v. Board of Governors of 
+the Fed. Reserve Sys., 952 F.2d 426, 433 (D.C. Cir. 1991);  see 
+also National Ass'n of Regulatory Utility Comm'rs v. ICC, 41 
+F.3d 721, 730 (D.C. Cir. 1994).
+
+     Neither factor is present in this case.  The intervenors 
+were aggrieved by the Commission having authorized the 
+TMI satellite to provide service to METs in the United States 
+without opening up a space station round;  therefore, they had 
+the incentive and the ability to file their own petition for 
+review.  And resolution of the intervenors' issue is neither a 
+necessary nor even a logical antecedent to the resolution of 
+the petitioners' issue;  if anything, the opposite is true.  We 
+therefore do not consider the intervenors' challenge.
+
+                         III. Conclusion
+
+     For the foregoing reasons, AMSC's petition for review is
+
+                                                          Denied.
+
+                   

@@ -1,0 +1,654 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 8, 2001      Decided May 11, 2001 
+
+                           No. 00-3076
+
+                       In re:  Sealed Case
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 00ms00409)
+
+                            ---------
+
+     Before:  Edwards, Chief Judge, Ginsburg and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  A witness before a grand jury 
+sitting in the United States District Court for the District of 
+Columbia testified that he had received a copy of the qui tam 
+complaint in a certain sealed civil proceeding then pending 
+before a different federal district court.  Two prosecuting 
+attorneys from the Department of Justice, acting upon their 
+own initiative and without the approval of the court supervis-
+ing the grand jury (hereinafter sometimes referred to as the 
+grand jury court), informed the judge hearing the qui tam 
+case of the breach of the seal and provided him with a 
+
+summary of the witness's testimony before the grand jury.  
+That judge then sent a letter to the district court here 
+requesting a copy of the relevant testimony, and the Govern-
+ment moved the court ex parte to transmit the testimony 
+pursuant to Federal Rule of Criminal Procedure 6(e)(3)(E).  
+The court acceded and ordered the relevant portions of the 
+grand jury transcript transmitted to the court that had 
+requested them (hereinafter sometimes referred to as the qui 
+tam court).
+
+     The plaintiffs in this case, including the witness who testi-
+fied before the grand jury about the breach of the seal, are 
+also plaintiffs in the qui tam action;  they are aggrieved 
+because divulgement and subsequent transmission of the 
+grand jury testimony have jeopardized their entitlement to 
+share in the financial settlement in the civil case.  The 
+plaintiffs appeal from the district court's denial of two mo-
+tions:  one requesting that the Government be ordered to 
+show cause why it should not be held in contempt for 
+violating Rule 6(e) by divulging to the qui tam court a matter 
+occurring before the grand jury;  and another seeking vacatur 
+of the district court's order transmitting the testimony to that 
+court because the order did not comply with the requirements 
+of Rule 6(e)(3)(E).
+
+     As to the first motion, we hold that although the Govern-
+ment violated Rule 6(e) when the two prosecutors sent a 
+summary of the testimony to the qui tam court without the 
+approval of the court supervising the grand jury, the latter 
+court appropriately declined to order the Government to show 
+cause why it should not be held in contempt;  the court had 
+previously ratified the disclosure when it ordered transmis-
+sion of the testimony.  As to the second motion, we hold that 
+the court's transmission of the testimony failed to comply 
+with Rule 6(e)(3)(E) because the court did not include the 
+required "written evaluation of the need for continued grand 
+jury secrecy";  only if the court upon remand properly makes 
+and transmits such an evaluation will its transmission of the 
+materials be valid.
+
+               I. Background*
+
+     In 1996 a certain party filed a qui tam complaint under the 
+False Claims Act, 31 U.S.C. s 3730, with a district court in 
+another circuit.  That court ordered the proceedings sealed, 
+as required by 31 U.S.C. s 3730(b)(2)-(b)(4).  The plaintiffs in 
+this case later filed in that same district a separate qui tam 
+complaint substantially similar to the first such complaint, 
+and the two complaints were consolidated (along with other 
+similar complaints).  Although the qui tam court ultimately 
+dismissed the present plaintiffs' complaint on a jurisdictional 
+ground, the parties later entered into a settlement agreement 
+under which these plaintiffs were to share in the proceeds.
+
+     Subsequently a grand jury was impaneled by the district 
+court in the District of Columbia to investigate allegations 
+that certain government employees had received payments 
+out of the aforementioned settlement.  The Criminal Division 
+of the Department of Justice handled the investigation.  One 
+of the plaintiffs in this case testified before the grand jury 
+that he had received from a government employee a copy of 
+the first complaint filed under seal with the qui tam court.  
+The witness (and present plaintiff) testified that he promptly 
+returned the complaint to the sender and advised the sender 
+that he should not have sent it.  Acting upon this testimony, 
+agents from the Office of the Inspector General (OIG) in the 
+Department of the Interior interviewed the sender, who said 
+that he had indeed sent the complaint for the purpose of 
+getting advice but that he had not known the complaint was 
+under seal.
+
+     On July 18, 2000 two prosecutors from the Department of 
+Justice filed with the qui tam court, under seal and ex parte, a 
+document they styled "Notice to the Court of A Breach of 
+Seal."  In that document the prosecutors summarized the 
+nature of the grand jury proceedings, the substance of the 
+witness-plaintiff's testimony, and the answers the sender gave 
+in the ensuing interview with OIG agents.  With respect to 
+the grand jury testimony, they specifically stated "[the wit-
+
+__________
+* Certain factual details are necessarily omitted because this case is 
+itself under seal.
+
+ness] testified that he received a copy of the then-sealed ... 
+qui tam from [the government sender]."  The prosecutors 
+also explained that the grand jury proceeding was ongoing 
+and asked the qui tam court, in order to avoid interfering 
+with their criminal investigation, to afford the DOJ an oppor-
+tunity to seek a stay of the civil proceedings should the court 
+decide to disclose the breach of seal to the qui tam parties.
+
+     In response, the qui tam court urged the Government to 
+move the grand jury court under Rule 6(e) to transmit the 
+grand jury testimony to it for review, which the Government 
+did on July 26.  Immediately thereafter the qui tam court 
+sent its own letter to the grand jury court requesting trans-
+mission of the testimony.  On August 1 the grand jury court 
+held a sealed, ex parte proceeding at which only the Govern-
+ment was represented;  there the court balanced the need for 
+grand jury secrecy against the public interest in avoiding an 
+injustice in the qui tam case, and ordered transmission of the 
+relevant grand jury materials to the qui tam court.
+
+     On August 9 the qui tam court held a sealed, in camera 
+hearing attended by counsel for all the plaintiffs sharing in 
+the settlement.  Having considered the objections of the 
+plaintiffs in this case and the public interest in grand jury 
+secrecy, the qui tam court nonetheless decided to disclose to 
+the other plaintiffs that the plaintiffs in this case had illicitly 
+learned of the initial sealed complaint before filing their own:  
+the "integrity of the court ha[d] been violated" and the 
+plaintiffs in this case "should not be allowed to keep the gains 
+that they have made because of their bad faith filing" of a 
+copycat complaint.  At the same time, the qui tam court 
+invited the other plaintiffs to consider initiating civil contempt 
+proceedings against these plaintiffs;  it also suggested that it 
+might initiate proceedings to sanction them for criminal con-
+tempt.  The plaintiffs here represent that other plaintiffs in 
+the qui tam case have indeed since "filed contempt motions 
+against [them] and requested disgorgement of all past settle-
+ment monies paid to [them]";  and that the qui tam court "has 
+frozen all future settlement money" owed to them under the 
+settlement agreement.
+
+     Thus aggrieved by the disclosure of the grand jury testimo-
+ny, these plaintiffs moved the grand jury court to (1) order 
+the Government to show cause why it should not be held in 
+contempt for disclosing the testimony in the "Notice" to the 
+qui tam court;  and (2) vacate its order transferring grand 
+jury testimony to the qui tam court.  The grand jury court 
+denied both motions because it had already determined that 
+the competing interests weighed in favor of transmission and 
+it "s[aw] no good reason to revisit [its prior] ruling."  The 
+plaintiffs now appeal from the denial of those motions.
+
+               II. Analysis
+
+     As the Supreme Court has said, "the proper functioning of 
+our grand jury system depends upon the secrecy of grand 
+jury proceedings."  Douglas Oil Co. v. Petrol Stops North-
+west, 441 U.S. 211, 218 (1979).  That secrecy safeguards vital 
+interests in (1) preserving the willingness and candor of 
+witnesses called before the grand jury;  (2) not alerting the 
+target of an investigation who might otherwise flee or inter-
+fere with the grand jury;  and (3) preserving the rights of a 
+suspect who might later be exonerated.  Id. at 219.  In order 
+to protect these interests, "[b]oth Congress and th[e] Court 
+have consistently stood ready to defend [grand jury secrecy] 
+against unwarranted intrusion.  In the absence of a clear 
+indication in a statute or Rule, we must always be reluctant to 
+conclude that a breach of this secrecy has been authorized."  
+United States v. Sells Engineering, Inc., 463 U.S. 418, 425 
+(1983).
+
+     Rule 6(e)(2) protects the secrecy of grand jury proceedings 
+by specifying that "[a]n attorney for the government ... shall 
+not disclose matters occurring before the grand jury, except 
+as otherwise provided for in these rules."  The exceptions 
+permit disclosure:  (i) to an attorney for the Government in 
+the performance of that attorney's duty;  (ii) to such govern-
+ment personnel as an attorney for the Government deems 
+necessary to assist an attorney in enforcing federal criminal 
+law;  or (iii) to another federal grand jury.  Rule 6(e)(3)(A) 
+and (3)(C)(iii).  The Rule also permits, when directed by a 
+
+court, disclosure:  (i) preliminary to or in connection with a 
+judicial proceeding;  (ii) at the request of a criminal defendant 
+if the defendant shows cause;  or (iii) to an appropriate state 
+or local official for the purpose of enforcing state criminal law.  
+See Rule 6(e)(3)(C).  It is against this legal background that 
+we analyze the two motions here at issue.
+
+     A.   Motion To Order Government To Show Cause Why 
+          It Should Not Be Held in Contempt
+          
+     The plaintiffs moved the district court to order the Govern-
+ment to show cause why it should not be held in civil 
+contempt for disclosing grand jury testimony to the qui tam 
+court.  The plaintiffs also sought equitable relief for the 
+alleged civil contempt, thereby asserting a cognizable interest 
+in preventing transmittal of the grand jury testimony.  Cf. 
+Barry v. United States, 865 F.2d 1317, 1322 (D.C. Cir. 1989) 
+(private party lacks cause of action for civil contempt without 
+other equitable relief).
+
+     We readily agree with the plaintiffs that the Government 
+violated Rule 6(e)(2) when, without prior authorization from 
+the grand jury court, it filed with the qui tam court the 
+Notice summarizing the grand jury testimony of one of the 
+present plaintiffs.  Indeed, the Government does not dispute 
+that its summary of the plaintiff's testimony in the Notice 
+embraces "matters occurring before the grand jury," Rule 
+6(e)(2), or that its summary does not come within any excep-
+tion enumerated in the Rule.
+
+     The Government instead takes the untenable and disturb-
+ingly cavalier position that "[a] sealed, ex parte, conveyance of 
+grand jury information to a federal judge who is acting in his 
+judicial capacity is not a 'disclosure' within the meaning of the 
+grand jury secrecy rule."  For this the Government relies 
+upon that eminent legal authority, Webster's New Collegiate 
+Dictionary (1977), which defines to "disclose" as to "expose to 
+view" or to "make known or public."  By this logic the 
+Government presumably would have us read the Rule to 
+permit any revelation of matters occurring before a grand 
+jury as long as it is not made to "the public" or at least a 
+member thereof.  That position, however, is foreclosed by the 
+
+Rule itself, which expressly provides that grand jury informa-
+tion may in specified circumstances be conveyed to "an attor-
+ney for the government," "government personnel," "another 
+federal grand jury," and "an appropriate official of a state or 
+subdivision of a state";  the necessary implication is that 
+absent such express exceptions, sharing grand jury informa-
+tion with those persons would be a prohibited disclosure even 
+though they are not "the public."
+
+     Moreover, the Government's interpretation of the Rule 
+defies the Supreme Court's clear instruction in Sells Engi-
+neering, 463 U.S. at 425-27, that exceptions to Rule 6(e) must 
+be narrowly construed and that secrecy concerns extend to 
+disclosures made to (and indeed, within) the Government 
+itself.  There the Court rejected the argument that Rule 
+6(e)(3)(A)(i) permits the disclosure of grand jury material to 
+an attorney on the civil -- as opposed to the criminal -- side 
+of the DOJ:
+
+     [D]isclosure to Government bodies raises much the same 
+     concerns that underlie the rule of secrecy in other con-
+     texts.  Not only does disclosure increase the number of 
+     persons to whom information is available (thereby in-
+     creasing the risk of inadvertent or illegal disclosure to 
+     others), but it renders considerably more concrete the 
+     threat to the willingness of witnesses to come forward 
+     and to testify fully and candidly.  If a witness knows or 
+     fears that his testimony before the grand jury will be 
+     routinely available for use in governmental civil litigation 
+     or administrative action, he may well be less willing to 
+     speak for fear that he will get himself into trouble in 
+     some other forum.
+     
+463 U.S. at 432.  The disclosure the Government made in this 
+case clearly implicates the Sells Court's concern about penal-
+izing a witness for testifying:  Although the disclosure was 
+made to the qui tam court and not to a government attorney 
+for use in a civil investigation, the result has been that civil 
+contempt proceedings were brought against the plaintiffs in 
+this case, they may be required to disgorge the proceeds of 
+their settlement, and they face the possibility that the qui tam 
+
+court itself will initiate criminal contempt proceedings against 
+them.  Whatever the equities of the matter in the qui tam 
+court, therefore, we have no doubt that this revelation is 
+within the core concern of Rule 6(e).
+
+     With respect to the specific provisions of the Rule, we 
+simply do not understand how the Government can both 
+concede the Rule "does not explicitly authorize a government 
+attorney to give grand jury materials to the federal judge 
+presiding over the civil litigation," and yet maintain the Rule 
+does not "prohibit the prosecutor from communicating some 
+grand jury information to the judge."  The Rule on its face 
+prohibits such a communication because it does not except it 
+from the general prohibition.  Again, to hold otherwise clear-
+ly would contradict the teaching of the Court in Sells, 463 
+U.S. at 425.  The Government's effort to show there is a place 
+for implied exceptions to the Rule by noting that it "routinely 
+includes grand jury information in sealed search warrant 
+affidavits" comes to naught:  as the plaintiffs point out, that 
+use of grand jury information is expressly authorized by Rule 
+6(e)(3)(A)(i) ("Disclosure otherwise prohibited ... may be 
+made to ... such government personnel ... as are deemed 
+necessary by a[ government] attorney to assist ... in the 
+performance of such attorney's duty to enforce federal crimi-
+nal law").
+
+     The Government's remaining arguments from the Rule 
+itself are easily dispatched.  It argues that because Rule 
+6(e)(3)(C) excepts certain disclosures when "permitted [or 
+directed] by a court," the Rule necessarily excludes from the 
+definition of "disclos[ure]" any communication of grand jury 
+information to a court;  the Government's reasoning is that 
+the permitting or directing court must have "some knowledge 
+of the grand jury material" in order to decide whether it 
+should be disclosed.  In this case, however, the grand jury 
+material is to be used in another "judicial proceeding," as 
+provided in Rule 6(e)(3)(C)(i);  and because Rule 6(e)(D) 
+specifies the federal district court "in the district where the 
+grand jury convened" as the court that may authorize such a 
+disclosure, the Government's unauthorized disclosure of the 
+material to any other court is indeed a prohibited disclosure.  
+
+We therefore need not decide whether revelation of grand 
+jury materials to a different court pursuant to another of the 
+exceptions enumerated in Rule 6(e)(3)(C) necessarily consti-
+tutes a disclosure, but we do note that the Government cites 
+no precedent -- nor do we know of any -- holding that it does 
+not.  The Government also argues that use of the word 
+"transmit[ ]" in Rule 6(e)(3)(E) to describe the movement of 
+grand jury material from a court supervising a grand jury to 
+a federal district court in another district for use in a judicial 
+proceeding there means that the revelation of information to 
+a court is not a "disclosure."  This argument is plainly 
+misconceived because Rule 6(e)(3)(E) specifically requires 
+that the court supervising the grand jury transmit to the 
+other court "a written evaluation of the need for continued 
+grand jury secrecy" along with the grand jury material;  that 
+prescription would be meaningless if free movement of grand 
+jury information among courts were permitted in any event.
+
+     For the foregoing reasons there can be no doubt that the 
+two prosecutors violated the proscription of Rule 6(e) on July 
+18 when they sent their Notice to the qui tam court.  The 
+proper course would have been for the Government to peti-
+tion the grand jury court to transmit the materials pursuant 
+to Rule 6(e)(3)(E).  And on July 26 -- as we have seen 
+before -- the Government did just that.
+
+     When the plaintiffs moved the grand jury court on August 
+14 to order the Government to show cause why it should not 
+be held in contempt, they undoubtedly made out a prima facie 
+case that the Government had violated Rule 6(e) on July 18.  
+Although the grand jury court's ultimate decision whether to 
+hold the Government in contempt would be subject to review 
+only for abuse of discretion, see Rule 6(e)(2) ("a knowing 
+violation ... may be punished"), ordinarily "[o]nce a prima 
+facie case is shown, the district court must conduct a 'show 
+cause' hearing," Barry v. United States, 865 F.2d 1317, 1321 
+(D.C. Cir. 1989) (emphases added);  at that hearing the Gov-
+ernment's burden would be "to rebut the inferences drawn 
+from the [evidence] establish[ing] the prima facie case" that it 
+had violated the Rule.  In re Sealed Case No. 98-3077, 151 
+F.3d 1059, 1075 (D.C. Cir. 1998).  In this case the grand jury 
+
+court did not err in denying the plaintiffs' show cause motion, 
+however, because there was no possibility the court would 
+give the plaintiffs the relief they sought.  The overwhelming 
+fact is that on August 1 the grand jury court had itself 
+determined upon a proper request from the Government that 
+the underlying testimony summarized in the Notice should be 
+transmitted to the qui tam court.  As such, it would have 
+been pointless for the grand jury court to hold a show cause 
+hearing:  Because the Government could not undo the July 18 
+disclosure, holding the Government in civil contempt would 
+serve no useful purpose;  the court would in no event have 
+ordered the recall and suppression of the materials, and it 
+was quite right in "see[ing] no good reason to revisit [its 
+prior] ruling [transmitting the testimony]."  Accordingly, not-
+withstanding the Government's initial violation of the Rule, 
+we affirm the district court's denial of the plaintiffs' motion to 
+require the Government to show cause why it should not be 
+held in contempt.
+
+     B.   Motion To Vacate the Order To Transfer Grand 
+          Jury Material
+          
+     Rule 6(e) specifies how and under what conditions one 
+federal district court may transmit grand jury material to 
+another federal district court for possible disclosure in a 
+judicial proceeding in the transferee court:  A petition is to be 
+filed in the district where the grand jury convened;  if the 
+Government is the petitioner, then the court may hold an ex 
+parte hearing to consider the petition.  See Rule 6(e)(3)(D).
+
+     A matter occurring before a grand jury may not be dis-
+closed unless there is a "particularized need" therefor;  that 
+is, only if the "material [sought] is needed to avoid a possible 
+injustice in another judicial proceeding, ... the need for 
+disclosure is greater than the need for continued secrecy, and 
+... the[ ] request is structured to cover only material so 
+needed."  Douglas Oil Co., 441 U.S. at 222.  In the case just 
+cited the Court held that the appropriate procedure generally 
+is for the court of the district in which the grand jury 
+convened,
+
+     after making a written evaluation of the need for contin-
+     ued grand jury secrecy and a determination that the 
+     limited evidence before it showed that disclosure might 
+     be appropriate, to send the requested materials to the 
+     court[ ] where the civil cases were pending.  The [trans-
+     feree] court, armed with [its] special knowledge of the 
+     status of the civil actions, then [may] consider[ ] the 
+     requests for disclosure in light of the supervisory court's 
+     evaluation of the need for continued grand jury secrecy.  
+     In this way, both the need for continued secrecy and the 
+     need for disclosure [can be] evaluated by the courts in 
+     the best position to make the respective evaluations.
+     
+Id. at 230-31.  Rule 6(e)(3)(E) now codifies this procedure:  
+"The court [where the grand jury convened] shall order 
+transmitted to the court to which the matter [i.e. the petition 
+for disclosure] is transferred the material sought to be dis-
+closed ... and a written evaluation of the need for continued 
+grand jury secrecy."
+
+     In this case, however, the order of the court transmitting 
+grand jury material to the qui tam court did not comply with 
+Rule 6(e)(3)(E).  The court failed to transmit a "written 
+evaluation of the need for continued grand jury secrecy."
+
+     The Government notes that later, in addressing the plain-
+tiffs' motion to vacate its order transferring the grand jury 
+materials to the qui tam court, the grand jury court said 
+that prior to ordering the transfer it had "balanced such 
+need [for continuing secrecy] against the asserted interest in 
+avoiding injustice in another federal district court."  The 
+grand jury court's performance under Rule 6(e) is nonethe-
+less deficient in three respects:  First, it did not supply a 
+"written evaluation" to the qui tam court, along with the 
+grand jury materials, as contemplated by the Rule.  Second, 
+the court's subsequent statement that it had balanced the 
+competing interests -- even had it been made before rather 
+than after the transmission -- was too conclusory to inform 
+the qui tam court's balancing by conveying the grand jury 
+court's knowledge of the continuing need for grand jury 
+secrecy in the particular circumstances of this investigation.  
+
+Third, the grand jury court overreached in balancing the 
+interest in secrecy -- with which it was familiar -- against 
+the need for disclosure, as to which the qui tam court had 
+the comparative advantage;  it thereby intruded upon the 
+role of the transferee court, which is to make a fully-
+informed determination of the need for disclosure and to 
+perform the ultimate balancing in accordance with Douglas 
+Oil Co. and Rule 6(e)(3)(E).  The only way to cure these 
+defects in any degree is for the grand jury court now to 
+make a "written evaluation" of the nature and extent of the 
+need for continued grand jury secrecy and to transmit it to 
+the qui tam court for that court to make its own, more 
+completely-informed determination in light of the former 
+court's submission.
+
+     The plaintiffs insist, however, that "no remedy other than 
+recall of all material and total suppression will redress the 
+harm" they incurred because of the district court's error, and 
+that the court therefore should have vacated its August 1 
+order transmitting materials to the qui tam court;  still fur-
+ther, they argue that transfer cannot proceed anew at this 
+point.  Neither of these propositions is well founded.
+
+     First, the plaintiffs argue that "even a subsequent disclo-
+sure that complied with Rule 6(e)'s mandates could not eradi-
+cate the taint created by the government's initial, improper 
+release of materials to the [qui tam] court."  The exclusionary 
+rule from which the plaintiffs implicitly borrow is limited to 
+the cure of constitutional violations;  no precedent supports 
+its extension to this breach of a Federal Rule of Criminal 
+Procedure with no constitutional underpinnings.  Nor is there 
+any taint to eradicate:  The Government's July 26 motion for 
+release by the grand jury court is in no way the fruit of its 
+July 18 disclosure to the qui tam court;  the Government 
+obtained no additional evidence because of its disclosure and 
+was no better served than if it had properly petitioned the 
+grand jury court in the first instance.  The plaintiffs' first 
+cogent articulation of a rationale for their claim of "taint" 
+came at oral argument, when they suggested that the letter 
+the qui tam court sent to the grand jury court requesting 
+transmission of the grand jury testimony was the fruit of the 
+
+Government's improper disclosure and may have informed 
+the district court's decision in favor of transmission.  This is 
+too little, too late;  we are left with no reason to think the 
+district court would not have ordered the transmission even if 
+all it knew was that the qui tam court's seal -- unbeknownst 
+to that court -- apparently had been breached.
+
+     Second, the plaintiffs argue that Rule 6(e) categorically 
+bars disclosure of grand jury materials while the grand jury 
+is still sitting.  For this they claim support from the Second 
+Circuit's inability some time ago to identify "a single case 
+authorizing disclosure of a witness' testimony during the 
+pendency of grand jury investigations."  In re Bonnano, 344 
+F.2d 830, 834 (1965).  The Rule itself, however, draws no 
+distinction between ongoing and completed grand jury pro-
+ceedings.  The plaintiffs draw our attention to various places 
+in the Advisory Committee's Notes on Rule 6 where the past 
+tense is used, and to the reference in Rule 6(e)(3)(E) to "the 
+need for continued grand jury secrecy" (emphasis added), 
+which they see as suggesting that the grand jury proceedings 
+must have been concluded;  but the Government reciprocally 
+points to Rules 6(e)(2) and (3)(C), which speak in the present 
+tense of "matters occurring before the grand jury" (emphasis 
+added), and therefore just as strongly suggest that a proceed-
+ing may be ongoing.  More important, however, the Supreme 
+Court has clearly indicated the inquiry into "particularized 
+need" would govern regardless whether the grand jury is 
+ongoing.  See Douglas Oil Co., 441 U.S. at 222 (inquiry 
+proceeds "even when the grand jury whose transcripts are 
+sought has concluded its operations").
+
+     Third, the plaintiffs insist the district court may not pro-
+ceed ex parte in determining whether to transmit the materi-
+als.  The Rule, however, expressly permits the court to 
+proceed ex parte where the Government is the petitioner, as 
+it was here.  See Rule 6(e)(3)(D).  The plaintiffs' sole basis 
+for arguing to the contrary is the Ninth Circuit's statement 
+that the Government must make "a specific showing of the 
+need to make the disclosure ex parte," which could be done 
+only in "the most unusual cases."  United States v. Nix, 21 
+F.3d 347, 352 (1994).  Nix, however, is on its face limited to 
+
+cases in which the Government petitions on behalf of a 
+private litigant and therefore "must make the same showing 
+as the private litigant would be required to make" -- that is, 
+ordinarily in open court.  Id. at 351-52.  As it would be inapt 
+to assimilate the qui tam court to a private litigant for this 
+purpose, we see no reason to doubt the Government may here 
+petition ex parte as authorized under the Rule.
+
+     Fourth, the plaintiffs argue that because the judge of the 
+qui tam court was effectively "the party petitioning for the 
+material," there would be "an irreconcilable conflict of inter-
+est for that selfsame judge to serve as" the ultimate decision-
+maker who assesses "particularized need."  Here the plain-
+tiffs conflate the qui tam court's legitimate concern for doing 
+justice to the parties before it with a personal interest on the 
+part of the judge;  any decision to disclose the grand jury 
+materials to the parties in the civil action is for their benefit, 
+not that of the court.  If the qui tam court -- once it receives 
+the grand jury court's written evaluation of the need for 
+continued secrecy -- in fact orders disclosure, it will be doing 
+so only because it weighed the competing considerations and 
+struck the balance on that side.  That is the very process 
+dictated by the Supreme Court in Douglas Oil Co. and by the 
+Rule itself, and no bias can be ascribed to the qui tam court 
+for adhering to it.
+
+     Finally, the plaintiffs maintain that the provisions of Rule 
+6(e) authorizing the transmission of grand jury materials "in 
+connection with a judicial proceeding" are inapposite to this 
+case;  their claim is that a would-be transferee court cannot 
+itself be a petitioner under Rule 6(e), nor can the Government 
+act on its behalf.
+
+     As to the first aspect of that claim, the plaintiffs try to 
+make something of the Court's allusion in Douglas Oil Co. to 
+the "occasional need for litigants" to obtain grand jury tran-
+scripts, 441 U.S. at 220, but that obviously does not rule out 
+the possibility that a district court might likewise need to 
+obtain a transcript in connection with a "judicial proceeding" 
+before it.
+
+     As to the ability of the Government to petition on behalf of 
+a transferee court, the plaintiffs again seek support from 
+United States v. Nix.  But the Ninth Circuit did not there 
+circumscribe the ability of the United States to petition under 
+Rule 6(e);  quite the contrary, it held that the United States 
+may petition not only on its own behalf, but also, as it had in 
+that case, on behalf of a private party.  Id. at 351.  We see no 
+reason the United States may not likewise petition on behalf 
+of a federal district court, which has an important interest in 
+the integrity of its seal.  (We note also, for what it is worth, 
+that the private parties before that court are the immediate 
+beneficiaries of any disclosure the qui tam court may make.)  
+The plaintiffs then suggest that because the Sells Engineer-
+ing decision, above, precludes the Government from using its 
+access to the grand jury to further its interest in related civil 
+litigation, "this Court should reject the interpretation that 
+Rule 6(e)(3)(C)(i) permits disclosure of secret grand jury 
+materials to a federal court in a collateral civil matter."  The 
+lesson of Sells, however, is more nuanced than that:  the 
+Government may not freely use grand jury materials for civil 
+litigation, but it may obtain a court order for such use under 
+Rule 6(e)(3)(C)(i).  See 463 U.S. at 442-44.  That is all the 
+Government seeks in this case and all it may obtain in a 
+properly conducted proceeding upon remand.
+
+     Evidently the plaintiffs would have us believe that Rule 6(e) 
+precludes the Government from doing anything to bring 
+grand jury testimony regarding the breach of a court's seal to 
+the attention of that court.  That is neither sensible nor 
+consonant with the judgment reflected in the Rule that the 
+Government may petition to disclose grand jury material "in 
+connection with a judicial proceeding."
+
+     Inexplicably, however, the Government does not character-
+ize its motion to have the district court transmit the materials 
+to the qui tam court as a "petition" within the meaning of 
+6(e)(3)(D).  Instead, it represents that "[i]n this case, because 
+no one had petitioned for disclosure, [the grand jury court] 
+and [the qui tam court] followed a slightly different proce-
+dure," the result of which was that the grand jury court 
+decided sua sponte to transmit the materials to the qui tam 
+
+court.  Although the Rule does nothing affirmatively to au-
+thorize this procedure, the Government posits that "[s]ubsec-
+tion D [of Rule 6(e)(2)] merely establishes a process when 
+someone does 'petition for disclosure.' "
+
+     We cannot possibly sanction that interpretation.  For one 
+thing, it would be disingenuous to hold that the district court 
+acted sua sponte when it ordered grand jury testimony 
+transmitted in direct response to the Government's motion 
+and its ex parte appearance (in support of the qui tam court's 
+written request).  Worse still, we would do substantial vio-
+lence to the Rule if we were to accept the Government's 
+proposition that the specification of procedures governing a 
+petition under Rule 6(e)(3)(C)(i) leaves room for a court to 
+release materials to another court without having received 
+such a petition whenever it sees fit and presumably uncon-
+strained by the notice and hearing requirements applicable to 
+a petition.  Therefore in keeping with the Rule, the district 
+court should upon remand of this case proceed upon the 
+understanding that the Government is acting under 6(e)(3)(D) 
+as a petitioner on behalf of the qui tam court.
+
+               III. Conclusion
+
+     For the foregoing reasons, we affirm the order of the 
+district court denying the plaintiffs' motion to require the 
+Government to show cause why it should not be held in 
+contempt.  We nonetheless remand this matter to the district 
+court because its order to transfer grand jury materials to the 
+qui tam court did not comply with Rule 6(e)(3)(E).  Consis-
+tent with this opinion, the district court shall transmit to the 
+qui tam court "a written evaluation of the need for continued 
+grand jury secrecy."
+
+                                                        So ordered.
+
+                                                                       

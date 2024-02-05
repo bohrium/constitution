@@ -1,0 +1,483 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 13, 2000    Decided January 30, 2001 
+
+                           No. 99-1372
+
+          Utility Solid Waste Activities Group, et al., 
+                           Petitioners
+
+                                v.
+
+               Environmental Protection Agency and 
+         Carol M. Browner, Administrator, United States 
+                Environmental Protection Agency, 
+                           Respondents
+
+                        Consolidated with 
+                           No. 99-1374
+
+           On Petitions for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Angus Macbeth argued the cause for petitioners.  With 
+him on the briefs were Christopher L. Bell, Patricia K. 
+
+Casano, Douglas H. Green, John L. Moore, Jr. and Heather 
+E. Gange.
+
+     Daniel M. Flores, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With him on the briefs was 
+Lois J. Schiffer, Assistant Attorney General.  Christopher S. 
+Vaden, Attorney, U.S. Department of Justice, entered an 
+appearance.
+
+     Before:  Williams, Randolph, and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  Utility Solid Waste Activities 
+Group and General Electric petition this court to vacate in 
+part an alteration of the Environmental Protection Agency's 
+rules regulating the use of porous substances contaminated 
+by polychlorinated biphenyls ("PCBs").  PCBs are outstand-
+ing insulators and do not burn easily--characteristics that 
+make them useful in transformers, capacitors, and other 
+electrical equipment.  PCBs are also carcinogenic and toxic, 
+and may cause immune system suppression, liver damage, 
+endocrine disruption in humans and animals and skin irrita-
+tion.  These dangers are compounded by the remarkable 
+stability of PCB compounds, which bioaccumulate in fatty 
+tissue and are readily absorbed through the skin and respira-
+tion, as well as through ingestion of animals exposed to PCBs.
+
+     In the 1976 Toxic Substances Control Act ("TSCA"), Con-
+gress singled out these chemicals for special treatment.  15 
+U.S.C. ss 2601, 2605(e).  The Act forbid the "manufacture, 
+processing, distribution in commerce or use" of any PCB 
+except in a "totally enclosed manner." 15 U.S.C. 
+s 2605(e)(2)(A).  The EPA Administrator had authority to 
+waive the restriction by rule but only if it would not present 
+an unreasonable risk of injury to health or the environment.  
+15 U.S.C. s 2605(e)(2)(B).  We are told that by January 1, 
+1978, when these measures took effect, nearly all manufactur-
+ing of PCBs had ceased.
+
+     In 1987 EPA published a PCB Spill Policy establishing 
+cleanup and decontamination standards for spills of PCBs at 
+concentrations of greater than or equal to ("ò") 50 parts per 
+
+million ("ppm") that occurred after May 3, 1987.  40 C.F.R. 
+ss 761.120-761.135.1  Under the Spill Policy, solid surfaces, 
+including concrete, which were cleaned to a surface concen-
+tration of 10 micrograms of PCBs per 100 square centimeters 
+("10 æg/100 cm2") could be used without restrictions.  See, 
+e.g., 40 C.F.R. s 761.125(b)(1)(i), (c)(4)(ii).  The Spill Policy, 
+including the 10 æg/100 cm2 surface standard, remains in 
+effect today.
+
+     On June 29, 1998, EPA promulgated major amendments to 
+the PCB regulations ("PCB Mega Rule").  63 Fed. Reg. 
+35,384 (1998).  This PCB Mega Rule set forth an additional 
+option for spills of ò 50 ppm PCBs onto concrete, provided 
+that the concrete could be "decontaminated" by cleaning to 10 
+æg/100 cm2 PCBs, if the decontamination began within 72 
+hours of the spill.  40 C.F.R. s 761.79(b)(4).2  After promul-
+gation of the PCB Mega Rule, porous surfaces contaminated 
+by spills of ò 50 ppm PCBs could be used without restrictions 
+if they had been cleaned up in accordance with the PCB Spill 
+Policy or decontaminated in accordance with s 761.79.  See 
+40 C.F.R. ss 761.20(c)(5) and 761.30(u).
+
+     During the development of the PCB Mega Rule, the ques-
+tion whether PCB contaminated surfaces that did not meet 
+the cleanup or decontamination standards could be used was 
+the subject of extensive public comment and inquiry by EPA.  
+See 63 Fed. Reg. at 35,398;  Informal Public Hearing Disposal 
+of Polychlorinated Biphenyls (June 6-7, 1995), at 87-88, 
+
+__________
+     1 The PCB Mega Rule states that regulatory provisions applying 
+to PCBs at concentrations ò 50 ppm also apply to surfaces contami-
+nated with PCBs at surface concentrations ò 10 æg/100 cm2.  40 
+C.F.R. s 761.1(b)(3).
+
+     2 There are certain differences between this decontamination 
+provision and the Spill Policy.  The former is available only for 
+spills onto concrete and includes a different response time (72 hours 
+as opposed to 48 hours in the Spill policy).  Compare 40 C.F.R. 
+s 761.79(b)(4) and 40 C.F.R. s 761.125(b)(1)(iii), (c)(1).  Both, how-
+ever, use the 10 æg/100 cm2 surface cleanup standard.  Further, the 
+Spill Policy is an enforcement policy, not a regulation.  40 C.F.R. 
+s 761.135.
+
+100-01;  Comments of Chemical Manufacturers Association, 
+USWAG and NEMA on proposed PCB Mega Rule at 26-28;  
+EPA Response to Comments Document at 41 (May 1998).  
+Commenters pointed out that, under EPA's interpretation of 
+the TSCA, buildings with PCB-contaminated porous surfaces 
+(e.g., with concrete or wooden walls or floors) could not be 
+used, even if the risks from exposure were trivial, unless the 
+contaminated surfaces were removed.  Id.
+
+     Responding to these comments, EPA promulgated 40 
+C.F.R. s 761.30(p) to authorize the continued use of porous 
+surfaces contaminated by spills of PCBs "regulated for dis-
+posal" (i.e., PCBs at concentrations ò 50 ppm), provided 
+certain cleaning, painting and marking conditions were met.3
+
+     The scope of s 761.30(p) established by the PCB Mega 
+Rule was:
+
+     (p)  Continued use of porous surfaces contaminated 
+          with PCBs regulated for disposal by spills of liquid 
+          PCBs.4
+          
+     (1)  Any person may use porous surfaces contaminated 
+          by spills of liquid PCBs at concentrations of ò 10 
+          æg/100 cm2 for the remainder of the useful life of the 
+          surfaces and subsurface material if the following 
+          conditions are met:....
+          
+40 C.F.R. s 761.30(p) (1998).  Under this provision, the re-
+quirements in s 761.30(p)--i.e., the cleaning, painting and 
+marking requirements--were triggered when (1) a porous 
+surface was contaminated by a spill of PCBs "regulated for 
+disposal" (i.e., concentrations ò 50 ppm PCBs), and (2) the 
+spill resulted in a PCB surface concentration of greater than 
+10 æg/100 cm2.  EPA explained:
+
+__________
+     3 The use conditions in s 761.30(p), including the cleaning, mark-
+ing and painting requirements, are set forth at 40 C.F.R. 
+s 761.30(p)(1)(i)-(iii).
+
+     4 Spills of PCBs at concentrations ò 50 ppm "constitute the 
+disposal of PCBs" and are regulated under EPA's PCB program 
+(referred to as PCBs "regulated for disposal").  See 40 C.F.R. 
+s 761.50(a)(4).
+
+     EPA agrees with comments that the removal of porous 
+     materials contaminated by spills of liquid PCBs is eco-
+     nomically burdensome and unnecessary where release of 
+     and exposure to the PCBs can be controlled.  EPA 
+     believes that the use conditions specified in s 761.30(p) 
+     will effectively prevent exposure to any residual PCBs in 
+     the contaminated porous material and therefore contin-
+     ued use of this material will not present an unreasonable 
+     risk.
+     
+63 Fed. Reg. at 35,398.  In other words, surfaces that were 
+contaminated at PCB concentrations ò 10 æg/100 cm2 did not 
+pose an unreasonable risk if they were cleaned, painted and 
+marked in accordance with s 761.30(p).  Unlike the Spill 
+Policy and the concrete decontamination provision, cleanup 
+did not have to occur within a set time period.  Compare 40 
+C.F.R. s 761.79(b)(4) and 40 C.F.R. s 761.125(b)(1)(iii), (c)(1);  
+see also supra note 2.
+
+     On June 24, 1999, without notice and comment, EPA 
+amended the PCB Mega Rule.  EPA called the changes 
+minor technical amendments.  64 Fed. Reg. at 33,756.  The 
+amendment challenged here repealed the threshold criterion 
+in s 761.30(p)(1) that PCBs had to be present on the porous 
+surface at a surface concentration of ò 10 æg/100 cm2 to 
+trigger the exposure controls.  The revised text of 
+s 761.30(p)(1) reads as follows:
+
+     (p)  Continued use of porous surfaces contaminated 
+          with PCBs regulated for disposal by spills of liquid 
+          PCBs.
+          
+     (16) Any person may use porous surfaces contaminated 
+          by spills of liquid PCBs at concentrations ò 50 ppm 
+          for the remainder of the useful life of the surfaces 
+          and subsurface material if the following conditions 
+          are met....
+          
+40 C.F.R. s 761.30(p)(1) (emphasis added).
+
+     The original triggers for s 761.30(p) were a PCB concen-
+tration per unit of volume spilled (i.e.,ò 50 ppm) that 
+resulted in a PCB surface concentration per unit of area (i.e., 
+
+ò 10 æg/100 cm2).  The new trigger is now based solely on 
+the PCB concentration in the material spilled.  The resulting 
+surface concentration and potential exposure level thus be-
+came immaterial.
+
+                                I.
+
+     The Administrative Procedure Act's general rulemaking 
+section, 5 U.S.C. s 553, sets down certain procedural require-
+ments with which agencies must comply in promulgating 
+legislative rules:  there must be publication of a notice of 
+proposed rulemaking;  opportunity for public comment on the 
+proposal;  and publication of a final rule accompanied by a 
+statement of the rule's basis and purpose.  See Vermont 
+Yankee Nuclear Power Corp. v. NRDC, 435 U.S. 519, 523-24 
+(1978).  That EPA did not comply with the notice and com-
+ment requirements of APA s 553 in amending s 761.30(p) is 
+certain.  The question is whether EPA's justifications for not 
+doing so will save the amended rule.
+
+                                A.
+
+     EPA represents to us that it altered s 761.30(p) in order to 
+correct language resulting from an erroneous use of the Word 
+Perfect find/replace command in the drafting of the regula-
+tion.  Declaration of Dr. John H. Smith at 2 (June 23, 2000).  
+We will accept this explanation.  The question remains 
+whether EPA needed to comply with the APA in making the 
+correction.  EPA thinks not because it possesses "inherent 
+power" to correct "technical errors."  It relies on a line of 
+cases beginning with American Trucking Ass'ns v. Frisco 
+Co., 358 U.S. 133 (1958), for the proposition that agencies may 
+correct their mistakes without complying with the APA's 
+procedural requirements.  Our court has never recognized 
+such an "inherent power" in the rulemaking context, and we 
+decline to do so now.
+
+     The Supreme Court decision just cited dealt with the 
+Interstate Commerce Commission's approval of the acquisi-
+tion, by a wholly-owned subsidiary of a railroad, of operating 
+rights of several motor carriers.  Id. at 135.  When the 
+
+Commission later issued certificates of public convenience and 
+necessity, it failed to include language present in its reports 
+reserving to the Commission the power to impose restrictions 
+and modifications.  Id. at 137.  The Commission discovered 
+the oversight, reopened the acquisition proceedings, gave 
+notice to the parties and, after further proceedings in which 
+the parties participated, ordered the certificates modified to 
+reflect this limitation.  Id. at 137-38.  The Supreme Court 
+affirmed the order.  The Court noted that Fed. R. Civ. P. 
+60(a) grants courts the power to correct clerical errors, and 
+held that the Commission possessed the same power by 
+analogy and pursuant to its broad enabling statute instructing 
+the Commission to serve the "ends of justice."  358 U.S. at 
+145.  "To hold otherwise would be to say that once an error 
+has occurred the Commission is powerless to take remedial 
+steps."  Id.  Later decisions, using the same analogy to 
+judicial proceedings, have sustained an agency's inherent 
+power to correct errors in an adjudication.  See Howard 
+Sober, Inc. v. ICC, 628 F.2d 36, 31-42 (D.C. Cir. 1980);  
+United States v. Civil Aeronautics Bd., 510 F.2d 769, 772-76 
+(D.C. Cir. 1975);  City of Long Beach v. Department of 
+Energy, 754 F.2d 379, 387-88 (Temp. Emer. Ct. App. 1985).
+
+     The judicial analogy does not work here.  This was not an 
+adjudication.  EPA acted in a quasi-legislative fashion.  The 
+rule as initially promulgated was legislative in nature.  Con-
+gress, with some regularity particularly in the tax area, 
+makes technical corrections to legislation, but it does so by 
+enacting corrective legislation, not by issuing an order an-
+nouncing the change.  EPA is not quite so constrained.  APA 
+s 553(b)(B) permits it, and other agencies, to dispense with 
+notice and comment "when the agency for good cause finds 
+(and incorporates the finding and a brief statement of reasons 
+therefor in the rules issued) that notice and public procedure 
+thereon are impracticable, unnecessary, or contrary to the 
+public interest."  Unlike the Frisco Supreme Court case, the 
+alternative here is not that EPA would be powerless to 
+correct its mistakes.  It has the power to do so, so long as it 
+follows certain procedures, either those spelled out in APA 
+
+s 553(b) for usual notice and comment rulemaking, or in the 
+exception we have just quoted from APA s 553(b)(B).
+
+     In Edison Electric Institute v. OSHA, 849 F.2d 611, 622 
+(D.C. Cir. 1988), the government agreed with petitioners that 
+OSHA's failure to include an exception for utilities to a 
+general rule was the result of a ministerial error.  Rather 
+than amending the regulation, OSHA achieved the same 
+result by issuing a memorandum instructing those responsi-
+ble for enforcing the rule to forbear applying it to utilities.  
+Id.  The court held that this binding pronouncement inter-
+preting the rule was sufficient to correct the error without an 
+additional round of notice and comment rulemaking.  Id.5 
+EPA reads Edison Electric to mean that an agency may 
+dispense with notice and comment procedures and change 
+rules to correct ministerial errors.  We think this is wrong 
+for four reasons.  First, OSHA did not alter or amend the 
+rule itself.  It simply instructed its regional offices not to 
+enforce it against utilities.  Second, OSHA did so because--as 
+the parties agreed--the rule was not intended to apply to 
+utilities.  Third, the memorandum setting forth this instruc-
+tion did not have to be preceded by notice and comment 
+rulemaking.6  Fourth, to hold that an agency may correct 
+errors in rules merely by announcing a change would be 
+inconsistent with APA s 553(b)(B).
+
+     While Edison Electric is distinguishable, Chlorine Insti-
+tute, Inc. v. OSHA, 613 F.2d 120, 123 (5th Cir. 1980), seems 
+not to be.7  In that case the Fifth Circuit permitted OSHA to 
+
+__________
+     5 The court dropped a cf. citation to Howard Sober, Inc. v. ICC, 
+628 F.2d 36, 41-42 (D.C. Cir. 1980), a case applying the ministerial 
+error exception in the adjudication context.
+
+     6 There was no claim in Edison Electric that the enforcement 
+directive was "so extreme as to amount to an abdication" of the 
+agency's regulatory responsibility.  See Heckler v. Chaney, 470 U.S. 
+821, 833 n.4 (1985).
+
+     7 We say "seems" because the court, after pointing out some of 
+the differences between correcting an error in a regulation rather 
+than an adjudication, stated that the parties had not discussed the 
+subject.  613 F.2d at 123 n.6.  The court therefore may have meant 
+
+correct a ministerial error in a regulation seven years after 
+its promulgation.  Without explaining why, the court relied 
+on the Supreme Court's Frisco decision.  We reject this view 
+as unsupported by the reasoning of Frisco, and as inconsis-
+tent with the APA, which contains clear and limited excep-
+tions to the requirements of notice and comment.
+
+                                B.
+
+     In addition to its claim of inherent power to correct mis-
+takes in rules, EPA contends that it brought itself within one 
+or more of the APA's exceptions to notice and comment 
+rulemaking.
+
+     APA s 553(b) requires notice of any proposed rule to be 
+published in the Federal Register "unless persons subject 
+thereto are named and either personally served or otherwise 
+have actual notice thereof in accordance with law."  5 U.S.C. 
+s 553(b).  EPA's argument is that petitioners received "actu-
+al notice" when EPA published the change on its Internet site 
+and when it held a meeting attended by counsel for Utility 
+Solid Waste Activities Group.  This court has never found 
+that Internet notice is an acceptable substitute for publication 
+in the Federal Register, and we refuse to do so now.  See 
+Appalachian Power Co. v. EPA, 208 F.3d 1015, 1020 (D.C. 
+Cir. 2000).  In any event, EPA has not even alleged that the 
+petitioners were "named" in the Internet publication, as APA 
+s 553(b) would require if this sort of notice were sufficient.  
+See Rodway v. Department of Agric., 514 F.2d 809, 815 (D.C. 
+Cir. 1975).  That counsel for one of the petitioners attended a 
+meeting discussing the modification of s 761.30(p) is irrele-
+vant.  The other petitioner, General Electric, did not attend.  
+See MCI Telecomm. Corp. v. FCC, 57 F.3d 1136, 1143 (D.C. 
+
+__________
+merely to assume that ministerial errors in regulations can be 
+corrected without an additional rulemaking.  Chlorine may also be 
+explained on the basis that the regulation contained an internal 
+conflict and that the statute provided a rule of decision in such 
+instances, requiring adherence to the stricter of the two standards 
+in the regulation.  On that view of the case, no additional rulemak-
+ing would have been necessary.  The statute took care of the error.
+
+Cir. 1995).  EPA thus failed to provide petitioners with 
+"actual notice."
+
+     EPA also thinks it qualified for the exception to notice and 
+comment rulemaking contained in APA s 553(b)(B) ("when 
+the agency for good cause finds (and incorporates the finding 
+and a brief statement of reasons therefor in the rules issued) 
+that notice and public procedure thereon are impracticable, 
+unnecessary, or contrary to the public interest").  The claim 
+is that its statement in the Federal Register accompanying 
+the amendment--the amendments contained only "minor, 
+routine clarifications that will not have a significant effect on 
+industry or the public"--amounted to a finding of good cause 
+and a statement of reasons.  There are three grounds in APA 
+s 553(b)(B) for finding good cause:  notice and comment 
+would be "impracticable, unnecessary, or contrary to the 
+public interest."  EPA does not tell us which of the three it 
+meant to invoke, so we will discuss each.  In doing so we are 
+mindful of our precedents that the "good cause" exception is 
+to be "narrowly construed and only reluctantly counte-
+nanced."  Tennessee Gas Pipeline Co. v. FERC, 969 F.2d 
+1141, 1144 (D.C. Cir. 1992) (quoting New Jersey v. EPA, 626 
+F.2d 1038, 1045 (D.C. Cir. 1980)).  The exception is not an 
+"escape clause";  its use "should be limited to emergency 
+situations."  American Fed'n of Gov't Employees v. Block, 
+655 F.2d 1153, 1156 (D.C. Cir. 1981).
+
+     With respect to "impracticable" ground, the Attorney Gen-
+eral's Manual explains "that a situation is 'impracticable' 
+when an agency finds that due and timely execution of its 
+functions would be impeded by the notice otherwise required 
+in [s 553]," as when a safety investigation shows that a new 
+safety rule must be put in place immediately.  United States 
+Department of Justice, Attorney General's Manual on the 
+Administrative Procedure Act 30-31 (1947);  see also Method-
+ist Hosp. of Sacramento v. Shalala, 38 F.3d 1225, 1236-37 
+(D.C. Cir. 1994);  Petry v. Block, 737 F.2d 1193, 1201 (D.C. 
+Cir. 1984).  This ground for finding good cause cannot possi-
+bly apply here. There is no indication that 40 C.F.R. 
+s 761.30(p), as it stood before the amendment, posed any 
+threat to the environment or human health or that some sort 
+
+of emergency had arisen.  And EPA made no finding to this 
+effect.
+
+     With respect to the "unnecessary" prong of the exception, 
+one court has ruled that its use is "confined to those situa-
+tions in which the administrative rule is a routine determina-
+tion, insignificant in nature and impact, and inconsequential to 
+the industry and to the public."  South Carolina v. Block, 558 
+F. Supp. 1004, 1016 (D.S.C. 1983) (internal quotations omit-
+ted);  see also Texaco, Inc. v. FPC, 412 F.2d 740, 743 (3d Cir. 
+1969).  This formulation comports with the explanation in the 
+Attorney General's Manual that " '[u]nnecessary' refers to the 
+issuance of a minor rule in which the public is not particularly 
+interested."  Attorney General's Manual at 31.  EPA's 
+amendment of 40 C.F.R. s 761.30(p) does not fit that mold.  
+As amended, the rule greatly expanded the regulated commu-
+nity and increased the regulatory burden.  In the original 
+rule, porous surfaces contaminated by spills containing ò 50 
+ppm PCBs were not regulated by s 761.30(p) if the resulting 
+PCB surface contamination was less than 10 æg/100 cm2.  As 
+we understand the new regulations, these same surfaces now 
+became subject to s 761.30(p) because the 10 æg/100 cm2 
+surface contamination trigger has been repealed.  While 
+there may be other possible readings of this complex regula-
+tory scheme, we need not reach them.  EPA's amendment 
+was, without doubt, something about which these members of 
+the public were greatly interested.
+
+     As to the "public interest" ground for finding good cause, 
+the Attorney General's Manual states that this "connotes a 
+situation in which the interest of the public would be defeated 
+by any requirement of advance notice," as when announce-
+ment of a proposed rule would enable the sort of financial 
+manipulation the rule sought to prevent.  Attorney General's 
+Manual at 31;  see also Riverbend Farms, Inc. v. Madigan, 
+958 F.2d 1479, 1484 n.2 (9th Cir. 1992);  Levesque v. Block, 
+723 F.2d 175, 184-85 (1st Cir. 1983).  Nothing of the sort is 
+present here and nothing EPA said in promulgating the 
+amendment suggested that it needed to forego notice and 
+comment in order to prevent the amended rule from being 
+evaded.
+
+     We therefore hold that EPA cannot take advantage of the 
+exceptions contained in APA s 553(b)(B).
+
+     We hold as well that EPA cannot be excused from compli-
+ance with s 553 on the basis that its failure to engage in 
+notice and comment rulemaking amounted to harmless error.  
+This seems to us merely another way of saying that the 
+change in the rule was unimportant, having no significant 
+impact.  We have already rejected that position.  If EPA 
+means instead that its error in not conducting notice and 
+comment rulemaking prejudiced no one, we disagree.  Peti-
+tioners have presented enough to show that on remand they 
+can mount a credible challenge to the amended rule and were 
+thus prejudiced by the absence of an opportunity to do so 
+before the amendment.
+
+     The amendment to 40 C.F.R. s 761.30(p), as set forth in 
+the June 1999 Federal Register, constituted agency action 
+"without observance of [the] procedure required by law" and, 
+as such, it is "unlawful and set aside."  5 U.S.C. s 706(2)(D).
+
+     Accordingly, the petitions for judicial review are granted.
+
+                                       

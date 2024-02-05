@@ -1,0 +1,62 @@
+We will keep k=1 and analyze various K's.
+We will also analyze situations with a few hot potatos and a few chaotic
+senators.
+We won't analyze the interesting case of more diverse judge rankings (e.g.
+
+(\*\*) compare with median-of-medians selection.
+
+        Every layer of "taking majorities" compounds
+        the risk of "unproportional" results.  TEMPORAL GERRYMANDERING
+
+    I understand **gerrymandering** as the failure of (linearity and hence)
+associativity of the "majority operation".  To say that "most rows of a
+chessboard each have most of their cells occupied" is quite different from
+saying that "most of the board's cells are occupied".  Just imagine a 5-by-5
+region!
+
+    APPROPRIATIONS PROCEDURE
+
+        This procedure results in a budget, that is, a list of items to fund,
+        each annotated with the dollar amount allotted and with rules for how
+        the funds may be spent.  I imagine it as augmenting House Rules, not
+        the US Constitution.
+
+    (A) The House decides on a coarse-grained menu of, say, 1000 items to fund.
+        Items might be executive departments, tax cuts, specific programs, etc.
+    (B) Use the BINARY ALLOCATION PROCEDURE to set an allocated dollar figure
+        for each item.  (As a matter of logistics, parallelize over the items).
+    (C) Representatives may propose revisions to the allocations, revisions
+        that must be promptly voted on.  Revisions that merely specify
+        fine-grained constraints within a menu item are accepted when a simple
+        majority concurs.  Other revisions require a (3/5)ths majority.  At the
+        end of 7 days, the allocation passes the House.
+
+
+
+
+    SENATE VOTING PROCEDURE
+
+        This procedure decides on a bill.  No bill shall pass to the
+        President's desk without having been passed by the House and
+        *afterward* by this procedure.  This procedure does not apply to the
+        Senate's extraordinary activities such as advice-and-consent,
+        impeachment trials, veto overrides, constitutional amendments,
+        admission of States to the Union, etc.
+
+    (A) The Senators vote with simple yeas and nays.  Should nays outnumber
+        yeas, the bill fails.  The Vice President breaks ties.
+    (B) Should the bill pass step (A), any F=(2/5)ths of Senators may, by
+        spending tokens, initiate a "neofilibuster".  Here's what happens:
+        (B.a) The objectors initiate by spending O=2(**) tokens in sum.
+        (B.b) The supporters may choose to spend S=3(**) tokens in sum;
+              unless they do so, the bill fails.
+        (B.c) After D=7(**) days of deliberation shall promptly follow...
+        (B.d) ...the Weighted Vote Procedure to determine passage of the bill.
+    (C) If no "neofilibuster" occurs, the bill passes.
+
+    The Congress may by a 3/5s unweighted majority in each Chamber, subject to
+    the ordinary veto and veto-override procedures, alter the parameters O,S,D
+    marked above by (**).
+
+    Note the relation S/(O+S) = 3/5.
+

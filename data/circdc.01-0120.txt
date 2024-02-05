@@ -1,0 +1,863 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 8, 2001     Decided June 19, 2001 
+
+                           No. 00-5218
+
+           Murphy Exploration and Production Company, 
+                            Appellant
+
+                                v.
+
+          United States Department of the Interior and 
+                         Gale A. Norton, 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv00570)
+
+     Stephen M. McNabb argued the cause for appellant.  With 
+him on the briefs was L. Poe Leggette.
+
+     Ronald M. Spritzer, Attorney, U.S. Department of Justice, 
+argued the cause for appellees.  With him on the brief were 
+Lois J. Schiffer, Assistant Attorney General, and Jeffrey 
+Dobbins, Attorney.
+
+     Before:  Ginsburg, Sentelle and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Dissenting opinion filed by Circuit Judge Rogers.
+
+     Sentelle, Circuit Judge:  Murphy Exploration and Produc-
+tion Co. ("Murphy") appeals the District Court's dismissal, for 
+lack of jurisdiction, of its claim that the Department of the 
+Interior ("DOI") failed to reimburse it for mining royalty 
+overpayments.  Murphy's lawsuit invokes the Federal Oil and 
+Gas Royalty Simplification and Fairness Act ("FOGRSFA"), 
+which confers jurisdiction on courts to consider challenges to 
+"administrative proceedings" that the agency fails to resolve 
+within 33 months after they are commenced.  Murphy pro-
+poses that it commenced such an "administrative proceeding" 
+when it submitted a refund request to DOI.  Because we 
+conclude that FOGRSFA's 33-month deadline period begins 
+to run when a party submits a refund request, we hold that 
+the district court erroneously concluded that it lacked juris-
+diction to hear Murphy's claim.
+
+                          I. BACKGROUND
+
+     Several acts of Congress confer on DOI the authority to 
+issue leases to mining companies that wish to extract miner-
+als from lands administered by the federal government.  See, 
+e.g., the Mineral Leasing Act, 30 U.S.C. s 181 et seq., the 
+Mineral Leasing Act for Acquired Lands, 30 U.S.C. s 351 et 
+seq., and the Outer Continental Shelf Lands Act, 43 U.S.C. 
+s 1331 et seq.  As a condition of their leases, lessees must 
+pay the government royalties based on the value of the 
+minerals they produce.
+
+     In response to a series of court decisions between 1988 and 
+1998, DOI's Minerals Management Service ("MMS") altered 
+the method it uses to calculate the royalties that producers 
+must pay when they extract gas from its lands.  See Dia-
+mond Shamrock Exploration Co. v. Hodel, 853 F.2d 1159 (5th 
+Cir. 1988);  Independent Petroleum Ass'n of Am. v. Babbitt, 
+92 F.3d 1248 (D.C. Cir. 1996);  In re Century Offshore Mgmt. 
+Corp., 111 F.3d 443 (6th Cir. 1997).  Royalties now are based 
+
+on a company's "gross proceeds."  A gas producer's "gross 
+proceeds" include "buydowns" (moneys paid by a purchaser 
+to reduce the price at which gas covered by an initial contract 
+will be sold in the future), but do not include "buyouts" 
+(payments by a gas purchaser to terminate a contract), or 
+"take-or-pay payments" (payments a purchaser is obliged to 
+make even if it does not take the gas it contracted to buy).  
+Mobil Exploration and Producing U.S., Inc., MMS-94-0151-
+OCS (1998);  Antelope Prod. Co., MMS-96-0068-O&G (1998).
+
+     A producer may challenge an MMS order to pay royalties 
+in two ways.  First, it may pursue an administrative appeal.  
+30 C.F.R. Pt. 290.  Second, the producer is entitled to imme-
+diate judicial review if the agency fails to resolve the royalties 
+dispute timely.  The latter type of challenge is authorized by 
+FOGRSFA.  Enacted in 1996, FOGRSFA requires DOI's 
+Secretary to "issue a final decision in any administrative 
+proceeding, including any administrative proceedings pending 
+on August 13, 1996, within 33 months from the date such 
+proceeding was commenced or 33 months from August 13, 
+1996, whichever is later."  30 U.S.C. s 1724(h)(1).  If the 
+Secretary fails to do so within the allotted time, she "shall be 
+deemed to have issued a final decision in favor of the Secre-
+tary ... and the appellant shall have a right to judicial review 
+of such deemed final action in accordance with Title 5."  Id. 
+s 1724(h)(2)(B).  FOGRSFA further defines "administrative 
+proceeding" as "any Department of the Interior agency pro-
+cess in which a demand, decision or order issued by the 
+Secretary ... is subject to appeal or has been appealed."  Id. 
+s 1702(18).  In other words, DOI's failure to resolve an 
+"administrative proceeding" relating to a royalties dispute 
+within 33 months triggers the right to immediate judicial 
+review.
+
+     In 1999, DOI promulgated regulations interpreting 
+FOGRSFA's 33-month deadline.  64 Fed. Reg. 26,240 (1999).  
+As the agency sees it, s 1724(h)'s reference to "any adminis-
+trative proceedings" includes only administrative appeals--or, 
+to say the same thing, the 33 months begin to run only when 
+a party files a notice of appeal with the agency.  "For appeals 
+involving Federal oil and gas leases covered by this new 
+
+provision, DOI has 33 months from the date a proceeding is 
+commenced to complete all levels of administrative review."  
+Id. at 26,240 (emphasis added).  If DOI fails to "decide the 
+appeal within 33 months, the appeal is deemed decided for or 
+against DOI, depending on the type of order and the mone-
+tary amount at issue in the appeal."  Id. (emphasis added).  
+FOGRSFA's deadline is not triggered, for example, "on the 
+date that an MMS order is received by the recipient."  Id. at 
+26,248.
+
+     On February 3, 1989, Murphy--a producer that holds oil 
+and gas leases on a number of DOI-administered lands--
+submitted a refund request claiming that the agency owed it 
+some $4.1 million for past royalty overcharges.  Murphy's 
+claim was not resolved for nearly ten years.  On November 3, 
+1998, MMS issued an order instructing Murphy to pay it 
+nearly $368,000 in outstanding royalties.  The agency deter-
+mined that Murphy had overpaid by nearly $990,000 on 
+certain contracts, but that it owed $1.3 million in royalties on 
+certain others.  Murphy appealed administratively on Decem-
+ber 4, 1998.
+
+     On March 5, 1999, with its administrative appeal still 
+pending, Murphy challenged the November 3 order in the 
+United States District Court for the District of Columbia.  
+Murphy's lawsuit cited FOGRSFA for the proposition that 
+DOI's failure to resolve timely its refund request was a final 
+agency action entitling it to immediate judicial review.  Be-
+cause, Murphy argued, its refund request set in motion an 
+"agency process" that could result in the Secretary issuing "a 
+demand, decision or order" that "is subject to appeal," 30 
+U.S.C. s 1702(18), it therefore was an "administrative pro-
+ceeding" within the meaning of FOGRSFA.  And because its 
+request had been pending for more than 33 months when the 
+statute was enacted, the company was entitled to immediate 
+judicial review.  Murphy also argued that, even assuming the 
+validity of DOI's interpretation of the statute, it was entitled 
+to immediate judicial review of one portion of its refund 
+request--a December 1993 DOI order that it had appealed 
+and that the agency later rescinded.  Finally, Murphy argued 
+that, quite apart from FOGRSFA, the expiration of nearly ten 
+
+years from the filing of its refund request to DOI's November 
+1998 order constituted an unreasonable delay under Telecom-
+munications Research & Action Center v. FCC, 750 F.2d 70 
+(D.C. Cir. 1984).
+
+     The district court on January 27, 2000 dismissed Murphy's 
+suit for lack of jurisdiction, on the grounds that FOGRSFA's 
+33-month deadline had not yet expired.  Murphy Explora-
+tion & Prod. Co. v. Dep't of the Interior, No. 99-570 (D.D.C. 
+Jan. 27, 2000).  The court analyzed the statute according to 
+the two-step framework established in Chevron U.S.A. Inc. v. 
+NRDC, 467 U.S. 837 (1984).  At step one, the court found 
+FOGRSFA to be ambiguous on the question whether a refund 
+request (or any other proceeding that is not an appeal) is one 
+of the "any administrative proceedings" that triggers the 
+statute's 33-month deadline.  Because "Congress cannot be 
+said to have spoken directly to the specific issue at hand," the 
+court proceeded to step two and deferred to DOI's interpreta-
+tion that FOGRSFA's 33-month period applies only to admin-
+istrative appeals.  Murphy Exploration, slip op. at 13.  The 
+court also rejected Murphy's alternative claim that the pas-
+sage of ten years since it filed its refund request was an 
+unreasonable delay, and hence a reviewable action:  "[w]hile 
+the ten-year delay in this case is indeed worrisome, it does 
+not constitute final agency action."  Id. at 10.
+
+                           II. ANALYSIS
+
+A.   Procedural issues
+
+     DOI identifies two procedural hurdles which it contends 
+prevent this Court from considering Murphy's argument that 
+the district court had jurisdiction to hear its suit.  Both are 
+easily cleared.  The agency first claims that Murphy did not 
+preserve this issue for appeal since its complaint did not 
+expressly dispute the lawfulness of DOI's regulations.  In 
+fact, Murphy's claim that the district court had jurisdiction is 
+properly before us.  The complaint's failure to specifically 
+attack the regulations is irrelevant, since Murphy's suit was 
+not a facial challenge.  Rather, the company sought an order 
+to compel DOI to refund what it claimed were royalties 
+
+overpayments.  It was not until the agency challenged the 
+district court's jurisdiction--on the grounds that FOGRSFA's 
+33-month deadline had not yet expired--that the validity of 
+the regulations became an issue.  In response to DOI's 
+motion to dismiss, Murphy explained its view that, agency 
+regulations notwithstanding, FOGRSFA gives it the right to 
+immediate judicial review.  Murphy therefore has preserved 
+this issue for appeal.
+
+     DOI further proposes that Murphy waived its challenge to 
+the agency's interpretation of FOGRSFA because it did not 
+advance that view during the rulemaking process.  To be 
+sure, in Ohio v. EPA, 997 F.2d 1520 (D.C. Cir. 1993), we 
+declined to consider an argument that the parties had waived 
+"by failing to raise it during rulemaking proceedings before 
+the agency."  Id. at 1528.  But Ohio is distinguishable.  In 
+that case, the parties had participated in the promulgation of 
+an EPA rule that they then judicially challenged.  Because 
+they had taken part in that prior proceeding, it made sense to 
+speak of "the States' failure to raise [their argument] below."  
+Id.  By contrast, the record here does not reveal that Mur-
+phy participated in the rulemaking that produced DOI's 
+regulations.  Because Murphy had no role in the rulemaking, 
+it cannot be said to have "waived" its argument by failing to 
+advance it during those proceedings.
+
+B.   Chevron and the Standard of Review
+
+     The basic issue in this case is one of statutory construction.  
+Does FOGRSFA's definition of "any administrative proceed-
+ing," the commencement of which triggers the statute's 33-
+month deadline, embrace the filing of a refund request?  Or 
+is "any administrative proceeding" limited to administrative 
+appeals?  Because our task is to measure DOI's regulations 
+against FOGRSFA's text, this case might seem to be an 
+appropriate one for analysis under the rubric of Chevron.  
+Under Chevron, a court must first determine "whether Con-
+gress has directly spoken to the precise question at issue."  
+467 U.S. at 842.  If so, that "is the end of the matter;  for the 
+court, as well as the agency, must give effect to the unambig-
+uously expressed intent of Congress."  Id. at 842-43.  If 
+
+not--that is, if "the statute is silent or ambiguous with 
+respect to the specific issue"--we will defer to "a reasonable 
+interpretation made by the administrator of an agency."  Id. 
+at 843, 844.
+
+     We conclude, however, that Chevron deference is inappro-
+priate in this case.  Chevron does not apply to statutes that, 
+like s 1724(h), confer jurisdiction on the federal courts. It is 
+well established that "[i]nterpreting statutes granting juris-
+diction to Article III courts is exclusively the province of the 
+courts."  Ramey v. Bowsher, 9 F.3d 133, 136 n.7 (D.C. Cir. 
+1993);  see also Reeb v. Economic Opportunity Atlanta, Inc., 
+516 F.2d 924, 926 (5th Cir. 1975) ("The courts, however, have 
+to make their own determination whether the district court 
+has jurisdiction, rather than defer to the [agency] in the first 
+instance.");  cf. Crandon v. United States, 494 U.S. 152, 177 
+(1990) (Scalia, J., concurring in the judgment) (arguing that 
+Chevron deference is inapplicable to criminal statutes, which 
+are "not administered by any agency but by the courts").  As 
+the Supreme Court has explained, when Congress has "estab-
+lished an enforcement scheme" that gives a party "direct 
+recourse to federal court," it is "inappropriate to consult 
+executive interpretations of [the jurisdiction-conferring stat-
+ute] to resolve ambiguities surrounding the scope of [the 
+party's] judicially enforceable remedy."  Adams Fruit Co., 
+Inc. v. Barrett, 494 U.S. 638, 650 (1990).
+
+     A principal reason why courts pay agencies no deference on 
+jurisdiction-conferring statutes is that such statutes do not 
+grant powers to agencies.  As the Supreme Court has ex-
+plained, "a congressional delegation of administrative authori-
+ty" is a "precondition to deference under Chevron."  Id. at 
+649.  Unless the agency is the recipient of congressionally 
+delegated power, there is no reason to defer to its interpreta-
+tions of the statute that does the delegating.  The typical 
+Chevron case involves Congress extending an administrative 
+power to an agency--for instance, an act that grants DOI the 
+authority to administer federally owned lands, or a statute 
+empowering the Environmental Protection Agency to regu-
+late nitrogen-oxide emissions.  A jurisdiction-conferring stat-
+ute, by contrast, grants judicial power to the courts--namely 
+the power to hear certain cases or controversies.  Because 
+
+jurisdiction-conferring statutes do not delegate authority to 
+administrative agencies, courts do not extend Chevron defer-
+ence to an agency's construction of them.
+
+     It is true that the statute before us contemplates a regula-
+tory role for the agency.  However, the implicit delegation of 
+duties concerning the regulations for administrative appeals 
+is limited to precisely that subject and does not extend by its 
+terms or placement to any implication of authority to the 
+agency to "regulate the scope of the judicial power vested by 
+the statute."  Id. at 650.  As Justice Marshall wrote in 
+Adams Fruit, the fact that "Congress envisioned ... a role 
+for [an administrative agency] in administering [a] statute," 
+by itself "does not empower the Secretary to regulate the 
+scope of the judicial power vested by the statute."  Id.  Just 
+so here.  The fact that an agency has made a determination 
+such as the establishment of regulations governing adminis-
+trative appeals, does not empower it to " 'bootstrap itself in 
+an area in which it has no jurisdiction,' " id. (quoting Federal 
+Maritime Comm'n v. Three Train Lines, Inc., 411 U.S. 726, 
+745 (1973) (specifically the grant of jurisdiction to the 
+courts)).
+
+     Moreover, administrative agencies have no particular ex-
+pertise in determining the scope of an Article III court's 
+jurisdiction. Of course, "practical agency expertise is one of 
+the principal justifications behind Chevron deference."  Pen-
+sion Benefit Guar. Corp. v. LTV Corp., 496 U.S. 633, 651-52 
+(1990).  Absent congressional delegation, if an agency has 
+promulgated a regulation outside the scope of its specialized 
+knowledge, courts will not defer to it.  See, e.g., Professional 
+Reactor Operator Soc'y v. NRC, 939 F.2d 1047, 1051 (D.C. 
+Cir. 1991) (affording no Chevron deference to agency inter-
+pretations of statutes "outside the agency's particular exper-
+tise and special charge to administer").  It goes without 
+saying that the jurisdiction of the federal courts is outside 
+agencies' expertise.  See, e.g., Florida Manufactured Hous. 
+Ass'n, Inc. v. Cisneros, 53 F.3d 1565, 1574 n.2 (11th Cir. 
+1995);  Ramey, 9 F.3d at 136 n.7 (explaining that "agencies 
+can bring no particular expertise to the subject").  Our 
+holding that DOI's interpretation of FOGRSFA's 33-month 
+
+deadline is entitled to no deference thus is but a specific 
+application of the general principle that an agency's regula-
+tions deserve no deference where they proceed neither from a 
+congressional delegation nor from agency expertise.
+
+     The inapplicability of Chevron to jurisdiction-conferring 
+statutes is also informed by a federal court's obligation to 
+consider sua sponte its jurisdiction to hear a case.  See, e.g., 
+Citizens for Abatement of Aircraft Noise, Inc. v. Metropoli-
+tan Wash. Airports Auth., 917 F.2d 48, 53 (D.C. Cir. 1990) 
+("[I]t is well established that a court of appeals must first 
+satisfy itself of its own jurisdiction, sua sponte if necessary, 
+before proceeding to the merits."), aff'd, 501 U.S. 252 (1991).  
+Courts have an obligation to examine the source of their own 
+power.  In the same way that a court must determine for 
+itself that it has the jurisdiction to hear a dispute, even if the 
+parties have so stipulated, a court must determine the scope 
+of a congressional conferral of jurisdiction without consulting 
+the views of an agency.  Put another way, neither the parties 
+to a private action nor an administrative agency may dictate 
+the scope of an Article III court's jurisdiction.
+
+C.   Jurisdiction under FOGRSFA
+
+     Because we conclude that the Chevron framework is inap-
+plicable to FOGRSFA's conferral of jurisdiction on the feder-
+al courts, we must decide, as an original matter, whether the 
+district court had jurisdiction to hear Murphy's lawsuit.  The 
+outcome depends on what the meaning of the words "any 
+administrative proceeding" is.  More precisely, we must con-
+sider whether a refund request falls within the statute's 
+definition of "any administrative proceeding"--in other words, 
+whether FOGRSFA's 33-month deadline begins to run when 
+a party files a request for a refund.  We hold that it does.
+
+     As always, in interpreting a statute, we begin with the text 
+of the statute itself.  Carter v. United States, 120 S. Ct. 2159, 
+2170 (2000) ("In analyzing a statute, we begin by examining 
+the text.").  As noted above, 30 U.S.C. s 1724(h)(1) obliges 
+DOI's Secretary to "issue a final decision in any administra-
+tive proceeding, including any administrative proceedings 
+pending on August 13, 1996, within 33 months from the date 
+
+such proceeding was commenced or 33 months from August 
+13, 1996, whichever is later."  If she fails to do so, FOGRSFA 
+establishes that she "shall be deemed to have issued a final 
+decision in favor of the Secretary ... and the appellant shall 
+have a right to judicial review of such deemed final action in 
+accordance with Title 5."  Id. s 1724(h)(2).  The statute 
+further defines "administrative proceeding" as "any Depart-
+ment of the Interior agency process in which a demand, 
+decision or order issued by the Secretary ... is subject to 
+appeal or has been appealed."  Id. s 1702(18).
+
+     We conclude that Murphy's request that DOI refund its 
+royalty overpayments triggered an "administrative proceed-
+ing" within the meaning of s 1702(18).  FOGRSFA makes 
+clear that a private party's refund request is a type of 
+"demand."  A "demand" is "a separate written request by a 
+lessee ... which asserts an obligation due the lessee ... that 
+provides a reasonable basis to conclude that the obligation in 
+the amount of the demand is due and owing."  Id. 
+s 1702(23)(B).  Because Murphy's refund request "assert[ed] 
+an obligation" on the part of DOI to compensate it for past 
+royalty overpayments, it was a "demand" for the purposes of 
+FOGRSFA's 33-month deadline.  And, because Murphy's 
+"demand" set in motion an "agency process" that could 
+culminate in a DOI order that would be "subject to appeal," it 
+triggered an "administrative proceeding."
+
+     Moreover, FOGRSFA contemplates that both DOI and 
+private parties are capable of making "demands."  See id. 
+s 1702(23)(A) (defining DOI-issued "demands");  id. 
+s 1702(23)(B) (defining private-party-issued "demands").  To 
+be sure, the statute defines "administrative proceeding" to 
+include "a demand, decision or order issued by the Secretary."  
+Id. s 1702(18) (emphasis added).  The placement of "issued 
+by the Secretary" arguably implies that the italicized phrase 
+modifies "demand," "decision," and "order."  On this inter-
+pretation, a private party's "demand" does not, simply by 
+virtue of being a "demand," set in motion an "administrative 
+proceeding."  Rather, an "administrative proceeding" can be 
+triggered only by a particular type of "demand"--viz., one 
+that has been "issued by the Secretary."
+
+     This strikes us as an implausible reading.  If s 1702(18)'s 
+reference to "demand" is read to denote only that class of 
+"demands" that have been issued by DOI's Secretary, then 
+the term is entirely redundant.  This is so because all DOI-
+issued "demands" are also "orders."  Id. s 1702(23)(A) (defin-
+ing "demand" to include only a request by a lessee or "an 
+order to pay issued by the Secretary ... to a lessee").  The 
+fact that "demand" and "order" are separately enumerated 
+suggests that Congress viewed them as separate categories.  
+See Gustafson v. Alloyd Co., 513 U.S. 561, 574 (1995) (in-
+structing courts to "avoid a reading [of statutory language] 
+which renders some words altogether redundant");  Parker v. 
+Califano, 561 F.2d 320, 325 (D.C. Cir. 1977) (invoking "the 
+familiar principle that statutory language should be construed 
+so as to avoid redundancy").  We will not assume that 
+Congress intended the definition of "demand" to be perfectly 
+coextensive with "order."  Rather, we conclude that "de-
+mand" includes both orders to pay issued by DOI, and refund 
+requests submitted by private parties.  Either is sufficient to 
+set in motion an "administrative proceeding" within the mean-
+ing of s 1702(18)--and, hence, to trigger FOGRSFA's 33-
+month deadline.
+
+     DOI's interpretation of "administrative proceeding" is an 
+unconvincing one for the additional reason that it reads 
+"subject to appeal" out of the statute.  FOGRSFA expressly 
+defines as an "administrative proceeding" a "demand, deci-
+sion, or order" that either "has been appealed" or "is subject 
+to appeal."  30 U.S.C. s 1702(18) (emphasis added).  But as 
+DOI sees it, "administrative proceeding" refers only to an 
+order that has been appealed, not to an order that could be 
+appealed.  64 Fed. Reg. 26,240, 26,240 (1999) (stating that 
+"DOI has 33 months from the date a proceeding is com-
+menced to complete all levels of administrative review" (em-
+phasis added)).  Of course, when "construing a statute we are 
+obliged to give effect, if possible, to every word Congress 
+used."  Reiter v. Sonotone Corp., 442 U.S. 330, 339 (1979).  
+DOI's reading, under which "subject to appeal" lacks any 
+force, contradicts the "endlessly reiterated principle of statu-
+tory construction ... that all words in a statute are to be 
+
+assigned meaning, and that nothing therein is to be construed 
+as surplusage."  Qi-Zhuo v. Meissner, 70 F.3d 136, 139 (D.C. 
+Cir. 1995);  see also Halverson v. Slater, 129 F.3d 180, 185 
+(D.C. Cir. 1997) (invoking "the familiar doctrine that the 
+Congress cannot be presumed to do a futile thing").
+
+     Nor is it significant that s 1724(h) is entitled "appeals and 
+final agency action."  It is true, as DOI argues, that "the title 
+of a statute and the heading of a section are tools available for 
+the resolution of a doubt about the meaning of a statute."  
+Almendarez-Torres v. United States, 523 U.S. 224, 234 (1998) 
+(internal quotation and citation omitted).  But as 
+Almendarez-Torres makes plain, a section's title is a useful 
+device only where its "meaning" is in "doubt."  "For interpre-
+tative purposes, [it is] of use only when [it] shed[s] light on 
+some ambiguous word or phrase."  Pennsylvania Dep't of 
+Corrs. v. Yeskey, 524 U.S. 206, 212 (1998) (citation omitted).  
+When a statute is unambiguous, its title cannot be used to 
+"limit the plain meaning of the text."  Id.  And as we have 
+explained, FOGRSFA's definition of "administrative proceed-
+ing" is plain:  The category "administrative proceeding" in-
+cludes a private party's "demand," which in turn includes a 
+refund request.
+
+     Even if we accept DOI's invitation to consult s 1724(h)'s 
+title, the fact that it speaks of "appeals" does not compel the 
+conclusion that "final agency action" cannot obtain unless a 
+party has filed an administrative appeal.  For in addition to 
+"appeals," s 1724(h)'s title also includes "final agency action."  
+The subsection performs two functions:  It both states that 
+DOI's orders are subject to administrative appeal, and de-
+fines when final agency action occurs.  It does not imply that 
+an "appeal" is a sine qua non without which "final agency 
+action" cannot exist.
+
+     Nothing in our dissenting colleague's extended discussion 
+of the canon of the last antecedent disturbs our conclusion 
+that the statutory phrase "issued by the Secretary" does not 
+modify "demand."  If anything, it supports that conclusion.  
+Under that canon, as the dissent reminds us, a subsequent 
+modifying phrase "refer[s] solely to the last antecedent, which 
+
+consists of the last word, phrase, or clause...."  Dissent at 2 
+(quoting 2A Norman Singer, Statutes and Statutory Con-
+struction s 47:33 (6th ed. 2000)).  But that same source 
+confirms that a subsequent phrase may modify an antecedent 
+"phrase," "clause," or "word."  Therefore, there is no reason 
+to conclude that "issued by the Secretary" modifies the entire 
+preceding phrase ("demand, decision, or order"), as opposed 
+to the preceding word ("order").  Indeed, the rule as easily 
+supports our conclusion that "issued by the Secretary" does 
+not modify the comparatively remote word "demand" as the 
+dissent's conclusion that "issued by the Secretary" modifies 
+the phrase "demand, decision, or order."  The rule of the last 
+antecedent may be sound "grammar," Dissent at 1, 3, but it 
+does not dispose of this case.
+
+     We conclude that Murphy's February 3, 1989 refund re-
+quest set in motion an "administrative proceeding" within the 
+meaning of FOGRSFA.  Because Murphy's request was 
+pending far longer than 33 months when the statute became 
+effective on August 16, 1996, DOI's failure to resolve it is 
+deemed a "final decision" that triggered a right to immediate 
+judicial review.  The district court therefore erred when it 
+concluded that it lacked jurisdiction to hear Murphy's lawsuit.
+
+D.   Miscellany
+
+     Because we hold that the district court had jurisdiction 
+under FOGRSFA, we need not reach Murphy's alternative 
+argument that the delay between the filing of the refund 
+request and the November 1998 order--which the district 
+court described as "indeed worrisome" but not "final agency 
+action"--triggered a right to judicial review under Telecom-
+munications Research & Action Center v. FCC, 750 F.2d 70 
+(D.C. Cir. 1984).  Because we conclude that the entirety of 
+Murphy's refund request was within the district court's juris-
+diction, we need not address Murphy's alternative claim that 
+the court had jurisdiction over one specific portion:  its chal-
+lenge to DOI's December 1993 order.
+
+                         III. CONCLUSION
+
+     Chevron deference is inappropriate in this case because 
+FOGRSFA's conferral of jurisdiction is a grant of power to 
+
+the federal courts, not to an administrative agency.  Applying 
+de novo review, we conclude that a refund request is an 
+"administrative proceeding" within the meaning of 
+FOGRSFA.  In other words, the statute's 33-month deadline 
+begins to run when a party submits a refund request.  The 
+district court therefore had jurisdiction to hear Murphy's 
+challenge to DOI's November 1998 order, and we reverse its 
+dismissal of Murphy's lawsuit.
+
+     Rogers, Circuit Judge, dissenting:  In dismissing the com-
+plaint for lack of jurisdiction, the district court observed that 
+the 10-year delay by the Department of the Interior ("DOI") 
+in addressing the refund request of appellant Murphy Explo-
+ration and Production Co. ("Murphy") was "worrisome."  
+However worrisome that delay may be, the only question for 
+this court is whether Congress provided in the Federal Oil 
+and Gas Royalty Simplification and Fairness Act the relief 
+that Murphy claims entitles it to review in the federal district 
+court.  Because the statutory text, structure, and legislative 
+history demonstrate that Congress intended for the statute to 
+shorten only delays in the agency administrative process 
+following initial action by DOI, and because the court's con-
+trary interpretation robs the statute of its logical and natural 
+meaning, I dissent.
+
+     At the heart of my disagreement with the court is the term 
+"administrative proceeding," which is defined in the statute as 
+"any Department of the Interior agency process in which a 
+demand, decision, or order issued by the Secretary ... is 
+subject to appeal or has been appealed."  30 U.S.C. 
+s 1702(18) (emphasis added).  The court correctly reasons 
+that "a private party's refund request is a type of 'demand.' "  
+Opinion at 10.  However, the court then curiously states that 
+it is merely arguable that the phrase "issued by the Secre-
+tary" that it modifies "demand," "decision," and "order."  See 
+opinion at 10.
+
+     This point does not seem arguable because basic "rules of 
+grammar apply in statutory construction."  Anhydrides & 
+Chemicals, Inc. v. United States, 130 F.3d 1481, 1483 (Fed. 
+Cir. 1997).  Specifically, the rule of the last antecedent ap-
+plies here, and the court has observed that it is "one of the 
+simplest canons of statutory construction."  United States v. 
+Pritchett, 470 F.2d 455, 459 n.9 (D.C. Cir. 1972).  As defined 
+by the court, the rule states:  "Ordinarily, qualifying phrases 
+are to be applied to the words or phrase immediately preced-
+ing and are not to be construed as extending to others more 
+remote.  This ... is not an inflexible rule, and is not applied 
+
+where the context indicates otherwise."  Id. at 459 (footnote 
+omitted).  A treatise definition of the rule is similar:  "Refer-
+ential and qualifying words and phrases, where no contrary 
+intention appears, refer solely to the last antecedent [, which 
+consists of] the last word, phrase, or clause that can be made 
+an antecedent without impairing the meaning of the sen-
+tence."  Norman Singer, 2A Statutes and Statutory Construc-
+tion s 47:33 (6th ed. 2000) (footnote and internal quotation 
+marks omitted).
+
+     The rule of the last antecedent compels the conclusion that 
+"issued by the Secretary" modifies "demand," "decision," and 
+"order."  This is the most natural reading of the statute 
+because these three nouns are similar, are placed next to each 
+other, and are all capable of being modified by "issued by the 
+Secretary."  Ordinarily, adjectival modifiers are placed clos-
+est to the nouns they modify, and to avoid ambiguity or 
+confusion, nouns that are not modified are set apart from 
+nouns that are modified.  Congress would have drafted the 
+statute differently if it had intended to convey the meaning 
+that the court finds.  Cf. Gustafson v. Alloyd Co. Inc., 513 
+U.S. 561, 575 (1995).  If Congress had not intended for 
+"issued by the Secretary" to modify all three nouns, "Con-
+gress with ease could have drafted [s 1702(18)] to read"1:  
+"any agency process in which a decision or order issued by 
+the Secretary, or a demand, is subject to appeal."  Thus, the 
+most plausible conclusion is that Congress meant for "issued 
+by the Secretary" to modify "demand."
+
+     The court suggests that because an antecedent is some-
+times a single "word" instead of a "phrase," the rule supports 
+the conclusion that "issued by the Secretary" only modifies 
+the word "order."  See opinion at 13.2  This application of the 
+rule guts it of all practical meaning.  How are we to deter-
+mine if the relevant antecedent is just a single word, or if it is 
+a larger phrase?  The rule itself provides guidance, as it 
+
+__________
+     1  Id.
+
+     2  In quoting the rule of the last antecedent, the court omits in 
+its ellipsis key language, namely, "the last word, phrase, or clause 
+that can be made an antecedent without impairing the meaning of 
+the sentence."  See opinion at 13 (omitting italicized language).
+
+encourages us to extend the reach of the modifying phrase as 
+far as is possible "without impairing the meaning of the 
+sentence."  The Supreme Court has also provided useful 
+advice:  "When several words are followed by a clause which 
+is applicable as much to the first and other words as to the 
+last, the natural construction of the language demands that 
+the clause be read as applicable to all."  Porto Rico Ry., 
+Light & Power Co. v. Mor, 253 U.S. 345, 348 (1920).  Fur-
+thermore, the court's application of the rule is in conflict with 
+cases like Pritchett, which make clear that the rule does not 
+endorse parsing antecedent clauses to limit the meaning of a 
+modifying phrase to a single word.  In Pritchett, this court 
+considered a statute that referred to "members of the Army, 
+Navy, or Marine Corps of the United States or of the 
+National Guard or Organized Reserves when on duty."  
+Pritchett, 470 F.2d at 456.  Not surprisingly, the court con-
+strued the modifying phrase "when on duty" to apply to all of 
+the service members listed, not just members of the Re-
+serves.  See id. at 459-61.  Thus, the court has misapplied 
+the rule.
+
+     Not only has the court failed to point to any reason why the 
+ordinary rule of the last antecedent does not apply, the court 
+fails to identify any contextual clues in the statutory language 
+indicating that "demand" should be considered separately 
+from "decision" and "order."  Instead, the court relies on 
+another canon of statutory interpretation, in effect asserting 
+that the natural reading of the statute is implausible because 
+it makes the term "demand" redundant.  The court's ap-
+proach is flawed for two reasons.  First, although statutory 
+interpretation should proceed in a manner that avoids redun-
+dancy, see Gustafson, 513 U.S. at 574, this principle is not a 
+license to ignore fundamental principles of grammar.  The 
+court points to no authority suggesting that an antecedent 
+clause can be parsed in such an unnatural manner, or that 
+grammar rules can be suspended to avoid redundancy.  Sec-
+ond, the court's reading does not really avoid redundancy in 
+the statutory language;  it just creates a different kind of 
+redundancy.  If the phrase "issued by the Secretary" modi-
+fies only "order" (or if it modifies both "decision" and "order," 
+an even more improbable reading), then it is surplusage 
+
+because, for the purposes of this statute, only the Secretary 
+(or a delegated State) can issue decisions and orders.  See 30 
+U.S.C. s 1702.  The phrase "issued by the Secretary" is 
+stripped of much of its meaning unless it is construed to 
+modify "demand."
+
+     The type of redundancy that cases like Gustafson warn 
+against is not at issue here.  See opinion at 11.  In Gustafson, 
+a broad definition of the word "communication" threatened 
+completely to overshadow four other words in a definitional 
+list ("notice, circular, advertisement, [and] letter"), making 
+them "altogether redundant." Gustafson, 513 U.S. at 573-74.  
+Such a broad definition would have made the relevant stat-
+ute's reach more expansive than Congress intended, and 
+inconsistent with "the background of what Congress was 
+attempting to accomplish in enacting [it]."  Id. at 575.  In 
+contrast, if "demand" is modified by "issued by the Secre-
+tary," the resulting overlap between "demand" and "order" is 
+far less problematic.  Were the court's excessively strict view 
+of what redundancy means to prevail generally, then other 
+definitions in s 1702 would also be redundant.  For example, 
+"Indian tribe" is defined to "mean any Indian tribe, band, 
+nation, pueblo, community, rancheria, colony, or other group 
+of Indians."  30 U.S.C. s 1702(4).  No less than each of these 
+words, the terms "order" and "demand" overlap, but they also 
+convey distinct meanings.  Congress simply chose to define 
+the statute's terms using words that do not each possess 
+mutually exclusive and wholly independent meanings.  The 
+fact that all demands issued by the Secretary are also orders 
+(although all orders are not necessarily demands) does not 
+mean that basic grammatical rules should be violated to wring 
+extra meaning out of the antecedent clause.
+
+     The court's reliance on Gustafson is misplaced for another 
+reason as well.  In Gustafson, the Supreme Court cautioned 
+against "reliance on one word ... in isolation," and stated 
+that a disputed phrase "must be read in its entirety."  Gus-
+tafson, 513 U.S. at 574.  The Supreme Court refused to pluck 
+one word out of a list, preferring to read the word in context 
+so that its meaning would not be unreasonably expanded.  
+See id.  Here, the court divorces "demand" from its natural 
+and appropriate context when it refuses to apply the phrase 
+
+that modifies it.  Other aspects of the statutory language also 
+help to show that the 33-month deadline cannot be triggered 
+when a private party files a refund request.  Section 1724(h) 
+repeatedly uses the terms "appeal" and "appellant."  For 
+example, it provides that "[d]emands or orders issued by the 
+Secretary are subject to administrative appeal," that a private 
+party's "immediate appeal of an order" should not be hin-
+dered, and that "[t]he 33-month period may be extended by 
+any period of time agreed upon in writing by the Secretary 
+and the appellant."  30 U.S.C. s 1724(h).  These references 
+to "appeal" and "appellant" establish the context of s 1724(h) 
+and confirm that it was not meant to limit the time that the 
+Secretary has to respond initially to refund requests.  The 
+court ignores the statute's repeated use of the terms "appeal" 
+and "appellant."
+
+     The structure of the statute also points to the implausibility 
+of the court's construction that "issued by the Secretary" 
+should be read not to modify "demand."  Private parties' 
+demands and refund requests are not subject to administra-
+tive appeal in the absence of action by the Secretary.  Logi-
+cally, only demands issued by the Secretary can be appealed;  
+a private party cannot appeal its own refund request.  The 
+statute provides that "[d]emands or orders issued by the 
+Secretary or a delegated State are subject to administrative 
+appeal in accordance with the regulations of the Secretary."  
+Id. s 1724(h).  In this part of the statute, as in s 1702(18), 
+the phrase "issued by the Secretary" is properly construed to 
+modify both "demands" and "orders."
+
+     It is obvious that a private party's demand can lead to a 
+DOI order, and that DOI order, in turn, is subject to appeal.  
+See opinion at 10.  However, the court engages in interpre-
+tive sleight of hand when it states that "because Murphy's 
+'demand' set in motion an 'agency process' that could culmi-
+nate in a DOI order that would be 'subject to appeal,' it 
+triggered an 'administrative proceeding.' "  Opinion at 10.  If, 
+as the court concludes, the term "demand" in the definition of 
+"administrative proceeding" extends to refund requests, then 
+under its interpretation the relevant reading of "administra-
+tive proceeding" would be "the agency process in which a 
+
+refund request is subject to appeal."  But of course a refund 
+request itself cannot be subject to appeal.  Similarly, for 
+example, even though a tort claim might lead to a judicial 
+decision that is subject to appeal, it would be odd to charac-
+terize a tort claim itself, in the absence of any adjudication, as 
+"subject to appeal."
+
+     Perhaps the court interprets the term "agency process," as 
+used in s 1702(18), to be so expansive that it is appropriate to 
+read into the statute the unmentioned, but obviously neces-
+sary, step of DOI's order in response to a refund request.  
+See opinion at 10.  Although as a general principle every 
+word in a statute should be construed to have meaning, see 
+Reiter v. Sonotone Corp., 442 U.S. 330, 339 (1979), in this 
+context it is implausible to suggest that Congress' use of the 
+term "agency process" means that a refund request can itself 
+be considered "subject to appeal" for purposes of triggering 
+the 33-month time limit.  Put otherwise, the agency must act 
+for the phrase "subject to appeal" to have meaning.  The 
+court's reasoning, however, bootstraps a significant agency 
+action--an order issued in response to a refund request--into 
+the meaning of the statute.
+
+     In contrast with the court's strained construction, DOI has 
+proposed a more reasonable way to interpret Congress' refer-
+ence to "agency process" in conjunction with the phrases "is 
+subject to appeal" and "has been appealed."  The agency 
+"recognizes that the 33-month deadline was intended to apply 
+to (1) appeals that were already pending when [the statute] 
+was enacted, and (2) appeals of future agency demands, 
+decisions, and orders."  Br. for Appellee at 38.  The " 'agency 
+process in which a demand, decision, or order issued by the 
+Secretary ... has been appealed,' refers to the agency pro-
+cess for resolving those appeals already pending when [the 
+statute] took effect" on August 13, 1996.  Id.  Such appeals 
+must be resolved by May 13, 1999, 33 months after the date 
+the statute took effect.  The statute's reference to an "agency 
+process in which a demand, decision, or order issued by the 
+Secretary ... is subject to appeal," simply pertains to the 
+agency process for resolving appeals of demands, decisions, 
+
+and orders issued by the Secretary after the statute was 
+enacted.  See id.
+
+     The legislative history of the statute also supports the 
+conclusion that a private party's refund request cannot trig-
+ger the 33-month deadline.  For example, the House Report 
+generally describes one of the reforms of the new law as 
+"placing a time limit on administrative appeals."  H.R. Rep. 
+No. 104-667, at 15 (1996), reprinted in 1996 U.S.C.C.A.N. 
+1442, 1444.  More specifically, the House Report describes 
+the section that was codified as s 1724(h) as "requir[ing] the 
+Secretary of the Interior to take a final departmental action 
+on appealed claims within 33 months."  Id. at 18, reprinted 
+in 1996 U.S.C.C.A.N. 1442, 1448 (emphasis added).  This is 
+consistent with the overall goal of s 1724(h) reflecting Con-
+gressional intent to make the agency appeals process more 
+efficient, thus accelerating "the collection of onshore and 
+offshore oil and gas royalty payments from Federal lands."  
+Id. at 14, reprinted in 1996 U.S.C.C.A.N. 1442, 1442.
+
+     The legislative history underscores the point that Congress 
+knew exactly how to write a statute to state that filing a 
+refund request could trigger an "administrative proceeding."  
+The first Senate version of the bill provided that " 'adminis-
+trative proceeding' means any agency process for rulemaking, 
+adjudication or licensing," and that an administrative pro-
+ceeding could be commenced by "the receipt by the Secretary 
+of a written request or demand by a lessee."  141 Cong. Rec. 
+S9517-02, S9539 (1995).  This language did not survive in the 
+final legislation enacted by Congress.  The absence of such 
+clear language in the final legislation enacted into law is fair 
+notice that the meaning of the statute has changed.  Cf. 
+Booth v. Churner, No. 99-1964, 2001 WL 567712, *4-*5, 121 
+S. Ct. 1819 (U.S. May 29, 2001).  The court nonetheless reads 
+back into the statute provisions that Congress eliminated.
+
+     Based on the plain language, structure, and legislative 
+history of the statute, therefore, I would hold that for the 
+purposes of s 1724(h), an administrative proceeding cannot 
+be commenced when a private party files a refund request.  
+
+Accordingly, I would affirm the dismissal of the complaint for 
+lack of jurisdiction.3
+
+__________
+     3  Murphy's other contentions lack merit.  First, Murphy sug-
+gests that the ten-year delay between the filing of its refund 
+request and DOI's November 1998 order was unreasonable, and 
+that under the principles of Telecommunications Research and 
+Action Center v. FCC, 750 F.2d 70 (D.C. Cir. 1984) ("TRAC"), the 
+district court should have regarded the 1998 order as final agency 
+action.  However, the remedy for unreasonable agency delay is for 
+the court to order the agency to expedite its administrative process-
+es and issue a final decision within a time frame set by the court, or 
+to explain its refusal to act.  Murphy did not request such relief, 
+but sought a substantive determination on the merits.  Moreover, 
+because DOI has acted and the 33-month time period has not 
+expired, the delay is "worrisome," but not unreasonable under 
+TRAC.  Second, Murphy's challenge to the December 1993 order 
+fails because its amended complaint does not mention that order.  
+See Kennecott Utah Copper Corp. v. DOI, 88 F.3d 1191, 1202-03 
+(D.C. Cir. 1996).
+
+                                             

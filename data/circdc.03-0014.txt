@@ -1,0 +1,484 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 11, 2002    Decided January 21, 2003 
+
+                           No. 01-1167
+
+          PG&E Gas Transmission, Northwest Corporation, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+
+                   Avista Corporation, et al., 
+                           Intervenors
+
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Stefan M. Krantz argued the cause for petitioner.  With 
+him on the briefs were Lee A. Alexander and Debra H. 
+Rednik.  Carl M. Fink entered an appearance.
+
+     Laura J. Vallance, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     Before:  Sentelle, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  PG&E Gas Transmission, North-
+west Corporation (PG&E) petitions for review of Federal 
+Energy Regulatory Commission (FERC) orders suspending, 
+PG&E Gas Transmission, Northwest Corp., 90 F.E.R.C. 
+p 61,349 (2000), and then rejecting, 92 F.E.R.C. p 61,202 
+(2000), reh'g denied, 94 F.E.R.C. p 61,119 (2001), PG&E's 
+tariff filing, in which it sought to change its method for 
+allocating natural gas transportation capacity. FERC claims 
+that PG&E's petition is moot because FERC later approved 
+an alternative method of allocating capacity.  We disagree. 
+Reaching the merits of the petition, we hold that FERC failed 
+to adequately address relevant Commission precedent and 
+thus acted arbitrarily in denying PG&E's filing.  Therefore, 
+we grant the petition for review and vacate FERC's orders 
+and remand for further consideration in light of this opinion.
+
+                          I. Background
+
+     PG&E operates a natural gas pipeline running 612 miles 
+from the Washington/Canada border to the border between 
+Oregon and California.  On its pipeline, PG&E sells two 
+primary types of natural gas transportation capacity--firm 
+and interruptible.  Firm capacity is purchased on a monthly 
+basis and cannot be interrupted or curtailed except in limited 
+circumstances.  Interruptible transportation (IT) capacity can 
+be interrupted when necessary to provide service to higher 
+priority customers, such as firm customers.  IT capacity is 
+bid for as needed, rather than purchased monthly.  PG&E's 
+gas tariff sets the maximum per-mile rates PG&E can charge 
+for its IT services.  The total amount a shipper pays for 
+service, and thus the revenue generated, is derived by multi-
+
+plying the per-mile bid by the number of miles the gas is to 
+be transported.
+
+     Prior to the proceedings under review, PG&E allocated IT 
+capacity first to shippers bidding the maximum per-mile rate, 
+regardless of distance, and hence regardless of revenue. 
+PG&E then allocated any remaining capacity to shippers 
+bidding less than the maximum per-mile tariff rate by rank-
+ing bids based on total revenue.  Ties between bidders, at 
+both the maximum and sub-maximum rates, were broken 
+according to a shipper's position in the IT queue.  Thus, if 
+two shippers' bids were tied, the shipper with the higher 
+position in the queue would be allocated the IT capacity.  
+Queue positions were determined by a lottery held by PG&E 
+in 1987. See Pacific Gas Transmission Co., 40 F.E.R.C. 
+p 61,193, at 61,615 (1987).
+
+     On March 1, 2000, PG&E submitted a tariff filing pursuant 
+to Section 4 of the Natural Gas Act, 15 U.S.C. s 717c (2000) 
+(NGA), seeking to change its IT capacity allocation method. 
+PG&E proposed to use the system it employed to rank sub-
+maximum rate bidders to rank bids from maximum rate 
+bidders as well.  Under this "revenue-based" or "distance-
+based" proposal, allocation would be based on net revenue 
+generated per dekatherm, with net revenue being determined 
+by multiplying the distance in pipeline miles from the receipt 
+point to the delivery point by the rate bid plus surcharges.  
+Consequently, a long-haul maximum rate bidder would always 
+defeat a shorter-haul maximum rate bidder, because the long-
+haul shipper's total bid would always generate greater reve-
+nue.  If any ties remained between bids generating the same 
+net revenue, capacity would be allocated pro rata--that is, 
+each tied bidder would receive a proportionate share of the 
+remaining capacity.  In sum, under PG&E's filing, the IT 
+queue would be replaced with revenue-based allocation fol-
+lowed by a pro rata tiebreaker. On March 31, 2000, the 
+Commission accepted and suspended FERC's tariff filing, and 
+asked PG&E to provide further "justification as to the bene-
+fits gained by the pipeline and its shippers if such a change is 
+implemented."  PG&E Gas Transmission, Northwest Corp., 
+90 F.E.R.C. p 61,349, at 62,154 (Suspension Order).  PG&E 
+
+filed additional supporting evidence for its proposal and 
+sought rehearing of the Suspension Order, claiming that the 
+Suspension Order improperly required PG&E to submit evi-
+dence of the unreasonableness of the IT queue and the 
+superiority of its proposed distance-based allocation mecha-
+nism.  Under NGA s 4, PG&E contended, a pipeline propos-
+ing a rate change need only prove that its proposed rate is 
+"just and reasonable."
+
+     On September 14, 2000, FERC rejected PG&E's revenue-
+based allocation proposal. PG&E Gas Transmission, North-
+west Corp., 92 F.E.R.C. p 61,202 (2000) (PG&E I).  The 
+Commission held that the revenue-based mechanism would 
+unduly discriminate against maximum rate short-haul ship-
+pers because longer-haul maximum rate shippers could al-
+ways outbid shorter-haul shippers for capacity, even though 
+both would be bidding the same per-mile rate.  Id. at 61,677.  
+Cf. 18 C.F.R. s 284.9(b) (2002) (banning undue discrimination 
+in the allocation of IT capacity by reference to 18 C.F.R. 
+s 284.7(b)).  FERC explained that this result would contra-
+dict the Commission's policy of allocating capacity to those 
+who value it most, since, at the maximum rate, both short-
+haul and long-haul shippers value the capacity equally.  
+PG&E I, 92 F.E.R.C. at 61,677.  Nonetheless, FERC realized 
+that the IT queue may be complex, inefficient, and adminis-
+tratively burdensome.  Id. at 61,676.  Thus, FERC did not 
+preclude PG&E from submitting a later proposal to replace 
+the queue, id. at 61,677, and FERC noted that it had "accept-
+ed other methods of allocating capacity when shippers all bid 
+the maximum rate, such as pro rata," id. at 61,676.  Finally, 
+FERC rejected PG&E's request for rehearing of the Suspen-
+sion Order.  Id. at 61,677-78.  The Commission held that it 
+was justified in seeking further evidentiary support for the 
+relative benefits of PG&E's distance-based mechanism in 
+light of protesters' concerns about discrimination against 
+short-haul shippers.  Id. at 61,678.
+
+     Shortly after FERC's ruling in PG&E I, PG&E submitted 
+a new tariff filing that replaced the queue with simple pro 
+rata allocation among all maximum rate bidders.  Under that 
+tariff, each maximum rate bidder receives a proportionate 
+
+share of capacity regardless of revenue generated by its total 
+bid, and thus regardless of distance.  On October 25, 2000, 
+FERC approved PG&E's filing over the protest of some of 
+PG&E's IT customers, relying on Commission precedents 
+accepting pro rata allocation and reasoning that pro rata 
+allocation would eliminate the need for a complex queue and 
+improve efficiency along the pipeline.  See PG&E Gas Trans-
+mission, Northwest Corp., 93 F.E.R.C. p 61,072, at 61,187 
+(2000), reh'g denied, 94 F.E.R.C. p 61,114 (2001) (PG&E II).1  
+PG&E subsequently implemented its pro rata allocation 
+mechanism, and it remains in effect today.
+
+     Meanwhile, PG&E requested rehearing of FERC's PG&E 
+I ruling, claiming that FERC failed to address several Com-
+mission precedents that allowed distance-based allocation.  
+On February 8, 2001, FERC denied PG&E's request for 
+rehearing. PG&E Gas Transmission, Northwest Corp., 94 
+F.E.R.C. p 61,119 (2001) (Rehearing Order).  In the Rehear-
+ing Order, FERC attempted to distinguish the cases on which 
+PG&E relied on the grounds that the cases "do not address 
+the issue raised here, but merely find that breaking ties at 
+the maximum rate should be done in a nondiscriminatory 
+manner."  Id. at 61,451.
+
+     PG&E timely filed this petition for review.
+
+                           II. Analysis
+
+     Under NGA s 4, a pipeline proposing a rate change has the 
+burden of showing that the proposed rate is just and reason-
+able. Exxon Corp. v. FERC, 206 F.3d 47, 51 (D.C. Cir. 2000).  
+If the pipeline meets that burden, "FERC approves the rate 
+regardless of whether there may be other rates that would 
+also be just and reasonable."  Id.  We will uphold FERC's 
+decision to reject a tariff filing unless it is "arbitrary, capri-
+cious, an abuse of discretion, or otherwise not in accordance 
+with law."  5 U.S.C. s 706(2)(A) (2000).  Under this deferen-
+tial standard, "the Commission must be able to demonstrate 
+
+__________
+     1  We address the petition for review of PG&E's customers in a 
+companion case, Duke Energy Trading & Mktg., L.L.C. v. FERC, 
+___ F.3d ___ (D.C. Cir. 2003), issued by this Court today.
+
+that it has made a reasoned decision based upon substantial 
+evidence in the record."  Northern States Power Co. v. 
+FERC, 30 F.3d 177, 180 (D.C. Cir. 1994) (quotation omitted).  
+In addition, the Commission must have "examine[d] the rele-
+vant data and articulate[d] a satisfactory explanation for its 
+action including a rational connection between the facts found 
+and the choice made."  Motor Vehicle Mfrs. Ass'n of United 
+States, Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 
+(1983) (quotation omitted).  PG&E's central claim is that 
+FERC did not exercise reasoned decisionmaking when it 
+rejected PG&E's filing.  Before we reach the merits of 
+PG&E's contention, however, we first address whether this 
+case is properly before us.
+
+A.   Mootness
+
+     FERC claims that we should dismiss this petition as moot 
+because FERC approved, and PG&E implemented, its pro 
+rata allocation proposal after FERC rejected PG&E's 
+revenue-based proposal. Thus, FERC argues that allowing 
+the revenue-based mechanism would not provide PG&E with 
+any relief because the pro rata mechanism has already re-
+placed the queue and performs the same capacity allocation 
+function the revenue-based mechanism would perform. We 
+disagree.  A controversy persists over whether PG&E should 
+be allowed to implement its preferred method of IT capacity 
+allocation.
+
+     Article III of the Constitution limits federal courts to 
+resolving "actual, ongoing controversies."  Honig v. Doe, 484 
+U.S. 305, 317 (1988).  To satisfy Article III's case or contro-
+versy requirement, "a litigant must have suffered some actual 
+injury that can be redressed by a favorable judicial decision."  
+Iron Arrow Honor Soc'y v. Heckler, 464 U.S. 67, 70 (1983).  
+FERC does not dispute that PG&E suffered an injury when 
+the Commission initially rejected its revenue-based mecha-
+nism. Rather, it contends that PG&E's injury has been negat-
+ed by the Commission's later acceptance of a different pro-
+posal for allocation of IT capacity, and thus this Court can 
+offer no effective relief.
+
+     While FERC is certainly correct that both the pro rata and 
+revenue-based proposals replace the queue and allocate IT 
+
+capacity between maximum rate bidders, the revenue-based 
+mechanism is undisputedly PG&E's preferred allocation 
+method.  Indeed, PG&E proposed pro rata allocation only 
+after FERC rejected its revenue-based proposal. Therefore, 
+while approval of the "second-best" pro rata mechanism may 
+have lessened PG&E's injury, the injury persists in that 
+PG&E has been precluded from implementing its preferred 
+method of allocation.
+
+     Unquestionably, a favorable ruling of this Court would 
+redress PG&E's injury.  If this Court grants PG&E's petition 
+for review, we will remand the case to FERC for it to 
+reconsider the revenue-based mechanism in light of this 
+Court's opinion.  If, on remand, the Commission approves the 
+filing, PG&E will implement the revenue-based mechanism in 
+place of the existing pro rata system.  Thus, a favorable 
+decision would provide PG&E with its desired relief:  a fair 
+consideration of the revenue-based mechanism, and possibly, 
+an opportunity to implement its preferred method for allocat-
+ing IT capacity.
+
+     The fact that both the existing pro rata mechanism and the 
+proposed revenue-based mechanism replace the queue and 
+perform the same function--allocating IT capacity--carries 
+no weight in the mootness analysis. FERC has cited no 
+authority for its proposition that merely because an agency 
+approves a litigant's second-best option to perform a given 
+function, the litigant may not continue to appeal the rejection 
+of its most favored option.  Our decision in Rio Grande 
+Pipeline Co. v. FERC, 178 F.3d 533 (D.C. Cir. 1999) is 
+instructive.  In Rio Grande, a pipeline company sought ap-
+proval of its rates under 18 C.F.R. s 342.2(a) and submitted 
+evidence of reasonableness of the rates.  178 F.3d at 536.  
+Commission approval under s 342.2(a) would have protected 
+the pipeline from paying reparations to customers if the rate 
+was later found unreasonable.  Id.  In the alternative, the 
+pipeline sought approval under s 342.2(b), which allowed 
+approval if at least one pipeline customer had agreed to the 
+rate, but required reparations if the rate was successfully 
+protested.  Id.  FERC approved the rate under s 342.2(b), 
+but not under the more favorable provisions of s 342.2(a).  
+
+Id. at 537.  The pipeline petitioned for review of FERC's 
+rejection of its s 342.2(a) claim.  Id.  On appeal, FERC 
+argued that the pipeline had suffered no injury because its 
+rate had been approved.  Id. at 540.  We disagreed, holding 
+that the pipeline was aggrieved because approval under 
+s 342.2(b) was less desirable than approval under s 342.2(a), 
+in that it subjected the pipeline to greater economic risks.  
+Id.  Similarly, in the present case FERC has approved one 
+method for allocating capacity among PG&E's maximum bid-
+ders, but it is a less desirable option than PG&E's preferred 
+method, which FERC rejected. Consequently, PG&E has 
+been aggrieved by FERC's ruling despite subsequent approv-
+al of the pro rata tiebreaker. Since this Court's ruling can 
+remedy that injury, the case is not moot. Therefore, we reach 
+the merits of PG&E's petition.
+
+B.   Merits
+
+     On the merits, PG&E argues that FERC acted arbitrarily 
+and capriciously by failing to adequately address Commission 
+precedents that approved distance-based mechanisms for allo-
+cating transportation capacity.  We agree.
+
+     In its orders below, the Commission held that PG&E's 
+proposal violated 18 C.F.R. s 284.9(b)'s prohibition against 
+"undue discrimination," by making it more difficult for maxi-
+mum rate short-haul shippers to obtain IT capacity.  PG&E 
+I, 92 F.E.R.C. at 61,677.  In examining the reasoning that 
+undergirds FERC's ruling, we note that discrimination is 
+undue only if "a pipeline's rate schedule creates a preference 
+without a reasonable basis."  Algonquin Gas Transmission 
+Co. v. FERC, 948 F.2d 1305, 1316 (D.C. Cir. 1991) (quotation 
+omitted).  By contrast, when differences in treatment are 
+"based on relevant, significant facts which are explained," the 
+disparate treatment does not run afoul of the NGA.  Trans-
+Canada Pipe Lines Ltd. v. FERC, 878 F.2d 401, 413 (D.C. 
+Cir. 1989).
+
+     Throughout the course of this litigation, PG&E has consis-
+tently pointed to several cases in which FERC approved 
+distance-based allocation methods and held that such methods 
+did not constitute undue discrimination against short-haul 
+shippers.  In PG&E I, FERC utterly failed to confront these 
+
+cases.  In its Rehearing Order, FERC's attempt to distin-
+guish these precedents was confusing at best, if not outright 
+disingenuous. Finally, on review before us, FERC counsel 
+concocted a harmonization of Commission precedent with the 
+Commission ruling. Of course, this Court cannot consider 
+such post hoc justifications, but may only consider the 
+grounds on which the Commission actually relied in making 
+its decision. Algonquin Gas Transmission, 948 F.2d at 1312 
+n.12 (citing SEC v. Chenery Corp., 332 U.S. 194, 196 (1947)).  
+We now briefly address the relevant Commission precedents 
+and FERC's attempts to distinguish them in its orders.
+
+     In Northern Natural Gas Co., 82 F.E.R.C. p 61,077, reh'g, 
+84 F.E.R.C. p 61,154 (1998), FERC approved the pipeline's 
+proposal to allocate capacity based on net present value 
+(NPV), with NPV determined in part by whether the gas was 
+to be transported over two zones or wholly within one zone.  
+82 F.E.R.C. at 61,287.  The Commission recognized that 
+under the pipeline's proposal, "continuous service that in-
+cludes both [Zone A] and [Zone B] should be awarded the 
+service if they have a higher NPV that [sic] purely [Zone A] 
+transportation at the maximum rate."  Id.  Even so, FERC 
+approved the proposal over protests that the allocation sys-
+tem would unduly discriminate against single zone shippers.  
+Id.  Despite Northern Natural's obvious relevance to the 
+present case, FERC failed even to mention Northern Natural 
+in its orders below, much less attempt to distinguish it.
+
+     Similarly, in Tennessee Gas Pipeline Co., 65 F.E.R.C. 
+p 61,224, at 62,111 (1993), the Commission approved a zone-
+based system with allocation based on price, wherein price 
+was based on the route traveled and quantity of gas trans-
+ported.  Id.  Tennessee's distance-based allocation proposal 
+applied to both maximum and sub-maximum rate bids.  Id.  
+Moreover, while the Commission ordered Tennessee to delete 
+its consideration of quantity, the Commission allowed Tennes-
+see to consider distance, specifically rejecting arguments that 
+the distance-based mechanism would unduly discriminate 
+against short-haul shippers.  Id.  In a later proceeding, the 
+Commission again rejected an attempt to eliminate Tennes-
+see's consideration of distance in allocating IT capacity, de-
+
+spite complaints that it discriminated against maximum rate 
+short-haul shippers. See Tennessee Gas Pipeline Co., 71 
+F.E.R.C. p 61,399, at 62,582 (1995).
+
+     In its Rehearing Order in this proceeding, FERC mislead-
+ingly tried to distinguish Tennessee.  See 94 F.E.R.C. at 
+61,452.  The Commission only mentioned Tennessee's holding 
+that the pipeline had to delete any consideration of quantity 
+from its allocation mechanism so as not to discriminate 
+against small or short-haul shippers.  Id.  However, FERC 
+completely ignored the next paragraph in Tennessee, in which 
+the Commission explicitly upheld consideration of distance 
+against charges of undue discrimination.  Tennessee, 65 
+F.E.R.C. at 62,111.  Thus, FERC utterly failed to distinguish 
+the relevant holding of Tennessee and explain why its reason-
+ing should not be applied to the present case.
+
+     Finally, in Trunkline Gas Co., 64 F.E.R.C. p 61,141, at 
+62,126 (1993), reh'g denied in relevant part, 65 F.E.R.C. 
+p 61,355 (1994), FERC again approved a zone-based system 
+that allocated IT capacity based, in part, on number of zones 
+traveled.  The distance-based mechanism applied to both 
+maximum and sub-maximum rate bids.  Id.  Furthermore, 
+FERC rejected a protestor's proposal that would have allo-
+cated capacity based on percentage of maximum rate paid, 
+regardless of distance traveled.  Id.  The Commission explic-
+itly acknowledged that under Trunkline's filing a maximum 
+rate short-haul shipper could be trumped by a lower rate 
+longer-haul shipper.  Id.  Nonetheless, the Commission con-
+cluded that the proposal did not unduly discriminate against 
+short-haul shippers and promoted allocative efficiency.  Id. at 
+62,126-27.
+
+     The Commission's attempt to distinguish Trunkline in its 
+Rehearing Order is confusing at best. First, FERC seems to 
+claim that Trunkline applied only to below maximum rate 
+bids.  See Rehearing Order, 94 F.E.R.C. at 61,452.  This is 
+flatly wrong, as even FERC counsel admitted at oral argu-
+ment.  See Tr. of Oral Arg. at 28-29. Second, FERC claimed 
+"[t]he Trunkline issue is different because it did not discuss 
+allocation methodology for resolving ties when the bids are 
+equal." Rehearing Order, 94 F.E.R.C. at 61,452.  It is true 
+
+that Trunkline's revenue-based proposal did not involve 
+breaking ties between equal bidders, but neither does 
+PG&E's proposal in any relevant sense.  That is, in Trunk-
+line, bids were ranked based on adding the rates for each 
+zone traveled.  Similarly, in PG&E's proposal, bids are 
+ranked based on multiplying the per-mile rate by the number 
+of miles traveled.  The fact that PG&E's proposal breaks ties 
+between bidders who bid the same per-mile rate is not a 
+relevant difference from the proposal in Trunkline when, 
+under both systems, a maximum rate short-haul shipper can 
+always be outbid by a longer-haul shipper.  Thus, the distinc-
+tion to which FERC alluded between the zone-based system 
+in Trunkline and the distance-based system in the PG&E 
+tariff is a distinction without a difference.
+
+     In sum, FERC's attempts to distinguish its precedents 
+approving distance-based allocation were alternately non-
+existent, misleading, and irrelevant.  On brief to this Court, 
+counsel argues that these precedents are distinguishable be-
+cause they involved zone-based systems with rates based on 
+several factors, of which distance is only one.  This contrasts, 
+counsel contends, with PG&E's proposal, in which distance is 
+the sole determinant of capacity allocation at the maximum 
+rate.  Thus, PG&E's proposed allocation mechanism is unduly 
+discriminatory while those in Northern Natural, Tennessee, 
+and Trunkline were not.  We cannot consider this argument.  
+FERC's order "must stand or fall on the grounds articulated 
+by the agency in that order," not the reasoning proffered by 
+its appellate counsel.  NorAm Gas Transmission Co. v. 
+FERC, 148 F.3d 1158, 1165 (D.C. Cir. 1998) (quotation omit-
+ted).  We therefore make no judgment about the validity of 
+counsel's argument because it is a purely post hoc justification 
+which cannot sustain the Commission's orders.  See Chenery, 
+332 U.S. at 196.
+
+     As outlined above, FERC's orders in this case do not 
+adequately explain why the Commission's precedent in favor 
+of distance-based allocation does not compel approval of 
+PG&E's filing.  In "gloss[ing] over" these precedents, FERC 
+"cross[ed] the line from the tolerably terse to the intolerably 
+mute."  Greater Boston Television Corp. v. FCC, 444 F.2d 
+
+841, 852 (D.C. Cir. 1970).  Indeed, FERC has given no 
+explanation whatsoever for this apparent shift in Commission 
+policy.  FERC's failure to come to terms with its own prece-
+dent reflects the absence of a reasoned decisionmaking pro-
+cess.  See North Carolina Utils. Comm'n v. FERC, 42 F.3d 
+659, 666 (D.C. Cir. 1994) (rejecting a FERC order because 
+the Commission did not "sufficiently explain[ ] its departure 
+from its prior cases");  Hatch v. FERC, 654 F.2d 825, 834 
+(D.C. Cir. 1981) ("[A]n agency must provide a reasoned 
+explanation for any failure to adhere to its own precedents.").  
+Consequently, we vacate FERC's orders and remand, so that 
+FERC may reconsider PG&E's proposal in light of this 
+opinion and Commission precedent.
+
+                         III. Conclusion
+
+     We hold that this case did not become moot when FERC 
+approved PG&E's pro rata allocation proposal after it reject-
+ed PG&E's revenue-based mechanism.  A live controversy 
+persists regarding whether PG&E should be able to imple-
+ment revenue-based allocation of IT capacity.  On the merits, 
+we hold that FERC failed to adequately address Commission 
+precedent allowing pipelines to consider distance when allo-
+cating transportation capacity.  Accordingly, we grant the 
+petition for review and vacate FERC's orders and remand for 
+further consideration in light of this opinion.
+
+                                                            So ordered.
+
+                                                        

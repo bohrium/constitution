@@ -1,0 +1,737 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 17, 2001   Decided November 23, 2001 
+
+                           No. 00-5364
+
+          Jim J. Tozzi in his personal capacity, and as 
+   President of Multinational Business Services, Inc., et al., 
+                            Appellants
+
+                                v.
+
+     U. S. Department of Health and Human Services, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv01170)
+
+     Charles J. Fromm argued the cause and filed the briefs for 
+appellants.
+
+     Terry F. Quill was on the brief for amici curiae Public 
+Health Scientists in support of appellants.
+
+     Peter D. Blumberg, Assistant U.S. Attorney, argued the 
+cause for appellee. With him on the brief were Kenneth L. 
+Wainstein, U.S. Attorney, and R. Craig Lawrence, Assistant 
+U.S. Attorney.
+
+     Before:  Tatel, Circuit Judge, Silberman and Williams*, 
+Senior Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Concurring opinion filed by Senior Circuit Judge 
+Silberman.
+
+     Tatel, Circuit Judge:  Acting pursuant to a provision of the 
+Public Health Service Act that requires the Secretary of 
+Health and Human Services to publish a list of substances 
+"known" or "reasonably anticipated to be" human carcino-
+gens, the Secretary upgraded the chemical dioxin from the 
+"reasonably anticipated" to the "known" category.  A manu-
+facturer of products that release dioxin when incinerated, 
+together with others allegedly affected by the upgrade, argue 
+that the Secretary, in violation of HHS regulations, acted 
+without sufficient epidemiological evidence that dioxin is a 
+known human carcinogen.  Although we reject the Secre-
+tary's arguments that the manufacturer lacks standing and 
+that the upgrade decision is unreviewable, we agree with the 
+district court that, given the deference owed an agency's 
+interpretation of its own regulations, the Secretary acted 
+neither arbitrarily nor capriciously.
+
+                                I.
+
+     In 1978, Congress amended the Public Health Service Act 
+to require the Secretary of Health, Education and Welfare, 
+now Health and Human Services, to publish a list of known 
+and suspected carcinogens.  See Biomedical Research and 
+Research Training Amendments, Pub. L. No. 95-622, Tit. II 
+s 262, 92 Stat. 3412, 3435-36 (1978) (amending 42 U.S.C. 
+s 241).  Entitled the Report on Carcinogens, the list is 
+
+__________
+     * Senior Circuit Judge Williams was in regular active service at 
+the time of oral argument.
+
+prepared biennially by the Department's National Toxicology 
+Program ("NTP").  Although HHS does not regulate sub-
+stances based upon their inclusion in the Report, a listing--or 
+in some instances an upgrade--may trigger obligations under 
+other agency regulations.  For example, OSHA's Hazard 
+Communication Standard requires manufacturers to label as 
+a carcinogen every substance listed in the Report.  29 C.F.R. 
+s 1910.1200(d)(4)(i).  See also id. s 1910.1450(e)(viii) (requir-
+ing OSHA-regulated laboratories to adopt special procedures 
+for substances listed in the Report as known human carcino-
+gens);  30 C.F.R. s 47.11 (defining some hazardous chemicals 
+in part by reference to the Report and requiring Department 
+of Labor-regulated mine operators to identify hazardous 
+chemicals produced or brought on to mine property).  A 
+listing can also trigger obligations under state regulations.  
+See Synthetic Organic Chem. Mfrs. Ass'n v. Sec'y, Dep't 
+Health and Human Servs., 720 F. Supp. 1244, 1248 (W.D. 
+Louisiana 1989) (listing triggered state regulatory provisions).
+
+     Before the Secretary may list (or delist) a substance, the 
+substance undergoes a multi-step review process.  See HHS 
+Eighth Report on Carcinogens (1998), app. C. Acting on 
+recommendations from the scientific community, the NTP 
+begins by publishing in the Federal Register a list of sub-
+stances that the agency believes merit consideration.  At 
+about the same time, an NTP committee, the Report on 
+Carcinogens Review Committee, reviews the scientific litera-
+ture and prepares a background document discussing the 
+literature and recommending substances for listing.  These 
+recommendations, together with the background document 
+and any public comments received in response to the Federal 
+Register notice, are sent to two peer review committees:  the 
+NTP's Interagency Working Group (a committee composed of 
+scientists from several federal agencies) and a subcommittee 
+of the NTP's Board of Scientific Counselors (a chartered 
+advisory committee).  The subcommittee holds public hear-
+ings and receives written comments.  Then, the subcommit-
+tee and the Working Group make formal recommendations to 
+the NTP Executive Committee, which in turn makes a recom-
+mendation to the NTP Director.  After independently evalu-
+ating the Executive Committee's recommendation, the Di-
+
+rector submits a final draft of the Report to the Secretary.  If 
+the Secretary approves the Report, a notice is published in 
+the Federal Register identifying all newly listed (or delisted) 
+substances, classifying them as either "known" or "reasonably 
+anticipated to be" human carcinogens, and announcing the 
+availability of the latest Report.  Of significance to this case, 
+the Secretary may not move substances from one category to 
+the other without going through the same formal review 
+process.  See Eighth Report (describing multi-step review 
+process).
+
+     The Secretary has issued "criteria" for classifying sub-
+stances as "known" or "reasonably anticipated to be" human 
+carcinogens.  As originally issued in 1982, the criteria provid-
+ed:
+
+     Known to be Carcinogens:
+     
+          There is sufficient evidence of carcinogenicity from 
+          studies in humans which indicates a causal relationship 
+          between the agent and human cancer.
+          
+     Reasonably Anticipated to be a Human Carcinogen:
+     
+          A. There is limited evidence of carcinogenicity from 
+          studies in humans, which indicates that casual inter-
+          pretation is credible, but that the alternative explana-
+          tions, such as chance, bias or confounding, could not 
+          adequately be excluded, or
+          
+          B. There is sufficient evidence of carcinogenicity 
+          from studies in experimental animals which indicates 
+          that there is an increased incidence of malignant tu-
+          mors:  (a) in multiple species or strains, or (b) in 
+          multiple experiments (preferably with different routes 
+          of administration or using different dose levels), or (c) 
+          to an unusual degree with regard to incidence, site or 
+          type of tumor, or age at onset.  Additional evidence 
+          may be provided by data concerning dose-response 
+          effects, as well as information on mutagenicity or 
+          chemical structure.        
+Eighth Report.
+
+     The parties agree that under these criteria only epidemio-
+logical studies were considered when placing a substance in 
+
+the first category.  Many in the scientific community, howev-
+er, began to urge revision of the criteria to provide for 
+broader consideration of "mechanistic" evidence--that is, evi-
+dence of the actual biochemical processes by which a sub-
+stance causes cancer.  In response, the Secretary published 
+revised criteria in 1996.  Because the differences between 
+these criteria and the 1982 version are central to this case, we 
+quote the new version in full:
+
+     Known to be a Human Carcinogen:
+     
+          There is sufficient evidence of carcinogenicity from 
+          studies in humans which indicates a causal relationship 
+          between exposure to the agent, substance or mixture 
+          and human cancer.
+          
+     Reasonably Anticipated to be a Human Carcinogen:
+     
+          There is limited evidence of carcinogenicity from stud-
+          ies in humans, which indicates that causal interpreta-
+          tion is credible, but that alternative explanations, such 
+          as chance, bias or confounding, could not adequately be 
+          excluded;  or
+          
+          There is sufficient evidence of carcinogenicity from 
+          studies in experimental animals which indicates that 
+          there is an increased incidence of malignant and/or 
+          combined benign and malignant tumors:  (a) in multi-
+          ple species or at multiple tissue sites, or (b) by multi-
+          ple routes of exposure, or (c) to an unusual degree with 
+          regard to incidence, site or type of tumor, or age at 
+          onset;  or
+          
+          There is less than sufficient evidence of carcinogenicity 
+          in humans or laboratory animals;  however, the agent 
+          belongs to a well defined structurally-related class of 
+          substances whose members are listed in a previous 
+          Annual or Biennial Report on Carcinogens as either 
+          known to be human carcinogen, or reasonably antici-
+          pated to be human carcinogen or there is convincing 
+          relevant information that the agent acts through mech-
+          anisms indicating it would likely cause cancer in hu-
+          mans.
+          
+     Conclusions regarding carcinogenicity in humans or ex-
+     perimental animals are based on scientific judgment, 
+     with consideration given to all relevant information.  Rel-
+     evant information includes but is not limited to dose 
+     response, route of exposure, chemical structure, metabo-
+     lism, pharmacokinetics, sensitive sub populations, genetic 
+     effects, or other data relating to mechanism of action or 
+     factors that may be unique to a given substance.  For 
+     example, there may be substances for which there is 
+     evidence of carcinogenicity in laboratory animals but 
+     there are compelling data indicating that the agent acts 
+     through mechanisms which do not operate in humans and 
+     would therefore not reasonably be anticipated to cause 
+     cancer in humans.
+     
+Eighth Report.
+
+The precise question before us is whether the final, unindent-
+ed paragraph modifies both categories (as the Secretary 
+interprets it) or only the "reasonably anticipated" category 
+(as appellants claim).
+
+     This case involves the Secretary's decision to upgrade 
+dioxin from the "reasonably anticipated" to the "known" 
+category.  A colorless, needle-shaped chemical not commer-
+cially produced, dioxin is released as a by-product of paper 
+and pulp bleaching.  See HHS Ninth Report on Carcinogens, 
+Addendum (2001).  Dioxin is also emitted during incineration 
+of chlorine-containing materials, such as polyvinyl chloride 
+("PVC") plastic.  Incineration of hospital waste, which usually 
+contains PVC plastic, produces large quantities of dioxin.  Id.
+
+     Chemically stable, dioxin persists in the environment for 
+long periods of time.  Because dioxin settles into soil and 
+water, it ends up in animal fatty tissue and eventually meat 
+and dairy products.  According to the Ninth Report, human 
+exposure occurs in several ways:
+
+     Food is the major source (>90%) of human exposure to 
+     [dioxin] ...  Other pathways of exposure include inhala-
+     tion of [dioxin] from municipal, medical, and industrial 
+     waste incinerators and other incineration and combustion 
+     
+     processes ... and ingestion of drinking water (0.01% of 
+     the daily intake).
+     
+Id.  Most people have some level of dioxin in their tissues.  
+Id.
+
+     The Secretary originally listed dioxin in the "reasonably 
+anticipated" category.  See Ninth Report supra.  In 1997, 
+however, the International Agency for Research on Cancer 
+("IARC"), a division of the World Health Organization that 
+has its own carcinogen classification scheme, upgraded dioxin 
+to its highest category based on "limited" epidemiological 
+evidence and "strong" evidence that dioxin acts "through a 
+relevant mechanism of carcinogenicity."  Id.  In response, 
+the NTP proposed upgrading dioxin to the "known" category.  
+After approval by the Report on Carcinogens Review Com-
+mittee, the proposed listing was forwarded to the Working 
+Group and the subcommittee of the Board of Scientific Coun-
+selors.  The Working Group approved the upgrade, and after 
+notice and public comment, so did the Board.  The draft 
+background document relied on both epidemiological and 
+mechanistic evidence:
+
+     [Dioxin] is known to be a human carcinogen based on 
+     several types of evidence:
+     
+          Human studies have found an association between 
+          dioxin exposure and cancer mortality with respect to 
+          all cancers combined, non-Hodgkin's lymphoma, and 
+          lung cancer;
+          
+          Studies in experimental animals have shown that [diox-
+          in] induces benign and malignant neoplasms at multi-
+          ple issue [sic] sites in multiple species;
+          
+          A compelling body of evidence indicates a basic simi-
+          larity in the mechanism of induction of animal and 
+          human tissue biochemical and toxicological responses 
+          to [dioxin] at comparable doses and tissue levels.
+          
+Draft RC Background Document (Sept. 30, 1997).
+
+     Following the Board's approval, Jim Tozzi, a "regulatory 
+consultant" and an appellant in this case, sent a letter to the 
+NTP Director stating that the Secretary may not list sub-
+
+stances in the known category without "sufficient" evidence 
+from epidemiological studies.  Tozzi also complained that 
+"[t]oo much was crammed into too little time" and that the 
+NTP failed to provide certain "key" documents to the public.  
+Responding to Tozzi's letter and conceding that "review had 
+been inadequate," the NTP Director announced a "re-review" 
+of dioxin "includ[ing] another open, public review by the NTP 
+Board Subcommittee."  At the same time, the Director em-
+phasized his belief that "the criteria [had been] appropriately 
+applied."  After the additional round of notice and comment, 
+the Board of Scientific Counselors voted against the upgrade, 
+but both the NTP Executive Committee and the NTP Di-
+rector approved it.  Concurring with the Director, the Secre-
+tary listed dioxin in the Ninth Report as a known carcinogen.
+
+     Tozzi, together with Brevet Industries, a manufacturer of 
+disposable plastic connectors used during open heart surgery, 
+the Empire State Restaurant & Tavern Association, and 
+Greenbaum & Gilhooleys, a New York restaurant, then filed 
+suit in the United States District Court for the District of 
+Columbia pursuant to the Administrative Procedure Act, 5 
+U.S.C. 702-706, claiming that the Secretary acted arbitrarily 
+and capriciously by upgrading dioxin without sufficient epide-
+miological evidence that it causes cancer in humans.  Finding 
+the Secretary's interpretation of the criteria "eminently rea-
+sonable," the district court granted summary judgment for 
+the Department.  See Tozzi v. United States Dep't of Health 
+and Human Servs., No. 99-1170 (D.D.C. Sept. 30, 2000).  
+Tozzi, Brevet, and the culinary plaintiffs now appeal.  Our 
+review is de novo.  Russell v. Principi, 257 F.3d 815, 818 
+(D.C. Cir. 2001)
+
+                               II.
+
+     We begin with two threshold issues.  The Department 
+argues that none of the appellants has standing to challenge 
+the dioxin upgrade and that, in any case, listing decisions are 
+unreviewable.  We consider each argument in turn.
+
+                             Standing
+
+     To have Article III standing, a plaintiff must demonstrate 
+an "actual or immediate" "injury-in-fact" that is "fairly trace-
+able" to the challenged conduct and "likely" to be "redressed 
+by a favorable decision."  Lujan v. Defenders of Wildlife, 504 
+U.S. 555, 560-61 (1992) (internal quotations marks omitted).  
+The plaintiff's allegations must not be purely "speculative--
+the ultimate label for injuries too implausible to support 
+standing."  Advanced Mgmt. Tech., Inc. v. FAA, 211 F.3d 
+633, 637 (D.C. Cir. 2000) (internal quotation marks omitted).  
+Applying this standard, the district court found that Brevet 
+had standing.
+
+     The Department first argues that Brevet has failed to show 
+actual or immediate injury.  We disagree.  According to an 
+affidavit submitted by Brevet's president, over ninety-five 
+percent of the company's sales depend on the continued use 
+of PVC plastic by the medical establishment.  Brewer Aff. 
+p 10.  The president also states that healthcare companies, 
+pressured by environmental groups, have expressed concern 
+over the dioxin hazards associated with incineration of PVC 
+medical supplies;  that some municipalities have adopted reso-
+lutions calling for the phasing out of all, or nearly all, PVC-
+containing products, including medical supplies;  and that 
+Brevet's "profits, reputation and goodwill" would be adversely 
+affected if an "authoritative U.S. government agency issue[d] 
+and widely disseminate[d] a report implying ... that Brevet's 
+products are responsible for introducing a known human 
+carcinogen into the environment."  Id. p p 6-9.
+
+     Record evidence supports Brevet's claims.  Three Califor-
+nia municipalities--San Francisco, Oakland and Berkeley--
+adopted resolutions forcefully calling for healthcare institu-
+tions to eliminate their use of PVC plastic.  See City and 
+County of San Francisco Resolution No. 021-98-COE (Sept. 
+8, 1998);  Oakland City Council Resolution No. 74778 (Feb. 2, 
+1999);  Berkeley Resolution No. 60, 196-N.S. (Sept. 14, 1999).  
+Elsewhere, state and local agencies from Hartford, Connecti-
+cut, to Charlotte, North Carolina, to Seattle, Washington, 
+have held hearings on PVC plastic use.  See Center for 
+
+Health, Environment and Justice, Dioxin Public Event Up-
+date (Nov. 4, 1999).  Supporting Brevet's claim that environ-
+mental groups are pressuring healthcare providers to reduce 
+or eliminate the use of PVC plastic, record evidence demon-
+strates that Tenet Healthcare Corporation, which annually 
+purchases over three billion dollars worth of medical supplies, 
+has announced that it will seek to purchase PVC-free prod-
+ucts.  See Press Release, Healthcare Without Harm, Tenet 
+Prefers Non-PVC Medical Products (Oct. 6, 1999) Other 
+Brevet customers (actual and potential) including Baxter 
+International, Universal Health Services, Kaiser Permanente 
+and Catholic Healthcare West have announced similar moves.  
+Id.  We thus think it not at all "speculative," Advanced 
+Mgmt., 211 F.3d at 637, to expect that Brevet, a company 
+whose revenues depend almost entirely on the continued use 
+of PVC plastic in the medical industry, will experience re-
+duced profits.  See DIRECTV, Inc. v. FCC, 110 F.3d 816, 829 
+(D.C. Cir. 1997) ("[S]tanding ... may be established by 
+reference ... to lost profits....").
+
+     The Department next argues that even if Brevet's profits 
+were to decline, that injury would not be "fairly traceable" to 
+the dioxin upgrade.  Lujan, 504 U.S. at 590 (internal quota-
+tion marks omitted).  The Department points out that the 
+anti-dioxin movement predates the listing process.  It also 
+claims that pressure on government agencies to regulate 
+dioxin and on healthcare companies to reduce the use of PVC 
+products will continue whether or not dioxin remains listed as 
+a known human carcinogen.
+
+     Even if the Department's claims were true, we disagree 
+that Brevet has failed to show that its injury is fairly tracea-
+ble to the dioxin upgrade.  As we pointed out in Block v. 
+Meese, we have never applied a "tort" standard of causation 
+to the question of traceability.  793 F.2d 1303, 1309 (D.C. Cir. 
+1986).  Where, as here, the alleged injury flows not directly 
+from the challenged agency action, but rather from indepen-
+dent actions of third parties, we have required only a showing 
+that "the agency action is at least a substantial factor motivat-
+ing the third parties' actions."  Cmty. for Creative Non-
+violence v. Pierce, 814 F.2d 663, 669 (D.C. Cir. 1987).  For 
+
+example, we have allowed plaintiffs claiming that regulatory 
+changes have caused "competitive injury," defined only as 
+"exposure to competition," to sue the regulating agencies, 
+even though the harm resulted most directly from indepen-
+dent purchasing decisions of third parties.  Bristol-Myers 
+Squibb Co. v. Shalala, 91 F.3d 1493, 1499 (D.C. Cir. 1996);  
+Liquid Carbonic Indus. Corp. v. FERC, 29 F.3d 697, 701 
+(D.C. Cir. 1994) (citing cases).
+
+     Applying this standard to the facts of this case, we have 
+little doubt that the dioxin upgrade will represent a "substan-
+tial factor" in the decisions of state and local agencies to 
+regulate products containing dioxin or of healthcare compa-
+nies to reduce or end purchases of PVC plastics.  Congress 
+intended the Report on Carcinogens to serve as the federal 
+government's authoritative statement on the current state of 
+knowledge regarding the carcinogenicity of various chemicals.  
+See H. R. Rep. No. 95-1192, at 28 (1978) (referring to the list 
+as a "comprehensive document" containing "all known or 
+suspected carcinogenic agents").  Congress also intended the 
+list to serve as a resource for state, federal and local regulato-
+ry authorities.  See id. (requiring that the list include "an 
+evaluation of the efficacy of appropriate existing regulatory 
+standards, and recommendations regarding the need to im-
+prove these standards").  These hopes regarding the list's 
+importance have been realized.  The list is widely disseminat-
+ed and highly influential:  A member of the Board of Scienti-
+fic Counselors noted that "the Report on Carcinogens ... is a 
+very important document....  It is used ... by a number of 
+regulatory groups both nationally as well as internationally 
+and I think it has a very large impact on preventing possible 
+hazards to the U.S. public...."  Tr. Proceedings, Board of 
+Scientific Counselors, Report on Carcinogens Subcommittee 
+Meeting at 10 (Oct. 30, 1997).  Thus, contrary to the Depart-
+ment's argument, we think it not at all "speculative" to expect 
+that the dioxin upgrade will cause some non-trivial number of 
+state and local agencies to regulate dioxin.  Indeed, the 
+Berkeley, Oakland, and San Francisco resolutions all cite the 
+initial Review Committee's preliminary determination for the 
+proposition that dioxin is "known" to be a human carcinogen, 
+
+not merely hypothesized to be carcinogenic.  See Resolutions, 
+supra at 9.  Because of the Report's importance, moreover, 
+we have no doubt that the Secretary's decision to upgrade 
+dioxin will cause some non-trivial number of healthcare com-
+panies, already under pressure from environmental activists, 
+to reduce or end their use of PVC plastics.
+
+     An additional factor reinforces our conclusions regarding 
+both injury and causation:  When the government attaches an 
+inherently pejorative and damaging term such as "carcino-
+gen" to a product, the probability of economic harm increases 
+exponentially.  The Department's reliance on Block, in which 
+the government's label of "propaganda" was not inherently 
+pejorative, is therefore misplaced.  It is not too speculative to 
+conclude that the Report will injure Brevet economically, 
+even with the presence of other causal factors.  See, e.g., 
+Mountain States Legal Found. v. Glickman, 92 F.3d 1228, 
+1234-35 (D.C. Cir. 1996) (holding incremental risk of forest 
+fires from Forest Service's challenged decision sufficient to 
+support Article III standing, despite existence of other causal 
+factors for forest fires).
+
+     Equally without merit is the Department's contention that 
+even assuming a likely injury fairly traceable to the dioxin 
+upgrade, Brevet's injury is not "redressable."  Lujan, 504 
+U.S. at 561.  While it may be true, as the Department insists, 
+that municipalities and healthcare providers will not reverse 
+decisions to limit PVC use, we do not agree that "Brevet's 
+alleged future harm could not be redressed by a decision of 
+this Court." Appellee's Br. at 19.  Nothing in the record 
+indicates that any other federal agency has labeled dioxin a 
+"known" carcinogen and, asked about this at oral argument, 
+counsel for the Department was unable to name one either.  
+Thus, were we to set aside the Secretary's upgrade decision, 
+dioxin activists could no longer point to an authoritative 
+determination by the United States government that dioxin is 
+"known" to cause cancer in humans.  Conversely, Brevet 
+could point out that a government report widely accepted as 
+comprehensive no longer lists dioxin as a "known" carcinogen.  
+State and local governments would be less likely to regulate 
+
+dioxin, and healthcare companies would in turn be less likely 
+to stop using PVC plastic.  In short, reclassifying dioxin 
+would redress at least some of Brevet's economic injury.
+
+     Because Brevet has Article III standing, we need not 
+consider whether the culinary appellants and Tozzi have 
+standing as well.  See Watt v. Energy Action Educ. Found., 
+454 U.S. 151, 160 (1981) (declining to address standing of 
+remaining plaintiffs after finding one plaintiff with standing);  
+Mountain States, 92 F.3d at 1232 (same).
+
+                          Reviewability
+
+     Reviewability under the APA hinges upon whether the 
+listing has "legal effect, which in turn is a function of the 
+agency's intention to bind either itself or regulated parties."  
+Kennecott Utah Copper Corp. v. United States Dep't of 
+Interior, 88 F.3d 1191, 1223 (D.C. Cir. 1996).  In making this 
+determination, we have sometimes looked to "the agency's 
+own characterization of its action" and to "publication or the 
+lack thereof in the Federal Register or the Code of Federal 
+Regulations."  Am. Portland Cement Alliance v. EPA, 101 
+F.3d 772, 776 (D.C. Cir. 1996).  Where the agency character-
+izes its action as non-binding or does not publish in the 
+Federal Register, we have found the action unreviewable.  
+See, e.g., id. (finding agency's "regulatory determinations" 
+unreviewable because not published and not characterized as 
+binding);  Telecomms. Research & Action Ctr. v. FCC, 800 
+F.2d 1181, 1186 (D.C. Cir. 1986) (finding document to be 
+merely general policy statement in part because agency char-
+acterized it as produced "solely for the purpose of reference 
+and convenience") (internal quotation marks and citation 
+omitted).
+
+     Seizing upon these two indicia of unreviewability, the De-
+partment argues that the listing is unreviewable.  It points 
+out that the Report's preamble states that it is "for informa-
+tional purposes only" and that the Secretary never published 
+the entire report in the Federal Register.  Taken alone, the 
+characterization of the Report as informational might well 
+support a conclusion that the Report has no "legal effect."  
+
+Kennecott Utah Copper, 88 F.3d at 1223.  Additional consid-
+erations, however, lead us to conclude otherwise.
+
+     To begin with, although the final Report was not published 
+in the Federal Register, the Secretary did publish a notice 
+proposing a dioxin upgrade and, once finalized, a summary of 
+the decision.  Equally important, even though the Secretary 
+takes no action pursuant to a listing, the contention that a 
+listing has no "binding effect," Appellee's Br. at 25, is inaccu-
+rate:  Listing a substance as a human carcinogen triggers 
+obligations under OSHA, Department of Labor and state 
+regulations.  See supra at 3.  Additional evidence of a list-
+ing's "legal effect" comes from the fact that in order to 
+remove a substance from either category, the Secretary must 
+undertake the same elaborate procedure--including notice 
+and comment--required for an initial listing.  See supra at 3-
+4.
+
+     Nothing in Industrial Safety Equipment Association v. 
+EPA, 837 F.2d 1115 (D.C. Cir. 1988), requires a different 
+result.  In that case, we found unreviewable an agency guide 
+that ranked respirators, emphasizing that the guide repeated-
+ly noted that it was not discussing a "regimen presently 
+mandated by law."  Id. at 1120.  By contrast, the carcinogen 
+classification scheme is mandated by the Public Health Act.  
+See 42 U.S.C. s 241(b)(4)(A).  Moreover, the respirator guide 
+was never published in the Federal Register, nor did inclu-
+sion of respirators in the guide trigger other regulatory 
+obligations.  Indus. Safety, 837 F.2d at 1121.
+
+     Having found that Brevet has standing and that the listing 
+is reviewable, we turn to the merits.
+
+                               III.
+
+     Brevet argues that by upgrading dioxin on the basis of 
+mechanistic rather than epidemiological evidence, the Secre-
+tary acted arbitrarily and capriciously.  See 5 U.S.C. 
+s 706(2)(A).  According to Brevet, the criteria's final para-
+graph, which permits the use of mechanistic evidence, applies 
+only to the "reasonably anticipated" category, leaving unaf-
+fected the traditional understanding that the Secretary may 
+
+list a substance in the "known" category only if there is 
+"sufficient" evidence from epidemiological studies.  Interpret-
+ing the criteria differently, the Department insists that the 
+last paragraph applies to both categories, thus permitting 
+reliance on mechanistic evidence when classifying substances 
+as known carcinogens.  In support of this interpretation, the 
+Department points out that the version appearing in the 
+published Report, quoted in full earlier in this opinion, supra 
+at 5-6, shows the last paragraph with wider margins than the 
+preceding paragraphs.
+
+     Because Brevet challenges the Secretary's interpretation of 
+an HHS regulation (Brevet nowhere argues that the criteria 
+are not a regulation), we owe the Secretary "substantial 
+deference."  Thomas Jefferson Univ. v. Shalala, 512 U.S. 
+504, 512 (1994).  We "need not find that the agency's con-
+struction is the only possible one, or even the one that the 
+court would have adopted in the first instance."  Wyo. Out-
+door Council v. United States Forest Serv., 165 F.3d 43, 52 
+(D.C. Cir. 1999).  Indeed, we give the agency's interpretation 
+"controlling weight," Bowles v. Seminole Rock & Sand Co., 
+325 U.S. 410, 414 (1945), unless an "alternative reading is 
+compelled by the regulation's plain language or by other 
+indications of the Secretary's intent at the time of the regula-
+tion's promulgation."  Consolidation Coal Co. v. Fed. Mine 
+Safety and Health Review Comm'n, 136 F.3d 819, 822 (D.C. 
+Cir. 1998) (internal quotation marks and citation omitted).  
+Brevet falls far short of meeting this highly deferential 
+standard.
+
+     For one thing, not only does the absence of indentation 
+support the Secretary's interpretation, but Brevet points to 
+no textual evidence demonstrating that the last paragraph 
+applies only to the "reasonably anticipated" category.  Brevet 
+argues that the Secretary's interpretation completely defeats 
+language in the "known" category, which the company says 
+requires "studies in humans" (meaning, according to Brevet, 
+exclusively epidemiology) that are "sufficient" to "indicate[ ] a 
+causal relationship" between the substance and cancer.  
+Thus, Brevet says, a substance that fails that test cannot be 
+classified as such.  At most, however, Brevet has shown an 
+
+inconsistency between the criteria's formatting (the absence 
+of indentation) and the "known" category's text, in which case 
+we would defer to the Secretary's resolution of the contra-
+diction.  See Cold Spring Granite Co. v. Fed. Mine Safety 
+and Health Review Comm'n, 98 F.3d 1376, 1378 (D.C. Cir.
+1996) ("The Secretary's plausible and sensible reading of his 
+own regulation would prevail even if the company had pre-
+sented an equally plausible alternative construction.").
+
+     Brevet next argues that "contemporaneous evidence" indi-
+cates that the Secretary had no intention of broadening the 
+"known" criteria through the 1996 revisions.  Appellants' 
+Opening Br. at 23-27.  In support of this argument, Brevet 
+points to a press release issued by the Secretary's Office on 
+the day the revised criteria were published and to an article 
+in Environmental Health Perspectives, the NTP's official 
+newsletter, both of which state that the criteria for listing in 
+the "known" category remain "unchanged."  We see nothing 
+in either document demonstrating that the interpretation the 
+Department offers here "marks a departure from [the Secre-
+tary's] stated prior understanding in enacting the regulation."  
+Consolidation Coal, 136 F.3d at 822.  Although portions of 
+the press release quote the Secretary, the statement that the 
+criteria for the "known" category remain unchanged was not 
+a quotation, nor does anything in the record indicate that the 
+Secretary or any official with authority to interpret the 
+criteria authorized the statement.  In addition to suffering 
+from the same defect, the newsletter is at best ambiguous.  
+Although saying that the 1996 criteria for the "known" cate-
+gory are substantively unchanged, the newsletter, after quot-
+ing the criteria's final paragraph in full, states that "the last 
+factor is especially important 'for the reasonably anticipated 
+to be a human carcinogen category' " [emphasis added].  The 
+phrase "especially important" suggests that the final para-
+graph applies to the "known" category as well.
+
+     The decision of the district court is affirmed.
+
+                                                             So ordered.
+
+     Silberman, Senior Circuit Judge, concurring:  I concur 
+with all parts of the court's opinion including the portion 
+dealing with reviewability.  But it is an interesting question 
+how one should categorize the agency's action that we review.  
+It might be thought to be an informal adjudication--a specific 
+application of the regulation--but because it has only a future 
+effect, I think it is accurately described as an interpretive 
+rule.  It certainly has more bite than the typical policy 
+statement, many of which are not reviewable at all.  See, e.g., 
+Kennecott Utah Copper v. United States Dep't of Interior, 88 
+F.3d 1191, 1223 (D.C. Cir. 1996).  In that regard, I should 
+like to express a view on the question raised by the panel in 
+Appalachian Power Co. v. EPA, 208 F.3d 1015, 1021-22 (D.C. 
+Cir. 2000).  In that case the panel, recognizing our split of 
+authority, suggested that virtually all agency statements of 
+future effect--including policy statements--were rules under 
+the broad definitional language of s 551(4).
+
+     "rule" means the whole or a part of an agency statement 
+     of general or particular applicability and future effect 
+     designed to implement, interpret, or prescribe law or 
+     policy or describing the organization, procedure, or prac-
+     tice requirements of an agency and includes the approval 
+     or prescription for the future of rates, wages, corporate 
+     or financial structures or reorganization thereof, prices, 
+     facilities, appliances, services or allowances therefor or of 
+     valuations, costs, or accounting, or practices bearing on 
+     any of the foregoing;  ....
+     
+The panel said "virtually all," but in light of its suggested 
+disagreement with Syncor International Corp. v. Shalala, 127 
+F.3d 90, 94 (D.C. Cir. 1997), which described a typical policy 
+statement as only an indication of an agency's enforcement 
+policy, I cannot imagine what the panel meant to exclude-or 
+given its reasoning what could be excluded.
+
+     The panel criticized Syncor and our prior opinions on which 
+Syncor relied for not considering explicitly the APA defini-
+tion, but no less an administrative law authority than Justice 
+Scalia once wrote:
+
+          Since every statement is of either general or particular 
+     applicability, and since everything an agency does is 
+     "designed to implement, interpret, or prescribe law or 
+     policy, etc." the only limiting (that is to say, defining) 
+     part of the definition is "agency statement of ... future 
+     effect."  This is of course absurd. ...  [Therefore] it is 
+     generally acknowledged that the only responsible judicial 
+     attitude toward this central APA definition is one of 
+     benign disregard.
+     
+Scalia, Vermont Yankee:  The APA, the D.C. Circuit, and the 
+Supreme Court, 1978 Sup. Ct. Rev. 345, 383.
+
+     I agree with then-Professor Scalia that the panel's inter-
+pretation is not a reasonable reading ("absurd" might be too 
+strong).  Not every utterance, not every speech (with only 
+future effect) legitimately can be described as a rule.  Per-
+haps the key to the definition is the word "prescribed," which 
+in Random House College Dictionary, means "to lay down a 
+rule" (emphasis added), and in the 1941 Webster's New 
+International Dictionary meant "to lay down authoritatively 
+as a guide" (emphasis added).  In other words, Congress 
+surely meant that an agency statement that serves the pur-
+pose of a rule is a rule.  If it walks like a rule, and quacks like 
+a rule--i.e., is laid down--it is a rule.  But any agency 
+statement which does not seek to authoritatively answer an 
+underlying policy or legal issue does not fit that criteria.  In 
+this case, the agency authoritatively proclaims which sub-
+stances qualify as known carcinogens, which is why I think it 
+is properly described as an interpretive rule.
+
+                                              

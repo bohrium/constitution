@@ -1,0 +1,586 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 6, 2001    Decided April 13, 2001 
+
+                           No. 00-1141
+
+                    Trans Union Corporation, 
+                            Petitioner
+
+                                v.
+
+                    Federal Trade Commission, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+                     Federal Trade Commission
+
+     Roger L. Longtin argued the cause for petitioner. With him 
+on the brief was Stephen L. Agin.
+
+     Lawrence DeMille-Wagman, Attorney, Federal Trade 
+Commission, argued the cause for respondent.  With him on 
+the brief were Debra A. Valentine, General Counsel, and 
+John F. Daly, Assistant General Counsel.
+
+     Before:  Edwards, Chief Judge, Ginsburg and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Petitioner, a consumer reporting 
+agency, sells lists of names and addresses to target market-
+ers--companies and organizations that contact consumers 
+with offers of products and services.  The Federal Trade 
+Commission determined that these lists were "consumer re-
+ports" under the Fair Credit Reporting Act and thus could no 
+longer be sold for target marketing purposes.  Challenging 
+this determination, petitioner argues that the Commission's 
+decision is unsupported by substantial evidence and that the 
+Act itself is unconstitutional.  Because we find both argu-
+ments without merit, we deny the petition for review.
+
+                                I
+
+     Petitioner Trans Union sells two types of products.  First, 
+as a credit reporting agency, it compiles credit reports about 
+individual consumers from credit information it collects from 
+banks, credit card companies, and other lenders.  It then 
+sells these credit reports to lenders, employers, and insurance 
+companies.  Trans Union receives credit information from 
+lenders in the form of "tradelines."  A tradeline typically 
+includes a customer's name, address, date of birth, telephone 
+number, Social Security number, account type, opening date 
+of account, credit limit, account status, and payment history.  
+Trans Union receives 1.4 to 1.6 billion records per month.  
+The company's credit database contains information on 190 
+million adults.
+
+     Trans Union's second set of products--those at issue in this 
+case--are known as target marketing products.  These con-
+sist of lists of names and addresses of individuals who meet 
+specific criteria such as possession of an auto loan, a depart-
+ment store credit card, or two or more mortgages.  Market-
+ers purchase these lists, then contact the individuals by mail 
+or telephone to offer them goods and services.  To create its 
+target marketing lists, Trans Union maintains a database 
+known as MasterFile, a subset of its consumer credit data-
+
+base.  MasterFile consists of information about every con-
+sumer in the company's credit database who has (A) at least 
+two tradelines with activity during the previous six months, or 
+(B) one tradeline with activity during the previous six months 
+plus an address confirmed by an outside source.  The compa-
+ny compiles target marketing lists by extracting from Master-
+File the names and addresses of individuals with characteris-
+tics chosen by list purchasers.  For example, a department 
+store might buy a list of all individuals in a particular area 
+code who have both a mortgage and a credit card with a 
+$10,000 limit.  Although target marketing lists contain only 
+names and addresses, purchasers know that every person on 
+a list has the characteristics they requested because Trans 
+Union uses those characteristics as criteria for culling individ-
+ual files from its database.  Purchasers also know that every 
+individual on a target marketing list satisfies the criteria for 
+inclusion in MasterFile.
+
+     The Fair Credit Reporting Act of 1970 ("FCRA"), 15 
+U.S.C. ss 1681, 1681a-1681u, regulates consumer reporting 
+agencies like Trans Union, imposing various obligations to 
+protect the privacy and accuracy of credit information.  The 
+Federal Trade Commission, acting pursuant to its authority 
+to enforce the FCRA, see 15 U.S.C. s 1681s(a), determined 
+that Trans Union's target marketing lists were "consumer 
+reports" subject to the Act's limitations.  The FCRA defines 
+"consumer report" as:
+
+     [A]ny written, oral, or other communication of any infor-
+     mation by a consumer reporting agency bearing on a 
+     consumer's credit worthiness, credit standing, credit ca-
+     pacity, character, general reputation, personal character-
+     istics, or mode of living which is used or expected to be 
+     used or collected in whole or in part for the purpose of 
+     serving as a factor in establishing the consumer's eligibil-
+     ity for--
+     
+          (A) credit or insurance to be used primarily for per-
+          sonal, family, or household purposes;
+          
+          (B) employment purposes;  or
+          
+          (C) any other purpose authorized under section 1681b 
+          of this title.
+          
+15 U.S.C. s 1681a(d)(1).  Finding that the information Trans 
+Union sold was "collected in whole or in part by [Trans 
+Union] with the expectation that it would be used by credit 
+grantors for the purpose of serving as a factor in establishing 
+the consumer's eligibility for one of the transactions set forth 
+in the FCRA," and concluding that target marketing is not an 
+authorized use of consumer reports under section 1681b, In re 
+Trans Union Corp., 118 F.T.C. 821, 891 (1994), the Commis-
+sion ordered Trans Union to stop selling target marketing 
+lists, id. at 895.
+
+     Trans Union petitioned for review.  In Trans Union Corp. 
+v. FTC, 81 F.3d 228 (D.C. Cir. 1996) ("Trans Union I"), we 
+agreed with the Commission that selling consumer reports for 
+target marketing violates the Act.  Id. at 233-34.  We never-
+theless set aside the Commission's determination that Trans 
+Union's target marketing lists amounted to consumer reports.  
+Id. at 231-33.  The Commission, we held, failed to justify its 
+finding that Trans Union's lists, by conveying the mere fact 
+that consumers had a tradeline, were communicating informa-
+tion collected for the purpose of determining credit eligibility.  
+We found that the Commission had failed to provide evidence 
+to support the proposition that "the mere existence of a 
+tradeline, as distinguished from payment history organized 
+thereunder," was used for credit-granting decisions or was 
+intended or expected to be used for such decisions.  Id. at 
+233. (The parties' arguments in Trans Union I and in the 
+proceedings on remand focused on the relevance of the 
+information in the company's lists to consumer eligibility for 
+credit;  accordingly, the information's relevance to the other 
+uses the statute lists--such as determining eligibility for 
+insurance and employment--are not at issue in this case.  See 
+In re Trans Union Corp., Opinion of the Commission, No. 
+9255, slip op. at 16 n.20 (Feb. 10, 2000) ("FTC Opinion").)
+
+     On remand, following extensive discovery, more than a 
+month of trial proceedings, and an initial decision by an 
+Administrative Law Judge, the Commission found that Trans 
+
+Union's target marketing lists contain information that credit 
+grantors use as factors in granting credit.  Accordingly, the 
+Commission concluded, the lists are "consumer reports" that 
+Trans Union may not sell for target marketing purposes.  
+FTC Opinion at 33.  The Commission also rejected Trans 
+Union's argument that such a restriction would violate its 
+First Amendment rights.  Applying intermediate scrutiny, 
+the Commission found that the government has a substantial 
+interest in protecting private credit information, that the 
+FCRA directly advances that interest, and that the Act's 
+restrictions on speech are narrowly tailored.  Id. at 37-52.  
+The Commission thus ordered Trans Union to "[c]ease and 
+desist from distributing or selling consumer reports, including 
+those in the form of target marketing lists, to any person 
+unless [the company] has reason to believe that such person 
+intends to use the consumer report for purposes authorized 
+under Section [1681b] of the Fair Credit Reporting Act."  In 
+re Trans Union Corp., Final Order, No. 9255 (Feb. 10, 2000).  
+Trans Union again petitions for review.
+
+                                II
+
+     As we pointed out in Trans Union I, the first element of 
+the FCRA's definition of consumer report--"bearing on a 
+consumer's credit worthiness, credit standing, credit capacity, 
+character, general reputation, personal characteristics, or 
+mode of living," 15 U.S.C. s 1681a(d)(1)--"does not seem very 
+demanding," for almost any information about consumers 
+arguably bears on their personal characteristics or mode of 
+living.  See 81 F.3d at 231.  Indeed, Trans Union does not 
+challenge the Commission's conclusion that the information 
+contained in its lists meets this prong of the definition of 
+consumer report.
+
+     Whether the company's target marketing lists qualify as 
+consumer reports thus turns on whether information they 
+contain "is used or expected to be used or collected in whole 
+or in part for the purpose of serving as a factor in establish-
+ing the consumer's eligibility for [credit]."  15 U.S.C. 
+s 1681a(d)(1). According to the Commission, "a factor in 
+
+establishing the consumer's eligibility for [credit]," id., in-
+cludes any type of information credit grantors use in their 
+criteria for "prescreening" or in "credit scoring models."  See 
+FTC Opinion at 16-17.  "Prescreening" involves selecting 
+individuals for guaranteed offers of credit or insurance.  See 
+id. at 18;  see also Trans Union I, 81 F.3d at 234 (defining 
+"prescreening" as "the sale of a list of people preselected for 
+credit worthiness by some specified criteria, where the buyer 
+of the list agrees in advance to make a firm offer of credit to 
+each listed person").  "Credit scoring models" are statistical 
+models for predicting credit performance that are developed 
+by observing the historical credit performance of a number of 
+consumers and identifying the consumer characteristics that 
+correlate with good and bad credit performance.  See FTC 
+Opinion at 17.  Applying its prescreening/credit scoring mod-
+el standard, the Commission found that Trans Union's lists 
+contain the type of information " 'used' and/or 'expected to be 
+used' ... as a factor in establishing a consumer's eligibility 
+for credit."  Id. at 15;  see also id. n.19.
+
+     Trans Union urges us to reject the Commission's interpre-
+tation of the Act in order to avoid what the company calls 
+"serious constitutional questions."  Pet'r Opening Br. at 9.  
+In support, it cites DeBartolo Corp. v. Florida Gulf Coast 
+Building & Construction Trades Council, where the Supreme 
+Court refused to defer to the NLRB's interpretation of a 
+provision of the NLRA because the Court believed it raised 
+serious First Amendment problems.  485 U.S. 568, 574-77 
+(1988).  But as we demonstrate in Section III, infra, Trans 
+Union's constitutional arguments are without merit, so we 
+have no basis for rejecting the Commission's statutory inter-
+pretation on that ground.
+
+     Nor has Trans Union offered a basis for questioning the 
+Commission's statutory interpretation on other grounds.  The 
+company does not mention the Commission's interpretation of 
+the statute in the "Issues Presented For Review" section of 
+its brief.  Cf. Fed. R. App. P. 28(a)(5) (requiring that appel-
+lants' and petitioners' briefs state the issues presented for 
+review).  Although scattered language in the brief hints at a 
+
+statutory interpretation challenge, that language appears in a 
+section entitled "The Record Does Not Support The Conclu-
+sion Reached By The Commission."  Trans Union has thus 
+failed to put the Commission on notice that it faced a non-
+constitutional challenge to its interpretation of the statute.
+
+     We have the same reaction to the brief's occasional sugges-
+tions that the Commission's decision was arbitrary and capri-
+cious.  Not only do these suggestions appear in a section 
+entitled "The Commission's Interpretation Of FCRA Raises 
+Serious Constitutional Questions," see, e.g., Pet'r Opening Br. 
+at 19 (referring to "illogical contradictions"), but the list of 
+issues presented for review neither mentions the arbitrary 
+and capricious standard nor otherwise questions the reason-
+ableness of the Commission's decision.
+
+     We thus turn to the one non-constitutional argument that 
+Trans Union clearly mounts:  that the Commission's decision 
+is unsupported by substantial evidence.  A footnote to the 
+title of this portion of its brief states:
+
+     The Order is replete with statements unsupported by the 
+     evidence....  The word limitation of [Federal Rule of 
+     Appellate Procedure] 32(a)(7) makes it impossible to ad-
+     dress each such misstatement here.  It is the responsibility 
+     of the Commission's counsel, however, to ensure that the 
+     Court is not misled by the statements in the Order not 
+     supported by the evidence.
+     
+Id. at 21 n.7.  To bring a substantial evidence challenge, 
+however, Trans Union must do more than assert generally 
+that the decision is unsupported by substantial evidence.  It 
+must identify the specific findings it challenges and demon-
+strate that each finding is either unsupported by evidence or, 
+because the Commission unreasonably discounted contrary 
+evidence, unsupported by "the record in its entirety."  See 
+Universal Camera Corp. v. NLRB, 340 U.S. 474, 488 (1951).  
+The 14,000 words permitted by Rule 32(a)(7) are more than 
+enough to accomplish this task.
+
+     Instead of challenging the Commission's findings regarding 
+specific target marketing products, Trans Union points to 
+
+evidence relating to the general question of whether the 
+information in its target marketing lists is used to determine 
+credit worthiness.  This is not the question before us.  As we 
+indicate above, the Commission interprets "factor in estab-
+lishing the consumer's eligibility for credit," 15 U.S.C. 
+s 1681a(d)(1), to include any information considered by lend-
+ers in prescreening, which, as two witnesses testified, can 
+involve consideration of criteria other than credit worthiness, 
+e.g., whether a given consumer is likely to respond to an offer 
+of credit.  Because Trans Union has not challenged the 
+Commission's interpretation of the statute, its argument that 
+the information the company sells is not actually used to 
+determine credit worthiness is beside the point.  Moreover, 
+Trans Union cites no testimony refuting the Commission's 
+finding that the information in its target marketing lists is 
+used in prescreening.
+
+     Not only has Trans Union thus failed to mount a proper 
+substantial evidence challenge to the Commission's finding 
+that lenders take list information into account in credit mod-
+els and prescreening, but we have no doubt that the decision 
+does find support in the record.  Consider, for example, 
+Trans Union's "Master File/Selects" product line, which al-
+lows marketers to request lists based on any of five catego-
+ries of information:  (1) credit limits (e.g., consumers with 
+credit cards with credit limits over $10,000), (2) open dates of 
+loans (e.g., consumers who took out loans in the last six 
+months), (3) number of tradelines, (4) type of tradeline (e.g., 
+auto loan or mortgage), and (5) existence of a tradeline.  The 
+Commission cites testimony and other record evidence that 
+support its finding that lenders consider each of these five 
+categories of information in prescreening or credit scoring 
+models.  Beginning with credit limits, the Commission cites 
+the testimony of a statistician who builds credit scoring 
+models.  FTC Opinion at 19.  That witness explained that 
+scoring models rely in part on consumer utilization of credit, 
+calculated by dividing a consumer's current outstanding bal-
+ance by the consumer's credit limit.  To support its finding 
+regarding open dates of loans, the Commission relied on the 
+testimony of a vice president of a company that builds credit 
+
+scoring models.  Id. According to that witness, some scoring 
+models use the open date of the oldest tradeline in a consum-
+er's credit file as a predictive characteristic.  The witness also 
+testified that some credit scoring models use the date of the 
+most recently opened tradeline to determine credit risk.  To 
+support its finding that information about the number of 
+tradelines in a consumer's credit file is a consumer report, the 
+Commission cites the testimony of a vice president in charge 
+of direct mail processing for a bank's credit card department 
+who explained that, in its credit making decisions, her bank 
+considers the number of tradelines consumers possess.  Id. at 
+20 n.30.  The Commission also points to record evidence 
+demonstrating that Trans Union itself uses the number of 
+tradelines as a predictive characteristic in its credit scoring 
+models.  Id. at 20.  As to the type of tradeline, the Commis-
+sion cites the testimony of representatives of companies that 
+design credit models who explained that some credit scoring 
+models, including two used by Trans Union, take into account 
+possession of a bank card.  FTC Opinion at 21-22.  One 
+witness testified that Trans Union scoring models also consid-
+er possession of a finance company loan to be a predictive 
+characteristic.  Another witness, this one representing a 
+credit card company, testified that his company's scoring 
+models assign points for possession of a mortgage, retail 
+tradeline, or bank card.  Id. at 21.
+
+     The record also contains sufficient evidence to support the 
+Commission's resolution of the issue remanded by Trans 
+Union I:  whether mere existence of a tradeline is "a factor in 
+credit-granting decisions."  81 F.3d at 233.  An employee of a 
+bank that issues credit cards testified that to be eligible for 
+credit, an individual must have at least one tradeline.  FTC 
+Opinion at 25.  The vice president of credit scoring at 
+another credit card issuer testified that the very first ques-
+tion her company asks in prescreening is whether the con-
+sumer has a tradeline that has been open for at least a year.  
+Challenging the implications of this testimony, Trans Union 
+argues that banks ask whether consumers have tradelines not 
+because the existence of a tradeline is itself a factor in 
+determining credit eligibility, but because banks want to 
+
+determine whether there is enough information in consumer 
+files to make credit eligibility determinations.  This may be 
+true.  But as we explain above, our task is limited to deter-
+mining whether substantial record evidence supports the 
+Commission's finding that banks consider the existence of a 
+tradeline as a factor in prescreening or credit models.  Be-
+cause the record contains such evidence, we have no basis for 
+questioning the Commission's decision.
+
+     Trans Union has identified one potentially troubling incon-
+sistency in the Commission's decision.  As the company 
+points out, record evidence demonstrates that lenders consid-
+er names and addresses when prescreening consumers for 
+guaranteed offers of credit, yet the Commission does not 
+prohibit the sale of names and addresses for target marketing 
+purposes.  Regarding addresses, the Commission's opinion 
+says, "[a]lthough some lenders will not extend credit to 
+consumers with a P.O. Box address, we do not find that the 
+P.O. Box feature bears on 'credit worthiness, credit standing, 
+credit capacity, character, general reputation, personal char-
+acteristics or mode of living.' "  Id. at 31 n.50.  It is not clear, 
+however, why receiving mail at a post office should not be 
+considered an aspect of an individual's "mode of living."  We 
+need not resolve this issue, however, because Trans Union 
+presents neither an arbitrary and capricious nor a statutory 
+interpretation challenge to the Commission's failure to pro-
+hibit the sale of names and addresses.  See supra at 6-7.
+
+     Nor must we resolve any inconsistency between the Com-
+mission's decision in this case and a 1993 consent agreement 
+between the Commission and a Trans Union competitor, 
+TRW (now Experian).  In contrast to the Commission's deci-
+sion here, that agreement allowed TRW to sell information 
+about consumers' ages to target marketers.  Again, although 
+this might suggest that the Commission has acted arbitrarily 
+and capriciously in treating similarly situated entities differ-
+ently, Trans Union has not made such a challenge.  The 
+Commission thus seems correct that "[t]he TRW Consent is 
+not before us in this matter and it is without precedential 
+effect on this opinion."  FTC Opinion at 16 n.22.
+
+                               III
+
+     Trans Union's constitutional challenge consists of two argu-
+ments.  It claims first that the FCRA is vague, thus running 
+afoul of the due process guarantee of the Fifth Amendment.  
+Trans Union also argues that the statute violates the free 
+speech guarantee of the First Amendment because it restricts 
+its ability to disseminate information.
+
+     Beginning with the Fifth Amendment challenge, we are 
+guided by Village of Hoffman Estates v. Flipside, Hoffman 
+Estates, Inc., 455 U.S. 489, 498 (1982).  "[L]aws," the Court 
+said, must not only "give the person of ordinary intelligence a 
+reasonable opportunity to know what is prohibited," but in 
+order to prevent "arbitrary and discriminatory enforcement," 
+they must also "provide explicit standards for those who 
+apply them."  Id. (quoting Grayned v. City of Rockford, 408 
+U.S. 104, 108-09 (1972)).  Emphasizing that these principles 
+should not "be mechanically applied," the Court held that 
+"economic regulation is subject to a less strict vagueness test 
+because its subject matter is often more narrow, and because 
+businesses, which face economic demands to plan behavior 
+carefully, can be expected to consult relevant legislation in 
+advance of action."  Id.  The "regulated enterprise," the 
+Court added, "may have the ability to clarify the meaning of 
+the regulation by its own inquiry, or by resort to an adminis-
+trative process."  Id. Finally, "the consequences of impreci-
+sion are qualitatively less severe" when laws have "scienter 
+requirement[s]" and "civil rather than criminal penalties."  
+Id. at 499.
+
+     Applying this standard, we see no merit in Trans Union's 
+vagueness argument.  To begin with, because the FCRA's 
+regulation of consumer reporting agencies is economic, it is 
+subject to "a less strict vagueness test."  Id. at 498.  More-
+over, Trans Union has "the ability to clarify the meaning of 
+the [FCRA]," id., through the Commission's advisory opinion 
+procedures.  See 16 C.F.R. ss 1.1-1.4 (establishing general 
+procedures for obtaining advisory opinions);  id. s 2.41(d) 
+(establishing procedures for obtaining guidance regarding 
+compliance with FTC orders).  Selectively quoting from the 
+
+Commission's regulations, the company disputes the useful-
+ness of advisory opinions, suggesting that they can be 
+changed at any time and that "the Commission expressly 
+reserves the right upon rescission of an earlier opinion to 
+commence an enforcement proceeding."  Pet'r Reply Br. at 
+10.  The relevant regulation states as follows (the sentences 
+Trans Union omits are in italics):
+
+     Any advice given by the Commission is without prejudice 
+     to the right of the Commission to reconsider the ques-
+     tions involved and, where the public interest requires, to 
+     rescind or revoke the action.  Notice of such rescission 
+     or revocation will be given to the requesting party so 
+     that he may discontinue the course of action taken 
+     pursuant to the Commission's advice.  The Commission 
+     will not proceed against the requesting party with re-
+     spect to any action taken in good faith reliance upon the 
+     Commission's advice under this section, where all the 
+     relevant facts were fully, completely, and accurately 
+     presented to the Commission and where such action was 
+     promptly discontinued upon notification of rescission or 
+     revocation of the Commission's approval.
+     
+16 C.F.R. s 1.3(b) (emphasis added).  Although the next 
+subsection of the regulation states that "[a]dvice rendered by 
+the staff is without prejudice to the right of the Commission 
+later to rescind the advice and, where appropriate, to com-
+mence an enforcement proceeding," id. s 1.3(c), the portion of 
+the regulation omitted by Trans Union makes quite clear that 
+the company can safely rely on advisory opinions without fear 
+of penalty should the Commission later change its mind.
+
+     The FCRA does not fit quite so comfortably under the 
+other Hoffman Estates criteria.  Although the Act does con-
+tain a clear scienter requirement for the imposition of civil 
+fines, see, e.g., 15 U.S.C. s 1681s(a)(2)(A) ("knowing"), it also 
+provides that anyone who negligently violates the Act may be 
+liable to injured consumers for actual damages.  Id. 
+s 1681o(a).  The statute also authorizes criminal penalties.  
+Id. s 1681r (providing for possible imprisonment for "[a]ny 
+officer or employee of a consumer reporting agency who 
+
+knowingly and willfully provides information concerning an 
+individual from the agency's files to a person not authorized 
+to receive that information").  Even given these distinctions, 
+however, because of the extremely clear process for "clari-
+fy[ing] the meaning of the regulation," Hoffman Estates, 455 
+U.S. at 498, Trans Union simply does not face a due process 
+risk of prosecution for conduct it could not have known to be 
+illegal.
+
+     Trans Union's First Amendment challenge fares no better.  
+Banning the sale of target marketing lists, the company says, 
+amounts to a restriction on its speech subject to strict scruti-
+ny.  Again, Trans Union misunderstands our standard of 
+review.  In Dun & Bradstreet, Inc. v. Greenmoss Builders, 
+Inc., 472 U.S. 749 (1985), the Supreme Court held that a 
+consumer reporting agency's credit report warranted reduced 
+constitutional protection because it concerned "no public is-
+sue."  Id. at 762.  "The protection to be accorded a particular 
+credit report," the Court explained, "depends on whether the 
+report's 'content, form, and context' indicate that it concerns 
+a public matter."  Id. n.8.  Like the credit report in Dun & 
+Bradstreet, which the Supreme Court found "was speech 
+solely in the interest of the speaker and its specific business 
+audience," id. at 762, the information about individual con-
+sumers and their credit performance communicated by Trans 
+Union target marketing lists is solely of interest to the 
+company and its business customers and relates to no matter 
+of public concern.  Trans Union target marketing lists thus 
+warrant "reduced constitutional protection."  Id. n.8.
+
+     We turn then to the specifics of Trans Union's First 
+Amendment argument.  The company first claims that nei-
+ther the FCRA nor the Commission's Order advances a 
+substantial government interest.  The "Congressional find-
+ings and statement of purpose" at the beginning of the FCRA 
+state:  "There is a need to insure that consumer reporting 
+agencies exercise their grave responsibilities with ... respect 
+for the consumer's right to privacy."  15 U.S.C. s 1681 (a)(4).  
+Contrary to the company's assertions, we have no doubt that 
+
+this interest--protecting the privacy of consumer credit infor-
+mation--is substantial.
+
+     Trans Union next argues that Congress should have chosen 
+a "less burdensome alternative," i.e., allowing consumer re-
+porting agencies to sell credit information as long as they 
+notify consumers and give them the ability to "opt out."  
+Pet'r Opening Br. at 43-44.  Because the FCRA is not 
+subject to strict First Amendment scrutiny, however, Con-
+gress had no obligation to choose the least restrictive means 
+of accomplishing its goal.
+
+     Finally, Trans Union argues that the FCRA is underinclu-
+sive because it applies only to consumer reporting agencies 
+and not to other companies that sell consumer information.  
+But given consumer reporting agencies' unique "access to a 
+broad range of continually-updated, detailed information 
+about millions of consumers' personal credit histories," FTC 
+Opinion at 1, we think it not at all inappropriate for Congress 
+to have singled out consumer reporting agencies for regula-
+tion.  As we explained in Blount v. SEC, "a regulation is not 
+fatally underinclusive simply because an alternative regula-
+tion, which would restrict more speech or the speech of more 
+people, could be more effective."  61 F.3d 938, 946 (D.C. Cir. 
+1995).  The primary purpose of underinclusiveness analysis is 
+to "ensure that the profferred state interest actually underlies 
+the law, [so] a rule is struck for underinclusiveness only if it 
+cannot fairly be said to advance any genuinely substantial 
+governmental interest because it provides only ineffective or 
+remote support for the asserted goals, or limited incremental 
+support."  Id. (internal citations omitted).  To survive a First 
+Amendment underinclusiveness challenge, therefore, "neither 
+a perfect nor even the best available fit between means and 
+ends is required."  Id. The FCRA easily satisfies this stan-
+dard.
+
+     Trans Union contends that the statute is underinclusive for 
+another reason, i.e., because it allows the sale of consumer 
+reports for the purpose of guaranteed offers of credit or 
+insurance.  Trans Union I disposes of this argument:
+
+     [B]eing singled out for a firm offer of credit is exactly the 
+     sort of thing the Act seeks to promote, and a purpose for 
+     which it is quite reasonable to infer the consumer's 
+     implicit waiver or consent.  Moreover, prescreening and 
+     the guaranteed offers of credit it spawns can only take 
+     place through the use of consumer reports, whereas the 
+     use of credit data for non-credit-related mailings is at 
+     most helpful to those ends.
+     
+81 F.3d at 234.
+
+                                IV
+
+     Having considered and rejected Trans Union's other argu-
+ments, we deny the petition for review.
+
+                                                           So Ordered.
+
+                                                                      

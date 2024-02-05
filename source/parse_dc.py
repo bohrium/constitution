@@ -8,6 +8,7 @@ import re
 import tqdm
 import PyPDF2
 import glob
+import random
 
 
 CIRCUIT = 'dc'
@@ -41,8 +42,10 @@ sss=sss.replace('\n',' ').replace('  ',' ')
 
 allow_spaces = lambda s:'[ ]{0,1}'.join(s)
 
-JNM = '({}|{})'.format('[A-Z][A-Za-z][A-Z]+'              ,
-                       '[A-Z]+(?:[ ]{1,2})[A-Z]+' )
+JNM = '({}|{}|{})'.format('[A-Z][A-Za-z][A-Z]+'     ,
+                          '[A-Z]+(?:[ ]{1,2})[A-Z]+',
+                          '[A-Z][A-Za-z][A-Za-z]+'      )
+
 ___ = '(?:[ ]*)'
 TIT = (
         '(?:'+allow_spaces('Chief')+'|'+allow_spaces('Senior')+'|)' +___+
@@ -54,7 +57,7 @@ SEP = '(?:'+allow_spaces('and')+'|,)'
 #JNMT = ___ + JNM + ___ + PUN + ___ + '(?:and|)' + ___ + TIT + ___ + PUN
 #PANEL = 'Before: {} {} {}'.format(JNMT, JNMT, JNMT)
 SKP  = ___+'(?:' + '(?:'+PUN+___+TIT+___+PUN+___+'|)' + SEP + '|)'+___
-PANEL = allow_spaces('Before:')+' {}{} {}{} {}{}'.format(JNM, SKP, JNM, SKP, JNM, SKP)
+PANEL = allow_spaces('Before')+'[:]? {}{} {}{} {}{}'.format(JNM, SKP, JNM, SKP, JNM, SKP)
 
 
 #'(?:, J\.)' +
@@ -72,17 +75,24 @@ def get_dissent(txt):
     return [nm.replace(' ','') for nm in list(rr)]
 
 def extract_page(cache_nm):
-    with open(cache_nm, 'rb') as f:
-        reader = PyPDF2.PdfFileReader(f, strict=False)
-        return '\n'.join(reader.getPage(p).extractText() for p in range(2))
+    if cache_nm.endswith('pdf'):
+        with open(cache_nm, 'rb') as f:
+            reader = PyPDF2.PdfFileReader(f, strict=False)
+            return '\n'.join(reader.getPage(p).extractText() for p in range(2))
+    else:
+        with open(cache_nm, 'r') as f:
+            return str(f.read())
 
 if __name__=='__main__':
     print('\033[32m')
-    for YEAR in list(range(2000,2023)):
+    for YEAR in list(range(2021,2023)):
         print('\033[31m{}\033[32m'.format(YEAR))
-        for k in range( 1,10000):
+        for k in range( 9,10000):
             try:
-                cache_nm = cache_template(CIRCUIT, YEAR, k)
+                #cache_nm = cache_template(CIRCUIT, YEAR, k)
+                gg = glob.glob(cache_template(CIRCUIT, YEAR, k).replace('.pdf','.*'))
+                if not gg: break
+                cache_nm = gg[0]
                 tt = extract_page(cache_nm)
                 tt = (tt.replace('\n',' ')
                         .replace('  ',' ')
@@ -92,10 +102,14 @@ if __name__=='__main__':
                 dd = get_dissent(tt)
                 if dd:
                     print('{:5d} -- {} -- \033[33m{}\033[32m'.format(k, ' : '.join(jj), ' : '.join(dd)))
+                elif hash(str((YEAR,k)))%100 < 10:
+                    print('{:5d} -- {} -- \033[33m{}\033[32m'.format(k, ' : '.join(jj), ' : '.join(dd)))
             except AttributeError:
                 print('\033[35m$$\033[32m', k)
             except PyPDF2.errors.PdfReadError:
                 print('\033[35m<>\033[32m', k)
+            except UnicodeDecodeError:
+                print('\033[35m??\033[32m', k)
             except IndexError:
                 print('\033[35m[]\033[32m', k)
             except FileNotFoundError:

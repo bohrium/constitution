@@ -1,0 +1,880 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 27, 2000      Decided July 7, 2000 
+
+                           No. 98-1106
+
+               Community Television, Inc., et al., 
+                      Appellant/Petitioners
+
+                                v.
+
+               Federal Communications Commission, 
+                       Appellee/Respondent
+
+           Paxson Communications Corporation, et al., 
+                           Intervenors
+
+    Association for Maximum Service Television, Inc., et al., 
+                            Intervenor
+
+                        Consolidated with 
+                  Nos. 98-1212, 98-1259, 99-1082
+
+        Appeals and Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+                            ---------
+
+     John Griffith Johnson, Jr. argued the cause for petitioners.  
+With him on the briefs were Gene A. Bechtel, Christopher D. 
+Imlay, Stephen T. Yelverton, Arthur H. Harding, R. Bruce 
+Beckner, Jill Kleppe McClelland, and Daniel R. Ball.  Rich-
+ard F. Swift entered an appearance.
+
+     Scott D. Dailard argued the cause for intervenors Paxson 
+Communications Corporation, et al.  With him on the briefs 
+were John R. Feore, Jr., Barry A. Friedman and David M. 
+Silverman.
+
+     C. Grey Pash, Jr., Counsel, Federal Communications Com-
+mission, argued the cause for appellee.  With him on the brief 
+were Christopher J. Wright, General Counsel, Daniel M. 
+Armstrong, Associate General Counsel, Joel Marcus and K. 
+Michele Walters, Counsel, Joel I. Klein, Assistant Attorney 
+General, U.S. Department of Justice, Robert B. Nicholson 
+and Adam D. Hirsh, Attorneys. Catherine G. O'Sullivan, and 
+Christopher J. Sprigman, Attorneys, U.S. Department of 
+Justice, entered appearances.
+
+     Jonathan D. Blake was on the brief for intervenor Associa-
+tion for Maximum Service Television, Inc.
+
+     Before:  Edwards, Chief Judge, Henderson and Rogers, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  Petitioners and intervenors1 seek 
+review of the Federal Communications Commission's final 
+
+__________
+     1  Petitioners in these consolidated cases are Community Televi-
+sion, Inc., Pappas Telecasting of Southern California, LLC, Penn-
+sylvania Telecasters Association, and Minority Television Project, 
+Inc.  Intervenors in support of petitioners are Paxson Communica-
+tions Corporation, Corridor Television, LLP, and Entravision Com-
+munications Company, LLC.  For ease of reference we refer to 
+these parties as "petitioners" except as indicated.  Certain other 
+broadcasters withdrew their petitions or the court dismissed their 
+challenges, see, e.g., Lindsay Television, Inc. v. Association of 
+America's Pub. Television Stations, 1998 WL 633809 (D.C. Cir. 
+Aug. 11, 1998), including Mountain Broadcasting Corporation, which 
+voluntarily withdrew its petition for review after filing its opening 
+
+rules establishing the procedures and timetable under which 
+television broadcasting will migrate from the now-prevalent 
+analog technology to digital technology.  Digital technology 
+holds the promise of either greatly enhancing the audiovisual 
+quality of television broadcasts or of replicating current quali-
+ty while liberating substantial portions of the broadcast spec-
+trum for other uses.  Because of the massive investment 
+required by broadcasters and consumers, who must purchase 
+digital televisions or converter devices, to accomplish the 
+analog-to-digital transition, the rules under review provide for 
+a ten-year transition period during which licensed broadcast-
+ers and those with permits to construct broadcast facilities as 
+of August 3, 1997, have received an additional channel to 
+commence digital broadcasting while continuing analog broad-
+casts during the transition.  At the end of the transition 
+period, analog transmissions will cease; broadcasters will 
+retain their new digital channels and give back to the FCC 
+their analog channels.  Thus by statute, essentially all televi-
+sion broadcasting in the United States will be exclusively by 
+digital technology as of December 31, 2006.  See 47 U.S.C. 
+s 309(j)(14)(A)-(B).
+
+     To plan for the transition, the FCC indisputably faced 
+myriad policy choices and a daunting engineering task.  Giv-
+en the complexity and interdependence of the decisions the 
+FCC had to make, the trade-offs among competing interests 
+would be unlikely to satisfy all broadcasters and consumers.  
+Remarkably then, only a few broadcasters, four petitioners 
+supported by three intervenors, challenge the final rules now.  
+They contend that the FCC acted unlawfully by:  (1) granting 
+a second channel to broadcasters whose construction permit 
+applications had been approved by April 3, 1997, while deny-
+ing a second channel to those whose applications had not been 
+so approved;  (2) allotting that second channel to replicate the 
+area served as of April 3, 1997, even if the broadcaster had 
+
+__________
+brief in light of the FCC's decision to allow it to trade DTV 
+channels with another station.  See Public Notice, Broadcast Ac-
+tions, Report No. 44600, 1999 WL 979570 (Oct. 27, 1999).  Separate-
+ly, the Association for Maximum Service Television, Inc. intervened 
+in support of the FCC.
+
+applied to expand the service area as of that date;  (3) 
+adopting and applying its "service replication" principle in a 
+way that unfairly favored VHF broadcasters over UHF 
+broadcasters;  and (4) deleting Channel 29 in State College, 
+Pennsylvania and redistributing that spectrum where a 
+would-be broadcaster had sought to apply to operate Channel 
+29.  While petitioners' challenges may be sympathetic, we 
+conclude that the FCC's decisions were neither arbitrary, 
+capricious, nor contrary to law, and accordingly, we deny the 
+petitions for review.
+
+                                I.
+
+     From its inception, the television broadcasting industry has 
+relied on a common set of technical standards to maximize the 
+availability of television.  When the FCC made its first 
+allotment of spectrum for broadcast television in 1941, it also 
+adopted the basic engineering standards devised by the Na-
+tional Television System Committee for monochromatic 
+(black-and-white) television service.2  See Notice of Inquiry, 
+In the Matter of Advanced Television Systems and Their 
+Impact on the Existing Television Broadcast Service, 2 
+F.C.C.R. 5125, 5126 (1987).  That standard, commonly re-
+ferred to as NTSC, was revised in 1953 to allow for color 
+television broadcasting, and again in 1984 to allow for broad-
+casts using stereophonic sound.  Id.  Relying on the NTSC 
+standard, the FCC maintains the Television Table of Allot-
+ments, 47 C.F.R. s 73.606, which is the master plan for 
+allocating NTSC television broadcast channels to communities 
+throughout the country.  See WITN-TV v. FCC, 849 F.2d 
+1521, 1522-23 (D.C. Cir. 1988).  The Table of Allotments 
+designates how many full service, low power, and television 
+translator channels are assigned to each community, see 47 
+C.F.R. ss 73.601, 73.606, and these designations distinguish 
+
+__________
+     2  These standards include the width of the television broadcast 
+channel, the precise frequencies for the visual and aural carriers, 
+the number of lines per frame, the scanning rate and method, the 
+aspect ratio or width-to-height ratio of the picture, and the audio 
+mode.
+
+between VHF ("very high frequency") Channels 2-13 and 
+UHF ("ultra high frequency") Channels 14-69.
+
+     Although the NTSC standard proved to be workable for 
+more than fifty years, in light of the development of new 
+broadcasting technologies, the emergence of competing stan-
+dards, and the growing popularity of cable television, mem-
+bers of the television broadcasting industry petitioned for a 
+rulemaking in 1987 for the adoption of a new and improved 
+standard for provision of "advanced" television, or "ATV".3  
+The FCC obliged.  See Notice of Inquiry, 2 F.C.C.R. 5125.  
+The development of the rules under review illustrates the 
+difficult policy issues and complex engineering challenges 
+faced by the FCC.  At the outset of the rulemaking proceed-
+ing, the FCC ordered a freeze on any amendments to the 
+Television Table of Allotments and on all applications for 
+construction permits for vacant television channels in the 
+thirty busiest television markets in order to preserve its 
+options for reallocating spectrum should that become neces-
+sary.  See Advanced Television Systems, 776 Rad. Reg.2d 
+(P&F) 843 (1987) ("Freeze Order").  By 1991, the FCC tenta-
+tively opined, and ultimately decided that:  migration to a new 
+standard would be in the public interest;  the transition to a 
+digital standard would not involve rededication of broadcast 
+spectrum;  incumbent broadcasters would be the parties best 
+suited to implement the transition to a digital standard;  a 
+transition period during which NTSC broadcasts would con-
+tinue would be necessary;  and the width of a digital channel 
+would not exceed the NTSC-standard width of 6 MHz.  No-
+tice of Proposed Rulemaking, 6 F.C.C.R. at 7024 ("NPRM").  
+To carry out these policies, the FCC proposed to pair DTV 
+channels with analog licenses, providing incumbent broadcast-
+ers with a second 6 MHz channel for digital broadcasts (a 
+"DTV channel") without charge for use during the transition 
+period to allow for both digital and NTSC broadcasts.  Id. at 
+
+__________
+     3  The FCC adopted the term "ATV" to describe a variety of 
+competing technologies, each of which would improve upon NTSC 
+service.  See Notice of Proposed Rulemaking, 6 F.C.C.R. 7024, 7024 
+n.1 (1991).
+
+7025-26.  In the period between the initial NPRM in 1991 
+and 1996, following a series of reports and orders and further 
+notices of proposed rulemaking, the FCC's transition plan 
+had been substantially developed.
+
+     Then, in 1996, Congress enacted the Telecommunications 
+Act of 1996, Pub. L. No. 101-104, 110 Stat. 56 (1996) ("1996 
+Act"), preempting to a limited degree some FCC decisions 
+related to the analog-to-digital transition.  Thereafter the 
+relevant decisions by the FCC occurred as follows:  On July 
+25, 1996, the FCC adopted its Sixth Further Notice of 
+Proposed Rulemaking, 11 F.C.C.R. 10968 (1996), in which it 
+set forth the proposed DTV Table of Allotments showing 
+which broadcasters would receive which DTV channels.4  
+Then, on April 3, 1997, the FCC adopted two reports and 
+orders that are directly at issue.  In the Fifth Report and 
+Order, 12 F.C.C.R. 12809 (1997), the FCC issued initial DTV 
+licenses to incumbent broadcasters and set forth the timeta-
+ble and terms under which the transition to DTV would take 
+place.  In the Sixth Report and Order, 12 F.C.C.R. 14588 
+(1997), the FCC promulgated the final DTV Table and set 
+forth its rationale for the decisions reflected therein.  In 
+response to petitions for reconsideration, the FCC reaffirmed, 
+clarified, and, in some measure, revised its decisions in two 
+rounds.  See Memorandum Opinion and Order on Reconsid-
+eration of the Fifth Report and Order ("Service Reconsidera-
+tion"), 13 F.C.C.R. 6860 (1998);  Memorandum Opinion and 
+Order on Reconsideration of the Sixth Report and Order 
+("Allotment Reconsideration"), 13 F.C.C.R. 7418 (1998);  Sec-
+ond Memorandum Opinion and Order on Reconsideration of 
+the Fifth and Sixth Report and Orders ("SMOOR"), 14 
+F.C.C.R. 1348 (1998).
+
+__________
+     4  On December 27, 1996, the FCC released its Fourth Report 
+and Order, 11 F.C.C.R. 17771 (1996), which adopted a technical 
+DTV standard.  Petitioners do not challenge the decisions reflected 
+therein.
+
+     In Part II of this opinion we address whether the FCC was 
+statutorily barred from issuing DTV licenses in the Fifth 
+Report and Order, and if not, whether the FCC arbitrarily 
+failed to grant a second DTV channel to Pappas Telecasting 
+of Southern California, Entravision Communications Compa-
+ny, Corridor Television, and Paxson Communications Corpo-
+ration.  In Part III we address whether the FCC arbitrarily 
+decided not to upgrade the service area covered by the DTV 
+allotments for Community Television, Inc. and Paxson Com-
+munications Corporation.  In Part IV we address whether the 
+FCC arbitrarily deviated from its service-replication policy 
+when assigning Minority Television Project, Inc.'s digital 
+allotment.  And, in Part V we address whether the FCC 
+abused its discretion in eliminating Channel 29 and reassign-
+ing its spectrum when the Pennsylvania Telecasters Associa-
+tion sought to apply for a construction permit for the channel 
+and its petition to waive the Freeze Order was pending.
+
+                               II.
+
+     Pappas Telecasting of Southern California, Corridor Televi-
+sion, Paxson Communications Corporation, and Entravision 
+Communications Company (collectively "the pending appli-
+cants") contend that the FCC unlawfully deprived them of a 
+second channel for digital broadcasting during the transition 
+period.  The FCC's licensing scheme for NTSC channels has 
+two stages.  See Service Reconsideration, 13 F.C.C.R. at 6862 
+& n.7.  A potential broadcaster first applies for a permit to 
+construct a television station, and, if the permit is granted, 
+the permittee then applies for a broadcast license.  Id.  The 
+FCC proposed to provide a DTV channel to all parties that 
+held a broadcast license, a construction permit, or had applied 
+for a construction permit as of the October 24, 1991, adoption 
+of the NPRM.  See Second Report/Further Notice, 7 
+F.C.C.R. 3340, 3342-44 (1992).  In the event of a "spectrum 
+shortfall" in some communities, licensees and permittees 
+would receive preference.  Id.;  see also Third Report/ 
+Further Notice, 7 F.C.C.R. 6924, 6928 (1992).  Pappas and 
+Corridor had both applied for construction permits by Octo-
+
+ber 24, 1991, and were thus, at the time, in the pool of 
+broadcasters eligible for a second channel.
+
+     However, during the rulemaking, Congress passed the 1996 
+Act, which addressed the issue of eligibility for additional 
+television broadcast spectrum in the following terms:
+
+     If the Commission determines to issue additional licenses 
+     for advanced television services, the Commission--(1) 
+     should limit the initial eligibility for such licenses to 
+     persons that, as of the date of such issuance, are licensed 
+     to operate a television broadcast station or hold a permit 
+     to construct such a station (or both);  and (2) shall adopt 
+     regulations that allow the holders of such licenses to 
+     offer such ancillary or supplementary services on desig-
+     nated frequencies as may be consistent with the public 
+     interest, convenience, and necessity.
+     
+47 U.S.C. s 336(a).
+
+     In the Fifth Report and Order, the FCC announced that, 
+pursuant to s 336(a)(1), it had limited initial eligibility for a 
+DTV channel to existing licensees and permittees as of April 
+3, 1997.  12 F.C.C.R. at 12814-15.  The Fifth Report and 
+Order also "modified" the licenses or permits of eligible 
+broadcasters to grant them an "additional" license for use of a 
+DTV channel, subject to the conditions set forth therein.  Id. 
+at 12838.  The FCC embodied its grant of these DTV licenses 
+in its final DTV Table of Allotments.  See Sixth Report and 
+Order, 12 F.C.C.R. at 14693, app. B.  Recognizing that the 
+final allocation excluded some broadcasters who had been 
+considered eligible for a DTV channel prior to the 1996 Act, 
+the FCC stated that it would "give particular consideration 
+for assigning temporary DTV channels to new licensees who 
+applied on or before October 24, 1991, given the reliance that 
+these parties may have placed on rules we adopted before 
+passage of the 1996 Act."  Fifth Report and Order, 12 
+F.C.C.R. at 12816a n.26.
+
+     In its second opinion on reconsideration of the Fifth and 
+Sixth Reports (SMOOR), the FCC denied requests for paired 
+channels by those permittees and licensees whose applications 
+
+had been pending as of October 24, 1991, but were not 
+granted until after April 3, 1997.  While noting its stated 
+intent in the Fifth Report and Order to give "particular 
+consideration" to such applicants, the FCC pointed out that it 
+had also notified them of their low priority should there be 
+insufficient spectrum available for DTV channels.  SMOOR, 
+14 F.C.C.R. at 1358-60 & n.36.  The FCC also noted that, in 
+reconsidering the Fifth Report (Service Reconsideration), it 
+had granted such applicants authority either to construct 
+DTV stations on their NTSC channels immediately, or to 
+convert to DTV service later, and had streamlined the appli-
+cation process for such analog-to-digital modification.  Id. at 
+1359-60 (citing Service Reconsideration, 13 F.C.C.R. at 6864-
+66).
+
+     A. s 308(a)'s Written-Application Requirement.  Hav-
+ing been deprived of "initial eligibility" for a DTV allotment 
+by the 1996 Act, the pending applicants first raise a statutory 
+challenge that, if successful, would invalidate the FCC's en-
+tire DTV licensing scheme.  In the Fifth Report and Order, 
+the FCC set forth a three-stage process by which it first 
+determined that all existing broadcasters and permittees as of 
+April 3, 1997, were granted a digital license to broadcast on 
+an additional channel.  12 F.C.C.R. at 12838-40.5  The FCC 
+then established a procedure by which licensees and permit-
+tees would apply to construct facilities for digital transmission 
+and then apply to test and use those facilities.  Id. at 12840-
+48.  Although the FCC stated in the Fifth Report and Order 
+that it was "issu[ing]" DTV licenses, it at the same time 
+clarified that the licenses "issued" in fact were modifications 
+of existing analog television permits or licenses.  Id. at 12838.
+
+     The pending applicants contend that the FCC's "issuance" 
+of these DTV licenses contravened s 308(a), which provides in 
+part that the FCC "may grant construction permits and 
+station licenses, or modifications or renewals thereof, only 
+
+__________
+     5  The three stages are (1) the initial modified license for DTV, 
+(2) certification or application for a construction permit, and (3) 
+application for a license to cover a construction permit for a DTV 
+facility.  Id.
+
+upon written application therefor received by it," subject to 
+exceptions in times of emergency.  47 U.S.C. s 308(a).  They 
+maintain that the Communications Act required each incum-
+bent broadcaster to file a written application for an initial 
+DTV license with the FCC.  The second and third stages of 
+the process outlined in the Fifth Report and Order each 
+require a written application.  In the pending applicants' 
+view, the FCC did not comply with s 308(a) until it issued 
+DTV licenses pursuant to the third stage of the process set 
+forth in the Fifth Report and Order.  Thus, they continue, 
+the first such license was issued on February 5, 1999, and 
+that date should be used for determining "initial eligibility" 
+under s 336(a)(1).  Using this calculus, the pending appli-
+cants deem themselves initially eligible for a DTV channel 
+because all of their respective NTSC construction permits 
+had been granted prior to February 1999.
+
+     As an initial matter, the FCC contends that this challenge 
+was not raised below and thus is not subject to review.  
+Although it appears that no petitioner directed the FCC's 
+attention specifically to s 308(a) during the rulemaking, com-
+ments by another party to that proceeding provided the FCC 
+with a sufficient opportunity to consider the issue such that 
+judicial review is proper.  See 47 U.S.C. s 405(a).  Specifical-
+ly, the pending applicants rely on the comments of the Media 
+Access Project ("MAP"), that because DTV licenses would be 
+new licenses, the FCC was statutorily required by 47 U.S.C. 
+s 308(b) to determine that each broadcaster receiving such a 
+license was financially qualified.  MAP's comments logically 
+implicated s 308(a)'s written application requirement because 
+they were directed to the contents of such applications.
+
+     On the merits, the court reviews the FCC's interpretation 
+of the Communications Act under the now-familiar standard 
+set forth in Chevron U.S.A. Inc. v. Natural Resources De-
+fense Council, Inc., 467 U.S. 837, 842-843 (1984), by which the 
+court considers "whether Congress has directly spoken to the 
+precise question at issue," id. at 842, and if it has not, 
+"whether the agency's answer is based on a permissible 
+construction of the statute."  Id. at 843.  We do not agree 
+that the plain language of s 308(a) compels the crimped 
+
+reading advocated by the pending applicants.  Because the 
+recipients of the initial DTV licenses were broadcasters with 
+written applications already on file, s 308(a) must be read in 
+conjunction with 47 U.S.C. s 316, which allows the FCC to 
+modify existing licenses,6 and new s 336, added by the 1996 
+Act, which directed the FCC to limit initial eligibility for DTV 
+licenses to incumbent broadcasters (or those holding con-
+struction permits for a television broadcast facility).  Because 
+Congress did not answer the question of how these provisions 
+apply to the issuance of DTV licenses, we will uphold the 
+FCC's harmonization of the relevant provisions so long as it is 
+reasonable.
+
+     In concluding that the FCC's interpretation of its modifica-
+tion authority was reasonable, we are instructed by the 
+court's previous reconciliation of the apparent conflict be-
+tween s 308(a) and s 316(a)(1), in holding that "[t]he Com-
+mission has power under Section 316(a) ... to modify a 
+license without an application for the modification having 
+been made by the licensee."  Peoples Broadcasting Co. v. 
+United States, 209 F.2d 286, 287 (D.C. Cir. 1953).  While in 
+Peoples Broadcasting, the court affirmed the FCC's power to 
+modify a broadcaster's license by requiring it to shift from 
+Channel 4 to Channel 8, nothing in the statute or that opinion 
+suggests that the FCC's modification power is limited to 
+individual licenses.  Rather, the FCC may modify entire 
+
+__________
+     6  Section 316(a)(1) provides:
+
+     Any station license or construction permit may be modified by 
+     the Commission either for a limited time or for the duration of 
+     the term thereof, if in the judgment of the Commission such 
+     action will promote the public interest, convenience, and neces-
+     sity, or the provisions of this chapter or of any treaty ratified 
+     by the United States will be more fully complied with.  No 
+     such order of modification shall become final until the holder of 
+     the license or permit shall have been notified in writing of the 
+     proposed action and the grounds and reasons therefor, and 
+     shall be given reasonable opportunity, of at least thirty days, to 
+     protest such proposed order of modification;  except that, 
+     where safety of life or property is involved, the Commission 
+     may by order provide, for a shorter period of notice.
+     
+classes of licenses.  Further, the issuance of transitory DTV 
+licenses in the Fifth Report and Order was part of a process 
+that modifies broadcasters' underlying permits and licenses in 
+a way analogous to the modification upheld in Peoples Broad-
+casting:  at the end of the transition period, broadcasters will 
+have migrated from one channel to another.  While there 
+admittedly is a difference in kind from the circumstances in 
+People's Broadcasting, the analog-to-digital transition is limit-
+ed to a one-time change.
+
+     Hence, what the FCC did in the Fifth Report and Order is 
+unlike the situation in MCI Telecommunications Corp. v. 
+AT&T, 512 U.S. 218 (1994), on which the pending applicants 
+rely.  There the Supreme Court held that the FCC's power 
+to "modify" the requirements of 47 U.S.C. s 203, under which 
+telecommunications carriers file their rates in a tariff with the 
+FCC, did not authorize the FCC to do away with tariffs 
+altogether, and that no deference was due to an interpreta-
+tion that went beyond the meaning that the statute could 
+bear.  Id. at 229.7  While the pending applicants contend that 
+the same reasoning applies here because the FCC's issuance 
+of an initial DTV license cannot reasonably be said to modify 
+a broadcaster's existing license, the FCC has not wrought a 
+fundamental change to the terms of those permits and licens-
+es.  Broadcasters will begin and end the transition period 
+broadcasting television programming to the public under very 
+similar terms.  Although the FCC chose not to require 100% 
+simulcasting on the NTSC and DTV channels throughout the 
+transition, and Congress disfavored such an approach, see 47 
+U.S.C. s 336(a)(2), broadcasters will provide essentially the 
+same services, with some flexibility to provide ancillary ser-
+vices as well, under their licenses during the transition.  See 
+Service Reconsideration, 13 F.C.C.R. at 6873-74.  Because 
+the issuance of initial DTV licenses to existing broadcasters 
+was not clearly the issuance of new "station licenses" under 
+s 308(a) and because the terms of the DTV licenses can 
+reasonably be considered modifications of existing licenses, 
+
+__________
+     7  Subsequently, Congress authorized detariffing.  See MCI 
+Worldcom Inc. v. FCC, 209 F.3d 760 (D.C. Cir. 2000).
+
+the FCC could reasonably deem s 308(a) inapplicable and 
+issue DTV licenses pursuant to s 316.
+
+     Finally, the FCC reasonably construed s 336 to allow for 
+the three-stage process set forth in the Fifth Report and 
+Order.  In the 1996 Act, Congress preempted the ongoing 
+DTV proceeding only to a limited degree.  Section 336 over-
+ruled the FCC's decision to include applicants for construc-
+tion permits in the pool of broadcasters eligible for a second 
+channel during the transition period.  In most other respects, 
+Congress left the details of managing the analog-to-digital 
+transition to the FCC.  Nothing in s 336 foreclosed the FCC 
+from issuing initial DTV licenses on a date certain.  More-
+over, because Congress limited initial eligibility for DTV 
+licenses to incumbent broadcasters, the FCC could reason-
+ably construe s 336(a)(1)'s reference to "additional licenses 
+for advanced television services" to encompass a modification 
+of existing licenses and permits to allow for advanced televi-
+sion services in addition to then-existing analog broadcasting 
+services.  Having adopted a paired channel approach, giving 
+a DTV license to the eligible broadcasters, the FCC's inter-
+pretation of its modification power reasonably followed.  For 
+as the FCC explained at oral argument, the two reasons for 
+requiring the filing of an application for a new license--to 
+determine who is eligible and how to award licenses in a 
+competitive proceeding--are inapplicable here:  Congress has 
+defined who is eligible and there is to be no competition.
+
+     For these reasons we conclude that in the Fifth Report and 
+Order the FCC reasonably construed the Communications 
+Act to allow it to modify existing broadcast licenses and 
+construction permits to render incumbent broadcasters ini-
+tially eligible to provide DTV services consistent with 
+s 336(a) and pursuant to s 316(a)(1) without having received 
+written applications for "station licenses" covered by s 308(a).
+
+     B. The April 3, 1997, Cut-Off for DTV Eligibility. In 
+the alternative, the pending applicants contend that even if 
+the FCC had authority to issue initial DTV licenses in the 
+Fifth Report and Order without having received written 
+applications, the FCC unreasonably interpreted s 336 as 
+
+requiring it to issue DTV licenses to those eligible under 
+s 336(a)(1) as of a single date rather than account for those 
+with equities on their side, such as Pappas Telecasting of 
+Southern California and Corridor Television who had been 
+eligible for a second channel prior to the 1996 Act.  Further, 
+they contend that the FCC failed to adequately explain why it 
+chose not to grant them a second channel.
+
+     Our review is limited to whether the FCC acted reasonably 
+and adequately explained its decision not to grant the pending 
+applicants a second channel for the transition period.  It 
+clearly did.  The FCC left no mystery as to its rationale.  
+Notwithstanding the pending applicants' equitable arguments 
+arising out of their disappointment resulting from the 1996 
+Act, the FCC decided that the spectrum that they sought 
+would be put to better use by providing it to new full power 
+broadcasters as well as new and displaced low power televi-
+sion (LPTV) and TV translator stations.  See SMOOR, 14 
+F.C.C.R. at 1359-60.  The pending applicants have not 
+shown, in light of s 336, that the date-certain approach was 
+"patently unreasonable, having no relationship to the underly-
+ing regulatory problem."  Home Box Office, Inc. v. FCC, 567 
+F.2d 9, 60 (D.C. Cir. 1977);  see also Cassell v. FCC, 154 F.3d 
+478, 485 (D.C. Cir. 1998).  Moreover, the FCC adequately 
+addressed the equitable concerns of those applicants who 
+were granted construction permits after April 3, 1997, by 
+allowing them to convert to DTV on the channel they are 
+granted and to apply to maximize their service area.  See 
+Service Reconsideration, 13 F.C.C.R. at 6863-66.8  As to the 
+substance of the FCC's rationale, it is hardly arbitrary and 
+capricious.  The agency reasonably balanced competing de-
+mands for spectrum and allowed the pending applicants con-
+siderable flexibility in making the transition to DTV.9
+
+__________
+     8  The FCC's reference in the Fifth Report and Order to 
+"particular consideration" for those in the pending applicants' posi-
+tion did not guarantee any particular result, and certainly did not 
+obligate the FCC to take steps beyond the careful balancing of 
+interests reflected in its decision to deny paired channels while 
+increasing flexibility for analog-to-digital conversions for those in 
+the pending applicants' position.
+
+                               III.
+
+     Community Television, Inc. ("Community") and Paxson 
+Communications Corporation ("Paxson"), each received a sec-
+ond channel but contend that their allotment was inadequate 
+because it does not serve the upgraded service area for which 
+each had applied.  As a matter of policy, the FCC decided 
+that it would allot DTV channels in a manner to replicate a 
+broadcaster's existing NTSC service area.  See Sixth Further 
+Notice, 11 F.C.C.R. at 10974-75.  In the Sixth Further 
+Notice, the FCC indicated that "we are proposing to allow 
+stations to maximize or increase their service area where such 
+an increase would not create additional interference," id. at 
+10975;  however, the FCC cautioned that allowing such modi-
+fications would affect the DTV Table, causing both technical 
+difficulties and affecting the ability of broadcasters to com-
+ment meaningfully on the draft DTV Table.  Id. at 10993.
+
+     To balance broadcasters' individual interests in increasing 
+their service areas against the broader interests in establish-
+ing a workable DTV Table, the FCC announced in the Sixth 
+Further Notice that it would "henceforth condition the grant 
+of applications for modifications of technical facilities, includ-
+ing those for applications on file before the date of the 
+adoption of this Further Notice but granted after that date, 
+
+__________
+     9  Pappas contends further that the FCC arbitrarily failed to 
+consider its unique circumstances in that it had applied for a 
+construction permit prior to October 24, 1991 and had presented the 
+FCC with a motion for leave to supplement its reconsideration 
+petition to show that a DTV channel was available in its community 
+of Avalon, California.  The FCC did not grant Pappas' motion for 
+leave and was therefore not obliged to consider its supplement.  See 
+47 C.F.R. s 1.429(d).  To the extent that the FCC was obliged to 
+articulate its reasons for not granting leave, its failure to do so was 
+harmless.  See 5 U.S.C. s 706.  In rejecting a very similar conten-
+tion raised by another party, the FCC made clear that the availabil-
+ity of another channel was immaterial to its discretionary decision 
+not to award a DTV channel to petitioners.  See SMOOR 14 
+F.C.C.R. at 1358-59.
+
+on the outcome of our final decision on the DTV Table of 
+Allotments."  Id.  Commenters complained that those broad-
+casters who had applied to upgrade their service prior to July 
+25, 1996, the date of issuance of the Sixth Further Notice, did 
+so with the expectation that they would receive corresponding 
+digital upgrades and that it would be economically infeasible 
+to invest in an upgrade of analog service only for the transi-
+tion period.
+
+     The FCC partially accommodated such broadcasters.  The 
+final DTV Table, issued in the Sixth Report and Order, 
+reflected NTSC upgrades that had been granted in the 
+interim between the Sixth Further Notice and the Sixth 
+Report and Order, that is, between July 25, 1996 and April 3, 
+1997.  Applications that had not been acted upon as of April 
+3, 1997, remained subject to the condition of non-interference 
+with the DTV Table, and, if granted, would not include a 
+corresponding digital upgrade.  See SMOOR, 14 F.C.C.R. at 
+1362-63.  Community is licensed to operate Channel 57 in 
+Atlanta, Georgia and had applied to upgrade its NTSC ser-
+vice area prior to the adoption of the Sixth Further Notice on 
+July 25, 1996.  Because the FCC did not grant Community's 
+application until May 1999, Community's DTV channel, Chan-
+nel 41, does not replicate its upgraded NTSC service area.  
+Similarly, Paxson had filed eleven upgrade applications prior 
+to July 25, 1996, each of which was granted after April 3, 
+1997, and therefore did not include a corresponding digital 
+upgrade.  Each party may, however, apply for such a digital 
+upgrade.  See 47 C.F.R. s 73.622, 73.623.
+
+     Community and Paxson first contend that the FCC's ac-
+tions were impermissibly retroactive by subjecting pending 
+upgrade applications to the compatibility principle.  However, 
+the mere filing of upgrade applications did not vest petition-
+ers with a legally cognizable expectation interest.  See 
+Chadmoore Comm., Inc. v. FCC, 113 F.3d 235, 240-41 (D.C. 
+Cir. 1997).  Thus the FCC was free to alter its criteria for 
+considering those applications.  Next, Community and Pax-
+son contend, in essence, that the FCC did not try hard 
+enough to accommodate pending applications during the 
+course of assembling the DTV Table of Allotments.  Neither 
+
+party has demonstrated that the FCC's failure to fashion the 
+DTV Table in a manner that would have granted all upgrade 
+applications pending on July 25, 1996, was a product of 
+administrative whim or sloth.  On the contrary, the FCC 
+found that it was not feasible to grant all of the NTSC 
+modification applications.  SMOOR, 14 F.C.C.R. at 1362.
+
+     Paxson contends, however, that it is unable to demonstrate 
+that the FCC acted arbitrarily because the FCC failed to 
+explain why some upgrade applications were granted while 
+others were not.  It continues, the FCC cannot reasonably 
+defend its decision to treat those broadcasters whose upgrade 
+applications were granted after April 3, 1997, differently than 
+those whose applications were granted before that date with-
+out explaining how it decided which applications to grant on 
+which dates.  But the FCC explained that it granted those 
+applications that were consistent with the DTV Table and 
+deferred action on those that were not.  We presume that the 
+FCC processed the pending applications with administrative 
+regularity, for neither Community nor Paxson has identified 
+any evidence that rebuts that presumption.  See, e.g., Louisi-
+ana Ass'n of Indep. Producers and Royalty Owners v. FERC, 
+958 F.2d 1101, 1119 (D.C. Cir. 1992);  see also Wilson v. 
+Hodel, 758 F.2d 1369, 1372-73 (10th Cir. 1985).  Further-
+more, while both Paxson and Community assert that some 
+later-filed applications were granted prior to some earlier-
+filed applications, there is no indication that administrative 
+irregularities occurred.  Paxson's real complaint is that the 
+FCC fashioned the DTV Table in such a way that its upgrade 
+applications were processed more slowly than others.  How-
+ever, Paxson has not demonstrated why this processing, or 
+the compromises made in the DTV Table, were arbitrary.
+
+                               IV.
+
+     Minority Television Project ("MTP"), licensee of Channel 
+32 in San Francisco, California, contends that the FCC's 
+"service replication" policy unlawfully puts it at a competitive 
+disadvantage because the policy unnecessarily entrenches the 
+disparity between VHF and UHF channels.  Most analog 
+
+UHF stations have smaller service areas than analog VHF 
+stations, for historical and technical reasons.  See Electronic 
+Indus. Ass'n Consumer Elec. Group v. FCC, 636 F.2d 689, 
+691-92 (D.C. Cir. 1980).  UHF stations are more susceptible 
+to interference.  See id. at 698 n.17.  Digital technology 
+mitigates interference problems on the UHF band. See Sixth 
+Report and Order, 12 F.C.C.R. at 14603-04.  Nonetheless, 
+under either an analog or digital transmission system, broad-
+casting on UHF channels to reach a given audience requires 
+higher power than broadcasting on VHF channels.  The FCC 
+set power parameters of 50 kW to 1000kW for digital UHF 
+channels.  Id. at 14605.  This meant that some UHF channels 
+would see their service area increased by the minimum power 
+requirement while other broadcasters, who had an analog 
+VHF channel but received a digital UHF channel, would see 
+their service area decreased because of the ceiling on power 
+that could be used for digital broadcasting on the UHF band.  
+MTP's analog and digital channels are both in the UHF band.
+
+     MTP's contention that the FCC's service-replication policy 
+arbitrarily entrenches the historical VHF/UHF disparity is in 
+essence a dispute about a policy decision properly within the 
+province of the FCC.  Initially the FCC had adopted an 
+approach that would have maximized the service area of each 
+DTV allotment, an approach favored by MTP, and the FCC 
+sought comment on this allocation policy.  See Sixth Further 
+Notice, 11 F.C.C.R. at 10974-75.  However, the FCC ulti-
+mately sided with the numerous broadcasters that preferred 
+to replicate the status quo to the greatest extent possible.  
+See Sixth Report and Order, 12 F.C.C.R. at 14605-07.  While 
+MTP is disappointed by the FCC's choice of its service-
+replication policy, MTP fails to demonstrate how that choice 
+was unlawful.
+
+     In the alternative, MTP contends that the overall DTV 
+allotment for San Francisco, and the allotment MTP received 
+at the minimum UHF power level of 50 kW, are arbitrary 
+because MTP's DTV channel will not reach the audience 
+currently served.  MTP does not seriously dispute that its 
+DTV signal will propagate along the same contours as does 
+its NTSC signal.  Rather MTP maintains that its DTV allot-
+
+ment lacks sufficient power to penetrate physical obstacles, 
+such as buildings and hills, and therefore its DTV channel will 
+not reach viewers who currently receive its NTSC service.  
+MTP is further concerned that neighboring allotments will 
+not allow it to increase its power if necessary.  However, 
+MTP presents no data to demonstrate that the power level of 
+its allotment is so inadequate as to amount to an arbitrary 
+departure from the service-replication policy.10
+
+                                V.
+
+     Finally, Pennsylvania Telecasters Association ("PTA") chal-
+lenges the FCC's decision to reallocate the spectrum that had 
+been set aside for Channel 29 in State College, Pennsylvania 
+without first considering PTA's application to broadcast on 
+Channel 29.  Channel 29 was one of many vacant NTSC 
+allotments that were deleted in the course of compiling the 
+DTV Table.
+
+     To implement its policy to reconfigure spectrum allotments 
+to enable broadcasters using one channel to use two, the FCC 
+needed to identify more than 1900 channels available for 
+assignment to incumbent broadcasters.  See Sixth Further 
+Notice, 11 F.C.C.R. at 10972.  The FCC had issued its Freeze 
+Order in 1987, recognizing that any transition plan would 
+require considerable spectrum.  Among the vacant channels 
+covered by the Freeze Order was Channel 29.  The FCC had 
+assigned the channel to State College in 1972 and it had 
+remained vacant until imposition of the Freeze Order in 1987.  
+In 1996, the FCC issued its proposed DTV Table in the Sixth 
+Further Notice and announced that to facilitate finalization of 
+the DTV Table, it would stop accepting applications for new 
+NTSC stations as of September 20, 1996.  See Sixth Further 
+
+__________
+     10  Moreover, should subsequent events bear out MTP's con-
+cerns, the FCC states in its brief on appeal that it retains authority 
+to make adjustments to mitigate interference problems that may 
+arise during the analog-to-digital transition.  The FCC points out 
+that it has already demonstrated such flexibility in allowing Moun-
+tain Broadcasting Corporation to trade DTV channels with another 
+station.  See supra note 1.
+
+Notice, 11 F.C.C.R. at 10993.  The FCC noted further that 
+"[t]he DTV Table proposed herein was developed on the 
+assumption that the existing vacant NTSC allotments for 
+which no construction permit application is pending will be 
+deleted."  Id.
+
+     On September 20, 1996, PTA and another would-be broad-
+caster petitioned the FCC to waive the application of the 
+Freeze Order to Channel 29 and to accept their applications 
+for a construction permit for that channel.  When the FCC 
+issued its final DTV Table in the Sixth Report and Order, the 
+FCC had reassigned the spectrum allotted for Channel 29 in 
+State College to DTV channels serving Johnstown, Pennsyl-
+vania and Williamsport, Pennsylvania. PTA petitioned for 
+reconsideration, arguing that the elimination of Channel 29 
+was contrary to the FCC's commitment to "maintain and 
+protect those vacant NTSC allotments that are the subject of 
+pending applications."  See Sixth Report and Order, 12 
+F.C.C.R. at 14639.  The FCC denied reconsideration on the 
+ground that PTA's "application has not been accepted, and we 
+have not acted on its waiver request.  The allotment at issue 
+was needed and was used for DTV."  Allotment Reconsidera-
+tion, 13 F.C.C.R. at 7601-02.
+
+     PTA's petition for review must be denied because it mis-
+construes the FCC's policy.  PTA filed its waiver petition and 
+application for Channel 29 in response to that portion of the 
+Sixth Further Notice in which the FCC stated that it would 
+stop accepting applications for vacant analog channels in 30 
+days and that "we will continue our current policy of consid-
+ering requests for waiver of our 1987 freeze Order on a case-
+by-case basis."  11 F.C.C.R. at 10992.  PTA misread this 
+statement as a promise to consider new applications for 
+unused channels in freeze areas.  To the contrary, the FCC 
+promised only that it would consider requests to lift the 
+freeze on a case-by-case basis, not that it would consider 
+unused channel applications prior to lifting the freeze.  In-
+deed, the FCC indicated that applications requiring a lifting 
+of the freeze would not be accepted for filing unless there was 
+a public notice to that effect.  Id.  The FCC ultimately 
+explained that neither PTA's waiver request nor the applica-
+
+tion had been accepted pursuant to the Freeze Order, and 
+that elimination of Channel 29 and reallocation of its spec-
+trum were necessary to accommodate the DTV Table.  Allot-
+ment Reconsideration, 13 F.C.C.R. at 7601-02.
+
+     The FCC reasonably interpreted its commitment in the 
+Sixth Report and Order to maintain and protect vacant 
+NTSC allotments for which applications were pending, 12 
+F.C.C.R. at 14639, to be limited to applications for vacant 
+allotments not subject to the Freeze Order or for which a 
+waiver of the Freeze Order had been granted.  Because under 
+the terms of the Sixth Report and Order PTA's waiver 
+petition did not constrain the FCC's authority to eliminate 
+Channel 29, the FCC acted consistently with its stated expec-
+tation that "the existing vacant NTSC allotments for which no 
+construction permit application is pending will be deleted."  
+Sixth Further Notice, 11 F.C.C.R. at 10993.11
+
+                            * * * * *
+
+     We conclude as we began.  The FCC faced a host of 
+difficult decisions in designing rules for the transition from 
+analog to digital television broadcasting.  After years of work, 
+a small number of the parties to the proceeding have sought 
+relief in the court from unfavorable FCC interpretations and 
+decisions.  Even if the compromises reflected in the chal-
+lenged FCC decisions were not always Solomonic in their 
+wisdom, they were not required to be.  Given the relevant 
+statutory directives and regulations, and the competing inter-
+ests of the various broadcasters and viewers concerning use 
+of limited spectrum, the FCC reasonably and permissibly 
+interpreted its obligations in allocating the valuable public 
+
+__________
+     11  For this reason, PTA's contention based on the Due Process 
+Clause, U.S. Const. amend V, is without merit;  the FCC did not 
+deprive PTA of a property or liberty interest by deleting Channel 
+29.  Similarly, the FCC did not violate 47 U.S.C. s 307(b), which 
+directs the FCC to ensure equitable distribution of radio service 
+among communities, because that section applies to the FCC's 
+consideration of "applications for licenses," which PTA's waiver 
+petition was not.
+
+resource that is broadcast spectrum.  Accordingly, we deny 
+the petitions for review.
+
+                                      

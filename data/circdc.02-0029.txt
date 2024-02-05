@@ -1,0 +1,643 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued November 8, 2001   Decided January 4, 2002 
+
+                           No. 00-1542
+
+                       Rogers Corporation, 
+                            Petitioner
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+             Petition for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Steven Ferrey argued the cause for petitioner.  With him 
+on the briefs was Lee D. Hoffman.
+
+     D. Judith Keith, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With her on the brief was 
+John C. Cruden, Acting Assistant Attorney General.
+
+     Before:  Ginsburg, Chief Judge, Rogers and Garland, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  The Rogers Corporation ("the com-
+pany") petitions for review of the decision of the Environmen-
+tal Appeals Board assessing a penalty of $281,400 for violation 
+of section 15 of the Toxic Substances Control Act, 15 U.S.C. 
+s 2614 (1994).  The company challenges the decision on a 
+variety of grounds.  Suffice it to say, the company contends 
+that the Board's affirmance of the grant of the agency's 
+motion for partial accelerated decision, which requires a 
+finding that "no genuine issue of material fact exists," 40 
+C.F.R. s 22.20(a), was arbitrary and capricious.  We agree, 
+and, accordingly, we grant the petition and remand the case 
+to the Board for further proceedings.
+
+                                I.
+
+     The parties stipulated to the following facts:  The company, 
+a Massachusetts corporation that has its principal place of 
+business in Connecticut, owns and operates a manufacturing 
+facility that produces polyurethane elastomers and foams.  
+During the relevant time period, the company used a heat 
+transfer system known as "HTS 975," which was located in a 
+basement room.  The HTS 975 used oil as a heat transfer 
+medium, and oil occasionally dripped or wept from the pump 
+bearings and then collected on the concrete floor beneath the 
+HTS 975 in a shallow concrete berm. From time to time, the 
+company pumped the oil from the berm under the HTS 975 
+into drums, sampled the contents of the drums for hazardous 
+waste constituents, and shipped the drums off-site for dispos-
+al.  From at least 1988 to at least March 1992, analysis of the 
+samples of residual heat transfer fluid taken from the berm 
+did not reveal concentrations of polychlorinated biphenyls 
+("PCBs") equal to or greater than 50 parts per million 
+("ppm").  In April 1993, however, sampling of 16 drums of 
+waste oil revealed PCBs in excess of 50 ppm in nine drums.  
+The company was notified of the excessive PCBs in June 
+1993, and the sixteen drums were shipped off-site for disposal 
+in September 1993.  In December 1993, the Connecticut 
+Department of Environmental Protection inspected the com-
+pany, found PCBs in excess of 50 ppm in two of five samples 
+of oil taken from the HTS 975 room, and cited the company.  
+
+Four months later, the Department ordered the company to 
+conduct certain studies and to take remedial actions. In 
+response, the company continued to investigate the source of 
+the excessive PCBs and undertook remedial actions.
+
+     In September 1994, the Environmental Protection Agency 
+("the agency") charged the company with improper disposal 
+of PCBs from June 16, 1993, until on or around December 1, 
+1993 in violation of 40 C.F.R. s 761.60 and s 15 of the Toxic 
+Substance Control Act, 15 U.S.C. 2614, and proposed a civil 
+penalty of $226,750. The company filed an answer in October 
+1994, and, pursuant to 40 C.F.R. s 22.15(c), requested a 
+hearing.  In its prehearing memorandum, the company stated 
+that it would offer evidence that it had not used any PCB-
+containing heat transfer fluids since 1972, and that the only 
+logical source of the PCBs in the residual heat transfer fluid 
+was the concrete floor and soil underneath the HTS 975.  In 
+a supplemental prehearing memorandum, the company prof-
+fered Robert S. Potterton as an expert witness who would 
+"provide an opinion as to the physical/chemical basis for the 
+unexpected appearance, in or about 1993, of PCB concentra-
+tions equal to or greater than 50 ppm in the fluid that was 
+pumped from the bermed containment area in the vicinity of 
+HTS 975...."  Mr. Potterton would also testify about remed-
+iation efforts by the company.
+
+     Just short of three years after the agency filed its charge, 
+on September 12, 1997, the company filed a motion for an 
+accelerated decision, pursuant to 40 C.F.R. s 22.20(a).  The 
+company sought application of the agency's historic waste 
+exemption for PCB-containing fluids placed in a disposal site 
+prior to February 17, 1978.  Anticipating that the agency 
+would rely on In the Matter of Standard Scrap Metal Compa-
+ny, TSCA Appeal No. 87-4, 1990 E.P.A. App. LEXIS 8 
+(E.P.A. Aug. 2, 1990), the company argued that the phrase 
+"disposal site" did not refer to a narrow subcategory of places 
+for containing PCB-waste spilled or released prior to Febru-
+ary 17, 1978.  The company pointed to agency regulations 
+proposed December 6, 1994, clarifying that PCBs disposed of 
+
+prior to April 18, 1978, do not require further disposal action 
+unless a Regional Administrator finds that such historic waste 
+presents a risk to health or the environment from exposure.  
+See Disposal of Polychlorinated Biphenyls, 59 Fed. Reg. 
+62,788 (proposed Dec. 6, 1994) (codified at 40 C.F.R. 
+s 761.50(b)(3)).  The company asserted that this court had 
+acknowledged the validity of the proposed rule as a statement 
+of agency policy in General Electric Co. v. EPA, 53 F.3d 1324 
+(D.C. Cir. 1995), and that the Environmental Appeals Board 
+had relied on the proposed rule as support for the respon-
+dent's position in In re CWM Chemical Services, Inc., TSCA 
+Appeal No. 93-1, 1995 E.P.A. App. LEXIS 20 (E.P.A. May 
+15, 1995).  As evidentiary support for application of the 
+historic waste exemption, attached to the company's motion 
+for accelerated decision was an affidavit of Gerry L. Langeli-
+er, an engineer at the company for 33 years, stating that the 
+company had ceased using PCB-based oil in 1972, and that, 
+since then, oil seepage from the wet seals into the bermed 
+containment area under the HTS 975 had never before the 
+1993 tests contained PCB concentrations above 50 ppm.
+
+     The agency filed an opposition to the company's motion for 
+accelerated decision, a motion to file an amended complaint to 
+increase the duration of the charged violation and the pro-
+posed penalty to $300,300 (based on evidence that the spill 
+remained from June 16, 1993, until March 29, 1994, or later), 
+as well as its own motion for a partial accelerated decision on 
+liability.  The company opposed the agency's motion for a 
+partial accelerated decision, renewed its argument based on 
+the agency's interpretation of its regulations as reflected in 
+the proposed regulations, and also argued that the agency's 
+inference that a disposal took place in 1993 was unwarranted 
+in light of the undisputed fact that there was no ongoing 
+source of PCBs in the HTS 975.  Asserting that the question 
+of why PCBs suddenly showed up in 1993 berm samples was 
+a matter of speculation, the company stated that question was 
+irrelevant because there was no evidence of any spill or leak 
+
+at the company in 1993.  An attached affidavit from its 
+engineer stated that no piping containing PCB had been 
+connected to the HTS 975 after the system was drained of 
+PCB oils in 1972 and that, upon cleaning the HTS 975 room 
+floor and the discovery of cracks in the sump area, the 
+company discovered PCB contaminated soil underneath the 
+floor.
+
+     By Order of November 13, 1997, an administrative law 
+judge ("ALJ") granted the agency's motions to amend the 
+complaint and for partial accelerated decision on liability.  
+The ALJ denied the company's motion for accelerated deci-
+sion, and the company's request for oral argument, inasmuch 
+as the company had not set forth a basis for the request 
+"other than its generalized assertion that it is entitled to 
+judgment as a matter of law in this matter."  1997 Order on 
+Liability at 2.  The ALJ summarized the stipulated facts and 
+observed that the parties disagreed as to the legal inferences 
+to be drawn therefrom.  Noting that the company had offered 
+"no direct evidence showing when the uncontrolled discharges 
+at issue took place or how these discharges were caused," the 
+ALJ concluded that "the only plausible explanation for the 
+presence of PCBs at regulated levels in 1993 after years of 
+lower levels ... is that there was an uncontrolled discharge 
+in 1993."  Id. at 23.  Because the company failed to dispose of 
+the PCB-contaminated oil in the prescribed manner, the ALJ 
+found that there was an ongoing violation of the disposal 
+requirements of s 761.60(a).  The ALJ rejected the compa-
+ny's attempt to invoke the historic waste exemption because 
+(1) the berm under the HTS 975 was not a disposal site within 
+the meaning of the exemption;  and (2) the company had 
+failed to carry its burden of showing that the PCB spill 
+occurred prior to February 17, 1978. Of the two causation 
+theories suggested to the ALJ upon review of the evidence, 
+the ALJ concluded that the company's leaching-up theory, 
+whereby PCBs had leached up from the concrete floor and 
+soil into the oil in the berm, "strains the imagination to 
+envision," while the agency's theory that increased production 
+
+had dislodged residual PCBs remaining inside the HTS 975 
+"appears far more likely."  Id. at 24-25.  The ALJ according-
+ly found that there were no genuine issues of material fact, 
+and, upon rejecting the company's statute of limitations and 
+due process arguments, concluded that the agency was enti-
+tled to judgment as a matter of law on liability.
+
+     During the penalty phase of the proceedings in April 1998, 
+the company attempted to introduce new, exculpatory evi-
+dence that would show that the excessive PCBs in 1993 
+resulted from contamination of the samples by pre-1978 
+PCBs that had collected in the concrete and soil beneath the 
+berm.  The company proffered, consistent with the ALJ's 
+ruling that the new evidence would be considered only with 
+regard to the penalty, expert evidence relevant to the dura-
+tion of the violation.  The proffered evidence was twofold:  (1) 
+that, contrary to the agency's theory that oil continued to drip 
+and come into contact with PCB-contaminated oil in the 
+berm, which under the anti-dilution provision results in a 286-
+day violation, the State's sampling method in December 1993 
+entrained into the sample PCB-contaminated concrete, result-
+ing from the previous use of PCBs at the facility and their 
+release into the berm;  and (2) that, to a reasonable degree of 
+scientific certainty, Mr. Potterton opined that the company's 
+change in its method of collection of oil, from one type of 
+pump to a more efficient wet/dry vacuum system, which was a 
+more aggressive collection procedure, directly resulted in 
+PCB levels over 50 ppm by entraining concrete particles and 
+dust and introducing oils from cracks in the immediate sur-
+face of the slightly porous, PCB-contaminated concrete.  The 
+ALJ imposed a penalty of $281,400.
+
+     The Environmental Appeals Board ("Board"), upon de novo 
+review, affirmed the 1997 Order on liability and the $281,400 
+penalty.  The Board rejected the company's contention that 
+the Board should consider all the evidence in the administra-
+tive record including its new evidence explaining the source of 
+the PCB concentrations in excess of 50 ppm, ruling that its 
+review of an accelerated decision will "generally" be limited to 
+the evidence and arguments in the administrative record at 
+
+the time the accelerated decision was made.  The Board also 
+rejected the company's contention that the ALJ had erred in 
+refusing to consider relative to liability the new evidence 
+proffered at the penalty hearing, ruling that the law of the 
+case doctrine permitted the ALJ to reject the company's new 
+exculpatory evidence once liability had been determined.  The 
+Board further ruled that the company had failed to meet its 
+burden of production and persuasion to show as an affirma-
+tive defense that the historic waste exemption applied.  
+Based on the evidence that PCB contamination had been 
+found in the waste oil in previous years and that production 
+had increased significantly in 1993, and in view of the compa-
+ny's failure to carry its burden of showing that the PCBs 
+were released prior to February 17, 1978, the Board conclud-
+ed that the ALJ had reasonably inferred that the excessive 
+PCBs came from oil weeping from the HTS 975 rather than 
+PCBs leaching up from the concrete and soil beneath the 
+floor. Finally, the Board declined to apply the regulations 
+effective August 28, 1998, because the complaint had been 
+filed and liability determined before the new regulations 
+became effective.  The Board did not rule on the ALJ's 
+alternative holding that the company was not entitled to the 
+historic waste exemption because the berm was not a proper 
+disposal site.
+
+                               II.
+
+     On appeal, the company contends that the ALJ erred in 
+granting the agency's motion for accelerated decision on 
+liability by making, with no supporting evidence, a self-
+described technical inference that PCBs must have spilled in 
+1993, and then blocking all contrary evidence that the compa-
+ny sought to put in the record.  The company maintains that 
+the ALJ's reliance on the agency's inference was not only 
+contrary to the nature of accelerated decisions, which the 
+agency acknowledges are like summary judgment, but also 
+contrary to the agency's own 1979 regulatory scheme, which 
+presumed that PCB-containing oil would flush completely 
+from the company's heat transfer system within three months 
+of the introduction of non-PCB oils.  The company also 
+
+contends that the agency could not shift its burden of proof as 
+to its prima facie case, as was done in Standard Scrap, nor 
+penalize the company for historic PCB contamination in the 
+face of undisputed evidence that its source was pre-1978 PCB 
+oil.  The company further maintains that the agency's clarifi-
+cation of its regulations on the historic waste exemption 
+applies ab initio, citing Supreme Court and agency prece-
+dent.  Finally, the company contends that the agency imper-
+missibly blocked subsequent key evidence, and that it was a 
+violation of the company's due process right to fair notice to 
+penalize the company for an historic spill.
+
+                                A.
+
+     The Toxic Substances Control Act ("Act"), 15 U.S.C. 
+ss 2601-2692 (1994), provides for regulation of the use and 
+disposal of toxic substances prior to their manufacture, pro-
+cessing, distribution, and use in order to protect human 
+health and the environment.  Section 5 goes so far as to bar, 
+with only limited exceptions, the manufacture of a new chemi-
+cal substance or new use prior to notice to the Administrator 
+who, upon finding that there is a reasonable basis to conclude 
+such action presents or may present an unreasonable risk of 
+injury to health or the environment, may prohibit or place 
+restrictions on its manufacture, processing, or distribution.  
+15 U.S.C. s 2604.  The Act gives special attention, however, 
+to PCBs in view of the seriousness of their threat to human 
+health and the environment.  See Envtl. Def. Fund, Inc. v. 
+EPA, 636 F.2d 1267, 1271 (D.C. Cir. 1980).  Section 6 sets 
+forth a detailed scheme to dispose of and phase out PCBs, 
+and directs the Administrator to promulgate rules within six 
+months after January 1, 1977 (the Act's effective date), pre-
+scribing methods of disposal and marking of PCBs.  15 
+U.S.C. s 2605(e).  As relevant here, s 15 identifies prohibited 
+acts, including failing to comply with the Administrator's 
+rules and orders.  Id. s 2614(1).  The Act authorizes the 
+assessment of civil penalties not to exceed $25,000 for each 
+violation as well as criminal prosecution for knowing or willful 
+violations, and requires prior written notice of a proposed civil 
+penalty for violation of a prohibited act and a hearing in 
+
+accordance with s 554 of the Administrative Procedure Act, 5 
+U.S.C. s 554.  15 U.S.C. s 2615.
+
+     In 1978, the agency promulgated the first of two sets of 
+regulations to carry out s 6(e).  See Envtl. Def. Fund, 636 
+F.2d at 1272.  The first regulations, the so-called "Disposal 
+Regulations," covered pure PCB compounds as well as mate-
+rials contaminated with at least 500 ppm of PCBs.  Id.  
+Explaining that it chose this regulatory cutoff in order to 
+regulate disposal of most PCBs "as soon as possible," Pream-
+ble to Final Disposal Regulations, 43 Fed. Reg. 7,151 (1978), 
+the agency warned that it was considering a new cutoff 
+"possibly in the range of 50 ppm or below" for the proposed 
+"Ban Regulations."  Id.  In June 1978, the agency proposed 
+regulations with a 50 ppm cutoff, see 43 Fed. Reg. 24,813 
+(1978), and this cutoff remained in the final rule.  See Poly-
+chlorinated Biphenyls (PCBs) Manufacturing, Processing, 
+Distribution in Commerce, and Use Prohibitions, 44 Fed. 
+Reg. 31,514, 31,543 (1979).
+
+     As amended, the regulations in effect in 1993-94 also 
+contained a 50 ppm cutoff, and defined "disposal" to mean 
+"intentionally or accidentally to discard, throw away, or other-
+wise complete or terminate the useful life of PCBs."  40 
+C.F.R. s 761.3 (1993).  Subpart D set forth the disposal 
+requirements, defining "[s]pills and other uncontrolled dis-
+charges of PCBs at concentrations of 50 ppm or greater [to] 
+constitute the disposal of PCBs."  Id. s 761.60(d)(1).  A 
+prefatory note to Subpart D stated that PCB items that have 
+been placed in a disposal site are considered to be "in service" 
+for purposes of Subpart D, and that Subpart D does not 
+require "removal of PCBs and PCB items from service and 
+disposal earlier than would normally be the case."  Id. pt. 
+761, Subpart D (prefatory note).  Subpart G, regulating spill 
+cleanup, requires the cleanup of PCBs within 48 hours of 
+notice or awareness of a spill.  Id. s 761.125(c).
+
+     The Board interpreted the prefatory note in Subpart D of 
+the disposal regulations in Standard Scrap, 1990 E.P.A. App. 
+LEXIS 8.  The case involved a civil enforcement proceeding 
+under s 16(a) of the Act charging violations of 40 C.F.R. 
+
+s 761.60 and 15 U.S.C. s 2614.  Id. at *1-*2.  The Board 
+stated that "[f]rom the unexplained presence of PCBs in the 
+soil, it can be inferred that one or more 'uncontrolled dis-
+charges' of PCBs took place."  Id. at *6.  Under s 761.60(d) 
+of the regulations, the Board ruled, such a discharge amounts 
+to an improper disposal.  Id.  Standard Scrap argued that 
+the PCBs at issue fell within the historic waste exemption 
+provided in the prefatory note to Subpart D.  Id. at *8.  The 
+Board disagreed.  The Board stated that the historic waste 
+exemption is available only as an affirmative defense, and that 
+the respondent bears the initial burden of production and the 
+ultimate burden of persuasion on the applicability of the 
+exemption.  See id. at *10.  Because Standard Scrap had 
+failed to show by a preponderance of the evidence that the 
+PCBs in the soil samples were "placed in a disposal site" 
+prior to February 17, 1978, the Board ruled that it could not 
+avail itself of the exemption.  Id. at *13.  In the alternative, 
+the Board held that "a 'disposal site' is something more than 
+a place where PCBs have been accidentally discharged."  Id. 
+at *21.
+
+     Effective August 28, 1998, the agency amended the PCB 
+regulations.  See 63 Fed. Reg. 35,384 (1998) (codified in 
+scattered sections of 40 C.F.R. Part 761).  Comments on the 
+regulations as proposed in December 1994 had urged clarifi-
+cation of the prefatory note in light of the Board's decision in 
+Standard Scrap.  See 59 Fed. Reg. 62,788, 62,792.  The 1998 
+regulations deleted the prefatory note and provided that sites 
+where PCBs have been placed in a land disposal facility, 
+spilled, or otherwise released to the environment prior to 
+April 18, 1978, are presumed not to present an unreasonable 
+risk of injury to health or the environment from exposure to 
+PCBs at the site, and do not necessarily require further 
+disposal action unless, on a case-by-case basis, the Adminis-
+trator makes a finding that spills, leaks, or other uncontrolled 
+discharges, such as leaching from a pre-1978 disposal site, 
+constitute ongoing disposal that may present an unreasonable 
+risk of exposure to PCBs.  40 C.F.R. s 761.50(b)(3)(i)(A) 
+(2000).  The regulations further clarified the burden on the 
+respondent, providing that "[t]he owner or operator of a site 
+
+containing PCB remediation waste has the burden of proving 
+the date that the waste was placed in a land disposal facility, 
+spilled, or otherwise released into the environment[.]"  Id. 
+s 761.50(b)(3)(iii).
+
+                                B.
+
+     Under the agency's Consolidated Rules of Practice, an ALJ 
+may issue an accelerated decision if there are no genuine 
+issues of material fact and the movant is entitled to judgment 
+as a matter of law.  See 40 C.F.R. 22.20(a).  The Board has 
+construed an accelerated decision to be in the nature of 
+summary judgment, and has adopted the formulation of the 
+Supreme Court in Anderson v. Liberty Lobby, Inc., 477 U.S. 
+242 (1986), and Celotex Corp. v. Catrett, 477 U.S. 317 (1986), 
+construing Federal Rule of Civil Procedure 56.  See In re 
+BWX Tech., Inc., RCRA (3008) Appeal No. 97-5, 2000 E.P.A. 
+App. LEXIS 13, at *34-*41 (E.P.A. Apr. 5, 2000).  Thus, the 
+movant is entitled to an accelerated decision only if it pres-
+ents "evidence that is so strong and persuasive that no 
+reasonable [factfinder] is free to disregard it."  Id. at *38-
+*39.  Evidence not too lacking in probative value must be 
+viewed in the light most favorable to the party opposing the 
+motion.  See Anderson, 477 U.S. at 251, 255.  Although the 
+finder of fact may draw inferences from the evidence, they 
+must be "reasonably probable," BWX, 2000 E.P.A. App. 
+LEXIS 13, at *45 n.22, and based on more than speculation.  
+See, e.g., Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 
+475 U.S. 574, 587-88 (1986);  BWX, 2000 E.P.A. App. LEXIS 
+13, at *45 n.22;  In re Clarksburg Casket Co., EPCRA Appeal 
+No. 98-8, 1999 E.P.A. App. LEXIS 23, at *28 (E.P.A. July 16, 
+1999).  Summary judgment is inappropriate when contradic-
+tory inferences may be drawn from the evidence.  See, e.g., 
+Londrigan v. FBI, 670 F.2d 1164, 1171 n.37 (D.C. Cir. 1981).
+
+     To prevail, then, on a motion for accelerated decision on 
+liability, the agency "must show that it has established the 
+critical elements of [statutory] liability and that [the respon-
+dent] has failed to raise a genuine issue of material fact on its 
+affirmative defense...."  BWX, 2000 E.P.A. App. LEXIS 13, 
+
+at *43.  As to the affirmative defense, the Board has ex-
+plained that "the [agency's initial] task is to show that there is 
+an absence of support in the record for the defense."  Id. at 
+*44 (citing Celotex, 477 U.S. at 323-24).  "If the [agency] 
+satisfies this burden, [the respondent], as the non-movant 
+bearing the ultimate burden of persuasion on its affirmative 
+defense, must meet its countervailing burden of production by 
+identifying 'specific facts' from which a reasonable factfinder 
+could find in its favor by a preponderance of the evidence."  
+Id.
+
+     The evidence before the ALJ on liability consisted of the 
+pleadings, the parties' joint stipulation of July 3, 1997 and 
+attachments, and two affidavits of the company's engineer, 
+Mr. Langelier.  In addition, the company proffered the ex-
+pert testimony of Mr. Potterton to the effect that there was a 
+physical and chemical basis for the unexpected appearance in 
+1993 of PCB concentrations in excess of 50 ppm, and, thus, no 
+new spill or uncontrolled discharge in 1993.  The undisputed 
+evidence shows that PCB concentrations found in samples 
+taken from the berm under the HTS 975 between April and 
+December 1993 exceeded 50 ppm.  The undisputed evidence 
+also shows that the company had ceased using oils containing 
+PCBs in 1972, and thereafter it had properly flushed its 
+system in 1977 and 1988, and that the samples taken through 
+1992 had shown PCB concentrations of less than 50 ppm.  
+Further, there was evidence from the company's manager of 
+environmental engineering that the company had "dramatical-
+ly" increased its production in 1992, running the HTS 975 for 
+24 hours a day, 7 days a week, through 1993 and into 1994.
+
+     The ALJ granted the agency's motion for partial accelerat-
+ed decision, relying on Standard Scrap, 1990 E.P.A. App. 
+LEXIS 8, at *6 n.6, in which the Board stated that the agency 
+presents a prima facie case of a violation by showing that the 
+samples contain PCBs in excess of 50 ppm and that the PCBs 
+were not disposed of in a proper site, a conclusion that may 
+be inferred from where the PCBs were found.  The Board, on 
+de novo review, approved of the ALJ's reliance on the infer-
+ence that because there was an unexplained presence of 
+PCBs on the concrete floor, one or more uncontrolled dis-
+
+charges of PCBs took place.  Ruling that the timing of an 
+improper disposal is an element of the historic waste affirma-
+tive defense, not a part of the agency's prima facie case, the 
+Board agreed that the company had failed to meet its burden 
+of showing entitlement to the historic waste exemption.  Pre-
+termitting the correctness of the Board's position on the 
+parties' burdens, we hold that the Board's conclusion that the 
+administrative record during the liability phase of the pro-
+ceedings did not present a genuine dispute of material fact 
+was erroneous, and thus its grant of the agency's motion for 
+accelerated decision was arbitrary and capricious.  See Envtl. 
+Def. Fund, Inc. v. Costle, 657 F.2d 275, 282-83 (D.C. Cir. 
+1981);  5 U.S.C. s 706(2)(A).
+
+     The company presented undisputed evidence that it had not 
+introduced any PCB-containing heat transfer fluids since 1972 
+and that the results of its flushing, refilling, and testing of the 
+HTS 975 through at least 1992 had shown PCB concentra-
+tions of less than 50 ppm.  In addition, the company present-
+ed evidence that it had discovered cracks in the concrete 
+berm and that PCB concentrations in the soil below were 
+very high.  In light of this evidence, the company's inference 
+that the increase in PCBs was caused by PCBs leaching up 
+from the PCB-rich concrete and soil into the berm, rather 
+than leaking down from the HTS 975, would appear to raise a 
+disputed issue of material fact.  Any doubt is, in any event, 
+dispelled by the company's proffered expert testimony in its 
+pleadings that itself raised a material question as to whether 
+an uncontrolled discharge had occurred in 1993.  Neither the 
+Board nor the ALJ nor the agency on appeal challenge the 
+sufficiency of the proffers, but rather the agency defends the 
+Board's decision on the ground that the company "failed to 
+proffer ... alleged evidence in support [of its causation 
+theory]."  Resp't's Br. at 46.  Contrary to the agency's 
+argument, and the ALJ's finding, the company both proffered 
+evidence and a theory about how the samples contained 
+excessive concentrations of PCB in the absence of a spill in 
+1993.  By affidavits, the company, in addition, introduced 
+evidence to support its theory.
+
+     The company's evidence that it had not introduced PCB-
+containing fluid into its system since 1972 and that it had 
+discovered PCB-rich soil below the berm and cracks in the 
+berm could not be dismissed as "a scintilla of evidence."  
+BWX, 2000 E.P.A. App. LEXIS 13, at *40.  The evidence 
+showed that, prior to 1993, samples from the berm contained 
+only PCB concentrations below 50 ppm.  The ALJ concluded, 
+and the agency maintains on appeal, that the presence of 
+PCBs in unregulated quantities contradicted the company's 
+"assertion" that it had not used PCB-containing fluids since 
+1972.  Not so.  Unlike Standard Scrap, in which there was 
+evidence that PCB-containing fluid had been contemporane-
+ously introduced into the system, Standard Scrap, 1990 
+E.P.A. App. LEXIS 8, at *13-*14, here there was undisputed 
+evidence, which the ALJ must credit, that no such fluids had 
+been introduced.  That PCBs were detected at below 50 ppm 
+for twenty years--viewing the evidence in the light most 
+favorable to the company--does not contradict the inference 
+from the company's evidence that the presence of PCBs in 
+1993 was linked to excessive PCBs in the soil or concrete 
+resulting from pre-1978 PCB usage.  In view of the compa-
+ny's evidence and its proffered expert testimony, the agency 
+could not dismiss the company's theory that the PCBs 
+leached up from the berm as speculative.  Put otherwise, 
+once the company presented evidence that there was no new 
+source of PCBs in excess of 50 ppm because it stopped using 
+PCB-containing oil in 1972, and proffered that there was a 
+"physical/chemical" explanation for the presence of PCBs in 
+excess of 50 ppm in 1993, the agency was not entitled to an 
+accelerated decision on liability in the absence of either 
+evidence that a spill had occurred in 1993 or other evidence 
+sufficient to show that no reasonable factfinder could conclude 
+by a preponderance of the evidence that any spill was histor-
+ic.
+
+     In finding liability, the ALJ did not rely on contrary 
+evidence from the agency.  The ALJ instead inferred from 
+the company's evidence, and the Board agreed, that the 
+increased production resulted in a spill in 1993.  Yet the 
+ALJ's inference was based on nothing more than speculation.  
+
+The agency offered no technological or other evidence to 
+show either that the increased use of the HTS 975 was 
+related to the increased PCBs in the berm, or that the wet 
+seals harbored PCBs until dislodged by the increased produc-
+tion.  As the Board observed, the evidence was "very limit-
+ed," and clearly there was none to support the inference that 
+the PCBs had been stuck inside the HTS 975 for twenty-one 
+years and had suddenly come loose other than the samples 
+themselves.  Given the company's undisputed evidence of its 
+discontinuance of PCB-based oil in 1972, the agency was not 
+entitled to an accelerated decision on liability based on the 
+speculative notion that PCBs in the HTS 975 could affect the 
+samples more than twenty years after termination of the use 
+of PCB-containing oil.  See BWX, 2000 E.P.A. App. LEXIS 
+13, at *38-*39.
+
+     The company's evidence, when viewed in the light most 
+favorable to the company, as the ALJ and Board were 
+required to do on accelerated decision, created a genuine 
+issue of material fact whether the company had met its 
+burden of proving its affirmative defense that the spill was 
+historic.  Because the company's evidence presented a disput-
+ed issue of material fact regarding the timing of the spill that 
+led to the presence of PCBs in excess of 50 ppm in 1993, and 
+thus, a disputed issue whether a spill had occurred in 1993, 
+neither the Board nor the ALJ could find that "no genuine 
+issue of material fact exists."  40 C.F.R. s 22.20(a).  An 
+accelerated decision, like the grant of summary judgment, is 
+inappropriate when there is a disputed issue of material fact 
+giving rise to conflicting inferences and a choice among them 
+would amount to fact finding.  BWX, 2000 E.P.A. App. 
+LEXIS 13, at *44.  The Board's affirmance of the finding of 
+liability, resting on both the ALJ's inference that "the in-
+creased PCB levels likely came about as a result of the 
+residual PCBs in the HTS 975 being dislodged by increased 
+production" and the ALJ's rejection of the company's prof-
+fered inference, was exactly that--an improper choice be-
+tween two competing theories as to the source of the PCBs.  
+Although a factfinder may be entitled, on cross motions for 
+accelerated decision, to decide among reasonable inferences 
+
+where the evidence is fully developed, the case did not come 
+before the ALJ in this posture.  See BWX, 2000 E.P.A. App. 
+LEXIS 13, at *20 n.10.  Both the ALJ and Board relied on 
+the company's assertions that no genuine issues of material 
+fact existed and that "[w]hy the PCBs suddenly showed up in 
+1993 berm samples is a matter of speculation and in any case 
+is irrelevant to this case."  Board's Order (Nov. 28, 2000) 
+(quoting Resp. to Partial Accelerated Decision Mot. at 3 n.2).  
+These statements were made in the context of the company's 
+legal argument that the agency bore the burden of proving 
+that a spill took place in 1993.  Once the company lost that 
+legal argument, there was no basis for the ALJ or Board to 
+conclude that the company had conceded that there was no 
+dispute as to the source of PCBs, particularly in view of the 
+fact that prior to the 1997 Order on liability the company 
+proffered additional evidence regarding the chemical and 
+physical basis for the 1993 PCB concentrations.
+
+     Although the ALJ ruled alternatively that the company was 
+not entitled to the historic waste exemption because the berm 
+was not a proper disposal site, the Board on de novo review 
+did not adopt this alternative holding.  Whether the company 
+can, on remand, meet its burden of showing that it is entitled 
+to the historic waste exemption remains to be seen.  At this 
+stage, we need hold only that the Board erred in affirming 
+the accelerated decision on liability.  Because we hold that 
+the decision the Board invoked as "law of the case" must be 
+revisited because it was improper for the ALJ to grant the 
+agency's motion for accelerated decision based on the evi-
+dence presented, on remand there will be no occasion to 
+revisit the question whether the ALJ properly could exclude 
+new liability evidence at the penalty phase, and hence we 
+need not address whether the Board and ALJ erred in 
+considering the law of the case argument.  Further, because 
+the 1998 regulations are now final, we need not address 
+whether the ALJ and the Board should have considered the 
+company's reliance on the proposed regulations as reflecting 
+agency policy.
+
+     Accordingly, we grant the petition and remand the case to 
+the Board for further proceedings.
+
+                                        

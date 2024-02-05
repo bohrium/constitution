@@ -1,0 +1,634 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 8, 2000   Decided November 14, 2000 
+
+                           No. 99-5390
+
+                    American Bus Association, 
+                            Appellant
+
+                                v.
+
+         Rodney E. Slater, Secretary of Transportation, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv02351)
+
+     Richard A. Allen argued the cause for appellant.  With 
+him on the briefs were Richard P. Schweitzer, Craig M. 
+Cibak and Jol A. Silversmith.
+
+     Sandra Wien Simon, Attorney, U.S. Department of Jus-
+tice, argued the cause for appellee.  With her on the brief 
+were David W. Ogden, Acting Assistant Attorney General, 
+Marleigh D. Dover, Attorney, Nancy E. McFadden, General 
+
+Counsel, U.S. Department of Transportation, and Paul M. 
+Geier, Assistant General Counsel.
+
+     Before:  Williams, Sentelle and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Concurring opinion filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  American Bus Association 
+("ABA") appeals from a District Court judgment upholding a 
+Department of Transportation ("DOT") rule that implements 
+portions of the Americans with Disabilities Act ("ADA" or 
+"Act"), 42 U.S.C. s 12101 et seq. (1994).  Appellant challenges 
+those portions of the rule that authorize the imposition of 
+money damages against bus companies that fail to comply 
+with the ADA.  Appellant claims that the remedies enumerat-
+ed in the ADA are exclusive, and may not be supplemented 
+with a money-damages scheme.  It also alleges that DOT 
+violated the Administrative Procedure Act ("APA"), 5 U.S.C. 
+s 551 et seq. (1994), because it provided neither notice that it 
+was considering authorizing monetary relief nor opportunity 
+for the public to comment.
+
+     We conclude that DOT lacked the statutory authority to 
+impose money damages on bus companies.  Congress has 
+given the agency no authority to establish remedies in addi-
+tion to those that are specified in the ADA.  Because we hold 
+that DOT exceeded the scope of its authority, we need not 
+reach Appellant's notice-and-comment claim.
+
+                          I. BACKGROUND
+
+A.   Factual background
+
+     Title III of the ADA generally requires operators of public 
+accommodations, including common carriers, to make their 
+services accessible to disabled persons.  See 42 U.S.C. 
+ss 12181-88 (1994).  Toward that end, the ADA instructs the 
+Secretary of Transportation--which post is presently held by 
+Appellee Rodney E. Slater--to promulgate rules concerning 
+the accessibility of over-the-road buses ("OTRBs"), which are 
+large motorcoaches designed for travel between cities.  See 
+
+id. s 12186(a).  On September 6, 1991, DOT issued a set of 
+interim rules governing OTRB accessibility.  These rules 
+required bus companies to provide boarding assistance to 
+disabled passengers, and permitted operators to require pas-
+sengers who needed such assistance to provide them with 48 
+hours of advance notice.  DOT did not, at the time, oblige 
+operators to equip their OTRBs with wheelchair lifts, nor did 
+it require operators to pay money damages to disabled per-
+sons whose travel plans were frustrated.  See Transportation 
+for Individuals with Disabilities, 56 Fed. Reg. 45,584, 45,640 
+(1991).
+
+     In 1993, DOT issued an advance notice of proposed rule-
+making in which the agency identified the OTRB-accessibility 
+issues it hoped to resolve.  Among DOT's concerns were 
+whether all OTRB routes should have accessibility require-
+ments, and whether disabled passengers' needs could be 
+accommodated by an "on-call" system under which they could 
+request an accessible OTRB in advance.  See Transportation 
+for Individuals with Disabilities;  Accessibility of Over-the-
+Road Buses, 58 Fed. Reg. 52,735, 52,738-39 (1993).  The 
+public more than complied with the agency's request for 
+comments:  hundreds were submitted, mostly from disabled 
+persons' advocacy groups and organizations representing the 
+bus industry.
+
+     On March 25, 1998, DOT published a notice of proposed 
+rulemaking ("NPRM") that proposed requiring all fixed-route 
+OTRBs (regularly scheduled buses, such as Greyhound) to 
+install wheelchair lifts, and obliging charter/tour OTRBs to 
+provide lift-equipped buses to passengers who request them 
+48 hours in advance.  The NPRM made no mention of the 
+possibility of money damages, or any other scheme to com-
+pensate disabled passengers whose travel plans were frustrat-
+ed by an inaccessible OTRB.  See Transportation for Individ-
+uals with Disabilities, 63 Fed. Reg. 14,560-71 (1998).
+
+     After considering the over 400 comments submitted in 
+response to its NPRM, the agency issued its final rule on 
+September 28, 1998.  Several commentators had urged DOT 
+to promulgate an "on-call," or reservation-based, rule, under 
+
+which all OTRB operators (and not just charter/tour opera-
+tors) would be required to provide wheelchair-accessible bus-
+es to passengers who gave 48-hours advance notice of their 
+need.  See, e.g., Comments of Coach USA, Inc. at 19-21.  The 
+agency rejected that alternative.  Its final rule essentially 
+imposed the obligations proposed in the NPRM--requiring 
+fixed-route OTRB operators to equip their entire fleets with 
+wheelchair lifts--with the additional requirement that bus 
+companies pay "compensation" to disabled passengers when 
+they fail to provide them with accessible service.  A bus 
+operator will be assessed a $300 fine for its first violation, 
+$400 for its second, and so on in $100 increments up to $700 
+for its fifth and all subsequent infractions.  See Transporta-
+tion for Individuals with Disabilities, 63 Fed. Reg. 51,670, 
+51,692 (1998) (codified at 49 C.F.R. s 37.199 (2000)).
+
+B.   The District Court decision
+
+     Two days after the final rule was promulgated, September 
+30, 1998, Appellant American Bus Association filed a com-
+plaint in the United States District Court for the District of 
+Columbia.  ABA, an organization representing the bus indus-
+try, alleged, among other things, that DOT had no statutory 
+authority to implement the money-damages scheme, that the 
+agency had not provided adequate notice that it intended to 
+adopt a remedies provision, and that the rule violated the 
+National Environmental Policy Act, 42 U.S.C. s 4321 et seq. 
+(1994).
+
+     On the parties' cross-motions for summary judgment, the 
+District Court rejected each of ABA's contentions.  The court 
+found that the agency had provided adequate notice that it 
+was considering a money-damages provision.  While the 
+NPRM may not expressly have mentioned the possibility of 
+money damages, the remedies scheme was the "logical out-
+growth" of the agency's often-expressed concern that bus 
+companies would fail to provide accessible service to disabled 
+passengers.  See American Bus Ass'n v. Slater, No. 98-2351, 
+Mem. Op. at 22-23 (D.D.C. Sept. 10, 1999) ("Mem. Op.") 
+(citing, inter alia, United Steelworkers v. Marshall, 647 F.2d 
+1189, 1221 (D.C. Cir. 1980) ("Where the change between the 
+
+proposed and final rule is important, the question for the 
+court is whether the final rule is a 'logical outgrowth' of the 
+rulemaking proceeding.")).  Indeed, the court reasoned, ABA 
+had actual notice that DOT was considering a damages 
+provision, as its own submitted comment expressly endorsed 
+a proposal that disappointed passengers should be permitted 
+to seek monetary relief.  See id. at 25-26.
+
+     ABA's argument that the agency exceeded its statutory 
+authority by imposing money damages fared no better.  The 
+District Court cited the Supreme Court's pronouncement 
+that, if an authorizing "statute is silent or ambiguous," courts 
+must uphold "a reasonable interpretation made by the admin-
+istrator of an agency."  Chevron U.S.A. Inc. v. Natural 
+Resources Defense Council, Inc., 467 U.S. 837, 843, 844 
+(1984).  Such an ambiguity, the court reasoned, exists here:  
+"The plain language [of the ADA] indicates that Congress did 
+not explicitly forbid the Secretary from including a compensa-
+tion mechanism in the OTRB accessibility regulations."  
+Mem. Op. at 28.  Because of the ADA's silence on the 
+availability of money damages--because "[a] gap exists in this 
+enabling statute," id.--the court concluded that Chevron 
+obliged it to defer to DOT's reasonable interpretation.
+
+     Nor was the District Court persuaded by ABA's argument 
+that the agency's money-damages scheme is foreclosed by 
+APA s 558(b), which establishes that "[a] sanction may not be 
+imposed ... except within jurisdiction delegated to the agen-
+cy and as authorized by law."  5 U.S.C. s 558(b) (1994).  The 
+court conceded that DOT had authorized sanctions, but it 
+reasoned that they were not penal sanctions.  Because the 
+sanctions were designed to remedy the injuries suffered by 
+disabled persons whose travel needs were not accommodated, 
+and because the fines would be paid directly to the disap-
+pointed passengers, "this court concludes that the provision is 
+a regulatory sanction with a remedial purpose and not a 
+penalty."  Mem. Op. at 27.  The court therefore entered 
+summary judgment in favor of the agency's Secretary.
+
+     This appeal followed.  ABA no longer contests DOT's 
+decision to require that OTRB companies equip their buses 
+
+with wheelchair lifts, and only its money-damages and notice-
+and-comment claims are before this Court.
+
+                          II. DISCUSSION
+
+A.   Chevron and ADA s 12188
+
+     The principal issue in this case is whether DOT had the 
+statutory authority to adopt a rule imposing money damages 
+on bus companies that fail to provide accessible service to 
+disabled passengers.  Because, DOT proposes, this case in-
+volves a dispute as to whether that rule is in fact authorized 
+by the statute it purports to implement, it is governed by the 
+familiar two-step analysis announced in Chevron U.S.A. Inc. 
+v. Natural Resources Defense Council, Inc., 467 U.S. 837 
+(1984).  "First, always," the reviewing court must consider 
+"whether Congress has directly spoken to the precise ques-
+tion at issue."  An affirmative answer "is the end of the 
+matter;  for the court, as well as the agency, must give effect 
+to the unambiguously expressed intent of Congress."  Id. at 
+842-43.  If, on the other hand, "the statute is silent or 
+ambiguous with respect to the specific issue," the court must 
+uphold "a reasonable interpretation made by the administra-
+tor of an agency."  Id. at 843, 844.
+
+     Applying Chevron to this case, we conclude that Congress 
+unambiguously intended to preclude DOT from authorizing 
+money damages.  The ADA's carefully crafted remedies 
+scheme reveals the legislature's intent that the statute's 
+enumerated remedies were to be exclusive, and consequent 
+intent to deny agencies the power to authorize supplementary 
+monetary relief.  The relevant portion of the ADA establishes 
+that:
+
+     The remedies and procedures set forth in section 
+     2000a-3(a) of this title are the remedies and procedures 
+     this subchapter provides to any person who is being 
+     subjected to discrimination on the basis of disability in 
+     violation of this subchapter or who has reasonable 
+     
+     grounds for believing that such person is about to be 
+     subjected to discrimination in violation of section 12183 of 
+     this title.
+     
+42 U.S.C. s 12188(a)(1) (emphasis added).
+
+     By preceding the words "remedies and procedures" with 
+the definite article "the," as opposed to the more general "a" 
+or "an," Congress made clear that it understood 
+s 2000a-3(a)'s remedies to be exclusive.  Indeed, "[i]t is a 
+rule of law well established that the definite article 'the' 
+particularizes the subject which it precedes.  It is a word of 
+limitation as opposed to the indefinite or generalizing force of 
+'a' or 'an.' "  Brooks v. Zabka, 450 P.2d 653, 655 (Colo. 1969) 
+(en banc);  see also Black's Law Dictionary 1477 (6th ed. 
+1990) ("In construing statute, definite article 'the' particular-
+izes the subject which it precedes and is word of limitation as 
+opposed to indefinite or generalizing force 'a' or 'an'.").  If 
+Congress had intended those remedies not to be exclusive, it 
+would have provided that the relief available to an ADA 
+plaintiff "includes" the 2000a-3(a) remedies.
+
+     The remedies set forth in 42 U.S.C. 2000a-3(a)--which is 
+part of the 1964 Civil Rights Act--do not include money 
+damages.  See Newman v. Piggie Park Enters., Inc., 390 U.S. 
+400, 402 (1968) ("When a plaintiff brings an action under that 
+Title, he cannot recover damages.").  Instead, as that subsec-
+tion's caption ("Civil actions for injunctive relief") indicates, a 
+party may invoke s 2000a-3(a) only in an effort to obtain 
+"preventive relief, including an application for a permanent or 
+temporary injunction, restraining order, or other order."  42 
+U.S.C. s 2000a-3(a).  As the Supreme Court has explained, a 
+s 2000a-3(a) plaintiff primarily seeks not redress of his own 
+injury, but to vindicate the policy of the United States 
+government.  See Newman, 390 U.S. at 402 ("If he obtains an 
+injunction, he does so not for himself alone but also as a 
+'private attorney general,' vindicating a policy that Congress 
+considered of the highest priority.").
+
+     DOT additionally attempts to locate its authority to impose 
+fines in the ADA's specification that the Attorney General 
+may bring a civil action for money damages against OTRB 
+operators that fail to provide accessible service.  See 42 
+
+U.S.C. s 12188(b) (1994).  "Congress contemplated," the 
+agency submits, "that some type of compensation might be 
+paid from an operator to a disappointed rider."  Appellee's 
+brief at 54.  Not only does the civil-action provision not assist 
+DOT's claim that the ADA empowers it to authorize monetary 
+relief, it actually undermines it.  Congress did indeed contem-
+plate that money damages would be available--but it also 
+specified the precise conditions under which they could be 
+paid.  The monetary relief must be (1) awarded by a court (2) 
+in a civil action (3) that was brought by the Attorney General.  
+By specifying the circumstances under which monetary relief 
+will be available, Congress evinced its intent that damages 
+would be available in no others.  See Transamerica Mortgage 
+Advisors, Inc. v. Lewis, 444 U.S. 11, 19 (1979) (recognizing 
+that "it is an elemental canon of statutory construction that 
+where a statute expressly provides a particular remedy or 
+remedies, a court must be chary of reading others into it").
+
+     DOT's rule satisfies none of those three conditions.  First, 
+the agency itself, not an Article III court, presumably would 
+levy fines against OTRB companies.  Second, and as a conse-
+quence, the fines would not be assessed in a civil action.  
+Finally, DOT makes monetary relief available even absent the 
+participation of the Attorney General.  In fact, the agency is 
+somewhat, and perhaps deliberately, vague as to how it will 
+enforce its sanctions:  The parties dispute whether a disap-
+pointed passenger would hold a judicially cognizable right to 
+compensation.  Compare Appellant's brief at 25 n.16, 26 n.17, 
+with Appellee's brief at 54-55 n.10.  And at one point in its 
+briefs--though not, crucially, in the rule itself--the agency 
+claims that the Attorney General would be responsible for 
+enforcement.  See Appellee's brief at 54-55 n.10.  But it is 
+difficult to see how that could be the case, since DOT's rule 
+describes the compensation procedure as involving "a sum 
+sent directly to the passenger whose travel plans were dis-
+rupted," and indeed states that "[n]o administrative proce-
+dure"--or, presumably, judicial procedure--"is needed."  
+Transportation for Individuals with Disabilities, 63 Fed. Reg. 
+
+51,670, 51,687 (1998) (emphasis added).1
+
+     We conclude, therefore, that Congress has not granted 
+DOT the power to impose money damages on bus companies 
+that fail to provide accessible service to disabled passengers.  
+We need not evaluate the reasonableness of the agency's rule 
+under Chevron's second step, since we are bound in the first 
+instance to "give effect" to Congress's "unambiguously ex-
+pressed intent."  Chevron, 467 U.S. at 843.
+
+B.   APA s 558(b)
+
+     Our conclusion that DOT lacks the authority to authorize 
+money damages is confirmed by the Administrative Proce-
+dure Act, s 558(b) of which establishes that "[a] sanction may 
+not be imposed or a substantive rule or order issued except 
+within jurisdiction delegated to the agency and as authorized 
+by law."  5 U.S.C. s 558(b) (1994).  There is no dispute in 
+this case that DOT's fines are sanctions;  the District Court 
+held as much, and the agency does not appear to challenge 
+that finding.  Instead, the District Court apparently conclud-
+ed that s 558(b) requires express grants of statutory authori-
+ty, not for all sanctions, but only for the ones that can be 
+characterized as "penal."  And, the court submitted, the 
+OTRB rules do not impose a "penalty" inasmuch as they 
+impose "a regulatory sanction with a remedial purpose."  
+Memorandum Opinion at 27.
+
+     That conclusion is likely erroneous for two reasons.  First, 
+s 558(b) requires statutory authority for all sanctions, not 
+merely those that can be characterized as penal.  Second, 
+DOT's compensation rule does, in fact, impose penalties that 
+go beyond simple compensation.  DOT's efforts to distinguish 
+simple sanctions (which, it submits, may be imposed without 
+an express authorization) from punitive sanctions (which may 
+not) rest on the following syllogism:
+
+__________
+     1 If the Secretary intends to assert that by means of his rule he 
+can channel the choices of the Attorney General and the courts 
+within the ADA remedy structure, he points to nothing suggesting 
+such authority.
+
+       (1)  Section 558(b) permits agencies to impose non-
+                punitive sanctions, even in the absence of express 
+                statutory authority.
+          
+          (2)  DOT's sanctions are non-punitive.
+          
+          (3)  Therefore, DOT could impose the sanctions absent 
+                express statutory authority.
+          
+     The problem with the syllogism is that its major premise is 
+flawed.  Section 558(b) does not distinguish on its face be-
+tween punitive sanctions and ordinary sanctions.  It speaks of 
+"sanctions," period, and provides no basis for supposing that 
+one type may be imposed without statutory authorization, but 
+that other types may not.  Nor does DOT cite any cases that 
+distinguish between punitive and ordinary sanctions.  It sim-
+ply moves from its conclusion that its rule imposes a sanction 
+to drawing a distinction between the two types, and omits the 
+necessary middle step of explaining why that distinction has 
+any legal significance.
+
+     Nor is the syllogism's minor premise--that the agency's 
+sanctions are non-punitive--persuasive.  The amounts which 
+bus companies will be made to pay are not a function of a 
+would-be passenger's injury, but of the number of times the 
+company has violated the ADA in the past.  The fines begin 
+at $300, for an OTRB operator's first offense, and escalate in 
+increments of $100 up to $700, for an operator's fifth and all 
+subsequent offenses.  See Transportation for Individuals with 
+Disabilities, 63 Fed. Reg. 51,670, 51,692 (1998) (codified at 49 
+C.F.R. s 37.199 (2000)).  There is no connection between the 
+fine imposed and the injury suffered.  The fines are unrelated 
+to the out-of-pocket expenses--which might include lodging, 
+meals, and alternative transportation--a disappointed passen-
+ger could be expected to pay.  Instead, the agency is con-
+cerned principally with punishing noncomplying OTRB opera-
+tors.
+
+     To be sure, the agency's sanctions may have several objec-
+tives, one of which is to punish and another of which is to 
+remedy disabled persons' injuries.  But this Court regards as 
+a penalty any sanction that "goes beyond remedying the 
+
+damage caused to the harmed parties by the defendant's 
+action."  Johnson v. SEC, 87 F.3d 484, 488 (D.C. Cir. 1996) 
+(emphasis added).  In other words, a sanction is a penalty 
+even if only one of its various objectives is to punish wrongful 
+conduct;  that is, if it "serv[es] in part to punish."  Austin v. 
+United States, 509 U.S. 602, 610 (1993) (emphasis added).  
+Beyond cavil, DOT's sanctions are at least in part designed to 
+punish, which is why the damages an OTRB operator must 
+pay turn on the number of violations it has committed and not 
+the extent of the disappointed passenger's injury.
+
+     Nor are we persuaded by DOT's attempt to circumvent 
+s 558(b)'s directive by claiming that agencies possess a limit-
+ed, but inherent, power to impose sanctions.  DOT cites both 
+Touche Ross & Co. v. SEC, 609 F.2d 570 (2d Cir. 1979), and 
+Checkosky v. SEC, 23 F.3d 452 (D.C. Cir. 1994), for the 
+proposition that an agency's general power to protect the 
+integrity of its administrative processes entails an inherent 
+sanctioning power.  Both cases are easily dismissed or distin-
+guished.
+
+     Touche Ross concerned a Securities and Exchange Com-
+mission rule that enabled the SEC to discipline attorneys by 
+refusing to allow them to practice before it.  The Second 
+Circuit concluded that an agency has a limited power to 
+impose sanctions that are not expressly authorized by statute, 
+but only ones designed to "protect the integrity of its own 
+processes."  Touche Ross, 609 F.2d at 582.  The Commis-
+sion's disciplinary rule did not apply to the primary conduct 
+of regulated entities, but was simply designed to "ensure that 
+those professionals, on whom the Commission relies heavily in 
+the performance of its statutory duties, perform their tasks 
+diligently and with a reasonable degree of competence."  Id.  
+The SEC's housekeeping-type rule is quite unlike the rule 
+promulgated by DOT here, which penalizes regulated parties 
+for violations of their statutory duties.  The agency's authori-
+zation of monetary relief is not designed to "protect the 
+integrity of its own processes," but to encourage OTRB 
+companies to modify their primary conduct.
+
+     DOT's reliance on our own decision in Checkosky is even 
+more easily dismissed.  The portion of Checkosky on which 
+the agency relies did not command a majority of this Court 
+but is, instead, the separate opinion of a single Judge.  See 
+Appellee's brief at 55 (citing Checkosky, 23 F.3d at 455 
+(separate opinion of Silberman, J.)).  And even if the Checko-
+sky opinion did bind us, it would be distinguishable on the 
+same grounds as Touche Ross:  Like Touche Ross, that case 
+concerned the SEC's authority to promulgate an internal 
+disciplinary rule.  DOT's inherent sanctioning power extends 
+only to "protect[ing] the integrity of the agency's administra-
+tive processes," Checkosky, 23 F.3d at 455 (separate opinion 
+of Silberman, J.), and not to modifying regulated parties' 
+primary conduct.
+
+     We conclude, therefore, that DOT lacked the statutory 
+authority to require OTRB companies to pay money damages 
+to the disabled passengers whom they fail to accommodate.  
+Congress could not speak more clearly than it has in the text 
+of the APA:  "a sanction may not be imposed or a substantive 
+rule or order issued except within jurisdiction delegated to 
+the agency and as authorized by law."  5 U.S.C. s 558(b).
+
+C.   Notice-and-comment
+
+     ABA additionally claims that DOT violated the APA by 
+failing to provide it with adequate notice that it was consider-
+ing, and with the opportunity to comment on, its money-
+damages rule.  See 5 U.S.C. s 553(b), (c) (1994).  Because we 
+hold that DOT had no authority to promulgate that rule in 
+the first instance, the Court finds it unnecessary to take up 
+ABA's notice-and-comment claim.  The agency has exceeded 
+the scope of the authority delegated to it by Congress, and it 
+matters not that they adhered to the APA's procedural 
+requirements in doing so.
+
+                         III. CONCLUSION
+
+     Congress has not conferred on DOT the power to authorize 
+money damages against OTRB companies that fail to comply 
+
+with the ADA.  We therefore reverse the District Court's 
+grant of summary judgment in favor of the agency's Secre-
+tary.
+
+                                                       It is so ordered.
+
+     Sentelle, Circuit Judge, concurring:  I write separately to 
+express my view that the Court need not reach the second 
+step of Chevron for a more fundamental reason;  namely, that 
+the ADA contains no ambiguity that could trigger that analy-
+sis.  DOT proposes as the statute's deference-triggering am-
+biguity the fact that the statute does not expressly state that 
+the remedies detailed in s 12188 are to be "exclusive."  In 
+essence, the agency's position--and the District Court's hold-
+ing--is that the absence of a statutory grant of power is itself 
+an ambiguity that calls for Chevron deference.  See, e.g., 
+Mem. Op. at 28 ("The plain language [of the ADA] indicates 
+that Congress did not explicitly forbid the Secretary from 
+including a compensation mechanism in the OTRB accessibili-
+ty regulations.");  Appellee's brief at 43 (proposing that the 
+"first step of the Chevron analysis ... can be resolved quickly 
+here" because Congress "neither required nor prohibited the 
+Secretary from promulgating a compensation provision" and 
+because "Congress did not place any specific limitations on 
+the contents of the OTRB rules").  An agency, DOT submits, 
+is free to impose any otherwise-reasonable rule that Con-
+gress has not expressly prohibited.
+
+     I would conclude that the second step of Chevron is not 
+even implicated in this case.  Chevron step two applies only 
+when a statute contains an ambiguity.  But Congress's failure 
+to grant an agency a given power is not an ambiguity as to 
+whether that power has, in fact, been granted.  On the 
+contrary, and as this Court persistently has recognized, a 
+statutory silence on the granting of a power is a denial of 
+that power to the agency.  See, e.g., Backcountry Against 
+Dumps v. EPA, 100 F.3d 147, 150 (D.C. Cir. 1996) (rejecting 
+EPA's argument "that, since section 6945(c) is silent as to its 
+application to Indian tribes, the statute is 'ambiguous' ");  
+Ethyl Corp. v. EPA, 51 F.3d 1053, 1060 (D.C. Cir. 1995) ("We 
+refuse, once again, to presume a delegation of power merely 
+because Congress has not expressly withheld such power.");  
+see also Adams Fruit Co. v. Barrett, 494 U.S. 638, 649 (1990) 
+("A 'gap' is not created in a statutory scheme merely because 
+a statute does not restate the truism that States may not pre-
+empt federal law.").
+
+     This Court, while sitting en banc, has already disposed of 
+DOT's argument that the judiciary must afford Chevron 
+deference to an agency's interpretation of a statutory silence.  
+"To suggest," we reasoned,
+
+     that Chevron step two is implicated any time a statute 
+     does not expressly negate the existence of a claimed 
+     administrative power (i.e. when the statute is not written 
+     in "thou shalt not" terms), is both flatly unfaithful to the 
+     principles of administrative law outlined above, and refut-
+     ed by precedent....  Were courts to presume a delega-
+     tion of power absent an express withholding of such 
+     power, agencies would enjoy virtually limitless hegemo-
+     ny, a result plainly out of keeping with Chevron and quite 
+     likely with the Constitution as well.
+     
+Railway Labor Executives' Ass'n v. National Mediation Bd., 
+29 F.3d 655, 671 (D.C. Cir. 1994) (en banc) (emphasis in 
+original) (citations omitted).  The ADA is not ambiguous on 
+whether it grants DOT the power to authorize money dam-
+ages against non-complying bus companies.  The statute sim-
+ply does not grant it that power.
+
+     The proposition that statutory silences are not Chevron-
+triggering ambiguities follows from the very nature of admin-
+istrative agencies.  Agencies have no inherent powers.  They 
+instead are creatures of statute, and may act only because, 
+and only to the extent that, Congress affirmatively has dele-
+gated them the power to act.  See Louisiana Pub. Serv. 
+Comm'n v. FCC, 476 U.S. 355, 374 (1986) ("[A]n agency 
+literally has no power to act ... unless and until Congress 
+confers power upon it.");  Railway Labor Executives' Ass'n, 
+29 F.3d at 670 ("Agencies owe their capacity to act to the 
+delegation of authority, either express or implied, from the 
+legislature.").
+
+     Hence if Congress wishes to deny an agency a given power, 
+it need not expressly restrict the agency;  it is enough for 
+Congress simply to decline to delegate power.  In the same 
+way, a statute that is completely silent on the question of 
+whether it confers a power does not vest the agency with the 
+discretion to determine the scope of that power.  See Natural 
+
+Resources Defense Council v. Reilly, 983 F.2d 259, 266 (D.C. 
+Cir. 1993) (" '[I]t is only legislative intent to delegate such 
+authority that entitles an agency to advance its own statutory 
+construction for review under the deferential second prong of 
+Chevron.' " (quoting Kansas City v. Dep't of Housing & 
+Urban Dev., 923 F.2d 188, 191-92 (D.C. Cir. 1991))).  In order 
+for there to be an ambiguous grant of power, there must be a 
+grant of power in the first instance.  There is none here.
+
+     Moreover, accepting DOT's contention--that a statutory 
+silence empowers it to promulgate any rules that Congress 
+has not expressly forbidden--would vest agencies with near-
+plenary authority.  Agencies would become the nation's prin-
+cipal lawmakers.  After all, it is the norm for statutes to be 
+silent on whether they grant various powers to agencies.  The 
+ADA is silent on whether DOT has the power to oblige bus 
+companies to give disabled persons free passage.  It is also 
+silent on whether DOT has the power to require that bus 
+companies transport disabled passengers in their own individ-
+ual buses.  If we were to accept DOT's view, we would be 
+obliged to conclude that Congress somehow, if only ambigu-
+ously, has authorized the agency to adopt both of those rules, 
+and consequently would be bound to afford them Chevron 
+deference.  We would not, of course, be obliged to rubber-
+stamp an agency's interpretation of those, or any other, 
+statutory silences;  any such interpretation would still have to 
+satisfy the reasonableness test of Chevron step two.  See 
+Chevron, 467 U.S. at 844 (requiring courts to uphold only "a 
+reasonable interpretation made by the administrator of an 
+agency").  But it makes a mockery of Chevron to suggest 
+that its second prong is even implicated by Congress's failure 
+to deny a power to an agency.
+
+     The agency's position--that that which is not forbidden is 
+permitted--turns the basic assumption of the American sys-
+tem of government on its head.  Our Constitution permits the 
+national government to exercise only those powers affirma-
+tively granted to it by the people of the several states.  See, 
+e.g., U.S. Const. amend. X;  McCulloch v. Maryland, 17 U.S. 
+(4 Wheat.) 316, 405 (1819) ("This government is acknowledged 
+by all to be one of enumerated powers");  Marbury v. Madi-
+
+son, 5 U.S. (1 Cranch) 137, 176 (1803) ("The powers of the 
+legislature are defined and limited;  and that those limits may 
+not be mistaken or forgotten, the constitution is written.").  
+The Constitution's presumption is that a power not expressly 
+conferred on the federal government has been denied to it.  
+The same principle informs Congress's delegations of power 
+to administrative agencies.  Unless Congress delegates au-
+thority to an agency, the agency is without power to act.  
+And, it goes without saying, courts need not defer to an 
+agency's interpretation, reasonable or otherwise, of a non-
+existent grant of power.
+
+                  

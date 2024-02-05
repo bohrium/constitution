@@ -1,0 +1,430 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 26, 1999    Decided January 4, 2000 
+
+                           No. 98-1561
+
+                American Petroleum Institute and 
+         National Petrochemical & Refiners Association, 
+                           Petitioners
+
+                                v.
+
+            U.S. Environmental Protection Agency and 
+                Carol M. Browner, Administrator, 
+              U.S. Environmental Protection Agency, 
+                           Respondents
+
+                   Valero Energy Corporation, 
+                            Intervenor
+
+            On Petition for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Michael F. McBride argued the cause for petitioners.  
+With him on the briefs were Bruce W. Neely, G. William 
+Frick, John E. Reese and Maurice H. McBride.
+
+     Mary F. Edgar, Attorney, U.S. Department of Justice, 
+argued the cause for respondents. With her on the brief was 
+Lois J. Schiffer, Assistant Attorney General, and John T. 
+Hannon, Attorney, Office of General Counsel, U.S. Environ-
+mental Protection Agency.  Christopher S. Vaden, Attorney, 
+U.S. Department of Justice, entered an appearance.
+
+     Sam Kalen and Howard Bleichfeld were on the brief for 
+intervenor.
+
+     Before:  Silberman, Williams and Randolph, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  Automobile engines emit volatile 
+organic compounds ("VOCs"), which together with nitrogen 
+oxides ("NOX") form ozone.  Reformulated gasoline ("RFG") 
+can reduce VOCs emissions compared to levels associated 
+with ordinary gasoline;  but it costs more, and there is some 
+concern about the nation's current RFG production capacity.  
+See 42 U.S.C. s 7545(k)(6)(B) (1994) (creating special provi-
+sions that operate in the event of insufficient capacity).  In 
+guiding the efforts of the Environmental Protection Agency 
+to limit ozone concentrations, Congress in the Clean Air Act 
+(the "Act") authorized limited reliance on RFG.  It directed 
+that RFG should initially be mandatory in the nine worst 
+ozone areas with populations over 250,000, with any area later 
+classified as "Severe" to be added as well.  See 42 U.S.C. 
+s 7545(k)(1), (5), (10)(D).  And it also provided for "opt-in," 
+i.e., for election by a state to demand an EPA ban on the sale 
+of non-RFG in specified areas.  But Congress carefully limit-
+ed the eligible areas:
+
+     Upon the application of the Governor of a State, the 
+     Administrator shall apply the prohibition [on the sale of 
+     non-reformulated gasoline] in any area in the State clas-
+     sified ... as a Marginal, Moderate, Serious, or Severe 
+     Area....
+     
+Act s 211(k)(6)(A), 42 U.S.C. s 7545(k)(6)(A) (emphasis add-
+ed).  There is a fifth category, "Extreme," to which only Los 
+Angeles belongs;  there was no need to include that category 
+
+because it was automatically covered by Congress's direct 
+mandate.
+
+     Apart from Los Angeles, most areas of the United States 
+that are not in "attainment" for EPA's ozone standards 
+belong to one of the four specified categories.  But for several 
+reasons--mainly the interaction between Congress's (1) rules 
+limiting the ability of a nonattainment area to break into the 
+broad sunlit uplands of attainment, and (2) provisions govern-
+ing the treatment of missing data--an area may be in "nonat-
+tainment" but not in any of the four specified classes.  In 
+interpreting the opt-in provision EPA decided that Congress 
+meant to include not only "Marginal, Moderate, Serious, or 
+Severe" areas, but also any other areas that either were 
+currently out of attainment or had ever been.  The American 
+Petroleum Institute ("API") has petitioned for review of the 
+rule, arguing that the agency exceeded its statutory authori-
+ty;  we agree.
+
+                              * * *
+
+     The Act requires EPA to establish and periodically revise a 
+primary national ambient air quality standard ("NAAQS") for 
+each air pollutant that the agency identifies as meeting 
+certain criteria.  See 42 U.S.C. ss 7408-7409.  The primary 
+NAAQS for each pollutant is the maximum concentration 
+"requisite to protect the public health" with "an adequate 
+margin of safety."  42 U.S.C. s 7409(b)(1).  In 1979 the EPA 
+administrator set a primary NAAQS for ozone at 0.120 parts 
+per million ("ppm"), averaged over intervals of one hour.  See 
+44 Fed. Reg. 8202.  That level was upheld by this court in 
+American Petroleum Inst. v. Costle, 665 F.2d 1176 (D.C. Cir. 
+1981), and remains in effect today.1
+
+__________
+     1  In 1997 the EPA adopted a revised ozone NAAQS of 0.08 ppm 
+averaged over an eight-hour period.  See 62 Fed. Reg. 38,856 
+(1997).  But in American Trucking Ass'ns v. EPA, 175 F.3d 1027, 
+1038 (D.C. Cir 1999) ("ATA"), modified on reh'g, 195 F.3d 4 (D.C. 
+Cir. 1999), we granted a petition for review of that order and 
+remanded to the EPA with instructions to provide an intelligible 
+principle guiding its interpretation of the relevant sections of the 
+
+     In approaching this case the most critical distinction is 
+between "nonattainment" and "design value" as measures of 
+compliance.  A maximum concentration, without more, leaves 
+open the question of how often an area's hourly reading can 
+exceed 0.120 ppm without causing the area to be out of 
+compliance.  Congress adopted EPA's answer to this ques-
+tion.  It decreed, "by operation of law," that each area's 
+attainment status would be based on the regulatory standards 
+"in effect immediately before November 15, 1990."  42 U.S.C. 
+s 7407(d)(1)(C).  Under those standards (also still in effect), 
+an area is allowed no more than one day a year in which its 
+maximum hourly ozone concentration is greater than 0.120 
+ppm.  But the exact formula is more complicated because it 
+recognizes that many areas will not have data for every hour 
+of the year;  it therefore uses estimates to fill this gap.  See 
+40 CFR pt. 50, App. H.  The formula generates an "expected 
+number of days per calendar year with maximum hourly 
+average concentrations above 0.12 parts per million," id. 
+s 50.9(a), and if the expected number of exceedances for a 
+three-year period is greater than one, the area is in nonat-
+tainment.
+
+     In 1990 Congress also introduced, for ozone, a refinement 
+based on how far each nonattainment area was from attain-
+ment status, establishing different dates for compliance ac-
+cording to the severity of the existing violations.  See 42 
+U.S.C. s 7511(a)(1).  To group areas according to the various 
+deadlines, Congress used a concept already in use by EPA, 
+known as "design value," and once again adopted EPA's 
+method for calculating this number.  See id. ("The design 
+value shall be calculated according to the interpretation meth-
+odology issued by the Administrator most recently before 
+November 15, 1990.").  Much like the calculation of attain-
+ment, EPA's method for determining design values also ex-
+cuses one exceedance per year (e.g., the first three excee-
+dances in a three-year period have no effect on the design 
+value).  But it has no mechanism for generating data to fill 
+
+__________
+Act.  See ATA, 175 F.3d at 1038-40.  Thus, the 0.12 ppm, 1-hour 
+standard remains in place.
+
+gaps in monitoring:  Here, the design value is simply the 
+fourth-highest daily maximum ozone concentration in an area 
+over three consecutive years for which there are sufficient 
+data.  See American Trucking Ass'ns v. EPA, 175 F.3d 1027, 
+1046 n.6 (D.C. Cir. 1999) ("ATA"), modified on reh'g, 195 F.3d 
+4 (D.C. Cir. 1999);  EPA, The Clean Air Act Ozone Design 
+Value Study:  Final Report 1-3 to 1-5 (1994).
+
+     In s 181(a)(1) of the Act Congress used design value to 
+create five categories of nonattainment, with varying compli-
+ance deadlines for each category:
+
+          Marginal        0.121 to 0.138 ppm 
+          Moderate       0.138 to 0.160 ppm 
+          Serious          0.160 to 0.180 ppm 
+          Severe           0.180 to 0.280 ppm 
+          Extreme        0.280 ppm and above 
+          
+See 42 U.S.C. s 7511(a)(1) tbl.1.  But because Congress 
+treated missing data differently for purposes of design value 
+and attainment status, while every area with a known design 
+value above 0.120 ppm is in nonattainment, an area may be in 
+nonattainment even though its design value is 0.120 ppm or 
+below.  EPA called such areas "submarginal."  See 56 Fed. 
+Reg. at 56,697/2 (1991).
+
+     Similarly, s 107(d)(1)(C)(i) of the Act, 42 U.S.C. 
+s 7407(d)(1)(C)(i), requires areas designated nonattainment 
+under portions of the previous standards, see 42 U.S.C. 
+s 7407(d)(1)(C) (adopting provisions of the Clean Air Act 
+Amendments of 1977, s 103, Pub. L. No. 95-95, 91 Stat. 685, 
+687-88), to remain so classified because of inadequate data.  
+EPA called such areas "incomplete data areas."  56 Fed. Reg. 
+at 56,697/3;  cf. 42 U.S.C. s 7511e (allowing areas that can 
+demonstrate compliance with the ozone NAAQS for the years 
+1987-89 to have a special, "transitional," status).
+
+     The key issue here is the application of the RFG program 
+to these two types of areas, "submarginal" and "incomplete 
+data."
+
+                             *  *  *
+
+     In the disputed rule, EPA stated that any "area currently 
+or previously designated as a nonattainment area for ozone 
+under 40 CFR 50.9 ... or any time later, may be included on 
+petition of the governor."  40 CFR s 80.70(k);  63 Fed. Reg. 
+at 52,104.  Largely because of the divergence between the 
+concepts of nonattainment and design value, this rule swept 
+into "opt-in" a variety of areas not belonging to the four 
+categories specified by Congress--Marginal, Moderate, Seri-
+ous or Severe.  We assess the validity of the rule under the 
+familiar two-step process in Chevron U.S.A. Inc. v. NRDC, 
+467 U.S. 837, 842-43 & nn.9 & 11 (1984).
+
+     Chevron requires us to determine whether Congress spoke 
+"to the precise question at issue."  Id. at 842.  It is hard to 
+imagine how Congress could have done so more clearly.  
+Acting within a universe where nonattainment and the four 
+categories overlap but are distinct, Congress chose the four 
+categories.  If it meant to express "nonattainment," its word-
+ing was not merely a long-winded but a positively obtuse way 
+of doing so.  As we said in Michigan Citizens for an Inde-
+pendent Press v. Thornburgh, 868 F.2d 1285 (D.C. Cir.), aff'd 
+by an equally divided court, 493 U.S. 38, 39 (1989), if Con-
+gress makes an explicit provision for apples, oranges and 
+bananas, it is most unlikely to have meant grapefruit.  Id. at 
+1293.
+
+     Despite the text, EPA argues that the scope of s 211(k)(6) 
+is ambiguous, thus opening the door to "reasonable" interpre-
+tations by EPA.  It notes that s 181(a)(1) of the Act states 
+that "[e]ach area designated nonattainment for ozone ... 
+shall be classified at the time of such designation ... as a 
+Marginal Area, a Moderate Area, a Serious Area, a Severe 
+Area, or an Extreme Area based on the design value for the 
+area."  42 U.S.C. s 7511(a)(1).  From this it infers that, 
+despite the different methods for calculating design value and 
+attainment status, Congress thought that no nonattainment 
+area would be classified as other than Marginal, Moderate, 
+Serious, Severe, or Extreme, and thus the reference to the 
+first four categories in s 211(k)(6) was Congress's way of 
+
+making the RFG program available to all nonattainment 
+areas.  Because s 211(k)(6) does not prohibit the inclusion of 
+nonattainment areas with design values below 0.121 or areas 
+whose design values are unknown, EPA argues, it is at least 
+ambiguous as to whether they may join.
+
+     EPA seems to think that the possibility that Congress was 
+unaware of the nonattainment-design value divergence sug-
+gests that, had it been aware, it might have wanted EPA to 
+allow nonattainment areas with incomplete data or design 
+values below 0.121 ppm to require RFG.  There are two 
+problems here:  the assumption of congressional ignorance is 
+farfetched, and even if correct would not get EPA where it 
+wants to go.
+
+     In the normal case Congress is assumed to be conscious of 
+what it has done, especially when it chooses between two 
+available terms that might have been included in the provi-
+sion in question.  See BFP v. Resolution Trust Corp., 511 
+U.S. 531, 537 (1994) ("[I]t is generally presumed that Con-
+gress acts intentionally and purposely when it includes partic-
+ular language in one section of a statute but omits it in 
+another.").  Sometimes (e.g., where the pieces of legislation 
+are not closely linked in either codification or time of enact-
+ment) this assumption may be a stretch, justifiable in part 
+because its effect is to push toward coherent interpretations 
+of law.  See West Virginia Univ. Hosps., Inc. v. Casey, 499 
+U.S. 83, 100 (1991).  But here the assumption that Congress 
+was aware of the law is sound:  the divergence between 
+nonattainment and design value is the direct product of 
+distinctive definitions explicitly adopted by Congress.  To 
+suppose that Congress was ignorant of the divergence is to 
+impute sleepwalking to the legislators.
+
+     We have already explained how Congress expressly 
+adopted differing formulae.  These formulae generate the two 
+problematic categories at issue here.  First, as we recognized 
+in ATA, the stringent criteria for changing an area's designa-
+tion from nonattainment to attainment ensures that there can 
+and will be nonattainment areas with design values below 
+
+0.121 ppm (submarginal areas).  ATA, 175 F.3d at 1047;  42 
+U.S.C. s 7407(d)(3)(E) (noting that an area cannot be redesig-
+nated to attainment status until it shows compliance with the 
+relevant NAAQS and that the improvement in air quality is 
+due to permanent and enforceable reductions in emissions).  
+Second, "incomplete data areas" have no hope of leaving 
+nonattainment until they generate enough data to prove that 
+they comply with the ozone NAAQS.  See id.  Thus, they 
+must remain in nonattainment, but can secure the RFG 
+option if they generate data placing them in the four congres-
+sionally specified categories.  Quite sensibly, the literal read-
+ing of s 211(k)(6)(A) provides RFG as an option when the 
+need is clear, and only then.
+
+     But even the ignorance assumption, were it true, would not 
+support EPA's inference.  Having used words of art to 
+describe areas eligible for opt-in, a hypothetically ignorant 
+Congress would likely have assumed that if some areas 
+turned up partly resembling the areas it specified--areas out 
+of attainment but less clearly so--they would not be subject 
+to RFG in the absence of new congressional action.  More 
+specifically, even if Congress had thought that, as of 1990, all 
+nonattainment areas under the 0.120 ozone NAAQS would 
+have a recorded design value of at least 0.121 ppm, it knew 
+that the formula for nonattainment status (unlike the fixed 
+values for design value) was likely to change over time.  EPA 
+has a continuing obligation to review and revise the NAAQS 
+every five years, see 42 U.S.C. s 7409(d)(1);  ATA, 175 F.3d 
+at 1049, and to redesignate attainment status accordingly, see 
+42 U.S.C. s 7407(d)(1)(B).  In ATA, we noted that Congress 
+had locked the categories of s 181(a)(1) into place, presum-
+ably to avoid having its ozone enforcement scheme adminis-
+tratively overridden by EPA as a result of such revision.  175 
+F.3d at 1049-50.  The same is true here.  By basing the opt-
+in provisions in s 211(k)(6) on the statutorily imposed catego-
+ries in s 181(a)(1), Congress could limit the scope of the RFG 
+program to areas that clearly fall within the categories of its 
+choosing.2
+
+__________
+     2  In the rulemaking the EPA expressed its belief that areas in 
+nonattainment for the new, more stringent ozone NAAQS, would be 
+
+     On this record we are reluctant even to mention the 
+legislative history.  "[W]e do not resort to legislative history 
+to cloud a statutory text that is clear."  Ratzlaf v. United 
+States, 510 U.S. 135, 147-48 (1994);  see also Sutton v. United 
+Air Lines, Inc., 119 S. Ct. 2139, 2146 (1999);  United States v. 
+Bost, 87 F.3d 1333, 1336 (D.C. Cir. 1996).  But it scarcely 
+helps EPA.  The conference report observed, "States could 
+elect to have the [RFG] requirements apply in other cities 
+with ozone pollution problems."  H.R. Conf. Rep. No. 
+101-952, at 336, reprinted in 1 A Legislative History of the 
+Clean Air Act Amendments of 1990, at 1449, 1786 (1993) 
+[hereinafter Leg. Hist.].  But this is said simply to distinguish 
+the statute's mandate of RFG for specified regions, and 
+certainly does not claim that every other city with any ozone 
+pollution would qualify for opt-in.  The floor debates add little 
+clarity.  True, there are statements of the authors of the 
+provision in question, and sponsors of the amendments gener-
+ally, to the effect that "any" or "all" non-mandated ozone 
+nonattainment areas could join the RFG program;  but none 
+shows enough attention to the problem presented here to 
+overcome the plain language of the text.  See Senate Debate 
+on the Clean Air Act Amendments of 1990 Conference Re-
+port, reprinted in 1 Leg. Hist. at 731, 1024;  House Debate on 
+the Clean Air Act Amendments of 1990 Conference Report, 
+reprinted in 1 Leg. Hist. at 1177, 1266;  House Debate on 
+H.R. 3030, reprinted in 2 Leg. Hist. at 2667, 2690.  Interest-
+ingly, all the statements contain inaccuracies on another 
+issue, asserting that the area makes the election, not the state 
+or governor, a position with no support in the statute.  The 
+colloquial language of debate is at best a rough guide to the 
+intricacies of technical statutory wording.
+
+     Similarly, the Senate and House committee reports that list 
+the likely classification of nonattainment areas under 
+s 181(a)(1) do not show that Congress meant to base RFG 
+
+__________
+allowed to opt into the RFG program.  See 63 Fed. Reg. 52,094, 
+52,101 (1998).  The issue is temporarily moot in the light of ATA, 
+but on its face such a claim seems even less well-founded than 
+EPA's core position.
+
+participation on attainment status.  Both lists classify the 
+areas according to their design values.  The Senate list does 
+not even mention attainment status, and is thus no evidence 
+at all of congressional determination that it should control.  
+See S. Rep. No. 101-228, at 35-37 (1989), reprinted in 5 Leg. 
+Hist. at 8375-77.  Nor does the House Report speak of 
+nonattainment.  It uses the looser term "areas violating the 
+ozone NAAQS" and then lists areas by design value.  H. Rep. 
+No. 101-490, at 230-32, reprinted in 2 Leg. Hist. at 3254-56.  
+EPA would have us believe that the list demonstrates accep-
+tance of its view that Congress really meant nonattainment 
+because the table includes two areas, Jacksonville, FL and 
+Waldo Co., ME, as likely to be classified as marginal areas 
+despite their design values of only 0.120 ppm.  But the likely 
+explanation is that the compiler mistakenly thought that 
+because 0.120 was the cut-off point for "Marginal," an area 
+with exactly that reading should be so classified.  Moreover, 
+these lists can shed no light on the proper classification of 
+areas that lack sufficient data to calculate a design value or 
+even to confirm their nonattainment status.
+
+     EPA next argues that even if the text is clear, this case 
+presents one of the rare instances "in which the literal 
+application of a statute will produce a result demonstrably at 
+odds with the intentions of its drafters."  R.G. Johnson Co. v. 
+Apfel, 172 F.3d 890, 895 (D.C. Cir. 1999) (internal quotations 
+omitted).  The agency appears to find absurdity because 
+under the direct reading of the statute it denies opt-in to 
+some areas with "continuing ozone problems."  But the argu-
+ment assumes away all trade-offs.  Given the acknowledged 
+cost and supply drawbacks associated with RFG, it seems 
+entirely sensible to confine opt-in to areas experiencing non-
+attainment with the comparative clarity implied by belonging 
+to one of the four specified categories.  We see no absurdity.
+
+     EPA offers a special argument under which it could reach 
+back into history to allow opt-in for an area that once was--
+but is no longer--classified as Marginal, Moderate, Serious, 
+or Severe.  The statute allows opt-in for "any area in the 
+State classified ... as a Marginal, Moderate, Serious, or 
+
+Severe Area."  As a matter of sheer linguistic possibility, 
+either of two explicit phrases could be understood to precede 
+the word "classified":  it could read (1) "any area in the state 
+[that is presently] classified ... as a Marginal, Moderate, 
+Serious, or Severe Area," or (2) "any area in the state [that 
+has ever been] classified as a Marginal, Moderate, Serious, or 
+Severe Area."  EPA favors the second reading, but it seems 
+utterly implausible.  If an area is in attainment, its historical 
+design value has no relationship to its need for RFG.  If it is 
+in nonattainment, but lacks sufficient data to be classified 
+under s 181(a)(1), then RFG will be an option if, in the 
+process of generating sufficient data to prove itself in attain-
+ment, it is shown to have a design value of 0.121 ppm or 
+above.  See 42 U.S.C. s 7407(d)(3)(E).
+
+     In s 211(k)(6) Congress provided for opt-in only for areas 
+classified as Marginal, Moderate, Serious or Severe.  It 
+meant what it said.  Accordingly, API's petition for review is
+
+                                                         Granted.
+
+                                 

@@ -1,0 +1,583 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 22, 2002    Decided April 19, 2002 
+
+                           No. 01-1221
+
+                        Richard J. Adams, 
+                            Petitioner
+
+                                v.
+
+               Securities and Exchange Commission, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+                Securities and Exchange Commission
+
+     Marc B. Dorfman argued the cause for petitioner.  With 
+him on the briefs was Arthur M. Schwartzstein.
+
+     Michele R. Vollmer, Senior Counsel, Securities and Ex-
+change Commission, argued the cause for respondent.  With 
+her on the brief were David M. Becker, General Counsel, 
+Richard M. Humes, Associate General Counsel, and Samuel 
+M. Forstein, Assistant General Counsel.
+
+     Before:  Sentelle and Rogers, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  Richard J. Adams petitions for 
+review of the denial of his application for attorneys' fees 
+under the Equal Access to Justice Act ("EAJA"), 5 U.S.C. 
+s 504.  The Securities and Exchange Commission ruled that 
+Adams's application was untimely because it was not filed 
+within 30 days of the "final disposition" of his adversary 
+adjudication as required by s 504(a)(2).  The Commission 
+reasoned that although its EAJA regulations define "final" to 
+mean "final and unappealable," 17 C.F.R. s 201.44(b), be-
+cause Adams was not aggrieved by the order of dismissal in 
+his favor, the order was "unappealable" at its issuance;  
+hence, there was no basis on which to conclude that the 30-
+day filing deadline commenced only after the statutory 60-day 
+period for appeal had expired rather than immediately upon 
+the issuance of the order of dismissal.  Adams contends that 
+the Commission has confused the issue of appealability in the 
+context of EAJA, with the underlying merits of an appeal.  In 
+other words, regardless of whether the disposition giving rise 
+to the EAJA fee is specifically appealable, the EAJA filing 
+deadline should not expire in any case until 30 days after the 
+time for appeal under the relevant law of appealability, here 
+15 U.S.C. s 78y(a)(1), has expired or the appeal has been 
+completed.  We agree, for the Commission's position involves 
+the awkward practice of requiring a case-by-case examination 
+of appealability contrary to the purposes of EAJA.  Accord-
+ingly, we grant the petition to the extent of reversing the 
+denial of Adams's EAJA application;  we remand the case to 
+the Commission to determine Adams's eligibility for fees.
+
+                                I.
+
+     The Division of Enforcement of the Commission has pur-
+sued both judicial and administrative proceedings against 
+Adams.  Beginning September 30, 1991, the Division filed a 
+civil injunctive action in the United States District Court for 
+
+the District of New Jersey alleging that Adams and others 
+engaged in the fraudulent offer and sale at artificial prices of 
+securities in initial public offerings and manipulated the after-
+markets in those securities from January 1, 1987 to December 
+20, 1988 in violation of ss 5(a), 5(b), 5(c), and 17(a) of the 
+Securities Act of 1933, ss 10(b) and 15(c) of the Securities 
+Exchange Act of 1934, and Rules 10b-5, 10b-6, and 15c1-2 
+thereunder.  SEC v. Graystone Nash, Inc., 820 F. Supp. 863, 
+868 (D.N.J. 1993), rev'd, 25 F.3d 187 (3d Cir. 1994).  Based on 
+a record limited by an order precluding Adams from present-
+ing certain evidence because of his initial invocation of the 
+Fifth Amendment, the district court granted summary judg-
+ment to the Division and ordered both injunctive relief and 
+disgorgement in the amount of $60,565,581.  Id. at 869-76.  
+The Third Circuit reversed on the ground that the district 
+court failed to consider the relevant factors in concluding that 
+preclusion was appropriate.  SEC v. Graystone Nash, Inc., 25 
+F.3d 187, 193-94 (3d Cir. 1994).  On remand, the district 
+court stayed the litigation pending resolution of the Division's 
+administrative proceeding, which was commenced prior to the 
+decision of the Third Circuit.
+
+     On April 21, 1994, the Commission instituted administrative 
+proceedings against Adams, pursuant to ss 15(b)(4) and (6) of 
+the Exchange Act.  In re Graystone Nash, Inc., Admin. Proc. 
+File No. 3-8327, 1994 SEC LEXIS 1303 (Apr. 21, 1994).  The 
+Commission denied Adams's motion to dismiss the adminis-
+trative claims as time barred, but dismissed the proceedings 
+based on the district court's entry of an injunction.  In re 
+Graystone Nash, Inc., Exchange Act Release No. 35907, 
+Admin. Proc. File No. 3-8327, 1995 SEC LEXIS 1634, at *2-
+*3 (June 28, 1995).  An administrative law judge ("ALJ") 
+thereafter held an evidentiary hearing on the remaining, 
+independently alleged violations by the Division.  In re Gray-
+stone Nash, Inc., 62 SEC Docket 671, Admin. Proc. File No. 
+3-8327, 1996 SEC LEXIS 3545, at *1-*3 (June 27, 1996).  
+The ALJ dismissed the proceedings on two grounds:  first, as 
+time barred in light of an intervening decision by this court in 
+Johnson v. SEC, 87 F.3d 484 (D.C. Cir. 1996), holding that 
+the five-year statute of limitations set forth in 28 U.S.C. 
+
+s 2462 applied to such proceedings, and second, on the alter-
+nate ground that the Division failed to prove that Adams 
+violated the securities laws.  In re Graystone Nash, 1996 
+SEC LEXIS 345, at *59.  The Division appealed and the 
+Commission, on February 11, 1998, dismissed the administra-
+tive proceeding.  The full main text of the Commission's 
+opinion stated:
+
+          On June 27, 1996, an administrative law judge dis-
+     missed proceedings that had been brought by our Divi-
+     sion of Enforcement against Richard J. Adams.  The law 
+     judge based her dismissal on the decision in Johnson v. 
+     SEC, 87 F.3d 484 (D.C. Cir. 1996), which held that 28 
+     U.S.C. Section 2462 prohibited this Commission from 
+     imposing a censure and a supervisory suspension in an 
+     administrative proceeding because the proceeding had 
+     been initiated more than five years after the conduct at 
+     issue.  It is undisputed that all of the conduct at issue 
+     here occurred more than five years before the institution 
+     of proceedings.  The law judge further found that the 
+     Division had not proved that Adams violated any section 
+     of the securities laws, and used that finding as an alter-
+     native basis for her decision to dismiss.  On July 30, 
+     1997, we granted the Division's petition for review.
+     
+          Although the Division vigorously disputes the law 
+     judge's factual conclusions, it has decided not to seek 
+     reversal of her decision in light of the Johnson decision 
+     and the "current procedural posture of this case."  In a 
+     parallel proceeding in federal district court, the Division 
+     is currently seeking an injunction against Adams based 
+     on the same allegations as in this proceeding.  We have 
+     determined that, given the age of this case and that the 
+     Division does not oppose dismissal, it is appropriate to 
+     dismiss this matter.  We intimate no view on the merits.
+     
+          Accordingly, IT IS ORDERED that this proceeding 
+     be, and it hereby is, dismissed.
+     
+In re Adams, Exchange Act Release No. 39645, Admin. Proc. 
+File No. 3-8327, 1998 SEC LEXIS 208 (Feb. 11, 1998) 
+(footnotes omitted).  No appeal was filed.
+
+     On May 8, 1998, eighty-six days after the Commission 
+dismissed the administrative proceedings, Adams filed an 
+application for attorneys' fees pursuant to EAJA.  The ALJ 
+rejected the Division's position that the fee application was 
+untimely, and found that Adams was entitled to attorneys' 
+fees because the Division's position at the hearing was not 
+substantially justified.  In re Adams, Initial Decision Release 
+No. 176, Admin. Proc. File No. 3-8327 (Nov. 30, 2000).  The 
+Division appealed and the Commission reversed, denying the 
+fee application as untimely because it was filed more than 
+thirty days after the final disposition of the agency adjudica-
+tion, citing 5 U.S.C. s 504(a)(2) and the Commission's EAJA 
+regulations, 17 C.F.R. s 201.44(b).  In re Adams, Exchange 
+Act Release No. 44205, Admin. Proc. File No. 3-8327, 2001 
+SEC LEXIS 736, at *3-*5 (Apr. 19, 2001).  The Commission 
+noted that under s 25(a)(1) of the Securities Exchange Act, 
+15 U.S.C. s 78y(a)(1), only "a person aggrieved by a final 
+order of the Commission" has a right to appeal, and that 
+Adams had no standing to appeal because he was not ag-
+grieved by the Commission's order of dismissal.  In re 
+Adams, 2001 SEC LEXIS 736, at *5.  Hence, in the Commis-
+sion's view, the order of dismissal of February 11, 1998 
+constituted a final disposition under EAJA because it was 
+both final and unappealable, giving Adams only 30 days 
+thereafter to file an EAJA application.  Concluding that 
+Adams's application was untimely, the Commission did not 
+reach the merits of Adams's entitlement to fees.  Id. at *10 
+n.19.
+
+                               II.
+
+     Under s 504 of EAJA, an agency shall award attorneys' 
+fees and costs to a prevailing party (other than the United 
+States) unless the agency's position was "substantially justi-
+fied" if the requesting party submits an application "within 
+thirty days of a final disposition in the adversary adjudica-
+tion."  5 U.S.C. s 504(a).  An "adversary adjudication" is 
+defined to mean (i) a formal agency adjudication in which the 
+position of the United States is represented by counsel, 
+excluding adjudications as to rate making and licensing, (ii) 
+proceedings before agency boards of contract appeals, (iii) 
+agency hearings under the Program Fraud Civil Remedies 
+Act of 1986, 31 U.S.C. ss 3801-3812 (an administrative 
+
+scheme similar to the False Claims Act, 31 U.S.C. ss 3729-
+3733), and (iv) agency hearings under the Religious Freedom 
+Restoration Act of 1993, 42 U.S.C. ss 2000bb-2000bb-4.  Id. 
+s 504(b)(1)(C).  Section 504 does not define "final disposi-
+tion."  The Commission's EAJA regulations, however, pro-
+vide that a fee application must be filed within 30 days of the 
+Commission's "final disposition," which it defines as the date 
+a decision or order becomes "final and unappealable, both 
+within the Commission and to the courts."  17 C.F.R. 
+s 201.44.
+
+     Adams's counsel, presumably reading these provisions of 
+the statute and the Commission's regulation together, con-
+cluded that Adams had 90 days in which he could file his 
+application for fees:  60 days for the time for appeal to expire 
+under s 25(a)(1) of the Exchange Act at which time the order 
+of dismissal would become final and unappealable and then 30 
+days from this now final and unappealable dismissal order to 
+file his fee application as provided in s 504(a)(2).  Although, 
+in light of the Commission's "unappealability" rationale for 
+denying Adams's fee application, the parties devote nearly all 
+of their briefs on appeal to the question whether the Febru-
+ary 11, 1998 order of dismissal was appealable by Adams, we 
+conclude that the case specific approach adopted by the 
+Commission is inconsistent with the purposes of EAJA and 
+unworkable in practice.  First, however, we hold as a thresh-
+old matter that the meaning of "final disposition" in 
+s 504(a)(2) is ambiguous, but that Congress intended it to 
+mean final and not appealable.  In so doing, we readily 
+acknowledge that the question is one of first impression, that 
+the statutory language and the legislative history are unhelp-
+ful on the precise question, and that EAJA precedent ad-
+dresses only EAJA applications under s 2412 in connection 
+with judicial proceedings.  Nevertheless, we conclude that 
+this guidance is relevant for two reasons:  first, the underly-
+ing concerns that led the circuit courts of appeals (and 
+ultimately Congress) to conclude that the 30-day deadline 
+should not begin to run until the appeals process is completed 
+are also relevant in the administrative context, and second, 
+the Administrative Conference of the United States, and 
+
+consequently the Commission, has adopted EAJA regulations 
+reflecting the clarification that Congress enacted in 1985 for 
+EAJA requests in judicial proceedings.
+
+     Prior to the 1985 reenactment of EAJA, s 2412 provided 
+that a party filing an application for fees in the court "shall, 
+within thirty days of final judgment in the action, submit to 
+the court an application for fees...."  28 U.S.C. 
+s 2412(d)(1)(B) (1980) (amended 1985).  The circuit courts of 
+appeals differed as to whether the 30-day deadline for filing a 
+fee application commenced upon a final but appealable order 
+of the district court or not until the expiration of the time for 
+appeal or the completion of any appeal taken.  In McQuiston 
+v. Marsh, 707 F.2d 1082 (9th Cir. 1983), the Ninth Circuit 
+held that the 30-day deadline commenced with the final order 
+of the district court, stating that " 'final judgement' should be 
+defined by its common usage in contexts such as 28 U.S.C. 
+s 1291, Fed. R. App. P. 4(a), and Fed. R. Civ. P. 54."  Id. at 
+1085.  The Seventh Circuit, in McDonald v. Schweiker, 726 
+F.2d 311 (7th Cir. 1983), disagreed, holding that the 30-day 
+period did not commence until after the appeals were com-
+pleted.  Id. at 314-16;  accord Mass. Union of Pub. Hous. 
+Tenants, Inc. v. Pierce, 755 F.2d 177, 179-80 (D.C. Cir. 1985).  
+Observing that the practical consequences of the Ninth Cir-
+cuit's approach militated against its adoption, the Seventh 
+Circuit rejected the Ninth Circuit's conclusion as short on 
+rationale, particularly as neither s 1291 nor Rule 4(a) refer to 
+a "final judgment."  McDonald, 726 F.2d at 314-15.  Noting 
+that other circuits had held that the fee application could be 
+filed after the completion of appellate proceedings, and con-
+cluding that "theirs is the better approach," the Seventh 
+Circuit also observed that Congress could clarify the matter if 
+it decided to reenact EAJA, which was due to expire in ten 
+months, on October 1, 1984, Pub. L. No. 96-481, Title II, 
+s 203(c), 94 Stat. 2327 (Oct. 21, 1980).  McDonald, 726 F.2d 
+at 315.  Congress responded by amending s 2412 to define 
+"final judgment" as "a judgment that is final and not appeal-
+able, and includes an order of settlement."  Pub. L. No. 99-
+80, s 2, 99 Stat. 185 (Aug. 5, 1985) (codified at 28 U.S.C. 
+s 2412(d)(2)(G)).  The House Report states that the amend-
+
+ment adopted the Seventh Circuit's approach in McDonald.  
+H.R. Rep. No. 99-120, at 18 (1985).
+
+     Unlike s 2412, however, the EAJA provision on agency 
+proceedings is unhelpful even after Congress's 1985 reenact-
+ment of EAJA, with amendments, in answering the question 
+whether the 30-day deadline for filing commences with a final 
+and appealable agency order or not until the appeal time has 
+expired or any appeal is completed.  The only possibly rele-
+vant amendment to s 504 was the addition of the sentence:
+
+     When the United States appeals the underlying merits of 
+     an adversary adjudication, no decision on an application 
+     for fees and other expenses in connection with that 
+     adversary adjudication shall be made under this section 
+     until a final and unreviewable decision is rendered by the 
+     court on the appeal or until the underlying merits of the 
+     case have been finally determined pursuant to the ap-
+     peal.
+     
+5 U.S.C. s 504(a)(2).  This sentence, however, lends itself to 
+alternative readings:  it can be read as presupposing the 
+existence of a timely filed fee application, meaning that the 
+fee application must be filed within 30 days of the final 
+agency order, with the only restriction being that when the 
+government files an appeal, the agency cannot act on the 
+application until the appeal is completed;  or, the language 
+can be read as only reaffirming that no fees are appropriately 
+awarded pursuant to s 504 until the government's efforts to 
+appeal are completed, but leaving open the question of when a 
+disposition is final for purposes of the commencement of the 
+30-day deadline.  Indeed, the latter reading is consistent with 
+the possibility that the 30-day filing period is a time limit and 
+not a window for filing, so that a fee applicant could file for 
+fees before there were either a final disposition or a final 
+judgment.  See S. Rep. No. 96-253, at 21 (1979);  H.R. Rep. 
+No. 96-1418, at 18 (1980);  H.R. Rep. No. 99-120, at 18 n.26.  
+Compare Mass. Union of Pub. Hous. Tenants, 755 F.2d at 
+179 (citing McDonald, 726 F.2d at 314), with Melkonyan v. 
+Sullivan, 501 U.S. 89, 103 (1991).
+
+     In light of Congress's adoption of its approach, the Seventh 
+Circuit's analysis of when EAJA's 30-day deadline begins to 
+run is highly relevant to understanding the meaning of "final 
+disposition" in s 504(a)(2).  The Seventh Circuit made four 
+salient observations, all of which are applicable in agency as 
+well as judicial proceedings.  First, the court stated that it 
+could not imagine that the government would be willing to 
+pay fees before the time after completion of all appeals or the 
+expiration of the time limitations for appeals.  McDonald, 726 
+F.2d at 313.  This would appear to be no less true in 
+administrative proceedings.  Certainly, if the instant case is 
+representative, it is clear that the government would strongly 
+urge that its position was "substantially justified," a position 
+consistent with the government appealing when it can.  Sec-
+ond, the Seventh Circuit noted the cost to the applicant of 
+having to file multiple fee applications--one following the 
+judgment in the district court and another following the 
+judgment from the court of appeals.  Id. at 314.  It is no less 
+true in cases arising in the administrative context that it 
+makes "more sense, at least from the claimant's viewpoint, to 
+be able to file a single application at the conclusion of all the 
+proceedings."  Id.  Even if EAJA may still allow the filing of 
+two applications by reading EAJA's 30-day period as not a 
+window for filing, but rather merely as a deadline for filing, 
+allowing the applicant to choose when to file does not disad-
+vantage the government:  "[G]iving the claimant a choice 
+whether to ask for fees after he wins in the district court or 
+after the appeal maximizes his welfare, at some cost perhaps 
+to the courts but none we can think of to the executive 
+branch."  Id. at 314-15.  Third, the Seventh Circuit rejected 
+as insignificant any judicial economy at the appellate level 
+that would result from requiring the fee application to be filed 
+within 30 days of the district court's final judgment, and 
+thereby allowing the fee award to be acted on in time to allow 
+an appeal from the fee award to be consolidated with the 
+appeal from the judgment.  Id. at 314.  The court noted, in 
+part, that "the judicial economy may be largely illusory if ... 
+the claimant is entitled in suitable cases to reimbursement of 
+appellate fees."  Id.  Here, too, the situation would be analo-
+
+gous in agency proceedings;  we find no evidence that appel-
+late economy warrants an earlier application deadline in light 
+of the lost economy from multiple fee applications.  Further, 
+appellate economy is built into the statutory scheme for fees 
+in administrative proceedings;  ss 504(c)(1) and 2412(d)(3) 
+work in tandem so that the appeals court can award fees for 
+both the agency and court proceedings.  See 5 U.S.C. 
+s 504(c)(1);  28 U.S.C. s 2412(d)(3).  Fourth, the Seventh 
+Circuit took account of the fact that forcing a claimant to file 
+a fee application within 30 days of the final judgment of the 
+district court "delivers into the hands of the government a 
+potent, acknowledged, and from the standpoint of the policy 
+of [EAJA] perverse weapon for discouraging meritorious fee 
+applications."  McDonald, 726 F.2d at 315.  In McDonald, 
+the fee applicant had recovered only a "wretched pittance" in 
+Social Security benefits.  Id.  Her attorney thus faced the 
+dilemma of choosing between jeopardizing her reward by 
+filing a fee request to recover reasonable attorneys fees, 
+which raises the stakes for the government and hence makes 
+the government more likely to appeal, or foregoing a fee 
+application altogether.  Id.  Although Adams's attorney faces 
+no such quandary, the possibility of such a dilemma would as 
+a general matter appear no less likely when the government 
+can appeal an administrative proceeding than in a judicial 
+proceeding.
+
+     Additionally, the Administrative Conference of the United 
+States, to which Congress gave the task of consulting with 
+each agency to ensure adoption of "uniform procedures for 
+the submission and consideration of applications for an award 
+of fees," 5 U.S.C. s 504(c)(1), interpreted "final disposition" to 
+mean "final and unappealable."  Model Rules for Implemen-
+tation of the Equal Access to Justice Act, 51 Fed. Reg. 16,659, 
+16,662 (May 6, 1986).  The Administrative Conference specifi-
+cally noted that when the government can appeal a final 
+agency disposition and the time to file an appeal is longer 
+than 30 days, "[t]here is no point in requiring the applicant to 
+meet an arbitrary filing deadline of 30 days after issuance of 
+the decision if the agency will not consider the application" 
+until the time for an appeal has lapsed.  Id.  Although the 
+
+Administrative Conference was aware that in most adminis-
+trative proceedings covered by EAJA the government will be 
+unable to appeal its own decision, it nonetheless concluded 
+that:
+
+     While the same considerations will not apply in most 
+     other agency proceedings, where the government will not 
+     appeal, we believe the best approach is to modify the 
+     definition of "final disposition" for all proceedings.  This 
+     will provide consistency among agency proceedings as 
+     well as with court cases, and will avoid the confusion that 
+     sometimes arises as to whether an application must be 
+     filed with an agency to preserve rights even though some 
+     portion of a case is being appealed to the courts.
+     
+Id. Although the Model Rule's use of "unappealable" is not 
+identical to "not appealable" in 28 U.S.C. s 2412(d)(2)(G), the 
+Administrative Conference clearly meant it to have the same 
+meaning and incorporate the same concepts.  Because Con-
+gress gave the Chairman of the Administrative Conference 
+the task of overseeing the adoption by each agency of "uni-
+form procedures," 5 U.S.C. s 504(c)(1);  see H.R. Rep. No. 96-
+1418, at 16, as EAJA is a law of general applicability, the 
+Conference's views warrant at the very least possible Skid-
+more deference.  See United States v. Mead Corp., 533 U.S. 
+218, 237-38 (2001);  Skidmore v. Swift & Co., 323 U.S. 134, 
+140 (1944);  see also Escobar Ruiz v. INS, 813 F.2d 283, 289 
+(9th Cir. 1987).
+
+     In our view, much as we concluded in Massachusetts 
+Union, 755 F.2d at 180, in adopting the Seventh Circuit's 
+analysis and holding in McDonald, the practical reasons 
+underlying the Seventh Circuit's defining "final" as unappeal-
+able for purposes of s 2412 in McDonald are both compelling 
+and applicable to "final dispositions" under s 504.  That 
+Congress adopted the McDonald approach for applications in 
+judicial proceedings under s 2412 suggests that Congress 
+also agreed with the court's underlying reasoning, which is 
+equally applicable to fee applications in agency proceedings 
+under s 504.  Additionally, the Administrative Conference 
+specifically concluded that the 30-day EAJA deadline that 
+
+applies in agency proceedings should be analogous to the 
+30-day EAJA deadline that applies in judicial proceedings.  
+For these reasons, we conclude that "final" as used in 
+s 504(a)(2) means "final and unappealable."
+
+     The Commission interpreted the word "unappealable" in its 
+EAJA regulation to require a case-by-case determination as 
+to whether a party is aggrieved, and thus could file an appeal 
+that would withstand dismissal for lack of standing.  In re 
+Adams, 2001 SEC LEXIS 736, at *5.  Such an interpretation 
+is inconsistent with the underlying purposes of EAJA.  The 
+Commission's regulation, ambiguous on its face, must be 
+construed to avoid inconsistency with EAJA.  See Sec'y of 
+Labor, Mine Safety & Health Admin. v. W. Fuels-Utah, Inc., 
+900 F.2d 318, 320 (D.C. Cir. 1990).  Because EAJA is a 
+statute of general applicability and the Commission's regula-
+tions purport to interpret s 504, however, the usual deference 
+accorded to an agency's interpretation of its own regulations 
+does not apply.  Cf. Contractor's Sand & Gravel, Inc. v. Fed. 
+Mine Safety & Health Review Comm'n, 199 F.3d 1335, 1339 
+(D.C. Cir. 2000).  Instead, the court must determine the 
+meaning of "final disposition," and hence "unappealable," as 
+any question of law committed to the court for decision and 
+not the agency.  Id.  Additionally, the Commission's use of 
+"unappealable" is wholly derived from the Administrative 
+Conference's Model Rules.  Recognizing that the Commission 
+could not appeal its own orders under 15 U.S.C. s 78y(a)(1), 
+the Commission did not adopt that part of the Model Rules 
+that addresses government appeals, but it did adopt the 
+Administrative Conference's definition of "final" as meaning 
+"final and unappealable."  Equal Access to Justice Act Rules, 
+Proposed Rulemaking, 54 Fed. Reg. 11,961, 11,963 n.11 (Mar. 
+23, 1989);  Equal Access to Justice Act Rules, Adoption of 
+Rules, 54 Fed. Reg. 53,050, 53,052 (Dec. 27, 1989) (codified at 
+17 C.F.R. s 204.44(b)).  Thus, only after consultation with the 
+Chairman of the Administrative Conference, see 5 U.S.C. 
+s 504(c)(1), and ultimately consistent with the Administrative 
+Conference's Model Rule, did the Commission promulgate its 
+regulation that no application for EAJA fees is to be filed 
+until the agency's final order become "unappealable, both 
+
+within the Commission and to the courts."  17 C.F.R. 
+s 201.44.  In determining the meaning of "unappealable," 
+then, the court is not restricted by the Commission's interpre-
+tation of the term in its regulation and must instead derive 
+the meaning of the word from EAJA itself.  Nor is the court 
+required to interpret strictly the statutory deadline simply 
+because it is a jurisdictional prerequisite to government liabil-
+ity; defining the starting point of the deadline does not 
+expand government liability because "the amount of the fee 
+will not be affected and that is the important thing to the 
+public fisc."  McDonald, 726 F.2d at 314.06.
+
+     Congress originally enacted EAJA with the purpose of 
+"expand[ing] the liability of the United States for attorneys' 
+fees and other expenses in certain administrative proceedings 
+and civil actions."  H.R. Rep. No. 99-120, at 4.  Realization of 
+this purpose necessarily requires an interpretation of the 
+procedural requirements of EAJA in a manner that is not 
+unduly confusing or misleading so that they are not a "trap 
+for the unwary."  Myers v. Sullivan, 916 F.2d 659, 670 (11th 
+Cir. 1990).  As stated in the House Report adopting the 
+McDonald approach:
+
+     The court should avoid an overly technical construction 
+     of these terms.  This section should not be used as a trap 
+     for the unwary resulting in the unwarranted denial of 
+     fees.
+     
+H.R. Rep. No. 99-120, at 18 n.26.  As the instant case 
+illustrates, the case-specific approach adopted by the Com-
+mission constitutes such a trap.  The lack of clarity as to the 
+"appealability" of the Commission's order dismissing the ad-
+ministrative proceedings against Adams arises at several 
+levels:  the basis of the Commission's order of dismissal is 
+ambiguous because it is unclear whether the dismissal was 
+with or without prejudice, and, even if the dismissal were 
+without prejudice, it is not obvious whether Adams would 
+nonetheless have been "aggrieved" under s 25(a)(1) of the 
+Securities Exchange Act.  Consequently, Adams faced the 
+dilemma of when to file his application for fees.  Unless he 
+filed two fee applications--an inefficient solution--Adams 
+faced the risk of filing either a possibly premature or time-
+barred fee application.  This appears to be precisely the type 
+of confusion that the Administrative Conference and Con-
+
+gress sought to avoid.  See id. at 7.  A bright-line rule 
+eliminates the high potential for confusion resulting from 
+determining "appealability" on a case-by-case basis and ap-
+propriately avoids the practical problems that the Seventh 
+Circuit described.  Under such a rule, applicants will have 
+fair notice of when the time to file an EAJA fee application 
+will expire.  Thus, under a bright-line rule, even when an 
+appeal would be arguably nonjusticiable, as here, if the 
+governing statute relevant to the underlying agency proceed-
+ing allows an appeal generally, the underlying order should 
+be considered "appealable" and the 30-day deadline for filing 
+an EAJA fee application does not expire until 30 days after 
+the time to appeal has expired or the appeal has concluded.  
+The alternative, to require a case-by-case determination of 
+"appealability" based on a party's aggrievement, would point-
+lessly leave considerable uncertainty about when EAJA's 30-
+day deadline would expire and result in an unworkable rule 
+that requires the filing of multiple applications and unneces-
+sary involvement of the courts on appeal.
+
+     For these reasons, we hold that s 504(a)(2) of EAJA is to 
+be interpreted as creating a bright-line rule, discernible by 
+looking at the category of order in question and the applicable 
+law of appealability.  When a potential appeal exists under 
+the relevant statute, the time for appeal must lapse, or the 
+appeal be completed, before the 30-day deadline begins to 
+run.  See Myers, 916 F.2d at 671-72, 674.  Because Adams 
+could have potentially appealed the Commission's order of 
+dismissal pursuant to s 25(a)(1) of the Securities Exchange 
+Act, 15 U.S.C. s 78y(a)(1), the 30-day deadline did not begin 
+to run until 60 days following the order of dismissal had 
+lapsed.
+
+     Accordingly, we grant Adams's petition to the extent of 
+reversing the Commission's denial of his fee application as 
+untimely, and we remand the case to the Commission for a 
+determination of his eligibility for fees.  Although we are 
+sympathetic to Adams's concern that "ten years of litigation 
+is enough," his EAJA application was not filed until 1998.  
+Our decision in 3M Co. v. Browner, 17 F.3d 1453 (D.C. Cir. 
+1994), is not dispositive on the issue of whether the Division's 
+
+position was "substantially justified," and the Commission 
+persuasively contends in its brief on appeal that a determina-
+tion of eligibility requires review of a lengthy administrative 
+record that is best left to it in the first instance.  See, e.g., 
+Global Van Lines, Inc. v. ICC, 804 F.2d 1293, 1305 n.95 (D.C. 
+Cir. 1986);  see also PPG Indus., Inc. v. United States, 52 
+F.2d 363, 365 (D.C. Cir. 1995).  The cases on which Adams 
+relies are not to the contrary, and Adams has not shown that 
+a remand would be futile.  See George Hyman Constr. Co. v. 
+Brooks, 963 F.2d 1532, 1539 (D.C. Cir. 1992).
+
+                   

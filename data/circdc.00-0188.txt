@@ -1,0 +1,1380 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued March 17, 2000      Decided July 11, 2000 
+
+                           No. 99-5270
+
+       National Rifle Association of America, Inc. et al., 
+                            Appellants
+
+                                v.
+
+       Janet Reno, Attorney General of the United States, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv02916)
+
+     Stephen P. Halbrook argued the cause for appellants. With 
+him on the briefs was Richard E. Gardiner.
+
+     Michael S. Raab, Attorney, U.S. Department of Justice, 
+argued the cause for appellee.  On the brief were David W. 
+Ogden, Acting Assistant Attorney General, Mark B. Stern, 
+and Susan L. Pacholski, Attorneys, and Wilma A. Lewis, 
+U.S. Attorney.
+
+     Before:  Sentelle, Tatel and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Dissenting opinion filed by Circuit Judge Sentelle.
+
+     Tatel, Circuit Judge:  The National Rifle Association chal-
+lenges a Justice Department regulation providing for tempo-
+rary retention of data generated during background checks of 
+prospective firearms purchasers, as required by the Brady 
+Handgun Violence Prevention Act.  According to the NRA, 
+the Brady Act requires immediate destruction of personal 
+information relating to lawful firearm transactions.  The At-
+torney General interprets the statute differently, arguing that 
+temporary retention of data for at most six months is neces-
+sary to audit the background check system to ensure both its 
+accuracy and privacy.  Finding nothing in the Brady Act that 
+unambiguously prohibits temporary retention of information 
+about lawful transactions, and finding that the Attorney Gen-
+eral has reasonably interpreted the Act to permit retention of 
+such information for audit purposes, we affirm the district 
+court's dismissal of the complaint.
+
+                                I.
+
+     The Gun Control Act of 1968 makes it unlawful for certain 
+individuals, including convicted felons, fugitives from justice, 
+and illegal aliens, to possess firearms.  See 18 U.S.C. 
+ss 922(g).  The Brady Handgun Violence Prevention Act of 
+1993 required the Attorney General to establish a "national 
+instant criminal background check system," known as the 
+NICS, to search the backgrounds of prospective gun purchas-
+ers for criminal or other information that would disqualify 
+them from possessing firearms.  See s 103(b), Pub. L. No. 
+103-159, 107 Stat. 1536.  A computerized system operated by 
+the FBI, the NICS searches for disqualifying information in 
+three separate databases:  (1) the "NICS Index," containing 
+records on persons known to be disqualified from possessing 
+firearms under federal law;  (2) the "National Crime Informa-
+tion Center," containing records on protective orders, deport-
+ed felons, and fugitives from justice;  and (3) the "Interstate 
+
+Identification Index," containing criminal history records.  28 
+C.F.R. s 25.6(c)(1)(iii).
+
+     Before selling a weapon, firearm dealers must submit the 
+prospective purchaser's name, sex, race, date of birth, and 
+state of residence to the NICS operations center at the FBI.  
+Id. s 25.7(a).  If the firearm dealer is in a state that has 
+elected to serve as a "point of contact" for NICS queries, the 
+dealer must submit the inquiry to the relevant state agency.  
+Id. s 25.6(d).  Upon receiving such an inquiry, the FBI or 
+state agency must immediately provide the gun dealer with 
+one of three responses:  (1) "proceed," if no information in the 
+system indicates that a firearm transfer would be unlawful;  
+(2) "denied," if the prospective purchaser may not legally 
+possess a firearm;  or (3) "delayed," if further research is 
+necessary.  Id. s 25.6(c)(1)(iv);  Brady Act s 103(b), 107 Stat. 
+at 1541.
+
+     A Justice Department regulation requires the FBI to retain 
+records of all NICS background searches--including names 
+and other identifying information about prospective gun pur-
+chasers--in an automated "Audit Log."  28 C.F.R. s 25.9(b).  
+According to the regulation, the Audit Log is "a chronological 
+record of system (computer) activities that enables the recon-
+struction and examination of the sequence of events and/or 
+changes in an event."  Id. s 25.2.  The regulation's preamble 
+describes the purpose of the Audit Log:
+
+     By auditing the system, the FBI can identify instances in 
+     which the NICS is used for unauthorized purposes, such 
+     as running checks of people other than actual gun trans-
+     ferees, and protect against the invasions of privacy that 
+     would result from such misuse.  Audits can also deter-
+     mine whether potential handgun purchasers or [gun deal-
+     ers] have stolen the identity of innocent and unsuspecting 
+     individuals or otherwise submitted false identification 
+     information, in order to thwart the name check system.  
+     The Audit Log will also allow the FBI to perform quality 
+     control checks on the system's operation by reviewing 
+     
+     the accuracy of the responses given by the NICS record 
+     examiners to gun dealers.
+     
+National Instant Criminal Background Check System Regu-
+lation, 63 Fed. Reg. 58303, 58303-04 (1998) (hereinafter, 
+NICS Regulation);  see also 28 C.F.R. s 25.9(b)(2).
+
+     The regulation restricts use of the Audit Log.  Information 
+"pertaining to allowed transfers may only be used by the FBI 
+for the purpose of conducting audits of the use and perfor-
+mance of the NICS."  28 C.F.R. s 25.9(b)(2).  The Audit Log 
+"may not be used by any department, agency, officer, or 
+employee of the United States to establish any system for the 
+registration of firearms, firearm owners, or firearm transac-
+tions or dispositions.  The Audit Log will be monitored and 
+reviewed on a regular basis to detect any possible misuse of 
+the NICS data."  Id.
+
+     The Notice of Proposed Rulemaking had called for retain-
+ing information relating to allowed transfers in the Audit Log 
+for eighteen months.  National Instant Criminal Back-
+ground Check System Regulations, 63 Fed. Reg. 30430, 30432 
+(proposed June 4, 1998).  Declaring that "the general reten-
+tion period for records ... in the NICS Audit Log should be 
+the minimum reasonable period for performing audits on the 
+system," the final regulation reduced the retention period to 
+"in no event more than six months."  NICS Regulation, 63 
+Fed. Reg. at 58304.  The regulation's preamble states that 
+"the FBI shall work toward reducing the retention period to 
+the shortest practicable period of time less than six months 
+that will allow basic security audits of the NICS."  Id.  The 
+Attorney General has since published a proposed rule that 
+would shorten the retention period for records of allowed 
+transfers to ninety days.  National Instant Criminal Back-
+ground Check System Regulation, 64 Fed. Reg. 10262, 10264 
+(proposed March 3, 1999).
+
+     When removed from the Audit Log, personal information 
+relating to allowed transfers is destroyed.  28 C.F.R. 
+s 25.9(b)(1).  NICS records relating to denied firearm trans-
+fers are kept in the Audit Log for ten years, then transferred 
+to a Federal Records Center for storage.  Id.  State agencies 
+
+performing background checks in lieu of the FBI may retain 
+information on allowed transfers if the records are "part of a 
+record system created and maintained pursuant to indepen-
+dent state law regarding firearms transactions."  Id. 
+s 25.9(d)(1), (d)(2).
+
+     On the day the NICS regulation became effective, the 
+National Rifle Association of America, joined by the Law 
+Enforcement Alliance of America, Inc., and four John and 
+Jane Does, filed suit in the U.S. District Court for the District 
+of Columbia, arguing that temporary retention of NICS rec-
+ords of allowed transfers violates three provisions of the 
+Brady Act:  section 922(t)(2)(C), requiring that the system 
+"destroy" records of allowed transactions;  section 103(i)(1), 
+prohibiting the government from "requir[ing] that any 
+[NICS] record ... be recorded at or transferred to a [govern-
+ment] facility";  and section 103(i)(2), prohibiting the govern-
+ment from "us[ing] the [NICS] system ... to establish any 
+system for the registration of firearms."  107 Stat. at 1540, 
+1542.  The complaint also alleged that the Attorney General 
+has no authority to exempt NICS information retained by 
+state agencies from the Brady Act's destruction requirement, 
+even if that information is "part of a record system created 
+and maintained pursuant to independent state law."
+
+     The Attorney General interpreted the Act differently, argu-
+ing that neither section 922(t)(2)(C) nor section 103(i)(1) pro-
+hibits temporary retention of NICS records, and that the 
+Audit Log is not a "system for ... registration" within the 
+meaning of section 103(i)(2).  For authority to create the 
+Audit Log, the Attorney General relied on her statutory 
+obligations to establish a system capable of providing accu-
+rate information on the lawfulness of firearm transactions, see 
+Brady Act, s 103(b), 107 Stat. at 1541, and to protect the 
+privacy and security of the NICS.  See Brady Act, s 103(h), 
+107 Stat. at 1542.
+
+     The district court, finding nothing in the Brady Act to 
+require immediate destruction and the Attorney General's 
+construction of the statute reasonable, dismissed the com-
+plaint pursuant to Federal Rule of Civil Procedure 12(b)(6).  
+
+Renewing the arguments it made in the district court, the 
+NRA appeals.  Our review is de novo.  See, e.g., Brown v. 
+Plaut, 131 F.3d 163, 167 (D.C. Cir. 1997).
+
+                               II.
+
+     Because the NRA challenges a statute administered by a 
+government agency, we proceed in accordance with the famil-
+iar two-part test of Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837 (1984).  We ask first 
+"whether Congress has directly spoken to the precise ques-
+tion at issue," for if it has, "that is the end of the matter;  for 
+the court, as well as the agency, must give effect to the 
+unambiguously expressed intent of Congress."  Id. at 842-43.  
+If we find the statute silent or ambiguous with respect to the 
+precise question at issue, we proceed to the second step of 
+Chevron analysis, asking "whether the agency's answer is 
+based on a permissible construction of the statute."  Id. at 
+843.  At this point in our review, we afford substantial 
+deference to the agency's interpretation of statutory lan-
+guage.  See id. at 844.
+
+     We begin with the NRA's Chevron one argument that three 
+provisions of the Brady Act unambiguously prohibit the At-
+torney General from retaining information about allowed 
+transactions for any purpose, including auditing.  In evaluat-
+ing these arguments, we must not "confine [ourselves] to 
+examining a particular statutory provision in isolation.  The 
+meaning--or ambiguity--of certain words or phrases may 
+only become evident when placed in context."  FDA v. Brown 
+& Williamson Tobacco Corp., 120 S. Ct. 1291, 1300 (2000).  
+We must also "exhaust the traditional tools of statutory 
+construction," Natural Resources Defense Council, Inc. v. 
+Browner, 57 F.3d 1122, 1125 (D.C. Cir. 1995) (internal quota-
+tion marks omitted), and may examine the statute's legislative 
+history in order to "shed new light on congressional intent, 
+notwithstanding statutory language that appears superficially 
+clear."  Id. at 1127 (internal quotation marks omitted).  Fi-
+nally, "we must be guided to a degree by common sense as to 
+the manner in which Congress is likely to delegate a policy 
+
+decision ... to an administrative agency."  Brown & Wil-
+liamson, 120 S. Ct. at 1301.
+
+     The first Brady Act provision the NRA relies on is section 
+922(t)(2):
+
+     If receipt of a firearm would not [be unlawful], the 
+     system shall--
+     
+          (A) assign a unique identification number to the trans-
+          fer; 
+          (B) provide the [firearms dealer] with the number;  
+          and 
+          (C) destroy all records of the system with respect to 
+          the call (other than the identifying number and the 
+          date the number was assigned) and all records of the 
+          system relating to the person or the transfer.
+          
+18 U.S.C. s 922(t)(2).  According to the NRA, when the 
+statute says "destroy all records" it means "destroy all rec-
+ords immediately," not within six months.  That is certainly 
+one possible interpretation of section 922(t)(2)(C).  At Chev-
+ron step one, however, the question is whether the statute 
+unambiguously requires immediate destruction.  We think 
+the answer is no.
+
+     To begin with, section 922(t)(2)(C) does not say "destroy 
+immediately";  it says only "destroy."  When Congress wants 
+to instruct an agency not only to take certain action, but to 
+take it immediately, it knows how to do so.  For example, 
+once an administrative agency determines whether a person 
+requesting administrative records is entitled to receive them, 
+Congress requires the agency to "immediately notify the 
+person making such request of such determination."  5 U.S.C. 
+s 552(a)(6)(A)(i).  Similarly, the Equal Employment Opportu-
+nity Commission must "immediately refer" to the Merits 
+System Protection Board any decision finding that the Board 
+incorrectly interpreted governing law or issued a decision 
+unsupported by record evidence.  Id. s 7702(b)(5)(B).  Con-
+gress even used the word "immediately" elsewhere in the 
+Brady Act.  Describing the NICS and the Attorney General's 
+obligation to make information available to firearms dealers, 
+Congress referred to a system of information "to be supplied 
+
+immediately."  Brady Act s 103(b), 107 Stat. at 1541.  Yet 
+when in section 922(t)(2)(C) Congress directed the Attorney 
+General to "destroy" the information, it did not specify "im-
+mediately."  The word's absence indicates to us that Con-
+gress has not unambiguously required immediate destruction 
+of NICS records.
+
+     The NRA argues that, read in context, section 922(t)(2)(C) 
+does in fact require immediate destruction of NICS records 
+relating to allowed transfers.  Its argument goes like this:  (1) 
+Congress intended the NICS to function as a database of 
+"information, to be supplied immediately, on whether receipt 
+of a firearm" would be prohibited by law.  Brady Act 
+s 103(b), 107 Stat. at 1541 (emphasis added).  (2) Because 
+under the statute, providing a NICS identification number 
+signals a gun dealer that a transfer may proceed, see 18 
+U.S.C. s 922(t)(1)(B)(i), the "assign" and "provide" mandates 
+of sections 922(t)(2)(A) and (B) must be executed immediate-
+ly.  (3) "The 'destroy' mandate [of section 922(t)(2)(C)] is part 
+and parcel of this system, and compliance with that mandate 
+must also be immediate."  Appellants' Br. at 21.
+
+     We agree with the first two steps of the NRA's reasoning.  
+The statute clearly requires NICS identification numbers to 
+be both assigned and provided immediately.  See Brady Act 
+s 103(b), 107 Stat. at 1541;  18 U.S.C. s 922(t)(1)(B)(i);  but cf. 
+28 C.F.R. s 25.6(c)(1)(ii) (providing identification numbers 
+prior to conducting background searches).  Destruction of 
+NICS records, however, plays no role in either authorizing or 
+rejecting firearm transfers--the action that section 103(b) 
+requires to be taken immediately.  NICS record examiners 
+can complete the "assign" and "provide" tasks and respond 
+immediately to gun dealers without immediately destroying 
+the information.  The "destroy" mandate is thus not "part 
+and parcel" of "assign" and "provide."
+
+     Our conclusion that section 922(t)(2)(C) does not unambigu-
+ously require immediate destruction of NICS records finds 
+support in the Act's legislative history.  As reported to the 
+House by the Judiciary Committee, the Brady bill contained 
+no destruction requirement at all.  See H.R. Rep. No. 
+
+103-344 (1993), reprinted in 1993 U.S.C.C.A.N. 1984.  The 
+obligation to destroy NICS records was added during floor 
+debate.  As passed by the House, the bill stated that the 
+system shall "immediately destroy all records" of allowed 
+transactions.  See 139 Cong. Rec. H9098, 9123, 9144 (daily ed. 
+Nov. 10, 1993).  The Conference Committee, however, 
+adopted the Senate's version of the destruction requirement, 
+which did not contain "immediately."  Compare 139 Cong. 
+Rec. H9123 (daily ed. Nov. 10, 1993) (House version), with 139 
+Cong. Rec. S16506 (daily ed. Nov. 19, 1993) (Senate version).  
+It was this version that both houses approved and the Presi-
+dent signed.
+
+     To be sure, as the NRA points out, the Conference Report 
+did not list the absence of "immediately" among the substan-
+tive differences between the House and Senate bills.  See 
+H.R. Conf. Rep. No. 103-412 (1993), reprinted in 1993 
+U.S.C.C.A.N. 2011.  But this does not change the critical fact:  
+The word "immediately," which had appeared in the House 
+bill, is missing from the final Act.  Although not necessarily 
+reflecting congressional intent not to require immediate de-
+struction, see Hammontree v. NLRB, 925 F.2d 1486, 1492 
+(D.C. Cir. 1991) (en banc), this omission supports our conclu-
+sion that congressional intent on the precise question before 
+us--the sole focus of Chevron one inquiry--is at least ambig-
+uous.
+
+     The parties debate the significance of subsequent legisla-
+tive developments.  An appropriations rider, expressly re-
+sponding to the proposed Audit Log, would have conditioned 
+NICS funding on the "immediate destruction of all informa-
+tion" relating to persons eligible to possess firearms.  See 144 
+Cong. Rec. S8680 (daily ed. July 21, 1998) (proposed amend-
+ment no. 3233).  As in the case of the Brady Act itself, the 
+word "immediately" was deleted from the final act.  See 
+Omnibus Consolidated and Emergency Supplemental Appro-
+priations Act of 1999 s 621(2), Pub. L. No. 105-277;  see also 
+An Act Making Consolidated Appropriations For the Fiscal 
+Year Ending September 30, 2000, and For Other Purposes 
+s 619(2), Pub. L. No. 106-113 (using the same language).  
+Also, two bills that would have imposed criminal penalties on 
+
+government employees who retain NICS records for more 
+than twenty-four hours were introduced but never passed.  
+See No Gun Tax Act of 1998, H.R. 3949, 105th Cong.;  Fire-
+arms Owner Privacy Act of 1998, S. 2175, 105th Cong. s 2.  
+Heeding the Supreme Court's recent warning, "[w]e do not 
+rely on Congress' failure to act" as dispositive evidence of 
+congressional intent.  Brown & Williamson, 120 S. Ct. at 
+1312.  At the same time, this post-Brady Act legislative 
+activity reflects no unambiguous congressional intent to re-
+quire immediate destruction of NICS records.  Indeed, the 
+effort to require immediate destruction goes on:  A bill now 
+pending in the Senate once again calls for records of allowed 
+transfers to be destroyed immediately.  See Right to Bear 
+Arms Privacy and Protection Act of 2000, S. 2270, 106th Cong. 
+s 5(b).
+
+     Our dissenting colleague finds the absence of "immediate-
+ly" in section 922(t)(2)(C) of no consequence because "[i]n no 
+case has a court held that power has been granted to a 
+federal agency by Congress's failure to enact a limitation to a 
+directly contradictory statutory command."  Slip Op. at 7 
+(Sentelle, J., dissenting).  But the Attorney General does not 
+claim authority for the Audit Log regulation from the absence 
+of "immediately," nor from any other congressional failure to 
+prohibit temporary retention of NICS records.  Instead, the 
+Attorney General relies on two separate grants of affirmative 
+authority, i.e., sections 103(b) and 103(h) of the Brady Act.  
+Before we can evaluate the reasonableness of the Attorney 
+General's interpretation of those two sections, however, we 
+must consider the NRA's remaining Chevron one arguments, 
+i.e., that two other provisions of the Brady Act unambiguous-
+ly prevent temporary retention of NICS information, for if 
+the NRA is correct, "that is the end of the matter."  Chevron, 
+467 U.S. at 842.  The two provisions appear in section 103(i):
+
+     Prohibition Relating to Establishment of Registration 
+     Systems with Respect to Firearms.
+     
+     No department, agency, officer, or employee of the Unit-
+     ed States may--
+     
+          (1) require that any record or portion thereof generat-
+          ed by the [NICS] be recorded at or transferred to a 
+          facility owned, managed, or controlled by the United 
+          States or any State or political subdivision thereof;  or 
+          (2) use the [NICS] to establish any system for the 
+          registration of firearms, firearm owners, or firearm 
+          transactions or dispositions, except with respect to 
+          persons, prohibited [by law], from receiving a firearm. 
+          
+Brady Act s 103(i), 107 Stat. at 1542.
+
+     The NRA contends that the Audit Log represents a "clear 
+violation" of subsection (1) because the Log "constitutes 'any 
+record or portion thereof generated by' NICS, and it is 
+'recorded at or transferred to' a federal facility."  Appellants' 
+Br. at 11-12.  Several considerations persuade us that sub-
+section (1) is not so clear.  To begin with, the statute's 
+prohibition against "record[ing]" a "record" is inherently am-
+biguous.  What is a "record," when has it been "recorded," 
+and what kind of "record" cannot be "recorded?"  When a 
+NICS operator enters the name of a prospective purchaser 
+into the system, is that a "record?"  Has it been "recorded?"  
+If not, when does it become a "record" that cannot be 
+"recorded?"
+
+     In addition to the inherent ambiguity of these words, 
+section 922(t)(2)(C) speaks of "destroy[ing] all records" relat-
+ing to allowed transfers, apparently assuming that records 
+may be created.  Asked about this at oral argument, NRA 
+counsel conceded that records could lawfully be kept for three 
+business days while research is undertaken following a "de-
+layed" response.  See 18 U.S.C. s 922(t)(ii);  28 C.F.R. 
+s 25.6(c)(1)(iv)(B).  If the NRA's answer is correct--we think 
+it is--then subsection (1) cannot categorically prohibit the 
+government from making records of NICS information.
+
+     Moreover, if subsection (1) forbade the government from 
+recording NICS information, it would directly conflict with 
+other provisions of the Brady Act.  Subsection (1) reaches 
+"any [NICS] record or portion thereof," yet the Brady Act 
+expressly authorizes the government to retain certain records 
+of NICS transactions.  For example, it permits retention of 
+
+records relating to denied firearm transfers.  See Brady Act 
+s 103(i)(2), 107 Stat. at 1542 (forbidding use of the NICS to 
+establish a firearm registry "except with respect to persons 
+prohibited [by law] from receiving a firearm");  18 U.S.C. 
+s 922(t)(2) (requiring destruction of NICS records only if 
+"receipt of a firearm would not [be unlawful]").  Even with 
+respect to allowed transfers, section 922(t)(2)(C) permits re-
+tention of certain portions of NICS records.  18 U.S.C. 
+s 922(t)(2)(C) (allowing permanent retention of NICS identifi-
+cation numbers and the dates those numbers were assigned).  
+These limitations on the obligation to destroy NICS records 
+would have no meaning if subsection (1) barred recording of 
+any information generated by the NICS.
+
+     To avoid the first of these inconsistencies, the NRA urges 
+us to read into subsection (1) the clause "except with respect 
+to persons, prohibited [by law], from receiving a firearm," 
+which appears at the end of subsection (2) (the no firearm 
+registry provision).  " 'The short answer [to this argument] is 
+that Congress did not write the statute that way.' "  Russello 
+v. United States, 464 U.S. 16, 23 (1983) (quoting United 
+States v. Naftalin, 441 U.S. 768, 773 (1979)).  The language 
+applicable to both subsections (1) and (2)--"No department, 
+agency, officer, or employee of the United States may"--
+appears in the introductory text, not in the text of the 
+subsections.  Had Congress intended the language excepting 
+denied transfers to apply to both subsections, it would have 
+included that language in the introductory text as well.  So 
+written, the statute would have read:  "If a firearm transfer 
+would not be unlawful, no department, agency, officer, or 
+employee of the United States may...."  Indeed, that is just 
+how Congress wrote section 922(t)(2), in which the phrase, "If 
+receipt of a firearm would not [be unlawful]," precedes the 
+separately enumerated requirements to "assign," "provide," 
+and "destroy."  Because similarly qualifying language ap-
+pears neither in section 103(i)'s introductory text nor in 
+subsection (1), we can only conclude that subsection (1) 
+reaches, as its plain text indicates, "any record ... generated 
+by the [NICS]."
+
+     Claiming its interpretation of subsection (1) does not con-
+flict with section 922(t)(2)(C)'s requirement that transaction 
+numbers be retained, the NRA argues that Congress can 
+always "establish a general rule" and then "make exceptions."  
+Appellants' Reply Br. at 9.  Of course Congress may carve 
+out particular exceptions to a general mandate.  Indeed, 
+section 922(t)(2)(C) does precisely that, requiring destruction 
+of all records of allowed transfers "other than the identifying 
+number and the date the number was assigned."  18 U.S.C. 
+s 922(t)(2)(C).  Subsection (1), however, contains no similar 
+qualification.  "[W]here Congress includes particular lan-
+guage in one section of a statute but omits it in another 
+section of the same Act, it is generally presumed that Con-
+gress acts intentionally and purposely in the disparate inclu-
+sion or exclusion."  Russello, 464 U.S. at 23 (quoting United 
+States v. Wong Kim Bo, 472 F.2d 720, 722 (5th Cir. 1972) 
+(alteration in original)).  Accordingly, we presume that when 
+Congress excluded qualifying language from subsection (1), it 
+did so intentionally.
+
+     Our conclusion that subsection (1) does not unambiguously 
+prohibit the government from recording NICS information is 
+reinforced by the fact that the Attorney General has ad-
+vanced an alternative plausible interpretation.  Emphasizing 
+the word "require," she argues that the statute only prohibits 
+the government from requiring third parties, such as firearm 
+dealers, from recording information at a government facility.  
+Had Congress intended subsection (1) to have the meaning 
+the NRA gives it, the Attorney General argues, the statute 
+presumably would have read:  "No department, agency, offi-
+cer, or employee of the United States may--(1) record any 
+record or portion thereof generated by the [NICS] ... at a 
+[government] facility . ..."  That is precisely how Congress 
+wrote subsection (2), which, unlike subsection (1), directly 
+prohibits the government from using the system as a firearm 
+registry;  it does not prohibit the government from requiring 
+that it be used as such.  Though we owe no deference to the 
+Attorney General's interpretation of statutory language at 
+this stage of Chevron analysis, the plausibility of her view 
+highlights the statute's ambiguity.  See United States v. 
+
+Nozfiger, 878 F.2d 442, 446-47 (D.C. Cir. 1989) (a statute is 
+ambiguous if it can be read in more than one way).
+
+     This brings us to subsection (2), which forbids the govern-
+ment from "us[ing] the [NICS] system ... to establish any 
+system for the registration of firearms, firearm owners, or 
+firearm transactions or dispositions."  According to the NRA, 
+the Audit Log regulation violates this subsection because the 
+Audit Log is itself a "form of registration."  Appellants' Br. 
+at 15.  But subsection (2) does not prohibit all forms of 
+registration.  It prohibits only "system[s] for the registration 
+of firearms, firearm owners, or firearm transactions or dispo-
+sitions."  The Audit Log is not such a system.  As designed 
+by the Attorney General, it functions as a system for protect-
+ing the privacy of the NICS and for quality control.  The 
+Audit Log regulation expressly provides that "[i]nformation 
+in the Audit Log pertaining to allowed transfers may only be 
+used by the FBI for the purpose of conducting audits of the 
+use and performance of the NICS."  28 C.F.R. s 25.9(b)(2).  
+To enforce this restriction, "[t]he Audit Log will be monitored 
+and reviewed on a regular basis to detect any possible misuse 
+of the NICS data."  Id.
+
+     The Audit Log, moreover, contains no information about 
+"firearms" or "firearm transactions or dispositions."  Nor 
+does it contain a comprehensive list of "firearm owners."  To 
+be sure, the Log includes names of persons approved to buy 
+firearms in the past six months, but as the Attorney General 
+observes, "[t]he six-month snapshot of potential firearms 
+transferees in the audit log reveals virtually nothing about 
+the universe of firearms owners in the United States."  Ap-
+pellee's Br. at 26.
+
+     To illustrate the difference between the Audit Log and a 
+firearms registry, the Attorney General calls our attention to 
+the central registry of machine guns established by the 
+National Firearms Act.  See 26 U.S.C. s 5841.  The machine 
+gun registry contains information on all machine guns not 
+possessed by the United States, including data on the weap-
+ons themselves, dates of registration, and the names and 
+addresses of persons entitled to posses them.  Id. 
+
+s 5841(a)(1)-(3).  Far less comprehensive, the Audit Log in-
+cludes no addresses of persons approved to buy firearms, nor 
+any information on specific weapons, nor even whether ap-
+proved gun purchasers actually completed a transaction.  
+And unlike the machine gun registry, information in the Audit 
+Log is routinely purged after six months.  The Audit Log 
+therefore represents only a tiny fraction of the universe of 
+firearm owners.
+
+     It does not follow, of course, that the Audit Log could never 
+function as a firearm registry.  But the Log's deficiencies as 
+a system for registering firearms make it unlikely that it 
+would be used for that purpose.  Indeed, the NRA does not 
+allege that the FBI has used the Audit Log for purposes 
+other than "conducting audits of the use and performance of 
+the NICS."  28 C.F.R. s 25.9(b)(2).  The NRA's argument 
+rests entirely on the fact that the Audit Log contains the 
+names of persons approved to buy firearms in the past six 
+months.  This is not enough to convert the Log into a 
+"system for the registration" of firearm owners.  The Audit 
+Log regulation is therefore not prohibited by section 103(i)(2).
+
+                               III.
+
+     Having found nothing in either section 922(t)(2)(C) or sec-
+tion 103(i) that unambiguously prohibits temporary retention 
+of NICS records of allowed transactions for audit purposes, 
+we turn to an examination of the affirmative grants of author-
+ity on which the Attorney General relies.  She finds authority 
+for the Audit Log regulation in two provisions of the Brady 
+Act:  section 103(b), which requires the Attorney General to 
+establish a system capable of immediately providing informa-
+tion on whether a firearm transfer would be unlawful, and 
+section 103(h), which requires the Attorney General to pre-
+scribe regulations to protect the system's security and priva-
+cy.  Because neither provision speaks directly to the creation 
+of an Audit Log, we evaluate the Attorney General's argu-
+ments pursuant to the second step of Chevron analysis, 
+asking whether the Audit Log regulation reflects "a permissi-
+ble construction of the statute."  Chevron, 467 U.S. at 843.  
+
+"Such deference," the Supreme Court recently explained, "is 
+justified because 'the responsibilities for assessing the wisdom 
+of ... policy choices and resolving the struggle between 
+competing views of the public interest are not judicial ones,' 
+... and because of the agency's greater familiarity with the 
+ever-changing facts and circumstances surrounding the sub-
+jects regulated."  Brown & Williamson, 120 S. Ct. at 1300 
+(quoting Chevron, 467 U.S. at 866).  And, as we have said, 
+"[a]s long as the agency stays within [Congress'] delegation, it 
+is free to make policy choices in interpreting the statute, and 
+such interpretations are entitled to deference."  Arizona 
+Public Service Co. v. EPA, 211 F.3d 1280, ___, 2000 WL 
+493047,*5 (D.C. Cir. 2000) (internal quotation marks omitted) 
+(second alteration in original).  So long as the agency's 
+interpretation is reasonable, we uphold it "regardless whether 
+there may be other reasonable, or even more reasonable, 
+views."  Allied Local and Regional Manufacturers Caucus v. 
+EPA, No. 98-1526, ___ F.3d ___, ___, 2000 WL 737750, *7 
+(D.C. Cir. 2000) (internal quotation marks omitted).
+
+     Before considering the Attorney General's interpretation of 
+the Act, however, we must address the NRA's contention that 
+"[n]o deference is due to the Attorney General in interpreta-
+tion of statutory provisions intended to protect the privacy 
+rights of private citizens from the Attorney General."  Appel-
+lants' Br. at 30.  In support of this fox-guarding-the-henhouse 
+argument, the NRA cites Independent Insurance Agents of 
+America, Inc. v. Board of Governors of the Federal Reserve 
+System, 838 F.2d 627, 632 (2d Cir. 1988), in which the Second 
+Circuit admonished:  "Courts construing statutes enacted spe-
+cifically to prohibit agency action ought to be especially 
+careful not to allow dubious arguments advanced by the 
+agency ... to thwart congressional intent expressed with 
+reasonable clarity, under the guise of deferring to agency 
+expertise...."  We do not read Independent Insurance 
+Agents to have added anything new to Chevron analysis, 
+much less to have abandoned customary Chevron two defer-
+ence.  Courts always try not to defer to "dubious" agency 
+arguments, or to "thwart" congressional intent.  Mindful that 
+
+Congress has acted to curtail the Attorney General's authori-
+ty, we proceed with ordinary Chevron two analysis.
+
+     The first Brady Act provision on which the Attorney Gen-
+eral relies is section 103(b):  "[T]he Attorney General shall 
+establish a national instant criminal background check system 
+that any [gun dealer] may contact ... for information, to be 
+supplied immediately, on whether receipt of a firearm by a 
+prospective transferee would [be unlawful]."  Brady Act 
+s 103(b), 107 Stat. at 1541.  According to the Attorney Gen-
+eral, "Congress would not have ordered her to establish the 
+NICS without being able to ensure that the system [is] 
+working," i.e., performing as Congress intended.  Appellee's 
+Br. at 18.  As explained in the preamble to the NICS 
+regulation:
+
+     In order to meet her responsibility to maintain the 
+     integrity of Department systems ... the Attorney Gen-
+     eral must establish an adequate system of oversight and 
+     review.  Consequently, the FBI has proposed to retain 
+     records of approved transactions in an audit log for a 
+     limited period of time solely for the purpose of satisfying 
+     the statutory requirement of ensuring the privacy and 
+     security of the NICS and the proper operation of the 
+     system.
+     
+NICS Regulation, 63 Fed. Reg. at 58303.  More specifically, 
+"[a]udits can ... determine whether potential handgun pur-
+chasers or [gun dealers] have stolen the identity of innocent 
+and unsuspecting individuals or otherwise submitted false 
+identification information, in order to thwart the name check 
+system.  The Audit Log will also allow the FBI to perform 
+quality control checks on the system's operation by reviewing 
+the accuracy of the responses given by the NICS record 
+examiners to gun dealers."  Id. at 58303-04.  Reiterating this 
+point, the March 1999 notice of proposed rulemaking states 
+that "[a]udits of the use of the NICS are considered essential 
+... to ensure that the system is operating in the manner 
+required by the Brady Act."  National Instant Criminal-
+Background Check System Regulation, 64 Fed. Reg. at 
+10263.  The Attorney General's brief describes the function of 
+the Audit Log in more detail:
+
+     The audit log enables the FBI to monitor the use of the 
+     NICS by firearms dealers, states serving as points of 
+     contact, and FBI personnel.  The FBI also examines 
+     whether the FBI employees and contractors are making 
+     correct determinations as to whether potential transfer-
+     ees are disqualified, to ensure that "proceed" responses 
+     are not being supplied with regard to persons who are 
+     disqualified.  Decisions to allow a firearm purchase are 
+     not fully automated, and thus officials must review and 
+     evaluate records before making a decision.  Review of 
+     decisions made by NICS examiners is necessary to en-
+     sure that responsible individuals make correct decisions 
+     on whether a transfer is permissible, and to enable 
+     supervisors to provide additional training where neces-
+     sary.
+     
+Appellee's Br. at 16 (internal citations omitted).  In addition, 
+the Audit Log is "vital to ensuring that the system (including 
+its software) is working properly from a technical standpoint."  
+Appellee's Br. at 17.
+
+     We think the Attorney General's position represents a 
+reasonable interpretation of section 103(b)'s requirement that 
+the NICS provide "information" on whether firearm transfers 
+would be unlawful.  The Audit Log, according to the Attorney 
+General, is essential to ensuring the accuracy of that "infor-
+mation."  Auditing enables the Attorney General to learn 
+whether NICS operators and state points of contact are 
+making accurate determinations.  In short, the Attorney Gen-
+eral uses the Audit Log to accomplish the very purpose of the 
+Gun Control and Brady Acts, i.e., to ensure that individuals 
+not authorized to possess firearms are unable to purchase 
+them.
+
+     Disputing the need for an Audit Log, the NRA contends 
+that quality control measures can be undertaken contempora-
+neously with background checks.  This may be true, but we 
+have no way of knowing whether contemporaneous quality 
+control would ensure that the NICS operates as Congress 
+required.  Nor is it our function to make that judgment.  
+"[I]t is the agencies, not the courts, that have the technical 
+
+expertise and political authority to carry out statutory man-
+dates."  General Elec. Co. v. EPA, 53 F.3d 1324, 1327 (D.C. 
+Cir. 1995).
+
+     Our conclusion that the Audit Log regulation represents a 
+reasonable interpretation of section 103(b) finds support from 
+the fact that auditing is not unusual for computerized systems 
+like the NICS.  For example, Justice Department regulations 
+require audits of another computerized database, the Crimi-
+nal History Record Information System, in order to "verify 
+adherence" to applicable law.  28 C.F.R. s 20.21(e);  see also 
+id. s 20.1 (stating the purpose of the CHRI system).  The 
+regulations further require that "appropriate records ... be 
+retained to facilitate such audits."  Id. s 20.21(e).  We thus 
+have no reason to believe that the Attorney General main-
+tains the Audit Log for some sinister purpose.
+
+     The Attorney General also relies on section 103(h):  "[T]he 
+Attorney General shall prescribe regulations to ensure the 
+privacy and security of the information of the system...."  
+Brady Act s 103(h), 107 Stat. at 1542.  The regulation's 
+preamble explains how the Audit Log performs this function:  
+"By auditing the system, the FBI can identify instances in 
+which the NICS is used for unauthorized purposes, such as 
+running checks of people other than actual gun transferees, 
+and protect against the invasions of privacy that would result 
+from such misuse."  NICS Regulation, 63 Fed. Reg. at 58303.
+During the debates on the Brady bill, Senator Leahy put the
+concern this way:
+     I am concerned about giving every gun dealer in the
+     country access to people's private lives....  My con-
+     cerns are that access to the background check system 
+     may be abused.... [S]omebody is a neighbor and says,
+      "I really don't care too much for those people who moved 
+     down the street.  Check them out for me."  I find that a 
+     little bit unsettling.
+
+139 Cong. Rec. S16326, S16327 (daily ed. Nov. 19, 1993) 
+(statement of Sen. Leahy).
+
+     The NRA offers a different interpretation of the statute's 
+references to privacy and security.  As the NRA sees it, the 
+statute is concerned about the privacy of only lawful firearm 
+purchasers.  Appellants' Br. at 24.  This certainly represents 
+one possible, indeed, quite reasonable interpretation of sec-
+tion 103(h).  But because the statute nowhere identifies pre-
+cisely whose privacy interests are protected, we defer to the 
+Attorney General's interpretation so long as it is reasonable.  
+See Chevron, 467 U.S. at 843 & n.11.  Here, the Attorney 
+General, the official responsible for establishing and manag-
+ing a nationwide database of personal information, has deter-
+mined that auditing is necessary to ensure that the system is 
+not used for unauthorized purposes.  Absent evidence that 
+this concern is misplaced, we have no basis for second-
+guessing the Attorney General's judgment.
+
+     The NRA argues that the Attorney General lacks authority 
+to investigate abuses involving gun dealers, pointing out that 
+enforcement of the Gun Control Act (which the Brady Act 
+amended) is vested in the Secretary of the Treasury.  See 
+Gun Control Act of 1968 s 103, Pub. L. No. 90-618, 82 Stat. 
+1213, 1226.  The Brady Act, however, requires the Attorney 
+General, not the Treasury Secretary, to prescribe regulations 
+to protect the system's privacy.
+
+     The NRA next contends that use of the Audit Log to 
+uncover system abuses would "necessarily require warrant-
+less inspection of [gun dealers' records] not based on clear 
+statutory grounds, and thus violate the Fourth Amendment."  
+Appellants' Br. at 36.  Urging us not to entertain this claim, 
+the Attorney General argues that the NRA lacks standing to 
+assert the Fourth Amendment rights of gun dealers, that the 
+NRA's argument is unripe, and that the NRA failed to plead 
+a Fourth Amendment claim in its complaint.
+
+     We think the Attorney General misconstrues the NRA's 
+argument.  As we understand it, the NRA asserts no current 
+Fourth Amendment violation, but urges us to adopt an inter-
+pretation of the Brady Act that, according to the NRA, is 
+necessary to avoid constitutional doubt.  Although courts 
+certainly must construe statutes to avoid " 'grave and doubt-
+
+ful constitutional questions,' " Jones v. United States, 526 
+U.S. 227, 239 (1999) (quoting United States ex rel. Attorney 
+General v. Delaware & Hudson Co., 213 U.S. 366, 408 (1909)), 
+we have no basis for crediting the NRA's assertion that the 
+Attorney General's interpretation of the Brady Act raises 
+such questions.  To begin with, the March 1999 proposed 
+rulemaking explains that audits of firearm dealers will be 
+performed in conjunction with the Bureau of Alcohol, Tobacco 
+and Firearms' existing system of inspection.  National In-
+stant Criminal Background Check System Regulation, 64 
+Fed. Reg. at 10263.  Unless that system already violates the 
+Fourth Amendment--the NRA never alleges that it does--we 
+see no basis for concluding that auditing the NICS would 
+suddenly produce constitutional violations.  Nor does the 
+NRA identify any specific features of the auditing process 
+that implicate constitutionally protected rights.  In short, the 
+NRA only speculates that the government could not uncover 
+abuses of privacy involving the NICS without violating the 
+Fourth Amendment.
+
+     Our conclusion that the Audit Log regulation reasonably 
+implements sections 103(b) and 103(h) disposes of the NRA's 
+argument that retention of NICS records for six months is 
+unreasonable when compared with another section of the 
+Brady Act providing for interim background checks during 
+the five-year period the NICS was under development.  Per-
+formed by state or local chief law enforcement officers, known 
+as "CLEOs," these interim checks were to be completed 
+within five business days if possible, 18 U.S.C. s 922(s)(2) 
+(held unconstitutional in Printz v. United States, 521 U.S. 898 
+(1997)), and records of allowed transfers destroyed within 
+twenty business days.  18 U.S.C. s 922(s)(6)(B)(i).  Observ-
+ing that "[t]he records generated under these [interim] provi-
+sions were paper, not computer records [like the NICS] 
+capable of instant destruction," the NRA asserts that "[i]t is 
+impossible to comprehend Congress intending to allow ... 
+federal employees who could destroy computerized records 
+with the push of a button to keep them for six months."  
+Appellants' Br. at 22.
+
+     The answer to the NRA's argument is that Congress has 
+given the Attorney General far more responsibility for over-
+sight and implementation of the background check system 
+than it had given CLEOs who performed interim checks.  
+CLEOs were required to search "whatever State and local 
+recordkeeping systems [were already] available and ... a 
+national system designated by the Attorney General."  18 
+U.S.C. s 922(s)(2).  By comparison, section 103(b) required 
+the Attorney General to establish a background check system 
+capable of supplying information immediately.  Brady Act 
+s 103(b), 107 Stat. at 1541.  The Brady Act gave CLEOs no 
+affirmative oversight responsibilities.  By comparison, section 
+103(h) required the Attorney General to "prescribe regula-
+tions to ensure the privacy and security of the information of 
+the system."  Brady Act s 103(h), 107 Stat. at 1542.  Per-
+forming these additional section 103(b) and 103(h) duties is 
+precisely why the Attorney General claims a need temporarily 
+to retain NICS records.  Having found the Attorney Gener-
+al's interpretation of these two provisions reasonable, we 
+think it not at all "impossible to comprehend" that she would 
+have authority to retain information longer than CLEOs.
+
+     The cases relied on by our dissenting colleague do not 
+require a different result.  In American Petroleum Institute 
+v. EPA, 52 F.3d 1113 (D.C. Cir. 1995), we invalidated a 
+regulation that implemented a statutory directive to reduce 
+air pollution caused by reformulated gasoline.  The regulation 
+required use of "renewable oxygenates," which, though con-
+serving fossil energy resources and perhaps providing global 
+warming benefits, "might possibly make air quality worse."  
+Id. at 1119.  For authority to require use of renewable 
+oxygenates, the agency relied only on the reformulated gaso-
+line statute and a general provision permitting it to "pre-
+scribe such regulations as are necessary to carry out [its] 
+functions."  42 U.S.C. s 7601(a)(1).
+
+     Finding that the agency's fossil fuel and global warming 
+objectives exceeded its authority, we observed that "[t]he sole 
+purpose of the [reformulated gasoline] program is to reduce 
+air pollution."  API, 52 F.3d at 1119.  Although, as EPA 
+argued, the reformulated gasoline provision nowhere express-
+
+ly prohibited the renewable oxygenate requirement, the dis-
+positive fact was that nothing in the statute authorized it:
+
+     In effect, EPA argues that because Congress has not 
+     explicitly limited its authority to promulgate a renewable 
+     oxygenate requirement, its interpretation of section 
+     7545(k)(1) thus passes Chevron's first step, and this court 
+     must then defer to its expansive interpretation of the 
+     section under Chevron's second step.  To suggest, how-
+     ever, "that Chevron step two is implicated any time a 
+     statute does not expressly negate the existence of a 
+     claimed administrative power (i.e. when the statute is not 
+     written in 'thou shalt not' terms), is both flatly unfaithful 
+     to the principles of administrative law ..., and refuted 
+     by precedent."  Thus, we will not presume a delegation 
+     of power based solely on the fact that there is not an 
+     express withholding of such power.
+     
+Id. at 1120 (quoting Railway Labor Executives' Ass'n v. 
+National Mediation Bd., 29 F.3d 655, 671 (D.C. Cir.1994) (en 
+banc) (first alteration in original)).
+
+     This case differs from API in two critical respects.  First, 
+the Attorney General claims no authority for the Audit Log 
+regulation from the absence of an explicit limitation, such as 
+the fact that the word "immediately" does not appear in 
+section 922(t)(2)(C).  Instead, she relies on sections 103(b) 
+and 103(h), and it is her interpretation of those affirmative 
+grants of authority--not the statute's failure to "expressly 
+negate the existence of a claimed administrative power"--that 
+implicates Chevron two.  Thus, we do not "presume a delega-
+tion of power based solely on the fact that there is not an 
+express withholding of such power."  API, 52 F.3d at 1120.  
+Instead, we conclude that the Attorney General has reason-
+ably interpreted sections 103(b) and 103(h) to authorize NICS 
+auditing--a question we could not even have reached without 
+first determining whether section 922(t)(2)(C) expressly pro-
+hibits auditing.
+
+     Second, the Attorney General does not rely on a general 
+provision empowering her to prescribe regulations necessary 
+
+to carry out her statutory functions.  She issued the Audit 
+Log regulation to perform functions expressly authorized by 
+sections 103(b) and 103(h).  Far from "tak[ing] on additional 
+powers," Slip Op. at 3 (Sentelle, J., dissenting), the Attorney 
+General has merely carried out the tasks that Congress 
+expressly delegated to her.
+
+     Equally distinguishable, Halverson v. Slater, 129 F.3d 180 
+(D.C. Cir. 1997), involved a challenge to a Department of 
+Transportation regulation delegating certain responsibilities 
+under the Great Lakes Pilotage Act to the Saint Lawrence 
+Seaway Development Corporation.  For authority to issue 
+the regulation, the Secretary had relied on general statutory 
+authority to delegate secretarial responsibilities.  The Secre-
+tary argued that a different statute, one that expressly autho-
+rized delegation of Pilotage Act responsibilities to Coast 
+Guard officials, did not prohibit the delegation to the Corpo-
+ration because nothing in that statute "expressly prohibit[ed] 
+delegation of [these] powers and duties to a non-Coast Guard 
+official."  Id. at 186.  Invalidating the delegation, we conclud-
+ed that "the absence of an express proscription ... provides 
+no green light to ignore the proscription necessarily implied 
+by the limiting language of [the Coast Guard statute]."  Id. at 
+187.
+
+     Our dissenting colleague, arguing that this case also in-
+volves "a statute conferring specific powers upon a cabinet 
+officer,"--i.e., "assign," "provide," and "destroy"--concludes 
+that the Audit Log regulation exceeds Congress' grant of 
+authority.  Slip Op. at 4 (Sentelle, J., dissenting).  This case 
+and Halverson, however, are quite different.  The two stat-
+utes at issue in Halverson regulated precisely the same 
+secretarial function--delegation of authority.  Obviously the 
+more specific statute controlled.  But here, section 922(t)(2) 
+and the two provisions relied on by the Attorney General 
+concern entirely different functions.  We thus have no reason 
+to believe that section 922(t)(2)'s "assign," "provide," and 
+"destroy" directives implicitly restrict the Attorney General's 
+authority to implement sections 103(b) and 103(h).
+
+     The Supreme Court recently faced a similar situation in 
+Christensen v. Harris County, No. 98-1167, Slip Op. (U.S. 
+
+2000).  There, county employees challenged a county policy 
+requiring them to schedule paid leave as compensation for 
+overtime in lieu of cash compensation.  They argued that a 
+provision of the Fair Labor Standards Act requiring that 
+eligible employees be granted paid leave within a reasonable 
+time of requesting it "provide[d] the exclusive means of 
+utilizing accrued time."  Id. at 4.  In other words, because 
+the FLSA did not expressly allow employers to require leave 
+in lieu of cash compensation, the employees argued, the 
+County could not do so.  The Supreme Court disagreed.  
+Acknowledging that " '[w]hen a statute limits a thing to be 
+done in a particular mode, it includes a negative of any other 
+mode,' " the Court found that the "thing to be done" by the 
+relevant provision was not the same task accomplished by the 
+challenged policy.  Id. at 6-7 (quoting Raleigh & Gaston R. 
+Co. v. Reid, 13 Wall. 269, 270 (1872) (alteration in original)).  
+The statutory provision does not "se[t] forth the exclusive 
+method" of implementing FLSA's compensatory leave provi-
+sions;  it is instead "more properly read as a minimal guaran-
+tee" that employees may receive compensatory leave upon 
+request.  Id. at 7.
+
+     So too here.  Section 922(t)(2) does not "set forth the 
+exclusive method" by which the Attorney General may satisfy 
+her statutory obligations;  it is "more properly read as a 
+minimal guarantee" that transaction numbers will be provided 
+for approved transfers and that records relating to those 
+transfers will be destroyed.  Id. at 7.  This the Attorney 
+General has done.  As to our dissenting colleague's discussion 
+of Christensen, we do not rely on the case for the proposition 
+that "legislative silence empowered a federal agency to act."  
+Slip Op. at 5 n. 1 (Sentelle, J., dissenting);  see supra at 10, 
+15, 23.
+
+     To sum up, keeping in mind Chevron two's highly deferen-
+tial standard, we find that the Audit Log regulation repre-
+sents a "permissible construction" of sections 103(b) and 
+103(h).  Chevron, 467 U.S. at 843.  We think it "common 
+sense"--Brown & Williamson's Chevron one words that 
+seem equally applicable at Chevron two--that Congress, hav-
+ing directed the Attorney General to establish a system for 
+preventing disqualified persons from purchasing firearms, 
+
+would expect the Attorney General to ensure that the system 
+produces accurate information and guards against misuse.  
+Indeed, by limiting retention of NICS information to "the 
+minimum reasonable period for performing audits on the 
+system," the Attorney General has obeyed the "destroy" 
+command of section 922(t)(2)(C) while fulfilling her section 
+103(b) and 103(h) responsibilities.  NICS Regulation, 63 Fed. 
+Reg. at 58304.
+
+                               IV.
+
+     We turn to the NRA's final argument:  that the Attorney 
+General has improperly exempted state agencies from the 
+Brady Act's record destruction requirement.  Because state 
+and local agencies may serve as "points of contact" (POCs) 
+for the purpose of processing NICS queries, see 28 C.F.R. 
+s 25.2, gun dealers in POC states must submit NICS inqui-
+ries to the relevant state agency, not to the FBI.  See id. 
+s 25.6(d).
+
+     The Attorney General has determined that the Brady Act's 
+destruction requirement does not apply to information re-
+tained by state governments that is "part of a record system 
+created and maintained pursuant to independent state law."  
+Id. s 25.9(d)(1), (d)(2).  The NRA argues that the Attorney 
+General lacks authority to create this exemption.  But be-
+cause "[t]he NRA does not contend that states may not have 
+their own background check systems (with their own record 
+destruction or retention requirements) or that federal law 
+preempts state law on this subject," Appellants' Reply Br. at 
+16, we understand the NRA to be claiming only that the 
+Attorney General has no authority to exempt POCs from the 
+Brady Act's destruction requirement with regard to informa-
+tion not maintained pursuant to state law.
+
+     If the regulation permitted retention of data not gathered 
+pursuant to state law, we would agree with the NRA that it 
+would violate the Brady Act's destruction requirement.  But 
+that is not how the Attorney General interprets the regula-
+tion.  As she sees it, the regulation merely clarifies that state 
+
+record retention requirements are not preempted by federal 
+law:
+
+     The reason for this clarification is to avoid interfering 
+     with state regulation of firearms.  If a state is perform-
+     ing a gun eligibility check under state law, and state law 
+     requires or allows the retention of the records of those 
+     checks, the state's retention of records of the concurrent 
+     performance of a NICS check would not add any more 
+     information about gun ownership than the state already 
+     retains under its own law.
+     
+NICS Regulation, 63 Fed. Reg. at 58304.  So long as the 
+Attorney General interprets the regulation as permitting 
+POCs to retain only data that would be kept pursuant to state 
+law, the regulation does not conflict with the Brady Act.  See 
+Buffalo Crushed Stone, Inc. v. Surface Transp. Bd., 194 F.3d 
+125, 128 (D.C. Cir. 1999) ("An agency's interpretation of its 
+own regulation merits even greater deference than its inter-
+pretation of the statute that it administers.").
+
+     The judgment of the district court is affirmed.
+
+                                                       So ordered.
+
+     Sentelle, Circuit Judge, dissenting:  In 1993, as part of 
+the Brady Handgun Violence Prevention Act, Pub. L. No. 
+103-159, 107 Stat. 1536 (1993) ("Brady Act"), Congress em-
+powered the Attorney General to "establish a national instant 
+criminal background check system" ("NICS") for determining 
+whether purchasers of firearms from federal licensees are 
+lawfully entitled to make such purchases.  Id. s 103(b), 107 
+Stat. at 1541.  Under the authorizing statute, with respect to 
+legal transfers of firearms, the "system" initiated by the 
+Attorney General is to "(A) assign a unique identification 
+number to the transfer;  (B) provide the licensee with the 
+number;  and (C) destroy all records of the system with 
+respect to the call (other than the identifying number and the 
+date the number was assigned) and all records of the system 
+relating to the person or the transfer."  18 U.S.C. s 922(t)(2) 
+(1994).  In purported reliance on the statutory provision, the 
+Attorney General has promulgated regulations which require 
+the Federal Bureau of Investigation ("FBI") to maintain an 
+automated audit log of all incoming and outgoing transactions 
+passing through the system including records of the "type of 
+transaction ..., line number, time, date of inquiry, header, 
+message key, ORI [originating agency identification number], 
+and inquiry/response data (including the name and other 
+identifying information about the prospective transferee and 
+the NTN [NICS transaction number])," inter alia.  28 C.F.R. 
+s 25.9(b)(1) (1999).  In the case of lawful transfers, the 
+regulations require the FBI to retain such records in the 
+audit log for six months after the date of each such transfer.  
+See id. The National Rifle Association, the Law Enforcement 
+Alliance of America, and various John and Jane Does (collec-
+tively "the NRA") sued to enjoin the operation of these 
+regulations.  The District Court granted summary judgment 
+in favor of the Attorney General.  Because the Attorney 
+General in the promulgation of these regulations has not only 
+exceeded the authority granted her under the cited section of 
+the statute, but has also violated express prohibitions of other 
+statutory sections, I would reverse.
+
+     I.   Statutory Authorization
+          
+     The Attorney General's authority to deal with the subject 
+matter of preclearance of handgun purchasers depends en-
+
+tirely upon congressional grant.  She does not and cannot 
+claim any inherent power over the subject matter from 
+constitutional or other sources.  Therefore, unless the Brady 
+Act empowers her to do what she has done, the regulations 
+are invalid.  Cf. American Petroleum Inst. v. United States 
+Envtl. Protection Agency, 52 F.3d 1113, 1119-20 (D.C. Cir. 
+1995) ("API");  Railway Labor Executives' Ass'n v. National 
+Mediation Bd., 29 F.3d 655, 670-71 (D.C. Cir. 1994) (en banc).  
+The statute is unambiguously limited in the extent of the 
+grant of authority to the Attorney General, and authority to 
+be delegated to the NICS over transfers to citizens lawfully 
+entitled to receive firearms.  That authority is set forth in 18 
+U.S.C. s 922(t)(2) which, as expressed above, requires that 
+the NICS "shall ... assign a unique identification number 
+... [;]  provide the licensee with the number;  and ... 
+destroy all records of the system with respect to the call 
+(other than [the assigned number and the date])" along with 
+"all records of the system relating to the person or the 
+transfer."  18 U.S.C. s 922(t)(2) (emphasis added).  Nothing 
+in the Brady Act empowers the Attorney General to do more 
+than these three things with respect to lawful transfers of 
+firearms:  (1) assign, (2) provide, and (3) destroy.  When she, 
+or the system to which she has delegated the authority, adds 
+to those three by retaining instead of destroying, she and the 
+system exceed the statutory grant of authority.  The regula-
+tion requiring the retention in the "audit log" is such an 
+excess;  it is unlawful;  and it should be enjoined.
+
+     The Attorney General's claimed authority for her unlawful 
+accretion of power to the FBI and the NICS in the regulation 
+is her "responsibility for administering the National Instant 
+Criminal Background Check system."  Br. for Appellee at 11.  
+This reliance on general authority to administer an area of 
+statutory regulation cannot sustain a federal actor's reaching 
+beyond congressionally granted authority.  We have re-
+peatedly held that federal agencies cannot seize additional 
+powers by substituting their own determination of the appro-
+priate means for accomplishing statutory goals in place of 
+that determined by the Congress.
+
+     For example, in API, the Environmental Protection Agency 
+had been empowered by Congress to promulgate regulations 
+for reformulated gasoline for use in "nonattainment areas."  
+See 52 F.3d at 1115 (quoting 42 U.S.C. s 7545(k)(1) (1988 & 
+Supp. V 1993)).  The empowering statute provided that the 
+regulations were to "require the greatest reduction in emis-
+sions of ozone forming volatile organic compounds ..., taking 
+into consideration the cost of achieving such emission reduc-
+tions, any nonair-quality and other air-quality related health 
+and environmental impacts and energy requirements."  42 
+U.S.C. s 7545(k)(1).  The EPA included in its regulations the 
+mandate for the inclusion of "renewable oxygenates" in the 
+reformulated gasoline.  As justification for this additional 
+assertion of regulatory authority EPA asserted its duty to 
+achieve other goals under the Clean Air Act.  We struck 
+down the challenged regulations, holding that the broad 
+general grant of authority did not "authorize EPA to mandate 
+the manner of compliance or the precise formula for compli-
+ance without additional explicit authority."  API, 52 F.3d at 
+1121.  Just so here.  Congress has explicitly authorized the 
+Attorney General to regulate the activities of citizens in a 
+certain fashion.  Her general authority to administer the 
+statutory programs created by the Brady Act do not empow-
+er her to take on additional powers over citizens not delegat-
+ed to her by the legislature.
+
+     Also, in Halverson v. Slater, 129 F.3d 180 (D.C. Cir. 1997), 
+we considered the claimed authority of the Secretary of the 
+Department of Transportation to delegate certain responsibil-
+ities under the Great Lakes Pilotage Act of 1960, 46 U.S.C. 
+s 9301 et seq., to the St. Lawrence Seaway Development 
+Corporation.  By statute, the Secretary was empowered to 
+"delegate the duties and powers conferred by [the relevant] 
+subtitle to any officer, employee, or member of the Coast 
+Guard...."  46 U.S.C. s 2104(a) (1994).  That statute did not 
+empower the Secretary to delegate such duties and powers to 
+anyone outside the Coast Guard.  The Secretary relied upon 
+a general delegation grant in 49 U.S.C. s 322(b) to assert the 
+authority to delegate that power to any officer or employee of 
+the department.  Once more, we held that general statutory 
+
+goals and grants cannot "override the limiting language" of a 
+statute specifically empowering a federal agency to act.  Hal-
+verson, 129 F.3d at 186, 187.  Again, in the present controver-
+sy, we have before us a statute conferring specific powers 
+upon a cabinet officer (the Attorney General), and an agency 
+(the NICS) under that officer.  General goals cannot add 
+limitless power to the limited power delegated by Congress.
+
+     The Attorney General attempts to bolster her claim of 
+power beyond the statutory grant by a repair to the analytical 
+framework of Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837 (1984).  Under the famil-
+iar rubric of that decision, when we review an agency's 
+interpretation of a statute entrusted to the agency's adminis-
+tration, we undertake a two step analysis.  We first "deter-
+mine whether Congress has spoken to the precise question at 
+issue."  Halverson, 129 F.3d at 184 (quoting Natural Re-
+sources Defense Council, Inc. v. Browner, 57 F.3d 1122, 1125 
+(D.C. Cir. 1995) (applying Chevron)).  If so "that interpreta-
+tion must be given effect."  Id.  If not, that is, "[i]f ... the 
+statute is silent or ambiguous with respect to the specific 
+issue, then the court will defer to a permissible agency 
+construction of the statute."  Id.  The Attorney General 
+contends that, under the second step of Chevron, we should 
+uphold her assertion of the power to establish and retain 
+records on lawful conduct of citizens where the words of the 
+statute do not grant that power on the theory that her 
+interpretation of the statute is a permissible one, that is to 
+say a reasonable one.  In fact, however, we should not even 
+reach the second stage of Chevron.  The absence of a grant of 
+statutory power is not an ambiguity or silence on the question 
+of whether Congress has granted such a power.  We have 
+disposed of that line of argument repeatedly in the past.  As 
+we stated in Railway Labor Executives' Association:
+
+     To suggest, as the [government actor] effectively does, 
+     that Chevron step two is implicated any time a statute 
+     does not expressly negate the existence of a claimed 
+     administrative power (i.e. when the statute is not written 
+     
+     in 'thou shall not' terms), is both flatly unfaithful to the 
+     principles of administrative law ... and refuted by pre-
+     cedent....  Were courts to presume a delegation of 
+     power absent an express withholding of such power, 
+     agencies would enjoy virtually limitless hegemony, a 
+     result plainly out of keeping with Chevron and quite 
+     likely with the Constitution as well.
+     
+29 F.3d at 671 (citations omitted);  see also Natural Re-
+sources Defense Council v. Reilly, 983 F.2d 259, 266 (D.C. 
+Cir. 1993) ("[I]t is only legislative intent to delegate such 
+authority that entitles an agency to advance its own statutory 
+construction for review under the deferential second prong of 
+Chevron.") (emphasis added) (quoting Kansas City v. Depart-
+ment of Housing and Urban Dev., 923 F.2d 188, 191-92 (D.C. 
+Cir. 1991));  API, 52 F.3d at 1120.1
+
+     The statute is not ambiguous on whether it grants the 
+Attorney General the power to retain the records which the 
+statute empowers her to destroy.  The statute simply does 
+not grant her that power.  Indeed, the denial of power is even 
+stronger than that considered in the cited cases.  Those 
+statutes did not include "thou shall not" provisions.  The 
+Brady Act does.  In the cases discussed above, the federal 
+agency was seizing power not granted by Congress.  Here, 
+the Attorney General is not only making such an unautho-
+rized power grab, but is taking action expressly forbidden by 
+Congress.
+
+__________
+     1 Christensen v. Harris County, 120 S. Ct. 1655 (2000), cited by 
+the majority, is not to the contrary.  Indeed, the majority's analysis 
+turns Christensen on its head.  The Supreme Court not only did not 
+decide that legislative silence empowered a federal agency to act, it 
+did quite the opposite.  The County, whose ability to control leave 
+time scheduling was in question, appeared before the Court as the 
+regulated entity asserting a limitation on federal power, not as the 
+federal actor asserting a grant of power.  See id. at 1659.  Because 
+the statute in question was silent or ambiguous on the issue, the 
+regulated entity did not lose an ability that was inherently its own.  
+See id. at 1660-62.  That is, the silent or ambiguous statute did not 
+empower the federal actor to do that which was not expressly 
+forbidden to it.  Just so here.
+
+     II.  "Thou Shall Not"
+          
+     The Brady Act contains an express provision headed "Pro-
+hibition Relating to Establishment of Registration Systems 
+with Respect to Firearms."  Pub. L. No. 103-159, s 103(i), 
+107 Stat. at 1542.  That section provides that
+
+     No department, agency, officer, or employee of the Unit-
+     ed States may--
+     
+          (1) require that any record or portion thereof generat-
+     ed by the system established under this section be 
+     recorded at or transferred to a facility owned, managed, 
+     or controlled by the United States or any State or 
+     political subdivision thereof....
+     
+Id.  By its clear words, this statute establishes that Congress 
+has unambiguously told the Attorney General that she shall 
+not do what she is doing in the regulations.  That is, she is 
+forbidden to require the FBI, the NICS, or any other depart-
+ment, agency, officer, or employee of the United States to 
+require that records generated by the NICS be recorded at 
+or transferred to any facility.  There is no exception for an 
+audit log, and there is no exception for a six-month grace 
+period.  Congress has simply forbidden her to do it.  She is 
+doing it anyway.  The regulation must fall.  There is no 
+ambiguity calling for the invocation of Chevron.
+
+     The Attorney General argues that "[w]ithout an audit log, 
+the FBI would simply be incapable of achieving the level of 
+oversight deemed essential by the Attorney General."  Br. 
+for Appellee at 17.  I fail to see the relevance of that 
+argument.  Congress, not the Attorney General, makes the 
+laws.  Congress did not authorize the maintenance of an audit 
+log in violation of its explicit command not to retain records.  
+Neither did it empower the Attorney General to take its place 
+in the making of law any time she deems essential a level of 
+oversight neither required nor permitted by statute.
+
+     III. Conclusion
+          
+     The Attorney General's ultimate fallback argument is that 
+Congress and the statute could have but did not include the 
+adverb "immediately" before the verb "destroy" when it 
+
+commanded her to "destroy all records of the system" with 
+respect to the contact in the case of lawful transfers of 
+firearms.  18 U.S.C. s 922(t)(2).  Specifically, she notes that 
+it did not adopt an amendment offered in the House of 
+Representatives to the effect of including that word.  I fail to 
+see that this avails her anything.  Courts are reluctant "to 
+draw inferences from Congress' failure to act," Schneidewind 
+v. ANR Pipeline Co., 485 U.S. 293, 306 (1988).  In no case 
+has a court held that power has been granted to a federal 
+agency by Congress's failure to enact a limitation to a directly 
+contradictory statutory command.  Congress said, "destroy 
+all records."  Congress said, do not "require that any record 
+...  be recorded."  Brady Act s 103(i), 107 Stat. at 1542.  
+The Attorney General asserts, "Congress did not say that I 
+have to destroy the records immediately.  Therefore I am 
+empowered to retain the records."  The Attorney General's 
+position strikes me as reminiscent of a petulant child pulling 
+her sister's hair.  Her mother tells her, "Don't pull the baby's 
+hair."  The child says, "All right, Mama," but again pulls the 
+infant's hair.  Her defense is, "Mama, you didn't say I had to 
+stop right now."
+
+     I do not think that the parent's command to the child is 
+ambiguous, nor that of Congress to the Attorney General.  I 
+do not find the child's response reasonable;  nor is that of the 
+Attorney General.
+
+     I respectfully dissent from the decision of my colleagues to 
+uphold the Attorney General's regulations.
+
+                                    

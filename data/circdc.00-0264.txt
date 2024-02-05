@@ -1,0 +1,1047 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 5, 2000   Decided December 15, 2000 
+
+                           No. 99-1325
+
+                   National Lime Association, 
+                            Petitioner
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+                        Consolidated with 
+                             99-1326
+
+           On Petitions for Review of An Order of the 
+                 Environmental Protection Agency
+
+     Hunter L. Prillaman argued the cause for petitioner Na-
+tional Lime Association.  With him on the briefs were Arline 
+M. Seeger and Kenneth A. Rubin.
+
+     James S. Pew argued the cause for petitioner Sierra Club. 
+With him on the briefs was Howard I. Fox.
+
+     Daniel M. Flores, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With him on the brief were 
+Lois J. Schiffer, Assistant Attorney General, Daniel R. Dert-
+ke, Attorney, and Steven E. Silverman, Attorney, Environ-
+mental Protection Agency.  Christopher S. Vaden and H. 
+Michael Semler, Attorneys, U.S. Department of Justice, en-
+tered appearances.
+
+     William M. Bumpers was on the brief for amicus curiae 
+the American Portland Cement Alliance.
+
+     Before:  Edwards, Chief Judge, Ginsburg and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judges Ginsburg and 
+Tatel.*
+
+     Ginsburg and Tatel, Circuit Judges:  In this case we 
+consider petitions by the Sierra Club and the National Lime 
+Association challenging the Environmental Protection Agen-
+cy's hazardous air pollutant emission regulations for cement 
+manufacturing.  With respect to the Sierra Club petition we 
+(1) reject its challenge to the emission standards for hazard-
+ous metals and dioxin/furan;  (2) find the Agency's failure to 
+set standards for hydrogen chloride, mercury, and total hy-
+drocarbons contrary to the Clean Air Act's plain language;  
+(3) direct EPA to consider the health impacts of potentially 
+stricter standards for hazardous metals;  and (4) sustain the 
+regulation's monitoring requirements.  Concluding that the 
+National Lime Association has associational standing, we (1) 
+reject its argument that EPA's use of particulate matter as a 
+surrogate for non-volatile metal hazardous air pollutants vio-
+lates the Clean Air Act and is arbitrary and capricious;  and 
+(2) reject its challenge to the testing method EPA adopted for 
+determining whether a manufacturer qualifies as a "major 
+source" of hazardous air pollutants.
+
+__________
+     * Judge Tatel wrote Sections I and II.  Judge Ginsburg wrote 
+Sections III and IV.
+
+                          I. Background
+
+     The Clean Air Act requires the Environmental Protection 
+Agency to establish emission standards for "major sources" of 
+hazardous air pollutants listed in the statute.  42 U.S.C. 
+s 7412(d)(1).  The Act directs the Agency to review the list 
+periodically, and, where appropriate, to revise it by rule.  Id. 
+s 7412(b)(2).  Hazardous air pollutants are known as HAPs.
+
+     A "major source" is any stationary source that emits ten 
+tons per year or more of any single HAP or twenty-five 
+tons per year or more of any combination of HAPs.  Id. 
+s 7412(a)(1).  Under section 7412(d)(2) of the statute, emis-
+sion standards must require
+
+     the maximum degree of reduction in emissions [of HAPs] 
+     ... that the Administrator, taking into consideration the 
+     cost of achieving such emission reduction, and any non-
+     air quality health and environmental impacts and energy 
+     requirements, determines is achievable ... through ap-
+     plication of measures, processes, methods, systems or 
+     techniques including, but not limited to, ... process 
+     changes, substitution of materials or other modifications.
+     
+In addition to this general guidance, the statute includes 
+minimum stringency requirements for emission standards 
+that apply without regard to either costs or the other factors 
+and methods listed in section 7412(d)(2).  These stringency 
+requirements differ depending on whether a source is "new" 
+or "existing."  New sources are defined as "stationary 
+source[s], the construction or modification of which is com-
+menced after the publication of regulations (or, if earlier, 
+proposed regulations) prescribing" air pollution standards 
+that will be applicable to such sources.  Id. s 7411(a)(2).  For 
+new sources, the statute provides that "[t]he maximum de-
+gree of reduction in emissions that is deemed achievable for 
+new sources ... shall not be less stringent than the emission 
+control that is achieved in practice by the best controlled 
+similar source, as determined by the Administrator."  Id. 
+s 7412(d)(3) (emphasis added).  For existing sources, defined 
+as all stationary sources other than new sources, id. 
+
+s 7411(a)(6), the statute provides that standards shall not be 
+less stringent than "the average emission limitation achieved 
+by the best performing 12 percent of the existing sources (for 
+which the Administrator has emissions information)."  Id. 
+s 7412(d)(3)(A).
+
+     EPA implements these statutory requirements through a 
+two-step process.  The Agency begins by setting the mini-
+mum stringency standards required by section 7412(d)(3) for 
+new and existing sources.  Adding confusion to this already 
+complex statute, EPA calls these minimum stringency re-
+quirements "floors," even though they in fact establish maxi-
+mum emission levels.  See Sierra Club v. EPA, 167 F.3d 658, 
+660 (D.C. Cir. 1999) ("Sierra").  Once the Agency sets statu-
+tory floors, it then determines, considering cost and the other 
+factors listed in section 7412(d)(2), whether stricter standards 
+are "achievable."  42 U.S.C. s 7412(d)(2).  The Agency calls 
+such stricter requirements "beyond-the-floor" standards.
+
+     This case concerns emission standards for portland cement 
+manufacturing plants.  See National Emission Standards for 
+Hazardous Air Pollutants from the Portland Cement Manu-
+facturing Industry, 40 C.F.R. ss 63.1340-.1359.  Patented in 
+1824 by Joseph Aspdin and named for its resemblance to 
+portland stone, limestone from the Isle of Portland, see 9 The 
+New Encyclopedia Britannica 629 (15th ed. 1998), portland 
+cement is a fine powder that serves as the key ingredient in 
+the concrete used in most construction.  See National Emis-
+sion Standards for Hazardous Air Pollutants;  Proposed Stan-
+dards for Hazardous Air Pollutants Emissions for the Port-
+land Cement Manufacturing Industry, 63 Fed. Reg. 14,182, 
+14,185 (Mar. 24, 1998).  The cement manufacturing process 
+begins by grinding together materials such as limestone, clay, 
+shale, sand, iron ore, and flyash and heating the mixture in a 
+kiln.  See 40 C.F.R. s 63.1341;  63 Fed. Reg. at 14,194.  
+Known as "clinker," the heated mixture is then cooled in a 
+"clinker cooler" and ground to a fine powder in a mill.  See 40 
+C.F.R. s 63.1341.
+
+     Prior to setting cement manufacturing emission standards, 
+EPA estimated that portland cement plants throughout the 
+country emitted a total of 290 tons of HAPs per year.  63 
+Fed. Reg. at 14,183.  EPA found that most individual cement 
+plants released over ten tons of hydrogen chloride ("HCl") 
+annually, qualifying them as major sources of HAPs for which 
+the Clean Air Act required the Agency to set emission 
+standards.  See id. at 14,192-93.  In addition to HCl, EPA 
+found that cement plants emitted significant levels of HAP 
+metals, dioxin/furan, mercury, and organic HAPs other than 
+dioxin/furan.  See id. at 14,195-96.  These HAPs were re-
+leased by kilns, clinker coolers, and mills, as well as by 
+storage and transportation of materials within cement plants.  
+See id. at 14,183.  According to EPA, the potential health 
+effects of these pollutants include inflammation of the respira-
+tory tract, reproductive problems, cancer, nausea, blood disor-
+ders, and damage to the immune system.  See id. at 14,184.
+
+     Acting on this information, EPA began by considering 
+emission "floors" for each of the five major categories of 
+HAPs released by cement plants.  For dioxin/furan, the 
+Agency set emission floors for both new and existing sources.  
+Considering particulate matter ("PM") to be an appropriate 
+surrogate for non-volatile HAP metals--components of PM 
+that are difficult to measure directly--EPA established emis-
+sion floors for new and existing sources for PM as well.  EPA 
+set no floors--referred to as floors of "no control"--for the 
+three remaining HAPs, HCl, mercury, and organic HAPs 
+other than dioxin/furan.
+
+     The Agency took a technology-based approach to setting 
+emission floors.  For cement plants qualifying as new 
+sources, EPA identified the emission control technology used 
+by the best performing plant for which it had information and 
+called this the MACT floor technology.  MACT means "maxi-
+mum achievable control technology."  EPA then looked at 
+emissions data for all plants using the MACT floor technology 
+for which it had information, not just data from the best 
+performing plant, and set the new source emission floor at the 
+highest emission level reported by a plant using that technol-
+ogy.  To set existing source emission floors, EPA followed a 
+
+similar procedure.  It identified the technology used by the 
+median plant out of the best twelve percent of plants for 
+which it had information and set the existing source emission 
+floor at the emission level of the worst performing plant in its 
+database using that technology.  If, as in the case of HCl, 
+mercury, and organic HAPs other than dioxin/furan, EPA 
+found an insufficient number of plants in its database (one for 
+new sources or twelve percent for existing sources) control-
+ling a particular HAP with pollution control technology, it set 
+no standard at all, i.e., it determined that the emission floor 
+was "no control."
+
+     Proceeding to the next stage of the emission standard 
+setting process, EPA declined (with one exception not rele-
+vant to this case) to set beyond-the-floor standards for either 
+new or existing sources for any of the five HAPs.
+
+     In addition to requiring EPA to set emission standards, the 
+Clean Air Act directs the Agency to require owners and 
+operators of major sources to conduct "enhanced monitoring" 
+of their emissions and to submit "compliance certifications" 
+reporting compliance with the emission standards.  42 U.S.C. 
+s 7414(a)(3).  Acting pursuant to this requirement, EPA di-
+rected cement plants to use a technique known as Fourier 
+transform infrared spectroscopy ("FTIR") to measure their 
+HCl emissions to determine whether they qualify as major 
+sources.  See 40 C.F.R. s 63.1352(a);  id. pt. 63, app. A. 
+Plants qualifying as major sources must conduct performance 
+tests that measure PM emissions every five years.  See id. 
+s 63.1349(b)(1), (c).  To test for compliance with PM stan-
+dards between performance tests, cement plants must moni-
+tor opacity either with a continuous opacity monitor or 
+through visual inspections.  See id. s 63.1350(c).  Cement 
+plants must also develop site-specific operations and mainte-
+nance plans to be submitted to EPA for approval as part of 
+the permitting process.  See id. s 63.1350(a).
+
+     Petitioners Sierra Club and National Lime Association 
+("NLA") challenge these regulations.  The Sierra Club 
+mounts four specific challenges:  (1) EPA's approach to set-
+
+ting emission floors for PM and dioxin/furan both violates the 
+Clean Air Act and is arbitrary and capricious;  (2) the Agen-
+cy's refusal to set standards for HCl, mercury, and total 
+hydrocarbons violates the statute;  (3) EPA's rejection of 
+beyond-the-floor standards for mercury, total hydrocarbons, 
+and HAP metals (for which PM is a surrogate) is arbitrary 
+and capricious;  and (4) the monitoring requirements fail to 
+provide adequate assurance of compliance with the PM stan-
+dard.  NLA, a trade association representing lime manufac-
+turers, some of which also manufacture cement, argues that 
+(1) EPA's decision to use PM as a surrogate for HAP metals 
+violates the statute and is arbitrary and capricious;  and (2) 
+the Agency's decision to require cement plants to use the 
+FTIR method to determine their major source status is 
+arbitrary and capricious.  The American Portland Cement 
+Alliance, a trade association representing cement manufactur-
+ers and marketers, intervenes in support of EPA.  We con-
+sider the Sierra Club's challenges in Section II and NLA's in 
+Section III.
+
+                     II. Sierra Club Petition
+
+A.    PM and Dioxin/Furan Floors
+
+     Relying on Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837, 842-43 (1984) (establish-
+ing that when Congress's intent is clear, "that is the end of 
+the matter;  for the court, as well as the agency, must give 
+effect to the unambiguously expressed intent of Congress"), 
+the Sierra Club argues that the Agency's technology-based 
+approach conflicts with the Clean Air Act's plain language.  
+According to the Sierra Club, section 7412(d)(3) requires EPA 
+to set new source floors at the lowest recorded emission level 
+for which it has data and existing source floors at the average 
+of the lowest twelve percent of recorded emission levels for 
+which it has data.  Nothing in the statute, the Sierra Club 
+argues, permits the Agency to set floors based on the perfor-
+mance of technology as opposed to the recorded performance 
+of plants.
+
+     In resolving this issue, we do not write on a clean slate.  
+EPA's technology-based approach to setting new source emis-
+
+sion standards has already faced and survived a Chevron one 
+challenge.  In Sierra, 167 F.3d 658, we reviewed a new source 
+emission standard for solid waste combustion that EPA pro-
+mulgated pursuant to section 7429, which establishes emission 
+requirements virtually identical to section 7412's.  There, as 
+here, the Sierra Club argued that EPA's MACT technology 
+approach to setting emission standards is unambiguously 
+forbidden by the Clean Air Act.  Sierra rejected that argu-
+ment, holding that EPA may estimate the performance of the 
+best performing units and that it was not "impossible" that 
+EPA's methodology constituted a reasonable estimation tech-
+nique.  See 167 F.3d at 665.  Concluding that EPA could 
+reasonably interpret the statutory phrase "emissions control 
+that is achieved in practice" to mean emissions control that is 
+"achieved under the worst foreseeable circumstances," see id. 
+(citing National Lime Ass'n v. EPA, 627 F.2d 416, 431 n.46 
+(D.C. Cir. 1980)), we hypothesized:  "perhaps considering all 
+units with the same technology is justifiable because the best 
+way to predict the worst reasonably foreseeable performance 
+of the best unit with the available data is to look at other 
+units' performance."  Id. at 665.  But because EPA failed to 
+explain why it adopted the MACT approach, we remanded to 
+the Agency for further explanation, thus never needing to 
+determine whether the MACT approach would have survived 
+petitioners' Chevron two or arbitrary and capriciousness chal-
+lenges.
+
+     EPA has now explained why it adopted the MACT ap-
+proach.  In the announcement of the regulations challenged 
+in this case, the Agency, citing Sierra, explains (1) that it 
+must ensure that emission "standards are achievable 'under 
+[the] most adverse circumstances which can reasonably be 
+expected to recur,' " 64 Fed. Reg. 31,898, 31,915 (June 14, 
+1999) (quoting Sierra, 167 F.3d at 665), and (2) that "evaluat-
+ing how a given MACT technology performs is a permissible 
+means" of estimating the actual performance of the top 
+twelve percent of plants.  Id.  EPA explains further that the 
+emission standards it set "are based on the emission levels 
+achieved through the application of MACT floor technologies 
+
+and account for variation in the process and in the air 
+pollution control device effectiveness."  Id. at 31,916.
+
+     The Sierra Club does not challenge EPA's extension of 
+Sierra to existing source standards.  Instead, it argues that 
+Sierra's Chevron one analysis does not control this case 
+because section 7412 (at issue here) differs from section 7429 
+(at issue in Sierra).  Although the two sections contain identi-
+cal stringency requirements for new sources, section 7412, the 
+Sierra Club emphasizes, directs the Agency to base emission 
+standards for existing sources on those plants "for which the 
+Administrator has emissions information," 42 U.S.C. 
+s 7412(d)(3)(A), a limitation appearing nowhere in section 
+7429.  See id. s 7429(a)(2).  According to the Sierra Club, 
+section 7412's additional limitation implies that EPA must 
+directly calculate the average of the best twelve percent from 
+the data it has, thus precluding the Agency from estimating 
+emissions based on the use of MACT technology.
+
+     We do not agree that the difference between the two 
+sections requires a different result in this case.  Section 
+7412's additional phrase says nothing about what data the 
+Agency should use to calculate emission standards.  It says 
+only that standards must be based on the best performing 
+"sources (for which the Administrator has emissions informa-
+tion)."  42 U.S.C. s 7412(d)(3)(A).  Following this directive, 
+EPA set standards for PM and dioxin/furan at the average 
+emission levels it estimated the best 12 percent (for which it 
+had information) achieved.  In doing so, the Agency simply 
+did not limit itself to consideration of data from the best 
+twelve percent of plants;  instead it used data it had from 
+other plants that use the same technology as the best twelve 
+percent to estimate the performance of the best twelve per-
+cent.  Sierra found this approach not unambiguously forbid-
+den by the statute.  See 167 F.3d at 665.
+
+     Thus bound by Sierra's Chevron one analysis, we turn to 
+the Sierra Club's argument that the MACT approach is both 
+unreasonable, see Chevron, 467 U.S. at 843 ("if the statute is 
+silent or ambiguous with respect to the specific issue, the 
+question for the court is whether the agency's answer is 
+
+based on a permissible construction of the statute"), and 
+arbitrary and capricious.  See 42 U.S.C. s 7607(d)(9)(A).  Ac-
+cording to the Sierra Club, EPA has never explained why 
+emission floors set through the MACT approach accurately 
+estimate the performance of the relevant best performing 
+plants:  "The Agency provide[d] absolutely no reason to be-
+lieve that an emission level that is achievable by every source 
+that uses a particular control technology is necessarily a 
+reasonable estimate of the actual performance of the best 
+performing twelve percent of sources."  Sierra Club Br. at 
+23.
+
+     We agree that to comply with the statute, EPA's method of 
+setting emission floors must reasonably estimate the perfor-
+mance of the relevant best performing plants.  See 42 U.S.C. 
+s 7412(d)(3);  Sierra, 167 F.3d at 665.  Yet the Sierra Club's 
+brief does not explain why the emission standards EPA set 
+might not accurately estimate the performance of the best 
+performing twelve percent of plants.  The brief never even 
+suggests that the MACT approach in fact fails to predict the 
+emission levels of the best performing sources.  When we 
+asked about this at oral argument, it became clear that the 
+Sierra Club believes that EPA's MACT approach would not 
+accurately estimate emission levels of the best performing 
+twelve percent of plants if the best performing plants 
+achieved their emission levels not just by using technology, 
+but also by selecting cleaner manufacturing inputs.  For 
+example, the best performing twelve percent of plants might 
+perform well because, in comparison to other plants having 
+the same technology, they use less-polluting fuels or purer 
+raw materials.  Such plants would have predictably lower 
+emissions than plants using MACT floor technology alone.  
+Under such circumstances, the Sierra Club argues, because 
+technology would represent only one of the factors determin-
+ing emission levels of the best performing plants, EPA could 
+not assume that emission levels from the worst-performing 
+plant using MACT floor technology predict the performance 
+of the best performing plants under the worst conditions.
+
+     Although this argument may well have merit, the Sierra 
+Club's failure to include the argument in its opening brief 
+
+precludes us from considering it.  See Corson & Gruman Co. 
+v. NLRB, 899 F.2d 47, 50 n.4 (D.C. Cir. 1990).  Claiming only 
+that the Agency has "never explained" why the MACT ap-
+proach accurately predicts the performance of the relevant 
+best performing sources falls far short of alerting EPA to the 
+argument we now understand the Sierra Club to be making, 
+thus giving the Agency no opportunity to respond.  The 
+Sierra Club's failure is particularly serious because the 
+MACT approach would accurately estimate the performance 
+of the best performing sources of a particular HAP if pollu-
+tion control technology were the only factor determining 
+emission levels of that HAP--in other words, if emissions 
+were unaffected by the use of either alternative fuels or raw 
+materials.  To be sure, as the Sierra Club points out in a 
+letter submitted after oral argument pursuant to Rule 28(j) of 
+our rules, it did raise its multiple control factors argument 
+during the rulemaking in a comment regarding emission 
+standards for mercury.  Record comments, however, cannot 
+cure a failure to raise a key argument here.  We will there-
+fore deny the Sierra Club's petition for review with respect to 
+emission floors for PM and dioxin/furan.
+
+B.   Failure to set floors for HCl, mercury, and total hydro-
+     carbons
+
+     EPA established emission floors of "no control" for HCl, 
+mercury, and total hydrocarbons (a surrogate for organic 
+HAPs other than dioxin/furan) because the Agency found no 
+cement plants using control technologies for these pollutants.  
+The Sierra Club argues that EPA's failure to set emission 
+limits for these HAPs violates the statute's requirement that 
+the Agency establish emission standards for each of "the 
+hazardous air pollutants listed for regulation."  42 U.S.C. 
+s 7412(d)(1).  Defending its decision, EPA points to Sierra's 
+suggestion that the worst foreseeable performance of the best 
+performing unit might be predictable from the performance 
+of the worst performing unit using the same technology.  See 
+64 Fed. Reg. at 31,915 (citing Sierra, 167 F.3d at 665).  
+According to EPA, if no control technology exists, then the 
+worst foreseeable performance "could vary day by day" and 
+
+the standard must be no control.  See EPA Response to 
+Comments (May 7, 1999), at 190.
+
+     On this issue, we agree with the Sierra Club.  Nothing in 
+the statute even suggests that EPA may set emission levels 
+only for those listed HAPs controlled with technology.  To 
+the contrary, the statute lists over one hundred specific 
+HAPs, 42 U.S.C. s 7412(b)(1), and requires EPA to "promul-
+gate regulations establishing emission standards for each 
+category or subcategory of major sources ... of hazardous 
+air pollutants listed for regulation."  Id. s 7412(d)(1).  The 
+statute directs the Agency to promulgate these emission 
+standards by November 15, 2000.  Id. s 7412(e)(1)(E).  Con-
+gress added the list of pollutants to be regulated, regulation 
+deadlines, and minimum stringency requirements to the 
+Clean Air Act precisely because it believed EPA had failed to 
+regulate enough HAPs under previous air toxics provisions.  
+"The [air toxics] law has worked poorly.  In 18 years, EPA 
+has regulated only some sources of only seven chemicals....  
+The legislation reported by the Committee would entirely 
+restructure the existing law, so that toxics might be adequate-
+ly regulated by the Federal Government."  S. Rep. No. 
+101-228, at 128 (1989);  see also H.R. Rep. No. 101-490, pt. 1, 
+at 322 (1990) ("Since 1970, EPA has listed only eight sub-
+stances as hazardous air pollutants ... and has promulgated 
+emissions standards for seven of them.").
+
+     Contrary to EPA's argument, nothing in Sierra relieves it 
+of the clear statutory obligation to set emission standards for 
+each listed HAP.  Although Sierra permits the Agency to 
+look at technological controls to set emission standards, see 
+167 F.3d at 665, it does not say that EPA may avoid setting 
+standards for HAPs not controlled with technology.
+
+     Although we thus believe that section 7412(d)(1)'s language 
+disposes of this issue, we add that our reading of that section 
+is reinforced by section 7412(d)(2)(A).  See Martini v. Feder-
+al National Mortgage Association, 178 F.3d 1336, 1345-46 
+(D.C. Cir. 1999) ("Under Chevron's first step ... we have a 
+duty to conduct an independent examination of the statute in 
+question, looking not only to the particular statutory language 
+
+at issue but also to the language and design of the statute as 
+a whole.") (internal citations omitted).  Section 7412(d)(2)(A) 
+directs the Agency, in determining the maximum degree of 
+achievable emission reductions, to consider pollution-reducing 
+measures including "process changes, substitution of materi-
+als or other modifications."  42 U.S.C. s 7412(d)(2)(A).  By 
+focusing only on technology, EPA has ignored this directive.  
+The Clean Air Act's legislative history confirms that Congress 
+wanted the Agency to consider more than just pollution 
+control technology:
+
+     The technologies, practices or strategies which are to be 
+     considered in setting emission standards under this sub-
+     section go beyond the traditional end-of-the-stack treat-
+     ment or abatement system.  The Administrator is to give 
+     priority to technologies or strategies which reduce the 
+     amount of pollution generated through process changes 
+     or the substitution of materials less hazardous.  Pollution 
+     prevention is to be the preferred strategy wherever 
+     possible.
+     
+S. Rep. No. 101-228, at 168.
+
+     For all of these reasons, the absence of technology-based 
+pollution control devices for HCl, mercury, and total hydro-
+carbons did not excuse EPA from setting emission standards 
+for those pollutants.  We thus will remand for EPA to do so.
+
+C.   Beyond-the-Floor Standards
+
+     The Sierra Club presents a number of objections to EPA's 
+refusal to set general beyond-the-floor emission standards for 
+mercury, total hydrocarbons, and HAP metals (for which PM 
+is a surrogate).  Because EPA will now need to initiate new 
+rulemaking proceedings to establish emission floors for mer-
+cury and total hydrocarbons, we need not consider the Agen-
+cy's refusal to set beyond-the-floor standards for those two 
+HAPs.  We address only the Sierra Club's challenge to the 
+Agency's refusal to set beyond-the-floor standards for HAP 
+metals.
+
+     When determining whether to set beyond-the-floor stan-
+dards, the Clean Air Act requires EPA to consider "the cost 
+
+of achieving such emission reduction, and any non-air quality 
+health and environmental impacts and energy requirements."  
+42 U.S.C. s 7412(d)(2).  The Sierra Club argues that EPA 
+violated the statute by failing to consider the non-air quality 
+health and environmental impacts of potential beyond-the-
+floor standards for HAP metals.  Again, we agree.  Although 
+EPA considered costs and energy requirements, nowhere in 
+the record does it appear to have taken account of any non-air 
+quality health effects.
+
+     EPA's analysis of potential beyond-the-floor standards for 
+HAP metals suffers from a second defect.  As the Sierra 
+Club points out, EPA, responding to a comment in the 
+rulemaking suggesting that stricter emission standards for 
+HAP metals could be achieved if cement kilns switched to 
+natural gas, asserted that "[t]here are no data available to 
+EPA that indicate that [fuel switching] can or has achieved 
+metals emission reductions."  64 Fed. Reg 31,917.  Yet a 
+study in the record contains just such information, demon-
+strating that switching to natural gas would in fact reduce 
+metal emissions.  See Office of Air Quality Planning and 
+Standards, U.S. EPA, Study of Hazardous Air Pollutants 
+Emissions from Electric Utility Steam Generating Units 
+13-2 (1998).  EPA now tells us that fuel switching is not a 
+viable alternative because of inadequate supplies of natural 
+gas.  In support of this proposition, the Agency points to a 
+handwritten notation on a report in the administrative record.  
+But that note, supposedly written by an EPA employee, is 
+virtually illegible--even the Agency's counsel was unable to 
+decipher it at oral argument.  Therefore, the note cannot 
+supply a basis for EPA's decision.  Although the Agency's 
+brief cites one other study in support of its assertion that the 
+supply of natural gas is inadequate, nothing in the rulemaking 
+indicates that EPA relied on it.  "[A]n agency's action must 
+be upheld, if at all, on the basis articulated by the agency."  
+Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 
+463 U.S. 29, 50 (1983).
+
+     Thus, because EPA failed to consider non-air quality health 
+and environmental impacts of potential beyond-the-floor stan-
+dards for HAP metals, and because it relied on a factually 
+
+incorrect assertion in rejecting such standards, we will re-
+mand the beyond-the-floor determination for HAP metals for 
+further consideration consistent with this opinion.  In view of 
+the Sierra Club's request that we not vacate the EPA's 
+regulations, because "to do so would at least temporarily 
+defeat [Sierra Club's] purpose, the enhanced protection" of 
+the environment, Environmental Defense Fund, Inc. v. 
+Adm'r of the EPA, 898 F.2d 183, 190 (D.C. Cir. 1990), we will 
+leave the current PM regulations in place during remand.
+
+D.   Monitoring
+
+     In its final challenge, the Sierra Club argues that the 
+regulation's monitoring requirements fail to provide reason-
+able assurance of compliance with the emission standards.  
+Specifically, it argues that the opacity monitoring required by 
+the regulation will not guarantee compliance with the PM 
+standard.  EPA responds that opacity monitoring promotes 
+good operation and maintenance, which in turn reasonably 
+ensure compliance with the PM standard.  Because the Sier-
+ra Club has given us no basis for doubting this assertion, and 
+because analysis of this issue "requires a high level of techni-
+cal expertise, we must defer to the informed discretion" of the 
+Agency.  Marsh v. Oregon Natural Resources Council, 490 
+U.S. 360, 377 (1989) (internal quotation marks omitted).
+
+          III. Petition of the National Lime Association
+
+     Petitioner National Lime Association (NLA) claims that 
+two additional aspects of the portland cement rule are con-
+trary to law and arbitrary and capricious:  the EPA's use of 
+PM as a surrogate for HAP metals, and its requirement that 
+cement kilns use a specified technique to measure their HCl 
+emissions under certain circumstances.  We consider these 
+arguments only after concluding that the NLA has standing 
+to raise them.
+
+A.   Standing of the NLA
+
+     The EPA argues that the NLA lacks standing to object to 
+the portland cement rule because it is a trade association of 
+
+lime and not of cement manufacturers.  Although the EPA 
+recognizes that some NLA members manufacture both ce-
+ment and lime, the agency asserts that the NLA made no 
+mention of its cement members during proceedings before 
+the agency, "suggesting only that [the portland cement rule] 
+could establish adverse precedents ... for the commercial 
+lime industry."  The EPA also emphasizes that NLA mem-
+bers that manufacture both lime and cement are also mem-
+bers of the American Portland Cement Association (APCA), 
+which--in the view of the agency--adequately represents 
+their cement interests.  The APCA, as mentioned above, has 
+intervened in this case in defense of the portland cement rule.
+
+     The EPA cites no authority--and we know of none--
+suggesting that the position taken by one association affects 
+the right of another to seek judicial review;  and although the 
+possibility of an adverse precedent is clearly insufficient to 
+establish the injury necessary for standing under Article III, 
+an association anxious to avoid an adverse precedent may still 
+bring a petition if it otherwise meets the requirements for 
+standing.  Those requirements are straightforward:
+
+     [A]n association has standing to bring suit on behalf of its 
+     members when:  (a) its members would otherwise have 
+     standing to sue in their own right;  (b) the interests it 
+     seeks to protect are germane to the organization's pur-
+     pose;  and (c) neither the claim asserted nor the relief 
+     requested requires the participation of individual mem-
+     bers in the lawsuit.
+     
+Hunt v. Washington State Apple Advertising Comm'n, 432 
+U.S. 333, 343 (1977).  That the NLA meets requirement (c) is 
+unquestioned.  In order to prevail on the standing question, 
+then, the EPA must show that the NLA fails to meet 
+requirement (a) or (b).
+
+     Requirement (a) is met if "any one" of the association's 
+members can "make out a justiciable case."  Warth v. Seldin, 
+422 U.S. 490, 511 (1975).  The member must show (i) that it 
+was injured in fact, (ii) that its injury was caused by the 
+challenged rule, and (iii) that its injury would likely be 
+redressed by a favorable decision of the court.  Lujan v. 
+
+Defenders of Wildlife, 504 U.S. 555, 560-61 (1992).  The NLA 
+submits an affidavit from the "Environmental Director" of 
+Blue Circle, Inc. affirming that Blue Circle is an NLA mem-
+ber, stating that it operates both cement and lime manufac-
+turing plants, and asserting facts indicating that it meets all 
+three elements of requirement (a).  Blue Circle asserts both 
+that the use of PM as a surrogate and the HCl measurement 
+requirement impose "significant" monitoring and compliance 
+costs upon its cement operations, which would be avoided by 
+this court's favorable decision.  Blue Circle's specific asser-
+tions as to harm, causation, and redressability are neither 
+"general" nor "conclusory," as the EPA suggests.  We con-
+clude, therefore, that the NLA has at least one member that 
+could assert a justiciable claim in its own right.
+
+     Beyond injury in fact, causation, and redressability, re-
+quirement (b) of Hunt demands that the interest an associa-
+tion seeks to protect be "germane to the organization's pur-
+pose."  432 U.S. at 343.  This requirement of germaneness is 
+"undemanding";  "mere pertinence between litigation subject 
+and organizational purpose" is sufficient.  Humane Soc'y v. 
+Hodel, 840 F.2d 45, 58 (D.C. Cir. 1988).  The subject of this 
+litigation is the regulation of portland cement manufacturing;  
+that is certainly "pertinent" to the NLA as a trade association 
+of manufacturers of lime.  Not only do some companies 
+manufacture both cement and lime, but both industries share 
+a critical raw material--limestone--and lime itself is some-
+times used as an ingredient in portland cement.  See 63 Fed. 
+Reg. at 14,194/2;  J.A.H. Oates, Lime and Limestone 81, 124 
+(1998).  The processes underlying the two types of manufac-
+ture are also similar, as is made abundantly clear by the 
+NLA's efforts to introduce into the record in this case data 
+from the EPA's administrative record regarding the manufac-
+ture of lime.  Ct. Op. at 24-25 below.  The two manufactur-
+ing processes also emit some of the same pollutants.  The 
+regulation of portland cement thus falls well within the "spe-
+cialized expertise and research resources" of the NLA.  Hu-
+mane Soc'y, 840 F.2d at 56.
+
+     Our analysis of germaneness is unaffected by the EPA's 
+argument that the NLA, in advancing its lime interests, has 
+
+taken a position on the cement rule adverse to the interests of 
+cement manufacturers.  The NLA is entitled to be an advo-
+cate for a subgroup of cement manufacturers whose interests 
+diverge from those of the run of cement producers--for 
+example, companies such as Blue Circle that manufacture 
+both cement and lime.  Cf. National Maritime Union v. 
+Commander, Military Sealift Command, 824 F.2d 1228, 1234 
+(D.C. Cir. 1987) (quoted in Humane Soc'y, 840 F.2d at 59 
+n.25) ("mere fact of conflicting interests among members of 
+an association does not of itself defeat the association's stand-
+ing to urge the interests of some members in litigation, even 
+though success may harm the legal interests of some mem-
+bers").
+
+     Because the NLA has at least one member that could have 
+pressed the same claims in its own right, and because those 
+claims are germane to the organizational purpose of the NLA, 
+we conclude that the association has standing to petition for 
+review of the portland cement rule.
+
+B.   The Use of PM as a Surrogate
+
+     The NLA's primary objection to the portland cement rule 
+is that it limits PM emissions from cement kilns instead of 
+regulating emissions of HAP metals individually.  The EPA 
+justifies its decision to regulate PM as "a surrogate for non-
+volatile HAP metals" by noting first that PM generated by 
+cement kilns invariably contains HAP metals, so that prevent-
+ing the emission of a unit of PM necessarily prevents the 
+emission of some quantum of HAP metals.  Using PM as a 
+surrogate thus "achieves exactly the same level of HAP metal 
+emissions limitation" as would be reached were the metals to 
+be regulated directly.  The agency also states that "the 
+MACT floor equipment and level of control for HAP metals 
+... is identical to that for PM."  Finally, the agency notes 
+that the use of a surrogate "eliminates the cost of perfor-
+mance testing to comply with numerous standards for individ-
+ual metals."  64 Fed. Reg. at 31,916/3.
+
+     The EPA may use a surrogate to regulate hazardous 
+pollutants if it is "reasonable" to do so.  See Dithiocarbamate 
+Task Force v. EPA, 98 F.3d 1394, 1399 (D.C. Cir. 1996) (EPA 
+
+may attribute characteristics of a subclass of substances to an 
+entire class of substances if doing so is scientifically reason-
+able);  NRDC v. EPA, 822 F.2d 104, 125 (D.C. Cir. 1987) 
+(EPA may regulate pollutant indirectly when its emissions 
+are controllable by regulation of other pollutants).  Even a 
+reasonable surrogate, of course, may not be used where doing 
+so would be otherwise contrary to law.  The NLA does not 
+challenge the legality of surrogacy in general, but does main-
+tain that in this case the use of PM as a surrogate is both 
+contrary to law and unreasonable.
+
+1.   Legality of using a criteria pollutant as a surrogate
+
+     The NLA argues first that the EPA may not use PM as a 
+surrogate for HAP metals because PM is a criteria pollu-
+tant--one of several ubiquitous pollutants that the EPA 
+regulates by establishing national ambient air quality stan-
+dards (NAAQS) under ss 108-09 of the Clean Air Act.  42 
+U.S.C. ss 7408-09.  The provision authorizing the EPA to 
+regulate HAPs in the Clean Air Act is limited by the qualifi-
+cation that "no [criteria] air pollutant ... may be added to 
+the list [of regulable HAPs]."  Id. s 7412(b)(2).  The NLA 
+argues that although surrogates for HAPs are permissible in 
+general, using a criteria pollutant as such a surrogate has the 
+effect of regulating that pollutant as a HAP "through the 
+back door" and thus illicitly supplementing (or even supplant-
+ing) the NAAQS applicable to that pollutant.
+
+     The EPA suggests first that the NLA's interpretation is 
+inconsistent with the stated expectation of the Congress that 
+HAP metals might be regulated under the Clean Air Act by 
+way of a PM surrogate, but the agency's point is not well-
+taken.  The EPA relies principally upon a report accompany-
+ing Senate Bill 1630, a version of which would ultimately 
+become the Clean Air Act Amendments of 1990.  The report, 
+in a discussion of the EPA's discretionary authority to lower 
+the level of emissions that qualifies a facility as a "major 
+source" of HAPs, see 42 U.S.C. s 7412(a)(1), notes that the 
+agency may find this power "especially useful in the control of 
+particulate emissions including metals for some source cate-
+gories."  S. Rep. No. 101-228, at 151.  The authors of the 
+
+report thus appear to have contemplated that the regulation 
+of "metals" could be subsumed by controls placed upon 
+"particulate emissions."
+
+     The report, however, was issued in conjunction with Senate 
+Bill 1630 as it went to the floor of the Senate on December 20, 
+1989.  In that version of the bill, the passage that would have 
+become s 7412(b)(2) authorized the Administrator to add to 
+the list of hazardous air pollutants any additional pollutants
+
+     which present, or may present, ... a threat of adverse 
+     human health effects (including, but not limited to, sub-
+     stances which are known to be, ... carcinogenic [etc.,] 
+     but not including effects for which a pollutant has been 
+     listed pursuant to section 108 of [the Clean Air] Act).
+     
+S. 1630, 101st Cong. s 301, at 324 (1989) (emphasis added).  
+The italicized clause in the reported version of Senate Bill 
+1630 does not appear in the statute as enacted.  The sentence 
+that appears in the legislation that the Congress ultimately 
+passed, and upon which the NLA bases its statutory claim, 
+provides:  "No air pollutant which is listed under section 
+7408(a) of this title [i.e., s 108 of the Clean Air Act,] may be 
+added to the list [of HAPs] under this section."  42 U.S.C. 
+s 7412(b)(2).
+
+     The italicized clause in the unenacted bill is materially 
+different from the statutory provision upon which the NLA 
+bases its claim.  The earlier version would have prohibited 
+the regulation of a criteria pollutant as a HAP only if such 
+regulation was based upon the same reason for which the 
+pollutant was listed as a criteria pollutant under s 108.  The 
+final statute, by contrast, unqualifiedly prohibits listing a 
+criteria pollutant as a HAP, that is, regardless of the reason.  
+Because the comment in the Senate Report regarding PM 
+and metals was made before the blanket prohibition upon 
+regulating PM as a HAP was added to the statute, the report 
+is irrelevant to our construction of s 7412(b)(2) as enacted.
+
+     The enacted statute, to which we now turn, prohibits the 
+addition of any criteria pollutant to "the list" of HAPs, with a 
+single exception for certain precursor pollutants not relevant 
+
+to this case.  See id.  This prohibition extends of necessity 
+not only to rules that literally list a criteria pollutant as a 
+HAP but also to any rule that in effect treats a criteria 
+pollutant as a HAP.  As the EPA shows, however, the 
+portland cement rule does not treat PM as a HAP generally;  
+it regulates only PM that is emitted from cement kilns.  The 
+rule does not treat PM, unlike a HAP metal, as a pollutant 
+the emissions of which determine whether a cement plant is a 
+"major source" of emissions.  See id. s 7412(a)(1).  Nor does 
+the EPA suggest in any way that it contemplates broad 
+regulation of PM pursuant to s 7412.  To the contrary, all of 
+the evidence upon which the agency relies to justify its use of 
+PM as a surrogate is particular to the cement industry.  See 
+Memorandum from Elizabeth Heath, Research Triangle In-
+stitute, to Joseph Wood, EPA 2-8 (Feb. 21, 1996);  Memoran-
+dum from Michael Benson, Research Triangle Institute, to 
+Mary Johnson, EPA 1 (June 21, 1993);  Portland Cement 
+Ass'n, An Analysis of Selected Trace Metals in Cement and 
+Kiln Dust at 3-4 (1992).  We therefore conclude that the use 
+of PM as a surrogate for HAP metals is not contrary to law.
+
+2.   Reasonableness of the PM surrogate
+
+     The NLA also contends that PM is an unreasonable surro-
+gate for HAP metals because HAP metals make up a "very 
+small and variable" portion of cement kiln PM emissions.  
+The NLA faults the EPA both because it did not demonstrate 
+and quantify a consistent correlation between PM stack emis-
+sions and their HAP metal content, and because it selected a 
+surrogate of which HAP metals make up only "about one 
+tenth of one percent."
+
+     The EPA acknowledges both points.  The closest the agen-
+cy comes to making a numerical estimate of the correlation 
+between PM and the HAP metals it contains is the statement 
+that "the total average HAP metal content of kiln exhaust 
+PM is approximately one weight percent."  63 Fed. Reg. at 
+14,195/2.  The EPA thus admits that the ratio of HAP metals 
+to total particulates is small;  and the agency nowhere dis-
+cusses the variance associated with its estimated average.  
+The EPA contends, however, that it justified the surrogacy 
+
+adequately by demonstrating that "where there is cement kiln 
+PM, HAP metals are always in it, and when cement kiln PM 
+is removed from emissions, HAP metals are always removed 
+with it."  According to the EPA, as long as it demonstrates 
+that there is a correlation between HAP metals and PM, it 
+need not quantify that correlation or assess its variability 
+because PM control technology is such that each unit of PM 
+emissions avoided "carries" within it some quantum of HAP 
+metals.
+
+     The agency's analysis is not unreasonable.  If HAP metals 
+are invariably present in cement kiln PM, then even if the 
+ratio of metals to PM is small and variable, or simply 
+unknown, PM is a reasonable surrogate for the metals--
+assuming, as both the EPA and the NLA appear to do, that 
+PM control technology indiscriminately captures HAP metals 
+along with other particulates, an assumption about which we 
+say more in the next paragraph.  The EPA is under no 
+obligation to achieve a particular numerical reduction in HAP 
+metal emissions;  it must reduce their emission only to the 
+level "achieved" by the best performing facility or, for exist-
+ing sources, to the level achieved by the median of the best-
+performing 12 percent of facilities.  42 U.S.C. s 7412(d)(3).  
+If PM control is the only means by which facilities "achieve" 
+reductions in HAP metal emissions, then the EPA may 
+require PM control without quantifying the reduction in HAP 
+metals thus achieved.
+
+     We should add, however, that the EPA may need to 
+reconsider whether PM is an appropriate surrogate for HAP 
+metals when, upon remand, it considers whether to establish 
+beyond-the-floor standards for HAP metals (for which PM is 
+a proxy).  We held above, see Ct. Op. at 14, that the EPA 
+must consider the potential impact upon emissions of changes 
+in inputs to the cement manufacturing process, especially the 
+possibility of fuel switching.  The EPA decided to use PM as 
+a surrogate for HAP metals because PM control technology 
+traps HAP metal particles and other particulates indiscrimi-
+nately.  In considering the role of inputs, the EPA must also 
+assure itself that fuels and other inputs affect HAP metal 
+emissions in the same fashion that they affect the other 
+components of PM.  For example, PM might not be an 
+
+appropriate surrogate for HAP metals if switching fuels 
+would decrease HAP metal emissions without causing a corre-
+sponding reduction in total PM emissions.
+
+3.   The NLA's other arguments against PM as a surrogate
+
+     The NLA offers several other reasons for thinking the 
+EPA's use of PM as a surrogate for HAP metals might be 
+unreasonable or contrary to law, but each of them is without 
+merit.  First, the NLA claims that the use of PM as a 
+surrogate is incompatible with the agency's own methodology 
+for setting MACT floors.  According to the NLA, this meth-
+odology requires the agency to set a floor of "no control" for 
+HAP metals because no cement plant intentionally controls 
+HAP metals;  metal emissions are controlled only incidentally 
+by controls placed upon PM.  The EPA's response is the 
+correct one:  "cement plants actually are controlling HAP 
+metals[,] [i]ntentionally or not."  The Clean Air Act requires 
+the EPA to set MACT floors based upon the "average 
+emission limitation[s] achieved," 42 U.S.C. s 7412(d)(3);  it 
+nowhere suggests that this achievement must be the product 
+of a specific intent.  Moreover, as we have seen, the EPA's 
+floor-setting methodology does not permit the agency to set a 
+MACT floor of "no control" simply because no controls are in 
+place, see Ct. Op. at 12 above;  a fortiori, the EPA may not 
+set such a floor when the controls are in place but the cement 
+kilns have not intentionally deployed them for that purpose.
+
+     Second, the NLA claims that the EPA, in limiting PM 
+emissions, failed to meet the statutory requirement to "tak[e] 
+into consideration the cost of achieving ... emissions reduc-
+tion[s]" for the underlying HAP metals.  42 U.S.C. 
+s 7412(d)(2).  According to the NLA, the per unit cost of 
+preventing HAP metal emissions is prohibitively high.  Cost, 
+however, may be taken into account only in considering 
+beyond-the-floor emissions limitations, which in the case of 
+PM we have remanded to the agency;  cost may not influence 
+the determination of a MACT floor, which depends exclusive-
+ly upon the emissions reductions achieved by the best-
+performing sources.  See id. s 7412(d)(3).  Relatedly, the 
+NLA also claims that in light of both the high costs and the 
+low quantities of HAP metals to be controlled, the EPA 
+
+should read a de minimis exception into the requirement that 
+it regulate all hazardous air pollutants emitted by major 
+sources.  The EPA reasonably rejected this argument on the 
+ground that the statute "does not provide for exceptions from 
+emissions standards based on de minimis principles where a 
+MACT floor exists."  Response to Comments at 211.
+
+C.   Measurement of HCl Emissions
+
+     HCl is emitted in sufficient quantity from most cement 
+kilns to qualify each kiln as a "major source," that is, a source 
+that "emits or has the potential to emit considering controls, 
+in the aggregate, 10 tons per year or more of any [HAP]," 42 
+U.S.C. s 7412 (a)(1).  See 63 Fed. Reg. at 14,192-93.  The 
+challenged rule allows a single technique for measuring HCl 
+emissions from a cement kiln--Fourier Transform Infrared 
+Spectroscopy (FTIR)-if the kiln "wishes to claim it is not a 
+major source."  64 Fed. Reg. at 31,907/2.  The EPA refused 
+to allow kilns to use two other methods--so-called Method 26 
+and its variant, Method 26A--to support such a claim be-
+cause, in the agency's view, these methods "may underesti-
+mate HCl emissions by a factor of 2 to 25."  63 Fed. Reg. at 
+14,193/1.  The NLA claims that this determination was un-
+lawful and arbitrary and capricious.  It also asserts that the 
+EPA acted unlawfully when it refused to consider NLA's 
+comments suggesting potential improvements in Method 
+26/26A.
+
+     The NLA bases its claim upon data regarding Method 
+26/26A that it submitted to the EPA but the agency did not 
+consider.  The EPA was under no obligation to do so, howev-
+er, because the materials the NLA cites were not part of the 
+administrative record.  All but one of the letters from the 
+NLA transmitting the disputed information to the EPA are 
+dated after June 26, 1998, the close of the comment period.  
+64 Fed. Reg. at 31,900/1.  Information submitted to the 
+agency out of time is incorporated into the administrative 
+record only if the Administrator of the EPA determines that 
+it is "of central relevance to the rulemaking."  42 U.S.C. 
+s 7607(d)(4)(B)(i).  Because she did not so determine, the 
+NLA may not present arguments based upon that informa-
+tion.
+
+     The one document the NLA proffers that was submitted 
+within the comment period is a letter dated June 22, 1998, 
+transmitting a summary of a conference call that day between 
+officials of the NLA and of the EPA.  See Letter from Arlene 
+Seeger, Executive Director, NLA, to Joseph P. Wood, EPA 1.  
+The June 22 letter nowhere suggests, however, that it is 
+being submitted in connection with the proposed portland 
+cement rule.  Instead, as is also implied in later correspon-
+dence between the EPA and the NLA, the conference call 
+appears to have been part of an ongoing dialogue between the 
+agency and the NLA regarding a proposed rule affecting the 
+lime industry.  The EPA is not required to consider in its 
+deliberations here information apparently submitted in con-
+nection with a different rulemaking proceeding when no one 
+timely asked it to do so.
+
+     The NLA also suggests that the EPA unlawfully failed to 
+consider several pages of handwritten calculations that pur-
+port to test whether another approach to measuring HCl 
+emissions--gas filter correlation infrared spectroscopy 
+(GFCIR)--generates biased results relative to FTIR.  The 
+EPA concedes that this test should have been, but was not, 
+included in the administrative record.  As the EPA points 
+out, however, the omission is immaterial because the agency 
+used the calculations only to determine that GFCIR was too 
+biased to be a usable testing method--and the NLA does not 
+challenge that determination.  We therefore conclude that the 
+EPA was not required to consider the data the NLA cites in 
+deciding that Method 26/26A could not be used to challenge 
+"major source" determinations.
+
+     Separately, the EPA concedes that it failed to consider the 
+NLA's properly submitted comments regarding possible im-
+provements to Method 26/26A.  We therefore remand this 
+matter to the agency so that it may respond to those com-
+ments.
+
+                          IV. Conclusion
+
+     In summary, we remand the rule to the EPA to allow the 
+agency to (1) set "MACT floor" standards for HCl, mercury, 
+
+and total hydrocarbons;  (2) consider setting "beyond-the-
+floor" standards for HAP metals;  and (3) respond to com-
+ments suggesting improvements to Method 26/26A for meas-
+uring HCl emissions.  With respect to all other issues dis-
+cussed herein, the petitions are denied.
+
+                                                           So ordered.
+
+            

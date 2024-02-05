@@ -1,0 +1,467 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued October 11, 2000   Decided January 9, 2001 
+
+                           No. 99-1441
+
+           Association of Communications Enterprises, 
+                            Appellant
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+                    AT&T Corporation, et al., 
+                           Intervenors
+
+                    Appeal of an Order of the 
+                Federal Communications Commission
+
+     Charles C. Hunter argued the cause for appellant and 
+supporting intervenor Competitive Telecommunications Asso-
+ciation.  With him on the briefs were Catherine M. Hannan 
+and Robert M. McDowell.
+
+     Peter D. Keisler argued the cause for intervenor AT&T 
+Corp.  With him on the brief were Mark C. Rosenblum, Roy 
+E. Hoffinger and C. Frederick Beckner III.
+
+     John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, argued the cause for appellee.  
+With him on the brief were Christopher J. Wright, General 
+Counsel, and Laurence N. Bourne, Counsel.
+
+     Michael K. Kellogg argued the cause for intervenor SBC 
+Communications Inc.  With him on the brief were James D. 
+Ellis and Martin E. Grambow.
+
+     Before:  Edwards, Chief Judge, Rogers, Circuit Judge, and 
+Silberman, Senior Circuit Judge.*
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Silberman.
+
+     Silberman, Senior Circuit Judge:  The Association of Com-
+munications Enterprises appeals from an order of the Feder-
+al Communications Commission approving the transfer of 
+Commission licenses from Ameritech Corp. to SBC Communi-
+cations Inc. in connection with the merger of the two compa-
+nies.  The order allows the merged company to avoid statuto-
+ry resale obligations on certain advanced telecommunications 
+services by providing those services through a subsidiary.  
+We vacate.
+
+                                I.
+
+     As all observers of the American telecommunications sys-
+tem are well aware, when a 1982 consent decree dismantled 
+the Bell monopoly over many telecommunications services, 
+the Bell System's local exchange operations were severed 
+from its other operations and split geographically among 
+seven Regional Bell Operating Companies (RBOCs).  Ameri-
+tech and SBC were both RBOCs and provided various states 
+with local exchange and exchange access services, which 
+depend critically on maintenance and operation of the "local 
+loop," the physical infrastructure by which wire-based tele-
+
+__________
+     * Senior Judge Silberman was in regular active service at the 
+time of oral argument.
+
+phone service is provided.  Because the local loop is a natural 
+monopoly, control over it allowed the Bell System, and then 
+RBOCs, to control telecommunications access to most homes 
+and businesses.
+
+     Today the Telecommunications Act of 1996 governs the 
+obligations of telecommunications carriers such as Ameritech 
+and SBC.1  The Act imposes on carriers certain duties in-
+tended to open telecommunications markets to competition.  
+The Act's strictest obligations are levied on "incumbent local 
+exchange carriers" (ILECs), which are those local exchange 
+carriers (LECs) that were providing a given area with mo-
+nopoly or near-monopoly telephone exchange service on the 
+Act's enactment date, as well as their successor and assigns.
+
+     ILECs are subject to stringent market-opening duties.  Of 
+particular relevance to this appeal is the Act's ILEC resale 
+obligation, 47 U.S.C. s 251(c)(4), which requires ILECs "to 
+offer for resale at wholesale rates any telecommunications 
+service that the carrier provides at retail to subscribers who 
+are not telecommunications carriers."  Section 251(c) also 
+requires ILECs to negotiate in good faith, to provide inter-
+connection with other telecommunications carriers, to provide 
+unbundled access to network elements where technologically 
+feasible, and to allow physical collocation of equipment neces-
+sary for interconnection or access to unbundled network 
+elements.
+
+     For some time, various ILECs have argued that ILECs' 
+s 251(c) resale obligations should not extend to their provi-
+sion of so-called advanced services because ILECs do not 
+exercise market power over those services.  The Act defines 
+"advanced services," regardless of transmission medium or 
+technology, "as high-speed, switched, broadband telecommu-
+nications capability that enables users to originate and receive 
+high-quality voice, data, graphics, and video telecommunica-
+tions using any technology."2  ILECs contended before the 
+
+__________
+     1 See Telecommunications Act of 1996, Pub. L. No. 104-104, 110 
+Stat. 56 (codified at 47 U.S.C.A. s 151 et seq. (Supp. 2000)).
+
+     2 Advanced services differ from most traditional telecommunica-
+tions services in that they are digital, not analog.  Instead of 
+
+Commission both that ILECs are not subject to s 251(c) in 
+their provision of advanced services and that, even if s 251(c) 
+does apply to ILEC's advanced services, the Commission 
+should simply forbear from applying it.  The Commission 
+rejected both arguments.  The Commission determined that 
+advanced services are telecommunications services like any 
+others and may not be provided by an ILEC unless the ILEC 
+complies with s 251(c).3  It also determined that it lacked 
+authority to forbear from applying s 251(c) to advanced 
+services.  It concluded that exempting ILEC-provided ad-
+vanced services from s 251(c) market-opening obligations "is 
+at odds with the technology[-]neutral goals of the Act and 
+with Congress' aim to encourage competition in all telecom-
+munications markets."  (Emphasis added).
+
+     In 1998 Ameritech and SBC proposed a stock-for-stock 
+merger that would make Ameritech a wholly owned subsid-
+iary of SBC.  The merging companies filed a joint application 
+requesting Commission approval to transfer control to SBC of 
+licenses and lines owned and controlled by Ameritech.  The 
+Commission determined that this application compelled it to 
+consider whether the merger as a whole--not just the trans-
+fer of individual lines--was consistent with the Act.  Appel-
+lant Association of Communications Enterprises (ASCENT),4 
+__________
+maintaining a continuous channel of communications for the entire 
+information transfer, advanced services are usually transferred in 
+multiple discrete bundles of digital information, called "packets," 
+that are transmitted individually over the most efficient route 
+available, and then reassembled instants later at their destination.  
+This process of separate transmission and subsequent reassembly is 
+called "packet-switching."
+
+     3 See Deployment of Wireline Services Offering Advanced Tele-
+communications Capability, 13 F.C.C.R. 24,012, p p 11, 66-67 (Aug. 
+6, 1998) (Deployment Order);  Deployment of Wireline Services 
+Offering Advanced Telecommunications Capability, 15 F.C.C.R. 385, 
+p p 10-11 (Dec. 23, 1999), pet. for review filed sub nom. MCI 
+WorldCom, Inc. v. FCC, No. 00-1002 (D.C. Cir. filed Jan. 3, 2000);  
+Deployment of Wireline Services Offering Advanced Telecommuni-
+cations Capability, 14 F.C.C.R. 19,237, p 3 (Nov. 9, 1999).
+
+     4 During its opposition to the joint application, ASCENT was 
+known as the Telecommunications Resellers Association.  For clari-
+ty's sake we use the association's new name throughout.
+
+a national trade association representing telecommunications 
+providers and resellers, opposed the application.  ASCENT 
+alleged that the merger of two of the largest ILECs would 
+hinder competition and urged that certain competition-
+enhancing conditions be imposed on the merged company, 
+after which Ameritech and SBC supplemented their applica-
+tion to include a package of voluntary commitments.
+
+     The Commission approved the merger and permitted the 
+new company to offer advanced services through a separate 
+affiliate and, by doing so, avoid s 251(c)'s duties.5  Although 
+the Act extends an ILEC's market-opening obligations, in-
+cluding the requirement that an ILEC sell its telecommunica-
+tions services to a reseller at wholesale prices, to an ILEC's 
+"successor or assign," the Commission adopted a presumption 
+that the advanced services affiliate is not such a successor or 
+assign so long as it complies with various structural and 
+transactional safeguards.6  These include independent opera-
+tions, separate officers, directors, employees, books, records, 
+and accounts, and transactions with SBC/Ameritech conduct-
+ed on an arm's length basis.  It is important to note that 
+although this case arises out of a merger proceeding, the 
+Commission's order has a broader application.  Any ILEC 
+would be entitled, according to the Commission's logic, to set 
+up a similar affiliate and thereby avoid s 251(c)'s resale 
+obligations.
+
+                               II.
+
+     Appellant's primary argument is that the Commission's 
+order is simply a device to accomplish indirectly what the 
+statute clearly forbids:  the Commission's exercise of forbear-
+ance authority over an ILEC's provision of advanced services.  
+Under the order ILECs can circumvent s 251(c)'s require-
+
+__________
+     5 See Applications of Ameritech Corp. and SBC Communications 
+Inc., 14 F.C.C.R. 14,712, p 349 (Oct. 6, 1999) (Merger Order).
+
+     6 The Merger Order provides that if a court determines that the 
+affiliate is a successor or assign under the specified conditions, then 
+the new company's obligation to provide advanced services only 
+through an affiliate would terminate.
+
+ment that they offer advanced services at wholesale prices by 
+merely creating a subsidiary--albeit a subsidiary that must 
+operate somewhat separately from the ILEC.  And according 
+to appellant, Congress manifested a clear intent that the 
+Commission not forbear from regulating any ILEC's telecom-
+munications services, including advanced services, unless cer-
+tain market conditions are met.  Intervenor AT&T trains its 
+fire on the Commission's interpretation of the phrase "succes-
+sor or assign," claiming that its construction of those terms is 
+inconsistent with a number of cases in which those terms are 
+defined as used in other statutes.  The Commission insists 
+that it is not actually utilizing its forbearance authority and 
+that the phrase "successor or assign" is sufficiently ambigu-
+ous so that under Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837 (1984), we are obliged to 
+defer to the Commission's interpretation.  As should be obvi-
+ous, these arguments are quite interrelated.  For even if we 
+conclude that the Commission has not formally used its 
+forbearance authority and that the phrase "successor or 
+assign" is ambiguous, the meaning of the statute, as revealed 
+by its structure, may render the Commission's "successor or 
+assign" construction unreasonable.
+
+     Section 10 of the Act provides in relevant part:
+
+          ... [T]he Commission shall forbear from applying any 
+     regulation or any provision of this chapter to a telecom-
+     munications carrier or telecommunications service, or 
+     class of telecommunications carriers or telecommunica-
+     tions services, in any or some of its or their geographic 
+     markets, if the Commission determines that--
+     
+          (1) enforcement of such regulation or provision is not 
+     necessary to ensure that the charges, practices, classifi-
+     cations, or regulations by, for, or in connection with that 
+     telecommunications carrier or telecommunications ser-
+     vice are just and reasonable and are not unjustly or 
+     unreasonably discriminatory;
+     
+          (2) enforcement of such regulation or provision is not 
+     necessary for the protection of consumers;  and
+     
+          (3) forbearance from applying such provision or regu-
+     lation is consistent with the public interest.
+     
+47 U.S.C. s 160(a).  But the Commission "may not forbear 
+from applying the requirements of section 251(c) ... until it 
+determines that those requirements have been fully imple-
+mented."  47 U.S.C. s 160(d).  Because those requirements 
+have not been fully implemented here, the FCC (as it con-
+cedes) may not forbear.7
+
+     Appellant argues that the Merger Order is "the legal and 
+practical equivalent" of forbearance.  In other words, to apply 
+s 251(c) as narrowly as the Commission has done is akin to 
+forbearing from regulating.  The Commission insists that it is 
+not actually "forbearing" but rather interpreting s 251(c) not 
+to apply to this affiliate structure.  In other words, the 
+definition of ILEC in s 251(h) does not explicitly mention 
+affiliates, so the Commission claims authority to determine 
+case by case whether a particular affiliate is an incumbent 
+LEC or not.  When it does so it is interpreting the statute 
+rather than determining whether to forbear.
+
+     We think appellant's argument is a powerful one.  Al-
+though the Commission has not explicitly invoked forbearance 
+authority (in direct violation of s 10), to allow an ILEC to 
+sideslip s 251(c)'s requirements by simply offering telecom-
+munications services through a wholly owned affiliate seems 
+to us a circumvention of the statutory scheme.  The Commis-
+sion justifies its order by drawing our focus to its definition of 
+"successor and assign."  The Commission reasons that the 
+affiliate structure it approved would be illegal only if it were 
+
+__________
+     7 Section 706 of the Act provides in relevant part that "[t]he 
+Commission ... shall encourage the deployment on a reasonable 
+and timely basis of advanced telecommunications capability to all 
+Americans ... by utilizing, in a manner consistent with the public 
+interest, convenience, and necessity, ... regulatory forbearance."  
+47 U.S.C.A. s 157 note.  Ameritech and SBC argued that s 706 is 
+an independent grant of authority to forbear, but the Commission 
+concluded that s 706 was only an instruction that the Commission 
+should utilize s 10's forbearance authority in the context of ad-
+vanced services.  See Deployment Order p p 68-69.
+
+obliged to treat an affiliate as a successor and assign of an 
+ILEC, because only under these circumstances would 
+s 251(c)'s requirements carry over to the affiliate.  And since 
+"successors and assigns" is not defined in the Act, the Com-
+mission's definition is entitled to Chevron deference.
+
+     The Commission's approach gives rise to a fierce argument, 
+mounted particularly by intervenor AT&T, that the Commis-
+sion's definition of successor and assign is impermissible.  
+AT&T draws particularly on NLRB cases to claim that the 
+affiliate must be thought a successor or assign.  See, e.g., Fall 
+River Dyeing & Finishing Corp. v. NLRB, 482 U.S. 27, 107 
+S. Ct. 2225 (1987);  NLRB v. New Madrid Mfg. Co., 215 F.2d 
+908, 911 (8th Cir. 1954).  AT&T emphasizes that the affiliate 
+markets the same category of services to the same body of 
+potential customers as did SBC/Ameritech.  The Commission 
+decided the affiliate was not a successor or assign essentially 
+because the company did not transfer its "traditional business 
+operations"--its monopoly assets.  Thus, the Commission has 
+permitted, through the technique of defining successor and 
+assign to exclude the transfer of advanced services to an 
+affiliate, the very result it had previously rejected--allowing 
+an incumbent LEC to avoid the resale obligation on its 
+advanced services.
+
+     Paradoxically the Commission is using language designed 
+by Congress as an added limitation on an ILEC's ability to 
+offer telecommunications services as a statutory device to 
+ameliorate s 251(c)'s restriction.  We do not think that in the 
+absence of the successor and assign limitation an ILEC would 
+be permitted to circumvent s 251(c)'s obligations merely by 
+setting up an affiliate to offer telecommunications services.  
+The Commission is thus using the successor and assign 
+limitation as a form of legal jujitsu to justify its relaxation of 
+s 251(c)'s restrictions.
+
+     That an ILEC would not be permitted to avoid the limita-
+tions on telecommunications services--including advanced 
+services--through a wholly owned affiliate, even in the ab-
+sence of the "successor or assign" restriction, is evident by 
+examination of the very provision on which the Commission 
+
+relies to justify the affiliate structure in this case.  The 
+Commission looks to 47 U.S.C. s 272, which allows ILECs to 
+provide certain maintenance and long-distance services--but 
+not advanced services--through a separate affiliate.  As set 
+out in the Merger Order, the advanced services affiliate must 
+"operate largely in accordance with the structural, transac-
+tional, and nondiscrimination requirements of [47 U.S.C. 
+s] 272(b), (c), (e), and (g)."  Merger Order p 364.
+
+     But s 272 applies only to manufacturing activities, telecom-
+munications services between different local access and trans-
+port areas (LATAs), and interLATA information services--
+not advanced services.  See 47 U.S.C. s 272(a)(2).  It sets out 
+a series of formal structural and transactional obligations 
+intended to check LECs' incentive to leverage their bottle-
+neck assets into market power over other telecommunications 
+services.  LECs can provide the services covered by s 272 
+only through a separate affiliate, which must "operate inde-
+pendently" of its LEC;  maintain separate books, records, and 
+accounts;  have separate officers, directors, and employees;  
+and conduct all transactions with its parent LEC "on an arm's 
+length basis ... reduced to writing and available for public 
+inspection."  Id. s 272(b)(1)-(3), (5).  The LEC is prohibited 
+from discriminating between its s 272 affiliate and other 
+entities "in the provision or procurement of goods, services, 
+facilities, and information, or in the establishment of stan-
+dards."  Id. s 272(c)(1).
+
+     To be sure, obligations substantially similar to these bind 
+the new company and its advanced services affiliate by force 
+of the Merger Order.  See Merger Order p 364.8  But s 272 
+
+__________
+     8 While the advanced services affiliate must be separate from the 
+merged company as a matter of corporate form, its separation does 
+not extend to various other matters, including some that constitute 
+deviations from the provisions of s 272.  The Merger Order pro-
+vides for certain joint services, including joint marketing and per-
+formance of certain customer care services.  Certain operation, 
+installation and maintenance functions of the affiliate may be per-
+formed by the merged company, and the affiliate may use the 
+
+is not only an inapt analogy, it actually undermines the 
+Commission's position. As intervenor AT&T points out, s 272 
+affiliates are established primarily to provide interLATA 
+telephone service, which an ILEC is generally barred from 
+providing. See 47 U.S.C. s 271.  Since the ILEC may not 
+provide this service in the first place, the s 272 affiliate 
+obviously does not succeed to an existing interLATA tele-
+phone service business or to the assets the ILEC used to 
+provide that service.  This point alone would render the 
+s 272 comparison inapposite for advanced services, which 
+were previously provided by the merged companies, see 
+Merger Order p 475.  Yet the s 272 comparison is even more 
+damning than that, for s 272 evidences Congress' considered 
+judgment as to when an ILEC may legally provide telecom-
+munications services through an affiliate and thereby avoid 
+some of the Act's strictures.  Since Congress prescribed no 
+such affiliate structure for advanced services, we must as-
+sume that Congress did not intend for s 251(c)'s obligations 
+to be avoided by the use of such an affiliate.
+
+     Congress thus has specified when conditions justify allow-
+ing an ILEC to provide telecommunications services without 
+s 251(c)'s duties.  And it has specified when an ILEC may 
+avoid the Act's burdens by providing telecommunications 
+services through a separate affiliate, and what services that 
+affiliate may provide.  In short, the Act's structure renders 
+implausible the notion that a wholly owned affiliate providing 
+telecommunications services with equipment originally owned 
+by its ILEC parent, to customers previously served by its 
+ILEC parent, marketed under the name of its ILEC parent, 
+should be presumed to be exempted from the duties of that 
+ILEC parent.9
+
+__________
+merged company's "name, trademarks, and service marks on an 
+exclusive basis."  Merger Order p p 364-65.
+
+     9 The Commission said that an affiliate can be a successor or 
+assign, see Deployment Order p 90, but that this affiliate was 
+neither.  The Commission could just as well have determined that 
+the affiliate was itself a part of the ILEC and thus did not trigger 
+the "successor or assign" inquiry.
+
+     That is not to say that the Commission would not be 
+entitled to some running room in defining the terms successor 
+and assign.  For instance if an ILEC sold its advanced 
+service to an unaffiliated company the Commission might well 
+be entitled to conclude that the new company was not a 
+successor and assign.
+
+     The real explanation for the Commission's rather tortured 
+statutory interpretation in this case is set forth powerfully in 
+intervenor SBC's brief.  It is argued that the Commission's 
+order is justified because the clear purpose of the Telecom-
+munications Act--particularly the requirements of s 251(c)--
+is to prevent an ILEC from abusing its market power over 
+the local loop to prevent competition.  If an ILEC has no 
+market power over advanced services, an affiliate structure to 
+offer those services should be permitted by concluding it is 
+not a successor or assign so long as the affiliate is sufficiently 
+separate.  Of course, if intervenor's economic analysis is 
+correct it is not apparent why a separate affiliate would be 
+necessary--or even useful.  It could be thought that the 
+affiliate structure is a non sequitur if an ILEC cannot use its 
+local loop monopoly to leverage its position in the advanced 
+service market.
+
+     But whether or not SBC's premise is economically sound, it 
+is unfortunately not Congress' premise.  As the Commission 
+concedes, Congress did not treat advanced services different-
+ly from other telecommunications services.  See Deployment 
+Order p 11.  It did not limit the regulation of telecommunica-
+tions services to those services that rely on the local loop.  
+For that reason the Commission may not permit an ILEC to 
+avoid s 251(c) obligations as applied to advanced services by 
+setting up a wholly owned affiliate to offer those services.  
+Whether one concludes that the Commission has actually 
+forborne or whether its interpretation of "successor or as-
+sign" is unreasonable, the conclusion is the same:  The Com-
+mission's interpretation of the Act's structure is unreasonable.
+
+                            *  *  *  *
+
+     The order of the Federal Communications Commission is 
+vacated.
+
+                                                                      So ordered.
+
+                             

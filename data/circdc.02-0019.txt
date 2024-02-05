@@ -1,0 +1,523 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 10, 2001   Decided January 11, 2002 
+
+                           No. 00-1292
+
+                   High Plains Wireless, L.P., 
+                            Appellant
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+        Digital PCS, LLC and Tritel Communications, Inc., 
+                           Intervenors
+
+                   Appeal from an Order of the 
+                Federal Communications Commission
+
+     Eliot J. Greenwald argued the cause and filed the briefs for 
+appellant.
+
+     Stanley Scheiner, Counsel, Federal Communications Com-
+mission, argued the cause for appellee.  With him on the brief 
+
+were Jane E. Mago, General Counsel, Daniel M. Armstrong, 
+Associate General Counsel, and Thomas Chandler, Counsel.
+
+     Thomas Gutierrez argued the cause for intervenors Digital 
+PCS, LLC and Tritel Communications, Inc.  With him on the 
+joint brief was Russell D. Lukas.
+
+     Before:  Ginsburg, Chief Judge, Edwards and Sentelle, 
+Circuit Judges.
+
+     Opinion for the Court filed by Chief Judge Ginsburg.
+
+     Ginsburg, Chief Judge:  High Plains Wireless, L.P. appeals 
+an order of the Federal Communications Commission award-
+ing 32 licenses to Mercury PCS II, LLC, now called Tritel 
+Communications, Inc.  High Plains and Mercury both bid at 
+an auction conducted by the Commission for licenses to 
+provide personal communications services (PCS).  See Mercu-
+ry PCS II, LLC, 15 F.C.C.R. 9654 (2000) (Mercury).  High 
+Plains asserts that the Commission unreasonably refused to 
+disqualify Mercury from receiving the licenses even though 
+Mercury concededly violated the Commission's rule against 
+collusion.  High Plains also alleges that Mercury orchestrated 
+a slew of unlawful ex parte contacts in an attempt to influence 
+the investigation into its bidding practices.  We hold that, 
+insofar as High Plains has standing to appeal, it has not 
+shown that the award to Mercury was arbitrary or irrational, 
+and we therefore affirm the order of the Commission.
+
+                          I. Background
+
+     Broadband PCS is a group of technologies that allow 
+mobile communication using the electromagnetic spectrum.  
+See Amendment of the Comm'n's Rules to Establish New 
+Personal Comms. Servs., 8 F.C.C.R. 7700 at p 24 (1993) (2d 
+R&O).  Advanced cellular telephones, portable facsimile ma-
+chines, and many other methods of wireless communication 
+are based upon broadband PCS.  See id. at p 18.  Recogniz-
+ing the commercial and technological potential of broadband 
+PCS, the Commission reserved 120 MHz of spectrum for 
+provision of these services.  See 47 C.F.R. s 24.200.
+
+     Before a party may use the spectrum to provide broadband 
+PCS, it must get a license from the Commission.  See 47 
+U.S.C. s 301.  In 1993 the Congress directed the Commission 
+to choose between mutually exclusive applications for a li-
+cense through a system of competitive bidding, see 47 U.S.C. 
+s 309(j)(1);  47 C.F.R. s 24.701;  the Commission has since 
+held several of the highest value auctions in history.  See 
+Remarks of then-Chairman Reed Hundt at the Inst. for Int'l 
+Econ., Washington, D.C. (Oct. 23, 1996), at http:  
+//www.fcc.gov/Speeches/Hundt/spreh647.txt (visited Dec. 18, 
+2001) (comparing himself to Genghis Khan as one of the 
+"most profit-generating" officials ever).
+
+     The Commission divided the 120 MHz of spectrum re-
+served for broadband PCS in two ways.  First, it partitioned 
+the spectrum into six blocks:  three of 30 MHz each (A, B, 
+and C) and three of 10 MHz each (D, E, and F).  See 2d R&O 
+at p 56.  Second, it divided the spectrum into geographic 
+service areas.  Licenses for the A and B blocks of spectrum 
+were established for each of the 51 Market Trading Areas 
+into which the United States and its territories were divided 
+in the Rand McNally Commercial Atlas & Marketing Guide 
+(1992).  See id. at p p 64, 76.  Licenses for the C, D, E, and F 
+blocks were established for each of the 493 Basic Trading 
+Areas (BTAs) defined by the same source.  See id.  Between 
+August 26, 1996 and January 14, 1997 the Commission auc-
+tioned off the D, E, and F block licenses in all 493 BTAs.  See 
+Mercury, 15 F.C.C.R. 9654 at p 2.
+
+     The DEF auction was open, simultaneous, and ascending.  
+That the auction was "open" means that, in contrast to a 
+sealed-bid auction, the participants became aware of each 
+others' bids as they were cast.  The auction was "simulta-
+neous" in that the D, E, and F licenses for each of the 493 
+BTAs were open for bidding at the same time, and the 
+auction was "ascending" in the sense that bidding on the 
+licenses continued through successive rounds until no new 
+high bid was cast.  The Commission built these features into 
+the auction to maximize the revenue it would generate and 
+the allocative efficiency it would achieve.  See generally Peter 
+Cramton, The Efficiency of the FCC Spectrum Auctions, 41 J. 
+
+L. & Econ. 727, 728-35 (1998).  Because the bidding was 
+open, however, any bidder could send all other bidders a 
+message encoded in the digits of its bid.  See Peter Cramton 
+& Jesse A. Schwartz, Collusive Bidding:  Lessons from FCC 
+Spectrum Auctions, 17 J. Reg. Econ. 229, 237 (2000).  In this 
+way, participants could collude through the auction process 
+itself.
+
+     Mercury and High Plains both bid on the licenses for the F 
+block of spectrum in Lubbock and for the D and F blocks in 
+Amarillo, Texas.  See Mercury, 15 F.C.C.R. 9654 at p 2.  
+High Plains was the successful bidder for the F block license 
+in Amarillo.  See id. at p 2 & n.9.  Mercury acquired the F 
+block license in Lubbock as well as 31 other licenses for which 
+High Plains did not bid.  See id. at p 2 & n.10.
+
+     Mercury used so-called "reflexive bidding," a tactic for 
+deterring would-be competitors from bidding on a particular 
+license, to dissuade High Plains from bidding on the F block 
+license for Lubbock.  See id. at p 5 & n.23.  Specifically, 
+Mercury made the last three digits of its bids for the F block 
+licenses in Lubbock and in Amarillo the same as the Commis-
+sion's numeric designations for the Amarillo and Lubbock 
+BTAs respectively.  See Mercury PCS II, LLC, 13 F.C.C.R. 
+23755 (1998) p 3 (NALF Rescission).  In one round of the 
+auction, for example, Mercury bid $1,375,013 on the F block 
+license in Lubbock, "013" being the BTA for Amarillo;  after 
+High Plains bid again for the F block license in Lubbock, 
+Mercury bid $1,615,264 on the F block license in Amarillo, 
+"264" being the BTA for Lubbock.  See id.  By repeatedly 
+thus encoding its bids, Mercury was able to warn High Plains 
+that if High Plains did not stop bidding, then Mercury would 
+drive up the price of the F block license in Amarillo.  See id. 
+at p 4.
+
+     The message was not lost on High Plains, which stopped 
+bidding for the F block license in Lubbock, see id., and filed 
+with the Commission an emergency motion to disqualify 
+Mercury from the auction.  High Plains alleged that Mercury 
+violated the anti-collusion rule, which prohibited bidders 
+"from cooperating, collaborating, discussing or disclosing in 
+
+any manner the substance of their bids or bidding strategies" 
+during the auction.  47 C.F.R. s 1.2105(c) (2000), amended by 
+Competitive Bidding Procedures, 66 Fed. Reg. 54447, 54447-
+48 (Oct. 29, 2001).  When the auction ended without the 
+Commission having acted upon the motion, High Plains filed a 
+motion to deny the award to Mercury of any licenses in the 
+DEF auction.  During ensuing investigations conducted sepa-
+rately by the Commission and by the Department of Justice, 
+the executive responsible for formulating Mercury's bidding 
+strategy admitted that Mercury had used reflexive bidding to 
+threaten other bidders.  See Mercury, 15 F.C.C.R. 9654 at 
+p 16 n.57.  Mercury claimed, however, that reflexive bidding 
+was a common practice and did not violate the rule against 
+collusion.  See NALF Rescission, 13 F.C.C.R. 23755 at p 4.
+
+     While the investigation into Mercury's bidding practices 
+was ongoing, High Plains again complained to the Commis-
+sion, this time about ex parte contacts between Members of 
+Congress and the staff of the Commission.  At least 27 
+Members inquired of the Commission about Mercury's licens-
+es and the delay in their award.  After yet another investiga-
+tion, the Office of General Counsel (OGC) dismissed the 
+charge, finding that the contacts were all congressional "sta-
+tus inquiries" exempt from the ban on ex parte contacts 
+under the Commission's rules.  47 C.F.R. s 1.1202(a).
+
+     Also while the investigation into Mercury's bidding prac-
+tices was ongoing, the Wireless Telecommunications Bureau 
+(WTB) of the Commission awarded Mercury all but nine of 
+the licenses for which the company was the high bidder.  See 
+Mercury PCS II, LLC, 13 F.C.C.R. 5756 (1997) p 1.  When 
+the investigation was over, the Commission imposed upon 
+Mercury a $650,000 forfeiture, see Notice of Apparent Liabil-
+ity for Forfeiture, 12 F.C.C.R. 17970 (1997) p 1 (NALF Or-
+der);  the WTB granted Mercury the remaining nine licenses, 
+including the F block license for Lubbock;  High Plains filed 
+an application for review of that order;  and the Commission 
+rescinded its earlier forfeiture order.  See NALF Rescission, 
+13 F.C.C.R. 23755 at p 1.  In the rescission order, the Com-
+mission found that Mercury was not on notice that reflexive 
+
+bidding would violate the rule against collusion, see id. at p 10, 
+and therefore declined to punish the company.  See id.
+
+     The Commission consolidated High Plains' applications to 
+review (1) the OGC's determination that Mercury had not 
+violated the ban against ex parte contacts and (2) the WTB's 
+award of licenses to Mercury, and affirmed on both counts.  
+See Mercury, 15 F.C.C.R. 9654 at p p 13, 26.  It also rejected 
+High Plains' new contention that Mercury had shown a lack 
+of candor during the investigations into its bidding practices 
+so egregious as to disqualify it from holding a Commission 
+license.  See id. at p p 14-21.  High Plains appealed to this 
+court and Mercury intervened in the case.
+
+                           II. Analysis
+
+     High Plains presents three issues on appeal.  First, it 
+challenges the Commission's award of licenses to Mercury on 
+the ground that Mercury violated the rule against collusion 
+and the Commission had so held.  Second, High Plains as-
+serts that this court should reverse the decision of the 
+Commission because it erred in holding that Mercury did not 
+violate the rules against ex parte communications.  Third, 
+High Plains renews its claim that Mercury exhibited a dis-
+qualifying lack of candor.  We turn to these claims only after 
+considering whether High Plains has standing under Article 
+III of the Constitution of the United States to bring this 
+appeal.  See Steel Co. v. Citizens for a Better Env., 523 U.S. 
+83, 94-95 (1998);  see also United Transp. Union-Ill. Legis. 
+Bd. v. Surface Transp. Bd., 175 F.3d 163, 165 (D.C. Cir. 1999) 
+("[W]e must determine whether the court has jurisdiction of 
+the case before we may turn to the merits").
+
+A.   Standing and Jurisdiction
+
+     The Commission and Mercury, which has intervened, ad-
+vance numerous arguments that High Plains is without stand-
+ing to assert some or all of its claims on appeal.  We consider 
+the objections of the litigants, fully aware of our independent 
+obligation to be sure we have jurisdiction.
+
+     The "irreducible constitutional minimum" that High Plains 
+must show for standing to maintain this appeal is that it 
+suffered an injury in fact, that the conduct of which it 
+complains caused the injury, and that a favorable decision of 
+this court would redress the injury.  U.S. Airwaves, Inc. v. 
+FCC, 232 F.3d 227, 231-32 (D.C. Cir. 2000).  This court has 
+had occasion in prior cases to tailor the application of these 
+prerequisites specifically to complaints arising from the Com-
+mission's auctions of spectrum.  We have held that "[a] 
+bidder in a government auction has a 'right to a legally valid 
+procurement process';  a party allegedly deprived of this right 
+asserts a cognizable injury."  Id. at 232 (quoting DirecTV, 
+Inc. v. FCC, 110 F.3d 816, 829 (D.C. Cir. 1997)).  A disap-
+pointed bidder need not show that it would be successful if 
+the license were auctioned anew, but only that it was able and 
+ready to bid and that the decision of the Commission prevent-
+ed it from doing so on an equal basis.  See id.  The bidder 
+may satisfy the requirement of redressability by showing that 
+" 'it is ready, willing, and able' to participate in a new auction 
+should it prevail" in court.  Id. (quoting Orange Park Fla. 
+T.V., Inc. v. FCC, 811 F.2d 664, 672 (D.C. Cir. 1987)).
+
+     Insofar as the appellant challenges the award to Mercury 
+of the F block license for Lubbock, it meets these require-
+ments.  High Plains complains that it was injured because 
+the Commission awarded the license to Mercury, which had 
+violated the anti-collusion rule, instead of holding a new 
+auction in which High Plains could bid free of the illicit 
+influence of reflexive bidding.  Further, High Plains has 
+expressed its willingness to bid in a reprise of the vendue for 
+the F block license in Lubbock;  and it is obvious that the 
+court could redress High Plains' injuries by ordering the 
+Commission to auction the license anew.  High Plains' con-
+tentions that Mercury tried to mislead the Commission and to 
+influence the Commission through illicit ex parte contacts also 
+assert a cognizable injury, that of deprivation to a valid, 
+impartial administrative proceeding, which injury this court 
+could redress by reversing the Commission.  Accordingly, 
+High Plains has standing to appeal the Commission's award 
+to Mercury of the F block license for Lubbock.
+
+     The Commission contends separately that High Plains 
+does not have standing to challenge the award of the 31 other 
+licenses that Mercury acquired in the DEF auction, and High 
+Plains does not counter the Commission's argument.  We 
+agree with the Commission (as does the intervenor, not 
+surprisingly).  High Plains did not compete against Mercury 
+for those licenses.  Nor does it allege that the award of those 
+licenses somehow deprived it of a valid auction process with 
+respect to the lots for which it did bid.  It follows that 
+denying those 31 licenses to Mercury will not redress the 
+injury that High Plains suffered in its attempt to acquire the 
+F block license in Lubbock.  Accordingly, we hold that High 
+Plains' challenge to the award of licenses other than the F 
+block license in Lubbock is not within the jurisdiction of this 
+court.
+
+     Standing aside, Mercury argues that the court lacks juris-
+diction over the entire dispute, but its objections are predicat-
+ed upon technical and not upon constitutional grounds.  Mer-
+cury's principal claim is that in order to raise to this court any 
+objection to the award of licenses to Mercury based upon the 
+anti-collusion rule, High Plains should have sought review of 
+the NALF Rescission order, which is now barred by the 60-
+day limitation in the Hobbs Act.  See 28 U.S.C. s 2344.  The 
+point is not well taken:  High Plains could not have gotten 
+review of the NALF Rescission because it did not have 
+standing to object to the agency's refusal to sanction Mercu-
+ry.  See Branton v. FCC, 993 F.2d 906, 910-11 (D.C. Cir. 
+1993) (citing Linda R.S. v. Richard D., 410 U.S. 614 (1973)).  
+When the Commission later disposed of High Plains' consoli-
+dated applications for review, the company had and took its 
+first opportunity to seek judicial review of the Commission's 
+award of the Lubbock license to Mercury.  For the same 
+reason, we reject Mercury's second contention, namely, that 
+High Plains is precluded from asserting its objections in this 
+appeal because it could have done so when the Commission 
+issued the NALF Rescission order.  See Restatement (Sec-
+ond) of Judgments s 28(1).
+
+B.   The Anti-Collusion Rule
+
+     High Plains argues that the Commission's decision to 
+award the license to Mercury despite its having violated the 
+anti-collusion rule was "neither plausible nor reasonable."  
+We understand High Plains to object to the decision under 
+two theories:  First, that the Commission erred in holding the 
+rule against collusion too ambiguous to put Mercury on notice 
+reflexive bidding was a violation;  and, second, that the Com-
+mission unreasonably departed from a putative policy making 
+violation of the rule a ground for forfeiture.
+
+     As for the first theory, our review is deferential:  the 
+agency's interpretation of its own rule is given "controlling 
+weight unless it is plainly erroneous or inconsistent with the 
+regulation."  Capital Network Sys., Inc. v. FCC, 28 F.3d 201, 
+205 (D.C. Cir. 1994).  The issue for the court, then, is 
+whether the Commission plainly erred or contravened the 
+rule against collusion when it read the rule as not providing 
+notice that reflexive bidding was prohibited.  Here is the rule 
+in relevant part:
+
+     [A]fter the short-form application filing deadline, all ap-
+     plicants are prohibited from cooperating, collaborating, 
+     discussing or disclosing in any manner the substance of 
+     their bids or bidding strategies ... with other applicants 
+     until after the down payment deadline....
+     
+47 C.F.R. s 1.2105(c)(1) (2000).  Plainly, the rule does not 
+refer specifically to reflexive bidding.  To engage in reflexive 
+bidding, however, is to "disclos[e] ... bidding strategies," and 
+Mercury unquestionably did that during the period covered 
+by the rule.  Therefore, the rule probably did prohibit Mercu-
+ry's conduct, but that is not the question before the court.  
+Our task is to determine only whether the Commission rea-
+sonably could conclude the rule failed to put Mercury on 
+notice that reflexive bidding was impermissible.
+
+     The Commission itself did not anticipate that participants 
+might collude through the bidding process.  After High 
+Plains filed its emergency motion to prevent Mercury from 
+bidding for licenses at the auction, for example, the WTB 
+
+declared that it had "reached no determinations on the merits 
+of [the] argument" that reflexive bidding violated the anti-
+collusion rule.  NALF Rescission, 13 F.C.C.R. 23755 at p 10 
+n.20.  As the Commission later noted, this "neutral pro-
+nouncement immediately following the initial allegation of 
+reflexive bid signaling could reasonably have been interpreted 
+by auction participants as indicative of an undefined position 
+on whether reflexive bid signaling was covered under the 
+anti-collusion rule."  Id. at p 10.
+
+     To the extent the Commission ever contemplated that 
+participants would convey information about their bidding 
+strategies through the act of bidding, it considered the ex-
+change of information to be a virtue of the open auction.  See 
+2d R&O, 8 F.C.C.R. 7700 at p 83 ("Multiple round bidding 
+provides information about other bidders' estimates of com-
+mon values, allowing all bidders to improve their estimates of 
+these common values.").  The Commission did anticipate that 
+an auction with multiple rounds of bidding might increase the 
+opportunity for collusion, but only because the regime could 
+facilitate enforcement of collusive agreements reached else-
+where, see id. at p 85 ("Using a single sealed bid could reduce 
+the likelihood of such collusive behavior since it provides 
+colluding bidders greater incentive to defect"), not because 
+the participants could use the open, iterative bidding process 
+itself to collaborate.  Not until after the DEF auction was 
+over did the Commission identify the sorts of disclosure that, 
+if encoded within a bid, would violate the anti-collusion rule.  
+See NALF Order, 12 F.C.C.R. at 17981 (concurring statement 
+of Commissioner Ness).
+
+     In sum, whether reflexive bidding violated the rule against 
+collusion appears to have been an unsettled -- indeed, an 
+unasked -- question before the DEF auction.  In this circum-
+stance it was not unreasonable for the Commission to have 
+deemed the rule ambiguous with respect to whether reflexive 
+bidding was prohibited.
+
+     Having determined that the Commission reasonably 
+deemed the anti-collusion rule ambiguous, we may dispose in 
+short order of High Plains' argument that the Commission 
+
+nevertheless erred in awarding to Mercury the licenses for 
+which it had bid using that tactic.  That the rule did not 
+afford adequate notice reflexive bidding was unlawful is itself 
+sufficient justification for the Commission not to penalize 
+Mercury.  See Satellite Broad. Co., Inc. v. FCC, 824 F.2d 1, 3 
+(D.C. Cir. 1987) ("Traditional concepts of due process incorpo-
+rated into administrative law preclude an agency from penal-
+izing a private party for violating a rule without first provid-
+ing adequate notice of the substance of the rule").
+
+     High Plains' other arguments -- for example, that Mercu-
+ry's use of reflexive bidding makes it unfit to hold a license 
+from the Commission -- misconceive the relationship be-
+tween the court and the Commission.  We do not review the 
+decisions of the agency de novo.  We inquire whether Com-
+mission action was arbitrary and capricious, an abuse of dis-
+cretion, or otherwise contrary to law;  and we uphold the 
+agency's decision when it is reasonable.  See Global Naps, 
+Inc. v. FCC, 247 F.3d 252, 257-58 (D.C. Cir. 2001).  There-
+fore, we reject summarily the appellant's other arguments;  
+aimed only at showing the agency was wrong, they have not 
+the power to persuade that the agency was unreasonable.
+
+C.   The Ex Parte Rules
+
+     With certain exceptions clearly not applicable here, the 
+Commission prohibits "ex parte presentations" during the 
+pendency of an administrative adjudication and any subse-
+quent judicial review.  47 C.F.R. s 1.1208.  The regulations 
+define a "presentation" as a "communication directed to the 
+merits or outcome of a proceeding."  Id. at s 1.1202(a).  A 
+written presentation is "ex parte" if it is "not served on the 
+parties to the proceeding."  Id. at s 1.1202(b).  Thus, a 
+written presentation comes within the prohibition of the rules 
+only if it is both "directed to the merits or outcome of a 
+proceeding" and "not served on the parties."  Responsibility 
+for a violation of the ex parte rules extends to a party that 
+"solicit[s] or encourage[s] others to make any improper pre-
+sentation," id. at s 1.1210, as High Plains alleges Mercury did 
+in this case.  See Freeman Eng'g Assocs. v. FCC, 103 F.3d 
+169, 184 (D.C. Cir. 1997) (listing factors that inform the 
+
+analysis whether a proceeding is "irrevocably tainted" by ex 
+parte contacts and therefore void).
+
+     High Plains does not identify a single written contact 
+between a Member of Congress and the Commission that 
+meets both criteria.  The appellant does refer the court to 
+some congressional letters that arguably called upon the 
+Commission to give Mercury the licenses being withheld 
+during the inquiry into its bidding practices.  High Plains 
+also avers that it was not served with copies of certain 
+congressional correspondence, but there is no overlap in the 
+two epistolary lists.
+
+     In its brief High Plains also claims it did not receive some 
+of the congressional letters written on behalf of Mercury 
+"until the FCC submitted the Certified List of Items in the 
+Record to the Court," that is, well after the Commission had 
+closed its inquiry into Mercury's bidding practices.  If High 
+Plains did not receive the letters until then, and if the letters 
+addressed the merits of the licensing dispute, then reversal of 
+the order and remand to the Commission might have been 
+appropriate.  At oral argument, however, High Plains ac-
+knowledged that it had received the letters long before the 
+Commission closed the record;  indeed, the company attached 
+the letters as exhibits in a proceeding before the Commission 
+more than three years ago.  See High Plains' Opp. to Mercu-
+ry's Pet. for Recons. at Exh. C (Oct. 7, 1997).
+
+     In the end High Plains has not proffered a single instance 
+in which a congressional contact violated the ex parte rules.  
+We conclude, therefore, that the Commission had substantial 
+evidence that High Plains did not orchestrate a campaign of 
+such contacts.
+
+D.   Candor
+
+     Finally, High Plains argues that Mercury was not candid 
+with the Commission during the investigation into its bidding 
+tactics, and that its lack of candor disqualifies Mercury from 
+holding a Commission license.  The Commission found that 
+Mercury never attempted to mislead the Commission about 
+its having used bids to convey messages;  Mercury's defense 
+
+had always been that the rule against collusion did not 
+prohibit its reflexive bidding.
+
+     The gravamen of High Plains' factual claim is that a 
+representative of Mercury falsely declared in a submission to 
+the Commission that Mercury had not "utilized trailing num-
+bers to send secret signals to anyone as alleged by High 
+Plains," and that Mercury had used reflexive bidding only to 
+"bluff or confuse other bidders as to Mercury's overall auction 
+strategy."  In a later deposition this same person admitted he 
+used reflexive bidding "to threaten High Plains that I was 
+fixing to come blister their butt in Amarillo."  Mercury, 15 
+F.C.C.R. 9654 at p 17 n.57.  The Commission did not consider 
+the apparent contradiction, but neither did the appellant first 
+present it to the Commission.  The matter is therefore be-
+yond our ken.  See 47 U.S.C. s 405(a)(2) (requiring a litigant 
+first to present an argument to the Commission on reconsid-
+eration if it "relies on questions of fact or law upon which the 
+Commission ... has been afforded no opportunity to pass").
+
+     High Plains also adduces some lesser inconsistencies in 
+Mercury's submissions to the Commission as evidence of 
+Mercury's disdain for the truth.  Again, however, High Plains 
+attempts to persuade the court that the Commission was 
+wrong, not that it was unreasonable.  There being no claims 
+to the contrary, we must conclude that the decision of the 
+Commission is reasonable and is supported by substantial 
+evidence on the record as a whole.  See 5 U.S.C. s 706(2)(C).
+
+                         III. Conclusion
+
+     For the foregoing reasons, the decision of the Commission 
+to award to Mercury the F block license for Lubbock is
+
+                                                                      Affirmed.
+
+                                                                           

@@ -1,0 +1,691 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 6, 2000       Decided June 6, 2000 
+
+                           No. 98-1420
+
+                 General Instrument Corporation, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+      National Cable Television Association, Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+           98-1423, 98-1576, 99-1204, 99-1312, 99-1313
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+     Theodore Whitehouse argued the cause for petitioners and 
+supporting intervenor.  With him on the briefs were John L. 
+
+McGrew, Glenn B. Manishin, Christy C. Kunin, Daniel L. 
+Brenner, Neal M. Goldberg, Loretta P. Polk, Bruce D. Ryan, 
+and Michelle W. Cohen.
+
+     Roberta L. Cook, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  Christopher J. 
+Wright, General Counsel, Daniel M. Armstrong, Associate 
+General Counsel, Lisa A. Burns, Counsel, Joel I. Klein, 
+Assistant Attorney General, U.S. Department of Justice, Rob-
+ert B. Nicholson and Robert J. Wiggers, Attorneys, were on 
+the brief.  James M. Carr and Nancy L. Kiefer, Counsel, 
+Federal Communications Commission, entered appearances.
+
+     David Alan Nall argued the cause for intervenors.  With 
+him on the brief were Jonathan Jacob Nadler, Jonathan D. 
+Blake, Joe D. Edge, Mark F. Dever, Catherine M. Krupka, 
+and Kevin S. DiLallo.  Benigno E. Bartolome, Jr. and John 
+W. Pettit entered appearances.
+
+     Before:  Silberman, Williams, and Sentelle, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Silberman.
+
+     Silberman, Circuit Judge:  Petitioners challenge an order 
+of the Federal Communications Commission precluding cable 
+television operators from offering "integrated" converter box-
+es that perform both security and ancillary functions.  We 
+think the Commission's ban on integrated devices is premised 
+on a reasonable interpretation of section 629 of the Communi-
+cations Act, and we deny the petitions.
+
+                                I.
+
+     This case concerns a piece of electronic equipment familiar 
+to most American consumers:  the set-top cable or "convert-
+er" box.  Converter boxes are the most common instrument 
+("navigation device") that provides access to cable program-
+ming or other multichannel video programming services.1  
+
+__________
+     1 "Multichannel video programming services" include not only 
+cable programming but also other services that provide multiple 
+
+The typical converter box performs an important security or 
+"conditional access" function, containing embedded technolo-
+gy that decodes or descrambles a digital or analog cable 
+signal.2  It is this function that precludes a consumer from 
+accessing tiers of cable programming not part of his subscrip-
+tion package.  At the same time, converter boxes often 
+perform other tasks--which we refer to for simplicity's sake 
+as ancillary functions--unrelated to security.  For instance, 
+converter boxes commonly include channel tuners and provide 
+access to video programming guides.
+
+     Converter boxes traditionally have been available to con-
+sumers only by lease from cable operators, as part of a cable 
+service package.  Section 629 of the Communications Act, 
+passed by Congress as part of the Telecommunications Act of 
+1996, sought to change this state of affairs.  The FCC was 
+directed to take steps to make converter boxes (and other 
+navigation devices) commercially available from sources other 
+than cable operators.  Entitled "Competitive Availability of 
+Navigation Devices," section 629 provides as follows:
+
+     (a) Commercial consumer availability of equipment used 
+     to access multichannel video programming distributors. 
+     The Commission shall, in consultation with appropriate 
+     industry standard-setting organizations, adopt regula-
+     
+__________
+channels of video programming, such as direct broadcast satellite 
+service.  See In re Implementation of Section 304 of the Telecom-
+munications Act of 1996, Commercial Availability of Navigation 
+Devices, 13 F.C.C.R. 14775, 14783 (1998).  Since the regulations at 
+issue in this case apply primarily to cable operators, see id. at 
+14800-801 (exempting satellite programming from separation re-
+quirement), we use the generic term "cable programming" to refer 
+to all multichannel video programming services covered by the 
+contested regulations.
+
+     2 Cable programming can be delivered by means of either 
+analog or digital signals.  An analog system transmits and receives 
+microwave signals in their original form;  a digital system, on the 
+other hand, translates the original signal into a binary code, and 
+decodes that signal upon receipt.  Because of the increased com-
+plexity involved in digital signal delivery methods, digital program-
+ming is far less susceptible to theft than analog programming.
+
+     tions to assure the commercial availability, to consumers 
+     of multichannel video programming ... of converter 
+     boxes, interactive communications equipment, and other 
+     equipment used by consumers to access multichannel 
+     video programming ... from manufacturers, retailers, 
+     and other vendors not affiliated with any multichannel 
+     video programming distributor.  Such regulations shall 
+     not prohibit any multichannel video programming distrib-
+     utor from also offering converter boxes, interactive com-
+     munications equipment, and other equipment used by 
+     consumers to access multichannel video programming 
+     ... if the system operator's charges to consumers for 
+     such devices and equipment are separately stated and 
+     not subsidized by charges for any such services.
+     
+     (b) Protection of system security.  The Commission shall 
+     not prescribe regulations under subsection (a) of this 
+     section which would jeopardize security of multichannel 
+     video programming ..., or impede the legal rights of a 
+     provider of such services to prevent theft of service.
+     
+47 U.S.C. s 549(a)-(b).
+
+     The Commission issued a Notice of Proposed Rulemaking 
+seeking comment on how best to implement section 629's 
+requirements.3  It explicitly recognized that it was required 
+to balance section 629(a)'s mandate for "commercial availabili-
+ty" with section 629(b)'s prohibition against any Commission 
+action that would "jeopardize" the security of cable program-
+ming.  Any solution requiring devices containing conditional 
+access functionality to be made widely available at retail 
+certainly would exacerbate the problem of cable theft, already 
+a $5 billion dollar drain on cable operators and their custom-
+ers.  But the Commission offered a possible alternative that 
+it thought might "assure commercial availability" of naviga-
+tion devices without posing a major risk to cable security.  It 
+noted that
+
+__________
+     3 See In re Implementation of Section 304 of the Telecommuni-
+cations Act of 1996, Commercial Availability of Navigation De-
+vices, 12 F.C.C.R. 5639 (1997) ("Notice of Proposed Rulemaking").
+
+     [i]n theory, it would be possible to take a typical decoder 
+     box and divide it into two separate parts.  One part 
+     would contain the operational and functional components 
+     such as the tuner, the remote control circuitry, the power 
+     supply, and any other non-access control features.  A 
+     second part would contain the access control features.  
+     With an interface, it would be possible to have the first 
+     part of the device available through retail outlets, and the 
+     second part, containing the more sensitive access control 
+     apparatus, available only from the service supplier.
+     
+In other words, the Commission suggested a separation of the 
+traditional converter box into two parts (unbundling), permit-
+ting a device providing ancillary functions to be available at 
+retail while allowing cable operators to maintain exclusive 
+control over conditional access functionality.
+
+     After receiving comments, the FCC issued an order adopt-
+ing this proposal.  See In re Section 304 of the Telecommuni-
+cations Act of 1996, Commercial Availability of Navigation 
+Devices, 13 F.C.C.R. 14775 (1998) ("Navigation Devices Or-
+der").  Cable operators were directed to make available sepa-
+rate security components or "modules" by July 1, 2000.  See 
+47 C.F.R. s 76.1204(a)(1) & (e).  The Commission's notion 
+was that these modules could then be "plugged in" to com-
+mercially available equipment performing ancillary functions.  
+It recognized that standardized digital and analog interfaces 
+would be necessary to make the security modules uniformly 
+compatible with retail equipment performing ancillary func-
+tions.  After a lengthy discussion of technological alterna-
+tives, the Commission, noting the "dangers of detailed gov-
+ernment standard setting," left it to the cable industry and its 
+national standard-setting organizations to develop the appro-
+priate interfaces.
+
+     The FCC did more than impose this separation require-
+ment on cable operators.  The question remained concerning 
+precisely what equipment cable operators would be allowed to 
+provide.  In addition to mandating the "commercial availabili-
+ty" of converter boxes, section 629(a) states that the Commis-
+sion "shall not prohibit" cable operators from providing those 
+
+devices.  Cable industry commenters asserted that operators 
+should be able to offer the traditional "integrated" converter 
+boxes that perform both conditional access and ancillary 
+functions, so long as they make available a separate security 
+module for use in combination with retail navigation devices.  
+The Commission disagreed:
+
+     We conclude that the continued ability [of cable provid-
+     ers] to provide integrated equipment is likely to interfere 
+     with the statutory mandate of commercial ability and 
+     that the offering of integrated boxes should be phased 
+     out.  We agree with those commenters who note that 
+     integration is an obstacle to the functioning of a fully 
+     competitive market for navigation devices by impeding 
+     consumers from switching to devices that become avail-
+     able through retail outlets.
+     
+It accordingly required cable operators to cease providing 
+new integrated cable boxes by January 1, 2005.  See 47 
+C.F.R. s 76.1204(a)(1).  Cable operators could, however--like 
+any retailer--provide a device performing only ancillary func-
+tions, which could in turn be combined with the security 
+module by the consumer.
+
+     Commissioner Powell wrote a separate statement dissent-
+ing in part.  While he agreed with the Commission's require-
+ment that cable operators make available separate security 
+modules with standard interfaces, he argued that the agency's 
+decision barring them from producing integrated devices was 
+unsound.  He thought that efficiencies might well accompany 
+the integration of security and ancillary functions in a single 
+device, and that the Commission's ban might "den[y] a cost 
+effective choice for consumers."  "It is quite plausible to me," 
+he explained, "that the 'impediment' to switching to retail 
+may in fact be a consumer preference for distributor-supplied 
+integrated boxes!  I see no reason to attempt to control 
+consumer preferences."
+
+     In response to requests for reconsideration from several 
+commenters, the Commission modified some of the conclu-
+
+sions it reached in the Navigation Devices Order.4  It de-
+ferred indefinitely the July 2000 separation deadline for navi-
+gation devices providing access to analog video programming.  
+Finding a consensus among commenters that the cable indus-
+try was rapidly moving from analog to digital programming, 
+the FCC concluded that "the application of Section 629 to 
+analog devices would result in unnecessary expenditures by 
+[the cable industry] for a module that will soon be obsolete."  
+However, it reaffirmed the separation deadline for digital 
+devices and, importantly for the purposes of this case, it also 
+applied the separation requirement to so-called "hybrid" con-
+verter boxes capable of processing both analog and digital 
+signals.  The agency, over the protestations of commenters in 
+the cable industry, maintained its prohibition against inte-
+grated navigation devices.  Commissioner Powell again voiced 
+his objection to the integration ban in a brief dissenting 
+statement.
+
+     Several members of the cable industry now petition for 
+review of the Navigation Devices Order and the Reconsidera-
+tion Order.  Petitioners' primary argument is that the FCC 
+exceeded its authority under section 629 by precluding cable 
+operators from offering integrated converter boxes to their 
+customers.  They do not challenge the Commission's separa-
+tion requirement insofar as it applies to digital equipment.  
+They do, however, object to the Commission's requirement 
+that cable operators make available separate hybrid security 
+modules.
+
+                               II.
+
+     Petitioners assert that the integration ban is squarely 
+foreclosed by the second sentence of section 629(a), which 
+states that the Commission's regulations "shall not prohibit 
+any multichannel video programming distributor from also 
+offering converter boxes, interactive communications equip-
+ment, and other equipment used by consumers to access 
+
+__________
+     4 See In re Implementation of Section 304 of the Telecommuni-
+cations Act of 1996, Commercial Availability of Navigation De-
+vices, 14 F.C.C.R. 7596 (1999) ("Reconsideration Order").
+
+multichannel video programming." (emphasis added).  While 
+the term "converter box" is not defined in the 1996 Act, 
+petitioners claim that the term at the very least includes 
+those integrated devices that the Commission banned in the 
+Navigation Devices Order.  They point out that the most 
+common type of navigation device in existence at the time of 
+the passage of the 1996 Act was the integrated converter box.  
+The Commission stumbles over the first step of Chevron 
+U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 
+U.S. 837 (1984), in petitioners' view, because the second 
+sentence of section 629(a) clearly prohibits the Commission 
+from enacting the integrated device ban.
+
+     The attractive simplicity of petitioners' construction, as the 
+Commission persuasively responds, dissolves upon close scru-
+tiny.  For the term "converter box" also appears in the first 
+sentence of section 629(a):  "The Commission shall enact 
+regulations to assure the commercial availability of converter 
+boxes...." (emphasis added).  If petitioners' interpretation is 
+correct, the Commission is therefore equally compelled by the 
+plain language of the statute to permit retailers to provide 
+integrated navigation devices, see, e.g., Sullivan v. Stroop, 496 
+U.S. 478, 484 (1990) (noting presumption that "identical words 
+used in different parts of the same act are intended to have 
+the same meaning")--certainly an unacceptable result from 
+petitioners' point of view.
+
+     Petitioners gamely insist that the parallel language in the 
+first and second sentences of 629(a) is not fatal to their 
+argument.  They do not dispute that Congress meant to use 
+the term "converter box" consistently in the statute.  They 
+acknowledge that, if section 629(a) were to be applied in 
+isolation, the Commission would be obliged to permit both 
+cable providers and retailers to provide integrated navigation 
+devices.  Their construction is saved from that concededly 
+unacceptable outcome according to them, because another 
+section, section 629(b), limits section 629(a), precluding the 
+Commission from implementing the statute's commercial 
+availability requirement in a manner that "jeopardizes" the 
+security of cable programming.  Since permitting retailers to 
+offer integrated devices would undoubtedly "jeopardize" secu-
+
+rity, petitioners reason, the Commission must prohibit them 
+from doing so--but this limitation does not alter the clear 
+command in the second section of section 629(a).
+
+     Petitioners offer a plausible construction, but it is some-
+what strained.  They reach their result only by reading 
+section 629(b) not merely to "limit" section 629(a), but to 
+disrupt the textual symmetry of its language.  We have 
+before us two constructions then, both of which interpret 
+section 629(b)'s mandate as "limiting" section 629(a) in a not 
+obvious manner.  The FCC's interpretation maintains consis-
+tency between the provision's two sentences by adopting a 
+narrow definition of "converter box."  Petitioners take the 
+opposite approach, holding to the more typical definition of 
+"converter box" in one sentence of section 629(a) at the price 
+of the same term meaning something entirely different in the 
+other.  Under Chevron, we are obliged to accept the Commis-
+sion's interpretation which is easily a permissible one.
+
+     We move on to petitioners' alternative (but related) statuto-
+ry theory:  that section 629(b)'s prohibition of regulations 
+"which would jeopardize security of multichannel video pro-
+gramming" precludes the Commission's integration ban (em-
+phasis added).  It is argued that evidence in the record 
+indicates that "embedded security currently contained in inte-
+grated equipment is a more secure method of protecting 
+intellectual property than is separated security."  Petitioners 
+contend that this evidence, combined with a rather liberal 
+definition of the word "jeopardize" as meaning any increase 
+in security risk, should lead us ineluctably to the conclusion 
+that the Commission's prohibition of integrated devices is 
+unlawful.
+
+     We think petitioners' premise that any Commission action 
+that (even slightly) increases security risk "jeopardizes" cable 
+programming is wrong.  To place something in "jeopardy" 
+means to subject it to serious or significant danger.  See 
+Webster's Third New International Dictionary (1981) (defin-
+ing "jeopardize" as "to expose to danger (as of imminent loss, 
+defeat, or serious harm):  Imperil").  In any event, we do not 
+see how the Commission's decision to ban integrated convert-
+
+er boxes in and of itself poses any threat to system security.  
+Petitioners point to evidence purportedly showing that the 
+separation of security functions increases the risk of cable 
+theft.  But petitioners do not challenge the Commission's 
+separation requirement--at least with respect to digital navi-
+gation devices.5  Regardless of our disposition of the Commis-
+sion's integration ban, would-be cable thieves will be able to 
+request separate security modules from their cable operators.  
+Petitioners' failure to explain how the Commission's bar on 
+integration would in and of itself threaten the security of 
+digital cable systems is fatal to their section 629(b) statutory 
+argument.  In sum, we think petitioners' statutory objections 
+to the Commission's ban on integrated digital and hybrid 
+navigation devices, while well-presented by counsel, are insuf-
+ficient to clear the formidable hurdle of Chevron deference.6
+
+     Petitioners at oral argument sought to slide from their 
+statutory claim to an argument that the Commission's eco-
+nomic policy decision to ban the sale of integrated devices was 
+unsound--essentially to echo Commissioner Powell's thought-
+ful position.  The Commission concluded that integration 
+
+__________
+     5 Petitioners do challenge the separate security requirement 
+insofar as it applies to the analog programming delivery function of 
+"hybrid" navigation devices.  We treat this argument infra.
+
+     6 We reject petitioners' rather labored contention that section 
+629(d)(1), which states that "[d]eterminations made or regulations 
+prescribed with respect to commercial availability ... before the 
+[date of the Telecommunications Act of 1996] shall fulfill the re-
+quirements of this section," prohibits the Commission's ban on 
+integrated navigation devices.  While we doubt that section 
+629(d)(1) proscribes the Commission from altering commercial avail-
+ability determinations made prior to the 1996 Act, that provision is 
+not even implicated in this case since the earlier Commission 
+"determination" relied on by petitioners became final after the 1996 
+Act was enacted.  See Order on Reconsideration, In re Implemen-
+tation of Section 17 of the Cable Television Consumer Protection 
+and Competition Act of 1992, Compatibility Between Cable Systems 
+and Consumer Electronics Equipment, 11 F.C.C.R. 4121 (1996) 
+(issued on April 10, 1996, after 1996 Act's effective date) ("Compata-
+bility Order").
+
+would "impede[ ] consumers from switching to devices that 
+become available through retail outlets," Navigation Devices 
+Order, 13 F.C.C.R. at 14803.  This statement does not in and 
+of itself tell us very much, without further explanation as to 
+why consumers would be "impeded."  Consumers might have 
+chosen not to purchase retail devices for perfectly sensible 
+economic reasons--because, for instance, there are efficiency 
+gains captured in the manufacture of an integrated box that 
+lead it to cost less than the combined cost of a separate 
+security module and a retail device, or because consumers 
+view as too high the transaction costs of seeking a separate 
+ancillary device at retail.  If this is the case, the integration 
+ban does nothing more than deny the most cost-effective 
+product choice to consumers--an ironic outcome for an order 
+implementing "one of the most pro-consumer, pro-competitive 
+provisions of the Telecom Act."  Id. at 14844 (separate state-
+ment of Commissioner Ness).  Perhaps there are benefits 
+that will flow to consumers from the integration ban,7 but the 
+Commission did not clearly spell them out.  If it had, and if 
+we nevertheless thought Commissioner Powell had the better 
+argument, we would not on that basis alone be justified in 
+reversing the Commission's economic judgment.  See City of 
+Los Angeles v. United States Dep't of Transp., 165 F.3d 972, 
+977 (D.C. Cir. 1999) ("In reviewing the Department's order, 
+we do not sit as a panel of referees on a professional 
+economics journal, but as a panel of generalist judges obliged 
+to defer to a reasonable judgment by an agency acting 
+pursuant to congressionally delegated authority.").
+
+     We need not decide this question, however, since petition-
+ers did not assert in their briefs that the Commission's 
+integration ban was arbitrary and capricious.  At oral argu-
+ment, counsel responded to this omission by noting that they 
+
+__________
+     7 Or perhaps, somewhat paradoxically, it is the lack of these 
+benefits that makes the ban necessary.  The statute requires 
+"commercial availability," but does not condition that availability on 
+an improvement in consumer welfare.  So even if it were merely the 
+transaction costs that "impeded" consumers from buying devices at 
+retail, the Commission might be authorized to take affirmative steps 
+to create a retail market.
+
+did make a Chevron argument in their opening brief, and 
+although it was phrased in Chevron step one terms, it neces-
+sarily implied a step two argument as well, and a step two 
+Chevron argument is close enough to an arbitrary and capri-
+cious claim.  Even granting petitioners' point that its statuto-
+ry argument allows us to consider whether the statute, if 
+ambiguous, was reasonably interpreted (Chevron step two), 
+their problem is that that argument was put entirely in terms 
+of statutory interpretation.  At no point in their opening brief 
+did petitioners contend that, even assuming the statute did 
+not foreclose the Commission's policy, it was nevertheless 
+unreasonable.  To be sure, we have recognized that an arbi-
+trary and capricious claim and a Chevron step two argument 
+overlap, and because of that we have not been sticky as to 
+whether an argument in the area of overlap is characterized 
+as a Chevron step two claim or as an arbitrary and capricious 
+challenge.  Whether a statute is unreasonably interpreted is 
+close analytically to the issue whether an agency's actions 
+under a statute are unreasonable.  See National Ass'n. of 
+Regulatory Util. Comm'rs v. ICC, 41 F.3d 721, 726 (D.C. Cir. 
+1994).  But here the contention petitioners pressed at oral 
+argument is outside the area of overlap:  they challenge the 
+Commission's assumptions about market behavior for reasons 
+wholly independent of the statutory arguments made in their 
+opening brief.  This is not a case of a mere mischaracteriza-
+tion of an argument, but rather of a party raising an entirely 
+new argument--the reasonableness of the Commission's eco-
+nomic judgment--in its reply brief.  Since petitioners' initial 
+brief did not in our view properly put the Commission on 
+notice that its economic reasoning was being challenged, we 
+do not think it appropriate to consider the arbitrary and 
+capricious challenge.  See, e.g., McBride v. Merrell Dow and 
+Pharmaceuticals, Inc., 800 F.2d 1208, 1210-11 (D.C. Cir. 
+1986).
+
+                               III.
+
+     There remain petitioners' arguments directed to the Com-
+mission's requirement that cable operators provide separate 
+security modules.  As mentioned above, the Commission ex-
+
+empted analog-only devices from this requirement in its 
+Reconsideration Order, and petitioners do not contest the 
+Commission's separation requirement with respect to digital 
+navigation devices.  Petitioners' objections, then, concern 
+only the application of the separation mandate to a rather 
+narrow class of navigation devices:  "hybrid" converter boxes 
+capable of processing both analog and digital signals.
+
+     The first of these arguments, to which petitioners devote 
+much effort, is that the separation requirement violates the 
+"Eshoo Amendment," Congress's 1996 modification to section 
+624a of the Communications Act.  See 47 U.S.C. s 544a.  
+Section 624a, passed by Congress in 1992, directed the Com-
+mission to take steps to facilitate the compatibility of cable 
+systems with consumer equipment, such as televisions and 
+VCRs.  The Eshoo Amendment, apparently animated by 
+concerns that the FCC was using its power under section 
+624a to impose technology-forcing technical standards on the 
+cable industry, required the Commission to "ensure that any 
+standards or regulations developed under the authority of 
+this section to ensure compatibility between televisions, video 
+cassette recorders, and cable systems do not affect features, 
+functions, protocols, and other product and service options."  
+See 47 U.S.C. s 544a(c)(2)(D).  Petitioners argue that the 
+Commission's requirement that cable providers provide a 
+hybrid security module constitutes a de facto mandate that 
+the industry adopt a particular protocol, the EIA-105 Deco-
+der Interface, that violates the "letter and spirit" of the 
+Eshoo Amendment.  Indeed, they inform us, it was a concern 
+about the Commission's adoption of that very interface in an 
+earlier proceeding that prompted Congress to pass the Eshoo 
+Amendment in the first place.  Cf. Compatability Order at 
+4127.
+
+     Even granting the dubious proposition that the Commission 
+has mandated the cable industry's use of the Decoder Inter-
+face in the proceeding under review,8 petitioners' argument is 
+
+__________
+     8 The Commission insists, quite plausibly, that it has done no 
+such thing.  Its regulations make no reference to the Decoder 
+Interface nor to any other particular protocol;  to the contrary, they 
+
+foreclosed by the text of the provision on which it relies.  
+For, as the quoted language above demonstrates, the Eshoo 
+Amendment applies only to regulations promulgated under 
+section 624a's equipment compatibility provisions;  its limita-
+tions simply do not extend to the Commission's actions in this 
+proceeding which were pursuant to section 629's independent 
+grant of regulatory authority.  Nor do we find the legislative 
+history inconsistent with that precise textual analysis of the 
+statute.  Although Representative Eshoo by letter to the 
+Commission sought to support petitioners' interpretation, that 
+"legislative future" is of almost no value, see United States ex 
+rel. Long v. SCS Bus. & Technical Inst., 173 F.3d 870, 878-79 
+(D.C. Cir. 1999), modified, 173 F.3d 890 (D.C. Cir. 1999), and, 
+in any event, contradicts her statements at the time of the 
+bill's passage, see H.R. Rep. No. 204, 104th Cong., 1st Sess. at 
+215 (1995) (Additional Views of Rep. Eshoo) ("[M]y amend-
+ment does not affect section 203 [of] H.R. 1555, which assures 
+that 'set-top' boxes will be made available to consumers 
+through retail stores.").
+
+     We also are unpersuaded by petitioners' contention that the 
+Commission's application of the separation requirement to the 
+analog security components of hybrid devices impermissibly 
+"jeopardizes" cable security in violation of section 629(b).  As 
+the Commission properly observed in its Reconsideration 
+Order, see 14 F.C.C.R. at 7605, if the analog separation 
+requirement will violate section 629(b) in every case, without 
+regard to specific evidence of security risks, and if commer-
+cial provision of integrated boxes in fact creates excessive 
+security risks, then the very mandate of commercial availabil-
+ity itself violates section 629(b)--which is another way of 
+saying that section 629 violates section 629, at least with 
+respect to those navigation devices accessing the dominant 
+category of cable programming at the time of the 1996 Act's 
+
+__________
+require only the industry's development of a "commonly used 
+interface or an interface that conforms to appropriate technical 
+standards promulgated by a national standards organization."  47 
+C.F.R. s 76.1204(b).
+
+passage.  We certainly understand the Commission's reluc-
+tance to conclude that section 629(b) requires this result.
+
+     Moreover, while petitioners proffer ample evidence--evi-
+dence uncontested by the Commission, see Reconsideration 
+Order, 14 F.C.C.R. at 7605-that analog navigation devices are 
+more vulnerable to attacks by cable thieves than are their 
+digital counterparts, it does not necessarily follow that pack-
+aging that security hardware in a separate module, as op-
+posed to as an embedded part of an integrated converter box, 
+"jeopardizes" analog security.  After all, in both situations 
+the security components themselves remain under the pro-
+prietary control of the cable operator.  Petitioners do point to 
+comments in the record explaining how the existence of a 
+standardized industrywide common analog interface would 
+increase the risk of theft by "restrict[ing] the development of 
+security improvements" or by "necessarily reveal[ing] infor-
+mation about the proprietary technology used to provide 
+security."  Telecommunications Industry Association Petition 
+for Reconsideration at 4-5;  Comments of Ameritech New 
+Media at 4.  Conclusory statements like these are, however, 
+insufficient to establish that the Commission's separation 
+requirement would "jeopardize" the cable security of opera-
+tors providing hybrid service--a standard which, as we dis-
+cussed above, requires a showing of a substantial, as opposed 
+to slight, risk of harm.
+
+     Petitioners bring one final argument against the FCC's 
+application of the separation requirement to hybrid navigation 
+devices.  As noted above, the Commission had originally 
+required all cable operators, including those offering analog 
+programming service, to offer a separate security module.  
+See Navigation Devices Order, 13 F.C.C.R. at 14793.  Con-
+vinced by comments that analog programming was rapidly 
+becoming obsolete, the Commission reversed itself on rehear-
+ing, and indefinitely deferred the separation requirement with 
+respect to analog-only navigation devices.  It did not, howev-
+er, extend this exemption to hybrid devices, which are capable 
+of processing both analog and digital signals.  See Reconsid-
+eration Order, 14 F.C.C.R. at 7603;  47 C.F.R. s 76.1204(f).  
+
+Petitioners argue that it was arbitrary and capricious for the 
+FCC to treat analog-only and hybrid devices differently.
+
+     This claim is based on petitioners' contention that "the 
+same factors that the Commission identified as supporting the 
+exemption of analog-only devices ... apply with equal force 
+to the analog security component of 'hybrid' devices."  But 
+this is an overstatement.  The Commission did not abandon 
+its separation mandate for analog-only devices out of concerns 
+over the security problems inhering in an analog security 
+interface.  See Reconsideration Order at 7601-03.  Nor did 
+the Commission base its determination on the research and 
+development costs of a common analog interface per se.  
+Instead, the agency did not think it worthwhile for the 
+industry to construct a separate analog security module (not 
+merely an interface) that "will soon be obsolete" because of 
+the industry's transition from analog to digital programming.  
+Id. at 7602.  The competitive access mandate of section 629(a) 
+would be more sensibly satisfied, the Commission reasoned, 
+by focusing the industry (and the FCC) on the equipment 
+capable of processing digital signals.  See id. at 7602-03.
+
+     Equipment, that is to say, like hybrid navigation devices.  
+The Commission found that, unlike analog-only equipment,
+
+     hybrid devices could interfere with competition in the 
+     digital marketplace.  If hybrid devices were included in 
+     the deferral, it is more likely that subscribers would lack 
+     incentives to look to the marketplace for a digital naviga-
+     tion device if their equipment choice to receive all ser-
+     vices was either to lease a box from the [cable operator], 
+     or to purchase a digital box at retail and obtain a 
+     separate analog box and a digital security module.
+     
+Id. at 7603.  In other words, the Commission thought that, 
+because of their ability to access digital programming, hybrid 
+devices would likely find a market in the future--a distinction 
+that explains the Commission's differential treatment of ana-
+log-only and hybrid devices.  Petitioners respond that the 
+Commission offers inadequate evidence to support this as-
+sumption about the hybrid navigation devices market.  While 
+
+the Commission's order is hardly a model of comprehensive-
+ness on this point, we disagree that its conclusion is unsup-
+ported by the record.  A coalition of electronic retailers that 
+supported the Commission's decision to exempt analog-only 
+devices argued that many cable systems will be hybrid "for 
+the foreseeable future," and thus should be not exempt from 
+the separation requirement.  Written Ex Parte Presentation 
+of Circuit City et al.  Moreover, the Commission's concern 
+about hybrid devices "interfering with competition in the 
+digital market" appears well-grounded in common sense.  As 
+intervenors observe, the ability to offer an integrated "hy-
+brid" box capable of accessing digital programming might 
+encourage cable operators to incorporate outdated analog 
+functionality into their navigation devices in order to avoid 
+the digital separation requirement.  We therefore reject peti-
+tioners' final challenge to the Commission's separation re-
+quirement for hybrid navigation devices.
+
+                            *  *  *  *
+
+     For the foregoing reasons, the petitions for review are
+
+                                                          Denied.
+
+                          

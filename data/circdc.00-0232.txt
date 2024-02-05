@@ -1,0 +1,586 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 5, 2000   Decided November 21, 2000 
+
+                           No. 98-1266
+
+                      U.S. AirWaves, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                 NextWave Telecom Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             98-1267
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Robert A. Long, Jr. argued the cause for petitioners.  With 
+him on the briefs was Andrew J. Heimert.
+
+     Stanley R. Scheiner, Counsel, Federal Communications 
+Commission, argued the cause for respondents.  With him on 
+the brief were Christopher J. Wright, General Counsel, Dan-
+iel M. Armstrong, Associate General Counsel, Joel I. Klein, 
+Assistant Attorney General, U.S. Department of Justice, 
+Catherine G. O'Sullivan, and Andrea Limmer, Attorneys.  
+John E. Ingle, Deputy Associate General Counsel, and James 
+M. Carr, Counsel, Federal Communications Commission, en-
+tered appearances.
+
+     Ian Heath Gershengorn argued the cause for intervenor 
+NextWave Telecom Inc.  With him on the brief was Donald 
+B. Verrilli, Jr.  David A. LaFuria and Thomas Gutierrez 
+entered appearances.
+
+     Before:  Edwards, Chief Judge, Ginsburg and Tatel, 
+Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  Before us are petitions for review 
+of two rulemaking orders of the Federal Communications 
+Commission.  The orders changed the financial terms applica-
+ble to companies that purchased licenses to provide personal 
+communications services (PCS) at an auction in which bidding 
+was limited to small businesses and entrepreneurs.  See 
+Amendment of the Commission's Rules Regarding Install-
+ment Payment Financing for [PCS] Licensees, Second Re-
+port and Order and Further Notice of Proposed Rule Mak-
+ing, 12 F.C.C.R. 16,436 (1997) (Restructuring Order);  and 
+Amendment of the Commission's Rules Regarding Install-
+ment Payment Financing for [PCS] Licensees, Order on 
+Reconsideration of the Second Report and Order, 13 F.C.C.R. 
+8345 (1998) (Reconsideration Order).  Petitioners U.S. Air-
+waves, Inc. (hereinafter Airwaves) and Sprint Spectrum L.P. 
+characterize the rules as a benefit given retroactively to 
+incumbent licensees, to the detriment of losing bidders in the 
+
+spectrum auction and of competitors in the PCS industry, and 
+therefore as unauthorized, unreasonable, and arbitrary and 
+capricious.  Intervenor NextWave Inc., a successful bidder in 
+the original auction, supports the new rules;  it also maintains 
+that neither petitioner has standing to challenge them.
+
+     We hold that Airwaves, as a disappointed bidder in the 
+original auction, does have standing to petition for review of 
+the new rules;  we therefore do not reach the question 
+whether Sprint Spectrum L.P. also has standing.  We hold 
+further that, although the changes to the Commission's fi-
+nancing rules are indeed retroactive, the Commission had 
+adequate reasons for adopting them, and that it reasonably 
+balanced competing goals and acted within its statutory au-
+thority.
+
+                          I. Background
+
+     Broadband PCS are a type of mobile telephone technology.  
+See Omnipoint Corp. v. FCC, 78 F.3d 620, 626 (D.C. Cir. 
+1996).  In order to provide PCS a company must get from the 
+Commission a license to use a portion of the electromagnetic 
+spectrum.  In 1994 the Commission decided to distribute such 
+licenses through a system of competitive bidding, pursuant to 
+47 U.S.C. s 309(j)(1).  See Implementation of Section 309(j) 
+of the Communications Act--Competitive Bidding, Second 
+Report and Order, 9 F.C.C.R. 2348, pp 54-58 (1994) (2d 
+R&O).  The Commission designated a portion of the spec-
+trum for the provision of PCS and divided that portion into 
+six blocks, which it labeled A through F.  In keeping with its 
+statutory mandate to "ensure that small businesses ... are 
+given the opportunity to participate" in spectrum auctions, 47 
+U.S.C. s 309(j)(4)(D), the Commission limited the bidding for 
+"C-block" spectrum to entrepreneurs and small companies.  
+See Restructuring Order at p 8;  cf. Omnipoint, 78 F.3d at 
+626 (upholding the limitation).  The Commission offered small 
+businesses bidding for C-block licenses an "installment pay-
+ment plan" under which they could pay 10% down and the 
+balance "over a period of ten years, with interest only paid for 
+the first six years and interest and principal for the remaining 
+four."  Restructuring Order at p 8.  (Entrepreneurs who did 
+
+not qualify as small businesses were offered less favorable 
+payment terms.  See id. at n.10.)
+
+     Between May and July 1996 some 90 different bidders 
+bought at auction 493 licenses--one for each "basic trading 
+area" (BTA) in the nation--to use 30 MHz of spectrum for 
+the provision of PCS.  Their bids totaled $10.2 billion, a 
+figure some observers attributed to irrational exuberance;  on 
+average, C-block licensees agreed to pay nearly three times 
+per potential customer what the winning bidders in the A- 
+and B-block auctions had paid.  See Restructuring Order at 
+p 9 & n.11;  Peter Spiegel, Hollow Victory, Forbes, Jan. 27, 
+1997, at 50.
+
+     Within nine months of the C-block auction, it became clear 
+that a number of high bidders might not be able to make 
+their scheduled payments.  See Wireless Telecommunica-
+tions Bureau Seeks Comment on Broadband PCS C and F 
+Block Installment Payment Issues, Public Notice, 12 
+F.C.C.R. 21,015, 21,015 & n.4 (1997).  In March, 1997 the 
+Commission suspended the payment obligations of all C-block 
+licensees pending a review of its installment payment terms.  
+See Installment Payments for PCS Licenses, Order, 12 
+F.C.C.R. 17,325, p 2 (1997).
+
+     In October, 1997 the Commission issued the first of the two 
+orders challenged in this case.  That order ended the suspen-
+sion of payments announced the previous March and offered a 
+"menu" of new financing options to all C-block licensees.  See 
+Restructuring Order at pp 6, 25.  Upon reconsideration the 
+Commission retained the menu approach but altered several 
+of the offerings in important particulars.  See Reconsidera-
+tion Order at pp 8-10.  The revised scheme also permitted a 
+licensee to select a different option for licenses it held in each 
+"Major Trading Area" (MTA)--referring to the 51 geographic 
+regions into which the Commission has divided the nation--so 
+long as it applied the same option to all its licenses within 
+each MTA.  See Reconsideration Order at p 17.  Upon the 
+promulgation of the order on reconsideration, each licensee 
+was required, in order to avoid default, to choose a menu 
+option for each of its MTAs.  See id. at p 23.
+
+     The menu offered each licensee four choices.  First, the 
+licensee could continue to make payments under the original 
+terms of the auction.  See Restructuring Order at p 6.
+
+     Second, the licensee could surrender all its licenses for a 
+particular MTA and receive a "prepayment credit" in an 
+amount equal to 70% of the down payments and 100% of any 
+installment payments it had made on those licenses, as well as 
+forgiveness of its debt on the returned licenses.  The prepay-
+ment credit would be put toward payment for such other PCS 
+licenses as the licensee continued to hold.  The licensee could 
+either provide additional funds in order to prepay all the 
+licenses it retained in a given MTA or, were it to rely solely 
+upon its prepayment credits, could prepay as many licenses 
+as possible in a given MTA and surrender any remaining 
+licenses to be auctioned anew.  See Restructuring Order at 
+p 64;  Reconsideration Order at pp 38, 41-43.
+
+     Third, the licensee could elect to "disaggregate" each of its 
+licenses within a given MTA, returning 15 MHz of spectrum 
+to the Commission and retaining 15 MHz under license.  The 
+licensee's outstanding debt to the Commission with respect to 
+returned spectrum would be forgiven.  The licensee would 
+also receive a credit equal to 40% of its down payments on the 
+returned spectrum, which it could apply to the payments due 
+on the retained spectrum.  A licensee combining disaggrega-
+tion and prepayment would receive a credit equal to 70% of 
+its down payment for returned spectrum, which it could use 
+to prepay the Commission either for the retained 15 MHz of 
+the disaggregated licenses or for other PCS licenses it re-
+tained.  See Restructuring Order at pp 38-39;  Reconsidera-
+tion Order pp 51, 54.
+
+     Finally, the licensee could simply surrender its licenses for 
+a particular MTA and be forgiven its outstanding debt with 
+respect to those licenses.  A licensee electing this so-called 
+"amnesty" option could either retain the right to rebid when 
+its licenses were sold at auction again or forego the opportu-
+nity to rebid and receive a credit of 70% of its original down 
+payment;  it could apply that credit to payments due in 
+connection with the prepayment or disaggregation of licenses 
+
+that it retained in other MTAs.  See Reconsideration Order 
+at p 12.
+
+     The Commission states that in crafting this menu of options 
+it "considered and balanced" several policy goals:  maintain-
+ing the integrity of spectrum auctions;  ensuring fairness to 
+actual and prospective licensees;  resolving all issues prompt-
+ly;  and complying with its statutory mandates to "[p]romot[e] 
+economic opportunity and competition in the marketplace," 
+and to "ensure 'that new and innovative technologies are 
+readily accessible to the American people by avoiding exces-
+sive concentrations of licenses and by disseminating licenses 
+among a wide variety of applicants, including small busi-
+nesses.' "  See Restructuring Order at p 2 (quoting 47 U.S.C. 
+s 309(j)).
+
+                           II. Analysis
+
+     Airwaves and Sprint PCS contend that the Commission 
+changed its original auction rules arbitrarily and capriciously 
+and without statutory authority.  After analyzing the petition-
+ers' standing, we consider the Commission's claim that the 
+new rules were foreshadowed in the original auction rules and 
+therefore do not represent a significant change in policy.  We 
+then turn to the questions of arbitrariness and of statutory 
+authority.
+
+A.   Do petitioners have standing?
+
+     The "irreducible constitutional minimum" for standing in an 
+Article III court is that the petitioner was injured in fact, that 
+its injury was caused by the challenged conduct, and that its 
+injury would likely be redressed by a favorable decision of the 
+court.  Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 
+(1992).  NextWave Inc., intervening in defense of the Com-
+mission, argues that Airwaves lacks standing because it can 
+demonstrate neither that it was injured in fact nor that its 
+alleged injury is redressable.
+
+     A bidder in a government auction has a "right to a legally 
+valid procurement process";  a party allegedly deprived of 
+this right asserts a cognizable injury.  DIRECTV, Inc. v. 
+FCC, 110 F.3d 816, 829 (D.C. Cir. 1997).  A disappointed 
+bidder "need not ... demonstrate that it would be successful 
+
+if the contract were let anew" but only that it was " 'able and 
+ready to bid ... and that the [rule] prevent[ed] it from doing 
+so on an equal basis.' "  Id. at 829-30 (quoting Northeastern 
+Fla. Chapter of Assoc. Gen. Contractors of America v. City of 
+Jacksonville, 508 U.S. 656, 666 (1993)).  Of course, in order to 
+show that its injury is redressable, a disappointed bidder 
+must demonstrate that it is "ready, willing, and able" to 
+participate in a new auction should it prevail;  but it need not 
+demonstrate that it will participate in such an auction regard-
+less of the circumstances then prevailing.  See Orange Park 
+Florida T.V., Inc. v. FCC, 811 F.2d 664, 672 & n.18 (D.C. Cir. 
+1987).
+
+     Airwaves meets these requirements.  It submitted bids in 
+the original C-block auction but dropped out before securing 
+any licenses.  It claims that it would have bid more had it 
+known that financial terms more favorable than those an-
+nounced at the time of the auction would later be offered to 
+winning bidders.  Airwaves further affirms, in the sworn 
+declaration of its chief executive, that it "intends" to bid in a 
+future reauction of PCS spectrum and that it is able to raise 
+the capital necessary to do so.  That is sufficient.
+
+     NextWave also argues that Airwaves cannot base its stand-
+ing upon its participation in the original auction because 
+Airwaves acknowledges that the original auction was fair;  
+Airwaves challenges only the way in which the Commission 
+treated licensees after the auction was completed.  In this 
+argument, however, NextWave misapprehends Airwaves' 
+claim, which is that post-auction revisions to the financing 
+options available to the high bidders constitute impermissibly 
+retroactive changes to the initial auction rules.  There is no 
+basis for suggesting, as NextWave seems to do, that ex post 
+changes can never affect the validity of a government auction.
+
+     Finally, NextWave argues that Airwaves fails to demon-
+strate that its claim is redressable by this court because it 
+does not allege that when it petitioned for review of the new 
+rules it was ready, willing, and able to bid in a new auction.  
+NextWave asserts that as of that date Airwaves had returned 
+all its investment capital to its investors and was not in good 
+
+standing in the State of Delaware because of a tax dispute, 
+for both of which reasons it would have been unable to bid in 
+any new auction that the Commission might have conducted.  
+NextWave's premise is correct:  Standing is determined as of 
+the date an action is filed, see Smith v. Sperling, 354 U.S. 91, 
+93 n.1 (1957);  but NextWave offers no persuasive reason to 
+think either that Airwaves lacked access to capital on that 
+date or that it would not have resolved its tax dispute in 
+Delaware had that been necessary in order to bid in a new 
+auction.  (In fact, the tax matter was resolved soon after the 
+filing.)  Absent any evidence to the contrary, Airwaves' asser-
+tion that it was ready, willing, and able to participate in a 
+rerun of the C-block auction satisfies the redressability re-
+quirement.
+
+     Having determined that Airwaves has standing, we do not 
+need to reach the question whether Sprint Spectrum L.P. has 
+standing as well, for Sprint presents no arguments beyond 
+those made by Airwaves.  See Railway Labor Executives' 
+Ass'n v. United States, 987 F.2d 806, 810 (D.C. Cir. 1993) 
+("[I]f one party has standing in an action, a court need not 
+reach the issue of the standing of other parties when it makes 
+no difference to the merits of the case").
+
+B.   Is the rule retroactive?
+
+     Airwaves argues that the changes in the Commission's 
+auction rules give a windfall to C-block licensees.  The 
+Commission and NextWave respond that the original auction 
+rules anticipate the possibility that the Commission might 
+revise its financing provisions, making the adoption of the 
+new rules foreseeable.*  Cf. Small Refiner Lead Phase-
+Down Task Force v. EPA, 705 F.2d 506, 547, 549 (D.C. Cir. 
+1983) (holding that final administrative rules that depart from 
+an agency's initial proposals do not require new notice and 
+comment if the final rules are a "logical outgrowth" of the 
+proposals, such that the parties "should have anticipated [that 
+they] might be imposed").
+
+__________
+     * The implication of the Commission's account is that the possibil-
+ity of new rules is fully reflected in the prices paid;  hence there is 
+no windfall.
+
+     The Commission points out that the original auction rules 
+provided that "as a general rule" a defaulting bidder's licens-
+es would be deemed forfeit and reauctioned, 2d R&O at p 204, 
+which reasonably can be taken to suggest that forfeiture and 
+reauction were not to be the inevitable consequence of de-
+fault.  More important, the original rules specifically allowed 
+a licensee "that has defaulted or that anticipates default 
+under an installment payment program" to obtain a "three to 
+six month grace period" during which to "seek from the 
+Commission a restructured payment plan."  Id. at p 240.  In 
+addition, the original rules provided that default would occa-
+sion a "substantial penalty," Implementation of Section 309(j) 
+of the Communications Act--Competitive Bidding, Fifth Re-
+port and Order, 9 F.C.C.R. 5532, p 75 (1994), and under the 
+revised rule every licensee that fails to honor its original 
+payment obligations forfeits at least 30% of its down payment 
+on all spectrum that it returns to the Commission.
+
+     In some respects, however, the new rules clearly do contra-
+dict the Commission's previously stated policies.  The initial 
+auction rules provided that the Commission would consider 
+requests for financial restructuring on a "case-by-case basis."  
+2d R&O at p 240.  This certainly implied that the Commission 
+would not proceed by way of a further rulemaking and a new 
+rule of general application, see Bowen v. Georgetown Univ. 
+Hosp., 488 U.S. 204, 209 (1988).  The distinction is significant, 
+for the initial auction rules made only those licensees "that 
+ha[d] defaulted or that anticipate[d] default" eligible for a 
+grace period and financial restructuring.  2d R&O at p 240.  
+The C-block menu, in contrast, is available to all licensees 
+regardless of their financial condition.  See Restructuring 
+Order at p 6.
+
+     The new regulations therefore do not merely fill in the 
+details of a policy foreseeable at the time of the original 
+C-block auction;  instead, they constitute a secondarily retro-
+active change to the rules governing that auction.  See Bow-
+en, 488 U.S. at 219 (1988) (Scalia, J., concurring) (defining 
+"secondary retroactivity" as describing "rule[s] with exclu-
+sively future effect [that] ... affect past transactions") (em-
+phasis omitted).  A secondarily retroactively rule is valid only 
+
+to the extent that it is reasonable--both in substance and in 
+being made retroactive.  See id. at 220.  It is to reasonable-
+ness that we turn next.
+
+C.   Are the regulations reasonable?
+
+     Airwaves argues that the rule is invalid for two related 
+reasons.  First, it contends that the Commission failed to 
+relate its offering of post-auction refinancing options to its 
+own stated goals.  Second, it argues that regardless whether 
+the Commission embraced fairness as a goal, the rule is 
+simply so unfair that it must be deemed arbitrary and capri-
+cious.
+
+     Under the arbitrary and capricious standard, this court 
+does not substitute its judgment for that of the administrative 
+agency.  See Motor Vehicles Mfrs. Ass'n of the United States, 
+Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983).  
+A regulatory decision in which the Commission must balance 
+competing goals is therefore valid if the agency can show that 
+its resolution "reasonably advances at least one of those 
+objectives and [that] its decisionmaking process was regular."  
+Fresno Mobile Radio, Inc. v. FCC, 165 F.3d 965, 971 (D.C. 
+Cir. 1999).  Because Airwaves does not challenge the regular-
+ity of the Commission's decisionmaking process, the issue now 
+before us is whether the Commission reasonably justified its 
+regulations with reference to at least one of its avowed goals.  
+See Restructuring Order at p 2.
+
+     The C-block menu withstands review under this standard:  
+The Commission justified each of the menu options and its 
+MTA-by-MTA selection principle with reference to one or 
+more of its stated goals.  In particular, the Commission 
+justified each of its menu options as "enabling C block 
+licensees to remain participants in the wireless market," 
+which it found would hasten "the delivery of new services to 
+the public" and promote efficient use of the spectrum.  Re-
+consideration Order at p 10;  see Restructuring Order at 
+pp 43, 45 (disaggregation);  id. at p 53 (amnesty);  Reconsider-
+ation Order at p 40 (prepayment).  In addition, the Commis-
+sion justified the prepayment option as a way of minimizing 
+conflicts between the agency's roles as creditor and as regu-
+
+lator.  See Reconsideration Order at p 40.  The Commission 
+explained disaggregation, as it did the provision for MTA-by-
+MTA election, in part as an effort to help small licensees plan 
+their businesses rationally.  See Restructuring Order at p 45;  
+Reconsideration Order at p 19.
+
+     Airwaves challenges the Commission's rationale in two 
+respects.  Its first point proceeds from the observation that 
+the Commission deemed "essential" two and only two of its 
+stated goals, namely, maintaining the integrity of the auction 
+process and ensuring fairness to all market participants.  
+Restructuring Order at p 3.  Airwaves claims that it is unrea-
+sonable for the Commission to adopt any policy that under-
+mines a goal that the agency itself has styled "essential."  
+This is an unduly cramped reading of the orders, however.  
+The Commission reasonably can treat fairness and integrity 
+as "essential" goals and yet recognize that they are matters of 
+degree.  Thus, the Commission may choose to sacrifice some 
+degree of fairness or integrity in order to gain other impor-
+tant objectives.  Several of the goals that the Commission 
+lists in addition (and therefore potentially in opposition) to 
+fairness and integrity--such as competition, speedy deploy-
+ment of services to the public, efficient use of the spectrum, 
+and participation of small businesses in the market--are 
+mandated by statute.  See 47 U.S.C. s 309(j)(3).  A more 
+reasonable construction of the Commission's statement that 
+fairness and integrity are "essential" goals, therefore, is that 
+in its view they must be included (along with those specified 
+in the statute) among the goals to be balanced.  This by no 
+means requires that they trump all other goals in every case 
+where there is conflict.
+
+     Airwaves also argues that, aside from the orders' failure to 
+advance the Commission's "essential" goals, they also fail to 
+advance the other goals the Commission invoked as justifica-
+tions for the menu options.  For example, Airwaves argues 
+that, contrary to the Commission's claims, the rule will retard 
+rather than hasten the availability of services to consumers;  
+instead of forcing a reauction that would transfer spectrum to 
+competent and solvent firms, the rule allows precisely those 
+companies that "have demonstrated financial irresponsibility 
+
+and undue optimism about their financial capabilities" to 
+retain their spectrum.  New buyers at auction may, as the 
+petitioner asserts, be more likely to effectuate a rapid build-
+out of wireless systems, but the Commission is reasonably of 
+the view that starting the licensing process all over again 
+would delay build-out.  We defer to the agency regarding a 
+predictive matter, such as this, within its expertise.  See 
+Fresno Mobile Radio, 165 F.3d at 971.
+
+     In a similar vein, Airwaves complains that, contrary to the 
+Commission's expectation, the rule will not promote the par-
+ticipation of small businesses in the wireless industry;  that 
+goal would be better effected by redistributing licenses to 
+small businesses in a new auction than by reinforcing the 
+current concentration of C-block licenses in relatively few 
+hands.  The petitioner's position is again plausible, but it is 
+also reasonable, again, for the Commission to expect that 
+small businesses generally will be better situated to face their 
+larger competitors in the wireless industry if those that 
+already have licenses are able to build their businesses in at 
+least some markets.  Again, we defer to the Commission's 
+expertise regarding such predictive issues.
+
+     Notwithstanding the Commission's reasoned justification, 
+the rule might still be arbitrary and capricious if, as Airwaves 
+claims, it is sufficiently unfair.  We agree with the petitioner 
+that the Commission systematically downplays the inequity of 
+the rule:  it clearly grants a substantial windfall not only to 
+distressed but also to healthy companies that bought licenses 
+in the initial auction.  Those companies can now discard the 
+licenses they have found, with the benefit of hindsight, to be 
+less valuable--without incurring the ordinary penalty for 
+default and, indeed, while recouping some of the payments 
+they have already made.  At the same time they can retain 
+the licenses they have found to be more valuable, subject only 
+to the requirement that they elect a single menu option within 
+each MTA.  Further, the rule allows them not only to concen-
+trate their resources in the most desirable markets but to 
+apply to the spectrum they retain some of the payments they 
+had made on spectrum they returned.  Obviously, those who 
+were outbid in the original auction would have bid more than 
+
+they actually did--and might have bid enough to win licens-
+es--had they known that the Commission later would make 
+such options available.
+
+     Having established that the Commission changed the rules 
+in a way that could not be foreseen, the question is whether, 
+under the circumstances, that was so unfair as to be arbitrary 
+and capricious.  We start from the intuitive premise that an 
+agency cannot, in fairness, radically change the terms of an 
+auction after the fact.  At the same time, an agency must be 
+allowed to adjust its policies to changing circumstances, with-
+in the framework of rules it established in advance of the 
+auction.  In this case the Commission determined that the 
+statutory goals of speeding the delivery of service to the 
+public and of facilitating the participation of small businesses 
+in the wireless market required it to liberalize the financial 
+terms available to C-block licensees.  See Reconsideration 
+Order at pp 7-8.  Competing goals do not absolve the agency 
+of its duty to losing bidders, of course, but the Commission 
+was careful to temper its liberalization accordingly.  The 
+agency did not simply forgive agreed-upon payments, much 
+less grant the winning bidders' more sweeping requests for 
+relief.  Rather, under each of the menu options it imposed 
+upon every distressed licensee a "substantial penalty"--in 
+every case at least 30% of the down payment for a returned 
+license, and up to 60% in the case of a licensee choosing 
+disaggregation without prepayment.
+
+     Considering the dramatic and unexpected business rever-
+sals faced by C-block licensees, and post-auction conditions in 
+the wireless market, we think the Commission reasonably 
+exercised its discretion to balance fairness to losing bidders 
+with the needs of the market and with the public interest.  
+We therefore conclude that the orders under review are 
+consistent with the Commission's stated goals, and that such 
+unfairness as they worked does not render them arbitrary 
+and capricious.
+
+D.   Did the Commission exceed its statutory authority?
+
+     The Commission conducts spectrum auctions pursuant to 
+its authority to grant licenses "through the use of a system 
+of competitive bidding."  47 U.S.C. s 309(j)(1).  Airwaves 
+
+argues that post-auction concessions made to the winning 
+bidders effectively render the auction noncompetitive and 
+therefore without statutory authorization.  Airwaves argues 
+further that retroactive changes to auction rules violate the 
+requirement that the Commission "ensure that ... an ade-
+quate period is allowed ... after issuance of bidding rules[ ] 
+to ensure that interested parties have a sufficient time to 
+develop business plans, assess market conditions, and evalu-
+ate the availability of equipment."  Id. s 309(j)(3)(E).  Air-
+waves' argument here is that post-auction rule changes nec-
+essarily leave no time for interested parties to plan, assess, 
+or evaluate.
+
+     These arguments were not put before the Commission and 
+are therefore not properly before this court.  See Washington 
+Ass'n for Television & Children v. FCC, 712 F.2d 677, 680 
+(1983) ("[C]laims not presented to the agency may not be 
+made for the first time to a reviewing court").  Airwaves 
+suggests that the issue was adequately raised before the 
+Commission in the comment of another party, which argued 
+that "Section 309(j) does not ... contain any provision allow-
+ing the Commission to change the amount owed the govern-
+ment as a result of an auction."  The broad and general claim 
+that the Commission lacks statutory authority "to change the 
+amount owed" is materially different, however, from Air-
+waves' specific argument that the Commission violated the 
+statutory provisions requiring "a system of competitive bid-
+ding" and "an adequate period" for planning after auction 
+rules are issued.  Confronted only with the former, broad 
+claim, the Commission had no notice of the specific objections 
+now raised by Airwaves.  As we have said more than once 
+before, a litigant may not " 'sandbag' agencies by withholding 
+legal arguments ... until they reach the courts of appeal."  
+USAir, Inc. v. Department of Transp., 969 F.2d 1256, 1260 
+(D.C. Cir. 1992).
+
+                         III. Conclusion
+
+     In summary, we hold that the changes to the Commission's 
+C-block auction rules are neither arbitrary and capricious, 
+
+nor unreasonable, nor without statutory authority.  Therefore 
+the petitions to review the rules are
+
+                                                                 Denied.
+
+                  

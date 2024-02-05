@@ -1,0 +1,728 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 10, 2002   Decided January 24, 2003 
+
+                           No. 01-1188
+
+                        AT&T Corporation, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+               Atlas Telephone Company, Inc., and 
+            Total Telecommunications Services, Inc., 
+                           Intervenors
+
+                        Consolidated with 
+                             01-1201
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Russell M. Blau argued the cause and filed the briefs for 
+petitioners Atlas Telephone Company, Inc. and Total Tele-
+communications Services, Inc.
+
+     Daniel Meron argued the cause for petitioner AT&T Cor-
+poration.  With him on the briefs were David W. Carpenter, 
+Mark C. Rosenblum, and Peter H. Jacoby.  Peter D. Keisler 
+entered an appearance.
+
+     Richard K. Welch, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  On the brief were 
+John Rogovin, Deputy General Counsel, John E. Ingle, Depu-
+ty Associate General Counsel, and Laurel R. Bergold, Coun-
+sel, and Marion L. Jetton and Robert B. Nicholson, Attor-
+neys, U.S. Department of Justice.
+
+     Daniel Meron, C. John Buresh, David W. Carpenter, Mark 
+C. Rosenblum and Peter H. Jacoby were on the brief for 
+intervenor AT&T Corporation.
+
+     Russell M. Blau was on the brief for intervenors Atlas 
+Telephone Company, Inc. and Total Telecommunications Ser-
+vices, Inc.
+
+     Before:  Ginsburg, Chief Judge, Sentelle, Circuit Judge, 
+and Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed by Chief Judge Ginsburg.
+
+     Ginsburg, Chief Judge:  Atlas, Total, and AT&T appeal 
+different parts of a single order of the Federal Communica-
+tions Commission.  The Commission held that Atlas, an in-
+cumbent local exchange carrier (ILEC), created Total, osten-
+sibly a competitive access provider, as a sham entity solely in 
+order to increase the rates charged to AT&T, an interex-
+change carrier (IXC), and thereby engaged in an unjust and 
+unreasonable practice, in violation of s 201(b) of the Commu-
+nications Act of 1934, 47 U.S.C. s 151 et seq.  The Commis-
+sion also held that AT&T had legitimately blocked calls to 
+Total;  Atlas must pay damages to AT&T in the amount that 
+AT&T paid to Atlas for tandem switched transport;  and 
+AT&T is liable to Atlas for reasonable access charges.  The 
+Commission then dismissed AT&T's counterclaim under the 
+
+Telephone Disclosure and Dispute Resolution Act (TDDRA), 
+47 U.S.C. s 228, "as moot, without prejudice."
+
+     We reject all Atlas' claims and deny its petition for review.  
+We reject the Commission's argument that AT&T does not 
+have standing to seek review of the Order, the preclusive 
+effect of which could prejudice AT&T in defending against 
+Total's pending lawsuit to collect access charges.  We grant 
+in part AT&T's petition for review and remand the Order to 
+the Commission to consider AT&T's argument that Total did 
+not provide access service and to clarify the effect of its 
+having dismissed AT&T's counterclaim.
+
+                          I. Background
+
+     Atlas Telephone Co., Inc. is the ILEC in Big Cabin, 
+Oklahoma, where it serves approximately 1,500 customers.  
+Atlas provides local exchange service to the end users and 
+provides originating and terminating access service to IXCs.  
+Total Telecommunications Services, Inc., formed in 1995, 
+offers service to only one customer, Audiobridge of Oklahoma, 
+Inc., which runs a free chat-line service allowing multiple 
+callers to dial in and talk to one another.  During the relevant 
+time period, a long-distance call to Audiobridge placed by an 
+AT&T customer went through that customer's local telephone 
+company to AT&T, which provided interexchange service by 
+transporting the call across its network to a point of presence 
+(POP) located near Big Cabin and served by Southwestern 
+Bell Telephone Company.  From the POP, Southwestern Bell 
+transmitted the call through its facilities to a "meet point" 
+with Atlas, which then carried the call through its tandem 
+switch to Total.  As the "terminating access provider," Total 
+completed the call to Audiobridge.  (Total provided no local 
+exchange or originating access service.)
+
+     Atlas and Total have a close relationship -- to say the least.  
+The President of Atlas is the Chairman of Total's Board of 
+Directors;  Total received a $20,000 startup loan from the 
+Atlas pension fund;  Total's only office is in an Atlas building;  
+and Total leased all its transmission facilities from Atlas.
+
+     As an ILEC, Atlas was subject to "dominant carrier" 
+regulation of its rates and therefore had to get its tariffs 
+preapproved by the Commission.  To that end, Atlas elected 
+to charge the rates in the tariff filed by the National Ex-
+change Carriers Association (NECA), which prepares and 
+files a joint tariff on behalf of 1100 small ILECs.  NECA 
+participants pool their revenues, and each receives an amount 
+equal to its costs and its pro rata share of all earnings.  Thus, 
+for calls to Audiobridge, Atlas charged AT&T the tandem 
+switching transport fee in the NECA tariff.
+
+     In July 1995 Total, as a non-dominant carrier, filed its own 
+tariff, which was effective immediately, pursuant to which it 
+charged AT&T at a rate 27 percent higher than what Atlas 
+was charging under the NECA tariff.  Total then split with 
+Audiobridge the revenues Total received from AT&T.  This 
+was Audiobridge's only source of income.
+
+     Total began completing calls from AT&T customers to 
+Audiobridge in August 1995.  When AT&T received from 
+Total unexpected bills for terminating access service -- in 
+addition to Atlas' bills for tandem switching transport -- and 
+found out about the relationship between Total and Atlas, it 
+first threatened to, and starting on November 22 did, block 
+calls from its customers to Audiobridge.  AT&T also refused 
+to pay Total, which had already terminated about 10 million 
+minutes of calls.  Unbeknownst to AT&T, in July 1996 Total 
+gave Audiobridge different numbers that AT&T did not block.
+
+     On November 24 Atlas and Total filed suit against AT&T in 
+the United States District Court for the Northern District of 
+Oklahoma.  That court referred the case to the Commission 
+pursuant to the doctrine of primary jurisdiction.  See Total 
+Telecommunications, Inc. v. AT&T, Civ. Action. No. 95-C-
+1163 (N.D. Okla.);  see also Reiter v. Cooper, 507 U.S. 258, 
+268-69 (1993).  Atlas and Total then brought essentially the 
+same suit in the United States District Court for the District 
+of Columbia, with the same result.  See Total Telecommuni-
+cations Services, Inc. v. AT&T Co., 919 F. Supp. 472, 483-84 
+(D.D.C. 1996), aff'd, 99 F.3d 448 (D.C. Cir. 1996).
+
+     Finally Atlas and Total filed a complaint with the Commis-
+sion, alleging that AT&T's blocking calls to Audiobridge 
+violated the Communications Act of 1934.  AT&T counter-
+claimed, alleging that Atlas and Total had violated the Act by 
+creating a sham entity and charging unreasonable rates.
+
+     The Commission denied Atlas' and Total's claims.  16 
+F.C.C.R. 5726 (2001) (Order).  The Commission first conclud-
+ed that "Atlas created Total as a sham entity designed to 
+impose increased access charges on calls made to Audio- 
+bridge."  Id. at p 14.  Therefore, the Commission held, Atlas 
+and Total had engaged in an unjust and unreasonable prac-
+tice, in violation of 47 U.S.C. s 201(b).  Order, 16 F.C.C.R. 
+5726 at p p 15-18.  As a consequence, AT&T did not have an 
+obligation under 47 U.S.C. s 201(a) to complete calls to 
+Audiobridge through Total:  "Requests by AT&T's customers 
+to send traffic to Audiobridge via Total do not constitute 
+'reasonable requests' for service for purposes of section 
+201(a), because they would require AT&T to purchase access 
+service that we have previously determined is unreasonably 
+priced and the product of a sham arrangement."  Id. at p 21.
+
+     Atlas and Total had argued that AT&T's blocking calls also 
+violated the IXC's duty under 47 U.S.C. s 251(a)(1) to "inter-
+connect directly or indirectly with the facilities and equipment 
+of other telecommunications carriers."  The Commission re-
+jected that argument, too, reading the text and structure of 
+the Act, along with its own regulation defining "interconnec-
+tion," to mean that "interconnect" refers to a "physical linking 
+of two networks, and not to the exchange of traffic between 
+networks."  Id. at p 23 (emphasis in original).
+
+     The Commission denied in part and granted in part 
+AT&T's counterclaims.  Whereas AT&T had argued that it 
+should pay nothing to Atlas and Total, the Commission con-
+cluded that AT&T would have to pay a "reasonable access 
+charge," which in this case was "the fee that Atlas would have 
+charged AT&T for terminating traffic directly to Audiobridge, 
+had Total never existed," id. at p 38, and that the NECA 
+tariff supplied the appropriate rate.  Id. at p 39.  The Com-
+mission, however, did not order AT&T to pay Atlas and Total 
+because, it determined, they had failed in their complaint 
+
+explicitly to "state a claim for relief based on [the calls made 
+by AT&T customers from August 1 to November 22, 1995]."  
+Id. at p 37 n.82.  (The Commission did not advert to AT&T's 
+possible liability for access charges with respect to calls made 
+by AT&T customers to Audiobridge after July 1996, when 
+Total activated the new numbers.)  The Commission also held 
+that Atlas should pay damages to AT&T in the amount AT&T 
+had paid Atlas for tandem switched transport because "[b]ut 
+for its unlawful relationship with Total, Atlas would not have 
+charged AT&T anything at all for tandem switched transport 
+to Total."  Id. at p 40.  Finally, the Commission dismissed "as 
+moot, without prejudice" AT&T's claim that Atlas and Total 
+violated the TDDRA;  even if Atlas and Total violated the 
+TDDRA, the Commission stated, that violation "would not 
+vitiate AT&T's obligation to pay a reasonable access charge 
+for services already provided."  Order, 16 F.C.C.R. 5726 at 
+p 41.
+
+                           II. Analysis
+
+     Atlas and Total, which filed a joint brief, and AT&T each 
+challenge various aspects of the Order.  Atlas/Total argues 
+that the Commission erred in (1) finding that Total was a 
+sham entity;  (2) interpreting "reasonable request" in 
+s 201(a);  (3) interpreting "interconnect" in s 251(a)(1);  (4) 
+ordering Atlas to refund tandem switched transport charges;  
+and (5) denying Total a remedy for AT&T's refusal to pay for 
+access services.  AT&T (1) complains that the Commission 
+failed to address its claim that Total did not provide "access 
+service," and argues that the agency (2) arbitrarily resolved 
+its unreasonable rate claim, and (3) erred in dismissing its 
+counterclaim (in the nature of a defense) under the TDDRA.  
+We may set aside the Order only insofar as it is "arbitrary, 
+capricious, an abuse of discretion, or otherwise not in accor-
+dance with law."  5 U.S.C. s 706(2)(A).
+
+A.  The Atlas/Total Petition
+
+1.  Total as a sham entity
+
+     Section 201(b) of the Act declares unlawful "any [communi-
+cation common carrier's] charge, practice, classification, or 
+
+regulation that is unjust or unreasonable."  The Commission 
+found that "Atlas created Total as a sham entity designed 
+solely to extract inflated access charges from IXCs, and that 
+this artifice constitutes an unreasonable practice ... in viola-
+tion of section 201(b) of the Act."  Order, 16 F.C.C.R. 5726 at 
+p 16.  Atlas/Total does not quarrel with the underlying facts 
+upon which the Commission based its determination that 
+Total was a sham entity.  Rather, Atlas/Total argues that the 
+"FCC's finding that Total was a sham entity because it was 
+not truly independent of Atlas is inconsistent with many past 
+FCC rulings concerning affiliates of dominant carriers," such 
+as those allowing an affiliate to sell cellular or interexchange 
+service.  In response, the Commission points out that those 
+rulings involved an affiliate offering a competitive service;  
+the provision of access service by an ILEC, in contrast, is 
+subject to dominant carrier rate regulation, which would be 
+circumvented if an ILEC could offer access service through 
+an affiliate.  The Commission also argues that because Total 
+is not independent of Atlas, those prior decisions do not 
+apply.
+
+     We agree with the Commission in both respects.  None of 
+the cases cited by Atlas/Total supports the proposition that an 
+ILEC may create an alter ego to provide access service in the 
+same geographic area as the ILEC and thereby avoid regula-
+tion as a dominant carrier.  If accepted, Atlas/Total's argu-
+ment would enable every ILEC completely to avoid dominant 
+carrier regulation by a mere artifice.  In this respect, it is 
+noteworthy that, although the Commission determined that 
+"Atlas created Total to increase access charges for calls to 
+Audiobridge," id., Atlas/Total does not argue on appeal that 
+Total had any other purpose, or indeed that it had any 
+economic substance at all.  Clearly, the entire arrangement 
+was devised solely in order to circumvent regulation of Atlas 
+as a dominant carrier, deserves to be treated as a sham, and 
+cannot benefit from precedents set with respect to legitimate 
+affiliates.
+
+2.  Section 201(a) "reasonable requests"
+
+     Section 201(a) of the Act provides that a communications 
+common carrier has a duty to "furnish ... communication 
+
+service upon reasonable request."  47 U.S.C. s 201(a).  The 
+Commission determined that an AT&T customer who called 
+Audiobridge was not thereby making a "reasonable request" 
+for service because AT&T would have had to purchase a 
+service that was "unreasonably priced and the product of a 
+sham arrangement."  Order, 16 F.C.C.R. 5726 at p 21.  Be-
+cause the Congress has not "directly spoken to the precise 
+question at issue," we must decide whether the Commission 
+permissibly construed the statute.  Chevron USA Inc. v. 
+National Resources Defense Council, 467 U.S. 837, 842-43 
+(1984).
+
+     Atlas/Total argues the Commission misinterpreted s 201(a) 
+because AT&T's refusal to serve customers who wanted to 
+call Audiobridge frustrated the goal of universal service as-
+sertedly underlying that section.  According to Atlas/Total, 
+instead of unilaterally blocking calls to Audiobridge, AT&T 
+should have paid Total and then sought a refund by filing a 
+complaint with the Commission pursuant to s 208 of the Act.  
+The Commission responds that AT&T could legitimately 
+block service because Total was a sham entity.
+
+     If, as Atlas/Total suggests, AT&T could not refuse as 
+"unreasonable" a request for service the provision of which 
+would have required it in turn to procure a service available 
+only at an unreasonable price from a sham entity, then the 
+modifier "reasonable" in s 201(a) would have little if any 
+meaning.  The inclusion of that term in the statute implies 
+that a common carrier may lawfully deny service to a custom-
+er in some circumstances, whatever its effect upon universal 
+service.  The question is, were there here such circumstances 
+or, more precisely, could the Commission reasonably so con-
+clude?  Surely the answer is yes.
+
+     As a rule, grievances are to be raised, as Atlas/Total says, 
+via s 208 and not by resort to self-help.  The Commission 
+itself has so stated.  See, e.g., Bell Atlantic-Delaware v. 
+Frontier Communications Services, Inc., 15 F.C.C.R. 7475, 
+p 9 (2000) ("[T]he proper way for an IXC to challenge a 
+LEC's [rate] is to initiate a Section 208 proceeding at the 
+Commission").  Here the Commission recognized an excep-
+
+tion to the rule, that allowing an IXC to block calls when a 
+sham entity is charging it unreasonable rates for access 
+services.  If the Commission later held that Total was not a 
+sham entity or that Total had charged reasonable rates, then 
+the agency presumably would have found AT&T liable to 
+Total for blocking the calls.  In other words, by blocking calls 
+to Audiobridge AT&T was acting at its peril.  Elkhart Tele-
+phone Co., Inc. v. Southwestern Bell Telephone Co., 11 
+F.C.C.R. 1051, p 34 (1995) ("Those who choose the course of 
+non-compliance are on notice that they will be acting at their 
+own peril, should the question of the legitimacy of their 
+refusal to meet their common carrier obligations be decided 
+against them").
+
+     The Commission's decision is not inconsistent with its 
+precedents:  None of the cases Atlas/Total cites for the propo-
+sition that AT&T first had to file a complaint with the 
+Commission involved a sham entity.  Nor do we see how the 
+seemingly narrow exception for a sham entity charging an 
+unreasonable rate will swallow the rule of s 208, as Atlas/ 
+Total predicts.  The Commission specifically declined "to 
+address the broader question of what other circumstances 
+might permit an IXC to refuse to purchase, or discontinue 
+purchasing, access service from a competitive LEC."  Order, 
+16 F.C.C.R. 5726 at p 21 n.50.  Any carrier that engages in 
+self-help, therefore, runs the risk that the Commission will 
+find against it -- even if its underlying position is vindicat-
+ed -- and hold it liable solely for engaging in self-help.  In 
+these circumstances, the Commission's judgment that it has 
+not opened Pandora's box is surely reasonable.
+
+3.   Section 251(a)(1) "interconnect"
+
+     Section 251(a)(1) provides in part that "[e]ach telecommuni-
+cations carrier has the duty ... to interconnect directly or 
+indirectly with the facilities and equipment of other telecom-
+munications carriers."  In the Order, the Commission inter-
+preted this duty to "interconnect" as referring "solely to the 
+physical linking of two networks, and not to the exchange of 
+traffic between networks."  16 F.C.C.R. 5726 at p 23 (empha-
+sis in original).
+
+     Atlas/Total argues that "the duty ... to interconnect" in 
+s 251(a)(1) "encompasses the duty to exchange traffic" be-
+tween networks, not just the duty to establish a physical 
+linkage between networks.  Atlas/Total contends that (1) the 
+history of the requirement of interconnection and the legisla-
+tive history of s 251 both indicate that to "interconnect" 
+means to exchange traffic, and (2) the meaning given to 
+"interconnect" in the Order (a) ignores the phrase "or indi-
+rectly" in s 251(a)(1), and (b) does not comport with 47 
+C.F.R. s 51.5.  We review the Commission's interpretation of 
+"interconnect" under the two-step test of Chevron, 467 U.S. at 
+842-43, looking first to the intent of the Congress and then, if 
+the term is still ambiguous, determining whether the agency's 
+construction of the statute is a reasonable one.  Here we 
+need not go beyond the first step.
+
+     As the Commission points out, both the text of s 251(a)(1) 
+and the structure of s 252 strongly indicate that to "intercon-
+nect" and to exchange traffic have distinct meanings.  The 
+former section refers only to "facilities and equipment," not to 
+the provision of any service.  See also Competitive Telecom-
+munications Ass'n v. FCC, 117 F.3d 1068, 1072 (8th Cir. 
+1997) (stating of s 251(c)(2), "By its own terms, this reference 
+is to a physical link, between the equipment of the carrier 
+seeking interconnection and the LEC's network").  The latter 
+section, which establishes pricing standards for agreements 
+between carriers, provides separately for "interconnection 
+and network element charges" (s 252(d)(1)) and for "charges 
+for transport and termination of traffic" (s 252(d)(2)).  Sec-
+tion 252 thus contemplates the very distinction between phys-
+ical linkage and exchange of traffic the Commission applied in 
+the Order.
+
+     Atlas/Total argues that the Commission's definition of "in-
+terconnect" ignores the phrase "or indirectly":  "If AT&T 
+were not required to exchange traffic with Atlas or Total, and 
+is not required to establish a physical connection to their 
+facilities, then section 251(a)(1) would not require AT&T to do 
+anything at all."  But Atlas/Total has no basis for saying 
+AT&T is not required to establish a physical connection with 
+them;  the Commission has never said that, and in fact AT&T 
+
+does connect indirectly with Atlas through a meet point 
+established by Southwestern Bell.  Nothing in the Commis-
+sion's approach, therefore, deprives the term "indirectly" of a 
+role in the statute.  Because "we do not resort to legislative 
+history to cloud a statutory text that is clear," Ratzlaf v. 
+United States, 510 U.S. 135, 147-48 (1994), we do not consider 
+Atlas/Total's argument that the background of the intercon-
+nection requirement and the legislative history of s 251 re-
+quire a different interpretation of "interconnect."  The Com-
+mission's definition of "interconnect" in the Order faithfully 
+follows the meaning of that term in s 251(a)(1).
+
+4.  Tandem switched transport charges
+
+     Atlas/Total argues that the Commission should not have 
+ordered it to refund the tandem switched transport charges 
+paid by AT&T because Atlas would have provided and AT&T 
+would have had to pay for the same service even if Total had 
+never existed.  We must turn first, however, to the Commis-
+sion's objection that we do not have jurisdiction to address 
+that argument because it was not raised before the Commis-
+sion.
+
+     Section 405 of the Act bars a court from considering any 
+issue of law or fact upon which the Commission "has been 
+afforded no opportunity to pass."  Where, as here, the issue 
+was not raised explicitly, we must determine whether "a 
+reasonable Commission necessarily would have seen the 
+question raised before [the Court] as part of the case present-
+ed to it."  Time Warner Entertainment Co., v. FCC, 144 F.3d 
+75, 81 (D.C. Cir. 1998) (emphasis in original).  We do so 
+bearing in mind that Atlas/Total, as a litigant before the 
+Commission, had "at least a modicum of responsibility for 
+flagging the relevant issues which its documentary submis-
+sions presented."  Bartholdi Cable Co., Inc. v. FCC, 114 F.3d 
+274, 280 (D.C. Cir. 1997).
+
+     Atlas/Total argues that it raised the present issue in a 
+single sentence in its opposition to AT&T's motion to dismiss 
+and in an exhibit listing Atlas' and Total's various charges for 
+different types of services.  The sentence in question, which 
+Atlas/Total points out was intended to rebut AT&T's claim 
+
+"that Total charged 'nearly ten times' as much to terminate 
+an AT&T call" as did Atlas, is:  "A call terminated [by Atlas] 
+at one of AT&T's own customer premises would be subject to 
+a total charge, under NECA Tariff No. 5, of 6.63 cents, 
+consisting of tandem switched transport and tandem switch-
+ing charges plus local switching, carrier common line, RIC 
+and an information surcharge."  This sentence, which is not 
+self-evidently about the tandem switched transport charges 
+AT&T would have paid if Total did not exist, merely states a 
+fact;  it does not constitute an argument, let alone an argu-
+ment made with the requisite clarity.  See Bartholdi, 114 
+F.3d at 279 ("The Commission need not sift pleadings and 
+documents to identify arguments that are not stated with 
+clarity by a petitioner").  Therefore, we cannot say that a 
+reasonable Commission "necessarily would have seen" that 
+Atlas/Total had presented a question to the agency about 
+payment of tandem switched transport charges.  Atlas/Total 
+claims it could not foretell the need for this specific argument.  
+Perhaps not, but then under s 405 Atlas/Total should have 
+filed a petition for rehearing so the Commission could consid-
+er the argument in the first instance.
+
+     As a fallback, Atlas/Total argues that we should loose the 
+bond of s 405 in this case because "unreasonable delay [by 
+the Commission] preclude[s] strict application of the exhaus-
+tion doctrine."  The Commission is supposed to decide a case 
+within 15 months after the filing of the complaint, see 47 
+U.S.C. s 208(b), but in this case the agency did not issue a 
+decision for four and one half years.  Atlas/Total contends 
+that because it could have no confidence the Commission 
+would issue a ruling on a petition for reconsideration within 
+the 90-day deadline set in 47 U.S.C. s 405(b), it should be 
+allowed to bypass the agency and seek judicial review at once.
+
+     The case upon which Atlas/Total relies for this argument 
+states that "exhaustion is not required when unreasonable 
+delay would render the administrative remedy inadequate."  
+Southwestern Bell Telephone Co. v. FCC, 138 F.3d 746, 750 
+(8th Cir. 1998).  But in this case the petitioners seek only 
+damages for AT&T's failure to pay Total's bills and for 
+AT&T's blocking calls to Audiobridge.  We fail to see how 
+
+giving the Commission more than 90 days to consider the 
+issue of AT&T's liability for tandem switched transport 
+charges would render any resulting monetary relief inade-
+quate.
+
+     In sum, Atlas/Total has not shown it comes within any 
+exception to s 405.  That provision therefore bars our consid-
+eration of the issue whether the Commission should have 
+ordered Atlas to refund the tandem switched transport 
+charges paid by AT&T.
+
+5.  Remedy for AT&T's refusal to pay
+
+     Atlas/Total argues that the Commission erred in denying it 
+a remedy for AT&T's refusal to pay access charges for calls 
+to Audiobridge between August 1, 1995 and November 22, 
+1995.  The Commission concluded that "although [Atlas/ 
+Total's] complaint refers to AT&T's failure to pay certain 
+access charges incurred before AT&T began blocking calls to 
+Audiobridge the complaint does not state a claim for relief 
+based on that conduct."  16 F.C.C.R. 5726 at p 37 n.82 
+(emphasis in original).
+
+     Unlike a complaint governed by the notice pleading system 
+of the Federal Rules of Civil Procedure, a complaint filed with 
+the Commission must set forth "[a]ll matters concerning a 
+claim ... fully and with specificity" and must "complete[ly] 
+identif[y] ... [the] conduct complained of and the nature of 
+the injury sustained."  47 C.F.R. ss 1.720(a), 1.721(a)(6) 
+(1994).  Atlas/Total's complaint clearly seeks damages for 
+AT&T's having blocked service to Audiobridge but never 
+specifically alleges that Atlas is entitled to recover from 
+AT&T access charges for calls completed before the blocking 
+began.
+
+     Atlas/Total tries to salvage its claim by arguing that "[t]he 
+issue of unpaid access charges was raised in the Complaint as 
+a component of the larger interconnection issue."  There is no 
+logical connection, however, between the alleged duty to 
+interconnect and the payment of bills for access services;  this 
+is even more apparent once one realizes that the duty to 
+interconnect requires only a physical linkage of facilities, not 
+
+the provision of services.  Therefore, we agree with the 
+Commission that Atlas/Total's complaint failed to state a 
+claim for AT&T's nonpayment of access charges allegedly 
+incurred prior to November 22, 1995.
+
+B.  AT&T's Petition
+
+     AT&T argues that it should not be liable for access service 
+because the Commission (1) failed to address its claim that 
+Total did not provide "access service," (2) arbitrarily resolved 
+its unreasonable rate claim, and (3) erred in dismissing as 
+moot its counterclaim under s 228.  The Commission, before 
+defending the Order on its merits, maintains that AT&T does 
+not have standing under Article III of the Constitution of the 
+United States to challenge the Order because it has not been 
+injured thereby.  Because the question of standing goes to 
+our jurisdiction over the case, we must consider it first.  See 
+Steel Co. v. Citizens for a Better Env., 523 U.S. 83, 94-95 
+(1998).
+
+1.  Standing
+
+     For standing to pursue its objections, AT&T must show 
+that it has suffered an "actual or imminent injury," that the 
+conduct of which it complains caused that injury, and that a 
+favorable decision of the Court would redress the injury.  See 
+Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 (1992).  
+The Commission contends that AT&T has not suffered an 
+injury because, "[a]lthough the Commission in the Order held 
+that Total lawfully could assess AT&T reasonable terminating 
+access charges for the calls it had completed to the Audiob-
+ridge chat-line ... the Order did not require AT&T to pay 
+Total anything."  The Commission also asserts that any 
+charges Total might seek under the Order are time-barred.
+
+     AT&T responds that its standing rests upon the collateral 
+estoppel effects of two closely related rulings in the Order.  
+AT&T contends that the ruling in the Order requiring AT&T 
+to pay Total a "reasonable access charge" will harm it in 
+pending litigation between itself and Total.  Total Telecom-
+munications Services, Inc. v. AT&T Corp., Civil Action No. 
+02-0813 (D.D.C. filed April 29, 2002).  First, since July 1996, 
+
+when Total changed the exchange on which it terminated calls 
+to Audiobridge, AT&T has not been able to block those calls.  
+Total has continued to bill AT&T, and indeed has billed it $2.8 
+million for calls terminated within the last two years and 
+therefore within the statute of limitations.
+
+     Second, AT&T argues that the Commission's dismissal as 
+moot of its counterclaim -- in which it alleged that the 
+revenue-sharing arrangement between Total and Audiobridge 
+violated sections 228 and 201(b) of the Act -- could be given 
+collateral estoppel effect not only in Total's but also in other 
+like actions pending against AT&T.  Specifically, the Com-
+mission held that the alleged violation, "standing alone, would 
+not vitiate AT&T's obligation to pay a reasonable access 
+charge for services already provided."  Upon this basis the 
+Commission purported to dismiss parts of AT&T's counter-
+claim "as moot, without prejudice."
+
+     With respect to AT&T's first point -- that the Commis-
+sion's ruling on access charges exposes it to liability in 
+litigation -- we note the Supreme Court's teaching that "[i]n 
+an appropriate case, appeal may be permitted from an ad-
+verse ruling collateral to the judgment on the merits at the 
+behest of the party who has prevailed on the merits, so long 
+as that party retains a stake in the appeal satisfying the 
+requirements of Art. III."  Deposit Guaranty Nat'l Bank v. 
+Roper, 445 U.S. 326, 334 (1980) (citing Electrical Fittings 
+Corp. v. Thomas & Betts Co., 307 U.S. 241 (1939)).  As we 
+observed recently in Alabama Municipal Distributors Group 
+v. FERC, 312 F.3d 470 (D.C. Cir. 2002), however, neither the 
+Supreme Court nor this court "has actually found standing on 
+the basis of collateral estoppel."  Id. at 474.  Nonetheless, we 
+think this is "an appropriate case" in which to do so.  The 
+Commission issued its Order after the district court had 
+referred the case to it pursuant to the doctrine of primary 
+jurisdiction.  Although AT&T ultimately prevailed before the 
+Commission on the merits, along the way the Commission 
+determined that AT&T was liable to Total for reasonable 
+access charges and, as it turns out, some of those charges do 
+not appear to be time-barred.  Upon the resumption of the 
+litigation, the district court will be bound to follow the Order, 
+
+giving it a preclusive effect more akin to law of the case than 
+to mere collateral estoppel.  The Order thus injures AT&T 
+and gives it a stake in this appeal sufficient to support its 
+standing to petition for review of the Commission's ruling on 
+its liability for access charges.  In addition, since the Total 
+claim is ripe and AT&T's counterclaim is intertwined with 
+that claim, it would make little sense to decline to decide 
+AT&T's claim now.
+
+     With respect to AT&T's second point -- that it is preju-
+diced by the Commission's having dismissed its counterclaim 
+as moot -- we are unable to determine the preclusive effect, if 
+any, of the Commission's ruling.  The Commission reasoned 
+that AT&T's counterclaim based upon s 228 was moot be-
+cause AT&T is obligated in any event to pay reasonable 
+access charges.  Nonetheless, the Commission dismissed 
+AT&T's claim against Atlas "as moot, without prejudice."  
+We simply do not know what it means to dismiss a claim "as 
+moot, without prejudice."  If a claim is moot, then it cannot 
+be refiled;  if a claim is dismissed without prejudice, then it 
+can be refiled.  So which is it?  At oral argument counsel for 
+the Commission could not say, and neither can we.  Hence, 
+we cannot determine whether the dismissal will have the 
+preclusive effect that would give AT&T standing to seek 
+review of that ruling.  We therefore remand the Order to the 
+Commission to explain or reform its disposition of AT&T's 
+counterclaim.  Consequently, we do not reach AT&T's stand-
+ing to argue that s 228 bars Atlas and Total from recovering 
+anything from AT&T.
+
+2.   Access service
+
+     We now turn to the merits of AT&T's argument with 
+respect to its liability for access service.  Before the Commis-
+sion AT&T argued, among other things, that Total in fact had 
+not provided AT&T with "access service":
+
+     In its tariff [Total] claims to provide "local transport" 
+     and "local switching," and it has billed AT&T for pur-
+     portedly providing those services.  Both industry prac-
+     tice and Commission regulation, however, establish that 
+     "local transport" consists of the carriage of calls to an 
+     
+     end office, and there is clearly no end office behind 
+     [Total], only an end user.
+     
+     Motion of AT&T to Dismiss or for Judgment on the 
+Pleadings at 26.  The Commission acknowledges that it did 
+not consider AT&T's argument in the Order, but maintains 
+that "[h]aving successfully urged the Commission to pierce 
+the Atlas/Total corporate veil, AT&T should not be heard to 
+complain that the Commission failed to consider whether 
+Total would have provided exchange access if it had not been 
+a creature of Atlas."
+
+     We do not understand AT&T to be questioning "whether 
+Total would have provided exchange access if it had not been 
+a creature of Atlas."  AT&T's position is simply that Total 
+did not provide exchange access and therefore AT&T should 
+not have to pay it for that.  The Commission may regard 
+AT&T as ungrateful but that is not a reason for failing to 
+address its argument.  Yet the Order is silent regarding 
+whether any entity -- Total or Atlas or the two combined -- 
+actually provided access service to AT&T.  We therefore 
+remand the Order to the Commission to consider AT&T's 
+argument that Total did not provide access service.
+
+3.   Unreasonable rate claim
+
+     AT&T contends that the Commission erred by assuming 
+that, if Total had not existed, then Atlas would have served 
+Audiobridge under the NECA tariff:  "no carrier that decides 
+to engage in a chat line revenue sharing scheme would 
+continue participating in the NECA pool," which could mean 
+sharing its revenue with the 1100 other members of the 
+NECA.  The Commission argues that AT&T raises this 
+argument for the first time in this court.  In order to give the 
+agency an opportunity to pass upon the issue, the Commis-
+sion maintains that AT&T should have filed a petition for 
+rehearing pursuant to s 405.
+
+     AT&T responds that "no claim can be made that [the 
+relevant] evidence was not in the record."  And, of course, no 
+such claim is made.  But enough of the passive voice:  the 
+Commission claims that AT&T did not make the argument, 
+
+not that the record evidence does not support the argument.  
+The point could not be lost upon AT&T's counsel, which is, no 
+doubt, why the company's half-hearted rejoinder lies buried 
+in a footnote.  In any event, we are barred by s 405 from 
+reaching the question whether the Commission erred in as-
+suming Atlas would have adhered to the NECA tariff.
+
+                         III. Conclusion
+
+     We deny Atlas/Total's petition for review.  We grant in 
+part AT&T's petition for review and remand the Order to the 
+Commission (1) to clarify its disposition of AT&T's counter-
+claim, which it dismissed "as moot, without prejudice," and (2) 
+to respond to AT&T's argument that Total did not provide it 
+with access service.
+
+                                                                 So ordered.
+
+          

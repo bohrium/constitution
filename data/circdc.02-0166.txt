@@ -1,0 +1,453 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 5, 2002     Decided June 11, 2002 
+
+                           No. 01-1032
+
+              EchoStar Communications Corporation, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                  Comcast Corporation, et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Pantelis Michalopoulos argued the cause for petitioner.  
+With him on the briefs were Charles G. Cole, Philip L. Malet 
+and Rhonda M. Bolton.
+
+     Louis E. Peraertz, Special Counsel, Federal Communica-
+tions Commission, argued the cause for respondent.  With 
+him on the brief were Jane E. Mago, General Counsel, and 
+Daniel M. Armstrong, Associate General Counsel.  Catherine 
+G. O'Sullivan and Robert J. Wiggers, Attorneys, U.S. Depart-
+ment of Justice, entered appearances.
+
+     David E. Mills argued the cause for intervenors.  With 
+him on the brief was David J. Wittenstein.
+
+     Before:  Ginsburg, Chief Judge, Edwards and Sentelle, 
+Circuit Judges.
+
+     Opinion for the court filed by Chief Judge Ginsburg.
+
+     Ginsburg, Chief Judge:  EchoStar petitions for review of an 
+order of the Federal Communications Commission dismissing 
+the Company's program access complaint against Comcast 
+Corporation and two of its affiliates, and denying its motion to 
+compel Comcast to produce certain documents.  Comcast has 
+intervened and filed a brief in support of the Commission.  
+Because we conclude that the Commission's order is reason-
+able and supported by substantial evidence, we deny review.
+
+                          I. Background
+
+     EchoStar, a nationwide provider of direct broadcast satel-
+lite (DBS) television service, competes in the Philadelphia 
+market with Comcast, which provides cable television service.  
+Affiliates of Comcast produce "Comcast SportsNet," a cable 
+network that features a variety of sports programming, in-
+cluding the games of several of Philadelphia's professional 
+sports teams.  Some of those games had previously been 
+carried by two other cable networks, SportsChannel Philadel-
+phia, which was distributed by satellite, and PRISM, which 
+was, like Comcast SportsNet, delivered to cable systems 
+terrestrially.  After failing to persuade Comcast to sell it the 
+right to carry SportsNet, EchoStar filed a program access 
+complaint with the Commission pursuant to 47 U.S.C. s 548 
+and the regulations promulgated thereunder.
+
+     Section 548(b) prohibits a "satellite cable programming 
+vendor" affiliated with a cable operator from engaging in:
+
+     unfair methods of competition or unfair or deceptive acts 
+     or practices, the purpose or effect of which is to hinder 
+     significantly or to prevent any multichannel video pro-
+     graming distributor [MVPD] from providing satellite ca-
+     ble programming....
+     
+47 U.S.C. s 548(b).  Section 548(c)(2) instructs the Commis-
+sion to promulgate regulations to prevent a cable operator 
+from "unduly or improperly influencing" the sales decisions of 
+its affiliated satellite cable programming vendor, and to pro-
+hibit an affiliated satellite cable programming vendor from 
+discriminating in the prices, terms, and conditions of sale or 
+delivery of satellite cable programming, which the Commis-
+sion has done, see 47 C.F.R. s 76.1002.
+
+     The Cable Services Bureau denied EchoStar's complaint in 
+its entirety.  The Bureau held first that EchoStar's claims 
+under the regulations -- based upon the Comcast affiliates' 
+refusal to sell it SportsNet, and upon Comcast's unduly 
+influencing its affiliates -- failed because SportsNet, being 
+terrestrially distributed, is not "satellite cable programming."  
+EchoStar Communications Corp. v. Comcast Corp., 14 F.C.C. 
+Rcd. 2089, p 21 (CSB 1999) (Bureau Order). Next the Bu-
+reau -- assuming, as EchoStar had argued in its complaint, 
+that the Commission could prohibit an attempt to evade the 
+regulations -- concluded that Comcast had not switched 
+SportsNet from satellite to terrestrial delivery with a purpose 
+of evasion.  Id. p 27.  The Bureau made two findings on its 
+way to that conclusion:  (1) SportsNet is a "new service," not 
+"simply a service moved from satellite to terrestrial distribu-
+tion";  and (2) Comcast "employed terrestrial distribution for 
+legitimate business means" [sic], namely, because terrestrial 
+distribution of SportsNet is "dramatically less expensive" 
+than satellite distribution would be.  Id. pp 23-24, 26.  Hav-
+ing found no evasion, the Bureau held that Comcast had not 
+engaged in any unfair method of competition or unfair prac-
+tice under s 548(b).  Id. p 28.  Finally, the Bureau denied as 
+unnecessary EchoStar's Motion to Compel Production of Doc-
+uments by Comcast.  Id. pp 30-31.
+
+     EchoStar then applied to the Commission for review, which 
+was denied.  See In the Matter of DIRECTV, Inc. and 
+EchoStar Communications Corp. v. Comcast Corp., 15 F.C.C. 
+Rcd. 22802, p 2 (2000) (Commission Order).  With respect to 
+Comcast's alleged evasion, the Commission
+
+     acknowledge[d] that there may be some circumstances 
+     where moving programming from satellite to terrestrial 
+     delivery could be cognizable under [47 U.S.C. s 548(b)] 
+     as an unfair method of competition or deceptive practice 
+     if it precluded competitive MVPDs from providing satel-
+     lite cable programming.
+     
+Id. p 13.  The Commission nonetheless dismissed EchoStar's 
+s 548(b) claim based upon the Bureau's factual findings that 
+SportsNet is a new service and that terrestrial delivery has 
+cost advantages for Comcast.  Id. WW 13-14.  The Commission 
+did not discuss the Bureau's denial of EchoStar's motion to 
+compel the production of documents.
+
+                           II. Analysis
+
+     On review in this court EchoStar challenges the Commis-
+sion's holding that Comcast did not violate s 548(b) by mov-
+ing programming from satellite to terrestrial delivery in 
+order to evade the program access requirements of s 548(c), 
+and the denial of its motion for discovery.  We review the 
+decision of the Commission under the Administrative Proce-
+dure Act, 5 U.S.C. s 706, to determine whether it is "arbi-
+trary, capricious, an abuse of discretion, or otherwise not in 
+accordance with law."  We will uphold the decision if the 
+Commission made factual findings supported by substantial 
+evidence, considered the relevant factors, and "articulate[d] a 
+rational connection between the facts found and the choice 
+made."  Motor Vehicles Ass'n v. State Farm Mut. Auto Ins. 
+Co., 463 U.S. 29, 43 (1983);  Ass'n of Data Processing Serv. 
+Orgs. v. Bd. of Governors, 745 F.2d 677, 683-86 (D.C. Cir. 
+1984) (arbitrary and capricious standard incorporates sub-
+stantial evidence test).
+
+A.   Dismissal of the Complaint
+
+     EchoStar raises three challenges to the Commission's order 
+dismissing its complaint:  The Commission's decision is not 
+supported by substantial evidence;  the Commission disre-
+garded certain evidence of evasion;  and the Commission 
+failed adequately to explain its decision.
+
+     1.   Substantial evidence
+          
+     With regard to the substantiality of the evidence underly-
+ing the Commission's decision, EchoStar does not dispute 
+that the affidavit of Sam Schroeder, an executive of the 
+Comcast affiliate that owns SportsNet, supports the Commis-
+sion's finding that terrestrial delivery costs Comcast signifi-
+cantly less money than would satellite delivery.  Instead, 
+EchoStar claims that Schroeder's declaration is not substan-
+tial evidence because it is "unsupported and untested" and 
+hearsay, for which proposition it relies principally upon Con-
+solidated Edison Co. v. NLRB, 305 U.S. 197, 230 (1938).
+
+     The Commission inexplicably fails to address these argu-
+ments in its brief, but Comcast comes to the Commission's 
+rescue.  First, Comcast argues that the Commission could 
+rely upon Schroeder's affidavit because it was given under 
+oath, the affiant had personal knowledge of the facts he 
+recounts, EchoStar does not challenge his cost estimates, and 
+there is no requirement that an affidavit be corroborated.  
+Second, Comcast argues that it is well-settled not only that 
+hearsay can be considered by an administrative agency but 
+that it can constitute substantial evidence.  See Richardson v. 
+Perales, 402 U.S. 389, 407 (1971);  Crawford v. United States 
+Dep't of Agric., 50 F.3d 46, 49 (D.C. Cir. 1995).
+
+     We have to agree with Comcast.  There is no support for 
+EchoStar's claims that uncorroborated and untested testimo-
+ny and hearsay testimony cannot constitute substantial evi-
+dence.  Although the Court in Consolidated Edison did say in 
+dicta that "[m]ere uncorroborated hearsay or rumor does not 
+constitute substantial evidence," 305 U.S. at 230, the Court 
+has long since made clear that this statement was "not a 
+blanket rejection by the Court of administrative reliance on 
+
+hearsay irrespective of reliability and probative value," Rich-
+ardson, 402 U.S. at 407;  hence in that case the Court 
+concluded that unsworn doctors' examination reports, contra-
+dicted by direct medical testimony, constituted substantial 
+evidence upon which an agency could deny disability insur-
+ance benefits under the Social Security Act.  Id. at 402.  
+Moreover, we have held specifically that a complaint proceed-
+ing brought under the Communications Act may be resolved 
+solely upon affidavits submitted by the parties, without allow-
+ing discovery, see American Message Ctr. v. FCC, 50 F.3d 35, 
+41 (D.C. Cir. 1995);  administrative agencies may consider 
+hearsay evidence as long as it "bear[s] satisfactory indicia of 
+reliability," Crawford, 50 F.3d at 49;  and hearsay can consti-
+tute substantial evidence if it is reliable and trustworthy, id.
+
+     The propriety of the Commission's reliance upon Schroe-
+der's affidavit is particularly clear.  First, the affidavit, al-
+though technically hearsay, that is, an out of court statement 
+offered for the truth of the matter asserted, was made under 
+oath.  Second, the facts contained therein were undisputed.  
+EchoStar submitted no contradictory evidence -- indeed, no 
+evidence whatsoever except two magazine articles.  See Mot. 
+to Compel at 5-6.  If the Commission could not rely upon the 
+uncontested, sworn affidavit of a witness speaking from per-
+sonal knowledge, then one would be hard-pressed to under-
+stand why a district court may, upon the basis of a sworn 
+declaration, grant summary judgment under Federal Rule of 
+Civil Procedure 56.
+
+     2.   "Evidence" the Commission did not address
+          
+     EchoStar argues the Commission ignored evidence that 
+Comcast intended to evade the requirements of s 548(c).  In 
+this regard, EchoStar claims to have "proffered" the following 
+evidence:  (1) an admission by an unnamed Comcast represen-
+tative made at a July 23, 1998 meeting with the Commission;  
+and (2) a statement by Comcast President Brian Roberts, as 
+reported in Vanity Fair magazine.  Relying principally upon 
+Green v. Shalala, 51 F.3d 96 (7th Cir. 1995), EchoStar argues 
+that "[a]n agency determination that fails to grapple with 
+
+significant record evidence is not supported by substantial 
+evidence, and is moreover, arbitrary and capricious."
+
+     The Commission argues that it was under no obligation to 
+address the Vanity Fair article in its order because "[t]here 
+is nothing in Mr. Robert's [sic] alleged quotes [sic] to suggest 
+that Comcast did anything unfair or to cast doubt on the 
+claim of significant cost advantages from terrestrial delivery."  
+Comcast agrees with that assessment and goes on to point 
+out that there is no record evidence of an admission made at 
+a July 23, 1998 meeting.
+
+     Applying the standard that EchoStar suggests, we cannot 
+fault the Commission for having ignored any "significant 
+record evidence."  First, EchoStar points to no record evi-
+dence of a July 23, 1998 meeting, much less an admission at 
+such a meeting.  In its brief EchoStar refers to "evidence 
+that Comcast's refusal to deal with EchoStar was a 'purpose-
+ful decision related to competition.' "  It cites not to record 
+evidence, however, but to an allegation made by its counsel in 
+the Motion to Compel he submitted to the Bureau, which 
+motion conspicuously lacks any citation to evidence.  Thus, 
+even if the statement is relevant -- which is doubtful inas-
+much as it relates to Comcast's refusal to sell to EchoStar 
+and not to Comcast's decision to use terrestrial delivery -- 
+the Commission could properly ignore the unsupported asser-
+tion that the statement was made.
+
+     Second, the statement attributed to Roberts in Vanity Fair 
+lacks any probative value.  Consider:
+
+     The question now is whether Roberts can capitalize on an 
+     apparent loophole in the 1996 Telecommunications Act in 
+     order to lock up the Philly area's sports programming.  
+     "We don't like to use the words 'corner the market,' 
+     because the government watches our behavior," Roberts 
+     says with a laugh.  "Let's just say we've been able to do 
+     things before they're in vogue."
+     
+The New Establishment:  Brian Roberts, Vanity Fair, Oct. 
+1997, at 166.  Even if we assume the accuracy of the quota-
+tion, it says nothing about whether Comcast moved from 
+
+satellite to terrestrial delivery in order to evade the program 
+access requirements of s 548(c).  At most, Roberts concedes 
+that Comcast is taking advantage of SportsNet's not being 
+covered by s 548(c) because it is delivered terrestrially.
+
+     In its reply brief EchoStar argues for the first time before 
+this court that the Commission's finding that Comcast did not 
+intend to evade the requirements of s 548(c) is not supported 
+by substantial evidence because the Commission failed ade-
+quately to address (1) a letter from Comcast in which it 
+stated that SportsNet would not be distributed "on any 
+satellite delivered service in the Philadelphia market";  (2) 
+Schroeder's statement that Comcast refused to sell SportsNet 
+to EchoStar in order to enhance its value to other purchasers;  
+and (3) EchoStar's offer to "cover a share of the uplink costs" 
+of delivering SportsNet via satellite.  In the "Statement of 
+Facts" in its opening brief EchoStar noted that it had pre-
+sented the evidence to the Bureau, but it nowhere in that 
+brief faulted the Commission for failing adequately to address 
+this evidence.  Because the arguments to that effect were 
+raised for the first time in EchoStar's reply brief, they are 
+not properly before the court.  McBride v. Merrell Dow 
+Pharm., Inc., 800 F.2d 1208, 1210-11 (D.C. Cir. 1986).
+
+     3.   Failure to explain
+          
+     EchoStar contends that the Commission's decision should 
+be set aside as arbitrary and capricious because the Commis-
+sion failed in two respects to "articulate its reasons in a clear 
+and understandable manner."  First, the Commission stated, 
+"we agree with the Bureau that the facts alleged are not 
+sufficient to constitute" a violation of s 548(b), even though it 
+is clear that the Commission's decision relied upon facts found 
+by the Bureau.  See Commission Order at WW 13-14.  Second, 
+EchoStar questions the weight the Commission placed upon 
+the Bureau's finding that SportsNet "was not a service that 
+was moved from satellite to terrestrial distribution, but was in 
+fact a new service."  Id. p 14.  EchoStar argues that it ought 
+to be irrelevant whether programming "is moved to terrestri-
+al delivery" with an intent to evade access requirements or 
+whether "terrestrial delivery is used from the outset" with 
+
+that intent.  EchoStar also notes that some of the content on 
+SportsNet "had previously been distributed to cable systems 
+by satellite."
+
+     In response, the Commission confirms that its determina-
+tion that Comcast did not engage in unfair methods of 
+competition or unfair or deceptive acts or practices involved a 
+"factual inquiry."  The Commission gives no explanation, 
+however, for the statement in its order that the "facts al-
+leged" are insufficient to state a claim.  With respect to 
+EchoStar's second argument, the Commission fails to explain 
+why choosing terrestrial delivery from the outset with an 
+intent to evade would not give rise to a violation of s 548(b).  
+Comcast does not respond at all to EchoStar's arguments.
+
+     Although EchoStar is correct that the Commission said it 
+was evaluating the s 548(b) claim based upon the "facts 
+alleged" when clearly it relied upon the findings made by the 
+Bureau, the misstatement is immaterial.  Both the Commis-
+sion's reasoning and its actual holding "may reasonably be 
+discerned."  See Bowman Transp., Inc. v. Arkansas-Best 
+Freight System, Inc., 419 U.S. 281, 286 (1974).  As for 
+EchoStar's argument that the Commission inadequately ex-
+plained its reliance upon the Bureau's finding that SportsNet 
+is a new service, the Commission's conclusion that Comcast 
+chose terrestrial delivery for a valid business reason neces-
+sarily precluded holding that Comcast acted to evade the 
+requirements of s 548(c), regardless whether it switched an 
+existing service to terrestrial delivery (as EchoStar alleged) 
+or chose terrestrial delivery from the outset of a new service 
+(as the Commission found).  Making the obvious express 
+would have done no harm, but neither did leaving it implicit.
+
+B.   Discovery
+
+     EchoStar's Motion to Compel Production of Documents 
+was long on reasons the evidence before the Bureau was 
+already sufficient, and short on reasons discovery was neces-
+sary, but the essence of its rationale for discovery was the 
+observation that:  "[C]orroborative evidence about the unfair-
+ness of Comcast's conduct, as well as Comcast's motives ... 
+must necessarily lie in the exclusive custody of Comcast."  To 
+
+the extent the Bureau was responsive to EchoStar's conten-
+tion, its explanation was terse:  "EchoStar has not persuaded 
+us that discovery is necessary or that the record compiled 
+herein is insufficient."  Bureau Order p 31.  Thus, the Com-
+mission's sub silentio denial of EchoStar's Motion to Compel 
+must stand or fall upon the Bureau's statement that the 
+record was already sufficient to decide the case.
+
+     Without specifically attacking anything actually said in the 
+Bureau's order, EchoStar argues that the Agency's decision 
+to deny it discovery was arbitrary and capricious, denied it 
+due process of law, and violated EchoStar's right under 
+s 556(d) of the APA to submit rebuttal evidence.  EchoStar 
+does not appear to challenge the Commission's general rule 
+that discovery is available in program access cases only "on a 
+case-by-case basis as deemed necessary by the Commission 
+staff reviewing the complaint."  In the Matter of Implemen-
+tation of Sections 12 and 19 of the Cable Television Consum-
+er Protection and Competition Act of 1992, First Report & 
+Order, 8 F.C.C. Rcd. 3359, p 75 (1993).  Rather, EchoStar 
+seems to contend that denying it discovery in this case was 
+fundamentally unfair because "the Commission decided the 
+unfair practices claim based solely on Comcast's own asser-
+tions about its motives" and "[t]he only way for EchoStar to 
+meet its burden of proof regarding these motives was for the 
+FCC to allow discovery."
+
+     In response, the Commission invokes its general rule and 
+faults EchoStar's Motion to Compel upon a number of 
+grounds not even arguably relied upon by the Bureau.  The 
+Commission also argues, however, that EchoStar failed to 
+meet its burden of showing why discovery into Comcast's 
+motive for distributing SportsNet terrestrially was necessary 
+in light of the evidence before the Bureau that SportsNet was 
+a new service and that terrestrial delivery was less expensive 
+than satellite delivery, and EchoStar's failure to submit con-
+tradictory evidence.  Comcast adds the observation that 
+agency decisions regarding discovery are entitled to "extreme 
+deference."  Hi-Tech Furnace Sys., Inc. v. FCC, 224 F.3d 
+781, 789 (D.C. Cir. 2000).
+
+     Under a less deferential standard of review the cryptic 
+nature of the Bureau's decision might make this a close case.  
+According the Agency "extreme deference," however, its 
+"path may reasonably be discerned."  Bowman Transp., 419 
+U.S. at 286.
+
+     Although requiring a party to present evidence indicating 
+that discovery is necessary might in some circumstances place 
+that party in a difficult situation, that is not a concern in the 
+circumstances of this case.  EchoStar was free to put forward 
+evidence about distribution services rebutting, if it could, 
+Schroeder's assertions about the cost of terrestrial versus 
+satellite delivery;  and it could surely have submitted an 
+affidavit supporting its claim to have offered to pay for the 
+uplink and to have witnessed the statement allegedly made by 
+Comcast at a July 23 meeting.
+
+     In support of its suggestion that the denial of discovery in 
+this case violated its right to due process, EchoStar cites only 
+McClelland v. Andrus, 606 F.2d 1278 (D.C. Cir. 1979).  On 
+the facts of that case we held that the agency's refusal to 
+allow discovery of a particular document "could" violate due 
+process.  Id. at 1286.  Unlike EchoStar, McClelland was 
+faced with a severe deprivation at the hands of the Govern-
+ment, namely, termination of his employment.  Also unlike 
+EchoStar, McClelland was seeking a specific document 
+"uniquely relevant to [his] case."  Id.  Nothing about the 
+present case suggests that EchoStar has a constitutional right 
+to discovery.
+
+     Finally, EchoStar claims in a sentence that the Agency's 
+decision is contrary to s 556(d) of the APA, which provides 
+that "[a] party is entitled to ... submit rebuttal evidence."  5 
+U.S.C. s 556(d).  Neither logic nor authority supports Ech-
+oStar's claim that the statute imposes upon an agency the 
+obligation to order discovery upon demand so that a party 
+may seek rebuttal evidence to submit.  Nor are we at liberty 
+so to embroider the procedures of the APA.  See Vermont 
+Yankee Nuclear Power Co. v. NRDC, 435 U.S. 519, 524 
+(1978).
+
+                         III. Conclusion
+
+     Because the decision of the Commission is reasonable and 
+is supported by substantial evidence, EchoStar's petition for 
+review is
+
+                                                                 Denied.
+

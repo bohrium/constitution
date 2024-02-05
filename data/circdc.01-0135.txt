@@ -1,0 +1,450 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 10, 2001      Decided June 8, 2001 
+
+                           No. 01-5029
+
+      Pharmaceutical Research and Manufacturers of America, 
+                            Appellant
+
+                                v.
+
+    Tommy G. Thompson, in his official capacity as Secretary, 
+              United States Department of Health and
+                     Human Services, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 00cv02990)
+
+     Allen R. Snyder argued the cause for appellant.  With him 
+on the briefs were Darrel J. Grinstead and Jeffrey Pariser.
+
+     Ronald A. Shems argued the cause for appellee State of 
+Vermont Agency of Human Services.  With him on the brief 
+
+were Susan R. Harritt and Rebecca Ellis, Assistant Attor-
+neys General, State of Vermont.
+
+     Scott R. McIntosh, Attorney, U.S. Department of Justice, 
+argued the cause for the federal appellees.  With him on the 
+brief were Wilma A. Lewis, U.S. Attorney at the time the 
+brief was filed, and Barbara C. Biddle, Attorney.
+
+     G. Steven Rowe, Attorney General, and Paul Stern, Deputy 
+Attorney General, State of Maine, were on the brief for 
+amicus curiae State of Maine in support of appellee.
+
+     Before:  Sentelle, Rogers and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  The Medicaid statute requires phar-
+maceutical manufacturers to rebate a portion of the price of 
+their drugs as a condition for participating in Medicaid.  In 
+this case, pharmaceutical manufacturers challenge the De-
+partment of Health and Human Service's approval of a Ver-
+mont demonstration project requiring the manufacturers to 
+rebate a portion of the price of drugs purchased directly by 
+certain individuals who are not otherwise covered by the 
+state's Medicaid program.  Because Congress imposed the 
+rebate requirement in order to reduce the cost of the Medic-
+aid program, and because no Medicaid funds are expended 
+under the Vermont demonstration project and thus no Medic-
+aid savings produced by the required rebates, we conclude 
+that the Department lacked authority to approve the project.  
+We therefore reverse the district court's decision to the 
+contrary and remand for further proceedings.
+
+                                I
+
+     Funded jointly by the federal government and the states, 
+Medicaid pays medical expenses for low-income people.  
+Medicaid services are provided pursuant to plans developed 
+by the states and approved by the Secretary of Health and 
+Human Services.  42 U.S.C. s 1396a(a)-(b).  States pay doc-
+tors, hospitals, pharmacies, and other providers of medical 
+goods and services according to established rates.  The feder-
+al government then pays each state a statutorily established 
+
+share of "the total amount expended ... as medical assis-
+tance under the State plan."  Id. s 1396b(a)(1).  Medicaid 
+beneficiaries cannot be required to contribute more than a 
+"nominal" amount toward the cost of the benefits they re-
+ceive.  Id. s 1396o.
+
+     Pharmaceutical manufacturers participating in Medicaid re-
+bate to the states a portion of the price of drugs purchased 
+for Medicaid purposes.  Manufacturers do this because the 
+Medicaid statute, id. ss 1396-1396u, permits the federal gov-
+ernment to reimburse states only for drugs purchased from 
+manufacturers who have agreed to pay statutorily specified 
+rebates.  Id. s 1396r-8(a)(1).  Rebates equal the number of 
+units of a drug provided by a state's Medicaid program times 
+the greater of (1) the difference between the average price of 
+the drug and the lowest price its manufacturer gives any 
+wholesaler, provider, health maintenance organization, non-
+profit, or governmental entity, or (2) 15.1 percent of the 
+average manufacturer price.  See id. s 1396r-8(c)(1).  If the 
+average price of a manufacturer's drug has increased faster 
+than the consumer price index, the manufacturer must pay an 
+additional rebate for each unit of the drug equal to the 
+difference between the average price of the drug and the 
+price of the drug on July 1, 1990 (or the day the drug first 
+entered the market) adjusted to the consumer price index.  
+Id. s 1396r-8(c)(2).  So calculated, rebates ensure that states 
+get at least the best prevailing wholesale price--and possibly 
+even a much better price--for drugs they purchase for Medic-
+aid beneficiaries.  In language central to this case, section 
+1396r-8 provides that rebate agreements shall require manu-
+facturers to pay rebates on drugs for which "payment was 
+made under the State plan."  Id. s 1396r-8(b)(1)(A).
+
+     The Social Security Act, of which the Medicaid statute is a 
+part, authorizes HHS to approve experimental "pilot" or 
+"demonstration" projects that the Secretary determines are 
+"likely to assist in promoting the objectives of [Medicaid]."  
+Id. s 1315(a).  Although the Act authorizes the Secretary to 
+waive certain Medicaid requirements for such demonstration 
+projects, it does not authorize him to waive any requirements 
+of section 1396r-8's rebate provision or the requirement that 
+
+Medicaid beneficiaries contribute no more than a "nominal" 
+amount to the cost of medical benefits they receive.  See id. 
+s 1315(a)(1).
+
+     For several years, Vermont has administered demonstra-
+tion projects that extend pharmaceutical benefits to classes of 
+individuals not otherwise covered by Medicaid.  By letter 
+dated March 17, 2000, Vermont sought HHS approval to 
+"extend the Medicaid ... rebate structure" to nearly 70,000 
+new demonstration project beneficiaries, thus requiring phar-
+maceutical manufacturers to pay rebates on drugs purchased 
+by this group.  Known as the Pharmacy Discount Program, 
+or "PDP," the expanded services would be funded as follows:  
+Pharmacies would charge new beneficiaries the Medicaid 
+price of a given drug minus the estimated average rebate 
+Vermont receives for all drugs (approximately eighteen per-
+cent in 2000).  Vermont would pay the pharmacies the eigh-
+teen percent and then bill manufacturers for that amount.  
+As a result, PDP benefits would be paid not with funds 
+appropriated by Congress and the states for Medicaid ser-
+vices, but by beneficiaries (eighty-two percent) and drug 
+manufacturers (eighteen percent).  By letter dated November 
+3, 2000, HHS approved the PDP.
+
+     Appellant, the Pharmaceutical Research and Manufacturers 
+of America, whose members have entered into Medicaid 
+rebate agreements and so would be required to pay rebates 
+under the PDP, filed suit in the United States District Court 
+for the District of Columbia claiming that the program violat-
+ed two provisions of the Medicaid statute.  First, the manu-
+facturers argued that because the federal government and 
+Vermont pay nothing under the PDP, the program violates 
+the provision under which pharmaceutical manufacturers owe 
+rebates only for drugs "for which payment was made under 
+the State plan."  Id. s 1396r-8(b)(1)(A).  Second, pointing out 
+that program beneficiaries would pay for approximately 
+eighty-two percent of the price of their prescriptions, the 
+manufacturers argued that the PDP violates the requirement 
+that states charge Medicaid beneficiaries no more than a 
+"nominal" amount.  Id. s 1396o.  Seeking a preliminary in-
+junction, the manufacturers argued that if they refused to 
+
+make payments under the PDP, HHS could terminate their 
+eligibility to participate in the entire Medicaid program, but if 
+they made such payments, Vermont's sovereign immunity 
+would preclude them from recovering their money should 
+they ultimately prevail in the litigation.
+
+     The HHS Secretary, along with the Secretary of Vermont's 
+Agency of Human Services, who intervened as a defendant, 
+responded that "payment" means payment, and that even 
+though Vermont is reimbursed by manufacturers, it has still 
+made a payment under the ordinary understanding of that 
+word.  As to the manufacturers' nominal copayment claim, 
+the HHS Secretary argued that the manufacturers lacked 
+standing to represent the interests of PDP beneficiaries.  The 
+Secretary did not deny that manufacturers refusing to make 
+PDP rebate payments risked losing Medicaid eligibility na-
+tionwide, nor did the Vermont Secretary deny that sovereign 
+immunity would bar recovery of any rebates paid.
+
+     On January 17, 2001, sixteen days after Vermont began 
+implementing the PDP, the district court, concluding that the 
+manufacturers were unlikely to succeed on the merits, denied 
+their request for a preliminary injunction.  Pharm. Research 
+& Mfrs. of Am. v. United States, No. 2000-2990 (D.D.C. Jan. 
+17, 2001) (order denying preliminary injunction);  see also 
+Pharm. Research & Mfrs. of Am. v. United States, 135 
+F. Supp. 2d 1 (D.D.C. 2001).  Renewing the arguments they 
+made in the district court, the manufacturers appeal.
+
+                                II
+
+     According to the Vermont Secretary of Human Services, 
+"[p]rescription drug prices can place an enormous burden on 
+working Vermonters."  Intervenor's Br. at 58. "The unin-
+sured and under-insured," she explains, "are often unable to 
+obtain drugs because of the high cost....  Without the 
+assistance of the PDP, these individuals might forego obtain-
+ing these medicines, reduce the amount or frequency of their 
+prescriptions for financial reasons, or elect to obtain medi-
+cines by sacrificing other necessities."  Id. (internal quotation 
+omitted).  Our task, however, is neither to evaluate the PDP's 
+
+policy justification nor to determine whether the program 
+best serves the pharmaceutical needs of the poor.  Cf. Robert 
+Pear, States Creating Plans to Reduce Costs for Drugs, N.Y. 
+Times, Apr. 23, 2001, at A1 (describing various state programs 
+to help low-income elderly people buy prescription drugs).  
+We face a straightforward legal issue:  Did the Department 
+exceed its statutory authority by authorizing Vermont to 
+require pharmaceutical manufacturers to make rebates under 
+the PDP?
+
+     The manufacturers argue that the Department lacked au-
+thority to approve the PDP because, as they interpret the 
+statute, the payments Vermont makes to pharmacies are not 
+"payment[s] ... made under the State plan."  As they see it, 
+Vermont merely acts as a conduit for money received from 
+drug manufacturers, which could not possibly be what Con-
+gress meant by "payment":
+
+     [T]he only plausible reading of the "payment" require-
+     ment is that the State must make an actual outlay of 
+     funds....  Had Congress wanted Medicaid rebates to be 
+     triggered by loans, pass-throughs, or individual beneficia-
+     ries' outlays, it would have said as much.  The Act 
+     cannot reasonably be interpreted such that the only 
+     "payment ... under a state plan" necessary to justify a 
+     manufacturer rebate is the manufacturer rebate itself.
+     
+Appellant's Opening Br. at 22.  The HHS Secretary responds 
+that Vermont does make payments:  it pays approximately 
+eighteen percent of the price of drugs purchased by PDP 
+beneficiaries.  Citing a dictionary, the Secretary argues that 
+"[t]o say that Vermont is not making a 'payment' to pharma-
+cies when it pays them for the drugs they dispense to PDP 
+participants is to abandon any ordinary understanding of the 
+meaning of 'payment.' "  Appellees' Br. at 24.  The fact that 
+Vermont gets reimbursed, the Secretary asserts, does not 
+mean that Vermont's outlays of funds are not payments:  "if 
+an automobile owner pays a garage to repair the owner's car, 
+the owner has made a payment to the garage;  if the owner 
+later receives a check from his insurance company that covers 
+
+the cost of the repairs, it hardly follows that he no longer has 
+made any payment."  Id. at 25.
+
+     To resolve this debate, we proceed in accordance with 
+Chevron U.S.A. Inc. v. Natural Resources Defense Council, 
+Inc., asking first "whether Congress has directly spoken to 
+the precise question at issue."  467 U.S. 837, 842 (1984).  If it 
+has, "that is the end of the matter;  for the court, as well as 
+the agency, must give effect to the unambiguously expressed 
+intent of Congress."  Id. at 842-43.  If we find the statute 
+either silent or ambiguous with respect to the precise ques-
+tion at issue, we proceed to the second step of Chevron 
+analysis, asking "whether the agency's answer is based on a 
+permissible construction of the statute."  Id. at 843.  At this 
+stage of Chevron review, we afford substantial deference to 
+the agency's interpretation of statutory language.  Id. at 844.  
+Of course, not all agency interpretations of statutes warrant 
+Chevron deference.  See Christensen v. Harris County, 120 
+S.Ct. 1655, 1662 (2000) ("Interpretations such as those in 
+opinion letters--like interpretations contained in policy state-
+ments, agency manuals, and enforcement guidelines, all of 
+which lack the force of law--do not warrant Chevron-style 
+deference.") (internal citations omitted).  In this case, howev-
+er, we need not decide whether the Department's approval of 
+the PDP would be entitled to Chevron deference, for using 
+traditional tools of statutory interpretation--text, structure, 
+purpose, and legislative history, see Bell Atl. Tel. Cos. v. FCC, 
+131 F.3d 1044, 1047 (D.C. Cir. 1997)--we conclude that Con-
+gress has "directly spoken to the precise question at issue"; 
+that is, whether "payment" includes expenditures that are 
+fully reimbursed by manufacturer rebates.
+
+     We agree with the Secretary that our inquiry begins with 
+the words of the statute.  But a word's "ordinary understand-
+ing" is not always controlling.  Words draw meaning from 
+context.  Consider Article III, Section 1 of the Constitution:  
+"Judges ... shall hold their Offices during good Behaviour."  
+Although the dictionary includes "conformity with ... the 
+norms of good manners or social decorum" among its defini-
+tions of "behavior," Webster's Third New International 
+Dictionary 199 (1993), no one would suggest that judges be 
+
+removed for failing to observe Emily Post's standards of 
+etiquette--the use of "behaviour" in the context of judges' 
+qualifications for office rules out such an interpretation.  In-
+deed, just last week the Supreme Court emphasized that 
+statutory terms can have a narrower meaning in context than 
+the same words have in common usage.  See Buckhannon 
+Bd. & Care Home, Inc. v. W. Va. Dep't of Health & Human 
+Res., No. 99-1848, 2001 WL 567728 (U.S. May 29, 2001) 
+(interpreting the word "prevailing" in the statutory term 
+"prevailing party" to have a narrower meaning than it has in 
+Webster's);  cf. K Mart Corp. v. Cartier, Inc., 486 U.S. 281, 
+319 (1988) (Scalia, J., concurring in part and dissenting in 
+part) ("While looking up the separate word 'foreign' in a 
+dictionary might produce the reading the majority suggests, 
+that approach would also interpret the phrase 'I have a 
+foreign object in my eye' as referring, perhaps, to something 
+from Italy.").
+
+     So too here.  Although as the Secretary's car repair exam-
+ple illustrates, the word "payment" is broad enough to include 
+reimbursed expenditures, consideration of the word's con-
+text--the statute's purpose and legislative history--reveals a 
+far narrower meaning.  Properly understood, "payment" here 
+means only payments with state or federal funds appropriat-
+ed for Medicaid expenditures;  absent such payments, phar-
+maceutical rebates would not contribute to reducing the cost 
+of the taxpayer-funded Medicaid program, and the legislative 
+history makes quite clear that Congress's purpose in requir-
+ing rebates was to do just that.  Senator Pryor, sponsor of 
+the rebate provision, explained in his statement introducing 
+the bill that rebates are designed to stop pharmaceutical 
+manufacturers from "bankrupting the coffers of the State 
+Medicaid drug programs."  136 Cong. Rec. 24,145 (1990).  The 
+provision "requires drug manufacturers to offer substantial 
+discounted prices to the Medicaid Program ... [b]ecause 
+there is no logical reason why, in an era of severe budget 
+constraints and social needs, the Medicaid Program should be 
+denied access to [the] same generous discounts" hospitals and 
+HMOs receive.  Id.  Rebates, the Senator estimated, would 
+
+"achieve in excess of $2.5 billion in savings" over five years.  
+Id.
+
+     The House Report on the bill likewise demonstrates that 
+Congress required rebates in order to reduce Medicaid ex-
+penditures:  "[T]he bill is framed to achieve significant Medic-
+aid savings...."  H.R. Rep. No. 101-881, at 98 (1990).  Re-
+sponding to projections that federal Medicaid payments for 
+prescription drugs would reach $2.8 billion in 1991, the House 
+Report declared that "Medicaid, the means-tested entitlement 
+program that purchases basic health care for the poor, should 
+have the benefit of the same discounts on single source drugs 
+that other large public and private purchasers enjoy."  Id. at 
+96.
+
+     This legislative history demonstrates that Congress im-
+posed the rebate requirement for two overlapping reasons:  to 
+reduce the cost of Medicaid and to prevent pharmaceutical 
+manufacturers from charging the government and taxpayers 
+above-market prices for Medicaid drugs.  Understood within 
+this context, "payment" excludes situations where no govern-
+ment funds are spent;  otherwise, manufacturers could be 
+required to pay rebates that neither "achieve significant 
+Medicaid savings" nor prevent pharmaceutical companies 
+from "bankrupting the coffers of the State Medicaid drug 
+programs."  Because Vermont's PDP payments are fully 
+reimbursed by manufacturer rebates, and because the rebates 
+produce no savings for the Medicaid program, the state's 
+payments to pharmacies are not "payments" within the mean-
+ing of the statute.
+
+     An additional feature of the Medicaid statute reinforces our 
+view that when Congress said "payment," it meant payment 
+with funds appropriated for Medicaid purposes.  Section 
+1396r-8(a)(4) provides that if a state had a rebate agreement 
+with a manufacturer before the federal rebate requirement 
+took effect, that agreement would "be considered to be ... in 
+compliance" with the Medicaid statute if "such agreement 
+provide[d] for a minimum aggregate rebate of 10 percent of 
+the State's total expenditures under the State plan for cover-
+age of the manufacturer's drugs."  42 U.S.C. s 1396r-8(a)(4).  
+
+This provision makes sense only if a state's expenditures for 
+drugs are determined by the price of the drugs, not by the 
+amount of expected rebates.  If, as in the PDP, the amount of 
+a state's expenditures were determined by the size of the 
+rebates the state expected, section 1396r-8(a)(4)'s minimum 
+would be entirely circular--it would require the rebate to be 
+at least ten percent of the state's expenditures, and those 
+expenditures would be equal to the rebate, suggesting that 
+the rebate would have to be at least ten percent of itself.  
+This provision, in other words, does not contemplate that 
+expenditures would be set at the amount of the rebates a 
+state receives;  rather, it assumes a net expenditure of funds 
+appropriated for Medicaid purposes in an amount determined 
+independently of the amount of the rebates.
+
+     The HHS Secretary argues that even if the PDP involves 
+no "payment[s]" within the meaning of the statute, Congress 
+gave the Department, as part of the power to approve 
+demonstration projects, authority to regard "costs of such 
+project[s] which would not otherwise be included as expendi-
+tures ... as expenditures under the State plan."  Id. 
+s 1315(a)(2)(A) (emphasis added).  Yet in its March 17 letter 
+seeking approval of the PDP, Vermont assured the Depart-
+ment that "there will be no ... cost to the program."  
+Because manufacturer rebates reimburse Vermont for all 
+PDP payments, the only cost the state arguably incurs is 
+"forgone interest" from "the significant delay between the 
+time that Vermont pays pharmacies and the time that it 
+receives corresponding rebates."  Appellees' Br. at 25;  
+Pharm. Research & Mfrs. of Am., 135 F. Supp. 2d at 14 
+("[T]he state could have earned interest on the funds if they 
+were collected from taxpayers but not advanced to the phar-
+macies on behalf of the manufacturers.").  Even assuming the 
+Department may regard the cost of foregone interest as an 
+expenditure or payment, however, here it is not a payment 
+for pharmaceuticals.  Under the PDP, Vermont makes pay-
+ments to pharmacies and incurs the interest cost in order to 
+trigger the rebate requirement.  Put another way, Vermont's 
+foregone interest cost is the cost of extending the manufac-
+turers' rebate obligations to drug purchases made by individ-
+
+uals not otherwise covered by the state's Medicaid program.  
+Yet the statute requires rebates only for "drugs ... for which 
+payment was made under the State plan."  42 U.S.C. 
+s 1396r-8(b)(1)(A) (emphasis added).  The Department has 
+no statutory authority to treat the cost of providing rebate 
+benefits to non-Medicaid Vermonters as payment for outpa-
+tient drugs.
+
+     Perhaps Congress could require manufacturers to pay re-
+bates when no funds appropriated for Medicaid purposes 
+were actually expended.  Perhaps Congress could authorize 
+HHS to accomplish directly what it has done indirectly 
+through the PDP--require pharmaceutical manufacturers to 
+provide substantial discounts to individuals not otherwise 
+covered by state Medicaid programs.  But because it has 
+done neither, and because Vermont makes no "payments" 
+within the meaning of section 1396r-8, the Department lacked 
+authority to approve the PDP.
+
+     In reaching this conclusion, we recognize that nothing in 
+the statute's language or legislative history suggests that 
+Congress considered the possibility of requiring rebates 
+where no Medicaid funds are expended.  But because we 
+think it so obvious that Congress's purpose in requiring 
+manufacturer rebates was to reduce the cost of the Medicaid 
+program, we think that Congress's silence cannot provide a 
+basis for allowing the Department to extend the rebate 
+requirement to situations where, as here, rebates produce no 
+Medicaid savings.  Determining how to fund pharmaceutical 
+benefits for the poor and whether their cost should be shared 
+by pharmaceutical manufacturers is a responsibility that, 
+absent express congressional direction to the contrary, must 
+be left to Congress.
+
+                               III
+
+     Having no need to consider the manufacturers' alternative 
+argument that the PDP also runs afoul of the statute's 
+"nominal" copayment requirement, we reverse the decision of 
+
+the district court and remand for further proceedings consis-
+tent with this opinion.
+
+                                                            So ordered.
+
+                           

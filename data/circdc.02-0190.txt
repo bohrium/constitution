@@ -1,0 +1,629 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued May 3, 2002      Decided July 16, 2002 
+
+                           No. 01-5202
+
+                        Trans Union LLC, 
+                            Appellant
+
+                                v.
+
+                Federal Trade Commission, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 00cv02087)
+
+     Ernest Gellhorn argued the cause for the appellant.  Roger 
+L. Longtin and Stephen L. Agin were on brief.  Mary E. 
+Gately entered an appearance.
+
+     John F. Daly, Counsel, Federal Trade Commission, argued 
+the cause for the appellees.  Lawrence DeMille-Wagman and 
+Michael D. Bergman, Attorneys, Federal Trade Commission;  
+Jeanette Roach, Counsel, Federal Deposit Insurance Corpo-
+
+ration;  Alisa B. Klein and Mark B. Stern, Attorneys, United 
+States Department of Justice;  Rosa M. Koppel, Attorney, 
+United States Department of Treasury;  Thomas J. Segal, 
+Deputy Chief Counsel, and Elizabeth R. Moore, Counsel, 
+Office of Thrift Supervision;  and Katherine H. Wheatley, 
+Assistant General Counsel, Board of Governors of Federal 
+Reserve System, were on brief.  Richard M. Ashton, Associ-
+ate General Counsel, Board of Governors of Federal Reserve 
+System;  Gregory F. Taylor, Counsel, Federal Deposit Insur-
+ance Corporation;  and Larry J. Stein, Attorney, United 
+States Department of Treasury, entered appearances.
+
+     Bill Lockyer, Attorney General, State of California, and 
+Susan E. Henrichsen, Deputy Attorney General, State of 
+California, were on brief for the amici curiae in support of 
+the appellees.
+
+     Before:  Edwards, Henderson, and Garland, Circuit 
+Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  Trans Union, 
+LLC, a "credit reporting agency" (CRA) under the Fair 
+Credit Reporting Act (FCRA), 15 U.S.C. ss 1681 et seq.,1 
+challenges regulations promulgated by the Federal Trade 
+Commission (FTC) and other federal agencies2 to implement 
+__________
+     1 The FCRA defines a CRA as
+
+     any person which, for monetary fees, dues, or on a cooperative 
+     nonprofit basis, regularly engages in whole or in part in the 
+     practice of assembling or evaluating consumer credit informa-
+     tion or other information on consumers for the purpose of 
+     furnishing consumer reports to third parties, and which uses 
+     any means or facility of interstate commerce for the purpose of 
+     preparing or furnishing consumer reports.
+     
+15 U.S.C. s 1681a(f).  The parties agree that Trans Union comes 
+within this definition.  See Appellant's Br. at 3;  Appellees' Br. at 
+12.
+
+     2 The other federal agencies sued in this action are the Board of 
+Governors of the Federal Reserve System, the Office of the Comp-
+troller of the Currency, the Office of Thrift Supervision, the Federal 
+
+the privacy provisions of the Gramm-Leach-Bliley Act 
+(GLBA), Pub. L. No. 106-102, 113 Stat. 1338 (1999) (codified 
+at 12 U.S.C. ss 6801 et seq.).  Trans Union contends the 
+regulations unlawfully restrict a CRA's ability to disclose and 
+reuse certain consumer information because (1) a CRA is not 
+a "financial institution" subject to the FTC's rulemaking 
+authority under the GLBA;  (2) the regulations' definition of 
+the statutory term "personally identifiable financial informa-
+tion" (PIFI) is overbroad;  (3) the regulations' restrictions on 
+reuse of information are inconsistent with the GLBA;  and (4) 
+the challenged regulations infringe Trans Union's right of 
+free speech under the First Amendment to the United States 
+Constitution.  The district court rejected these challenges 
+and upheld the regulations.  For the reasons set out below, 
+we affirm the district court's decision.
+
+                                I.
+
+     The Congress enacted the GLBA in order "[t]o enhance 
+competition in the financial services industry," Pub. L. No. 
+106-102, 113 Stat. at 1338, by "eliminat[ing] many Federal 
+and State law barriers to affiliations among banks and securi-
+ties firms, insurance companies, and other financial service 
+providers," H.R. Conf. Rep. No. 106-434 at 1 (1999).  Title V 
+of the GLBA contains a number of provisions designed to 
+protect the privacy of "nonpublic personal information" (NPI) 
+that consumers provide to financial institutions, see 15 U.S.C. 
+ss 6801-6809, reflecting "the policy of the Congress that each 
+financial institution has an affirmative and continuing obli-
+gation to respect the privacy of its customers and to protect 
+the security and confidentiality of those customers' nonpublic 
+personal information," 15 U.S.C. s 6801(a).  The GLBA re-
+stricts the ability of a "financial institution" to disclose NPI to 
+a nonaffiliated third party by requiring (subject to certain 
+exceptions not pertinent here) that the financial institution 
+provide the consumer with notice of the institution's disclo-
+
+__________
+Deposit Insurance Corporation and the National Credit Union 
+Administration.  This opinion will refer to the appellee agencies, 
+collectively, as the FTC.
+
+sure policies and the opportunity for the consumer to "opt 
+out" of disclosure.  Id.  s 6802(a)-(b), (e).  The GLBA fur-
+ther mandates that an unaffiliated third party recipient of 
+NPI "shall not, directly or through an affiliate of such receiv-
+ing third party, disclose such information to any other person 
+that is a nonaffiliated third party of both the financial institu-
+tion and such receiving third party, unless such disclosure 
+would be lawful if made directly to such other person by the 
+financial institution."  Id.  s 6802(c).
+
+     To implement its disclosure restrictions, the GLBA gives 
+the FTC and other agencies broad rulemaking authority:
+
+     (a) Regulatory authority
+     
+          (1) Rulemaking
+          
+          The Federal banking agencies, the National Credit 
+          Union Administration, the Secretary of the Treasury, 
+          the Securities and Exchange Commission, and the 
+          Federal Trade Commission shall each prescribe, after 
+          consultation as appropriate with representatives of 
+          State insurance authorities designated by the National 
+          Association of Insurance Commissioners, such regula-
+          tions as may be necessary to carry out the purposes of 
+          this subchapter with respect to the financial institu-
+          tions subject to their jurisdiction under section 6805 of 
+          this title.
+          
+15 U.S.C. s 6804(a)(1).  Section 6805(a) further provides for 
+enforcement of both the GLBA and the regulations promul-
+gated pursuant thereto "by the Federal functional regulators, 
+the State insurance authorities, and the Federal Trade Com-
+mission with respect to financial institutions and other per-
+sons subject to their jurisdiction under applicable law," as 
+described in section 6805(a).  Id. s 6805(a).  The first six 
+paragraphs of section 6805(a) specify under what authority 
+and by which agencies the GLBA and the regulations are to 
+be enforced against banks, savings associations, commercial 
+lending companies, credit unions, securities brokers and deal-
+ers, investment companies, investment advisers and insurance 
+providers.  See id. U.S.C. s 6805(a)(1)-(6).  The final, catchall 
+paragraph of section 6805(a) mandates enforcement "[u]nder 
+
+the Federal Trade Commission Act by the Federal Trade 
+Commission for any other financial institution or other person 
+that is not subject to the jurisdiction of any agency or 
+authority under paragraphs (1) through (6)."  Id. 
+s 6805(a)(7).  CRAs are not among the entities identified in 
+the first six paragraphs.
+
+     On May 24, 2000 the FTC published its Final Rule on 
+"Privacy of Consumer Financial Information," 65 Fed. Reg. 
+33,646, setting forth regulations comparable to and consistent 
+with those promulgated by other federal agencies.  See 65 
+Fed. Reg. at 33,646 n.3.3  On August 30, 2000 Trans Union 
+filed an action in the district court challenging the FTC's 
+regulations on the grounds, inter alia, that (1) a CRA is not a 
+"financial institution" subject to the FTC's rulemaking au-
+thority under 15 U.S.C. s 6804(a)(1);  (2) the FTC overbroad-
+ly defined PIFI;  (3) the regulations' restrictions on reuse of 
+consumer information are inconsistent with the GLBA;  and 
+(4) the regulations violate Trans Union's First Amendment 
+free speech right.  In a memorandum opinion and order filed 
+April 30, 2001, the district court rejected all of Trans Union's 
+objections and granted summary judgment in the agencies' 
+favor.  See Individual References Serv. Group, Inc. v. FTC, 
+145 F. Supp. 2d 6 (D.D.C. 2001).  Trans Union filed a notice 
+of appeal on June 20, 2001 challenging the regulations on the 
+four grounds enumerated above.
+
+                               II.
+
+     The court reviews the district court's summary judgment 
+decision de novo and "we may affirm only if 'there is no 
+genuine issue as to any material fact [and] the moving party 
+is entitled to judgment as a matter of law.' "  Gilvin v. Fire, 
+259 F.3d 749, 756 (D.C. Cir. 2001) (quoting Anderson v. 
+Liberty Lobby, Inc., 477 U.S. 242, 247 (1986) (quoting Fed. R. 
+
+__________
+     3 We hereafter expressly address only the regulations adopted by 
+the FTC because it is the agency with jurisdiction over CRAs and 
+thus with authority to enforce the GLBA and regulations promul-
+gated thereunder against appellant Trans Union under 15 U.S.C. 
+s 6805(a)(6).
+
+Civ. P. 56(c))).  We conclude the FTC is entitled to summary 
+judgment under this standard and therefore affirm the dis-
+trict court.  We address each of Trans Union's arguments 
+seriatim.
+
+                  A. Authority to Regulate CRAs
+
+     First, Trans Union asserts the FTC lacks authority to 
+promulgate regulations governing CRAs because a CRA is 
+not a "financial institution" subject to the FTC's regulatory 
+authority under 15 U.S.C. s 6804(a)(1).  In reviewing the 
+FTC's interpretation of the GLBA, we use the familiar Chev-
+ron analysis:
+
+     If ... " 'Congress has directly spoken to the precise 
+     question at issue,' " we "must give effect to Congress's 
+     'unambiguously expressed intent.' " Secretary of Labor v. 
+     [Fed. Mine Safety & Health Review Comm'n], 111 F.3d 
+     913, 917 (D.C. Cir. 1997) (quoting Chevron USA, Inc. v. 
+     Natural Resources Defense Council, Inc., 467 U.S. 837, 
+     842, 104 S.C. 2778, 81 LED.2d 694 (1984)).  "If 'the 
+     statute is silent or ambiguous with respect to the specific 
+     issue,' we ask whether the agency's position rests on a 
+     'permissible construction of the statute.' "  Id. (quoting 
+     Chevron, 467 U.S. at 843, 104 S.C. 2778).
+     
+National Multi Housing Council v. EPA, 292 F.3d 232, ___ 
+(D.C. Cir. 2002) (quoting Cyprus Emerald Resources Corp. v. 
+Fed. Mine Safety & Health Review Comm'n, 195 F.3d 42, 45 
+(D.C. Cir. 1999)).  To the extent that the statutory term 
+"financial institution" may be ambiguous, we believe the FTC 
+reasonably construed the term to apply to a CRA.
+
+     Section 6809 of title 15 defines "financial institution" as 
+"any institution the business of which is engaging in financial 
+activities as described in section 1843(k) of Title 12."  Section 
+1843(k)(4) of title 12 in turn defines "activities that are 
+financial in nature" to include "[e]ngaging in any activity that 
+the [Federal Reserve] Board has determined, by order or 
+regulation that is in effect on November 12, 1999, to be so 
+closely related to banking or managing or controlling banks 
+as to be a proper incident thereto (subject to the same terms 
+
+and conditions contained in such order or regulation, unless 
+modified by the Board)."  On February 28, 1997, the Federal 
+Reserve Board promulgated a regulation, still "in effect on 
+November 12, 1999," which expressly identifies as among 
+"activities ... so closely related to banking or managing or 
+controlling banks as to be a proper incident thereto" those 
+activities that "are usual in connection with making, acquir-
+ing, brokering or servicing loans or other extensions of cred-
+it," including:
+
+     Credit bureau services. Maintaining information related 
+     to the credit history of consumers and providing the 
+     information to a credit grantor who is considering a 
+     borrower's application for credit or who has extended 
+     credit to the borrower.
+     
+Bank Holding Companies and Change in Bank Control (Reg-
+ulation Y), 62 Fed. Reg. 9290, 9329 (1997) (codified at 12 
+C.F.R. s 225.28(b)(2)(v)).  Because the Federal Reserve 
+Board's regulation characterizes credit bureau services as "so 
+closely related to banking or managing or controlling banks 
+as to be a proper incident thereto," we conclude the FTC 
+permissibly determined that Trans Union, which provides 
+such services, see Appellant's Brief at 3, comes within the 
+GLBA's definition of a "financial institution"4 and is therefore 
+
+__________
+     4 Trans Union also contends the FTC is precluded from regulat-
+ing a CRA's disclosure of consumer report information by virtue of 
+the GLBA's "savings" clause:
+
+     [N]othing in this chapter shall be construed to modify, limit, or 
+     supersede the operation of the Fair Credit Reporting Act and 
+     no inference shall be drawn on the basis of the provisions of 
+     this chapter regarding whether information is transaction or 
+     experience information under section 1681a of this title.
+     
+15 U.S.C. s 6806.  Trans Union reasons that because the FCRA 
+authorizes a CRA to furnish consumer reports, the FTC may not 
+place restrictions on a CRA's disclosure of credit report informa-
+tion.  The FCRA, however, expressly limits a CRA's authority to 
+furnish reports to specific, enumerated types of information, see 15 
+U.S.C.  s 1681a(d), and to specific, enumerated "circumstances and 
+no other," 15 U.S.C. s 1681b(a).  Thus, the savings clause does not 
+
+subject to its rulemaking authority under 15 U.S.C. 
+s 6804(a)(1).
+
+            B. Definition of "Personally Identifiable 
+                         Financial Information"
+
+     Next, Trans Union challenges the FTC's definition of PIFI.  
+Both the GLBA and the regulations define NPI5 in terms of 
+PIFI.  The GLBA does not define PIFI but the FTC regula-
+tions define the term to mean
+
+     any information:
+     
+           (i) A consumer provides to you [the financial institu-
+          tion] to obtain a financial product or service from you;
+          
+           (ii) About a consumer resulting from any transaction 
+          involving a financial product or service between you 
+          and a consumer;  or
+          
+           (iii) You otherwise obtain about a consumer in con-
+          nection with providing a financial product or service to 
+          that consumer.
+_________
+prevent the FTC from restricting a CRA's disclosure either of 
+unenumerated types of information or under unenumerated circum-
+stances.
+     5 The GLBA defines NPI as
+     personally identifiable financial information--
+           (i) provided by a consumer to a financial institution;
+           
+          (ii) resulting from any transaction with the consumer or any 
+          service performed for the consumer;  or
+          
+          (iii) otherwise obtained by the financial institution.
+          
+ 15 U.S.C. s 6809(4)(A).  The FTC regulations define NPI as
+
+     (i) Personally identifiable financial information;  and
+     
+     (ii) Any list, description, or other grouping of consumers (and 
+     publicly available information pertaining to them) that is de-
+     rived using any personally identifiable financial information 
+     that is not publicly available.
+16 C.F.R. s 313.3(n)(1).
+
+16 C.F.R. s 313.3(o)(1)(i)-(iii).6  This broad definition of PIFI 
+"treat[s] any personally identifiable information as financial if 
+it was obtained by a financial institution in connection with 
+providing a financial product or service to a consumer."  65 
+Fed. Reg. at 33,658.  Trans Union challenges the definition 
+on two grounds, both of which we reject.
+
+     First, Trans Union asserts the FTC's definition of PIFI is 
+ultra vires because the GLBA does not expressly confer 
+authority to define PIFI as it does the term "publicly avail-
+able information."  See 15 U.S.C. s 6809(4)(B) (term "non-
+public personal information" "does not include publicly avail-
+able information, as such term is defined by the regulations 
+__________
+     6 The regulation provides the following examples of PIFI:
+          (A) Information a consumer provides to you on an applica-
+     tion to obtain a loan, credit card, or other financial product or 
+     service;
+          (B) Account balance information, payment history, overdraft 
+     history, and credit or debit card purchase information;
+          (C) The fact that an individual is or has been one of your 
+     customers or has obtained a financial product or service from 
+     you;
+         (D) Any information about your consumer if it is disclosed in 
+     a manner that indicates that the individual is or has been your 
+     consumer;
+     
+          (E) Any information that a consumer provides to you or that 
+     you or your agent otherwise obtain in connection with collect-
+     ing on, or servicing, a credit account;
+     
+          (F) Any information you collect through an Internet "cookie" 
+     (an information collecting device from a web server);  and
+     
+          (G) Information from a consumer report. 
+ 116 C.F.R. 313.3(o)(2)(i).  The regulation expressly excludes the 
+following from the definition of PIFI:
+
+          (A) A list of names and addresses of customers of an entity 
+     that is not a financial institution;  and
+          (B) Information that does not identify a consumer, such as 
+     aggregate information or blind data that does not contain 
+     personal identifiers such as account numbers, names, or ad-
+     dresses.
+116 C.F.R. 313.3(o)(2)(ii).
+
+prescribed under section 6804 of this title").  We disagree.  
+"Where ... Congress enacts an ambiguous provision within a 
+statute entrusted to the agency's expertise, it has 'implicitly 
+delegated to the agency the power to fill those gaps.' "  
+County of Los Angeles v. Shalala, 192 F.3d 1005, 1016 (D.C. 
+Cir. 1999) (quoting National Fuel Gas Supply Corp. v. 
+FERC, 811 F.2d 1563, 1569 (D.C. Cir. 1987);  citing Chevron, 
+467 U.S. at 843-44);  see also Women Involved in Farm 
+Economics v. USDA, 876 F.2d 994, 1000-01 (D.C. Cir. 1989) 
+(noting "the presumptive delegation to agencies of authority 
+to define ambiguous or imprecise terms we apply under the 
+Chevron doctrine"), cert. denied, 493 U.S. 1019 (1990).  Thus,
+
+     administrative implementation of a particular statutory 
+     provision qualifies for Chevron deference when it appears 
+     that Congress delegated authority to the agency general-
+     ly to make rules carrying the force of law, and that the 
+     agency interpretation claiming deference was promulgat-
+     ed in the exercise of that authority.  Delegation of such 
+     authority may be shown in a variety of ways, as by an 
+     agency's power to engage in adjudication or notice-and-
+     comment rulemaking, or by some other indication of a 
+     comparable congressional intent.
+     
+United States v. Mead Corp., 533 U.S. 218, 226-27 (2001).  
+The GLBA is silent on the meaning of PIFI and, as is 
+apparent from the parties' differing positions and from our 
+discussion of the term's meaning infra, the term itself is not 
+without ambiguity.  Accordingly, we conclude that the FTC is 
+authorized to define PIFI and that its definition is entitled to 
+Chevron deference, given the broad rulemaking authority the 
+GLBA confers on the FTC (and the other agencies) to 
+"prescribe ... such regulations as may be necessary to carry 
+out the purposes of [the act] with respect to the financial 
+institutions subject to their jurisdiction under section 6805 of 
+this title."  15 U.S.C. s 6804(a)(1).
+
+     Trans Union next challenges the FTC's definition of PIFI 
+insofar as it encompasses information appearing in consumer 
+credit report headers, such as name, address, telephone num-
+ber and social security number, which, Trans Union contends, 
+is not "financial" information and therefore does not come 
+
+within the GLBA's definition of NPI as "personally identifi-
+able financial information."  15 U.S.C. s 6809(4)(A) (empha-
+sis added).  Because, as noted above, the GLBA is silent on 
+the meaning of PIFI, we review the FTC's interpretation of 
+the term under Chevron only to determine if it is a permissi-
+ble one.  We conclude that it is.
+
+     Trans Union contends the term "financial" in PIFI must be 
+given its "plain meaning" and therefore must be applied only 
+to information that "describes [an individual's] financial condi-
+tion."  Appellant's Br. at 21.  We disagree.  The dictionary 
+defines "financial" expansively to mean "relating to finance 
+and financiers."  Webster's Third New Int'l Dictionary 851 
+(1993);  see also V Oxford English Dictionary 921 (2d ed.1989) 
+(defining "financial" as "[o]f, pertaining, or relating to finance 
+or money matters").  Given the breadth of the definition, we 
+cannot conclude the Congress unambiguously intended the 
+restrictive "plain meaning" Trans Union espouses.  Similarly, 
+we cannot rule out the FTC's broad interpretation of "finan-
+cial" to encompass any information that "is requested by a 
+financial institution for the purpose of providing a financial 
+product or service," 65 Fed. Reg. at 33,658, inasmuch as all 
+such information can be fairly characterized as "relating to 
+finance and financiers."  The FTC explained that its "ap-
+proach is consistent with the broad definition of 'financial 
+institution' used in the statute, which encompasses not only 
+traditional financial activities (such as banks, mortgage lend-
+ers, finance companies), but also a large number of entities 
+that engage in activities not traditionally considered financial 
+(such as financial career counselors, insurance companies, and 
+data processors)."  65 Fed. Reg. at 33,658.  While the FTC 
+could have defined "financial" more narrowly, the meaning it 
+chose is nevertheless a permissible one.  Accordingly, under 
+Chevron, we defer to the FTC's interpretation.
+
+                      C. "Reuse" Regulation
+
+     Next, Trans Union raises two objections to the "reuse" 
+restrictions set out in 16 C.F.R. s 313.11 which limit the 
+manner in which a third party, such as a CRA, may "use" 
+information it receives from a financial institution, as, for 
+
+example, in a credit report request.  We reject each chal-
+lenge.
+
+     First, Trans Union contends the regulation exceeds the 
+FTC's authority under the GLBA because it prohibits a CRA 
+from using "aggregated information" about consumers, which 
+contains no "personally identifiable" information, while 15 
+U.S.C. s 6802(c) prohibits a third party from reusing only 
+"nonpublic personal information."  We reject this challenge 
+as not yet ripe.
+
+     "To determine whether a controversy is ripe for judicial 
+review the court must evaluate 'the fitness of the issues for 
+judicial decision and the hardship to the parties of withhold-
+ing court consideration.' "  General Elec. Co. v. EPA, 290 
+F.3d 377, 380 (D.C. Cir. 2002) (quoting Abbott Labs. v. 
+Gardner, 387 U.S. 136, 149 (1967)).  Whether the FTC may 
+lawfully prevent disclosure of aggregated data by CRAs is 
+plainly not yet fit for judicial decision.  The FTC (as well as 
+the other agencies) has not determined whether or to what 
+extent aggregation should be considered "use" within the 
+meaning of 16 C.F.R. s 313.11.  See Appellees' Br. at 44 n.26 
+("None of the agencies has taken any enforcement action or 
+issued any formal guidance on such issues.");  5/3/2002 Oral 
+Arg. Tr. at 42 ("[I]t's an open issue at the agencies.  I think if 
+you look at the rule-making record, the statement of basis 
+and purpose, it's quite clear that when the agencies were 
+promulgating the use restriction, aggregation was not even 
+discussed.").  Unless and until the FTC determines that use 
+includes aggregation, and at what level, the issue is not fit for 
+the court to consider and Trans Union suffers no hardship 
+from the court's withholding consideration of the issue.
+
+     Second, Trans Union contends the reuse regulation improp-
+erly prohibits CRAs from reusing account numbers for mar-
+keting purposes in violation of section 6802(d) which, Trans 
+Union contends, expressly exempts CRAs from all restric-
+tions on marketing account numbers.  We conclude the FTC 
+reasonably construed section 6802(d) otherwise.  Section 
+6802(d) establishes a flat prohibition on disclosure by a finan-
+cial institution of consumer account numbers with no provi-
+
+sion for waiver by the consumer pursuant to the opt-out 
+provisions in section 6802(b):  "A financial institution shall not 
+disclose, other than to a consumer reporting agency, an 
+account number or similar form of access number or access 
+code for a credit card account, deposit account, or transaction 
+account of a consumer to any nonaffiliated third party for use 
+in telemarketing, direct mail marketing, or other marketing 
+through electronic mail to the consumer."  15 U.S.C. 
+s 6802(d).  The FTC has interpreted the language "other 
+than to a consumer reporting agency" to create a narrow 
+exception that permits a financial institution to disclose an 
+account number to a CRA only for the specific marketing 
+purposes expressly authorized in section 605(c)(1)(B) of the 
+FCRA, namely "in connection with [a] credit or insurance 
+transaction that is not initiated by the consumer" if "the 
+transaction consists of a firm offer of credit or insurance," 15 
+U.S.C. s 1681b(c)(1)(B).  In other words, the FTC maintains, 
+the Congress inserted the exception into section 6802(d) 
+solely to prevent a conflict between this section and FCRA 
+s 605(c)(1)(B) which authorizes such marketing disclosure.  
+We find the FTC's interpretation is both plausible and consis-
+tent with the plain intent of section 6802(d) to more tightly 
+restrict disclosure of account numbers than of other NPI.  If 
+the exception were read as broadly as Trans Union advo-
+cates--to permit unfettered marketing use of an account 
+number by a CRA--the account number would enjoy less, not 
+more, protection than other NPI because it could be disclosed 
+without any opportunity for the consumer to opt out.
+
+                          D. Free Speech
+
+     Finally, Trans Union contends the regulations' restrictions 
+on disclosure and reuse violate its First Amendment right of 
+free speech because they prevent Trans Union from dissemi-
+nating truthful nonpersonal information.  To the extent the 
+challenge goes to the reuse of aggregated information, we 
+conclude it is not ripe for the reasons set out supra, p. 12.  
+With regard to the other challenged restrictions, we conclude 
+Trans Union's First Amendment arguments are foreclosed by 
+our opinion in Trans Union Corp. v. FTC (Trans Union I), 
+
+245 F.3d 809, reh'g denied, 267 F.3d 1138 (D.C. Cir. 2001), 
+cert. denied, 122 S. Ct. 2386 (June 10, 2002).
+
+     First, Trans Union asserts the regulations do not survive 
+strict scrutiny review.  In Trans Union I, however, the court 
+expressly held that "information about individual consumers 
+and their credit performance" in Trans Union's marketing 
+lists is not subject to strict scrutiny because it "is solely of 
+interest to the company and its business customers and 
+relates to no matter of public concern."  245 F.3d at 818.  
+The information Trans Union wishes to disclose here likewise 
+implicates no public concern and therefore, as in Trans 
+Union I, "warrant[s] 'reduced constitutional protection.' "  Id. 
+(quoting Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc., 
+472 U.S. 749, 762 n.8 (1985)).
+
+     Trans Union next argues that even if its contemplated 
+marketing qualifies only as commercial speech, the regula-
+tions do not pass constitutional muster for several reasons.  
+Trans Union first contends the regulations do not advance a 
+substantial state interest.  See Central Hudson Gas & Elec. 
+Corp. v. Public Serv. Comm'n, 447 U.S. 557, 566 (1980) ("In 
+commercial speech cases, ... we ask whether the asserted 
+governmental interest is substantial.").  This argument as 
+well is precluded by Trans Union I which expressly recog-
+nized that the governmental interest in "protecting the priva-
+cy of consumer credit information" "is substantial."  245 F.3d 
+at 819.  Trans Union also contends the FTC did not satisfy 
+its burden of identifying a harm that the regulation alleviates 
+to a material degree.  See Greater New Orleans Broadcast-
+ing Assn., Inc. v. United States, 527 U.S. 173, 188 (1999) 
+(under Central Hudson test, "governmental body seeking to 
+sustain a restriction on commercial speech must demonstrate 
+that the harms it recites are real and that its restriction will 
+in fact alleviate them to a material degree") (quoting Eden-
+field v. Fane, 507 U.S. 761, 770-71 (1993)).  On rehearing in 
+Trans Union I, however, the court concluded that "the 
+government cannot promote its interest (protection of person-
+al financial data) except by regulating speech because the 
+speech itself (dissemination of financial data) causes the very 
+
+harm the government seeks to prevent."  Trans Union v. 
+FTC, 267 F.3d 1138, 1143 (D.C. Cir. 2002).  The same is true 
+here.  Finally, Trans Union asserts the regulations are over-
+broad.  See Edenfield, 507 U.S. at 767 ("laws restricting 
+commercial speech" must "be tailored in a reasonable manner 
+to serve a substantial state interest in order to survive First 
+Amendment scrutiny") (citing Board of Trustees of State 
+University of N.Y. v. Fox, 492 U.S. 469, 480 (1989);  Central 
+Hudson, 447 U.S., at 564).  As we noted on rehearing in 
+Trans Union I, regulations such as these, which "[a]im[ ] 
+directly at [their] intended target," "ha[ve] neither indirect 
+nor unintended effects on speech" and "therefore sweep[ ] 
+only as broadly as necessary to accomplish [their] goal:  
+protecting the privacy of personal financial information."  267 
+F.3d at 1142-43.  Trans Union has not proposed any specific 
+means by which "the Government could achieve its interests 
+in a manner that does not restrict speech, or that restricts 
+less speech."  Thompson v. Western States Med. Ctr., 122 
+S. Ct. 1497, 1506 (2002).  The only alternative Trans Union 
+suggests--allowing CRAs to use a notice and opt-out mecha-
+nism as other financial institutions do--is not significantly 
+narrower than the regulations' present restrictions under 
+which a consumer is already provided notice and opportunity 
+to opt out by the financial institution with which he conducts 
+the transaction in the first instance.  There is no reason to 
+believe a consumer would be more eager to relinquish his 
+privacy right to a CRA that subsequently obtains his NPI 
+than he was to the financial institution with which he initially 
+dealt.
+
+     For the foregoing reasons, the decision of the district court 
+is
+
+                                                                 Affirmed.
+
+                                                                    

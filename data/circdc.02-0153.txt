@@ -1,0 +1,755 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued October 5, 2001    Decided June 14, 2002 
+
+                           No. 00-5455
+
+               P.I.A. Michigan City Incorporated, 
+                    d/b/a Kingwood Hospital, 
+                            Appellant
+
+                                v.
+
+        Tommy G. Thompson, Secretary of the United States 
+            Department of Health and Human Services, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv02386)
+
+     Jonathan P. Neustadter argued the cause for appellant.  
+With him on the briefs was Patric Hooper.
+
+     Marcus H. Christ, Jr., Attorney, U.S. Department of 
+Health & Human Services, argued the cause for appellee.  
+With him on the brief were David S. Cade, Acting General 
+
+Counsel, Henry R. Goldberg, Deputy Associate General Coun-
+sel, David W. Ogden, Assistant Attorney General, U.S. De-
+partment of Justice, Wilma A. Lewis, U.S. Attorney at the 
+time the brief was filed, and Anthony J. Steinmeyer, Attor-
+ney, U.S. Department of Justice.
+
+     Before:  Ginsburg, Chief Judge;  Sentelle and Garland, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  P.I.A. Michigan City, Inc., 
+brought this action pursuant to 42 U.S.C. s 1395oo(f)(1) for 
+review of the Secretary's decision in a Medicare reimburse-
+ment matter.  The hospital contended that the Secretary 
+erred in denying it an exemption from the Medicare payment 
+limitations imposed under the Tax Equity and Fiscal Respon-
+sibility Act of 1982.  The district court denied the motion of 
+the hospital for summary judgment, granted the cross-motion 
+for summary judgment of the Secretary, and dismissed the 
+action.  Because we agree with the district court that the 
+Secretary's application of regulations was reasonable and the 
+Secretary's decision was supported by the record, we affirm 
+the grant of summary judgment in favor of the Secretary.
+
+                          I. Background
+
+A.   Statutory and Regulatory Background
+
+     This case involves proper calculation of a hospital's compen-
+sation or reimbursement under Part A of Medicare, the 
+federally funded and administered health insurance program 
+for the eligible elderly and disabled established by title XVIII 
+of the Social Security Act and codified as amended at 42 
+U.S.C. ss 1395-1395i-s (1994 & Supp. 1999).  The program 
+can make direct payment to providers of inpatient hospital 
+services, 42 U.S.C. s 1395d(a)(1), including psychiatric hospi-
+tals.  Id. s 1395d(c).  The statute describes hospitals eligible 
+to participate, including psychiatric hospitals, 42 U.S.C. 
+s 1395x(e)-(f), and permits a "distinct part" of an institution 
+to qualify as a psychiatric hospital.  Id. s 1395x(f).  The 
+statute also defines, and limits payment to, "reasonable 
+
+costs."  42 U.S.C. ss 1395x(v), 1395f(b)(1).  The statutory 
+distinction between a generic hospital ("general hospital" 
+hereinafter) and a psychiatric or other special purpose hospi-
+tal is material to the controversy before us because Congress 
+has chosen different means to attempt to limit the rise in 
+"reasonable costs" allowed for general hospitals than for 
+specialty hospitals.
+
+     Congress enacted a limitation on the extent to which Medi-
+care Part A hospital insurance could recognize an increase in 
+a hospital's otherwise "reasonable costs" in the Tax Equity 
+and Fiscal Responsibility Act of 1982, Pub. L. No. 97-248, 
+s 101(a)(1) (codified at 42 U.S.C. s 1395ww(b)(1994 & Supp. 
+1999)) ("TEFRA").  This approach allowed a percentage in-
+crease in reasonable costs each year.  The percentage was 
+specified in the statute;  the base of costs to which the 
+percentage applied, or "target amount," was a hospital-
+specific figure equal, for the hospital's first cost year under 
+the statute, to its actual operating costs in the preceding cost 
+year.  Each year thereafter, the target amount for that 
+hospital increased from its base year target amount by the 
+percentage specified in the statute, even if the hospital's 
+actual cost experience differed.  The target amount used in 
+the statutory formula for a particular hospital for a particular 
+subsequent year, in effect, was simply the product of that 
+hospital's base year costs and the cumulative statutory per-
+centages.  The next year, Congress partially replaced the 
+TEFRA limitation with a "prospective payment system" 
+(PPS) applicable to general hospitals but not to psychiatric 
+hospitals, distinct part psychiatric units, and other specialty 
+hospitals and distinct part units.  See 42 U.S.C. 
+s 1395ww(d)(1)(A)-(B).
+
+     Congress directed the Secretary to provide exemption from 
+the TEFRA limit for events beyond a hospital's control, and 
+authorized such other relief from the TEFRA limit as the 
+Secretary deemed appropriate.  42 U.S.C. s 1395ww(b)(4)(A).  
+Pursuant to that discretionary authority, the Secretary pro-
+mulgated the predecessor to 42 C.F.R s 413.40 in 1982 and 
+subsequently amended relevant portions of those regulations.  
+
+The present controversy relates to these regulations and 
+amendments as in effect for 1989-1990.
+
+     The Secretary's regulations provided a short term exemp-
+tion for a "new hospital," which the regulations defined at the 
+pertinent time as
+
+     a provider of inpatient hospital services that has operat-
+     ed as the type of hospital for which HCFA granted it 
+     approval to participate in the Medicare program * * * 
+     for less than three full years.
+     
+42 C.F.R. s 413.40(f)(1)(i)(1989).  ("HCFA" stands for Health 
+Care Financing Administration, an agency under the Secre-
+tary.  In the context of this opinion, distinctions between the 
+Secretary and HCFA are immaterial and not observed.)  The 
+regulation tethered this paragraph (f) exemption period to 
+admission of the hospital's first patient.  Id.  Paragraph (b) 
+of the same regulation provided that the base year of a 
+hospital or a distinct unit continued in effect "unless the 
+hospital * * * qualifies as a new hospital."  42 C.F.R. 
+s 413.40(b)(1)(1989) (rebase provision).
+
+     In 1992, the Secretary amended these paragraph (f) exemp-
+tion and paragraph (b) rebase provisions.  Changes to the 
+Hospital Inpatient Prospective Payment Systems, 57 Fed. 
+Reg. 39746 (Sept. 1, 1992).  The paragraph (f) new hospital 
+exemption provision was changed by shortening the three-
+year period and, more relevant to this controversy, by adding 
+a second, "has provided" criterion to the existing "has operat-
+ed" criterion:
+
+          For purposes of this section, a new hospital is a 
+     provider of hospital inpatient services that--
+     
+          (A) Has operated as the type of hospital for which 
+     HCFA granted it approval to participate in the Medicare 
+     program, under present or previous ownership (or both), 
+     for less than 2 full years;  and
+     
+          (B) Has provided the type of hospital inpatient ser-
+     vices for which HCFA granted it approval to participate 
+     in the Medicare program, for less than 2 years.
+     
+42 C.F.R. s 413.40(f)(1992).  The amendment also added the 
+following sentence to the existing rebase provision:
+
+     When the operational structure of a hospital or distinct 
+     unit changes (that is, a freestanding hospital becomes a 
+     distinct part unit or vice versa) the base period would be 
+     the first full 12-month cost reporting period effective 
+     with the revised Medicare certification classification.
+     
+42 C.F.R. s 413.40(b)(1) (1992).  With subsequent minor 
+changes in wording and format not material to this dispute, 
+these provisions persist to the present.  See 42 C.F.R. 
+s 413.40 (2001).
+
+B.   Factual Background
+
+     Plaintiff P.I.A. Michigan City, Inc., formerly known as 
+Kingwood Hospital, of Michigan City, Indiana ("Kingwood" 
+hereinafter), was an existing hospital that began participating 
+in Medicare in 1968 as a general, short-term acute care 
+hospital of 89 beds.  By 1984, Kingwood converted 36 of its 89 
+beds to psychiatric use and Medicare certified Kingwood as a 
+general acute-care hospital (subject to PPS payment regula-
+tion) with a distinct part psychiatric unit (subject to TEFRA 
+limit payment regulation).  By September 1985, Kingwood 
+had expanded its psychiatric unit to 58 of its 89 beds.  By 
+May 31, 1989, Kingwood's psychiatric unit engulfed the gen-
+eral-hospital remainder of its 89 beds.  Medicare recognized 
+Kingwood as a free-standing psychiatric hospital effective 
+June 1, 1989.
+
+     Accordingly, when the Secretary applied Kingwood's 1984 
+base-year TEFRA limit to its 1989-90 cost year to deny 
+Kingwood full recovery of its costs, Kingwood applied timely 
+for recognition of exempt "new hospital" status under para-
+graph (f) of 42 C.F.R. s 413.40, or at least a change in its 
+TEFRA limit base year from 1984 to 1989-90 under 
+s 413.40(b).  The Provider Reimbursement Review Board 
+rejected both requests.  See 42 U.S.C. s 1395oo(a);  Hearing 
+Decision, Kingwood Hospital, No. 93-0054 (Provider Reim-
+bursement Rev. Bd. Aug. 7, 1998), reprinted in Medicare & 
+Medicaid Guide (CCH) p 80,046 ("Board Decision" hereafter).  
+
+As the Secretary declined to review the matter further, 
+Kingwood's recourse was to the courts.  42 U.S.C. 
+s 1395oo(f).
+
+     Kingwood filed a civil action in the district court seeking 
+recognition of exempt new hospital status or alternatively a 
+new base year.  Both Kingwood and the Secretary moved for 
+summary judgment.  The district court denied Kingwood's 
+motion, granted the Secretary's, and dismissed Kingwood's 
+complaint.  Order, P.I.A. Michigan City, Inc. v. Shalala, No. 
+98-2386 (D.D.C. Oct. 27, 2000).  The district court held that 
+the Secretary's interpretations of the applicable regulations 
+were reasonable and her decisions supported by substantial 
+evidence.
+
+                           II. Analysis
+
+     Plaintiff's appeal presents the same alternative issues as 
+were before the Secretary and the district court:  First, 
+whether Kingwood was entitled to a new TEFRA base cost 
+reporting period beginning June 1, 1989 under 42 C.F.R. 
+s 413.40(b)(1) as in effect June 1, 1989, taking into account 
+any retroactive amendments thereto, if any, and evidence of 
+the Secretary's interpretation thereof.  Alternatively, wheth-
+er Kingwood was entitled to a new-hospital exemption as of 
+June 1, 1989 under 42 C.F.R. s 413.40(f)(1) as in effect June 
+1, 1989.
+
+     The standards for our review are well known.  We review 
+the district court's application of law de novo.  As did the 
+district court, we review the Secretary's interpretation and 
+application of her regulations for reasonableness and the 
+Secretary's findings for substantial support in the record.  
+See, e.g., Allentown Mack Sales & Service, Inc. v. NLRB, 522 
+U.S. 359, 377 (1998).
+
+A.   New Base Period
+
+     Kingwood argues that it is entitled to a more or less 
+automatic change of its base period, under authority of 
+s 413.40(b), from calendar year 1984 to the fiscal year June 1, 
+1989 through May 31, 1990 by reason of operational changes 
+
+that led to its June 1, 1989 change in Medicare certification 
+from a general hospital (subject to PPS) with a distinct-part 
+psychiatric unit (subject to TEFRA) to an exclusively psychi-
+atric, all-TEFRA hospital.  According to Kingwood, granting 
+such a change of base year following such a change in 
+operations and certification was the then-existing policy of the 
+Secretary, as evidenced, first, by the Secretary's 1992 amend-
+ment to "clarify" paragraph (b)(1), see 57 Fed. Reg. 23618, 
+23660 (June 4, 1992), by adding the language quoted in Part 
+I.A, supra, and second, by the Secretary's slightly earlier 
+May 1992 letter decision allegedly granting just such a new 
+base year to Dallas Rehabilitation Institute ("DRI").
+
+     The Review Board rejected Kingwood's argument.  The 
+Review Board began by searching the then-applicable regula-
+tions for language that supported an automatic change in 
+base year, but it found none in effect for a cost year begin-
+ning when Kingwood's did.  That decision evidences a reason-
+able interpretation by the Board, because the language of 
+paragraph (b) as it existed in 1989, prior to the 1992 and later 
+revisions, appears to refer only to change of base year in 
+paragraph (f) "new hospital" circumstances.  (Kingwood, of 
+course, seeks that paragraph (f) exemption as well, but as-
+serts in this argument that it has a right to paragraph (b) 
+relief as of 1989 independently of whether it obtains para-
+graph (f) relief.)  Nor does Kingwood appear fundamentally 
+to disagree with the Review Board's conclusion on this partic-
+ular point, as Kingwood's counsel conceded at oral argument 
+that Kingwood did not rely on the plain language of the pre-
+1992 text.
+
+     The Review Board did note, further, that the Secretary had 
+added a provision relating to changing base years in para-
+graph (j), 42 C.F.R. s 431.40(j) (now paragraph (i)), but that 
+provision became effective too late to benefit Kingwood, a 
+point Kingwood concedes.  The Review Board noted, finally, 
+Kingwood's argument that the 1992 amendment to paragraph 
+(b) was intended to "clarify" the existing paragraph (b).  The 
+preamble language upon which Kingwood relies states:
+
+     Therefore, to preclude hospitals from qualifying for a 
+     new hospital exemption based solely on such operational 
+     reorganizations, we are proposing to revise s 413.40(f) to 
+     specify that a hospital will qualify as a new hospital only 
+     if it has not previously provided the type of hospital 
+     inpatient services for which HCFA granted it approval to 
+     participate in the Medicare program.
+     
+          However, we also recognize that it would not be appro-
+     priate to subject these types of hospitals or distinct-part 
+     units to the [TEFRA Limit] that applied before the 
+     hospital's reorganization.  Therefore, when the opera-
+     tional structure of hospital or distinct unit changes (that 
+     is, a freestanding rehabilitation hospital becomes a dis-
+     tinct part or vice versa), we are proposing to revise 
+     s 413.40(b)(1) to clarify that the base period would be 
+     the first full 12-month period effective with the revised 
+     Medicare certification.
+     
+57 Fed. Reg. at 23,660 (emphasis supplied by Kingwood).  
+Kingwood argues that the Secretary's styling of the new 
+language as "clarification" must mean that the effect of the 
+amended regulation is the same as the prior language, and 
+that therefore, the pre-amendment language, applicable to 
+Kingwood, must reach the same result as would prevail after 
+the amendment.  The Review Board rejected that retroactivi-
+ty argument on the grounds that the same preamble express-
+ly provided that the regulations proposed had an effective 
+date of October 1992.  Accordingly, the Review Board dis-
+missed Kingwood's view that the single use of the word 
+"clarify" in the regulation preamble mandated retroactive 
+application of that portion of the regulation, notwithstanding 
+the effective date clause.  This final conclusion is not unrea-
+sonable, particularly as the usage cited by Kingwood is in the 
+context of an integrated six-paragraph discussion of the rea-
+sons for the third proposed change to the new hospital 
+exemption regulations, which Kingwood expressly argues is 
+not retroactive.  See generally 57 Fed. Reg. at 23,659-60.  
+Finally, the Review Board observed that Kingwood was not 
+entirely without relief under the then-effective regulations 
+because the 1989 version of paragraph (h), 42 C.F.R. 
+
+s 413.40(h)(1989) (codified as revised at 42 C.F.R. 
+s 413.40(g)(2001)), provided a mechanism for adjustment to 
+cost period data, including data in the base year itself, and 
+that in fact Kingwood had received some relief under that 
+provision.  Yet again the Review Board's interpretation of the 
+regulations is reasonable.
+
+     Unfortunately, the Review Board does not directly address 
+the DRI letter decision in this analysis.  The Review Board 
+did discuss that letter as the last item in the immediately 
+preceding section of its opinion, but only in discussing the 
+paragraph (f)(1) exemption.  The DRI letter decision in ques-
+tion is a three-paragraph response to an equally short inquiry 
+by DRI's financial intermediary as to whether DRI might be 
+eligible for a new base period because of its June 1, 1989 
+change in certification from an exclusively rehabilitation spe-
+cialty hospital to a general short-term hospital with a distinct 
+part rehabilitation unit.  (A rehabilitation hospital or unit is 
+subject to TEFRA limits, but a general short-term hospital is 
+subject to the PPS regime.)  The Director of the Office of 
+Payment Policy, a sub-subdivision of HCFA, replied that it 
+"would not be appropriate" to continue use of the TEFRA 
+base period formerly established for the free-standing reha-
+bilitation hospital for the rehabilitation unit because of an 
+unspecified change in "methodology in determining Medi-
+care's share of the costs of the different levels of patient care 
+services," and authorized a base period of June 1, 1989 to 
+May 31, 1990.  Letter from Charles R. Booth, Director, Office 
+of Payment Policy, Health Care Financing Administration to 
+Gene Brock, Senior Audit/Reimbursement Representative, 
+Medicare Administration, Aetna Life Insurance Co. (May 
+1992), Administrative Record at 110.  The short letter says 
+little else.
+
+     As noted above, the Review Board did not deal with this 
+letter at all in the portion of its opinion discussing this 
+paragraph (b) issue.  The Board's entire treatment of the 
+DRI letter in the last two sentences of the preceding section, 
+dismissing Kingwood's request for a paragraph (f) new hospi-
+tal exemption, is curt and cryptic.  The Board disregards the 
+letter because "the facts in the Texas case can be distin-
+
+guished from the facts in the current issue."  Board Decision 
+at 14.  At oral argument, neither counsel for Kingwood or for 
+the Secretary was able to provide content for this statement 
+with support in the record, and we have found none in the 
+record.
+
+     However, although it is incumbent on an agency to explain 
+itself, it is also incumbent on an appellant complaining of 
+inconsistency and capriciousness in the agency's explanation 
+of its treatment to bring before the reviewing court sufficient 
+particulars of how the appellant was situated, how the alleg-
+edly favored party was situated, and how such similarities as 
+may exist dictate similar treatment and how such dissimilari-
+ties as may exist are irrelevant or outweighed.  Kingwood on 
+the sparse record before us "has failed to establish convincing 
+inconsistencies between [the Secretary's] treatment of [King-
+wood] and other facilities."  Lomak Petroleum, Inc. v. Feder-
+al Energy Regulatory Commission, 206 F.3d 1193, 1198 (D.C. 
+Cir. 2000).  The DRI letter does not come close to filling this 
+gap.  The burden of proof lays the consequences on King-
+wood.  See id.  In these circumstances, the treatment of the 
+DRI letter is not a fatal flaw in the Review Board's otherwise 
+adequate rejection of Kingwood's arguments on this issue.
+
+B.   New Hospital Exemption
+
+     We now turn to Kingwood's alternative argument, that, if 
+not entitled to a new base period, it must certainly be entitled 
+to a new-hospital exemption.  As noted earlier, a new hospital 
+is one "that has operated as the type of hospital for which 
+HCFA granted it approval to participate in the Medicare 
+program * * * for less than three full years."  42 C.F.R. 
+s 413.40(f)(1)(i) (1989).  Kingwood argues that, by this lan-
+guage, the Secretary adopted a bright line test based on the 
+date of HCFA approval.  In Kingwood's view, the regulation 
+is clear that an institution can not have operated as a psychi-
+atric hospital until Medicare had recognized it as such.  King-
+wood supports this position by drawing to our attention the 
+additional operational standards for records and staff that 
+Medicare requires for its recognition, not just as a hospital, 
+but as a psychiatric hospital.  42 U.S.C. s 1395x(f)(3)-(4), 42 
+
+C.F.R. ss 482.60-482.62.  Kingwood also relies upon the 
+preamble to the original exemption from 1982 in which the 
+Secretary offered as a reason for the exemption that new 
+hospitals "commonly have unusually high operating costs per 
+case in the first year of operation."  47 Fed. Reg. at 43,282, 
+43,288 (Sept. 30, 1982).  Kingwood argues that an institution 
+like itself which changes its nature incurs costs in meeting the 
+additional requirements occasioned by the change so as to 
+come within the Secretary's rationale of increased operating 
+costs expressed in that preamble.  Thus, Kingwood concludes 
+that the Secretary's concern supports a bright-line test based 
+on date of certification.
+
+     The Review Board did not accept this bright line test and 
+peremptorily rejected exemption based on "recertification and 
+licensure change in and of itself."  Board Decision at 14.  The 
+critical facts for the Review Board were instead that King-
+wood "was primarily operating as a provider of psychiatric 
+services for over five years prior to its recertification as a free 
+standing psychiatric hospital" and "had used a majority of its 
+beds (eighty-nine percent) for psychiatric services during the 
+three years preceding its recertification on June 1, 1989."  Id.  
+The Review Board cited substantial record evidence for these 
+findings, which Kingwood does not challenge.  The only ques-
+tion is the legal relevance of these findings.
+
+     We hold that the Review Board's interpretation is reason-
+able and entitled to deference.  Kingwood claims that its 
+bright-line reading of the regulation is "compell[ing]" and 
+therefore bars deference, citing Thomas Jefferson University 
+v. Shalala, 512 U.S. 504, 512 (1994).  We do not agree.  
+Kingwood reminds us that neither the Review Board nor this 
+Court may focus on the phrase "has operated" and ignore the 
+balance of the regulatory sentence.  Cf. Lexecon Inc. v. 
+Milberg Weiss Bershad Hynes & Lerach, 523 U.S. 26, 35-36 
+(1998) (courts must construe a statute as a whole).  Kingwood 
+emphasizes that the regulation refers to a "new hospital" as 
+"hav[ing] operated as the type of hospital for which HCFA 
+granted it approval" for the requisite period.  42 C.F.R. 
+s 413.40(f).  Unquestionably, the "for which" phrase King-
+wood emphasizes modifies the "type of hospital" phrase, and 
+
+must be given effect.  But the Review Board appears to have 
+given it effect when it determined that Kingwood had been 
+"primarily operating as a provider of psychiatric services."  
+Board Decision at 14 (emphasis added).  The Review Board 
+clearly first determined that "psychiatric hospital" is the 
+"type of hospital for which HCFA granted [Kingwood] ap-
+proval to participate in the Medicare program" and then 
+inquired whether Kingwood had operated as such for less 
+than three full years.  42 C.F.R. s 413.40(f)(1)(i) (1989).  The 
+interpretation of the regulation embodied in that inquiry 
+takes into account the entire regulation.
+
+     Kingwood's contrary position that the entire regulatory 
+sentence must be read to refer not simply to a period of 
+operation as a psychiatric hospital, but to a period of opera-
+tion as a HCFA-approved psychiatric hospital is not com-
+pelled by the language of the regulation.  See Thomas Jeffer-
+son University, 512 U.S. at 512.  In fact, Kingwood's bright-
+line interpretation arguably is the less reasonable reading 
+because it effectively reads the verb "operated" out of the 
+sentence.  Kingwood might have had the necessarily "com-
+pell[ing]" reading if the Secretary had, in 1982, defined a new 
+hospital as one that had been "certified as the type of hospital 
+for which HCFA granted it approval to participate in the 
+Medicare program for less than three years," but the verb the 
+Secretary chose was operated, not certified or approved.  A 
+hospital can operate as a psychiatric hospital, that is, provide 
+psychiatric services, without Medicare approval.  No hospital 
+is required, at least by Medicare itself, to meet Medicare 
+criteria as such if the hospital does not seek payment from 
+Medicare, see 42 U.S.C. ss 1395f(a), 1395cc(b)(2)(B) (incorpo-
+rating section 1395x definitions), 1395cc(i), and we are not 
+aware of any other law or regulation, state or federal, that 
+requires a facility to have Medicare approval solely as a 
+requirement for providing psychiatric services to patients.  
+Indeed, quite the contrary.  42 U.S.C. s 1395.  A hospital 
+could be licensed by its state to offer psychiatric services 
+primarily or exclusively without seeking Medicare certifica-
+tion, and still be a psychiatric hospital.
+
+     Kingwood assumes that the term psychiatric hospital is a 
+term of Medicare art that necessarily entails satisfaction of all 
+the Medicare criteria, so that there is no meaningful distinc-
+tion in this statutory and regulatory environment between the 
+terms psychiatric hospital and HCFA-approved psychiatric 
+hospital, making psychiatric hospital necessarily imply 
+HCFA approval.  See 42 U.S.C. s 1395x(f) (defining psychiat-
+ric hospital).  Fundamentally, this is the same argument 
+raised in Memorial Rehabilitation Hospital of Santa Bar-
+bara v. Secretary of Health and Human Services, 65 F.3d 
+134, 137 & n.3 (9th Cir. 1995), with respect to the expression 
+type of provider in an earlier version of this regulation.  
+There, the institution claiming a new-hospital exemption was 
+a rehabilitation hospital that had, under prior ownership, 
+been only a distinct-part unit of another hospital and thus did 
+not meet the statutory definition of provider, including the 
+statutory definition of a hospital as a separately licensed 
+entity.  Thus, argued the institution, the Secretary was bound 
+by these definitions and the institution clearly was a new 
+provider because it never previously had met the definition of 
+provider at all.  The court rejected that argument on the 
+grounds that the Secretary's interpretation need only be 
+reasonable in light of the wording and purpose of the regula-
+tion, and the Secretary's generic interpretation of provider 
+satisfied that test because the plaintiff's predecessor had 
+offered and been certified for the same services.  See id.
+
+     For substantially the same reasons, the Secretary's implicit 
+interpretation, that the regulation in its 1989 form does not 
+use the term hospital in the phrase type of hospital in the 
+technical sense of the statutory definition, is reasonable.  The 
+essential fact distinguishing the Medicare definition of a 
+psychiatric hospital from any other type of hospital is the 
+type of services the institution primarily provides.  The stat-
+ute defines "hospital" for relevant purposes as an institution 
+which
+
+          (1) is primarily engaged in providing, by or under the 
+     supervision of physicians, to inpatients (A) diagnostic 
+     services and therapeutic services for medical diagnosis, 
+     treatment, and care of injured, disabled, or sick persons, 
+     
+     or (B) rehabilitation services for the rehabilitation of 
+     injured, disabled, or sick persons;
+     
+          (2) maintains clinical records on all patients;
+     
+          (3) has bylaws in effect with respect to its staff of 
+     physicians;
+     
+          (4) has a requirement that every patient with respect 
+     to whom payment may be made under this subchapter 
+     must be under the care of a physician;
+     
+          (5) provides 24-hour nursing service rendered or su-
+     pervised by a registered professional nurse, and has a 
+     licensed practical nurse or registered professional nurse 
+     on duty at all times;  except that until January 1, 1979, 
+     the Secretary is authorized to waive the requirement of 
+     this paragraph for any one-year period with respect to 
+     any institution, insofar as such requirement relates to the 
+     provision of twenty-four-hour nursing service rendered 
+     or supervised by a registered professional nurse (except 
+     that in any event a registered professional nurse must be 
+     present on the premises to render or supervise the 
+     nursing service provided, during at least the regular 
+     daytime shift), where immediately preceding such one-
+     year period he finds that--....
+42 U.S.C. s 1395x(e)(1).  The same statute defines "psychiat-
+ric hospital" as
+     an institution which--
+     
+          (1) is primarily engaged in providing, by or under the 
+     supervision of a physician, psychiatric services for the 
+     diagnosis and treatment of mentally ill persons;
+     
+          (2) satisfies the requirements of paragraphs (3) 
+     through (9) of subsection (e) of this section;
+     
+          (3) maintains clinical records on all patients and main-
+     tains such records as the Secretary finds to be necessary 
+     to determine the degree and intensity of the treatment 
+     provided to individuals entitled to hospital insurance 
+     benefits under part A of this subchapter;  and
+     
+          (4) meets such staffing requirements as the Secretary 
+     finds necessary for the institution to carry out an active 
+
+     program of treatment for individuals who are furnished 
+     services in the institution.
+     
+42 U.S.C. s 1395x(f)(1).  Other than the difference in services 
+provided, the only differences in definitions address require-
+ments of clinical records and staffing, which do not go to the 
+type of provider in the direct manner that the nature of 
+services provided does.  Accordingly, as did the Ninth Cir-
+cuit, we hold that the "type for which" phrase in the regula-
+tion does not compel technical Medicare usage rather than 
+customary, everyday usage.
+
+     Kingwood has relied on not just the plain language of the 
+1989 regulation, but the light shed on that language by both 
+the 1992 amendment of the regulation and the accompanying 
+preamble.  Kingwood points to language in the preamble to 
+the 1992 Proposed Rule that characterizes this addition as a 
+substantive change intended to prevent results that had oc-
+curred under the 1989 regulations.  See Proposed Rule, 
+Changes to the Hospital Inpatient Prospective Payment Sys-
+tems, 57 Fed. Reg. at 23,618, 23,659-60 (June 4, 1992).  In 
+particular, Kingwood relies on the concluding six-paragraph 
+passage at the end of the preamble discussion of changes to 
+the new hospital, which states, in relevant part:
+
+          Our third proposed change in the new hospital exemp-
+     tion concerns the issue of whether a participating facility 
+     that reorganizes and/or changes the basis of its partic-
+     ipation in the Medicare program is a new hospital....  
+     Under our current regulations, [a described distinct part 
+     unit that became a stand alone] rehabilitation hospital 
+     would meet the criteria for a new hospital and, thus, 
+     could qualify for a new hospital exemption.
+     
+          Another example involved a rehabilitation hospital that 
+     added an acute care distinct-part unit [that eventually 
+     became the hospital, with the former rehabilitation hospi-
+     tal a distinct-part unit thereof].  Again, under the cur-
+     rent regulations, the distinct-part unit would qualify for 
+     an exemption because the hospital technically meets the 
+     criteria for a new hospital.
+     
+          In both examples, the former distinct-part units quali-
+     fied for a new hospital exemption because they were in 
+     existence for less than 3 years as the type of hospital for 
+     which they were approved to participate in the Medicare 
+     program.  However, in a broader sense, these hospitals 
+     were not new....  Therefore, to preclude hospitals from 
+     qualifying for a new hospital exemption based solely on 
+     such operational reorganizations, we are proposing to 
+     revise s 413.40(f)....
+     
+          ... 
+     
+          We note that the proposed change would mean that 
+     the new hospital exemption would not apply to hospitals 
+     that change the basis of their certification but do not 
+     experience a significant change in organizational struc-
+     ture or in the type of services provided....  Under 
+     current policy, the exemption as a new hospital would 
+     begin with the first date ... for which the hospital is 
+     certified as a [PPS-exempt hospital after having been 
+     under PPS].  Under the revised policy, the exemption 
+     would begin [when the hospital began offering relevant 
+     services], whether or not the certification is effective for 
+     that period.
+     
+          ... The proposed policy would be effective for Medi-
+     care certifications occurring on or after October 1, 1992.
+     
+Id.
+
+     This preamble language, Kingwood submits, is more than 
+simply a retrospective interpretation of the prior regulation, 
+as another provider argued (unsuccessfully) in SSM Rehabili-
+tation Institute v. Shalala, 68 F.3d 266, 270 (8th Cir. 1995), 
+but the very reason given by the Secretary for the need to 
+change that regulation by amendment to end the conse-
+quences of that interpretation.  Thus the weight accorded the 
+1992 preamble should not be the slight weight accorded a 
+mere after-the-fact commentary, but instead the full weight 
+due the Secretary's contemporaneous interpretation of his 
+1992 amendment as necessary to bar future exemptions simi-
+lar to some actually obtained under the pre-amendment lan-
+guage.
+
+     The difficulty we have in accepting this argument is that 
+Kingwood has not in fact established that it is situated 
+similarly to the unidentified entities discussed in the 1992 
+preamble.  It is true that Kingwood's psychiatric services 
+were formerly a distinct-part unit of the hospital, cf. 57 Fed. 
+Reg. at 23,659, but the present Kingwood hospital is not one 
+that "eventually split off" from its parent hospital, as did the 
+unnamed institution described in the preamble.  In fact, that 
+language in the preamble more accurately describes the facts 
+in Memorial Rehabilitation Hospital than the facts here, and 
+that was a case in which the Secretary clearly did not grant 
+the exemption.  65 F.3d at 135-36, 139.  Likewise, the 
+preamble refers to an acute care hospital that added a 
+distinct part rehabilitation unit that eventually expanded to 
+become the hospital, with the former hospital now a subordi-
+nated acute-care unit.  See 57 Fed. Reg. at 23,659.  Again, 
+this does not precisely describe Kingwood's circumstances.  
+Finally, we note the absence of meaningful time references in 
+either of the Secretary's two preamble descriptions, or quan-
+tified comparisons of the proportion of all services provided 
+by the hospitals and distinct part units, whereas the Review 
+Board made unchallenged findings that Kingwood had been 
+engaged "primarily" in providing psychiatric services for 
+more than three years prior to its HCFA approval as an 
+exclusively psychiatric hospital.  As there is no basis for 
+comparison of Kingwood's situation with the anonymous, 
+stick-figure entities sketched in the 1992 regulation preamble, 
+and as the burden of fleshing out the alleged inconsistencies 
+of treatment falls on Kingwood, Lomak Petroleum, 206 F.3d 
+at 1198, Kingwood gains no ground from its reliance on the 
+1992 preamble.  To the extent that the 1992 preamble may 
+have characterized the new regulation as a change in policy 
+that would be relevant to Kingwood and those similarly 
+situated, that characterization is outweighed by earlier and 
+more specific indications of the Secretary's intent.  See SSM 
+Rehabilitation, 68 F.3d at 270.
+
+     Extending its argument based on the 1992 amendment, 
+Kingwood insists that the Review Board improperly applied 
+the 1992 amendment itself to Kingwood retroactively.  King-
+
+wood was certified as a psychiatric hospital in 1989, and by its 
+terms the 1992 amendment applies only to "Medicare certifi-
+cations occurring on or after October 1, 1992."  57 Fed. Reg. 
+at 23,660.  The 1992 amendment added to the existing re-
+quirement that the provider must have "operated as the type 
+of hospital for which HCFA granted it approval to participate 
+in the Medicare program" for less than a specified period a 
+new, second requirement that the provider have "provided 
+the type of hospital inpatient services for which HCFA 
+granted it approval ... for less than two years."  42 C.F.R. 
+s 413.40(f)(1992) (emphasis added).  Kingwood asserts that 
+the Review Board disqualified Kingwood simply because 
+Kingwood had provided psychiatric services for some time, 
+thereby applying, before its 1992 effective date, the new "type 
+of services" element of the 1992 test.  Kingwood is mistaken 
+in its premise that the new element is necessary to explain 
+the Review Board's decision.  It is true that the new "type of 
+services" element does not specify the level of services the 
+hospital must have offered for more than two years in order 
+to bar it from exemption, and that that bar could be set quite 
+low.  In the case before us, however, the Review Board's 
+decision was not based simply on the fact that Kingwood had 
+previously provided psychiatric services.  Instead, the Review 
+Board's decision was based on well-supported factual determi-
+nations that Kingwood had been "primarily operating" as a 
+provider of psychiatric services and not "primarily providing 
+acute care inpatient services" during the look-back period.  
+This emphasis on Kingwood's "primary" level of activity 
+clearly relates to the pre-1992 "type of hospital" test and the 
+statutory definition of a psychiatric hospital.  See Board 
+Decision at 14;  cf. 42 U.S.C. s 1395x(e)(1), (f)(1).  According-
+ly, the second test, in which any level of services might be 
+disqualifying, clearly was not applied by the Review Board to 
+Kingwood, retroactively or otherwise, and this argument fails 
+as well.
+
+                         III. Conclusion
+
+     The district court made no error in determining that the 
+decision of the Review Board, as the decision of the Secre-
+
+tary, satisfied the standards of 5 U.S.C. s 706.  The Secre-
+tary has articulated reasonable interpretations of 42 C.F.R. 
+ss 413.40(b) and (f) as in effect at the relevant time, and 
+Kingwood Hospital has failed to establish a compelling alter-
+native interpretation.  The judgment of the district court is 
+affirmed.
+
+                  

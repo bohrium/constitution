@@ -1,0 +1,723 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 5, 2001   Decided December 28, 2001 
+
+                           No. 00-1466
+
+                         Teledesic LLC, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+           Fixed Wireless Communications Coalition and 
+                  WinStar Communications, Inc., 
+                           Intervenors
+
+                      Petition for Review of an Order of the Federal 
+                           Communications Commission
+
+     Mark A. Grannis argued the cause for petitioner.  With 
+him on the briefs were Scott Blake Harris and Timothy J. 
+Simeone.
+
+     C. Grey Pash, Jr., Counsel, Federal Communications 
+Commission, argued the cause for respondents.  With him on 
+the brief were Daniel M. Armstrong, Associate General 
+
+Counsel, John M. Nannes, Acting Assistant Attorney Gener-
+al, United States Department of Justice, Robert B. Nicholson, 
+and Adam D. Hirsh, Attorneys.  John E. Ingle, Deputy 
+Associate General Counsel, Federal Communications Com-
+mission, Thomas E. Chandler, and James M. Carr, Counsel, 
+and Christopher J. Sprigman, Attorney, United States De-
+partment of Justice, entered appearances.
+
+     Joseph M. Sandri, Jr., Barry J. Ohlson, Leonard R. Raish, 
+and Liliana E. Ward were on the brief for intervenors.
+
+     Before:  Edwards and Randolph, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  Teledesic LLC ("Teledesic") peti-
+tions for review of the Federal Communications Commission's 
+("FCC" or "Commission") Report and Order governing the 
+reallocation of a band of radio spectrum previously shared by 
+satellite and traditional terrestrial spectrum users.  See In re 
+Redesignation of the 17.7-19.7 GHz Frequency Band, Report 
+and Order, 15 F.C.C.R. 13,430 (2000) ("Report and Order").  
+The Report and Order set forth rules allocating one part of 
+the band to satellite users and another part to terrestrial 
+users.  Teledesic, a company that plans to build a global 
+telecommunications network using satellite technology, ob-
+jects to the new rules requiring satellite operators to pay the 
+relocation costs incurred by terrestrial operators during the 
+initial reallocation period.
+
+     Just before oral argument in this case, the FCC revised the 
+new rules so as to accede to the demands of Teledesic with 
+respect to two issues.  Teledesic's challenges on these two 
+issues are therefore moot.  With respect to the remaining 
+issues, we find no merit in Teledesic's challenges.  The new 
+rules are founded on the FCC's goals of protecting existing 
+terrestrial spectrum users while facilitating the growth of 
+new, comprehensive satellite networks.  The agency's goals 
+and the regulatory means used to implement them are both 
+permissible and reasonable.
+
+     Accordingly, we hereby dismiss the moot challenges and 
+otherwise deny Teledesic's petition for review.
+
+                          I. Background
+
+     Among its many responsibilities, the FCC is charged with 
+regulating and overseeing radio spectrum.  See 47 U.S.C. 
+ss 151 (Supp. V 1999) (creating the FCC for the purpose of 
+regulating commerce in communication by wire and radio), 
+303 (1994 & Supp. V 1999) (authorizing the Commission, inter 
+alia, to assign station frequencies, issue regulations to avoid 
+interference between stations, study new uses for radio, and 
+encourage broader and more effective use of radio in the 
+public interest).  This responsibility has become more chal-
+lenging in recent years due to the growth of new telecommu-
+nications technologies.  This case concerns the FCC's efforts 
+to reallocate one portion of the spectrum to accommodate an 
+ascendant and promising technology:  satellite telecommuni-
+cations networks.
+
+     Prior to the Commission's Report and Order, the band of 
+spectrum from 17.7 to 19.7 (known as the "18 GHz band") was 
+allocated to two broad groups of telecommunications users.  
+Terrestrial fixed services (also known as "FS") operate by 
+connecting one fixed location with one or more other fixed 
+locations.  See 47 C.F.R. s 2.1(c) (2000).  They serve many 
+functions, including remote monitoring of gas and petroleum 
+pipelines, public safety communications, railroad communica-
+tions, public utilities, and high speed Internet access.  See Br. 
+for Respondents at 3;  Br. for Intervenors at 1-2.  The FCC 
+estimates that approximately 179,000 terrestrial FS links 
+operate in the 18 GHz band, and this number will grow as 
+services move up from more congested lower bands.  Report 
+and Order, 15 F.C.C.R. at 13,436 p 11.
+
+     FS users share the 18 GHz band on a co-primary basis with 
+fixed satellite services (or FSS), which connect fixed locations 
+by satellite.  See 47 C.F.R. s 2.1(c).  These services utilize 
+many earth stations that communicate with one or more 
+space stations.  Satellite technology has the potential to 
+provide global Internet access, two-way digital communica-
+tions, video conferencing, telemedicine, and residential voice 
+and data communications services.  In re Redesignation of 
+the 17.7-19.7 GHz Frequency Band, Notice of Proposed Rule-
+making, 13 F.C.C.R. 19,923, 19,929 p 9 (1998) ("NPRM").  
+
+The FCC expects these services to expand dramatically in the 
+next decade.  Id. Currently, the FCC reports that no non-
+governmental satellite earth stations operate in the 18 GHz 
+band, but Teledesic has been granted a license, and a number 
+of other companies have also applied for licenses.  Br. for 
+Respondent at 3 n.1.  Teledesic plans to deploy a large 
+number of earth stations to support a global Internet tele-
+communications network.  See Br. for Petitioner, Corporate 
+Disclosure Statement at 1.
+
+     Establishing so many satellite stations would be difficult 
+under the co-primary system, because the FS stations cur-
+rently occupying the band can cause harmful interference to 
+the new satellite systems if the two are located too close 
+together on the spectrum.  See In re Redesignation of the 
+17.7-19.7 GHz Frequency Band, Comments of Teledesic LLC, 
+IB Docket No. 98-172 (Nov. 19, 1998), at 3-4 ("Teledesic 
+Comments"), reprinted in Joint Appendix ("J.A.") 150-51.  
+Under the co-primary system, all users must coordinate with 
+one another to prevent such interference.  See 47 C.F.R. 
+ss 25.203 (setting forth coordination procedures for selection 
+of sites and frequencies), 101.103(d) (setting forth frequency 
+coordination procedures).  By 1998, satellite companies had 
+advised the Commission about the "ubiquitous" nature of the 
+networks they planned to construct.  NPRM, 13 F.C.C.R. at 
+19,933 p 18.  They urged the Commission to adopt "blanket 
+licensing" for satellite systems, in which a large number of 
+stations would be authorized at once without the licensee 
+having to specify each station's individual location.  Id.  The 
+companies also advised the FCC that it would be difficult to 
+construct ubiquitous satellite networks if the satellites had to 
+share band space on a co-primary basis with terrestrial users.  
+Id.
+
+     The Commission responded with a Notice of Proposed 
+Rulemaking proposing changes designed to make more effi-
+cient use of the 18 GHz band in light of the impending 
+widespread deployment of satellite earth stations.  Id. at 
+19,925 p 1.  The Commission found that satellite operators 
+planned to deploy "potentially millions of small antenna earth 
+stations," and expressed concern about "the feasibility of 
+
+sharing between terrestrial fixed service and ubiquitously 
+deployed FSS earth stations."  Id. It agreed with the satellite 
+companies that blanket licensing would probably be necessary 
+to keep up with the large numbers of satellite earth stations 
+in the works.  Id. at 19,933 p 19.  In light of these concerns, 
+the Commission proposed segmenting the band into subsec-
+tions dedicated to satellite and terrestrial stations respective-
+ly.  Id.
+
+     Under the proposed plan, FS services would lose their co-
+primary status in portions of the band, but the Commission 
+proposed to grandfather FS services already operating in 
+those sections.  Id. at 19,941-42 p 40.  One reason for this 
+proposal was that, while there were not yet any commercial 
+satellite systems operating in the band, there were thousands 
+of existing FS operators there, and the FCC wished to 
+protect the investment in those services.  Id.  Another rea-
+son was the Commission's tentative conclusion that satellite 
+operators would be able to design their networks to avoid 
+reception of harmful interference from existing FS users.  Id.
+
+     The FCC further concluded that some existing terrestrial 
+facilities would probably have to be relocated from one fre-
+quency to another, and it solicited comments about the best 
+way to accomplish this relocation.  Id. at 19,942 p 41.  The 
+Commission noted that it had addressed the same question in 
+earlier proceedings, and it asked commenters to discuss 
+whether the principles adopted in the earlier proceedings 
+should apply here.  Id. at 19,942-43 p 41 & nn.65-66 (citing 
+the "Emerging Technologies" proceedings:  In re Redevelop-
+ment of Spectrum to Encourage Innovation in the Use of 
+New Telecommunications Technologies, First Report and 
+Order and Third Notice of Proposed Rule Making, 7 
+F.C.C.R. 6886 (1992);  Second Report and Order, 8 F.C.C.R. 
+6495 (1993);  Third Report and Order and Memorandum 
+Opinion and Order, 8 F.C.C.R. 6589 (1993);  Memorandum 
+Opinion and Order, 9 F.C.C.R. 1943 (1994);  Second Memo-
+randum Opinion and Order, 9 F.C.C.R. 7797 (1994), as well 
+as the "Mobile Satellite Service at 2 GHz" allocation proceed-
+ing:  In re Amendment of Section 2.106 of the Commission's 
+Rules to Allocate Spectrum at 2 GHz for Use by the Mobile-
+
+Satellite Service, First Report and Order and Further Notice 
+of Proposed Rule Making, 12 F.C.C.R. 7388, 7396-7404, 7414-
+21 (1997)).
+
+     The Commission received comments from interested par-
+ties, including Teledesic and FS users.  The latter group 
+included the Fixed Wireless Communications Coalition and 
+Winstar Communications, Inc., the intervenors before this 
+court, which represent the interests of FS users.  In general, 
+Teledesic "strongly support[ed]" the proposal to segment the 
+18 GHz band, but expressed concern about the delay that 
+would be caused by grandfathering existing FS users.  Tele-
+desic Comments at ii, reprinted in J.A. 146.  Teledesic asked 
+the FCC to adopt "blanket licensing" of satellite earth sta-
+tions.  Id. at 8-11, reprinted in J.A. 155-58.  It urged the 
+FCC not to require satellite users to pay to relocate FS 
+stations to "comparable facilities," as had been required in the 
+Emerging Technologies rules, and requested that the FCC 
+adopt principles of "cost mitigation."  Id. at 15-21, reprinted 
+in J.A. 162-68.
+
+     The FCC issued its Report and Order on June 22, 2000.  
+The Report and Order reflect the FCC's conclusion that 
+separating terrestrial users from satellite stations will serve 
+the public interest.  Report and Order, 15 F.C.C.R. at 13,431-
+32 p 2.  The Report and Order articulate a policy of protect-
+ing existing FS operations "to the maximum extent possible," 
+while providing for the growth of both satellite and terrestrial 
+services.  Id.  To facilitate this policy, the Report and Order 
+designate, broadly, one subset of the band in which FS users 
+will be primary, and another, larger subset for satellite users.  
+See id. at 13,432 p 4, 13,443-56 pp 28-54.  The Report and 
+Order also authorize blanket licensing for certain satellite 
+earth stations.  Id. at 13,470-75 pp 85-95.
+
+     Rather than permanently grandfathering existing FS users, 
+the Report and Order allow FS stations in the portion of the 
+band that will be reallocated for satellite use to retain co-
+primary status for 10 years.  Satellite operators wishing to 
+evict terrestrial users must first negotiate with them.  This 
+negotiation period begins with the adoption of the Report and 
+
+Order and lasts for two years in most cases, and for three 
+years for terrestrial public safety services.  47 C.F.R. 
+s 101.85(c).  A terrestrial user contacted by a satellite user 
+may not refuse to negotiate and all parties are required to 
+negotiate in good faith.  Id. s 101.89(b).  In deciding whether 
+the parties have negotiated in good faith, the FCC will 
+consider factors including whether the satellite has made a 
+bona fide offer of relocation and whether, if the terrestrial 
+user demanded a premium, the premium was proportionate to 
+the cost of providing comparable facilities.  Id.  "Comparable 
+facilities" are defined by the regulations in terms of "through-
+put" or capacity, reliability, and operating costs.  Id. 
+s 101.89(d).  For example, if digital facilities are replaced 
+with digital facilities, the satellite service must provide the 
+terrestrial user with equivalent data loading bits per second.  
+Id. s 101.89(d)(1).  Satellite users must also compensate FS 
+licensees for any "increased recurring costs associated with 
+the replacement facilities" for five years after relocation.  Id. 
+s 101.89(d)(3).
+
+     If no agreement is reached during the negotiation period, 
+then 47 C.F.R. s 101.91 allows the satellite service to displace 
+the FS user involuntarily.  If involuntary displacement occurs 
+during the 10-year transition period, however, the satellite 
+user must pay all costs of moving the terrestrial user to 
+replacement facilities, complete all activities necessary for 
+implementing the relocation, build the new system, and test 
+the new system.  47 C.F.R. s 101.91(a).  The replacement 
+facilities must be at least equivalent, in terms of throughput, 
+reliability, and operating costs, as the facilities from which the 
+FS user is evicted.  Id. s 101.91(b).  At the end of the 10-
+year transition period, satellite operators will be able to evict 
+terrestrial incumbents without having to pay their relocation 
+costs.  47 C.F.R. s 101.95(a).  The initial, unrevised Report 
+and Order exempted a small subset of the band (19.26-19.3 
+GHz) from the sunset provisions.  Report and Order, 15 
+F.C.C.R. at 13,464 p 69;  47 C.F.R. s 101.95.  The initial, 
+unrevised Report and Order also provided that low-power 
+stations could continue to operate on a primary basis.  Report 
+and Order, 15 F.C.C.R. at 13,457 p 56.
+
+     Teledesic petitioned for review, challenging the relocation 
+rules and the Commission's failure to adopt its alternative 
+proposals.  Teledesic also challenged the exception for low-
+power stations and the exemption of stations in the 19.26-19.3 
+GHz band from the sunset provisions.  The FCC moved to 
+hold the case in abeyance, because some parties to the 
+proceeding before the Commission had petitioned for recon-
+sideration of the Report and Order.  Teledesic was not 
+among the parties seeking reconsideration.  A panel of this 
+court denied the FCC's motion to hold these proceedings in 
+abeyance, see Teledesic LLC v. FCC, No. 00-1466 (D.C. Cir. 
+Jan. 31, 2001) (Order), and oral argument was scheduled for 
+November 5, 2001.
+
+     Less than a week before oral argument, the Commission 
+issued a Reconsideration Order.  See In re Redesignation of 
+the 17.7-19.7 GHz Frequency Band, First Order on Reconsid-
+eration, IB Docket No. 98-172 (Nov. 1, 2001) ("Reconsidera-
+tion Order").  In the Reconsideration Order, the FCC ad-
+dressed, sua sponte, some of the concerns Teledesic had 
+raised in its petition and briefs to this court.  Specifically, the 
+Commission decided that low-power stations should be sub-
+ject to the same relocation regime as all other FS stations.  
+Id. at 16-20 pp 32-41.  The Commission also decided not to 
+exempt stations in the 19.26-19.3 subset from the sunset 
+provisions.  Id. at 12-14 pp 23-25.  The Commission stated 
+that it had authority to address sua sponte the issues that 
+Teledesic had chosen to raise before this court, regardless of 
+whether any petitions pending before the Commission had 
+raised those issues.  Id. at 11 p 20 & n.66 (citing Cent. Fla. 
+Enters., Inc. v. FCC, 598 F.2d 37, 48 n.51 (D.C. Cir. 1978)).
+
+                          II. Discussion
+
+A.   The Order under Review is Final.
+
+     Before turning to the merits of Teledesic's challenges, we 
+consider whether the Report and Order are final and reviewa-
+ble by this court.  This court has jurisdiction to review final 
+orders of the FCC made reviewable under 47 U.S.C. s 402(a).  
+28 U.S.C. s 2342(1) (1994).  Section 402(a) governs proceed-
+
+ings to set aside or annul FCC orders except those specifical-
+ly listed as being appealable under s 402(b), relating to 
+particular applications.  Teledesic's petition falls under 
+s 402(a), and is therefore reviewable.
+
+     Teledesic was within its rights to seek review in this court 
+without first petitioning for reconsideration by the FCC.  See 
+47 U.S.C. s 405(a) (1994) (providing that the filing of a 
+petition for reconsideration shall not be a condition precedent 
+to judicial review of an FCC order unless the party seeking 
+review was not a party to the initial proceedings or relies on 
+questions of law or fact on which the Commission has not had 
+an opportunity to pass).  Teledesic was a party to the initial 
+proceeding before the Commission, and the Commission ad-
+dressed Teledesic's arguments regarding the relocation rules.  
+Therefore, Teledesic had standing to seek judicial review of 
+the Report and Order.
+
+     The fact that parties other than Teledesic petitioned the 
+FCC for reconsideration of the Report and Order does not 
+deprive the court of jurisdiction over Teledesic's petition.  See 
+Wrather-Alvarez Broad., Inc. v. FCC, 248 F.2d 646, 649 (D.C. 
+Cir. 1957) (noting that because parties to FCC proceedings 
+"have their choice whether to seek relief from Commission 
+action from the Commission itself or from the court ... it 
+may happen ... that one party will choose one tribunal and 
+another party the other").  In such cases, we often hold a 
+petition for review in abeyance pending the FCC's further 
+proceedings, see id., but this practice is not an iron-clad rule, 
+see, e.g., MCI Telecomms. Corp. v. FCC, 143 F.3d 606, 608 
+(D.C. Cir. 1998) (determining that prudential considerations 
+militated in favor of resolving the petitions for review even 
+though parties other than the petitioners had filed petitions 
+for reconsideration before the FCC).  It is likewise true that 
+it does not matter whether petitions are filed to challenge 
+portions of the Reconsideration Order.  Any such challenges 
+do not bear on our resolution of Teledesic's challenges to the 
+disputed Report and Order, because the Reconsideration 
+Order is not subject to review in this case.  What is important 
+here is that the Report and Order were final and appealable 
+as to Teledesic.
+
+     The court decided not to hold in abeyance Teledesic's 
+petition for review of the Report and Order, even though 
+other parties had petitioned the Commission for reconsidera-
+tion.  And our jurisdiction over Teledesic's petition was not 
+lost when the Commission elected to issue its Reconsidera-
+tion Order mere days before oral argument.  The FCC 
+claims that, under Central Florida Enterprises, Inc. v. FCC, 
+598 F.2d 37, 48 n.51 (D.C. Cir. 1978), the agency had authori-
+ty to address sua sponte in its Reconsideration Order several 
+of the issues that were pending before this court.  In other 
+words, the FCC contends that it had the discretion to recon-
+sider certain of the issues raised by Teledesic and then issue 
+a Reconsideration Order even though Teledesic had not filed 
+a petition for reconsideration and had opted instead to seek 
+judicial review.  We need not decide this question.
+
+     Notwithstanding the Reconsideration Order, the Commis-
+sion's Report and Order of June 22, 2000, are the only 
+matters under review in this proceeding.  Thus, in addressing 
+Teledesic's claims, we rely only on the agency's positions set 
+forth in the Report and Order, not on the Commission's 
+subsequent elaborations in the Reconsideration Order.  We 
+note, however, that, apart from the FCC's decision to accede 
+to Teledesic's demands on two issues, the Reconsideration 
+Order merely expands upon the rationales for the relocation 
+rules contained in the original Report and Order.
+
+     Although this petition for review involves only the June 22, 
+2000 Report and Order, we cannot ignore the fact that two of 
+Teledesic's challenges have evaporated in light of the Com-
+mission's change of policy as expressed in its Reconsideration 
+Order.  See Reconsideration Order at 12-14 pp 23-25 (making 
+terrestrial stations in the 19.26-19.3 GHz subset of the band 
+subject to the sunset date), 16-20 pp 32-41 (making low-power 
+terrestrial stations in the 18 GHz band subject to the reloca-
+tion rules).  At oral argument, the Commission gave official 
+notice to the court via the Reconsideration Order that the 
+rules regarding (1) the 19.26-19.3 GHz subset of the band and 
+(2) low-power terrestrial stations were no longer in effect.  
+Counsel for Teledesic assured the court that the Reconsidera-
+tion Order had fully addressed Teledesic's concerns on these 
+
+matters.  Neither side sought to pursue the issues.  It is 
+therefore clear that the issues concerning low-power stations 
+and the 19.26-19.3 GHz subset are moot.  Accordingly, we 
+turn to Teledesic's remaining challenges.
+
+B.   The FCC's Relocation Rules are Reasonable.
+
+     1. Standard of Review
+
+     We must uphold the FCC's actions unless they are arbi-
+trary, capricious, an abuse of discretion, or otherwise unlaw-
+ful.  5 U.S.C. s 706(2)(A) (1994).  Pursuant to this standard, 
+we look to determine whether the Commission has "articu-
+late[d] a satisfactory explanation for its action including a 
+'rational connection between the facts found and the choice 
+made.' "  Motor Vehicle Mfrs. Ass'n v. State Farm Mut. 
+Auto. Ins. Co., 463 U.S. 29, 43 (1983) (quoting Burlington 
+Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  
+The court must ensure that the agency has given reasoned 
+consideration to all of the relevant facts and issues.  Greater 
+Boston Television Corp. v. FCC, 444 F.2d 841, 851 (D.C. Cir. 
+1970).
+
+     While agreeing on these basic principles, the parties none-
+theless dispute the degree of deference that is warranted.  
+The Commission argues that review must be especially limit-
+ed because the Report and Order concern matters within its 
+area of expertise that involve predictions "at the frontiers of 
+science."  Br. for Respondents at 15 (quoting Balt. Gas & 
+Elec. Co. v. Natural Res. Def. Council, Inc., 462 U.S. 87, 103 
+(1983)).  It further argues that the spectrum reallocation 
+rules at issue are just the sort of technical rules within its 
+area of expertise that traditionally have merited a heightened 
+degree of deference.  Id. at 16 (citing Aeronautical Radio, 
+Inc. v. FCC, 928 F.2d 428, 443-45 (D.C. Cir. 1991) (upholding 
+an FCC decision on allocation because it was a predictive 
+judgment of the type historically left to agency discretion);  
+Nat'l Ass'n of Broadcasters v. FCC, 740 F.2d 1190, 1209-14 
+(D.C. Cir. 1984) (upholding an FCC decision on FS relocation 
+given that the Commission acted against an evolving techno-
+logical and factual background)).  Teledesic counters that it 
+objects not to the Commission's scientific predictions, but to 
+
+its system of compensating displaced terrestrial operators.  
+Teledesic argues that the FCC's economic compensation 
+scheme is not entitled to the same deference as an order 
+dealing with purely technical matters.
+
+     In our view, the parties' dispute involves a fundamental 
+disagreement over the policy goals underlying spectrum real-
+location.  The problem presented by the 18 GHz band is not 
+merely one of economics.  The Commission correctly con-
+ceives of its role in prophetic and managerial terms:  it must 
+predict the effect and growth rate of technological newcomers 
+on the spectrum, while striking a balance between protecting 
+valuable existing uses and making room for these sweeping 
+new technologies.  Report and Order, 15 F.C.C.R. at 13,431-
+33 pp 1-2, 4-5.  In striking this balance, the Commission has 
+relied on its judgments about the importance of old, terrestri-
+al services, as well as the potential value to society of new, 
+emerging satellite systems.  Its decisions about how best to 
+strike this balance thus involve both technology and econom-
+ics.  The Commission is therefore entitled to the deference 
+traditionally accorded decisions regarding spectrum manage-
+ment.  See Telocator Network of Am. v. FCC, 691 F.2d 525, 
+538 (D.C. Cir. 1982) (finding that when it is fostering innova-
+tive methods of exploiting the spectrum, the Commission 
+"functions as a policymaker and, inevitably, a seer - roles in 
+which it will be accorded the greatest deference by a review-
+ing court").
+
+     2. The Challenges to the FCC's Relocation Rules
+
+     Teledesic argues that the rules governing the relocation of 
+terrestrial services are arbitrary and capricious because they 
+force satellite operators to confer windfalls on terrestrial 
+services by paying for and building "comparable facilities."  
+It claims that, because many terrestrial operators currently 
+use aging equipment, satellite operators will end up subsidiz-
+ing the terrestrial operators' upgrades to new equipment.  
+Teledesic characterizes this result as one of systematic over-
+compensation.  Br. for Petitioner at 27.  In its comments to 
+the Commission, Teledesic urged the agency to require that 
+satellite operators compensate displaced FS users only for 
+
+the unamortized "book value" of their old equipment.  It now 
+accuses the Commission of rejecting this proposal without 
+articulating a satisfactory reason for doing so.
+
+     Teledesic's contentions fail because the Commission ade-
+quately explained both the rationale underlying its chosen 
+approach, as well as its reasons for rejecting Teledesic's 
+proposed alternative.  First, as noted above, one of the 
+Commission's goals was to protect existing terrestrial ser-
+vices.  Report and Order, 15 F.C.C.R. at 13,431-32 p 2.  If the 
+Commission only required FSS users to pay terrestrial users 
+for the book value of their equipment, FS users that were 
+unable to afford replacement equipment might be put out of 
+business when displaced.  Second, in addressing Teledesic's 
+proposal, the Commission reaffirmed its policy of placing the 
+cost of involuntary relocation to comparable facilities on new 
+entrants.  Id. at 13,468 p 78.  According to the FCC, the 
+justification for this policy is that existing users must be able 
+to obtain replacement equipment at no cost in order to 
+continue to provide service with a minimum of disruption.  
+Id.;  In re Amendment of Section 2.106 of the Commission's 
+Rules to Allocate Spectrum at 2 GHz for Use by the Mobile-
+Satellite Service, Second Report and Order and Second Mem-
+orandum Opinion and Order, 15 F.C.C.R. 12,315, 12,352 
+p 109 (2000) ("2 GHz MSS Relocation Order") (reiterating in 
+a more recent decision that the Commission "consider[s] it 
+essential that the process not disrupt the communications 
+services provided by the existing ... operations") (citing the 
+Emerging Technologies proceeding, In re Redevelopment of 
+Spectrum to Encourage Innovation in the Use of New Tele-
+communications Technologies, Third Report and Order and 
+Memorandum Opinion and Order, 8 F.C.C.R. 6589, 6594 p 13 
+(1993)).
+
+     These policy goals are reasonable and do not, on their face, 
+result in windfalls for incumbents.  The Commission's objec-
+tive is simple:  ensure that incumbent terrestrial users will be 
+able to continue operating even if they are forced by satellite 
+users to relocate.  Teledesic expresses concern that the "com-
+parable facilities" standard will result in incumbents replacing 
+their aging facilities with unduly expensive, state-of-the-art 
+
+equipment at the expense of satellite companies.  "Compara-
+ble facilities," however, does not mean that terrestrial users 
+will be able to insist on top-of-the-line replacement facilities.  
+Rather, satellite operators will have to ensure that the re-
+placement facilities are equivalent to the existing FS facilities 
+with respect to throughput, reliability, and operating costs, as 
+explained in the regulations.  See 47 C.F.R. ss 101.89(d), 
+101.91(b).  If the satellite operator can meet the standard by 
+retuning or repairing old equipment, it need not outfit the FS 
+user with new equipment.  Even if new facilities are neces-
+sary to meet the standard, this does not necessarily mean 
+that FS users will be able to demand the newest and most 
+expensive equipment if less new equipment will meet the 
+standard.  The stated goal of the standard is not to provide 
+free upgrades to terrestrial users, but rather to "ensure a 
+seamless handoff" and a smooth transition to the new band 
+segmentation regime.  Id. at s 101.91(c).
+
+     The Commission's current approach to the relocation of 
+incumbents is not new.  It was adopted first in the Emerging 
+Technologies rules and, after the instant order was issued, in 
+another relocation proceeding.  See 2 GHz MSS Relocation 
+Order, 15 F.C.C.R. at 12,351-52 pp 108-10.  Indeed, this court 
+has approved aspects of a similar relocation scheme in the 
+Emerging Technologies context.  See Ass'n of Pub.-Safety 
+Communications Officials-Int'l, Inc. v. FCC, 76 F.3d 395, 
+397, 400 (D.C. Cir. 1996) (upholding the elimination of an 
+exemption for public safety incumbents from a relocation 
+regime in which emerging technology licensees would pay all 
+costs associated with relocating incumbents to comparable 
+facilities).  Moreover, the Commission has adopted similar 
+relocation schemes in other contexts.  See Small Bus. in 
+Telecomms. v. FCC, 251 F.3d 1015, 1017, 1026 (D.C. Cir. 
+2001) (denying in part and dismissing in part petition for 
+review of relocation regime in which displaced incumbents 
+would be given comparable facilities to ensure a seamless 
+transition).
+
+     Because the Commission's policy in this instance is consis-
+tent with its overall approach to new technologies, it argues 
+that it was not required to give as extensive a justification as 
+
+it would have had it unveiled the policy for the first time here.  
+We agree.  See Hall v. McLaughlin, 864 F.2d 868, 872 (D.C. 
+Cir. 1989) (holding that where an agency is following estab-
+lished policy, the need for a comprehensive statement of its 
+rationale is less pressing).  Like the Emerging Technologies 
+proceedings, this Report and Order involve new technologies 
+displacing existing users and being forced to pay those exist-
+ing users to relocate to comparable facilities.  In Emerging 
+Technologies, the FCC acknowledged that incumbents that 
+are forced to relocate involuntarily will not incur any costs as 
+a result of the forced relocation, and may even benefit in 
+some instances if their aging equipment is replaced with 
+state-of-the-art technology.  Third Report and Order and 
+Memorandum Opinion and Order, 8 F.C.C.R. 6589, 6595 p 16 
+(1993).  The Commission viewed such a result as the legiti-
+mate byproduct of a process whereby important terrestrial 
+services are uprooted against their will to accommodate new-
+er technologies.  The Commission's consistent policy has been 
+to prevent new spectrum users from leaving displaced incum-
+bents with a sum of money too small to allow them to resume 
+their operations at a new location.  See 2 GHz MSS Reloca-
+tion Order, 15 F.C.C.R. at 12,352 p 109 (expressing the Com-
+mission's view, dating from the Emerging Technologies pro-
+ceeding, that existing operations should not be disrupted 
+during the transition to emerging technologies).
+
+     Teledesic objects to the FCC's reliance on Emerging Tech-
+nologies, arguing that, because the Commission readily ac-
+knowledged some differences between this case and Emerg-
+ing Technologies, the Commission must start from scratch in 
+this case.  There is only one notable difference between 
+Emerging Technologies and this case:  Emerging Technolo-
+gies involved an entirely new service displacing incumbent 
+licensees, while, in this case, satellite and terrestrial users 
+already coexisted in the 18 GHz band on a co-primary basis.  
+Report and Order, 15 F.C.C.R. at 13,468 pp 79-80.  This is a 
+difference without significance, however.  Teledesic and other 
+companies plan to launch comprehensive new satellite sys-
+tems involving millions of earth stations that will be licensed 
+on a blanket basis.  To accommodate these new systems, 
+
+existing terrestrial users must be displaced like the incum-
+bents in Emerging Technologies. The compensatory and pres-
+ervationist justifications for the "comparable facilities" re-
+quirement therefore apply equally in this case, and it was 
+legitimate for the Commission to explain its choices in part by 
+reference to the earlier proceeding.
+
+     Teledesic's contention that the Commission impermissibly 
+failed to consider its "cost mitigation" proposals is similarly 
+misplaced.  Teledesic accuses the FCC of failing to consider 
+how to encourage reasonable cooperation by terrestrial in-
+cumbents in the relocation process.  Br. for Petitioner at 34.  
+One of Teledesic's proposals is that no compensation should 
+be paid for equipment replaced after the Commission issued 
+its NPRM, and the other is that FS licensees who renew 
+their grandfathered licenses should receive less compensation 
+than other FS licensees.  Teledesic Comments at 20-21, re-
+printed at J.A. 167-68.  Teledesic's claim is not supported by 
+the record, which reflects that the Commission was extremely 
+concerned with providing incentives to incumbents to relo-
+cate.  The Commission encouraged them to do so by issuing 
+rules that initially reward relocation and then sunset after 10 
+years.  Terrestrial operators who have not relocated by that 
+point will be penalized, while those that negotiate a deal 
+expeditiously with a satellite company will receive the benefit 
+of the "comparable facilities" standard.  By contrast, Telede-
+sic's proposals are aimed less at smoothing the way for 
+reallocation than at minimizing its own costs, and they do not 
+advance the FCC's goals of preserving terrestrial systems 
+while ushering in new satellite networks.  Because Telede-
+sic's proposals are patently inconsistent with the Commis-
+sion's well-explained goals, the Commission was not required 
+to analyze each of those suggestions in detail.
+
+     3. Safeguards
+
+     Teledesic raises a legitimate concern over the possibility 
+that terrestrial operators may hold out during negotiations in 
+an attempt to extract payments from satellite users over and 
+above the costs of relocating.  The Commission anticipated 
+
+this concern, however, and structured the new rules to pro-
+tect against unreasonable bargaining by terrestrial operators.
+
+     Teledesic objects in particular to the provision in 47 C.F.R. 
+s 101.89, which requires satellite users to negotiate with FS 
+users for two (and sometimes three) years, during which time 
+FS operators may seek "premium[s]."  Teledesic's concern is 
+that, by authorizing terrestrial operators to demand premi-
+ums, the rules give them a green light to demand unreason-
+able sums of money from the satellite companies, who have no 
+choice but to accede or wait until the end of the two-year 
+period.  In response, the Commission points out that Telede-
+sic's view of the rule is badly distorted, for it ignores the 
+limitations that the rule places on the bargaining behavior of 
+incumbents.  The Commission is right.
+
+     The cited rule explicitly requires both parties to negotiate 
+in good faith during the negotiation period.  "Good faith" is 
+measured, in part, by looking at whether the FS service has 
+demanded a premium that is disproportionate to the cost of 
+providing comparable facilities.  47 C.F.R. s 101.89(b)(2).  
+Thus, rather than authorizing incumbents to demand inequi-
+table windfalls, the rules explicitly forbid them from doing so.  
+Moreover, an incumbent whose bargaining demands are chal-
+lenged must justify its numbers against a regulatory stan-
+dard.  In other words, the demands must be reasonably 
+related to the actual cost of relocating to an equivalent facility 
+as defined in the regulations.  This requirement prevents 
+terrestrial users from attempting to gouge satellite companies 
+that are required to negotiate with them.
+
+     A second safeguard exists in the form of time limits on 
+negotiations.  If a terrestrial operator holds out during the 
+two to three year negotiation period, the satellite user may 
+initiate involuntary relocation procedures pursuant to 47 
+C.F.R. s 101.91.  An incumbent's incentive during the negoti-
+ation period, therefore, is to negotiate as advantageous a deal 
+as possible before facing forced relocation.  Once the negotia-
+tion period is over, incumbents still have an incentive to 
+relocate before the sunset provisions kick in.  After 10 years, 
+incumbents will be forced to relocate without receiving any 
+
+relocation payments.  Because of these temporal limits on 
+incumbents' expectations of relocation payments, the value of 
+their addresses on the spectrum goes down over time.  A 
+satellite company will presumably be less willing to pay to 
+relocate an incumbent the longer the latter holds out as the 
+sunset date approaches.  These safeguards provide adequate 
+protection against unreasonable negotiation tactics.
+
+                         III. Conclusion
+
+     For the reasons cited above, we hereby dismiss the moot 
+challenges and otherwise deny Teledesic's petition for review 
+as meritless.
+
+                                                                 So ordered.
+
+                                   

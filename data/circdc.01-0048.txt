@@ -1,0 +1,853 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 15, 2000   Decided March 16, 2001 
+
+                           No. 99-3075
+
+                    United States of America, 
+                             Appellee
+
+                                v.
+
+                          Joann McCoy, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                        (No. 98cr00082-01)
+
+     Lisa B. Wright, Assistant Federal Public Defender, argued 
+the cause for appellant.  With her on the briefs was A. J. 
+Kramer, Federal Public Defender.
+
+     Suzanne Grealy Curt, Assistant U.S. Attorney, argued the 
+cause for Appellee.  With her on the brief were Wilma A. 
+Lewis, U.S. Attorney, John R. Fisher and Elizabeth Tros-
+man, Assistant U.S. Attorneys.
+
+     Before:  Henderson, Randolph, and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  On September 22, 1998, defendant 
+Joann McCoy was found guilty of making a false statement 
+for the purpose of influencing a federally insured bank, 
+making a false statement for the purpose of influencing the 
+Small Business Administration (SBA), and committing perju-
+ry at a 1995 bankruptcy proceeding.  In this appeal, McCoy 
+argues that her perjury conviction was supported by insuffi-
+cient evidence and that the district court committed five 
+errors in calculating her sentence under the United States 
+Sentencing Guidelines (U.S.S.G.).  We affirm McCoy's perju-
+ry conviction and four of the five challenged sentencing 
+calculations.  We remand the case to the district court for 
+further proceedings with respect to the fifth sentencing calcu-
+lation.
+
+                                I
+
+     In 1993, McCoy formed McCoy Waste Industries and Man-
+ufacturing Co. (MWI), of which she became president and 
+51% owner.  The company was in the business of recycling 
+waste paper into fuel pellets, and earned revenues from both 
+hauling paper ("tipping fees") and selling pellets.  On Sep-
+tember 3, 1993, McCoy--on behalf of MWI--applied for a 
+$296,014 loan from Adams National Bank to finance the 
+purchase of a $385,000 pellet-making machine from Lundell 
+Manufacturing Co.  Adams National eventually approved the 
+loan, and the SBA agreed to guarantee 80% of the principal.  
+The collateral for the loan included a lien on MWI's furniture, 
+fixtures, machinery, and equipment;  a guarantee from MWI;  
+and guarantees from McCoy and four of her close relatives.
+
+     As part of her loan application, McCoy submitted three 
+documents to Adams National, which were forwarded to the 
+SBA for approval:  a personal financial statement declaring 
+that McCoy and her husband had $1,482,000 in assets and 
+$12,000 in liabilities, a resume indicating that McCoy had 
+received a degree from Northern Virginia Community Col-
+lege, and a financial projection that MWI would earn tipping 
+
+fees for hauling 100 tons of waste paper per day.  McCoy 
+subsequently admitted, at her criminal trial, that the personal 
+financial statement failed to disclose her liability for a 
+$100,000 loan from Central Fidelity Bank and that she had 
+not received a degree from Northern Virginia Community 
+College.
+
+     On October 4, 1993, an Adams National loan officer re-
+quested additional evidence to support MWI's tipping fees 
+projection.  In response, McCoy requested and received a 
+faxed letter from Ed Warmus, a plant manager for 
+Browning-Ferris Industries Recyclery.  McCoy had listed 
+Browning-Ferris on the loan application as one of MWI's 
+primary suppliers of waste paper.  Warmus' letter stated that 
+Browning-Ferris anticipated supplying MWI with "at least 16 
+tons" of paper per day.  McCoy directed her secretary, Kim 
+Turner, to "white-out" the term "16 tons" each time it ap-
+peared in the letter, and to replace it with the term "100 
+tons."  She then instructed Turner to fax the altered letter to 
+Adams National.  When Adams National expressed concern 
+because the letter's tonnage figures were handwritten, McCoy 
+directed Turner to type them in, mark the initials "EW" (for 
+"Ed Warmus") beside each appearance of "100 tons," and 
+refax the letter to Adams National.  At trial, Warmus testi-
+fied that he had not authorized the change to 100 tons.1
+
+     Several days prior to the November 1993 loan closing, 
+Warmus informed McCoy that Browning-Ferris had decided 
+to open its own landfill and would no longer provide waste 
+paper to MWI.  At the closing, however, McCoy certified that 
+there had been "no substantial adverse change in financial 
+condition, organization, operations, or fixed assets" since she 
+filed the loan application.  McCoy did not disclose Browning-
+Ferris' decision to cease supplying paper to MWI.
+
+     MWI failed to make the first payment on the loan.  There-
+after, Adams National placed the loan in default, and, togeth-
+er with two other creditors, filed an involuntary bankruptcy 
+
+__________
+     1 The government also introduced MWI invoices showing that 
+Browning-Ferris had been paying MWI to haul a daily average of 
+only 16 tons.
+
+petition against MWI.  MWI countered by suing Adams 
+National and Lundell in bankruptcy court for breach of 
+contract, alleging misconduct in the sale and financing of the 
+pellet-making machine.  During the 1995 bankruptcy pro-
+ceeding, Adams National argued that McCoy had fraudulent-
+ly induced it to provide the loan by altering the Warmus 
+letter.  In reply, McCoy testified that she had telephoned 
+Warmus, and that he had authorized her to change the 
+estimate from 16 to 100 tons, with the understanding that 100 
+tons was the "maximum amount" his facility could provide.
+
+     On March 13, 1998, a grand jury returned a ten-count 
+indictment against McCoy.  Four counts charged McCoy with 
+making false statements for the purpose of influencing Adams 
+National, in violation of 18 U.S.C. s 1014.  These counts 
+alleged that:  (i) the personal financial statement submitted 
+with the loan application failed to list McCoy's $100,000 loan 
+from Central Fidelity Bank; (ii) the resume submitted with 
+the application falsely represented that McCoy had a degree 
+from Northern Virginia Community College; (iii) the Warmus 
+letter was falsely altered to indicate that Browning-Ferris 
+would supply 100 tons of paper instead of 16; and (iv) McCoy 
+failed to reveal at the closing that Browning-Ferris would not 
+continue to provide waste paper to MWI.  Four additional 
+counts charged McCoy with making these same false state-
+ments to the SBA, in violation of 15 U.S.C. s 645.  The 
+indictment's final two counts alleged that McCoy committed 
+perjury at the 1995 bankruptcy proceeding, in violation of 15 
+U.S.C. s 1623, by testifying, inter alia, that Warmus had 
+authorized her to change his supply estimate from 16 tons to 
+100.
+
+     On June 29, 1998, the district court ordered that the 
+indictment's non-perjury counts be consolidated to avoid po-
+tential prejudice to the defendant.  Thereafter, the govern-
+ment obtained a superseding indictment with four counts:  the 
+first alleged that McCoy made four false statements to 
+Adams National;  the second alleged that she made four false 
+statements to the SBA;  and the third and fourth repeated 
+the original perjury counts.  In July of 1998, the case was 
+transferred to a second district judge, who further pared the 
+
+indictment by ordering the government to elect one of the 
+two perjury counts.2
+
+     On September 22, 1998, the jury returned a guilty verdict 
+on each of the three remaining counts.  Using a special 
+verdict form for Counts One and Two, the jury determined 
+that McCoy had knowingly, and for the purpose of influencing 
+Adams National and the SBA:  (i) failed to disclose her 
+financial liability for the Central Fidelity loan; (ii) caused a 
+false letter to be submitted stating that Browning-Ferris 
+would provide 100 tons of waste paper per day; and (iii) failed 
+to reveal that Browning-Ferris would no longer be supplying 
+any waste paper to MWI.  Due to an illness of the second 
+judge, the case was transferred to a third district judge for 
+sentencing.  Following an evidentiary hearing, the court im-
+posed concurrent prison terms of 24 months on Count Two 
+and 37 months on each of Counts One and Three.  In the 
+"Statement of Reasons" supporting this sentence, the court 
+"adopt[ed] the factual findings and guideline application in the 
+presentence report."  Judgment at 6.
+
+                                II
+
+     McCoy asserts that the evidence supporting her conviction 
+for committing perjury at the 1995 bankruptcy proceeding 
+was insufficient because the transcript of that perjurious 
+testimony was not admitted into evidence.  Because McCoy 
+failed to raise this objection before the district court, despite 
+raising other specific objections to the sufficiency of the 
+evidence, we review this claim for plain error only.  Fed. R. 
+Crim. P. 52(b);  United States v. Spinner, 152 F.3d 950, 955 
+(D.C. Cir. 1998).  The standard of review is not particularly 
+important in this case, however, because the record shows 
+that the disputed transcript was admitted into evidence.  
+Hence, there was no error, plain or otherwise.
+
+__________
+     2 At the close of the government's evidence, the court dismissed, 
+as immaterial, the allegations concerning McCoy's resume in the 
+indictment's first two counts.
+
+     The core of McCoy's argument is that the court reporter's 
+transcript of her 1998 criminal trial does not record the 
+admission of the 1995 bankruptcy transcript.  There is, how-
+ever, a plethora of other evidence that the transcript was 
+admitted.  First, the court clerk's exhibit list plainly states 
+that the bankruptcy transcript, introduced as Exhibit 30, was 
+"received into evidence" on September 17, 1998.3  Second, the 
+district court indicated its own understanding that it had 
+admitted the bankruptcy transcript.  Rejecting a government 
+request to perform a demonstrative reading of the transcript, 
+the court ruled such a reading unnecessary because the 
+jurors "can read it just like they read all the other exhibits."  
+9/17/98 Tr. at 66.4  Finally, McCoy's trial counsel made clear, 
+as the court reporter's transcript shows, that she understood 
+that the bankruptcy transcript had been admitted.  Opposing 
+the government's (renewed) attempt to have a tape of the 
+bankruptcy testimony entered into evidence and played to the 
+jury, McCoy's counsel said:  "We have got the transcript.  
+That is already in the record....  [T]he tape adds nothing, 
+and it is just cumulative...."  9/18/98 Tr. at 3.  See United 
+States v. Barrett, 111 F.3d 947, 951 (D.C. Cir. 1997) (holding 
+exhibits "deemed admitted" into evidence where they "were 
+treated below, without objection, as if they were admitted").5
+
+__________
+     3 See Fed. R. App. P. 10(a) (providing that the record on appeal 
+includes all "original papers and exhibits filed in the district court");  
+cf. Toucet v. Maritime Overseas Corp., 991 F.2d 5, 8 & n.1 (1st Cir. 
+1993) (including district court clerk's minutes as part of appellate 
+record).
+
+     4 Earlier, the court had also rejected government requests to 
+have a tape recording of McCoy's 1995 testimony admitted into 
+evidence and played to the jury, declaring that there was no "need 
+for playing the tape.  You can put in the transcript.  If you offer 
+the transcript I will admit it into evidence, but that is all I am going 
+to do."  9/17/98 Tr. at 65.  In the same colloquy, the prosecutor 
+moved the transcript into evidence.  Id. at 64.
+
+     5 In her closing argument, the prosecutor likewise indicated her 
+understanding that the transcript had been admitted, quoting it 
+repeatedly and advising the jury that:  "you'll have this transcript, 
+Government Exhibit No. 30, which shows the entire portion of the 
+
+     Because we conclude that the bankruptcy transcript was 
+admitted into evidence, we find no ground for McCoy's chal-
+lenge to her perjury conviction.
+
+                               III
+
+     McCoy also disputes the district court's application of five 
+provisions of the Sentencing Guidelines, which collectively 
+increased her offense level from 6 to 21, thereby substantially 
+increasing her range of imprisonment.  McCoy asserts that 
+the court erroneously imposed:  (i) an eight-level increase 
+based on a loss calculation of $200,000 to $350,000, pursuant 
+to U.S.S.G. s 2F1.1(b)(1);  (ii) a two-level increase for "more 
+than minimal planning," pursuant to s 2F1.1(b)(2);  (iii) a two-
+level increase because McCoy "willfully obstructed or imped-
+ed ... the administration of justice," pursuant to s 3C1.1;  
+(iv) a one-level increase because McCoy's perjury conviction 
+was not grouped with her other two convictions, pursuant to 
+s 3D1.2;  and (v) a two-level increase for McCoy's role as an 
+"organizer, leader, manager, or supervisor," pursuant to 
+s 3B1.1(c).
+
+     In reviewing these sentencing challenges, we "give due 
+regard to the opportunity of the district court to judge the 
+credibility of the witnesses," "accept the findings of fact of the 
+district court unless they are clearly erroneous," and "give 
+due deference to the district court's application of the guide-
+lines to the facts."  18 U.S.C. s 3742(e);  United States v. 
+Breedlove, 204 F.3d 267, 272 (D.C. Cir. 2000).  Issues of law 
+are reviewed de novo.  United States v. Drew, 200 F.3d 871, 
+876 (D.C. Cir. 2000);  United States v. Kim, 23 F.3d 513, 517 
+(D.C. Cir. 1994).
+
+__________
+testimony .... and I've also made copies for each of you so you 
+won't have to share one piece of paper here."  9/21/98 Tr. at 6A-25.  
+In rebuttal, the prosecutor asked the jurors to "[p]lease read the 
+transcript excerpts that have been introduced into evidence."  Id. at 
+6A-56.  Neither McCoy's trial counsel nor the district court voiced 
+any objection to these statements or to the jurors' receipt of 
+
+                                A
+
+     McCoy's first challenge is to the application of Guideline 
+s 2F1.1(b)(1), which prescribes an eight-level increase for 
+conduct that caused a loss of $200,000 to $350,000.  Applica-
+tion Note 8(b) to the guideline explains that "[i]n fraudulent 
+loan application cases .... the loss is the amount of the loan 
+not repaid ... reduced by the amount the lending institution 
+has recovered (or can expect to recover) from any assets 
+pledged to secure the loan."  U.S.S.G. s 2F1.1, comment., 
+n.8(b).  Here, it is undisputed that the amount of the unre-
+paid loan to MWI was $296,014.00, and that the SBA ulti-
+mately recovered a total of $24,113.22 by selling the pellet-
+making machine back to its manufacturer at a liquidation 
+sale.6  Accordingly, the court calculated the loss as 
+$271,900.78 and increased McCoy's offense level by eight.
+
+     McCoy objects that this dollar figure understates "what the 
+SBA could reasonably have expected to recover."  Appellant's 
+Br. at 44.  Her principal argument is that the SBA should 
+have been able to obtain more for the pellet-making machine, 
+since the machine had been purchased for $385,000 only two 
+years before.  But whatever the SBA "should" have been able 
+to recover, the fact remains that, in the words of the applica-
+tion note, "the amount the lending institution has recovered" 
+is only $24,113.22.  (Emphasis added).  Moreover, since the 
+machine has been sold, the SBA "can expect to recover" 
+nothing more.  Hence, under the application note, no greater 
+offset is indicated.
+
+     Nor is there any evidence that the liquidation sale was a 
+sham, or that the SBA artificially depressed the value of the 
+recovery.  To the contrary, all circumstances indicate that the 
+matter was handled as an arms-length, business transaction:  
+The SBA engaged an independent appraisal company, which 
+valued the machine at between $37,000 and $56,000;  a profes-
+__________
+individual copies of the transcript.  Id.;  see Barrett, 111 F.3d at 
+951.
+
+     6 MWI's only other asset of value was a forklift, which was 
+appraised at $1,200 and sold to MWI's landlord for $1,000 to offset 
+storage costs.  No buyer could be found for MWI's residual office 
+furniture and equipment, which were abandoned because their  
+appraised worth was below their removal and storage costs.
+
+sional auction company handled the sale;  and the machine 
+was sold to the highest of three bidders--which turned out to 
+be the original manufacturer--for a price of $45,000.  After 
+deducting auctioneer's expenses and pre-sale storage costs, 
+the SBA realized a net of $24,113.22.  Although that amount 
+is significantly less than MWI originally paid for the machine, 
+the government explains the reduction in value as caused by 
+market conditions and deterioration of the machine while at 
+MWI.  In light of the arms-length nature of the transaction, 
+the district court's loss calculation cannot be described as 
+clearly erroneous.  Accordingly, McCoy's offense level was 
+properly increased by eight levels pursuant to U.S.S.G. 
+s 2F1.1(b)(1).7
+
+                                B
+
+     McCoy's second challenge is to the two-point increase she 
+received under Guideline s 2F1.1(b)(2) for "more than mini-
+mal planning."  The Guidelines define that phrase as follows:
+
+     "More than minimal planning" means more planning 
+     than is typical for commission of the offense in a simple 
+     form.  "More than minimal planning" also exists if signif-
+     icant affirmative steps were taken to conceal the of-
+     fense....
+     
+     "More than minimal planning" is deemed present in any 
+     case involving repeated acts over a period of time, unless 
+     it is clear that each instance was purely opportune.  
+     Consequently, this adjustment will apply especially often 
+     in property offenses.
+     
+U.S.S.G. s 1B1.1, comment., n.1(f), incorporated by reference 
+in s 2F1.1(b)(2), comment., n.2.  As this definition makes 
+clear, more than minimal planning may be found in any of the 
+
+__________
+     7 McCoy also contends that the SBA unjustifiably delayed in 
+attempting to recover funds from the loan's guarantors.  The only 
+guarantors other than MWI and McCoy, however, were McCoy's 
+relatives, and she has offered no evidence that there was any 
+realistic prospect of a recovery from them that would have material-
+ly affected her guidelines calculation.
+
+following three circumstances:  (i) the offense entailed more 
+planning than is typical for commission of the offense in a 
+simple form;  (ii) significant affirmative steps were taken to 
+conceal the offense;  or (iii) the offense involved repeated, not 
+purely opportune acts over a period of time.8
+
+     McCoy's presentence report ("PSR"), whose findings the 
+district court adopted, recommended a more than minimal 
+planning enhancement based on the third prong of the guide-
+line's framework--repeated acts that were not purely oppor-
+tune.  PSR p 43.9  We have previously held that satisfaction 
+of the repeated acts criterion requires at least three acts over 
+a period of time.  Kim, 23 F.3d at 515.  Once three acts have 
+been identified, more than minimal planning is "deemed" 
+present, "unless it is clear that each instance was purely 
+opportune."  U.S.S.G. s 1B1.1, comment., n.1(f), incorporated 
+by reference in s 2F1.1(b)(2), comment., n.2.10
+
+     Every circuit that has addressed the question, including 
+our own, has defined "purely opportune" acts as those under-
+taken on the spur of the moment, in response to a sudden, 
+
+__________
+     8 See United States v. Lutz, 154 F.3d 581, 590 (6th Cir. 1998);  
+United States v. Viemont, 91 F.3d 946, 952 (7th Cir. 1996);  United 
+States v. Clements, 73 F.3d 1330, 1340-41 (5th Cir. 1996);  United 
+States v. Bridges, 50 F.3d 789, 791 (10th Cir. 1994);  United States 
+v. Mullins, 996 F.2d 1170, 1171 (11th Cir. 1993);  United States v. 
+Rust, 976 F.2d 55, 57 (1st Cir. 1992).
+
+     9 See generally United States v. Valdez-Torres, 108 F.3d 385, 
+390 (D.C. Cir. 1997) (holding that "by adopting the presentence 
+report, the district court made the requisite finding" under the 
+Guidelines);  United States v. Strothers, 77 F.3d 1389, 1394 (D.C. 
+Cir. 1996) ("The district court adopted the [presentence] report's 
+findings and we may review them only for clear error.").
+
+     10 The literal language of the application note states that an 
+increase is appropriate unless each of the three acts was purely 
+opportune--i.e., as long as one of the three was not purely oppor-
+tune, the increase is appropriate.  As we conclude that none of 
+McCoy's three acts was purely opportune, we need not decide 
+whether this literal reading is correct.  See United States v. Macia-
+ga, 965 F.2d 404, 407 (7th Cir. 1992) (suggesting that the enhance-
+ment requires that none of the acts be purely opportune).
+
+fortuitous opportunity of which the defendant took advantage 
+without deliberation.11  Moreover, because s 1B1.1's third 
+prong is independent of its first, the guideline contemplates 
+that an act may not entail more planning than is typical of the 
+offense in its simple form, and yet still warrant enhancement 
+if it is part of a series of repeated acts that are not purely 
+opportune.  Defendant conceded as much at oral argument.  
+See also United States v. Monaco, 23 F.3d 793, 797-98 (3d 
+Cir. 1994) (requiring enhanced sentence, although defendant's 
+submission of repeated false labor sheets constituted only "a 
+simple repetition of a simple plan" (emphasis omitted));  Unit-
+ed States v. Rust, 976 F.2d 55, 57 (1st Cir. 1992) (requiring 
+enhanced sentence for repeated acts, even assuming defen-
+dant "engaged in no more planning than would be typical for 
+the crime of mail fraud, which, by its very nature, involves 
+planning");  see generally Kim, 23 F.3d at 515 (noting two 
+"guideline paradigms of more than minimal planning--re-
+peated acts and more planning than is typical for the simple 
+form of the crime").
+
+     Reviewing the sentencing court's factual findings for clear 
+error, and giving due deference to its application of the 
+Guidelines to the facts, we find the third prong of the more 
+than minimal planning enhancement satisfied here.  See Kim, 
+23 F.3d at 517 (holding that appellate court should afford due 
+deference to district court determination that defendant en-
+gaged in more than minimal planning).12  Although the pre-
+
+__________
+     11 E.g., Lutz, 154 F.3d at 590 ("There is no indication that any of 
+these actions were the result of spur of the moment conduct such as 
+would warrant a finding that the conduct was purely opportune.");  
+United States v. Broumas, 69 F.3d 1178, 1183 (D.C. Cir. 1995) 
+(affirming enhancement because acts were not prompted by "fortui-
+tous circumstances");  United States v. Monaco, 23 F.3d 793, 797 
+(3d Cir. 1994) ("[P]urely opportune ... has been appropriately 
+defined as spur of the moment conduct, intended to take advantage 
+of a sudden opportunity." (internal quotation omitted));  Rust, 976 
+F.2d at 57 (same).
+
+     12 Because we find the enhancement justified by the "repeated 
+acts" rationale, we do not consider whether McCoy's sentence could 
+also have been properly enhanced under either of the first two 
+
+sentence report did not specifically indicate which of McCoy's 
+acts it relied upon to justify the enhancement, it described at 
+least three that clearly qualify.13  The first is McCoy's sub-
+mission of the September 1993 loan application, which falsely 
+understated her liabilities by omitting her $100,000 liability to 
+Central Fidelity Bank.  The second is the submission of the 
+October 1993 Warmus letter, which McCoy altered to state 
+falsely that Browning-Ferris would provide MWI with 100 
+tons of paper per day.  The third is McCoy's November 1993 
+certification, at the closing on the Adams National loan, 
+stating that there had been no substantial adverse change 
+since the original application and failing to disclose that 
+Browning-Ferris had decided to stop supplying MWI with 
+waste paper.
+
+     McCoy does not dispute that these three acts were "part of 
+the same course of conduct or common scheme or plan as the 
+offense of conviction," thus constituting part of the "relevant 
+conduct" used in determining her appropriate guideline 
+range.  U.S.S.G. s 1B1.3(a)(2).  Nor does she contest that 
+these acts occurred "over a period of time," namely three 
+months.  U.S.S.G. s 1B1.1, comment., n.1(f), incorporated by 
+reference in s 2F1.1(b)(2), comment., n.2.  Accordingly, the 
+two-point increase for more than minimal planning is proper 
+unless "it is clear that each [act] was purely opportune."  Id. 
+(emphasis added).  Here, that is not at all clear;  to the 
+contrary, each act appears to have been a calculated step in 
+McCoy's fraudulent pursuit of the Adams National loan.
+
+     McCoy concedes that her first act, submitting a false 
+financial statement with her initial loan application, was not 
+purely opportune.  Reply Br. at 2.  McCoy initiated the 
+
+__________
+prongs--i.e., because her conduct entailed more planning than is 
+typical for commission of the offense in a simple form, or because 
+significant affirmative steps were taken to conceal the offense.
+
+     13 The fact that not all three of these acts were mentioned by 
+the probation officer at the sentencing hearing is not determinative, 
+because the district court expressly adopted all of the PSR's factual 
+findings and guideline applications without limitation.  See United 
+States v. Bridges, 175 F.3d 1062, 1069 n.8 (D.C. Cir. 1999).
+
+application and had ample time to contemplate the financial 
+data she included therein.  See United States v. Lutz, 154 
+F.3d 581, 590 (6th Cir. 1998) (holding that the submission of 
+"false information with regard to loan applications" was not 
+the "result of spur of the moment conduct").  Nor was 
+McCoy's second act, submitting the altered Warmus letter, a 
+spur-of-the-moment event.  See Breedlove, 204 F.3d at 272-73 
+(affirming finding that presentation of altered check for de-
+posit was not purely opportune).  Indeed, altering the letter 
+required McCoy to take a series of component steps, each 
+evincing deliberation and calculation:  McCoy sought the let-
+ter from Warmus in order to satisfy Adams National's doubts 
+concerning the tipping fees projection in her loan application;  
+when she received a figure far below that which she had 
+submitted to Adams National, McCoy instructed her secre-
+tary to white-out the references to 16 tons, replace them with 
+handwritten "100 tons," and fax the altered letter to the bank;  
+when Adams National expressed concern that the tonnage 
+figures were handwritten, McCoy directed her secretary to 
+type them in, and, in order to create an aura of authenticity, 
+further directed her secretary to inscribe Ed Warmus' initials 
+next to the tonnage terms;  she then directed that the letter 
+be refaxed to Adams National.  Finally, we do not regard 
+McCoy's third act, her false certification at the loan closing, 
+as either spur of the moment or fortuitous:  Adams National 
+had made clear that MWI's tipping fees projection was criti-
+cal, and Warmus had advised McCoy of Browning-Ferris' 
+stunning change of plans, which invalidated that projection, 
+several days before the closing--again giving her ample 
+opportunity for contemplation.
+
+     Accordingly, because McCoy's relevant conduct included 
+repeated acts, and because it is not "clear that each instance 
+was purely opportune," we conclude that the district court 
+properly increased McCoy's offense level under Guideline 
+s 2F1.1(b)(2).
+
+                                C
+
+     McCoy also contends that the district court incorrectly 
+imposed a two-point increase in offense level because she 
+
+"willfully obstructed ... or attempted to obstruct ... the 
+administration of justice" during the course of her prosecu-
+tion.  U.S.S.G. s 3C1.1.  The presentence report recom-
+mended this increase based on a finding that McCoy had 
+committed perjury during her criminal trial by testifying, 
+inter alia, that Warmus authorized her to alter his letter's 
+tonnage estimates.
+
+     McCoy correctly notes that at the time she committed her 
+offenses, this circuit required "clear and convincing" evidence 
+for s 3C1.1 enhancements based on a defendant's alleged 
+perjury at trial.14  She claims that it is not apparent whether 
+the sentencing court used that standard.  And she argues 
+that the court could not possibly have found clear and con-
+vincing evidence that she lied at trial because there was 
+conflicting testimony--most importantly, between her de-
+scription of events and that of Warmus.  The sentencing 
+judge was not in a position to resolve the alleged conflicts, 
+McCoy argues, because that judge did not preside over the 
+trial (a transfer having occurred due to the trial judge's 
+illness) and hence did not personally observe the witnesses' 
+demeanor.
+
+     Defendant's arguments are rendered irrelevant by the trial 
+jury's verdict, on Count Three of the indictment, that McCoy 
+committed perjury at the 1995 bankruptcy proceeding when 
+she testified that Warmus had given her permission to change 
+the contents of his letter.  See Second Retyped Indictment 
+pp 17-26 (App. 144-48).  McCoy's testimony to the same 
+effect at her 1998 criminal trial was the principal ground for 
+the presentence report's conclusion, adopted by the sentenc-
+
+__________
+     14 Compare United States v. Montague, 40 F.3d 1251, 1254 
+(D.C. Cir. 1994) (requiring clear and convincing evidence), with 
+United States v. Dozier, 162 F.3d 120, 124 n.1 (D.C. Cir. 1998) 
+(noting that guideline amendment, which took effect on November 
+1, 1997, now requires only proof by preponderance).  In light of our 
+disposition, we need not consider the government's contention that 
+the relevant time for determination of the appropriate standard of 
+proof is the date of defendant's obstruction--here, her 1998 trial 
+perjury--rather than the date of her indicted offenses--the last of 
+which occurred in 1995.
+
+ing judge, that McCoy had likewise committed perjury at that 
+trial and therefore deserved the two-point enhancement for 
+obstruction of justice.  Since the jury reached its conclusion 
+based on a standard more stringent than "clear and convinc-
+ing" evidence--i.e., evidence beyond a reasonable doubt--and 
+since the district court was entitled to rely upon the jury's 
+verdict at sentencing, the court's opportunity to observe the 
+testimony is irrelevant and the defendant's complaint neces-
+sarily fails.  See United States v. Montague, 40 F.3d 1251, 
+1256 n.4 (D.C. Cir. 1998) (holding that s 3C1.1 enhancements 
+are proper where juries have found "beyond a reasonable 
+doubt that the defendant lied, and could not have convicted 
+otherwise" (quoting United States v. Thompson, 962 F.2d 
+1069, 1071 (D.C. Cir. 1992))).15
+
+     At oral argument, McCoy conceded the force of this point, 
+agreeing that if her testimony at the bankruptcy proceeding 
+
+__________
+     15 We do not, in any event, accept defendant's proposition that a 
+court cannot resolve disputes over the credibility of witnesses 
+without directly observing their demeanor.  To the contrary, de-
+meanor is only one of many bases upon which factfinders may judge 
+credibility.  See Carbo v. United States, 314 F.2d 718, 749 (9th Cir. 
+1963) ("Credibility involves more than demeanor.  It apprehends 
+the over-all evaluation of testimony in the light of its rationality or 
+internal consistency and the manner in which it hangs together with 
+other evidence.");  1 J. Strong, McCormick on Evidence s 33, at 
+123-24 (5th ed. 1999) (noting that credibility may be attacked 
+through, inter alia, prior inconsistent statements, proof of bias, 
+evidence of character, capacity to observe, and proof of contrary 
+facts);  see also Fed. R. Evid. 608, 609, 801(d)(1)(A).  Moreover, the 
+Sentencing Reform Act states that courts of appeals "shall give due 
+regard to the opportunity of the district court to judge credibility of 
+the witnesses, and shall accept the findings of the district court 
+unless they are clearly erroneous."  18 U.S.C. s 3742(e) (emphasis 
+added).  Thus, the ultimate question is whether the district court's 
+findings are clearly erroneous;  the kind of opportunity the court 
+had to evaluate credibility is simply a factor we must take into 
+account in making that determination.  In this case, although the 
+sentencing judge did not preside at trial, she did have before her a 
+transcript of the relevant witnesses' testimony, provided as an 
+attachment to the government's sentencing memorandum.
+
+had been the same as her testimony at the criminal trial, the 
+jury's finding that she committed perjury at the former would 
+establish that she did so at the latter as well.  McCoy argues, 
+however, that her testimony was not the same in both pro-
+ceedings, and hence that we cannot be certain whether the 
+bankruptcy testimony that the jury found perjurious was the 
+same as her testimony at the trial of the criminal case.16 
+
+     Defendant did not make this argument below, thus limiting 
+our review to plain error.  See Fed. R. Crim. P. 52(b).17  
+Indeed, at sentencing she took the opposite position:  McCoy 
+told the court that she had made "precisely the same state-
+ment" in both proceedings.  Def.'s Supp. Sentencing Mem. at 
+5 (App. 211);  see also Sentencing Hr'g Tr. at 68 ("Ms. McCoy 
+was convicted of false statements and she was convicted of 
+perjury for the same testimony that she gave in her bank-
+ruptcy proceeding." (statement of defense counsel)).  McCoy 
+made this claim in support of a double jeopardy attack on the 
+proposed perjury enhancement:  She argued that since she 
+had been "convicted of perjury for statements that she made 
+during a bankruptcy proceeding," and since she had made 
+"precisely the same statement" during her criminal trial, "[t]o 
+convict her of perjury and then to enhance her sentence on 
+essentially the same conduct is unconstitutional [under] the 
+Double Jeopardy Clause of the Constitution."  Def.'s Supp. 
+Sentencing Mem. at 5 (App. 211).  Although defendant does 
+not pursue her double jeopardy argument on appeal, she is 
+nonetheless hoisted by her own petard.  Since McCoy told 
+the sentencing judge that she was convicted of perjury for 
+making "precisely the same statement" at the 1995 bankrupt-
+cy proceeding as she made at her 1998 criminal trial, it was 
+hardly plain error for the judge to conclude that she commit-
+ted perjury at the latter, just as she had at the former.
+
+__________
+     16 Although we do not find McCoy's efforts to distinguish the 
+two testimonies convincing, the discussion that follows makes it 
+unnecessary to address the distinctions she claims.
+
+     17 The government, by contrast, did seek to rely on the jury's 
+finding of perjury.  Government's Mem. in Aid of Sentencing at 12-
+13.
+
+                                D
+
+     Fourth, McCoy challenges the district court's failure to 
+group her perjury conviction with her two false statement 
+convictions.  See U.S.S.G. s 3D1.2.  That decision increased 
+McCoy's offense level by one.  See U.S.S.G. s 3D1.4;  PSR 
+pp 54-58.
+
+     Guideline s 3D1.2 states:
+
+     All counts involving substantially the same harm shall be 
+     grouped together into a single Group.  Counts involve 
+     substantially the same harm within the meaning of this 
+     rule:
+     
+     ...
+     
+     (b) When counts involve the same victim and two or 
+     more acts or transactions connected by a common crimi-
+     nal objective or constituting part of a common scheme or 
+     plan.
+     
+McCoy asserts that, under s 3D1.2(b), the court should have 
+grouped her perjury count with the other two because all 
+three crimes involved the "same victims"--namely, Adams 
+National and the SBA.18  The government, on the other hand, 
+contends that while Adams National and the SBA were the 
+victims of the false statement counts, society at large was the 
+victim of McCoy's perjury in the bankruptcy proceeding.  We 
+believe the government has the better of the argument.
+
+     The Guidelines state that the "victim" of an offense gener-
+ally is the "one person who is directly and most seriously 
+affected by the offense."  U.S.S.G. s 3D1.2, comment., n.2.  
+There is no doubt that Adams National and the SBA were the 
+victims of McCoy's false statements in connection with the 
+__________
+     18 At oral argument, the government appeared to accept 
+McCoy's claim that Adams National and the SBA (rather than each 
+individually) should together be deemed "the victim" of the false 
+statements.  Moreover, neither party has addressed whether this 
+case satisfies the second requirement of s 3D1.2(b), namely, that 
+the counts also involve "two or more acts or transactions connected 
+by a common criminal objective or constituting part of a common 
+scheme or plan."  Accordingly, we do not address these issues here.
+
+loan application, but there is no evidence that they were 
+affected by McCoy's perjury in the 1995 bankruptcy proceed-
+ing--much less that they were "directly and most seriously 
+affected."  McCoy does not contend that either institution 
+relied upon that false testimony.  Indeed, the SBA does not 
+appear to have participated in the bankruptcy proceeding at 
+all, while Adams National won every significant issue contest-
+ed therein.  See McCoy's Waste Indus. & Mfg., Inc. v. Adams 
+Nat'l Bank, Adv. No. 94-0096, slip op. at 1, 50-52 (Bankr. 
+D.C. Oct. 5, 1995).  It is therefore difficult to discern how 
+either entity could have been adversely affected by McCoy's 
+perjury.  Cf. United States v. Norris, 217 F.3d 262, 272 (5th 
+Cir. 2000) (holding that, for purposes of 18 U.S.C. s 3663, 
+creditors in bankruptcy proceeding were not "victims" of 
+perjury when they neither relied on the false testimony nor 
+incurred any losses as a consequence thereof).
+
+     The Guidelines further provide that "[f]or offenses in which 
+there are no identifiable victims ... the 'victim' for purposes 
+of subsections (a) and (b) is the societal interest that is 
+harmed."  U.S.S.G. s 3D1.2, comment., n.2.  It is well-
+recognized that the societal interest harmed by perjury is the 
+integrity of the legal system.19  Since the perjury count 
+therefore involved a different victim from the false statement 
+counts, the one-level increase under s 3D1.2(b) was warrant-
+ed in this case.  Cf. United States v. Napoli, 179 F.3d 1, 7-8 
+(2d Cir. 1999) (declaring that, under s 3D1.2(b), victims of 
+fraud are those who lose money thereby, while victim of 
+money laundering is society as a whole).
+
+__________
+     19 See, e.g., United States v. Kiszewski, 877 F.2d 210, 214 (2d 
+Cir. 1989) ("[P]erjury strikes at the heart of the integrity of the 
+judicial system....");  cf. Hazel-Atlas Glass Co. v. Hartford- 
+Empire Co., 322 U.S. 238, 246 (1944) ("[T]ampering with the 
+administration of justice involves far more than an injury to a single 
+litigant.  It is a wrong against the institutions set up to protect and 
+safeguard the public, institutions in which fraud cannot complacent-
+ly be tolerated consistently with the good order of society."), 
+overruled on other grounds by Standard Oil Co. v. United States, 
+429 U.S. 17, 18 & n.2 (1976).
+
+                                E
+
+     Finally, McCoy argues that the district court wrongly 
+imposed a two-level enhancement based on her role as "an 
+organizer, leader, manager, or supervisor" of a criminal activ-
+ity.  U.S.S.G. s 3B1.1(c).  "To qualify for an adjustment 
+under this section, the defendant must have been the organiz-
+er, leader, manager, or supervisor of one or more other 
+participants."  Id., comment., n.2 (emphasis added).
+
+     The presentence report explained its recommendation of 
+the enhancement as follows:
+
+     The defendant was the President of McCoy's Waste.  As 
+     such, she held a leadership and managerial role over the 
+     employees of McCoy's Waste, who were unwitting par-
+     ticipants in the fraud.  Specifically, the defendant direct-
+     ed the activities of Kim Turner, secretary at McCoy's 
+     Waste.  Pursuant to U.S.S.G. s 3B1.1(c), two levels are 
+     added.
+     
+PSR p 45 (emphasis added).  As McCoy correctly notes, 
+however, supervision of an unwitting individual cannot justify 
+an enhancement under U.S.S.G. s 3B1.1(c).  The guideline 
+commentary requires supervision of one or more "partici-
+pants," and a "participant" is defined as a person who, 
+although not necessarily convicted, "is criminally responsible 
+for the commission of the offense."  U.S.S.G. s 3B1.1, com-
+ment., n.1.  Because an individual cannot be criminally re-
+sponsible for making a false statement unless she is witting, 
+see 18 U.S.C. s 1014 (requiring that false statement be made 
+"knowingly"), the fact that McCoy's employees were unwit-
+ting would appear to render this enhancement inapplicable.  
+See United States v. Bapack, 129 F.3d 1320, 1325 (D.C. Cir. 
+1997) (holding that a person is "criminally responsible" under 
+s 3B1.1 only if "he commit[s] all of the elements of a statuto-
+ry crime with the requisite mens rea" (internal quotations 
+omitted) (emphasis added)).
+
+     The government does not dispute this reading of the guide-
+line, suggesting instead that the word "unwitting" was merely 
+a typographical error in the presentence report, and that the 
+
+probation officer who wrote it must have intended to indicate 
+that Turner was an "unwilling" participant.  As the govern-
+ment points out, the probation officer twice rejected McCoy's 
+argument that Turner was not a criminally responsible partic-
+ipant, writing that "Turner was criminally responsible for the 
+offense as she altered the letter, at the instruction of the 
+defendant."  PSR Addendum at 29;  see Sentencing Hr'g Tr. 
+at 82.  On the other hand, as McCoy correctly notes, altering 
+the letter "at the instruction of the defendant" is still not the 
+same as being "witting," unless Turner knew that Warmus 
+had not authorized the alteration.  In rebuttal, the govern-
+ment contends that there was sufficient evidence from which 
+the sentencing court could have found Turner criminally 
+responsible under a correct legal standard, noting that Tur-
+ner testified that she "knew" that altering the letter "was 
+wrong to do."  9/17/98 Tr. at 12.
+
+     Whatever the sentencing court intended to find or could 
+have found, on the record before us we cannot conclude with 
+confidence that it employed the correct legal standard in 
+applying the s 3B1.1(c) enhancement.  Accordingly, the en-
+hancement cannot stand, and we remand the case for resen-
+tencing with instructions to resolve the ambiguities in the 
+court's application of U.S.S.G. s 3B1.1.  See 18 U.S.C. 
+s 3742(f)(1) (requiring remand where sentence is imposed in 
+violation of law or as result of incorrect guideline application);  
+Dozier, 162 F.3d at 128 (noting that remand is appropriate 
+where reasonable likelihood exists that trial court based 
+decision on impermissible factor and where issue cannot be 
+resolved without more complete statement of court's reason-
+ing);  see also United States v. Saro, 24 F.3d 283, 288-89 
+(D.C. Cir. 1994).
+
+                                IV
+
+     For the foregoing reasons, we affirm McCoy's conviction of 
+perjury, reject four of her five sentencing challenges, and 
+remand for further proceedings with respect to the fifth.
+
+                                               

@@ -1,0 +1,715 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued January 19, 2000     Decided August 18, 2000 
+
+                           No. 99-1098
+
+              First American Discount Corporation, 
+                            Petitioner
+
+                                v.
+
+              Commodity Futures Trading Commission, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+               Commodity Futures Trading Commission
+
+     Patrick G. King argued the cause and was on the briefs for 
+petitioner.
+
+     C. Maria D. Godel, Attorney, Commodity Futures Trading 
+Commission, argued the cause for respondent.  With her on 
+the brief were David R. Merrill and J. Douglas Richards, 
+Deputy General Counsel.
+
+     John J. Muldoon, III was on the brief for amicus curiae 
+FCM Coalition for Regulatory Fairness.
+
+     Before:  Henderson, Randolph, and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Separate statement concurring in the judgment filed by 
+Circuit Judge Randolph.
+
+     Garland, Circuit Judge:  First American Discount Corpo-
+ration seeks review of an order of the Commodity Futures 
+Trading Commission (CFTC) holding the company jointly and 
+severally liable for the acts of a commodities broker whose 
+liabilities First American had agreed to guarantee.  First 
+American contends that the CFTC regulation pursuant to 
+which it entered into the guarantee agreement is substantive-
+ly and procedurally invalid, and further argues that the 
+broker's customer waived the benefits of the guarantee.  The 
+CFTC rejected these claims, as do we.
+
+                                I
+     First American is regulated under the Commodity Ex-
+change Act (CEA) as a "futures commission merchant" 
+(FCM).  See 7 U.S.C. s 1a(12).1  An FCM is the commodity 
+market's equivalent of a securities brokerage house, soliciting 
+and accepting orders for futures contracts and accepting 
+funds or extending credit in connection therewith.  See Timo-
+thy J. Snider, Regulation of the Commodities Futures and 
+Options Markets s 6.04 (2d. ed. 1997).  Prior to 1982, FCMs 
+did business with the public both through their own employ-
+ees, known as "associated persons," and through loosely 
+__________
+     1  The CEA defines an FCM as:
+       an individual, association, partnership, corporation, or trust 
+       that--(A) is engaged in soliciting or in accepting orders for the 
+       purchase or sale of any commodity for future delivery on or 
+       subject to the rules of any contract market;  and (B) in or in 
+       connection with such solicitation or acceptance of orders, ac-
+       cepts any money, securities, or property (or extends credit in 
+       lieu thereof) to margin, guarantee, or secure any trades or 
+       contracts that result or may result therefrom.
+     
+7 U.S.C. s 1a(12).
+
+affiliated "agents."  S. Rep. No. 97-384, at 40 (1982).  The 
+main function of many such agents was to procure business 
+for FCMs.  See id. at 111.  These agents were largely 
+unregistered and unregulated.  See id. at 40.
+
+     In 1982, the CFTC advised Congress that the number of 
+agents was growing significantly, and that FCMs who used 
+them "have often disavowed any responsibility for violations 
+of the Act by these 'agents.' "  Id.  The Commission proposed 
+that "each 'agent' of a futures commission merchant be 
+required to register as an associated person of that futures 
+commission merchant."  Id.  Congress, however, did not 
+adopt the CFTC's recommendation.  As the Senate Commit-
+tee on Agriculture, Nutrition, and Forestry explained:
+
+     [T]he Committee felt it would be inappropriate to (1) 
+     require these independent business entities to become 
+     branch offices of the futures commission merchants 
+     through which their trades are cleared or (2) to impose 
+     vicarious liability on a futures commission merchant for 
+     the actions of an independent entity.
+     
+Id. at 41.  At the same time, Congress acknowledged the 
+need "to guarantee accountability and responsible conduct of 
+such persons," id., who "deal with commodity customers and, 
+thus, have the opportunity to engage in abusive sales prac-
+tices," id. at 111.
+
+     To resolve this dilemma, Congress drafted legislation re-
+quiring all persons who solicit or accept customer orders for 
+FCMs to register with the CFTC, but permitting them to 
+register either as "associated persons" of the FCMs, or as 
+part of a new class of registrants called "introducing bro-
+kers."  Id. at 112.  The latter were conceived of as indepen-
+dent entities that solicited and accepted customer orders but 
+used the services of FCMs for clearing, record keeping and 
+retaining customer funds.  See id. at 41.  To guarantee the 
+accountability of introducing brokers, the Commission was 
+authorized to require them to meet "minimum financial re-
+quirements."  See id.
+
+     The new provisions were enacted as part of the Futures 
+Trading Act of 1982, Pub. L. No. 97-444, 96 Stat. 2294, which 
+amended the CEA.  Most significant for our purposes are 
+amended CEA section 1a, 7 U.S.C. s 1a, which creates the 
+category of "introducing brokers,"2 and amended section 
+4f(b), 7 U.S.C. s 6f(b), which directs the CFTC to ensure that 
+every introducing broker "meets such minimum financial 
+requirements as the Commission may by regulation prescribe 
+as necessary to insure his meeting his obligations as a regis-
+trant."3  In adopting the latter, the House Conference Report 
+stated:
+
+     [T]he conferees contemplate that the Commission will 
+     establish financial requirements which will enable [intro-
+     ducing brokers] to remain economically viable, although 
+     it is intended that fitness tests comparable to those 
+     required of associated persons will also be employed.  
+     The intent of the conferees is to require Commission 
+     registration of all persons dealing with the public, but to 
+     provide registrants with substantial flexibility as to the 
+     manner and classification of registration.
+     
+H.R. Conf. Rep. No. 97-964, at 41 (1982).
+
+     In April 1983, the CFTC responded to Congress' mandate 
+by publishing a notice of proposed rulemaking setting forth a 
+__________
+     2  The statute defines an introducing broker as:
+
+     any person (except an individual who elects to be and is 
+     registered as an associated person of a futures commission 
+     merchant) engaged in soliciting or in accepting orders for the 
+     purchase or sale of any commodity for future delivery on or 
+     subject to the rules of any contract market who does not accept 
+     any money, securities, or property (or extend credit in lieu 
+     thereof) to margin, guarantee, or secure any trades or con-
+     tracts that result or may result therefrom.
+     
+7 U.S.C. s 1a(14).
+
+     3  The amended statute bars registration of an introducing 
+broker unless the broker meets the CFTC's minimum financial 
+requirements, see 7 U.S.C. s 6f(b), and makes it unlawful to engage 
+in business as an introducing broker unless registered as such, see 7 
+U.S.C. s 6d.
+
+$25,000 "minimum adjusted net capital requirement" for in-
+troducing brokers.  48 Fed. Reg. 14,933, 14,942 (1983) (pro-
+posed rule).  In addition, those brokers whose capital reserve 
+decreased to less than an "early warning level" of 150% of 
+that amount would, under the proposed rule, be required to 
+notify the CFTC and file monthly financial statements.  Id. at 
+14,951.  The capital requirement, therefore, would effectively 
+have been $37,500.  See 48 Fed. Reg. 35,248, 35,262 (1983) 
+(final rule).  The CFTC stated that requiring introducing 
+brokers to have such a permanent capital base "not only 
+would establish a benchmark of economic viability, but would 
+also be an important element of customer protection."  48 
+Fed. Reg. at 14,942.  The proposed minimum would "pro-
+vid[e] coverage for potential liabilities arising from business 
+operations, customer relations and the handling of proprie-
+tary accounts."  Id.
+
+     After publication of the notice, the CFTC received numer-
+ous comments, including many from the industry contending 
+that the proposed capital requirements were excessive.  The 
+CFTC issued its final rule on August 3, 1983.  The final rule 
+took the industry's comments into account by reducing the 
+minimum net capital requirement to $20,000 and entirely 
+eliminating the proposed early warning requirement for intro-
+ducing brokers.  See 48 Fed. Reg. at 35,249.  In addition, 
+adopting the suggestion of several FCMs, the Commission 
+announced an alternative method for complying with the 
+financial requirement.  Under this alternative, an introducing 
+broker may satisfy the requirement without maintaining any 
+net capital of its own, if it enters into a guarantee agreement 
+with an FCM under which the FCM agrees to:
+
+     guarantee[ ] performance by the introducing broker of, 
+     and ... be jointly and severally liable for, all obligations 
+     of the introducing broker under the Commodity Ex-
+     change Act ... with respect to the solicitation of and 
+     transactions involving all commodity customer ... ac-
+     counts of the introducing broker entered into on or after 
+     the effective date of [the] agreement.
+     
+CFTC Form 1-FR-IB (Part B);  see 17 C.F.R. s 1.3(nn);  48 
+Fed. Reg. at 35,249.4  The rule became effective on August 3, 
+1983.5
+
+     Taking advantage of the alternative compliance mechanism 
+contained in the final rule, First American entered into a 
+guarantee agreement with Wolf Futures Group, Inc., an 
+introducing broker.  Pursuant to the new regulations, the 
+agreement stated that First American would be jointly and 
+severally liable for all of Wolf's obligations as an introducing 
+broker under the CEA.  See Violette v. First Am. Discount 
+Corp., CFTC Doc. No. 97-R020, 1999 WL 92428, at *3 n.1 
+(Feb. 24, 1999).  Wolf Futures subsequently introduced Greg-
+ory Violette to First American to open a commodity futures 
+trading account in Violette's name.
+
+     On December 11, 1996, Violette filed a complaint with the 
+CFTC against Wolf Futures and its principal, Scott Allen 
+Wolf [hereinafter referred to collectively as "Wolf"]. On Au-
+gust 31, 1998, a CFTC Judgment Officer found that Wolf had 
+traded Violette's account without written authorization in 
+violation of CFTC Regulation 166.2, 17 C.F.R. s 166.2.  See 
+Violette v. First Am. Discount Corp., CFTC Doc. No. 
+97-R020, 1998 WL 552810 (Aug. 31, 1998).  The Officer 
+assessed damages of $13,438.50, plus prejudgment interest 
+and costs.  Most significant for our purposes, the Officer held 
+First American jointly and severally "liable for the acts of 
+Wolf by virtue of its status as guarantor."  Id. at *23.
+
+     First American appealed to the Commission, raising three 
+arguments:  (1) that the CFTC regulation providing for guar-
+antor status was contrary to congressional intent and thus 
+invalid;  (2) that the regulation was void for lack of proper 
+notice under the Administrative Procedure Act (APA);  and 
+(3) that an exculpatory clause in a contract Violette signed 
+
+__________
+     4  Introducing Brokers who register under this option are 
+known as "Guaranteed Introducing Brokers."  See 48 Fed. Reg. at 
+35,260.
+
+     5  In 1996, citing inflation, the CFTC raised the floor from 
+$20,000 to $30,000.  See 61 Fed. Reg. 19,177, 19,183 n.31 (1996).
+
+with First American overrode the guarantee agreement.  The 
+Commission ruled against First American on all three claims 
+and affirmed the decision of the Judgment Officer.  See 
+Violette, 1999 WL 92428, at *1.  Pursuant to 7 U.S.C. s 18(e), 
+First American petitions this court for review of the Commis-
+sion's order.
+
+                                II
+
+     First American's initial claim is that the CFTC's final rule, 
+which sets forth minimum capital requirements and permits 
+the alternative of a guarantee agreement, contravenes the 
+1982 Act.  Our analysis of an agency's interpretation of a 
+statute is guided by the two-step framework of Chevron 
+U.S.A. Inc. v. NRDC, 467 U.S. 837, 842-43 (1984).  We first 
+ask "whether Congress has directly spoken to the precise 
+question at issue," in which case we "must give effect to the 
+unambiguously expressed intent of Congress."  Id.  If the 
+"statute is silent or ambiguous with respect to the specific 
+issue," however, we move to the second step and must defer 
+to the agency's interpretation as long as it is "based on a 
+permissible construction of the statute."  Id. at 843.
+
+     First American raises only a Chevron step one argument, 
+contending that the guarantee provision is "contrary to the 
+express intent of Congress."  First American Br. at 7.  We 
+can perceive no such express intent.  The 1982 Act authorizes 
+the CFTC to issue regulations prescribing "minimum finan-
+cial requirements" to ensure that an introducing broker 
+meets "his obligations as a registrant."  7 U.S.C. s 6f(b).  
+The statute is silent as to what such a financial requirement 
+might be, and certainly does not say that the CFTC may not 
+use an FCM's guarantee in satisfaction of that requirement.  
+Instead, "Congress has explicitly left a gap for the agency to 
+fill" and has made "an express delegation of authority to the 
+agency to elucidate [the] specific provision of the statute by 
+regulation."  Chevron, 467 U.S. at 843-44.  We therefore 
+proceed to Chevron's step two.
+
+     Although First American does not address the second step 
+of Chevron, the CFTC does and we find its analysis compel-
+
+ling.  The question is whether the combination of a net 
+capital requirement, supplemented with the alternative of a 
+guarantee, reasonably falls within the undefined term, "mini-
+mum financial requirements."  The CFTC responds that the 
+statute authorizes it to impose such requirements to insure 
+that an introducing broker can meet "his obligations as a 
+registrant," and the Commission reasonably explains that the 
+guarantee alternative is, like the capital requirement, a way 
+of:  "(1) Insuring that introducing brokers are not judgment 
+proof;  and (2) providing coverage for potential liabilities of 
+introducing brokers arising from business operations and 
+customer relations."  48 Fed. Reg. at 35,264.
+
+     Recognizing the absence of support for its position in the 
+statutory language, First American asks us to retrace our 
+Chevron steps and reconsider step one by looking at the 
+legislative history of the 1982 Act.  That history, appellant 
+contends, expressly bars the guarantee provision at issue 
+here.  In support, First American cites the passage in the 
+Senate Report stating that the Committee felt it would be 
+inappropriate "to require" introducing brokers to become 
+branch offices of FCMs, or "to impose" vicarious liability on 
+FCMs for acts of introducing brokers.  S. Rep. No. 97-384, at 
+41.  First American contends that the guarantee provision is 
+inconsistent with this congressional concern, arguing that it 
+effectively requires an introducing broker to become a branch 
+office of its affiliated FCM, and effectively imposes vicarious 
+liability on an FCM for the conduct of its affiliated introduc-
+ing broker.
+
+     The flaw in this argument is that the guarantee provision 
+does not "require" or "impose" anything:  it is merely an 
+option that either the introducing broker or the FCM is free 
+to reject.  Rather than seek out an FCM for a guarantee, an 
+introducing broker may instead choose to satisfy the capital 
+requirement itself.  And an FCM asked by an introducing 
+broker for a guarantee may simply decline, electing instead to 
+use its own employees or to work with introducing brokers 
+that can independently satisfy the capital requirement.  Ac-
+cordingly, under the CFTC's regulation, the FCM's accep-
+tance of liability through the guarantee is a voluntary choice, 
+
+which nothing in the legislative history precludes the CFTC 
+from making available.
+
+     But, First American protests, the guarantee provision is 
+not truly an option.  In petitioner's view, the CFTC's $20,000 
+minimum capital requirement is so high that introducing 
+brokers are effectively "forced" to sign guarantee agree-
+ments.  It is this reality that assertedly contravenes both the 
+Senate Committee's distaste for imposing obligations upon 
+FCMs, and the Conference Report's contemplation "that the 
+Commission will establish financial requirements which will 
+enable [introducing brokers] to remain economically viable."  
+H.R. Conf. Rep. No. 97-964, at 41.
+
+     We see nothing in the statute or legislative history, howev-
+er, that would foreclose a $20,000 minimum capital require-
+ment as "too high."  Both are silent on the question of what 
+the "minimum" in "minimum financial requirements" means.  
+Moving again to Chevron's step two, we also see no ground 
+upon which the CFTC's standard could be viewed as an 
+impermissible interpretation of that term, or even of the 
+conferees' phrase, "economically viable."  The CFTC original-
+ly proposed an effective requirement of $37,500, cutting it 
+almost in half to $20,000 after considering industry comments.  
+First American has offered no evidence whatsoever to sub-
+stantiate its claim that a $20,000 requirement is still too high 
+to allow introducing brokers to remain economically viable, or 
+that it is so high as to force them to opt for an FCM 
+guarantee.6
+
+__________
+     6  The CFTC acknowledged that the SEC had established a 
+lower minimum net capital requirement ($5,000) for securities intro-
+ducing brokers.  It explained, however, that a securities introducing 
+broker is required to maintain the higher of $5,000 or 62/3% of 
+aggregate indebtedness, "which could require such a firm to main-
+tain more than $25,000 of net capital."  48 Fed. Reg. at 14,934 n.13.  
+The CFTC also noted that its higher base amount was necessary 
+"because introducing brokers in commodities will have fewer re-
+strictions on their activities than is the case for securities introduc-
+ing brokers."  Id. at 14,942-43.
+
+     Moreover, although it is true that the legislative history 
+reflects congressional concern that the economic viability of 
+introducing brokers be maintained, it also reflects Congress' 
+intent--as the statute itself says--that the financial require-
+ments be set at a level that will ensure that an introducing 
+broker meets "his obligations as a registrant."  7 U.S.C. 
+s 6f(b).  The Commission was instructed to impose standards 
+sufficient "to guarantee accountability and responsible con-
+duct," S. Rep. No. 97-384, at 41, and to ensure "that persons 
+handling orders for commodity trades cannot escape responsi-
+bility for their actions for lack of adequate capital," id. at 112.  
+Implementing this congressional intent was precisely the 
+rationale the CFTC offered for finally settling upon a mini-
+mum requirement of $20,000.  See 48 Fed. Reg. at 35,261, 
+35,264.  And First American offers no basis for concluding 
+that such a requirement is too high to be reasonably related 
+to the goal of ensuring that customers' claims are not ren-
+dered moot because introducing brokers are judgment proof.  
+If anything, the more than $13,000 in damages awarded in the 
+relatively small case now before us suggests that the facts are 
+to the contrary.
+
+     In sum, we conclude that the $20,000 minimum capital 
+requirement for introductory brokers is a permissible exer-
+cise of the CFTC's regulatory authority, and that it is equally 
+permissible for the Commission to provide the alternative of 
+entering into a guarantee agreement with an FCM.  Indeed, 
+providing such an option is faithful to Congress' direction that 
+the CFTC "provide the registrants with substantial flexibility 
+as to the manner and classification of registration."  H.R. 
+Conf. Rep. No. 97-964, at 41.
+
+                               III
+
+     First American's second challenge to the CFTC's rule is 
+procedural.  Petitioner contends that the guarantee option 
+should be invalidated because it was not subject to notice and 
+comment prior to final issuance.  As we have discussed, the 
+notice of proposed rulemaking issued by the CFTC on April 
+6, 1983, stated that the Commission was contemplating a 
+
+$25,000 capital requirement, which, when combined with the 
+proposed "early warning" requirement, would effectively re-
+quire a minimum capital level of $37,500.  The possibility of a 
+guarantee option, later offered in the final rule, was not 
+mentioned.  Petitioner contends that this failure to publish 
+notice of the guarantee option violated the APA, which gener-
+ally requires an agency to give at least thirty days notice of 
+and an opportunity to comment on "either the terms or 
+substance of the proposed rule or a description of the subjects 
+and issues involved."  5 U.S.C. s 553(b);  see id. s 553(c), (d).
+
+     The law does not require that every alteration in a pro-
+posed rule be reissued for notice and comment.  If that were 
+the case, an agency could "learn from the comments on its 
+proposals only at the peril of" subjecting itself to rulemaking 
+without end.  International Harvester Co. v. Ruckelshaus, 
+478 F.2d 615, 632 & n.51 (D.C. Cir. 1973);  see Fertilizer Inst. 
+v. EPA, 935 F.2d 1303, 1311 (D.C. Cir. 1991);  American 
+Medical Ass'n v. United States, 887 F.2d 760, 768 & n.7 (7th 
+Cir. 1989).  Instead, renewed notice is required only if the 
+final rule cannot fairly be viewed as a "logical outgrowth" of 
+the initial proposal.  Small Refiner Lead Phase-Down Task 
+Force v. EPA, 705 F.2d 506, 547 (D.C. Cir. 1983).  The test 
+for a "logical outgrowth," variously phrased, is whether a 
+reasonable commenter "should have anticipated that such a 
+requirement" would be promulgated, id. at 549, or whether 
+the notice was "sufficient to advise interested parties that 
+comments directed to the" controverted aspect of the final 
+rule should have been made, Fertilizer Inst., 935 F.2d at 
+1312.
+
+     In this case, the outcome of that test is a relatively close 
+question.  As we have said above, the guarantee agreement is 
+reasonably regarded as a form of minimum financial require-
+ment, and was promulgated in response to suggestions that it 
+be offered as an alternative to the $25,000 capital requirement 
+originally proposed.  The fact that others in First American's 
+shoes--that is, other FCM's--did comment on and indeed 
+propose the guarantee option suggests that they, at least, 
+regarded it as a logical outgrowth.  See Comments of Abram-
+son & Fox at 6 (proposal by law firm "retained by several 
+
+major futures commission merchants" that "the carrying 
+FCM be permitted to assume full regulatory and financial 
+responsibility for the activities of the introducing broker");  
+Comments of Heinold Commodities, Inc. at 2 (proposal by 
+registered FCM that, as an alternative to a capital require-
+ment, the carrying FCM should be permitted to "stand as a 
+guarantor for the introducing broker's potential liabilities");  
+Comments of Cargill Investor Services, Inc. at 1 (suggesting 
+that as long as "the FCM remains fully responsible to the 
+customer, there is no reason for [introducing brokers] to 
+fulfill a capital requirement" ).  On the other hand, it could 
+well be argued that a reasonable commenter would not have 
+thought to comment on a guarantee option since it is different 
+not only in degree but in kind from a financial requirement 
+denominated in dollars.  Under that view, the connection 
+between the original notice and the guarantee option would 
+be "simply too tenuous" for the latter to be regarded as a 
+"logical outgrowth" of the former.  Small Refiner, 705 F.2d 
+at 549.
+
+     We need not resolve this question, however, because 
+CFTC's failure to re-notice the guarantee option was at best 
+harmless.  The APA directs reviewing courts to take "due 
+account" of "the rule of prejudicial error."  5 U.S.C. s 706.  
+"As incorporated into the APA, the harmless error rule 
+requires the party asserting error to demonstrate prejudice 
+from the error."  Air Canada v. DOT, 148 F.3d 1142, 1156 
+(D.C. Cir. 1998) (citing 5 U.S.C. s 706);  see Steel Mfrs. Ass'n 
+v. EPA, 27 F.3d 642, 649 (D.C. Cir. 1994) (acknowledging 
+agency's failure to provide opportunity for comment on one 
+portion of a rule, but upholding the rule under APA's "harm-
+less error" provision);  Cabais v. Egger, 690 F.2d 234, 237 n.4 
+(D.C. Cir. 1982) ("Even where notice and comment were 
+erroneously omitted, a regulation or rule need not be invali-
+dated if it has no substantial impact.").  Assuming that the 
+notice provided by the CFTC was insufficient, we conclude 
+that First American suffered no prejudice as a result.
+
+     As we have discussed above, the portion of the rule to 
+which First American objects is merely an alternative to the 
+primary compliance requirement of maintaining $20,000 in net 
+
+capital.  That primary requirement is perfectly lawful, and 
+one upon which First American did have an opportunity to 
+comment.  First American was not required to accept the 
+guarantee alternative;  it was free to turn Wolf away and 
+instead to use its own employees or to deal only with intro-
+ducing brokers who could meet the capital requirement.  
+That First American did not do so evidences its view either 
+that the guarantee was not harmful, or that it was less 
+harmful than the primary requirement by which it would 
+otherwise have had to abide.  The lack of opportunity to 
+comment on the guarantee option therefore cannot be cause 
+for overturning the CFTC's regulation.
+
+     We also note that the concept of a guarantee option came 
+from FCMs looking for a way to give both their introducing 
+brokers and themselves an alternative to the minimum capital 
+requirement.  This indicates that FCMs regarded the guar-
+antee as an alternative that was beneficial rather than harm-
+ful to their interests.  Although First American is not bound 
+by the views of its fellow FCMs, its own voluntary decision to 
+adopt the guarantee option makes clear that it regarded it the 
+same way.  This reinforces the conclusion that the CFTC's 
+failure to extend the rulemaking to provide an opportunity for 
+notice and comment on the guarantee option was at best 
+harmless error.
+
+     Finally, the fact that First American not only was not 
+harmed by, but rather affirmatively benefitted from, the 
+availability of the guarantee option suggests a second reason 
+for not countenancing its claim of procedural error.  Under 
+the doctrine of equitable estoppel, "a party with full knowl-
+edge of the facts, which accepts the benefits of a transaction, 
+contract, statute, regulation, or order may not subsequently 
+take an inconsistent position to avoid the corresponding obli-
+gations or effects."  Kaneb Servs., Inc. v. FSLIC, 650 F.2d 
+78, 81 (5th Cir. 1981).  Here, the CFTC gave First American 
+the option of guaranteeing the liabilities of Wolf, an introduc-
+ing broker who could not otherwise have operated for lack of 
+sufficient capital.  First American had no obligation to make 
+the guarantee, but did so in exchange for the financial bene-
+fits both entities expected to reap from their joint arrange-
+
+ment.  Having received those benefits, First American will 
+not now be heard to attack the regulation that was their 
+source.  See Federal Power Comm'n v. Colorado Interstate 
+Gas Co., 348 U.S. 492, 502 (1955) ("[Respondent] cannot now 
+be allowed to attack an officially approved condition of the 
+merger while retaining at the same time all of its benefits.").
+
+                                IV
+
+     First American's final challenge to the order holding it 
+liable for the conduct of its introducing broker is based on an 
+exculpatory clause included in an agreement that Violette 
+signed with First American after Wolf introduced the two.  
+Paragraph 23 of the two-page, standard-form "Customer 
+Agreement" reads as follows:  "Customer hereby waives any 
+claim based upon First American's guarantee, if any, of 
+Introducing Broker's obligations under the Commodity Ex-
+change Act or CFTC regulations."  J.A. at 27.  First Ameri-
+can argues that this provision immunizes it from liability that 
+would otherwise attach under the guarantee agreement it 
+signed with its introducing broker.
+
+     The CFTC disagrees.  It states that its Regulation 1.10(j), 
+17 C.F.R. s 1.10(j), which permits an introducing broker to 
+satisfy its capital requirements through an FCM guarantee, 
+cannot be waived in this manner.  Whether or not an agen-
+cy's regulation is waivable is a question of the agency's intent, 
+and just as we must defer to the agency's reasonable inter-
+pretation of the statutory scheme it was entrusted to adminis-
+ter, so too must we give its interpretation of its own regula-
+tion "controlling weight unless it is plainly erroneous or 
+inconsistent with the regulation."  Bowles v. Seminole Rock 
+& Sand Co., 325 U.S. 410, 414 (1945);  see Christensen v. 
+Harris County, 120 S. Ct. 1655, 1663 (2000);  Auer v. Robbins, 
+519 U.S. 452, 461 (1997).
+
+     The CFTC's interpretation of its regulation as non-waivable 
+is neither plainly erroneous nor inconsistent with the regula-
+tion.  Nothing in the text of the rule suggests that the 
+guarantee is waivable.  To the contrary, the mandatory form 
+agreement required by the rule states:  "This guarantee 
+
+agreement is binding and is and shall remain in full force and 
+effect unless terminated in accordance with the rules, regula-
+tions or orders promulgated by the Commission with respect 
+to such terminations."  CFTC Form 1-FR-IB (Part B);  see 
+17 C.F.R. s 1.3(nn) (requiring guarantee to conform to Form 
+1-FR).7  Under the regulations, termination is permitted 
+(with prospective effect only) by mutual written consent of 
+the parties with prompt notice to the Commission, or by 
+either party with written notice to the other and to the 
+Commission.  See 17 C.F.R. s 1.10(j)(5)(iii).  The rules do not 
+permit termination by waiver of a customer, and First Ameri-
+can does not argue that the events which do permit termi-
+nation occurred in this case.
+
+     Moreover, the CFTC contends that permitting customer 
+waiver would "undermine[ ] the protections provided by the 
+guarantee agreement."  Violette, 1999 WL 92428, at *2.  The 
+purpose of the Commission's rule is to provide coverage for 
+the liabilities of introducing brokers and to ensure that they 
+are not "judgment proof."  48 Fed. Reg. at 35,264.  The 
+CFTC reasonably argues that if the guarantee were waiva-
+ble--particularly through the kind of boilerplate contract at 
+issue here--that purpose would be wholly defeated.  See 
+Gray v. American Express Co., 743 F.2d 10, 16 (D.C. Cir. 
+1984) (declining to give effect to provision in cardmember 
+contract that would have effectively waived coverage of Fair 
+Credit Billing Act);  id. at 16 ("The rationale of consumer 
+protection legislation is to even out the inequalities that 
+consumers normally bring to the bargain.  To allow such 
+protection to be waived by boiler plate language of the 
+contract puts the legislative process to a foolish and unpro-
+ductive task.").
+
+__________
+     7  See also 48 Fed. Reg. at 35,265 ("If the guarantee agreement 
+does not expire or is not terminated in accordance with the provi-
+sions of s 1.10(j)(4) or (5), it shall remain in effect indefinitely.").  
+Guarantee agreements can expire (with prospective effect only) if 
+the FCM or introducing broker fails to renew its registration of if 
+such registration is suspended, revoked, or withdrawn.  See 17 
+C.F.R. s 1.10(j)(4)(i)-(ii).
+
+     Finally, and perhaps most telling, even if we were to hold a 
+guarantee agreement waivable by a customer, not even First 
+American contends that the CFTC's minimum capital require-
+ment would itself be waivable in that manner.  See 7 U.S.C. 
+s 6f(b) (providing that each registered introducing broker 
+"shall at all times continue to meet" the minimum financial 
+requirements prescribed by the Commission).  Yet, to hold 
+the one is to hold the other.  As the rules make clear, a 
+guarantee agreement is entered into "in satisfaction of the 
+adjusted net capital requirements with which the introducing 
+broker otherwise would have to comply," and thus permits 
+the introducing broker to operate below the minimum level of 
+required net capital.  CFTC Form 1-FR-IB (Part B);  see 17 
+C.F.R. s 1.3(nn).  Although First American argues that the 
+guarantee may be waived, it does not suggest that the CFTC 
+may thereafter deregister the introducing broker if it cannot 
+muster $20,000 in capital.  But if the Commission cannot 
+deregister such a broker, permitting waiver would effectively 
+permit the broker to slip the bonds of the capital requirement 
+altogether.  The CFTC reasonably interprets its regulations 
+as not countenancing such blatant circumvention of their 
+purpose.
+
+     First American complains that even if the CFTC's no-
+waiver interpretation is correct, allowing the Commission to 
+apply it for the first time in this adjudication would be unfair.8  
+We do not agree.  There is nothing in the language of the 
+regulation to suggest to a reasonable FCM that guarantees 
+are waivable, and the termination provision suggests quite the 
+opposite.  Court decisions dating back to at least 1991, five 
+years before Violette signed the waiver at issue here, hold 
+that waiver agreements purporting to invalidate identical 
+guarantee agreements are unenforceable as contrary to the 
+purpose of the statutory and regulatory framework.  See, e.g., 
+Skipper v. Index Futures Group Inc., No.  91C1624, 1995 
+
+__________
+     8  This is actually the second case in which the CFTC has so 
+ruled.  The CFTC issued its first opinion on the subject a month 
+earlier.  See Clemons v. McCabe, CFTC Doc. No. 97-R053, 1999 
+WL 46833, at *2 (Jan. 29, 1999).
+
+WL 493435 (N.D. Ill. 1995);  Resolution Trust Corp. v. 
+Krantz, No.  89C166, 1991 WL 148291 (N.D. Ill. 1991).9  
+Moreover, even if it were unfair for the CFTC only now to 
+make clear that the regulatory requirement cannot be waived, 
+it would be at least as unfair to Violette to announce the 
+opposite rule.  Indeed, we cannot help but note the irony in 
+petitioner's claim that Violette--a retired postal worker--
+"voluntarily" entered into the boilerplate waiver agreement 
+with First American, while First American itself--a large 
+brokerage firm--was simultaneously "compelled" to enter 
+into the guarantee agreement with Wolf.10
+
+                                V
+
+     We uphold the validity of the regulation permitting guaran-
+tee agreements as alternatives to minimum capital require-
+ments, and further uphold the CFTC's interpretation of that 
+regulation as not permitting customer waivers.  Accordingly, 
+we have no ground for reversing the Commission's order 
+holding First American jointly and severally liable for the 
+
+__________
+     9  First American cites two cases in which it contends courts 
+upheld exculpatory waiver provisions in contracts between FCMs 
+and customers.  See Rothwell Cotton Co. v. Rosenthal & Co., 827 
+F.2d 246, 250-51 (7th Cir. 1987);  Cange v. Stotler and Co., 826 F.2d 
+581 (7th Cir. 1987);  id. at 596 (Easterbrook, J., concurring).  In 
+neither case, however, was there a guarantee agreement between 
+an FCM and an introducing broker, and hence in neither was the 
+waivability of the CFTC's regulation at issue.  See Cange, 826 F.2d 
+at 596 (Easterbrook, J., concurring) (arguing that waivers should 
+generally be upheld "[u]nless ... the CFTC forbids them by 
+regulation").  Moreover, in Cange the majority opinion suggested 
+that an exculpatory waiver provision signed prior to the initiation of 
+trading would not be enforceable.  See 826 F.2d at 594-95.
+
+     10  We also note that First American has an indemnification 
+agreement with Wolf that will permit it to recover from the 
+introducing broker in the event it is held liable for the latter's 
+wrongdoing.  See Letter from Counsel for First American (Jan. 20, 
+2000).  CFTC regulations authorize such indemnification agree-
+ments.  See 48 Fed. Reg. at 35,264.
+
+regulatory violations committed by its introducing broker.  
+The petition for review is denied.
+
+     Randolph, Circuit Judge, concurring:  I concur in the 
+judgment and in all of the court's opinion except the portion 
+of Part III holding that the Commission's failure to give 
+notice amounted to harmless error.
+
+                                                            

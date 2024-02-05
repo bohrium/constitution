@@ -1,0 +1,371 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 11, 2002    Decided January 21, 2003 
+
+                           No. 01-1163
+
+         Duke Energy Trading and Marketing, L.L.C., and 
+                American Natural Gas Corporation, 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+          PG&E Gas Transmission, Northwest Corporation 
+                            Intervenor
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Gordon J. Smith argued the cause and filed the briefs for 
+petitioner.
+
+     Laura J. Vallance, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     Lee A. Alexander, Stefan M. Krantz, and Debra H. Rednik 
+were on the brief for intervenor.  Carl M. Fink entered an 
+appearance.
+
+     Before:  Sentelle, Randolph and Tatel, Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Duke Energy Trading & Market-
+ing, L.L.C. (Duke) and American Natural Gas Corporation 
+(ANG) petition for review of a Federal Energy Regulatory 
+Commission (FERC or the Commission) order accepting a 
+tariff filing from PG&E Gas Transmission, Northwest Corpo-
+ration (PG&E). PG&E Gas Transmission, Northwest Corp., 
+93 F.E.R.C. p 61,072 (2000), reh'g denied, 94 F.E.R.C. 
+p 61,114 (2001).  The order under review allows PG&E to 
+eliminate its queue system for allocating interruptible trans-
+mission (IT) capacity among maximum rate bidders and to 
+replace it with pro rata allocation.  We find that FERC acted 
+reasonably in accepting PG&E's filing and thus deny the 
+petition for review.
+
+                          I. Background
+
+     PG&E operates a natural gas pipeline running 612 miles 
+from the Washington/Canada border to the border between 
+Oregon and California.  On its pipeline, PG&E sells two 
+primary types of natural gas transportation capacity-firm and 
+interruptible.  Firm capacity is purchased on a monthly basis 
+and cannot be interrupted or curtailed except in limited 
+circumstances. Interruptible capacity can be interrupted 
+when necessary to provide service to higher priority custom-
+ers, such as firm customers.  Interruptible capacity is bid for 
+as needed, rather than purchased monthly.  PG&E's gas 
+tariff sets the maximum per-mile rates PG&E can charge for 
+its interruptible transportation services.  The total amount a 
+shipper pays for service, and thus the revenue generated, is 
+derived by multiplying the per-mile bid by the number of 
+miles the gas is to be transported.
+
+     Prior to the proceedings under review, PG&E allocated IT 
+capacity first to shippers bidding the maximum per-mile rate, 
+regardless of distance, and hence regardless of revenue.  
+PG&E then allocated any remaining capacity to shippers 
+bidding less than the maximum per-mile tariff rate by rank-
+ing bids based on total revenue.  Ties between bidders, at 
+both the maximum and sub-maximum rates, were broken 
+according to a shipper's position in the IT queue.  Thus, if 
+two shippers' bids were tied, the shipper with the higher 
+position in the queue would be allocated the IT capacity.  
+Queue positions were determined by a lottery held by PG&E 
+in 1987.  See Pacific Gas Transmission Co., 40 F.E.R.C. 
+p 61,193 (1987).  In that lottery, ANG won the highest posi-
+tion in the queue.  Duke later acquired ANG.
+
+     On March 1, 2000, PG&E submitted a tariff filing pursuant 
+to Section 4 of the Natural Gas Act, 15 U.S.C. s 717c (2000), 
+seeking to change its IT capacity allocation method.  PG&E 
+proposed to use the system it employed to rank sub-maximum 
+rate bidders to rank bids from maximum rate bidders as well.  
+Under this "revenue-based" or "distance-based" proposal, 
+allocation would be determined by net revenue generated per 
+dekatherm, with net revenue being determined by multiplying 
+the distance in pipeline miles from the receipt point to the 
+delivery point by the rate bid plus surcharges.  Consequent-
+ly, a long-haul maximum rate bidder would always defeat a 
+shorter-haul maximum rate bidder, because the long-haul 
+shipper's total bid would always generate greater revenue.  If 
+any ties remained between bids generating the same net 
+revenue, capacity would be allocated pro rata-that is, each 
+tied bidder would receive a proportionate share of the re-
+maining capacity.  In sum, under PG&E's filing, the IT queue 
+would be replaced with revenue-based allocation followed by a 
+pro rata tiebreaker.
+
+     On September 14, 2000, FERC rejected PG&E's proposal. 
+See PG&E Gas Transmission, Northwest Corp., 92 F.E.R.C. 
+p 61,202 (2000) (PG&E I).  In PG&E I, FERC focused almost 
+exclusively on its concern that extending revenue-based allo-
+cation to maximum rate bidders would unduly discriminate 
+against short-haul shippers whose bids could never generate 
+
+more revenue than longer-haul shippers.1  See id. at 61,677.  
+Even though FERC rejected PG&E's revenue-based alloca-
+tion mechanism, the rejection was "without prejudice to 
+PG&E[ ] making a new filing to modify its proposal to include 
+an alternate allocation mechanism," id., and FERC explicitly 
+noted that it had "accepted other methods of allocating 
+capacity when shippers all bid the maximum rate, such as pro 
+rata," id. at 61,676.
+
+     Shortly thereafter, PG&E submitted a new tariff filing that 
+replaced the queue with simple pro rata allocation among all 
+maximum rate bidders.  Under this proposal, each maximum 
+rate bidder would receive a proportionate share of capacity 
+regardless of revenue generated by its total bid. Petitioners 
+lodged a protest arguing that PG&E's new proposal was 
+identical to the filing rejected in PG&E I because both 
+proposals contained an element of pro rata allocation and 
+resulted in elimination of the IT queue.  Petitioners also 
+contended that continued use of the IT queue would promote 
+FERC's efficiency goals better than pro rata allocation.
+
+     On October 25, 2000, FERC approved PG&E's filing over 
+petitioners' protest, rejecting petitioners' argument that 
+PG&E's filing was identical to the filing in PG&E I.  PG&E 
+Gas Transmission, Northwest Corp., 93 F.E.R.C. p 61,072, at 
+61,187 (2000) (PG&E II).  In addition, FERC reasoned that 
+pro rata allocation would eliminate the need for a complex 
+queue and improve efficiency along the pipeline by allocating 
+capacity based on willingness to pay rather than queue posi-
+tion.  Id.  Finally, FERC relied on its own precedent finding 
+the pro rata method to be a just and reasonable means of 
+allocating interruptible capacity among tied bidders.  Id.
+
+     FERC denied petitioners' request for rehearing, PG&E 
+Gas Transmission, Northwest Corp., 94 F.E.R.C. p 61,114 
+(2001) (Rehearing Order), and petitioners timely sought judi-
+cial review.
+
+__________
+     1 PG&E's appeal of this ruling is addressed in a companion case, 
+PG&E Gas Transmission, Northwest Corp. v. FERC, __ F.3d __ 
+(D.C. Cir. 2003), issued by this Court today.
+
+                           II. Analysis
+
+     Under Section 4 of the Natural Gas Act, 15 U.S.C. s 717c, 
+a pipeline proposing a rate change has the burden of showing 
+that the proposed rate is just and reasonable.  Exxon Corp. 
+v. FERC, 206 F.3d 47, 51 (D.C. Cir. 2000).  "If it meets that 
+burden, FERC approves the rate regardless of whether there 
+may be other rates that would also be just and reasonable."  
+Id.  We will uphold FERC's decision to approve a tariff filing 
+unless it is "arbitrary, capricious, an abuse of discretion, or 
+otherwise not in accordance with law." 5 U.S.C. s 706(2)(A) 
+(2000). Under this deferential standard, "the Commission 
+must be able to demonstrate that it has made a reasoned 
+decision based upon substantial evidence in the record."  
+Northern States Power Co. v. FERC, 30 F.3d 177, 180 (D.C. 
+Cir. 1994) (quotation omitted).
+
+     Petitioners attack FERC's ruling on two grounds.  First, 
+petitioners claim that FERC arbitrarily and capriciously ap-
+proved the pro rata mechanism in PG&E II after rejecting 
+what petitioners describe as an "identical" proposal in PG&E 
+I.  Second, petitioners contend that FERC's acceptance of 
+the pro rata mechanism as "just and reasonable" was arbi-
+trary and capricious and unsupported by substantial evidence.  
+We find neither argument persuasive.
+
+                                A.
+
+     Describing PG&E's second proposed tariff as "simply a 
+'rerun' of the same filing" that PG&E had previously made, 
+and the Commission rejected, petitioners assert that the new 
+filing "should have been summarily rejected under collateral 
+estoppel principles," and the Commission's acceptance of it 
+was arbitrary and capricious.  Pet. Br. at 12.  This argument 
+fails utterly.  Petitioners' contention that the pro rata mecha-
+nism at issue here is identical to the one FERC rejected in 
+PG&E I is meritless.  As FERC correctly found, the present 
+proposal "no longer seeks to prioritize maximum rate bids 
+based upon a distance-based allocation mechanism."  PG&E 
+II, 93 F.E.R.C. at 61,187.  Rather, PG&E "solely proposes to 
+implement a tie-breaking procedure for maximum bids strict-
+
+ly on a pro rata basis."  Id.  The most superficial analysis 
+demonstrates that FERC correctly found the instant proposal 
+to be entirely different than the revenue-based mechanism 
+followed by a pro rata tiebreaker it rejected in PG&E I.  The 
+two proposals operate differently and produce vastly different 
+results.  For example, envision two shippers each bidding the 
+maximum per-mile rate.  Shipper A bids for 100 miles of 
+transportation, while Shipper B bids for 200 miles.  Under 
+PG&E's first proposal, Shipper B would always receive IT 
+capacity over Shipper A because his bid would generate 
+greater revenue.  Under the present pro rata proposal, by 
+contrast, each shipper would receive a proportionate alloca-
+tion of capacity.
+
+     That the proposals both contain a pro rata component is 
+not determinative.  The pro rata device plays a substantially 
+different role in the two proposals.  Under the PG&E I filing, 
+the pro rata tiebreaker was to be applied only after the 
+revenue mechanism was used to rank bidders on the basis of 
+distance and hence revenue.  That is, pro rata allocation 
+served only in a secondary capacity after application of the 
+revenue mechanism had failed to resolve all allocation issues.  
+Under the instant proposal, pro rata allocation is the sole 
+means for allocating capacity among maximum rate bidders, 
+and thus performs a much more fundamental and important 
+role.  Just as importantly, total revenue plays no role in 
+allocating capacity among maximum rate bidders in the in-
+stant proposal, thereby eliminating FERC's PG&E I concern 
+about discrimination against short-haul shippers.  To suggest 
+that two separate tariffs are identical, and that the rejection 
+of one mandates the rejection of the other, simply because 
+they contain a common element makes no sense.  As there 
+are a limited number of factors that pipelines can conceivably 
+rely upon to set tariffs, petitioners' approach would virtually 
+lock the pipelines and the Commission into a perpetual rate 
+once the first attempt at change has failed, no matter how 
+just and reasonable some subsequent submission might be.
+
+     Petitioners also apply the same sort of faulty reasoning to a 
+different element of the approved tariff by contending that 
+because FERC in PG&E I rejected one proposal to eliminate 
+
+the IT queue, FERC could not approve any subsequent 
+proposal that eliminated the queue.  This is nonsense.  The 
+fact that FERC rejected one rate proposal including elimina-
+tion of the queue cannot conceivably preclude it from accept-
+ing a later "just and reasonable" proposal merely because the 
+new proposal also eliminates the queue. FERC's order in 
+PG&E I offers no support for petitioners' argument.  First, 
+nothing in PG&E I suggests that FERC found any inherent 
+defect in eliminating the queue.  Rather, FERC's opinion 
+focused on the shortfalls of the revenue-based mechanism as 
+a primary allocator of capacity, rejecting it because it would 
+result in discrimination against short-haul shippers.  See 
+PG&E I, 92 F.E.R.C. at 61,677.  That is, the Commission 
+rejected only PG&E's proposed replacement for the queue;  it 
+did not hold or even suggest that there could never be any 
+valid replacement. Moreover, the Commission never ad-
+dressed the validity of the pro rata portion of the proposal, 
+much less the validity of a pro rata mechanism acting alone to 
+allocate capacity, as is proposed here.  To the contrary, 
+FERC "reject[ed] PG&E[ ]'s capacity allocation proposal 
+without prejudice to PG&E[ ] making a new filing to modify 
+its proposal to include an alternate allocation mechanism."  
+Id.  Far from barring future filings to eliminate the queue, 
+FERC explicitly noted that it "has accepted other methods of 
+allocating capacity when shippers all bid the maximum rate, 
+such as pro rata."  Id. at 61,676.  Thus, the Commission's 
+order implicitly, if not explicitly, invited PG&E to propose pro 
+rata allocation of IT capacity among maximum rate bidders.  
+It certainly did not preclude future proposals to eliminate the 
+queue.
+
+     Consequently, we reject petitioners' claim that the ruling 
+under review is inconsistent with FERC's order in PG&E I.
+
+                                B.
+
+     Petitioners' second argument is as meritless as their first.  
+They contend that FERC's conclusion that PG&E's pro rata 
+proposal is "just and reasonable" under Section 4 of the 
+Natural Gas Act is arbitrary and capricious, as there was 
+
+before the Commission no substantial evidence that pro rata 
+allocation would be more efficient than the use of the queue.  
+They further argue that FERC ignored its own precedents 
+finding queues to be just and reasonable and instead "cherry-
+picked" precedents finding pro rata applications to be just 
+and reasonable.  None of this undermines the validity of the 
+Commission's decision.
+
+     Petitioners' arguments rest on a fundamental misunder-
+standing of the inquiry under Section 4 of the Natural Gas 
+Act.  Under Section 4, a pipeline seeking to change its 
+existing tariff need not demonstrate that the existing tariff, in 
+this case the queue, is unjust and unreasonable.  Mun. Def. 
+Group v. FERC, 170 F.3d 197, 201 (D.C. Cir. 1999) ("s 4 
+applied and the Commission was not required to establish 
+that [the pipeline's] prior allocation method was unjust or 
+unreasonable.").  Rather, the Commission need only find that 
+the proposed tariff is just and reasonable.  Exxon Corp., 206 
+F.3d at 51.  Nothing in Section 4 requires the pipeline to 
+prove that its proposal is more just and reasonable than the 
+existing system.  The pipeline must only show that its pro-
+posal is just and reasonable in its own right.  In this case, 
+then, FERC had no obligation to find that the IT queue was 
+no longer functioning well, nor even to find that pro rata 
+allocation is more efficient than the IT queue.  As petitioners 
+correctly conceded at oral argument, there may be a number 
+of different potential rates all of which are just and reason-
+able.  Thus, FERC needed only to find pro rata allocation to 
+be just and reasonable.
+
+     In finding PG&E's pro rata allocation proposal just and 
+reasonable FERC cited four cases in which "[t]he Commis-
+sion has ruled ... that the pro rata methodology for breaking 
+ties for interruptible service is just and reasonable under 
+Section 4 of the Natural Gas Act."  PG&E II, 93 F.E.R.C. at 
+61,187 & n.6.  Specifically, FERC relied on Northern Border 
+Pipeline Co., 69 F.E.R.C. p 61,114 (1994), reh'g denied, 70 
+F.E.R.C. p 61,034 (1995), a case with similar facts to this one 
+in which FERC approved elimination of a queue in favor of 
+pro rata allocation among tied bidders.  PG&E II at 61,187.
+
+     Petitioners do not dispute that these cases establish the 
+validity of the pro rata mechanism.  See Pet. Br. at 24 ("the 
+Commission has clearly determined that either queue or pro-
+rata tiebreakers are equally consistent with Commission poli-
+cy").  Nor do petitioners submit any reason why we should 
+attempt to limit the Commission's application of its own 
+precedent.  Rather, petitioners argue that FERC should have 
+rejected the pro rata proposal by relying on precedent find-
+ing queues to be just and reasonable.  As explained above, 
+petitioners' argument is a non sequitur. Under Section 4, the 
+fact that PG&E's queue was just and reasonable under 
+FERC precedent does not preclude FERC from accepting 
+pro rata allocation as just and reasonable as well.  Therefore, 
+we hold that the Commission did not "cherry-pick" favorable 
+precedent, as petitioners claim, but instead reasonably fol-
+lowed the consistent rulings of the Commission finding pro 
+rata tiebreakers to be just and reasonable.
+
+     We would be remiss if we did not note one complicating 
+factor.  We have today issued the opinion in a companion 
+case, PG&E Gas Transmission v. FERC, __ F.3d __, grant-
+ing PG&E's petition for review of the FERC decision in 
+PG&E I.  We recognize the very real possibility that Com-
+mission proceedings on remand may result in the displace-
+ment of the tariff approved in PG&E II, which we review in 
+this proceeding.  We wish to make it plain that we do not 
+intend this opinion to bar any party from litigation of any 
+issue not decided herein.  We decide only those issues raised 
+in this petition, in the anticipation that the approved tariff 
+which we review herein will continue in effect unless and until 
+displaced by some other tariff in further appropriate proceed-
+ings.
+
+                         III. Conclusion
+
+     We hold that FERC was not precluded from approving 
+PG&E's pro rata allocation mechanism by its rejection of an 
+earlier filing proposing revenue-based allocation followed by a 
+pro rata tiebreaker.  On the merits, we hold that FERC 
+adequately supported its conclusion that PG&E's proposal to 
+
+allocate IT capacity pro rata among maximum rate bidders is 
+"just and reasonable" under Section 4 of the Natural Gas Act.  
+Accordingly, the petition for review is
+
+                                                                 Denied.
+
+                                                                   

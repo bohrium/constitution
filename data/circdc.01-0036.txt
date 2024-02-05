@@ -1,0 +1,612 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued January 22, 2001   Decided February 27, 2001 
+
+                           No. 00-3039
+
+                    United States of America, 
+                             Appellee
+
+                                v.
+
+                        Brad K. Edmonds, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                        (No. 99cr00207-01)
+
+     Sandra G. Roland, Assistant Federal Public Defender, 
+argued the cause for appellant.  With her on the briefs was 
+A. J. Kramer, Federal Public Defender.  Teresa Alva, Assis-
+tant Federal Public Defender, entered an appearance.
+
+     Suzanne Grealy Curt, Assistant U.S. Attorney, argued the 
+cause for appellee.  With her on the brief were Wilma A. 
+
+Lewis, U.S. Attorney, John R. Fisher, Thomas J. Tourish, Jr. 
+and Adam L. Rosman, Assistant U.S. Attorneys.
+
+     Before:  Williams, Ginsburg and Sentelle, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Based on evidence that police 
+officers discovered during a Terry stop and subsequent 
+searches, appellant Brad K. Edmonds was convicted of pos-
+sessing cocaine base within 1,000 feet of a school in violation 
+of 21 U.S.C. s 860(a).  Edmonds appeals that conviction, 
+arguing that the evidence introduced against him was ob-
+tained in violation of the Fourth Amendment's guarantee 
+against unreasonable searches and seizures.  Because we 
+conclude that, considering the totality of the circumstances, 
+the police officer reasonably suspected that appellant was 
+engaged in criminal activity, we hold that he obtained the 
+evidence lawfully.  However, the United States introduced no 
+evidence that the school near which appellant was arrested 
+was one of the specific types of schools enumerated in the 
+statute, and we therefore vacate his conviction and remand 
+with instructions that his conviction for a lesser included 
+offense be reinstated.
+
+                          I. BACKGROUND
+
+     A.   Factual background
+          
+     In the early evening of May 24, 1999, a group of Washing-
+ton Metropolitan Police Department officers was patrolling 
+the 4600 block of Livingston Road, SE in Washington, DC.  
+The officers included Sergeant Bruce Feirson, a 21-year 
+veteran who had worked in that neighborhood intermittently 
+for some 14 years.  Livingston Road is notorious as one of 
+the many "open air drug markets" infesting the nation's 
+capital and is additionally, in Feirson's words, home to "a 
+series of murders" and the site of "hundreds of arrests and 
+hundreds of incidents, violent incidents."  Transcript of Mo-
+tions Hearing at 6 ("Motion Tr.").
+
+     On that particular day, Feirson and his companions were 
+dressed in plainclothes and driving an unmarked car.  But 
+according to his testimony, their vehicle--a black Crown 
+Victoria--is regularly used to patrol the neighborhood and is 
+easily identifiable by residents as a police cruiser.  As the 
+officers made their way down Livingston Road, Feirson ob-
+served a man (later identified as Antonio McFadden) standing 
+on the curb.  When McFadden noticed the Crown Victoria, 
+"his eyes got pretty big, and he immediately pivoted, turned 
+away and he began to walk"--rapidly--towards a van located 
+in the parking lot of the nearby Patricia Harris school.  Id. at 
+9.  McFadden entered the van and seated himself in the front 
+passenger's seat.  Appellant Edmonds occupied the driver's 
+seat.
+
+     McFadden had left the curb, Feirson believed, because he 
+had recognized him and his companions as police officers.  
+The sergeant's suspicions were further aroused because, he 
+testified, "it is not proper for--it would be illegal for cars to 
+be on school property after hours unless they have some 
+business at the school."  Id. at 48.  Moreover, the parking lot 
+to which McFadden retreated is well-known to officers as the 
+location of numerous drug transactions.
+
+     Sergeant Feirson decided to investigate.  Exiting the 
+Crown Victoria, he approached Edmonds's van through the 
+parking lot with his police badge prominently hanging from 
+his neck.  Id. at 21.  Feirson could see both Edmonds and 
+McFadden through the van's windshield.  As he drew nearer, 
+Edmonds began to make furtive movements:  He "lean[ed] 
+forward in the vehicle, move[d] about in the car, and then 
+s[a]t upright, straight back upright in the vehicle."  Id. at 11.  
+Feirson believed that Edmonds was attempting to hide some-
+thing--he particularly suspected a weapon or drugs--under 
+the driver's seat.
+
+     After reaching the driver's-side door of the van, Feirson 
+asked Edmonds to show him his driver's license and vehicle 
+registration.  Edmonds appeared to Feirson to be "extremely 
+nervous," as he was fidgeting in his seat and rapidly blinking 
+his eyes.  Id. at 11-12.  When he failed to produce his 
+
+registration, Feirson asked him to step out of the van.  
+Edmonds did so--and promptly began sprinting away.  As he 
+fled, one of Sergeant Feirson's fellow officers spotted a pistol 
+lying in plain view on the van's floorboard, and shouted out 
+"gun" or "he has got a gun."  Id. at 13.
+
+     Feirson, who after catching Edmonds by the waistband of 
+his pants was dragged several feet, finally tackled him with 
+the assistance of another officer.  Because he noticed "a 
+bulge in Mr. Edmonds' left-front-pants pocket" and conse-
+quently believed that he was armed, id., Feirson conducted a 
+pat-down search that yielded 40 ziploc bags of crack cocaine 
+and a fully loaded 9mm clip.  Officers also recovered a fully 
+loaded 9mm pistol "sticking out" from underneath the van's 
+driver's seat.  Id. at 16.
+
+     B.   Procedural background
+          
+     Edmonds stood trial on a five-count indictment, charging 
+him with:  (1) unlawful possession of a firearm by a convicted 
+felon in violation of 18 U.S.C. s 922(g);  (2) unlawful posses-
+sion of ammunition by a convicted felon in violation of 18 
+U.S.C. s 922(g);  (3) unlawful possession with intent to dis-
+tribute five grams or more of cocaine base in violation of 21 
+U.S.C. s 841(a)(1) and (b)(1)(B)(iii);  (4) unlawful possession 
+with intent to distribute cocaine base within 1,000 feet of a 
+school in violation of 21 U.S.C. s 860(a);  and (5) carrying and 
+possessing a firearm during a drug trafficking offense in 
+violation of 18 U.S.C. s 924(c)(1).
+
+     Before trial, Edmonds moved to suppress the evidence on 
+the grounds that it had been seized during an unconstitutional 
+search.  The United States District Court for the District of 
+Columbia heard Edmonds's motion on September 2, 1999, and 
+several days later denied it, concluding that the officers' stop 
+of Edmonds was supported by a reasonable suspicion and 
+hence was justified under Terry v. Ohio, 392 U.S. 1 (1968).  
+The court found, as a general matter, that the testimony of 
+Sergeant Feirson, who was the United States' principal wit-
+ness, was credible.  It also found that neighborhood residents 
+could easily identify the officers' unmarked Crown Victoria as 
+a police cruiser.  See Transcript of Pretrial and Voir Dire, 
+9/13/99, at 15 ("9/13/99 Tr.").
+
+     The court concluded that Edmonds was "seized" within the 
+meaning of the Fourth Amendment at the moment Feirson 
+asked him for his license and registration.  See id. at 17.  It 
+further held that the seizure was a reasonable one.  Consid-
+ering the totality of the circumstances, it was reasonable for 
+an experienced police officer to have suspected that criminal 
+activity was afoot when (1) he was patrolling a neighborhood 
+known for drug trafficking;  (2) a man observed him and then 
+fled to a parked van;  (3) the van was parked in a school 
+parking lot after school hours;  and (4) another person in the 
+van made "furtive gestures" while the officer approached him.  
+See id. at 15-17.  Because the initial seizure was lawful, the 
+court held, Feirson was entitled to order Edmonds to exit the 
+van after he failed to produce his vehicle registration.  And 
+the officers had probable cause to arrest Edmonds, and to 
+conduct a search incident to arrest, because they discovered a 
+gun lying in plain view of the floor of the van.  See id. at 20-
+21.  All evidence therefore was deemed admissible.
+
+     Edmonds's trial commenced on September 13, 1999.  On 
+September 20, the jury returned a guilty verdict on counts 
+three and four (possessing and intending to distribute cocaine 
+base, and possessing and intending to distribute within 1,000 
+feet of a school, respectively).  Because the jury was unable 
+to reach a verdict on counts one, two, and five, the court 
+declared a mistrial as to those counts.  At the close of the 
+evidence, Edmonds had moved for judgment of acquittal on 
+count four, arguing that the government had not proved that 
+the school near which he was arrested was one of the types 
+enumerated in 21 U.S.C. s 860(a).  See Transcript of Testi-
+mony, 9/15/99, at 170, 196.  His motion was denied but, on 
+March 7, 2000, the court vacated his conviction under count 
+three, finding that it was a lesser, included offense of count 
+four. The court then sentenced Edmonds to a 60-month jail 
+term, from which he now appeals.
+
+                          II. DISCUSSION
+
+     Edmonds's appeal presents two issues, but only one of 
+them is contested:  whether a police officer has a reasonable 
+
+suspicion sufficient to support a Terry stop when (1) he is 
+patrolling a neighborhood known for narcotics trafficking;  (2) 
+a man observes him, flees, and enters a van in which the 
+suspect is seated;  (3) the van is parked in a school parking 
+lot--where drugs often are sold--after school hours;  and (4) 
+the suspect makes "furtive gestures," apparently attempting 
+to conceal an item under the driver's seat, while the officer 
+approaches the van.  As to the second issue, whether a 
+defendant can be convicted of violating 21 U.S.C. s 860(a), 
+which criminalizes the distribution of drugs within 1,000 feet 
+of, among others, "a public or private elementary, vocational, 
+or secondary school," when the government fails to introduce 
+any evidence that the school near which he was arrested was 
+one of the specific types of schools enumerated in the statute, 
+the parties are in accord.  Edmonds's conviction on count 
+four must be vacated and his case remanded with instructions 
+that his conviction on count three--a lesser included of-
+fense--be reinstated.
+
+     A.   Constitutionality of the search
+          
+     We define the scope of our inquiry.  Edmonds does not 
+challenge the district court's determination that he was not 
+seized until Sergeant Feirson asked to see his license and 
+registration.  Nor does he contend that the seizure of the 
+pistol lying in plain view on the van's floorboard and of the 
+cocaine and 9mm clip found during a pat-down was unlawful 
+on any other ground than the asserted unconstitutionality of 
+the initial Terry stop.  Edmonds's entire appeal hangs on the 
+proposition that, in light of the circumstances on the evening 
+of May 24, 1999, it was unreasonable for Sergeant Feirson to 
+suspect that criminal activity was afoot.  It was not.
+
+     In Terry v. Ohio, 392 U.S. 1 (1968), the Supreme Court 
+carved out an exception to the warrant requirement of the 
+Fourth Amendment.  The Fourth Amendment's prohibition 
+on unreasonable searches and seizures ordinarily requires all 
+such encounters to be conducted pursuant to a judicially 
+issued warrant--that is, the criterion by which the reason-
+ableness of a given search or seizure typically is measured is 
+whether it was authorized by a warrant.  See California v. 
+
+Acevedo, 500 U.S. 565, 582 (1991) (Scalia, J., concurring in the 
+judgment) ("Although the Fourth Amendment does not ex-
+plicitly impose the requirement of a warrant, it is of course 
+possible to consider that implicit within the requirement of 
+reasonableness.").  But the Terry Court made an exception 
+for "brief encounter[s] between a citizen and a police officer 
+on a public street," Illinois v. Wardlow, 120 S. Ct. 673, 675 
+(2000), which involve "necessarily swift action predicated upon 
+the on-the-spot observations of the officer on the beat."  
+Terry, 392 U.S. at 20.
+
+     In the same way that such encounters--"Terry stops," as 
+they have come to be known--need not proceed pursuant to a 
+warrant, neither must they be supported by probable cause.  
+Instead, an officer may briefly detain a citizen if he has a 
+reasonable, articulable suspicion that "criminal activity may 
+be afoot."  Id. at 30.  "The officer need not be absolutely 
+certain that the individual" is engaged in an unlawful enter-
+prise;  "the issue is whether a reasonably prudent man in the 
+circumstances would be warranted in his belief" that the 
+suspect is breaking, or is about to break, the law.  Id. at 27.  
+As the Supreme Court recently explained, reasonable suspi-
+cion "is a less demanding standard than probable cause and 
+requires a showing considerably less than preponderance of 
+the evidence."  Wardlow, 120 S. Ct. at 675-76.  Hence a 
+Terry stop requires only a "minimal level of objective justifi-
+cation," INS v. Delgado, 466 U.S. 210, 217 (1984), and an 
+officer may initiate one "based not on certainty, but on the 
+need to 'check out' a reasonable suspicion."  United States v. 
+Clark, 24 F.3d 299, 303 (D.C. Cir. 1994).
+
+     When determining whether a Terry stop was supported by 
+reasonable suspicion, this Court does not separately scruti-
+nize each factor relied upon by the officer conducting the 
+search.  See United States v. Sokolow, 490 U.S. 1, 8-9 (1989).  
+An officer on the beat does not encounter discrete, hermeti-
+cally sealed facts.  Rather, as we repeatedly have cautioned, 
+the question of whether reasonable suspicion existed can only 
+be answered by considering the totality of the circumstances 
+as the officer on the scene experienced them.  See Clark, 24 
+F.3d at 301-02 ("The evidence giving rise to suspicion must 
+
+not be 'dissected and viewed singly,' but taken as a whole;  
+and it must be 'viewed through the eyes of a reasonable and 
+cautious police officer on the scene, guided by his experience 
+and training.' " (quoting United States v. Hall, 525 F.2d 857, 
+859 (D.C. Cir. 1976))).  An officer's training and experiences 
+enable him to "draw[ ] inferences and make[ ] deductions" 
+from seemingly innocuous facts--"inferences and deductions 
+that might well elude an untrained person."  United States v. 
+Cortez, 449 U.S. 411, 418 (1981).  Hence even though a single 
+factor might not itself be sufficiently probative of wrongdoing 
+to give rise to a reasonable suspicion, the combination of 
+several factors--especially when viewed through the eyes of 
+an experienced officer--may.
+
+     In this case, the district court identified four factors that, 
+when considered in their totality, established the reasonable-
+ness of Sergeant Feirson's suspicion that Edmonds was en-
+gaging in criminal activity:  (1) Livingston Road's notoriety as 
+an "open air drug market";  (2) Edmonds's presence in a van 
+parked after hours in a school lot known to be the site of 
+numerous drug transactions;  (3) the "furtive gestures" made 
+by Edmonds as Feirson approached the van;  and (4) the 
+perception that McFadden, Edmonds's companion, began to 
+flee when he noticed the officers' unmarked car.  We find 
+that the first three factors are sufficient to amount to reason-
+able suspicion, especially in light of McFadden's apparent 
+attempt to evade the officers.
+
+     As for the first factor, the probative value of a neighbor-
+hood's reputation as a high-crime area is firmly established.  
+Of course, the fact that a given locale is well known for 
+criminal activity will not by itself justify a Terry stop;  but it 
+is among the various factors that officers may take into 
+account.  See, e.g., Wardlow, 120 S. Ct. at 676 (emphasizing 
+that an "individual's presence in an area of expected criminal 
+activity, standing alone, is not enough to support a reason-
+able, particularized suspicion that the person is committing a 
+crime," but stressing that "officers are not required to ignore 
+the relevant characteristics of a location in determining 
+whether the circumstances are sufficiently suspicious to war-
+rant further investigation");  United States v. Johnson, 212 
+
+F.3d 1313, 1316 (D.C. Cir. 2000) ("While obviously insufficient 
+by itself to amount to reasonable suspicion, this is among the 
+relevant contextual considerations in a Terry analysis." (cita-
+tion omitted)).  Edmonds simply misstates the law when he 
+asserts that Livingston Road's disproportionately high crime 
+rate "adds little" to the reasonable-suspicion calculus.  Brief 
+for Appellant at 21.
+
+     In this case, the United States submitted evidence to the 
+district court that the 4600 block of Livingston Road suffers 
+from a high incidence of crime.  Sergeant Feirson testified 
+that, in the last five years, he has been involved in "15 or 20 
+arrests" in the neighborhood, and described it as "an ex-
+tremely high crime area."  Motion Tr. at 6.  The government 
+introduced evidence that the neighborhood is particularly 
+known for its prevalence of narcotics trafficking and violent 
+crime.  Feirson more than once described Livingston Road as 
+an "open air drug market[ ]," and elaborated that "[p]rimarily 
+cocaine, but marijuana is also sold up there."  He also 
+testified that "there has been a series of murders that I am 
+familiar with up in that area and shootings.  There have been 
+hundreds of arrests and hundreds of incidents, violent inci-
+dents up there."  Id.  In other words, the government estab-
+lished not just that Livingston Road suffers from general, 
+undifferentiated "crime," but that it is home to the precise 
+type of infractions--drug and firearm offenses--that Feirson 
+suspected Edmonds of committing.
+
+     The second factor is equally probative of criminal activity 
+as courts recognize that a car parked in the lot of a closed 
+establishment can contribute to an officer's reasonable suspi-
+cions.  For example, in an Eighth Circuit case closely paral-
+leling this one, United States v. Dawdy, 46 F.3d 1427 (8th Cir. 
+1995), an officer "observed Dawdy and his passenger parked 
+after 10:00 pm on a Sunday night at the back of the otherwise 
+deserted pharmacy parking lot," a pharmacy that was known 
+to have been burglarized several times in the recent past.  Id. 
+at 1430.  That court held that "the presence of two men 
+sitting in a parked automobile at night," when coupled with 
+the possibility that the suspect may have attempted to drive 
+away, "was sufficient to lead a trained law enforcement officer 
+
+to suspect that a crime was being committed and to justify 
+the initial stop."  Id.
+
+     We need not--and do not today--adopt the Dawdy court's 
+apparent suggestion that the parked car scenario is by itself 
+sufficient to justify a Terry stop.  See id. at 1432 (Lay, J., 
+dissenting) ("This Court has now, for the first time in this or 
+any other circuit, determined that police can seize, detain, and 
+question an individual (or individuals) knowing nothing more 
+than the fact that the person's car is parked legally in a 
+mixed commercial/residential area at night.").  But we do 
+recognize that a car parked in the lot of a then-closed 
+establishment that is the site of occasional criminal activity is 
+a factor that may strongly support an officer's reasonable 
+suspicions.
+
+     In this case, Sergeant Feirson observed Edmonds and 
+McFadden parked in the school's lot at around 7:00 PM, a 
+time when the school was known to be closed, as was the 
+pharmacy in Dawdy.  And, again as in Dawdy, Sergeant 
+Feirson knew that crimes--in this case, drug transactions--
+often were committed in the school's parking lot.  It is 
+unclear whether vehicles in addition to Edmonds's van were 
+parked at the school.  As Edmonds points out, Feirson 
+initially testified that it is "unusual" for cars to park in the 
+school lot after hours, but admitted on cross-examination that 
+"I am sure that there are [other] cars that park on that 
+parking lot after hours, yes."  Motion Tr. at 10, 49.  But it is 
+difficult to see why this matters.  What triggered Feirson's 
+suspicion was not simply the after-hours presence of a parked 
+van, but of a parked van with two men sitting in it--one of 
+whom had already drawn the officer's notice by his suspicious 
+behavior.  There is no evidence that any of the other cars 
+parked at the school--if indeed other cars were parked at the 
+school--also contained passengers.  The presence of other 
+cars would not inherently have led Feirson to be any less 
+suspicious of Edmonds's van, especially given the approach by 
+its passenger from the street rather than from the direction 
+of the school, which could reasonably heighten the suspicion 
+that the occupants had no legitimate after-hours business 
+with the educational institution.
+
+     Third, this Court recognizes that "furtive" gestures in 
+response to the presence of the police can serve as the basis 
+of an officer's reasonable suspicion.  In United States v. 
+Green, 465 F.2d 620 (D.C. Cir. 1972), we held that officers 
+were justified in conducting a Terry stop when they halted a 
+car for a traffic infraction and "observed the driver making 
+furtive movements as though pulling something out of his belt 
+and placing it under his seat."  Id. at 623.  Here, Sergeant 
+Feirson testified that he could see Edmonds through the 
+van's windshield as he approached the vehicle, and that he 
+noticed Edmonds reaching under the driver's seat as though 
+he were attempting to conceal something.  "I saw the Defen-
+dant lean all of the way forward," he recalled, "almost duck-
+ing out of my sight.  I could see his head above the dash-
+board, and then I saw him lean back, up, seated upright in 
+the vehicle."  Motion Tr. at 11.
+
+     Of course, a suspect's movements are not by themselves 
+enough to support a reasonable suspicion of criminal wrong-
+doing;  furtive gestures "are significant only if they were 
+undertaken in response to police presence."  Johnson, 212 
+F.3d at 1316.  And a suspect can respond to the presence of a 
+police officer only if he has recognized him as an officer.  In 
+this case, there can be no serious doubt that Edmonds 
+recognized Sergeant Feirson as an officer.  Feirson testified 
+that he was prominently wearing his police badge on his 
+chest.  Motion Tr. at 21.  Since Feirson further testified that 
+he could observe Edmonds through the van's windshield, it is 
+a fair inference that Edmonds in turn saw Feirson, perceived 
+his badge, recognized him as a police officer, and reacted by 
+making furtive gestures.  Indeed, during cross-examination, 
+in an attempt to establish that Edmonds was "seized" before 
+Feirson demanded his license and registration, Edmonds's 
+attorney asked the officer "And it was a police badge, anyone 
+could tell that you were a police officer with a badge;  right?"  
+To which Feirson replied "Right."  Id. at 22.
+
+     This case thus is easily distinguishable from Johnson, in 
+which we doubted that the suspect's initial attempt to conceal 
+an object under his car seat gave rise to a reasonable 
+suspicion of wrongdoing (although we held that his later 
+
+movements did).  See Johnson, 212 F.3d at 1316 ("If the 
+seizure had taken place at that point, we doubt very much 
+whether it would have been valid.").  The reason why John-
+son's first round of furtive gestures did not justify a Terry 
+stop was because "[i]t is not clear that Johnson was aware 
+that [the observing officer] was a police officer;  [the officer] 
+was after all in an unmarked car."  Id.  In this case, by way 
+of crucial contrast, Feirson had his police badge prominently 
+displayed on his chest as he approached the van.
+
+     These three factors, when considered in their totality and 
+through the eyes of an experienced police officer on the 
+street, are sufficient to have led Sergeant Feirson reasonably 
+to suspect that Edmonds was engaged in unlawful activity.  
+Moreover, it was reasonable for Feirson's suspicions to be 
+aroused in the first instance by McFadden's apparent flight 
+and retreat to Edmonds's van.  As we noted above, the 
+district court found that Feirson was aware that his Crown 
+Victoria was readily recognizable as a police vehicle.  That 
+McFadden, immediately upon observing that vehicle, has-
+tened to the van to join its driver, could at least raise a 
+suspicion that whatever was going on in the van had nothing 
+to do with legitimate presence in the parking lot, raising the 
+strong possibility, given the other facts discussed above, that 
+it was criminal activity.
+
+     The Supreme Court recently held that "[h]eadlong flight 
+... is not necessarily indicative of wrongdoing, but it certain-
+ly is suggestive of such."  Wardlow, 120 S. Ct. at 676;  see 
+also California v. Hodari D., 499 U.S. 621, 623 n.1 (1991) 
+(" 'The wicked flee when no man pursueth.' " (quoting Prov-
+erbs 28:1)).  This case is not like United States v. Johnson, 
+496 A.2d 592 (D.C. Ct. App. 1985), in which the Court of 
+Appeals of the District of Columbia stated that "one person's 
+flight is imputable to another only if other circumstances 
+indicate that the flight from authority implies another per-
+son's consciousness of guilt as well," before holding that three 
+suspects' joint presence in a vehicle enabled officers to "con-
+clude that all three were associated in a venture of some 
+sort."  Id. at 597.  Rather, in this case the flight of McFad-
+den to the van contributed to a reasonable suspicion that 
+
+criminal activity might be afoot in the vehicle.  This case 
+involves direct, not transferred, suspicion.  Acting upon that 
+reasonable suspicion, the investigating officer approached the 
+van and observed the other factors which we have enumerat-
+ed above, further contributing to his reasonable suspicion and 
+supporting his Terry stop of Edmonds.
+
+     In sum, it was reasonable for Sergeant Feirson to suspect 
+that Edmonds was engaged in illegal activity.  Because Feir-
+son had a reasonable suspicion that "criminal activity may 
+[have] be[en] afoot," Terry, 392 U.S. at 30, the initial stop was 
+justified, and the evidence the officers subsequently obtained 
+was lawfully introduced.  The district court did not err in 
+refusing to suppress the evidence.
+
+     B.   Sufficiency of the evidence
+          
+     Besides challenging the Terry stop, Edmonds argues alter-
+natively that the United States introduced no evidence at trial 
+that the school near which he committed a drug offense was 
+one of the specific types of schools enumerated in 21 U.S.C. 
+s 860(a).  Both parties agree that the government failed to 
+lay a factual foundation that would have enabled the jury to 
+conclude that "the Patricia Harris school," Opening State-
+ments and Testimony, 9/14/99, at 36, was one of the statutori-
+ly specified schools.  They further agree that Edmonds's 
+conviction on count four--possessing and intending to distrib-
+ute cocaine base within 1,000 feet of a school--must be 
+vacated, and that the case should be remanded with instruc-
+tions to reinstate his conviction on count three--possessing 
+and intending to distribute cocaine base--a lesser included 
+offense.
+
+     21 U.S.C. s 860(a) makes it unlawful for a person to 
+participate in a drug transaction within 1,000 feet of an 
+"elementary, vocational, or secondary school or a ... college, 
+junior college, or university."  Section 860(a) does not apply 
+to all types of schools, but only to the ones that are specifical-
+ly enumerated in the statute's text.  Hence to prove a viola-
+tion of s 860(a), the United States must establish beyond 
+reasonable doubt that the school near which the defendant 
+committed a drug crime is one of the statutorily specified 
+
+types.  Cf. United States v. Hawkins, 104 F.3d 437, 440 (D.C. 
+Cir. 1997) (holding that s 860(a) is not violated where a drug 
+offense is committed within 1,000 feet of a "school building 
+that is no longer (or not yet) in use as a school").
+
+     In other words, the character of the school is an element of 
+the offense that, like all elements, must be proved beyond a 
+reasonable doubt.  See United States v. Gaudin, 515 U.S. 
+506, 510 (1993) (stressing that the Sixth and Fourteenth 
+Amendments guarantee a criminal defendant the right to "a 
+jury determination that [he] is guilty of every element of the 
+crime with which he is charged, beyond a reasonable doubt");  
+see also Apprendi v. New Jersey, 120 S. Ct. 2348, 2368 (2000) 
+(Thomas, J., concurring) (arguing that "every fact that is by 
+law a basis for imposing or increasing punishment" is an 
+element of the offense).
+
+     Here, the only evidence the United States submitted at 
+trial was that Edmonds had committed a drug offense in the 
+vicinity of "the Patricia Harris school."  9/13/99 Tr. at 36.  
+During the pretrial hearing on Edmonds's motion to sup-
+press, a government witness had described the school alter-
+nately as "a local high school" and a "junior high school," 
+Motion Tr. at 9--either of which seemingly would meet 
+s 860(a)'s definition of a "secondary school."  But during the 
+trial itself, the government made no effort to show that "the 
+Patricia Harris school" is indeed one of the types of schools 
+specified in 21 U.S.C. s 860(a).  Because the United States 
+failed to introduce any evidence that Edmonds committed 
+that element of the offense, no jury properly could have found 
+beyond a reasonable doubt that he violated s 860(a).
+
+     A similar issue was presented in United States v. Smith, 13 
+F.3d 380 (10th Cir. 1993), where the Tenth Circuit applied a 
+statute making it unlawful to sell drugs within 1,000 feet of a 
+"playground."  The statute further defined "playground" as 
+"any outdoor facility ... intended for recreation, open to the 
+public, and with any portion thereof containing three or more 
+separate apparatus intended for the recreation of chil-
+dren...."  21 U.S.C. s 860(d).  At trial, the only evidence 
+introduced by the government was that Crawford Park, the 
+
+location of defendant's drug sale, had "playgrounds, walking 
+paths, [and] gazebos."  Smith, 13 F.3d at 382.  It produced 
+no evidence that Crawford Park had three or more recreation 
+apparatus.  "Because the testimony does not meet the re-
+quirements of the definition of a playground set forth in 21 
+U.S.C. s 860(d), a reasonable jury could not convict Mr. 
+Smith beyond a reasonable doubt of an offense which requires 
+activity 'within 1,000 feet of a ... playground' as an element."  
+Id.  Just so here.
+
+     We therefore vacate Edmonds's conviction for violating 21 
+U.S.C. s 860(a), and remand with instructions that the dis-
+trict court reinstate his conviction for violating 21 U.S.C. 
+s 841(a)(1) and (b)(1)(B)(iii), a lesser included offense.  The 
+prosecution might well have avoided this additional stage of 
+litigation by doing before the jury what it did at the suppres-
+sion hearing:  simply asking its witness to fully describe "the 
+Patricia Harris school."
+
+                         III. CONCLUSION
+
+     The district court properly concluded that the police offi-
+cers had a reasonable suspicion to conduct a Terry stop of 
+Edmonds, since they were patrolling in a high-crime area, 
+observed Edmonds sitting in a van parked after hours in a 
+school lot, and saw him conceal an object under his seat.  
+Because the initial stop was lawful, the evidence obtained in 
+subsequent searches need not be suppressed.  However, the 
+district court erred in refusing to grant Edmonds's motion for 
+judgment of acquittal, as the United States introduced no 
+evidence that the school near which he was arrested was one 
+of the specific types of schools enumerated in 21 U.S.C. 
+s 860(a).  Edmonds's conviction on count four therefore is 
+vacated, and the case is remanded with instructions that his 
+conviction on count three be reinstated.
+
+                                  

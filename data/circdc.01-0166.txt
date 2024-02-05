@@ -1,0 +1,904 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 5, 2001       Decided July 6, 2001 
+
+                           No. 99-1009
+
+            Building Owners and Managers Association 
+                     International, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+            Satellite Broadcasting and Communications 
+                      Association, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                           No. 99-1021
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Matthew C. Ames argued the cause for petitioners.  With 
+him on the brief were William Malone and Nicholas P. 
+Miller.
+
+     Gregory M. Christopher, Counsel, Federal Communications 
+Commission, argued the cause for respondents.  With him on 
+the brief were Christopher J. Wright, General Counsel, Dan-
+iel M. Armstrong, Associate General Counsel, A. Douglas 
+Melamed, Acting Assistant Attorney General, United States 
+Department of Justice, Robert B. Nicholson and Robert J. 
+Wiggers, Attorneys.  John E. Ingle, Deputy Associate Gener-
+al Counsel, Federal Communications Commission, Catherine 
+G. O'Sullivan and Nancy C. Garrison, Attorneys, United 
+States Department of Justice, entered appearances.
+
+     Richard P. Bress argued the cause for intervenors, DI-
+RECTV, Inc., et al.  With him on the brief were James H. 
+Barker, Margaret L. Tobey, Joan E. Neal, Cristina Chou 
+Pauze, Timothy R. Graham, Joseph M. Sandri, Jr., Barry J. 
+Ohlson, David Alan Nall, Jonathan Jacob Nadler and Benig-
+no E. Bartolome, Jr.  Philip L. Verveer and Theodore C. 
+Whitehouse entered appearances.
+
+     Before:  Randolph, Rogers and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Concurring opinion filed by Circuit Judge Randolph.
+
+     Rogers, Circuit Judge:  Following enactment of the Tele-
+communications Act of 1996, the Federal Communications 
+Commission promulgated a rule prohibiting restrictions on 
+certain over-the-air reception devices ("OTARD").  The rule 
+invalidated
+
+     [a]ny restriction, including but not limited to any state or 
+     local law or regulation, including zoning, land-use or build-
+     ing regulation, or any private covenant, homeowners' asso-
+     ciation rule or similar restriction on property within the 
+     exclusive use or control of the antenna user where the user 
+     has a direct or indirect ownership interest in the property 
+     
+     that impairs the installation, maintenance, or use of [anten-
+     nas that are designed to receive direct broadcast satellite 
+     service, video programming services via multipoint distribu-
+     tion services, or television broadcast signals]....
+     
+Preemption of Local Zoning Regulation of Satellite Earth 
+Stations, Implementation of Section 207 of the Telecommuni-
+cations Act of 1996:  Restrictions on Over-the-Air Reception 
+Devices:  Television Broadcast Service and Multichannel 
+Multipoint Distribution Service, 11 F.C.C.R. 19276 (1996) 
+("First OTARD Order").  In 1998, the Commission extended 
+the prohibition, with certain exceptions, to "lease provision[s] 
+... where the [antenna] user has a ... leasehold interest in 
+the property."  In the Matter of Implementation of Section 
+207 of the Telecommunications Act of 1996--Restrictions on 
+Over-the-Air Reception Devices:  Television Broadcast, Mul-
+tichannel Multipoint Distribution and Direct Broadcast Sat-
+ellite Services, 13 F.C.C.R. 23874 (1998) ("Second OTARD 
+Order").
+
+     Several trade associations representing real estate owners 
+and property managers1 appeal the Second OTARD Order, 
+contending that the rule, as amended, is invalid on its face.  
+They contend, first, that the Commission exceeded its statuto-
+ry authority in extending the OTARD rule to leased property;  
+second, that the amended rule violates the Takings Clause of 
+the Fifth Amendment of the United States Constitution;2  and 
+third, if there is no taking, that the Commission acted arbi-
+trarily and capriciously in extending the rule to leaseholds.  
+Finding unpersuasive these facial challenges to the amended 
+OTARD rule, we deny the petition.
+
+__________
+     1  Petitioners are the Building Owners and Managers Associa-
+tion International, the Institute of Real Estate Management, the 
+National Apartment Association, the American Seniors Housing 
+Association, the National Multi Housing Council, the National Asso-
+ciation of Realtors, the Real Estate Roundtable, and the National 
+Association of Home Builders.
+
+     2  "[N]or shall private property be taken for public use, without 
+just compensation."  U.S. Const. amend. V.
+
+                                I.
+
+     In promulgating the OTARD rules, the Commission relied 
+on s 207 of the Telecommunications Act of 1996, Pub. L. No. 
+104-104, 110 Stat. 56 (the "1996 Act"), which provides:
+
+     Within 180 days after the date of enactment of this Act, 
+     the Commission shall, pursuant to Section 303 of the 
+     Communications Act of 1934, promulgate regulations to 
+     prohibit restrictions that impair a viewer's ability to 
+     receive video programming services through devices de-
+     signed for over-the-air reception of television broadcast 
+     signals, multichannel multipoint distribution service, or 
+     direct broadcast satellite services.
+     
+The 1996 Act also added a new subsection 303(v) to the 
+Communications Act of 1934, granting the Commission
+
+     exclusive jurisdiction to regulate the provision of direct-
+     to-home satellite services ... [T]he term "direct-to-home 
+     satellite services" means the distribution or broadcasting 
+     of programming or services by satellite directly to the 
+     subscriber's premises without the use of ground receiv-
+     ing or distribution equipment . . . .
+     
+47 U.S.C. s 303(v).  The 1996 Act left undisturbed the broad 
+statutory directives contained in the Communications Act of 
+1934, including the Commission's mandate to "make [commu-
+nications services] available ... to all the people of the 
+United States," 47 U.S.C. s 151, and the Commission's au-
+thority to "perform any and all acts, make such rules and 
+regulations, and issue such orders . . . as may be necessary in 
+the execution of its functions."  Id. s 154(i).
+
+     As early as the 1980s, the Commission had begun restrict-
+ing potential barriers to the development of satellite-based 
+residential video programming.  See, e.g., Preemption of Lo-
+cal Zoning or Other Regulation of Receive-Only Satellite 
+Earth Stations, 51 Fed. Reg. 5519 (1986).  In direct response 
+to the directives in the 1996 Act, the Commission promulgat-
+ed rules to safeguard viewers' ability to use devices designed 
+for direct broadcast satellite services, television broadcast 
+services, and multichannel multipoint distribution services 
+
+(collectively, "s 207 devices").  See, e.g., Preemption of Local 
+Zoning Regulation of Satellite Earth Stations, 11 F.C.C.R. 
+5809 (1996);  Implementation of Section 207 of the Telecom-
+munications Act of 1996:  Restrictions on Over-the-Air Re-
+ception Devices:  Television Broadcast and Multichannel 
+Multipoint Distribution Service, Notice of Proposed Rule-
+making, 11 F.C.C.R. 6357 (1996).  The Commission adopted 
+its first rule implementing s 207 on August 5, 1996.  See 
+First OTARD Order, 11 F.C.C.R. 19276 (1996).  The first 
+OTARD rule provided:
+
+     Any restriction, including but not limited to any state or 
+     local law or regulation, including zoning, land-use or 
+     building regulation, or any private covenant, home-
+     owners' association rule or similar restriction on property 
+     within the exclusive use or control of the antenna user 
+     where the user has a direct or indirect ownership inter-
+     est in the property, that impairs the installation, mainte-
+     nance, or use of [a s 207 device] ... is prohibited....
+     
+47 C.F.R. s 1.4000 (1996).  The prohibitions in the first 
+OTARD rule applied only to property in which the "user" of 
+satellite services (i.e., the "viewer" for purposes of s 207) had 
+an ownership interest.  Despite its stated prohibition of "any" 
+restriction, the rule allowed for several exceptions:  Restric-
+tions on s 207 devices were permissible if they served a 
+"clearly defined safety objective" and were administered "in a 
+nondiscriminatory manner to other . . . devices . . . that [we]re 
+comparable in size, weight and appearance," or if they were 
+"necessary to preserve an historic district," and if the restric-
+tions were no more burdensome than necessary.  Id. 
+s 1.4000(b)(1)-(3).3  In addition, the OTARD rule permitted 
+waiver by the Commission upon the request of local govern-
+ments or associations.  See id. s 1.4000(c).
+
+     The first OTARD rule left unresolved whether the s 207 
+prohibition should apply to "property not within the exclusive 
+
+__________
+     3  In the Second OTARD Order, the Commission amended 
+s 1.4000(b)(2) to except "a prehistoric or historic district, site, 
+building, structure or object included in, or eligible for inclusion on, 
+the National Register of Historic Places...."
+
+[use or] control of a person with an ownership interest," such 
+as common areas or rental properties.  First OTARD Order, 
+11 F.C.C.R. at 19311;  see also id. at 19314.  On November 
+20, 1998, after notice and comment, the Commission expanded 
+the OTARD prohibition to include restrictions on s 207 re-
+ception devices on rental property that is within the exclusive 
+use or control of the tenant who has a leasehold interest in 
+the property.  See Second OTARD Order, 13 F.C.C.R. 23874 
+(1998).  The amended OTARD rule provides in relevant part:
+
+     (a)(1) Any restriction, including but not limited to any 
+     state or local law or regulation, including zoning, land-
+     use, or building regulations, or any private covenant, 
+     contract provision, lease provision, homeowners' associa-
+     tion rule or similar restriction, on property within the 
+     exclusive use or control of the antenna user where the 
+     user has a direct or indirect ownership interest or lease-
+     hold interest in the property that impairs the installation, 
+     maintenance, or use of [a s 207 device] ... is prohibit-
+     ed....
+     
+47 C.F.R. s 1.4000(a)(1) (1998) (new language italicized).  Un-
+der the amended OTARD rule, tenants are able, subject to 
+some restrictions, to install s 207 devices "wherever they rent 
+space outside of a building, such as balcony railings, patios, 
+yards, gardens, or any other similar area" and, in some 
+instances, inside rental units.  Second OTARD Order, 13 
+F.C.C.R. at 23875.4  The Commission did not, however, ex-
+tend the OTARD rule to the placement of antennas on 
+common property such as outside walls (where viewers may 
+have access but not possession and exclusive rights of use or 
+control) or restricted access areas such as rooftops (where 
+
+__________
+     4  For tenants who do not lease outside rental space, the Com-
+mission noted that "our new rules permit the installation of Section 
+207 devices inside rental units and anticipate the development of 
+future technology that will create devices capable of receiving video 
+programming signals inside buildings."  Second OTARD Order , 13 
+F.C.C.R. at 23875-76.  The Commission noted that one such device 
+already permits inside receipt of signals.  Id. at 23876.
+
+viewers generally do not have access or possession).  See id. 
+at 23893 p 35.
+
+     Following the Commission's denial of petitions for reconsid-
+eration of the Second OTARD Order, petitioners filed this 
+appeal.
+
+                               II.
+
+     Petitioners contend that the Commission exceeded its stat-
+utory authority by extending the OTARD prohibition to 
+leased property.  To determine whether the Commission 
+acted within its legally delegated authority in promulgating 
+the amended OTARD rule, the court employs the familiar 
+test outlined by the Supreme Court in Chevron U.S.A., Inc. v. 
+Natural Resources Defense Council, Inc., 467 U.S. 837 (1984):  
+If, through the Communications Act, Congress has spoken 
+directly to the precise issue presented by petitioners, "that is 
+the end of the matter," and the court defers to the "unambig-
+uously expressed intent of Congress."  Chevron, 467 U.S. at 
+842-43.  If, however, the Communications Act "is silent or 
+ambiguous with respect to the specific issue" at hand, the 
+Commission may exercise its reasonable discretion in constru-
+ing the statute.5  Id.  As petitioners contend--and as the 
+Commission implicitly concedes, see Second OTARD Order, 
+13 F.C.C.R. at 23880--the Communications Act does not 
+explicitly address the landlord-tenant relationship, nor does it 
+explicitly grant the Commission jurisdiction over the real 
+estate industry, an area that is normally outside the Commis-
+sion's scope of authority.  See, e.g., Illinois Citizens Comm. 
+for Broad. v. FCC, 467 F.2d 1397, 1400 (7th Cir. 1972).  
+Hence, the court's focus is on whether, in implementing 
+s 207, the Commission reasonably interpreted its statutory 
+authority.  We look to the text of the Communications Act of 
+
+__________
+     5  The court properly applies Chevron analysis to the amended 
+OTARD rule because "Congress delegated authority to [the Com-
+mission] generally to make rules carrying the force of law, and [the 
+OTARD rule] was promulgated in the exercise of that authority."  
+United States v. Mead Corp., 121 S. Ct. 2164, 2171 (2001);  see also 
+infra Part II.
+
+1934 and the Telecommunications Act of 1996, and to the 
+legislative history of s 207.
+
+     In enacting the Communications Act of 1934, Congress 
+intended "to confer upon the Commission sweeping authority 
+to regulate 'in a field of enterprise the dominant characteris-
+tic of which was the rapid pace of its unfolding.' "  Office of 
+Communication of the United Church of Christ v. F.C.C., 707 
+F.2d 1413, 1423 (D.C. Cir. 1983) (quoting National Broad. Co. 
+v. United States, 319 U.S. 190, 219 (1943)).  In accordance 
+with this goal, the provisions of the Communications Act are 
+"explicitly applicable to 'all interstate and foreign communica-
+tion by wire or radio,' " and the Commission, being the 
+"single Government agency with 'unified jurisdiction and reg-
+ulatory power over all forms of ... communication,' " is 
+granted "broad authority" to execute its mandate.  United 
+States v. Southwestern Cable Co., 392 U.S. 157, 167-68 (1968) 
+(quoting 47 U.S.C. s 152(a)) (footnotes omitted);  see also 
+Capital Cities Cable, Inc. v. Crisp, 467 U.S. 691, 700 (1984);  
+Metropolitan Council of NAACP Branches v. FCC, 46 F.3d 
+1154, 1162 (D.C. Cir. 1995);  United Video, Inc. v. FCC, 890 
+F.2d 1173, 1182-83 (D.C. Cir. 1989);  National Ass'n of Regu-
+latory Utility Comm'rs v. FCC, 746 F.2d 1492, 1499, 1501 
+(D.C. Cir. 1984);  Wold Communications, Inc. v. FCC, 735 
+F.2d 1465, 1474-76 (D.C. Cir. 1984).  The Communications 
+Act thus directs the Commission to "perform any and all acts, 
+make such rules and regulations, and issue such orders . . . as 
+may be necessary in the execution of its functions."  47 
+U.S.C. s 154(i);  see also id. s 303(r).
+
+     Congress continued in the 1996 Act to vest broad authority 
+in the Commission, granting the Commission "exclusive juris-
+diction to regulate the provision of direct-to-home satellite 
+services," 47 U.S.C. s 303(r), and instructing the Commission 
+promptly to issue regulations to "prohibit restrictions" that 
+impede "viewer[s]" from using s 207 devices.6  Id. s 207.  
+Consistent with the broad language of other sections of the 
+
+__________
+     6  The parties' discussion of s 207 is not advanced by emphasis 
+on whether s 207 is properly labeled as a directive for the Commis-
+sion to act pursuant to pre-existing authority, rather than as a 
+source of independent authority.  Whether s 207 is viewed as new 
+authority or as a directive to act upon existing authority, s 207 
+
+Commission's enabling statute, Congress demonstrated no 
+intent to qualify the terms "viewer" and "restrictions":  It did 
+not specify which types of "viewer[s]" were covered, or which 
+types of "restrictions" were permissible.  Had Congress in-
+tended to qualify these terms, it clearly would have done so, 
+especially in light of the courts' expansive reading of Con-
+gress's previous delegations of authority to the Commission.  
+See generally Commissioner v. Keystone Consol. Indus., 508 
+U.S. 152, 159 (1993);  Cannon v. University of Chicago, 441 
+U.S. 677, 696-99 (1979);  Lorillard v. Pons, 434 U.S. 575, 580-
+81 (1978);  Sea-Land Service, Inc. v. Department of Transp., 
+137 F.3d 640, 645-46 (D.C. Cir. 1998).  Having "explicitly left 
+a gap for [the Commission] to fill," Congress delegated to the 
+Commission the authority to "elucidate [s 207] by regulation" 
+and to "address[ ] ambiguity in the statute," United States v. 
+Mead Corp., 121 S. Ct. 2164, 2171 (2001) (quoting Chevron, 
+467 U.S. at 843-44), and thus to preempt State enforcement 
+of lease provisions that place "restrictions on viewers who 
+wish to install, maintain, or use a [s ] 207 reception device 
+within their leasehold."7  Second OTARD Order, 13 F.C.C.R. 
+at 23877.
+
+     The legislative history of s 207 reinforces the conclusion 
+that Congress intended in s 207 to give the Commission a 
+
+__________
+suffices as a statutory basis for the Second OTARD Order.  More-
+over, petitioners' belittling of the significance of s 207 on the 
+ground that, unlike other sections of the 1996 Act, s 207 is uncodi-
+fied is misplaced;  that the section was not codified in the United 
+States Code does not detract from s 207's legal authority.  See 
+United States Bank of Oregon v. Independent Ins. Agents of 
+America, Inc., 508 U.S. 439, 448 (1993).
+
+     7  The Commission's statutory authority is, of course, subject to 
+limitations:  It is "restricted to that reasonably ancillary to the 
+effective performance of [its] various responsibilities."  Southwest-
+ern Cable Co., 392 U.S. at 178.  In light of Congress's explicit (and 
+exclusive) grant of jurisdiction to the Commission over direct-to-
+home satellite services and its broad responsibility to make commu-
+nications services available to all individuals, an OTARD rule that 
+safeguards all viewers' access to these services clearly falls within 
+this limitation.
+
+very broad mandate.  The House Committee Report on s 207 
+states that:
+
+     The Committee intends this section to preempt enforce-
+     ment of State or local statutes and regulations, or State 
+     or local legal requirements, or restrictive covenants or 
+     encumbrances that prevent the use of antennae designed 
+     for off-the-air reception of television broadcast signals or 
+     of satellite receivers designed for receipt of [direct 
+     broadcast satellite] services.  Existing regulations, in-
+     cluding but not limited to, zoning laws, ordinances, re-
+     strictive covenants or homeowners' association rules, 
+     shall be unenforceable to the extent contrary to this 
+     section.
+     
+H.R. Rep. No. 104-204 at 123-24 (1995).  Petitioners read 
+this statement to reflect Congress's intent to prohibit only 
+restrictions affecting property owners, such as zoning restric-
+tions, covenants, and homeowners' association restrictions, 
+thereby restoring those individuals' property rights.  An 
+equally plausible reading of the House Report--and one 
+consistent with the broad authority reflected in the Commis-
+sion's statutory mandate--would indicate Congress's intent to 
+invalidate various types of private contracts under State law, 
+such as homeowners' association contracts and lease agree-
+ments, that might interfere with a viewer's ability to receive 
+certain types of satellite broadcasting signals.
+
+     Petitioners' essential claim is that however broad the Com-
+mission's mandate, it may only exercise its authority over 
+"communications and persons . . . engaged in communica-
+tions."  47 U.S.C. s 152(a).  This, petitioners contend, does 
+not include either the real estate industry or the landlord-
+tenant relationship, which is a legal allocation of property 
+rights governed by State law.  Petitioners rely on cases in 
+which courts have denied the Commission the authority "to 
+determine the validity of contracts between [Commission] 
+licensees and others," Regents of the Univ. Sys. of Georgia v. 
+Carroll, 338 U.S. 586, 602 (1950), or to regulate any and all 
+activities that "substantially affect communications."  Illinois 
+Citizens Comm. for Broad., 467 F.2d at 1400;  see also Radio 
+
+Station WOW v. Johnson, 326 U.S. 120, 131-32 (1945);  
+Southwestern Bell Tel. Co. v. FCC, 19 F.3d 1475, 1484 (D.C. 
+Cir. 1994).  In contrast to those cases, however, the issue 
+here is not the extent to which a ruling by the Commission 
+affects areas that are tangential to the Commission's jurisdic-
+tion, such as the height and location of a building.  See, e.g., 
+Illinois Citizens Comm. for Broad., 467 F.2d at 1400.  Con-
+gress has expressly vested the Commission with exclusive 
+jurisdiction and authority to ensure that all viewers may 
+access direct-to-home satellite services.  See 47 U.S.C. 
+s 303(v);  1996 Act, Pub. L. No. 104-104, s 207, 110 Stat. 56. 
+Where the Commission has been instructed by Congress to 
+prohibit restrictions on the provision of a regulated means of 
+communication, it may assert jurisdiction over a party that 
+directly furnishes those restrictions, and, in so doing, the 
+Commission may alter property rights created under State 
+law.  See Louisiana Pub. Serv. Comm'n v. FCC, 476 U.S. 
+355, 368-69 (1986);  Fidelity Fed. Savings and Loan Ass'n v. 
+De la Cuesta, 458 U.S. 141, 153-54 (1982);  Capital Cities 
+Cable, 467 U.S. at 698-700;  New York State Comm'n on 
+Cable Television v. FCC, 749 F.2d 804, 807-08 (D.C. Cir. 
+1984).8
+
+     For these reasons, we hold that the Commission could 
+reasonably construe s 207 to apply to all "viewer[s]," includ-
+ing tenants, and to obligate the Commission to prohibit "[a]ny 
+restriction," including lease provisions, "that impairs the in-
+stallation, maintenance, or use of [a s 207 device]."  47 
+C.F.R. s 1.4000.  It follows that the court properly defers to 
+the Commission's interpretation of its statutory authority.  
+See Mead Corp., 121 S. Ct. at 2171-73;  Chemical Mfrs. Ass'n 
+v. Natural Resources Defense Council, Inc., 470 U.S. 116, 125 
+(1985);  see also United States v. Riverside Bayview Homes, 
+Inc., 474 U.S. 121, 131 (1985).
+
+                               III.
+
+     Possibly foreseeing their fate under Chevron, petitioners 
+contend that our analysis of the amended OTARD rule 
+
+__________
+     8  Petitioners do not rely on s 152(b) as a jurisdictional limita-
+tion on the Commission's authority to promulgate the amended 
+OTARD rule.  See Louisiana Pub. Serv. Comm'n., 476 U.S. at 369.
+
+should be guided not by Chevron, but rather by the princi-
+ples set forth in Bell Atlantic Telephone Companies v. FCC, 
+24 F.3d 1441 (D.C. Cir. 1994).  In Bell Atlantic, the court 
+declined to apply Chevron deference to a Commission order 
+requiring the physical collocation of competitive access pro-
+viders to the central offices of local telephone exchange 
+companies.  Faced with a similar statutory silence on the 
+precise issue at hand, see id. at 1445, the court adopted a 
+"narrowing construction" of the Communications Act9 be-
+cause the Commission's interpretation created an "identifi-
+able class" of applications that would "necessarily constitute a 
+taking."  Id. at 1445-46 (quoting Riverside Bayview Homes, 
+474 U.S. at 128 n.5).  Petitioners contend that, as in Bell 
+Atlantic, the Commission's interpretation of s 207 and of its 
+authority under the Communications Act creates such an 
+"identifiable class" and is therefore impermissible.  Consis-
+tent with Supreme Court instruction, we disagree.
+
+     The first obstacle to petitioners' takings claim arises from 
+their effort to classify the amended OTARD prohibition as a 
+per se taking under Loretto v. Teleprompter Manhattan 
+CATV Corp., 458 U.S. 419 (1982).  In Loretto, the Supreme 
+Court held that a "physical intrusion by government [is] a 
+property restriction of an unusually serious character for 
+purposes of the Takings Clause."  Id. at 426 (internal quota-
+tions omitted).  The Court further held that "when the physi-
+cal intrusion reaches the extreme form of a permanent physi-
+cal occupation, a [per se] taking has occurred."  Id.  Thus, in 
+Loretto, the Supreme Court invalidated a New York statute 
+authorizing a cable television company to place cable equip-
+ment onto a private property owner's building on the grounds 
+that the statute constituted a per se taking.  Id. at 438-39.  
+Petitioners contend that a tenant's unauthorized use of the 
+property, by installing a s 207 device against the express 
+wishes of the landlord, is an invasion of the property rights 
+that the landlord has chosen to retain in the leased property 
+
+__________
+     9  At issue in Bell Atlantic was the authority of the Commission, 
+pursuant to 47 U.S.C. s 201(a), to order carriers "to establish 
+physical connections with other carriers."
+
+and therefore amounts to a per se taking.  Petitioners further 
+contend that the amended OTARD rule constitutes a per se 
+taking under Loretto because it enlarges the tenant's rights 
+beyond the contractual provisions of the lease, thereby strip-
+ping landowners of property rights that they rightfully re-
+served, and constitutes a taking of the property owner's right 
+to exclude.  None of these contentions suffices to characterize 
+the amended OTARD rule as a per se taking.
+
+     First, petitioners fail to acknowledge a key factor that 
+places the amended OTARD rule outside the scope of Loretto:  
+consent to the occupation of the property.  The Loretto court 
+emphasized that the per se taking rule is "very narrow" and 
+applies only to regulations that "require the landlord to suffer 
+the physical intrusion of his building by a third party."  Id. at 
+440-41 (emphasis added).  Unlike the building owner in Lor-
+etto, whose premises were occupied without her consent, the 
+landlord subject to the amended OTARD rule has ceded 
+control of his or her property to a tenant with whom the 
+landlord has a contractual relationship.  Thus, no "third 
+party" stranger to the property is involved.  While petition-
+ers would label a tenant a "third party" intruder if the tenant 
+uses the premises in a way that is prohibited by the lease, the 
+Supreme Court has rejected this characterization.  Consensu-
+al occupation of the property, as distinct from a "permanent 
+physical occupation," Loretto, 458 U.S. at 426, occurs once the 
+landlord voluntarily enters into a lease with the tenant.  In 
+FCC v. Florida Power Corp., 480 U.S. 245 (1981), for exam-
+ple, the Supreme Court upheld the Commission's authority 
+under the Pole Attachments Act, 47 U.S.C. s 224 (1991), to 
+regulate pole rental fees paid to an electric utility by various 
+cable television companies using the utility's poles.10  The 
+
+__________
+     10  The Court noted that the Pole Attachments Act was "enacted 
+by Congress as a solution to a perceived danger of anticompetitive 
+practices by utilities in connection with cable television service."  
+Florida Power, 480 U.S. at 247.  Prior to that enactment, utility 
+companies had leased the space on their poles to cable operators, 
+who claimed that "the utility companies were exploiting their mo-
+nopoly position by engaging in widespread overcharging...."  Id.  
+The Commission states in its brief that petitioners are building 
+
+Court distinguished Loretto on the grounds that, unlike the 
+New York statute that allowed cable companies to access an 
+individual's property, the Pole Attachments Act did not au-
+thorize third parties to access the utility poles, but merely 
+regulated the terms of the rental once cable companies and 
+the utilities agreed to the rental of the poles.  "Required 
+acquiescence," the Court held, "is at the heart of the [Loretto] 
+concept of occupation."  Id. at 252.  It is thus "the invitation, 
+not the rent, that makes the difference.  The line which 
+separates [landlord-tenant] cases from Loretto is the unam-
+biguous distinction between a commercial lessee and an 
+interloper with a government license." Id. at 252-53 (empha-
+sis added).  As with the pole rentals in Florida Power, the 
+landlord affected by the amended OTARD rule will have 
+voluntarily ceded control of an interest in his or her property 
+to a tenant.  Having ceded such possession of the property, a 
+landlord thereby submits to the Commission's rightful regula-
+tion of a term of that occupation.11  See Florida Power, 480 
+U.S. at 252.
+
+     Second, petitioners ignore the extensive case law upholding 
+the government's authority to regulate various aspects of the 
+landlord-tenant relationship "without paying compensation for 
+
+__________
+owners who seek to maintain bottleneck control over access to 
+rental buildings by cable and satellite master antenna operators of 
+the building owners' choosing.  See Br. for Respondent at 11-12.  
+The court has no occasion to evaluate this statement.
+
+     11  Contrary to petitioners' contention, Gulf Power Co. v. United 
+States, 187 F.3d 1324 (11th Cir. 1999), does not imply a different 
+result.  In Gulf Power, the Eleventh Circuit held that a 1996 
+amendment to the Pole Attachments Act, providing that utilities 
+must provide telecommunications carriers access to their utility 
+poles, ducts, conduits, and rights-of-way, effected a per se taking of 
+the utility's property.  See id. at 1329;  see also 47 U.S.C. 
+s 224(f)(1).  The court concluded that the 1996 amendment "re-
+quire[d] a utility to acquiesce to a permanent, physical occupation of 
+its property" by a third party.  Id. at 1329.  This element of 
+"required acquiescence," the court observed, distinguished the case 
+from Florida Power and brought the amended statute within the 
+scope of Loretto.  Id. at 1329 (quoting Florida Power, 480 U.S. at 
+252).
+
+all economic injuries that such regulation entails," Loretto, 
+458 U.S. at 440, even though some of these regulations 
+"transfer wealth from the one who is regulated to another."  
+Yee v. City of Escondido, 503 U.S. 519, 529 (1992).  Although 
+a landlord's lease restrictions are enforceable property rights, 
+see United States v. General Motors, 323 U.S. 373, 380-82 
+(1945), governmental restrictions on the exercise of those 
+rights do not necessarily constitute a per se taking.  For 
+example, "[w]hen a landowner decides to rent his land to 
+tenants, the government may place ceilings on the rents the 
+landowner can charge, or require the landowner to accept 
+tenants he does not like, without [creating a per se taking]."  
+Yee, 503 U.S. at 529 (citations omitted);  see also PruneYard 
+Shopping Center v. Robins, 447 U.S. 74 (1980);  Heart of 
+Atlanta Motel, Inc. v. United States, 379 U.S. 241, 258 (1964);  
+McAndrews v. Fleet Bank of Massachusetts, 989 F.2d 13 (1st 
+Cir. 1993).  In light of this precedent, regulation of a single 
+aspect of the landlord-tenant relationship, enacted pursuant 
+to the manifest congressional objective of safeguarding view-
+ers' access to direct-to-home satellite services, does not result 
+in a per se taking.  See 47 U.S.C. ss 151, 303(v).
+
+     Third, the Supreme Court has rejected the contention that 
+regulation of the terms of a landlord-tenant relationship 
+constitutes on its face an invasion of the landlord's right to 
+exclude.  See Yee, 503 U.S. at 527-28.  In Yee, the Court held 
+that a rent control ordinance affecting the owners of a mobile 
+home park, even when considered in light of a State law 
+restricting the landlords' right of eviction, did not constitute a 
+taking of the landlords' right to exclude.  See id.  The Court 
+stated that "no government has required any physical inva-
+sion of petitioners' property.  Petitioners' tenants were invit-
+ed by petitioners, not forced upon them by the government."  
+Id. at 528 (citing Florida Power, 480 U.S. at 252-53).  Conse-
+quently, "[w]hile the 'right to exclude' is doubtless ... 'one of 
+the most essential sticks in the bundle of rights that are 
+commonly characterized as property,' ... that right [was not] 
+taken from petitioners on the mere face of the [regulation]."  
+Id. (quoting Kaiser Aetna v. United States, 444 U.S. 164, 176 
+(1979)).
+
+     Because the amended OTARD rule does not amount to a 
+compelled physical invasion of property,12 and hence a per se 
+taking, petitioners' only potential takings claim is a regulatory 
+taking claim.  That kind of claim requires "ad hoc, factual 
+inquiries," Penn Central Transp. Co. v. New York City, 438 
+U.S. 104, 124 (1978),13 and "entails complex factual assess-
+ments of the purposes and economic effects of government 
+action."  Yee, 503 U.S. at 523.  Because of this context-
+specific standard, the amended OTARD rule cannot be said to 
+create an "identifiable class" of applications that would "nec-
+essarily constitute a [regulatory] taking."  Bell Atlantic, 24 
+F.3d at 1445-46 (quoting Riverside Bayview Homes, 474 U.S. 
+at 128 n.5).  For that reason, the Bell Atlantic approach to 
+statutory interpretation does not apply, and the Chevron 
+analysis of Part II does.
+
+     Petitioners' alternate claim that even if statutorily autho-
+rized, the amended OTARD rule is nonetheless an unconstitu-
+tional regulatory taking that must be set aside fails for two 
+independent reasons.  First, "in general, '[e]quitable relief is 
+not available to enjoin an alleged taking of private property 
+for a public use, duly authorized by law, when a suit for 
+compensation can be brought against the sovereign subse-
+quent to that taking.' "  Riverside Bayview Homes, 474 U.S. 
+
+__________
+     12  In the Second OTARD Order, the Commission recognized 
+the limitations of its new mandate:
+
+     In [s] 207, Congress did not direct the Commission to impose 
+     affirmative duties on other parties to install [s] 207 devices or 
+     to grant access to restricted areas to permit the installation of 
+     [s] 207 reception devices, and in particular, Congress did not 
+     direct the Commission to require property owners to subject 
+     property to a Fifth Amendment taking.
+     
+Second OTARD Order, 13 F.C.C.R. at 23877.
+
+     13  To determine whether a regulation constitutes a regulatory 
+taking, the court generally evaluates three factors:  (1) "the econom-
+ic impact of the regulation on the claimant";  (2) "the extent to 
+which the regulation has interfered with distinct investment-backed 
+expectations";  and (3) the "character of the governmental action."  
+Penn Central, 438 U.S. at 124.
+
+at 127-28 (quoting Ruckelshaus v. Monsanto Co., 467 U.S. 
+986, 1016 (1984));  see also Bell Atlantic, 24 F.3d at 1445 n.1.  
+Second, because petitioners' regulatory taking claim depends 
+upon ad hoc, factual inquiries, it cannot satisfy the require-
+ments for making the kind of facial challenge petitioners have 
+brought here.  See Yee, 503 U.S. at 533-34;  Gulf Power Co. 
+v. United States, 187 F.2d 1324, 1328 (11th Cir. 1999).  Peti-
+tioners are still free to make claims for just compensation on 
+account of regulatory takings with respect to their individual 
+buildings, but no such claims have been made here, nor could 
+they be.  See Riverside Bayview Homes, 474 U.S. at 128, 129 
+n.6.
+
+                               IV.
+
+     As an apparent afterthought, petitioners summarily con-
+tend that in the absence of a taking, the Commission acted 
+arbitrarily and capriciously, and abused its discretion, in 
+promulgating the amended OTARD rule.  Petitioners primar-
+ily quote what they consider a "tautology" from the Second 
+OTARD Order:  "Removing a restriction on installing an 
+antenna within a leasehold does not impose a duty on the 
+landlord to relinquish property because the landlord has 
+already voluntarily relinquished possession of the leasehold 
+by virtue of the lease."  Second OTARD Order, 13 F.C.C.R. 
+at 23881.  This statement, petitioners assert, demonstrates 
+that the Commission's rule is "purposeless or illogical":  If the 
+Commission "has taken nothing," petitioners ask, "then why 
+is the rule necessary?"  Petitioners have misconstrued the 
+Commission's position.
+
+     Contrary to petitioners' assertion, the Commission does not 
+argue that the landlord "gave [ ] away" a property right to 
+the tenant by relinquishing possession of the property.  Rath-
+er, the quoted statement represents the Commission's posi-
+tion, explained in detail in the subsequent paragraphs of the 
+Second OTARD Order, that although a landlord may retain 
+property interests in a leasehold, a restriction on the terms 
+that the landlord may impose on the tenant is not a physical 
+occupation giving rise to a per se taking because the landlord 
+
+has "voluntarily relinquished possession" of the property.  
+See Second OTARD Order, 13 F.C.C.R. at 23881-86.
+
+     Accordingly, because petitioners' facial challenge fails to 
+present an "identifiable set of instances in which mere appli-
+cation of [the amended OTARD rule] will necessarily or even 
+probably constitute a taking," Riverside Bayview Homes, 474 
+U.S. at 128 n.5, we apply Chevron deference to the Commis-
+sion's interpretation of s 207 and of its broad mandate under 
+the Communications Act, and we deny the petition.14
+
+__________
+     14  In a footnote to their brief, petitioners contend in two brief 
+sentences, without supporting citation, that the amended OTARD 
+rule is void for vagueness.  The court declines to address an issue 
+that was presented in such a cursory fashion.  See Washington 
+Legal Clinic for the Homeless v. Barry, 107 F.3d 32, 39 (D.C. Cir. 
+1997).
+
+     Randolph, Circuit Judge, concurring:  While I join all of 
+the court's opinion, I write separately to express my opinion 
+that Bell Atlantic Telephone Cos. v. FCC, 24 F.3d 1441 (D.C. 
+Cir. 1994), was wrongly decided and ought to be overruled.
+
+     Our opinion in Railway Labor Executives Ass'n v. United 
+States, 987 F.2d 806, 815-16 (D.C. Cir. 1993) (per curiam), 
+issued shortly before Bell Atlantic, summarized the govern-
+ing principles:  "The Fifth Amendment guarantees that when 
+the government takes private property, it will provide just 
+compensation.  Under the Tucker Act, 28 U.S.C. s 1491(a), 
+the United States Court of Federal Claims has original 
+jurisdiction over suits seeking compensation from the United 
+States under the Constitution.  Except for cases in which the 
+amount in controversy is less than $10,000, in which event 
+jurisdiction is concurrent with the federal district courts, see 
+28 U.S.C. s 1346(a)(2), the Federal Claims Court's jurisdic-
+tion in such actions is exclusive.  '[T]akings claims against the 
+Federal Government are premature until the property owner 
+has availed itself of the process provided by the Tucker Act.'  
+Williamson County Regional Planning Comm'n v. Hamilton 
+Bank, 473 U.S. 172, 195 (1985)."
+
+     "... The Taking Clause does not prohibit the government 
+from taking private property.  The Clause requires only that 
+the government accomplish the taking in a particular way, 
+namely, by paying for the property.  See First English 
+Evangelical Lutheran Church v. County of Los Angeles, 482 
+U.S. 304, 314-15 (1987);  Ruckelshaus v. Monsanto Co., 467 
+U.S. 986, 1020 (1984).  There is no constitutional necessity for 
+payment to be made in advance, at least so long as the 
+government provides a way for the property owner to recover 
+just compensation after the taking is completed.  See Ruckel-
+shaus, 467 U.S. at 1016.  As we have said, those adversely 
+affected by the Commission's action may pursue their claims 
+in the Federal Claims Court or, depending on the amount at 
+stake, in the federal district courts."
+
+     "There is nothing to petitioners' further point that, at the 
+least, we ought to construe [the statute] to avoid the possibili-
+ty that the [agency] has effectuated a taking in this case.  
+The argument may rest on the familiar canon that if one 
+permissible interpretation of statute would render it unconsti-
+
+tutional and another permissible interpretation would make it 
+constitutional, the latter should prevail because the judiciary 
+should not assume Congress meant to violate the Constitu-
+tion.  Blodgett v. Holden, 275 U.S. 142, 147-49 (1927) (opinion 
+of Holmes, J.).  Or the argument may rely on the more 
+debatable canon of construing statutes to avoid constitutional 
+doubts.  Compare Johnson v. Robison, 415 U.S. 361, 366-67 
+(1974), with Rust v. Sullivan, 500 U.S. 173, 190-91 (1991). But 
+these canons do not fit.  Because just compensation is pre-
+sumptively available under the Tucker Act, there is neither 
+an unconstitutional result nor a constitutional doubt to be 
+averted by interpretation.  See United States v. Riverside 
+Bayview Homes, Inc., 474 U.S. 121, 127-28 (1985)."
+
+     Doubtless in recognition of these principles, Bell Atlantic 
+begins with a disclaimer and then adds a qualifier:  this court 
+has no "power" to decide whether an agency regulation rule 
+"inflicted" a taking of private property within the meaning of 
+the Fifth Amendment to the Constitution--if the regulation 
+was within the agency's statutory authority.  24 F.3d at 1444 
+n.1.  How to determine the "if"?  According to Bell Atlantic, 
+not in the usual deference-laced manner because "statutes 
+will be construed to defeat administrative orders that raise 
+substantial constitutional questions," id. at 1445.  That point 
+is directly contrary to Railway Labor's recognition that there 
+is no constitutional doubt to be avoided.  And it is also 
+directly contrary to the Supreme Court's holding in United 
+States v. Riverside Bayview Homes, Inc., 474 U.S. 121, 128 
+(1985), that "the possibility that the application of a regulato-
+ry program may in some instances result in the taking of ... 
+property is no justification for the use of narrowing construc-
+tions to curtail the program if compensation will in any event 
+be available in those cases where a taking has occurred."
+
+     Bell Atlantic's other rationale for adjudicating whether a 
+regulation would take property, and for construing the stat-
+ute to prevent this, stems from a footnote in Riverside 
+Bayview Homes, Inc., 474 U.S. at 128 n.5.  The Supreme 
+Court there distinguished United States v. Security Industri-
+al Bank, 459 U.S. 70, 78 (1982), on the basis that statutory 
+interpretation might be affected if "there is an identifiable 
+
+class of cases in which application of a statute will necessarily 
+constitute a taking."  The Court described Security Industri-
+al Bank as a case in which a narrowing construction was 
+appropriate because "a particular provision of the Bankruptcy 
+Code would in every case constitute a taking."  Id.  This is 
+reflected in the Court's expression of doubt in Security 
+Industrial Bank whether so applying a Code provision "com-
+ports with the Fifth Amendment."  459 U.S. at 78.  Given the 
+Court's analysis in Riverside Bayview--namely, that only an 
+uncompensated taking of private property could violate the 
+Fifth Amendment--the statement in Security Industrial 
+Bank just quoted has to mean that there would have been no 
+just compensation for the threatened takings, or that the 
+Court thought there would not be.  This reading is supported 
+by Louisville Joint Stock Land Bank v. Radford, 295 U.S. 
+555 (1935), the case Security Industrial Bank relied upon and 
+reaffirmed.  Radford invalidated a retroactive change in the 
+bankruptcy laws permitting debtors to retain their property 
+more easily because the "Act as applied ha[d] taken from the 
+Bank without compensation."  Id. at 601 (emphasis added).
+
+     In this case there is no doubt that if a taking occurs as a 
+result of the Commission's rule, the property owner may 
+receive just compensation.  See maj. op. at 17.  To my mind, 
+that ought to end the takings inquiry.  I recognize that Bell 
+Atlantic treats the matter very differently:  "Chevron defer-
+ence to agency action that creates a broad class of takings 
+claims, compensable in the Court of Claims, would allow 
+agencies to use statutory silence or ambiguity to expose the 
+Treasury to liability both massive and unforeseen."  Bell 
+Atlantic, 24 F.3d at 1445.  In other words, the fact that 
+compensation would be available is a reason for a narrowing 
+construction--the opposite of what the Supreme Court held.
+
+     But my disagreement with Bell Atlantic's theory rests on 
+more than just its misreading of the Supreme Court's opinion 
+in Riverside Bayview.  It is not clear to me how, in many 
+instances, we could determine whether an agency rule would 
+bring about a taking in a "broad" class of cases (a term not 
+used in Riverside Bayview).  Bell Atlantic makes no distinc-
+tion between regulatory and per se takings;  whether a regu-
+
+latory taking has occurred may depend on the "background 
+principles" of each state's property law.  See Lucas v. South 
+Carolina Coastal Council, 505 U.S. 1003, 1031 (1992).  In how 
+many states, or in how many instances, there must be a 
+taking before we find a "broad class of takings" under Bell 
+Atlantic is a mystery.
+
+     I also disagree with the rationale, relied upon in Bell 
+Atlantic, that it is the business of the federal courts to 
+protect the government from some imagined risk of agency 
+encroachment on Congress's taxation and appropriations pow-
+ers.  By passing the Tucker Act, Congress generally bound 
+itself to paying for authorized takings by the federal govern-
+ment, regardless whether the specific liability in any particu-
+lar case was intended or foreseen.  See Regional Rail Reor-
+ganization Act Cases, 419 U.S. 102, 126-27 (1974).  While it 
+may be the case that the courts must protect one branch from 
+the aggrandizing actions of another, see generally Mistretta v. 
+United States, 488 U.S. 361, 380-84 (1989) (collecting cases), 
+surely it is not the case that the courts must protect Congress 
+from creating responsibilities for itself (so long as they do not 
+detract from the other branches' powers or violate the delega-
+tion doctrine).  Since the political branches have made a 
+legislative choice to accept federal liability for takings, the 
+federal courts must respect that determination.  Besides, if 
+Congress disagrees with an agency's subjecting the Treasury 
+to liability through taking claims, it can always reverse the 
+agency's rule through legislation, either before the rule takes 
+effect, see Congressional Review Act, Pub. L. No. 104-121, tit. 
+II, s 251, 110 Stat. 868 (1996) (codified at 5 U.S.C. ss 801-
+808), or afterwards.
+
+     Given the opportunity, I would vote to overturn Bell Atlan-
+tic.
+
+      

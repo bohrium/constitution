@@ -1,0 +1,385 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued February 21, 2001    Decided April 20, 2001 
+
+                           No. 00-1002
+
+                         WorldCom, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                    AT&T Corporation, et al., 
+                           Intervenors
+
+                            ---------
+
+                        Consolidated with
+                         00-1062, 00-1070
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+     Jonathan J. Frankel and Darryl M. Bradford argued the 
+cause for petitioners.  With them on the briefs were William 
+
+T. Lake, Lynn R. Charytan, Dan L. Poole, Robert B. McKen-
+na, Lawrence E. Sarjeant, Linda L. Kent, John W. Hunter, 
+Julie E. Rones, Jodie L. Kelley, John J. Hamill, Thomas F. 
+O'Neil III, Adam H. Charnes, Mark B. Erlich, Robert J. 
+Aamoth, Albert H. Kramer, Renee R. Crittendon, Richard 
+Martin Rindler, Charles C. Hunter and Catherine M. Han-
+nan.  John H. Harwood, II entered an appearance.
+
+     John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, argued the cause for respon-
+dents.  With him on the briefs were Christopher J. Wright, 
+General Counsel, Jonathan E. Nuechterlein, Deputy General 
+Counsel, Laurence N. Bourne, Counsel, Catherine G. O'Sulli-
+van, Nancy C. Garrison and Robert J. Wiggers, Attorneys, 
+U.S. Department of Justice.
+
+     Daniel Meron argued the cause for intervenors AT&T 
+Corporation, et al.  With him on the brief were David W. 
+Carpenter, Peter D. Keisler, David L. Lawson, Mark C. 
+Rosenblum, Robert J. Aamoth, Richard M. Rindler, Christy 
+C. Kunin, Thomas F. O'Neil III, Adam H. Charnes, Mark B. 
+Ehrlich, Jonathan J. Nadler, Rodney L. Joyce, Darryl M. 
+Bradford, Jodie L. Kelley and John J. Hamill.  James P. 
+Young entered an appearance.
+
+     Dan L. Poole, Robert B. McKenna, Jr., William T. Lake, 
+Lynn R. Charytan, Michael K. Kellogg, Mark L. Evans, 
+Sean A. Lev, Aaron M. Panner, Roger K. Toppins, Lawrence 
+E. Sarjeant, Linda L. Kent, John W. Hunter, Julie E. Rones, 
+Michael E. Glover, Edward H. Shakin, Donna M. Epps and 
+M. Robert Sutherland were on the brief of intervenors Qwest 
+Communications International, Inc., et al.  John H. Harwood, 
+II, Gail L. Polivy, John F. Raposa, M. Edward Whelan, III, 
+Alfred G. Richter, Hope E. Thurrott and James D. Ellis 
+entered appearances.
+
+     Before:  Williams, Sentelle and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  Packet-switching and digital sub-
+scriber line technologies ("DSL") make it possible to send 
+data at high speed over conventional copper wire.  Two DSL 
+modems are attached to a telephone loop, one at the subscrib-
+er's premises and one at the telephone company's central 
+
+office.  If the line carries both ordinary telephone service and 
+high-speed data transmission, the carrier must separate these 
+streams at the company's central office, using a digital sub-
+scriber line access multiplexer.  With this device the carrier 
+sends ordinary voice calls to the public, circuit-switched tele-
+phone network (which keeps a phone line open during a voice 
+call) and sends data traffic to a packet-switched data network 
+(which compresses data and can send it in split-second bursts 
+during gaps on a line), where it can then be routed to a 
+corporate local area network or internet service provider 
+("ISP").  See In re Deployment of Wireline Services Offering 
+Advanced Telecommunications Capability, 13 F.C.C.R. 24,-
+011, 24,026-27 p p 29-31 (1998) ("Advanced Services Order").  
+The high-speed services thus provided are known as "DSL-
+based advanced services."1
+
+     At issue before us is the Federal Communications Commis-
+sion's decision that "incumbent" local exchange carriers 
+("LECs"), when they provide such services, are subject to a 
+range of special duties under the Telecommunications Act of 
+1996, Pub. L. No. 104-104, 110 Stat. 56 ("the Act").  These 
+duties, to which we'll return in detail later, are intended to 
+facilitate entry into local telephone markets.  They include, 
+for example, an obligation to provide competitors "access to 
+network elements on an unbundled basis," and to offer, at 
+wholesale rates, any telecommunications service that the firm 
+offers at retail to subscribers other than telecommunications 
+carriers.  See 47 U.S.C. ss 251(c)(3) & (4)(A).
+
+     In 1998, in response to a request for clarification from 
+Qwest2 and others, the Commission held that DSL-based 
+
+__________
+     1  In the order under review the Commission defined "advanced 
+services" as "high speed, switched, broadband, wireline telecommu-
+nications capability that enables users to originate and receive high-
+quality voice, data, graphics and video telecommunications."  In re 
+Deployment of Wireline Services Offering Advanced Telecommuni-
+cations Capability, 15 F.C.C.R. 385, 385 n.2 (1999).
+
+     2  US WEST, Inc., the parent company of US WEST Communi-
+cations, Inc., merged with Qwest Communications International, 
+Inc. on June 30, 2000.
+
+advanced services constitute either "telephone exchange ser-
+vice" or "exchange access," and therefore were subject to the 
+duties set out in s 251(c).  Advanced Services Order, 13 
+F.C.C.R. at 24,031-34 p p 38-44.  On Qwest's petition for 
+review in this court, the Commission sought a remand to 
+address some of Qwest's arguments, which we granted.  See 
+US WEST Communications, Inc. v. FCC, 1999 WL 728555 
+(D.C. Cir. 1999).
+
+     On remand the Commission again found incumbent LECs' 
+provision of DSL-based advanced services to be subject to 
+s 251(c) obligations.  In re Deployment of Wireline Services 
+Offering Advanced Telecommunications Capability, 15 
+F.C.C.R. 385 (1999) (the "Remand Order").  It invoked two 
+theories to support its conclusion.  The first interpreted the 
+statutory language defining incumbent LECs, and the second, 
+as in the original order, viewed DSL-based advanced services 
+as either "telephone exchange service" or "exchange access."  
+Because the Commission's reading of the statutory language 
+defining incumbent LECs is at least reasonable, we deny 
+Qwest's petition to vacate the entire Commission order.  But 
+because the Commission's interpretation of "telephone ex-
+change service" and "exchange access" is in essence the one 
+that we vacated and remanded in yet another case, Bell 
+Atlantic Telephone Cos. v. FCC, 206 F.3d 1 (D.C. Cir. 2000), 
+we vacate and remand on that issue.  We take the two 
+theories in turn.
+
+                     * * *
+
+     The definition of incumbent LEC.  Qwest concededly pro-
+vides "telephone exchange service" and "exchange access" 
+and under the statute is thus a "LEC" in the abstract.  But 
+Qwest argues that its DSL-based advanced services can be 
+subjected to the duties created by s 251(c) only to the extent 
+that those specific services belong to either of the categories 
+that are the defining characteristics of a LEC.  The language 
+of the Act gives Qwest's analysis some purchase.
+
+     The Act defines incumbent LECs (naturally enough) as a 
+subcategory of LECs.  A LEC
+
+     means any person that is engaged in the provision of 
+     telephone exchange service or exchange access.  Such 
+     term does not include a person insofar as such person is 
+     engaged in the provision of a commercial mobile service 
+     under section 332(c) of this title, except to the extent that 
+     the Commission finds that such service should be includ-
+     ed in the definition of such term.
+     
+47 U.S.C. s 153(26) (emphasis added).  The concept of incum-
+bency, by contrast, is based purely on history.  An incumbent 
+LEC with respect to an area is
+
+     the local exchange carrier that--(A) on February 8, 1996, 
+     provided telephone exchange service in such area;  and 
+     (B)(i) on February 8, 1996, was deemed to be a member 
+     of the exchange carrier association pursuant to section 
+     69.601(b) of the Commission's regulations (47 C.F.R. 
+     69.601(b));  or (ii) is a person or entity that, on or after 
+     February 8, 1996, became a successor or assign of a 
+     member described in clause (i).
+     
+47 U.S.C. s 251(h).
+
+     Qwest argues that the phrase in s 153(26) "is engaged in 
+the provision of" plainly bars the Commission from regulating 
+carriers' DSL-based advanced services under s 251(c) be-
+cause such services are not "telephone exchange service" or 
+"exchange access."  Qwest interprets the second sentence in 
+the LEC definition as confirming that services other than 
+"telephone exchange service" or "exchange access," like com-
+mercial mobile services, are excluded from regulation.  Under 
+Qwest's reading, the second sentence states that "you are a 
+local exchange carrier if you are engaged in providing tele-
+phone exchange service or exchange access, but you are not a 
+local exchange carrier if you are engaged in providing com-
+mercial mobile services."  Oral Arg. Tr. at 10.  In contrast, 
+the Commission argues that DSL-based advanced services 
+qualify as "telecommunications services" as to which s 251(c) 
+imposes many of its duties on incumbent LECs, so that it 
+may regulate a carrier engaged in providing such services so 
+long as the carrier qualifies as a LEC by providing either 
+"telephone exchange service" or "exchange access" and meets 
+
+the definition of incumbent under s 251(h).  See Respon-
+dent's Br. at 4 n.4, 19-20;  Oral Arg. Tr. at 26 (Commission 
+counsel acknowledging that a carrier must still be a "live 
+LEC" to be an incumbent LEC).  Under the Commission's 
+reading, the second sentence of the LEC definition indicates 
+that a carrier can be a LEC with respect to services other 
+than "telephone exchange service" or "exchange access":  the 
+explicit exclusion of "commercial mobile service" (subject to 
+an exception) lends some credence to the view that Con-
+gress's premise was inclusive.  Congress, the Commission 
+reasons, must have assumed that without the exclusion such 
+persons would have been included "insofar as" they were 
+"engaged in" providing mobile service merely on the basis of 
+(elsewhere) providing exchange service or access, even if 
+mobile service itself did not fit either category.
+
+     The statutory definitions do not compel Qwest's reading.  
+There is nothing linguistically odd about defining a set of 
+firms subject to regulation in terms of the conduct of particu-
+lar activities, and yet also regulating some other activities 
+that are not part of the definition.  And the definition does 
+not say that a carrier is a LEC only "when" or "to the extent" 
+that it provides the regulation-triggering services.  When 
+defining a rural telephone company Congress specified inclu-
+sion "to the extent that such entity" was performing specified 
+services, 47 U.S.C. s 153(37) (emphasis added), and similarly 
+provided that a telecommunications carrier should be "treat-
+ed" as a common carrier "only to the extent that it is engaged 
+in providing telecommunications services," id. s 153(44) (em-
+phasis added).  These explicit specifications tend to under-
+mine Qwest's argument that such a clause must be implied in 
+the LEC definition.  See Russello v. United States, 464 U.S. 
+16, 23 (1983).
+
+     The Commission draws a similar argument from Con-
+gress's articulation of the s 251(c) duties.  Those under 
+s 251(c)(2) expressly apply to "telephone exchange service" 
+or "exchange access," while the rest have no such limitation.  
+These distinctions are hard to reconcile with the idea that the 
+
+duties apply only to firms insofar as they provide "telephone 
+exchange service" or "exchange access."
+
+     Given the ambiguity in the statutory language, our task is 
+not to choose the best interpretation but merely to decide if 
+the Commission's is reasonable.  See Atlantic Mutual Insur-
+ance Co. v. Commissioner of Internal Revenue, 523 U.S. 382, 
+389 (1998);  Chevron U.S.A., Inc. v. Natural Resources De-
+fense Council, Inc., 467 U.S. 837, 842-43 (1984).
+
+     Qwest suggests that the Commission's reading will produce 
+absurd results, involving imposition of s 251(c) duties on 
+incumbents' provision of long distance, wireless, and cable 
+services.  See Qwest's Main Br. at 17-18;  see also Mova 
+Pharmaceutical Corp. v. Shalala, 140 F.3d 1060, 1068 (D.C. 
+Cir. 1998).  But the Commission's response alleviates much of 
+this fear.  See Respondent's Br. at 29-30.  First, the worry 
+about cable services seems inapplicable.  The Act says that a 
+"telecommunications carrier shall be treated as a common 
+carrier ... only to the extent that it is engaged in providing 
+telecommunications services."  47 U.S.C. s 153(44) (emphasis 
+added).  Telecommunications services do not include conven-
+tional cable services (though the Commission has suggested 
+that cable service used for high-speed internet access might 
+be a different story).  See In re Inquiry Concerning High-
+Speed Access to the Internet Over Cable and Other Facilities, 
+15 F.C.C.R. 19,287, 19,293-98 p p 14-24 (2000).  And the 
+s 251(c) duties have built-in limits that constrain their appli-
+cation to the other items (long distance and wireless).  The 
+interconnection obligations (and any related collocation 
+duties) are by their terms restricted to telephone exchange 
+and exchange access services.  See 47 U.S.C. ss 251(c)(2) & 
+(6).  The unbundling obligations of s 251(c)(3) (and likewise 
+any related collocation duties) are constrained by the "neces-
+sary" and "impair" restrictions of 47 U.S.C. s 251(d)(2).  See 
+Remand Order, 15 F.C.C.R. at 391 p 14.  Only the duty of an 
+incumbent LEC under s 251(c)(4), to offer at wholesale those 
+telecommunications services that it sells at retail, seems 
+unlimited;  but in a competitive market the burden would be 
+revenue-neutral, as retail prices should represent wholesale 
+rates plus the additional costs needed for retailing.
+
+     Accordingly, we find no error in the Commission's conclu-
+sion that it can apply the s 251(c) duties to a firm that met 
+the s 251(h) criteria on February 8, 1996 and is still provid-
+ing "exchange access" or "telephone exchange service."
+
+     Classification of DSL-based advanced services as "tele-
+phone exchange service" or "exchange access."  The Commis-
+sion's alternative theory was that DSL-based advanced ser-
+vices actually constituted either "telephone exchange service" 
+or "exchange access," depending on how the technology was 
+used.  Because the communications set in motion by ISP-
+bound traffic typically do not start and end within the same 
+exchange, but proceed over the internet to out-of-exchange 
+sites, the Commission found that such traffic constitutes 
+"exchange access."  Id. at 391-92 p 16.  In contrast, the 
+Commission found that work-at-home applications and other 
+non-Internet communications (such as a corporate network) 
+using DSL technology that begin and terminate within an 
+exchange qualify as "telephone exchange service."  Id.
+
+     Before addressing this, a few words about justiciability.  
+As this theory was one of the Commission's two alternative 
+bases for its ruling against Qwest, the company obviously had 
+standing to seek its overthrow.  Resolution of the first issue 
+in the Commission's favor does not, under settled law, moot 
+the challenger's attack on the second basis.  See Air Line 
+Pilots Ass'n Int'l v. UAL Corp., 897 F.2d 1394, 1397 (7th Cir. 
+1990).  By considering both bases, there is obviously potential 
+for economy by the inferior federal courts, as higher-level 
+review might remove the first basis for the outcome.  See id.
+
+     Further, there is a question of standing.  The second (as 
+yet unmentioned) petitioner, WorldCom, objects to the Re-
+mand Order on grounds that intersect with those of Qwest.  
+Though WorldCom concurs with the Commission that DSL-
+based advanced services are "telephone exchange service" or 
+"exchange access," it objects to the Commission's view that a 
+customer's calls to a local ISP are "exchange access" because 
+of the resulting out-of-exchange communications over the 
+internet;  if the calls are classified as "exchange access," 
+WorldCom will not receive reciprocal compensation from 
+
+incumbent LECs for them.  Normally a party that has ob-
+tained the result that it sought in the agency proceeding 
+cannot sue merely because it disagrees with the rationale, see 
+Telecommunications Research & Action Center v. FCC, 917 
+F.2d 585, 588 (D.C. Cir. 1990), and WorldCom most definitely 
+favors the result here (the subjection of incumbent LECs' 
+DSL-based advanced services to s 251(c) duties).  It has 
+been suggested, however, that such cases as International 
+Brotherhood of Electrical Workers v. ICC, 862 F.2d 330, 334 
+(D.C. Cir. 1988), and Better Government Ass'n v. Department 
+of State, 780 F.2d 86, 91 (D.C. Cir. 1986), might be read to 
+hold that "despite a disposition which favors a given party it 
+might still challenge a general rule if that rule remains in 
+existence and creates cognizable harm through its effects on 
+that party's future rights."  Telecommunications Research & 
+Action Center, 917 F.2d at 588 (Silberman, J., concurring).  
+As the standing of one petitioner is enough, Animal Legal 
+Defense Fund, Inc. v. Glickman, 154 F.3d 426, 445 (D.C. Cir. 
+1998)(en banc), and Qwest has undoubted standing to attack 
+the Commission's second theory, we need not pursue the 
+suggestion.
+
+     Our treatment of the merits can be brief.  The Commis-
+sion's Remand Order was issued a few months before our 
+decision in Bell Atlantic Telephone Cos. v. FCC, 206 F.3d 1 
+(2000).  There we held that the Commission, in arriving at 
+the same conclusion for ISP-bound calls in In re Implementa-
+tion of the Local Competition Provisions in the Telecommu-
+nications Act of 1996;  Inter-Carrier Compensation for ISP-
+Bound Traffic, 14 F.C.C.R. 3689, 3691-3703 p p 3-20 (1999), 
+had "not provided a satisfactory explanation why LECs that 
+terminate calls to ISPs are not properly seen as 'termi-
+nat[ing] ... local telecommunications traffic,' and why such 
+traffic is 'exchange access' rather than 'telephone exchange 
+service.' "  Bell Atlantic, 206 F.3d at 9.  The Commission 
+does not seriously contest that its decision here, classifying 
+certain DSL offerings as either "telephone exchange service" 
+or "exchange access" under 47 U.S.C. s 153, relied not only 
+on the Reciprocal Compensation Order vacated in Bell Atlan-
+
+tic but also on its defective reasoning, see Remand Order, 15 
+F.C.C.R. at 391-92, 400-02 p p 15-16, 33, 35.
+
+     Accordingly we vacate and remand the Commission's classi-
+fication of DSL-based advanced services as "telephone ex-
+change service" or "exchange access."  See National Fuel 
+Gas Supply Corp. v. FERC, 899 F.2d 1244, 1249-50 (D.C. Cir. 
+1990).  Qwest's claim that incumbent LECs can be subject to 
+s 251(c) duties only with respect to the provision of "tele-
+phone exchange service" or "exchange access," however, is 
+denied.
+
+                                                            So ordered.
+
+                      

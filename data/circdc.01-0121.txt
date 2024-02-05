@@ -1,0 +1,428 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued April 6, 2001       Decided June 19, 2001 
+
+                           No. 99-1448
+
+               Alliant Energy Corporation, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+              Enron Power Marketing, Inc., et al., 
+                           Intervenors
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+                           No. 99-1544
+
+                  Enron Power Marketing, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+               MidAmerican Energy Company, et al., 
+                           Intervenors
+
+                           
+     Steven J. Ross argued the cause for the MAPP Members as 
+petitioners in No. 99-1448 and as intervenors in No. 99-1544.  
+Catherine M. Giovannoni and Richard T. Saas were on brief.
+
+     Jeffrey D. Watkiss argued the cause for Enron Power 
+Marketing, Inc. as petitioner in No. 99-1544 and as interve-
+nor in No. 99-1448.  Ronald N. Carroll was on brief.
+
+     David H. Coffman, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for the respondent.  Dennis 
+Lane, Solicitor, Federal Energy Regulatory Commission, was 
+on brief.
+
+     Donna M. Attanasio argued the cause for intervenors 
+Northern States Power Company and Northern States Power 
+Company (Wisconsin) in No. 99-1448.  Earle H. O'Donnell 
+was on brief.
+
+     Isaac D. Benkin was on the brief of intervenor Nebraska 
+Public Power District in No. 99-1448.
+
+     Before:  Williams, Sentelle and Henderson, Circuit 
+Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  The petitioners 
+challenge two decisions of the Federal Energy Regulatory 
+Commission (Commission or FERC) that ordered the Mid-
+Continent Area Power Pool (MAPP) to refund "third party 
+compensation" charges it assessed customers after March 1, 
+
+1997 for transmitting electricity into or outside of the MAPP 
+geographical area.  First, a group of petitioning MAPP mem-
+bers (MAPP petitioners) assert that the ordered refunds are 
+impermissibly retroactive and that they were incorrectly cal-
+culated.  In addition, petitioner Enron, a MAPP member and 
+beneficiary of the refunds, maintains the refunds should 
+include not only the third party compensation charges, as the 
+Commission directed, but also a portion of the amounts 
+Enron paid MAPP border utilities, based on their tariff rates, 
+to transmit the energy inside or outside the MAPP area.  For 
+the reasons set forth below, we reject all of the petitioners' 
+arguments and deny both petitions for review.
+
+                                I.
+
+     MAPP is an association of energy transmission utilities, 
+generators and marketers serving an area encompassing part 
+or all of several midwestern and western states and two 
+Canadian provinces.  Among other functions, MAPP coordi-
+nates energy sales and transmissions between and among its 
+members.  Before 1994 MAPP's energy pooling agreement 
+required its members to provide free, reciprocal transmission 
+service to other members.  In 1994 the pooling agreement 
+was amended with the addition of a tariff, "Schedule F," that 
+imposed a charge for transmissions among MAPP members, 
+but at a discounted distance-based rate rather than at the 
+individual transmitting members' filed tariff rates.  FERC 
+accepted the new agreement, including Schedule F, in a 
+decision dated December 15, 1994.  Mid-Continent Area 
+Power Pool, 69 F.E.R.C. p 61,347 (1994).  The Commission 
+provided the following explanation for its decision to accept 
+the new schedule:
+
+     Notwithstanding our concerns with the calculations and 
+     adjustments discussed above, we will accept the proposed 
+     MAPP rates for filing because MAPP's methodology 
+     produces rates that are just and reasonable and not 
+     unduly discriminatory or preferential when tested 
+     against traditional standards.  We note that the single 
+     system-wide MAPP rate that members will pay for ser-
+     
+     vice over the entire MAPP system is lower than the rate 
+     that each jurisdictional MAPP member could separately 
+     propose under a traditional rate while taking into account 
+     distance and power flows.
+     
+Id. at 62,307.
+
+     In March 1996 MAPP filed a proposed restated pooling 
+agreement that amended Schedule F to include a new section 
+2.4 requiring that a MAPP member purchasing energy from 
+or selling energy to a non-member arrange for extra-MAPP 
+transmission with a MAPP border utility (paying the border 
+utility's tariff for the transmission) and, in addition, that the 
+member pay MAPP itself the Schedule F intra-pool transmis-
+sion charge in order "to compensate Members for third party 
+use of their systems in connection with [the] sales or pur-
+chases."  Joint Appendix (JA) 56.1
+
+     On May 16, 1996 the Commission issued "Order 888," a 
+final rule which requires generally that each public utility, 
+and utility pool, file an "open access tariff" by a specific 
+deadline.  Promoting Wholesale Competition Through Open 
+Access Non-discriminatory Transmission Services by Public 
+Utilities and Recovery of Stranded Costs by Public Utilities 
+and Transmitting Utilities, Order No. 888, 61 Fed. Reg. 
+21,540, 21,541 (1996) (codified at 18 C.F.R. s 35.28).  The 
+
+__________
+     1 Section 2.4 of the filing provided in full:
+
+     Additional Use of Rate Schedules:  In addition to the primary 
+     purpose of this Tariff, as set forth in Sections 2.1 and 2.2, the 
+     Members shall also use the rate schedules appended hereto to 
+     compensate Members for third party use of their systems in 
+     connection with sales or purchases by Members to or from non-
+     Members that otherwise meet the requirements of a Coordina-
+     tion Transaction.  Such transactions must be scheduled and 
+     arranged by the transacting parties under the Transmission 
+     Providers' Open Access Transmission Tariffs or other trans-
+     mission agreements.
+     
+JA 56.  Section 1.7 of Schedule F defines a "Coordination Transac-
+tion" as "[a]ny sale for resale of power and/or energy between 
+Members, for a period not to exceed two years, using existing 
+generation and transmission facilities."  JA 48.
+
+order required power pools such as MAPP to file both 
+"reformed power pooling agreements" and "a joint pool-wide 
+Final Rule pro forma tariff" not later than December 31, 
+1996.  Id. at 31,728.  The reformed power pool agreement 
+must "establish open, non-discriminatory membership provi-
+sions and modify any provisions that are unduly discriminato-
+ry or preferential."  Id.  The tariffs, like all open access 
+tariffs filed under Order 888, are required to conform both to 
+the "pro forma tariff" set out in the final rule2 and to FERC's 
+1994 Transmission Pricing Policy Statement, 59 Fed. Reg. 
+55,031 (1994), clarified, 71 F.E.R.C. p 61,195 (1995) (Policy 
+Statement).3  See Order 888, 61 Fed. Reg. at 21,541, 21,618-
+19.
+
+     On September 12, 1996 the Commission issued a decision 
+accepting the restated MAPP agreement filed the previous 
+March, including Schedule F.  Mid-Continent Area Power 
+Pool, 76 F.E.R.C. p 61,261 (1996).  The Commission noted its 
+1994 order had found that the tariff's methodology, "while 
+
+__________
+     2 The pro forma tariff was issued in its final form in "Order 
+888-A," 62 Fed. Reg. 12,274 (Mar. 14, 1997).
+
+     3 The Policy Statement espoused a "new policy ... designed to 
+allow much greater transmission pricing flexibility than was allowed 
+under previous Commission policies."  59 Fed. Reg. at 55,031.  The 
+Commission announced therein that it would "permit more flexibili-
+ty to utilities to file innovative pricing proposals that meet the 
+traditional revenue requirement and will allow such proposals to 
+become effective 60 days after filing, as long as they satisfy certain 
+pricing principles" and "the Commission determines that such a 
+pricing proposal meets the statutory requirements of the [Federal 
+Power Act], i.e., is just and reasonable and not unduly discriminato-
+ry or preferential."  Id. (footnote omitted).  One of the principles 
+that had to be satisfied was the "comparability standard" "for 
+judging whether access to transmission services is unduly discrimi-
+natory, or anticompetitive."  Id. at 55,034.  Under that standard, 
+"[a]n open access tariff that is not unduly discriminatory or anti-
+competitive should offer third parties access on the same or compa-
+rable basis, and under the same or comparable terms and condi-
+tions, as the transmission provider's uses of its system."  Id. 
+(footnote omitted;  alteration original).
+
+flawed, produced rates that were just and reasonable and not 
+unduly discriminatory or preferential when tested against 
+traditional standards" because "the single system-wide MAPP 
+rate that members would pay for service over the entire 
+MAPP system would be lower than the rate that each public-
+utility MAPP member could separately propose under a 
+traditional, postage stamp rate while taking into account 
+distance and power flows."  Id. at 62,341-42 (citing 69 
+F.E.R.C. at 62,307).  The 1996 restated Schedule F, the 
+Commission concluded, "still produces rates that are reason-
+able when compared to the rate that each public-utility 
+MAPP member could separately propose using a traditional, 
+postage stamp rate methodology."  Id. at 62,342.  The Com-
+mission nevertheless warned MAPP:
+
+     Nothing in this order relieves MAPP public utility mem-
+     bers of their obligations under Order No. 888 to file a 
+     joint pool-wide pro forma tariff no later than December 
+     31, 1996, and to begin to take service under that tariff for 
+     all pool transactions no later than December 31, 1996. 
+     They must also file a reformed power pooling agreement 
+     no later than December 31, 1996 that establishes open, 
+     non-discriminatory membership provisions and modifies 
+     any provisions that are unduly discriminatory or prefer-
+     ential. When those filings are made, the Commission will 
+     review rate and non-rate issues pertaining to MAPP to 
+     ensure that MAPP's public utility members are comply-
+     ing with Order No. 888.
+     
+Id. at 62,336;  see also id. at 63,342 (noting that "issue [of 
+special rates] can be renewed when MAPP files its joint pool-
+wide pro forma transmission tariff in response to Order No. 
+888");  id. n.11 ("Under Order No. 888, public-utility members 
+of loose pools like MAPP must file reformed power pooling 
+agreements no later than December 31, 1996, and a joint 
+pool-wide pro forma transmission tariff no later than Decem-
+ber 31, 1996.  Therefore, we will soon have another opportu-
+nity to review rate issues when the revised MAPP agreement 
+is filed.").
+
+     On December 24, 1996 MAPP submitted a "compliance 
+filing," as required by Order 888, which included a substan-
+tially unchanged Schedule F.  On February 20, 1997 Enron, 
+after being assessed the third party charge for extra-MAPP 
+transmission in accordance with Schedule F, intervened to 
+challenge the MAPP compliance filing as inconsistent with 
+Order 888 and its pro forma tariff.  In an order issued 
+February 28, 1997 the Commission declared that MAPP's 
+submissions were "hereby accepted for filing and suspended 
+for a nominal period, to become effective March 1, 1997, 
+subject to refund and subject to the issuance of further 
+orders."  78 F.E.R.C. p 61,203, at 61,883 (1997).
+
+     On March 10, 1997 Enron sent MAPP a letter complaining 
+that imposing the Schedule F charges on top of the border 
+utility's individual tariff rate charge for extra-MAPP trans-
+mission was discriminatory.  When the parties failed to re-
+solve the dispute internally or through mediation, Enron filed 
+a complaint with the Commission on August 19, 1997 assert-
+ing MAPP's filing did not conform to the Order 888 pro forma 
+tariff because it discriminated against extra-MAPP transac-
+tions.  Enron sought a declaration that MAPP violated Order 
+888 by failing to file an open access tariff and by assessing 
+the third party charges and requested that the Commission 
+order MAPP to (1) file a conforming nondiscriminatory tariff 
+without third party additive charges and (2) refund to Enron 
+the third party charges it had paid.
+
+     In an order issued April 15, 1999 the Commission directed 
+MAPP "to eliminate tariff provisions that are related to 
+member-restricted services," 87 F.E.R.C. p 61,075, at 61,310 
+(99), and specifically to eliminate section 2.4 which it found 
+"unacceptable," id. at 61,313.  The Commission also directed 
+MAPP to provide "refunds for any and all billings under the 
+compliance tariff ... for transactions periods [sic] commenc-
+ing March 1, 1997, the date that MAPP's compliance tariff 
+became effective."  Id. at 61,324.
+
+     Enron filed a "Request for Clarification or Alternatively 
+Rehearing" of the April 15, 1999 decision, seeking a declara-
+tion that the refunds should include not only the third party 
+
+charges but also the difference between the transmission 
+charges Enron paid (based on the border utilities' tariffs) and 
+what Enron would have paid if charged the discounted mem-
+ber transmission rate.  The MAPP petitioners also filed for 
+rehearing, on behalf of MAPP, challenging the Commission's 
+authority to order retroactive refunds and the method of their 
+calculation.  In an order issued November 1, 1999 the Com-
+mission denied each rehearing petition and clarified that the 
+refunds should be limited to the third party compensation 
+charges.4
+
+     Both the MAPP petitioners and Enron petitioned the court 
+for review.
+
+                               II.
+
+     First, MAPP asserts the third party compensation charge 
+refund ordered by the Commission constitutes retroactive 
+ratemaking in violation of the Federal Power Act.  "The 
+governing principle is that when there is a 'substitution of 
+new law for old law that was reasonably clear,' the new rule 
+may justifiably be given prospectively-only effect in order to 
+'protect the settled expectations of those who had relied on 
+the preexisting rule.'  By contrast, retroactive effect is appro-
+priate for 'new applications of [existing] law, clarifications, 
+and additions.' "  Public Serv. Co. of Colo. v. FERC, 91 F.3d 
+1478, 1488 (D.C. Cir. 1996) (quoting Williams Natural Gas 
+Co. v. FERC, 3 F.3d 1544, 1554 (D.C. Cir. 1993)), cert. denied, 
+Amoco Prod. Co. v. Public Serv. Co. of Colo., 520 U.S. 1224 
+(1997).  In this case, the Commission's April 15, 1999 decision 
+rejecting MAPP's compliance filing and ordering refunds was 
+a permissible application of existing law, Order 888, which the 
+Commission had issued on May 16, 1996.  MAPP nonetheless 
+contends that, when it submitted its compliance filing on 
+December 24, 1996, it reasonably relied on the Commission's 
+
+__________
+     4 Meanwhile, MAPP filed, and the Commission approved, a re-
+vised Schedule F which, inter alia, eliminated both the border 
+utility tariff charge and the third party compensation charge and 
+extended the discounted intra-pool rate to extra-pool transmission.  
+See Mid-Continent Area Power Pool--Order on Compliance Filing, 
+88 F.E.R.C. p 61,157 (Aug. 2, 1999).
+
+September 12, 1996 decision accepting Schedule F for filing 
+and expressly concluding that its methodology, "while flawed, 
+produced rates that were just and reasonable and not unduly 
+discriminatory or preferential when tested against traditional 
+standards."  See 76 F.E.R.C. at 62,341.5  We conclude MAPP 
+could not reasonably rely on the September 1996 order to 
+establish that Schedule F, and in particular section 2.4, 
+complied with Order 888.
+
+     Order 888 was expressly designed "to remedy undue dis-
+crimination in access to the monopoly owned transmission 
+wires that control whether and to whom electricity can be 
+transported in interstate commerce."  61 Fed. Reg. at 51,541.  
+Under Order 888 every electrical transmitter was required, 
+for the first time, to file an open access tariff that conformed 
+to both the Commission's new pro forma tariff and its 1994 
+Policy Statement.  61 Fed. Reg. at 21,541, 21,618-19.  Once 
+this new regime took effect and MAPP made its compliance 
+filing, as Order 888 required, it could not reasonably rely on 
+the pre-Order 888 acceptance.  See Public Serv. Co. of Colo. 
+v. FERC, 91 F.3d 1478, 1490 (D.C. Cir. 1996) (reliance on 
+Federal Power Commission treatment of state tax under 
+National Gas Act "would have been foolhardy" because subse-
+quent "enactment of [Natural Gas Policy Act's] substantially 
+new regulatory regime ... undermined any assurance" that 
+such treatment would "withstand scrutiny under the [Natural 
+Gas Policy Act]").  The unreasonableness of MAPP's claimed 
+reliance is particularly apparent when viewed in context.  The 
+Commission had expressly warned MAPP in the September 
+12, 1996 acceptance order that the rates would be reexamined 
+under Order 888 after the compliance filing due in December 
+and repeated this warning when it accepted the December 
+1996 filing subject to refund on February 28 1997.  It should 
+therefore have come as no surprise to MAPP that the Com-
+mission subsequently reexamined Schedule F, found the tariff 
+
+__________
+     5 With regard to retroactivity, the MAPP petitioners acknowledge 
+that "[t]he only question before this Court is whether MAPP 
+reasonably relied on the September 1996 Order when it restated its 
+schedule F rates in the Order No. 888 compliance filing."  MAPP 
+Reply Brief at 7.
+
+was discriminatory under both Order 888 and its pro forma 
+tariff and ordered refund of overcharges paid after March 1, 
+1997.6
+
+     The MAPP petitioners next challenge the refund order on 
+the ground that the Commission did not determine the 
+amount charged non-member purchasers and sellers was 
+above that which was "just and reasonable" so as to warrant a 
+refund.  They argue that, because the stacked rates of indi-
+vidual members were available as an alternative to Schedule 
+F and were higher than the Schedule F rates charged, the 
+Schedule F rates are necessarily reasonable and no refunds 
+are due.  This contention, however, ignores the heart of the 
+matter:  the discriminatory effect of Schedule F, which the 
+Commission resolved by ordering reimbursement of the of-
+fending section 2.5 charge.  That an alternative rate exists 
+that is higher than the Schedule F rate is of no consequence.
+
+     Finally, Enron contends it should have recovered refunds 
+not only of the discriminatory third party charges but also of 
+the difference between each charging border utility's tariff 
+rate and what it would have been charged had the discounted 
+intra-MAPP rate been applied to the extra-MAPP transmis-
+sion.  The Commission, however, provided a simple and rea-
+sonable justification for refusing to order a refund of any part 
+of the border members' tariff rates:  those rates were never 
+placed at issue in this proceeding.  Enron's complaint did not 
+challenge their justness and reasonableness.  As a conse-
+quence the Commission made no finding they were unjust or 
+unreasonable and they are not a part of the filing that was 
+the subject of the proceeding below but are set out in the 
+individual border members' separately filed tariffs.  See 89 
+F.E.R.C. at 61, 389.7
+
+__________
+     6 The brief discussion of section 2.4 in the April 14, 1999 decision 
+expressly cites only the 1994 Policy Statement, 87 F.E.R.C. at 
+61,323, but other passages in the order make clear that the Com-
+mission found MAPP's tariff discriminatory under Order 888 as 
+well, see 87 F.E.R.C. at 61,309-10, 61,074-75.
+
+     7 The Commission also contends now, with some force, that it 
+lacks authority to order MAPP to refund charges that were collect-
+
+     For the preceding reasons the petitions for review are
+
+                                                                       Denied.
+
+__________
+ed and retained by third parties, namely the charging border 
+members. In light of our holding, however, we need not address this 
+issue and we therefore dismiss as moot MAPP's motion to strike 
+the portion of Enron's reply brief responding to it.
+
+                                    

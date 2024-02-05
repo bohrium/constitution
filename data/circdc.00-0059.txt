@@ -1,0 +1,575 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued January 13, 2000    Decided March 24, 2000 
+
+                           No. 97-1092
+
+                   Exxon Corporation, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+     Consolidated Edison Company of New York, Inc., et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+               Federal Energy Regulatory Commission
+
+     Thomas J. Eastment argued the cause for petitioners.  
+With him on the briefs were Marc C. Johnson, Bruce A. 
+Connell, Jennifer S. Leete, Linda L. Geoghegan and Michael 
+L. Pate.
+
+     Timm L. Abendroth, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With him on 
+the brief were Jay L. Witkin, Solicitor, and Susan J. Court, 
+Special Counsel.  John H. Conway, Deputy Solicitor, entered 
+an appearance.
+
+     Marc Richter, Harvey L. Reiter, Richard Arlen Rapp, Jr., 
+James H. Byrd, L. Clifford Adams, Jr., Allen Weinberg, 
+Kenneth R. Carretta, John E. Holtzinger, Jr., Jacolyn A. 
+Simmons and Kevin M. Downey were on the brief for 
+intervenors.  Kent K. Carter, Joel F. Zipp, Michael J. Fre-
+muth, J. Paul Douglas and Mary L. Wright entered appear-
+ances.
+
+     Before:  Williams, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Dissenting opinion filed by Circuit Judge Randolph.
+
+     Williams, Circuit Judge:  This case arises out of the Feder-
+al Energy Regulatory Commission's "unbundling" of inter-
+state gas pipelines' sales and transportation service.  As part 
+of that unbundling, parties with firm rights to buy natural gas 
+in the downstream areas served by Transcontinental Gas Pipe 
+Line Corporation ("Transco") were given the right to convert 
+their gas purchase entitlements into transportation service 
+rights.  They evidently all did so, and are known as the "FT 
+conversion shippers."  When Transco reached an unbundling 
+settlement with its customers, these conversion shippers 
+sought assurance that their rights to use of the pipeline 
+upstream would be sufficiently firm.  FERC responded affir-
+matively, insisting that Transco give the service a priority 
+that rendered it "essentially firm."  Transcontinental Gas 
+Pipe Line Corp., 55 FERC p 61,446 at 62,345-46 (1991) 
+("Settlement Order").
+
+     Ranged against the conversion shippers are "Indicated 
+Shippers," led by Exxon, who are gas producers in Transco's 
+production areas.  They contend that if the conversion ship-
+pers are to enjoy firm transportation service in the produc-
+tion areas, they should pay for it in the way that is predomi-
+nant for firm transportation service, i.e., by a two-part 
+
+charge--first a reservation charge for the right to use the 
+service, and second a usage charge covering the costs of 
+actual usage.
+
+     Transco filed tariffs under s 4 of the Natural Gas Act, 15 
+U.S.C. s 717c, proposing such two-part rates, designating 
+them "firm-to-the-wellhead" or "FTW" rates.  (Petitioners 
+note that this is technically a misnomer;  the rates in fact 
+would go only as far as producers' gathering systems.  But, 
+as have all the participants, we use the FTW label.)  The 
+Commission rejected the FTW rates, Transcontinental Gas 
+Pipe Line Corp., 76 FERC p 61,021 ("Opinion No. 405"), 
+denied rehearing, 77 FERC p 61,270 (1996) ("Opinion No. 
+405-A"), and finally issued a further "Order on Rehearing 
+and Request for Clarification," 79 FERC p 71,205 (1997), 
+adhering to the rejection.  The Indicated Shippers petition 
+for review.
+
+     The Indicated Shippers also attack prior decisions in which 
+the Commission rejected two-part FTW rates that Transco 
+had proposed under s 5 of the Act, 15 U.S.C. s 717d, Trans-
+continental Gas Pipe Line Corp., 63 FERC p 61,194, rehear-
+ing denied, 65 FERC p 61,023 (1993).  We do not address 
+those decisions directly.  In the s 4 cases, we find no rea-
+soned decisionmaking to support the Commission's rejection 
+of Transco's filings.  If on remand the Commission adheres to 
+that rejection and justifies it, the Indicated Shippers' ability 
+to secure relief under s 5 will probably be remote;  if on 
+remand the Commission accepts the Indicated Shippers' posi-
+tion under s 4, then of course they will need no relief under 
+s 5.
+
+                              * * *
+
+     At stake are rates governing gas transportation on "later-
+als" linking gas producers' gathering systems with Transco's 
+main pipelines.  Transco was an early unbundler, reaching an 
+unbundling settlement with its customers in 1991.  When 
+FERC reviewed the settlement, representatives of the FT 
+conversion shippers sought assurance of high priority for 
+their use of these laterals.  (The service is dubbed "IT-feeder 
+
+service";  nominally interruptible, it feeds the conversion ship-
+pers' entitlements to mainline capacity.)  FERC agreed, or-
+dering that
+
+     Transco's tariff should specifically set forth the capacity 
+     priority of Rate Schedule IT feeder service, i.e., that such 
+     service is not firm but that it has priority over any other 
+     interruptible service regardless of the date of the service 
+     agreement.
+     
+Settlement Order, 55 FERC at 62,377.  As everyone under-
+stood at the time, including FERC, this grant of priority 
+made Transco's IT-feeder service for the FT conversion 
+shippers "essentially firm."  Id. at 62,346.  But the Commis-
+sion did not direct two-part rates for this "essentially firm" 
+service, and it has been subject to only a single volumetric 
+usage charge.
+
+     In 1992 the Commission adopted Order No. 636, extending 
+its restructuring of the gas industry.  See Pipeline Service 
+Obligations and Revisions to Regulations Governing Self-
+Implementing Transportation under Part 284 of the Com-
+mission's Regulation of Natural Gas Pipelines after Partial 
+Wellhead Decontrol, FERC Stats. & Regs. p 30,939 (1992).  
+One of its goals was the creation of a "national gas market" 
+with "head-to-head, gas-on-gas competition where the firm 
+transportation rate structure is not a potentially distorting 
+factor in the competition among merchants for gas purchasers 
+at the wellhead and in the field."  Id. at 30,434.  To this end, 
+FERC ordered that when pipelines provide firm transporta-
+tion with a two-part fee structure, all fixed costs are allocated 
+to the reservation charge so that the usage charge is based 
+only on variable costs.  This new rate design was called 
+"straight fixed variable" ("SFV").  It replaced "modified fixed 
+variable" ("MFV") pricing, under which the usage charge for 
+any two-part rate included a portion of a pipeline's fixed 
+costs.  See United Distribution Cos. v. FERC, 88 F.3d 1105, 
+1167-68 (D.C. Cir. 1996) (upholding FERC's abandonment of 
+modified fixed variable pricing);  see also 18 CFR s 284.8(d).  
+With MFV the pipelines had varied in their allocation of fixed 
+costs to the usage charge, and "[t]he Commission believed the 
+
+MFV rate design distorted the unit delivered prices of gas, 
+and thereby hindered the development of an efficient national 
+market for gas."  Municipal Defense Group v. FERC, 170 
+F.3d 197, 199 (D.C. Cir. 1999).  With SFV the Commission 
+hoped "to promote competition at the natural gas wellhead by 
+increasing the transparency of natural gas pricing."  Texaco 
+Inc. v. FERC, 148 F.3d 1091, 1094 (D.C. Cir. 1998).
+
+     Because conversion from MFV to SFV often contradicted 
+contracts between pipelines and purchasers, the Commission 
+could require SFV only by invoking its authority to modify 
+private contracts under the so-called "Mobile-Sierra doc-
+trine."  See Texaco Inc., 148 F.3d at 1096-97;  see also 
+United Gas Pipe Line Co. v. Mobile Gas Corp., 350 U.S. 332 
+(1956);  FPC v. Sierra Pacific Power Co., 350 U.S. 348 (1956).  
+Under Mobile-Sierra, FERC may modify a contract rate 
+provision if (but only if) the "public interest" so requires, a 
+standard understood by all to demand more of a showing by 
+FERC, in rejecting rates, than is needed to reject rates under 
+the "just and reasonable" standard of s 5.  See Papago 
+Tribal Utility Auth. v. FERC, 723 F.2d 950, 953 (D.C. Cir. 
+1983);  Northeast Utilities Service Co. v. FERC, 993 F.2d 937, 
+960 (1st Cir. 1993).  In part because of FERC's insistence 
+that the MFV rate design will "distort gas market pricing to 
+the detriment of the 'integrated national gas sales market,' " 
+we have upheld FERC's abrogation of private contracts to 
+convert natural gas pricing to SFV.  See Texaco, 148 F.3d at 
+1097.  Nonetheless, in the s 5 proceeding alluded to at the 
+outset of the opinion, the Commission rejected Transco's 
+effort to establish a two-part SFV rate for the IT-feeder 
+service enjoyed by Transco's conversion shippers.
+
+     Following a Commission suggestion, Transco made a s 4 
+filing that proposed two-part SFV rates in the production 
+areas.  An administrative law judge to whom the Commission 
+referred the matter rejected the rates on various grounds.  
+Transcontinental Gas Pipe Line Corp., 72 FERC p 63,003 
+(1995).  Transco and Indicated Shippers filed exceptions with 
+the Commission, which in its decision dropped nearly every 
+aspect of the ALJ's analysis save the conclusion--that the 
+proposed rates were unjust and unreasonable.  See Opinion 
+
+No. 405, 76 FERC p 61,021 (1996).  The Commission began 
+by repudiating the ALJ's highly critical view of two-part rates 
+and SFV.  First, "[a] reservation charge helps ration capaci-
+ty, whether in the market area or in the production area."  
+Id. at 61,060.  Second, rebutting the ALJ's belief that a two-
+part rate with reserved capacity was an anticompetitive "ty-
+ing" practice, it said there was nothing anticompetitive about 
+putting shippers to a choice regarding whether or not to 
+reserve capacity:  "These are the types of choices that con-
+sumers are constantly required to make in a competitive 
+marketplace."  Id.  Finally, any concerns regarding a tying 
+effect once the choice to reserve was made were "tempered" 
+by capacity holders' rights, established in Order No. 636, to 
+release their capacity entitlements and thereby at least in 
+part to offset the reservation costs.  Id. at 61,061.  In fact, 
+"this flexibility is enhanced on Transco's system by the right 
+of firm shippers to release capacity in segments in order to 
+tailor their capacity needs and alternatives to fit their needs."  
+Id.  Indeed, the Commission had little choice but to defend 
+two-part SFV rates;  as it acknowledges, they are the pre-
+dominant method of pricing firm service in the wake of Order 
+636, Resp. Br. at 39, so a FERC repudiation would have 
+risked regulatory upheaval.
+
+     But the Commission found a catch in Transco's proposal, 
+the 1991 settlement:
+
+     Transco proposes, in effect, to unilaterally modify those 
+     [1991] contracts so that the customer will pay a two-part 
+     rate for essentially the same firm service on the supply 
+     laterals.  This is unacceptable.  The customers must be 
+     given an opportunity to choose between firm or interrup-
+     tible service.
+     
+Opinion No. 405, 76 FERC at 61,061.  Thus the Commission 
+offered its support for an "open season" where Transco's 
+customers would be allowed to choose between firm and truly 
+interruptible service (i.e., service that can and will be inter-
+rupted at times).  Id. at 61,061-62.
+
+     Indicated Shippers petitioned for rehearing.  On the con-
+tract abrogation argument, they argued that "[a] change from 
+
+IT-feeders to FTW is a change in rate structure that changes 
+the apportionment of costs, just as costs are shifted upon the 
+adoption of a change in rate design or cost allocation method.  
+Such a change does not constitute an abrogation of existing 
+contracts."  In other words, they said, Transco had proposed 
+nothing different from the MFV-SFV shift that the Commis-
+sion had routinely endorsed--had, indeed, imposed on parties 
+by overriding contracts in the name of the public interest 
+under Mobile-Sierra.  The Commission, however, was reso-
+lute in defense of the prevailing rates.  Transco had proposed 
+"a fundamental change to the rate design, not a mere cost 
+reallocation."  Opinion No. 405-A, 77 FERC p 61,270 at 62,-
+127.  "A cost reallocation will not change a one-part rate into 
+a two-part rate;  it will only change the level of existing 
+charges."  Id.  Indicated Shippers petition for review.
+
+                              * * *
+
+     Under s 4 of the Natural Gas Act a pipeline proposing a 
+rate change has the burden of showing that the proposed rate 
+is just and reasonable.  If it meets that burden, FERC 
+approves the rate regardless of whether there may be other 
+rates that would also be just and reasonable.  See Western 
+Resources, Inc. v. FERC, 9 F.3d 1568, 1578 (D.C. Cir. 1993);  
+Public Serv. Comm'n v. FERC, 866 F.2d 487, 488 (D.C. Cir. 
+1989).  The Commission is afforded a "narrow section 4 range 
+of acceptance or disapproval of a pipeline's proposed 
+changes."  Public Serv. Comm'n, 866 F.2d at 491 (quoting 
+Sea Robin Pipeline Co. v. FERC, 795 F.2d 182, 183 (D.C. Cir. 
+1986)).
+
+     The Commission concedes that "two-part rates are permis-
+sible for firm service in the production area."  Opinion No. 
+405, 76 FERC at 61,061;  see also 18 CFR s 284.8(d).  In 
+fact, FERC informs us that such rates are "predominant" for 
+firm service in the production area.  Resp. Br. at 39.  Thus a 
+logical first question might be:  is Transco's IT-feeder service 
+"firm service" of the sort for which SFV rates are, in FERC's 
+words, "permissible" and "predominant"?
+
+     FERC and the parties call the IT-feeder service "firm" or 
+at least "essentially firm."  The term "essentially firm" de-
+rives from the 1991 settlement, see Settlement Order, 55 
+FERC at 62,346, and FERC still agrees with that character-
+ization.  Opinion No. 405-A, 77 FERC at 62,129.  The qualifi-
+er--"essentially"--appears to derive from certain grandfa-
+thered firm service that predated the 1991 settlement.  See 
+Settlement Order, 55 FERC at 62,345-46.  The qualifier 
+might also derive from the paradoxical characterization of IT-
+feeder service in the Settlement Order, that it is "not firm" 
+but also not to be interrupted.  See id. at 62,377.  FERC at 
+times returns to this apparent doublespeak in Order No. 405, 
+referring to "high priority, interruptible service."  Order No. 
+405, 76 FERC at 61,061.  In this proceeding, FERC has at no 
+time rested its decision on any claim that the qualifier "essen-
+tially" is material.  Accordingly, we treat the service as firm 
+and the qualifier as immaterial, subject, of course, to the 
+possibility that on remand the Commission may breathe life 
+into the qualifier.
+
+     And so we reach the central issue:  if two-part rates are 
+permissible and predominant for firm service in the produc-
+tion area, and Transco is providing firm service in the produc-
+tion area, how can Transco's proposed rate not be just and 
+reasonable?  The Commission offers two bases:  first, the 
+contracts don't allow it, and second, "customers must be given 
+an opportunity to choose between firm or interruptible ser-
+vice," what might be termed a "customer choice policy."  
+Opinion No. 405, 76 FERC at 61,061.
+
+                          The Contracts
+
+     The Commission's reliance on the prior contracts seems not 
+to advance the case at all.  After the Supreme Court enunci-
+ated the Mobile-Sierra doctrine, it approved and gave effect 
+to so-called "Memphis clauses," under which a pipeline by 
+contract reserves the freedom to secure rate changes by 
+standard filings with FERC such as those under s 4.  See 
+United Gas Pipe Line Co. v. Memphis Light, Gas and Water 
+Div., 358 U.S. 103, 110-15 (1958);  see also Union Pacific 
+
+Fuels, Inc. v. FERC, 129 F.3d 157, 160 (D.C. Cir. 1997).  
+Before us the Indicated Shippers assert, and the Commission 
+does not dispute, that the contracts contained Memphis claus-
+es.  With a Memphis clause, the contract contemplates and 
+allows section 4 filings and any "just and reasonable" rates 
+that result from such filings.  Thus we are puzzled by the 
+Commission's insistence, in the opinions under review and its 
+brief here, that Transco's filing was inherently an "abroga-
+tion" of the contracts.  For example, the Commission states 
+that Transco seeks to "unilaterally modify those contracts," 
+Opinion No. 405, 76 FERC at 61,061, and that "Transco's 
+proposed unilateral change results in an abrogation of the 
+contracts," Opinion No. 405-A, 77 FERC at 62,127.  See also 
+Resp. Br. at 41-42.
+
+     But with a Memphis clause, where is the "abrogation"?  At 
+this point, one would suspect that part of FERC's theory of 
+"abrogation" would be that the contracts gave rise to a 
+Mobile-Sierra bar on two-part rates.  Opinions No. 405 and 
+No. 405-A certainly imply as much (although without discuss-
+ing either Mobile-Sierra or Memphis).  But FERC's brief 
+disclaims the presence of a Mobile-Sierra bar.  Resp. Br. at 
+42.  Rather, FERC describes its analysis as merely "tak[ing] 
+existing private contractual agreements into consideration," 
+id. at 42-43, citing three cases that purportedly encourage 
+such consideration, one of which is the "Mobile" of Mobile-
+Sierra.  See id. at 43 (citing Mobile, 350 U.S. at 338-39;  
+Associated Gas Distribs. v. FERC, 824 F.2d 981, 1009 (D.C. 
+Cir. 1987);  Cities of Bethany v. FERC, 727 F.2d 1131, 1139 
+(D.C. Cir. 1984)).
+
+     Associated Gas and Cities of Bethany are not similar to the 
+situation Transco presents;  they involve inquiries as to 
+whether rates reached by private contract are discriminatory.  
+And the Mobile citation is inapt because the Commission 
+rightly disclaims any Mobile-Sierra bar in the contract.  Giv-
+en the presence of Memphis clauses, observations from these 
+three opinions regarding "Congress's intention in the NGA to 
+allow a vital role for private contracting between parties," 
+Associated Gas, 824 F.2d at 1009, provide no apparent basis 
+
+for rejecting a proposal for rates that undeniably meet the 
+"just and reasonable" standard.
+
+     Yet the Commission was ready to approve the rates under 
+special circumstances;  because the proposed change was too 
+"fundamental," Opinion No. 405-A, 77 FERC at 62,127, Tran-
+sco could apply it only after an open season.  This position 
+confirms that the Commission perceives no Mobile-Sierra 
+bar.  After such an open season, customers will either have 
+firm service with a two-part rate or truly interruptible service 
+with a purely volumetric rate;  they will not have their 
+original bargain.
+
+     And so we are left with something of a purple cow.  Ac-
+cording to the Commission, Transco sought an abrogation of 
+the contracts by proposing a two-part rate, but the original 
+one-part rate is not protected by a Mobile-Sierra bar.  The 
+Commission must explain this state of affairs because it 
+seems to defy the doctrines built upon Memphis and Mobile-
+Sierra.  Since Opinions No. 405 and No. 405-A do not discuss 
+either of these cases, or their progeny, we safely conclude 
+that there was inadequate explanation on this point.
+
+                         Customer Choice
+
+     Perhaps intertwined with the theory of contractual abroga-
+tion, the Commission concludes that as a matter of policy 
+Transco's customers should get a choice as to whether they 
+pay a reservation charge for their firm service.  This policy is 
+defended as something of a corollary of a policy that is part of 
+the Commission's regulations:  the choice between firm and 
+interruptible service.
+
+     An interstate pipeline that provides firm transportation 
+     service under subpart B and G of this part must also 
+     offer transportation service on an interruptible basis 
+     under that subpart or subparts and separately from any 
+     sales service.
+     
+18 CFR s 284.9(a)(1).
+
+     Back at the time of the settlement, Transco's customers 
+made a choice between firm and interruptible service;  they 
+specifically asked FERC to guarantee them firm rights on 
+
+the IT-feeders, and FERC did so.  The customers also 
+received (temporarily, because of the Memphis clause) some-
+thing of a windfall--firm service but without paying for their 
+entitlement to capacity.  Before these customers can be 
+forced to pay for their firm service in the predominant 
+manner (i.e., two-part rates), FERC says they must be given 
+a new choice
+
+     between purchasing a higher quality firm service with a 
+     reservation charge or purchasing a lower quality inter-
+     ruptible service without a reservation charge.
+     
+Opinion No. 405, 76 FERC at 61,060.  See also Opinion No. 
+405-A, 77 FERC at 62,124 n.3 (speaking of the desirability of 
+customer "choice of a higher quality firm service with a 
+reservation fee and a lower quality interruptible service with-
+out a reservation fee" (emphasis added)).
+
+     For practical purposes, the choice between firm and inter-
+ruptible service will usually entail a choice between two-part 
+and one-part rates.  Two-part rates predominate for firm 
+service, and interruptible service has only a one-part rate.  
+The choice made in Transco's settlement did not correspond 
+to this model, but the Commission does not make a coherent 
+case as to why the new choice is required, or why a two-part 
+rate structure--not merely permissible but predominant for 
+the service chosen--is unjust or unreasonable.
+
+     The Commission calls the imposition of a two-part rate a 
+"fundamental" change in the rate structure, but a significant 
+chunk of the Commission's opinion disclaims the criticism of 
+reservation charges found in the ALJ opinion.  See Opinion 
+No. 405, 76 FERC at 61,060-61.  The Commission does offer 
+the terse conclusion that "[a] cost reallocation will not change 
+a one-part rate into a two-part rate;  it will only change the 
+level of existing charges."  Opinion No. 405-A, 77 FERC at 
+62,127.  We are unsure why this should be relevant.  The 
+basic idea of a Memphis clause is to reserve to the utility the 
+power to file tariffs that can take effect if they pass Commis-
+sion scrutiny under its ordinary standards:  thus, if a filing 
+under s 4 proposes rates that are just and reasonable, as 
+these concededly are, they are to be accepted--regardless of 
+the justness and reasonableness of the former rates.
+
+     FERC's resistance here is especially odd in light of its 
+aggressiveness in shifting pipelines with two-part rates from 
+MFV to SFV.  If inclusion of a few fixed costs in the usage 
+component of a two-part charge was so distortive of the 
+market as to require the Commission's use of the Mobile-
+Sierra public interest standard to effect the MFV-SFV con-
+version, one would suppose a one-part charge for firm cus-
+tomers, with all fixed costs in a purely volumetric charge, 
+would be similarly offensive.  The Commission's opinions in 
+this case do not explain why Order No. 636's principles are 
+not at play here on the side of the Indicated Shippers.1
+
+     The policy embedded in the regulations is a choice between 
+firm and interruptible service, and Transco's customers made 
+that choice in 1991.  They got firm service and a one-part 
+rate;  the pipeline got a Memphis clause.  The Commission's 
+new policy that Transco's customers get a second choice 
+(framed as one between two packages, firm service with a 
+reservation charge or interruptible service without) rests on 
+some heretofore unspoken reason why a reservation charge 
+for firm service--concededly just and reasonable--is not just 
+and reasonable because the customers had previously been 
+receiving firm service under a purely volumetric charge.  The 
+Commission's insistence that the change can be made only by 
+an open season seems to amount to a belief that customers, 
+having already elected firm service, must now be asked, 
+"Firm service--is that your final answer?"  Why this second 
+bite at the apple is needed remains a mystery.
+
+                              * * *
+
+     Because the Commission has failed to "cogently explain 
+why it has exercised its discretion in [the] given manner," 
+
+__________
+     1 FERC's regulations provide that "[w]here the customer pur-
+chases firm service, a pipeline may impose a reservation fee or 
+charge on a shipper as a condition for providing such service."  18 
+CFR s 284.8(d) (emphasis added).  This regulation did not figure 
+prominently in arguments on appeal.  It certainly implies that 
+reservation fees are not required with firm service;  it expressly 
+provides that they are permissible.
+
+Motor Vehicle Mfrs. Ass'n of U.S., Inc. v. State Farm Mut. 
+Auto. Ins. Co., 463 U.S. 29, 48 (1983);  5 U.S.C. s 706(2)(A), 
+we reverse and remand the case for reconsideration in light of 
+this opinion.
+
+                                                      So ordered.
+
+     Randolph, Circuit Judge, dissenting:  No party denies that 
+Transco could exercise the Memphis clause and propose a 
+rate change.  But the Commission still had a statutory duty 
+to ensure that the company's s 4 proposal was "just and 
+reasonable." 15 U.S.C. s 717c.  The Commission performed 
+that duty and rejected Transco's filing because it did "not 
+allow for a real choice of service options on Transco's supply 
+laterals."  76 F.E.R.C. at 61,061.  I believe the Commission 
+offered a reasoned explanation for its decision.
+
+     The majority makes much of the Commission's mention of 
+"abrogation of contracts," but then recognizes that this ratio-
+nale is "perhaps intertwined" with the customer choice policy.  
+Maj. op. at 10.  Indeed, reference to the existing contracts 
+was not an independent ground of the Commission's decision, 
+but a necessary consequence of the customer choice policy.  
+If two-part rates are just and reasonable only when custom-
+ers have already elected a reservation charge, then the 
+Commission must ask the simple question whether the cus-
+tomers have in fact chosen a reservation charge.  The Com-
+mission indicated that it would allow a change in rates after 
+an open season, which would alter the bargain in the original 
+contract.  See id.  This demonstrates that the Commission 
+was not nullifying the Memphis clause.
+
+     Thus, the real question is whether the Commission was 
+arbitrary and capricious in rejecting Transco's proposal based 
+on the customer choice policy.  The Commission has rejected 
+the idea of an outright ban on reservation charges, noting 
+that such charges offer advantages to customers.  See 76 
+F.E.R.C. at 61,059 (citing Order No. 436, 50 Fed. Reg. 42,408 
+(1985)).  But the Commission also recognizes that reservation 
+charges tie customers to the pipeline, creating an incentive to 
+use the pipeline even if more efficient service can be obtained 
+elsewhere.  See 76 F.E.R.C. at 61,060.  The Commission thus 
+decided that it is best left to individual customers to "weigh 
+whether the advantages of obtaining a firm right to service on 
+the pipeline are worth the limits which the reservation charge 
+will inevitably impose on the desirability of its switching to 
+supplies on another system."  Id.  Because Transco's propos-
+al denied conversion shippers an opportunity to make this 
+
+cost-benefit analysis for themselves, the Commission rejected 
+it.
+
+     The majority emphasizes that customers have already cho-
+sen firm service.  See maj. op. at 12.  But the question is not 
+whether customers already elected "essentially firm" service.  
+The question is whether they already elected two-part rates.  
+It is uncontested that they did not.  The majority also finds 
+the Commission's decision "especially odd" because it suppos-
+edly conflicts with Order 636's principle against fixed costs in 
+usage charges.  See id.  This takes Order 636 too far.  The 
+Commission there decided only that "[i]f a reservation fee is 
+charged, it must recover all fixed costs attributable to the 
+firm service....."  18 C.F.R. s 248.8(d) (emphasis added).  
+To find that fixed costs could never be included in usage 
+charges would require doing away with interruptible service 
+(which is necessarily a one-part rate), something the Commis-
+sion certainly did not intend.  According to the majority, the 
+Commission rejected as unjust and unreasonable a two-part 
+rate that is the "predominant manner" of "firm service."  
+Maj. op. at 11.  This forgets that the predominant manner of 
+service overall is to allow customers to choose whether to pay 
+a reservation charge and receive firm service or to reject the 
+reservation charge and receive lower priority service.  In-
+deed, the majority does not cite a single case (in either s 4 or 
+s 5 proceedings) in which the Commission approved two-part 
+rates when customers had not previously made the calculation 
+that reservation charges would be advantageous.
+
+     I therefore dissent.
+
+                       

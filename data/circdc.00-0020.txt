@@ -1,0 +1,525 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 10, 1999   Decided January 7, 2000 
+
+                           No. 98-1480
+
+               Contractor's Sand and Gravel, Inc., 
+                            Petitioner
+
+                                v.
+
+      Federal Mine Safety and Health Review Commission and 
+                       Secretary of Labor, 
+                           Respondents
+
+            On Petition for Review of an Order of the 
+         Federal Mine Safety and Health Review Commission
+
+     C. Gregory Ruffennach argued the cause for petitioner. 
+With him on the briefs were Ronald E. Meisburg and Wil-
+liam K. Doran.
+
+     Jack Powasnik, Attorney, U.S. Department of Labor, ar-
+gued the cause for respondent. With him on the brief was W. 
+Christian Schumann, Counsel.  Norman Michael Gleich-
+man, General Counsel, entered an appearance.
+
+     Before:  Sentelle, Randolph and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Contractor's Sand and Gravel, 
+Inc. ("CSG") petitions for review of a Federal Mine Safety 
+and Health Review Commission ("FMSHRC") decision vacat-
+ing an Administrative Law Judge's ("ALJ") award of attor-
+neys fees and expenses against the Secretary of Labor arising 
+out of an underlying proceeding in which CSG had successful-
+ly defended against citations and civil penalty assessments for 
+alleged violations of Mine Safety Regulations.  The Commis-
+sion responds both that it has the jurisdiction to review the 
+award and that the award was improper because the conduct 
+of the Secretary in the underlying litigation was "substantial-
+ly justified."  While we agree with the Commission that it 
+had jurisdiction to review the award, we agree with petitioner 
+that the conduct of the Department of Labor in the underly-
+ing Mine Act proceedings was not substantially justified.  
+Therefore, for the reasons more fully set out below, we allow 
+the petition for review.
+
+                    I. Underlying Proceedings
+
+     A. The MSHA Citations
+
+     In March of 1993, Inspector Ann Frederick of the Mine 
+Safety and Health Administration ("MSHA"), purporting to 
+act under the Federal Mine Safety and Health Act of 1977 
+("Mine Act"), 30 U.S.C. s 801 et seq., issued numerous cita-
+tions against petitioner Contractor's Sand & Gravel, Inc. and 
+its general manager Eric Shoonmaker.  While most citations 
+were dismissed or otherwise disposed of, the one underlying 
+the present proceeding resulted in substantial administrative 
+litigation.  This citation charged violation of 30 C.F.R. 
+s 56.12025, which requires that "[a]ll metal enclosing or 
+encasing electrical circuits shall be grounded or provided with 
+equivalent protection."  The citation specifically alleged that 
+the grounding system employed by petitioner for its crusher 
+was not in compliance with law and constituted "an unwar-
+rantable failure by [the] operator to comply with the stan-
+dards" of the Mine Act.  Secretary of Labor v. Contractors 
+
+Sand and Gravel Supply, Inc., 18 F.M.S.H.R.C.  384, 385 
+(ALJ 1996) (quoting citation).  The citation did not allege that 
+the device was not grounded, but only that the method of 
+grounding--that is the use of the frame of the equipment as 
+the conduit to the ground--"has been forbidden for over 
+fifteen years."  Id.  In fact, neither section 56.12025, nor the 
+Secretary's regulatory definition applicable to the grounding 
+requirement of section 56.12025, nor any other statute or 
+regulation forbade frame grounding and never had.  The 
+regulatory definition simply defines "electrical grounding" as:  
+"to connect with the ground to make the earth part of the 
+circuit."  30 C.F.R. s 56.2 (1999).
+
+     After testing confirmed that its method of grounding com-
+plied with the regulatory definition, CSG declined to modify 
+the structure to comply with the Secretary's instructions, and 
+proceeded to contest the citation.  A second MSHA inspector 
+issued a closure order closing the entire crushing plant until 
+such time as the crushing operation was properly grounded 
+with a fourth wire.  Only after CSG incorporated a second 
+grounding system according to the dictates of the inspectors 
+did MSHA lift the closure order.  On May 27, 1993, MSHA 
+assessed a $7,000 civil penalty against CSG and a $6,000 civil 
+penalty against Shoonmaker personally, in contrast with the 
+Secretary's average penalty proposal of $66 and previous high 
+penalty proposal of $81.  At no time during the entire pro-
+ceeding did the inspectors or any other emissary of the 
+Secretary conduct any test to determine whether the frame 
+grounding employed by CSG in fact complied with the regula-
+tory definition.  CSG and Shoonmaker contested the exces-
+sive penalty assessments as well as the underlying violation.  
+The Secretary then initiated civil penalty proceedings against 
+both before the FMSHRC.
+
+     In the Mine Act proceeding, the Secretary initially ad-
+vanced a position similar to the one that Frederick had 
+articulated in the citation, that is, she maintained that 30 
+C.F.R. s 56.12025 prohibited frame grounding.  Specifically, 
+the Secretary alleged:
+
+          The grounding system set up by [CSG] did not con-
+     form to MSHA standards or to standards recognized in 
+     the building and construction industries.  The use of 
+     feeder and stacker frames as grounding is prohibited by 
+     the National Electrical Code....
+     
+          The use of structural frames as grounding conductors 
+     is not recognized by MSHA....
+     
+Subsequently, in response to a pre-hearing order by the ALJ, 
+and in apparent recognition that section 56.12025 does not 
+contain any provision forbidding frame grounding, that the 
+regulations have never adopted the National Electrical Code, 
+and that the Secretary's inspectors had never conducted any 
+inspection to determine compliance with the actual require-
+ments of the actual regulatory scheme, the Secretary changed 
+her position and alleged that MSHA would establish a viola-
+tion of section 56.12025 "by showing that the stacker and 
+crusher conveyor motors were not properly grounded.  Spe-
+cifically ... that these two motors did not have a ground lead 
+or 'fourth wire' ... [leaving] the motors without a proper and 
+effective ground...."
+
+     Just as the regulations did not forbid frame grounding, 
+neither did they affirmatively require "fourth wire ground-
+ing."  Therefore, CSG moved for a summary decision from 
+the ALJ.  The Secretary opposed that motion and filed a 
+cross-motion for summary disposition, arguing that a reason-
+ably prudent person would infer the Secretary's contended 
+requirements and prohibitions from the cited sections and 
+that the Secretary's "interpretation" was therefore entitled to 
+"deference."
+
+     The ALJ recognized the single issue before him as being 
+whether CSG's use of frame grounding to create a path for 
+the electrical current to the ground violated section 56.12025.  
+He further recognized that the cited regulation did not pro-
+hibit frame grounding and that the Secretary had never 
+undertaken any rulemaking to extend an interpretation of the 
+grounding requirement forbidding frame grounding, or con-
+versely requiring some other method.  CSG entered the 
+battle of summary decision motions armed with evidence that 
+its method did in fact meet the ground requirement set forth 
+
+in the regulatory and definitional sections of Part 56.  The 
+Secretary came with no evidence whatsoever that the ground-
+ing method did not meet the regulatory requirements nor any 
+other evidence that CSG or Shoonmaker had otherwise violat-
+ed the cited regulations, or any other.  There being no 
+dispute as to any material fact, the ALJ entered summary 
+decision in CSG's favor.  See Contractors, 18 F.M.S.H.R.C. at 
+389.  Specifically, the ALJ found that CSG "complied with 
+the requirement of the cited standard by intentionally 
+grounding the stacker conveyor and crusher discharge con-
+veyor motors by using the stacker and crusher frames as 
+conductors in carrying ground fault current to the earth."  
+Id. at 387.  The ALJ went on to note that Part 56 "clearly 
+provides that 'electrical grounding means to connect with the 
+ground to make earth part of the circuit.' "  Id. at 387-88 
+(quoting 30 C.F.R. s 56.2).  As CSG's evidence of compliance 
+with the regulation was uncontested, there was nothing else 
+to be heard.  The Secretary did not appeal.
+
+     B. The EAJA Proceedings
+
+     After prevailing in every respect in the MSHA proceeding, 
+CSG sought an award of its costs and its fees under the 
+Equal Access to Justice Act ("EAJA"), 5 U.S.C. s 504.  The 
+Secretary resisted the award, asserting that MSHA's position 
+"was substantially justified" as contemplated in 5 U.S.C. 
+s 504(a)(1).  The ALJ rejected the substantial justification 
+claim and entered a fees and costs award in favor of CSG.  
+See Contractor's Sand and Gravel, Inc. v. Secretary of Labor, 
+18 F.M.S.H.R.C. 1820 (ALJ 1996).  The Secretary appealed 
+the ALJ's award to the Federal Mine Safety and Health 
+Review Commission.  On August 22, 1998, the Commission in 
+a 3-to-2 decision reversed the ALJ and vacated his award of 
+attorneys fees and expenses to CSG.  See Secretary of Labor 
+v. Contractors Sand and Gravel, Inc., 20 F.M.S.H.R.C. 960 
+(1998).  The present petition brings that decision of the 
+Commission before us for review.
+
+                           II. Analysis
+
+     The EAJA provides, in pertinent part, that a "prevailing 
+party other than the United States" in "an adversary adjudi-
+
+cation" is entitled to an award from the agency that conduct-
+ed the adjudication of fees and expenses incurred in connec-
+tion with the proceeding.  5 U.S.C. s 504(a)(1).  CSG sought 
+and received an EAJA award from the ALJ.  The Adminis-
+tration did not and does not contest CSG's status as a 
+prevailing party, but both before the ALJ and the Commis-
+sion and now before this court, resisted the award on the 
+basis of further language in section 504(a)(1) that conditions 
+the entitlement of the prevailing party by stating that the 
+award is to be made "unless the adjudicative officer of the 
+agency finds that the position of the agency was substantially 
+justified or that special circumstances make an award unjust."  
+Id.  The Secretary argued and the Commission held that the 
+Administration's position was "substantially justified" within 
+the meaning of the EAJA.  See Contractors, 20 F.M.S.H.R.C. 
+at 967.  CSG's petition brings before us the Commission's 
+reversal of the ALJ's award.  CSG argues that the Commis-
+sion had no jurisdiction to review the award of the ALJ, and 
+further that, even if the Commission had jurisdiction, it erred 
+in reversing the ALJ's award.  While we reject the petition-
+er's jurisdictional argument, we agree that the Commission 
+erred on the merits, and therefore allow the petition for 
+review.
+
+     A. The Commission's Jurisdiction
+
+     Before reaching the merits of CSG's petition, we first 
+consider CSG's argument that the Commission did not have 
+jurisdiction to review the ALJ's determination that the Ad-
+ministration's underlying conduct lacked substantial justifica-
+tion.  CSG argues that its view is compelled by the language 
+of 5 U.S.C. s 504(a)(1) to the effect that the Agency is to 
+enter an EAJA award in favor of the prevailing party in an 
+adversary adjudication "unless the adjudicative officer of the 
+agency finds that the position of the agency was substantially 
+justified."  (emphasis added).  CSG argues that this "plain 
+language" commits the substantial justification issue to the 
+ALJ and that the Commission was therefore without authori-
+ty to review it.  The respondents contend that the statute 
+clearly contemplates agency review of the adjudicative offi-
+cer's decision.  We agree.
+
+     As respondents point out, although the statute contains the 
+language recited by petitioner, that language does not compel 
+the finality that petitioner attaches to it.  In fact, the statute 
+goes on to provide:
+
+     The decision of the adjudicative officer ... shall be made 
+     part of the record containing the final decision of the 
+     agency and shall include written findings and conclusions 
+     and the reason or basis therefor.  The decision of the 
+     agency on the application for fees and other expenses 
+     shall be the final administrative decision under this sec-
+     tion.
+     
+5 U.S.C. s 504(a)(3).
+
+     As the respondents argue, this language is far more consis-
+tent with a congressional contemplation of an administrative 
+law judge decision subject to the normal agency review than 
+it is with an ALJ decision legislatively vested with administra-
+tive finality.  Concededly, it is true as petitioner argues that 
+the statute could literally encompass a model in which the 
+ALJ's decision would be final on the discrete question of 
+substantial justification, and would then become part of the 
+record upon which the final administrative decision designat-
+ed in subsection (a)(3) would rest, but in which the other 
+elements of the fee award not committed to the ALJ would be 
+finally determined only by the highest agency decision maker.  
+However, the language is equally consistent with the model 
+forwarded by respondents in which the Commission not only 
+makes the final decision as to all other elements, but reviews 
+along with those elements the substantial justification finding 
+entered by the ALJ in the first instance.
+
+     Granted, we are not bound to defer to the agency's con-
+struction.  The rule of Chevron U.S.A., Inc. v. Natural 
+Resources Defense Council, 467 U.S. 837 (1984), does not 
+apply.  This is a statute of general application and not one 
+committed to administration by the Commission or the Secre-
+tary.  We therefore make this choice between or among 
+possible alternatives as a classic question of law committed to 
+the court for decision, not the agency.  See, e.g., Scheduled 
+Airlines Traffic Offices, Inc. v. Dep't of Defense, 87 F.3d 1356, 
+
+1361 (D.C. Cir. 1996).  However, without deference, we find 
+the Commission's interpretation to be the more compelling on 
+the jurisdictional question.  There is nothing extraordinary 
+about an administrative agency reviewing the findings of its 
+ALJ.  Indeed, that is the normal procedure.  (It would be so 
+extraordinary for a finding to be committed to an ALJ 
+without review that CSG has been able to offer no example.)  
+We think it unlikely that if Congress intended to adopt such 
+an extraordinary departure from the norm it would do so by 
+implication.  We therefore agree with the Commission that 5 
+U.S.C. s 504(a)(3) commits to its review the decision of the 
+ALJ.
+
+     B. The Merits
+
+     The majority of the Commission in its 3-to-2 decision 
+reversing the ALJ's award of fees to CSG began by faulting 
+the approach of the ALJ in determining whether the Admin-
+istration's position had been justified.  According to the Com-
+mission "the judge's failure to independently review the 
+Secretary's position in the EAJA proceeding and apply a 
+distinct analysis under the appropriate EAJA standard was 
+erroneous and in itself, precludes affirmance of the judge's 
+determination."  Contractors, 20 F.M.S.H.R.C. at 968 (em-
+phasis in original).  The Commission in this criticism address-
+es the ALJ's statement that " '[i]n the underlying proceeding, 
+I clearly indicated that the Secretary's position was unreason-
+able....  I again find that the Secretary's legal theory was 
+not reasonable and that there was no reasonable connection 
+between the Secretary's legal theory and the undisputed 
+facts.' "  Id. (quoting Contractor's, 18 F.M.S.H.R.C. at 1822 
+(emphasis added by the Commission)).  We would state at the 
+outset that we are a bit baffled by the Commission's approach 
+to its review of the ALJ's decision.  The language of the ALJ 
+italicized by the Commission demonstrates on its face that he 
+did precisely what the Commission suggested he had not 
+done.  That is, he reviewed for the second time an Adminis-
+tration position he had already found unreasonable and found 
+that it still was.  As we have stated before, "[i]n some cases, 
+the standard of review on the merits is so close to the 
+reasonableness standard applicable to determining substantial 
+
+justification that a losing agency is unlikely to be able to show 
+that its position was substantially justified."  F.J. Vollmer Co. 
+v. Magaw, 102 F.3d 591, 595 (D.C. Cir. 1996).  In F.J. 
+Vollmer Co., an agency's application of its own regulation had 
+been held to be unreasonable.  In the subsequent EAJA 
+review, a district judge concluded that the government sus-
+tained its burden of establishing that its action had been 
+substantially justified.  We reversed, suggesting that it would 
+be neither surprising nor erroneous that a judge's conclusion 
+at the second stage would be consistent with his conclusion at 
+the first.  Just so here.
+
+     To say that the Commission erred in its approach to the 
+ALJ's decision under review, does not, of course, answer our 
+question as to whether it erred in the merits review before it 
+and now before us.  That review is governed by a principle 
+stated in Cinciarelli v. Reagan, 729 F.2d 801 (D.C. Cir. 1984):  
+"Once a plaintiff has been shown to be a prevailing party, the 
+burden is on the government to show that its litigation 
+position was substantially justified on the law and the facts."  
+Id. at 806.  The Commission divided that inquiry into its two 
+component parts and expressly held that "the Secretary's 
+position had a reasonable basis in law," Contractors, 20 
+F.M.S.H.R.C. at 969, and that "the Secretary's position had a 
+reasonable basis in fact," id. at 973.
+
+     The Commission first expressed the reasonable proposition 
+that "[w]e begin our analysis of whether the Secretary's 
+position was substantially justified by examining whether her 
+position had a reasonable basis in law."  Id. at 969.  Unfortu-
+nately, the Commission's application of its approach was not 
+equal to the correctness of its statement.  The Commission's 
+determination that the Secretary's position had a reasonable 
+basis in law is based entirely on an analysis which examines 
+the purpose of the regulations in terms of the overriding 
+objective of safety in the mine, and then goes on to conclude 
+that the Secretary, by presenting evidence that frame 
+grounding was not the safest way to ground equipment, 
+therefore had established a substantial justification in law.  
+This erroneous application echoes the fundamental error of 
+the MSHA's acts in the underlying controversy, and we might 
+
+add recreates the fundamental error about which we have 
+cautioned this and other agencies on prior occasions in other 
+contexts.
+
+     What the Secretary successfully defended before the Com-
+mission and what we reject here is precisely the same sort of 
+arbitrary overreach we previously rejected in Secretary of 
+Labor v. FMSHRC, 111 F.3d 913 (D.C. Cir. 1997).  In that 
+case, the Administration had sought to enforce a citation 
+against a mine operator for collections of trash outside the 
+active workings of a mine as violative of a regulatory scheme 
+which by its terms "forbid[ ] accumulations of combustible 
+materials in active workings."  Id. at 918 (citing 30 C.F.R. 
+s 75.400).  Nothing about the rules promulgated by the 
+Secretary forbade the outside accumulation by the regulated 
+mine.  The Commission, acting far more lawfully than in the 
+case before us, rejected the Secretary's attempt to penalize 
+accumulations not violating the rules.  Before the Commis-
+sion and before us, the Secretary urged the dangerousness of 
+collections of trash outside active workings.  Although we 
+reversed a portion of the Commission's decision on other 
+grounds, we upheld its rejection of the Secretary's argument 
+on this point saying "[i]f collections of trash outside active 
+workings can be both permissible and hazardous, the fault lies 
+neither with the Mine Safety Act nor with the Commission's 
+legal reasoning, but with the Secretary's ... regulation," 
+which did not forbid the relevant collections.  Id. at 918.  
+Just so here.
+
+     As the dissenting Commissioners pointed out, the ALJ 
+properly noted that "under the plain meaning of section 
+56.12025, the Secretary failed to establish that CSG violated 
+the regulation."  Contractors, 20 F.M.S.H.R.C. at 979 (Riley 
+& Verheggen, Comm'rs, dissenting) (citing 18 F.M.S.H.R.C. 
+at 387-88).  The regulation required that the equipment be 
+grounded.  The Secretary offered no evidence--none whatso-
+ever--that the motors in question were not in fact grounded 
+as required by the regulation.  The regulatory definition of 
+grounding simply defines "electrical grounding" as "to con-
+nect with the ground to make the earth part of the circuit."  
+30 C.F.R. s 56.2.  The Administration not only did not prove 
+
+any failure to make the earth part of the circuit but offered 
+no evidence whatsoever on the subject and indeed did not 
+conduct any testing to determine whether CSG was in compli-
+ance or not.  CSG offered undisputed evidence that it was.
+
+     To excuse its noncompliance, the Administration does as it 
+did in the trash collection case we discussed above:  that is, it 
+discusses the safety implications of the practice which it 
+purports to punish.  This discussion would be well and good if 
+the MSHA were engaged in a rulemaking to outlaw frame 
+grounding or to require fourth-wire grounding.  But, as the 
+dissenting Commissioners pointed out, in at least two of its 
+uninterrupted prior losses on this same controversy, Adminis-
+trative Law Judges have advised the Secretary that " ' "[i]f 
+the Secretary believes frame grounding should be prohibited, 
+the Secretary should initiate appropriate rulemaking to 
+achieve this goal." ' "  Contractors, 20 F.M.S.H.R.C. at 983 
+(Riley & Verheggen, Comm'rs, dissenting) (quoting Secretary 
+of Labor v. F. Palumbo Sand & Gravel, 19 F.M.S.H.R.C. at 
+1440, 1444 (ALJ 1997) (quoting Contractors, 18 F.M.S.H.R.C. 
+at 388)).  The dissenting Commissioners agree.  So do we.  
+Nonetheless, the Secretary has not.  It is not substantially 
+justifiable for an agency to persistently prosecute citizens for 
+violating a regulation that does not exist.
+
+     To track again the dissenting Commissioners, we note that 
+while a " 'string of losses' " is not determinative, it " 'can be 
+indicative' that an agency's position lacks substantial justifica-
+tion."  Contractors, 20 F.M.S.H.R.C. at 983 (Riley & Verheg-
+gen, Comm'rs, dissenting) (quoting Pierce v. Underwood, 487 
+U.S. 552, 569 (1988)).  Here, as the ALJ noted, every time 
+the Secretary has presented the theory that the use of a 
+particular grounding method other than that preferred by the 
+Secretary is violative of the regulation, the responsible Ad-
+ministrative Law Judge has considered that theory not rea-
+sonable.  See Secretary of Labor v. Tide Creek Rock, Inc., 18 
+F.M.S.H.R.C. 390, 396-97 (ALJ 1996);  Secretary of Labor v. 
+Mulzer Crushed Stone Co., 3 F.M.S.H.R.C. 1238 (ALJ 1981);  
+McCormick Sand Corp. v. Secretary of Labor, 2 
+F.M.S.H.R.C. 21 (ALJ 1980).  Again, if all of these ALJs are 
+unwilling to buy the Secretary's expansive theory that the 
+
+commendable goal of promulgating safety permits the Secre-
+tary to prosecute activity which violates no existing rule, it is 
+time for the Secretary to repair to rulemaking, not to bring 
+one more unsupportable citation.  The bringing of one more 
+is not substantially justified.
+
+     The Secretary's only other theory to sustain the Commis-
+sion's conclusion of substantial justification is to advance the 
+proposition that the Secretary's interpretation of the ground-
+ing rule as requiring certain types of grounding and outlaw-
+ing others not mentioned anywhere in the rules is an inter-
+pretation of longstanding.  In support of this, neither the 
+Secretary nor the Commission majority have been able to 
+point to any interpretation at any time, yet they continue to 
+insist in the words of the citation served on petitioners, that 
+"[f]rame grounding has been forbidden for fifteen years."  
+The best support the Secretary can offer for this proposition 
+is the declaration of a single engineering employee of MSHA 
+who declared that in his tenure with the Administration the 
+Administration had never allowed the frames of mining equip-
+ment to serve as equipment grounding conductors.  It is not 
+at all clear how the Secretary or the Commission concludes 
+that the testimony of a witness as to what his agency will 
+allow determines the standard of law against which citizens 
+can be forced to defend.  Be that as it may, even assuming 
+that his understanding constituted agency policy, this would 
+not create sufficient grounds for substantial justification.  As 
+we stated in F.J. Vollmer Co., "we do not see how merely 
+applying an unreasonable statutory interpretation for several 
+years can transform it into a reasonable interpretation."  102 
+F.3d at 598.  Even more, we do not see how grafting onto the 
+plain language of a regulation a prohibition neither stated nor 
+implied in that regulation can convert the enforcement of that 
+imaginary rule into a substantially justified governmental act.
+
+     We note only in passing that the Commission's assertion 
+that the Secretary's position had a reasonable basis in fact 
+need not delay us, as we have demonstrated in the discussion 
+of the law that the Secretary's position had no basis in fact.  
+The fact that CSG was employing frame grounding is irrele-
+
+vant to substantial justification once it is established that the 
+use of that methodology is not a per se violation.  The failure 
+of the Secretary to conduct testing, let alone offer evidence 
+that the testing demonstrated a violation of the real regula-
+tion, finishes the possibility that some reasonable basis in fact 
+existed.  Furthermore, having dispensed with the reasonable 
+justification on the basis of law, we need not demonstrate that 
+the Secretary's actions fail the substantial justification stan-
+dard on other grounds as well.  See Air Transport Ass'n of 
+Canada v. FAA, 156 F.3d 1329, 1332 (D.C. Cir. 1998) (per 
+curiam) (rejecting a government argument that a claimant 
+should be denied an EAJA award where the government's 
+approach "was substantially unjustified on only one of several 
+possible bases").
+
+     Like the ALJ and the dissenting Commissioners, we have 
+no occasion to consider whether the extraordinarily large 
+fines imposed were independently substantially justified, giv-
+en the substantial unjustification of the underlying citations.
+
+                         III. Conclusion
+
+     For the reasons set forth above, we reverse the decision of 
+the Commission, and order that the award determined by the 
+ALJ be restored to petitioner.  We remand this case for 
+further proceedings to determine the amount of an award to 
+compensate petitioner for the costs of pursuing the petition 
+for review in this court.
+
+                                                      So ordered.
+
+                   

@@ -1,0 +1,817 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 19, 1999    Decided February 1, 2000 
+
+                           No. 98-1583
+
+              ASA Investerings Partnership, et al., 
+                            Appellants
+
+
+                                v.
+
+                Commissioner of Internal Revenue, 
+                             Appellee
+
+             Appeal from the United States Tax Court 
+                        (No. TAX-27320-96)
+
+     Jerome B. Libin argued the cause for appellants.  With 
+him on the briefs was Steuart H. Thomsen.
+
+     Edward T. Perelmuter, Attorney, U.S. Department of Jus-
+tice, argued the cause for appellee.  With him on the brief 
+were Loretta C. Argrett, Assistant Attorney General, and 
+Richard Farber, Attorney.
+
+     Before:  Williams, Sentelle and Henderson, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  In January 1990 AlliedSignal, a 
+company manufacturing aerospace and automotive products, 
+decided to sell its interest in Union Texas Petroleum Hold-
+ings, Inc., an oil, gas, and petrochemical company.  Anticipat-
+ing a large capital gain, it sought to reduce the resulting tax 
+burden by entering into a set of transactions via a partner-
+ship with several foreign corporations.  The transactions took 
+advantage of provisions of the Internal Revenue Code (and 
+related regulations) designed to yield reasonable results when 
+property is sold on an installment basis and the value of the 
+installment payments cannot be known in advance.  With the 
+help of these provisions, transactions that in substance added 
+up to a wash were transmuted into ones generating tax losses 
+of several hundred million dollars;  the offsetting gains were 
+allocated to foreign entities not subject to United States 
+income tax at all.
+
+     The Commissioner of Internal Revenue in 1996 issued a 
+notice of final partnership administrative adjustment, reallo-
+cating to AlliedSignal much of the capital gain accrued by the 
+partnership.  ASA, via its "Tax Matters Partner," Allied- 
+Signal, petitioned for relief in the Tax Court, which agreed 
+with the Commissioner that AlliedSignal had not entered into 
+a bona fide partnership and upheld the Commissioner's deter-
+mination.  ASA Investerings Partnership, AlliedSignal, Inc., 
+Tax Matters Partner v. Commissioner, 76 T.C.M. (CCH) 325 
+(1998) ("Tax Court Decision").  We affirm.
+
+                             *  *  *
+
+     The hardest aspect of this case is simply getting a handle 
+on the facts.  To make them manageable, we first discuss the 
+principal tax provisions in question and then show their 
+application through a series of examples, ending with a 
+simplified version of the transactions here.  Only then do we 
+lay out the exact transactions themselves.
+
+     Under the general provisions of the Internal Revenue Code 
+("IRC"), gains and losses are generally "realized" in the year 
+that they are received or incurred.  See 26 U.S.C. s 1001 
+(1994).  A sale for future payments, however, presents sever-
+al difficulties, among them that the deferred payment may be 
+contingent in amount or otherwise not susceptible to accurate 
+valuation.  Section 453 of the Internal Revenue Code, 26 
+U.S.C. s 453, provides methods for taxation of such an "in-
+stallment sale," defined as "a disposition of property where at 
+least 1 payment is to be received after the close of the taxable 
+year in which the disposition occurs."  Id. s 453(b)(1).  It 
+specifies the "installment method" for such a sale, providing 
+that "the income recognized for any taxable year from a 
+disposition is that proportion of the payments received in that 
+year which the gross profit ... bears to the total contract 
+price."  Id. s 453(c).  Thus, if A owns a building with a basis 
+of $100, and sells it for $300 to be paid in five $60 annual 
+installments, A recognizes a taxable gain of $40 each year.  
+The proportion of "gross profit" to "total contract price" is 
+200/300 or two thirds, so the income recognized for each year 
+is two thirds of the receipts of that year.
+
+     In 1980 Congress expanded s 453, authorizing the Secre-
+tary to make the installment method available to deferred 
+payment transactions for which the sales price is indefinite, or 
+subject to a contingency.  Section 453(j) (previously s 453(i)) 
+mandates that the Secretary shall promulgate regulations 
+"providing for ratable basis recovery in transactions where 
+the gross profit or the total contract price (or both) cannot be 
+readily ascertained."  In response, the Treasury promulgated 
+Temp. Treas. Reg. s 15A.453-1(c)(3)(i) (1981), which provides 
+that in contingent payment sales (and subject to irrelevant 
+exceptions), "the taxpayer's basis ... shall be allocated to the 
+taxable years in which payment may be received under the 
+agreement in equal annual increments."
+
+     Under these regulations, the taxpayer will have a recog-
+nized gain in years when payment from the sale exceeds the 
+basis recovered;  in years when payment is less than the basis 
+recovered, "no loss shall be allowed unless the taxable year is 
+the final payment year under the agreement or unless it is 
+
+otherwise determined ... that the future payment obligation 
+under the agreement has become worthless."  Id.
+
+     The following examples should illustrate the ratable basis 
+recovery rule.  Property owner, A, sells a house with a basis 
+and current value of $1 million in exchange for an instrument 
+that will pay unpredictable amounts (e.g., a share of the 
+property's gross profits) over a five-year period.  In any year 
+in which the payout equals or exceeds $200,000, A will recover 
+$200,000 in basis under the ratable basis recovery rule and 
+will have a taxable gain equal to the difference between the 
+amount received from the note and $200,000.  In a year in 
+which the payout is less than $200,000, A will not report a 
+loss, but instead will recover a portion of the basis equal to 
+the payout;  the unused basis will then be carried forward to 
+the next year.  See id. s 15a.453-1(c)(3), example (2).  Under 
+the rule just quoted above, unused basis would be recovered 
+only in the last year of scheduled payout.
+
+     The rule works similarly when the seller receives both an 
+instrument with indefinite value and an immediate payment 
+of cash.  In a variation on the preceding case, for example, 
+suppose A sells the property for a $500,000 cash payment and 
+an indefinite five-year instrument.  Once again, the basis is 
+recovered over the course of five years.  In the first year, A 
+recovers $200,000 in basis;  because he has received $500,000 
+that year, he must report a gain of $300,000.  If A sells the 
+note in Year 2 for $500,000, he can report a loss of $300,000, 
+equal to the difference between the remaining basis in the 
+note ($800,000) and the $500,000 he has received in exchange 
+for the note.1  In this example, of course, the results are 
+rather unappealing to the taxpayer:  although he had no real 
+gain, he recognized a nominal one early, offset by an equal 
+tax loss--but one that was deferred and therefore not a 
+complete offset.  Because of the rule against any recovery of 
+
+__________
+     1  The regulation does not appear to provide expressly that in 
+the event that the taxpayer completely liquidates the instrument 
+before the end of scheduled payout he may recover all unused basis 
+in that year.  Both parties agree, however, that this is the case.
+
+basis in excess of gross receipts in any year except the last, 
+the taxpayer cannot manipulate the timing in his favor.
+
+     But suppose A finds a way of allocating the nominal tax 
+gain to a tax-free entity, reserving for himself a nominal tax 
+loss?  Here is how he might do it:  He forms a partnership 
+with a foreign entity not subject to U.S. tax, supplying the 
+partnership with $100,000 and inducing the "partner" to 
+supply $900,000.  The "partnership" buys for $1,000,000 prop-
+erty eligible for installment sale treatment under s 453, and, 
+as the ink is drying on the purchase documents, sells the 
+property, as in the last example, for $500,000 in cash and an 
+indefinite five-year debt instrument.  The cash payment pro-
+duces a gain of $300,000, 90% of which goes to the nontaxable 
+foreign entity.  Then ownership adjustments are made so 
+that A owns 90% of the partnership.  In year 2 the instru-
+ment is sold, yielding a tax loss of $300,000, 90% of which is 
+allocable to A.  Presto:  A has generated a tax loss of 
+$240,000 ($270,000 loss in Year 2, offset by $30,000 gain in 
+Year 1), with no material change in his financial position--
+other than receipt of the valuable tax loss.  This example is 
+AlliedSignal's case, stripped to its essentials.
+
+     Now for the specifics of this case:  In 1990, AlliedSignal 
+anticipated that it would soon realize a capital gain of over 
+$400 million from the sale of its interest in Union Texas 
+Petroleum Holdings, Inc.  In February, AlliedSignal ap-
+proached Merrill Lynch & Co. to discuss a set of transactions 
+that Merrill had developed to create tax losses to shelter 
+anticipated capital gains.
+
+     Under the plan AlliedSignal would form a partnership with 
+a foreign entity, which in turn would supply the majority of 
+the capital for and assume a majority stake in the partner-
+ship.  In Year 1, the partnership would purchase short-term 
+private placement notes ("PPNs"), which can be sold under 
+the installment method of accounting provided for in IRC 
+s 453.  See 26 U.S.C. s 453(k)(2)(A) (implying that the sale 
+of "stock or securities which are [not] traded on an estab-
+lished securities market" would be subject to the installment 
+method).  Several weeks later, the partnership would sell the 
+
+instruments for 80% cash and 20% debt instruments, which 
+would pay out over several years and thus would be subject to 
+the ratable basis recovery rule.  As in the example above, the 
+partnership would report a large gain in the first year, equal 
+to the difference between the substantial cash payment and 
+the small share of basis recovered that year.  The gain would 
+be allocated according to each partner's interest, with the tax-
+exempt foreign partner receiving the lion's share.
+
+     The next year, AlliedSignal would acquire a majority inter-
+est in the partnership, and sell the debt instruments.  The 
+sale would create a large tax loss because the basis available 
+for recovery would far exceed the value of the instruments.
+
+     Merrill would serve as the partnership's financial adviser 
+and, for a $7 million fee, would recruit the foreign partner 
+and arrange for the subsequent investments.  Tax Court 
+Decision, 76 T.C.M. at 326.  Merrill would also "structure and 
+enter into the requisite swap transactions" with the banks, 
+"[t]o ensure a market for [the] issuance and sale" of the 
+PPNs and the debt instruments to be received on their sale.  
+Id.  In exchange for serving as the partnership's financial 
+intermediary, Merrill would receive roughly $1 to 2 million on 
+the initial sale of PPNs, and $200,000 to $400,000 on the sale 
+of the subsequent debt instruments.  Id.  The foreign part-
+ner would receive the greater of $2,850,000 or 75 basis points 
+(1 basis point = .01%) over the London International Bank 
+Offering Rate ("LIBOR") on any funds contributed to the 
+partnership, as well as reimbursement of all partnership 
+expenses incurred.  Id.
+
+     AlliedSignal and Merrill followed the proposal to the letter.  
+Merrill contacted Algemene Bank Netherlands N.V. ("ABN"), 
+one of the Netherlands' largest commercial banks.  Id. at 327.  
+ABN had previously participated in similar Merrill transac-
+tions, and anticipated that this partnership would strengthen 
+its preexisting lending relationship with AlliedSignal.  Id.  
+On April 5, 1990 Johannes den Baas, Vice President of 
+Corporate Finance for ABN New York, an ABN affiliate, 
+
+requested authorization to enter into this venture.  Id.  Den 
+Baas recommended the creation of two "special purpose 
+corporations" ("SPCs"), to which ABN would lend $990 mil-
+lion, and which would then contribute this money to the 
+venture.  Id.  The purpose of this structure, den Baas said, 
+was (1) to permit ABN, which would otherwise be a general 
+partner in the venture with AlliedSignal, to limit its exposure 
+to liability, and (2) to facilitate ABN's shifting part of the loan 
+to other banks for various reasons.
+
+     On April 17 and 18, den Baas and another representative of 
+an ABN affiliate met in Bermuda with a representative of 
+AlliedSignal.  Id.  Both sides agreed that AlliedSignal would 
+pay all partnership expenses, as well as ABN's costs funding 
+the requisite loans to the partnership (approximately 
+LIBOR), plus 75 basis points.  Id. at 328.2  The precise 
+amount, of course, would depend on the amount that ABN 
+contributed and how long the partnership, to be known as 
+ASA Investerings, held those funds.  In response to den 
+Baas's request that AlliedSignal pay $5 million up-front, the 
+parties agreed that AlliedSignal would instead periodically 
+make "premium" payments upon the occurrence of certain 
+events.  Id.  The agreements reached during these negotia-
+tions were referred to by the Tax Court as the "Bermuda 
+Agreement."
+
+     ABN's Risk Management Division expressed concern that a 
+loss might arise out of the sale of the PPNs.  Id. at 327.  Den 
+Baas responded by assuring these officials that any such loss 
+would be added to the value of the subsequent debt instru-
+ments, and would in turn be borne by AlliedSignal on liqui-
+dation of those instruments.  But there could be no written 
+agreement to this effect, explained den Baas, because "in that 
+case it would not be a matter of a general partnership."  Id.;  
+
+__________
+     2  Petitioner acknowledges that ABN might have "had in mind a 
+target return of LIBOR plus 75bp on the amount it invested," 
+Petitioner's Initial Br. at 59, but argues that the Tax Court erred in 
+finding that the parties actually entered into such an agreement.  
+Petitioner points to the fact that AlliedSignal's payments were 
+negotiated rather than specified in advance, and were not based on 
+a LIBOR plus 75 basis points return.  This dispute is, however, 
+immaterial.  See infra pp. 16-17.
+
+Memo from den Baas to Jos Albers, 4/22/90, Joint Appendix 
+("J.A.") 676.  Den Baas nonetheless assured the authorities at 
+ABN of his confidence that AlliedSignal would bear any such 
+loss:
+
+     [T]he fact that the client is the only one who is interested 
+     in such a sale and wants to obtain the installment note, 
+     whereby the SPCs have a right of veto during the entire 
+     procedure--as is, in fact, set forth in the partnership 
+     document--makes ABN NY Corporate Finance more 
+     than confident that the client will continue to have this 
+     loss charged to his account in the future as well.
+     
+Id.  The loan-approving committees later authorized ABN's 
+participation.
+
+     On April 19 ASA Investerings Partnership was formed.  
+Tax Court Decision, 76 T.C.M. at 328.  It consisted of Allied-
+Signal, AlliedSignal Investment Corporation ("ASIC"), a 
+wholly-owned subsidiary of AlliedSignal, and the two SPCs, 
+Barber Corp. N.V. and Domniguito Corp. N.V., which were 
+controlled by foundations in turn controlled by ABN.  Barber 
+and Dominguito entered into revolving credit agreements 
+with ABN.  The foundations which owned the SPCs granted 
+ABN an irrevocable option to buy shares of the respective 
+SPCs at par value.  Id.
+
+     On April 19th and 24th, the partners contributed a total of 
+$850 million, with each partner receiving a partnership inter-
+est in accordance with its contribution.  AlliedSignal's share 
+was 10%, the SPCs' 90%.  In May 1990, the parties supple-
+mented their contributions (in the same ratio), bringing the 
+total contribution to $1.1 billion.
+
+     On April 25, 1990 ASA purchased from two Japanese banks 
+$850 million of 5-year floating rate notes which were not 
+traded on an established securities market--the planned 
+PPNs.  Id. at 329.  On May 8, the partnership met in 
+Bermuda and decided to sell the PPNs for 80% cash and 20% 
+LIBOR notes.  Id.  Between May 17 and May 24 (i.e., within 
+one month of purchase), ASA sold the PPNs to two banks in 
+exchange for a little under $700 million in cash and 11 notes.  
+(With the cash it bought time deposits and 30-day commercial 
+
+paper.)  These notes each made 20 quarterly payments con-
+sisting of the 3-month LIBOR rate, calculated at the begin-
+ning of each payment period, applied to 25% of the notional 
+principal amount, which in this case was $434,749,000.  Id.  
+The LIBOR notes did not require a return of principal at 
+maturity;  rather, the quarterly payments of interest on the 
+"notional amount" can be seen as both interest and return of 
+actual principal.  ABN entered into swap transactions with 
+Merrill, Barber and Dominguito to hedge ABN's interest rate 
+risk relating to the LIBOR notes.  Merrill also entered into 
+swap transactions with the banks from whom it bought the 
+LIBOR notes (as it had with the PPNs) to induce their 
+participation.  Merrill's transaction costs in selling the PPNs 
+were $6.375 million.  Id.  This was added to the value of the 
+LIBOR notes in ASA's partnership books, so that Allied- 
+Signal would bear the costs of the sale when it acquired the 
+LIBOR notes from the partnership.  Id. at 329-330.
+
+     Because the LIBOR notes provided for 20 quarterly pay-
+ments at a variable rate, and the PPNs were not sold on an 
+established securities market, the sale of the PPNs qualified 
+for use of the installment method.  For the taxable year 
+ending May 31, 1990, ASA recovered 1/6 of the basis in the 
+PPNs (because the completion of the scheduled payout would 
+occur in the sixth tax year after the sale, and reported 
+$549,443,361 in capital gains (= $681,300,000 in cash minus 
+1/6($851,139,836)).3  Id. at 331.  The gain was allocated ac-
+cording to partnership interest, 90% to the SPCs and 10% to 
+AlliedSignal and ASIC.  Id.
+
+     On August 2, 1990, AlliedSignal issued $435 million in 
+commercial paper, and with the proceeds purchased Barber's 
+entire interest in ASA for about $400 million and a 13.43% 
+interest in ASA from Dominguito for about $150 million. 
+Between November 1991 and April 1992, ASA further re-
+duced Dominguito's interest to 25%.  AlliedSignal also paid a 
+$4.4 million "premium" payment, representing a portion of 
+
+__________
+     3  The parties stipulated in the Tax Court that ASA had erred in 
+calculating the gain on its 1990 tax return and that the correct 
+amount was $539,364,656.
+
+the $5 million requested by den Baas.  After this purchase, 
+AlliedSignal and ASIC entered into several swaps with Mer-
+rill to hedge their interest in the LIBOR notes.  Id. at 330.  
+Between August 31 and September 28 AlliedSignal borrowed 
+$435 million from ASA, using the proceeds to repay the debt 
+incurred August 2;  this indebtedness was paid off May 1, 
+1992.
+
+     On August 21 the partnership authorized a distribution of 
+the LIBOR notes to AlliedSignal and ASIC, and about $116 
+million in cash and commercial paper to Dominguito.  Id. at 
+331.  During 1990, AlliedSignal and ASIC sold a fraction of 
+the LIBOR notes with a basis of $246,520,807, for a total of 
+$50,454,103, and reported a capital loss equal to the differ-
+ence, $196,066,704.  Id.  That year, AlliedSignal also reported 
+a capital gain of $53,926,336, its share of ASA's capital gain 
+from the sale of the PPNs.  Id.
+
+     On December 5, 1991, AlliedSignal made a direct payment 
+of $1,631,250 to Dominguito, representing:  the difference 
+between ABN's funding costs and the SPCs' combined income 
+allocations;  interest on $92 million of ABN's funds that 
+remained in ASA beyond the agreed upon date;  and the 
+difference (plus interest) between the $5 million up-front 
+payment that ABN had requested and the $4.4 million it had 
+previously paid.  Id.
+
+     Prior to liquidation, ABN and AlliedSignal agreed that 
+ABN would refund $315,000, reflecting excesses of the SPCs' 
+income allocations over funding costs, and of ASA's returns 
+from November 22, 1991 through April 30, 1992 over LIBOR.  
+Id. at 332.  On June 1, 1992, the partners liquidated ASA.  
+On November 31, AlliedSignal sold its remaining LIBOR 
+notes for $33,431,000, and recovered the remainder of the 
+basis, $429,655,738, taking a capital loss of $396,234,738.  Id.
+
+     In a notice of final partnership administrative adjustment 
+the Commissioner disallowed ASA's capital gain, reallocating 
+it to AlliedSignal and ASIC and thus in substance cancelling 
+out the tax losses otherwise enjoyed by AlliedSignal.  Id. at 
+333.  The Commissioner relied on alternative grounds:  first, 
+ASA was not a bona fide partnership, and Barber and Domin-
+
+guito were not correctly deemed partners;  and second, the 
+transactions lacked "economic substance."  Id.
+
+                             *  *  *
+
+     The Tax Court agreed with the Commissioner that ASA 
+was not a valid partnership for tax purposes, and thus did not 
+reach the economic substance argument.  At the outset, the 
+court disregarded Barber and Dominguito "[f]or purposes of 
+[its] analysis," Tax Court Decision, 76 T.C.M. at 333, finding 
+that they were merely ABN's agents.  First, they were thinly 
+capitalized, and created just for purposes of the venture.  
+Second, the parties themselves treated ABN as the partner, 
+disregarding Barber and Dominguito.  Third, Barber and 
+Dominguito were "mere conduits," to whom ABN lent funds 
+and in whom ABN owned options to purchase shares for a de 
+minimis amount.
+
+     Having found ABN to be the relevant party, the Tax Court 
+turned its attention to the question whether AlliedSignal and 
+ABN entered into a bona fide partnership.  Although the 
+Internal Revenue Code provides that "the term 'partnership' 
+includes a syndicate, group, pool, joint venture, or other 
+unincorporated organization through or by means of which 
+any business, financial operation, or venture is carried on," 26 
+U.S.C. s 761, the court set out to determine whether the 
+formal partnership had substance, quoting the Supreme 
+Court's language in Commissioner v. Culbertson, 337 U.S. 
+733, 742 (1949), which said that the existence of the partner-
+ship (for tax purposes) would depend on whether, "consider-
+ing all the facts ... the parties in good faith and acting with a 
+business purpose intended to join together in the present 
+conduct of the enterprise."  Applying this test, the Tax Court 
+concluded that AlliedSignal and ABN did not have "the 
+requisite intent to join together for the purpose of carrying 
+on a partnership."  76 T.C.M. at 335.
+
+                             *  *  *
+
+     We review decisions of the Tax Court "in the same manner 
+and to the same extent as decisions of the district courts in 
+
+civil actions tried without a jury."  26 U.S.C. s 7482.  Factual 
+findings are reviewed for clear error, see Commissioner v. 
+Duberstein, 363 U.S. 278, 291 (1960), and determinations of 
+law de novo.  See United States v. Popa, 187 F.3d 672, 674 
+(D.C. Cir. 1999).  We have held that in tax cases mixed 
+questions of law and fact are to be treated like questions of 
+fact.  See Fund for the Study of Economic Growth and Tax 
+Reform v. IRS, 161 F.3d 755, 759 (D.C. Cir. 1998) (citing 
+Duberstein, 363 U.S. at 289 n.11).  Petitioner poses chal-
+lenges to all three types of decisions constituting the Tax 
+Court judgment.
+
+     Much of petitioner's opening brief is directed to an attack 
+on the Tax Court's reasoning.  We confess that some of that 
+reasoning seems misdirected.  For example, the court 
+seemed to believe that because ABN and AlliedSignal had 
+"divergent business goals," 76 T.C.M. at 333, they were 
+precluded from having the requisite intent to form a partner-
+ship.  We agree with petitioner that partners need not have a 
+common motive.  In fact, the desirability of joining comple-
+mentary interests in a single enterprise is surely a major 
+reason for creating partnerships.  But we see no reason to 
+think that this view, mentioned only in the opinion's initial 
+summary and concluding paragraph, was essential to the 
+court's conclusion.
+
+     Some of petitioner's argument seems an exercise in seman-
+tic ju jitsu.  It argues that we may not consider whether the 
+partnership was a "sham" because the Tax Court (a) explicitly 
+refused to consider that, and (b) never used the word "sham."  
+The first point is false, the second irrelevant.  Although the 
+Tax Court said that it would not consider whether the trans-
+actions at issue lacked "economic substance," id., its decision 
+rejecting the bona fides of the partnership was the equivalent 
+of a finding that it was, for tax purposes, a "sham."
+
+     Getting to the controlling issue, petitioner argues that 
+under the standard established in Moline Properties, Inc. v. 
+Commissioner, 319 U.S. 436 (1943), the partnership cannot be 
+regarded as a sham.  The Court there said that a corporation 
+
+remains a separate taxable entity for tax purposes "so long as 
+[its] purpose is the equivalent of business activity or is 
+followed by the carrying on of business by the corporation."  
+319 U.S. at 439.  The Tax Court has since applied Moline to 
+partnership cases.  See Bertoli v. Commissioner, 103 T.C. 
+501, 511-12 (1994).
+
+     Petitioner views Moline as establishing a two-part test, 
+under which a tax entity is accepted as real if either:  (1) its 
+purpose is "the equivalent of business activity" (not tax 
+avoidance), or (2) it conducts business activities.  Moline, 319 
+U.S. at 439.  Because ASA "engaged in more than sufficient 
+business activity to be respected as a genuine entity," peti-
+tioner argues that ASA was a partnership under the second 
+alternative.  Petitioner's Reply Br. at 12.  We agree if engag-
+ing in business activity were sufficient to validate a partner-
+ship ASA would qualify.  It was infused with a substantial 
+amount in capital ($1.1 billion), and invested it in PPNs, 
+LIBOR notes, and other short-term notes over a period of 
+two years.  In fact, however, courts have understood the 
+"business activity" reference in Moline to exclude activity 
+whose sole purpose is tax avoidance.  This reading treats 
+"sham entity" cases the same way the law treats "sham 
+transaction" cases, in which the existence of formal business 
+activity is a given but the inquiry turns on the existence of a 
+nontax business motive.  See Knetsch v. United States, 364 
+U.S. 361, 364-66 (1960).  Thus, what the petitioner alleges to 
+be a two-pronged inquiry is in fact a unitary test--whether 
+the "sham" be in the entity or the transaction--under which 
+the absence of a nontax business purpose is fatal.4
+
+     Shortly after Moline the Second Circuit held per Judge 
+Learned Hand in National Investors Corp. v. Hoey, 144 F.2d 
+466 (2d Cir. 1944), that the retention and sale of securities, 
+after the date when the corporate holding had served its 
+
+__________
+     4  Indeed, one might logically enough place the Tax Court's 
+findings here under the "sham transaction" heading, viewing the 
+formation of the partnership as the transaction.  Because of the 
+ultimate unity of the tests, however, there is no need to address this 
+formulation.
+
+nontax goals, could not be considered for tax purposes.  
+There an investment trust corporation proposed to merge 
+with its subsidiaries.  To this end it created a new corpora-
+tion into which it transferred its interests in the subsidiaries 
+in exchange for 10 shares of stock.  But the stockholders 
+decided to reject the plan to unify the four corporations.  The 
+investment trust then liquidated the new corporation, starting 
+with an exchange of 10% of the new corporation's shares and 
+taking a deduction based on the difference between the value 
+of 10% of the shares when originally issued to the trust, and 
+10% of their reduced value a year later.  In initiating even 
+this 10% liquidation, however, it delayed for some time after 
+the shareholders' vote.  The court held that the trust was 
+entitled to a deduction only for value decreases incurred from 
+the time of the original transfer of assets to the corporation 
+to "a reasonable time" after the stockholders rejected the 
+plan.  Id. at 468.  Thereafter, "there was no longer any 
+business for [the corporation] to do."  Id.  Retention of the 
+corporation merely for the purpose of tax minimization was 
+not enough.  The court explicitly read the cases as saying 
+that "the term 'corporation' will be interpreted to mean a 
+corporation which does some 'business' in the ordinary mean-
+ing, and that escaping taxation is not 'business' in the ordi-
+nary meaning."  Id.  So too, for ASA:  Although its invest-
+ment in LIBOR notes might have had a business purpose, the 
+prior three-week investment in and subsequent sale of PPNs 
+was, like the retention of assets in Hoey, a business activity 
+merely conducted for tax purposes.5  Moreover, as discussed 
+later, AlliedSignal's interest in any potential gain from the 
+partnership's investments was in its view at all times dwarfed 
+by its interest in the tax benefit.
+
+__________
+     5  The PPNs cost $850 million.  When an expert was later 
+engaged by AlliedSignal to evaluate the partnership's gains and 
+losses, AlliedSignal asked that he assign to the LIBOR notes a 
+value which, together with the cash, would bring the total value of 
+the proceeds of the PPNs to $850 million.  See J.A. 1343.  Allied-
+Signal evidently did not believe that the initial investment in PPNs 
+increased the return from the transactions in the aggregate.
+
+     The Ninth Circuit has similarly held that "business activi-
+ty" is inadequate in the absence of a nontax business purpose.  
+In Zmuda v. Commissioner, 731 F.2d 1417 (9th Cir. 1984), 
+the taxpayers argued that the Tax Court incorrectly applied 
+the "economic substance" rule rather than the "business 
+purpose" rule.  The court found that the taxpayer's argument 
+"attempts to create a distinction where none exists.  There is 
+no real difference between the business purpose and the 
+economic substance rules.  Both simply state that the Com-
+missioner may look beyond the form of an action to discover 
+its substance."  Id. at 1420.  The court went on to say:
+
+     The terminology of one rule may appear in the context of 
+     the other because they share the same rationale.  Both 
+     rules elevate the substance of an action over its form.  
+     Although the taxpayer may structure a transaction so 
+     that it satisfies the formal requirements of the Internal 
+     Revenue Code, the Commissioner may deny legal effect 
+     to a transaction if its sole purpose is to evade taxation.
+     
+Id. at 1421.  At issue was the validity of certain trusts, so the 
+court's equation of the "transaction" test and the "entity" test 
+was clearly a holding.
+
+     We note that the "business purpose" doctrine is hazardous.  
+It is uniformly recognized that taxpayers are entitled to 
+structure their transactions in such a way as to minimize tax.  
+When the business purpose doctrine is violated, such struc-
+turing is deemed to have gotten out of hand, to have been 
+carried to such extreme lengths that the business purpose is 
+no more than a facade.  But there is no absolutely clear line 
+between the two.  Yet the doctrine seems essential.  A tax 
+system of rather high rates gives a multitude of clever 
+individuals in the private sector powerful incentives to game 
+the system.  Even the smartest drafters of legislation and 
+regulation cannot be expected to anticipate every device.  
+The business purpose doctrine reduces the incentive to en-
+gage in such essentially wasteful activity, and in addition 
+helps achieve reasonable equity among taxpayers who are 
+similarly situated--in every respect except for differing in-
+vestments in tax avoidance.
+
+     Thus the Tax Court was, we think, sound in its basic 
+inquiry, trying to decide whether, all facts considered, the 
+parties intended to join together as partners to conduct 
+business activity for a purpose other than tax avoidance.  Its 
+focus was primarily on ABN, curiously.  As we shall discuss 
+later, the absence of a nontax business purpose was even 
+clearer for AlliedSignal.  Nonetheless, given ABN's protec-
+tion from risk, and even from the borrowing costs of provid-
+ing its capital contribution, there was no clear error in the 
+finding that its participation was formal rather than substan-
+tive.6  Petitioner alleges two primary ways in which the Tax 
+Court erred in this regard.
+
+     First, petitioner says that the Tax Court incorrectly found 
+that Barber and Dominguito were mere agents of ABN 
+rather than partners in their own right.  But this issue of 
+classification makes no material difference.  Once the court 
+decided that the SPCs were mere conduits for ABN, it shifted 
+its focus to whether AlliedSignal and ABN (rather than the 
+SPCs) formed a bona fide partnership.  There was certainly 
+no clear error in the court's view of the SPCs as being within 
+the complete control of ABN, and there is no indication as to 
+how the SPCs' intent as to the "partnership" differed from 
+that of ABN.
+
+     Second, petitioner argues that the Tax Court erred by 
+finding that ABN did not share in profits and losses because 
+it received a specified return from AlliedSignal and hedged 
+against risk through swap transactions with Merrill.  On the 
+profit side, we find no clear error in the court's findings that 
+the direct payments made to ABN were to compensate it 
+merely for its funding costs.  Petitioner says that there was 
+no explicit agreement that ABN would receive a return of 
+LIBOR plus 75 basis points, pointing to the fact that the 
+payments actually made by AlliedSignal to ABN did not 
+
+__________
+     6  Although petitioner argues that ABN's purpose was not tax-
+avoidance, but rather "included a desire to enhance its business 
+relationship with AlliedSignal," Petitioner's Initial Br. at 41 n.19, 
+the desire to aid another party in tax avoidance is no more a 
+business purpose than actually engaging in tax avoidance.
+
+produce such a return.  See Petitioner's Brief at 59;  supra 
+note 2.  But petitioner makes no argument that these pay-
+ments were related to the success of the partnership's invest-
+ments (i.e., the PPNs and LIBOR notes), and under the 
+circumstances it is reasonable to infer that they were made 
+pursuant to a pre-arranged agreement to compensate ABN 
+for its funding costs (plus some amount above LIBOR, even if 
+not 75 basis points).
+
+     Den Baas's testimony, moreover, confirms that ABN could 
+make no profit from the transaction:  any potential profit 
+from the LIBOR notes would be offset by losses from the 
+concomitant swap transactions.  Petitioner cites Hunt v. 
+Commissioner, 59 T.C.M. (CCH) 635 (1990), for the proposi-
+tion that a guaranteed return is not inconsistent with partner-
+ship status.  In Hunt, however, both parties had a bona fide 
+business purpose for entering into the partnership, and unlike 
+in the case at hand, the guaranteed return created a floor but 
+not a ceiling.  See id. at 648.
+
+     Turning to the risk of loss, we agree with the Tax Court 
+that any risks inherent in ABN's investment were de minimis.  
+As a preliminary matter, the court did not err by carving out 
+an exception for de minimis risks, as no investment is entirely 
+without risk.  Unless one posited a particular asset (such as 
+the dollar) as the sole standard, its value could change in 
+relation to the values of other assets, and treating one--even 
+the dollar--as the sole standard would be arbitrary.  The Tax 
+Court's decision not to consider ABN's "de minimis" risk is 
+also consistent with the Supreme Court's view, albeit in the 
+"sham transaction" context, that a transaction will be disre-
+garded if it did "not appreciably affect [taxpayer's] beneficial 
+interest except to reduce his tax."  Knetsch, 364 U.S. at 366 
+(emphasis added) (quoting Gilbert v. Commissioner, 248 F.2d 
+399, 411 (2d Cir. 1957) (Hand, C.J., dissenting)).
+
+     There was no clear error in the Tax Court's determination 
+that at no point during the transaction did ABN assume 
+greater than de minimis risk.  The PPNs were essentially 
+risk free:  not only were they issued by banks with the 
+highest credit ratings but they were held for a mere three 
+
+weeks.  Moreover, because of the side agreement under 
+which any loss on the PPNs would be embedded in the value 
+of the LIBOR notes, AlliedSignal would bear any shortfall 
+over the brief period in which PPNs were held.  Petitioner 
+argues that ABN was subject to the risk that AlliedSignal 
+would ultimately decide not to acquire the LIBOR notes.  
+This seems unlikely to the point of triviality, however, for two 
+reasons:  first, this step was integral to AlliedSignal's tax 
+objective, and to the entire transaction;  and second, at the 
+point when the LIBOR notes would be distributed, Domingui-
+to still owned over 40% of ASA, and according to the partner-
+ship agreement, any act of the partnership committee would 
+require the consent of partners whose interest equaled or 
+exceeded 95%.  Nor was there any real hazard that Allied- 
+Signal might agree to distribute the LIBOR notes but refuse 
+to make the adjustment for any loss on the PPNs:  as den 
+Baas had stated in a memorandum to ABN officials, the SPCs 
+could counter by refusing consent for the distribution of the 
+notes altogether.
+
+     The LIBOR notes certainly had greater inherent risk than 
+the short-term PPNs;  ABN, however, entered into hedge 
+transactions outside the partnership to reduce the risk to a de 
+minimis amount.  In fact, the correlation between the swaps 
+and the LIBOR notes was 99.999%, i.e., the company succeed-
+ed in hedging all but a de minimis amount of the risk 
+associated with the LIBOR notes.  Petitioner concedes that 
+"the hedges provided the ABN parties with substantial pro-
+tection from fluctuations in LIBOR Note value due to move-
+ments in interest rates."  Petitioner's Reply Br. at 18.  But 
+ASA nevertheless contends that ABN still bore the credit risk 
+associated with the issuers of the LIBOR notes and with 
+Merrill, which provided the hedges.  Once again, we find that 
+the Tax Court correctly found the risk to be de minimis:  the 
+LIBOR notes were issued by banks having a credit rating of 
+AAA and AA+, and were held by ASA for only three months.  
+So too, the risk associated with the swaps with Merrill (a 
+single-A rated institution) was de minimis.  Finally, there was 
+little, if any, risk associated with the commercial paper that 
+ASA held at this point, which although unhedged, was found 
+
+by the Tax Court to be "AAA-rated, short-term, and from 
+multiple issuers."  Tax Court Decision, 76 T.C.M. at 335.
+
+     Petitioner argues that ABN's side-transactions should not 
+be considered in deciding whether a bona fide partnership 
+was formed.  It draws an analogy to a partnership which 
+owns an uninsured building later destroyed by fire;  this 
+partnership is bona fide even if one partner had insured 
+against his portion of the loss.  The analogy, though imagina-
+tive, is not very telling.  The insurance in the hypothetical is 
+comparatively narrow, leaving a considerable range of poten-
+tial business hazards and opportunities for profit.  Contrast 
+den Baas's observation at the outset of the present plan:  
+"Credit risk:  The structure demands that virtually no credit 
+risk will be taken in the partnership since any defaults on the 
+principal of the investments will jeopardize the objective....  
+Market interest rate risk:  ABN New york [sic] will take care 
+of perfect hedges in order to protect the bank from the 
+changes in the value of the underlying securities....  due to 
+interest rate fluctuations."  J.A. 680-81.  We note, moreover, 
+that petitioner directs us to no evidence that ABN even bore 
+the cost of these hedges.  Given that Merrill, which had 
+orchestrated the entire transaction and to whom AlliedSignal 
+had paid a substantial sum, engaged in the swap transactions, 
+it is likely that AlliedSignal assumed the costs of the swaps.  
+A partner whose risks are all insured at the expense of 
+another partner hardly fits within the traditional notion of 
+partnership.
+
+     Petitioner argues that the Tax Court also erred in deter-
+mining that ABN's capital contribution constituted a loan.  
+We need not pass on this question because it is quite periph-
+eral to the central issue of whether the parties entered into a 
+bona fide partnership.
+
+     We noted earlier that the Tax Court's focus on ABN's 
+intentions was a little puzzling.  AlliedSignal, after all, was 
+the driving force and AlliedSignal focused on tax minimization 
+to the virtual exclusion of ordinary business goals.  Of course 
+no one wants to pay more than necessary, even for a very 
+profitable tax minimization scheme, and the petitioner argues 
+
+that even with the very substantial transaction costs associat-
+ed with the partnership, AlliedSignal had grounds for expect-
+ing that it would come out more than $15 million ahead.  As it 
+proved, transaction costs were almost $25 million rather than 
+the roughly $12 million it anticipated, Tax Court Decision, 76 
+T.C.M at 326, 332, so the ultimate financial gain, according to 
+the parties, was actually about $3.6 million.  The expected 
+gain turned on the belief of Roger Matthews, AlliedSignal's 
+assistant treasurer--which proved correct--that interest 
+rates would shift in such a way that, when all the swaps were 
+taken into account, AlliedSignal would benefit.  But this 
+evidence says nothing about AlliedSignal's use of the elabo-
+rate partnership--with a pair of partners concocted for the 
+occasion.  There is no reason to believe that AlliedSignal 
+could not have realized Matthews's interest rate play without 
+the partnership at far, far lower transactions costs.  For the 
+deal overall, the most telling evidence is the testimony of 
+AlliedSignal's Chairman and CEO, who could not "recall any 
+talk or any estimates of how much profit [the transaction] 
+would generate."  The Tax Court concluded that none of the 
+supposed partners had the intent to form a real partnership, 
+a conclusion that undoubtedly encompasses AlliedSignal.  
+And the record amply supports that finding.
+
+     The decision of the Tax Court is
+
+                                                        Affirmed.
+
+                                                              

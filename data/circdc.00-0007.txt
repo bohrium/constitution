@@ -1,0 +1,777 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 13, 1999   Decided January 21, 2000 
+
+                           No. 98-7206
+
+               Transamerica Leasing, Inc., et al., 
+                            Appellees
+
+                                v.
+
+                  La Republica de Venezuela and 
+               Fondo de Inversiones de Venezuela, 
+                            Appellants
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 97cv01354)
+
+     Alexander E. Bennett argued the cause for appellants.  
+With him on the briefs were Mark H. Stumpf, Steven G. 
+Reade, Jean E. Kalicki, and Beth R. Kallet.
+
+     John E. Bradley argued the cause for appellees.  With him 
+on the brief were Benjamin P. Deutsch, and Lisa M. Cobb.  
+Cherie B. Artz entered an appearance.
+
+     Before:  Ginsburg, Henderson, and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  Twelve companies that leased 
+equipment to the now defunct CompaNia Anonima Venezolana 
+de NavegaciOn (CAVN), a shipping company owned by the 
+Republic de Venezuela, brought suit against Venezuela and 
+the Fondo de Inversiones de Venezuela (FIV), an instrumen-
+tality of the Venezuelan government created to assist in 
+restructuring and privatizing state enterprises.  The first 
+three counts of the complaint allege that Venezuela and the 
+FIV are derivatively liable for CAVN's breaches of contract.  
+The final count alleges that Venezuela and the FIV are 
+directly liable for having caused CAVN to breach its con-
+tracts with the plaintiffs.
+
+     In this interlocutory appeal, Venezuela and the FIV argue 
+that they are immune from suit upon all counts under the 
+Foreign Sovereign Immunities Act of 1976 (FSIA), 28 U.S.C. 
+s 1602 et seq., and that they are immune from suit upon the 
+fourth count under the "act of state" doctrine as well.  We 
+hold that because they did not exercise the requisite control 
+over CAVN, Venezuela and the FIV are indeed immune from 
+suit upon the first three counts.  We remand the case for the 
+district court to consider in the first instance whether the 
+defendants are immune from suit upon the fourth count.
+
+                          I. Background
+
+     Although the parties vigorously dispute many details of the 
+relationship between CAVN and the defendants, the basic 
+facts underlying this case are uncontested.  CAVN was an 
+international shipping company created in 1917 by Venezuela 
+and operated as a state-owned instrumentality until it filed 
+for bankruptcy in 1994.  At all relevant times, the FIV, 
+known under Venezuelan law as an "autonomous institute," 
+owned 99.86% of CAVN's stock and Venezuela, through vari-
+ous ministries, owned the remainder.  The plaintiffs are 
+twelve corporations that leased to CAVN shipping equipment, 
+such as containers and chassis, between 1982 and 1993.
+
+     In the early 1990s CAVN began experiencing severe finan-
+cial trouble, in part because of the inefficient way in which it 
+handled leased equipment.  In September 1991 the FIV, 
+concerned about CAVN's mounting losses, commissioned the 
+consulting firm Booz, Allen & Hamilton, Inc. to assess 
+CAVN's financial health and operating procedures.  Booz 
+Allen recommended that CAVN restructure its operations, 
+upgrade its fleet, overhaul its handling of leased equipment, 
+and in general strengthen its management.
+
+     In 1992 CAVN requested financial assistance from the FIV, 
+which referred the request to the Sectoral Cabinet for Eco-
+nomic and Social Policy Issues, an organization that by law 
+must approve all such requests before the FIV may act.  The 
+Cabinet approved CAVN's request conditioned upon CAVN's 
+agreement to restructure.  When CAVN agreed to that con-
+dition, the FIV commissioned Booz Allen to prepare a re-
+structuring plan.  The FIV made funds available to CAVN 
+through a trust agreement under which the FIV is both 
+settlor and trustee and CAVN is the beneficiary.  Under the 
+agreement, CAVN had to place some of its assets in trust 
+with the FIV as collateral.
+
+     Notwithstanding these efforts, CAVN began to fall behind 
+in its lease payments and in 1993 the plaintiffs issued notices 
+of default and termination.  In November 1993 CAVN and 
+the lessors agreed to restructure CAVN's payments;  until 
+January 1994 the FIV provided additional capital infusions to 
+allow CAVN to meet the restructured payment schedules.  In 
+April 1994 the lessors again agreed to restructure CAVN's 
+payments.  By July, however, CAVN was unable to continue 
+operations:  it filed for bankruptcy in October 1994.
+
+     In June 1997 the plaintiffs brought this suit against the 
+Republic of Venezuela and the FIV (henceforth referred to 
+collectively as "Venezuela" or "the Government").  In the 
+first three counts of the complaint they allege that Venezuela 
+used CAVN as its "alter ego," or as its "agent," or that it 
+cloaked CAVN with apparent authority to bind the Govern-
+ment, and that Venezuela is therefore liable upon the lease 
+agreements and restructured payment schedules.  In the 
+
+final count the lessors allege that Venezuela, by refusing to 
+continue providing funds to CAVN, caused CAVN to breach 
+its contracts with the plaintiffs.  Venezuela moved to dismiss 
+the complaint in January 1998, claiming that under the FSIA 
+it is immune from suit upon all counts and that suit upon the 
+fourth count is precluded under the act of state doctrine as 
+well.
+
+     The district court denied Venezuela's motion to dismiss.  
+Based upon the pleadings and the extensive evidence submit-
+ted supporting and opposing the motion, the district court 
+found that Venezuela, which had appointed the Board, exert-
+ed extensive control over CAVN's everyday operations, 
+played a major role in CAVN's financial restructuring, and 
+appeared to have authorized CAVN to act on its behalf.  
+From these findings the district court concluded both that 
+CAVN had in fact acted as the Government's agent, and that 
+it had apparent authority to act for the Government, in its 
+dealings with the plaintiffs, and therefore that Venezuela is 
+amenable to a suit based upon the activities of CAVN.  The 
+court did not discuss the final count of the complaint, in which 
+the plaintiffs seek to hold Venezuela liable for causing CAVN 
+to breach its contracts, and with respect to which the Govern-
+ment raises the act of state objection.
+
+                           II. Analysis
+
+     Venezuela filed this interlocutory appeal in order to press 
+its claim of immunity from suit.  Under the FSIA a "foreign 
+state [is] immune from the jurisdiction of the courts of the 
+United States and of the States," subject to certain enumerat-
+ed exceptions.  28 U.S.C. s 1604.  For this purpose, "foreign 
+state" includes any "agency or instrumentality" thereof.  28 
+U.S.C. s 1603(a).  Both Venezuela and the FIV are immune 
+from suit upon the plaintiffs' claims, therefore, unless those 
+claims fall within one of the listed exceptions.  The plaintiffs 
+contend that their claims are within the "commercial activity" 
+exception, which provides that:
+
+     (a) A foreign state shall not be immune from the juris-
+     diction of courts of the United States or of the States in 
+     any case--
+     
+     * * *
+     
+          (2) in which the action is based upon a commercial 
+     activity carried on in the United States by the foreign 
+     state;  or upon an act performed in the United States in 
+     connection with a commercial activity of the foreign state 
+     elsewhere;  or upon an act outside the territory of the 
+     United States in connection with a commercial activity of 
+     the foreign state elsewhere and that act causes a direct 
+     effect in the United States;
+     
+28 U.S.C. s 1605(a)(2).
+
+     Venezuela implicitly concedes that the first three counts of 
+the complaint are based upon "commercial activities" within 
+the meaning of 28 U.S.C. s 1605(a)(2), but maintains that it is 
+not amenable to a suit based upon the commercial activities of 
+CAVN because CAVN was not its agent.  As to the final 
+count, Venezuela argues first that the activities alleged there 
+are not "commercial activities," and second that they are acts 
+of state for which the Government is immune from trial in 
+any event.
+
+     The district court's denial of a foreign state's motion to 
+dismiss upon the ground of sovereign immunity is subject to 
+interlocutory appeal under the collateral order doctrine.  See 
+Foremost-McKesson, Inc. v. Islamic Republic of Iran, 905 
+F.2d 438, 443 (D.C. Cir. 1990) (citing Cohen v. Beneficial 
+Industrial Loan Corp., 337 U.S. 541, 545-47 (1949)).  We 
+review the district court's findings of fact for clear error, see 
+Jungquist v. Sheikh Sultan Bin Khalifa Al Nahyan, 115 F.3d 
+1020, 1028 (D.C. Cir. 1997), and in this case we find none.  
+We review de novo the district court's determination that 
+Venezuela is not entitled to immunity, see id., to which task 
+the balance of this opinion is devoted.
+
+A.    Subject matter jurisdiction, Counts I-III
+
+     A government instrumentality "established as [a] juridical 
+entit[y] distinct and independent from [its] sovereign should 
+normally be treated as such";  thus, it is presumed to have 
+legal status separate from that of the sovereign.  First 
+National City Bank v. Banco Para El Comercio Exterior de 
+
+Cuba, 462 U.S. 611, 627 (1983) (Bancec).  That presumption 
+can be overcome in two situations:  First, "where a corporate 
+entity is so extensively controlled by its owner that a relation-
+ship of principal and agent is created," id. at 629 (citing 
+NLRB v. Deena Artware, Inc., 361 U.S. 398, 402-404 (1960));  
+and second, where recognition of the instrumentality as an 
+entity apart from the state "would work fraud or injustice."  
+Id. (citing Taylor v. Standard Gas & Electric Co., 306 U.S. 
+307, 322 (1939)).  Although the Supreme Court in Bancec 
+recognized these as exceptions to the rule that a foreign 
+sovereign is not liable for the acts of an instrumentality of the 
+state, we have since held that they serve also as exceptions to 
+the rule that a foreign sovereign is not amenable to suit based 
+upon the acts of such an instrumentality.  See, e.g., 
+Foremost-McKesson, 905 F.2d at 446-47.  Accordingly, the 
+present plaintiffs argue both reasons--agency and injustice--
+for holding that Venezuela is amenable to suit based upon the 
+activities of CAVN.
+
+     1.   The agency exception:  Principles
+          
+     Our previous decisions applying the agency exception to the 
+rule of sovereign immunity have generally focused upon how 
+much control the sovereign exercised over the instrumentali-
+ty, without explicating why and the circumstances in which 
+control is relevant to the question of the sovereign's amena-
+bility to suit.  See, e.g., McKesson Corp. v. Islamic Republic 
+of Iran, 52 F.3d 346, 352 (1995).  Control by the sovereign is 
+relevant in two distinct contexts, as discussed below.
+
+     a.    Control
+          
+     First, control is relevant when it significantly exceeds the 
+normal supervisory control exercised by any corporate parent 
+over its subsidiary and, indeed, amounts to complete domina-
+tion of the subsidiary.  A sovereign is amenable to suit based 
+upon the actions of an instrumentality it dominates because 
+the sovereign and the instrumentality are in those circum-
+stances not meaningfully distinct entities;  they act as one.  
+Indeed, in the case cited by the Supreme Court to illustrate 
+the agency exception, various corporations were allegedly 
+
+operated as a "single enterprise."  See NLRB v. Deena 
+Artware, Inc., 361 U.S. 398 (1960).
+
+     In that case, the NLRB had ordered an employer to offer 
+reinstatement and backpay to former employees.  See id. at 
+399.  Although the employer initially complied with the order, 
+it soon ceased operations without having paid back wages.  
+See id.  The employer was, however, only one of several 
+wholly-owned subsidiaries of the same parent corporation.  
+See id. at 399-400.  The Board petitioned the court of appeals 
+to hold not only the subsidiary employer but also its parent 
+and the sister subsidiaries in civil contempt.  The Board 
+proceeded in part upon the theory that the various corpora-
+tions were operated as a "single enterprise" with each per-
+forming "a particular function, as a department or division of 
+the one enterprise in the manufacture, sale and distribution of 
+the common product."  Id. at 401.  The court of appeals 
+dismissed the petition but the Supreme Court reinstated it 
+and granted the Board discovery on the "single enterprise" 
+issue.  Id. at 404.
+
+     In the course of reaching that decision, the Supreme Court 
+offered numerous examples of situations where one company 
+so dominated another that the courts held the controlling 
+company liable for the obligations of the controlled company.  
+Thus, if one corporation is "operated as a division of another," 
+then the latter may be held responsible for the acts of the 
+former.  Id. at 403 & n.2 citing, for example, Foard Co. v. 
+Maryland, 219 F. 827, 829 (4th Cir. 1914) (involving subsid-
+iary that did not handle any funds and paid all profits to 
+parent "as a charge for managing the business"), and Dillard 
+& Coffin Co. v. Richmond Cotton Oil Co., 140 Tenn. 290, 293-
+94 (1918) (involving parent that could at any time dismiss 
+subsidiary's Board of Directors and appoint new directors of 
+its choosing, that received "daily reports of each transaction" 
+consummated by subsidiary, and that paid financial obli-
+gations of subsidiary).  Or the "affairs of the group may be so 
+intermingled that no distinct corporate lines are maintained."  
+Id. at 403 & n.4, citing, for example, The Willem Van Driel, 
+Sr. v. Pennsylvania R.R. Co., 252 F. 35, 37 (4th Cir. 1918) 
+(involving railroad that dictated subsidiary elevator compa-
+
+ny's clients, appointed own officers to run elevator company, 
+controlled elevator company's accounts, and used elevator 
+company's profits for its own purposes).  In addition, a 
+parent corporation may be held liable for the acts of a 
+subsidiary that is a "shell, inadequately financed."  Id. at 403 
+& n.3, citing, for example, Luckenbach S.S. Co., Inc. v. W.R. 
+Grace & Co. Inc., 267 F. 676, 681 (4th Cir. 1920) (involving 
+subsidiary that was undercapitalized, issued 94% of its stock 
+to owner of parent, leased equipment from parent at "far 
+below ... rental value," and was "personally managed" by 
+owner of parent).
+
+     Second, control is relevant when the sovereign exercises its 
+control in such a way as to make the instrumentality its 
+agent;  in that case control renders the sovereign amenable to 
+suit under ordinary agency principles.  See Gilson v. Repub-
+lic of Ireland, 682 F.2d 1022, 1026 n.16, 1029 (D.C. Cir. 1982) 
+("An agent's actions may provide the basis for jurisdiction 
+over the principal").  The relationship of principal and agent 
+depends, however, upon the principal having "the right to 
+control the conduct of the agent with respect to matters 
+entrusted to [the agent]."  Restatement (Second) of Agency 
+s 14 (1958).
+
+     A sovereign does not create an agency relationship merely 
+by owning a majority of a corporation's stock or by appoint-
+ing its Board of Directors.  See Foremost-McKesson, 905 
+F.2d at 448;  Restatement (Second) of Agency s 14M.  If 
+majority stock ownership and appointment of the directors 
+were sufficient, then the presumption of separateness an-
+nounced in Bancec would be an illusion.  At the same time, a 
+sovereign need not exercise complete dominion over an in-
+strumentality--to the point of stripping it of any meaningful 
+separate identity--in order to establish a relationship of 
+principal and agent.  If such domination were required, then 
+agency principles would be superfluous because, as discussed 
+above, the sovereign would be subject to suit on the ground 
+that instrumentality and sovereign were in fact a single 
+entity.
+
+     Courts have long struggled, often with confusing results, to 
+explain how much control is required before parent and 
+subsidiary may be deemed principal and agent.  Cf. Berkey v. 
+Third Avenue Railway Co., 244 N.Y. 84, 155 N.E. 58, 61 
+(1926) ("The whole problem of the relation between parent 
+and subsidiary corporations is one that is still enveloped in 
+the mists of metaphor");  Restatement (Second) of Agency 
+s 14M reporter's notes ("When liability is fastened upon the 
+parent it is said that the subsidiary is a 'mere agent' [which 
+has resulted in] a weakening and muddying of the term 
+'agent' and a failure by courts to state the real reasons for 
+their decisions").  The question defies resolution by "mechan-
+ical formula[e]," for the inquiry is inherently fact-specific.  
+See Bancec, 462 U.S. at 633.  At a minimum, however, we can 
+confidently state that the relationship of principal and agent 
+does not obtain unless the parent has manifested its desire 
+for the subsidiary to act upon the parent's behalf, the subsid-
+iary has consented so to act, the parent has the right to 
+exercise control over the subsidiary with respect to matters 
+entrusted to the subsidiary, and the parent exercises its 
+control in a manner more direct than by voting a majority of 
+the stock in the subsidiary or making appointments to the 
+subsidiary's Board of Directors.  See Restatement (Second) 
+of Agency s 1 ("Agency is the fiduciary relation which results 
+from the manifestation of consent by one person to another 
+that the other shall act on his behalf and subject to his 
+control, and consent by the other so to act").
+
+     That a state and a state-owned corporation may in some 
+circumstances be, respectively, principal and agent does not 
+necessarily mean, however, that in those circumstances the 
+sovereign is amenable to a suit based upon the acts of the 
+agent.  For example, "jurisdiction [over the sovereign] cannot 
+be maintained if the agent's actions are not related to the 
+substance of plaintiff's cause of action."  Gilson, 682 F.2d at 
+1029-30.  Nor, under principles of agency, is a sovereign 
+amenable to suit upon a contract that its agent made on its 
+own account though, unbeknownst to the contracting plaintiff, 
+the sovereign had authorized the agent to make the contract 
+
+on the sovereign's behalf.  See Restatement (Second) of 
+Agency s 199.
+
+     b.    Apparent authority
+          
+     A plaintiff might contend that a corporation, even if not an 
+agent of the sovereign, had apparent authority to act on the 
+sovereign's behalf.  In that case the plaintiff would have to 
+show that it reasonably relied upon a manifestation by the 
+sovereign to that effect. See Restatement (Second) of Agency 
+s 27 ("[A]pparent authority to do an act is created as to a 
+third person by [a manifestation] of the principal which, 
+reasonably interpreted, causes the third person to believe 
+that the principal consents to have the act done on his behalf 
+by the person purporting to act for him");  see also Restate-
+ment (Second) of Agency s 27 cmt. d (explaining that a 
+manager "has apparent authority to do those things which 
+managers in that business ... customarily do");  Restate-
+ment (Second) of Agency s 159 & cmt. b;  Restatement 
+(Second) of Agency s 8 & cmt. a.  For example, if a sover-
+eign falsely represented to a third party that an instrumental-
+ity of the state was authorized to act as the sovereign's agent 
+and the third party reasonably relied upon that representa-
+tion when contracting with the instrumentality, then under 
+agency principles the third party could sue the sovereign 
+upon the contract under a theory of apparent authority even 
+though the sovereign and the instrumentality were not, in 
+fact, related as principal and agent.  See, e.g., Restatement 
+(Second) of Agency s 8 cmt. a, illus. 3.  We doubt, however, 
+that a case of merely apparent authority falls within the 
+agency exception--an exception limited by its terms to situa-
+tions in which the instrumentality "is so extensively controlled 
+by [the sovereign] that a relationship of principal and agent is 
+created."  Bancec, 462 U.S. at 629.  (Still, in an appropriate 
+case a court might attribute the acts of the instrumentality to 
+the sovereign under the exception for fraud or injustice).
+
+     b.    The agency exception:  Application
+          
+     With these background principles in mind, we turn to the 
+facts of the case at bar.  Recall that the district court denied 
+Venezuela immunity under the FSIA based upon its conclu-
+
+sions that CAVN was an agent of the State and that CAVN 
+had apparent authority to act for the State.  Upon appeal, the 
+plaintiffs also seem to argue that Venezuela so dominated 
+CAVN as to deprive it of separate juridical identity.
+
+     a.    Control
+          
+     In our view, the plaintiffs, whether understood to contend 
+that Venezuela so dominated CAVN that the corporation 
+lacked a distinct identity, or merely that CAVN acted as the 
+Government's agent, have failed to demonstrate that Vene-
+zuela controlled CAVN to a degree sufficient to render the 
+State amenable to suit based upon the actions of the corpora-
+tion.
+
+     The district court focused upon five facts that led it to 
+attribute the actions of CAVN to the Government:  Venezuela 
+(1) owned a majority of CAVN's stock;  (2) appointed the 
+Board of Directors and the Chairman of the Board and 
+President;  (3) was involved in CAVN's "day-to-day" opera-
+tions by overseeing the restructuring of CAVN's intermodal 
+operations and approving the sale of three of CAVN's vessels;  
+and (4) aided CAVN financially by allowing the FIV to enter 
+into a trust agreement with CAVN;  while (5) the President of 
+CAVN, with apparent authority to bind Venezuela, assured 
+one of the plaintiffs that the Government would support 
+CAVN.  Before this court, the plaintiffs press these consider-
+ations as support for both their domination and their agency 
+theories of the case.
+
+     In our view however, the facts as found, considered as a 
+whole, establish neither that Venezuela dominated CAVN nor 
+that CAVN was Venezuela's actual or apparent agent.  The 
+first two facts--that the Government owned CAVN's stock 
+and could appoint CAVN's Board of Directors and the Chair-
+man and President--are relevant but as a matter of law do 
+not by themselves establish the required control, see 
+Foremost-McKesson, 905 F.2d at 448, and the remaining 
+factors do not make up the shortfall.
+
+     As for the third fact, the Government's purported role in 
+CAVN's "day-to-day operations," the district court found that 
+
+"CAVN's Board of Directors appointed Captain Antonio 
+Romero Sierraalta, a maritime professional and officer in the 
+Venezuelan Navy, with full power and authority, to head a 
+new Intermodal Division," and that the Board directed him to 
+implement Booz Allen's recommendations for restructuring.  
+After describing the extensive changes Capt. Sierraalta made 
+in that managerial capacity and noting that " 'the [B]oard of 
+[Directors] was aware of [the] details ...' of these efforts," 
+the district court concluded that the Government, "through 
+the appointment of Capt. Sierraalta, effectively comman-
+deered the principal intermodal operations of CAVN."  These 
+findings, however, describe nothing more than the sole share-
+holder exercising its influence, through the Board of Di-
+rectors, to put its own chosen manager in charge of a 
+corporation that was suffering severe operational problems--
+and leaving to him the task of running "day-to-day" opera-
+tions.  If that were enough to make the shareholder answera-
+ble for the acts of the corporation, then the holding of 
+Foremost-McKesson that majority stock ownership and con-
+trol over the Board of Directors are insufficient to transform 
+parent to principal and instrumentality to agent would be 
+limited to cases in which the shareholder is utterly quiescent;  
+let it exert itself at all to protect its interests and it loses its 
+legal identity separate from that of the corporation.  That is 
+not the law.  See, e.g., Restatement (Second) of Agency 
+s 14M.
+
+     The court also found that the Government was involved in 
+CAVN's "day-to-day" operations because "the Economic De-
+partment for the Sector, an agent of ... Venezuela, autho-
+rized the sale of [three] of CAVN's vessels."  This finding 
+adds no support for the proposition that Venezuela exercised 
+the requisite control over CAVN.  First, the sale of a portion 
+of its fleet as part of a massive restructuring hardly qualifies 
+as CAVN's "day-to-day" business.  Second, it is not uncom-
+mon for a government--as regulator, not as shareholder--to 
+require approval for certain transactions in the transportation 
+sector.  See, e.g., 49 U.S.C. s 11323(a)(2)(requiring that the 
+Surface Transportation Board approve a "purchase, lease, or 
+contract to operate property of another rail carrier");  46 App. 
+
+U.S.C. s 1704(a) (giving Federal Maritime Commission juris-
+diction over certain agreements among "ocean common carri-
+ers").  Because the record evidence cited by the district court 
+in support of its finding is somewhat cryptic, it is unclear why 
+the Department for the Sector approved the sale of the ships 
+and even whether its approval was required.  There is at 
+least some evidence in the record that Venezuela generally 
+regulates the sales of vessels.  Without more, we cannot say 
+that requiring a shipping company to obtain governmental 
+approval for the sale of vessels represents the exercise of 
+Venezuela's authority as shareholder rather than its exercise 
+of governmental power in the ordinary course of regulation.
+
+     Finally, the district court considered the Government's 
+"financial involvement" with CAVN.  The court found that 
+CAVN's counsel, in a letter to the United States Federal 
+Maritime Commission, had "acknowledged that the operating 
+assets of CAVN were owned and controlled by ... Venezue-
+la."  In context, however, that statement is utterly innocuous.  
+The letter was sent in response to a request from the FMC 
+for information, which included the following question:
+
+     Are your operating assets directly or indirectly owned or 
+     controlled by a government under whose registry any of 
+     your vessels operate?  ...  For purposes of this ques-
+     tion, ownership or control is deemed to exist if a majority 
+     interest in the carrier, or its operating assets, is owned 
+     or controlled in any manner by a government ... or 
+     entity controlled by such government.
+     
+Counsel answered the question by stating, "Yes, the Republic 
+of Venezuela," which he had to do simply because "a majority 
+interest in the carrier ... [was] owned by [the] government" 
+of that country.  As we have seen, however, mere ownership 
+does not imply control of the sort that could render the 
+Government amenable to suit based upon the acts of the 
+corporation.
+
+     Also under the heading of financial involvement, the district 
+court found that Venezuela had "decided to inject funds into 
+CAVN as part of the restructuring plan" and that the FIV 
+had entered into the trust agreement with CAVN so that 
+
+CAVN could "satisfy its debts and attain liquidity."  Far 
+from demonstrating that Venezuela and the FIV exercised 
+the type of control over CAVN that would justify attributing 
+the corporation's actions to them, the facts as found reflect 
+only a normal relationship between a sovereign and an instru-
+mentality of the state.  Indeed in Bancec the Court noted 
+that a "typical government instrumentality" has primary re-
+sponsibility for its own finances "[e]xcept for appropriations 
+to provide capital or to cover losses."  Bancec, 462 U.S. at 
+624.  In other words, the infusion of state capital to cover 
+CAVN's losses was a normal aspect of the relation between a 
+government and a government-owned corporation, not an 
+instance of "day-to-day" involvement in the affairs of the 
+corporation, and hence does not tend to justify stripping 
+Venezuela of its sovereign immunity.
+
+     The other findings marshaled by the district court as 
+evidence of the Government's involvement in CAVN's finan-
+cial affairs similarly demonstrate only that Venezuela provid-
+ed funds to CAVN in order to reorganize the ailing company 
+and to bail it out of debt.  Taken together, the district court's 
+findings do not show that Venezuela controlled CAVN in a 
+manner sufficient to forfeit its immunity under the FSIA.
+
+     The plaintiffs direct our attention to still other evidence in 
+the record that was not the subject of the district court's 
+findings--and all of which the defendants contest--that they 
+claim justifies attributing CAVN's actions to Venezuela.  We 
+will neither rehearse nor resolve these disputes here.  View-
+ing the disputed facts favorably to the plaintiffs, however, we 
+remain unconvinced that Venezuela exercised such control 
+over CAVN as to make the Government amenable to suit 
+based upon CAVN's actions under the principal and agent 
+exception announced in Bancec.
+
+     Our decision in McKesson, contrary to the plaintiffs' argu-
+ment, does not indicate a different result.  McKesson in-
+volved a suit brought by American holders of a minority 
+interest in an Iranian dairy against the Government of Iran 
+and several instrumentalities thereof.  The shareholders al-
+leged that Iran had acted through its instrumentalities unlaw-
+
+fully to divest them of their equity in the dairy.  See McKes-
+son, 52 F.3d at 348.  We affirmed both the district court's 
+conclusion that the instrumentalities had acted as agents of 
+Iran in divesting the plaintiffs of their equity and its holding 
+that the acts of the instrumentalities were attributable to 
+Iran, which was not, therefore, immune from the suit under 
+the FSIA.  See id. at 352.
+
+     Although the district court had made extensive findings 
+detailing Iran's pervasive control over the instrumentalities, 
+we focused upon four facts.  First, the instrumentalities 
+owned a majority of the dairy's stock and controlled six of the 
+seven seats on its Board of Directors.  See id. at 351.  
+Second, the Government of Iran had issued anti-American 
+policy statements to the instrumentalities, which they reason-
+ably believed the Government wanted them to carry out in 
+their dealings with the dairy's American shareholders.  For 
+example, the Managing Director of one of the instrumentali-
+ties, who eventually chaired the dairy's Board of Directors, 
+stated that the dairy "was no longer a 'joint stock company' 
+whose primary fiduciary duty was to its stockholders" and 
+declared it the dairy's "main objective ... to protect the 
+interests of the country."  Id. at 351.  Third, Iran directly 
+controlled "[r]outine business decisions, such as declaring and 
+paying dividends to shareholders and honoring the dairy's 
+contractual commitments";  indeed, the dairy's Board of Di-
+rectors had "deferred [their] decision to withhold dividends 
+from [one of the American shareholders]" until they had 
+received approval from "Iran's Cabinet Ministers (and offi-
+cials answerable to them)."  Id. at 351-52.  Finally, we 
+emphasized that the dairy had not "simply carr[ied] out a 
+state commercial policy as a normal part of the corporation's 
+mission, without any state involvement" but instead had acted 
+to effectuate a governmental policy "designed to injure some 
+of the corporation's own shareholders ... through a corpo-
+rate policy guided by government representatives."  Id. at 
+352.
+
+     Beyond the features inherent in a state-owned corporation, 
+namely the government's ownership of stock and control of 
+the Board of Directors, this case bears no resemblance to 
+McKesson.  Venezuela did not evince an intent to have 
+
+CAVN act as its agent in dealing with the plaintiffs.  No one 
+at CAVN sought the Government's approval for routine busi-
+ness decisions.  In short, McKesson is to this case what the 
+Chicago Manual of Style was to e.e. cummings:  not control-
+ling.
+
+     b.    Apparent authority
+          
+     The district court next considered whether Venezuela had 
+indicated to the plaintiffs that CAVN could act as its agent, 
+that is, whether Venezuela had apparently given CAVN au-
+thority to act for it.  Upon appeal the plaintiffs also pursue 
+this theory in support of the district court's holding.
+
+     In reaching the conclusion that CAVN had apparent au-
+thority to bind the Government, the court found that Vice 
+Admiral Efraim Diaz TarazOn of the Venezuelan Navy, who 
+also served for a time as President and Chairman of the 
+Board of CAVN, had assured one of the plaintiffs--while 
+wearing his naval uniform, no less--that "Venezuela would 
+support CAVN."  This finding, which is the only support for 
+the district court's conclusion that Venezuela had cloaked 
+CAVN with apparent authority, is insufficient to render the 
+State liable for the acts of the corporation.  Appointing 
+TarazOn as President of CAVN certainly cloaked him with 
+authority to bind CAVN, see Restatement (Second) of Agen-
+cy s 27 cmt. d, above, but something more would be required 
+before a creditor of CAVN could reasonably infer that Tara-
+zOn was thereby authorized to bind the Government.  Tara-
+zOn's decision to dress as an Admiral when he met with one of 
+the lessors is just that--TarazOn's sartorial decision--not an 
+indication coming from the Government that it had authorized 
+him to commit government funds outside the normal channels 
+running through the Cabinet and the FIV.  In the absence of 
+any evidence of such an authorization from the Government, 
+we reject the plaintiffs' argument that CAVN had apparent 
+authority to bind Venezuela.
+
+     3.   The exception for fraud or injustice
+          
+     We turn now to the exception for fraud or injustice recog-
+nized in Bancec.  462 U.S. at 629.  Although the district court 
+
+did not address it, the plaintiffs argue in passing that this 
+exception, too, applies to this case.  Their theory, in a nut-
+shell, is that the "[d]efendants' failure to adequately provide 
+CAVN with the financial resources and the basic tools neces-
+sary to run a commercial shipping line and to perform its 
+contracts with and commitments to" the plaintiffs "provides 
+an independent basis to attribute CAVN's commercial activi-
+ties to the [d]efendants for FSIA purposes."  The plaintiffs 
+cite two cases for support, but neither is of any help to them.
+
+     In Anderson v. Abbott, 321 U.S. 349 (1944), the Supreme 
+Court dealt with a suit against some of the shareholders of a 
+bank holding company, 321 U.S. at 354, the only substantial 
+asset of which was stock in its subsidiary banks.  Id. at 358.  
+By statute, stock in the banks carried "double liability," 
+meaning that both the banks and their shareholders were 
+liable to the depositors.  Id. at 358-59.  The Court held the 
+shareholders of the holding company liable for the depositors' 
+claims against the subsidiary banks because allowing the 
+holding company to insulate them "would allow stockholders 
+of banks to retain all of the benefits of ownership without the 
+double liability which Congress had prescribed."  Id. at 358.
+
+     Here, in contrast to Abbott, the sovereign shareholder of 
+CAVN did not use the corporation to defeat any statutory 
+policy of either Venezuela or the United States.  Nor was 
+CAVN, unlike the holding company in Abbott, thinly capital-
+ized from its inception--a fact relevant to the fraud or 
+injustice exception later given separate recognition in Bancec.  
+These two critical differences render Abbott inapplicable to 
+the case at bar.
+
+     In Hystro Products, Inc. v. MNP Corporation, 18 F.3d 
+1384 (7th Cir. 1994), the plaintiff brought suit under state law 
+against the parent of a corporation that had not paid it for 
+certain goods before ceasing operations.  See id. at 1386-87.  
+The jury, finding that the subsidiary was the "alter-ego" of 
+the parent, awarded damages to the plaintiff.  Id.  The court 
+of appeals affirmed on the grounds that a reasonable jury 
+could have concluded both that the parent and its subsidiary 
+had not maintained their "separate identities," see id. at 1390, 
+
+and that the parent "allowed [its subsidiary] to continue to 
+place orders knowing that it would 'stiff' [the plaintiff] on the 
+final bill."  Id. at 1392.
+
+     Hystro Products is inapplicable to the present case for two 
+reasons.  First, while the parent in Hystro Products dominat-
+ed its subsidiary, the plaintiffs here, as we have seen, have 
+not shown that Venezuela dominated CAVN.  Second, in 
+Hystro Products there was evidence that the parent had 
+planned for months to shut down its subsidiary and had 
+neither told the plaintiff of those plans nor otherwise indicat-
+ed that the subsidiary was having financial difficulty.  The 
+jury therefore reasonably could have concluded that the 
+parent had used its subsidiary unjustly to obtain goods for 
+which it had no intention of paying.  Here, Venezuela did not 
+manipulate CAVN in order to obtain a financial benefit from 
+the plaintiffs before CAVN went bankrupt;  it simply failed in 
+the end to bail CAVN out.  The Government's extensive but 
+ultimately unsuccessful efforts to save CAVN from bankrupt-
+cy are a far cry from the fraud involved in Hystro Products.
+
+     We therefore hold that Venezuela is not amenable to suit 
+upon the first three counts of the plaintiffs' complaint under 
+the fraud or injustice exception.  Those counts are dismissed.
+
+B.    Subject matter jurisdiction, Count IV
+
+     In the final count of the complaint the plaintiffs allege that 
+Venezuela caused CAVN to breach its contracts with them by 
+"failing to restore CAVN's accumulated deficits and by refus-
+ing to allow CAVN to fully perform its obligations under the 
+Equipment Lease Agreements and the restructuring and 
+repayment plans."  Venezuela contends both that the FSIA 
+and the act of state doctrine protect it from suit upon this 
+count.  The district court did not address either assertion.
+
+     In light of our dismissal of the first three counts of the 
+complaint, and of the district court's failure to discuss the 
+final count, we leave to the district court in the first instance 
+the question whether Venezuela and the FIV are, by reason 
+of the FSIA, immune from suit upon the final count.  We do 
+not reach Venezuela's act of state defense because it is not 
+
+properly subject to interlocutory appeal.  See Walter Fuller 
+Aircraft Sales, Inc. v. Republic of the Philippines, 965 F.2d 
+1375, 1387 (5th Cir. 1992).  The act of state doctrine is a 
+substantive rule of law that precludes the district court from 
+inquiring into the legality of a sovereign's public acts;  it is 
+not strictly an immunity from suit.  See id.
+
+     Although the plaintiffs have asked this court to exercise 
+pendent jurisdiction over the act of state issue, we decline to 
+do so.  We exercise such jurisdiction "sparingly" and not so 
+as to "reach[ ] an issue that might be mooted or altered by 
+subsequent district court proceedings."  Gilda Marx, Inc. v. 
+Wildwood Exercise, Inc., 85 F.3d 675, 678, 679 (D.C. Cir. 
+1996).  Because the district court is yet to determine whether 
+Venezuela is immune from suit upon count four pursuant to 
+the FSIA, we will not rush in to resolve the act of state issue 
+at this juncture.
+
+                         III. Conclusion
+
+     For the forgoing reasons, the first three counts of the 
+complaint are dismissed.  We remand this matter to the 
+district court to consider whether the defendants are immune 
+under the FSIA from suit upon the fourth count of the 
+complaint, and if not, then to take up Venezuela's act of state 
+defense.
+
+                                                     It is so ordered.
+
+                                                     

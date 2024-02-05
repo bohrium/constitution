@@ -1,0 +1,627 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued February 14, 2002     Decided June 14, 2002 
+
+                           No. 01-7085
+
+           David J. Gorman, d/b/a Cashbackrealty.com, 
+                            Appellant
+
+                                v.
+
+     Ameritrade Holding Corporation and Freetrade.com, Inc., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 00cv01259)
+
+     John M. Shoreman argued the cause and filed the briefs 
+for appellant.
+
+     Brian D. Craig argued the cause for appellees.  With him 
+on the brief was Robert S. Brennen.
+
+     Before:  Henderson and Garland, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Garland, Circuit Judge:  In this case, we consider whether 
+the courts of the District of Columbia may assert general 
+jurisdiction over a defendant that is "doing business" in the 
+District through the medium of the Internet.  We hold that 
+they may, although we ultimately affirm dismissal of the 
+complaint because service of process on the defendant was 
+insufficient.
+
+                                I
+
+     Plaintiff David Gorman is the sole proprietor of Cashback-
+realty.com, a real estate broker with its principal place of 
+business in McLean, Virginia.  Defendant Ameritrade Hold-
+ing Corporation is a securities broker-dealer licensed in the 
+District of Columbia with its principal place of business in 
+Omaha, Nebraska.  Ameritrade provides online brokerage 
+services through its Internet site to individuals across the 
+country, including District residents.  In November 1999, 
+Ameritrade acquired Freetrade.com, Inc., as well as its Inter-
+net domain name, "Freetrade.com."  Like Ameritrade, defen-
+dant Freetrade has its principal place of business in Omaha.  
+Gorman alleges that he had an agreement with the prior 
+owner of Freetrade, under which Cashbackrealty.com was 
+entitled to a front-page link on the Freetrade.com website.  
+According to Gorman, although Ameritrade assumed the obli-
+gations of this agreement when it acquired the Freetrade.com 
+domain name, it refused to provide a front-page link for 
+Cashbackrealty.com.
+
+     On June 2, 2000, Gorman filed a complaint in the United 
+States District Court for the District of Columbia, alleging 
+that Ameritrade and Freetrade (hereinafter referred to col-
+lectively as "Ameritrade") were in breach of contract for 
+refusing to honor the front-page-link agreement.  Without 
+permitting discovery, the district court dismissed Gorman's 
+complaint for lack of personal jurisdiction and insufficiency of 
+service of process.  With respect to personal jurisdiction, the 
+court held that a "company that acts to encourage or maxim-
+ize the use by District of Columbia residents of its website 
+
+does not establish the necessary 'minimum contacts' with this 
+forum through Internet accessibility," and does not "operate 
+so continuously and substantially within [the District] that it 
+is fair to allow anyone to sue the enterprise in [the District] 
+on any claim, without regard to where the claim arose."  
+Gorman v. Ameritrade Holding Corp., No. 00-1259, Mem. 
+Op. at 3 (D.D.C. Mar. 30, 2001) (internal quotation marks 
+omitted).  The court further held that Gorman's service of his 
+complaint upon the Securities Director of the District of 
+Columbia was insufficient under District of Columbia law.  
+Id. at 2-3.  We review the district court's grant of Ameri-
+trade's motion to dismiss de novo, see Second Amendment 
+Found. v. United States Conference of Mayors, 274 F.3d 521, 
+523 (D.C. Cir. 2001), and we consider its two grounds for 
+dismissal in Parts II and III below.
+
+                                II
+
+     The district court has subject matter jurisdiction in this 
+breach of contract action because of the diversity of citizen-
+ship of the parties.  28 U.S.C. s 1332(a).  In a diversity case, 
+the court's personal jurisdiction over nonresident defendants 
+depends upon state law, here the law of the District of 
+Columbia, the application of which is subject to the con-
+straints of constitutional due process.  See Crane v. Carr, 814 
+F.2d 758, 762 (D.C. Cir. 1987);  4 Charles Alan Wright & 
+Arthur R. Miller, Federal Practice and Procedure s 1068.1, 
+at 592 & n.2 (3d ed. 2002).  The requirements of due process 
+"are satisfied when in personam jurisdiction is asserted over 
+a nonresident corporate defendant that has 'certain minimum 
+contacts with [the forum] such that the maintenance of the 
+suit does not offend traditional notions of fair play and 
+substantial justice.' "  Helicopteros Nacionales de Colombia, 
+S.A. v. Hall, 466 U.S. 408, 414 (1984) (quoting International 
+Shoe Co. v. Washington, 326 U.S. 310, 316 (1945)) (additional 
+internal quotation marks omitted).
+
+     Under the District of Columbia's long-arm statute, local 
+courts may exercise so-called "specific jurisdiction" over a 
+person for claims that arise from the person's "transacting 
+any business" in the District.  D.C. Code s 13-423(a)(1).  See 
+generally Burger King Corp. v. Rudzewicz, 471 U.S. 462, 472-
+
+73 & n.15 (1985);  Crane, 814 F.2d at 763.  However, because 
+Gorman's breach of contract claim against Ameritrade does 
+not arise out of any business transacted between the parties 
+in the District, this font of jurisdiction is unavailable.
+
+     District of Columbia law also permits courts to exercise 
+"general jurisdiction" over a foreign corporation as to claims 
+not arising from the corporation's conduct in the District, if 
+the corporation is "doing business" in the District.  See D.C. 
+Code s 13-334(a);  AMAF Int'l Corp. v. Ralston Purina Co., 
+428 A.2d 849, 850 (D.C. 1981);  see also Helicopteros, 466 U.S. 
+at 414 n.9;  Crane, 814 F.2d at 763.1  Under the Due Process 
+Clause, such general jurisdiction over a foreign corporation is 
+only permissible if the defendant's business contacts with the 
+forum district are "continuous and systematic."  Helicopteros, 
+466 U.S. at 415 (quoting Perkins v. Benguet Consol. Mining 
+Co., 342 U.S. 437, 438 (1952));  see El-Fadl v. Central Bank of 
+Jordan, 75 F.3d 668, 675 (D.C. Cir. 1996);  see also Crane, 814 
+F.2d at 763 (describing the required contacts for general 
+jurisdiction as "continuous and substantial");  Hughes v. A.H. 
+Robins Co., 490 A.2d 1140, 1142, 1149 (D.C. 1985) (same).2  
+The District of Columbia Court of Appeals has indicated that 
+
+__________
+     1 D.C. Code s 13-334(a) provides:
+
+     In an action against a foreign corporation doing business in the 
+     District, process may be served on the agent of the corporation 
+     or person conducting its business, or, where he is absent and 
+     can not be found, by leaving a copy at the principal place of 
+     business in the District, or, where there is no such place of 
+     business, by leaving a copy at the place of business or resi-
+     dence of the agent in the District, and that service is effectual 
+     to bring the corporation before the court.
+     
+Although on its face s 13-334(a) appears only to specify proper 
+methods of service, the District of Columbia Court of Appeals has 
+held that compliance with the statute gives rise to personal jurisdic-
+tion over a foreign corporation doing business in the District.  
+AMAF Int'l Corp., 428 A.2d at 850;  see El-Fadl v. Central Bank of 
+Jordan, 75 F.3d 668, 673 n.7 (D.C. Cir. 1996).
+
+     2 See generally Metropolitan Life Ins. Co. v. Robertson-Ceco 
+Corp., 84 F.3d 560, 568 (2d Cir. 1996) (declaring that "[b]ecause 
+
+the reach of "doing business" jurisdiction under s 13-334(a) 
+is coextensive with the reach of constitutional due process.  
+See Hughes, 490 A.2d at 1148 ("[W]e may find jurisdiction if 
+[the defendant] ... has 'been carrying on in [the District] a 
+continuous and systematic, but limited, part of its general 
+business.' " (quoting Perkins, 342 U.S. at 438));  see also 
+Everett v. Nissan Motor Corp., 628 A.2d 106, 108 (D.C. 1993).
+
+     In his pleadings below, Gorman contended that Ameritrade 
+"sells securities and provides other online brokerage services 
+to residents of the District of Columbia on a continuous 
+basis," and is therefore "continuously doing business in the 
+District of Columbia."  Pl.'s Opp'n to Mot. to Dismiss at 1-2.  
+He further argued that he was "[a]t the very least ... 
+entitled to jurisdictional discovery to determine the exact 
+nature of Ameritrade's contacts with the District."  Id. at 5.  
+And although "[a]s a general matter, discovery ... should be 
+freely permitted, and this is no less true when discovery is 
+directed to personal jurisdiction," Edmond v. United States 
+Postal Serv. Gen. Counsel, 949 F.2d 415, 425 (D.C. Cir. 1991), 
+the district court granted Ameritrade's motion to dismiss 
+without permitting the plaintiff to undertake discovery.
+
+     Ameritrade contends that Gorman was not entitled to 
+discovery because there are no factual circumstances under 
+which the district court could have asserted personal jurisdic-
+tion over Ameritrade.  The defendant concedes that it en-
+gages in "electronic transactions" with District residents, and 
+that "Ameritrade undoubtedly derives revenue from those 
+customers."  Reply Mem. in Supp. of Defs.' Mot. to Dismiss 
+
+__________
+general jurisdiction is not related to the events giving rise to the 
+suit, courts impose a more stringent minimum contacts test" than 
+for specific jurisdiction);  4 Wright & Miller s 1067.5, at 499-507 
+(noting that, although "[s]pecific jurisdiction ... may be asserted 
+when the defendant's forum contacts are isolated or sporadic, but 
+the plaintiff's cause of action arises out of those contacts with the 
+state," when "the cause of action sued on does not arise from the 
+defendant's contacts with the forum state, an assertion of general 
+jurisdiction must be predicated on contacts that are sufficiently 
+continuous and systematic to justify haling the defendant into a 
+court in that state").
+
+at 6.  But Ameritrade maintains that those transactions do 
+not occur in the District of Columbia.  Rather, the firm 
+declares, Ameritrade's business is conducted "in the border-
+less environment of cyberspace."  Appellees' Br. at 5.
+
+     "Cyberspace," however, is not some mystical incantation 
+capable of warding off the jurisdiction of courts built from 
+bricks and mortar.  Just as our traditional notions of personal 
+jurisdiction have proven adaptable to other changes in the 
+national economy,3 so too are they adaptable to the transfor-
+mations wrought by the Internet.  In the last century, for 
+example, courts held that, depending upon the circumstances, 
+transactions by mail and telephone could be the basis for 
+personal jurisdiction notwithstanding the defendant's lack of 
+physical presence in the forum.4  There is no logical reason 
+
+__________
+     3 Cf. Burger King Corp., 471 U.S. at 476 (holding that specific 
+jurisdiction "may not be avoided merely because the defendant did 
+not physically enter the forum State," since "it is an inescapable 
+fact of modern commercial life that a substantial amount of business 
+is transacted solely by mail and wire communications across state 
+lines, thus obviating the need for physical presence within a State in 
+which business is conducted");  World-Wide Volkswagen Corp. v. 
+Woodson, 444 U.S. 286, 292-93, 294 (1980) (noting that the "limits 
+imposed on state jurisdiction by the Due Process Clause ... have 
+been substantially relaxed over the years ... largely attributable to 
+a fundamental transformation in the American economy," and that 
+" '[a]s technological progress has increased the flow of commerce 
+between the States, the need for jurisdiction over nonresidents has 
+undergone a similar increase' " (quoting Hanson v. Denckla, 357 
+U.S. 235, 250-51 (1958)));  McGee v. International Life Ins. Co., 355 
+U.S. 220, 222-23 (1957) (noting a trend "expanding the permissible 
+scope of state jurisdiction over foreign corporations ... [i]n part 
+... attributable to the fundamental transformation of our national 
+economy over the years," including a "great increase in the amount 
+of business conducted by mail across state lines").
+
+     4 See Metropolitan Life Ins. Co., 84 F.3d at 572 (noting that a 
+defendant's mail-order sales to forum residents may satisfy the 
+"continuous and systematic" standard (citing Sollinger v. Nasco 
+Int'l, Inc., 655 F. Supp. 1385 (D. Vt. 1987)));  Michigan Nat'l Bank 
+v. Quality Dinette, Inc., 888 F.2d 462, 466 (6th Cir. 1989) (holding 
+
+why the same should not be true of transactions accomplished 
+through the use of e-mail or interactive websites.  Indeed, 
+application of this precedent is quite natural since much 
+communication over the Internet is still transmitted by ordi-
+nary telephone lines.  See AT&T Corp. v. City of Portland, 
+216 F.3d 871, 874 (9th Cir. 2000);  Bell Atlantic Tel. Cos. v. 
+FCC, 206 F.3d 1, 4 (D.C. Cir. 2000).  Accordingly, the test 
+that we will apply to determine whether the District has 
+general personal jurisdiction in this case is the traditional 
+
+__________
+that, inter alia, appellees' "mail order solicitations of Michigan 
+businesses," and the fact that they "made at least one sale in 
+Michigan each and every month" for two years, "indicate that 
+appellees have conducted a 'continuous and systematic part of their 
+general business' in Michigan ... thereby warranting general per-
+sonal jurisdiction");  cf. Quill Corp. v. North Dakota, 504 U.S. 298, 
+308 (1992) (holding that "[i]n 'modern commercial life' it matters 
+little that ... solicitation is accomplished by a deluge of catalogs 
+rather than a phalanx of drummers," that the "requirements of due 
+process are met irrespective of a corporation's lack of physical 
+presence in the taxing State," and that due process therefore 
+permits "the imposition of [a] collection duty on a mail-order house 
+that is engaged in continuous and widespread solicitation of busi-
+ness within a State");  McGee, 355 U.S. at 223 (basing a finding of 
+specific jurisdiction on the mailing of an insurance contract into the 
+state and the mailing of premiums from the state);  Travelers 
+Health Ass'n v. Virginia, 339 U.S. 643, 648 (1950) (holding that an 
+Omaha mail-order company, with no physical presence in Virginia, 
+was subject to Virginia regulation because it "did not engage in 
+mere isolated or short-lived transactions[;]  [i]ts insurance certifi-
+cates, systematically and widely delivered in Virginia ... , create 
+continuing obligations between the Association and each of the 
+many certificate holders in the state");  Neogen Corp. v. Neo Gen 
+Screening, Inc., 282 F.3d 883, 892 (6th Cir. 2002) (holding that a 
+defendant's "contact with Michigan customers through the mail and 
+the wires," where it "constitute[d] the doing of business there, 
+rather than simply the exchange of information," rendered the 
+assertion of specific jurisdiction consistent with due process);  Neal 
+v. Janssen, 270 F.3d 328, 332 (6th Cir. 2001) (holding that "making 
+phone calls and sending facsimiles into the forum" may be sufficient 
+to confer specific jurisdiction);  Oriental Trading Co. v. Firetti, 236 
+F.3d 938, 943 (8th Cir. 2001) (same).
+
+one:  Were Ameritrade's contacts with the District "continu-
+ous and systematic"?  See GTE New Media Servs. Inc. v. 
+Bell South Corp., 199 F.3d 1343, 1350 (D.C. Cir. 2000) ("We 
+do not believe that the advent of advanced technology, say, as 
+with the Internet, should vitiate long-held and inviolate prin-
+ciples of federal court jurisdiction.");  4A Wright & Miller 
+s 1073.1, at 327-28.
+
+     For support of its claim that Internet-based transactions 
+are outside the jurisdiction of District of Columbia courts, 
+Ameritrade relies on our decision in GTE.  Ameritrade mis-
+reads the case.  In GTE, we held that defendants who 
+operated Internet Yellow Pages websites accessible to D.C. 
+residents had insufficient contacts with the District to permit 
+the exercise of specific jurisdiction under the District's long-
+arm statute.  In reaching that conclusion, we emphasized that 
+District residents did not engage in business transactions 
+with the defendants.  Rather, "[a]ccess to an Internet Yellow 
+Page site is akin to searching a telephone book--the consum-
+er pays nothing to use the search tool, and any resulting 
+business transaction is between the consumer and a business 
+found in the Yellow Pages, not between the consumer and the 
+provider of the Yellow Pages."  GTE, 199 F.3d at 1350.  The 
+"mere accessibility of the defendants' websites," we held, does 
+not "establish[ ] the necessary 'minimum contacts' with this 
+forum."  Id.5
+
+__________
+     5 In GTE, we described Internet cases in which other courts of 
+appeals had dismissed complaints for lack of specific jurisdiction as 
+also involving "essentially passive" sites.  See GTE, 199 F.3d at 
+1348 (describing Cybersell, Inc. v. Cybersell, Inc., 130 F.3d 414, 
+419-20 (9th Cir. 1997), as finding that an Arizona court lacked 
+personal jurisdiction over a Florida corporation where the corpora-
+tion's website "was essentially passive," where the defendant did 
+not encourage Arizona residents to access the site, and where there 
+was no evidence that any part of the defendant's business was 
+sought or achieved in Arizona or that any Arizona resident other 
+than the plaintiff had ever visited the site);  id. (citing Bensusan 
+Restaurant Corp. v. King, 126 F.3d 25, 29 (2d Cir. 1997), as holding 
+that New York's long-arm statute did not extend to the operator of 
+a Missouri jazz club whose website merely had a hyperlink to a 
+
+     This case, however, is substantially different from GTE.  
+Ameritrade's contact with the District is not limited to an 
+"essentially passive" website through which customers merely 
+access information about the financial markets.  GTE, 199 
+F.3d at 1348;  see supra note 5.  To the contrary, Ameritrade 
+concedes that District residents use its website to engage in 
+electronic transactions with the firm.  See Reply Mem. in 
+Supp. of Defs.' Mot. to Dismiss at 6.  The firm's customers 
+can open Ameritrade brokerage accounts online;  transmit 
+funds to their accounts electronically;  and use those accounts 
+to buy and sell securities, to borrow from Ameritrade on 
+margin, and to pay Ameritrade brokerage commissions and 
+interest.  Using e-mail and web-posting, Ameritrade trans-
+mits electronic confirmations, monthly account statements, 
+and both financial and product information back to its cus-
+tomers.  As a result of their electronic interactions, Ameri-
+trade and its District of Columbia customers enter into 
+binding contracts, the customers become the owners of valu-
+able securities, and Ameritrade obtains valuable revenue.6
+
+__________
+New York club of the same name);  id. (quoting Mink v. AAAA 
+Dev. LLC, 190 F.3d 333, 337 (5th Cir. 1999), as declining to find 
+jurisdiction where the defendant's website was accessible to forum 
+residents, but where "[t]here was no evidence that [the defendant] 
+conducted business over the Internet by engaging in business 
+transactions with forum residents or by entering into contracts over 
+the Internet");  see also SOMA Med. Int'l v. Standard Chartered 
+Bank, 196 F.3d 1292, 1297 (10th Cir. 1999) (holding that a "passive" 
+website that merely makes information "available" is insufficient to 
+confer general jurisdiction);  Bancroft & Masters, Inc. v. Augusta 
+Nat'l Inc., 223 F.3d 1082, 1086 (9th Cir. 2000) (same).
+
+     6 See http://www.ameritrade.com/tell_me_more/tell_me_more.fht 
+ml;  http://www.ameritrade.com/getting_started/html/apply_online. 
+html;  http://www.ameritrade.com/getting_started/html/fund_ac 
+count.html;  http://www.ameritrade.com/getting_started/html/login. 
+html; http://www.ameritrade.com/getting_started/forms/ATI_845_F. 
+pdf; http://www.ameritrade.com/getting_started/html/tc.html (form 
+contract at pp 26, 37, 38).
+
+     What may serve best to take the mystery out of the 
+process--and to demonstrate that nothing about the Ameri-
+trade website need alter our traditional approach to personal 
+jurisdiction--is the fact that Ameritrade also offers its cus-
+tomers the alternative of accomplishing virtually all of the 
+above-described transactions by ordinary mail or telephone.7  
+Indeed, if anything, Ameritrade appears susceptible to appli-
+cation of the "doing business" test in a much more literal way 
+than a traditional brokerage firm.  Ameritrade's website al-
+lows it to engage in real-time transactions with District of 
+Columbia residents while they sit at their home or office 
+computers "in the District of Columbia."  And by permitting 
+such transactions to take place 24 hours a day,8 the site 
+makes it possible for Ameritrade to have contacts with the 
+District of Columbia that are "continuous and systematic" to 
+a degree that traditional foreign corporations can never even 
+approach.
+
+     In short, on the record before this court, it is quite possible 
+that, through its website, Ameritrade is doing business in the 
+District of Columbia by continuously and systematically "en-
+ter[ing] into contracts with residents of a foreign jurisdiction 
+that involve the knowing and repeated transmission of com-
+puter files over the Internet."  Zippo Mfg. Co. v. Zippo Dot 
+Com, Inc., 952 F. Supp. 1119, 1124 (W.D. Pa. 1997) (describ-
+ing similar websites as ones where the defendant "clearly 
+does business over the Internet," in the context of a case 
+involving specific jurisdiction);  see Mink v. AAAA Dev. LLC, 
+190 F.3d 333, 336 (5th Cir. 1999) (adopting the Zippo test for 
+assertions of general jurisdiction).  Of course, determining 
+whether Ameritrade is actually "doing business" in the Dis-
+trict requires an examination of the frequency and volume of 
+the firm's transactions with District residents.  But those 
+facts are unavailable because Gorman was not permitted to 
+
+__________
+     7 See http://www.ameritrade.com/getting_started/html/apply_on 
+line.html;  http://www.ameritrade.com/getting_started/html/check. 
+html;  http://www.ameritrade.com/getting_started/html/login.html.
+
+     8 See http://www.ameritrade.com/services/ways_trade.fhtml.
+
+undertake discovery.  Because the plaintiff has "demon-
+strate[d] that it can supplement its jurisdictional allegations 
+through discovery, ... jurisdictional discovery is justified" 
+and should have been afforded.  GTE, 199 F.3d at 1351;  see 
+El-Fadl, 75 F.3d at 676;  Edmond, 949 F.2d at 425;  Crane, 
+814 F.2d at 760, 764.  Accordingly, were it not for the 
+conclusion of the following Part--that although dismissal on 
+personal jurisdiction grounds was unwarranted, dismissal for 
+insufficient service of process was justified--we would re-
+mand the case for jurisdictional discovery.9
+
+                               III
+
+     Even if there are sufficient contacts for a court to assert 
+personal jurisdiction over a defendant, it lacks power to do so 
+unless the procedural requirements of effective service of 
+process are satisfied.  See Omni Capital Int'l, Ltd. v. Rudolf 
+Wolff & Co., 484 U.S. 97, 104 (1987).  Federal Rule of Civil 
+Procedure 4(h)(1) provides that a foreign corporation may be 
+served
+
+     in a judicial district of the United States in the manner 
+     prescribed for individuals by subdivision (e)(1), or by 
+     delivering a copy of the summons and of the complaint to 
+     an officer, a managing or general agent, or to any other 
+     agent authorized by appointment or by law to receive 
+     service of process and, if the agent is one authorized by 
+     statute to receive service and the statute so requires, by 
+     also mailing a copy to the defendant.
+     
+Subdivision (e)(1), in turn, permits individuals to be served 
+"pursuant to the law of the state in which the district court is 
+located ... for the service of a summons upon the defendant 
+in an action brought in the courts of general jurisdiction of 
+the State."  Gorman contends that he perfected service of 
+
+__________
+     9 Because we affirm dismissal on other grounds, we need not 
+consider whether, in general jurisdiction cases, due process requires 
+not only that the defendant have "continuous and systematic" 
+contacts with the forum, but also that the assertion of personal 
+jurisdiction be "reasonable."  Compare Metropolitan Life Ins. Co., 
+84 F.3d at 567-69, with id. at 576-78 (Walker, J., dissenting).
+
+process on Ameritrade in two ways that were consistent with 
+Rule 4.
+
+     First, Gorman mailed a copy of the summons and complaint 
+to Ameritrade's corporate headquarters in Omaha, Nebraska.  
+The plaintiff argues that this manner of service was effective 
+because it was "pursuant to the law of the state in which the 
+district court is located."  Fed. R. Civ. P. 4(e)(1).  Although 
+Rule 4(c)(4) of the D.C. Superior Court Rules of Civil Proce-
+dure does appear to permit service upon corporations by mail, 
+the District of Columbia Court of Appeals has held that "Rule 
+4's general prescription for service of process cannot replace 
+the specific jurisdictional requirement of D.C. Code 
+s 13-334(a) that service be made in the District of Columbia."  
+Everett, 628 A.2d at 108.  Where the basis for obtaining 
+jurisdiction over a foreign corporation is s 13-334(a), as it is 
+here, a plaintiff who serves the corporation by mail outside 
+the District is "foreclosed from benefitting from [the stat-
+ute's] jurisdictional protection."  Id.;  see Gowens v. Dyncorp, 
+132 F. Supp. 2d 38, 42 (D.D.C. 2001) (following Everett).
+
+     Second, Gorman served the summons and complaint on the 
+Securities Director of the Public Service Commission of the 
+District of Columbia.  This, he contends, constituted service 
+upon an "agent authorized by appointment or by law to 
+receive service of process," Fed. R. Civ. P. 4(h)(1), by virtue 
+of D.C. Code s 2-2615(f).  At the time Gorman filed his 
+complaint, that D.C. Code section provided:
+
+     Any applicant for a license under this chapter shall file 
+     with the Department ... an irrevocable consent appoint-
+     ing the Securities Director ... to receive service of any 
+     lawful process in any noncriminal suit ... against him 
+     ... which shall arise under this chapter....10
+     
+Although Ameritrade did obtain a securities license in the 
+District, close attention to the wording of s 2-2615(f) makes 
+clear that it only requires Ameritrade's consent to receipt of 
+
+__________
+     10 Section 2-2615 was subsequently recodified as s 3-3615, and 
+then repealed.  See Securities Act of 2000, s 804, 47 D.C. Reg. 
+7837, 7886.
+
+service by the Securities Director in suits "which shall arise 
+under this chapter."  Because the referenced "chapter" in-
+cludes only the securities laws, see D.C. Code ss 2-2601 to 
+-2619 (1981), and because Gorman's breach of contract com-
+plaint is unrelated to any securities transaction, the Director 
+was not an agent "authorized by appointment or by law to 
+receive service of process" in this case.  Accordingly, deliver-
+ing a copy of the complaint to the Director did not perfect 
+service of process.
+
+     Gorman further contends that, even if s 2-2615(f) does not 
+authorize the Securities Director to receive service of process 
+in a case like this, service upon the Director was nonetheless 
+consistent with District of Columbia case law and was there-
+fore "pursuant to the law of the state in which the district 
+court is located" under Federal Rule 4(e)(1).  In support, 
+Gorman cites District of Columbia cases that, he claims, stand 
+for the proposition that "service upon a foreign corporation 
+'doing business' in D.C. is valid if it gives reasonable assur-
+ance that the defendant would be notified, even if service is 
+made upon an agent of the corporation otherwise not autho-
+rized to accept service."  Reply Br. at 4 (emphasis added).
+
+     Whether or not the above proposition is generally a fair 
+statement of District of Columbia case law, none of the cases 
+cited by Gorman suggests that it is applicable here.  The 
+principal case upon which he relies, Key v. S.C. Johnson & 
+Son, Inc., 189 A.2d 361 (D.C. 1963), does not even support the 
+general proposition.  In Key, the D.C. Court of Appeals did 
+hold that service of process in a private products liability case 
+was perfected by delivery of a complaint to the defendant's 
+"government liaison officer," located in the District, who dealt 
+solely with government officials.  189 A.2d at 362.  But the 
+opinion is silent as to whether the liaison officer was autho-
+rized to receive service of process for the company.  Similarly 
+inapposite is Weinstein v. Ajax Distributing Co., 116 A.2d 580 
+(D.C. 1955), in which the court held that process was properly 
+served on a foreign corporation's "location supervisor" when 
+he was present in the District.  The court did not hold that 
+such service was permissible regardless of whether the super-
+visor was authorized to accept it;  rather, the court rejected 
+
+the defendant's claim that the location supervisor was unau-
+thorized and found that the record left "no doubt" that he was 
+present in the District "as agent or representative of defen-
+dant company and was conducting its business."  116 A.2d at 
+583;  see id. at 582.
+
+     Gorman's best case is District Grocery Stores, Inc. v. 
+Brunswick Quick Freeze Co., 106 A.2d 134 (D.C. 1954), 
+where, in the course of holding that service had been validly 
+made, the Court of Appeals said that "we need not here be 
+concerned with the precise character of the relationship be-
+tween" the company and the person upon whom process was 
+served.  106 A.2d at 135.  Indeed, the court declared that 
+"[w]hether, then, the person served with process may be 
+regarded as the agent of the defendant corporation is, in our 
+view, immaterial."  Id. (internal alterations and quotation 
+marks omitted).  But the scope of the recipient's agency was 
+immaterial in District Grocery Stores because it was clear 
+that he "was, at least, conducting the business which ... the 
+defendant was doing in the District of Columbia."  Id. (inter-
+nal quotation marks omitted).  And as the court emphasized, 
+the District's "doing business" statute expressly authorizes 
+service upon a foreign corporation's "agent ... or person 
+conducting its business."  Id. (quoting D.C. Code s 13-103, 
+the predecessor of the current s 13-334);  see supra note 1.
+
+     In this case, however, it is clear that the recipient of 
+service, the Securities Director of the District of Columbia, is 
+not a person "conducting [the] business" of Ameritrade in the 
+District.  Nor is he otherwise a company employee or agent 
+whose authority the company may or may not have circum-
+scribed.  Rather, the Securities Director is a government 
+official whose authority to receive service of process on behalf 
+of Ameritrade is created by, and expressly limited by, the 
+D.C. Code.  See D.C. Code s 2-2615(f).  This court is without 
+power to extend that authority beyond the scope granted by 
+the statute, and no District of Columbia court has ever found 
+service upon such an unauthorized official to be valid against 
+a foreign corporation.  Accordingly, we conclude that service 
+
+upon the Director was ineffective to bring Ameritrade within 
+the jurisdiction of the district court.
+
+     Finally, Gorman urges that it would be unfair if a foreign 
+corporation, lawfully subject to the jurisdiction of the District 
+of Columbia because it does business here, could evade that 
+jurisdiction by keeping its agents out of the District and 
+hence beyond the range of effective service of process.  If 
+such a loophole does exist, the legislature can, of course, 
+remove it by amending s 13-334 to provide an alternative 
+method of service.  But we are not at all certain that legisla-
+tive action is required.  Section 29-101.99(e)(2) of the D.C. 
+Code, cited by neither party, provides that "[w]henever any 
+foreign corporation does not have an agent for service of 
+process ... the Mayor shall be the agent for service of 
+process for the corporation."11  Although on its face this 
+section appears to close the loophole identified by Gorman, we 
+need not determine whether service upon the Mayor would 
+have been sufficient to bring Ameritrade within the jurisdic-
+tion of the district court because Gorman never attempted to 
+make such service.
+
+                                IV
+
+     Ameritrade is quite wrong in treating "cyberspace" as if it 
+were a kingdom floating in the mysterious ether, immune 
+from the jurisdiction of earthly courts.  Nevertheless, in this 
+case Ameritrade is saved from the jurisdiction of the district 
+court by a much more mundane problem:  the plaintiff simply 
+failed to serve the corporation properly.  For that reason, 
+and for that reason alone, the judgment of the district court is
+
+                                                                      Affirmed.
+
+__________
+     11 The section further provides that "[i]n the event of service to 
+the Mayor, the Mayor shall immediately cause one of the copies to 
+be forwarded by certified or registered mail, addressed to the 
+foreign corporation at its principal office or at its last known 
+address."  D.C. Code s 29-101.99(e)(2);  see also id. s 29-101.108.
+
+                                  

@@ -1,0 +1,923 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 5, 2000    Decided October 27, 2000 
+
+                           No. 99-1531
+
+            Qwest Communications International Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                     MCI WorldCom, Inc. and 
+                        AT&T Corporation, 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     William R. Richardson, Jr. argued the cause for petitioner.  
+With him on the briefs were William T. Lake, Patrick J. 
+
+Carome, Julie A. Veach, Dan L. Poole, and Robert B. McKen-
+na.
+
+     Lawrence E. Sarjeant, Linda Kent, John Hunter, Julie E. 
+Rones, William F. Maher, Jr., Stephen L. Goodman, and 
+Richard White, Jr. were on the brief for amicus curiae in 
+support of petitioner.
+
+     Joel Marcus, Counsel, Federal Communications Commis-
+sion, argued the cause for respondents.  With him on the 
+brief were Christopher J. Wright, General Counsel, Daniel 
+M. Armstrong, Associate General Counsel, Joel I. Klein, 
+Assistant Attorney General, U.S. Department of Justice, Rob-
+ert B. Nicholson, and Christopher Sprigman, Attorneys.  
+John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, entered an appearance.
+
+     Anthony C. Epstein argued the cause for intervenors 
+WorldCom, Inc. and AT&T Corp.  With him on the brief 
+were Thomas F. O'Neil, III, William Single, IV, Mark C. 
+Rosenblum, Peter H. Jacoby, Judy Sello, and David Lawson. 
+James P. Young entered an appearance.
+
+     Before:  Williams, Sentelle, and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  Qwest Communications Interna-
+tional, Inc. ("Qwest") petitions for review of a decision by the 
+Federal Communications Commission ("Commission") to dis-
+close raw audit data to competitors in connection with a 
+notice of inquiry concerning the validity and reasonableness 
+of statistical sampling for equipment not found or not verifia-
+ble during a field audit.1  See In re Ameritech Corporation 
+Telephone Operating Companies' Continuing Property Rec-
+ords Audit et al., Memorandum Opinion and Order, 15 
+F.C.C.R. 1784 (1999) ("Order").  Qwest contends that the 
+Order is contrary to s 1905 of the Trade Secrets Act, 18 
+
+__________
+     1  U S West Communications, Inc., which filed the petition for 
+review, is a wholly-owned subsidiary of U S West, Inc.  During the 
+pendency of this appeal, U S West, Inc. merged and became Qwest 
+Communications International, Inc.  Accordingly, we refer to Qwest 
+as the petitioner.
+
+U.S.C. s 1905 (1994), because nothing in s 220(f) of the 
+Communications Act of 1934, 47 U.S.C. s 220(f) (1994), autho-
+rizes the Commission to release otherwise protected informa-
+tion.  Qwest further contends that the Commission's Order 
+violates its own longstanding policy to provide special protec-
+tion to audit information.  We hold that s 220(f) provides 
+sufficient authorization for disclosure of trade secrets, but 
+that the Commission has failed to explain how its Order is 
+consistent with its policy regarding the treatment of confiden-
+tial information.  Accordingly, we remand the case to the 
+Commission for further proceedings.2
+
+                                I.
+
+     Under Part 32 of the Commission's regulations, the Region-
+al Bell Operating Companies ("RBOCs") are required to 
+maintain detailed accounting records of property used in their 
+local telephone operations, including the property's descrip-
+tion, location, and cost.  See 47 C.F.R. ss 32.2000(e)-(f).  The 
+records, which serve various regulatory functions, including 
+the setting of rates and the assessment of charge allocations, 
+must conform to a uniform accounting system prescribed by 
+the rules and must be sufficiently detailed to allow the 
+property's physical existence to be confirmed during a spot 
+check conducted by the Commission.  See id.
+
+     In 1997, the Commission's Common Carrier Bureau's Ac-
+counting Safeguards Division ("Bureau") began an audit of 
+the RBOCs' records for hard-wired central office equipment 
+in order "to determine if their records were being maintained 
+in compliance with the Commission's rules and to verify that 
+property recorded in the accounts represented equipment 
+used and useful for the provision of telecommunications ser-
+vices."3  During the audit, each piece of equipment was 
+
+__________
+     2  In view of our disposition of the Commission's reliance on 
+s 220(f), we do not address the Commission's reliance on s 154(j), 
+47 U.S.C. s 154(j) (1994).  See Order, 15 F.C.C.R. at 1788 p 8 & 
+n.23.
+
+     3  The seven RBOCs were Ameritech, Bell Atlantic, BellSouth, 
+NYNEX, Pacific Bell, Southwestern Bell, and U S West Telephone 
+
+categorized or "scored" as "(1) found [as described];  (2) found 
+in another location;  (3) not found/missing;  or (4) unverifia-
+ble."  The Commission explained that part of the audit in-
+cluded "statistical sampling techniques so that the findings 
+for the sample could be extended as representative of all of 
+the equipment in the category audited, i.e., hard-wired central 
+office equipment."  After reviewing the RBOCs' comments on 
+draft reports, the Bureau's final audit reports revealed that 
+the RBOCs may have overstated their book costs by as much 
+as five billion dollars.4  The RBOCs filed objections, in the 
+words of one Commissioner, "aggressively attack[ing] the 
+audits, the competence of the auditors, and the credibility of 
+the audit design."5  Qwest challenged the Bureau's final audit 
+report, claiming that it failed to reflect additional data ac-
+counting for a majority of items scored as "not found," and 
+reaffirming its conclusion that the audit was fatally flawed for 
+statistical and other reasons.6  In support of the latter point, 
+
+__________
+Companies.  See Public Notice, The Accounting Safeguards Divi-
+sion Releases Information Concerning Audit Procedures for Con-
+sidering Requests by the Regional Bell Operating Companies To 
+Reclassify or "Rescore" Field Audit Findings of Their Continuing 
+Property Records, 14 F.C.C.R. 6243, 6243 (1999).  The hard-wired 
+central office equipment constitutes approximately one-fourth of the 
+RBOCs' total capital investment.  See Press Release, FCC Releases 
+Audit Reports on RBOCs' Property Records, Feb. 25, 1999 ("FCC 
+Press Release").
+
+     4  See FCC Press Release.  The audit indicated "that approxi-
+mately 11 percent of the [RBOCs'] equipment could not be found, 
+and approximately 14 percent was either unverifiable or found in 
+another location."  Order, 15 F.C.C.R. at 1786 p 3.
+
+     5  In re U S West Telephone Operating Companies' Continuing 
+Property Records Audit, Order, 14 F.C.C.R. 5731, 5827 (1999) 
+(Commissioner Tristani, issuing separate statement).
+
+     6  Qwest's individualized audit report indicated that of the 1188 
+hard-wired equipment-item records randomly sampled and "scored" 
+for the audit, 294 (24.7% of the sampled items) "contained substan-
+tive deficiencies and did not comply with the Commission's rules."  
+Id. at 5736 p 3.  See also id. at 5743 p 21.  Of the 294 deficient 
+records, 152 (12.79% of the sampled items) described equipment 
+
+Qwest submitted an analysis by Deloitte & Touche's "quanti-
+tative techniques expert," who raised doubts about the audi-
+tors' sampling methodology and their evaluation techniques.
+
+     The Commission, in turn, issued a notice of inquiry in April 
+1999, seeking public comment on ten criticisms relating to the 
+audits.  See In re Ameritech Corporation Telephone Operat-
+ing Companies' Continuing Property Records Audit et al., 
+Notice of Inquiry, 14 F.C.C.R. 7019, 7021-22 p 6 (1999) 
+("NOI").  The only issue relevant here is Issue 2:  namely, 
+"[t]he validity and reasonableness of the methodology used by 
+the Bureau's auditors in determining whether to rescore or to 
+modify a finding during a field audit that equipment was 'not 
+found.' "7  Previously, in February 1999, the Commission 
+determined, over the dissent of two Commissioners, that 
+pursuant to the RBOCs' waivers of confidentiality, the release 
+of the audit reports and the RBOCs' responses to them was 
+in the public interest.8  MCI thereafter filed a Freedom of 
+Information Act request, pursuant to 47 C.F.R. s 0.461, 
+seeking public release of the RBOCs' explanations and sup-
+porting documentation regarding their equipment not found, 
+the Bureau's audit workpapers showing the scoring of partic-
+ular items, and the continuing property records themselves.9
+
+__________
+that could not be verified against the record;  123 (10.35% of the 
+sampled items) described equipment that could not be found;  and 
+19 (1.60% of the sampled items) described equipment that could 
+only partially be located.  See id.
+
+     7  NOI, 14 F.C.C.R. at 7021 p 6.  Commissioner Furchtgott-
+Roth indicated apparent agreement with some of the RBOCs' 
+criticisms of the audit's methodology, process, and overall conclu-
+sions.  See In re U S West Telephone Operating Companies' 
+Continuing Property Records Audit, Order, 14 F.C.C.R. at 5832-35 
+(Commissioner Furchtgott-Roth, dissenting in part).
+
+     8  See FCC Press Release.
+
+     9  MCI sought the release of three types of information:
+
+     [1] any materials that the RBOCs have submitted to the 
+     [Bureau] to explain why hard-wired [central office] equipment 
+     items were not found by the auditors or to support claims that 
+     items in the audit sample should be "rescored." ... [This 
+     
+     Qwest opposed the release of the raw audit data on three 
+principal grounds:  First, releasing the requested information 
+is barred by s 220(f) of the Communications Act and previous 
+Commission rulings and would be an unjustified departure 
+from the Commission's established practice of not releasing 
+audit-related materials, except in exceptional cases;  second, 
+the requested information is confidential commercial informa-
+tion, voluntarily submitted, and thus exempt from release 
+under Exemption 4 of the Freedom of Information Act, 5 
+U.S.C. s 552(b)(4);  and third, the requested information con-
+stitutes pre-decisional deliberations and as such, is protected 
+by Exemption 5 of the Freedom of Information Act, 5 U.S.C. 
+s 552(b)(5), and s 0.457(e) of the Commission's rules, 47 
+C.F.R. s 0.457(e).  Qwest indicated that it was opposing only 
+the request for release of data submitted regarding the "not 
+found" and "unverifiable" audit items, explaining that these 
+items "contain[ed] detailed information including pricing in-
+formation on specific items used in the provision of telecom-
+munications services...."  These items, in Qwest's view, 
+were comprised of "highly sensitive business information 
+which MCI could use to unfairly improve its competitive 
+position" relative to Qwest and other market competitors.
+
+     The Bureau ordered release of the requested raw audit 
+data to parties under a protective order.  The Bureau relied 
+on ss 154(j) and 220(f) of the Communications Act as provid-
+ing the Commission with explicit authorization for the discre-
+tionary release of audit materials otherwise protected from 
+release under the Freedom of Information Act and the Trade 
+
+__________
+     includes] narrative explanations and supporting documentation 
+     such as invoices, telephone equipment orders, property record 
+     input forms, engineering drawings, and photographs[;]  [2] any 
+     audit workpapers generated by [Bureau] staff during the 
+     course of the audits that show or support the item-by-item 
+     scoring of the items in the audit sample[;]  [and 3] [Continuing 
+     Property Records] detail (vintage, description, etc.) for any 
+     items scored "partially found," "not found," or "not verifiable" 
+     at any time during the audit process.
+     
+MCI stated that release of the requested raw data was crucial for 
+responding to the questions asked in the NOI, particularly Issue 2.
+
+Secrets Act.  Relying also on "the Commission's duty to 
+ensure that parties are given a reasonable opportunity to 
+make informed comment on Issue No. 2," the Bureau viewed 
+"the unique situation" created by the question posed in Issue 
+2 to require the release of information that is "not routinely 
+made available to the public, even under protective orders."  
+The Bureau concluded that the question regarding the "audi-
+tors' rescoring process can only be answered by allowing 
+parties interested in filing comments to review this [raw data] 
+material."  The Bureau's protective order limited access to 
+the requested materials to (1) counsel for a party participat-
+ing in the NOI proceeding and (2) technical advisors or other 
+persons authorized by such counsel.  In the Bureau's opinion, 
+the protective order "reasonably ameliorated" any potential 
+competitive harm to the RBOCs.  All of the RBOCs except 
+Bell Atlantic appealed to the Commission.
+
+     The Commission affirmed the Bureau's decision to release 
+the raw audit data subject to a protective order, relying 
+principally on the Commission's explicit authority under 
+s 220(f):  "[G]iven the importance of Commission audits to 
+the effective performance of the Commission's statutory re-
+sponsibilities with respect to carriers, [the Commission] be-
+lieve[s] the [Communications] Act's statutory scheme fully 
+envisions that, in some cases, disclosures of carrier-supplied 
+audit information might become necessary in the course of 
+carrying out the Commission's enforcement and regulatory 
+policymaking functions."10  Order, 15 F.C.C.R. at 1789 p 8.  
+The Commission also imposed "more stringent" terms for 
+access to audit materials, modifying the protective order (1) 
+to restrict access to the audit materials to "persons without 
+decision making authority or influence regarding competitive 
+issues," (2) to redact "vendor-specific pricing information," 
+and (3) to limit the materials to be released to those relating 
+to Issue 2.11  Id. at 1790-91 p p 13-14.  The Commission also 
+
+__________
+     10  In a footnote, the Commission cited s 154(j) as an alternate 
+source of its authority.  See Order, 15 F.C.C.R. at 1788 n.23.
+
+     11  Noting that MCI had not requested disclosure of materials 
+concerning undetailed investment, the Commission decided not to 
+require access to such information.  See id. at 1791 p 14.
+
+provided that the RBOCs could suggest, for Bureau approval, 
+other redactions to the auditors' workpapers and the RBOCs' 
+comments.  Qwest petitioned for review of the Order.12
+
+                               II.
+
+     Qwest contends that the Commission's decision to release 
+protected confidential information violates the Trade Secrets 
+Act because the Commission is not "authorized by law" to 
+disclose otherwise protected information.  Section 220(f) of 
+the Communications Act, Qwest maintains, is "a nondisclo-
+sure statute that itself prohibits agency employees from 
+releasing information obtained during audits...."  Because 
+s 220(f) is "wholly silent as to the power of the Commission 
+to issue [ ] directions" for release of such material, Qwest 
+continues, the statute's "logic and purposes reflect no [Con-
+gressional] intention to authorize the Commission to disclose 
+confidential information based solely on the exercise of its 
+own unbounded 'discretion.' "
+
+     The parties agree that the material ordered disclosed by 
+the Commission is covered by the Trade Secrets Act.  Hence, 
+the question is whether the Communications Act vests the 
+Commission with authority to disclose information covered by 
+the Trade Secrets Act, or more specifically, whether, for 
+purposes of s 1905 of the Trade Secrets Act, the Commission 
+was authorized under s 220(f) of the Communications Act to 
+allow Qwest's competitors access to Qwest's raw audit data.
+
+     The parties disagree about our standard of review.  We 
+agree with the Commission that our principal inquiry of the 
+meaning of s 220(f) follows the familiar two-part test under 
+Chevron, U.S.A., Inc. v. NRDC, 467 U.S. 837, 842-43 (1984):  
+The court "must give effect to the unambiguously expressed 
+intent of Congress" or in the absence of such intent, consider 
+whether the agency's interpretation is a "permissible con-
+struction of the statute."  Id. at 843.  Necessarily, however, 
+we must first examine what Congress intended by s 1905 of 
+
+__________
+     12  The court granted Qwest's motion for a stay pending review.
+
+the Trade Secrets Act, and in this regard, as Qwest contends, 
+our review is de novo.  Hence, we look first to the language 
+of s 1905 and seek guidance from its structure and history.  
+See Chrysler v. Brown, 441 U.S. 281, 296 (1979).  We then do 
+much the same in examining s 220(f) of the Communications 
+Act, reaching the Commission's interpretation of its enabling 
+statute only if Congressional intent is unclear.
+
+     Section 1905 of the Trade Secrets Act prohibits the unau-
+thorized release of trade secrets and commercial information, 
+unless "authorized by law," subject to punishment by fine and 
+imprisonment and removal from office or employment.  See 
+18 U.S.C. s 1905.13  The history of the Act, which was 
+originally enacted in 1864, traces back to Congressional con-
+cern over disclosures of business information by "feckless or 
+corrupt revenue agents."  Chrysler, 441 U.S. at 296.  When 
+Congress in 1948 consolidated three statutes barring or limit-
+ing the release of such information, it sought to address the 
+demands of the new administrative state and thereby broad-
+ened the reach of the Trade Secrets Act.  See CNA Fin. 
+Corp. v. Donovan, 830 F.2d 1132, 1149 n.122 (D.C. Cir. 1987).  
+As the court has previously recounted, Congress "recog-
+ni[zed] that increased governmental access to financial rec-
+ords and commercial operations of individuals and entities ... 
+had to be accompanied by some restraint on the freedom of 
+
+__________
+     13  Section 1905 provides in relevant part:
+
+     Whoever, being an officer or employee of the United States or 
+     of any department or agency thereof, ... publishes, divulges, 
+     discloses, or makes known in any manner or to any extent not 
+     authorized by law any information coming to him [or her] in 
+     the course of his [or her] employment or official duties or by 
+     reason of any examination or investigation made by, or return, 
+     report or record made to or filed with, such department ... , 
+     which information concerns or relates to [ ] trade secrets ...;  
+     or permits any income return or copy thereof or any book 
+     containing any abstract or particulars thereof to be seen or 
+     examined by any person except as provided by law;  shall be 
+     fined under this title, or imprisoned not more than one year, or 
+     both;  and shall be removed from office or employment.
+     
+18 U.S.C. s 1905 (emphasis added).
+
+governmental employees to disseminate such data to third 
+parties."  Id.
+
+     The limits established by the Trade Secrets Act, however, 
+are not inconsistent with authorizations granted to federal 
+agencies to release data when necessary for the carrying out 
+of the agencies' statutory responsibilities.  In National Parks 
+and Conservation Ass'n v. Kleppe, 547 F.2d 673 (D.C. Cir. 
+1976), the court noted that the Trade Secrets Act is "merely a 
+general prohibition against unauthorized disclosures of confi-
+dential commercial or financial information."  Id. at 687 n.50.  
+The court in CNA, continuing to explore the nature of the 
+statute, observed that the Trade Secrets Act:
+
+     seems to embody a congressional judgment that private 
+     commercial and financial information should not be re-
+     vealed by agencies that gather it, absent a conscious 
+     choice in favor of disclosure by someone with power to 
+     impart the force of law to that decision.  The Act at-
+     tempts to forestall casual or thoughtless divulgence--
+     disclosure made without first going through a delibera-
+     tive process--with an opportunity for input from con-
+     cerned parties.
+     
+CNA, 830 F.2d at 1141 (emphasis added).
+
+     In the leading case on the question of the authorization 
+required by s 1905 for release of trade secrets, the Supreme 
+Court interpreted the phrase "authorized by law" not to have 
+"a special, limited meaning."  Chrysler, 441 U.S. at 298.  
+Instead, the Supreme Court instructed that the exercise by 
+an agency of quasi-legislative power "must be rooted in a 
+grant of such power by the Congress and subject to limita-
+tions which that body imposes."  Id. at 302.  More directly, 
+the Court stated that "[w]hat is important" is whether the 
+reviewing court could reasonably conclude that the statutory 
+grant of authority contemplated the regulations providing for 
+release of information.  Id. at 308.  Thus, in rejecting the 
+contention that an Executive Order directing the Secretary of 
+Labor to adopt regulations as are "necessary and appropri-
+ate" meant that all regulations so promulgated have the full 
+"force and effect of law," the Court focused on whether there 
+
+was a "nexus between the regulations and some delegation of 
+the requisite legislative authority by Congress."  Id. at 304.  
+Looking at the statutory sources for the Executive Order,14 
+the Court concluded that "it is clear that when it enacted 
+these statutes, Congress was not concerned with public dis-
+closure of trade secrets or confidential business informa-
+tion...."  Id. at 306.  By way of illustration, the Court 
+contrasted the situation in NBC v. United States, 319 U.S. 
+190, 217 (1943), where, based on the language and logic of the 
+Communications Act, which vested comprehensive powers in 
+the Commission, the Court upheld Commission regulations 
+that extended beyond technical, engineering requirements.  
+See Chrysler, 441 U.S. at 308.  A mere housekeeping statute, 
+on the other hand, whose history indicated that it was "simply 
+a grant of authority to the agency to regulate its own affairs," 
+would not suffice to authorize disclosure of confidential busi-
+ness information because it was not intended to provide 
+authority for limiting the scope of the Trade Secrets Act.  Id. 
+at 309.
+
+     Under s 220(a) of the Communications Act, the Commis-
+sion is authorized to direct the kind of financial books and 
+records that carriers must maintain so that the Commission 
+can fulfill its mandate of ensuring that carriers' rates and 
+practices are just and reasonable.  See 47 U.S.C. s 220(a).  
+In establishing a uniform system of accounts, the Commission 
+is charged with "ensur[ing] a proper allocation of all costs to 
+and among telecommunication services, facilities, and prod-
+ucts...."  Id. s 220(a)(2).  Under s 220(c), the Commission 
+"shall at all times have access to and the right of inspection 
+and examination of all accounts, records, and memoranda" 
+maintained by the carrier pursuant to s 220.  In addition, the 
+Commission may use public accounting services.  In this 
+connection, subsection (c) provides an exception to nondisclo-
+sure laws as well as a nondisclosure limitation on persons 
+
+__________
+     14  Among the possible sources were the Federal Property and 
+Administrative Services Act of 1949, Titles VI and VII of the Civil 
+Rights Act of 1964, and the Equal Employment Opportunity Act of 
+1972.  See Chrysler, 441 U.S. at 304-05 & nn.34-36.
+
+having access to information submitted to the Commission.  
+Subsection (c) provides that "[a]ny provision of law prohibit-
+ing the disclosure of the contents of messages or communica-
+tions shall not be deemed to prohibit the disclosure of any 
+matter in accordance with the provisions of this section."  Id. 
+s 220(c).  The statute further provides that any person con-
+ducting a Commission audit shall have the powers of the 
+Commission under subsection (c) and shall be subject to 
+subsection (f) "in the same manner as if that person were an 
+employee of the Commission."  Id.15  Section 220(f), in turn, 
+provides:
+
+     No member, officer, or employee of the Commission shall 
+     divulge any fact or information which may come to his 
+     [or her] knowledge during the course of examination of 
+     books or other accounts, as hereinbefore provided, except 
+     insofar as he [or she] may be directed by the Commission 
+     or by a court.
+     
+Id. s 220(f) (emphasis added).
+
+     Subsection (f), first mentioned in s 220(c) after a sentence 
+that removes any legal obstacles to the disclosure of informa-
+tion submitted to the Commission in accordance with s 220, 
+places nondisclosure burdens on all persons having access to 
+confidential information submitted to the Commission.  Thus, 
+its strict limitation on how confidential information is to be 
+handled arises in a context in which the Commission will have 
+access to information that is otherwise protected by law from 
+disclosure.  Nevertheless, Congress alluded to the possibility 
+of disclosure by the Commission (and the court).  Qwest's 
+contention that s 220(f) is "an integral part of a nondisclo-
+sure statute" is correct so far as it goes.  However, viewing 
+s 220(f) as directed to nondisclosure does not mean that its 
+
+__________
+     15  The other provisions of s 220 are not directly applicable to 
+this analysis.  Section 220(b) concerns depreciation charges, see 47 
+U.S.C. s 220(b), while subsection (d) establishes a penalty against 
+carriers for failure to comply with the record-keeping provisions, 
+see id. s 220(d), and subsection (e) establishes a penalty for false 
+entries in, and destruction or alteration of, records by any carrier.  
+See id. s 220(e).
+
+last clause has no role to perform, much less nothing to do 
+with the conditions under which disclosures may occur.  Un-
+der Chrysler, s 1905 is satisfied without a provision of law 
+that expressly refers to trade secrets.  See Chrysler, 441 U.S. 
+at 308.
+
+     Congressional intent to allow an exception to nondisclosure 
+seems implicit in the statutory scheme.  In the Communica-
+tions Act of 1934, Congress delegated broad authority to the 
+Commission in carrying out its responsibilities for oversight 
+of licensing, rate making, and carrier practices.  See 47 
+U.S.C. s 151 et seq.;  NBC, 319 U.S. at 217-20.  Significantly, 
+in s 220, Congress placed in the Commission the responsibili-
+ty to "ensure a proper allocation of all costs."  47 U.S.C. 
+s 220(a)(2).  With the additional provisions authorizing au-
+dits, it reasonably follows that Congress contemplated that 
+the Commission would be reviewing the type of data at issue 
+here.  Thus, unlike the statutes that were considered by the 
+Supreme Court in Chrysler, see 441 U.S. at 304-09, s 220 
+focuses on the need for the Commission to have access to 
+confidential information regarding licensees and others, and 
+to determine how such information is to be protected when 
+the Commission carries out its responsibilities.  The former is 
+addressed in s 220(c), the latter in s 220(f).  When Congress 
+consolidated various statutes on trade secrets in 1948, it gave 
+no indication that federal agencies' interpretation of their 
+authority to release confidential data was in error, much less 
+no longer of force and effect.16  Nothing in Chrysler suggests 
+that a comparable situation existed with respect to the stat-
+utes considered in that case.  See Chrysler, 441 U.S. at 308.
+
+     To the extent Qwest contends that s 220(f) is too broad an 
+authorization, in its view leaving the Commission with unfet-
+tered discretion, we offer two responses.  First, contrary to 
+Qwest's contention, Chrysler does not require that the statu-
+tory authorization under s 1905 be directed, or limited, to 
+
+__________
+     16  See, for example, s 20(7)(f) of the Interstate Commerce Act 
+of 1887, 49 U.S.C. s 20(7)(f) (1976) (current version at 49 U.S.C. 
+ss 11904, 14908, 16103 (1994 ed. Supp. I 1995)), which is the 
+apparent model for s 220(f).
+
+trade secrets.17  Rather, as the Supreme Court emphasized in 
+Chrysler, the important question is whether the reviewing 
+court can reasonably conclude that the grant of authority 
+contemplates the regulations issued.  See Chrysler, 441 U.S. 
+at 308.  Chrysler's test is, in one sense at least, a non-
+demanding one with respect to the purpose of the Trade 
+Secrets Act--namely, to ensure that Congress has authorized 
+release of covered information and that any such release 
+occurs only after deliberation by appropriate officials.  See 
+CNA, 830 F.2d at 1141-42.  Section 220(f) is consistent with 
+the restraint that Congress sought to impose in the Trade 
+Secrets Act because it permits release only on order of the 
+Commission (or the court) where, as the Supreme Court 
+noted, such release would be consistent with the purposes of 
+the Communications Act.  See Chrysler, 441 U.S. at 307-08.  
+As we discuss in Part III, the Commission has adopted a 
+Confidential Information Policy and regulations for release 
+decisions to be made upon consideration of certain factors by 
+appropriate officials.
+
+     Second, other circuits have concluded that, under Chrysler, 
+a broadly stated grant of authority to disclose confidential 
+information suffices for purposes of s 1905.  Thus, the 
+Fourth Circuit in Humana, Inc. v. Blue Cross, 622 F.2d 76 
+(4th Cir. 1980), upheld the Secretary of Health, Education, 
+and Welfare's "broad discretion to permit disclosure" where 
+the statute, 42 U.S.C. s 1306(a), provided that "[n]o disclo-
+sure ... shall be made except as the Secretary ... may by 
+regulations prescribe ...."  Id. at 78 (emphasis added).  
+Relying on Chrysler's test, that "[t]he grant of authority 
+relied upon by a federal agency in promulgating regulations 
+need not be specific;  it is only necessary 'that the reviewing 
+court reasonably be able to conclude that the grant of author-
+ity contemplates the regulations issued,' " id. (quoting Chrys-
+ler, 441 U.S. at 308), the court concluded with respect to the 
+
+__________
+     17  Bartholdi Cable Co., Inc. v. FCC, 114 F.3d 274 (D.C. Cir. 
+1997), is not to the contrary, as Qwest suggests.  Indeed, in 
+Bartholdi, the court did not reach the statutory question that is at 
+issue here.  See id. at 281-82.
+
+disclosure of cost reports, that "absent any action by the 
+Secretary, disclosure would be prohibited.  Such material, 
+however, is not exempt from disclosure for by its very terms 
+the statute contemplates the issuance of regulations by the 
+Secretary permitting such disclosure."  Id. at 79.  In St. 
+Mary's Hospital, Inc. v. Harris, 604 F.2d 407 (5th Cir. 1979), 
+the Fifth Circuit had reached the same conclusion about a 
+regulation authorizing disclosure of cost reports, stating that 
+"[s]ection 1306 bars the disclosure of Medicare providers' 
+costs reports unless the Secretary in his discretion promul-
+gates a regulation like [the one being challenged] ordering 
+disclosure of these reports....  At the very least s 1306 may 
+reasonably be construed to contemplate the promulgation of 
+[a regulation such as is at issue]."  Id. at 410.  The Sixth 
+Circuit agreed in Parkridge Hospital, Inc. v. Califano, 625 
+F.2d 719 (6th Cir. 1980), interpreting the statute to be "a 
+broad grant of authority to the Secretary specifically to enact 
+regulations providing for the release of information filed with 
+the agency, at least when such disclosure serves the purposes 
+described in the statute."  Id. at 724.
+
+     While Qwest would distinguish the statute in Humana, 
+Parkridge, and St. Mary's as reflecting Congress' clear intent 
+to permit disclosure of trade secrets, the effect of the last 
+clause of s 220(f) of the Communications Act is essentially 
+the same.  That is, in both types of statutes Congress has 
+alluded in an "except" clause to the possibility of disclosure of 
+protected information, and in both circumstances assured that 
+the Secretary and the Commission must reach a considered 
+determination about releasing protected information.  The 
+different statutory treatment by Congress can be said to 
+reflect not a difference in congressional intent but the fact 
+that the Secretary is an individual decision-maker, and by 
+requiring the promulgation of regulations, Congress con-
+strained the Secretary's decision-making authority regarding 
+the release of protected information.  Comparable constraint 
+inheres in the statutory requirements that the Commission 
+may act only as a deliberative body, when there is a quorum, 
+when parties may be heard, and when its actions are made on 
+the record.  See generally 47 U.S.C. ss 154(h), (j).
+
+     Accordingly, we hold that the Communications Act, and 
+specifically, s 220(f), does not clearly rule out the Commis-
+sion's interpretation, which we find reasonable.
+
+                               III.
+
+     The question remains whether the Commission has acted 
+arbitrarily and capriciously in ordering the release of Qwest's 
+raw audit data to some of its competitors.18  See Chrysler, 441 
+U.S. at 318;  Bartholdi, 114 F.3d at 279.  Qwest contends that 
+the release order is "flatly inconsistent" with the Commis-
+sion's prior assurance that raw audit data would be protected.  
+More particularly, Qwest contends that the Commission's 
+Order is contrary to its precedents on the treatment of 
+confidential information.19  Qwest calls attention to the un-
+precedented nature of the release, maintaining that "whatev-
+er authority the Commission may have to disclose trade 
+secrets in other kinds of proceedings in order to vindicate 
+rights to public participation, the logic and purposes of the 
+
+__________
+     18  Although Qwest states in its briefs that the "sole" issue on 
+appeal is whether the Communications Act authorizes the Commis-
+sion to release trade secrets, and arguably the court is entitled to 
+take Qwest at its word, see Fed. R. App. P. 28(a)(9);  J.S.G. Boggs v. 
+Rubin, 161 F.3d 37, 42 (D.C. Cir. 1998) (citing Carducci v. Regan, 
+714 F.2d 171 (D.C. Cir. 1983));  Adams v. Hinchman, 154 F.3d 420, 
+424 n.7 (D.C. Cir. 1998), the arguments in Qwest's briefs suffice to 
+preserve a second issue for appeal.  The Commission has addressed 
+Qwest's contention on the assumption that the court might conclude 
+that the contention was properly preserved, and hence there is no 
+prejudice to the Commission as a result of Qwest's failure to clearly 
+designate in its briefs its alternative contention.  See Fed. R. App. P. 
+28(a)(5), (8).
+
+     19  Before the Commission, Qwest argued that the release deci-
+sion was not only contrary to statute, but "contrary to the Commis-
+sion's own precedent regarding treatment of audit information" and 
+would adversely affect both Qwest's competitive position, and the 
+Commission's ability to perform future audits.  In addition, Qwest 
+asserted that release breached the understanding and expectation 
+that it had in submitting such information to the Commission--
+namely, that the information would be kept in confidence.
+
+statutory provisions governing confidential agency audits are 
+quite different."  The Order constitutes, in Qwest's view, a 
+"standardless 'discretionary' exemption from disclosure" justi-
+fied solely on the Commission's unprecedented step of open-
+ing audits to public comment.
+
+     The Commission's Confidential Information Policy in-
+cludes three paragraphs regarding audits that are pertinent 
+here.  See In re Examination of Current Policy Concerning 
+the Treatment of Confidential Information Submitted to the 
+Commission, Report and Order, 13 F.C.C.R. 24816, 24847-49 
+p p 53-55 (1998), amended by 14 F.C.C.R. 20128 (1999) ("Con-
+fidential Information Policy").  Paragraph 53 provides that 
+only summary audit data will be released, and only under 
+special circumstances.  See id. at 24847-48 p 53.  Those spe-
+cial circumstances arise when:  "(i) the summary nature of the 
+data therein is not likely to cause the submitter substantial 
+competitive injury;  (ii) the release of the summary data and 
+information is not likely to impair [the Commission's] ability 
+to obtain information in future audits;  and (iii) overriding 
+public interest concerns favor release of the report."  Id.
+
+     Paragraph 54 explains the Commission's view of audit 
+reports:
+
+     The Commission has a longstanding policy of treating 
+     information obtained from carriers during audits as con-
+     fidential....  Carriers have a legitimate interest in pro-
+     tecting confidential information, and we agree that disclo-
+     sure could result in competitive injury to those who 
+     provide such information to the Commission.  This policy 
+     is also designed to enhance the efficiency and integrity of 
+     our audit process by encouraging carriers to comply in 
+     good faith with Commission requests for information.  
+     Moreover, the Commission considers the audit reports to 
+     be internal agency documents that, consistent with FOIA 
+     Exemption 5, generally should not be disclosed to the 
+     extent they present staff findings and recommendations 
+     to assist the Commission in pre-decisional deliberations.
+     
+Id. at 24848 p 54.  Paragraph 54 also states that the Commis-
+sion "will amend Section 0.457 of [its] rules to indicate that 
+information submitted in connection with audits ... will not 
+routinely be made available for public inspection."  Id.
+
+     In paragraph 55, the Commission identified the standards 
+that it would apply were confidential audit information to be 
+released.  Observing that it has "only rarely departed from 
+the general policy of withholding audit information from 
+public disclosure," the Commission advised nonetheless that,
+
+     [p]arties should note, however, that as in the past, we 
+     may publicly disclose audit information in rare cases 
+     where the underlying concerns that normally lead us to 
+     withhold audit information from public disclosure are 
+     diminished by the minimal risk posed by the release of 
+     aggregate data or, where the data is otherwise not highly 
+     commercially sensitive and disclosure is justified by sig-
+     nificant public interest factors.
+     
+Id. at 24848-49 p 55 (emphasis added).  Thus, s 0.457 of the 
+Commission's regulations provides, in part, that "[t]he rec-
+ords in this section are not routinely available for public 
+inspection," 47 C.F.R. s 0.457, and in subsection (d) that 
+"[t]rade secrets ... are not routinely available for public 
+inspection....  A persuasive showing as to the reasons for 
+inspection will be required in requests for inspection of such 
+materials submitted under s 0.461."  Id. s 0.457(d).
+
+     Numerous cases reflect the Commission's application of 
+Paragraphs 53 and 54 of its Confidential Information Policy 
+and s 0.457 of its regulations.20  None Qwest maintains, until 
+now, involved the release, pursuant to Paragraph 55, to a 
+competitor of raw audit data in an audit or audit-related 
+proceeding.  In applying its Confidential Information Policy, 
+the Commission has heretofore acknowledged a distinction 
+between summary audit data and raw audit data:
+
+__________
+     20  See, e.g., In Re BellSouth Corporation BellSouth Telecom-
+munications, Inc., Memorandum Opinion and Order, 8 F.C.C.R. 
+8129, 8130 p 7 (1993) ("BellSouth");  In Re Martha H. Platt, Memo-
+randum Opinion and Order, 5 F.C.C.R. 5742, 5742 p 6 (1990) 
+("Platt");  In Re Scott J. Rafferty, Memorandum Opinion and 
+Order, 5 F.C.C.R. 4138, 4138 p 3 (1990) ("Rafferty");  In Re Western 
+Union Telegraph Company, Memorandum Opinion and Order, 2 
+F.C.C.R. 4485, 4486 p 10 (1987).
+
+     [T]he release of commercial and financial information of 
+     only a summary nature does not present the concerns 
+     about competitive harm that normally lead us to withhold 
+     audit-derived information from public disclosure....  
+     The Summary contains no detailed underlying commer-
+     cial or financial information submitted by the BOCs;  
+     rather it presents a brief analysis of the aggregated 
+     underlying data.  The summary nature of this informa-
+     tion significantly diminishes the likelihood that the BOCs 
+     will suffer any competitive harm.
+     
+In re Bell Telephone Operating Companies, Memorandum 
+Opinion and Order, 10 F.C.C.R. 11541, 11542 p 6 (1995).
+
+     Thus, the Commission has explained that it "withholds ... 
+raw financial data obtained from carriers during audits as 
+well as audit workpapers compiled by Commission staff" in 
+accord with its "general policy [ ] to withhold from public 
+disclosure audit reports prepared by Commission staff."  In 
+Re GTE Telephone Operating Companies, Memorandum 
+Opinion and Order, 9 F.C.C.R. 2588, 2588 p 4 (1994).  See 
+also BellSouth, 8 F.C.C.R. at 8129 p 8.  "[A]udit reports 
+[that] contain substantial raw data and other information 
+provided by various [Local Exchange Carriers] that has not 
+been summarized, reformatted, or otherwise edited," the 
+Commission has explained, "[are] not routinely available for 
+inspection."  Platt, 5 F.C.C.R. at 5742 p 6.  The Commission's 
+view has been that the release of raw audit data "would likely 
+impair the Commission's ability to obtain necessary informa-
+tion in the future."  Rafferty, 5 F.C.C.R. at 4138 p 2.  Where 
+the Commission has ordered the release of confidential finan-
+cial information even if there is the possibility of competitive 
+harm as a result, the occasions appear to have been confined 
+to an adjudication, rulemaking, or a rate proceeding in which 
+a party has placed its financial condition at issue.21
+
+__________
+     21  See, e.g., In re Alaskans for Better Media, Memorandum 
+Opinion and Order, 70 F.C.C.2d 1366 (1979);  In re Classical Radio 
+for Connecticut, Inc. and WTIC-FM Listeners' Guild, Memoran-
+dum Opinion and Order, 69 F.C.C.2d 1517 (1978);  In re NTV 
+Enterprises, Inc., Memorandum Opinion and Order, 62 F.C.C.2d 
+722 (1976).
+
+     Qwest and amicus United States Telecom Association point 
+out that audits "are not voluntary, afford no statutory right of 
+public participation, and have historically involved" only the 
+Commission and the entity being audited.  Consistent with 
+these concerns, the Commission, has applied its Confidential 
+Information Policy strictly, allowing exceptions in audits and 
+related proceedings only for release of summaries of audit 
+data that do not reveal "competitively sensitive materials."  
+Confidential Information Policy, 13 F.C.C.R. at 24824 p 9.  
+While the Commission states that its Order establishes no 
+"precedent that compromises the integrity of the audit pro-
+cess," Order, 15 F.C.C.R. at 1790 p 11, the Commission's 
+rulings, regulations, and Confidential Information Policy 
+reflect a different approach.  As applied by the Commission, 
+the exceptional circumstances considered in the Confidential 
+Information Policy for audits and in Commission rulings 
+appear to have been confined to release of summary audit 
+data.
+
+     Still, the unprecedented nature of the Commission's Order 
+does not itself demonstrate arbitrariness.  See Capital Net-
+work Sys., Inc. v. FCC, 28 F.3d 201, 204-06 (D.C. Cir. 1994).  
+But, in view of the policy by which the Commission has 
+constrained the exercise of its discretion under s 220(f), its 
+decision to release Qwest's raw audit data to its competitors 
+likely would be arbitrary and capricious if the Commission 
+failed to explain how it reached the conclusions that (1) the 
+raw audit data is "otherwise not highly commercially sensi-
+tive," and (2) "disclosure is justified by significant public 
+interest factors."  Confidential Information Policy, 13 
+F.C.C.R at 24849 p 55.  See also 47 C.F.R. s 0.457(d).
+
+     In addressing Qwest's claims of harm, the Commission 
+determined that its protective order, as amended, would 
+ensure that any competitive harm is minimal.  See Order, 15 
+F.C.C.R. at 1790 p 12.  This reasoning followed, the Commis-
+sion concluded, because disclosure was for the limited pur-
+pose of responding to Issue 2 as to sampled items not found, 
+unidentified, or found in another location.  See id.  This is not 
+the same as finding that Qwest's raw data is "otherwise not 
+highly commercially sensitive," or a finding that release of the 
+
+data would not adversely affect Qwest's competitive position.  
+Confidential Information Policy, 13 F.C.C.R. at 24849 p 55.  
+Indeed, the Commission appears to acknowledge that the 
+data is commercially sensitive, rationalizing release on the 
+ground that the protective order ensures against competitive 
+harm or ensures that such harm would be minimal.
+
+     In concluding that the public interest outweighs any po-
+tential competitive harm to the RBOCs, the Commission 
+observed that the RBOCs raised issues that the auditors' 
+rescoring was not done correctly, and that the previously 
+released summaries of the auditors' general procedures 
+were insufficient to elicit useful information, which the 
+Commission defined in terms of being able to comment on 
+how the auditors' general procedures were actually imple-
+mented.  See Order, 15 F.C.C.R. at 1789 p 9.  Observing 
+that it has "rarely, if ever, sought public comment on its 
+auditors' methodology and findings," the Commission stated 
+that it "was sufficiently concerned about the issues sur-
+rounding the audits to invite public comment," and that 
+broader comment "will greatly assist" the Commission in 
+resolving the issues.  Id. at 1790 p 11.  Advising on appeal 
+that the focus of Issue 2 involving audit methodology is 
+unprecedented, the Commission repeats that "unusual 
+events call for an atypical response."
+
+     Missing from the Commission's decision is a discussion of 
+why such an unprecedented release of confidential audit 
+information is required for purposes of Issue 2.  The Com-
+mission stated that "useful information about the accuracy 
+and validity of the audits" could not be obtained "unless 
+commenters were allowed to examine how those general 
+procedures were actually implemented when the auditors 
+decided whether rescoring was appropriate."  Id. at 1789 p 9.  
+But it is unclear why this is so.  The Deloitte & Touche 
+analysis submitted by Qwest, for example, appears to suggest 
+that the sampling methodology could be evaluated in theoreti-
+cal terms as applied to hypothetical situations or to a compos-
+ite of raw data without identifying an individual RBOC's 
+sensitive commercial information.  Other ways of avoiding the 
+release of raw audit data to competitors might be equally 
+
+effective for the Commission's purposes.  Or, at least on the 
+basis of the record, the court cannot tell that other ways 
+would not be equally effective.  Before invoking its "rare 
+case" exception to its nondisclosure policy, the Commission 
+must consider plausible alternatives and discount them before 
+resorting to the release of raw audit data.  Otherwise, 
+Qwest's claim that the Order represents a standardless ex-
+emption from the Commission's policy and precedent gains 
+force.  A response that the protective order adequately pro-
+tects Qwest against competitive injury misses the mark.  The 
+Commission must explain why only the release of raw audit 
+data will achieve meaningful public comment.  In submitting 
+audit data, Qwest was entitled to rely on the Commission's 
+announced policy and precedent on how it would handle 
+confidential audit information.  Qwest is similarly entitled to 
+assurances that the unprecedented disclosures will be consis-
+tent with the standards that the Commission has set for itself 
+and that the invocation of the "rare case" exception under 
+Paragraph 55 is warranted.  See Motor Vehicles Mfrs. Ass'n 
+v. State Farm Auto. Ins. Co., 463 U.S. 29, 43 (1983).
+
+     Accordingly, we deny the petition in part, and we remand 
+the case to the Commission for further consideration.
+
+                                                     

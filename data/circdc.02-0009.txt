@@ -1,0 +1,472 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 12, 2001   Decided January 18, 2002 
+
+                           No. 00-5386
+
+               United States Telecom Association, 
+                            Appellant
+
+                                v.
+
+            Federal Bureau of Investigation, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv02010)
+
+     A. Stephen Hut Jr. argued the cause for appellant.  With 
+him on the briefs were John H. Harwood II, Samir C. Jain, 
+Lawrence E. Sarjeant, Linda L. Kent and John W. Hunter.
+
+     Anne Murphy, Attorney, U.S. Department of Justice, ar-
+gued the cause for appellees.  With her on the brief were 
+Kenneth L. Wainstein, U.S. Attorney, and Douglas N. Letter, 
+
+Counsel, U.S. Department of Justice.  Daniel L. Kaplan, 
+Counsel, entered an appearance.
+
+     Before:  Ginsburg, Chief Judge, Henderson, Circuit Judge, 
+and Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  Electronic eavesdropping 
+has historically proceeded on a basis of cooperation between 
+law enforcement authorities and telephone service providers.  
+In 1970 Congress regularized the relationship somewhat by 
+providing that a court order for electronic surveillance should, 
+at the request of the officer applying for authority, direct the 
+provider to furnish the applicant with the necessary "informa-
+tion, facilities and technical assistance."  Act of July 29, 1970, 
+Pub. L. No. 91-358, tit. II, s 211(b), 84 Stat. 654 (1970), 
+codified at 18 U.S.C. s 2518(4).  Because of rapid technologi-
+cal development since then, Congress in 1994 added further 
+structure with the Communications Assistance for Law En-
+forcement Act ("CALEA" or the "Act"), 47 U.S.C. s 1001 et 
+seq. (1994).  (Each of the statute's sections has a number 899 
+lower than that of its codified equivalent in Title 47;  for 
+simplicity's sake we use only the latter.)  The Act has re-
+quirements relating to both the "capability" of telephone 
+service providers to intercept communications and their "ca-
+pacity" to do so.  In United States Telecom Ass'n v. FCC, 227 
+F.3d 450 (D.C. Cir. 2000), we addressed "capability";  here we 
+deal only with "capacity."
+
+     In very simplified form, CALEA sets up the following 
+regime as to capacity, involving three key phases:  (1) The 
+Attorney General issues "notices" of what capacity is needed.  
+The Attorney General in fact has delegated his duties to the 
+FBI, and we henceforth refer to it exclusively.  (2) Each 
+carrier responds with a "statement" of the modifications any 
+of its systems or services will need to provide the required 
+capacity.  (3) A carrier is deemed in compliance with the 
+FBI's capacity notices, without having made the specified 
+modifications, until the FBI agrees to reimburse the carrier 
+
+for those modifications.  We spell out the scheme in more 
+detail below.
+
+     In 1998 the FBI issued a set of rules implementing the 
+Act's capacity requirements.  See Implementation of Section 
+104 [47 U.S.C. s 1003] of CALEA, 63 Fed. Reg. 12218 (March 
+12, 1998) ("Final Notice").  United States Telecom Associa-
+tion ("USTA"), a trade association of about 1400 telephone 
+companies, sought relief in district court against various 
+provisions of the rules.  First, it argued that the FBI had 
+erroneously defined the class of "modifications" for which 
+carriers might be eligible for reimbursement.  Second, it said 
+that the FBI's concept of the required "notices" misread the 
+statute in a variety of ways, each increasing the carriers' 
+burdens and their risks of being found noncompliant.  In an 
+unpublished opinion the district court granted summary judg-
+ment in favor of the FBI on all issues.
+
+     Reviewing the grant of summary judgment de novo, see, 
+e.g., Shields v. Eli Lilly & Co., 895 F.2d 1463, 1466 (D.C. Cir. 
+1990), we affirm the district court with respect to the reim-
+bursement scheme, finding that the FBI correctly defined the 
+"modifications" required to be reimbursed.  On the other 
+hand, finding error on the part of the FBI on each of the 
+disputes about its notices, we reverse on those issues, with 
+instructions to the district court to remand the case, in one 
+instance vacating the challenged feature of the rules, in the 
+others not.
+
+                              * * *
+
+     CALEA requires the FBI to issue a notice of both the 
+"actual number" of interceptions and devices that it expects 
+will be conducted and used "simultaneously" by October 25, 
+1998, s 1003(a)(1)(A), and the "maximum capacity" required 
+to accommodate the surveillance that enforcement agencies 
+"may conduct and simultaneously use" after that date, 
+s 1003(a)(1)(B).  Subject to a qualification relating to reim-
+bursement of necessary modifications, service providers are 
+required within three years after notice to have the capacity 
+specified in s 1003(a)(1)(A) and the ability "expeditiously" to 
+
+expand to the "maximum capacity" specified in 
+s 1003(a)(1)(B).  See ss 1003(b)(1), 1003(e).  The FBI notice 
+under s 1003(a)(1)(A) is to state
+
+     the actual number of communication interceptions, pen 
+     registers, and trap and trace devices, representing a 
+     portion of the maximum capacity set forth under sub-
+     paragraph (B), that the [FBI] estimates that [law en-
+     forcement authorities] may conduct and use simulta-
+     neously.
+     
+47 U.S.C. s 1003(a)(1)(A) (emphasis added).  Pen registers 
+are devices that record the telephone numbers dialed by the 
+surveillance's subject;  trap and trace devices record the 
+telephone numbers of the subject's incoming calls.
+
+     Each of the carriers is required to respond to the notice of 
+capacity requirements with a "statement" of "systems or 
+services that do not have the [necessary] capacity."  
+s 1003(d).  The FBI reviews these statements and "may" 
+agree to reimburse the carrier "for costs associated directly 
+with modifications to attain" the capacity requirements.  
+s 1003(e).  Until the FBI agrees to reimburse the necessary 
+modifications specified by a carrier, the carrier is considered 
+in compliance.  Id.
+
+     We address first the cost allocation issue, then the charac-
+ter of the notices to be issued by the FBI.
+
+                              * * *
+
+     Cost Allocation.  We start with the key statutory provi-
+sions.  Section 1003(d) sets out the duty of the carrier to 
+submit a statement responding to the FBI's notice, and 
+s 1003(e) states the relationship between a carrier's compli-
+ance and the FBI's decision on what to reimburse:
+
+         s 1003(d) Carrier statement
+     
+          Within 180 days after the publication by the [FBI] of a 
+     notice of capacity requirements pursuant to subsection (a) 
+     or (c) of this section, a telecommunications carrier shall 
+     submit to the [FBI] a statement identifying any of its 
+     systems or services that do not have the capacity to accom-
+     
+     modate simultaneously the number of interceptions, pen 
+     registers, and trap and trace devices set forth in the notice 
+     under such subsection.
+     
+     s 1003(e) Reimbursement required for compliance
+     
+          The [FBI] shall review the statements submitted under 
+     subsection (d) of this section and may, subject to the 
+     availability of appropriations, agree to reimburse a telecom-
+     munications carrier for costs directly associated with modi-
+     fications to attain such capacity requirement that are deter-
+     mined to be reasonable in accordance with section 1008(e) 
+     of this title.  Until the [FBI] agrees to reimburse such 
+     carrier for such modification, such carrier shall be consid-
+     ered to be in compliance with the capacity notices under 
+     subsection (a) or (c) of this section.
+     
+47 U.S.C. ss 1003(d), (e).
+
+     The Final Notice provided for eligibility for reimbursement 
+as follows:
+
+     Capacity costs associated with any equipment, facilities 
+     or services deployed after the Carrier Statement period 
+     of 180 days following the effective date of this Final 
+     Notice of Capacity will not be eligible for reimbursement.
+     
+Final Notice, 63 Fed. Reg. at 12220-21.  But the language is 
+concededly different from the thought the FBI intended to 
+convey.  In fact, government counsel assured us at oral 
+argument (with the full assent of USTA's counsel), that this 
+sentence should really be read as if it also contained the 
+material added in boldface:
+
+     Capacity costs associated with any equipment, facilities 
+     or services deployed after the Carrier Statement period 
+     of 180 days following the effective date of this Final 
+     Notice of Capacity will not be eligible for reimbursement, 
+     except costs for modifications the FBI has agreed to 
+     compensate under s 1003(e).
+     
+Thus, expenses incurred to add equipment--other than for 
+modifications that the carrier specified in its "statement" and 
+that the FBI in its discretion agreed to reimburse--are not 
+reimbursable.
+
+     USTA objects that under the FBI's reading of s 1003(e), a 
+carrier will have to pay for all capacity it adds in the future 
+(except for the reimbursed "modifications"), even though the 
+government will be able to help itself to part of the added 
+capacity.  As was developed at oral argument, this skews a 
+carrier's incentives:  rather than invest in capacity additions 
+sized to accommodate not only its customers' prospective 
+demand but also the government's future wishes, it will elect 
+smaller expansions, anticipating that after the next FBI 
+notice and carrier statement its equipment will require "modi-
+fication" and thus government reimbursement.  USTA fur-
+ther argues that we should not defer to the FBI's reading of 
+the Act under Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, 467 U.S. 837 (1984), because the government 
+has a sharp pecuniary interest in the outcome:  under USTA's 
+reading of the statute, the government would have to pay for 
+its share of all new capacity that it uses.
+
+     Of course the issue of Chevron deference arises only if the 
+statute doesn't plainly settle the issue.  Chevron, 467 U.S. at 
+842-43 (holding that if "Congress has directly spoken to the 
+precise question at issue," the court "must give effect to the 
+unambiguously expressed intent of Congress.").  Here we 
+find that the Act does so, and therefore need not resolve 
+USTA's pecuniary-interest theory.
+
+     The only costs for which the Act provides any compensa-
+tion are for "modifications" under s 1003(e).  These "modifi-
+cations" are necessarily to "systems or services" identified by 
+the carrier in its s 1003(d) statement as "not hav[ing] the 
+capacity" to accommodate the needs set out in an FBI notice 
+under s 1003(a)(1).  And those "systems and services" are 
+necessarily systems and services extant at the time the 
+carrier files its statement.  In other words, eligibility for 
+reimbursement extends only to modifications as needed to 
+mend deficiencies set out in the carrier's s 1003(d) statement.
+
+     USTA claims to find support in the passage of s 1003(e) 
+that states:  "Until the [FBI] agrees to reimburse [a] carrier 
+for [reasonable] modifications, such carrier shall be consid-
+ered in compliance with the capacity notices."  47 U.S.C. 
+
+s 1003(e).  But the carrier's being "in compliance" appears to 
+refer only to the modifications identified in the s 1003(d) 
+statement, and says nothing with respect to the government's 
+uncompensated use of capacity that a provider may add, on 
+its own, after submitting its s 1003(d) statement.
+
+     USTA also points to CALEA's enforcement provision, pro-
+hibiting a court from issuing any enforcement orders that 
+"require a telecommunications carrier to meet the Govern-
+ment's demand for interception ... to any extent in excess of 
+the capacity for which the [FBI] has agreed to reimburse 
+such [a] carrier."  47 U.S.C. s 1007(c)(1).  But USTA's literal 
+reading of this section is plainly unsound;  even USTA does 
+not think the section governs available capacity antedating 
+the FBI's very first s 1003(a)(1) notice.  The FBI's reading 
+of the section is that it reinforces the "safe harbor" provided 
+by s 1003(e)'s assurance to a carrier that it will not be out of 
+compliance if law enforcement authorities demand capacity 
+that the carrier's s 1003(d) statement has said was needed 
+(until the FBI funds the additional capacity).  As appellant's 
+construction of s 1007(c)(1) is impossible on a literal basis and 
+would require us to twist the meaning of s 1003(e) itself, we 
+find it unconvincing.
+
+     USTA's remaining textual analysis contrasts the Act's lan-
+guage on capacity with its language on capability, which 
+explicitly provides for compensation for modifications of 
+equipment deployed before January 1, 1995 to accommodate 
+law enforcement, s 1008(d), and none for equipment deployed 
+thereafter.  We fail to see how the distinction helps USTA.  
+The capability provisions plainly differ substantially from 
+those for capacity, but the contrast sheds no light on the 
+proper interpretation of ss 1003(d) & (e).
+
+     Finally, USTA makes reference to some legislative history 
+it believes is supportive of its position.  See Appellant's Br. at 
+20-21 (citing H.R. Rep No. 103-827, pt. 1, at 17, 20 (1994)).  
+"But we do not resort to legislative history to cloud a 
+statutory text that is clear."  Ratzlaf v. United States, 510 
+U.S. 135, 147-48 (1994).  See also Burlington Northern R.R. 
+Co. v. Oklahoma Tax Comm'n, 481 U.S. 454, 461 (1987);  In 
+
+re Sinclair, 870 F.2d 1340, 1342-43 (7th Cir. 1989) (suggest-
+ing that legislative history should only be used to elucidate 
+the meaning of the statutory text).  Of course, legislative 
+history may "shed new light on congressional intent, notwith-
+standing statutory language that appears superficially clear."  
+Natural Resources Defense Council, Inc. v. Browner, 57 F.3d 
+1122, 1127 (D.C. Cir. 1995) (internal quotation marks and 
+citation omitted).  But in fact the force of appellant's claim 
+turns on its selective quotation.  The House Committee Re-
+port said:
+
+          After the four year transition period, which may be 
+     extended an additional two years by order of the FCC, 
+     industry will bear the cost of ensuring that new equipment 
+     and services meet the legislated requirements, as defined 
+     by standards and specifications promulgated by the indus-
+     try itself.
+     
+          However, to the extent that industry must install addi-
+     tional capacity to meet law enforcement needs, the bill 
+     requires the government to pay all capacity costs from date 
+     of enactment, including all capacity costs incurred after the 
+     four year transition period....
+     
+H.R. Rep No. 103-827, pt. 1, at 16-17 (emphasis added).
+
+     Appellant ignores the first sentence and quotes the second.  
+In fact, properly read even the second sentence does not help 
+appellant, for it describes the statute simply as calling on the 
+government to pay for "additional capacity" that "industry 
+must install ... to meet law enforcement needs."  Just so.  
+Government must pay for "modifications" that it agrees to 
+reimburse as specified in s 1003(e), but otherwise helps itself 
+to capacity that is available.
+
+     Accordingly, we affirm the district court's grant of sum-
+mary judgment for the government on USTA's cost recovery 
+claim.
+
+                              * * *
+
+     The remaining issues relate to provisions dealing with how 
+the FBI "notices" are to specify capacity requirements.  
+
+Again USTA argues that the FBI should not enjoy Chevron 
+deference because of its pecuniary interest.  Again we need 
+not address the pecuniary-interest issue, though for a differ-
+ent reason from the one previously given.  Even Chevron 
+deference requires that the agency position be reasonable, 
+Chevron, 467 U.S. at 843, and on none of the following issues 
+is that standard met.
+
+     "Expeditiously."  Recall that the Act distinguishes be-
+tween the "actual numbers" of interceptions and equipment 
+the FBI expects to be conducted and used simultaneously by 
+October 25, 1998, s 1003(a)(1)(A), and the "maximum capaci-
+ty" required to accommodate surveillance thereafter, 
+s 1003(a)(1)(B).  Section 1003(b) gives this distinction opera-
+tional significance.  Section 1003(b)(1) requires carriers by a 
+specified date to have the capacity [subject to s 1003(e)] to 
+accommodate the s 1003(a)(1)(A) demands and the ability to 
+"expand[ ]" to the subsection (B) "maximum capacity";  and 
+s 1003(b)(2) requires each carrier to "ensure that it can 
+accommodate expeditiously" an increase in demand up to the 
+"maximum capacity."
+
+     The Final Notice implements these provisions by reading 
+"expeditiously" to allow only five business days.  Final No-
+tice, 63 Fed. Reg. at 12219/1.  The only rationale offered to 
+support the five-day period is transparently off point.  The 
+FBI said the decision was "based on past practice as to the 
+time typically involved under existing procedures used by law 
+enforcement and telecommunications carriers to make techni-
+cal interception arrangements."  Id.  This statement about 
+"past practice" relates only to provisioning individual wiretaps 
+upon request--a task quite different from that of increasing 
+total wiretapping capacity.
+
+     Worse, unrebutted evidence in the record suggests that it 
+would be impossible for carriers to install additional capacity 
+in such a short time period.  Unsurprisingly, ordering new 
+hardware, securing its delivery, and then installing and test-
+ing it takes more than five days.  See id. at 12235/1 (noting 
+that seven commenters, including the trade association repre-
+
+senting telecommunications equipment manufacturers, have 
+described this time frame as unrealistic).
+
+     In effect, then, the FBI's interpretation of "expeditiously" 
+de facto erases the statutory distinction between actual and 
+maximum capacity, even though the statute plainly intends 
+such a distinction and even specifies that "actual" capacity 
+should be "a portion of the maximum capacity set forth under 
+subparagraph (B)." s 1003(a)(1)(A).  We therefore find un-
+reasonable and vacate this aspect of the Final Notice.  See 
+RCA Global Communications, Inc. v. FCC, 758 F.2d 722, 733 
+(D.C. Cir. 1985) (rejecting agency's reading of a statute that 
+"would deprive [the statutory provision] of all substantive 
+effect").
+
+     "Capacity"/"Number of," and "Simultaneously."  Recall 
+that s 1003(a)(1)(A) requires the FBI to give notice of
+
+     the actual number of communication interceptions, pen 
+     registers, and trap and trace devices, representing a 
+     portion of the maximum capacity set forth under subpar-
+     agraph (B), that the [FBI] estimates that [law enforce-
+     ment authorities] may conduct and use simultaneously.
+     
+47 U.S.C. s 1003(a)(1)(A) (emphasis added).  Subsection (B) 
+similarly requires notice of the "maximum capacity" required 
+to accommodate such interceptions, etc., again "simultaneous-
+ly."  The Final Notice insisted that these statements of 
+"actual number" and "capacity" were properly in terms that 
+drew no distinction between different types of interceptions 
+(e.g., communications content versus mere pen registers), 
+even though they differ heavily in their actual demands on 
+capacity.  Final Notice, 63 Fed. Reg. at 12235.  And it 
+treated interceptions as "simultaneous" if they occur on the 
+same day, even though they may each only take moments and 
+do not overlap in the least.  Id. at 12225.  USTA objects to 
+both these decisions.  And rightly so.
+
+     As to "capacity," the FBI acknowledged that different 
+interceptions impose different demands on capacity;  content 
+interceptions might require up to five delivery channels be-
+cause of multiple participants on a call, while others, such as 
+
+pen registers and trap and trace devices, typically use only a 
+single channel.  See id. at 12218, 12232-33.  By way of 
+justification it said that the only historical data it had access 
+to did not directly reveal the information the carriers were 
+after:  the available average national ratio of content intercep-
+tions to pen registers and trap and trace devices was not "in 
+any way representative of any specific geographic region."  
+Id. at 12235.  It also said that, in any event, "law enforcement 
+... does not know the type(s) of surveillance that will be 
+needed in the future."  Id. at 12236.
+
+     As to simultaneity, the FBI insisted that its choice "was 
+logical from a law enforcement perspective" because court 
+orders approving wiretapping activities are phrased in terms 
+of days, and as a result such data was all that was available.  
+Id.  at 12225/3, 12235/2.
+
+     The FBI's justifications of both decisions--ultimately 
+claims of defects in existing data--render them unreasonable.  
+See Fresno Mobile Radio, Inc. v. FCC, 165 F.3d 965, 969-70 
+(D.C. Cir. 1999).  Such complete throwing up of hands is 
+inconsistent with the Bureau's extensive use of statistical 
+projections elsewhere in implementing CALEA.  In fact, all 
+the interception numbers that the FBI gave are estimates.  
+For instance, to determine the actual and maximum capacity 
+requirements themselves, the FBI undertook to establish a 
+historic baseline, and then used statistical techniques to ex-
+trapolate the baseline into the future.  Id. at 12224-25;  see 
+also id. at 12226/3 (stating that in determining "growth 
+factors," which require prediction of future capacity require-
+ments, "statistical and analytical methods were applied to the 
+historical interception information").
+
+     As to these portions of the Final Notice, we reverse the 
+judgment of the district court, with instructions to remand 
+the case to the agency for a more adequate explanation.  
+Because it is not so clear as in the case of the Bureau's 
+interpretation of "expeditiously" that there are no defensible 
+grounds for its conclusions, however, the district court should 
+not vacate the FBI's resolutions of the "number of/capacity" 
+and "simultaneously" issues.  Compare Allied-Signal, Inc. v. 
+
+U.S. Nuclear Regulatory Comm., 988 F.2d 146, 150-51 (D.C. 
+Cir. 1993) ("The decision whether to vacate depends on the 
+'seriousness of the order's deficiencies (and thus the extent of 
+doubt whether the agency chose correctly) and the disruptive 
+consequences of an interim change that may itself be 
+changed.' ").
+
+                              * * *
+
+     The judgment of the district court is affirmed and reversed 
+as set forth above.
+
+                                                                 So ordered.
+
+                      

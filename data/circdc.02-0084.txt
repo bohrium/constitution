@@ -1,0 +1,1378 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued January 24, 2002    Decided April 19, 2002 
+
+                           No. 99-1452
+
+              National Wildlife Federation, et al., 
+                           Petitioners
+
+                                v.
+
+                 Environmental Protection Agency 
+           and Christine Todd Whitman, Administrator, 
+                Environmental Protection Agency, 
+                           Respondents
+
+           American Forest and Paper Association Inc., 
+                            Intervenor
+
+                        Consolidated with 
+                    99-1454, 99-1455, 99-1456
+
+         On Petitions for Review of a Final Rule of the 
+                 Environmental Protection Agency
+
+     Neil S. Kagan argued the cause and filed the briefs for 
+petitioners National Wildlife Federation, et al.
+
+     Raymond B. Ludwiszewski argued the cause for petition-
+ers Alliance for Environmental Technology, et al.  With him 
+on the briefs were Peter E. Seley and Scott H. Segal.  Gene 
+E. Godley entered an appearance.
+
+     Carol Ann Siciliano, Attorney, U.S. Environmental Protec-
+tion Agency, and Jon M. Lipshultz, Attorney, U.S. Depart-
+ment of Justice, argued the cause for respondents.  With 
+them on the brief was John C. Cruden, Assistant Attorney 
+General.  Seth M. Barsky and Karen L. Egbert, Attorneys, 
+U.S. Department of Justice, entered appearances.
+
+     Russell S. Frye argued the cause for intervenor American 
+Forest and Paper Association Inc.  With him on the brief was 
+Richard Wasserstrom.
+
+     Before:  Sentelle, Henderson and Rogers, Circuit Judges.
+
+     Opinion for the Court filed PER CURIAM.
+
+     PER CURIAM:  A coalition of environmental organizations 
+and a Native American tribe led by the National Wildlife 
+Federation (collectively "NWF") and the Alliance for Envi-
+ronmental Technology, Boise Cascade Corporation, Interna-
+tional Paper Company, The Mead Corporation, and Westvaco 
+Corporation (collectively "Industry Petitioners") separately 
+challenge the Final Effluent Limitations Guidelines, Pretreat-
+ment Standards, and New Source Performance Standards for 
+the Pulp, Paper, and Paperboard Category.  63 Fed. Reg. 
+18,504 (April 15, 1998) ("Final Rule").  Their challenge is 
+confined to that portion of the Final Rule promulgated by the 
+Environmental Protection Agency ("EPA") under the Clean 
+Water Act as applied to one subcategory of the pulp and 
+paper industry--the bleached papergrade kraft and soda 
+subcategory (often referred to as the "BPK" subcategory).  
+The American Forest & Paper Association, Inc. intervenes in 
+support of the Final Rule.  We deny the petitions.
+
+                                I.
+
+     The Clean Water Act of 1977 ("CWA") requires EPA to 
+promulgate limitations on the discharge of pollutants into the 
+waters of the United States.  33 U.S.C. s 1311 (1994).  These 
+limitations are referred to as effluent limitations.  The ef-
+fluent limitations are based on the discharge levels achievable 
+by what EPA determines to be the "best available technology 
+economically achievable" (known as the "BAT") for existing 
+discharging sources (defined as "point sources" in the stat-
+ute), id. s 1311(b)(2)(A), (C), (D), & (F), and a different 
+technology--the best available demonstrated control technol-
+ogy or "BADT"--for new pollutant sources, known as the new 
+source performance standard or "NSPS," id. s 1316(b)(1)(B).  
+In determining a BAT and BADT, EPA evaluates existing or 
+"available" technologies and considers their cost and capabili-
+ties among other factors.  Id. s 1314(b)(2)(B).  EPA then 
+promulgates discharge limitations that correspond to the 
+application of the identified technology but does not require 
+dischargers to install that technology.
+
+     Pursuant to a 1988 consent decree entered into by EPA in 
+settlement of Environmental Defense Fund and National 
+Wildlife Federation v. Thomas, Civ. No. 85-0973 (D.D.C.), 
+EPA committed to reviewing effluent limitations guidelines 
+under the CWA for pulp and paper mills producing bleached 
+pulp.  58 Fed. Reg. 66,078, 66,089 (Dec. 17, 1993).  EPA also 
+anticipated that it would be imposing substantial new air 
+pollution control requirements on these mills under the Clean 
+Air Act ("CAA"), 42 U.S.C. s 7412.  In order to avoid incom-
+patible and potentially overly burdensome rulemaking, EPA 
+commenced a "Cluster Rulemaking" that would jointly estab-
+lish effluent limitations guidelines under the CWA and haz-
+ardous air pollutant standards under the CAA.  Involved in 
+the instant appeal is the portion of the Cluster Rules that 
+apply to the BPK subcategory within the pulp and paper 
+industry.  These provisions establish limitations on the dis-
+charge of several pollutants as identified by EPA.  See 40 
+C.F.R. ss 430.20-430.28.  These pollutants include dioxin, 
+abbreviated as TCDD, furan, abbreviated as TCDF, 12 specif-
+ic chlorinated phenolic pollutants, chloroform, and adsorbable 
+
+organic halides ("AOX").  National Emission Standards & 
+Effluent Limitations Guidelines, 63 Fed. Reg. 18,504, 18,542 
+(Apr. 15, 1998).
+
+     To understand these limitations and the process by which 
+they were determined, we provide a brief description of the 
+paper production process.  One of the components of wood 
+(the basis of paper products) that must be removed during 
+the pulping process is called lignin.  The process of removing 
+lignin is called "delignification."  The degree of delignification 
+is expressed as a "kappa" number.  Prior to bleaching, addi-
+tional lignin can be removed through either of two extended 
+delignification processes:  extended cooking or oxygen deligni-
+fication ("OD").  Supplemental Technical Development Docu-
+ment ("STDD") s 7.2.3, at 7-4 and s 7.2.6, at 7-9 (Oct. 15, 
+1997).  During bleaching, traditional bleaching agents that 
+are used lead to the formation of a number of pollutants that 
+are ultimately discharged into external streams.  Using a 
+process known as elemental chlorine free ("ECF") bleaching 
+lowers chemical consumption during bleaching and thereby 
+reduces the formation of undesired pollutants.  The material 
+removed from the pulp in bleaching is typically discharged to 
+the mill wastewater treatment system.  This wastewater is 
+known as effluent;  its environmental quality at discharge 
+depends in part on the quantity of lignin in the pulp remain-
+ing after bleaching.
+
+     For the model technologies, EPA considered a number of 
+options, each in turn involving a package of technologies for 
+prevention of pollution within a pulp mill and treatment of 
+wastewater once it leaves the mill, 58 Fed. Reg. at 66,109-10, 
+ultimately focusing, after public comment on additional data, 
+on two technologies, referred to as Option A and Option B.  
+61 Fed. Reg. 36,835, 36,838-39.  In the Final Rule, Option A 
+was defined as conventional pulping followed by ECF bleach-
+ing.  63 Fed. Reg. at 18,542.  Option B did the same but 
+added oxygen delignification and/or extended cooking that 
+resulted in a kappa number at or below 20 for softwoods and 
+below 13 for hardwoods.  Id.  EPA determined that Option B 
+was too costly to be the BAT, naming it instead as the BADT 
+for new sources and naming Option A as the BAT.  Id. at 
+
+18,549-53.  The projected capital cost of Option B was more 
+than twice that of Option A (already almost $1 million) and 
+would result in mill closures and the likely bankruptcy of 
+major paper companies.  Id. at 18,550.  EPA further deter-
+mined that imposing limitations based on Option B technology 
+would result in little incremental reduction in toxic pollutants 
+and would produce no difference in monetized water quality 
+benefits.  See id. at 18,545;  61 Fed. Reg. at 36,841.  Cf. 63 
+Fed. Reg. at 18,590 with 63 Fed. Reg. at 18,592.  EPA did 
+adopt, however, an innovative Voluntary Advanced Technolo-
+gy Incentives Program, which offered various benefits to 
+mills that installed beyond-BAT technology, such as OD plus 
+ECF or totally chlorine free ("TCF") processes.  63 Fed. 
+Reg. at 18,593-611.
+
+     EPA declined to establish separate limitations for mills 
+bleaching exclusively hardwood or softwood, even though 
+unbleached hardwood pulp contains less lignin than un-
+bleached softwood pulp, in view of both the absence of 
+complete data on how these mills work and the difficulty of 
+applying separate limitations, as many mills pulp both hard-
+wood and softwood in varying proportions, or swing between 
+the two.  See, e.g., 58 Fed. Reg. at 66,167;  Proposed Techni-
+cal Development Document for Pulp, Paper, and Paperboard 
+Category Effluent Limitations Guidelines, Pretreatment 
+Standards, and New Source Performance Standards (Oct. 29, 
+1993) DCN 08517 at 2-3;  STDD at 5-7.  EPA also declined to 
+set effluent limitations for color, finding that the natural 
+coloring of receiving waters varies, with the result that the 
+aesthetic and aquatic impacts of color discharges on a particu-
+lar receiving water is driven by highly site-specific conditions, 
+best left to regulation under federal and state permitting 
+procedures.  63 Fed. Reg. at 18,538.
+
+     In these appeals, the petitioners are at either extreme in 
+challenging the Cluster Rules under the CWA regarding the 
+BPK subcategory of the pulp and paper industry.  Essential-
+ly, NWF contends that the Final Rule is too lax, because 
+EPA should have based the BAT for the BPK subcategory on 
+Option B, technology that EPA wrongly found too costly, 
+while Industry Petitioners contend that the Final Rule is too 
+
+strict, moving far beyond the adoption of ECF bleaching as 
+the BAT and the NSPS, and thus beyond EPA's authority.  
+Supporting the rule, the industry association as Intervenor 
+points out that the Final Rule is not only the result of a 
+unique process involving simultaneous development of air and 
+water regulations, but the result of many years of research 
+and analysis by both EPA and the pulp and paper industry 
+and the result of a process in which environmental interest 
+groups also had substantial involvement.  Who is right about 
+the Final Rule as it applies to BPK in an ultimate sense is not 
+the concern of the court.
+
+     The question before the court is limited to whether EPA 
+has acted arbitrarily or capriciously, or otherwise not in 
+accordance with law.  5 U.S.C. s 706(2)(A);  see American 
+Iron & Steel Inst. v. EPA, 115 F.3d 979, 1004 (D.C. Cir. 
+1997).  This standard is a narrow one, Citizens to Preserve 
+Overton Park, Inc. v. Volpe, 401 U.S. 402, 415-16 (1971), and 
+if the "agency's reasons and policy choices ... conform to 
+'certain minimal standards of rationality' ... the rule is 
+reasonable and must be upheld."  Small Refiner Lead 
+Phase-Down Task Force v. EPA, 705 F.2d 506, 521 (D.C. Cir. 
+1983) (citation omitted).  Furthermore, particular deference 
+is given by the court to an agency with regard to scientific 
+matters in its area of technical expertise. Baltimore Gas & 
+Elec. Co. v. Natural Res. Def. Council, 462 U.S. 87, 103 
+(1983);  Appalachian Power Co. v. EPA, 249 F.3d 1032, 1051-
+52 (D.C. Cir. 2001).  This deference extends, moreover, to the 
+agency's interpretation of a statute it administers, particular-
+ly in a notice and comment rulemaking context.  United 
+States v. Mead Corp., 533 U.S. 218, 227-31 (2001);  Chevron, 
+U.S.A., Inc. v. Natural Res. Def. Council, 467 U.S. 837, 842-
+45 (1984).  In Part II, we address NWF's contentions.  In 
+Part III, we address Industry Petitioners' contentions.
+
+     In Part IV, we address Industry Petitioners' motion to 
+sanction NWF counsel.
+
+                               II.
+
+     NWF challenges the Final Rule on seven grounds.
+
+                                A.
+
+     In-plant Limitations.  NWF contends that EPA lacked 
+the authority to define Option B in the manner that it did.  
+By specifying that Option B involved extended delignification 
+that resulted in particular kappa numbers, NWF contends 
+that EPA defined Option B in a way that would have imposed 
+in-plant limitations on regulated entities.  Because, NWF 
+contends, EPA lacks the authority to impose such limits, 
+defining Option B in this way unlawfully inflated EPA's 
+evaluation of Option B's cost, thus invalidating its cost-driven 
+rejection of Option B as the BAT.
+
+     NWF's contentions are not well taken.  As Intervenor 
+points out, NWF's contention is based on inaccurate assump-
+tions about the technical basis for EPA's decision.  There is 
+nothing in the record to suggest that EPA defined Option B 
+in a way that would have imposed in-plant restrictions on the 
+lignin content of unbleached pulp had EPA selected Option B 
+as the BAT technology.  Rather, NWF infers such limitations 
+in the face of direct EPA statements to the contrary.  63 Fed. 
+Reg. at 18,546.  EPA has an obligation to identify the tech-
+nology options it is considering with sufficient particularity 
+that the industry to be regulated as well as environmental 
+groups such as NWF can review and comment upon proposed 
+effluent limitation guidelines and standards.  See BASF 
+Wyandotte Corp. v. Costle, 598 F.2d 637, 644-45 (1st Cir. 
+1979), cert. denied, 444 U.S. 1096 (1980);  Kennecott v. U.S. 
+EPA, 780 F.2d 445, 452-53 (4th Cir. 1985);  see also Connecti-
+cut Light & Power Co v. NRC, 673 F.2d 525, 530-31 (D.C. 
+Cir.), cert. denied, 459 U.S. 835 (1982).  Consistent with its 
+obligation, the technology that EPA identified as Option B 
+involved extended delignification that pulped to particular 
+kappa levels for hardwoods and softwoods.  However, the 
+effluent limitations deriving from that technology would not 
+have required particular mills to reach kappa numbers within 
+the mill prior to discharges of wastewater into external 
+streams, but rather would only have placed limitations on the 
+discharge amount of dioxin, furan, chloroform, AOX, and a 
+collection of chlorinated phenolic pollutants.  This is evident 
+from the NSPS, which reflects the limitations for new sources 
+
+based on the operation of Option B technology.  40 C.F.R. 
+s 430.25(1) & (2).  Indeed, as Intervenor points out, identify-
+ing a BAT technology that included effective operation of OD 
+that would result in a kappa number of 20 or less for 
+softwood and below 13 for hardwood, 63 Fed. Reg. at 18,542, 
+is no different than EPA's statements that Option A and 
+Option B included "effective brownstock washing, i.e., wash-
+ing that achieves a soda loss of less than or equal to 10 kg 
+Na2SO4 per ADMT of pulp (equivalent to approximately 99% 
+recovery of pulping chemicals from the pulp)," 100% substitu-
+tion of chlorine dioxide for chlorine, and "efficient biological 
+wastewater treatment, achieving removal of approximately 90 
+percent or more of influent BOD5."  Id.  As EPA counsel 
+suggested at oral argument, because mills are not required to 
+employ the BAT to achieve the effluent limitations, a mill 
+could implement an alternative technology that would achieve 
+the limitations by making adjustments in other parameters 
+and without achieving the kappa numbers associated with 
+Option B.  See, e.g., Effluent Limitations Guidelines, Pre-
+treatment Standards, and New Source Performance Stan-
+dards dards:  Pharmaceutical Manufacturing Category, 60 
+Fed. Reg. 21,592, 21,497 (May 2, 1995) (to be codified at 40 
+C.F.R. pt. 439).  Thus, it is apparent that no in-plant kappa 
+number requirements would have been imposed on mills had 
+Option B been selected as the BAT.  Because EPA did not 
+establish in-plant lignin limitations, we have no occasion to 
+reach NWF's contention that EPA was without authority to 
+impose in-plant technology limitations or that EPA failed to 
+provide the required notice and opportunity to comment 
+before imposing such limitations.
+
+     NWF's claim is perplexing because it contends that EPA 
+erred in rejecting a technology option that according to NWF 
+it would have been unlawful for EPA to impose.  That is, 
+NWF is simultaneously contending that the definition of 
+Option B was unlawful but that EPA should have selected it 
+as the BAT.  NWF cannot have it both ways.  If Option B 
+was unlawful, then EPA was right to reject it.  But this is not 
+the case.  NWF does not truly advocate the adoption of 
+Option B;  rather, it is seeking the adoption of a non-existent 
+
+"Option C," which would embody some but not all of the 
+elements of Option B.  EPA is not obliged to develop anew a 
+technology for consideration as the BAT;  rather, it must 
+"survey the practicable or available pollution-control technolo-
+gy for an industry and assess its effectiveness."  E.I. du Pont 
+de Nemours & Co. v. Train, 430 U.S. 112, 131 (1977).  That is 
+what EPA did here and we find no error in its definition of 
+Option B or its rejection as the BAT.  Thus, we deny NWF's 
+petition to vacate EPA's identification of Option A as the 
+BAT.
+
+                                B.
+
+     Capital Cost Estimate for Option B.  NWF next con-
+tends that EPA erred when it included the cost of installing 
+oxygen delignification ("OD") on hardwood lines in its deter-
+mination of the capital costs of extended delignification tech-
+nology for Option B.  This is error, contends NWF, because 
+OD technology is only necessary on hardwood lines to achieve 
+a kappa number lower than thirteen, a goal that is an invalid 
+in-plant limitation and costs for invalid limitations cannot be 
+considered.  Alternatively, NWF contends that if the court 
+does not view the kappa number requirement as an invalid in-
+plant restriction, consideration of the costs of installing OD on 
+hardwood lines is still beyond EPA's authority because that 
+technology is not required for hardwood lines to meet the 
+effluent limitations.  As a result, EPA's estimate of Option 
+B's capital costs was grossly inflated, contributing to its 
+rejection as the BAT.  NWF also contends that the cost of 
+Option B was further inflated by EPA's wrongful decision to 
+use the most modern OD equipment as the basis for its 
+pricing analysis.  NWF finally contends, in a separate line of 
+argument, that even if it was within EPA's authority to 
+consider costs not necessary to achieve the effluent limita-
+tions, it was arbitrary and capricious for EPA actually to 
+include such costs.
+
+     We decline to reach the merits of NWF's cost estimate 
+challenges because neither NWF nor any other party before 
+the agency raised any of these contentions during the admin-
+
+istrative phase of the rulemaking process.  It is well estab-
+lished that issues not raised in comments before the agency 
+are waived and this Court will not consider them.  E.g. Nat'l 
+Elec. Mfrs. Ass'n v. EPA, 99 F.3d 1170, 1171 n.1 (D.C. Cir. 
+1997);  Washington Ass'n for Television & Children v. FCC, 
+712 F.2d 677, 681 (D.C. Cir. 1983).  Further, this principle 
+does not apply only to newly raised factual issues as NWF 
+suggests.  Indeed, there is a near absolute bar against raising 
+new issues--factual or legal--on appeal in the administrative 
+context.  Appalachian Power Co. v. EPA, 251 F.3d 1026, 
+1036 (D.C. Cir. 2001).
+
+     Although neither NWF nor any other party raised the 
+issue that the cost of OD technology for all mills should not 
+be included in the Option B cost estimates or that the 
+assumption that modern equipment would be installed was 
+improper, NWF attempts to justify its acknowledged failure 
+to raise these issues by stating that "EPA did not provide any 
+notice or opportunity to comment on its inclusion of costs to 
+meet an in-plant limitation" and "the NWF Petitioners could 
+not have known that EPA would impose any such in-plant 
+limitation after they submitted their comments."  This claim 
+is patently false.  In its BAT and Best Management Practices 
+("BMP") Compliance Cost Estimates Report, EPA clearly 
+states, "Option B employs reduction of the lignin content of 
+the unbleached pulp through oxygen delignification (OD), 
+extended cooking (EC), or both.  These extended pulping 
+technologies result in a typical kappa number of approximate-
+ly 15 for softwood and 10 for hardwood."  EPA went on to 
+itemize the cost of Option B with reference to the individual 
+component technologies that comprise that Option in Table 
+2-8 of the same report.  In this Table, two separate line items 
+under the headings of "Capital Cost Component" and "Oper-
+ating Cost Component" are entitled "Kappa Reduction (OD/
+EC)."  Those line items report costs for this component as 
+not applicable ("N/A") to Option A and exceeding a total of 
+$1.5 billion for Option B.  Thus, NWF had notice that EPA 
+was including OD technology in Option B, that it expected 
+this technology to apply to both softwoods and hardwoods, 
+and that the cost of OD technology was a component of the 
+
+total cost of Option B.  As a result, NWF's claim of no notice 
+is meritless and it is left with no circumstance excusing its 
+failure to raise the issue.  The cases on which NWF relies are 
+to no avail.  Darby v. Cisneros, 509 U.S. 137 (1993), address-
+es exhaustion of administrative remedies, not waiver of 
+claims, and is thus wholly inapposite;  Nat'l Ass'n of Mfrs. v. 
+Department of the Interior, 134 F.3d 1095 (D.C. Cir. 1998), is 
+directly contrary to NWF's position that it has not waived its 
+OD cost claims, stating that "Our cases ... require complain-
+ants, before coming to court, to give the [agency] a fair 
+opportunity to pass on a legal or factual argument."  Id. at 
+1111 (quoting Washington Ass'n for Television & Children v. 
+FCC, 712 F.2d 677, 681 (D.C. Cir. 1983)).  We thus hold that 
+NWF has waived the OD costing issues and decline to pass 
+on their merits.
+
+                                C.
+
+     Failure to Explain the Reasonableness of EPA's Eco-
+nomic Assessment of Option B.  NWF next contends that 
+EPA's rejection of Option B was arbitrary and capricious 
+because EPA failed to demonstrate the reasonableness of its 
+assessment that Option B is not affordable by the bleach 
+paper kraft subcategory as a whole.  Because "we do not 
+review EPA's cost figuring de novo, but accord EPA discre-
+tion to arrive at a cost figure within a broad zone of reason-
+able estimate," Weyerhauser Co. v. Costle, 590 F.2d 1011, 
+1049 (D.C. Cir. 1978), in view of the complex nature of 
+economic analysis typical in the regulation promulgation pro-
+cess, NWF's burden to show error is high.  As the Fourth 
+Circuit put it, "While EPA must take seriously its statutory 
+duty to consider cost, courts of review should be mindful of 
+the many problems inherent in an undertaking of this nature 
+and uphold a reasonable effort made by the Agency."  FMC 
+Corp. v. Train, 539 F.2d 973, 979 (4th Cir. 1976).  Thus, when 
+reviewing economic analyses of EPA, "a court's 'inquiry will 
+be limited to whether the Agency considered the cost of 
+technology, along with the other statutory factors, and wheth-
+er its conclusion is reasonable.' "  Chem. Mfrs. Ass'n v. EPA, 
+870 F.2d 177, 250 (5th Cir. 1989) (quoting Ass'n of Pacific 
+Fisheries, 615 F.2d 794, 818 (9th Cir. 1980)).  The court 
+
+should not "undertake its own economic study, but must 
+uphold the regulations if EPA has established in the record a 
+reasonable basis for its decision."  Kennecott v. EPA, 780 
+F.2d 445, 456 (4th Cir. 1986);  accord Chem. Mfrs., 870 F.2d 
+at 251.
+
+     NWF contends that EPA's economic analysis was inade-
+quate because it failed to give sufficient specifics to support 
+the reasonableness of its conclusions regarding economic 
+impact.  Reference to EPA's duties under statutory and case 
+law with respect to cost assessments reveal that this conten-
+tion is without merit.  EPA is statutorily required to take 
+into account the cost of achieving effluent reduction.  33 
+U.S.C. s 1314(b)(2)(B).  However, the court has interpreted 
+this statute to mean that "the Agency need not on its own 
+undertake more than a net cost-benefit balancing to fulfill its 
+obligation under section 304."  Weyerhaeuser Co. v. Costle, 
+590 F.2d 1011, 1048 (D.C. Cir. 1978).  Although its analysis 
+may be general, EPA "has the heaviest of obligations to 
+explain and expose every step of its reasoning."  American 
+Lung Ass'n v. EPA, 134 F.3d 388, 392 (D.C. Cir. 1998).  This 
+duty to explain arises out of the need for reviewing courts to 
+be able to discern the basis for EPA's decision.  Id.
+
+     In view of our deferential standard of review it is not 
+difficult to conclude that NWF's contentions regarding EPA's 
+cost analysis must fail.  NWF's chief contention is that "EPA 
+failed ... to substantiate its claim by specifying the identity 
+of the 'large' firm or firms, how large the firm or firms are, or 
+the number of mills in the BPK subcategory owned by the 
+firm or firms."  NWF Petitioner's Br. at 37.  This is not the 
+type of contention that will topple an EPA cost assessment, 
+particularly in the context of an economic analysis as thor-
+ough and considered as the one EPA undertook in the instant 
+rulemaking.  EPA provided a detailed explanation of the 
+bases for its economic conclusions both in the Federal Regis-
+ter, 63 Fed. Reg. 18,549-51, and in the accompanying report 
+entitled "Economic Analysis for the National Emission Stan-
+dards for the Hazardous Air Pollutants for Source Category:  
+Pulp and Paper Production--Phase I (Oct. 27, 1997)" ("Eco-
+nomic Analysis").
+
+     Specifically, EPA articulated its methodology, applied it to 
+industry data, and presented the results in verbal and tabular 
+form making clear the information upon which EPA based its 
+conclusion that Option B's costs were too high.  In the 
+Economic Analysis EPA explains that compliance costs in-
+cluded both capital costs and annual operating costs.  EPA 
+described its market impact analysis methodology under 
+heading 3.2 of that report, explaining that it used elasticities 
+to estimate market price increases and factored those into the 
+financial and economic analysis.  Financial impact was de-
+scribed as encompassing facility closure, employment, and 
+output impacts resulting from compliance costs.  As EPA 
+explained, if "the present value of post-compliance net earn-
+ings is less than the salvage value of the mill ... the mill is 
+projected to close because closure is more economically ad-
+vantageous to the owner."  EPA went on to explain that 
+"[w]hen the closure analysis projects a facility closure, all 
+employment, production, and exports reported for the facility 
+are considered lost."  Regarding bankruptcy analysis, EPA 
+explained that it would use the Altman Z-score analysis, 
+comparing pre- and post-compliance Z-scores and determin-
+ing that a score dropping below 1.81 was indicative of a 
+compliance-induced bankruptcy.
+
+     EPA applied this methodology to reach several conclusions, 
+which it presented in the Economic Analysis report.  It 
+concluded that for the 29 public companies with facilities 
+regulated by the BAT, "the final BAT/PSES option [Option 
+A] results in no additional bankruptcies" while "[o]ne or more 
+companies move into the 'bankruptcy likely' category with 
+BAT/PSES Option B."  EPA then went on to outline the 
+many adverse economic consequences associated with bank-
+ruptcy which rendered any option that induced bankruptcy an 
+economically unachievable alternative under the statute.  See 
+33 U.S.C. s 1311 (b)(2)(A), (C), (D) & (F).  Regarding facility 
+closures, EPA determined that Option B would have twice the 
+adverse impact of Option A, resulting in two plant closures, a 
+loss of $273 million worth of shipments, $19 million in exports, 
+and 900 jobs.  The differences between Options A and B were 
+
+exacerbated when compliance costs of the entire Cluster 
+Rules were analyzed;  Option B in conjunction with the air 
+quality regulations would result in 4 plant closures, lost 
+shipments of $1.3 billion, $24 million in lost exports, and a loss 
+of 4,800 jobs.  This is compared to two plant closures, a loss 
+of $273 million worth of shipments, $19 million in exports, and 
+900 jobs associated with the compliance costs of Option A 
+combined with the air quality standards.
+
+     This description of how EPA applied its methodology con-
+stitutes just a portion of the detailed economic and financial 
+analysis conducted and presented by EPA.  This analysis 
+hardly arises to a failure to explain "the reasonableness of its 
+assessment that Option B is not affordable by the BPK 
+subcategory as a whole" as NWF contends.  EPA sufficiently 
+fulfills its duty to explain when it makes an "attempt at 
+explanation or justification" sufficient to provide the review-
+ing court with a "way to know the agency's methodology."  
+Engine Mfrs. Ass'n v. EPA, 20 F.3d 1177, 1182 (D.C. Cir. 
+1994).  Here, EPA offered a thorough explanation and the 
+court hardly has to "guess at the theory underlying the 
+agency's action."  SEC v. Chenery Corp., 332 U.S. 194, 196-97 
+(1947).  Indeed, EPA's "theory" is clear:  Option B costs a 
+certain amount, that cost renders facility closure a more 
+economically advantageous option, and facility closures result 
+in the loss of jobs and output formerly associated with those 
+plants.
+
+     Furthermore, any ambiguity in EPA's analysis is unrelated 
+to the methods, rationales, or assumptions of its analysis.  
+Rather, the ambiguity in the analysis and complained of by 
+NWF relates to the specific identities of the firms adversely 
+impacted in the manner that EPA predicts.  Such ambiguity 
+is insufficient to undermine the explanatory value of EPA's 
+analysis for two reasons.  First, because much of the firm-
+specific information NWF seeks constitutes protected confi-
+dential business information ("CBI") that may not be publicly 
+disclosed, EPA cannot be faulted for keeping such informa-
+tion confidential.  See 33 U.S.C. s 1318(b).  Second, the 
+provision of the identity of the specific firms at risk of 
+bankruptcy--either through naming or through the sharing 
+
+of sufficient descriptive information to allow interested per-
+sons to figure out the identity--is not a requisite of an 
+adequately explained economic analysis because a plant-by-
+plant analysis is not required under the statute.  Chem. Mfrs. 
+Ass'n v. EPA, 870 F.2d 177, 219 n.157 (5th Cir. 1989).  EPA 
+need only be concerned with the nature of the impact on the 
+industry as a whole.  Id. at 238.
+
+     In sum, EPA has provided more than an adequate explana-
+tion of its economic analysis.  EPA determined through 
+methods it clearly described that a certain number of bank-
+ruptcies and plant closures would occur under Option B.  
+EPA then determined that such economic impact rendered 
+Option B economically unachievable.  Whether Firm A or 
+Firm Z was the firm involved in the potential bankruptcy or 
+plant closure would not alter the outcome that those bank-
+ruptcies and closures would occur.  The court will not second-
+guess EPA's analysis nor "undertake [its] own economic 
+study";  rather, the court must "uphold the regulations if 
+EPA has established in the record a reasonable basis for its 
+decision."  Kennecott v. EPA, 780 F.2d 445, 456 (4th Cir. 
+1986).  A reasonable basis exists here.  We thus hold that 
+EPA's analysis was sufficiently detailed to provide an under-
+standing of the basis of its decision and that EPA's conclusion 
+that Option B was not economically achievable was not arbi-
+trary and capricious.
+
+                                D.
+
+     Altman Bankruptcy Model.  NWF next asserts EPA 
+erred in using Edward I. Altman's Z-score analysis to predict 
+the likely incidence of bankruptcies in the cost analysis of 
+Option B.  We may reject an agency's choice of a scientific 
+model "only when the model bears no rational relationship to 
+the characteristics of the data to which it is applied."  Appa-
+lachian Power Co. v. EPA, 135 F.3d 791, 802 (D.C. Cir. 1998) 
+(citing Am. Iron & Steel Inst. v. EPA, 115 F.3d 979, 1005 
+(D.C. Cir. 1997);  Chem. Mfrs. Ass'n v. EPA, 28 F.3d 1259, 
+1265 (D.C. Cir. 1994)).  That is not the case here.
+
+     NWF contends EPA's use of the Altman model is arbitrary 
+and capricious because (1) the model has become outdated 
+
+since its adoption in 1968, (2) it was devised to predict 
+bankruptcies of companies smaller than those involved here, 
+(3) it has an error rate of at least 15% and (4) in applying it, 
+EPA collected data from only a single year.  We reject each 
+objection in turn.  First, as recently as 1993 Altman con-
+firmed the model's continuing reliability, noting it had been 
+"quite accurate over these last 25 years and remains an 
+objective, established tool."  See Edward I. Altman, Corpo-
+rate Financial Distress and Bankruptcy 179 (2d ed. 1993).  
+Second, as EPA points out, Altman himself has cited the 
+financial decline of LTV Corp., International Harvester and 
+Chrysler Corp., all large companies, to illustrate the accuracy 
+of his Z-score analysis.  Id. at 197-99, 201-02.  Third, the 
+15% inaccuracy rate does not seem so large as to call into 
+question the model's reliability, especially given that the 
+decision to enter bankruptcy vel non can be influenced by 
+factors other than mere financial distress.  See id. at 197 
+(characterizing "bankruptcy" as "a behavioral event" that 
+"manifests due to the combined 'efforts' of an ineffective firm 
+and its management and the decision on the part of creditors 
+to try to recover their investment within the confines of the 
+Bankruptcy Code").  Finally, although Altman recommended 
+gathering multi-year data, he recognized that this might not 
+always be practical and so admonished that "[t]he analyst 
+interested in practical utilization of the Z-score model is 
+therefore advised to be careful."  Id. at 206.
+
+                                E.
+
+     No Limits for Color.  Next, NWF challenges EPA's deci-
+sion not to establish nationwide standards for discharge of 
+"color."  EPA determined instead that color pollution should 
+be "dealt with on a case-by-case basis through individual 
+[National Pollutant Discharge Elimination System] permits 
+or, when appropriate, through local limits."  63 Fed. Reg. at 
+18,538.  NWF contends EPA lacks authority to address the 
+problem of color pollution piecemeal but is required by sec-
+tion 301(b)(2) of the CWA to establish a single, national 
+standard.  We believe EPA acted both reasonably and within 
+its authority in adopting a case-by-case approach.
+
+   Section 301(b)(2) of the CWA governs standards for pollu-
+tants such as color:
+
+  [T]here shall be achieved--
+
+     ... 
+     
+     (2)(A) for pollutants identified in subparagraphs (C), (D), 
+     and (F) of this paragraph,1 effluent limitations for catego-
+     ries and classes of point sources, other than publicly 
+     owned treatment works, which (i) shall require applica-
+     tion of the best available technology economically achiev-
+     able for such category or class, which will result in 
+     reasonable further progress toward the national goal of 
+     eliminating the discharge of all pollutants, as determined 
+     in accordance with regulations issued by the Administra-
+     tor pursuant to section 1314(b)(2) of this title, which such 
+     effluent limitations shall require the elimination of dis-
+     charges of all pollutants if the Administrator finds, on 
+     the basis of information available to him (including 
+     information developed pursuant to section 1325 of this 
+     title), that such elimination is technologically and eco-
+     nomically achievable for a category or class of point 
+     sources as determined in accordance with regulations 
+     issued by the Administrator pursuant to section 
+     1314(b)(2) of this title....
+     
+33 U.S.C. s 1311(b)(2)(A) (footnote and emphasis added).  
+EPA found below that elimination of discharge is not "techno-
+logically and economically achievable" for color pollutants as a 
+category or class but, to the contrary, that a case-by-case 
+approach was necessary because "[t]he potential for signifi-
+cant aesthetic or aquatic impacts from color discharges is 
+driven by highly site-specific conditions."  63 Fed. Reg. at 
+18,538.2  In light of this finding, EPA's decision does not 
+
+__________
+     1 Color is among the "pollutants identified in subparagraph[ ] ... 
+(F)," the catchall subparagraph for all pollutants not identified in 
+subparagraph (C), (D) or (E).
+
+     2 EPA has long adhered to this position, which it explained more 
+fully in a 1982 rulemaking:
+
+conflict with its statutory responsibilities under section 
+301(b)(2) and its decision to handle color on a case-by-case 
+basis must be upheld as reasonable.  Cf. Maier v. EPA, 114 
+F.3d 1032 (10th Cir.), cert. denied, 522 U.S. 1014 (1997) 
+("When we apply the deference due an administrative agency 
+which Chevron mandates, '[t]he permissive nature of the 
+statute implies broad agency discretion in selecting the appro-
+priate manner of regulation.'  EPA's position that the statute 
+allows the agency to impose limits for [nitrogenous biochemi-
+cal oxygen demand] on a case-by-case basis through the 
+permitting process is a reasonable and permissible reading of 
+the statute, to which we must defer.") (quoting Professional 
+Drivers Council v. Bureau of Motor Carrier Safety, 706 F.2d 
+1216, 1221 (D.C. Cir. 1983)).
+
+                               III.
+
+     Next we consider, and reject, each of the challenges raised 
+by Industry Petitioners.
+
+                                A.
+
+     AOX Limits.  Industry Petitioners first challenge EPA's 
+decision to set limits on the discharge of AOX and to require 
+daily monitoring of AOX levels.  For the following reasons, 
+we conclude EPA's decision was within its authority and not 
+arbitrary or capricious.
+
+__________
+     The Agency is withdrawing the existing effluent limitations and 
+     standards for color and we are not establishing any new ones 
+     based on our evaluation that color is not a pollutant of national 
+     significance in this industry.  In some cases, it has been shown 
+     that color can interfere with light transmission and the process 
+     of photosynthesis in the aquatic environment.  However, in 
+     most instances, color is simply an aesthetic pollutant.  Thus, 
+     EPA no longer believes that color is a pollutant of uniform 
+     national concern in this industry.
+     
+ 
+
+Pulp, Paper, and Paperboard and the Builders' Paper and Board 
+Mills Point Source Categories Effluent Limitations Guidelines, Pre-
+treatment Standards, and New Source Performance Standards, 47 
+Fed. Reg. 52,006, 52,014 (1982).
+
+     Industry Petitioners complain EPA should not have im-
+posed AOX limits because AOX is not itself harmful and it is 
+a poor predictor of the presence of chlorinated pollutants that 
+are harmful, notably dioxin and furan.  The petitioners ex-
+plain that because ECF bleaching reduces the amount of 
+dioxin and furan, which make up only a small percentage of 
+total AOX,3 much more quickly than it reduces other AOX 
+components, AOX levels in treated wastewater do not accu-
+rately reflect the remaining levels of dioxin and furan.  In-
+dustry Petitioners may be correct that AOX is not a good 
+surrogate for dioxin and furan but EPA does not justify the 
+AOX limits on the basis that it is.  EPA proposes AOX limits 
+and testing as a means to monitor BAT/NSPS technological 
+compliance at a mill and thereby to indirectly ensure reduc-
+tion of dioxin and furan levels through compliance.  EPA 
+notes this method is both less expensive than the alternative 
+of daily measuring the specific chlorinated pollutants, see 63 
+Fed. Reg. at 18,537 ("monitoring for AOX as required in 
+today's rule is considerably less expensive" than monitoring 
+for dioxin, furan, chloroform and the 12 regulated chlorinated 
+phenolic pollutants), and more effective as well, see 63 Fed. 
+Reg. at 18,537 ("[T]he presence of AOX can be readily 
+measured in mill effluent, in contrast to the presence of many 
+of the chlorinated organic compounds regulated in today's 
+rule, which for the most part are likely to be present at levels 
+that cannot be reliably measured by today's analytical meth-
+ods.");  "Justification for Establishing Limitations and Stan-
+dards for AOX" 1 ("Limitations on AOX provide much more 
+certainty than monitoring directly for [dioxin and furan] 
+because AOX is detectable when [dioxin and furan] concentra-
+tions are below the analytical method minimum level.").
+
+     In response, Industry Petitioners do not dispute that meas-
+uring AOX levels is an effective means of monitoring BAT 
+and NSPS compliance.  They do, however, cite cheaper alter-
+natives they contend will also be effective.  First, they sug-
+gest EPA could rely on weekly or monthly testing which 
+
+__________
+     3 AOX "is a measure of the total chlorinated organic matter in 
+wastewaters."  63 Fed. Reg. at 18,537.
+
+would adequately determine compliance.  EPA reasonably 
+concluded below, however, that daily testing is required to 
+ensure consistent and effective treatment;  otherwise a mill 
+could switch its bleaching chemicals between testings.  See 
+id. at 14 (With only monthly monitoring, "there is nothing to 
+stop a mill running with some chlorine, and switching to ClO2 
+bleaching for a few days prior to the day that [dioxin and 
+furan] are monitored.").  Second, Industry Petitioners sug-
+gest EPA could simply authorize mills to "certify" that they 
+are in compliance in lieu of testing.  EPA responds, again 
+reasonably, that certification will not prevent treatment laps-
+es attributable to human error.
+
+                                B.
+
+     Definition of "New Source."  Industry Petitioners next 
+contend that EPA unreasonably broadened the existing defi-
+nition of "new source" by designating supplemental fiber lines 
+as "new sources" in the Rule's preamble, and thereby subject-
+ing supplemental fiber lines to Option B technology under the 
+New Source Performance Standard ("NSPS").  We conclude, 
+as did the relevant parties at oral argument, that this argu-
+ment is "much ado about nothing" given the language of the 
+regulatory text.
+
+     Section 306 of the Act defines a "new source" as "any 
+source, the construction of which is commenced after the 
+publication of proposed regulations prescribing a standard of 
+performance under this section which will be applicable to 
+such source, if such standard is thereafter promulgated in 
+accordance with this section."  33 U.S.C. s 1316(a)(2);  see 
+also 40 C.F.R. s 122.2 (general definition of "new source" for 
+direct dischargers).  A "source" is defined as "any building, 
+structure, facility, or installation from which there is or may 
+be the discharge of pollutants."  33 U.S.C. s 1316(a)(3);  40 
+C.F.R. s 122.29(a)(2).  If a source is designated as a "new 
+source," then it must adhere to the NSPS.
+
+     In 1984, EPA promulgated a final rule which made it clear 
+that the NSPS applies only to sources that meet the "new 
+source" definition in 40 C.F.R. s 122.2, as well as one of the 
+
+following three criteria:  (i) it is constructed at a site at which 
+no other source is located (i.e., a greenfield site);  (ii) it totally 
+replaces the process or production equipment that causes the 
+discharge of pollutants at an existing source;  or (iii) its 
+processes are substantially independent of an existing source 
+at the same site.  40 C.F.R. s 122.29(b)(1).  If new construc-
+tion does not satisfy 40 C.F.R. s 122.2 and one of the three 
+criteria set forth in 40 C.F.R. s 122.29(b)(1), then the con-
+struction is generally classified as a "modification" and is not 
+subject to the NSPS.
+
+     The 1984 rule also included two factors to assist in deter-
+mining whether new processes are "substantially indepen-
+dent" from an existing source under 40 C.F.R. 
+s 122.29(b)(1)(iii).  See National Pollutant Discharge Elimina-
+tion System Permit Regulations, 49 Fed. Reg. 37,998, 38,043 
+(1984).  The first factor examines the degree to which new 
+processes are integrated with existing ones.  "Under this first 
+factor, if the new facility is fully integrated into the overall 
+existing plant, the facility will not be a new source....  
+However, on the other extreme, if the only connection be-
+tween the new and old facility is that they are supplied 
+utilities such as steam, electricity, or cooling water from the 
+same source or that their wastewater effluents are treated in 
+the same treatment plant, then the new facility will be a new 
+source."  49 Fed. Reg. at 38,043.  The second factor is 
+whether and to what extent "the construction results in 
+facilities or processes that are engaged in the same general 
+type of activity as the existing source."  Id.  This factor looks 
+to whether "the proposed facility is engaged in a sufficiently 
+similar type of activity as the existing source," in which case 
+the facility "will not be treated as a new source."  Id.
+
+     In the Cluster Rules, EPA promulgated a new definition of 
+"new source" for pulp and paper mills in the bleached paper-
+grade kraft and soda and papergrade sulfite subcategories.  
+See 40 C.F.R. s 430.01(j).  This new definition completely 
+adopted the three criteria from the general definition in Part 
+122 (compare 40 C.F.R. s 122.29(b)(1)(i), (ii) & (iii) with 40 
+C.F.R. s 430.01(j)(1)(i), (ii) & (iii)).  It also clarified the 
+second criterion by stating that the "total replacement of a 
+
+fiber line" could trigger a new source determination.  Com-
+pare 40 C.F.R. s 430.01(j)(1)(ii) with 40 C.F.R. 
+s 122.29(b)(1)(ii);  see also National Emission Standards for 
+Hazardous Air Pollutants for Source Category:  Pulp and 
+Paper Production, 63 Fed. Reg. 18,504, 18,552 (1998).  EPA 
+thus specifically identified a particular type of construction 
+that would trigger a new source determination under 40 
+C.F.R. s 430.01(j)(1)(ii).  EPA also explained in the Rule's 
+preamble that a "new fiber line built to supplement an 
+existing fiber line" would be considered a "substantially inde-
+pendent" source within the meaning of 40 C.F.R. 
+s 430.01(j)(1)(iii), and would consequently be considered a 
+"new source" subject to the NSPS.  See 63 Fed. Reg. at 
+18,552, 18,567-68;  40 C.F.R. s 430.01(j)(1)(iii).  EPA did not, 
+however, incorporate this concept into the regulatory text of 
+40 C.F.R. s 430.01(j)(1)(iii);  s 430.01(j)(1)(iii) remains identi-
+cal to s 122.29(b)(1)(iii).  Moreover, EPA made clear in its 
+Response to Comments that its new definition was not intend-
+ed to include as a new source any new facilities that "would 
+not otherwise be captured by the current definition of new 
+source at 40 C.F.R. 122.29(b)(1)."  EPA also explained during 
+oral argument that while the preamble states an "expecta-
+tion" regarding supplemental fiber lines based on the evi-
+dence in the record, the "new source" definition was not 
+intended to be inconsistent with its earlier definition.
+
+     Despite the unchanged language from s 122.29(b)(1)(iii) to 
+s 430.01(j)(1)(iii), Industry Petitioners and EPA devote signif-
+icant portions of their briefs to arguing whether supplemental 
+fiber lines are "substantially independent" such that they fit 
+the definition of "new source," and, consequently, whether 
+they should be subject to the NSPS.  Industry Petitioners 
+argue that, through the Final Rule's preamble, EPA has 
+created an irrebuttable presumption that all supplemental 
+fiber lines are "substantially independent" from existing 
+sources and therefore subject to the NSPS.  Industry Peti-
+tioners further argue that EPA cannot, as a matter of law, 
+make that presumption.  EPA must instead make indepen-
+dent determinations of supplemental fiber lines based on the 
+two factors in the "substantially independent" test.  At oral 
+
+argument, Industry Petitioners stated that they would not 
+object to the new source definition if we found that such an 
+irrebuttable presumption was inappropriate, and instead re-
+lied on the "substantially independent" test for new source 
+determinations.
+
+     We find that EPA did not establish an irrebuttable pre-
+sumption that supplemental fiber lines are new sources under 
+the Final Rule.  Consequently, Industry Petitioners' objec-
+tion to the "new source" definition is moot.  The definition of 
+"new source" included in the text of the Final Rule as it 
+pertains to supplemental fiber lines is altogether unchanged 
+from EPA's earlier definition of "new source."  To the extent 
+the preamble suggests a change in EPA's "new source" 
+determinations, that suggestion is rejected.  The preamble to 
+a rule is not more binding than a preamble to a statute.  "A 
+preamble no doubt contributes to a general understanding of 
+a statute, but it is not an operative part of the statute and it 
+does not enlarge or confer powers on administrative agencies 
+or officers."  Ass'n of American R.Rs. v. Costle, 562 F.2d 
+1310, 1316 (D.C. Cir. 1977) (citing Yazoo Railroad Co. v. 
+Thomas, 132 U.S. 174, 188 (1889)).  "Where the enacting or 
+operative parts of a statute are unambiguous, the meaning of 
+the statute cannot be controlled by language in the pream-
+ble."  Id.  Section 430.01(j)(1)(iii) (the section applicable to 
+supplemental fiber lines) remains unchanged from EPA's 
+earlier "new source" definition set forth in 40 C.F.R. 
+s 122.29(b)(1)(iii).  When we examine the text of 40 C.F.R. 
+s 430.01(j)(1)(iii), together with EPA's statements both in its 
+Response to Comments and during oral argument that it did 
+not intend to change the definition of 40 C.F.R. 
+s 122.29(b)(1), there is nothing left of the Industry Petition-
+ers' objection to the "new source" definition.  Permitting 
+authorities will continue to make "new source" determinations 
+using the regulatory text and the two factors of the "substan-
+tially independent" test identified by EPA to assist in making 
+such determinations--criteria that have not been changed in 
+any fundamental respect from EPA's earlier rule.  In short, 
+EPA did not act arbitrarily or capriciously in promulgating its 
+"new source" definition.
+
+                                C.
+
+     Selection of Option B Technology for "New Sources."  
+Industry Petitioners next challenge EPA's decision to adopt 
+Option B technology as the NSPS.  See 63 Fed. Reg. at 
+18,553.  Industry Petitioners object to Option B on two 
+grounds:  1) extended cooking/oxygen delignification will only 
+result in measurable decreases in AOX, not known pollutants;  
+and 2) in light of EPA's "new source" definition applying to 
+supplemental fiber lines, Option B's cost is not justified.
+
+     We addressed, and dismissed, Industry Petitioners' first 
+argument under our discussion of "AOX Limits," supra, and 
+we need not repeat our analysis here.  As for Industry 
+Petitioners' second argument, we find that much of it results 
+from their assumption that the Rule's preamble language 
+creates an "irrebuttable presumption" that supplemental fiber 
+lines will be considered new sources under the Final Rule.  
+We dismissed this assumption under our previous section, 
+noting that it is the language of the regulatory text, and not 
+the preamble, that controls.  To the extent that construction 
+of a supplemental fiber line meets the long-held and un-
+changed criteria of the "substantially independent" test (and 
+thus constitutes a "new source"), then that supplemental fiber 
+line would be subject to Option B technology--as would any 
+"new source" construction.
+
+     In any event, EPA's economic analysis concerning Option B 
+technology for the NSPS was not arbitrary or capricious.  
+First, appellate courts give EPA considerable discretion to 
+weigh and balance the various factors required by statute to 
+set NSPS.  See, e.g., BP Exploration & Oil, Inc. v. EPA, 66 
+F.3d 784, 802 (6th Cir. 1995).  "The CWA does not state what 
+weight should be accorded to the relevant factors;  rather, the 
+Act gives EPA the discretion to make those determinations."  
+Id.  Second, as Industry Petitioners concede, section 306 
+requires that, when setting the NSPS, the Administrator 
+must take costs into consideration, but does not require that 
+she conduct a cost-benefit analysis.  "[T]he Administrator 
+must inquire into the initial and annual costs of applying the 
+technology and make an affirmative determination that those 
+
+costs can be reasonably borne by the industry."  Chem. Mfrs. 
+Ass'n v. EPA, 870 F.2d 177, 262 (5th Cir. 1989);  see also CPC 
+Int'l, Inc. v. Train, 540 F.2d 1329, 1341 (8th Cir. 1976) 
+("There is no language in s 306 requiring a cost-benefit 
+analysis.  Rather, EPA is required only to take costs under 
+'consideration.'  We conclude, therefore, that a cost-benefit 
+analysis is not required in determining the reasonableness of 
+the cost of achieving the new source standards.").  Section 
+306(b)(1)(B) requires only that "[i]n establishing or revising 
+Federal standards of performance for new sources ... the 
+Administrator shall take into consideration the cost of achiev-
+ing such effluent reduction, and any non-water quality envi-
+ronmental impact and energy requirements."  33 U.S.C. 
+s 1316(b)(1)(B).  This EPA has done.
+
+     After conducting its economic analysis, EPA rejected Op-
+tion B technology for existing sources because EPA conclud-
+ed it would cause severe economic disruption that could not 
+be reasonably borne by the pulp and paper industry.  See 63 
+Fed. Reg. at 18,550-51.  With respect to its cost analysis at 
+new sources, EPA concluded that "[t]he incremental capital 
+cost of complying with the selected NSPS for all pollutants, 
+as compared to the costs of complying with the standards 
+based on the next best technology, BAT Option A, is only .5 
+to 2.0% of the total capital cost of constructing either a new 
+source fiber line at an existing mill or a new greenfield mill."  
+63 Fed. Reg. at 18,553.  Thus implementing Option B tech-
+nology would only increase the costs of constructing a new 
+mill or fiber line by 0.5% to 2%.  As such, EPA concluded 
+that the cost of implementing Option B technology for new 
+sources was reasonable.  Indeed, Industry Petitioners con-
+cede that this economic analysis alone would likely satisfy 
+section 306.  Industry Petitioners instead take issue with the 
+perceived "irrebuttable presumption" concerning supplemen-
+tal fiber lines set out in the Rule's preamble.  Such a pre-
+sumption, argues Industry Petitioners, renders EPA's eco-
+nomic analysis arbitrary and capricious because EPA "failed 
+to take into account the tremendous cost of retrofitting 
+existing mills to accommodate the Option B technology as 
+required under the expanded definition of new source."  Ac-
+
+cording to Industry Petitioners, existing mills will, in fact, be 
+required to implement Option B technology--at a cost that 
+EPA has already found to be prohibitive.
+
+     Industry Petitioners' argument depends on an expanded 
+definition of "new source."  Without reliance on the expanded 
+definition, Industry Petitioners have already conceded that 
+EPA's economic analysis will likely pass judicial review.  
+They are correct.  And because we have already rejected the 
+"expanded definition" of "new source" (drawn from the Rule's 
+preamble) in favor of the existing definition of "new source" 
+(based on the traditional "substantially independent" test), we 
+find no merit to Industry Petitioners' argument challenging 
+EPA's economic analysis.
+
+                                D.
+
+     Monthly Effluent Limitations.  Industry Petitioners next 
+object to EPA's decision to set the monthly maximum effluent 
+limitation at the 95th percentile of the distribution of monthly 
+measurements rather than the 99th percentile.  For the 
+reasons that follow, we find that EPA did not act arbitrarily 
+or capriciously in setting the monthly limitation at the 95th 
+percentile.
+
+     EPA monitors a mill's discharge of pollutants by setting 
+and monitoring daily and monthly standards of performance 
+that mills must achieve.  The Cluster Rules require plants to 
+achieve effluent limitations that are based on the proper 
+operation of mills using the model technologies.  According to 
+EPA, "limitations ... are numerical values that are bounds 
+on the amounts of pollutants that may be discharged and are, 
+in effect, measures of how well the production processes and 
+wastewater treatment systems must be operated."  The daily 
+maximum limitation is a restriction on the amount of pollutant 
+in any one daily sample.  The type of limitation at issue here, 
+the monthly average limitation, is a restriction on the average 
+of daily measurements taken during a month.
+
+     Briefly, the limitations are derived using the following 
+process:  EPA determines an average performance level, or 
+long-term average, that a well-designed mill using the model 
+
+technologies can achieve.  Recognizing variability among 
+treatment processes, pollutant concentrations, sampling, and 
+analysis, EPA incorporates "variability factors" into the limi-
+tations to account for these sources of variability.  Because 
+the variability factors for the Cluster Rules were derived 
+from mills using the model technologies, EPA asserts that the 
+effluent limitations "already account for any reasonable varia-
+bility likely to occur and thus well operated mills implement-
+ing technologies representing the appropriate levels of control 
+will be capable of compliance at all times."  EPA then 
+calculates limitations based on percentiles using the products 
+of long-term averages and variability factors.  The chosen 
+percentiles are intended to accommodate reasonably antici-
+pated variability within the mill's control while at the same 
+time reflect a level of performance consistent with BAT and 
+BADT.
+
+     EPA has consistently used the 99th percentile of the distri-
+bution of daily measurements as the basis for daily maximum 
+limitations, and has at times used the 99th percentile of the 
+distribution of monthly averages as the basis for monthly 
+average effluent limitations.  In its Cluster Rules, EPA set 
+the daily maximum limitation for BAT technology at the 99th 
+percentile, and it set the monthly maximum limitation for 
+BAT technology at the 95th percentile.  Industry Petitioners 
+argue that EPA deviated from past precedent by setting the 
+monthly average limitations at the 95th percentile rather than 
+the 99th percentile, and that EPA has designed a system that 
+ensures a well-operated mill using the model technologies will 
+exceed the monthly average limitations 5% of the time.
+
+     We reject Industry Petitioners' arguments and uphold 
+EPA's decision to set the monthly average limitation at the 
+95th percentile.  EPA has considerable discretion in deter-
+mining a technical approach that will ensure that effluent 
+limitations reasonably account for expected variability in 
+plant operations while still maintaining an effective level of 
+control.  See Weyerhaeuser Co. v. Costle, 590 F.2d 1011, 
+1056-58 (D.C. Cir. 1978).  While EPA set monthly average 
+limitations at the 99th percentile for the pulp and paper 
+industry in 1982 and 1986 rulemakings for Best Practicable 
+
+Technology ("BPT") and Best Conventional Technology 
+("BCT"), Industry Petitioners ignore the fact that after those 
+rule-makings, EPA determined, "as a matter of policy, that 
+the 95th percentile was a more appropriate choice for month-
+ly average limitations in all industrial effluent guidelines 
+rulemakings because the variability of monthly averages is 
+less than the variability of daily measurements."  EPA has 
+followed that policy in developing monthly average limitations 
+in all effluent guidelines rulemakings since 1987.  It was 
+neither arbitrary nor capricious for EPA to continue that 
+policy here.
+
+     EPA carefully explained that its purpose in setting the 
+monthly average limitations at the 95th percentile was to 
+ensure that a mill achieves the long-term average effluent 
+levels.  EPA explained that the daily maximum limitations 
+are set at a higher percentile level to account for the greater 
+variability expected from daily measurements.  But consis-
+tent compliance with the daily maximum limitation alone 
+would not ensure compliance with the long-term average.  
+Continuous operation at or near the daily maximum would in 
+fact result in discharges that exceed the long-term average.  
+Likewise, setting monthly limitations at the 99th percentile 
+would not insure that the long-term average is met.  EPA 
+therefore set the monthly average limitation at a lower level 
+to ensure that mills operate more closely around the long-
+term average.  EPA reasonably anticipated that, because 
+monthly average limitations are based on averages of more 
+than one daily measurement, less variability would be present 
+in monthly measurements than in daily measurements.  As 
+EPA observed in its Response to Comments:  "In establishing 
+monthly average limitations, EPA's objective is to provide an 
+additional restriction that supports EPA's objective of having 
+facilities control their average discharges at the long-term 
+average.  The monthly average limitation requires continuous 
+dischargers to provide on-going control, on a monthly basis, 
+that complements controls imposed by the daily maximum 
+limitation.  In order to meet the monthly average limitation, 
+a facility must counterbalance a value near the daily maxi-
+mum limitation with one or more values well below the daily 
+
+maximum limitation.  To achieve compliance, these values 
+must result in a monthly average value at or below the 
+monthly average limitation."
+
+     Industry Petitioners argue that even if they employ the 
+model technologies, they will still exceed the monthly average 
+limitations five percent of the time.  The "fundamental flaw" 
+in using the 95th percentile, according to Industry Petition-
+ers, is EPA's assumption that variability of discharges can be 
+adequately controlled through quality control of plant pro-
+cesses and treatment procedures.  They argue that not all 
+variances or exceedances will result from improper quality 
+control or treatment procedures, and cite the presence of two 
+elevated levels of chlorinated phenolic compounds recorded 
+by mills using the model technologies.  We reject this argu-
+ment.  First, EPA did not establish monthly average limita-
+tions for chlorinated phenolic compounds.  The relevance of 
+this argument by Industry Petitioners is therefore unclear.  
+Second, Industry Petitioners completely ignore the "upset 
+provision" that is available should an exceedance arise due to 
+an unforeseen or unexplainable event.  If such an event 
+occurs, operators may raise this "upset defense" as an affir-
+mative defense in an enforcement action.  See 40 C.F.R. 
+s 122.41(n).
+
+     EPA's approach to developing monthly limitations was 
+reasonable.  It established limitations based on percentiles 
+achieved by facilities using well-operated and controlled pro-
+cesses and treatment systems.  It is therefore reasonable for 
+EPA to conclude that measurements above the limitations are 
+due to either upset conditions or deficiencies in process and 
+treatment system maintenance and operation.  EPA has in-
+cluded an affirmative defense that is available to mills that 
+exceed limitations due to an unforeseen event.  EPA reason-
+ably concluded that other exceedances would be the result of 
+design or operational deficiencies.  EPA rejected Industry 
+Petitioners' claim that facilities are expected to operate pro-
+cesses and treatment systems so as to violate the limitations 
+at some pre-set rate.  EPA explained that the statistical 
+methodology was used as a framework to establish the limita-
+tions based on percentiles.  These limitations were never 
+
+intended to have the rigid probabilistic interpretation that 
+Industry Petitioners have adopted.  Therefore, we reject 
+Industry Petitioners' challenge to the effluent limitations.
+
+                               IV.
+
+     Motion for Sanctions.  As a final matter, we consider 
+Industry Petitioners' motion to sanction NWF counsel.  A 
+summary of the events leading up to Industry Petitioners' 
+motion is included below.
+
+     EPA, acting under its authority in 33 U.S.C. s 1318(a), 
+collected certain industry confidential business information 
+("CBI") during the development of the Cluster Rules.  On 
+November 9, 1998, NWF Petitioners filed a motion in the 
+Ninth Circuit to compel production of all CBI that EPA had 
+collected.  Nat'l Wildlife Fed'n v. Browner, No. 98-70506 (9th 
+Cir. filed Nov. 9, 1998).  Specifically, NWF sought the num-
+ber of mills with hardwood lines that used oxygen delignifica-
+tion.  Both EPA and Industry Petitioners opposed the mo-
+tion.  This Court (after receiving the transferred case) denied 
+NWF Petitioners' motion on the ground that the CBI sought 
+was "the type of sensitive information and confidential or 
+trade secret information that EPA can properly withhold 
+from public view."  Nat'l Wildlife Fed'n v. EPA, No. 99-1452 
+(D.C. Cir. Feb. 2, 2000) (order denying motion to compel 
+disclosure of information in the administrative record) (citing 
+Natural Res. Def. Council v. Thomas, 805 F.2d 410, 418 n.13 
+(D.C. Cir. 1986)).
+
+     In 1999, NWF Petitioners requested information from EPA 
+regarding bleached kraft mills.  In response, EPA emailed a 
+computer file attachment to an NWF law clerk, who then 
+forwarded the email attachment to NWF counsel on June 16, 
+1999.  The file attachment contained three spreadsheets, the 
+second of which contained CBI and included the notation 
+"CBI" above the spreadsheet.
+
+     According to NWF, NWF counsel opened the file, printed 
+the spreadsheets, and reviewed them in May 2000 without 
+immediately noticing that the second spreadsheet, which in-
+cluded nine separate pages, was marked as "CBI."  He did, 
+
+however, determine that the information contained on the 
+second spreadsheet included the information he had sought in 
+his motion to compel (i.e., the number of mills running 
+hardwood lines).  Only after NWF counsel attempted to 
+locate the information in the administrative record did he 
+notice that the spreadsheet was labeled "CBI."  According to 
+NWF's counsel, the CBI notation was only located on the 
+first page of the second spreadsheet, and was in all other 
+ways inconspicuous.
+
+     That same day, NWF counsel consulted an attorney re-
+garding his ethical obligations with respect to the CBI.  The 
+attorney advised NWF counsel that a DC Ethics Opinion 
+supported the position that he could use the information that 
+was inadvertently disclosed to him.  NWF counsel then noti-
+fied EPA's in-house counsel that he received a document 
+labeled "CBI."  EPA's counsel requested return of the docu-
+ment--NWF counsel forwarded the email, but informed EPA 
+counsel that he intended to use the information included in 
+the CBI in a brief filed under seal with this Court.  EPA's 
+counsel of record then contacted NWF counsel, urged him not 
+to refer to the CBI in NWF's brief, and provided him with a 
+citation to the sources in the confidential portion of the 
+administrative record supporting the information included in 
+the CBI.  NWF Petitioners used this citation in its brief to 
+this Court.
+
+     Despite requests to return the CBI, NWF counsel refused 
+on grounds he would need the information if another party 
+contested the accuracy of the information in NWF's brief.  
+Only after EPA stipulated to certain CBI on July 17, 2000, 
+did NWF counsel return the CBI.  The next day, Industry 
+Petitioners filed a motion to impose sanctions, including dis-
+missing the NWF petition or, in the alternative, striking 
+portions of the merits brief filed by the NWF Petitioners and 
+awarding attorney fees and costs to Industry Petitioners, on 
+grounds the NWF counsel improperly disclosed CBI and 
+improperly used CBI to extract additional data from EPA 
+and a stipulation from EPA in support of NWF's litigation 
+position.
+
+     NWF argues that its counsel acted properly throughout the 
+present litigation with respect to the CBI.  NWF assures this 
+Court that its counsel did not know that the email contained 
+CBI when he first reviewed it, and relies on a DC Ethics 
+Opinion which provides that an attorney who receives inad-
+vertently disclosed information, and who has no knowledge 
+that the information was disclosed inadvertently, does not act 
+unethically in using that information to his advantage.  See 
+District of Columbia Legal Ethics Comm., Formal Op. 256 
+(1995).  (NWF does not suggest that counsel would have been 
+able to use the information if he knew that it was confidential 
+when he initially reviewed it.)  NWF also denies that NWF 
+counsel used the CBI as a bargaining chip with EPA.  Final-
+ly, NWF argues that NWF counsel did not violate this 
+Court's Order denying NWF's motion to compel because the 
+order was silent as to whether NWF could use information 
+released to it by EPA.
+
+     We begin and end our analysis with this Court's Order 
+denying NWF's motion to compel.  NWF insists that its 
+attorney did nothing wrong in retaining and using the CBI 
+because our Order did not specifically address whether the 
+information could be used if EPA disclosed it, but was instead 
+limited to whether EPA could, in fact, disclose it.  This 
+argument is disingenuous at best.  We issued our Order in 
+direct response to NWF's request for CBI--the CBI it 
+subsequently received, used, and retained.  Our Order stated 
+clearly that "[t]he confidential business information NWF 
+seeks is the type of sensitive information and confidential or 
+trade secret information that EPA can properly withhold 
+from public view."  The effect of our Order was simple:  
+NWF requested access to the information;  we denied the 
+request.  That NWF later received this information inadver-
+tently in no way changes our designation of this material as 
+"confidential," "sensitive," and similar to "trade secret infor-
+mation," and in no way changes our position that NWF 
+counsel should not have had access to it.  Because of that, we 
+fail to understand how NWF counsel, after receiving the 
+information and learning of the inadvertent disclosure, could 
+justify retaining and using the information in his possession.
+
+     NWF counsel, and the attorney he consulted, relied on 
+ethics and judicial opinions which hold that under some 
+circumstances, a privilege is waived if inadvertently released 
+by the privilege holder.  In doing so, NWF counsel and his 
+attorney appear to have mischaracterized the operative facts 
+and been unaware of caselaw from this Circuit that closely 
+resembles the question at hand:  whether the inadvertent 
+disclosure of privileged or confidential information main-
+tained by a third party (here, EPA) constitutes waiver.  See 
+SEC v. Lavin, 111 F.3d 921 (D.C. Cir. 1997).  In Lavin, we 
+noted that cases wherein a holder of the privilege inadver-
+tently discloses information provide "limited guidance on 
+whether disclosures by third parties over whom the holder of 
+the privilege has virtually no control, i.e., involuntary disclo-
+sures," constitute waiver.  Id. at 930.  We then adopted the 
+reasoning of the Ninth Circuit in United States v. de la Jara, 
+973 F.2d 746, 749-50 (9th Cir. 1992), holding that the privi-
+lege is preserved in involuntary disclosures if the privilege 
+holder has made reasonable efforts designed to protect and 
+preserve the privilege.  See Lavin, 111 F.3d at 930.  In so 
+holding, we observed that "[u]nless communications remain 
+privileged as long as the holder has acted reasonably in 
+attempting to protect them, involuntary disclosures by third 
+parties may render illusory the privilege's guarantee of priva-
+cy."  Id.  We find that Industry Petitioners' efforts in oppos-
+ing NWF's motion to compel the CBI was indeed a reason-
+able attempt to protect its confidential business information, 
+and any protection afforded that information was not waived 
+through the inadvertent disclosure of that information by 
+EPA.
+
+     We understand, however, that the present situation in-
+volves an Order of this Court concerning trade secret infor-
+mation rather than an evidentiary privilege.  The holding of 
+Lavin then, while instructive, is not necessarily controlling.  
+The Lavin holding does instruct us, however, to seriously 
+question the propriety of counsel's actions, especially when 
+taken together with the language of our Order denying NWF 
+access to the very information NWF now argues it was 
+entitled to use.  For these reasons, rather than impose 
+
+sanctions against NWF counsel, we refer this matter to the 
+Committee on Admissions and Grievances for its consider-
+ation and such recommendation or petition to the Court as 
+the Committee may see fit to present.  See In re Door, 195 
+F.2d 766, 770 (D.C. Cir. 1952).
+
+                                V.
+
+     For the reasons stated, the petitions for review and the 
+motion for sanctions are denied.
+
+                                                                      

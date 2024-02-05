@@ -1,0 +1,2199 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued November 7, 2000   Decided September 21, 2001 
+
+                           No. 00-5016
+
+                 The Honorable John H. McBryde, 
+              United States District Judge for the 
+                   Northern District of Texas, 
+                            Appellant
+
+                                v.
+
+         Committee to Review Circuit Council Conduct and 
+          Disability Orders of the Judicial Conference 
+                  of the United States, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                   for the District of Columbia
+                         (No. 98cv02457)
+
+     David Broiles and Arnon D. Siegel argued the cause and 
+filed the briefs for appellant.
+
+     William B. Schultz, Deputy Assistant Attorney General, 
+U.S. Department of Justice, argued the cause for appellee 
+
+United States of America.  David W. Ogden, Assistant Attor-
+ney General, Mark B. Stern and Scott R. McIntosh, Attor-
+neys, and Wilma A. Lewis, U.S. Attorney at the time the 
+brief was filed, were on the brief. Thomas W. Millet, Attor-
+ney, U.S. Department of Justice, entered an appearance.
+
+     Robert B. Fiske, Jr. argued the cause for appellees the 
+Committee to Review Circuit Council Conduct and Disability 
+Orders of the Judicial Conference of the United States, et al.  
+With him on the brief was Lowell Gordon Harriss.
+
+     Before:  Williams and Tatel, Circuit Judges, and 
+Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Separate opinion filed by Circuit Judge Tatel, concurring 
+in part and dissenting in part.
+
+     Williams, Circuit Judge:  On December 31, 1997 the Judi-
+cial Council of the Fifth Circuit (the "Judicial Council" or 
+"Council"), acting under the Judicial Conduct and Disability 
+Act of 1980, 28 U.S.C. s 372(c) (the "Act"), imposed sanctions 
+on the Honorable John H. McBryde, United States District 
+Judge for the Northern District of Texas.  The sanctions 
+followed a two-year investigation by a Special Committee of 
+the Judicial Council ("Special Committee"), including nine 
+days of hearings.  The Committee took evidence relating to 
+incidents spanning the entirety of Judge McBryde's judicial 
+career and involving encounters with judges and lawyers both 
+inside and outside his courtroom.  (We will consider an 
+example from the exhaustive record when we address Judge 
+McBryde's argument that the Council illegally considered the 
+merits of his judicial decisions.)
+
+     The investigation culminated in a 159-page report in which 
+the Special Committee concluded that "Judge McBryde ha[d] 
+engaged for a number of years in a pattern of abusive 
+behavior" that was " 'prejudicial to the effective and expedi-
+tious administration of the business of the courts.' "  Report 
+of the Special Committee of the Fifth Circuit Judicial Coun-
+cil Regarding Complaints Against, and the Investigation 
+
+into the Conduct of, Judge John H. McBryde at 150-51 (Dec. 
+4, 1997) ("Committee Report") (quoting 28 U.S.C. s 372(c)). 
+The Report also recommended a variety of sanctions based on 
+the provisions of s 372(c)(6)(B):  that Judge McBryde receive 
+a public reprimand, pursuant to subsection (v);  that no new 
+cases be assigned to him for a year, pursuant to subsection 
+(iv);  and that he not be allowed for three years to preside 
+over cases involving any of 23 lawyers who had participated in 
+the investigation, pursuant to subsection (vii) (providing for 
+"other action" considered appropriate in light of circum-
+stances).  See Committee Report at 152-58. The Judicial 
+Council endorsed the recommendations and issued an order 
+imposing the recommended sanctions.  See In re:  Matters 
+Involving United States District Judge John H. McBryde, 
+Under the Judicial Conduct and Disability Act of 1980, No. 
+95-05-372-0023 (Jud. Council 5th Cir. Dec. 31, 1997) ("Judi-
+cial Council Order").  The lawyer-related disqualification be-
+came effective on February 6, 1998, but the Council stayed 
+the reprimand and the one-year suspension pending review 
+by the Committee to Review Circuit Council Conduct and 
+Disability Orders of the Judicial Conference of the United 
+States (the "Review Committee").  On September 18, 1998 
+the Review Committee substantially affirmed the Council's 
+action and lifted the stay.  See In re:  Complaints of Judicial 
+Misconduct or Disability, No. 98-372-001 (Jud. Conf. U.S. 
+Sept. 18, 1998) ("Judicial Conference Report").
+
+     Soon thereafter Judge McBryde brought suit in district 
+court, claiming that the Act, both facially and as applied, 
+violated the due process clause and the Constitution's separa-
+tion of powers doctrine.1  He also claimed that the initiation 
+and conduct of the investigation against him exceeded the 
+authority granted by the statute.  Finally, he posed a First 
+Amendment challenge to the Act's restrictions on disclosing 
+
+__________
+     1  Defendants/Appellees in this case are the Review Committee;  
+Judge William J. Bauer, individually and as Chairman and as 
+member of the Review Committee;  the Judicial Council;  and Judge 
+Henry J. Politz, individually and as Chief Judge of the Court of 
+Appeals for the Fifth Circuit and as presiding member of the 
+Judicial Council, at the relevant times.
+
+the record of the proceedings.  On cross motions for sum-
+mary judgment, the district court agreed with Judge 
+McBryde's First Amendment argument, McBryde v. Commit-
+tee to Review Circuit Council Conduct and Disability Orders, 
+83 F. Supp. 2d 135, 171-78 (D.D.C. 1999), but rejected the 
+rest.  Only Judge McBryde appealed;  here he repeats the 
+essence of his remaining arguments.
+
+     Judge McBryde's claims are moot insofar as they distinc-
+tively relate to the one-year suspension, which expired on 
+September 18, 1999, and the three-year disqualification, which 
+expired on February 6, 2001.  Certain of the non-moot claims 
+are barred by the Act's preclusion of judicial review, 28 
+U.S.C. s 372(c)(10), namely the "as applied" and statutory 
+challenges;  the district court was therefore without jurisdic-
+tion to hear them.  We vacate the district court's judgment 
+insofar as it addressed the moot or precluded issues.  Judge 
+McBryde's remaining constitutional challenges fail on their 
+merits;  we therefore affirm the district court's ruling.  We 
+address first mootness, then preclusion, and finally the mer-
+its.
+
+                             *  *  *
+
+     Article III, Section 2 of the Constitution permits federal 
+courts to adjudicate only "actual, ongoing controversies."  
+Honig v. Doe, 484 U.S. 305, 317 (1988).  If events outrun the 
+controversy such that the court can grant no meaningful 
+relief, the case must be dismissed as moot.  See, e.g., Church 
+of Scientology of California v. United States, 506 U.S. 9, 12 
+(1992).  This requirement applies independently to each form 
+of relief sought, see Friends of the Earth v. Laidlaw, 528 U.S. 
+167, 185 (2000), and "subsists through all stages of federal 
+judicial proceedings, trial and appellate," Lewis v. Continen-
+tal Bank Corp., 494 U.S. 472, 477 (1990).
+
+     The one-year and three-year bans have expired.  No relief 
+sought in this case would return to Judge McBryde the cases 
+he was not assigned or otherwise improve his current situa-
+tion.  These claims will therefore be moot unless they are 
+"capable of repetition, yet evading review."  Weinstein v. 
+Bradford, 423 U.S. 147, 149 (1975).  Both the Supreme Court 
+
+and this court have held that "orders of less than two years' 
+duration ordinarily evade review."  Burlington Northern 
+R.R. Co. v. Surface Transp. Bd., 75 F.3d 685, 690 (D.C. Cir. 
+1996);  see also Southern Pac. Terminal Co. v. ICC, 219 U.S. 
+498, 514-16 (1911).  So the one-year exclusion safely qualifies.  
+We will assume in Judge McBryde's favor the same for the 
+three-year exclusion.
+
+     But are the injuries "capable of repetition"?  Stated more 
+formally, this requires "a reasonable expectation that the 
+same complaining party would be subjected to the same 
+action again."  Weinstein, 423 U.S. at 149.  When considering 
+the likelihood that an injury will be repeated, the Supreme 
+Court has in general "been unwilling to assume that the party 
+seeking relief will repeat the type of misconduct that would 
+once again place him or her at risk of that injury."  Honig, 
+484 U.S. at 320 (citing City of Los Angeles v. Lyons, 461 U.S. 
+95, 105-06 (1983);  Murphy v. Hunt, 455 U.S. 478, 484 (1982);  
+O'Shea v. Littleton, 414 U.S. 488, 497 (1974)).  Honig created 
+an exception to this general principle on the ground that 
+there it was the disabled respondent's "very inability to 
+conform his conduct to socially acceptable norms that ren-
+der[ed] him 'handicapped.' "  484 U.S. at 320.  We have no 
+basis for concluding that there is any parallel inability here.
+
+     In the cases cited by Honig the parties did not challenge 
+the underlying laws that proscribed their potential future 
+conduct.  See, e.g., O'Shea, 414 U.S. at 496-97.  McBryde 
+obviously does challenge the Act and the authority of the 
+defendants to enforce norms of judicial conduct.  But he does 
+not appear to challenge the norms themselves.  To be sure, 
+he asserts that the Special Committee's report is vague and 
+provides inadequate notice of what actions are prohibited.  
+But the fundamental standard sought to be enforced by the 
+defendants can plainly be discerned--that a judge should 
+demonstrate at least a modicum of civility and respect to-
+wards the professionals with whom he or she works.  The 
+standard is also familiar, as it clearly echoes Canon 3(A)(3) of 
+the Code of Judicial Conduct for Federal Judges.  See Code 
+of Judicial Conduct for United States Judges, Canon 3(A)(3);  
+
+Judicial Council Order at 2. Judge McBryde does not, so far 
+as we can determine, ever challenge this basic notion any-
+more than the plaintiff in Lyons claimed a right to engage in 
+the sort of conduct that (he said) commonly led to police use 
+of chokeholds.  Indeed at oral argument counsel for Judge 
+McBryde specifically acknowledged that at least some of the 
+conduct "could be considered inappropriate."  See Oral Arg. 
+Tr. at 80-81.  With this decision's confirmation of the Judicial 
+Council's authority to sanction Judge McBryde for consistent 
+failure to adhere to this norm, we think the risk of recurrence 
+fairly slight.  We recognize that docket limitations can be a 
+very serious matter.  See Wozniak v. Conry, 236 F.3d 888, 
+890 (7th Cir. 2001) (holding that depriving a tenured profes-
+sor of all teaching and research responsibilities affected a 
+property interest sufficiently to entitle him to some kind of a 
+hearing).  But here the two restrictions on Judge McBryde's 
+docket have become moot.
+
+     The dispute over the public reprimand, however, remains 
+alive.  Any thought that the reprimand is a past and irrevers-
+ible harm is belied by the fact that it continues to be posted 
+on the web site of the Fifth Circuit Court of Appeals,2 with a 
+link on the home page alongside items for current use such as 
+the court's calendar and opinions.3  Even absent that use of 
+modern technology it would be a part of the historical record.  
+Were Judge McBryde to prevail on the merits it would be 
+within our power to declare unlawful the defendants' issuance 
+of stigmatizing reports and thereby to relieve Judge McBryde 
+of much of the resulting injury.
+
+     No one has suggested that this injury to reputation is not 
+enough to afford Judge McBryde standing (the three-year 
+limit was in effect at the time of oral argument).  But we 
+have a duty to be sure of our own jurisdiction, see Bender v. 
+Williamsport Area School Dist., 475 U.S. 534, 541 (1986), so 
+we consider the question.  The Court has, of course, ruled 
+that mere injury to reputation is not enough of an impinge-
+ment on a person's liberty or property interest to trigger a 
+
+__________
+     2  See <http://www.ca5.uscourts.gov/mcbryde.htm>, last ac-
+cessed on June 20, 2001.
+
+     3  See <http://www.ca5.uscourts.gov/>, last accessed on June 
+20, 2001.
+
+requirement of due process.  See Paul v. Davis, 424 U.S. 693 
+(1976).  But injury to reputation can nonetheless suffice for 
+purposes of constitutional standing.  Thus, in Meese v. Keene, 
+481 U.S. 465 (1987), the Court found that a politician and film 
+distributor had standing to challenge a government agency's 
+stigmatizing as "political propaganda" foreign films that he 
+wished to exhibit.  The Court rested not only on affidavits 
+indicating that this branding would affect his chances for 
+reelection, id. at 473-74, but also on the impact on his 
+reputation generally, id.  Here, the official characterization of 
+an apparently upstanding federal judge as having "engaged 
+for a number of years in a pattern of abusive behavior" that 
+was " 'prejudicial to the effective and expeditious administra-
+tion of the business of the courts' " inflicts, we think, enough 
+injury.  Committee Report at 150-51 (quoting 28 U.S.C. 
+s 372(c)).
+
+     At some point, however, claims of reputational injury can 
+be too vague and unsubstantiated to preserve a case from 
+mootness.  See Advanced Management Technology, Inc. v. 
+FAA, 211 F.3d 633, 636-37 (D.C. Cir. 2000).  Insofar as the 
+one-year and three-year suspensions may have continuing 
+reputational effects on top of the defendants' express repri-
+mand, they are not enough.  The legally relevant injury is 
+only the incremental effect of a record of the suspensions 
+(since the fact of the suspensions can no longer be remedied), 
+over and above that caused by the Council's and the Confer-
+ence's explicit condemnations.  See Friedman v. Shalala, 46 
+F.3d 116, 117-18 (1st Cir. 1995).  And even as to that 
+increment the most we could say at McBryde's behest is that 
+in imposing and affirming the suspension sanction the Judicial 
+Council and Review Committee performed acts reserved by 
+the Constitution to the House and a two-thirds majority of 
+the Senate.  We cannot see how this would rehabilitate his 
+reputation.  Moreover, the Supreme Court has strongly sug-
+gested, without deciding, that where an effect on reputation is 
+a collateral consequence of a challenged sanction, it is insuffi-
+cient to support standing or, presumably, to escape mootness.  
+See Spencer v. Kemna, 523 U.S. 1, 16-17 n.8 (1998).  In this 
+circuit, when injury to reputation is alleged as a secondary 
+
+effect of an otherwise moot action, we have required that 
+"some tangible, concrete effect" remain, susceptible to judicial 
+correction.  See Penthouse Int'l, Ltd. v. Meese, 939 F.2d 
+1011, 1019 (D.C. Cir. 1991).
+
+                             *  *  *
+
+     Although the injury to Judge McBryde's reputation pre-
+serves the public reprimand from mootness and affords 
+standing, yet another question remains about our jurisdiction.  
+The statute enabling the Judicial Council and Review Com-
+mittee to consider Judge McBryde's conduct sets out the 
+avenues through which a judge may challenge actions taken 
+against him.  28 U.S.C. s 372(c)(10).  It allows a petition to 
+the Judicial Conference for review of a decision of the judicial 
+council taken under s 372(c)(6).  It then appears to preclude 
+alternative avenues of review:
+
+     Except as expressly provided in this paragraph, all or-
+     ders and determinations, including denials of petitions for 
+     review, shall be final and conclusive and shall not be 
+     judicially reviewable on appeal or otherwise.
+     
+28 U.S.C. s 372(c)(10).  Twice in the past this provision has 
+appeared before us, but on neither occasion did we need to 
+resolve its meaning.  See Hastings v. Judicial Conference of 
+the United States, 829 F.2d 91, 107 (D.C. Cir. 1987) ("Has-
+tings II");  Hastings v. Judicial Conference of the United 
+States, 770 F.2d 1093, 1103 (D.C. Cir. 1985) ("Hastings I").
+
+     There are some claims that this section definitely does not 
+preclude.  The statutory language closely parallels that con-
+strued in Johnson v. Robison, 415 U.S. 361 (1974), where 
+Congress provided that "decisions" of the Veterans Adminis-
+tration "on any question of law or fact" under certain laws 
+"shall be final and conclusive," and expressly withheld juris-
+diction from any court to review "any such decision."  Id. at 
+365 n.5 (quoting the then-applicable version of 38 U.S.C. 
+s 211(a)).  The Court held that s 211(a) had no application to 
+challenges to the constitutionality of the statutes in question, 
+
+i.e., challenges to the decisions of Congress, not the Veterans 
+Administration.  See id. at 367.  This interpretation allowed 
+the Court to avoid the " 'serious constitutional question' " that 
+would be posed "if a federal statute were construed to deny 
+any judicial forum for a colorable constitutional claim."  Web-
+ster v. Doe, 486 U.S. 592, 603 (1988) (quoting Bowen v. 
+Michigan Academy of Family Physicians, 476 U.S. 667, 681 
+n.12 (1986)).  Similarly, the wording of s 372(c)(10) does not 
+withhold jurisdiction over Judge McBryde's claims that the 
+Act unconstitutionally impairs judicial independence and vio-
+lates separation of powers.
+
+     This leaves four claims in addition to the facial constitution-
+al challenges.  Two of these four also invoke the Constitution, 
+challenging the actions of the defendants in applying the Act 
+to Judge McBryde.  The first claim is that the defendants 
+inflicted their sanction without providing him due process.  
+This claim principally involves an assertion that the whole 
+project arose out of a conflict between himself and then-Chief 
+Judge Politz, whose actions furthering the investigation 
+Judge McBryde regards as "retaliation" and who, he claims, 
+combined "investigative, charging, prosecutorial and adjudica-
+tive functions."  Judge McBryde argues, in effect, that he 
+was denied due process because Judge Politz refused to 
+recuse himself.  The second constitutional claim is somewhat 
+obscure.  He argues, in essence, that the methods used by 
+the Judicial Council and Judicial Conference in imposing the 
+sanction, were particularly invasive and therefore violated 
+judicial independence.  He cites two examples.  When the 
+Review Committee amended the Judicial Council's order so as 
+to permit reinstatement if the council found that Judge 
+McBryde had "seized the opportunity for self-appraisal and 
+deep reflection in good faith," Judicial Conference Report at 
+24, it engaged (he says) in forbidden "judicial behavior modifi-
+cation."  And the Judicial Council's use of psychiatrists for 
+advice on Judge McBryde's mental health, and on the possi-
+ble causes of his conduct, was "fundamentally destructive of 
+judicial independence."
+
+     Beyond these constitutional claims are two phrased by 
+Judge McBryde as assertions that the actions of the Special 
+
+Committee, the Council and the Review Committee against 
+him were "Beyond the Agencies' Statutory Jurisdiction."  
+One of these claims is in fact an attack on the defendants' 
+procedures, namely an argument that although the investiga-
+tive process was launched by complaints formally filed under 
+s 372, it widened as it went on to encompass conduct not 
+mentioned in those initial complaints.  The other is a claim 
+that the defendants were without statutory authority to inves-
+tigate and penalize Judge McBryde "for" the merits of his 
+decisions and rulings (his characterization of defendants' ac-
+tions).  We conclude that s 372(c)(10) bars all four chal-
+lenges.
+
+     As we said, two of the claims are framed in constitutional 
+terms.  When the Constitution is invoked, a claim of preclu-
+sion faces an especially high hurdle.  "[W]here Congress 
+intends to preclude judicial review of constitutional claims its 
+intent to do so must be clear."  Webster, 486 U.S. at 603 
+(citing Robison, 415 U.S. at 373-74).  And a series of cases in 
+this circuit have held that this special clarity is necessary 
+even for as applied challenges.  See Griffith v. FLRA, 842 
+F.2d 487, 494-95 (D.C. Cir. 1988);  Ungar v. Smith, 667 F.2d 
+188, 193 (D.C. Cir. 1981);  Ralpho v. Bell, 569 F.2d 607, 620-
+21 (D.C. Cir. 1977).  Under these cases, we find preclusion of 
+review for both as applied and facial constitutional challenges 
+only if the evidence of congressional intent to preclude is 
+"clear and convincing."  The preclusive language here is quite 
+similar to that of 5 U.S.C. s 8128(b), which the Court singled 
+out in Lindahl v. OPM, 470 U.S 768, 779-80 & n.13 (1985), as 
+an "unambiguous and comprehensive" preclusion of review.  
+See also Czerkies v. Department of Labor, 73 F.3d 1435, 1443 
+(7th Cir. 1996) (Easterbrook, J., concurring).  But see id. 73 
+F.3d at 1442 (majority opinion finding jurisdiction despite 
+s 8128(b));  Paluca v. Secretary of Labor, 813 F.2d 524, 525 
+(1st Cir. 1987) (same).  But under this court's Ralpho trilogy, 
+we have not regarded broad and seemingly comprehensive 
+statutory language as supplying the necessary clarity to bar 
+as applied constitutional claims.  See Griffith, 842 F.2d at 490 
+(citing 5 U.S.C s 7123(a) (1982));  Ungar, 667 F.2d at 193 
+(citing 22 U.S.C. s 1631o(c) (1976));  Ralpho, 569 F.2d at 613 
+
+(citing s 2020 of the Micronesian Claims Act of 1971).  In the 
+absence of explicit statutory language barring review of con-
+stitutional challenges, the opinions studied the legislative 
+history, finding the clear and convincing standard unsatisfied 
+in all three cases.  Griffith, 842 F.2d at 494-95;  Ungar, 667 
+F.2d at 196;  Ralpho, 569 F.2d at 621-22.
+
+     We pretermit the possibility that the Supreme Court's 
+decision in Traynor v. Turnage, 485 U.S. 535, 542-45 (1988), 
+postdating the last of the circuit trilogy (Griffith), has under-
+mined the trilogy's premise.  It may have done so by treating 
+the Robison decision (source of the circuit trilogy) as deriving 
+more from statutory language allowing review of attacks on 
+the facial validity of the provision being applied (whether the 
+attack was statutory or constitutional), and less from ideas of 
+special status for constitutional claims.
+
+     Assuming arguendo the full applicability of the circuit 
+trilogy, however, we nonetheless find the requisite clarity of 
+preclusive intent.  Of course if the trilogy is read to require 
+magic words expressly barring as applied constitutional at-
+tacks, they are not to be found.  But the legislative history 
+manifests express concern over the Robison issue and what 
+appears to have been a deliberate congressional effort to 
+assure that in practice ample review would occur.  Congress 
+vested the authority for implementing the Act exclusively in 
+the hands of Article III judges, providing for initial action by 
+one group of such judges and for review by another group.  
+Having done so, Congress clearly meant to be understood 
+quite literally when it said in s 372(c)(10) that orders of the 
+Judicial Conference or relevant standing committee "shall not 
+be judicially reviewable on appeal."
+
+     The Senate bill would have established a special Article III 
+court for review of misconduct findings--coupled with preclu-
+sion of any other review.  S. 1873, as reported out of commit-
+tee and as passed by the Senate, provided for creation of a 
+" 'court of record to be known as the Court on Judicial 
+Conduct and Disability.' "  See S. 1873, 96th Cong. s 2(a) 
+(proposed 28 U.S.C. s 372(g)(1)) (as reported to the full 
+Senate by the Judiciary Committee on October 10, 1979).  
+
+" 'The Court may exercise all appropriate judicial powers 
+incident or necessary to the jurisdiction conferred upon it.' "  
+Id.  The bill precluded further review of the Court's actions 
+in language similar to that of the final version:  " 'There shall 
+be no judicial review of any order or action of the Court taken 
+under this subsection or subsection (h).' "  Id. (proposed 28 
+U.S.C s 278(i)(3)).  In discussing the new Court, the Commit-
+tee report said:
+
+     A national court of stature will help to alleviate the fear 
+     and public perception of a local "whitewash" of a citizen's 
+     complaint.  It will also provide a forum for a judge who 
+     believes that the council of his circuit has acted against 
+     him in an unwarranted or unfair manner.  In addition, by 
+     providing this court with broad discretionary power to 
+     regulate the number of cases it wishes to hear, the 
+     provision assures that a bureaucratic, excessively formal-
+     ized procedure will be avoided.
+     
+S. Rep. No. 96-362, at 3 (1980), reprinted in 1980 U.S.C.A.A.N. 
+4315, 4317.
+
+     In the Senate debate, Senator DeConcini introduced a 
+report commissioned by the Judiciary Committee's staff and 
+prepared by Mr. Johnny H. Killian.  The report directly 
+addressed the Robison issue.  After reviewing Supreme 
+Court authority on whether any right of appeal was required, 
+the report said:
+
+     The Supreme Court in dicta in recent cases has hinted 
+     that preclusion of judicial review of constitutional claims 
+     might raise constitutional questions, Johnson v. Robison, 
+     41[5] U.S. 361, 366-67 (1974);  Weinberger v. Salfi, 422 
+     U.S. 749, 761-762 (1975), but its concern appears to be 
+     that litigants at some point have access to an Article III 
+     court, Territory of Guam v. Olsen, 431 U.S. 195, 201-202, 
+     204 (1977), and the Court on Judicial Conduct and Dis-
+     ability would be an Article III court.
+     
+125 Cong. Rec. 30,050/1 (Oct. 30, 1979) (remarks of Sen. 
+DeConcini).
+
+     The House version called instead for review by the Judicial 
+Conference.  When it was returned to the Senate, Senator 
+DeConcini expressed regret that the "Court" envisaged by 
+the Senate bill had not survived.  But he recognized the close 
+similarity between review by that "Court" and by the Judicial 
+Conference (or a standing committee thereof):
+
+     Today's compromise substitute amendment is at least 
+     close to what was originally envisioned by the Senate this 
+     Congress, in that a permanent, independent standing 
+     committee of the judicial conference is authorized to be 
+     established.  Such a body, while not an independent 
+     review court, will provide for uniformity of decisions and 
+     the building of precedents.
+     
+126 Cong. Rec. 28,090/2 (Sept. 30, 1980) (remarks of Sen. 
+DeConcini).
+
+     Indeed, it is not clear whether there is any material 
+difference between the two.  In both cases, of course, the 
+persons conducting the review are exclusively Article III 
+judges.  In both cases review is discretionary.  126 Cong. 
+Rec. 28,092/3 (Sept. 30, 1980).  Speaking of the Judicial 
+Conference review, Senator DeConcini observed:  "It is envi-
+sioned that over the long term these petitions will develop 
+into something like petitions for writs of certiorari to the 
+Supreme Court of the United States."  Id.
+
+     It seems fair to suppose that both houses of Congress 
+realistically expected that the Judicial Conference would hear 
+all serious claims.  Indeed, explaining its rejection of the 
+Senate proposal for a new court, the House Judiciary Com-
+mittee only expressed concern that its formal character would 
+unduly invite complaints against judges and thereby threaten 
+judicial independence:
+
+     In essence, the Committee rejected the special court 
+     feature of S. 1873 and certain other of its features 
+     because creation of a system in which complaints against 
+     federal judges could be so easily pressed to a formal 
+     adversary accusatorial proceeding raised the dangers of 
+     a substantial chilling effect on judicial independence, as 
+     
+     well as the danger of infliction of harm and disruption of 
+     the administration of justice.
+     
+H.R. Rep. No. 96-1313, at 18 (1979).  The only discussion of 
+the matter on the floor was the observation that "[t]here is 
+also an appellate procedure which culminates in the Judicial 
+Conference of the United States."  126 Cong. Rec. 25,370/3 
+(Sept. 15, 1980) (remarks of Rep. Gudger).  Thus the House's 
+expectations for review appear to be entirely consistent with 
+those of the Senate.  Only the means for providing the review 
+were altered, and the shift seems to be due to a greater, not 
+lesser, solicitude for judges' constitutional rights and inter-
+ests.
+
+     Later developments seem to suggest that the risks the 
+compromise sought to constrain were indeed substantial.  Ac-
+cording to the Administrative Office of the U.S. Courts, the 
+year ending September 30, 2000 saw 696 complaints filed 
+under s 372(c).  During the same period, 715 complaints 
+were concluded.  Chief judges dismissed 359 complaints and 
+judicial councils dismissed 354 more.  Only two resulted in 
+public censure and 162 remain pending.4  Defending against 
+these claims is disruptive and potentially expensive.  See 
+App. Br. at 52.  Congress sought in the Act to give the 
+judiciary the power to "keep its own house in order" by 
+conducting its own investigations of misconduct.  See S. Rep. 
+No. 96-362, at 11, reprinted in 1980 U.S.C.A.A.N. at 4325.  
+By adding review preclusion, they limited the potential dis-
+ruption, while providing for adequate review in those few 
+cases that might require it.
+
+     We note that the Judicial Conference committee has dis-
+claimed authority to rule on as applied, as well as facial, 
+constitutional challenges:
+
+          We have no competence to adjudicate the facial consti-
+     tutionality of the statute or its constitutional application 
+     to the speech of an accused judge, however inappropriate 
+     
+__________
+     4  See 2000 Report of the Director, Table S-22, Report of 
+Complaints Filed and Action Taken Under Authority of Title 28 
+U.S.C. Section 372(c) available online at <http://www.uscourts. 
+gov/judbus2000/tables/s22sep00.pdf>, last accessed on June 20, 
+2001.
+
+     or offensive his words may be.  We are not a court.  Our 
+     decisions are not subject to review by the Supreme Court 
+     of the United States.  We sit in review of the action of 
+     the Circuit Council.  The courts of the United States are 
+     open for the adjudication of such questions.
+     
+Judicial Conference Report at 21, quoting its decision in No. 
+84-372-001.  The committee offered no reason for this posi-
+tion.  While we apply deference under Chevron, U.S.A., Inc. 
+v. NRDC, 467 U.S. 837 (1984), to agencies' jurisdictional 
+decisions, see Transmission Access Policy Study Group v. 
+F.E.R.C., 225 F.3d 667, 694 (D.C. Cir. 2000);  Oklahoma 
+Natural Gas v. FERC, 28 F.3d 1281, 1283-84 (D.C. Cir. 1994), 
+the statutory mandate to the committee appears to contain no 
+language justifying a decision to disregard claims that a 
+circuit judicial council has violated a judge's constitutional 
+rights in application of the Act.  See s 372(c)(10) (authorizing 
+"review" by the Judicial Conference or a standing committee 
+thereof).  To be sure, agencies ordinarily lack jurisdiction to 
+" 'adjudicat[e] ... the constitutionality of congressional enact-
+ments,' " Thunder Basin Coal Co. v. Reich, 510 U.S. 200, 215 
+(1994) (quoting Robison, 415 U.S. at 368), "although the rule 
+is not mandatory," id.  But agencies do have "an obligation to 
+address properly presented constitutional claims which ... do 
+not challenge agency actions mandated by Congress."  Grace-
+ba Total Communications, Inc. v. F.C.C., 115 F.3d 1038, 1042 
+(D.C. Cir. 1997).  See also Meredith Corp. v. F.C.C., 809 F.2d 
+863, 872-74 (D.C. Cir. 1987).  We can see neither any reason 
+why Congress would have withdrawn that power and obli-
+gation from a reviewing "agency" composed exclusively of 
+Article III judges nor any indication that it has done so.
+
+     Thus Congress in the end enabled a sanctioned judge to 
+seek review by Article III judges of the Judicial Conference 
+of all claims except (presumably) facial attacks on the statute.  
+As a result, to read s 372(c)(10) to allow review of constitu-
+tional as-applied claims by conventional courts as well would 
+generate substantial redundancy, an implausible legislative 
+purpose.  Moreover, whereas the legislative history of the 
+statutes at issue in Griffith and Ungar reflected a "silent" or 
+
+unexplained deletion of an exception for constitutional claims, 
+see Dissent at 9-10, here Congress explained the deletion of 
+the Senate's formal Article III court.  The less formal ver-
+sion, the House Judiciary Committee thought, would be more 
+protective of sanctioned judges, because the Senate solution 
+risked generation of "formal adversary accusatorial proceed-
+ing[s]" that would "raise[ ] the dangers of a substantial chill-
+ing effect on judicial independence."  H.R. Rep. No. 96-1313, 
+at 18 (1979).  Although the difference in fact seems to us 
+largely cosmetic, the House-induced change seems entirely 
+consistent with the Senate's plan that review should cease 
+once a single Article III panel, drawn from the Judicial 
+Conference, had passed on the work of the sanctioning circuit.
+
+     In short, we find the evidence clear and convincing that 
+Congress intended s 372(c)(10) to preclude review in the 
+courts for as applied constitutional claims.  Members of Con-
+gress were aware of Robison and more generally of doctrines 
+presuming access to Article III review of decisions impinging 
+on important interests.  Put ultimately to a choice between 
+review by an Article III "Court" and review by a committee 
+of Article III judges chosen by and from the Judicial Confer-
+ence, they chose the latter.  They did so in order to protect 
+judges from the "chilling" effects of unnecessary complaints, 
+not with any expectation that the Judicial Conference would 
+scant judges' rights.
+
+     Vesting the power to review facial attacks on the Act in the 
+courts conforms fully to Robison;  but reserving to the Judi-
+cial Conference committee exclusive authority over as applied 
+constitutional challenges fulfills both the presumption in favor 
+of access to Article III review of constitutional claims and the 
+norm requiring "agencies" to avoid unconstitutional applica-
+tions not mandated by Congress, at the same time as it 
+prevents undue prolongation of the disciplinary process.  Ac-
+cordingly, we find that in s 372(c)(10) Congress clearly and 
+convincingly barred our review of Judge McBryde's claim of 
+unconstitutional application of the Act.
+
+     We are left only with the two claims that defendants 
+exceeded their statutory authority--the objections that the 
+investigation impermissibly swelled beyond the scope of the 
+
+initial complaints and that the Judicial Council sanctioned 
+Judge McBryde for the merits of his decisions.  Judge 
+McBryde seeks an exception to the jurisdictional limitation 
+for these claims under Leedom v. Kyne, 358 U.S. 184 (1958).  
+But Kyne involved preclusion that had been inferred from the 
+National Labor Relations Act, and is therefore merely an 
+application of the familiar requirement that there be "clear 
+and convincing evidence" of legislative intent to preclude 
+review.  See Board of Governors v. MCorp Financial, Inc., 
+502 U.S. 32, 44 (1991) (internal citations omitted).  Judge 
+McBryde also seeks an exception allowing review under Dart 
+v. United States, 848 F.2d 217 (D.C. Cir. 1988), where this 
+court reviewed an agency action despite an explicit preclusion 
+provision.  But Dart stands for the exceedingly narrow prop-
+osition that a statute precluding review is limited by its 
+language.  "[T]he Veterans' Administrator cannot issue oil 
+drilling permits--nor can the Secretary of Labor rescind 
+television licenses--and expect to escape judicial review by 
+hiding behind a finality clause."  Id. at 224.  Thus, in Dart 
+itself we found that the Secretary of Commerce's order 
+reversing an administrative law judge's decision did not enjoy 
+the preclusion that the statute afforded an order to "affirm, 
+modify or vacate" the ALJ's decision.  See id. at 227-31.  But 
+Dart cannot mean that statutory insulation of a specific type 
+of "order" from review is automatically ineffective whenever 
+the complainant asserts legal error.  And that is the most 
+Judge McBryde claims here.
+
+     His complaint expansion theory is that the actions taken 
+against him were not based on the merits of any properly 
+filed or identified complaint, as provided for by 28 U.S.C. 
+s 372(c)(1).  Subparagraph (c)(4)(A) gives the chief judge the 
+power to form a special committee "to investigate the facts 
+and allegations contained in the complaint."  Absent a com-
+plaint, we may assume, the Judicial Council could not make a 
+valid order under paragraph (c)(6).  Accordingly, Judge 
+McBryde argues that Circuit Rule 9(A), which allows a special 
+committee to expand the scope of an investigation, is invalid;  
+on that account, he claims, we do not have before us an 
+"order" of the sort for which judicial review is barred by 
+
+s 372(c)(10).  But s 372(c)(5) explicitly gives a special com-
+mittee the authority to "conduct an investigation as extensive 
+as it considers necessary," and s 372(c)(1) states that a valid 
+written complaint may be made by "any person."  28 U.S.C. 
+ss 372(c)(1) & (5).  Thus Judge McBryde's objection reduces 
+to arguments as to the exact reach of these provisions.  
+Treating such a claim as involving a deficiency that would 
+strip the defendants' acts of the character of "orders" for 
+purposes of s 372(c)(10) would obliterate the section altogeth-
+er.
+
+     Judge McBryde's statutory merits-relatedness claim also 
+falls short.  The Act itself is permissive when it comes to the 
+investigation of claims that are related to the merits.  The 
+chief judge, under s 372(c)(3) "may" dismiss a complaint if he 
+finds the complaint is "directly related to the merits of a 
+decision or a procedural ruling."  A finding of merits relation 
+does not prohibit the chief judge from appointing a special 
+committee and therefore does not undermine the validity of 
+the action of the Special Committee or the Judicial Council 
+for the purposes of s 372(c)(10).  Had the Fifth Circuit 
+Judicial Conference promulgated a rule specifically calling for 
+the investigation of the merits of decisions, such a rule might 
+conceivably be challenged under Traynor, 485 U.S. at 541-45 
+(allowing review of claim that an agency regulation was 
+invalidated by a statute not committed to that agency's 
+exclusive administration).  But no such rule exists in this 
+case, and Judge McBryde has stated his objection only in the 
+most general terms.  Nowhere does he suggest that the 
+Judicial Council's action has the character of a rule, or 
+suggest an exception under Traynor, or even suggest which 
+statutory provision such a rule would run afoul of.  Again, it 
+is plain that the statutory error asserted (if error it be) is not 
+the sort that under Dart would deprive the defendants' 
+orders of the status of "orders and determinations" covered 
+by s 372(c)(10), or otherwise escape its preclusive effect.
+
+                             *  *  *
+
+     Judge McBryde makes two related facial constitutional 
+challenges that survive both mootness and preclusion.  First, 
+
+he reads the clause vesting the impeachment power in Con-
+gress as precluding all other methods of disciplining judges;  
+on this theory, the Act violates separation of powers doctrine.  
+Second, he says that the principle of judicial independence 
+implicit in Article III bars discipline of judges for actions in 
+any way connected to his actions while on the bench.
+
+     The issues are of course linked, as the great bulwarks of 
+judicial independence are the guarantees of life tenure and 
+undiminished salary during good behavior.  For Judge 
+McBryde, the fact that individual judges are the direct benefi-
+ciaries of these guarantees proves that it is the individual 
+judge that is the relevant unit of judicial independence.  
+While this perspective has had its supporters, see Chandler v. 
+Judicial Council of the Tenth Circuit, 398 U.S. 74, 129-43 
+(1970) (Douglas, J., and Black, J., dissenting);  Hastings I, 770 
+F.2d at 1106-07 (Edwards, J., concurring);  but see Harry T. 
+Edwards, Regulating Judicial Misconduct and Divining 
+"Good Behavior" for Federal Judges, 87 Mich. L. Rev. 765, 
+785 (1989), the cases speak almost exclusively to judicial 
+independence from the influence or control of the legislative 
+and executive branches.  See Mistretta v. United States, 488 
+U.S. 361, 382 (1989) ("the Framers 'built into the tripartite 
+Federal Government ... a self-executing safeguard against 
+the encroachment or aggrandizement of one branch at the 
+expense of the other.' ") (quoting Buckley v. Valeo, 424 U.S. 1, 
+122 (1974));  United States v. Will, 449 U.S. 200, 217-18 (1980) 
+("[a] Judiciary free from control by the Executive and Legis-
+lature");  The Federalist No. 78 (Hamilton).  After all, "Arti-
+cle III creates[ ] not a batch of unconnected courts, but a 
+judicial department composed of 'inferior Courts' and 'one 
+supreme Court.' "  Plaut v. Spendthrift Farm, Inc., 514 U.S. 
+211, 227 (1995) (emphasis in original).
+
+     That individual judges are direct beneficiaries of the tenure 
+and salary protections of Article III by itself hardly shows 
+that the overarching purpose of these provisions was to 
+insulate individual judges against the world as a whole (in-
+cluding the judicial branch itself), rather than, as the cases 
+above indicate, to safeguard the branch's independence from 
+its two competitors.  For support of his view Judge McBryde 
+
+points to a footnote from Northern Pipeline Const. Co. v. 
+Marathon Pipe Line Co., 458 U.S. 50 (1982), in which the 
+Court said that the two guarantees "serve other institutional 
+values as well," among them "insulat[ing] the individual judge 
+from improper influences not only by other branches but by 
+colleagues as well."  Id. at 59 n.10.  But the primary value 
+the Court asserted was "to ensure the independence of the 
+Judiciary from the control of the Executive and Legislative 
+Branches of government."  Northern Pipeline, 458 U.S. at 59.  
+The conclusion that other values are also in play is a far cry 
+from Judge McBryde's argument that the individual judge 
+must be constitutionally sheltered not merely from removal 
+and salary diminution but also from lesser sanctions of every 
+sort.  Lesser sanction are common, as the Court has noted:
+
+     Many courts ... have informal, unpublished rules which 
+     ... provide that when a judge has a given number of 
+     cases under submission, he will not be assigned more 
+     cases until opinions and orders issue on his 'backlog.'  
+     These are reasonable, proper, and necessary rules, and 
+     the need for enforcement cannot reasonably be doubted.
+     
+Chandler, 398 U.S. at 85.  As there is no basis for Judge 
+McBryde's core assumption that judicial independence re-
+quires absolute freedom from such lesser sanctions, his two 
+claims fall swiftly.
+
+     Judge McBryde frames his separation of powers claim as 
+whether the Constitution "allocates the power to discipline 
+federal judges and, if so, to which branches of government."  
+App. Br. at 54.  Finding that it allocates the power to 
+Congress in the form of impeachment, he concludes that it 
+excludes all other forms of discipline.  But Judge McBryde's 
+attempt to fudge the distinction between impeachment and 
+discipline doesn't work.  The Constitution limits judgments 
+for impeachment to removal from office and disqualification 
+to hold office.  U.S. Const. art. I, s 3, cl. 7.  It makes no 
+mention of discipline generally.  The Supreme Court recently 
+observed that it accepted the proposition that "[w]hen a 
+statute limits a thing to be done in a particular mode, it 
+includes a negative of any other mode."  Christensen v. 
+
+Harris County, 529 U.S. 576, 583 (2000) (internal citations 
+omitted).  But application of the maxim depends on the 
+"thing to be done."  Here the thing to be done by impeach-
+ment is removal and disqualification, not "discipline" of any 
+sort.
+
+     The Constitution itself preserves criminal prosecution, see 
+U.S. Const. art. I, s 3, cl. 7 ("the Party convicted shall 
+nevertheless be liable and subject to Indictment, Trial, Judg-
+ment and Punishment, according to Law"), and at least three 
+circuits have held that prosecution of judges can precede 
+impeachment.  See United States v. Claiborne, 727 F.2d 842, 
+845 (9th Cir. 1984);  United States v. Hastings, 681 F.2d 706, 
+710 (11th Cir. 1982);  United States v. Isaacs, 493 F.2d 1124, 
+1140-44 (7th Cir. 1974).  Even Justices Douglas and Black, 
+who dissented in Chandler from the Court's narrowly framed 
+denial of relief for a district judge whose colleagues had 
+limited his case assignments, acknowledged that judges were 
+subject to criminal prosecution.  See Chandler 398 U.S. at 
+140 ("If they break a law, they can be prosecuted.  If they 
+become corrupt or sit in cases in which they have a personal 
+or family stake, they can be impeached by Congress.") (Doug-
+las, J., dissenting);  id. at 141-42 ("[J]udges, like other people, 
+can be tried, convicted, and punished for crimes.") (Black, J., 
+dissenting).
+
+     Judge McBryde accepts that judges are subject to prosecu-
+tion, but argues that impeachment nonetheless excludes disci-
+pline of judges by judges.  In yet another attempt to prove 
+his individualized idea of judicial independence, he points to 
+Hamilton's statement in Federalist No. 79 that:  "The precau-
+tions for [judges'] responsibility are comprised in the article 
+respecting impeachments....  This is the only provision on 
+the point, which is consistent with the necessary indepen-
+dence of the judicial character, and is the only one which we 
+find in our own Constitution in respect to our own judges."  
+The Federalist No. 79 at 532-33 (Hamilton) (Jacob E. Cooke, 
+ed., 1961) (emphasis added).  But even if we assume the 
+remark embraces not merely removal and disqualification but 
+lesser forms of discipline, it does not seem likely to have been 
+aimed at intra-branch constraints.  Hamilton's concern with 
+
+judicial independence seems largely to have been directed at 
+the threat from the two other branches.  "I agree that 'there 
+is no liberty, if the power of judging be not separated from 
+the legislative and executive powers.' "  The Federalist No. 
+78 at 523 (Hamilton) (Jacob E. Cooke, ed.) (quoting Montes-
+quieu).  And he famously characterized the judiciary as "the 
+least dangerous" branch.  Id. at 522.  Thus it seems natural 
+to read Hamilton as seeing the guarantees of life tenure and 
+undiminished compensation, and the limited means for deny-
+ing a judge their protection, simply as assuring independence 
+for the judiciary from the other branches.  The Supreme 
+Court has considered the same passage as Judge McBryde 
+invokes and so interpreted it:  "In our constitutional system, 
+impeachment was designed to be the only check on the 
+Judicial branch by the Legislature."  Nixon v. United States, 
+506 U.S. 224, 235 (1993) (some emphasis added).
+
+     Indeed, the Hamiltonian concern for protecting the judicia-
+ry from other branches argues for internal disciplinary pow-
+ers.  Arrogance and bullying by individual judges expose the 
+judicial branch to the citizens' justifiable contempt.  The 
+judiciary can only gain from being able to limit the occasions 
+for such contempt.  See In re Certain Complaints Under 
+Investigation by an Investigating Committee of the Judicial 
+Council of the Eleventh Circuit, 783 F.2d 1488, 1507-08 (11th 
+Cir. 1986)
+
+     Judge McBryde invokes another element of constitutional 
+history--the framers' consideration and rejection of the pro-
+posal to vest the impeachment power in the courts, or in some 
+combination of judicial and legislative officers.  But, as was 
+true of the effort to find a negative implication in the Consti-
+tution itself, this tells us only what we already knew:  that the 
+framers lodged the powers of removal and disqualification 
+solely in Congress, in the form of impeachment.
+
+     Judge McBryde acknowledges, as he must, that in other 
+contexts the impeachment power does not exclude all intra-
+branch discipline.  In Myers v. United States, 272 U.S. 52 
+(1926), the Supreme Court found (in the strongest form--
+against a contrary decision by Congress) that the President 
+
+had power to remove civil officers, excluding judges, even 
+though Congress would have been able to remove some of the 
+same officers only through impeachment.  While that power 
+is not absolute, its limitation does not depend on the exclusive 
+power of Congress to impeach.  See Morrison v. Olson, 487 
+U.S. 654, 691 (1988)
+
+     Judge McBryde would have us write off the Court's en-
+dorsement of executive branch discipline as peculiar to and 
+dependent on the executive's hierarchical structure.  But the 
+question is the implication from the Constitution's vesting of 
+impeachment power in Congress.  The Constitution makes no 
+distinction between judges and other officers.  It provides 
+only that "all civil Officers of the United States, shall be 
+removed from Office on Impeachment."  U.S. Const. art. II, 
+s 4.
+
+     In short, the claim of implied negation from the impeach-
+ment power works well for removal or disqualification.  But it 
+works not at all for the reprimand sanction, which bears no 
+resemblance to removal or disqualification and is the only 
+sanction in the case that remains unmoot.5  Thus Judge 
+McBryde's textual argument fails.  Given the benefits to the 
+judiciary from intra-branch efforts to control the self-
+indulgence of individual judges, we see no basis for inferring 
+structural limits on Congress's enabling such efforts.
+
+     Judge McBryde's second facial claim is that the Constitu-
+tion, even assuming it does not altogether bar intra-judicial 
+sanctions (other than by appeal, mandamus, etc.), flatly bars 
+any such sanction for "anything to do with anything that 
+happened when the judge ... was acting and deciding cases 
+or in any phase of the decisional function."  Oral Arg. Tr. at 
+17-18.  His counsel was quite explicit that this would include 
+a judge's nakedly racist disparagement of counsel, id. at 9, 
+indeed, "anything that the judge does verbally or physically 
+in the course of adjudication," id. at 8.  Asked whether this 
+would include punching counsel, Judge McBryde's counsel 
+
+__________
+     5  Obviously, we do not decide whether a long-term disqualifica-
+tion from cases could, by its practical effect, affect an unconstitu-
+tional "removal."
+
+suggested that criminal proceedings at state law would supply 
+an ample remedy.  Id. at 9.
+
+     It may help put Judge McBryde's theory in perspective to 
+look at one of the many episodes that led to the present 
+sanctions.  In 1992, Judge McBryde sanctioned a lawyer 
+appearing before him for failing to have her client attend a 
+settlement conference in violation of Judge McBryde's stan-
+dard pretrial order, which required all principals to attend 
+the conferences.  Counsel represented a corporation and its 
+employee, defendants in a suit in which plaintiffs, a woman 
+and her 10-year old daughter, had alleged sexual harassment.  
+One of the allegations was that the individual defendant "had 
+terrorized the 10-year old ... by popping out his glass eye 
+and putting it in his mouth in front of her."  Committee 
+Report at 19.  The lawyer thought the presence of the 
+individual defendant would be counter-productive to settle-
+ment efforts;  the individual had no assets and had given her 
+full authority to settle.  See id. at 20.
+
+     After chastising the lawyer, Judge McBryde required that 
+she attend a reading comprehension course and submit an 
+affidavit swearing to her compliance.  See id. at 20.  The 
+attorney submitted an affidavit attesting to the fact that she 
+found a course and attended for three hours a week for five 
+weeks.  Judge McBryde challenged her veracity and required 
+that she submit a supplemental affidavit "listing 'each day 
+that she was in personal attendance at a reading comprehen-
+sion course in compliance with [the] court's order;  the place 
+where she was in attendance on each date;  the course title of 
+each course;  how long she was in attendance on each day;  
+and the name of a person who can verify her attendance for 
+each day listed.' "  Id. at 22.  She complied. The Special 
+Committee characterized this incident as reflecting a "gross 
+abuse of power and a complete lack of empathy."  Id. at 18.  
+Judge McBryde tells us that the defendants unconstitutional-
+ly impugn judicial independence when they express a formal, 
+institutional condemnation of this sort.
+
+     We assume arguendo that the procedures of the Act may 
+not constitutionally be used as a substitute for appeal.  But 
+
+Judge McBryde's theory plainly goes well beyond judicial 
+acts realistically susceptible of correction through the avenues 
+of appeal, mandamus, etc.  Appeal is a most improbable 
+avenue of redress for someone like the hapless counsel blud-
+geoned into taking reading comprehension courses and into 
+filing demeaning affidavits, all completely marginal to the 
+case on which she was working.  Possibly she could have 
+secured review by defying his orders, risking contempt and 
+prison.  But we are all at a loss to see why those should be 
+the only remedies, why the Constitution, in the name of 
+"judicial independence," can be seen as condemning the judi-
+ciary to silence in the face of such conduct.  Counsel punched 
+out by the judge could not even pursue a remedy by risking 
+contempt, of course, since the punch involves no judicial order 
+that he could disobey.
+
+      The Court said in Chandler, in dictum to be sure:
+
+     There can, of course, be no disagreement among us as to 
+     the imperative need for total and absolute independence 
+     of judges in deciding cases or in any phase of the 
+     decisional function.  But it is quite another matter to say 
+     that each judge in a complex system shall be the absolute 
+     ruler of his manner of conducting judicial business.
+     
+398 U.S. at 84.  As we noted above, we see nothing in the 
+Constitution requiring us to view the individual Article III 
+judge as an absolute monarch, restrained only by the risk of 
+appeal, mandamus and like writs, the criminal law, or im-
+peachment itself.  We thus reject Judge McBryde's facial 
+constitutional claims.
+
+                             *  *  *
+
+         The process of construing s 372(c)(10) led us to raise and 
+answer the question whether the Review Committee was 
+authorized to entertain Judge McBryde's constitutional as-
+applied challenges, and we concluded that it was.  The Com-
+mittee, as we noted, has given a contrary answer.  As we 
+read s 372(c)(10) to deny us the authority to review any 
+aspect of the decisions about Judge McBryde other than the 
+facial constitutional claims, we have no authority to mandate 
+
+the Committee's consideration of the as applied claims.  We 
+believe, nonetheless, that the Review Committee should re-
+consider its view in light of our opinion and we therefore 
+request it to do so.
+
+                             *  *  *
+
+     Accordingly, the judgment of the district court as to the 
+one-year and three-year suspensions is vacated and the judg-
+ment as to the reprimand is affirmed.
+
+                                                                 So ordered.
+
+     Tatel, Circuit Judge, concurring in part and dissenting in 
+part:  I agree with the court in many respects:  that Judge 
+McBryde's challenge to the reprimand is not moot;  that the 
+Judicial Councils Reform and Judicial Conduct and Disability 
+Act of 1980 is not facially unconstitutional;  and that the Act 
+bars us from reviewing Judge McBryde's statutory claims.  I 
+do not agree, however, that the Act precludes us from review-
+ing Judge McBryde's as-applied constitutional claims.  I 
+would therefore have reached those claims and, because I 
+think one claim has merit, reversed the district court and 
+directed that the matter be remanded to the Fifth Circuit 
+Judicial Council for further proceedings.  Although the Coun-
+cil's Report finds that Judge McBryde engaged in some 
+clearly egregious and sanctionable conduct, the Report also 
+describes judicial conduct that was either less clearly abusive 
+or apparently quite appropriate, and the Report never ade-
+quately explains how--or even in some instances whether--
+such behavior rises to the level of a clear abuse of judicial 
+power.  The Report thus leaves open the possibility that 
+Judge McBryde was sanctioned in part for behavior that was 
+not at all abusive.  In addition, because the Report is impre-
+cise and leaves much conduct unexplained, using the Report 
+as a basis for sanctions risks chilling other district judges' 
+ability to manage their courtrooms effectively.  I thus believe 
+that the Council's actions amounted to an unconstitutional 
+infringement of judicial independence.
+
+                                I
+
+     This case has its origins in a prior dispute between Judge 
+McBryde and his colleagues over certain case assignments.  
+In late April and early May of 1995, Chief Judge Buchmeyer 
+of the Northern District of Texas reassigned two cases, 
+United States v. Satz, No. 4:94-CR-094-R (N.D. Tex.) and 
+Torres v. Trinity Industries, Inc., No. CA4-90-812-A (N.D. 
+Tex.), from Judge McBryde to himself.  The reassignments 
+responded to Judge McBryde's allegedly "unwarranted" and 
+"abusive" treatment of attorneys and court personnel.  See In 
+re John H. McBryde, 117 F.3d 208, 215-18 (5th Cir. 1997).  
+In Satz, Judge McBryde had found an Assistant United 
+States Attorney in contempt of court for, among other things, 
+stating that a sealing order in a related federal case prevent-
+
+ed her from answering certain of Judge McBryde's questions.  
+Judge McBryde believed, erroneously as it turned out, that 
+no such order existed.  Id. at 213.  Torres involved corre-
+spondence between Judge McBryde and the clerk of the court 
+over an administrative error that had resulted in a court-
+approved settlement not being implemented.  Judge 
+McBryde wrote that a letter from the clerk had been "so 
+unprofessional and so disrespectful ... that it borders on, if it 
+does not constitute, contempt of court."  Id. at 215.
+
+     After Chief Judge Buchmeyer reassigned the two cases, 
+Judge McBryde filed a Request for Assistance with the Fifth 
+Circuit Judicial Council.  Id. at 217.  Fifth Circuit Chief 
+Judge Politz referred the matter to a Special Investigatory 
+Committee composed of himself, two fellow circuit judges, 
+and two district judges.  Id.  Following several days of 
+hearings, the Special Committee, relying on section 332 of the 
+Act, upheld the reassignment, finding that "Judge McBryde's 
+conduct in both cases was unwarranted."  Id.  Judge 
+McBryde's attack on the AUSA and a second government 
+official involved in Satz "and his accusations against them of 
+lying and contempt of court," the Committee concluded, 
+"were baseless, threatening irreparable damage to [their] 
+professional reputations and careers."  Id.  His attack on the 
+clerk of the court was likewise "unwarranted [and] abusive, 
+and threatened to damage [her] professional reputation."  Id.
+
+     Almost two years later, the Fifth Circuit vacated the 
+reassignment order.  According to the court, the Council had 
+no authority "to censure a judge under [section] 332" of the 
+Act or to "order a case reassigned based on its disagreement 
+with the district judge's factual findings."  McBryde, 117 
+F.3d at 229.  In reaching its conclusion, the court noted that 
+"finders of fact could reasonably defend either side" of the 
+dispute, stating explicitly that Judge McBryde "could piece 
+together a number of facts that pointed to the larger conclu-
+sion that [the AUSA involved in the Satz case] was lying," 
+that the Judge "delivered a cogent statement of his reasons 
+for rejecting [the AUSA's] reliance on a broad sealing order," 
+that "[w]e need not attribute paranoia or irrationality to 
+Judge McBryde to explain his view that [the AUSA's] conten-
+
+tions about the sealing order were untruthful," and that 
+"Judge McBryde's understanding of the factual basis for 
+suspecting that [the court clerk in Torres] was on the verge of 
+contempt was similarly within the bounds of reason."  Id. at 
+218-19.
+
+     Meanwhile, shortly after Judge McBryde had requested 
+the Judicial Council's assistance and long before the Fifth 
+Circuit vacated the Special Committee's reassignment deci-
+sion, Chief Judge Politz referred two complaints of miscon-
+duct against Judge McBryde (one of which involved the 
+Judge's conduct in Satz) to the Special Committee, with 
+directions to investigate and report on them.  Report of the 
+Special Committee of the Fifth Circuit Judicial Council 
+Regarding Complaints Against, and the Investigation into 
+the Conduct of, Judge John H. McBryde at 1 (Dec. 4, 1997).  
+According to the Committee's eventual Report, Committee 
+members were from the outset "concerned about two things:  
+first, that Judge McBryde [might] have a health problem 
+(physical or mental) which affect[ed] his activities as a judge, 
+and second, that Judge McBryde ha[d] engaged in a pattern 
+of abusive behavior as a federal judge."  Id. at 3.
+
+     Pursuing its suspicions that Judge McBryde might suffer 
+from a psychiatric disorder, the Committee submitted certain 
+materials concerning Judge McBryde to two psychiatrists, 
+asking the doctors whether a psychiatric examination of the 
+Judge was warranted.  Report at 3.  When both doctors 
+answered yes, the Council engaged in a series of ultimately 
+unsuccessful efforts to get Judge McBryde to undergo such 
+an examination.  Id.  In the meantime, the Special Commit-
+tee learned about "more and more instances of allegations of 
+repetitive, abusive and excessive conduct by Judge McBryde 
+beyond the allegations in the ... complaints."  Id. at 8.  
+Therefore, invoking section 372(c)(5) of the statute, the Spe-
+cial Committee "decided to broaden its investigation" to en-
+compass incidents from throughout Judge McBryde's judicial 
+career.  Id.  In August, September, and October of 1997, the 
+Committee held nine days of evidentiary hearings in New 
+Orleans and Fort Worth.  Id. at 9.  Fifty-five witnesses 
+
+testified, including federal district court judges, a state court 
+judge, government and private attorneys who had practiced 
+before or had contact with Judge McBryde, court personnel, 
+former jurors who had served in Judge McBryde's courtroom, 
+and current and former members of the Judge's staff.  Id. at 
+9-10.
+
+     Based on this evidence, the Committee prepared a Report, 
+the bulk of which set forth details concerning twenty-two 
+separate incidents involving Judge McBryde's dealings with 
+lawyers, fellow judges, a state judge, and the clerk of the 
+court.  Report at 10-107.  Although these include some obvi-
+ously abusive and serious incidents, see, e.g., Maj. Op. at 24, 
+the Report also includes several incidents that appear to be 
+relatively trivial examples of a judge controlling a trial or of 
+friction among judicial colleagues.  For example, the Report 
+describes an incident in which Judge McBryde, responding to 
+defense counsel's claim that a prosecutor should have dis-
+closed certain financial schedules, accused the prosecutor of 
+adopting "a sort of cat-and-mouse approach to discovery."  
+Id. at 50.  The judge neither dwelled on the matter nor 
+imposed sanctions.  Id.  In another incident (that occurred in 
+a parking lot), Judge McBryde became angry and lashed out 
+at a fellow judge who had joked about the Judge's impatience.  
+Id. at 101-03.  On still another occasion (at a judges' meet-
+ing), Judge McBryde called two fellow judges "despicable."  
+Id. at 103-04.  Similar incidents appear throughout the Re-
+port:  Judge McBryde was "not always solicitous of his fellow 
+judges' needs or feelings" with respect to use of courtrooms, 
+id. at 106;  on learning that the lead public defender on a case 
+was engaged in another courtroom, Judge McBryde attempt-
+ed to proceed with the case "[r]ather than calling another 
+matter on the docket," id. at 24;  in a private, one-on-one 
+meeting with the Federal Public Defender, Judge McBryde 
+stated that he was "concerned" about the relationship be-
+tween public defenders and U.S. Attorneys, indicating that he 
+"suspected" that defenders and U.S. Attorneys were engaged 
+in a " 'collusive effort' to subvert the Sentencing Guidelines," 
+id. at 42.
+
+     The Report describes other conduct that, though apparent-
+ly more abusive, might nonetheless be entirely appropriate 
+under certain circumstances.  For example, the Report re-
+counts several instances in which Judge McBryde accused 
+attorneys of bad faith, sometimes sanctioning them and some-
+times not.  See, e.g., Report at 10-15, 15-18, 36-42.  The 
+Report also mentions two occasions on which Judge McBryde 
+criticized an entire office.  See id. at 17-18 ("I have perceived 
+on more than one occasion recently that members of the 
+Federal Public Defender's Office are less than candid with 
+the court.");  id. at 38 ("I just have the feeling that the Civil 
+Section of the U.S. Attorney's office here in Fort Worth is not 
+always candid with the Court....").
+
+     The Report also examines Judge McBryde's trial rules and 
+enforcement techniques.  According to the Report, the Judge 
+uses strict trial rules, including "the requirement that parties 
+enter into ... stipulation[s] with respect to ... every uncon-
+tested fact in [a] case," which are then "read seriatim to the 
+jury at the beginning of the case and may not be referred to 
+again later in the proceeding," and a "prohibition on asking 
+questions on cross-examination similar to questions asked of 
+[witnesses] on direct examination."  Report at 107-08.  Quot-
+ing from transcripts in two cases, the Report states that 
+"Judge McBryde's manner of enforcing his rules is harsh and 
+often humiliating."  Id. at 110.  The Report describes the 
+testimony of several witnesses who stated that the combina-
+tion of Judge McBryde's rules and his manner of enforcing 
+them creates an "oppressive and intimidating atmosphere 
+that pervades Judge McBryde's courtroom," id. at 116, and 
+has a "chilling effect" on these lawyers' ability to present 
+their cases effectively, id. at 121.  This kind of enforcement, 
+the Report says, formed a "pattern" that had not changed 
+despite appellate criticism.  Id. at 122.  Because of the 
+chilling effect of Judge McBryde's rules and his manner of 
+enforcement, the Report concludes that attorneys, fearing 
+humiliation or embarrassment, forego actions they believe are 
+in their clients' best interests and fail to preserve issues for 
+appeal.  These problems, the Report notes, are difficult to 
+correct through the appellate process.  Id. at 121-22.
+
+     The Report acknowledges that some of Judge McBryde's 
+former staff testified that he was "cordial and considerate in 
+his dealings with them," and that several lawyers who testi-
+fied on the Judge's behalf stated that he "prepares thorough-
+ly, addresses motions promptly, ... writes scholarly opinions 
+on difficult legal questions," and moves cases through his 
+docket expeditiously.  Report at 123-24.  Although acknowl-
+edging that these witnesses were comfortable practicing in 
+front of Judge McBryde and thought that he was fair, id. at 
+113-15, the Committee concluded that just because "it is 
+possible for some attorneys ...  to adapt to Judge 
+McBryde's rules is not a vindication of these rules.  The 
+weight of evidence presented during the hearings convinces 
+the Committee that Judge McBryde imposes unduly stringent 
+rules on advocates and enforces these rules in an often harsh 
+manner."  Id. at 115-16.
+
+     Based on all of this evidence, the Report concludes (1) that 
+"many of these individual instances, together with the pat-
+terns demonstrated over the years surveyed," indicate that 
+Judge McBryde had "engaged in conduct prejudicial to the 
+effective administration of the business of the courts," and (2) 
+that Judge McBryde's "pattern of abusive behavior ...  has 
+brought disrepute upon the federal judiciary."  Report at 150.  
+The Report recommends that the Council ask Judge 
+McBryde to resign, and if he refused, that it impose the three 
+sanctions--a reprimand and two suspensions--described in 
+the court's opinion.  Maj. Op. at 3.  The recommended repri-
+mand states that Judge McBryde's "intemperate, abusive and 
+intimidating treatment of lawyers, fellow judges, and others 
+ha[d] detrimentally affected the effective administration of 
+justice ...  in the Northern District of Texas," and that 
+Judge McBryde had "abused judicial power, imposed unwar-
+ranted sanctions on lawyers, and repeatedly and unjustifiably 
+attacked individual lawyers and groups of lawyers and court 
+personnel," thus having a "negative and chilling impact on the 
+Fort Worth legal community," among other things "prevent-
+ing lawyers and parties from conducting judicial proceedings 
+in a manner consistent with the norms and aspirations of our 
+
+system" and "harm[ing] the reputation of the court."  Id. at 
+154.
+
+     Invoking section 372(c)(6) of the Act, the Council imposed 
+the three recommended sanctions.  Six of the nineteen Coun-
+cil members voted against imposing the one-year suspension;  
+two voted against the public reprimand;  one voted against 
+the three-year recusal.  Order of the Judicial Council of the 
+Fifth Circuit at 1, In re John H. McBryde (Jan. 7, 1998) (No. 
+95-05-372-0023).
+
+     Pursuant to the Act, Judge McBryde petitioned the Review 
+Committee of the Judicial Conference for review of the 
+Council's order.  Granting "substantial deference" to the 
+Judicial Council's findings of fact, Memorandum and Order of 
+the Judicial Conference of the United States at 6, In re 
+Complaints of Judicial Misconduct or Disability (Sept. 18, 
+1998) (No. 98-372-001), and expressly declining to review any 
+of Judge McBryde's constitutional claims, id. at 21, the 
+Review Committee rejected the Judge's remaining procedural 
+and substantive complaints.  Finding the one-year suspension 
+justified as a remedial, rather than a punitive, measure, the 
+Review Committee revised the Council's sanction in one 
+respect:  it ordered the suspension terminated if Judge 
+McBryde demonstrates that he had "seized the opportunity 
+for self-appraisal and deep reflection in good faith and ... 
+made substantial progress toward improving his conduct."  
+Id. at 27.
+
+                                II
+
+     My main disagreement with the court centers on section 
+372(c)(10)'s last sentence--the Act's review preclusion clause.  
+Unlike my colleagues, I do not believe that this clause pre-
+vents us from reaching Judge McBryde's as-applied constitu-
+tional claims.
+
+     As the court points out, under both Supreme Court and 
+D.C. Circuit precedent, we construe review preclusion clauses 
+to prevent review of constitutional claims only when we find 
+"clear and convincing" evidence of congressional intent to do 
+so.  Maj. Op. at 10.  Even outside the constitutional context, 
+
+a "general presumption favor[s] judicial review in the absence 
+of 'clear and convincing evidence of a contrary legislative 
+intent.' "  Griffith v. Fed. Labor Relations Auth., 842 F.2d 
+487, 490 (D.C. Cir. 1988) (quoting Abbott Labs. v. Gardner, 
+387 U.S. 136, 141 (1967)).  "The maxim that congressional 
+preclusion of judicial review must be 'clear and convincing' 
+applies in a particularly rigorous fashion ...  when constitu-
+tional claims are at stake."  Id. at 494.  As we said in Ungar 
+v. Smith, "[w]hen ... [a] plaintiff seeks to invoke the aid of 
+the judicial branch on constitutional grounds, the Supreme 
+Court and this court have both indicated that only the clear-
+est evocation of congressional intent to proscribe judicial 
+review of constitutional claims will suffice to overcome the 
+presumption that the Congress would not wish to court the 
+constitutional dangers inherent in denying a forum in which 
+to argue that government action has injured interests that 
+are protected by the Constitution."  667 F.2d 188, 193 (D.C. 
+Cir. 1981).  See also Webster v. Doe, 486 U.S. 592, 603 (1988) 
+("We require this heightened showing in part to avoid the 
+'serious constitutional question' that would arise if a federal 
+statute were construed to deny any judicial forum for a 
+colorable constitutional claim.") (quoting Bowen v. Michigan 
+Academy of Family Physicians, 476 U.S. 667, 681 n.12 
+(1986)).
+
+     In my view, the requisite "clear and convincing" evidence of 
+intent is absent here.  As my colleagues acknowledge, section 
+372(c)(10) contains no language expressly barring constitu-
+tional challenges.  See Maj. Op. at 11.  Indeed, Congress 
+knows how to preclude review of constitutional claims when it 
+wants to.  For example, the federal statute governing depor-
+tation and denaturalization provides that "[j]udicial review of 
+all questions of law and fact, including interpretation and 
+application of constitutional and statutory provisions, ... 
+shall be available only in judicial review of a final order under 
+this section."  8 U.S.C. s 1252(b)(9) (emphasis added).
+
+     In Ungar as well as in Ralpho v. Bell, we found statutes 
+containing language just as preclusive as section 372(c)(10)'s 
+insufficient to bar review of as-applied constitutional claims.  
+The statute in Ungar provided that administrative decisions 
+are "final" and "not ... subject to review by any court."  667 
+
+F.2d at 193 (internal quotation marks omitted).  In Ralpho, 
+the statute provided that "[administrative decisions] shall be 
+final and conclusive for all purposes, notwithstanding any 
+other provision of law to the contrary[,] and not subject to 
+review."  569 F.2d 607, 613 (1977).  Using equally preclusive 
+language, section 372(c)(10) provides that "[a]ll orders and 
+determinations [of the Judicial Conference] ... shall be final 
+and conclusive and shall not be judicially reviewable on appeal 
+or otherwise."  28 U.S.C. s 372(c)(10).
+
+     As my colleagues also note, see Maj. Op. at 11, absent 
+express statutory language, our prior opinions have "studied 
+the legislative history" in search of a "clear expression of 
+Congress's desire to prevent the courts from passing upon 
+...  constitutional claims," Ungar, 667 F.2d at 196, or an 
+"affirmative statement addressed to preclusion of constitu-
+tional claims."  Griffith, 842 F.2d at 494.  Here, as in Ral-
+pho, Ungar, and Griffith, the legislative history includes no 
+direct comment at all about whether the Act's review preclu-
+sion language was meant to cover constitutional challenges.  
+See Maj. Op. at 11 ("Of course if the [Griffith] trilogy is read 
+to require magic words expressly barring as applied constitu-
+tional attacks, they are not to be found.").
+
+     Lacking a clear affirmative statement in the statute's text 
+or legislative history, my colleagues infer from the defunct 
+Senate version of the Act and its accompanying legislative 
+history that Congress intended the preclusion clause to cover 
+as-applied constitutional challenges.  See Maj. Op. at 11-16.  
+Although this is certainly a plausible interpretation of the 
+legislative history, both Griffith and Ungar declined to treat 
+such inferences from prior versions of bills as sufficiently 
+clear evidence of congressional intent to preclude judicial 
+review of as-applied claims.  In Griffith, the original Senate 
+bill provided that most decisions of the Federal Labor Rela-
+tions Authority would be "final and conclusive" and not 
+subject to further judicial review, but provided an exception 
+for "questions arising under the Constitution."  842 F.2d at 
+495.  The conference committee, rejecting the House's pro-
+posal for expansive judicial review and generally adopting the 
+Senate's more restrictive approach, dropped "without expla-
+
+nation" the exception for constitutional questions.  Id.  Nev-
+ertheless, observing that circuit precedent required an "affir-
+mative statement addressed to preclusion of constitutional 
+claims," id. at 494, we held that "[t]his silent deletion [was] 
+not enough, under our cases, to support an inference of intent 
+to preclude constitutional claims."  Id.
+
+     The statute at issue in Ungar provided that Justice Depart-
+ment decisions regarding claims for the return of assets 
+vested in the Office of Alien Property were not subject to 
+judicial review.  Deciding that this provision did not preclude 
+review of as-applied constitutional claims, we noted that "[a]n 
+earlier version of the bill ... included an elaborate scheme 
+for trial of just-compensation claims in the Court of Claims," 
+which was "deleted on the House floor for reasons that are 
+not wholly plain."  We were nonetheless "not willing to 
+regard this as clear evidence of Congressional intent...."  
+667 F.2d at 195 n.2.
+
+     The evidence of legislative intent to preclude judicial review 
+that we declined to credit in Griffith and Ungar was, if 
+anything, stronger than in this case.  In those cases, we 
+found legislative history insufficiently clear and convincing to 
+preclude as-applied challenges even though the original ver-
+sions of the statutes at issue allowed review of constitutional 
+questions, while the final versions eliminated such provisions, 
+suggesting a movement toward precluding such review.  
+Here, by contrast, the legislative history suggests movement 
+away from preclusion.  Senator DeConcini, one of the Act's 
+primary sponsors, introduced a Report prepared by Johnny 
+H. Killian, an American law specialist at the Library of 
+Congress, suggesting that under Supreme Court precedent, 
+Congress can safely preclude judicial review of constitutional 
+claims so long as "litigants at some point [have] access to an 
+Article III court."  125 Cong. Rec. 30,050 (1979) (statement of 
+Sen. DeConcini).  Senator DeConcini's bill provided for re-
+view of disciplinary decisions by a newly created, five-judge 
+Article III Court of Judicial Conduct and Disability.  Id.  
+Later House revisions shifted review from the five-judge 
+court to the Judicial Conference.  In doing so, the House 
+Judiciary Committee emphasized that it was moving from a 
+
+"court" to an "administrative model."  Compare H.R. Rep. 
+No. 96-1313, at 4 (1980) ("[R]ather than creat[ing] luxurious 
+mechanisms such as special courts and commissions--with all 
+the trappings of the adversary process, including legal coun-
+sel, written transcripts, discovery and cross examination--the 
+[House version of the bill] emphasize[s] placing primary 
+administrative responsibility within the judicial branch of 
+government.") with id. at 14 (stating that this "legislation 
+creates much more of an 'inquisitorial-administrative' model 
+than an 'accusatorial-adversary' one").  When the Act re-
+turned to the Senate, Senator DeConcini made the same 
+point, explaining to his colleagues that the Judicial Confer-
+ence, unlike the five-judge court proposed in the Senate 
+version of the bill, was "not an independent review court."  
+126 Cong. Rec. 28,090 (1980) (statement of Sen. DeConcini, 
+quoting the Killian Report);  see also Chandler v. Judicial 
+Council of the Tenth Circuit, 398 U.S. 74, 86 n.7 ("[T]he 
+Judicial Council was intended to be ... an administrative 
+body functioning in a very limited area in a narrow sense as a 
+'board of directors' for the circuit.").  Because Congress had 
+been informed by the Killian Report that it could safely 
+preclude review of constitutional questions only if such review 
+was available in an Article III court, and because it had also 
+been advised by both Senator DeConcini and the House 
+Judiciary Committee that the Judicial Conference was not an 
+Article III court, Congress would have understood that vest-
+ing power to review disciplinary decisions in the Judicial 
+Conference opened those decisions to constitutional attack in 
+the federal courts.
+
+     Under all of these circumstances, I do not see how the 
+evidence of Congress's intent to preclude as-applied constitu-
+tional challenges can be considered clear and convincing--or, 
+as we required of legislative history in Griffith, "unusually 
+clear."  842 F.2d at 494.  Not only did both Griffith and 
+Ungar find similar inferences from legislative history insuffi-
+cient to meet the clear and convincing standard, but in this 
+case, there is an equally plausible--if not more plausible--
+interpretation of the legislative history that suggests Con-
+
+gress did not intend to preclude review of as-applied constitu-
+tional challenges.
+
+     My colleagues' observation about "substantial redundancy" 
+between review performed by the Judicial Conference and 
+Article III courts, see Maj. Op. at 15-16, is interesting, but I 
+think not dispositive.  For one thing, while it is true that the 
+two forms of review are both performed by Article III judges, 
+I do not agree that they are entirely redundant:  decisions of 
+Article III courts are reviewable on certiorari by the Su-
+preme Court, a distinction of particular importance given the 
+constitutional interests at stake here.  Even assuming they 
+were identical, moreover, such functional redundancy would 
+be convincing evidence of Congressional intent only if it were 
+the sole form of evidence available, and it isn't.  In view of 
+Senator DeConcini's statement and the House Judiciary Com-
+mittee Report, Congress most likely thought shifting review 
+from an Article III court to the Judicial Conference opened 
+decisions of the latter to as-applied constitutional challenges 
+in the federal courts.  In my view, this primary evidence of 
+legislative intent outweighs any inferences that might be 
+drawn from whatever functional redundancy may exist.
+
+     Finally, my colleagues believe that preclusion of constitu-
+tional claims would serve the statutory purpose of "pre-
+vent[ing] undue prolongation of the disciplinary process."  
+Maj. Op. at 16.  But we have twice found review preclusion 
+statutes designed to accomplish similar goals insufficient to 
+establish clear congressional intent to bar review of as-
+applied constitutional claims.  See Griffith, 842 F.2d at 495 
+(Congress's scheme to limit judicial review of FLRA decisions 
+was meant to promote "finality, speed[,] and economy," and 
+thus barred district court review of FLRA decisions on 
+statutory grounds, but review of as-applied constitutional 
+claims nonetheless was not precluded);  Ungar, 667 F.2d at 
+195-96 (legislative history indicating that review preclusion 
+provision was "intended to reduce ... delay in adjudicating 
+claims under the Trading with the Enemy Act" was not a 
+"clear expression of Congress's desire to prevent the courts 
+from passing upon ... constitutional claims").
+
+                               III
+
+     Having found no "clear and convincing" evidence that 
+Congress intended to preclude review of as-applied constitu-
+tional challenges to judicial council sanctions, I would have 
+considered the merits of Judge McBryde's as-applied claims.  
+In addition to the challenges discussed by the court, see Maj. 
+Op. at 18-25, Judge McBryde raises the question whether the 
+Judicial Council unconstitutionally interfered with his judicial 
+independence by punishing him because it disagrees with his 
+judicial philosophy and acts:  "Purportedly pursuant to the 
+Act, defendants investigated Judge McBryde's performance 
+of his judicial functions, requiring him to defend his perfor-
+mance and disrupting his judicial activities.  They then pun-
+ished him, and changed his judicial status, because they 
+disapproved of his judicial performance, depriving him of all 
+new cases for one year ... and issuing a damning public 
+reprimand.  Does the Act violate the judicial independence 
+doctrine of Article III on its face and as applied?"  Appel-
+lant's Opening Br. at 2.  Answering this question, Judge 
+McBryde argues that "the Constitution does not allow agen-
+cies to supervise his judging, disagree with his rulings, and 
+punish him because his rulings do not meet some 'norm' of 
+acceptable judicial conduct."  Id. at 52-53.  The Judicial 
+Conference disagrees:  "Given the conduct engaged in and the 
+adverse effects on the judicial system in Fort Worth, Texas, 
+that conduct had, Appellees submit that it was not unconstitu-
+tional to suspend assignment of new cases for up to one year 
+for [the Judge] to reflect and to change his conduct."  Appel-
+lees' Br. at 68-69.
+
+     I agree with my colleagues that the principle of judicial 
+independence does not "constitutionally shelter[ ]" Judge 
+McBryde from "sanctions of every sort."  Maj. Op. at 20.  I 
+also agree that the creation of a mechanism enabling Judicial 
+Councils to sanction judges for things that happened when 
+they were "acting and deciding cases" or engaged in some 
+other "phase of the decisional function" does not render the 
+Act facially unconstitutional.  Cf. Chandler, 398 U.S. at 85 
+("Many courts--including federal courts--have informal, un-
+published rules....  These are reasonable, proper, and nec-
+essary rules, and the need for enforcement cannot reasonably 
+
+be doubted.  [I]f one judge in any system refuses to abide by 
+such reasonable procedures, it can hardly be that the extraor-
+dinary machinery of impeachment is the only recourse.").  
+For reasons I will explain, however, I do believe that the 
+principle of judicial independence permits sanctions to be 
+imposed only for conduct that is clearly abusive or clearly 
+prejudicial to the adversarial process, and in this case, I think 
+that Judge McBryde's conduct, as described in the Council's 
+Report, does not uniformly meet this standard.
+
+     As an initial matter, I believe the principle of judicial 
+independence guarantees to individual Article III judges a 
+degree of protection against interference with their exercise 
+of judicial power, including interference by fellow judges.  As 
+my colleagues note, the Supreme Court expressly stated in 
+Northern Pipeline that the constitutional guarantee of life 
+tenure "insulates the individual judge from improper influ-
+ences not only by other branches but by colleagues as well, 
+and thus promotes judicial individualism."  Northern Pipe-
+line Constr. Co. v. Marathon Pipe Line Co., 458 U.S. 50, 59 
+n.10 (1982).  Similarly, in Chandler, a case involving intra-
+judicial discipline, the Supreme Court stated that "[t]here 
+can, of course, be no disagreement among us as to the 
+imperative need for total and absolute independence of judges 
+in deciding cases or in any phase of the decisional function."  
+398 U.S. at 84.  See also In re Certain Complaints Under 
+Investigation by an Investigating Committee of the Judicial 
+Council of the Eleventh Circuit, 783 F.2d 1488, 1506-07 (11th 
+Cir. 1986) (noting, in the context of adjudicating the facial 
+constitutionality of certain provisions of the Act, that "the 
+majority [in Chandler] located a judge's protected indepen-
+dence ... 'in deciding cases or in any phase of the decisional 
+function,' " and then framing its basic inquiry as "whether 
+[the] direct or indirect effects ... the Act may have on an 
+individual judge's independence are within proper toler-
+ances").
+
+     The notion that individual judges enjoy a sphere of protect-
+ed independence finds support in the cases establishing that 
+judges cannot be held liable for damages arising out of 
+performance of their judicial duties.  "[I]t is a general princi-
+ple of the highest importance to the proper administration of 
+justice," the Supreme Court stated in Bradley v. Fisher, "that 
+
+a judicial officer, in exercising the authority vested in him, 
+shall be free to act upon his own convictions, without appre-
+hension of personal consequences to himself.  Liability to 
+answer to every one who might feel himself aggrieved by the 
+action of the judge, would be inconsistent with the possession 
+of this freedom, and would destroy that independence without 
+which no judiciary can be either respectable or useful."  80 
+U.S. 335, 347 (1871).  Similarly, in Pierson v. Ray, the Court 
+stated that "[f]ew doctrines were more solidly established at 
+common law than the immunity of judges from liability for 
+damages for acts committed within their judicial jurisdic-
+tion....  This immunity applies even when the judge is 
+accused of acting maliciously and corruptly, and it is not for 
+the protection or benefit of a malicious or corrupt judge, but 
+for the benefit of the public, whose interest it is that the 
+judges should be at liberty to exercise their functions with 
+independence and without fear of consequences."  386 U.S. 
+547, 553-54 (1967).  Cf. Quercia v. United States, 289 U.S. 
+466, 469 (1933) ("Under the Federal Constitution the essential 
+prerogatives of the trial judge as they were secured by the 
+rules of the common law are maintained in the federal 
+courts.").
+
+     Of particular relevance to this case, I believe the sphere of 
+individual judicial independence--the protected "decisional 
+function," as Chandler puts it, 398 U.S. at 84--includes not 
+only judges' freedom to reach their own conclusions about 
+questions of fact and law, but also a margin of discretion to 
+manage and control the adversarial process within their 
+courtrooms.  "Courts of justice," the Supreme Court has 
+explained, "are universally acknowledged to be vested, by 
+their very creation, with power to impose silence, respect, and 
+decorum, in their presence, and submission to their lawful 
+mandates.  These powers are governed not by rule or statute 
+but by the control necessarily vested in courts to manage 
+their own affairs so as to achieve the orderly and expeditious 
+disposition of cases."  Chambers v. Nasco, Inc., 501 U.S. 32, 
+43 (1991) (internal citations and quotations omitted).  And as 
+we have recognized, the exercise of this power requires that 
+"a district judge ha[ve] wide discretion in monitoring the flow 
+
+of a criminal trial.  It is well within her discretion to rebuke 
+an attorney, sometimes harshly, when that attorney asks 
+inappropriate questions, ignores the court's instructions, or 
+otherwise engages in improper or delaying behavior....  
+There is a 'modicum of quick temper that must be allowed 
+even judges.' "  United States v. Donato, 99 F.3d 426, 434 
+(D.C. Cir. 1997) (quoting Offutt v. United States, 348 U.S. 11, 
+17 (1954)).
+
+     A judge's authority to control the courtroom is essential to 
+the exercise of judicial power.  Unlike legislative and execu-
+tive power, the judicial power created by Article III can be 
+exercised only on the basis of a factual record developed 
+pursuant to established standards of relevance and authentici-
+ty.  See Fed. R. Evid. 402 (requiring that evidence be relevant 
+to be admissible), 901 (requiring that evidence be authentic to 
+be admissible).  Critical to the development of a proper 
+record is a well-functioning adversarial process in which 
+lawyers serve both as zealous representatives of their clients 
+and as officers of the court with responsibilities for fairness 
+and disclosure that transcend their clients' interests.  Unless 
+judges can manage this process, if necessary by using both 
+formal and informal disciplinary measures to ensure that 
+lawyers perform their dual functions effectively and in accor-
+dance with established rules of practice and procedure, they 
+may lack the fully developed record needed to exercise their 
+judicial authority.
+
+     Judges' power to control the adversarial process, of course, 
+is not absolute.  Inappropriate trial management, for exam-
+ple, can undermine a trial's fairness.  See, e.g., Offutt, 348 
+U.S. at 17 (explaining that trial judge's becoming personally 
+embroiled with defense counsel compromised the court's "at-
+mosphere of austerity" that is "consonant with a fair trial");  
+Donato, 99 F.3d at 291-92 (finding that judge's failure to 
+provide counsel with bench conference outside the jury's 
+presence violated Federal Rule of Criminal Procedure 30 and 
+constituted prejudicial error);  Santa Maria v. Metro-North 
+Commuter RR, 81 F.3d 265, 273 (2d Cir. 1996) (finding that a 
+trial judge's expressed antipathy toward and removal of trial 
+counsel sufficiently prejudiced a defendant so as to require a 
+
+new trial).  A judge's abusive treatment of attorneys can 
+prevent them from effectively defending their clients' inter-
+ests.  See In re McConnell, 370 U.S. 230 at 236 (1962) 
+("While we appreciate the necessity for a judge to have the 
+power to protect himself from actual obstruction in the court-
+room ... it is also essential to a fair administration of justice 
+that lawyers be able to make honest good-faith efforts to 
+present their clients' cases.").  Abusive treatment of lawyers 
+can undermine the judiciary's reputation, threatening its in-
+tegrity in the eyes of the public.  Cf. In re Certain Com-
+plaints, 783 F.2d at 1507 ("The judiciary as a whole ... has a 
+interest in seeing that non-frivolous complaints are looked 
+into, to the end that the judge, and the system he exemplifies, 
+be exonerated or, if not that the public perceive that the 
+system has undertaken to police itself, within constitutional 
+limits, of course.");  S. Rep. No. 96-362, at 7 (1979), reprinted 
+in 1980 U.S.C.C.A.N. 4315, 4321 ("The perception of a viable 
+healthy judiciary is of critical importance to our system of 
+justice.").  As the Supreme Court has said, "an independent 
+judiciary and a vigorous, independent bar are both indispens-
+able parts of our system of justice."  McConnell, 370 U.S. at 
+236 (emphasis added).
+
+     It is thus appropriate for Judicial Councils, acting pursuant 
+to their general disciplinary power under section 372(c), to 
+ensure that judges' trial management techniques do not inter-
+fere with the "effective and expeditious administration of the 
+business of the courts."  28 U.S.C. s 372(c)(1).  After all, 
+Congress has authority to "limit[ ]" courts' inherent powers--
+including their power to manage trials--"by statute and rule, 
+for these courts were created by act of Congress."  Cham-
+bers, 501 U.S. at 47 (internal quotation marks omitted);  see, 
+e.g., McConnell, 370 U.S. at 233-34 (noting that Congress has 
+limited courts' inherent powers to sanction attorney contempt 
+by requiring such sanctions to be no more severe than 
+necessary).
+
+     This does not mean that Congress may infringe--or autho-
+rize Judicial Councils to infringe--upon judges' trial manage-
+ment authority in any manner it sees fit.  It is a familiar 
+principle that even though Congress has the power to create 
+
+lower federal courts and organize their functioning in certain 
+respects, it can neither interfere with nor alter essential 
+features of their operation.  See, e.g., Plaut v. Spendthrift 
+Farms, 514 U.S. 211, 240 (holding that Congress may not 
+pass legislation that reopens final judgments of federal 
+courts).  Having vested authority to conduct trials in individ-
+ual district judges, Congress cannot grant Judicial Councils 
+the power to interfere with those judges' trial management 
+authority to such an extent that judges cannot exercise it 
+effectively.  Cf. In re Holloway, 995 F.2d 1080, 1088 (D.C. 
+Cir. 1993) (observing that absent a judge's ability to control a 
+trial with enforceable sanctions, "trials would wander down 
+every by-way, no matter how impermissible, in a sprawling 
+chaos that would render the adjudication close to random.  In 
+the long run, such chaos is hardly in the interests of defen-
+dants as a whole, much less in the interest of society.").  
+Congressional delegation of such authority would also violate 
+the principle of separation of powers, which prevents not only 
+the aggrandizement of one branch of government at the 
+expense of another, but also the disruption by one branch of 
+another's essential functions.  See Morrison v. Olson, 487 
+U.S. 654, 675 (1988) (noting that "separation-of-powers con-
+cerns ... would arise" if Congress's power to provide for 
+interbranch appointments of inferior officers "had the poten-
+tial to impair the constitutional functions assigned to one of 
+the branches");  Mistretta v. United States, 488 U.S. 361, 404 
+(1989) (stating that the "ultimate inquiry" whether executive 
+appointment of Article III judges to administrative posts 
+violated separation of powers principles turned on whether 
+the "particular extrajudicial assignment undermines the in-
+tegrity of the Judicial Branch").
+
+     Thus, while I agree that in order to discourage the improp-
+er use of judicial power, protect the fairness of trials, and 
+safeguard the integrity and reputation of the judiciary, it is 
+appropriate to allow judicial councils to sanction judges for 
+abusing their trial management power, I also believe that, to 
+prevent such disciplinary action from encroaching upon legiti-
+mate and necessary uses of that power, such sanctions should 
+be employed only for conduct that, viewed from the perspec-
+
+tive of reasonable judges and lawyers, is clearly abusive 
+toward counsel or clearly prejudicial to the adversarial pro-
+cess.
+
+     A rigorous standard of this kind is essential for several 
+reasons.  First, absent such a standard, judicial councils could 
+more easily use their disciplinary authority to sanction non-
+abusive judicial behavior.  Federal judges are not all alike:  
+there are as many appropriate courtroom management tech-
+niques as there are judges.  In any given situation, moreover, 
+there will generally be more than one appropriate way to 
+manage a trial or demand attorney compliance with court 
+orders and rules.  One judge may use a light touch to get an 
+aggressive lawyer to end an entirely inappropriate line of 
+questioning;  another judge may threaten sanctions.  Allow-
+ing judges to punish each other absent evidence of clear 
+abuse of counsel or clear damage to the adversarial process 
+risks turning judicial discipline into a vehicle for sanctioning 
+stylistic disagreements over trial techniques.
+
+     Second, some Judicial Council members, such as appellate 
+judges, may have little or no experience dealing with aggres-
+sive trial lawyers who routinely test the limits of proper 
+advocacy.  To such judges, the trial management techniques 
+needed to control these lawyers may seem harsh, even abu-
+sive.  A rigorous standard that restricts sanctions to instanc-
+es of clearly abusive behavior will reduce the likelihood that 
+councils will sanction appropriate behavior out of inexperi-
+ence.  And quite apart from the problem of inexperience, 
+even judges can act unfairly--indeed vindictively--towards 
+colleagues.  A rigorous standard will reduce, though of course 
+it cannot eliminate, the possibility that judicial discipline will 
+be used to sanction unpopular judges engaged in appropriate 
+behavior.
+
+     Third, judicial discipline, like civil liability for judicial acts, 
+can chill the proper exercise of judicial discretion.  See Pier-
+son v. Ray, 386 U.S. 547, 553-54 (1967) (holding that imposing 
+civil liability for acts committed to judicial discretion "would 
+contribute not to principled and fearless decisionmaking but 
+to intimidation");  cf. Williams v. United States, 156 F.3d 86, 
+
+91-92 (1st Cir. 1998) ("If chastened attorneys can enlist 
+appellate courts to act as some sort of civility police charged 
+with enforcing an inherently undefinable standard of what 
+constitutes appropriate judicial comment on attorney perfor-
+mance, trial judges are more likely to refrain from speaking 
+and writing candidly.  In our view, this chilling effect carries 
+with it risks that are far greater than those associated with 
+the evil of occasional overheated judicial commentary.").  If 
+judges can be sanctioned for conduct that is only arguably or 
+possibly--as opposed to clearly--abusive, they may be reluc-
+tant to employ stern measures even when necessary to keep 
+control of the adversarial process.  This is especially true 
+because a trial judge's harsh words or tough sanctions, entire-
+ly appropriate in the heat of a tense and hard-fought trial, 
+may seem abusive when viewed in retrospect through the 
+pages of a cold record.
+
+     The possibility of chilling legitimate judicial behavior also 
+means that, in cases like this one where judges are sanctioned 
+in part for the effect their behavior has on lawyers who 
+practice before them, judicial councils should apply an objec-
+tive standard, asking not just what complaining lawyers felt, 
+but also how the judge's conduct would have affected reason-
+able lawyers under similar circumstances.  It is only natural 
+for lawyers to feel slightly constrained and irritated when 
+judges try to control them.  If judicial councils fail to apply 
+an objective standard when evaluating lawyer reactions and 
+complaints, judges might fear discipline if enough disgruntled 
+lawyers file complaints or testify against them.  Judges might 
+thus calibrate courtroom discipline to avoid displeasing law-
+yers, refraining from strict measures even when necessary 
+and appropriate.
+
+     Finally, we have previously adopted a rigorous standard 
+where, as here, sanctions could damage an individual's repu-
+tation.  In Shepherd v. ABC, we held that courts cannot 
+impose discovery sanctions based on attorney misconduct 
+without clear and convincing evidence of the predicate wrong-
+doing.  62 F.3d 1469, 1476-78 (D.C. Cir. 1995);  see also 
+Addington v. Texas, 441 U.S. 418, 424 (U.S. 1979) (stating 
+that reputational interests "are deemed to be more substan-
+
+tial than mere loss of money and some jurisdictions accord-
+ingly reduce the risk to the defendant of having his reputa-
+tion tarnished erroneously by increasing the plaintiff's burden 
+of proof").  If, because of the risk of imposing reputational 
+harm, Article III courts must apply a heightened standard 
+when sanctioning lawyers, a similar obligation should apply to 
+judicial councils when considering disciplining fellow judges.  
+Suspensions and, in particular, reprimands can cast long-
+lasting shadows over a judge's career.
+
+     With these principles in mind, I return to the facts of this 
+case.
+
+                                IV
+
+     Several incidents described in the Council's Report, such as 
+the episode my colleagues recount, e.g., Maj. Op. at 24, are so 
+extreme and clearly abusive that, as the Special Committee 
+concludes in one instance, they speak for themselves.  See 
+Report at 23 ("No more need be said with regard to this 
+incident.");  see also, e.g., id. at 26-30 (describing Judge 
+McBryde's sanctioning the entire Federal Public Defender's 
+Office because a single attorney could not be reached for 
+forty-five minutes due to a misunderstanding);  id. at 51-55 
+(describing Judge McBryde's berating an Assistant United 
+States Attorney and holding him in contempt of court because 
+a secretary had trouble connecting all of the parties to a 
+conference call);  id. at 55-59 (describing Judge McBryde's 
+jailing an Assistant Public Defender who refused to answer a 
+question he believed might compromise attorney-client privi-
+lege);  id. at 60-65 (describing Judge McBryde's removing a 
+state court judge from McBryde's chambers without inquiring 
+why the state court judge was there).  Had the Council 
+restricted its report to incidents like these, I would have no 
+trouble rejecting Judge McBryde's as-applied challenge, for 
+no reasonable judge would think behavior like this appropri-
+ate.
+
+     Not all of the conduct described in the Report, however, 
+falls so clearly outside the bounds of appropriate judicial 
+behavior.  The Report's main deficiency is that it never 
+
+adequately explains how such apparently less abusive con-
+duct--ranging from the "cat-and-mouse" comment to accusa-
+tions of lawyer bad faith to Judge McBryde's trial practice 
+rules--amounts to a clear abuse, or in some instances even an 
+abuse at all, of judicial power.  The Report itself acknowl-
+edges that at least one incident was "fairly trivial," but 
+suggests that "along with other incidents" it was "illustrative 
+of a pattern of conduct."  Id. at 23.  I recognize that trivial 
+conduct that would not be abusive if it happened once might 
+become so if repeated consistently over time.  I also under-
+stand that intra-judicial discipline may be an important means 
+of addressing patterns of behavior that cannot be corrected 
+through informal mechanisms or appellate review.  See id. at 
+122;  Carol Rieger, The Judicial Councils Reform and Judi-
+cial Conduct and Disability Act:  Will Judges Judge Judges?, 
+37 Emory L.J. 45, 78-80 (1988). That said, it is not at all clear 
+to me that the more trivial incidents the Report describes, 
+even if they occurred persistently, amounted to abuses of 
+judicial power.  For example, I think it not at all obvious that 
+a judge who consistently employed phrases like "cat-and-
+mouse approach to discovery," had difficult relations with 
+colleagues, or was "not always solicitous of his fellow judges' 
+needs or feelings" in the use of courtrooms, would be guilty of 
+abusing his judicial power.  Although I understand the Com-
+mittee's desire to include a sufficient number of incidents to 
+establish patterns of conduct, because I think that judicial 
+discipline must not interfere with judicial independence, the 
+Committee should have restricted its Report to incidents that, 
+if occurring repeatedly, would represent clear abuses of judi-
+cial power.  As it stands, the Report leaves unclear whether 
+the patterns formed by these more trivial incidents were at 
+all abusive, let alone clearly abusive.  If they were abusive, 
+the Committee failed to explain why.  The Report thus leaves 
+open the possibility that Judge McBryde was sanctioned in 
+part for legitimate judicial behavior.  And absent an explana-
+tion of how such conduct constitutes a clear abuse of judicial 
+power, imposing sanctions based on this record risks chilling 
+legitimate conduct by other judges.
+
+     In the second category of incidents presented in the Re-
+port--those involving conduct that, although more clearly 
+bordering on the abusive, might nonetheless be entirely ap-
+propriate under some circumstances, see supra at 5--I think 
+the Committee similarly failed to explain adequately what 
+made Judge McBryde's conduct clearly abusive, and thus 
+sanctionable.  Consider, for example, the Report's description 
+of instances in which Judge McBryde accused attorneys of 
+bad faith.  According to the Report, these incidents form a 
+pattern that reveals Judge McBryde's "proclivity to question 
+the integrity of attorneys appearing before him."  Report at 
+124.  Yet the Committee fails to establish that these inci-
+dents, taken together, were clearly abusive.  Much of the 
+Report's discussion simply recounts that on several occasions 
+Judge McBryde "exhibited distrust of attorneys' motives" and 
+"often directly accus[ed] them of lying or conspiring to de-
+ceive him."  Id. at 124-25.  This in itself is unremarkable, 
+since evaluating attorney good faith is one of a trial judge's 
+functions.
+
+     The Report does suggest, however, that what sets these 
+incidents apart is that Judge McBryde's suspicions were 
+"unfounded," id. at 150, and that the Judge had "refus[ed] to 
+take simple steps to verify whether or not his suspicion of bad 
+faith on the part of others [was] justifiable."  Id. at 126.  I 
+agree that a pattern of consistent, unfounded accusations of 
+bad faith might well represent a clear, sanctionable abuse of 
+judicial power.  In explaining why these accusations were 
+"unfounded" or otherwise problematic, however, the Commit-
+tee gives little or no weight to how things would have looked 
+to an objectively reasonable judge in Judge McBryde's posi-
+tion.  In one case, for example, the Report states that "[w]e 
+believe [that an attorney accused of bad faith] told the Special 
+Committee the truth" when he testified that he had not lied 
+to Judge McBryde, Report at 17 n.4;  yet the Report never 
+explicitly says whether Judge McBryde himself lacked any 
+reasonable basis for believing the lawyer was deceiving him.  
+Likewise, when describing the Torres incident, the Report 
+criticizes Judge McBryde's treatment of the clerk of the court 
+without considering whether the Judge had a reasonable 
+
+basis for thinking the clerk's conduct verged on contempt.  
+See id. at 72-78;  cf. In re McBryde, 117 F.3d 208, 219 (5th 
+Cir. 1997) ("Judge McBryde's understanding of the factual 
+basis for suspecting that Clerk Doherty was on the verge of 
+contempt was similarly within the bounds of reason.").  How 
+can conduct amount to a clear abuse of judicial power unless 
+that conduct seemed abusive to an objectively reasonable 
+judge?  Put differently, it seems absurd to say that conduct is 
+clearly abusive if a reasonable judge under the circumstances 
+would have thought it appropriate.
+
+     The Report's discussion of the manner in which Judge 
+McBryde enforces his trial rules is similarly flawed.  I agree 
+that if a judge "imposes unduly stringent rules on advocates 
+and enforces these rules in an often harsh manner," and if as 
+a result those rules "so restrict cross-examination that they 
+impede the effective administration of justice," that conduct 
+should be sanctionable.  Report at 116.  Yet the Report's 
+description of Judge McBryde's rules and their enforcement 
+includes many phrases and characterizations that encompass 
+perfectly legitimate trial practices:  Judge McBryde's cases 
+are "replete with [the Judge's] constant admonishments to 
+counsel to move on to something else;  not to allude to a 
+stipulated fact;  and orders to (or threats to order) lawyers to 
+sit down during openings of the examination of witnesses," id. 
+at 110;  "Judge McBryde ultimately uses the threat of con-
+tempt and sarcasm to enforce his rules," id. at 111;  "[t]he 
+Committee heard numerous additional examples of Judge 
+McBryde's interrupting a lawyer during the questioning of a 
+witness or conduct of the trial to enforce one or more of his 
+rules, sometimes in a harsh, threatening, or sarcastic man-
+ner," id. at 113.  To be sure, the Report also states that the 
+Committee was "fully cognizant of the notion that a trial 
+judge should be afforded broad discretion to manage and 
+conduct trials," and that Judge McBryde's "extreme and 
+unduly restrictive rules" and manner of enforcement were 
+"different not only in degree but also in kind from the wide 
+array of acceptable trial management rules."  Id. at 121-22.  
+But simply stating this conclusion provides insufficient guid-
+ance about why in Judge McBryde's case "admonishments to 
+
+counsel to move on," "the threat of contempt and sarcasm," or 
+other routine conduct amounted to a clear abuse of judicial 
+power.  Because this section of the Report contains too much 
+general language that could describe any judge's appropriate 
+courtroom conduct, resting sanctions on these descriptions 
+could chill the legitimate exercise of judicial power.
+
+     The Council failed in other ways to take sufficient account 
+of the Report's chilling effect.  In its discussions of Judge 
+McBryde's accusations of attorney bad faith, for example, the 
+Report never acknowledges that judges must often assess 
+attorney good faith, or that it is not necessarily out of order 
+for a judge to attempt to send a message to an entire office 
+that has given him problems in the past.  See Bonds v. 
+District of Columbia, 93 F.3d 801, 805 n.7 (D.C. Cir. 1996) 
+("If they [the District's counsel] don't show, you proceed 
+without them.  If the witnesses don't show, I'll hold them in 
+contempt.  That's the only way I can deal with the District of 
+Columbia Government these days.") (quoting trial transcript).  
+Nor does the Report sufficiently acknowledge that district 
+judges need a reasonable margin of error in making findings 
+of bad faith, especially when presiding over tense trials 
+calling for quick decisions to control the behavior of aggres-
+sive lawyers.  Nor, finally, does the Report recognize that 
+assessments of attorney bad faith are not necessarily abusive 
+even if later set aside on appeal.  See Report at 14-15 ("The 
+Fifth Circuit ... noted that there was no evidence of bad 
+faith on the [accused party's] part.").  To avoid chilling 
+appropriate judicial conduct, I think the Committee should 
+have explained more thoroughly and more explicitly how 
+Judge McBryde's behavior differed from permissible exercis-
+es of judicial power.
+
+     The Council's insensitivity to the potentially chilling effect 
+of its Report is likewise apparent in its discussion of the 
+impact Judge McBryde's behavior had on others.  Describing 
+the effect of Judge McBryde's enforcement of his trial rules 
+upon the adversarial process, as well as the impact of the 
+Judge's abusive treatment of attorneys upon the Fort Worth 
+legal community as a whole, the Committee often seems to 
+credit the views of witnesses who testified before it without 
+ever determining whether those views represented what rea-
+
+sonable lawyers would have felt in similar circumstances.  
+The Report explains, for example, that the prosecutor Judge 
+McBryde accused of using a "cat-and-mouse approach to 
+discovery" left legal practice in part as a result of that 
+incident, quoting at length the attorney's explanation of why 
+the threat of Judge McBryde's treatment led him to leave his 
+job.  See Report at 51.  Similarly, the Report cites the 
+testimony of numerous lawyers who stated that they felt 
+oppressed, harassed, afraid to ask questions, and generally 
+unable to function effectively in Judge McBryde's courtroom.  
+See id. at 116-21, 132-37.
+
+     I agree that a judge whose harsh management of trials 
+makes it impossible for lawyers to practice in front of him 
+creates a serious problem.  I also understand that proving 
+that a judge had such an effect requires testimony from 
+lawyers who practice before the judge.  But in examining the 
+testimony of such lawyers, the Committee should have at-
+tempted to discern not simply whether Judge McBryde had a 
+disruptive effect on the Fort Worth legal community, but also 
+whether his conduct would clearly prejudice the ability of 
+reasonably resilient and thick-skinned lawyers to present 
+their cases effectively.
+
+     In sum, I have no doubt that several of Judge McBryde's 
+actions were clearly sanctionable:  they were flagrant abuses 
+of judicial power.  In its understandable desire to be thor-
+ough, however, the Committee included in its Report many 
+actions and incidents which either seem to be entirely appro-
+priate or involve conduct that might have been appropriate 
+under some circumstances.  I understand that even actions 
+which are not obviously and flagrantly abusive on their face 
+can be abusive either in context or as part of a pattern.  
+Because of the fundamental importance of judicial indepen-
+dence and the risk that sanctions could punish or chill legiti-
+mate judicial behavior, however, I think that sanctioning such 
+conduct requires judicial councils to explain precisely how and 
+why it rises to the level of a clear abuse of judicial power.  
+Here, the Committee's Report falls far short of this standard.  
+I would therefore have remanded the case to the Council with 
+instructions to limit its Report to evidence that, when viewed 
+
+objectively, demonstrates a pattern of conduct that amounts 
+to a clear abuse of judicial power, or a pattern of conduct 
+clearly prejudicial to the adversarial process, and then in 
+light of this sharpened record, to re-evaluate the appropriate-
+ness of the sanctions and to impose those sanctions deemed 
+necessary to deter future misconduct by Judge McBryde and 
+other judges and to preserve the reputation and integrity of 
+the federal judiciary.
+
+                                V
+
+     Because my colleagues recognize that Judge McBryde's 
+challenge to the reprimand is not moot, the substance of the 
+foregoing analysis is largely unaffected by their view that his 
+challenge to the suspensions is moot.  But because under my 
+colleagues' theory of mootness, a judge suspended for only a 
+few years but not reprimanded would never be able to 
+challenge the suspension, I respectfully register my disagree-
+ment with this aspect of the court's opinion.  In my view, 
+Judge McBryde's challenge to his suspensions is not moot for 
+two independent reasons.  First, the suspensions--which re-
+main published on the Fifth's Circuit's web site, see 
+http://www.ca5.uscourts.gov/mcbryde/council.htm (last visited 
+Sept. 6, 2001)--give rise to ongoing stigmatic and reputational 
+injury at least as serious as that of the reprimand.  Second, 
+Judge McBryde raises an issue that seems "capable of repeti-
+tion yet evading review."  Weinstein v. Bradford, 423 U.S. 
+147, 149 (1975).  Although this court's opinion puts Judge 
+McBryde on notice that his peers can constitutionally sanction 
+him for some inappropriate in-court conduct, see Maj. Op. at 
+25, the opinion leaves unclear precisely what kind of conduct 
+would trigger sanctions.  The court never decides whether it 
+was constitutional for the Judicial Council to have sanctioned 
+Judge McBryde for the conduct described in the Report, and 
+I do not think informing Judge McBryde in the abstract that 
+he must give his colleagues at least a "modicum of civility and 
+respect," id., provides much guidance about what kind of 
+conduct is constitutionally sanctionable.  Thus, even assuming 
+that Judge McBryde accepts the court's conclusion that his 
+peers can punish him for some in-court conduct, he will not 
+know whether it is constitutional for his peers to sanction him 
+
+for behavior like that described in the Report.  See Report at 
+59 (stating that Judge McBryde believed his incarceration of 
+a lawyer for refusal to answer a question was "appropriate 
+under the circumstances");  id. 63-64 (quoting transcript of 
+Committee hearing suggesting that Judge McBryde thought 
+it was appropriate under the circumstances to have a state 
+court judge removed from his chambers without asking the 
+state judge why he had come to see Judge McBryde).  Given 
+this uncertainty, and given Judge McBryde's aggressive judi-
+cial style, there is ample reason to suspect that his behavior 
+might again provoke sanctions.
+
+                     

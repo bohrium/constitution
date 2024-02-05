@@ -1,0 +1,805 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 4, 2002    Decided April 16, 2002 
+
+                           No. 01-7071
+
+       United States of America, ex rel. Edward L. Totten, 
+                            Appellant
+
+                                v.
+
+           Bombardier Corporation and Envirovac, Inc., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv00657)
+
+     H. Vincent McKnight Jr. argued the cause for appellant.  
+With him on the briefs was Peter J. Vangsnes.
+
+     Thomas M. Bondy, Attorney, U.S. Department of Justice, 
+argued the cause as amicus curiae supporting appellant.  
+With him on the brief were Roscoe C. Howard Jr., United 
+States Attorney, Douglas N. Letter, Litigation Counsel, Unit-
+
+ed States Department of Justice, and Colin C. Carriere, 
+Counsel, National Railroad Passenger Corporation.
+
+     Mark R. Hellerer argued the cause and filed the brief for 
+appellee Bombardier Corporation.  Donald A. Carr entered 
+an appearance.
+
+     Paul E. Lehner and Randall L. Mitchell were on the brief 
+for appellee Envirovac, Inc.  Barbara Van Gelder and Scott 
+M. McCaleb entered appearances.
+
+     Before:  Edwards and Randolph, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the court filed by Circuit Judge Edwards.
+
+     Concurring opinion filed by Circuit Judge Randolph.
+
+     Edwards, Circuit Judge:  Suspecting that his employer, the 
+National Railroad Passenger Corporation ("Amtrak") was 
+being defrauded by two companies with whom it had contract-
+ed to supply new rail cars with improved toilet systems, 
+Edward Totten brought an action against these companies 
+under the False Claims Act ("FCA"), 31 U.S.C. ss 3729-3733 
+(1994).  The District Court dismissed his suit, holding that, 
+pursuant to a recent amendment to Amtrak's governing 
+statute, the FCA could not be invoked with respect to federal 
+money invested in the railroad.  Totten now appeals this 
+decision, and in so doing presents us with an issue of first 
+impression regarding the extent to which doing business with 
+Amtrak immunizes contractors from FCA liability.
+
+     In 1997, Congress enacted legislation which stated, in part, 
+that Amtrak "shall not be subject to title 31."  See Amtrak 
+Reform and Accountability Act of 1997, Pub. L. No. 105-134, 
+s 415(d), 111 Stat. 2570 (Dec. 2, 1997) ("the Reform Act"), 
+codified at 49 U.S.C.A. s 24301(a)(3) (2001).  Because the 
+FCA is included in title 31 of the U.S. Code, the District 
+Court concluded that a suit by Totten against contractors 
+doing business with the railroad would impermissibly make 
+Amtrak "subject to" the FCA.  We disagree.  Instead, we 
+hold that the Reform Act erects no per se bar preventing 
+individuals from bringing FCA actions against those who 
+
+make false or fraudulent claims implicating the federal funds 
+invested in Amtrak.  Neither the text nor the legislative 
+history of s 24301(a)(3) compels a blanket liability exception 
+for businesses serving Amtrak.
+
+     Accordingly, we reverse the judgment of the District Court 
+and remand the case for further proceedings.  On remand, 
+Totten may amend his complaint, which presently is inade-
+quate, in order to state a proper claim for relief under the 
+FCA.  The District Court indicated that it would have per-
+mitted such an amendment had it not interpreted the Reform 
+Act as posing an insurmountable obstacle to Totten's suit.  
+We agree that an opportunity to amend is permissible and 
+appropriate.
+
+     In amending his complaint, Totten must state with particu-
+larity the circumstances surrounding the defendants' alleged-
+ly false claims, as required by Rule 9(b) of the Federal Rules 
+of Civil Procedure.  He must also aver that the defendants 
+actually submitted false demands for payment, rather than 
+merely non-conforming goods.  That said, we express no view 
+on the question left open by this court in United States ex rel. 
+Yesudian v. Howard University, 153 F.3d 731, 737-39 (D.C. 
+Cir. 1998), concerning the relationship between subsections 
+(a)(1) and (c) of 31 U.S.C. s 3729.  Instead, we leave it to the 
+District Court to determine, should the issue arise on remand, 
+whether an FCA plaintiff may prevail against a defendant 
+who submits a false "claim" to Amtrak, as that term is 
+defined in s 3729(c), without evidence that the claim was ever 
+submitted (or resubmitted) to the federal government.  We 
+will not venture to offer an answer to this difficult legal 
+question on the record currently before us.
+
+                          I. BACKGROUND
+
+     Congress created Amtrak in 1971 in order to stave off the 
+threatened extinction of passenger rail service in the United 
+States.  See Rail Passenger Service Act of 1970, Public Law 
+No. 91-518, 84 Stat. 1327 (Oct. 30, 1970);  Nat'l R.R. Passen-
+ger Corp. v. Atchison, Topeka & Santa Fe Ry. Co., 470 U.S. 
+451, 453-55 (1985).  Since its inception, the statutes governing 
+
+Amtrak have indicated that the railroad is to be managed as a 
+for-profit corporation, and not as a "department, agency, or 
+instrumentality" of the federal government.  See generally 
+Lebron v. Nat'l R.R. Passenger Corp., 513 U.S. 374, 383-86 
+(1994).  This status continues to the present day.  See 49 
+U.S.C.A. s 24301(a).  As such, the railroad is generally ex-
+empt from those "statutes that impose obligations or confer 
+powers upon Government entities."  Lebron, 513 U.S. at 392 
+(holding that Amtrak is nevertheless subject to the con-
+straints of the Constitution).
+
+     Until 1997, Amtrak was formally classified as a "mixed-
+ownership Government corporation," 31 U.S.C. s 9101(2)(A) 
+(1983), and was therefore bound by the rules that federal law 
+imposes on such entities.  See Government Corporation Con-
+trol Act, 31 U.S.C. ss 9101-9109 ("GCCA").  That year, con-
+cerned that these and other restrictions were jeopardizing 
+Amtrak's financial viability, Congress enacted the Reform Act 
+in order to increase the railroad's managerial flexibility and 
+improve its economic prospects.  See S. Rep. No. 105-85, at 1 
+(1997) ("In order to achieve operating self-sufficiency, the bill 
+is designed to enable Amtrak to increase efficiencies, reduce 
+costs, and operate as much like a private business as possi-
+ble.").  To these ends, while Amtrak was provided with an 
+influx of federal dollars -- appropriations totaling $5.2 billion 
+over the 1998-2002 period -- Congress simultaneously sought 
+to alter the railroad's legal status as a recipient of that 
+money.
+
+     It did so in two ways that are significant for the present 
+appeal.  First, the Reform Act amended the GCCA to remove 
+Amtrak from the list of mixed-ownership corporations.  See 
+Pub. L. No. 105-134, s 415(d)(2).  This change freed the 
+railroad from the requirements that bind companies so desig-
+nated, such as the submission of budget reports to Congress, 
+31 U.S.C. s 9103, and annual government audits, 31 U.S.C. 
+s 9105.  Relatedly, the Act specifically amended 49 U.S.C. 
+s 24301(a)(3) to provide that Amtrak "shall not be subject to 
+title 31."  See Pub. L. No. 105-134, s 415(d)(1).  These 
+amendments do not figure prominently in the legislative 
+history of the Reform Act.  Indeed, the only specific refer-
+ence to this section of the bill notes tersely that it "removes 
+
+Amtrak from the Government Corporations Act."  H.R. Rep. 
+No. 105-251, at 34 (1997).
+
+     Certainly, neither the statutory text nor its history makes 
+any mention of the False Claims Act.  Yet, along with the 
+rules regarding government corporations, that statute is 
+housed in title 31.  And the present case calls upon us to 
+decide the extent to which this provision of the Reform Act 
+narrowed the reach of the FCA as it relates to Amtrak.  This 
+is an issue of first impression.
+
+     The dispute giving rise to this case began when Amtrak 
+contracted with two private companies, Bombardier Corpora-
+tion and Envirovac, Inc. ("the Contractors"), to supply rail 
+cars with new toilet systems for its trains.  Bombardier 
+makes the cars and Envirovac makes the toilets.  Specifica-
+tions for the toilet systems were incorporated into Amtrak's 
+contracts with the Contractors.  On March 16, 1998, Totten, a 
+former Amtrak employee, filed a suit against the Contractors 
+under the FCA, alleging that they had supplied unsuitable 
+parts that did not meet the contractual specifications.  Tot-
+ten's complaint asserted that these noncompliant toilets were 
+so defective that they endangered the health of Amtrak's 
+passengers and employees.  Totten further averred that the 
+Contractors knew of these defects, yet delivered the cars 
+anyway in order to obtain payment under their contracts.
+
+     In order to advance its purpose of protecting federal funds 
+from fraud, the False Claims Act allows a private individual 
+such as Totten (known as the relator) to bring a qui tam 
+action "in the name of the Government," and by that means to 
+share in the ultimate recovery.  See 31 U.S.C. s 3730(b);  see 
+generally Vermont Agency of Natural Res. v. United States 
+ex rel. Stevens, 529 U.S. 765, 768-70 (2000).  The statute's qui 
+tam provision is a powerful tool that augments the govern-
+ment's limited enforcement resources by creating a strong 
+financial incentive for private citizens to guard against efforts 
+to defraud the public fisc.  See Yesudian, 153 F.3d at 736.  
+Indeed, an FCA plaintiff can realize a substantial recovery, as 
+the statute imposes both treble damages and a civil penalty of 
+up to $10,000 on any person who, inter alia, "knowingly 
+
+presents, or causes to be presented, to an officer or employee 
+of the United States Government ... a false or fraudulent 
+claim for payment or approval."  31 U.S.C. s 3729(a)(1).
+
+     The language of s 3729(a)(1) suggests that the alleged false 
+claim must have been presented to the federal government 
+itself.  Section 3729(c), however, defines "claim" quite broadly 
+to include:
+
+     any request or demand, whether under a contract or 
+     otherwise, for money or property which is made to a 
+     contractor, grantee, or other recipient if the United 
+     States Government provides any portion of the money or 
+     property which is requested or demanded, or if the 
+     Government will reimburse such contractor, grantee, or 
+     other recipient for any portion of the money or property 
+     which is requested or demanded.
+     
+Neither this court nor the Supreme Court has definitively 
+explicated the complex relationship between the definition 
+clause in s 3729(c) and the presentment clause in 
+s 3729(a)(1).  Instead, we have noted, but declined to answer, 
+the question of whether an FCA plaintiff can prevail by 
+proving only that a false claim was submitted to a federal 
+grantee (such as Amtrak), as defined in subsection (c), with-
+out further demonstrating that the claim was submitted (or 
+resubmitted) to the federal government, as suggested by the 
+text of (a)(1).  See Yesudian, 153 F.3d at 737-39.
+
+     The District Court did not face this question.  Rather, the 
+court relied on different grounds in rejecting Totten's com-
+plaint.  See United States ex rel. Totten v. Bombardier Corp., 
+139 F. Supp.2d 50, 52 & n.1 (D.D.C. 2001).  First, the District 
+Court held that, regardless of whether s 3729(a)(1) requires a 
+showing that claims were presented to the United States 
+itself, Totten's complaint failed because it did not allege that 
+the Contractors presented "any request or demand ... for 
+money or property" to Amtrak.  Rather, the complaint mere-
+ly asserts that defendants delivered goods to the railroad that 
+did not meet the specifications of its contracts.  Second, the 
+District Court found that the complaint makes no representa-
+tions regarding Amtrak's status as a recipient of federal 
+
+money, either in general or in connection with the specific 
+projects at issue in this case.  Therefore, even if the Contrac-
+tors had actually presented demands for payment to Amtrak, 
+the complaint gives no indication as to how such demands 
+would be "claim[s]" under the terms of subsection (c).  Third, 
+the District Court pointed out that Totten's complaint does 
+not state the time, place, and content of defendants' alleged 
+false statements, as required by Rule 9(b).  See Fed. R. Civ. 
+P. 9(b) ("the circumstances constituting fraud or mistake shall 
+be stated with particularity").
+
+     The District Court noted that ordinarily it would have 
+allowed a plaintiff to cure such pleading flaws by amendment, 
+but concluded that such a remedy would have been futile in 
+Totten's case because his suit was doomed as a matter of law.  
+See Bombardier, 139 F. Supp.2d at 52 n.1.  Specifically, the 
+court held that Amtrak's special legal status rendered its 
+contractors totally immune from liability under the FCA, 
+regardless of how the case was pleaded.  According to the 
+District Court, the purpose of the Reform Act was to "negate 
+the normal repercussions of government funding" as it relat-
+ed to Amtrak.  Id. at 54.  Among these repercussions is 
+potential FCA liability for those entities receiving, through 
+contracts with Amtrak, a share of the federal money invested 
+in the railroad.  The District Court thus held that the phrase 
+"not subject to title 31" in 49 U.S.C.A. s 24301(a)(3) was 
+intended to prevent "Amtrak's receipt of government funds 
+from bringing Amtrak, and its business dealings, within the 
+reach of the False Claims Act."  Id. at 55.
+
+     Totten appeals from this decision.  The United States 
+elected not to intervene in this litigation pursuant to 31 
+U.S.C. s 3730(b)(5).  However, the United States has now 
+filed an amicus curiae brief on appellant's behalf arguing 
+against the District Court's expansive construction of the 
+Reform Act.
+
+                          II. DISCUSSION
+
+     The central issue in this appeal is whether the Reform Act, 
+in stating that Amtrak "shall not be subject to title 31," 
+
+exempts those who contract with Amtrak from liability under 
+the False Claims Act.  We believe that it does not.  Rejecting 
+the District Court's construction of the Reform Act leads us 
+to the question of whether Totten should be allowed to amend 
+his complaint to correct its various shortcomings.  We believe 
+that he should.
+
+     A.   The Meaning of "Subject To" in 49 U.S.C.A. 
+          s 24301(a)(3)
+          
+     The argument that the Reform Act bars Totten's suit, 
+which the District Court accepted and which the Contractors 
+echo on appeal, runs as follows:  The FCA confers benefits 
+and imposes burdens on entities who receive government 
+funding.  The statute's stringent penalties deter fraud but 
+they also may make some businesses reluctant to contract for 
+fear of liability.  Accordingly, if demands for payment pre-
+sented to Amtrak can be considered "claims" within the 
+meaning of 31 U.S.C. s 3729(c), the FCA would both protect 
+and (indirectly) constrain Amtrak in its business transactions.  
+And this would leave the railroad "subject to," in the sense of 
+being "affected by," the terms of the statute.  Under this 
+scenario, Totten's cause of action is precluded by 
+s 24301(a)(3).
+
+     We are not persuaded by this argument.  We must begin, 
+of course, with the text of the statute.  As the District Court 
+itself recognized, the words "subject to" leave room for 
+interpretation.  See Bombardier, 139 F. Supp.2d at 53.  It is 
+true that in some contexts "subject to" can mean "affected 
+by," for example, "Boats in San Francisco Bay are often 
+subject to fierce winds."  However, when the phrase is used 
+in situations more analogous to the one here, it is typically 
+given a narrower cast:  an entity is "subject to" a particular 
+legal regime when it is regulated by, or made answerable 
+under, that regime.  See The Random House Thesaurus 696 
+(giving "bound by" as chief synonym for the phrase in the 
+sentence, "We are subject to the laws of the country");  see 
+also, e.g., Texaco, Inc. v. DuhE, 274 F.3d 911, 918-19 (5th Cir. 
+2001) (natural gas became "subject to an existing contract" 
+
+within the meaning of the Natural Gas Policy Act when it was 
+"governed by" the terms of that contract).
+
+     In National Collegiate Athletic Association v. Smith, for 
+example, the Supreme Court considered whether "a private 
+organization that does not receive federal financial assistance 
+is subject to Title IX because it receives payment from 
+entities that do."  525 U.S. 459, 465 (1999) (emphasis added).  
+In holding that the NCAA was not subject to the statute, the 
+Court did not preclude all applications of Title IX that 
+indirectly affect the organization.  Rather, the Smith decision 
+mandated merely that the NCAA itself could not be sued 
+under Title IX.  See id. at 470.  The organization, in other 
+words, was not required to conform its own conduct to the 
+demands of the statute.  That said, Title IX suits against the 
+colleges or universities that fund the NCAA are plainly 
+permitted after Smith, even though the effect of such litiga-
+tion might be to limit the number of schools willing to field 
+athletic teams and thus to pay the Association's dues.  Cf. 
+Pederson v. Louisiana State Univ., 213 F.3d 858 (5th Cir. 
+2000) (holding that LSU was liable under Title IX for not 
+adequately accommodating the school's female athletes).  The 
+fact that Title IX continues to have an indirect effect on the 
+NCAA's business does not, in ordinary usage, render that 
+organization "subject to" that statute.
+
+     Other examples reinforce this common understanding of 
+the term.  Thus, when the Supreme Court noted that a 
+defendant was "subject to Title VII ... only if, at the time of 
+the alleged retaliation, it met the statutory definition of 
+employer," it clearly meant that the defendant could be held 
+liable under Title VII only if that condition was met.  Walters 
+v. Metro. Educ. Enters., Inc., 519 U.S. 202, 205 (1997);  see 
+also, e.g., Nat'l Cable and Telecomm. Ass'n, Inc. v. Gulf 
+Power Co., 122 S. Ct. 782, 797 (2002) ("[T]he Commission has 
+not determined whether Internet access via cable system 
+facilities should be classified as a 'cable service' subject to 
+Title VI of the Act, or as a 'telecommunications' or 'informa-
+tion service' subject to Title II.").
+
+     Moreover, this is how the phrase is used in the context of 
+the False Claims Act itself.  In its recent Vermont Agency 
+decision, the Supreme Court used the phrase "subject to the 
+false claims law" to describe the category of persons who can 
+be sued under the FCA.  529 U.S. at 784 n.13;  see also, e.g., 
+United States ex rel. Long v. SCS Bus. & Tech. Instit., Inc., 
+173 F.3d 870, 876 (D.C. Cir. 1999) (speaking of "individuals 
+subject to the Act" as those who could be made liable under 
+it);  United States ex rel. Zissler v. Regents of the Univ. of 
+Minnesota, 154 F.3d 870, 872 (8th Cir. 1998) (asking whether 
+States are "subject to the False Claims Act" in the sense of 
+whether they can be held legally accountable for making false 
+claims to the federal government).
+
+     Accordingly, where, as here, a plaintiff brings a qui tam 
+action against a third party who has allegedly defrauded a 
+federal grantee, common usage would suggest that the third 
+party, and not the grantee, is being made "subject to" the 
+FCA.  We think this to be the more intuitive understanding 
+of the Reform Act as well.  Construing s 24301(a)(3) in this 
+light would read it as preventing Amtrak from being directly 
+regulated by the various provisions in title 31, for example, by 
+being sued under the False Claims Act.  In contrast, as long 
+as Amtrak is not made to conform its actions to the terms 
+imposed by such statutes, the railroad is not made "subject 
+to" those laws.  And, if this is the standard, it is clearly not 
+met in the present case.
+
+     Here, Totten seeks to use the FCA not to regulate Amtrak, 
+but instead to recover for the purported fraud of contractors 
+hired to serve the railroad.  Allowing the United States (or 
+its relator) to obtain damages from those who contract with 
+Amtrak imposes no direct legal obligation on the railroad.  
+Nor does it permit Amtrak's conduct to be measured against 
+the standards set in the statute.  Even if similar suits may 
+have an incidental effect on Amtrak's future business rela-
+tionships, Totten's litigation will not compel the railroad to 
+take any action in order to satisfy the demands of the FCA.  
+His action therefore does not implicate the Reform Act's 
+"subject to" provision.
+
+     At any rate, this result flows from what we believe to be 
+the most natural and ordinary reading of the phrase "subject 
+to."  Accordingly, we will accept that conclusion, and allow 
+Totten's suit to go forward, unless we find evidence that 
+Congress had a different meaning in mind when it drafted 
+s 24301(a)(3).  See, e.g., Williams v. Taylor, 529 U.S. 420, 431 
+(2000) ("We give the words of a statute their 'ordinary, 
+contemporary, common meaning,' absent an indication Con-
+gress intended them to bear some different import.") (quoting 
+Walters, 519 U.S. at 207).  The Contractors argue that such 
+evidence is to be found in the legislative history of the 
+Reform Act.  Once again, we disagree.
+
+     If anything, the only specific reference that Congress made 
+to the "not be subject to title 31" language suggests that this 
+clause was intended to have a rather limited effect.  The 
+amendment appeared in Section 501 of the House version of 
+the bill that became the Reform Act.  That section, entitled 
+"Financial Powers," was concerned mostly with restructuring 
+Amtrak's stock.  Subsection (e) contained both the clause 
+removing Amtrak from the list of mixed-ownership Govern-
+ment corporations in 31 U.S.C. s 9101, and the clause adding 
+the "subject to" language in 49 U.S.C. s 24301(a)(3).  In its 
+section-by-section analysis of the bill, the House Committee 
+on Transportation and Infrastructure reported blandly that 
+this subsection "removes Amtrak from the Government Cor-
+porations Act."  See H.R. Rep. No. 105-251, at 34.
+
+     Insofar as this statement is useful, it clearly does not help 
+the Contractors' cause.  It provides no indication that Con-
+gress expected or intended that the phrase "subject to" would 
+take on a broader agenda than its ordinary meaning connotes.  
+To be sure, the language of the amended s 24301(a)(3) plainly 
+does more than to remove Amtrak from the obligations of the 
+GCCA, and must be construed accordingly.  However, the 
+Committee's narrow understanding of this change certainly 
+reinforces our decision to reject the expansive interpretation 
+adopted by the District Court.  If anything, the legislative 
+history's terse analysis indicates that no one in Congress 
+imagined that the Reform Act would result in a repeal of the 
+
+False Claims Act as it applies to any private company doing 
+business with Amtrak.
+
+     Such an outcome would indeed have been striking.  To 
+accept it, we would have to believe that just as Congress was 
+committing itself to a significant investment of federal money 
+in Amtrak, it eliminated a weapon for protecting that money 
+against fraud.  We would have to believe that Congress 
+placed a significant obstacle in the way of uprooting the 
+unlawful depletion of that portion of the public fisc used to 
+develop and support the nation's passenger rail system - the 
+very system that the legislation in question was aimed at 
+protecting.
+
+     As suggested above, the words that Congress wrote do not 
+compel (and in their ordinary usage resist) this conclusion.  
+And the scant extrinsic evidence that exists to cast light on 
+the meaning of these words suggests that such a dramatic 
+result was far from the legislative mind.  We think it not 
+unreasonable to suppose that had such a broad rollback of the 
+FCA in fact been the goal of the Reform Act, some indication 
+of that intent would appear in the congressional record.  Cf. 
+Am. Hosp. Ass'n v. NLRB, 499 U.S. 606, 613-14 (1991).  
+There is none.  And, without some affirmative indicator, we 
+are unwilling to place upon the text of that statute an 
+expansive gloss that would generate this surprising result.
+
+     Recognizing the weakness of arguments from specific legis-
+lative history, the District Court, and now the Contractors, 
+have focused on the broader purposes of the Reform Act as a 
+possible interpretive guide.  This effort falls flat as well.  As 
+described above, the District Court concluded that the aim of 
+the Reform Act was to "negate the normal repercussions of 
+government funding."  Totten, 139 F. Supp.2d at 54.  That is, 
+while Congress would continue (at least in the short-run) to 
+appropriate significant federal money for Amtrak, its objec-
+tive was to have the railroad treated as if it was receiving no 
+such funding.  The statute, in other words, legislated the 
+pretense that Amtrak was self-sufficient.  And, as such, FCA 
+liability would be inappropriate, as that statute applies only 
+where federal funds are at stake.
+
+     The problem with this view is that there is no actual basis 
+for it in the legislative history.  It is true that, in passing the 
+Reform Act, Congress sought to end federal "micromanage-
+ment of Amtrak's operations," H.R. Rep. No. 105-251, at 13, in 
+order to allow the railroad to "operate as much like a private 
+business as possible," S. Rep. No. 105-85, at 1.  However, even 
+if we accept these statements as relevant to determining the 
+meaning of "subject to," they do not necessarily support the 
+Contractors' position.  In fact, they are entirely consistent 
+with the position taken by Totten and the United States:  that 
+both the goal and effect of the Reform Act were to ensure 
+that Amtrak would be treated just like any other private 
+company that receives federal money.  The Act, in other 
+words, sought to ensure that Amtrak would no longer be 
+subject to special restrictions that were not similarly imposed 
+on private-sector transportation firms.
+
+     On this view, allowing Amtrak's contractors to be sued 
+under the FCA makes perfect sense, as the contractors of any 
+private business would likewise be subject to liability if they 
+submitted false claims in connection with a project to be 
+reimbursed with federal money.  See, e.g., United States v. 
+Lagerbusch, 361 F.2d 449 (3d Cir. 1966);  Murray & Soren-
+son, Inc. v. United States, 207 F.2d 119, 123 (1st Cir. 1953) 
+("The fact that the claims in this case were not presented 
+directly to the government, but were made to it indirectly 
+through the contractors, does not prevent recovery under the 
+False Claims Statute.");  cf. United States v. Bornstein, 423 
+U.S. 303 (1976) (FCA used to sue a subcontractor whose 
+fraud caused a private company that had contracted with the 
+government to submit false invoices to the United States).  
+Thus, contrary to the Contractors' contention, even the gen-
+eral goals expressed by the drafters of the Reform Act 
+appear to support Totten's attempt to bring suit under the 
+FCA.
+
+     In sum, the most natural reading of 49 U.S.C.A. 
+s 24301(a)(3) would not withdraw FCA protection against 
+alleged false claims made by third parties on the extensive 
+sums of federal money invested in Amtrak.  Neither is this 
+result mandated, or even suggested, by the scant legislative 
+
+history of that provision, nor by the larger purposes and aims 
+of the Reform Act as a whole.  We therefore reverse the 
+District Court's conclusion that s 24301(a)(3) erects a per se 
+barrier preventing Totten from imposing FCA liability on the 
+Contractors.
+
+     B.   Allowing Totten to Amend his Complaint
+          
+     1.   Flaws In Totten's Unamended Complaint
+          
+     This legal conclusion does not, however, mean that Totten's 
+complaint, at least in its current form, actually states a valid 
+claim under the False Claims Act.  Indeed, as suggested 
+above, there are several ways in which his present complaint 
+is deficient.  First, Totten has alleged merely that the Con-
+tractors "knowingly presented or caused to be presented 
+equipment to an officer or employees of the National Railroad 
+Passenger Corporation, that was knowingly substandard or 
+noncompliant with engineering specifications for the Superlin-
+er II Contract to obtain payments from the National Railroad 
+Passenger Corporation ..."  Complaint, at p 22;  see also id. 
+at p p 27, 57.  However, the bare assertion that defendants 
+delivered goods that did not conform to contractual specifica-
+tions is not enough to state a violation of the FCA.  Instead, 
+in the sections relevant here, the statute proscribes only false 
+"claims" -- that is, actual demands for money or property, see 
+31 U.S.C. ss 3729(a)(1), (a)(3);  s 3729(c) -- and "false rec-
+ords or statements" used to induce such claims, see 
+s 3729(a)(2).  The FCA, in other words, "attaches liability, 
+not to underlying fraudulent activity, but to the 'claim for 
+payment.' "  United States ex rel. Hopper v. Anton, 91 F.3d 
+1261, 1266 (9th Cir. 1996) (quoting United States v. Rivera, 55 
+F.3d 703, 709 (1st Cir. 1995)).  And, to date, Totten has 
+simply made no allegation that the Contractors actually made 
+false demands or submitted false records, whether to Amtrak 
+or to anyone else.
+
+     The second problem with the present complaint is that 
+Totten has provided no basis for concluding that, even if the 
+defendants did present claims to Amtrak, those would be 
+
+"claims" within the meaning of s 3729(c).  This provision 
+defines claim to include a request for payment made to:
+
+     a contractor, grantee, or other recipient if the United 
+     States Government provides any portion of the money or 
+     property which is requested or demanded, or if the 
+     Government will reimburse such contractor, grantee, or 
+     other recipient for any portion of the money or property 
+     which is requested or demanded.
+     
+Thus, in order to satisfy Rule 12(b)(6), Totten would at least 
+have to plead that the federal government provided some 
+portion of the money requested by the Contractors, or that 
+the government reimbursed Amtrak for what it paid out to 
+improve the toilet systems on its trains.  Though he has not 
+yet done so, it appears that Totten is aware of this require-
+ment, and that he informed the District Court that he was 
+prepared to amend his complaint to allege that federal money 
+was implicated in the specific projects at issue.  See Br. for 
+the United States of America as Amicus Curiae Supporting 
+Appellant 14.
+
+     A third difficulty with the complaint as it stands is that it 
+does not appear to satisfy Rule 9(b) of the Federal Rules of 
+Civil Procedure.  This rule requires that "[i]n all averments 
+of fraud or mistake, the circumstances constituting fraud or 
+mistake shall be stated with particularity."  Totten does not 
+argue that his complaint satisfies this standard, but instead 
+that the rule does not apply to him because he has not alleged 
+that defendants made "fraudulent" claims, but merely "false" 
+ones.  He suggests that because false claims are actionable 
+under the FCA even without "proof of specific intent to 
+defraud," s 3729(b)(3), there is no "averment of fraud" within 
+the meaning of Rule 9(b).  We disagree.
+
+     Every circuit to consider the issue has held that, because 
+the False Claims Act is self-evidently an anti-fraud statute, 
+complaints brought under it must comply with Rule 9(b).  See 
+Bly-Magee v. California, 236 F.3d 1014, 1018 (9th Cir. 2001);  
+United States ex rel. Thompson v. Columbia/HCA Healthcare 
+Corp., 125 F.3d 899, 903 (5th Cir. 1997);  Gold v. Morrison-
+Knudsen Co., 68 F.3d 1475, 1476-77 (2d Cir. 1995).  Totten 
+
+cites no authority whatsoever for the hairsplitting distinction 
+he seeks to draw between fraudulent and false claims under 
+9(b).  And we can see no reason to recognize such a distinc-
+tion.
+
+     The difference between the two categories of claims is 
+simply the degree of scienter involved.  See United States v. 
+TDC Mgmt. Corp., 24 F.3d 292, 297 (D.C. Cir. 1994) (distinc-
+tion turns on "whether the defendant acted with an intent to 
+deceive").  But this difference is entirely insignificant in the 
+context of Rule 9(b)'s pleading requirements.  Indeed, the 
+rule specifically allows allegations of "intent, knowledge, and 
+other condition of mind" to be averred generally.  See Gold, 
+24 F.3d at 1477.  In contrast, the "circumstances" that must 
+be pleaded with specificity are matters such as the "time, 
+place, and contents of the false representations," such repre-
+sentations being the element of fraud about which the rule is 
+chiefly concerned.  See 5 Charles Alan Wright & Arthur R. 
+Miller, Federal Practice and Procedure s 1297 (2d ed. 
+1990) (emphasis added).  Therefore, in order to satisfy Rule 
+9(b), Totten must set forth an adequate factual basis for his 
+allegations that the Contractors submitted false claims (or 
+false statements in order to get false claims paid), including a 
+more detailed description of the specific falsehoods that are 
+the basis for his suit.  See Bly-Magee, 236 F.3d at 1018-19;  
+Columbia/HCA, 125 F.3d at 903.
+
+     2.   Waiver of the Right to Amend
+          
+     The Contractors argue that the flaws in the complaint are 
+fatal, because Totten waived his right to amend his complaint 
+by not seeking leave to do so pursuant to Rule 15(a).  In-
+stead, they point out, Totten merely indicated in his Opposi-
+tion to defendants' motion to dismiss that he stood ready to 
+amend his complaint if the District Court identified any 
+pleading deficiencies.  As authority for their position, the 
+Contractors cite Government of Guam v. American President 
+Lines, 28 F.3d 142, 149-51 (D.C. Cir. 1994), in which we held 
+that plaintiffs whose complaint had been dismissed (for lack 
+of subject matter jurisdiction) had waived their right to 
+amend by failing to make a Rule 15(a) motion, either before 
+
+or after the District Court granted their opponent's dismissal 
+motion.
+
+     The present case, however, is quite different.  In President 
+Lines, we denied plaintiffs an opportunity to amend only after 
+upholding the trial court's decision to dismiss the complaint.  
+In other words, that litigation was over unless we allowed the 
+plaintiffs to reopen it, and we found that their interest in 
+doing so did not outweigh the "general rules favoring the 
+finality of judgments and the expeditious resolution of litiga-
+tion."  Id. at 151.  Totten's situation presents no such coun-
+tervailing finality concerns, in light of our conclusion that the 
+District Court was wrong to dismiss the complaint on the only 
+ground it actually gave for doing so.  The waiver rule relied 
+upon in President Lines is therefore not similarly applicable 
+where the court of appeals reverses the trial court's dismissal 
+order.  See The Dartmouth Review v. Dartmouth College, 889 
+F.2d 13, 23 (1st Cir. 1989) (stating the general rule that 
+where "the pleader has stood upon his pleading and appealed 
+from a judgment of dismissal, amendment will not ordinarily 
+be permitted ... if the order of dismissal is affirmed") 
+(emphasis added) (quoting Rivera-Gomez v. de Castro, 843 
+F.2d 631, 635-36 (1st Cir. 1988) (allowing amendment, even 
+after affirming dismissal, where it is "in the interest of 
+justice")).
+
+     As for Totten's failure to seek leave to amend his complaint 
+after the Contractors' Motion to Dismiss was granted, a 
+factor on which President Lines relied in finding a waiver, see 
+28 F.3d at 151, the District Court made clear in the present 
+case that such a request would have been futile.  See Bom-
+bardier, 139 F. Supp.2d at 52 n.1 ("In other circumstances 
+Totten would be permitted an opportunity to amend his 
+complaint, but, as the remainder of this Opinion demon-
+strates, such an opportunity is not warranted in this case.").  
+Given that the District Court expressly indicated that it 
+would have allowed Totten to amend had it not viewed the 
+Reform Act as posing an insurmountable obstacle to his 
+suit -- regardless of how that suit was packaged -- we see no 
+reason, having reversed the court's legal mistake, to forbid 
+what would have been permitted in the absence of that error.  
+
+Therefore, we will remand the case with instructions that 
+Totten be granted leave to amend his complaint.
+
+     In so doing, however, we express no opinion on the ques-
+tion left open by this court's decision in Yesudian:  whether 
+an FCA plaintiff may prevail against a defendant who sub-
+mits a false "claim" to a federal grantee (such as Amtrak), 
+without presenting evidence that the claim was ever actually 
+submitted to the U.S. government.  See 153 F.3d at 737-39.  
+Depending on how Totten crafts his amended complaint, this 
+issue of statutory interpretation may be avoided altogether.  
+We therefore leave it for another day.
+
+                         III. CONCLUSION
+
+     For the reasons given above, the judgment of the District 
+Court is reversed and the case is remanded for further 
+proceedings consistent with this opinion.
+
+                                                             It is so ordered.
+
+     Randolph, Circuit Judge, concurring:  I agree with all the 
+court has written in its thorough opinion, but I believe a bit 
+more is needed to highlight the problem we leave to the 
+district court - namely, "whether [a False Claims Act] plain-
+tiff can prevail by proving only that a false claim was submit-
+ted to a federal grantee (such as Amtrak), as defined in [31 
+U.S.C. s 3729(c)], without further demonstrating that the 
+claim was submitted (or resubmitted) to the federal govern-
+ment, as suggested by the text of [31 U.S.C. s 3729(a)(1)]."  
+Maj. op. at 6.  Dicta in United States ex rel. Yesudian v. 
+Howard Univ., 153 F.3d 731, 737-39 (D.C. Cir. 1998), inti-
+mates that presenting a claim to any federal grantee is the 
+equivalent to presenting a claim to the federal government.  
+If the reasons given in Yesudian are all that can be said for 
+this far-reaching conclusion, I would have much difficulty in 
+accepting it.
+
+     Those liable under the False Claims Act include any person 
+who "knowingly presents, or causes to be presented" - and 
+here is the key language - "to an officer or employee of the 
+United States government" a false claim.  31 U.S.C. 
+s 3729(a)(1).  Without more, this language would not seem to 
+cover instances in which the false claim is presented to a 
+federal grantee, at least in instances when the grantee did not 
+turn over the claim for reimbursement by the federal govern-
+ment.  That may describe the alleged situation here, although 
+we cannot be sure until the plaintiff amends his complaint.  It 
+is true that s 3729(c) defines "claim" to include claims sub-
+mitted to federal grantees.*  But it is equally true that no 
+matter how "claim" is defined, subsection (a)(1) requires the 
+alleged false claimant to present it (or cause it to be present-
+ed) to a federal officer or employee.
+
+     Two points, neither of which Yesudian highlighted, seem to 
+me of critical importance in construing s 3729.  The Attorney 
+
+__________
+* A "claim" includes any "request or demand ... for money ... 
+made to a contractor, grantee, or other recipient if the United 
+States Government provides any portion of the money or proper-
+ty which is requested or demanded, or if the Government will 
+reimburse such contractor, grantee, or other recipient for any 
+portion of the money or property which is requested or demand-
+ed."  31 U.S.C. s 3729(c).
+
+General is authorized to sue under the statute in the first 
+instance, or to take over suits brought by private parties on 
+behalf of the federal government (qui tam actions), or to 
+allow the private party to prosecute the action on its own.  
+See Vermont Agency of Natural Resources v. United States 
+ex rel. Stevens, 529 U.S. 765, 769 (2000).  If a judgment is 
+rendered against the defendant - and this is the first point - 
+the award of damages is paid to the federal treasury (less a 
+percentage if a private party initiated the action).  The 
+second point is that the Act authorizes treble damages plus a 
+civil penalty.  If the Act allows suits on claims presented to 
+federal grantees but not presented for payment to the federal 
+government, these two features of the Act lead to a glaring 
+incongruity.  To illustrate, suppose the plaintiff in this case 
+prevailed.  The recovery would go to the plaintiff and the 
+federal government.  Amtrak would recover nothing.  Yet 
+the theory of plaintiff's case, as far as we can make out at the 
+moment, is that Amtrak suffered the loss.  Presumably, 
+Amtrak would therefore be able to sue the defendants on its 
+own and if its suit were as meritorious as the relator's, it too 
+would recover damages.  The effect would be a quadruple 
+damage award - Amtrak's recovery plus the treble damages 
+awarded under the False Claims Act.
+
+     This is the consequence of the construction suggested in 
+Yesudian and, at the moment, it seems to me at odds with the 
+structure of the Act.  On the other hand, requiring that the 
+United States have suffered losses by paying false claims 
+presented to it by the federal grantee avoids this interpreta-
+tive difficulty, remains faithful to the language of s 3729(a)(1) 
+& (c) and is entirely consistent with the provision in the Act 
+measuring damages not in terms of a grantee's losses, but by 
+"the amount of damages which the Government sustains...."  
+31 U.S.C. s 3729(a).  I hesitate to reach a firm conclusion, 
+however, because we have not had sufficient briefing and 
+argument on the issue and because it may turn out not to be 
+an issue in the case when it is reformulated in the district 
+court.
+
+                                                                 

@@ -1,0 +1,670 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued January 11, 2002    Decided March 19, 2002 
+
+                           No. 00-1508
+
+                  A.J. McNulty & Company, Inc., 
+                            Petitioner
+
+                                v.
+
+                       Secretary of Labor, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+         Occupational Safety and Health Review Commission
+
+     Arthur G. Sapper argued the cause and filed the briefs for 
+petitioner.
+
+     Ronald J. Gottlieb, Attorney, U.S. Department of Labor, 
+argued the cause for respondent.  With him on the brief were 
+Joseph M. Woodward, Associate Solicitor, and Ann S. Rosen-
+thal, Counsel.  Charles F. James, Attorney, entered an ap-
+pearance.
+
+     Before:  Ginsburg, Chief Judge, Randolph and Tatel, 
+Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Petitioner, a construction company, 
+challenges the Occupational Safety and Health Review Com-
+mission's affirmance of a series of OSHA citations based on 
+the company's failure to comply with workplace safety regula-
+tions.  Petitioner also challenges the Commission's classifica-
+tion of several violations as "willful."  To the extent petitioner 
+has preserved its challenges for review, it has failed to 
+demonstrate that the Commission erred legally or that its 
+decision lacks substantial evidentiary support.  The Commis-
+sion's classification of some citations as willful presents a 
+closer question, but because this determination is also sup-
+ported by substantial evidence, we reject those challenges as 
+well.
+
+                                I.
+
+     The Occupational Safety and Health Act imposes a general 
+duty on employers to keep workplaces "free from recognized 
+hazards that are ... likely to cause death or serious physical 
+harm."  29 U.S.C. s 654(a)(1).  Authorized by that Act to 
+promulgate and enforce workplace-safety regulations, see id. 
+s 655(b), the Secretary of Labor delegated most of her 
+authority to the Occupational Safety and Health Administra-
+tion (OSHA), see 65 Fed. Reg. 50,017 (2000).  OSHA compli-
+ance officers regularly inspect workplaces.  If they identify a 
+violation of safety regulations, OSHA issues a citation in one 
+of three categories:  "not serious," for which a fine of up to 
+$7000 "may be assessed";  "serious," for which a fine of up to 
+$7000 "shall be assessed";  and "willful," for which a fine of at 
+least $5000 but not more than $70,000 "may" be assessed.  29 
+U.S.C. s 666(a)-(c).  Employers may challenge citations, in 
+which case an administrative law judge conducts a hearing 
+and issues a decision.  Id. s 661(j);  29 C.F.R. s 2200.90(a) 
+(2001).  Employers may appeal adverse ALJ decisions to the 
+Occupational Safety and Health Review Commission.  Id. 
+ss 2200.91-.92.
+
+     Petitioner A.J. McNulty & Co. specializes in "precast con-
+crete construction," in which huge, precast concrete slabs are 
+assembled to create walls, ceilings, and floors.  Because the 
+concrete sections, known in the industry as "double-T's," 
+weigh as much as forty tons and rise as high as three stories, 
+cranes are needed to lower them into place.  As the crane 
+operator, who sometimes can see neither the double-T nor its 
+intended location, lowers the double-T into its approximate 
+position, McNulty employees use ropes to guide the slab into 
+its precise place.  This process is dangerous, occasionally 
+requiring workers to move quickly to avoid an errant double-
+T.  Once a double-T has been properly positioned, McNulty 
+employees secure it by welding together steel plates embed-
+ded in each piece.
+
+     In 1993, construction project manager Whiting-Turner 
+Contracting Co. began work on a ten-deck parking garage in 
+White Plains, New York.  The company Whiting-Turner 
+hired to perform the concrete construction in turn subcon-
+tracted with McNulty to install the double-T's.  Shortly after 
+work commenced, Whiting-Turner issued written safety no-
+tices to McNulty complaining about the company's failure to 
+protect employee safety.  These notices, which Whiting- 
+Turner issues only if informal verbal notices have been ig-
+nored, called attention to, among other things, McNulty's 
+failure to erect guardrails to protect workers from falling off 
+edges of recently-installed floor pieces.  Representatives of 
+the two companies met to discuss the problem, but Whiting-
+Turner once again issued written safety notices to McNulty 
+for continuing to expose employees to unsafe conditions.  
+After OSHA compliance officers surveyed the project, the 
+Agency cited McNulty for numerous willful violations of 
+workplace safety regulations that require construction compa-
+nies to use guardrails or safety nets to protect workers from 
+dangerous falls.  See generally 29 C.F.R. s 1926.105, id. 
+s 1926.500 (1994).
+
+     McNulty contested the citations.  Following a hearing in 
+which an ALJ upheld the citations in all respects, McNulty 
+sought review before the Commission.  The Commission af-
+
+firmed the ALJ's findings, but reduced the classification of 
+some citations from "willful" to "serious."
+
+     McNulty appeals ten citations.  The issues presented are 
+both numerous and complex, and McNulty's counsel did not 
+help matters by submitting a confusingly organized brief that 
+contained a completely uninformative statement of issues.  
+See Fed. R. Appellate P. 28(a)(5) (requiring a statement of 
+issues).  Prior to oral argument, we directed McNulty to 
+submit a revised statement of issues, warning that we would 
+decline to consider the merits of any "issue not specifically 
+listed."  Order of the U.S. Court of Appeals for the D.C. 
+Circuit at 1, A.J. McNulty & Co. v. Sec'y of Labor (Jan. 3, 
+2002) (No. 00-1508).  Working from the company's revised 
+statement of issues and following the sensible organization of 
+the Secretary's brief, we consider the challenged citations in 
+three categories:  (1) failure to construct guardrails around 
+"floor openings" and "open-sided floors";  (2) failure to con-
+struct guardrails on narrow, elevated platforms;  and (3) 
+failure to tie off adequately or otherwise secure workers using 
+a steel cage called a "man-basket."
+
+                               II.
+
+     Familiar principles of administrative law govern our review 
+of the Commission's fact-finding and its application of law to 
+facts.  Commission findings of fact stand if "supported by 
+substantial evidence on the record considered as a whole."  
+29 U.S.C. s 660(a);  see also IBP, Inc. v. Herman, 144 F.3d 
+861, 866 (D.C. Cir. 1998).  Its legal determinations stand 
+unless they are "arbitrary, capricious, ... or otherwise not in 
+accordance with law."  5 U.S.C. s 706(2)(A);  see also Loew-
+endick & Sons, Inc. v. Reich, 70 F.3d 1291, 1294 (D.C. Cir. 
+1995).  We owe "substantial deference to an agency's inter-
+pretation of its own regulations," which has "controlling 
+weight unless it is plainly erroneous or inconsistent with the 
+regulation."  Thomas Jefferson Univ. v. Shalala, 512 U.S. 
+504, 512 (1994) (internal quotation marks and citations omit-
+ted).  In OSHA cases, there are two administrative actors:  
+the Secretary and the Commission.  In Martin v. Occupa-
+
+tional Safety & Health Review Commission, the Supreme 
+Court explained that because the Secretary, not the Commis-
+sion, has authority to make enforcement decisions and to 
+render definitive interpretations of OSHA regulations, courts 
+owe "substantial deference" only to the Secretary's interpre-
+tation.  499 U.S. 144, 151-57 (1991).  We treat Commission 
+interpretations as "equivalent to [those made by] a 'nonpolicy-
+making' district court."  Molineaux v. United States, 12 F.3d 
+264, 267 (D.C. Cir. 1994) (quoting Martin, 499 U.S. at 154).
+
+     With these standards in mind, we consider the three cate-
+gories of citations.
+
+               Floor Openings and Open-Sided Floors
+
+     OSHA issued these citations pursuant to two regulations.  
+The first requires that "[f]loor openings shall be guarded by a 
+standard railing ... on all exposed sides."  29 C.F.R. 
+s 1926.500(b)(1) (1994).  OSHA cited McNulty for violating 
+this provision after compliance officers observed two instanc-
+es in which the company failed to install guardrails along the 
+open edges surrounding the spaces where double-T floor 
+members remained to be installed on levels P-2 and P-5 of 
+the parking structure.
+
+     McNulty argues that the guardrail regulation is inapplica-
+ble because at the time of the citation, the surfaces in 
+question were not "floors" within the meaning of that regula-
+tion.  Before addressing this contention, we must consider 
+whether, because McNulty raised this issue only in its brief 
+before the Commission and not in its petition for discretion-
+ary review (known as a PDR), we lack jurisdiction under 29 
+U.S.C. section 660(a):  "No objection that has not been urged 
+before the Commission shall be considered by the court [of 
+appeals]."  See also Power Plant Div., Brown & Root, Inc. v. 
+Occupational Safety & Health Review Comm'n, 659 F.2d 
+1291, 1293 & n.3 (5th Cir. Unit B 1981) ("We have previously 
+characterized [29 U.S.C. s 660(a)] as a limit upon our juris-
+diction."), modified and aff'd on reh'g, 673 F.2d 111 (5th Cir. 
+Unit B 1982);  Athens Community Hosp. v. Schweiker, 686 
+
+F.2d 989, 992 (D.C. Cir. 1982) (courts may raise jurisdictional 
+issues sua sponte).
+
+     Resolving this issue requires an understanding of the Com-
+mission's appeal procedures as well as of section 660(a).  An 
+employer wishing to challenge an ALJ decision begins the 
+appeal process by filing a PDR with the Commission.  29 
+C.F.R. s 2200.91(b).  The Commission may review any issue 
+raised in the PDR or, on its own motion, any other issue.  See 
+id. If the Commission directs review, it ordinarily requests 
+briefs, hears oral argument (if it chooses), and then issues a 
+final order disposing of the matter.  See id. ss 2200.93, 
+2200.95.  If the Commission fails to direct review of an issue 
+within thirty days of the PDR's filing, the ALJ report be-
+comes the Commission's final order.  See id. s 2200.90(d).  
+Either way, the Commission's final order is reviewable in the 
+appropriate court of appeals, subject to the limitation that 
+courts of appeals lack jurisdiction over "objection[s] ... not 
+... urged before the Commission."  29 U.S.C. s 660(a).
+
+     According to McNulty, the phrase "urged before the Com-
+mission" is broad enough to include raising an objection for 
+the first time in a Commission brief.  In cases where the 
+Commission declines to review the ALJ decision, we and our 
+sister circuits have uniformly held that courts of appeals lack 
+jurisdiction over objections not raised in the PDR.  See 
+Durez Div. of Occidental Chem. Corp. v. Occupational Safety 
+& Health Review Comm'n, 906 F.2d 1, 5 (D.C. Cir. 1990);  see 
+also, e.g., P. Gioioso & Sons v. Occupational Safety & Health 
+Review Comm'n, 115 F.3d 100, 107 (1st Cir. 1997) (same).  
+We know of only one case that sheds light on the precise 
+issue here:  What happens when the Commission agrees to 
+review an ALJ decision, and the employer, having failed to 
+present an objection in its PDR, does so in its Commission 
+brief?  In Trinity Industries v. Occupational Safety & 
+Health Review Commission, 206 F.3d 539, 542 (5th Cir. 2000), 
+the Fifth Circuit held that an employer's failure to present an 
+essential objection in its PDR did not preclude judicial review 
+where the employer clearly raised that objection in its Com-
+mission brief.  According to the Fifth Circuit, requiring the 
+
+employer also to have raised the objection in its PDR would 
+"place form above purpose."  Id. at 542.
+
+     In our view, the result reached by the Fifth Circuit is 
+equally appropriate in this case.  To begin with, nothing in 
+the phrase "urged before the Commission" suggests that an 
+employer must raise every objection in its PDR;  to the 
+contrary, an employer that presents an objection in its brief 
+has, by any understanding of the word, "urged" it before the 
+Commission.  Indeed, when Congress wants to limit judicial 
+review to objections raised at a particular stage of the admin-
+istrative process, it does so expressly.  For example, the 
+Federal Power Act provides that "[n]o objection to the order 
+of the [Federal Energy Regulatory] Commission shall be 
+considered by the court ... [unless] urged before the Com-
+mission in the application for rehearing."  16 U.S.C. 
+s 825l(b) (emphasis added);  see also Platte River Whooping 
+Crane v. Fed. Energy Regulatory Comm'n, 876 F.2d 109, 113 
+(D.C. Cir. 1989) (interpreting this language to require that 
+petitioners seeking review of a FERC order must first "peti-
+tion for rehearing of those orders and must themselves raise 
+in that petition all of the objections urged on appeal" and 
+emphasizing that "[n]either FERC nor this court has authori-
+ty to waive these statutory requirements").  Permitting judi-
+cial review of objections raised for the first time in Commis-
+sion briefs, moreover, preserves the role Congress intended 
+the Commission to play in the OSHA review process.  Section 
+660(a)'s review-limiting clause ensures that the Commission 
+has a fair chance to consider objections to ALJ decisions prior 
+to judicial review.  See Power Plant Div., Brown & Root, 659 
+F.2d at 1293-94 (interpreting 29 U.S.C. section 660(a) to 
+require only that "the Commission be alerted to the issues 
+and have the opportunity to pass on them before a court 
+begins its review of the administrative process") (internal 
+quotation marks and citations omitted);  cf. also United States 
+v. L.A. Trucker Lines, Inc., 344 U.S. 33, 37 (1952) ("[O]rderly 
+procedure and good administration require that objections to 
+the proceedings of an administrative agency be made while it 
+has an opportunity for correction in order to raise issues 
+reviewable by the courts.").  Presenting objections in Com-
+
+mission briefs achieves this end.  To preclude judicial review 
+where McNulty has "put the Commission on notice of the 
+nature or basis for its challenge," Durez, 906 F.2d at 5, simply 
+because the company failed to include the objection in its 
+PDR would, indeed, "place form above purpose," Trinity 
+Indus., 206 F.2d at 542.
+
+     While McNulty has successfully preserved its claim that 
+the surfaces in question were not "floors" within the meaning 
+of the regulation, the argument lacks merit.  Nothing in the 
+regulation suggests that the term "floors" applies only to 
+complete floors.  On the contrary, the regulation expressly 
+"appl[ies] to temporary ... conditions where there is danger 
+of employees or materials falling through floor ... openings," 
+29 C.F.R. s 1926.500(a) (1994), suggesting that it applies with 
+particular force to incomplete floors where yet-to-be-installed 
+double-T's create additional fall hazards.  The ALJ decision 
+on which McNulty primarily relies, Spancrete Northeast, Inc., 
+stands for the unremarkable and irrelevant proposition that 
+floors are incomplete until all double-T's are secured.  1981 
+WL 19242, *3 (ALJ Feb. 18, 1981) ("In precast concrete 
+construction, a 'floor' within the meaning of [the regulation] is 
+only complete when all the double T's constituting a level are 
+secured.").
+
+     McNulty's related argument--that the ALJ erred by ex-
+cluding certain testimony about industry understanding of the 
+term "floor"--is waived.  The company's only reference to 
+this argument appears in the section of its Commission brief 
+discussing willfulness.  McNulty thus failed to give the Com-
+mission notice that its objections to the ALJ's evidentiary 
+rulings related to the company's arguments about the mean-
+ing of the term "floor."
+
+     McNulty next challenges the Commission's rejection of the 
+company's "infeasibility defense" to its failure to erect guard-
+rails around floor openings.  Although "[i]t is an affirmative 
+defense to a charge of violating an OSHA standard that 
+compliance was impossible or infeasible," Bancker Constr. 
+Corp. v. Reich, 31 F.3d 32, 34 (2d Cir. 1994), an employer 
+mounting such a defense must show not only the infeasibility 
+
+of compliance, but also that it either used alternative means 
+of protection or that such means were infeasible.  In this 
+case, we need not consider McNulty's many arguments that 
+compliance with the regulation was technically infeasible, for 
+the record contains substantial, undisputed evidence support-
+ing the Commission's conclusion that the company could have 
+installed alternative means of fall protection.  OSHA's com-
+pliance officer testified that "McNulty could have put free-
+standing ... guardrails back from the edge where they would 
+not have interfered with installing the floor piece."  A.J. 
+McNulty & Co., 19 O.S.H. Cas. (BNA) 1121, 1130 (O.S.H.R.C. 
+2000).  Although McNulty claims that bolted-stanchion 
+guardrails would have interfered with installation of precast 
+concrete members, it never disputed, either before the Com-
+mission or this Court, the compliance officer's testimony that 
+free-standing guardrails were feasible.  McNulty also con-
+tends that the Commission erred by imposing on it the 
+burden of proving the infeasibility of alternative methods of 
+fall protection.  Not only is this claim directly contrary to 
+law, see Bancker Constr., 31 F.3d at 34;  cf. 29 C.F.R. 
+s 1926.501(b)(2)(i) (2001) (placing burden on employer to 
+demonstrate infeasibility), but it too is waived, appearing in 
+neither the company's PDR nor Commission brief.
+
+     Equally unpersuasive is McNulty's argument that the Com-
+mission erred by rejecting its "greater-hazard defense" to the 
+failure to install guardrails around the floor opening on level 
+P-2.  Employers seeking to establish such a defense must 
+prove "(1) the hazards of compliance with [the] standard are 
+greater than the hazards of noncompliance, (2) alternative 
+means of protection are unavailable, and (3) a variance [(a 
+procedure by which an employer formally requests an excep-
+tion from OSHA regulations)] was unavailable or inappropri-
+ate."  Dole v. Williams Enters., 876 F.2d 186, 188 (D.C. Cir. 
+1989).  According to McNulty, workers erecting guardrails 
+around this particular floor opening would have been exposed 
+to dangers from the potential collapse of an unsecured 
+twenty-five-ton vertical wall member.  As the Secretary cor-
+rectly points out, McNulty mislabels this argument an infeasi-
+bility defense.  Even properly labeled, however, the defense 
+
+fails.  McNulty points to no record evidence disputing the 
+Commission's finding that even if installation of guardrails 
+might have been hazardous, "McNulty could have installed 
+perimeter protection before bringing the elevated wall piece 
+up to the floor for installation."  A.J. McNulty, 19 O.S.H. 
+Cas. (BNA) at 1133 (emphasis addded).  According to McNul-
+ty, this Commission finding "ignores [other] unrebutted testi-
+mony" by the company's chief compliance officer that installa-
+tion of such guardrails was infeasible because "employees 
+would have had to walk on a dangerously narrow flange to 
+erect the guarding."  Pet'r's Opening Br. at 39.  But that 
+testimony addressed only the feasibility of bolted-stanchion 
+guardrails;  the Commission's decision rests on its finding 
+that the company could have used free-standing guardrails 
+that can be quickly installed and removed, and--as photo-
+graphs in the record indicate--would not have required work-
+ers to walk on the flange.
+
+     The other regulation involved in this category of citations 
+requires that "[e]very open-sided floor ... 6 feet or more 
+above adjacent floor or ground level ... be guarded by a 
+standard railing."  29 C.F.R. s 1926.500(d)(1) (1994).  These 
+citations stem from the compliance officer's observation that 
+McNulty, having yet to install walls on levels P-2 (both north 
+and east sides), P-4, and P-5, had failed to erect guardrails 
+around the exposed edges of those floors.
+
+     Conceding it erected no guardrails on the north side of 
+level P-2, McNulty claims that the Commission should have 
+excused the failure because the violation occurred within the 
+"reasonable time" it was entitled to wait before installing 
+guardrails.  Pet'r's Opening Br. at 36.  We disagree.  Not 
+only does the OSHA compliance officer's testimony suggest 
+that McNulty could have installed temporary free-standing 
+guardrails before beginning work in the area, see supra, but 
+the Act nowhere grants employers an undefined "reasonable 
+time" in which to bring workplaces into compliance.  In fact, 
+we have expressly held that employers must install OSHA-
+required fall protection before exposing employees to risk.  
+See, e.g., Am. Bridge/Lashcon v. Reich, 70 F.3d 131, 134 (D.C. 
+Cir. 1995).  Section 9(a) of the Act, also relied on by McNulty, 
+
+is entirely inapplicable, for it governs the Secretary's authori-
+ty to establish a reasonable "abatement period" within which 
+an employer, once cited, may correct the violation in accor-
+dance with OSHA regulations.  29 U.S.C. s 659(a).
+
+     As to the east side of level P-2, McNulty offers a greater-
+hazard defense, again claiming that erecting guardrails would 
+have subjected workers to the possible collapse of the twenty-
+five-ton vertical wall member.  But as indicated above, sub-
+stantial evidence supports the Commission's finding that the 
+company could have erected free-standing guardrails before 
+installing the wall member.  See supra at 10.
+
+     With respect to the citations for the open-sided edges on 
+levels P-4 and P-5, McNulty offers a greater-hazard defense 
+(also mislabeled an infeasibility defense).  But because 
+McNulty never raised this objection either in its PDR or its 
+Commission brief, the company has waived the opportunity to 
+assert it here.
+
+                       Open-Sided Platforms
+
+     This group of citations relates to McNulty's failure to 
+provide fall protection for employees working on several 
+narrow, open-sided platforms, known as "picks" or "planks," 
+ranging in width from twenty inches to two feet.  OSHA 
+regulations require that platforms located "6 feet or more 
+above adjacent floor or ground level ... be guarded by a 
+standard railing."  29 C.F.R. s 1926.500(d)(1) (1994).  After a 
+compliance officer observed several instances where McNulty 
+used picks without guardrails, OSHA issued three citations.  
+McNulty challenges only one:  the citation for its failure to 
+install rails on a pick spanning an "exhaust shaftway" on level 
+P-2.
+
+     The company first argues that the platform regulations are 
+inapplicable for two reasons:  picks are temporary, whereas 
+the regulation applies only to "surfaces that are part of a 
+structure," Pet'r's Opening Br. at 40, and picks are not 
+platforms at all, but rather scaffolds subject to OSHA regula-
+tions that prescribe specific safety standards for scaffolds, see 
+
+generally 29 C.F.R. s 1926.451 (1994) (establishing safety 
+requirements for scaffolds).  The first contention is without 
+merit.  As the Commission persuasively points out, not only 
+does the regulation expressly cover "temporary ... condi-
+tions," id. s 1926.500(a), but controlling circuit and Commis-
+sion precedent makes clear that the regulation applies to 
+temporary, narrow platforms such as the one at issue here, 
+see Donovan v. Williams Enters., 744 F.2d 170, 176 (D.C. Cir. 
+1984) (noting that guardrail regulations apply to temporary 
+platforms);  Armstrong Steel Erection, Inc., 17 O.S.H. Cas. 
+(BNA) 1385, 1388-89 (O.S.H.R.C. 1995) (stating that tempo-
+rary planks constitute "runway" requiring guardrails).
+
+     Responding to McNulty's second argument--that picks are 
+scaffolds, not platforms--the Secretary argues that section 
+660(a) deprives us of jurisdiction to consider the objection 
+because the company failed to raise it before the Commission.  
+Insisting that it did, McNulty argues that the issue "is 
+identical to the reasoning" in cases cited in its Commission 
+brief.  Pet'r's Opening Br. at 40.  This argument is doubly 
+flawed.  First, merely citing a case falls well short of 
+"put[ting] the Commission on notice of the nature of or basis 
+for [a] challenge," Durez, 906 F.2d at 5, particularly where, as 
+here, McNulty cited the case for the unrelated proposition 
+that the guardrail regulation does not govern temporary 
+structures.  As the Seventh Circuit explained, "simply citing 
+a case below in one context and then, on appeal, arguing that 
+the same case stands for something else does not preserve an 
+argument."  Modern Drop Forge Co. v. Sec'y of Labor, 683 
+F.2d 1105, 1115 n.19 (7th Cir. 1982).  Second, the primary 
+case on which McNulty now relies, Armstrong Steel, 17 
+O.S.H. Cas. (BNA) at 1388-89, appears neither in its PDR 
+nor Commission brief.
+
+     McNulty also presents an infeasibility defense to this cita-
+tion, arguing in excruciating detail that it could not have 
+placed guardrails on a pick as narrow as the one at issue 
+here.  As the Commission points out, however, "an employer 
+claiming that a platform was too narrow for guardrails must 
+establish that it could not have substituted a wider one."  A.J. 
+McNulty, 19 O.S.H. Cas. (BNA) at 1133.  The record, more-
+
+over, supports the Commission's finding that "[n]one of 
+McNulty's witnesses testified that a wider platform could not 
+have been substituted for the narrow one being used."  Id.  
+Put another way by the Secretary, even if installing guard-
+rails on picks was infeasible, "McNulty had no right to use its 
+equipment as it found it."  Resp't's Br. at 53-54 (internal 
+quotation marks omitted).  See also Cleveland Consol., Inc. v. 
+Occupational Safety & Health Review Comm'n, 649 F.2d at 
+1160, 1166 n.11 ("An employer has a duty to plan a method of 
+construction that enables him to comply with OSHA regula-
+tions if possible.").
+
+                            Man-Basket
+
+     The "man-basket" at issue here was "a cage with horizontal 
+rungs down which the employee would climb to reach and 
+stand to bolt precast pieces together.  The device was hung 
+on a concrete wall."  Pet'r's Opening Br. at 47.  After a 
+compliance officer observed a McNulty employee "accessing[,] 
+egressing, and working from" a man-basket without securing 
+himself with a safety belt, OSHA cited the company for two 
+violations of a regulation requiring that "when workplaces are 
+more than 25 feet above the ground," "[s]afety nets shall be 
+provided ... where the use of ladders, scaffolds, catch plat-
+forms, temporary floors, safety lines, or safety belts is im-
+practical."  29 C.F.R. s 1926.105(a) (1994).  The Commission 
+affirmed these violations, though it reduced their severity 
+from "willful" to "serious."
+
+     Challenging both citations, McNulty argues that it com-
+plied with the regulation because a man-basket is a scaffold 
+within the meaning of the regulation, and that the scaffold 
+(i.e., man-basket) provided the required fall protection.  De-
+spite the Secretary's suggestion to the contrary, McNulty 
+preserved this objection by raising it in its Commission brief 
+(though the Commission chose not to entertain the claim).  
+Moreover, the first element of the company's argument--that 
+a man-basket is a scaffold--finds some support in both the 
+record and OSHA regulations, see 29 C.F.R. s 1926.450(b) 
+
+(2001) (defining "scaffold" as "any temporary elevated plat-
+form (supported or suspended) and its supporting structure 
+(including points of anchorage), used for supporting employ-
+ees or materials or both").  Even if a man-basket is a 
+scaffold, however, the citation remains valid.  Pointing out 
+that a man-basket provides no protection to workers entering 
+and exiting the basket, the Secretary interprets the regula-
+tion to require such workers to use one of the listed alterna-
+tive means of protection, such as safety belts, during these 
+brief but precarious moments.  This interpretation comports 
+with decisions holding that the safety-net regulation "requires 
+protection against each discrete fall hazard, even if of short 
+duration."  Am. Bridge/Lashcon, 70 F.3d at 134;  cf. Manga-
+nas Painting Co. v. Sec'y of Labor, 273 F.3d 1131, 1134 (D.C. 
+Cir. 2001) (upholding Secretary's interpretation of safety net 
+regulation to require effective fall protection as "reasonable 
+... indeed, ... obvious").  McNulty argues that as interpret-
+ed by the Secretary, the regulation requires redundant forms 
+of protection:  "both safety belts and a ladder or scaffold."  
+Pet'r's Opening Br. at 49.  This mischaracterizes the Secre-
+tary's position.  She requires workers to use safety belts not 
+while working in a man-basket, but only while entering or 
+exiting it.
+
+                               III.
+
+     Having sustained the Commission's affirmance of the ten 
+citations, we turn to McNulty's claim that the Commission 
+erred in affirming as willful the Company's failure to comply 
+with the two guardrail regulations.  "Although the Act does 
+not define the term 'willful,' courts have unanimously held 
+that a willful violation of the Act constitutes 'an act done 
+voluntarily with either an intentional disregard of, or plain 
+indifference to, the Act's requirements.' "  Ensign-Bickford 
+Co. v. Occupational Health & Safety Review Comm'n, 717 
+F.2d 1419, 1422 (D.C. Cir. 1983) (quoting Cedar Constr. Co. v. 
+Occupational Safety & Health Review Comm'n, 587 F.2d 
+1303, 1305 (D.C. Cir. 1978)).  According to McNulty, the 
+
+Commission may find willfulness only where the employer 
+exhibits reckless disregard.  All circuits that have considered 
+the issue, including this one, however, have long accepted 
+"intentional disregard or plain indifference" as the appropri-
+ate standard for willfulness within the Act's meaning.  See 
+Ensign-Bickford, 717 F.2d at 1422 (citing nine circuit court 
+cases embracing the "intentional disregard or plain indiffer-
+ence" standard).  McNulty points out that in McLaughlin v. 
+Richland Shoe, the Supreme Court interpreted the term 
+"willful" to require "reckless disregard."  486 U.S. 128, 133 
+(1988).  Not only did the company waive this argument by 
+failing to raise it before the Commission, but McLaughlin 
+involves a different statute:  the Fair Labor Standards Act.
+
+     Disputing neither its awareness of the guardrail regulations 
+nor its failure to comply with them, McNulty claims it be-
+lieved in good faith that it had successfully established an 
+infeasibility defense to each violation.  "[A] good faith, rea-
+sonable belief by an employer that its conduct conformed to 
+the law negates a finding of willfulness."  Sec'y of Labor v. 
+Keco Indus., 1987 WL 89096, *11 (O.S.H.R.C. March 27, 
+1987);  see also McLaughlin v. Union Oil Co. of Cal., 869 
+F.2d 1039, 1047 (7th Cir. 1989) ("A violation is not willful 
+when it is based on a nonfrivolous interpretation of OSHA's 
+regulations.").  Because good faith is a question of fact, see, 
+e.g., R.R. Comm'n of Tex. v. United States, 765 F.2d 221, 229 
+(D.C. Cir. 1985), the issue for us is whether the record 
+supports the Commission's conclusion that McNulty did not 
+possess a good-faith belief that it had established a legally 
+sufficient infeasibility defense to the guardrail violations.
+
+     With respect to McNulty's failure to erect guardrails on 
+open-sided platforms (picks), the Commission's observation 
+that the record contains "scant evidence of good faith," A.J. 
+McNulty, 19 O.S.H. Cas. (BNA) at 1140, seems generous.  
+Ample record evidence, including McNulty's own rule requir-
+ing guardrails in areas of active construction, demonstrates 
+the company's heightened awareness of the need for fall 
+protection on these structures.  Moreover, McNulty points to 
+no evidence that it believed guardrails on these particular 
+platforms to be infeasible;  on the contrary, the record sup-
+
+ports the Commission's conclusion that the company never 
+"studied the situation in advance and determined that guard-
+rails would be a problem."  Id.  Finally, the record supports 
+the Commission's conclusion that McNulty never "made a 
+good-faith evaluation of the facts and actually found that the 
+platforms could not be wider."  Id.
+
+     Whether the Commission erred in affirming as willful 
+McNulty's failure to erect guardrails around floor openings 
+and open-sided edges presents a closer question, but we 
+affirm this conclusion as well.  In support of its determina-
+tion, the Commission cited several pieces of record evidence, 
+including Whiting-Turner's safety notices regarding McNul-
+ty's failure to install fall protection, McNulty's own safety 
+standards requiring guardrails, and most persuasively, two 
+"settlements" of the company's prior violations of the same 
+fall-protection regulations at issue here.  Id. at 1139.  As we 
+have held, prior citations for identical or similar violations 
+may sustain a violation's classification as willful.  See, e.g., 
+Cedar Constr., 587 F.2d at 1305.  According to McNulty, 
+OSHA issued these prior citations under entirely different 
+circumstances (steel rather than precast concrete construc-
+tion), but because this point appears for the first time in the 
+company's reply brief, we will not consider it.  McBride v. 
+Merrell Dow & Pharms., Inc., 800 F.2d 1208, 1211 (D.C. Cir. 
+1986) ("Considering an argument advanced for the first time 
+in a reply brief ... is not only unfair to an appellee but also 
+entails the risk of an improvident or ill-advised opinion on the 
+legal issues tendered." (internal citations omitted)).
+
+     Finally, McNulty contends that the Commission acted arbi-
+trarily and capriciously by failing to take account of the 
+company's reliance on various ALJ decisions that, according 
+to McNulty, gave rise to an objectively reasonable belief that 
+it need not comply with the guardrail regulations.  Although 
+McNulty is right that the Commission failed to address the 
+company's reliance on these decisions, that failure does not 
+justify setting the decision aside, for we think the result 
+would have been the same even if the Commission had 
+considered the issue.  See Envirocare of Utah, Inc. v. Nucle-
+ar Regulatory Comm'n, 194 F.3d 72, 79 (D.C. Cir. 1999) 
+
+("[R]eversal and remand is 'necessary only when the review-
+ing court concludes that there is a significant chance that but 
+for the error the agency might have reached a different 
+result.' " (quoting Henry J. Friendly, Chenery Revisited:  
+Reflections on Reversal and Remand of Administrative Or-
+ders, 1969 Duke L.J. 199, 211)).  Of the various ALJ decisions 
+on which McNulty claims to have relied, only Spancrete can 
+plausibly be read to create any exception to the guardrail 
+regulations.  Even generously construed, however, Spancrete 
+stands only for the proposition that guardrails are not re-
+quired at edges actively under construction.  See Spancrete, 
+1981 WL 19242 at *3.  So even if McNulty did rely in good 
+faith on the purported Spancrete exception, its reliance would 
+not alter the Commission's decision in light of the substantial 
+record evidence supporting the Commission's conclusion that 
+McNulty lacked a good-faith belief that these edges were 
+actively under construction.
+
+     The petition for review is denied.
+
+                                        `                             So ordered.
+
+                                                                   

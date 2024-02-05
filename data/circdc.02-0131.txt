@@ -1,0 +1,358 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 12, 2002      Decided May 3, 2002 
+
+                           No. 01-1218
+
+                         WorldCom, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                   Sprint Corporation, et al., 
+                           Intervenors
+
+                        Consolidated with 
+      01-1229, 01-1243, 01-1255, 01-1256, 01-1257, 01-1267, 
+       01-1274, 01-1310, 01-1311, 01-1313, 01-1319, 01-1321
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Darryl M. Bradford argued the cause for Carrier petition-
+ers and supporting intervenors.  With him on the briefs were 
+Thomas F. O'Neil III, William Single, IV, Brian J. Leske, 
+John J. Hamill, Jodie L. Kelley, Mark C. Rosenblum, H. 
+Richard Juhnke, John T. Nakahata, Timothy J. Simeone, 
+Christopher W. Savage, David W. Carpenter, David L. Law-
+son, Paul J. Zidlicky, Thomas Jones, Glenn B. Manishin, 
+Genevieve Morelli, Richard J. Metzger, Brad Mutschelknaus, 
+Richard M. Rindler, Charles C. Hunter, Catherine M. Han-
+nan, Robert J. Aamoth, Deborah M. Royster and Albert H. 
+Kramer.  James P. Young entered an appearance.
+
+     James B. Ramsay argued the cause for State Commission 
+petitioners and supporting intervenors.  With him on the 
+briefs were Gretchen Dumas, Ellen S. LeVine, Lawrence G. 
+Malone, Diane T. Dean, Susan Stevens Miller, Tracey L. 
+Stokes, Betty D. Montgomery, Attorney General, State of 
+Ohio, Duane W. Luckey and Steven T. Nourse, Assistant 
+Attorneys General.  Carl F. Patka entered an appearance.
+
+     John A. Rogovin, Deputy General Counsel, Federal Com-
+munications Commission, argued the cause for respondents.  
+With him on the brief were John E. Ingle, Deputy Associate 
+General Counsel, and Laurence N. Bourne and Rodger D. 
+Citron, Counsel.  Catherine G. O'Sullivan and Nancy C. 
+Garrison, Attorneys, U.S. Department of Justice, entered 
+appearances.
+
+     Mark L. Evans argued the cause for intervenors BellSouth 
+Corporation, et al.  With him on the brief were Michael K. 
+Kellogg, Sean A. Lev, Aaron M. Panner, Scott H. Angstreich, 
+Roger K. Toppins, Gary L. Phillips, James D. Ellis, Michael 
+E. Glover, Edward H. Shakin, John M. Goodman, Lawrence 
+E. Sarjeant, Linda L. Kent, John W. Hunter and Julie E. 
+Rones.
+
+     Howard J. Symons, Sara F. Leibman and Douglas I. 
+Brandon were on the brief for intervenor AT&T Wireless 
+Services, Inc.  Michelle M. Mundt entered an appearance.
+
+     Before:  Sentelle and Tatel, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  Section 251(b)(5) of the 
+Telecommunications Act of 1996, 47 U.S.C. ss 151-714 (the 
+"1996 Act" or the "Act"), directs all local exchange carriers 
+("LECs") to "establish reciprocal compensation arrangements 
+for the transport and termination of telecommunications."  47 
+U.S.C. s 251(b)(5).  In the order before us the Federal 
+Communications Commission held that under s 251(g) of the 
+Act it was authorized to "carve out" from s 251(b)(5) calls 
+made to internet service providers ("ISPs") located within the 
+caller's local calling area.  It relied entirely on s 251(g).  
+Because that section is worded simply as a transitional device, 
+preserving various LEC duties that antedated the 1996 Act 
+until such time as the Commission should adopt new rules 
+pursuant to the Act, we find the Commission's reliance on 
+s 251(g) precluded.  Thus we remand the case.  Because 
+there may well be other legal bases for adopting the rules 
+chosen by the Commission for compensation between the 
+originating and the terminating LECs in calls to ISPs, we 
+neither vacate the order nor address petitioners' attacks on 
+various interim provisions devised by the Commission.
+
+                             *  *  *
+
+     Due in part to the 1996 Act, local telephone service areas 
+are now typically (perhaps universally) served by more than 
+one LEC.  The reciprocal compensation requirement of 
+s 251(b)(5), quoted above, is aimed at assuring compensation 
+for the LEC that completes a call originating within the same 
+area.  Although its literal language purports to extend recip-
+rocal compensation to all "telecommunications," the Commis-
+sion has construed it as limited to "local" traffic only.  In the 
+Matter of Implementation of the Local Competition Provi-
+sions in the Telecommunications Act of 1996, 11 FCC Rcd 
+15499, 16012-13, p p 1033-34, 16015-16, p 1040 (1996) ("Local 
+
+Competition Order");  47 C.F.R. s 51.701(a).  For long dis-
+tance calls, by contrast, the long-distance carrier collects from 
+the user and pays both LECs--the one originating and the 
+one terminating the call.  Local Competition Order, 11 FCC 
+Rcd at 16013, p 1034.
+
+     In an earlier order, the Commission excluded ISP calls 
+from the reach of s 251(b)(5) on the theory that they were 
+indeed not "local."  In the Matter of Implementation of the 
+Local Competition Provisions in the Telecommunications 
+Act of 1996, Inter-Carrier Compensation for ISP-Bound 
+Traffic, 14 FCC Rcd 3689 (1999) ("Initial Order").  It reached 
+this conclusion by applying its "end-to-end" analysis, tradi-
+tionally employed in determining whether a call was jurisdic-
+tionally interstate or not, stressing that ISP-bound traffic 
+ultimately reaches websites that are typically located out-of 
+state.  See id. at 3689-90, p 1, 3695-98, p p 10-12, 3703, p 23 
+(1999).  On review, we held that the order had failed to 
+adequately explain why the traditional "end-to-end" jurisdic-
+tional analysis was relevant to deciding whether ISP calls 
+fitted the local call or the long-distance call model, and 
+vacated and remanded the order.  Bell Atlantic Tel. Cos. v. 
+FCC, 206 F.3d 1, 5, 8 (D.C. Cir. 2000).
+
+     On remand, the FCC again reached the conclusion that the 
+compensation between two LECs involved in delivering inter-
+net-bound traffic to an ISP should not be governed by the 
+reciprocal compensation provision of s 251(b)(5).  In the Mat-
+ter of Implementation of the Local Competition Provisions in 
+the Telecommunications Act of 1996, Intercarrier Compensa-
+tion for ISP-Bound Traffic, 16 FCC Rcd 9151, 9152-53, p 1 
+(2001) ("Remand Order").  This decision rested, as we said, 
+on s 251(g).  Having thus taken ISP calls out of s 251(b)(5)'s 
+reciprocal compensation obligation, the FCC proceeded to 
+establish what it believed was an appropriate cost recovery 
+mechanism.  Remand Order, 16 FCC Rcd at 9154, p 4.  The 
+system adopted was "bill-and-keep," whereby each carrier 
+recovers its costs from its own end-users.  Id.
+
+     In reaching the bill-and-keep solution, the Commission 
+pointed to a number of flaws in the prevailing intercarrier 
+
+compensation mechanism for ISP calls, under which the 
+originating LEC paid the LEC that served the ISP.  Because 
+ISPs typically generate large volumes of one-way traffic in 
+their direction, the old system attracted LECs that entered 
+the business simply to serve ISPs, making enough money 
+from reciprocal compensation to pay their ISP customers for 
+the privilege of completing the calls.  The Commission saw 
+this as leading, at least potentially, to ISPs' charging their 
+customers below cost.  Remand Order, 16 FCC Rcd at 9153, 
+p 2, 9154-55, p p 4-6, 9162, p p 19-21.
+
+     To smooth the transition to bill-and-keep (but without fully 
+committing itself to it), the FCC adopted several interim 
+cost-recovery rules that sought to limit arbitrage opportuni-
+ties by lowering the amounts and capping the growth of ISP-
+related intercarrier payments.  These tend to force ISP-
+serving LECs to recover an increasing portion of their costs 
+from their own subscribers rather than from other LECs.  
+Remand Order, 16 FCC Rcd at 9155-57, p p 7-8.  The transi-
+tional rules take effect on the expiration of existing intercon-
+nection agreements.  Id. at 9189, p 82.  Finally, the Commis-
+sion specified that, having carved ISP-bound calls out of 
+s 251(b)(5) under s 251(g), it was establishing the interim 
+compensation regime under its general authority to regulate 
+the rates and terms of interstate telecommunications services 
+and interconnections between carriers under s 201 of the 
+Act;  as a result, the state regulatory commissions would no 
+longer have jurisdiction over ISP-bound traffic as part of 
+their power to resolve LEC interconnection issues under 
+s 252(e)(1) of the Act.  Id.
+
+     Two sets of petitioners now challenge the Remand Order.  
+One, headed by WorldCom (collectively "WorldCom"), con-
+sists of competitive LECs that deliver calls to ISPs, and thus 
+stand to lose reciprocal compensation payments.  These com-
+panies contend that the Commission erred in finding that 
+s 251(g) authorized Commission exclusion of such calls from 
+s 251(b)(5), and that, in any event, the interim compensation 
+rules that the FCC adopted were not a product of reasoned 
+decisionmaking and are contrary to the Act's terms.  The 
+other group, composed of several states and state regulatory 
+
+commissions, complains that the order unlawfully preempts 
+their authority to determine the compensation of ISP-serving 
+LECs.
+
+                             *  *  *
+
+      Section 251(g) reads as follows:
+
+     (g) Continued enforcement of exchange access and inter-
+     connection requirements.
+     
+          On and after [the date of enactment of the Telecom-
+     munications Act of 1996,] each local exchange carrier, to 
+     the extent that it provides wireline services, shall pro-
+     vide exchange access, information access, and exchange 
+     services for such access to interexchange carriers and 
+     information service providers in accordance with the 
+     same equal access and nondiscriminatory interconnec-
+     tion restrictions and obligations (including receipt of 
+     compensation) that apply to such carrier on the date 
+     immediately preceding [the date of enactment of the 
+     Telecommunications Act of 1996] under any court order, 
+     consent decree, or regulation, order, or policy of the 
+     Commission, until such restrictions and obligations are 
+     explicitly superseded by regulations prescribed by the 
+     Commission after [such date of enactment].  During the 
+     period beginning on [such date of enactment] and until 
+     such restrictions and obligations are so superseded, such 
+     restrictions and obligations shall be enforceable in the 
+     same manner as regulations of the Commission.
+     
+47 U.S.C. s 251(g) (emphasis added).  Both sides assume that 
+Chevron U.S.A. Inc. v. Natural Resources Defense Council, 
+Inc., 467 U.S. 837 (1984), is applicable, so that we must defer 
+to any reasonable Commission interpretation not precluded 
+by the language of the statute, read with the ordinary tools of 
+statutory construction.  We agree with petitioners that 
+s 251(g) is not susceptible to the Commission's reading.
+
+     On its face, s 251(g) appears to provide simply for the 
+"continued enforcement" of certain pre-Act regulatory "inter-
+connection restrictions and obligations," including the ones 
+
+contained in the consent decree that broke up the Bell 
+System, until they are explicitly superceded by Commission 
+action implementing the Act.  As the Conference Report 
+explained, "[b]ecause the [Act] completely eliminates the pro-
+spective effect of the AT&T Consent Decree, some provision 
+is necessary to keep these requirements in place....  Ac-
+cordingly, the conference agreement includes a new section 
+251(g)."  H.R. Rep. 104-458, at 122-23 (1996).
+
+     On a prior occasion, the Commission also framed the scope 
+of s 251(g) in similarly narrow terms:
+
+     The term "information access" first appears [in the Act] 
+     in sections [sic] 251(g).  That provision is a transitional 
+     enforcement mechanism that obligates the incumbent 
+     LECs to continue to abide by equal access and nondis-
+     criminatory interconnection requirements of the [AT&T 
+     Consent Decree] when such carriers "provide exchange 
+     access, information access and exchange services for such 
+     access to interexchange carriers and information service 
+     providers...."  Because the provision incorporates into 
+     the Act, on a transitional basis, these [AT&T Consent 
+     Decree] requirements, the Act uses [AT&T Consent De-
+     cree] terminology in this section.  However, this provi-
+     sion is merely a continuation of the equal access and 
+     nondiscrimination provisions of the Consent Decree un-
+     til superseded by subsequent regulations of the Commis-
+     sion.
+     
+In the Matter of Deployment of Wireline Services Offering 
+Advanced Telecommunications Capability, 15 FCC Rcd 385, 
+407, p 47 (1999) (footnote omitted) (emphasis added).
+
+     Of course such explanatory language can't be assumed to 
+be exclusive;  legislative or agency explanations of a provision 
+may naturally tend to focus on its most salient features.  
+Thus, despite legislative history speaking only in terms of the 
+Consent Decree, plainly the preexisting "restrictions and 
+obligations" covered by s 251(g) are not limited to Consent 
+Decree obligations;  the statute itself explicitly embraces pre-
+existing obligations under a "regulation, order, or policy of 
+the Commission."  See also Noland v. Shalala, 12 F.3d 258, 
+
+262 (D.C. Cir. 1994) ("Although the legislative history ... 
+suggests an exclusive focus [of the statutory provision in 
+question], the statutory language is broader and may permit 
+[an alternative] construction.").  But nothing in s 251(g) 
+seems to invite the Commission's reading, under which (it 
+seems) it could override virtually any provision of the 1996 
+Act so long as the rule it adopted were in some way, however 
+remote, linked to LECs' pre-Act obligations.
+
+     We will assume without deciding that under s 251(g) the 
+Commission might modify LECs' pre-Act "restrictions" or 
+"obligations," pending full implementation of relevant sections 
+of the Act.  The Fifth Circuit appeared to make that assump-
+tion in Texas Office of Public Utility Counsel v. FCC, 265 
+F.3d 313 (5th Cir. 2001), where it implicitly relied on s 251(g) 
+(by quoting language from an Eighth Circuit case, Competi-
+tive Telecom. Ass'n v. FCC, 117 F.3d 1068, 1072 (8th Cir. 
+1997)), in sustaining modifications of pre-Act regulations gov-
+erning the access charges paid to LECs by inter-exchange 
+carriers ("IXCs").  Id. at 324-25.  But this assumption is not 
+enough to justify the Commission's action here, as it seems 
+uncontested--and the Commission declared in the Initial 
+Order--that there had been no pre-Act obligation relating to 
+intercarrier compensation for ISP-bound traffic.  See Initial 
+Order, 14 FCC Rcd at 3695, p 9;  see also id. at 3690, p 1, 
+3707-3710, p p 28-36.  The best the Commission can do on 
+this score is to point to pre-existing LEC obligations to 
+provide interstate access for ISPs.  See, e.g., Remand Order, 
+16 FCC Rcd at 9164, p 27;  In the Matter of MTS & WATS 
+Market Structure, 97 F.C.C.2d 682, 711-15, p p 77-83 (1983).  
+Indeed, the Commission does not even point to any pre-Act, 
+federally created obligation for LECs to interconnect to each 
+other for ISP-bound calls.  And even if this hurdle were 
+overcome, there would remain the fact that s 251(g) speaks 
+only of services provided "to interexchange carriers and 
+information service providers";  LECs' services to other 
+LECs, even if en route to an ISP, are not "to" either an IXC 
+or to an ISP.
+
+     Having found that s 251(g) does not provide a basis for the 
+Commission's action, we make no further determinations.  
+
+For example, as in Bell Atlantic, we do not decide whether 
+handling calls to ISPs constitutes "telephone exchange ser-
+vice" or "exchange access" (as those terms are defined in the 
+Act, 47 U.S.C. ss 153(16), 153(47)) or neither, or whether 
+those terms cover the universe to which such calls might 
+belong.  Nor do we decide the scope of the "telecommunica-
+tions" covered by s 251(b)(5).  Nor do we decide whether the 
+Commission may adopt bill-and-keep for ISP-bound calls 
+pursuant to s 251(b)(5);  see s 252(d)(B)(i) (referring to bill-
+and-keep).  Indeed these are only samples of the issues we do 
+not decide, which are in fact all issues other than whether 
+s 251(g) provided the authority claimed by the Commission 
+for not applying s 251(b)(5).
+
+     Moreover, we do not decide petitioners' claims that the 
+interim pricing limits imposed by the Commission are inade-
+quately reasoned.  Because we can't yet know the legal basis 
+for the Commission's ultimate rules, or even what those rules 
+may prove to be, we have no meaningful context in which to 
+assess these explicitly transitional measures.
+
+     Finally, we do not vacate the order.  Many of the petition-
+ers themselves favor bill-and-keep, and there is plainly a non-
+trivial likelihood that the Commission has authority to elect 
+such a system (perhaps under ss 251(b)(5) and 252(d)(B)(i)).  
+See, e.g., Allied-Signal, Inc. v. U.S. Nuclear Regulatory 
+Comm., 988 F.2d 146, 150-51 (D.C. Cir. 1993) ("The decision 
+whether to vacate depends on 'the seriousness of the order's 
+deficiencies (and thus the extent of doubt whether the agency 
+chose correctly) and the disruptive consequences of an inter-
+im change that may itself be changed.' ").  Thus, we simply 
+remand the case to the Commission for further proceedings.
+
+                                                                 So ordered.
+
+                                                                      

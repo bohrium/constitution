@@ -1,0 +1,322 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued November 30, 2000   Decided March 23, 2001 
+
+                           No. 00-5141
+
+                      Lake Medical Center, 
+                            Appellant
+
+
+                                v.
+
+        Tommy G. Thompson, Secretary of the Department of 
+                   Health and Human Services, 
+                             Appellee
+
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                           (96cv01389)
+
+     Patric Hooper argued the cause and filed the briefs for 
+appellant.
+
+     Sonia M. Orfield, Attorney, U.S. Department of Health 
+and Human Services, argued the cause for appellee.  With 
+
+her on the brief were Harriet S. Rabb, General Counsel, 
+Sheree R. Kanner, Associate General Counsel, Henry R. 
+Goldberg, Deputy Associate General Counsel, David W. Og-
+den, Assistant Attorney General, U.S. Department of Justice, 
+and Wilma A. Lewis, U.S. Attorney.
+
+     Before:  Edwards, Chief Judge, Sentelle and Randolph, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Opinion concurring in part and dissenting in part filed by 
+Circuit Judge Sentelle.
+
+     Randolph, Circuit Judge:  At issue is the valuation of 
+hospital assets for purposes of reimbursement under the 
+Medicare statute, 42 U.S.C. s 1395 et seq. Nu-Med, Inc., 
+through its subsidiary Nu-Med Lake, purchased a general 
+hospital in Florida--the Lake Medical Center--in 1985 for 
+about $29 million.  Three years later, Nu-Med sold the 
+medical center and its associated assets to Leesburg Regional 
+Medical Center for $14.4 million.
+
+     Medicare providers such as Nu-Med are entitled--with 
+certain limitations not relevant here--to compensation for 
+"the reasonable cost" of services provided to Medicare pa-
+tients.  See 42 U.S.C. s 1395f(b)(1).  Providers are reim-
+bursed by "fiscal intermediaries"--typically private insurance 
+companies under contract to the Health Care Finance Admin-
+istration to determine the cost basis of medical service and 
+make periodic payments.  See 42 C.F.R. s 400.202 (1999).  
+Among the costs reimbursed is the depreciation on buildings 
+and equipment used to provide Medicare services.  See 42 
+C.F.R. s 413.134 (1999).  The intermediary makes deprecia-
+tion payments to a provider based on an estimated deprecia-
+tion method.  See 42 C.F.R. ss 413.64(b);  413.134(b) (1999).  
+When an asset is sold, it may become apparent that the 
+intermediary has paid either too much or too little deprecia-
+tion because the sales price was either higher or lower than 
+expected.  Cf. Glenn A. Welsch & Charles T. Zlatkovich, 
+Intermediate Accounting 476 (8th ed. 1989) (noting that 
+depreciation is only an estimate).  The Medicare regulations 
+
+permit the intermediary to recover overpayment of deprecia-
+tion when an asset is sold for more than its cost basis less 
+reimbursed depreciation.  See 42 C.F.R. s 413.134(f) (1999).
+
+     In this case, Nu-Med filed a Medicare cost report on 
+March 18, 1988, and claimed a loss on its sale of the Lake 
+Medical Center.  The intermediary, Blue Cross and Blue 
+Shield of Florida, responded with a Notice of Program Reim-
+bursement denying Nu-Med additional payments.  Because 
+there was a lump sum sales price, the intermediary allocated 
+the price among the assets and, having done so, calculated a 
+gain on the sale of the depreciable assets.  Nu-Med appealed 
+this determination to the Provider Reimbursement Review 
+Board.  The Board found that the intermediary had erred in 
+allocating all of the proceeds to depreciable assets, that it 
+should obtain an independent appraisal to establish the fair 
+market value of all the assets, and that it should then allocate 
+the purchase price among the depreciable and nondepreciable 
+assets (such as land) to determine what Nu-Med realized in 
+the sale.  See Lake Medical Ctr. v. Blue Cross & Blue Shield, 
+No. 96-D28, slip op. at 10 (Provider Reimbursement Review 
+Bd. Apr. 16, 1996).  After the intermediary obtained an 
+appraisal, it issued a new Notice of Program Reimbursement 
+calculating Nu-Med's total loss on the sale of $1,757,660.  
+The Board affirmed.  See Lake Medical Ctr. v. Blue Cross & 
+Blue Shield, No. 97-D107, slip op. at 12 (Provider Reimburse-
+ment Review Bd. Sept. 26, 1997).  Nu-Med challenged this 
+recalculated loss as too low.  The district court (Flannery, J.) 
+rejected Nu-Med's contentions in a thorough and well-
+reasoned opinion.  See Lake Medical Ctr. v. Shalala, 89 
+F.Supp.2d 83 (D.D.C. 2000).
+
+                                I.
+
+     For depreciable assets, that is for assets that lose value 
+over time, an owner's gain or loss on the sale of the asset is 
+the difference between the purchase price (the cost basis) less 
+accumulated depreciation (the net book value) and the sales 
+price.  See Welsch & Zlatkovich, supra, at 447.  If a provid-
+er sells a Medicare-depreciable asset at a loss, the Secretary 
+
+assumes that more depreciation occurred than originally esti-
+mated and therefore provides additional reimbursement to 
+the provider.  If a gain results, the Secretary recaptures the 
+previously paid reimbursement.  See Lake Medical Ctr., 89 
+F.Supp.2d at 85.
+
+     In 1984, as part of the Deficit Reduction Act or "DEFRA," 
+Congress set a limit on providers' historical cost of assets.  
+See Deficit Reduction Act of 1984, Pub. L. No. 98-369, 
+s 2314(a), 99 Stat. 494 (July 18, 1984), codified at 42 U.S.C. 
+s 1395x(v)(1)(O) (1994).  Under 42 U.S.C. s 1395x(v)(1)(O)(i),1 
+when an asset changed hands, "the valuation of the asset ... 
+shall be the lesser of the allowable acquisition cost of such 
+asset to the owner of record as of July 18, 1984 ... or the 
+acquisition cost of such asset to the new owner."  42 U.S.C. 
+s 1395x(v)(1)(O)(i) (1994).  A second clause required regula-
+tions to "provide for recapture of depreciation in the same 
+manner as provided under the regulations in effect on June 1, 
+1984."  42 U.S.C. s 1395x(v)(1)(O)(ii) (1994).
+
+     Because Nu-Med sold the Lake Medical Center in 1988, 
+the Board found that the first of these provisions--clause 
+(i)--required the intermediary to consider the cost basis to be 
+the price paid for the facilities by the owner of record in 
+1984--namely, $11 million.  See Lake Medical Ctr. v. Blue 
+Cross & Blue Shield, No. 97-D107, slip op. at 10 (Provider 
+Reimbursement Review Bd. Sept. 26, 1997).  According to 
+Nu-Med this was error because clause (i) only specifies the 
+basis for calculating the depreciable value of an asset (and 
+thus the periodic reimbursement payments from the interme-
+diary), whereas clause (ii) specifies the method for calculating 
+gain or loss from the sale of an asset.  (Both parties agree 
+that even though clause (ii) refers only to "recapture" it 
+applies not only to transactions resulting in a gain but also a 
+loss.)  Nu-Med's theory is that clause (i) did not exist in 1984 
+so the calculation in clause (ii) regarding gain or loss on a sale 
+must ignore the DEFRA cap on historical cost.
+
+__________
+     1 The statute was amended in 1997, changing clause (i) and 
+deleting clause (ii).  See 42 U.S.C. s 1395(v)(1)(O) (Supp. IV 1998).
+
+     The district court rightly rejected Nu-Med's arguments.  
+Nu-Med's interpretation of the interplay between clauses (i) 
+and (ii) does not exactly leap off the page.  The Secretary's 
+reading, on the other hand, is perfectly logical.  It treats 
+clause (ii) as dealing with the method of calculating deprecia-
+tion (the clause uses the word "manner"), and clause (i) as 
+setting the depreciable basis of the asset from which the 
+clause (ii) calculation will be made.  It is unnecessary to 
+discuss all of the various regulations in effect in 1984 dealing 
+with the method of calculating depreciation.  The district 
+court mentioned one--42 C.F.R. s 405.415 (1984)--which is 
+enough to make the point:  as in 1984, the Secretary under 
+DEFRA continued "to compare sales price with the depreci-
+ated historical cost basis as defined in [the] existing regula-
+tions."  See Lake Medical Ctr., 89 F.Supp.2d at 87.  The 
+district court gave other reasons for sustaining the Secre-
+tary's interpretation but it would serve no useful purpose to 
+repeat them.  Even if the case were not so overwhelming in 
+favor of the Secretary's reading, the respect a court must give 
+to an agency's statutory interpretation would cause us to 
+reach the same result.  See National Medical Enters., Inc. v. 
+Shalala, 43 F.3d 691, 695 (D.C. Cir. 1995).  Upholding the 
+Secretary here is not inconsistent with the dicta in Whitecliff, 
+Inc. v. Shalala, 20 F.3d 488, 489 n.1 (D.C. Cir. 1994), that "the 
+Deficit Reduction Act of 1984 ... codified at 42 U.S.C. 
+s 1395x(v)(1)(O)(ii), ratified the recapture of depreciation reg-
+ulations that were in effect as of June 1, 1984."  Clause (ii), as 
+we have said, did "ratify" those 1984 regulations dealing with 
+the manner in which depreciation is calculated.
+
+                               II.
+
+     Nu-Med's alternative contention is that the intermediary's 
+loss valuation was too low because neither it nor the Provider 
+Reimbursement Review Board properly accounted for the 
+value of medical records in determining Nu-Med's reimbursa-
+ble loss.  When Nu-Med sold the Lake Medical Center in 
+1988 for $14.4 million, there was no allocation of the sales 
+price among the buildings, land, equipment, the name "Lake 
+Medical Center," patient files or "good will."  Because not all 
+
+assets are depreciable under Medicare, see 42 C.F.R. 
+s 413.134(a) (1999), when assets are sold in a bundle "the 
+gain or loss on the sale of each depreciable asset must be 
+determined by allocating the lump sum sales price among all 
+the assets sold, in accordance with the fair market value of 
+each asset ... at the time of sale."  42 C.F.R. 
+s 413.134(f)(2)(iv) (1999).
+
+     Naturally, Nu-Med would prefer that as much of Lake 
+Medical Center's sale price as possible be apportioned to non-
+depreciable assets.  This would lower the allocable sales price 
+of the depreciable assets, maximizing both Nu-Med's losses 
+and its Medicare cost recovery.  To that end, Nu-Med thinks 
+that its reimbursement was inadequate because both the 
+intermediary and the Provider Reimbursement Review Board 
+assigned no value to the medical records transferred as part 
+of the sale.  See Lake Medical Ctr., No. 97-D107, slip op. at 
+12.
+
+     It is true that the appraiser placed a fair market value of 
+$1.5 million on the medical records out of a total appraisal of 
+approximately $17 million for the Center, although everything 
+actually sold for $14.4 million.  But those numbers show that 
+the purchaser paid nothing for residual going concern value:  
+the tangible assets were sold for less than their fair market 
+value.  Medical records are, the Board determined, akin to 
+goodwill, assigned a positive value only when the sales price 
+of the other assets exceeds their fair market value.  See Lake 
+Medical Ctr., No. 97-D107, slip op. at 11-12.  In this respect 
+the Board's judgment comports with generally accepted ac-
+counting practices.  See Financial Accounting Standards 
+Board, Current Text:  Accounting Standards B50.145;  
+B50.160 (1994) ("goodwill" only recorded when sale price of 
+assets exceeds fair market value);  John Downes & Jordan 
+Elliot Goodman, Dictionary of Finance and Investment 
+Terms 239 (5th ed. 1998) ("going concern value" recorded as 
+"goodwill" in acquisition accounting).  The Board sufficiently 
+supported its conclusion that Nu-Med's medical records could 
+not, as the district court put it, be "valued as an asset 
+independent of Lake Medical's ongoing operations."  See 
+Lake Medical Ctr., 89 F.Supp.2d at 90.  It is of no moment 
+
+that the sales agreement includes "all books and records of 
+the facility."  The sales agreement also includes "good will," 
+which only exists if the assets are sold for more than fair 
+market value.  The mere fact that an asset was transferred 
+does not mean it had a positive fair market value.
+
+     We have considered and rejected Nu-Med's other argu-
+ments.  The judgment of the district court is
+
+                                                            Affirmed.
+
+
+     Sentelle, Circuit Judge, concurring in part and dissent-
+ing in part:  I concur in most of the well reasoned opinion of 
+the court, but find that I am unable to join Part II.  Although 
+I think the result reached by the Secretary, the district court, 
+and the majority is a reasonable one, I do not think it is 
+consistent with governing HHS regulations.
+
+     The applicable HHS regulation provides:
+
+     If a provider sells more than one asset for a lump sum 
+     sales price, the gain or loss on the sale of each deprecia-
+     ble asset must be determined by allocating the lump sum 
+     sales price among all the assets sold, in accordance with 
+     the fair market value of each asset as it was used by the 
+     provider at the time of sale.  If the buyer and seller 
+     cannot agree on an allocation of the sales price, or if they 
+     do agree but there is insufficient documentation of the 
+     current fair market value of each asset, the intermediary 
+     for the selling provider will require an appraisal by an 
+     independent appraisal expert to establish the fair market 
+     value of each asset and will make an allocation of the 
+     sales price in accordance with the appraisal.
+     
+42 C.F.R. s 413.134(f)(2)(iv) (emphasis added).  The regula-
+tion makes no distinction between tangible and intangible 
+assets, nor does it limit the allocation of sale prices to 
+depreciable assets.  Most importantly for the purposes of the 
+present controversy, it does not adopt "generally accepted 
+accounting practices."  Maj. Op. at 6.
+
+     The Secretary's argument that medical records primarily 
+have a "going concern" value and that assets with "going 
+concern" value should not be allocated a portion of the sale 
+price is certainly reasonable, and I accept that following 
+"generally accepted accounting practices" would dictate the 
+result reached by the court.  Indeed, were the Secretary to 
+promulgate regulations to that effect, I have little doubt that 
+those regulations would withstand all challenge.  But that is 
+not the state of the regulations that governed the sale before 
+us.
+
+     As appellant argued, the Secretary's regulations explicitly 
+require the intermediary to allocate the sales price "among 
+all the assets sold."  There is little ambiguity in this state-
+
+ment.  If the medical records were among "the assets sold" 
+by Nu-Med, then they should be allocated a portion of the 
+sales price.  The records were listed as a separate asset at 
+the time of sale even though all of the assets were sold for a 
+lump-sum price.
+
+     Since the buyer and seller did not agree on the value, if 
+any, to be assigned to the medical records, the intermediary 
+was required to submit this matter for independent appraisal, 
+which it did.  Under the plain language of the regulation, this 
+appraisal, and not "generally accepted accounting practices," 
+controls.  The regulatory language leaves no room for the 
+intermediary, or the Secretary, to reallocate portions of the 
+sales price because they disapprove of the appraiser's judg-
+ment.  While the Secretary's view is most reasonable as a 
+policy matter, it is not the view embodied in the Secretary's 
+own regulations.  If the medical records were "intended to be 
+among the assets transferred in the sale" then they were 
+among the "assets sold" and fall under the regulations.  That 
+this produces an unreasonable or unconventional result does 
+not give the Secretary or the courts license to rewrite the 
+regulatory language.
+
+     In all other respects I join Judge Randolph's careful opin-
+ion for the court.
+
+ 

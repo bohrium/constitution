@@ -1,0 +1,1653 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued March 15, 2001       Decided June 22, 2001 
+
+                           No. 00-1402
+
+            NextWave Personal Communications Inc. and 
+                  NextWave Power Partners Inc., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                 BellSouth Corporation, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             00-1403
+
+         On Petition for Review and Notice of Appeal of 
+         Orders of the Federal Communications Commission
+
+     Theodore B. Olson argued the cause for petitioners/appel-
+lants.  With him on the briefs were Thomas G. Hungar, 
+
+Donald B. Verrilli, Jr., Ian Heath Gershengorn and Lara M. 
+Flint. Miguel A. Estrada entered an appearance.
+
+     William H. Crispin, Emanuel Grillo, David Friedman and 
+Kenneth N. Klee were on the brief for amici curiae Senator 
+Robert G. Torricelli, et al. in support of petitioners/appellants.
+
+     Daniel M. Armstrong, Associate General Counsel, Federal 
+Communications Commission, argued the cause for respon-
+dents/appellee.  With him on the brief were Christopher J. 
+Wright, General Counsel, Joel Marcus and Stanley R. 
+Scheiner, Counsel, Jacob M. Lewis and H. Thomas Byron 
+III, Attorneys, U.S. Department of Justice.  Stewart A. 
+Block, Counsel, Federal Communications Commission, en-
+tered an appearance.
+
+     Richard G. Taranto argued the cause for intervenors Cel-
+lular Telecommunications Industry Association, et al.  With 
+him on the brief were Michael F. Altschul, L. Andrew Tollin, 
+Robert G. Kirk, Craig E. Gilmore, Douglas I. Brandon, 
+Howard J. Symons, Sara F. Leibman, Louis Gurman, Chris-
+ta M. Parker, John T. Scott III, Mark L. Evans, Lawrence J. 
+Movshin, Michael Deuel Sullivan and H. Richard Juhnke. 
+Matthew R. Sutherland entered an appearance.
+
+     Before:  Sentelle, Tatel and Garland, Circuit Judges.
+
+       Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  This case concerns the extent to 
+which the Bankruptcy Code limits a federal agency--here, 
+the Federal Communications Commission--acting to imple-
+ment the provisions of its own statute.  Seeking to comply 
+with its statutory duty to ensure small business participation 
+in auctions of broadband PCS licenses, the Commission al-
+lowed winning bidders to pay for their licenses in install-
+ments.  As part of this scheme, the Commission took and 
+perfected security interests in the licenses, and provided for 
+license cancellation should a bidder fail to make timely pay-
+ments.  When appellants, winning bidders on several licenses, 
+declared bankruptcy and ceased making payments, the Com-
+
+mission canceled their licenses.  Applying the fundamental 
+principle that federal agencies must obey all federal laws, not 
+just those they administer, we conclude that the Commission 
+violated the provision of the Bankruptcy Code that prohibits 
+governmental entities from revoking debtors' licenses solely 
+for failure to pay debts dischargeable in bankruptcy.  The 
+Commission, having chosen to create standard debt obli-
+gations as part of its licensing scheme, is bound by the usual 
+rules governing the treatment of such obligations in bank-
+ruptcy.
+
+                                I
+
+     In 1993, Congress amended the Communications Act of 
+1934 to authorize the Federal Communications Commission to 
+award spectrum licenses "through a system of competitive 
+bidding."  47 U.S.C. s 309(j)(1).  In "identifying classes of 
+licenses and permits to be issued by competitive bidding," and 
+in "designing the methodologies" for such bidding, Congress 
+directed the Commission to promote several objectives, in-
+cluding "the development and rapid deployment of new tech-
+nologies, products and services," the "recovery for the public 
+of a portion of the value of the public spectrum resource made 
+available for commercial use," and the "efficient and intensive 
+use of the electromagnetic spectrum."  Id. s 309(j)(3).  Con-
+gress also directed the Commission to "promot[e] economic 
+opportunity and competition and ensur[e] that new and inno-
+vative technologies are readily accessible to the American 
+people by ... disseminating licenses among a wide variety of 
+applicants, including small businesses [and] rural telephone 
+companies."  Id. s 309(j)(3)(B).  To further this last goal, 
+Congress directed the Commission to "consider alternative 
+payment schedules and methods of calculation, including lump 
+sums or guaranteed installment payments ... or other sched-
+ules or methods."  Id. s 309(j)(4)(A).
+
+     Acting pursuant to this statute, the Commission adopted 
+rules to auction licenses for "broadband PCS"--"personal 
+communications services in the 2 GHz band."  In re Imple-
+mentation of Section 309(j) of the Communications Act, 9 
+
+FCC Rcd 5532 p 1 (1994).  The Commission expected broad-
+band PCS to "provide new mobile communications capabili-
+ties" through "a new generation of communications devices" 
+including "small, lightweight, multi-function portable phones, 
+portable facsimile and other imaging devices, new types of 
+multi-channel cordless phones, and advanced paging devices 
+with two-way data capabilities."  Id. p 3.  The Commission 
+"determined that the use of competitive bidding to award 
+broadband PCS licenses, as compared with other licensing 
+methods, would speed the development and deployment of 
+new services to the public and would encourage efficient use 
+of the spectrum," as required by statute, since "auctions 
+would generally award licenses quickly to those parties who 
+value them most highly and who are therefore most likely to 
+introduce service rapidly to the public."  Id. p 5.  The Com-
+mission expected the PCS license auction to "constitute the 
+largest auction of public assets in American history," recover-
+ing "billions of dollars for the United States Treasury," and 
+thus fulfilling another statutory mandate.  Id. p 1.
+
+     As directed by Congress, the Commission adopted a variety 
+of measures to promote small business ownership of PCS 
+licenses, including setting aside two blocks of licenses, the "C" 
+and "F" Blocks, for bidding by entities with annual gross 
+revenues and total assets below specified amounts.  Id. p 12.  
+Especially relevant to this case, the Commission allowed 
+"most successful bidders within the [C and F Blocks] to pay 
+for their licenses in installments."  Id. p 16.  Observing that 
+"the primary impediment to participation [in license auctions] 
+by designated [small business] entities is lack of access to 
+capital," id. p 10, the Commission concluded that "installment 
+payments are an effective means to address the inability of 
+small businesses to obtain financing and will enable these 
+entities to compete more effectively for the auctioned spec-
+trum."  Id. p 135.  "By allowing payment in installments," the 
+Commission stated, "the government is in effect extending 
+credit to licensees, thus reducing the amount of private 
+financing needed prior to and after the auction."  Id. p 136.  
+The Commission also announced that "[t]imely payment of all 
+installments will be a condition of the license[ ] grant and 
+
+failure to make such timely payment will be grounds for 
+revocation of the license."  Id. p 138.
+
+     In 1995, a group of former telecommunications executives 
+founded NextWave Personal Communications Inc. and 
+NextWave Power Partners Inc. (collectively "NextWave"), 
+appellants in this case, for the purpose of bidding on PCS 
+licenses and operating a personal communications service. 
+NextWave's founders hoped the company would become a 
+"carrier's carrier," selling wireless services and airtime 
+wholesale.  Appellants' Opening Br. at 5.  At C Block auc-
+tions in May and July, 1996, NextWave bid $4.74 billion in 
+total, winning sixty-three licenses.  The company made a 
+$474 million down payment.  Several months later, the Com-
+mission granted NextWave its licenses, took a security inter-
+est in each, and filed UCC financing statements to perfect its 
+claims.  The security agreements gave the Commission "a 
+first lien on and continuing security interest in all of the 
+Debtor's rights and interest in [each] License."  Security 
+Agreement between NextWave and FCC p 1 (January 3, 1997).  
+The licenses included the following language:  "This authori-
+zation is conditioned upon the full and timely payment of all 
+monies due pursuant to ... the terms of the Commission's 
+installment plan as set forth in the Note and Security Agree-
+ment executed by the licensee.  Failure to comply with this 
+condition will result in the automatic cancellation of this 
+authorization."  FCC, Radio Station Authorization for 
+Broadband PCS 2 (issued to NextWave January 3, 1997).
+
+     After the Commission awarded the C Block licenses, sever-
+al successful bidders, including NextWave, experienced diffi-
+culty obtaining financing, having agreed to pay on average 
+almost three times what winning bidders in the prior A and B 
+Block auctions had paid, and several times what winning 
+bidders in subsequent D, E, and F block auctions paid.  In 
+response, the Commission suspended installment payment 
+obligations for C Block licensees, and then issued two Re-
+structuring Orders, offering a variety of revised financing 
+options that allowed C Block licensees to surrender some or 
+all of their licenses for full or partial forgiveness of their 
+outstanding debt.  See In re Amendment of the Comm'n's 
+
+Rules Regarding Installment Payment Fin. for Pers. Com-
+munications Servs. Licensees, Second Report and Order and 
+Further Notice of Proposed Rule Making, 12 FCC Rcd 16436 
+p p 6, 32-69 (1997);  In re Amendment of the Comm'n's Rules 
+Regarding Installment Payment Fin. for Pers. Communica-
+tions Servs. Licensees, Order on Recons. of the Second Report 
+and Order, 13 FCC Rcd 8345 p p 11-15 (1998);  see also In re 
+Amendment of the Comm'n's Rules Regarding Installment 
+Payment Fin. for Pers. Communications Servs. Licensees, 
+Second Order on Recons. of the Second Report and Order, 14 
+FCC Rcd 6571 (1999).  None of the restructuring options 
+allowed licensees to keep any of their licenses for less than 
+the full bid price.  See In re Amendment of the Comm'n's 
+Rules, Order on Recons., 13 FCC Rcd 8345 p 8.  According to 
+the Commission, these options balanced the goals of introduc-
+ing new spectrum services rapidly and promoting small busi-
+ness participation in PCS auctions against the need to main-
+tain auction integrity and treat unsuccessful bidders fairly.  
+See In re Amendment of the Comm'n's Rules, 12 FCC Rcd 
+16436 p p 1-5;  see also U.S. Airwaves, Inc. v. FCC, 232 F.3d 
+227 (D.C. Cir. 2000) (upholding restructuring scheme).  The 
+Commission gave licensees until June 8, 1998 to elect a 
+restructuring option, and until July 31, 1998 to resume install-
+ment payments.  Public Notice, Wireless Telecommunica-
+tions Bureau Announces June 8, 1998 Election Date, 13 FCC 
+Rcd 7413 (1998).  It set October 29, 1998 as the last date it 
+would accept late installment payments.  Id.
+
+     On June 8, 1998, after failing to obtain stays of the election 
+deadline from the Commission and this court, NextWave filed 
+for Chapter 11 bankruptcy protection in New York.  See 
+NextWave Pers. Communications, Inc. v. FCC (In re 
+NextWave Pers. Communications, Inc.), 235 B.R. 263, 267 
+(Bankr. S.D.N.Y. 1998) ("NextWave I").  Because the Bank-
+ruptcy Code is central to this case, we pause to summarize 
+certain relevant provisions.  Section 362, the "automatic stay" 
+provision, provides that petitions filed under Chapter 11 
+"operate[ ] as a stay, applicable to all entities" of a variety of 
+acts to collect on or enforce debts.  11 U.S.C. s 362(a).  
+Subsection 362(a)(3) stays "any act to obtain possession of 
+
+property of [an] estate ... or to exercise control over proper-
+ty of the estate," id. s 362(a)(3), but subsection 362(b)(4) 
+provides an exception to 362(a)(3) for "governmental unit[s]" 
+acting to "enforce" their "regulatory power."  Id. s 362(b)(4).  
+Subsections 362(a)(4) and (5) stay "any act to create, perfect, 
+or enforce any lien against property of the estate" or of the 
+debtor.  Id. s 362(a)(4), (5).  The regulatory power exception 
+does not apply to these subsections.  See id. s 362(b)(4).  In 
+general, an automatic stay lasts only until a bankruptcy case 
+is closed or dismissed, or until the bankruptcy court grants or 
+denies a discharge.  See id. s 362(c)(2).  Other provisions of 
+the Code, however, offer more permanent relief.  Section 525 
+prohibits "governmental unit[s]" from "revok[ing]" a bank-
+rupt's or debtor's license "solely because such bankrupt or 
+debtor ... has not paid a debt that is dischargeable ... 
+under this title."  Id. s 525(a).  Finally, under section 1123, 
+11 U.S.C. s 1123, bankrupts (subject to court approval) have 
+the power to "cure" their defaults--that is, to "tak[e] care of 
+the triggering event and return[ ] to pre-default conditions."  
+Di Pierro v. Taddeo (In re Taddeo), 685 F.2d 24, 26-27 (2d 
+Cir. 1982).
+
+     After declaring bankruptcy, and in line with the "normal 
+deferment of the payment of preorganization claims until 
+their disposition can be made part of a plan of reorganiza-
+tion," In re Penn Cent. Transp. Co., 467 F.2d 100, 102 n.1 (3d 
+Cir. 1972), NextWave made no further payments on its 
+licenses.  Nor did it seek permission to make installment 
+payments under the "necessity of payment" doctrine, which 
+some courts have invoked to authorize payment of pre-
+petition claims "if such payment [is] essential to the continued 
+operation of the debtor."  In re Just For Feet, Inc., 242 B.R. 
+821, 825 (Bankr. D. Del. 1999).  NextWave sought no such 
+authorization, it explains, because "the Code's automatic stay 
+provision generally prevents even government creditors from 
+enforcing payment obligations or seizing assets of the estate," 
+and thus it had "no reason to believe it would be required to 
+make the October 1998 installment payment while in bank-
+ruptcy."  Appellants' Opening Br. at 10 & n.8.
+
+     Instead, NextWave alleged in the bankruptcy court that its 
+$4.74 billion license fee obligation was avoidable under section 
+
+544 of the Bankruptcy Code as a "fraudulent conveyance" 
+since the company had not received reasonably equivalent 
+value in exchange for incurring the obligation:  by the time 
+the Commission actually conveyed the licenses to NextWave, 
+the company claimed, their value had declined to less than $1 
+billion.  NextWave I, 235 B.R. at 269;  see also NextWave 
+Pers. Communications, Inc. v. FCC (In re NextWave Pers. 
+Communications), 235 B.R. 277, 290 (Bankr. S.D.N.Y. 1999) 
+("NextWave III").  Ruling on this claim, the bankruptcy 
+court began by addressing its jurisdiction.  It acknowledged 
+that under 47 U.S.C. s 402, it lacked jurisdiction to "enjoin[ ], 
+review[ ], assess[ ] damages for or otherwise adjudicat[e] the 
+consequences of the conduct of [a] Federal agency acting 
+within the scope of its Congressional mandate."  NextWave I, 
+235 B.R. at 268.  It nevertheless asserted jurisdiction over 
+the case because, in its view, NextWave's claim against the 
+Commission did not involve "any regulatory conduct on the 
+part of the FCC," but rather concerned solely the debtor-
+creditor relationship between the FCC and NextWave.  Id. at 
+269;  see also NextWave Pers. Communications, Inc. v. FCC 
+(In re NextWave Pers. Communications), 235 B.R. 305, 314 
+(Bankr. S.D.N.Y. 1999) ("NextWave IV").  Nothing in the 
+Communications Act, the court said, suggests that a bank-
+ruptcy court lacks jurisdiction to implement the provisions of 
+the Code "which affect [the Commission] as a creditor."  
+NextWave I, 235 B.R. at 269-70.  Turning to the merits, the 
+court found that NextWave's winning bid exceeded the fair 
+market value of its licenses at the time they were conveyed, 
+NextWave III, 235 B.R. at 304, and avoided $3.72 billion of 
+NextWave's $4.74 billion license fee obligation, ruling in effect 
+that the company could keep its licenses for the reduced price 
+of $1.02 billion.  See NextWave IV, 235 B.R. 305, aff'd 
+NextWave Pers. Communications, Inc. v. FCC (In re 
+NextWave Pers. Communications, Inc.), 241 B.R. 311, 321 
+(S.D.N.Y. 1999);  see also In re NextWave Pers. Communica-
+tions, Inc., 235 B.R. 314, 316 (Bankr. S.D.N.Y. 1999) 
+("NextWave V").
+
+     The Second Circuit reversed, making four key points.  
+First, it emphasized that the Commission's action, contrary to 
+the bankruptcy court's finding, was regulatory:  the Commis-
+
+sion explicitly "made 'full and timely payment of the winning 
+bid' a regulatory condition for obtaining and retaining a 
+spectrum license," and this condition had a purpose "related 
+directly to the FCC's implementation of the spectrum auc-
+tions."  FCC v. NextWave Pers. Communications, Inc. (In re 
+NextWave Personal Communications), 200 F.3d 43, 52 (2d 
+Cir. 1999) (quoting 47 C.F.R. s 24.708).  The Second Circuit 
+explained the Commission's regulatory purpose as follows:
+
+     [The FCC] decided that it would be 'critically important 
+     to the success of our system of competitive bidding ... 
+     [to] provide strong incentives for potential bidders to 
+     make certain of their qualifications and financial capabili-
+     ties before the auction so as to avoid delays in the 
+     deployment of new services to the public that would 
+     result from litigation, disqualification and re-auction.' ... 
+     [Since] 'designated entities' such as NextWave ... were 
+     allowed to pay in installments[,] [i]t was important for 
+     the functioning of the auction ... that the FCC's default 
+     rules and penalties be enforceable, because the FCC 
+     relied upon them as a substitute for conducting the 
+     'detailed credit checks' and other forms of due diligence 
+     that otherwise would be necessary to ensure ... that the 
+     licenses would be awarded to the appropriate entities.
+     
+Id. at 52-53 (quoting In re Implementation of Section 309(j) 
+of the Communications Act--Competitive Bidding, Second 
+Report and Order, 9 FCC Rcd 2348 p p 197, 194, 198 (1994)).
+
+     Second, the court held that the bankruptcy court had 
+interfered with this regulatory purpose by avoiding a substan-
+tial portion of NextWave's bid price, thus allowing the compa-
+ny to keep the licenses for a reduced price.  Id. at 55.  This, 
+the Second Circuit held, the bankruptcy court had no jurisdic-
+tion to do:  "Because jurisdiction over claims brought against 
+the FCC in its regulatory capacity lies exclusively in the 
+federal courts of appeals, see ... 47 U.S.C. s 402, the bank-
+ruptcy and district courts lacked jurisdiction to decide the 
+question of whether NextWave had satisfied the regulatory 
+conditions placed by the FCC upon its retention of the 
+Licenses."  In re NextWave, 200 F.3d at 54.
+
+     Third, the Second Circuit found that besides interfering 
+with the Commission's licensing function through a collateral 
+proceeding, the bankruptcy court had in effect attempted to 
+exercise that function itself--again exceeding its jurisdiction:
+
+     By holding that for a price of $1.023 billion NextWave 
+     would retain licenses for which it had bid $4.74 billion, 
+     the bankruptcy ... court[ ] impaired the FCC's method 
+     for selecting licensees by effectively awarding the Licens-
+     es to an entity that the FCC determined was not entitled 
+     to them.  In so doing [it] exercised the FCC's radio-
+     licensing function....  [E]ven if the bankruptcy ... 
+     court[ ] [was] right in concluding that granting the Li-
+     censes at a small fraction of NextWave's original success-
+     ful bid price best effectuated the [Federal Communica-
+     tion Act's] goals, [it was] utterly without the power to 
+     order that NextWave be allowed to retain them for that 
+     reason or on that basis.
+     
+Id. at 55 (internal citations omitted).
+
+     Finally, notwithstanding its conclusion that the bankruptcy 
+court lacked jurisdiction to change the conditions under which 
+NextWave could retain its licenses, the Second Circuit ac-
+knowledged that the bankruptcy court might well have juris-
+diction over NextWave's underlying debts themselves:  "To 
+the extent that the financial transactions between [the FCC 
+and NextWave] do not touch upon the FCC's regulatory 
+authority, they are indeed like the obligations between ordi-
+nary debtors and creditors."  Id.  Pointing out that 
+NextWave "remain[ed] a debtor in bankruptcy," and that "[i]f 
+the Licenses [were] returned to the FCC, the bankruptcy 
+court [might] resolve resulting financial claims that the FCC 
+has against NextWave," id. at 56, the Second Circuit re-
+viewed the merits of the bankruptcy court's avoidance deci-
+sion and concluded that NextWave should not be allowed to 
+avoid $3.72 billion of its debt under the Bankruptcy Code.  
+Id. at 46, 62.
+
+     Immediately following the Second Circuit reversal, 
+NextWave prepared a new plan of reorganization that provid-
+ed for a single lump sum payment to satisfy its entire $4.3 
+billion outstanding obligation to the Commission, including 
+
+interest and late fees.  The Commission objected to the plan, 
+alleging that NextWave's licenses had automatically canceled 
+when the company missed its first payment deadline in 
+October 1998.  See In re Pub. Notice DA 00-49, Auction of C 
+and F Block Broadband PCS Licenses, Order on Reconsider-
+ation, FCC 00-335 p 7 (Sept. 6, 2000).  Simultaneously, the 
+Commission issued a public notice announcing re-auction of 
+NextWave's licenses.  The notice stated that the licenses 
+were "available for auction under the automatic cancellation 
+provisions" of the Commission's regulations.  Public Notice, 
+Auction of C and F Block Broadband PCS Licenses, DA 00-
+49, 15 FCC Rcd 693 (2000).
+
+     The dispute then returned to the bankruptcy court, which 
+declared the Commission's cancellation of NextWave's licens-
+es "null and void" as a violation of various provisions of the 
+Bankruptcy Code, including the automatic stay provisions of 
+section 362(a).  In re NextWave Pers. Communications, Inc., 
+244 B.R. 253, 257-58, 267-68 (Bankr. S.D.N.Y. 2000) 
+("NextWave VI").  In reaching this conclusion, the bankrupt-
+cy court acknowledged that under the Second Circuit's ruling, 
+it lacked jurisdiction to interfere with the Commission's regu-
+latory acts.  Id. at 260-61.  It also acknowledged that it was 
+bound by the Second Circuit's decision that "a regulatory 
+purpose was implicit in the 'full payment requirement' in the 
+FCC regulations."  Id. at 270.  As the bankruptcy court saw 
+it, however, the "regulatory objective" behind the full pay-
+ment requirement had been "fulfilled in the debtors' modified 
+Plan . . . . to pay the entire $4.3 billion outstanding ... in a 
+lump sum upon confirmation."  Id.  The cancellation of 
+NextWave's licenses, in contrast, was a response to the 
+company's failure to make a timely payment, and this re-
+quirement, the court reasoned, was "purely economic," having 
+to do with "the time value of money."  Id.  "[T]he economic 
+consequence of delay," it stated, "will be fully cured by 
+payment in full of all applicable interest, penalties and late 
+fees...."  Id.  Further explaining its view that the timely 
+payment requirement lacked a regulatory purpose, the bank-
+ruptcy court discussed at length its reasons for believing that 
+canceling licenses for failure to make a timely payment 
+
+"conflict[ed] with the spirit and the letter of the agency's 
+governing statute"--namely, section 309(j) of the Communica-
+tions Act.  Id. at 281;  see also id. at 282-83, 271.  Concluding 
+that the Commission "has not and cannot articulate any 
+regulatory interest entailed in the 'timely payment' require-
+ment," id. at 270, the court ruled that the Second Circuit's 
+prior decision did not preclude it from declaring the cancella-
+tion void.  Id. at 283.
+
+     Again, the Second Circuit reversed.  In re FCC, 217 F.3d 
+125 (2d Cir. 2000).  Granting a mandamus petition filed by 
+the Commission, the court held that "[t]here can be little 
+doubt that if full payment is a regulatory condition, so too is 
+timeliness."  Id. at 136.  In the court's view, "the regulatory 
+purpose for requiring payment in full--the identification of 
+the candidates having the best prospects for prompt and 
+efficient exploitation of the spectrum--is quite obviously 
+served in the same way by requiring payment on time."  Id. 
+at 135.  The conclusion that the Commission's decision "was 
+in fact regulatory," the court went on, was "reinforced" by the 
+fact that the bankruptcy court, in deciding that the license 
+cancellation lacked a regulatory purpose, had explained at 
+length that the cancellation and re-auction were contrary to 
+the purposes of section 309(j) of the Communications Act.  
+Id. at 136.  But according to the Second Circuit, these 
+discussions, rather than explaining why the re-auction deci-
+sion was not regulatory, explained why, under the Communi-
+cations Act, it was arbitrary, and such a determination, the 
+Second Circuit pointed out, was "outside the jurisdiction of 
+the bankruptcy court."  Id.  "[A] regulatory condition is a 
+regulatory condition even if it is arbitrary.  It is for the FCC 
+to state its conditions of licensure, and for a court with power 
+to review the FCC's decisions to say if they are arbitrary or 
+valid."  Id. at 137.
+
+     As a consequence, the Second Circuit concluded that the 
+bankruptcy court had both violated the appellate court's 
+earlier mandate and exceeded the bankruptcy court's own 
+jurisdiction.  Id.  "The bankruptcy court," the Second Circuit 
+stated, "construes our mandate to mean no more than that 
+the bankruptcy court may not abrogate the full-payment 
+requirement on the basis of a fraudulent conveyance holding."  
+
+Id. at 139.  But this understanding "under-reads our previous 
+opinion."  Id.  That opinion "clearly instruct[ed] the bank-
+ruptcy court to refrain from interfering with the licensing 
+decisions of the FCC," id., and as the Second Circuit saw it, 
+this is exactly what the bankruptcy court did in declaring the 
+license cancellation null and void.  In addition, because "[e]x-
+clusive jurisdiction to review the FCC's regulatory action lies 
+in the courts of appeals" under 47 U.S.C. s 402, In re FCC, 
+217 F.3d at 139, the Second Circuit found that the bankruptcy 
+court's license cancellation holding exceeded that court's jur-
+isdiction.  Id. at 141.  The court also noted that "NextWave 
+remains free to pursue its challenge to the FCC's regulatory 
+acts" in another forum, pointing out that the company had 
+already filed "protective notices of appeal" in this court.  Id. 
+at 140-41.
+
+     After losing in the Second Circuit, NextWave filed a peti-
+tion with the Commission, requesting reconsideration of the 
+license cancellation.  Denying the petition, the Commission 
+noted first that the public notice of reauction "was not an 
+order or action of the Commission ... canceling NextWave's 
+licenses."  Order on Reconsideration, FCC 00-335 p 10.  
+Rather, "[p]ursuant to [Commission] rules, the licenses can-
+celed automatically" after NextWave failed to make its first 
+installment payment.  Id.  The Commission thus concluded 
+that NextWave's petition was "late" and its challenge to the 
+reauction notice "procedurally defective."  Id.  "Neverthe-
+less, because of the importance of the issues raised in 
+NextWave's petition," id., the Commission went on to address 
+the company's challenge to the automatic cancellation.  The 
+Commission rejected NextWave's arguments that the cancel-
+lation was arbitrary and capricious and barred by estoppel 
+and waiver, id. p p 11-33, and found that the company's 
+Bankruptcy Code arguments, having been "summarily reject-
+ed by the Second Circuit," were "precluded under the doc-
+trine of res judicata."  Id. p 26.
+
+     NextWave now challenges the Commission's decision on 
+two basic grounds.  First, it claims that the license cancella-
+tion is "patently unlawful," Appellants' Opening Br. at 16, 
+under the provisions of the Bankruptcy Code described ear-
+
+lier:  the anti-discrimination provision (section 525), the auto-
+matic stay provision (section 362), and the provision of the 
+Code allowing debtors to "cure" their defaults (section 1123).  
+Second, citing our decision in Trinity Broadcasting of Flori-
+da, Inc. v. FCC, 211 F.3d 618, 631 (D.C. Cir. 2000), where 
+we held that an agency may not "sanction a company for its 
+failure to comply with regulatory requirements" without first 
+providing "fair notice" of those requirements, NextWave ar-
+gues that even if the license cancellation is not barred by 
+the Bankruptcy Code, it is invalid because the Commission 
+failed to provide adequate notice that the timely payment 
+regulations apply to Chapter 11 debtors.  The Commission, 
+supported by Intervenors (the Cellular Telecommunications 
+Industry Association and several telecommunications compa-
+nies) defends its decision.
+
+                                II
+
+     We begin with three threshold issues.  Does our jurisdic-
+tion in this case arise from 47 U.S.C. s 402(a) or 402(b)?  
+Was NextWave's challenge to its license cancellation timely?  
+And are NextWave's Bankruptcy Code arguments barred by 
+res judicata?  We consider each question in turn.
+
+                           Jurisdiction
+
+     NextWave has filed both a petition for review under section 
+402(a) and a notice of appeal under section 402(b) of the 
+Communications Act.  Section 402(a) provides that "[a]ny 
+proceeding to enjoin, set aside, annul, or suspend any order of 
+the Commission under this chapter (except those appealable 
+under subsection (b) of this section) shall be brought" in a 
+court of appeals.  See 47 U.S.C. s 402(a) (cross-referencing 
+28 U.S.C. s 2342(1)).  Section 402(b), in contrast, provides:
+
+     Appeals may be taken from decisions and orders of the 
+     Commission to the United States Court of Appeals for 
+     the District of Columbia ... [b]y the holder of any 
+     construction permit or station license which has been 
+     modified or revoked by the Commission.
+     
+Id. s 402(b).  Acknowledging that we have previously found 
+these two provisions mutually exclusive, see Friedman v. 
+FCC, 263 F.2d 493, 494 (D.C. Cir. 1959), NextWave asks us to 
+"dismiss the filing that relies on the incorrect jurisdictional 
+provision."  Appellants' Opening Br. at 1.
+
+     In Mobile Communications Corp. of America v. FCC, we 
+decided that the term "station license" in section 402(b) 
+encompasses PCS licenses.  See 77 F.3d 1399, 1403 (D.C. Cir. 
+1996);  see also 47 U.S.C. s 153(42) (defining "station license" 
+as "that instrument of authorization required ... for the use 
+or operation of apparatus for transmission of energy, or 
+communications, or signals by radio");  id. s 153(33) (defining 
+"communication by radio" as "the transmission by radio of 
+writing, signs, signals, pictures, and sounds of all kinds").  
+Given this, we think section 402(b)'s plain language, permit-
+ting appeal by "the holder of any ... station license which 
+has been ... revoked by the Commission," covers this case.  
+Cf. Cook, Inc. v. United States, 394 F.2d 84, 86 n.4 (7th Cir. 
+1968) (" 'The language of [subsection 402(b)], when considered 
+in relation to that of subsection (a) ... would make clear that 
+judicial review of all cases involving the exercise of the 
+Commission's radio-licensing power is limited to [the United 
+States Court of Appeals for the District of Columbia Cir-
+cuit].' ") (quoting S. Rep. No. 82-44, at 11 (1951));  In re FCC, 
+217 F.3d at 140-41.  Even if the Commission did not formally 
+"revoke" NextWave's licenses, that is certainly the effect of 
+the license cancellation:  the licenses once assigned to 
+NextWave are now being re-auctioned to other bidders.  Cf. 
+In re FCC, 217 F.3d at 140 n.10.  We therefore dismiss the 
+section 402(a) petition and proceed with the section 402(b) 
+appeal.
+
+                            Timeliness
+
+     Section 402(c) of the Communications Act requires appeals 
+under section 402(b) to be filed "within thirty days from the 
+date upon which public notice is given of the decision or order 
+complained of."  47 U.S.C. s 402(c).  The "decision" 
+NextWave seeks to challenge is the Commission's cancellation 
+of its licenses, but the formal Commission action it actually 
+appeals is the public notice of re-auction, which itself cancels 
+
+no licenses, but rather announces in passing that the compa-
+ny's licenses canceled automatically at an earlier date.  Order 
+on Reconsideration, FCC 00-355 p 10.
+
+     The Commission acknowledges that "in some instances, it 
+may be proper for a party to challenge the Commission's 
+public notices that establish or deny rights."  Id.  Joined by 
+Intervenors, however, it argues that NextWave's challenge to 
+the license cancellation policy is untimely.  Intervenors claim 
+that NextWave should have challenged the policy when its 
+licenses were issued, since the licenses themselves stated 
+explicitly that they were conditioned on timely payment, and 
+as we have held, "[a]cceptance of a license constitutes acces-
+sion to all [license] conditions."  P&R Temmer v. FCC, 743 
+F.2d 918, 928 (D.C. Cir. 1984).  Alternatively, both Interve-
+nors and the Commission suggest that NextWave should have 
+challenged the automatic cancellation rule during the Re-
+structuring Order proceedings because during those proceed-
+ings, the Commission considered objections to its original 
+installment payment plan (including some objections based on 
+the Bankruptcy Code), revised the plan, and ultimately reaf-
+firmed the timely payment requirement.  Intervenors' Br. at 
+3;  see also, e.g., Order on Recons. of the Second Report and 
+Order, 13 FCC Rcd 8345 p 24.  Having failed to challenge the 
+automatic cancellation rule at one of these earlier dates, they 
+argue, NextWave cannot do so now because orders denying 
+reconsideration do not re-open matters that should have been 
+challenged previously.  See ICC v. Bhd. of Locomotive 
+Eng'rs, 482 U.S. 270, 279-80, 285-86 (1987).
+
+     As NextWave points out, however, we have held that "a 
+party against whom a rule is applied may, at the time of 
+application, pursue substantive objections to the rule ... even 
+where the petitioner had notice and opportunity to bring a 
+direct challenge within statutory time limits" but failed to do 
+so.  Indep. Cmty. Bankers of Am. v. Bd. of Governors of the 
+Fed. Reserve Sys., 195 F.3d 28, 34 (D.C. Cir. 1999).  Thus 
+even if NextWave could have challenged the automatic cancel-
+lation policy at an earlier date--either when its licenses 
+issued or during the Restructuring Order proceedings--the 
+company remained free to do so "within thirty days from the 
+
+date upon which public notice [was] given" that the policy had 
+been applied to it.  47 U.S.C. s 402(c).
+
+     According to NextWave, the thirty-day period was trig-
+gered by the public notice of re-auction because, prior to the 
+re-auction notice, "the FCC had done nothing whatsoever to 
+announce the cancellation of NextWave's licenses."  Appel-
+lants' Reply Br. at 6.  Because it filed a precautionary appeal 
+with this court 30 days after the notice of re-auction, 
+NextWave claims, its appeal was timely.  Disagreeing, Inter-
+venors argue that NextWave already had notice in October 
+1998 that its licenses would cancel automatically if and when 
+it failed to make an installment payment.  Thus, they argue, 
+no further Commission statement was required to trigger the 
+period for seeking judicial review.
+
+     Intervenors' argument assumes that notice of a future 
+event's automatic effect (here, the explicit warning that the 
+licenses would cancel for failure to make a timely payment) is 
+by itself sufficient notice to mean that the occurrence of the 
+future event (failing to make a timely payment) will trigger 
+the period for seeking judicial review under section 402(c).  
+To resolve the timeliness issue in this case, however, we need 
+not decide whether that assumption is correct, for we think it 
+was unclear prior to the notice of re-auction that the automat-
+ic cancellation policy would apply to licensees who had filed 
+for bankruptcy.  To begin with, the Bankruptcy Code gave 
+NextWave reason to doubt that the automatic cancellation 
+would actually occur when the company missed its first 
+payment in October 1998:  the automatic stay triggered by a 
+Chapter 11 filing generally blocks most efforts by creditors to 
+exercise control over or repossess property of a debtor.  See 
+11 U.S.C. s 362(a);  cf. NextWave VI, 244 B.R. at 266-68 
+(finding that the automatic stay applied to NextWave's license 
+fee obligations).  Neither the Commission nor Intervenors 
+point to any instance prior to the re-auction notice in which 
+the Commission actually announced that NextWave's licenses 
+had canceled despite the stay.  Moreover, the Commission's 
+own conduct suggests that it was at best unsure whether the 
+automatic stay blocked cancellation of the company's licenses.  
+After the bankruptcy court's fraudulent conveyance holding, 
+
+and several months after NextWave missed the October 
+payment deadline, the Commission moved the bankruptcy 
+court to lift the stay "so that the ... automatic cancellation 
+provisions may take effect."  Mot. to Lift Automatic Stay at 
+2, NextWave V, 235 B.R. 314 (No. 98 B 21529).  And in the 
+bankruptcy court, Commission counsel suggested that the 
+automatic stay blocked cancellation of NextWave's licenses, 
+stating for example that although "[t]he regulations provide 
+that upon failure to make the payments the license is auto-
+matically canceled[,] ... [t]hat hasn't [happened] in this case 
+due to the automatic stay."  See Hearing Tr. at 30, In re 
+NextWave Pers. Communications, Inc., No. 98 B 21529 
+(Bankr. S.D.N.Y. Nov. 12, 1998);  NextWave VI, 244 B.R. at 
+277 (noting that transcript erroneously attributes this quota-
+tion to the Court).
+
+     These circumstances suggest that the Commission believed 
+NextWave's licenses had not canceled prior to the notice of 
+re-auction.  At the very least, they created doubt about the 
+matter, and as we have held, "when an agency leaves room 
+for genuine and reasonable doubt as to the applicability of its 
+orders or regulations, the statutory period for filing a petition 
+for review is tolled until that doubt is eliminated."  Recre-
+ation Vehicle Indus. Ass'n v. EPA, 653 F.2d 562, 569 (D.C. 
+Cir. 1981).  Because the "genuine and reasonable doubt" 
+about the status of NextWave's licenses continued until the 
+Commission issued the notice of re-auction, we conclude that 
+NextWave's petition is timely.
+
+                           Res Judicata
+
+     This brings us to the final and most difficult threshold 
+issue:  whether NextWave's Bankruptcy Code arguments are 
+barred by res judicata.  "The doctrine of res judicata pre-
+vents repetitious litigation involving the same causes of action 
+or the same issues."  I.A.M. Nat'l Pension Fund v. Indus. 
+Gear Mfg. Co., 723 F.2d 944, 946 (D.C. Cir. 1983).  According 
+to the Commission, because NextWave litigated and lost its 
+Bankruptcy Code arguments in the Second Circuit mandamus 
+proceedings, it may not relitigate them here.  Asserting a 
+
+right to make these arguments here, NextWave argues that 
+the Second Circuit's decision was jurisdictional--a decision 
+about "where NextWave's bankruptcy challenges should be 
+decided, not how they should be resolved."  Appellants' Open-
+ing Br. at 26 (emphasis added).  As a result, the company 
+argues, res judicata does not bar it from presenting its 
+Bankruptcy Code arguments in this court.
+
+     The doctrine of res judicata "usually is parsed into claim 
+preclusion and issue preclusion."  I.A.M. Nat'l Pension 
+Fund, 723 F.2d at 946.  Because the Commission raises 
+arguments based on both theories, and because the two 
+theories differ in subtle but significant respects, we consider 
+each separately.  "Under the claim preclusion aspect of res 
+judicata, a final judgment on the merits in a prior suit 
+involving the same parties or their privies bars subsequent 
+suits based on the same cause of action."  Id. at 946-47.  
+Claim preclusion prevents parties from relitigating issues 
+they raised or could have raised in a prior action on the same 
+claim.  See Allen v. McCurry, 449 U.S. 90, 94 (1980).  "[D]is-
+missals for lack of jurisdiction," however, "are not decisions 
+on the merits and therefore have no [claim preclusive] effect 
+on subsequent attempts to bring suit in a court of competent 
+jurisdiction."  Kasap v. Folger Nolan Fleming & Douglas, 
+Inc., 166 F.3d 1243, 1248 (D.C. Cir. 1999);  see also Fed R. 
+Civ. P. 41(b) ("a dismissal under this subdivision and any 
+dismissal not provided for in this rule, other than a dismissal 
+for lack of jurisdiction ... operates as an adjudication upon 
+the merits").
+
+     No one disputes that the Second Circuit thought the bank-
+ruptcy court lacked authority to declare the notice of re-
+auction invalid.  In re FCC, 217 F.3d at 141.  The question 
+dividing the parties is why the Second Circuit thought this.  
+According to NextWave, the Second Circuit reversed the 
+bankruptcy court because under section 402 of the Communi-
+cations Act, "the FCC's licensing decisions are subject to the 
+exclusive jurisdiction of the federal courts of appeals."  Id. at 
+129.  In other words, the company claims, the Second Circuit 
+held that any arguments directly or collaterally challenging 
+the Commission's regulatory actions--including arguments 
+
+based on the Bankruptcy Code--must be brought in a court 
+of appeals.  Cf. In re NextWave, 200 F.3d at 55.  The 
+Commission has a different view of the Second Circuit's 
+decision.  It argues that the Second Circuit decided not that 
+the bankruptcy court lacked jurisdiction to determine wheth-
+er the license cancellation violated the Bankruptcy Code, but 
+rather that "the [Bankruptcy Code] provisions on which 
+NextWave relies do not reach regulatory actions such as 
+those at issue here."  Appellee's Br. at 15.  In other words, 
+the Commission claims that the Second Circuit reviewed the 
+bankruptcy court's Bankruptcy Code conclusions on the mer-
+its and found that because the Commission's actions were 
+regulatory, the automatic stay, right to cure, and anti-
+discrimination provisions of the Code did not reach those 
+actions.
+
+     We agree with NextWave's interpretation of the Second 
+Circuit's decision.  As we read that decision, the court princi-
+pally held that the Commission's license cancellation was a 
+regulatory act reviewable only by a court of appeals under 
+section 402 of the Communications Act, and thus that the 
+bankruptcy court lacked jurisdiction to apply the Code to 
+these acts.  With one exception (which we shall explain later), 
+we do not understand the Second Circuit to have decided as a 
+substantive matter that nothing in the Bankruptcy Code 
+prevents the Commission from canceling NextWave's licens-
+es.
+
+     To begin with, and most obviously, the Second Circuit 
+repeatedly stated that it was making a "jurisdictional" deci-
+sion based on section 402.  Here are just three examples:  
+"We recognized that pursuant to ... 47 U.S.C. s 402, review 
+of the FCC's regulatory decisions and orders is entrusted 
+solely to the federal courts of appeals and is therefore outside 
+the jurisdiction of the bankruptcy and district courts," In re 
+FCC, 217 F.3d at 131 (describing initial opinion);  " '[b]ecause 
+jurisdiction over claims brought against the FCC in its regu-
+latory capacity lies exclusively in the federal courts of ap-
+peals, see ... 47 U.S.C. s 402, the bankruptcy and district 
+courts lacked jurisdiction to decide the question of whether 
+NextWave had satisfied the regulatory conditions placed by 
+
+the FCC upon its retention of the Licenses,' " id. at 137 
+(quoting initial opinion);  "[e]xclusive jurisdiction to review 
+the FCC's regulatory action lies in the courts of appeals," id. 
+at 139 (citing cases discussing section 402).  Reinforcing the 
+jurisdictional nature of its opinion, the Second Circuit also 
+disavowed any intent to rule on the merits of NextWave's 
+challenges to the Commission's acts, stating explicitly that 
+NextWave was "free to pursue its challenge to the FCC's 
+regulatory acts" in an appropriate forum, id. at 140, and that 
+the court was making "no comment on the prospects" of such 
+an appeal.  Id. at 129;  see also id. at 138 n.8 ("we have no 
+occasion to opine on whether the Public Notice is valid or 
+whether the Licenses automatically canceled at some prior 
+date");  id. at 139 ("Even if the bankruptcy court is right on 
+the merits of its arguments against revocation--we have no 
+occasion to express an opinion--it is without power to act on 
+its determination.").
+
+     According to the Commission, these repeated references to 
+the bankruptcy court's lack of jurisdiction mean only that the 
+bankruptcy court lacked jurisdiction to decide whether the 
+Commission had applied the auction requirements of section 
+309(j) of the Communications Act arbitrarily and capriciously, 
+not that it lacked jurisdiction to review the Commission's 
+actions for compliance with the Bankruptcy Code.  Likewise, 
+the Commission suggests, the Second Circuit's references to 
+the prospects of NextWave's appeal refer only to an appeal 
+based on section 309(j).  In support of this interpretation, the 
+Commission points to language in the Second Circuit's opin-
+ion suggesting that the bankruptcy court lacked jurisdiction 
+to question the Commission's regulatory judgments under 
+section 309(j).  See, e.g., id. at 131-32 (" '[E]ven if the bank-
+ruptcy and district courts were right in concluding that 
+granting the Licenses at a small fraction of NextWave's 
+original successful bid price best effectuated the [Federal 
+Communication Act's] goals, they were utterly without the 
+power to order that NextWave be allowed to retain them for 
+that reason or on that basis.' ") (quoting initial opinion);  see 
+also id. at 136-37.
+
+     The Second Circuit, however, had good reason to address 
+section 309(j) directly:  the bankruptcy court devoted several 
+paragraphs to evaluating the Commission's conduct in light of 
+that section.  See NextWave VI, 244 B.R. at 271, 281-83.  
+Moreover, it is perfectly consistent to hold that section 402 
+prohibits the bankruptcy court from reviewing Commission 
+action both under section 309(j) and under the Bankruptcy 
+Code.  True, as the Commission points out, other circuits 
+have recognized the jurisdiction of bankruptcy courts to 
+determine whether provisions of the Code such as the auto-
+matic stay apply to agency actions.  See, e.g., Commerce Oil 
+Co. v. Word (In re Commerce Oil Co.), 847 F.2d 291 (6th Cir. 
+1988);  Universal Life Church, Inc. v. United States (In re 
+Universal Life Church, Inc.), 128 F.3d 1294 (9th Cir. 1997).  
+But that is irrelevant to the question we face here:  how did 
+the Second Circuit view the bankruptcy court's jurisdiction?  
+Regardless of how other circuits--or even we--might inter-
+pret section 402, we think the Second Circuit construed the 
+provision to confer "exclusive jurisdiction" on courts of ap-
+peals to review even Bankruptcy Code challenges to the 
+Commission's regulatory acts.  Many of the court's refer-
+ences to section 402 are not clearly restricted to bankruptcy 
+court power under section 309(j).  See, e.g., In re FCC, 217 
+F.3d at 139 ("Exclusive jurisdiction to review the FCC's 
+regulatory action lies in the courts of appeals.").  And at least 
+once in its opinion, the Second Circuit expressly stated that 
+"[t]he bankruptcy court lacked jurisdiction to declare the 
+Public Notice [of reauction] null and void on [the] ground[s] 
+that the Public Notice violated the automatic stay, [or] that 
+the right to cure obviates any default"--that is, on Bankrupt-
+cy Code grounds.  Id. at 139 (emphasis added).
+
+     The Second Circuit's reasoning in granting mandamus fur-
+ther illustrates the jurisdictional nature of its opinion.  The 
+court overturned the bankruptcy court's decision on two 
+"independently sufficient" grounds, each discussed in a sepa-
+rate section of the opinion.  See id. at 141.  One ground was 
+that the bankruptcy court lacked "statutory jurisdiction" to 
+nullify the Commission's license cancellation.  Id.  Entitled 
+"Jurisdiction," this section of the opinion consists entirely of a 
+
+discussion of sections 402(a) and (b) of the Communications 
+Act--it never mentions the Bankruptcy Code.  Id. at 139-41.  
+If, as the Commission maintains, the Second Circuit thought 
+the bankruptcy court lacked authority to invalidate the li-
+cense cancellation principally because the Code does not 
+reach the Commission's regulatory acts (and if, as the Com-
+mission also maintains, the Second Circuit's discussion of 
+"jurisdiction" merely refers to the peripheral issue of the 
+bankruptcy court's jurisdiction to review Commission actions 
+under section 309(j) of the Communications Act) it is difficult 
+to explain why the court failed to discuss the Bankruptcy 
+Code in this section of its opinion, given that the reasons 
+discussed here provide an "independently sufficient" basis for 
+mandamus.
+
+     The Second Circuit's other reason for granting mandamus 
+was that the bankruptcy court violated the appellate court's 
+earlier mandate.  But as the Second Circuit made clear, its 
+initial opinion too was jurisdictional:
+
+     Our extraordinary mandamus power has two purposes:  
+     to achieve compliance with the terms and spirit of our 
+     mandates, and to constrain inferior courts to proper 
+     exercises of their jurisdiction.  In this case, the two uses 
+     of mandamus overlap and reinforce one another.  This 
+     Court's previous opinion reversed a decision of the bank-
+     ruptcy court on the ground that that court lacked juris-
+     diction.  The bankruptcy court again seeks to control the 
+     FCC's allocation of licenses, notwithstanding this Court's 
+     express holding that 'the bankruptcy and district courts 
+     lack[ ] jurisdiction to decide the question of whether 
+     NextWave had satisfied the regulatory conditions placed 
+     by the FCC upon its retention of the Licenses.'  Thus a 
+     writ of mandamus protecting this Court's mandate also 
+     confines the inferior court to the lawful exercise of its 
+     jurisdiction.
+     
+Id. at 137 (quoting In re NextWave, 200 F.3d at 54).
+
+     To be sure, in the "mandate" section of its opinion, the 
+Second Circuit appeared to decide on the merits that at least 
+some parts of the automatic stay provision of the Bankruptcy 
+
+Code, 11 U.S.C. s 362, do not apply to the facts of this case.  
+See In re FCC, 217 F.3d at 138 ("Undoubtedly, the [Commis-
+sion] is a governmental unit that is seeking 'to enforce' its 
+'regulatory power' [under subsection 362(b)(4)].");  id at 138 
+n.8 ("[W]e hold that the FCC's regulatory decisions fall within 
+[subsection] 362(b)(4).").  But leaving aside for the moment 
+the effect of this discussion under the doctrine of issue 
+preclusion, this portion of the Second Circuit's opinion does 
+not change our view that the court's decision was primarily 
+jurisdictional, for the court expressly couched its discussion of 
+the automatic stay in jurisdictional terms:  the court prefaced 
+its discussion by noting that "[t]he bankruptcy court founds 
+its jurisdiction [to interfere with the FCC's enforcement of 
+its payment schedule] chiefly on the automatic stay provision 
+of [section 362]...."  Id. at 138 (emphasis added).  We need 
+not decide whether this jurisdictional interpretation of section 
+362 is correct--the Supreme Court has declined to express an 
+opinion on the issue, see Bd. of Governors of the Fed. Reserve 
+Sys. v. MCorp Fin., Inc., 502 U.S. 32, 41 n.11 (1991)--because 
+the Commission's res judicata argument requires only that we 
+determine what the Second Circuit meant, and here we think 
+it clear that the court treated section 362 as though it 
+provided a potential basis for bankruptcy court jurisdiction.
+
+     In addition to this direct evidence of the jurisdictional 
+nature of the Second Circuit opinion, the Commission's alter-
+nate view of the opinion--that the court decided as a substan-
+tive matter that nothing in the Bankruptcy Code prevents the 
+Commission from canceling NextWave's licenses--is implausi-
+ble.  Not only does this interpretation fail to account fully for 
+the opinion's jurisdictional language, see supra at 21-22, but 
+the Second Circuit never actually states that the Bankruptcy 
+Code as such does not reach the Commission's regulatory 
+acts:  the entire opinion concerns the power and jurisdiction 
+of the bankruptcy court.  Perhaps most telling, the Second 
+Circuit does not discuss any provision of the Bankruptcy 
+Code besides section 362, despite the fact that the bankruptcy 
+court discussed section 525 and made a ruling based on 
+sections 1123 and 1124.  As NextWave argues, "[t]he exclu-
+sively jurisdictional character of the Second Circuit's ruling 
+
+provides a complete explanation for its ... silence respecting 
+NextWave's principal bankruptcy arguments."  Appellants' 
+Reply Br. at 4.
+
+     Faced with the Second Circuit's silence about sections 525 
+and 1123, the Commission suggests that even though the 
+court failed to mention these provisions, it necessarily decided 
+that they do not bar the license cancellation because "manda-
+mus relief is warranted only where the petitioner has demon-
+strated that its right to such relief is clear and indisputable," 
+and "the Second Circuit would not have granted our request 
+for extraordinary relief if it had thought that the bankruptcy 
+court's decision was sustainable on the basis of [section] 525" 
+or 1123.  Appellee's Br. at 21 n.13 (internal quotation omit-
+ted);  id. at 24 n.15.  The assumption that the Second Circuit 
+"necessarily" resolved these arguments, however, is valid only 
+if the Commission's view of the case is correct--that is, if the 
+Second Circuit meant to decide as a substantive matter that 
+the Bankruptcy Code did not reach the Commission's actions.  
+If instead the Second Circuit principally decided, as much of 
+the opinion's language suggests, see supra at 20-22, that the 
+bankruptcy court lacked jurisdiction to hear these arguments, 
+that conclusion would also have provided a basis for manda-
+mus, without requiring the court to consider or decide any-
+thing about sections 525 and 1123 at all.
+
+     The Commission offers a second, equally unpersuasive ex-
+planation for the Second Circuit's silence regarding sections 
+525 and 1123.  The bankruptcy court's analysis of those 
+provisions, the Commission says, "hinges on its characteriza-
+tion of the FCC as an ordinary creditor," Appellee's Br. at 24, 
+and by rejecting decisively this characterization, the Second 
+Circuit in effect decided that these parts of the Code do not 
+apply.  Apart from the fact that it seems odd that the Second 
+Circuit would have decided that sections 525 and 1123 do not 
+apply without ever mentioning them, this argument fails 
+because, like the previous argument, it assumes the correct-
+ness of the Commission's reading of the Second Circuit's 
+opinion.  But the alternate reading of the opinion--that the 
+bankruptcy court lacked jurisdiction to hear challenges to the 
+Commission's regulatory actions based on the Bankruptcy 
+
+Code or otherwise--also relies upon the notion that the 
+Commission is not an ordinary creditor but a regulator in this 
+situation.  The fact that the Second Circuit decided that the 
+Commission was not acting as an ordinary creditor when it 
+canceled the licenses thus does not indicate that the court 
+implicitly decided that sections 525 and 1123 are inapplicable 
+to this case.
+
+     Having thus concluded that the Second Circuit's opinion 
+was jurisdictional and that claim preclusion does not bar 
+NextWave from re-litigating its Bankruptcy Code arguments 
+in this court, we turn to the Commission's second major res 
+judicata argument:  that each of NextWave's Bankruptcy 
+Code arguments is barred by issue preclusion.  "Under the 
+issue preclusion aspect of res judicata, a final judgment on 
+the merits in a prior suit precludes subsequent relitigation of 
+issues actually litigated and determined in the prior suit, 
+regardless of whether the subsequent suit is based on the 
+same cause of action."  I.A.M. Nat'l Pension Fund, 723 F.2d 
+at 947.  Issue preclusion is most often invoked where "a 
+subsequent action is brought on a different claim," id. at 947 
+n.3, and as a result claim preclusion does not apply.  Issue 
+preclusion, however, may also apply to subsequent actions 
+brought on the same claim:  if a judgment "does not preclude 
+relitigation of all or part of the claim on which the action was 
+brought"--if, for example, as here, the judgment was jurisdic-
+tional--it may still preclude relitigation of any issues "actual-
+ly litigated and determined" in the first action.  Id.  For 
+issue preclusion to apply, however, "the issue must have been 
+actually and necessarily determined by a court of competent 
+jurisdiction in the first trial."  Connors v. Tanoma Mining 
+Co., 953 F.2d 682, 684 (D.C. Cir. 1992) (internal quotation and 
+emphasis omitted).  If the "basis" of a prior decision is 
+"unclear, and it is thus uncertain whether the issue was 
+actually and necessarily decided in [the prior] litigation, then 
+relitigation of the issue is not precluded."  Id.
+
+     It may appear that the only issue potentially barred by 
+issue preclusion from a case dismissed for lack of jurisdiction 
+is the jurisdictional determination itself.  Cf. Kasap, 166 F.3d 
+at 1248.  In this case, it may thus seem that the Second 
+
+Circuit cannot have ruled on the merits of any of NextWave's 
+Bankruptcy Code arguments, because the court only decided 
+that the bankruptcy court lacked jurisdiction to hear them.  
+And indeed, under our jurisdictional interpretation of the 
+Second Circuit's decision, we do not think the court "actually 
+and necessarily" decided whether sections 525 and 1123 bar 
+the license cancellation.  We thus conclude that issue preclu-
+sion does not bar relitigation of these issues.
+
+     Far less clear, however, is whether issue preclusion bars 
+NextWave's section 362 argument.  As we have seen, the 
+Second Circuit explicitly discussed section 362's automatic 
+stay, finding that the bankruptcy court could not rely on the 
+provision as an independent basis for jurisdiction because the 
+license cancellation was a regulatory act exempt under sub-
+section 362(b)(4).  See supra at 23-24.  It is true, as we have 
+said, that this was a jurisdictional discussion, but this does 
+not preclude it from having issue preclusive effect:  if a court 
+makes a substantive determination in order to arrive at a 
+jurisdictional holding, the substantive determination can have 
+issue preclusive effect so long as it was "actually litigated and 
+determined in the prior action."  See I.A.M. Nat'l Pension 
+Fund, 723 F.2d at 947 n.3.  The Restatement gives the 
+following example:
+
+     A brings an action against B for personal injuries arising 
+     out of an automobile accident.  Jurisdiction is asserted 
+     over B, a nonresident, on the basis that the automobile 
+     involved in the accident was being operated in the state 
+     by or on his behalf.  After trial of this issue, the action is 
+     dismissed for lack of jurisdiction.  In a subsequent action 
+     by A against B for the same injuries, brought in the state 
+     of B's residence, the prior determination that the auto-
+     mobile was not being operated by or on behalf of B is 
+     conclusive.
+     
+Restatement (Second) of Judgments s 27, illustration 3 
+(1980).
+
+     Here, the Second Circuit appears to have decided that 
+section 362 does not confer jurisdiction on the bankruptcy 
+court because subsection 362(b)(4)'s "regulatory power" ex-
+
+ception applies as a substantive matter.  We thus agree with 
+the Commission that issue preclusion bars NextWave from 
+relitigating the question of whether the license cancellation 
+falls within subsection 362(b)(4).  The Second Circuit spoke 
+clearly and unequivocally about this issue, stating that "[u]n-
+doubtedly, the FCC is a governmental unit that is seeking 'to 
+enforce' its 'regulatory power,' " In re FCC, 217 F.3d at 138, 
+and that "we hold that the FCC's regulatory decisions fall 
+within [subsection] 362(b)(4)."  Id. at n.8.  And under the 
+Second Circuit's jurisdictional reading of section 362, this 
+decision was necessary to the case:  if subsection 362(b)(4) did 
+not apply, section 362 could have provided a basis for the 
+bankruptcy court to assert jurisdiction over the license can-
+cellation.  In considering NextWave's Bankruptcy Code argu-
+ments, see Section III infra, we will thus assume that the 
+license cancellation falls within the regulatory power excep-
+tion to the automatic stay.
+
+     We are less sure, however, that the Second Circuit "actual-
+ly and necessarily" decided as part of its jurisdictional deci-
+sion that all provisions of section 362 do not apply to the 
+license cancellation.  In particular, as the Second Circuit 
+implicitly acknowledged, subsection 362(b)(4)'s "regulatory 
+power" exception does not apply to subsections 362(a)(4) and 
+(5), which stay actions to enforce liens.  See In re FCC, 217 
+F.3d at 138.  Although the bankruptcy court thought the 
+cancellation of NextWave's licenses "unarguably violate[d]" 
+these subsections, NextWave VI, 244 B.R. at 267, and explicit-
+ly quoted the language in the security agreements creating a 
+"first lien on and continuing security interest in" the licenses, 
+id. at 267 n.7, the Second Circuit, in a footnote, simply observed:  
+"Subsections (4) and (5) are concerned with liens.  The bank-
+ruptcy court does not explain why they are implicated here."  
+In re FCC, 217 F.3d at 138 n.7.  Thus, unlike in its subsection 
+362(b)(4) discussion, the Second Circuit never said it was 
+"hold[ing]" that subsections 362(a)(4) and (5) do not apply to 
+the cancellation of NextWave's licenses.  Cf. id. at 138 n.8.  
+Instead, the court merely observed that the bankruptcy court 
+did not explain why they are implicated.  It is thus unclear 
+whether the Second Circuit decided that subsections 362(a)(4) 
+
+and (5) do not block cancellation of NextWave's licenses, or 
+whether it simply concluded that it had no need to reach the 
+issue because the bankruptcy court failed adequately to ad-
+dress it.  Since under our decision in Connors, if it is "uncer-
+tain whether [an] issue was actually and necessarily decided 
+in [prior] litigation, then relitigation of the issue is not 
+precluded," 953 F.2d at 684, we conclude that NextWave is 
+not barred from arguing that subsections 362(a)(4) and (5) 
+prohibit cancellation of its licenses.
+
+     Having resolved these threshold issues, we turn to the 
+merits of NextWave's appeal.
+
+                               III
+
+     NextWave argues that the Commission's cancellation of its 
+licenses violated sections 525, 1123, and 362 of the Bankrupt-
+cy Code.  Under the Administrative Procedure Act, we must 
+"hold unlawful and set aside agency action ... found to be 
+... not in accordance with law [or] ... in excess of statutory 
+jurisdiction, authority, or limitations."  5 U.S.C. s 706(2).  
+This provision requires us to invalidate agency action not only 
+if it conflicts with an agency's own statute, but also if it 
+conflicts with another federal law.  See, e.g., Scheduled Air-
+lines Traffic Offices, Inc. v. Dep't of Def., 87 F.3d 1356, 1361 
+(D.C. Cir. 1996) (applying 5 U.S.C. s 706(2)(A) and declaring 
+Department of Defense policy invalid under Miscellaneous 
+Receipts statute);  see also Cousins v. Sec'y of the U.S. Dep't 
+of Transp., 880 F.2d 603, 608 (1st Cir. 1989) (stating that the 
+quoted passages from section 706 are "general in their mean-
+ing" and "do not restrict the courts to consideration of the 
+agency's own enabling statute").
+
+     We begin with section 525:
+
+     [A] governmental unit may not deny, revoke, suspend, or 
+     refuse to renew a license ... or other similar grant to, 
+     ... discriminate with respect to such a grant against, 
+     deny employment to, terminate the employment of, or 
+     discriminate with respect to employment against, a per-
+     son that is ... a bankrupt or a debtor under the Bank-
+     ruptcy Act ... solely because such bankrupt or debtor 
+     
+     ... has not paid a debt that is dischargeable in the case 
+     under this title or that was discharged under the Bank-
+     ruptcy Act.
+     
+11 U.S.C. s 525(a).  No one disputes that the Commission is 
+a "governmental unit" that has "revoke[d]" a license for 
+purposes of section 525, nor that NextWave is a "bankrupt or 
+a debtor under the Bankruptcy Act."  Pointing to the fact 
+that the Commission has filed proofs of claim in bankruptcy 
+court based on its security interests in PCS licenses, see, e.g., 
+Proof of Claim, In re NextWave Pers. Communications, Inc., 
+No. 98 B 21529 (Bankr. S.D.N.Y. Dec. 16, 1998) (filed on 
+behalf of creditor The United States of America), NextWave 
+argues that the installment payment obligations were dis-
+chargeable debts under the Bankruptcy Code.  See 11 U.S.C. 
+s 1141(d) (stating that dischargeable debts under Chapter 11 
+generally include "any debts that arose before the date of ... 
+confirmation" of the debtor's reorganization plan).  And be-
+cause failure to make installment payments was the "sole 
+triggering mechanism" for automatic cancellation, NextWave 
+continues, its licenses canceled "solely because" it failed to 
+pay dischargeable debts.  Appellants' Reply Br. at 8.
+
+     The Commission never denies that if NextWave had made 
+its payments, the company could have retained its licenses.  
+Nor does the Commission dispute that NextWave's license fee 
+obligations were at least in part genuine, enforceable debts--
+indeed, the Commission's own regulations provide for their 
+collection if left unpaid.  See 47 C.F.R. s 1.2110(g)(4)(iv) ("A 
+licensee in the PCS C or F [B]locks shall be in default, its 
+license shall automatically cancel, and it will be subject to 
+debt collection procedures, if the payment due on the payment 
+resumption date ... is more than ninety (90) days delin-
+quent.") (emphasis added).  Instead, the Commission offers a 
+series of unpersuasive arguments intended to demonstrate 
+why, notwithstanding section 525's apparent applicability, the 
+provision does not bar cancellation of NextWave's licenses.
+
+     First, the Commission urges us to read section 525 in light 
+of section 362.  The latter section, the Commission suggests, 
+"serves the important purpose of providing a debtor with 
+
+some breathing room in the situations to which it applies.  
+Accordingly, [section] 362 should be broader than [section] 
+525, providing for breathing room even in some situations 
+where cancellation ultimately would be permitted."  Appel-
+lee's Br. at 21-22.  Thus, the Commission argues, because (on 
+its reading) the automatic stay does not apply to this case, 
+section 525 should not apply either.  Fleshing out this argu-
+ment, Intervenors suggest that "[i]t would make little sense 
+for Congress to exempt governmental 'regulatory' actions 
+from the stay [under subsection 362(b)(4)] but then flatly 
+forbid them in [section] 525.  Basic structural coherence 
+requires the conclusion that [section] 525 does not prevent a 
+license cancellation already correctly found exempt from the 
+stay as regulatory."  Intervenors' Br. at 18.
+
+     This is an interesting argument, but it fails for several 
+reasons.  To begin with, it is inconsistent with section 525's 
+plain language.  Section 525 clearly and explicitly prohibits 
+governmental units, for whatever reason, from canceling li-
+censes for failure to pay a dischargeable debt:  "a governmen-
+tal unit may not ... revoke ... a license ... to ... a 
+bankrupt ... solely because such bankrupt ... has not paid a 
+debt that is dischargeable ... under this title."  11 U.S.C. 
+s 525(a).  Nothing in section 525 or 362 states that section 
+525 is subject to subsection 362(b)(4)'s regulatory power 
+exception, or that the exception should be read to limit 
+section 525's clear reach.  Thus, while interpretation of the 
+Bankruptcy Code is a "holistic endeavor," and "[a] provision 
+that may seem ambiguous in isolation" can often be "clarified 
+by the remainder of the statutory scheme," United Sav. Ass'n 
+of Tex. v. Timbers of Inwood Forest Assocs., Ltd., 484 U.S. 
+365, 371 (1988), here we see no such ambiguity.  Various 
+bankruptcy and district courts, accordingly, have held that 
+section 525 can apply even if the automatic stay does not.  
+See, e.g., William Tell II, Inc. v. Illinois Liquor Control 
+Comm'n (In re William Tell II, Inc.), 38 B.R. 327, 330 (N.D. 
+Ill. 1983) ("even if a state proceeding is not automatically 
+stayed, a bankruptcy court has authority to enjoin certain 
+conduct under 11 U.S.C. s 525");  In re The Bible Speaks, 69 
+B.R. 368, 373 n.5 (Bankr. D. Mass. 1987) ("[Section] 525(a) is 
+
+directed at governmental units and may apply even where the 
+automatic stay has no effect.").
+
+     Moreover, contrary to Intervenors' argument, this interpre-
+tation of section 525 does not render the Code "structural[ly] 
+[in]coheren[t]."  Though this reading does mean that an 
+action exempted under subsection 362(b)(4) might nonetheless 
+be barred by section 525, it does not render subsection 
+362(b)(4) meaningless, because that subsection covers a differ-
+ent and wider variety of actions than section 525.  For 
+example, subsection 362(b)(4) exempts from the automatic 
+stay (among other things) "any act" by a governmental unit 
+to "obtain possession of property of the estate ... or to 
+exercise control over property of the estate," so long as the 
+act is taken to enforce the unit's "regulatory power."  11 
+U.S.C. s 362(a)(3), (b)(4) (emphasis added).  Section 525, in 
+contrast, prohibits governmental units only from taking cer-
+tain specific actions with respect to an extremely limited 
+subset of a debtor's property--licenses and similar grants--
+or with respect to employment opportunities.
+
+     Even if the Commission were correct that section 525 
+should be read to permit all actions exempted from the 
+automatic stay by subsection 362(b)(4), that argument would 
+be inapplicable to this case because subsection 362(b)(4) does 
+not apply to the stay of acts to "create, perfect, or enforce" 
+liens against property of the estate or of the debtor imposed 
+by subsections 362(a)(4) and (5).  Here, NextWave executed 
+security agreements giving the Commission a "first lien" on 
+the company's interest in the licenses, and under subsections 
+362(a)(4) and (5), "a creditor holding a lien on property of the 
+estate may not enforce the lien by seizure, foreclosure, or 
+otherwise."  3 Collier on Bankruptcy p 362.03[6] (15th ed. 
+rev. 2000).  Stayed actions include "self-help remedies against 
+collateral" such as "repossession."  Id. p 362.03[6][b].  Before 
+the bankruptcy court, Commission counsel acknowledged that 
+canceling the licenses and seeking to collect on the debt was 
+"tantamount ... to foreclosing on collateral."  Hearing Tr. at 
+14, In re NextWave Pers. Communications, Inc., No. 98 B 
+21529 (Bankr. S.D.N.Y. May 26, 1999).  Thus, contrary to the 
+Commission's argument, and notwithstanding the applicability 
+
+of the regulatory power exception, section 362's automatic 
+stay does apply here.  This is thus not a case in which section 
+525, if applicable, would bar an action exempt from the 
+automatic stay.
+
+     The Commission next argues that section 525 is inapplica-
+ble because NextWave's license fee obligation was not a 
+"dischargeable" debt.  In support of this proposition, the 
+Commission offers two arguments.  First, it claims that the 
+New York bankruptcy court could not have discharged 
+NextWave's debt because the Second Circuit, whose decisions 
+are binding on that court, held in its initial opinion that so 
+long as NextWave retained its licenses, its payment obligation 
+was subject to neither modification nor discharge in bank-
+ruptcy.  As a result, the Commission concludes, the payment 
+obligation was not a debt "dischargeable" in bankruptcy while 
+the license was held.
+
+     We disagree.  To begin with, it is unclear that the Second 
+Circuit in fact thought the bankruptcy court lacked power to 
+alter or discharge the payment obligation while NextWave 
+held the licenses.  Though parts of its initial opinion do 
+suggest this, see In re NextWave, 200 F.3d at 56, other parts 
+suggest that the court simply thought the bankruptcy court 
+had no authority to require the Commission to allow 
+NextWave to keep its licenses after modification of its pay-
+ment obligation.  See, e.g., id. at 54 ("It is beyond the 
+jurisdiction of a court in a collateral proceeding to mandate 
+that a licensee be allowed to keep its license despite its failure 
+to meet the conditions to which the license is subject.").  If 
+the latter reading is correct, then insofar as NextWave's 
+payment obligation was a debt (as opposed to a license 
+condition), it was dischargeable by the bankruptcy court.  
+Even if the Commission's reading of the Second Circuit's 
+opinion is correct, the Commission's argument assumes that 
+the phrase "debt that is dischargeable ... under this title" in 
+section 525(a) refers to the bankruptcy court's power to 
+modify or discharge a payment obligation.  The provision's 
+plain language, however, refers to a payment obligation that 
+can be modified or discharged under the Bankruptcy Code;  
+and as we read the Second Circuit's opinion, the court merely 
+
+decided that insofar as timely payment was a condition for 
+license retention, the bankruptcy court had no authority to 
+modify it.  It never decided that a court of competent juris-
+diction (such as this one) could not modify or discharge it 
+under section 525.
+
+     The Commission also argues that because "[a] licensee's 
+full and timely payment of its winning bid installments is an 
+essential condition of its license grant[,] [p]ayment ... is a 
+regulatory requirement, not a dischargeable debt."  Appel-
+lee's Br. at 22.  At oral argument, Commission counsel con-
+ceded that the payment obligation also has the character of a 
+dischargeable debt.  As we indicated earlier, the Commission 
+could seek to collect its license fee, and in so doing it would be 
+subject (as the Second Circuit held) to the constraints im-
+posed on creditors by the Bankruptcy Code.  See In re 
+NextWave, 200 F.3d at 56.  But here, the Commission con-
+tends, it seeks only to revoke NextWave's licenses, not to 
+collect on the debt, and insofar as timely payment is a 
+condition of license retention, it is a regulatory requirement, 
+not a dischargeable debt, and section 525 is inapplicable.
+
+     As Commission counsel also acknowledged, this claim 
+amounts to a request for a regulatory purpose exception to 
+section 525:  the Commission in effect argues that because 
+(for legitimate regulatory motives) it made timely payment a 
+regulatory requirement, it should be permitted to cancel 
+licenses for failure to meet that requirement despite section 
+525's plain language ("a governmental unit may not ... 
+revoke ... a license ... to ... a bankrupt ... solely because 
+such bankrupt ... has not paid a debt that is dischargeable 
+... under this title").  But basic principles of statutory 
+interpretation preclude such a result.  To begin with, section 
+525 contains several exceptions, but none for agencies fulfill-
+ing regulatory purposes.  See 11 U.S.C. s 525(a) ("Except as 
+provided in the Perishable Agricultural Commodities Act ... 
+the Packers and Stockyards Act ... and section 1 of ... 'An 
+Act making appropriations for the Department of Agriculture 
+for the fiscal year ending June 30, 1944, and for other 
+purposes' ... a governmental unit may not deny, revoke, 
+suspend ... a license....").  This in itself suggests that 
+Congress did not intend to provide a regulatory purpose 
+exception to section 525.  See Tenn. Valley Auth. v. Hill, 437 
+U.S. 153, 188 (1978) (relying on fact that Endangered Species 
+
+Act "creates a number of limited 'hardship exemptions' " but 
+none for federal agencies to conclude "under the maxim 
+expressio unius est exclusio alterius ... that these were the 
+only 'hardship cases' Congress intended to exempt").  More-
+over, other parts of the Bankruptcy Code contain explicit 
+regulatory purpose exceptions.  Section 362, as we have seen, 
+exempts from certain provisions of the automatic stay any 
+"governmental unit" exercising its "police or regulatory pow-
+er."  11 U.S.C. s 362(b)(4).  Section 362 also contains a series 
+of narrower exceptions for certain named agencies that have 
+entered lending relationships, allowing them to engage in 
+particular acts of foreclosure and other actions.  See, e.g., 11 
+U.S.C. s 362(b)(8) (exception permitting HUD Secretary to 
+foreclose on certain mortgages insured under the National 
+Housing Act).  To us, these express exceptions demonstrate 
+that section 525 contains neither an implied regulatory power 
+exception for governmental units in general nor an implied 
+agency-specific exception allowing the Commission to enforce 
+an automatic cancellation policy pursuant to an installment 
+payment scheme under section 309(j) of the Communications 
+Act.  See Russello v. United States, 464 U.S. 16, 23 (1983) 
+("Where Congress includes particular language in one section 
+of a statute but omits it in another section of the same Act, it 
+is generally presumed that Congress acts intentionally and 
+purposely in the disparate inclusion or exclusion.") (internal 
+quotation omitted).
+
+     Next, Intervenors argue that even if the license fee obli-
+gation itself is a dischargeable debt, the Commission did not 
+cancel NextWave's licenses "solely because" of failure to pay 
+that debt.  "The 'solely because' language," they argue, "lim-
+its the bar on license revocation to circumstances where a 
+government [agency] is simply advancing creditor interests in 
+receiving the money due."  Intervenors' Br. at 16-17.  Since 
+here, license cancellation was intended not to induce payment 
+but instead to "protect[ ] the integrity of [the] auction[ ] and 
+select[ ] the applicant most likely to use the Licenses effi-
+ciently for the benefit of the public," section 525 is not 
+implicated, because "it is not the 'debt' character of the 
+defaulted obligation that is the 'sole' basis for the cancella-
+tion."  Id. (internal quotation omitted).
+
+     We are unconvinced.  Intervenors argue that "solely be-
+cause" should be read to mean "solely because of creditor 
+interests in receiving the money due."  But the statute says 
+nothing about an agency's motives in canceling a license for 
+failure to pay a dischargeable debt--it simply says govern-
+mental units may not cancel licenses "solely because" a 
+debtor "has not paid" such a debt.  See 11 U.S.C. s 525(a) 
+(emphasis added).  It may be true, as the Second Circuit 
+decided, that the Commission had a regulatory motive for 
+examining NextWave's timely payment record and canceling 
+its licenses on that basis, but as we pointed out earlier, 
+neither the Commission nor Intervenors dispute that 
+NextWave could have retained its licenses if it had made 
+timely installment payments.  NextWave's failure to make its 
+payments was thus the "sole" trigger of the license cancella-
+tion, in the sense that the Commission looked to no other 
+factor in determining whether NextWave should retain its 
+licenses;  and we think this is exactly the kind of conduct 
+barred by section 525's plain text.  Adopting Intervenors' 
+intent-based reading of section 525 would allow governmental 
+units to escape section 525's limitations simply by invoking a 
+regulatory motive for their concern with timely payment, and 
+as we have already explained, section 525 contains no implicit 
+regulatory purpose exception.
+
+     To support their view that the phrase "solely because" 
+permits license cancellation based on failure to pay a dis-
+chargeable debt so long as the cancellation is motivated by a 
+non-pecuniary regulatory purpose, Intervenors point to legis-
+lative history stating that section 525 "does not prohibit 
+consideration of ... factors[ ] such as future financial respon-
+sibility or ability ... if applied nondiscriminatorily," H.R. 
+Rep. No. 95-595, at 367 (1977), and that "in those cases where 
+the causes of the bankruptcy are intimately connected with 
+the license grant ... an examination into the circumstances 
+surrounding the bankruptcy will permit governmental units to 
+pursue appropriate regulatory policies and take appropriate 
+action without running afoul of bankruptcy policy."  Id. at 
+165.  But these passages do not lead us to conclude that 
+section 525 is inapplicable here.  To begin with, we may not 
+
+"resort to legislative history to cloud a statutory text that is 
+clear."  Ratzlaf v. United States, 510 U.S. 135, 147-48 (1994).  
+Moreover, while the quoted passages do suggest that agencies 
+may make regulatory decisions (including perhaps canceling 
+the licenses of bankrupt debtors) based on factors such as 
+future financial responsibility or ability, they do not state that 
+an agency may use timely payment of a dischargeable debt as 
+the sole indicator of such responsibility, as the Commission 
+has done here.  Cf. H.R. Rep. No. 95-595, at 165 ("The 
+purpose of [section 525] is to prevent an automatic reaction 
+against an individual for availing himself of the protection of 
+the bankruptcy laws.").
+
+     Duffey v. Dollison, 734 F.2d 265 (6th Cir. 1984), which 
+Intervenors invoke, reinforces rather than undermines this 
+interpretation of section 525.  In Duffey, the court upheld as 
+applied to a bankrupt debtor a state law suspending the 
+driver's license of anyone who failed to make timely payment 
+of a state tort judgment until that person provided proof of 
+future financial responsibility.  The statute at issue there 
+specifically required extrinsic "evidence of financial responsi-
+bility," such as a certificate of insurance or a bond, in order to 
+reinstate a license, and was specifically re-written not to 
+require payment of discharged debts as a precondition for 
+reinstatement:  "the registrar shall vacate the order of sus-
+pension upon proof that such judgment is stayed, or satisfied 
+in full ... and upon such person's filing ... evidence of 
+financial responsibility...."  Id. at 269 (quoting Ohio Rev. 
+Code s 4509.45 (Baldwin 1975)).  The Commission's automat-
+ic cancellation policy, in contrast, refers to no analogous 
+extrinsic evidence of fitness to hold a license, and allows 
+license cancellation to rest solely on failure to pay a dis-
+chargeable debt.
+
+     Finally, noting that section 525 is entitled "Protection 
+against discriminatory treatment," and that the House Report 
+on the bankruptcy bill provides that section 525 "extends only 
+to discrimination or other action based solely ... on the basis 
+of nonpayment of a debt discharged in the bankruptcy case," 
+H.R. Rep. No. 95-595, at 366-67, the Commission suggests 
+that the provision is inapplicable here because "[a]ll licensees 
+
+lost their licenses if they failed to meet the payment dead-
+line."  Appellee's Br. at 23.
+
+     The text of section 525, however, includes "discriminat[ion]" 
+only as an item in a series of prohibited actions:  "a govern-
+mental unit may not deny, revoke, suspend, or refuse to 
+renew a license ... to, [or] condition such a grant to, [or] 
+discriminate with respect to such a grant against, [or] deny 
+employment to, [or] terminate the employment of, or discrim-
+inate with respect to employment against[ ] a person that is 
+... a debtor under this title...."  11 U.S.C. s 525(a) (em-
+phasis added).  Another prohibited action in the series is (as 
+we have just seen) to "revoke" the license of a bankrupt 
+"solely because such bankrupt" has "not paid a debt dis-
+chargeable" under the Bankruptcy Code--precisely what hap-
+pened in this case.  And the House Report itself explicitly 
+states that section 525 "extends only to discrimination or 
+other action based solely ... on the basis of nonpayment of a 
+debt discharged in the bankruptcy case...."  H.R. Rep. No. 
+95-595, at 366-67 (emphasis added);  see also Walker v. Wilde 
+(In re Walker), 927 F.2d 1138, 1142-43 (10th Cir. 1991) 
+(invalidating under section 525 a license cancellation policy 
+that applied to bankrupts and non-bankrupts alike).
+
+     We have no doubt that in developing its installment pay-
+ment plan, the Commission made a good faith effort to 
+implement Congress's command to encourage small busi-
+nesses with limited access to capital to participate in PCS 
+auctions.  We are also mindful that, as the Commission 
+suggests, allowing NextWave to retain its licenses may be 
+"grossly unfair" to losing bidders and licensees who "complied 
+with the administrative process and forfeited licenses or made 
+timely payments despite their financial difficulties."  Appel-
+lee's Br. at 9.  Any unfairness, however, was inherent in the 
+Commission's decision to employ a licensing scheme that left 
+its regulatory actions open to attack under Chapter 11 of the 
+Bankruptcy Code, the very purpose of which is "to permit 
+successful rehabilitation of debtors."  NLRB v. Bildisco & 
+Bildisco, 465 U.S. 513, 527 (1984);  see also H.R. Rep. No. 
+95-595, at 220 ("The purpose of a business reorganization 
+case, unlike a liquidation case, is to restructure a business's 
+
+finances so that it may continue to operate, provide its 
+employees with jobs, pay its creditors, and produce a return 
+for its stockholders.").  The Code expressly contemplates that 
+bankrupts will sometimes avoid the consequences of late or 
+non-payment they might have faced had they not filed for 
+bankruptcy.  See, e.g., 11 U.S.C. s 1123(a)(5)(G) (stating that 
+a reorganization plan may, among other options, provide for 
+"curing or waiving of any default");  United States v. Whiting 
+Pools, Inc., 462 U.S. 198, 204 (1983) ("The creditor with a 
+secured interest in property included in the estate must look 
+to [the provisions of the Bankruptcy Code] for protection, 
+rather than to the nonbankruptcy remedy of possession.").  
+And the Code's restrictions have been applied even to the 
+official actions of Government agencies.  See, e.g., Whiting 
+Pools, 462 U.S. at 209 (enforcing the Bankruptcy Code 
+against the IRS to prevent seizure of property under a tax 
+lien and concluding that "[n]othing in the Bankruptcy Code or 
+its legislative history indicates that Congress intended a 
+special exception for the tax collector").  Here, as we have 
+explained, we think section 525 prevents the Commission, 
+whatever its motive, from canceling the licenses of winning 
+bidders who fail to make timely installment payments while in 
+Chapter 11.
+
+     We do not think this conclusion frustrates the purposes of 
+the Communications Act, because nothing in the Act required 
+the Commission to choose the licensing scheme at issue here.  
+Although section 309(j) suggests the possibility of using guar-
+anteed installment payments of some kind, the statute also 
+suggests alternative methods of facilitating small business 
+participation.  See 47 U.S.C. s 309(j)(4)(A).  Indeed, in 1998, 
+the Commission decided that "until further notice, installment 
+payments should not be offered in auctions as a means of 
+financing small businesses and other designated entities seek-
+ing to secure spectrum licenses."  See Competitive Bidding 
+Proceeding, 63 Fed. Reg. 2315, 2318-19 (Jan. 15, 1998).  
+Moreover, irrespective of the Commission's decision to use 
+installment payments as part of its licensing scheme, nothing 
+in the Act required it to enter a creditor relationship with 
+winning bidders, take liens on licenses, or--most important 
+
+for our decision here--make timely payment a license condi-
+tion.  For example, the Commission could have required 
+winning bidders to obtain third party guarantees for their 
+license fee obligations, or required full upfront payment from 
+C Block licensees and helped them obtain loans from third 
+parties.  The Commission could also have made license 
+grants conditional on periodic checks of financial health, a 
+more extensive credit check, or some other evidence that 
+winning bidders were capable of using their licenses in the 
+public interest.  Having chosen instead a scheme that put it 
+in a creditor-debtor (and lienholder) relationship with its 
+licensees and conditioned licenses on timely payment of their 
+debts, and having as a consequence run afoul of section 525 of 
+the Bankruptcy Code, the Commission may not escape that 
+provision's clear command simply because it acted for a 
+regulatory purpose.
+
+                                IV
+
+     In view of our conclusion that the Commission violated 
+section 525 of the Bankruptcy Code in canceling NextWave's 
+licenses, we need not consider NextWave's remaining Bank-
+ruptcy Code arguments, nor its arguments that the cancella-
+tion violated principles of due process and fair notice.  We 
+therefore reverse and remand to the Commission for proceed-
+ings not inconsistent with this opinion.
+
+                                                      So ordered.
+
+                                                  

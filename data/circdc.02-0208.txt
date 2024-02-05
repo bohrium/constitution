@@ -1,0 +1,725 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued April 15, 2002      Decided August 23, 2002 
+
+                           No. 01-5111
+
+                  Sturm, Ruger & Company, Inc., 
+                            Appellant
+
+                                v.
+
+                          Elaine Chao, 
+             Secretary, U.S. Department of Labor and 
+        Charles N. Jeffress, Assistant Secretary of Labor 
+               for Occupational Safety and Health, 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 00cv01026)
+
+     Richard D. Wayne argued the cause and filed the briefs for 
+appellant.
+
+     Brian J. Sonfield, Assistant U.S. Attorney, argued the 
+cause for appellees.  With him on the brief were Roscoe C. 
+
+Howard, Jr., U.S. Attorney, R. Craig Lawrence, Assistant 
+U.S. Attorney, Eugene Scalia, Solicitor, U.S. Department of 
+Labor, Joseph M. Woodward, Associate Solicitor, and Bruce 
+Justh and Ronald J. Gottlieb, Counsel.  Michael J. Ryan, 
+Assistant U.S. Attorney, entered an appearance.
+
+     Before:  Sentelle, Randolph, and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Sturm, Ruger & Company, Inc. 
+filed a complaint in the United States District Court for the 
+District of Columbia, challenging the Occupational Safety and 
+Health Administration's Data Collection Initiative as unlaw-
+ful.  The court concluded that it lacked subject matter juris-
+diction over the complaint, and that the company must pursue 
+its claims through the review process prescribed by the 
+Occupational Safety and Health Act.  We agree.
+
+                                I
+
+     We begin with a description of the statutory framework 
+and of prior proceedings involving Sturm Ruger.
+
+                                A
+
+     The Occupational Safety and Health Act (OSH Act) autho-
+rizes the Secretary of Labor to promulgate workplace safety 
+and health standards, 29 U.S.C. s 655(b), as well as regula-
+tions "necessary or appropriate for the enforcement of [the 
+Act] or for developing information regarding the causes and 
+prevention of occupational accidents and illnesses," id. 
+s 657(c)(1).  It further directs the Secretary to "prescribe 
+regulations requiring employers to maintain accurate records 
+of, and to make periodic reports on, work-related deaths, 
+injuries and illnesses."  Id. s 657(c)(2).  And it gives the 
+Secretary enforcement power, authorizing her to issue cita-
+tions and to assess penalties for violations of the Act and of 
+the standards and regulations promulgated thereunder.  Id. 
+ss 658, 659.  The Secretary has delegated the bulk of these 
+statutory responsibilities and authorities to the Occupational 
+Safety and Health Administration (OSHA).
+
+     While the OSH Act charges the Secretary with rulemaking 
+and enforcement, it gives the task of "carrying out adjudicato-
+ry functions" to an independent entity, the Occupational 
+Safety and Health Review Commission (OSHRC or the Com-
+mission).  Id. s 651(b)(3);  see Martin v. OSHRC, 499 U.S. 
+144, 147 (1991) (explaining that the OSH Act "assigns distinct 
+regulatory tasks to two different administrative actors").  
+Under the Act, employers may contest OSHA citations before 
+OSHRC.  29 U.S.C. s 659(c).  Such contests are heard first 
+by an ALJ, whose decision becomes the final order of the 
+Commission unless the Commission decides to hear the case.  
+Id. s 661(j).  Both employers and the Secretary may seek 
+review of OSHRC orders in the courts of appeals.  Id. 
+s 660(a), (b).1
+
+     In 1996, OSHA launched an annual survey called the Data 
+Collection Initiative (DCI).  See 62 Fed. Reg. 6434, 6434 
+(Feb. 11, 1997).  Under the DCI, OSHA requires selected 
+employers to report the number of workers they employed 
+and the number of hours their employees worked during a 
+specified period, as well as the number of work-related inju-
+ries and illnesses their employees suffered during that period.  
+See, e.g., OSHA Data Collection Form for Occupational Inju-
+ries and Illnesses, 2000 (J.A. at 67).  From this information, 
+OSHA calculates injury/illness incidence rates, which it uses 
+to identify establishments to target for inspection.  See 62 
+Fed. Reg. at 6435;  Secretary of Labor v. Sturm, Ruger & Co., 
+OSHRC Nos. 99-1873 & 99-1874 (ALJ Order Den. Mot. to 
+Suppress, July 5, 2000) [hereinafter July 2000 ALJ Order] 
+(noting that OSHA uses the DCI to target "sites in high-
+hazard industries with average or above rates of injury and 
+illness").2
+
+__________
+     1 A person adversely affected by a Commission order may obtain 
+review in "any United States court of appeals for the circuit in 
+which the violation is alleged to have occurred or where the 
+employer has its principal office, or in the Court of Appeals for the 
+District of Columbia Circuit."  29 U.S.C. s 660(a).
+
+     2 When the DCI was first implemented in 1996, OSHA had in 
+effect regulations requiring employers to maintain logs of work-
+
+                                B
+
+     In April 1997, OSHA sent Sturm Ruger a DCI survey, 
+requiring it to provide information regarding its Pine Tree 
+Castings Division, a New Hampshire facility that manufac-
+tures steel investment castings.  Sturm Ruger complied and 
+returned the completed survey to OSHA.  In June 1998, 
+based on information in the survey, two OSHA compliance 
+officers arrived at Pine Tree to inspect the facility.  See 29 
+U.S.C. s 657(a) (providing that the Secretary may enter, 
+inspect, and investigate workplaces as necessary to "carry out 
+the purposes of [the Act]").  Sturm Ruger refused to consent 
+to the inspection, prompting OSHA to obtain a search war-
+rant from the United States District Court for the District of 
+New Hampshire.  See Marshall v. Barlow's, Inc., 436 U.S. 
+307, 311 (1978) (holding that OSHA must obtain a warrant to 
+conduct nonconsensual inspections of business premises).  
+When OSHA officers arrived to execute the warrant, Pine 
+Tree employees prevented them from doing so.  On the same 
+day, Sturm Ruger moved to quash the warrant, arguing that 
+the data used to target Pine Tree for inspection was derived 
+from a survey that was not authorized by regulation, and that 
+the warrant violated the Fourth Amendment.
+
+__________
+related injuries and illnesses, 29 C.F.R. s 1904.2, and to provide 
+these logs to OSHA upon its request, id. s 1904.7.  OSHA did not, 
+however, have a regulation that required employers to respond to 
+the DCI survey.  Several employers filed suit against the Secre-
+tary, seeking an injunction against its implementation.  See Ameri-
+can Trucking Ass'ns, Inc. v. Reich, 955 F. Supp. 4 (D.D.C. 1997).  
+In January 1997, the district court granted summary judgment for 
+the employers, holding that OSHA "must promulgate a regulation 
+before purporting to command employers to file reports like the one 
+at issue here."  Id. at 7.  The Secretary did not appeal that 
+decision, and the next month, to "clarify OSHA's authority," OSHA 
+adopted 29 C.F.R. s 1904.17, which we discuss below.  See 62 Fed. 
+Reg. 6434, 6434 (Feb. 11, 1997).  Since the filing of Sturm Ruger's 
+complaint, OSHA has revised 29 C.F.R. pt. 1904, and the regulation 
+concerning the DCI now appears at 29 C.F.R. s 1904.41.  See 66 
+Fed. Reg. 5916 (Jan. 19, 2001).
+
+     On January 22, 1999, the district court denied the motion to 
+quash and enforced the warrant.  Sturm, Ruger & Co. v. 
+United States, No. Civ. 98-418-JD, 2000 WL 36931, at *11 
+(D.N.H. Jan. 22, 1999).  Sturm Ruger appealed to the United 
+States Court of Appeals for the First Circuit, and sought a 
+stay of execution of the warrant pending appeal.  The First 
+Circuit denied the stay, and OSHA executed the warrant.  
+After inspecting the Pine Tree facility, OSHA announced that 
+it was considering issuing citations for violations of safety and 
+health standards discovered during the inspection.  Sturm, 
+Ruger & Co. v. OSHA, 186 F.3d 63, 63 (1st Cir. 1999).
+
+     In August 1999, the First Circuit dismissed Sturm Ruger's 
+appeal for failure to exhaust administrative remedies.  Noting 
+that the OSHA inspection had already occurred and that 
+citations could soon issue, the court of appeals held that 
+Sturm Ruger had to pursue its challenge by contesting the 
+citations through the review process established by the OSH 
+Act.  The court noted that this process "would involve initial 
+review by an administrative law judge, discretionary review 
+by the Occupational Safety and Health Review Commission, 
+and eventual review by this court."  Id. at 63 (citing 29 U.S.C. 
+ss 659-61).
+
+     The First Circuit reached its conclusion notwithstanding 
+Sturm Ruger's insistence that its claim "involve[d] a 'purely 
+legal' issue consisting of a 'facial' challenge" to the DCI.  Id. 
+at 64.  The court found that Sturm Ruger had "not suggested 
+that its claims cannot be adequately adjudicated in the ... 
+anticipated enforcement proceeding," id. (internal quotation 
+marks omitted), and that in fact "a successful appeal following 
+exhaustion of administrative remedies" would vindicate its 
+rights, id. at 65.  Moreover, the court held that, while the 
+company had "not shown that requiring exhaustion would 
+subject it to irreparable harm," permitting the district court 
+to hear the claim would interfere with "agency autonomy."  
+Id. at 64-65.
+
+     On September 2, 1999, OSHA issued citations to Sturm 
+Ruger based on its inspection of the Pine Tree facility.  In 
+accordance with the OSH Act's review provisions, the compa-
+
+ny contested those citations before an ALJ appointed by 
+OSHRC.  See 29 U.S.C ss 659(c), 661(j).  At the outset of 
+the proceeding, Sturm Ruger moved to suppress the evidence 
+obtained during the Pine Tree inspection, arguing that no 
+regulation authorized OSHA to collect the survey data that it 
+used to target employers for inspection, and that the use of 
+the data violated the Fourth Amendment.  The ALJ denied 
+the motion on the ground that, by responding to the survey, 
+Sturm Ruger had waived the right to challenge its legality.  
+July 2000 ALJ Order at 4.
+
+     After the ALJ issued a final decision on the merits, Sturm 
+Ruger petitioned for, and the Commission granted, discre-
+tionary review.  Sturm Ruger's petition argued that the 
+citations should be vacated because they were discovered in 
+an inspection based on data collected through an unlawful and 
+unconstitutional survey.  Pet. for Discretionary Review p 15, 
+reprinted in Secretary of Labor v. Sturm, Ruger & Co., 
+OSHRC Nos. 99-1873 & 99-1874, 2001 WL 95794 (ALJ Final 
+Order, Jan. 23, 2001).  The DCI was unlawful under the OSH 
+Act and the Administrative Procedure Act (APA), 5 U.S.C. 
+s 706, the company contended, because no regulation re-
+quired employers to maintain the data sought by the survey.  
+Id. pp 4, 7.  And it was unconstitutional because Sturm Ruger 
+had "a privacy interest protected by the Fourth Amendment 
+in the information that the survey form compelled it to 
+produce."  Id. p 23.  Sturm Ruger's case is currently pending 
+before the Commission.
+
+                                C
+
+     On May 9, 2000, two months before the ALJ denied its 
+motion to suppress, Sturm Ruger filed a complaint against 
+the Secretary of Labor and the Assistant Secretary responsi-
+ble for OSHA in the United States District Court for the 
+District of Columbia. Sturm, Ruger & Co. v. Herman, 131 
+F. Supp. 2d 211 (D.D.C. 2001).  Like its filings before the 
+Commission, the company's complaint alleged that the DCI 
+was unlawful under the OSH Act, the APA, and the Fourth 
+Amendment.  It sought both a declaratory judgment and an 
+
+injunction barring OSHA from compelling compliance with 
+the DCI survey, from conducting inspection programs that 
+rely on survey data, and from "pursuing enforcement pro-
+ceedings under the unlawful targeting inspection programs."  
+Compl. at 13-14.
+
+     In its complaint, Sturm Ruger made the same argument 
+now pending before the Commission:  that the DCI was 
+invalid because it required employers to report employment 
+data (the number of employees and the hours they worked) 
+despite the alleged absence of a regulation requiring employ-
+ers to create and maintain such data.  The company rested 
+its argument on a section of the OSH Act that states:
+
+     On the basis of the records made and kept pursuant to 
+     section 657(c) of this title, employers shall file such 
+     reports with the Secretary as he shall prescribe by 
+     regulation....
+     
+29 U.S.C. s 673(e).  Sturm Ruger did not dispute that OSHA 
+had satisfied the requirement of the final clause of the section 
+with 29 C.F.R. s 1904.17, a regulation that requires employ-
+ers to file reports in response to annual DCI surveys.3  But it 
+argued that the first clause of the section only permits the 
+agency to compel employers to provide information that is 
+contained in "records made and kept pursuant to section 
+657(c)."  Section 657(c), in turn, provides:
+
+     Each employer shall make, keep and preserve, and make 
+     available to the Secretary ..., such records regarding 
+     his activities relating to this chapter as the Secretary ... 
+     may prescribe by regulation....
+     
+__________
+3   Each employer shall, upon receipt of OSHA's Annual Survey 
+     Form, report to OSHA ... the number of workers it employed 
+     and the number of hours worked by its employees for periods 
+     designated in the Survey Form and such information as OSHA 
+     may request from records required to be created and main-
+     tained pursuant to 29 C.F.R. Part 1904.
+
+29 C.F.R. s 1904.17.
+
+29 U.S.C. s 657(c)(1).  Sturm Ruger claimed that, although 
+OSHA had a regulation requiring employers to create and 
+maintain the injury and illness data sought by the DCI 
+survey, 29 C.F.R. s 1904.2, no regulation required them to 
+create and maintain the employment data also demanded by 
+the survey.  Thus, the company argued, the DCI's require-
+ment that employment data be reported was unlawful under 
+the OSH Act, ss 657(c) & 673(e), and consequently under the 
+APA because it was not "in accordance with law," 5 U.S.C. 
+s 706(2).4  Finally, like its pleadings before the Commission, 
+Sturm Ruger's complaint also contended that employers 
+"have a privacy interest protected by the Fourth Amendment 
+in the information that the survey form seeks to compel them 
+to produce."  Compl. p 40.
+
+     The Secretary of Labor moved to dismiss Sturm Ruger's 
+complaint on the ground that "the administrative review 
+process established by the OSH Act is the exclusive means by 
+which plaintiff may challenge the DCI's legality."  Sturm, 
+Ruger & Co., 131 F. Supp. 2d at 215.  The district court 
+agreed and granted the motion.  Applying the holding and 
+reasoning of the Supreme Court's decision in Thunder Basin 
+Coal Co. v. Reich, 510 U.S. 200 (1994), the court concluded 
+that the OSH Act established a comprehensive review proce-
+dure that precluded district court jurisdiction.
+
+                               III
+
+     On appeal, we review de novo the dismissal of Sturm 
+Ruger's complaint for lack of subject matter jurisdiction, and 
+must accept the factual allegations in the complaint as true.  
+
+__________
+     4 Sturm Ruger does not dispute that OSHA has mooted this 
+argument for DCI surveys applicable to years beginning after 
+January 1, 2002.  Appellant's Br. at 17 n.1, 29.  As the company 
+points out, OSHA has promulgated regulations, effective as of that 
+date, "which now require employers to create and maintain the DCI 
+Survey data" regarding the number of employees and the hours 
+they worked for each establishment.  Id. at 17 n.1 (citing 29 C.F.R 
+s 1904.32 (2002);  66 Fed. Reg. 5916, 6042 (Jan. 19, 2001)).
+
+See Sloan v. United States Dep't of Hous. and Urban Dev., 
+236 F.3d 756, 759 (D.C. Cir. 2001).  We first consider whether 
+the OSH Act has a statutory review structure like that of the 
+statute at issue in Thunder Basin, the Federal Mine Safety 
+and Health Amendments Act of 1977 (Mine Act), 30 U.S.C. 
+s 801 et seq.  We then address whether Sturm Ruger's 
+claims "are of the type Congress intended to be reviewed 
+within this statutory structure."  Thunder Basin, 510 U.S. at 
+212.
+
+                                A
+
+     In Thunder Basin, the Supreme Court considered a pre-
+enforcement challenge filed by a mine operator against the 
+Secretary of Labor.  The operator's employees had selected 
+two employees of the United Mine Workers, who were not 
+employees of the mine, to serve as their miners' representa-
+tives under s 813(f) of the Mine Act.  Thereafter, the Mine 
+Safety and Health Administration (MSHA) of the Department 
+of Labor instructed the operator to post the employees' 
+designated representatives, as required by the statute and a 
+MSHA regulation.  Instead, the operator filed suit in federal 
+district court for an injunction against enforcement of the 
+regulation, contending that designation of nonemployee union 
+representatives violated its rights under the National Labor 
+Relations Act (NLRA), 29 U.S.C. s 141 et seq.  The operator 
+also argued that requiring it to challenge MSHA's interpreta-
+tion of the statute and regulation through the Mine Act's 
+statutory review process would violate the Due Process 
+Clause of the Fifth Amendment, because it would force the 
+operator to choose between violating the Act and incurring 
+penalties, or complying and thereby suffering irreparable 
+harm. Thunder Basin, 510 U.S. at 205.
+
+     The Court held that the statutory review scheme of the 
+Mine Act deprived the district court of subject matter juris-
+diction over the operator's complaint.  It declared that "[i]n 
+cases involving delayed judicial review"--that is, where ap-
+peal can be taken to the court of appeals after completion of 
+administrative proceedings--"we shall find that Congress has 
+
+allocated initial review to an administrative body where such 
+intent is 'fairly discernible in the statutory scheme.' "  Id. at 
+207 (quoting Block v. Community Nutrition Inst., 467 U.S. 
+340, 351 (1984)).  The Court found that intent discernible in 
+the following elements of the Mine Act's statutory review 
+procedure.
+
+     First, the Court noted that the "Act establishes a detailed 
+structure for reviewing violations" of MSHA standards and 
+regulations.  Id.  The Mine Act gives a mine operator thirty 
+days to challenge before the Commission any citation issued 
+by MSHA, after which time an uncontested order becomes 
+" 'final' " and " 'not subject to review by any court or agen-
+cy.' "  Id. (quoting 30 U.S.C. s 815(a), (d)).  Challenges filed 
+within the thirty-day period "are heard before an administra-
+tive law judge (ALJ), with possible Commission review" to 
+follow.  Id. at 207-08 (citation omitted).  "Only the Commis-
+sion has authority actually to impose civil penalties proposed 
+by the Secretary, and the Commission reviews all proposed 
+civil penalties de novo."  Id. 208 (citations omitted).
+
+     The Court further noted that under the Act, "[m]ine oper-
+ators may challenge adverse Commission decisions in the 
+appropriate court of appeals, whose jurisdiction 'shall be 
+exclusive and its judgment and decree shall be final' except 
+for possible Supreme Court review."  Id. (quoting 30 U.S.C. 
+s 816(a)(1)).  Courts of appeals must "uphold findings of the 
+Commission that are substantially supported by the record."  
+Id. (citation omitted).  In addition, "the statute establishes 
+that the Commission and the courts of appeals have exclu-
+sive jurisdiction over challenges to agency enforcement pro-
+ceedings," and its "comprehensive review process does not 
+distinguish between pre-enforcement and post-enforcement 
+challenges, but applies to all violations of the Act and its 
+regulations."  Id. at 208-09 (citation omitted).  Finally, the 
+"Act expressly authorizes district court jurisdiction in only 
+two provisions ..., which respectively empower the Secre-
+tary to enjoin habitual violations of health and safety stan-
+dards and to coerce payment of civil penalties."  Id. at 209 
+(citations omitted).  "Mine operators," by contrast, "enjoy no 
+
+corresponding right but are to complain to the Commission 
+and then to the court of appeals."  Id.
+
+     In the instant case, the district court concluded, and we 
+agree, that "[t]he administrative and judicial review proce-
+dures in the OSH Act are 'nearly identical' to those in the 
+Mine Act."  131 F. Supp. 2d at 216 (quoting In re Establish-
+ment Inspection of Manganas Painting Co., 104 F.3d 801, 
+802 (6th Cir. 1997)).  This is hardly surprising since, as we 
+have previously noted, the Mine Act's review process was 
+written to conform to the review process of the OSH Act.  
+See Kaspar Wire Works, Inc. v. Secretary of Labor, 268 F.3d 
+1123, 1131 (D.C. Cir. 2001);  see also 123 Cong. Rec. 4387-88 
+(1977) (statement of Sen. Williams, the Act's sponsor, upon 
+introduction of the Act).  Like the Mine Act, the OSH Act 
+gives employers a limited period to contest a citation issued 
+by OSHA, and provides that if no contest is brought within 
+that period, the citation is "deemed a final order ... not 
+subject to review by any court or agency."  29 U.S.C. 
+s 659(a).  Contests to OSHA citations are brought before an 
+independent adjudicatory commission (OSHRC), where they 
+are heard first by an ALJ and then reviewed by the Commis-
+sion, at its discretion.  Id. ss 659(c), 661(j).  Only the Com-
+mission has authority to impose civil penalties proposed by 
+the Secretary, which the Commission reviews de novo.  Id. 
+s 666(j).
+
+     As under the Mine Act, employers may appeal adverse 
+Commission decisions to the appropriate court of appeals, 
+whose jurisdiction "shall be exclusive and its judgment and 
+decree shall be final," but which must uphold the Commis-
+sion's findings of fact if "supported by substantial evidence."  
+Id. s 660(a); see supra note 1.  And like the Mine Act, the 
+OSH Act does not distinguish between pre- and post-
+enforcement challenges.  Finally, also like the Mine Act, the 
+OSH Act expressly grants district courts jurisdiction over 
+specified actions, see 29 U.S.C. ss 657(b), 660(c)(2), 662(a) & 
+(d), 666(l), but those do not include actions brought by 
+employers.
+
+     In short, in every relevant respect the statutory review 
+provisions of the OSH Act parallel those of the Mine Act, and 
+we therefore join the First and Sixth circuits in concluding 
+that Thunder Basin's analysis of review under the Mine Act 
+is fully applicable to the OSH Act.  See Manganas Painting 
+Co., 104 F.3d at 803;  Northeast Erectors Ass'n of the BTEA 
+v. Secretary of Labor, 62 F.3d 37, 40 (1st Cir. 1995).5
+
+                                B
+
+     Our conclusion that the OSH Act creates a comprehensive 
+review process comparable to that of the Mine Act's does not 
+end the inquiry.  We must also consider whether Sturm 
+Ruger's claims "are of the type Congress intended to be 
+
+__________
+     5 Sturm Ruger suggests that this conclusion is "implicitly" incon-
+sistent with our decision in Workplace Health & Safety Council v. 
+Reich, 56 F.3d 1465 (D.C. Cir. 1995).  See Appellant's Br. at 41.  In 
+that case, the petitioner sought pre-enforcement review of an OSHA 
+rule in this court, and we therefore had to decide whether the rule 
+was a "standard," the only kind of OSHA action that the OSH Act 
+expressly authorizes courts of appeals to review directly.  See 29 
+U.S.C. s 655(f).  We held that the rule was a "regulation" rather 
+than a "standard," and that we therefore did not have jurisdiction.  
+Workplace Health, 56 F.3d at 1467-68.  At the same time, we 
+stated our belief that pre-enforcement review of regulations was 
+appropriate in the district court.  Id. at 1469.  And in a subsequent 
+case, in the course of deciding that we had original jurisdiction over 
+an OSHA standard, we cited Workplace Health for the proposition 
+that regulations are subject to review in the district court.  Cham-
+ber of Commerce v. Dep't of Labor, 174 F.3d 206, 209 (D.C. Cir. 
+1999).  Neither Workplace Health nor Chamber of Commerce, 
+however, mentioned Thunder Basin or considered its impact on 
+district court jurisdiction.  And as the Supreme Court has "re-
+peatedly held," "the existence of unaddressed jurisdictional defects" 
+gives a ruling "no precedential effect" on the unaddressed question.  
+Lewis v. Casey, 518 U.S. 343, 352 n.2 (1996);  see Steel Co. v. 
+Citizens for a Better Env't, 523 U.S. 83, 91 (1997);  Hagans v. 
+Lavine, 415 U.S. 528, 534-35 n.5 (1974).
+
+reviewed within this statutory structure."  Thunder Basin, 
+510 U.S. at 212.  In Thunder Basin, the Court indicated that 
+district courts could still assert jurisdiction over "claims 
+considered wholly collateral to a statute's review provisions 
+and outside the agency's expertise."  Id. at 212 (internal 
+quotation marks omitted).  That is "particularly" so, the 
+Court said, "where a finding of preclusion could foreclose all 
+meaningful judicial review."  Id. at 212-13.  Sturm Ruger's 
+claims, however, do not fit within those categories.
+
+     Like the statutory claims at issue in Thunder Basin, Sturm 
+Ruger's claim that the DCI violates the OSH Act because it is 
+not authorized by regulation is not "wholly collateral" to the 
+OSH Act's review provisions.  Id. at 214.  Rather, it "re-
+quire[s] interpretation of the parties' rights and duties" under 
+the Act and its regulations, and therefore "fall[s] squarely 
+within the Commission's expertise."  Id. at 214;  see Martin, 
+499 U.S. at 154-55.  As for the company's claim that the DCI 
+violates the Fourth Amendment, we note that the same 
+factors that persuaded the Thunder Basin Court that the 
+constitutional challenge at issue there should be raised within 
+the statutory review structure are present here:  (1) "the 
+reviewing body is not the agency itself but an independent 
+Commission";  (2) the Commission has addressed constitution-
+al claims in previous enforcement proceedings, see, e.g., 
+McLaughlin v. Kings Island, 849 F.2d 990 (6th Cir. 1998) 
+(reviewing an OSHRC decision that an OSHA regulation 
+authorizing a warrantless and nonconsensual search of busi-
+ness records violated the Fourth Amendment);  and (3) the 
+employer's claims can still "be meaningfully addressed in the 
+Court of Appeals" after the Commission has rendered a 
+decision.  Thunder Basin, 510 U.S. at 215.
+
+     In light of these considerations, we find Sturm Ruger's 
+invocation of the Supreme Court's opinion in Leedom v. Kyne, 
+358 U.S. 184 (1958), inapposite.  Leedom involved a union's 
+challenge to a determination by the National Labor Relations 
+Board that a bargaining unit including both professional and 
+nonprofessional employees was appropriate--despite a direct-
+ly contrary provision of the NLRA.  Id. at 185-86;  see 29 
+
+U.S.C. s 159(b)(1).  Although the Court had previously held 
+that a Board order in a certification proceeding was not "a 
+final order" and therefore "not subject to judicial review 
+except as it may be drawn in question by a petition for ... 
+review of an order ... restraining an unfair labor practice," it 
+nonetheless held that the district court had jurisdiction over 
+the union's challenge.  Leedom, 358 U.S. at 187, 191.  "Cen-
+tral" to the decision in Leedom, the Court has since explained, 
+was the understanding that barring district court review 
+would have "wholly deprive[d] the union of a meaningful and 
+adequate means of vindicating its statutory rights," because 
+the union's members had " 'no other means, within their 
+control' " of obtaining judicial review.  Board of Governors v. 
+MCorp Fin., Inc., 502 U.S. 32, 43 (1991) (quoting Leedom, 358 
+U.S. at 190);  see Thunder Basin, 510 U.S. at 213 (citing 
+Leedom as an example of a case in which the plaintiff had no 
+other means to protect its rights).
+
+     As we have just discussed, however, barring district court 
+review in this case will not deprive employers of the opportu-
+nity to obtain judicial review.  An employer can, for example, 
+refuse to answer the survey, draw a citation from OSHA, and 
+then contest the citation through the statutory review proce-
+dure that ultimately ends in a court of appeals.  See Thunder 
+Basin, 510 U.S. at 216.  Sturm Ruger contends that this 
+review option is not meaningful because, faced with the threat 
+of OSHA sanctions, employers will not risk ignoring the 
+survey.6  But the Court rejected a similar argument in Thun-
+der Basin, noting that "[a]lthough the Act's civil penalties 
+unquestionably may become onerous if petitioner chooses not 
+to comply, the Secretary's penalty assessments become final 
+and payable only after full review by both the Commission 
+and the appropriate court of appeals."  Id. at 218 (citing 30 
+U.S.C. ss 820(i) & 816);  see OSH Act, 29 U.S.C. ss 666(j) & 
+660.  Moreover, in this case Sturm Ruger has already trig-
+
+__________
+     6 Sturm Ruger also appears to make the opposite argument, 
+contending that OSHA is attempting to shield the DCI from review 
+by choosing not to cite employers who fail to respond.  But if that 
+were the case, a point OSHA disputes, employers that fail to answer 
+the survey would suffer no injury.
+
+gered the review process that ultimately will bring it to a 
+court of appeals, by contesting the citations its Pine Tree 
+facility received as the allegedly tainted product of a search 
+based on information obtained through the DCI.7
+
+     Finally, we consider our recent decision in National Min-
+ing Ass'n v. Department of Labor, 292 F.3d 849, 856-57 (D.C. 
+Cir. 2002), in which this court held that, notwithstanding the 
+rule of Thunder Basin, a district court had jurisdiction to 
+hear a "generic" challenge to regulations issued by the Secre-
+tary of Labor under the Black Lung Benefits Act (BLBA), 30 
+U.S.C. s 901 et seq.  That decision is inapplicable to Sturm 
+Ruger's challenge for three reasons.
+
+     First, National Mining Association emphasized that the 
+challenge at issue there was a direct attack on the validity of 
+"a formal regulation," issued pursuant to "notice-and-
+comment" rulemaking.  National Mining Ass'n, 292 F.3d at 
+858.  In so holding, we distinguished Compensation Depart-
+ment v. Marshall, in which the Third Circuit held that a 
+district court lacked jurisdiction to review a claim that the 
+Secretary's policy of independently examining x-rays submit-
+ted by those seeking black lung benefits was unlawful under 
+the BLBA.  667 F.2d 336, 340-44 (3d. Cir. 1981).  That case, 
+we explained, involved an attack on an enforcement policy 
+rather than a regulation, and "there was no reason why the 
+[plaintiff] could not challenge [the] policy in an individual 
+adjudication before the Benefits Review Board and, if neces-
+
+__________
+     7 In a footnote, Sturm Ruger suggests that it cannot receive 
+meaningful review through the statutory process because the ALJ 
+held that, by voluntarily responding to the survey, the company had 
+waived its right to challenge it.  See Appellant's Br. at 39 n.11.  But 
+the ALJ's decision does not preclude the Commission, or the court 
+of appeals upon subsequent review, from rejecting the ALJ's deci-
+sion and accepting Sturm Ruger's contention that the "waiver" was 
+involuntary because its response to the survey was coerced.  On the 
+other hand, if both the Commission and court conclude that the 
+company did voluntarily answer the survey, then its injury will have 
+been due to its own voluntary action, and it will lack standing to 
+complain.  See Bennett v. Spear, 520 U.S. 154, 167 (1997).
+
+sary, in the Court of Appeals."  National Mining Ass'n, 292 
+F.3d at 858.
+
+     The same is true here.  As we described in Part I.C, Sturm 
+Ruger does not challenge the validity of an OSHA regulation.  
+To the contrary, it insists that there is no regulation that 
+authorizes the collection of the employment information de-
+manded by the DCI, and that the survey is therefore ultra 
+vires.  See Appellant's Br. at 16, 18, 34.8  Moreover, as in 
+Compensation Department, the gravamen of Sturm Ruger's 
+complaint is that OSHA is employing an unlawful enforce-
+ment strategy, in which it "use[s] the information gained 
+through the survey form to target its enforcement activities 
+on employer establishments."  Compl. p 10;  see id. at pp 1, 
+32.9  As we said in National Mining Association regarding 
+Compensation Department, there is no reason why Sturm 
+Ruger cannot challenge the Secretary's enforcement strategy 
+in an individual adjudication before the Commission.  See 
+National Mining Ass'n, 292 F.3d at 858.
+
+     Second, we noted in National Mining Association that the 
+regulations there at issue were "challenged primarily on the 
+
+__________
+     8 See, e.g., Appellant's Br. at 25 ("Because no OSHA regulation 
+requires maintenance of such data, there can be no requirement to 
+report said information [and] [t]herefore, the Annual DCI Surveys 
+are an unlawful exercise of authority by OSHA....");  id. at 34 
+("[A]t all times relevant to the Complaint, there has been no 
+regulation ... requiring employers to create and maintain the data 
+which OSHA requires employers to report on the DCI concerning 
+number of employees and number of hours worked by employees in 
+establishments.").  In particular, Sturm Ruger does not contend 
+that 29 C.F.R. s 1904.17 unlawfully requires employers to report 
+employment information that OSHA has not separately required 
+the employers to create and maintain.  Rather, it contends that 
+s 1904.17 "merely authorizes OSHA to collect such data which 
+OSHA requires employers to maintain by regulation and no such 
+regulation requires this data to be maintained."  Compl. p 36.
+
+     9 See also Compl. at 13-14 (seeking a declaratory judgment that 
+OSHA's "site specific targeting plans utilizing [DCI] data [are] ultra 
+vires," and an injunction "enjoin[ing] Defendants from conducting 
+inspection programs which... rely upon" DCI data).
+
+ground that they are impermissibly retroactive," that to 
+determine whether that was true would require analysis of 
+"all of the regulations together as well as the entire rulemak-
+ing process," and that such an analysis "would not be feasible 
+in individual adjudications dealing with particular regulatory 
+provisions."  Id. at 858-59.  By contrast, as we have dis-
+cussed above, there is no reason why Sturm Ruger cannot 
+obtain meaningful review of its challenge through the statuto-
+ry review process.
+
+     Third, and most important, National Mining Association 
+was not a case in which the "plaintiff sought to short-circuit 
+the administrative process" through the vehicle of a district 
+court complaint.  Id. at 858.  Sturm Ruger's complaint, 
+however, fits that description well.  As the district court 
+noted, the company "raised the identical claims in its chal-
+lenge to the citations that is currently pending before the 
+OSHRC."  131 F. Supp. 2d at 217 n.1;  see Pet. for Discre-
+tionary Review pp 4, 7, 15, 23;  supra Part I.B.  Moreover, it 
+raised similar claims before the First Circuit, and was di-
+rected by that court to exhaust its remedies before the 
+Commission.  Sturm, Ruger & Co., 186 F.3d at 63.  Rather 
+than allowing the statutory review process to run its 
+course--a course that will eventually lead back to a court of 
+appeals--Sturm Ruger sought to make an end run around 
+that process by going directly to district court.  Indeed, the 
+company is attempting to end the process altogether:  its 
+complaint seeks an injunction permanently barring the Sec-
+retary from "pursuing enforcement proceedings under the 
+unlawful targeting inspection programs," Compl. at 14, an 
+injunction that would terminate the proceeding currently 
+pending before the Commission.  Our obligation to respect 
+the review process established by Congress bars us from 
+permitting Sturm Ruger to make this end run, and requires 
+dismissal of its district court complaint.10
+
+__________
+     10 See Thunder Basin, 510 U.S. at 216 (holding that Congress did 
+not intend "to allow mine operators to evade the statutory review 
+process");  Northeast Erectors Ass'n of the BTEA, 62 F.3d at 40 
+(dismissing a pre-enforcement challenge that would "subvert Con-
+
+                                IV
+
+     For the foregoing reasons, the judgment of the district 
+court, dismissing the complaint for lack of subject matter 
+jurisdiction, is
+
+                                                                           Affirmed.
+
+__________
+gress's intent to have such claims reviewed through the OSH Act's 
+detailed administrative procedure");  cf. Great Plains Coop v. 
+CFTC, 205 F.3d 353, 354-55 (8th Cir. 2000) (applying Thunder 
+Basin to the Commodity Exchange Act, and holding that the 
+plaintiff could not "make an 'end run' around the statutory [review] 
+scheme" by filing a district court complaint aimed at "halting the 
+CFTC's administrative proceedings against" the plaintiff);  Block-
+som & Co. v. Marshall, 582 F.2d 1122, 1124 (7th Cir. 1978) (holding 
+that an employer may not "bypass the review procedures Congress" 
+established under the OSH Act by filing, at the same time that it 
+was contesting a safety citation before OSHRC, a district court 
+complaint "assert[ing] its defenses to the Secretary's citations").
+
+                  

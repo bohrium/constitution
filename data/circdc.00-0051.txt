@@ -1,0 +1,434 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued February 11, 2000     Decided March 31, 2000 
+
+                           No. 98-1627
+
+                 Chlorine Chemistry Council and 
+               Chemical Manufacturers Association, 
+                           Petitioners
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+           Natural Resources Defense Council, et al., 
+                           Intervenors
+
+                            ---------
+
+                        Consolidated with 
+                         99-1053, 99-1056
+
+           On Petitions for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Thomas Richichi argued the cause for petitioners Chlorine 
+Chemistry Council, et al. and supporting intervenor Society of 
+
+the Plastics Industry, Inc.  With him on the briefs were 
+Kathryn Y. Aspegren, David F. Zoll, Katherine L. Rhyne, 
+Paul D. Clement, Richard S. Wasserstrom, Jerome H. Heck-
+man, Peter L. de la Cruz and Komal J. Hershberg.
+
+     John F. Cooney and Brock Landry were on the brief for 
+amicus curiae Public Health Scientists.
+
+     Karen L. Egbert, Attorney, U.S. Department of Justice, 
+argued the cause for respondent. With her on the brief were 
+Lois J. Schiffer, Assistant Attorney General, and Karen H. 
+Clark, Attorney, U.S. Environmental Protection Agency. 
+Christopher S. Vaden, Attorney, U.S. Department of Justice, 
+entered an appearance.
+
+     Alan Charles Raul and David M. Levy were on the brief 
+for amici curiae Congressman Tom Bliley.
+
+     Erik D. Olson was on the brief for intervenors Natural 
+Resources Defense Council and Physicians for Social Respon-
+sibility.
+
+     Before:  Silberman, Williams and Ginsburg, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  The Safe Drinking Water Act 
+("SDWA" or the "Act") directs the Environmental Protection 
+Agency to set standards for the regulation of covered drink-
+ing water contaminants.  For each EPA sets a "maximum 
+contaminant level goal" ("MCLG"), defined as "the level at 
+which no known or anticipated adverse effects on the health 
+of persons occur and which allows an adequate margin of 
+safety."  42 U.S.C. s 300g-1(b)(4)(A).  The MCLG is some-
+what aspirational.  After having set it, EPA is to promulgate 
+an enforceable standard, known as a maximum contaminant 
+level ("MCL"), which takes practical considerations into ac-
+count while remaining "as close to the [MCLG] as is feasible."  
+Id. s 300g-1(b)(4)(B).
+
+     In March 1998 EPA concluded that chloroform, a drinking 
+water contaminant, exhibits a "nonlinear mode of carcinogenic 
+action."  Notice of Data Availability:  National Primary 
+
+Drinking Water Regulations:  Disinfectants and Disinfection 
+Byproducts, 63 Fed. Reg. 15,674, 15,686/1 (1998).  In other 
+words, exposures to chloroform below some threshold level 
+pose no risk of cancer.  But in promulgating the MCLG it 
+retained the existing standard of zero, which was based on 
+the previously held assumption that there was no safe thresh-
+old.  Final Rule:  National Primary Drinking Water Regula-
+tions:  Disinfectants and Disinfection Byproducts, 63 Fed. 
+Reg. 69,390, 69,398/3 (1998) ("Final Rule").  EPA justified its 
+action on a variety of grounds, including an alleged need to 
+consult the report of its Science Advisory Board ("SAB"), 
+which would not be available until after the statutory deadline 
+for rulemaking had expired.  Petitioners, including the Chlo-
+rine Chemistry Council, a trade association comprised of 
+chlorine and chlorine product manufacturers, petitioned this 
+court for review, arguing that EPA violated its statutory 
+mandate to use the "best available" evidence when imple-
+menting the provisions of the Safe Drinking Water Act.  42 
+U.S.C. s 300g-1(b)(3)(A).  We agree.
+
+                             *  *  *
+
+     Chloroform, a "nonflammable, colorless liquid," Proposed 
+Rule:  National Primary Drinking Water Regulations:  Disin-
+fectants and Disinfection Byproducts, 59 Fed. Reg. 38,668, 
+38,694/2 (1994), is one of four compounds that together are 
+classed as "Total Trihalomethanes" ("TTHMs").  These are 
+byproducts of chlorination, the most widely used technique 
+for ensuring the safety of drinking water.  Chlorination plays 
+a significant role in the control of microbial pathogens and in 
+turn in the protection of public health;  but on the basis of 
+rodent tumor data the Agency has concluded that chloroform, 
+a byproduct of this process, acts as a probable human carcino-
+gen.  Id. at 38,697/2.
+
+     On July 29, 1994 EPA issued a proposed rule on disinfec-
+tants and disinfection byproducts in water.  This included a 
+zero MCLG for chloroform, based on EPA's finding of an 
+absence of data to suggest a threshold level below which there 
+would be no potential carcinogenic effects.  Id.  The Agency's 
+
+default method of inferring risk at exposure levels for which 
+it has no adequate data is linear extrapolation from cancer 
+incidence inferred at exposures for which it does have data.  
+See EPA's Proposed Guidelines for Carcinogen Risk Assess-
+ment, 61 Fed. Reg. 17,960, 17,968/3 (1996).  Thus, either if 
+the evidence supports linearity, or if there is "insufficient" 
+evidence of nonlinearity, EPA assumes that if a substance 
+causes cancer at any exposure it will do so at every non-zero 
+exposure (though with cancer incidence declining with expo-
+sure).  But EPA acknowledges its authority "to establish 
+nonzero MCLGs for carcinogens if the scientific evidence" 
+indicates that a "safe threshold" exists.  See Final Rule, 63 
+Fed. Reg. at 69,401/2.  And petitioners here assume the 
+validity of the linear default assumption.
+
+     In 1996 Congress amended the SDWA, enshrining in the 
+statute a timetable previously set by EPA for rules relating 
+to disinfectants and disinfection byproducts associated with 
+water treatment.  42 U.S.C. s 300g-1(b)(2)(C);  Proposed 
+Rule:  National Primary Drinking Water Regulations:  Moni-
+toring Requirements for Public Drinking Water Supplies, 59 
+Fed. Reg. 6332, 6361 (1994).  The relevant deadline here was 
+November 1998.  In preparation for the necessary rulemak-
+ing EPA formed an advisory group in 1997 whose purpose 
+was "to collect, share, and analyze new information and data, 
+as well as to build consensus on the regulatory implications of 
+this new information."  Notice of Data Availability:  National 
+Primary Drinking Water Regulations:  Interim Enhanced 
+Surface Water Treatment Rule, 62 Fed. Reg. 59,486, 59,491/1 
+(1997).
+
+     On the basis of the committee's findings and recommenda-
+tions, EPA in November 1997 published a Notice of Data 
+Availability ("NODA"), 62 Fed. Reg. 59,388 (1997), and in 
+1998 it published a second NODA specific to chloroform, 63 
+Fed. Reg. 15,674 (1998).  Among the findings it discussed 
+were those arrived at by a panel of experts organized by the 
+International Life Sciences Institute.  The panel, whose work 
+was subject to independent peer review and was convened 
+under the auspices of the EPA, concluded on the basis of 
+chloroform's mode of action that although it was "a likely 
+
+carcinogen to humans above a certain dose range, [it was] 
+unlikely to be carcinogenic below a certain dose range."  Id. 
+at 15,685/1.  The panel recommended "the nonlinear [ ] or 
+margin of exposure approach [as] the preferred approach to 
+quantifying the cancer risk associated with chloroform expo-
+sure."  Id. at 15,686/1.
+
+     EPA agreed.  It said that "[a]lthough the precise mecha-
+nism of chloroform carcinogenicity is not established," never-
+theless "the chloroform dose-response should be considered 
+nonlinear."  Id. at 15,685/3.  Rather than operating through 
+effects on DNA, which is consistent with linearity, chloroform 
+evidently works through "cytotoxicity" (i.e., damage to the 
+cells) followed by regenerative cell proliferation.  Id.  Em-
+ploying the threshold approach that it found was entailed by 
+chloroform's mode of action, EPA then calculated an MCLG 
+of 600 parts per billion ("ppb"), based solely on carcinogenici-
+ty.  Id. at 15,686/2.  This level built in a 1000-fold margin of 
+error in relation to the maximum safe dosage implied from 
+the animal studies used by EPA.  Id.  But because even 
+lower chlorine doses cause liver toxicity (a non-cancer effect), 
+EPA proposed an MCLG of 300 ppb.  Id.
+
+     When EPA came to promulgate its final rule in December 
+1998, however, its MCLG was again zero.  Final Rule, 63 
+Fed. Reg. at 69,398/3.  It stuck with 1994's zero level despite 
+its explicit statement that it now "believe[d] that the underly-
+ing science for using a nonlinear extrapolation approach to 
+evaluate the carcinogenic risk from chloroform is well found-
+ed."  Id. at 69,401/1.  It justified the action on the basis that 
+"additional deliberations with the Agency's SAB on the ana-
+lytical approach used" and on the underlying scientific evi-
+dence were needed "prior to departing from a long-held EPA 
+policy."  Id. at 69,399-69,401.  It could not complete such 
+additional deliberations by the November 1998 statutory 
+deadline, and, moreover, the rulemaking would not affect the 
+enforceable MCL for TTHMs.
+
+     After briefing on the petition for review at issue here, but 
+before oral argument, EPA moved for a voluntary remand to 
+consider the SAB report on chloroform that would soon be 
+
+available.  But EPA made no offer to vacate the rule;  thus 
+EPA's proposal would have left petitioners subject to a rule 
+they claimed was invalid.  We denied the motion.
+
+     On February 11, 2000, the day of oral argument, EPA 
+released a draft report by the SAB on chloroform.  See 
+Draft, Chloroform Risk Assessment Review, February 10, 
+2000 (visited March 27, 2000) <http:  //www.epa.gov/ 
+science1/chlod00x.pdf>.  The report concluded that chloro-
+form exhibits a "cytotoxic" mode of action.  Such a mode of 
+action (unlike a "genotoxic" mechanism, which acts directly on 
+a cell's DNA) involves no carcinogenic effects at low doses;  
+thus a nonlinear approach is "scientifically reasonable."  Id. 
+at 17.  After consideration of the draft SAB report, EPA 
+stated that it "no longer believes that it should continue to 
+defend its original decision," and moved that this court vacate 
+the MCLG.  Motion for Vacatur, at 2 (February 24, 2000).
+
+                             *  *  *
+
+     EPA in its motion to vacate concedes that "the discussion 
+on standing at oral argument indicates that petitioners may 
+indeed meet minimum requirements for standing," a neces-
+sary precursor to our providing any relief beyond the vacatur 
+proposed by EPA.  Given our independent duty to be sure of 
+our jurisdiction, Floyd v. District of Columbia, 129 F.3d 152, 
+155 (D.C. Cir. 1997), we address EPA's now evidently aban-
+doned jurisdictional arguments.
+
+     EPA's brief contends that petitioners lack Article III 
+standing because they have not demonstrated injury-in-fact 
+from the MCLG.  Lujan v. Defenders of Wildlife, 504 U.S. 
+555, 560-61 (1992).  We have already held, in International 
+Fabricare Inst. v. EPA, 972 F.2d 384, 390 (D.C. Cir. 1992), 
+that an association of dry cleaning businesses had standing to 
+attack EPA's setting of a zero MCLG for a contaminant used 
+in their business.  There we pointed to the MCLG's link to 
+risks of "greater liability under the Comprehensive Environ-
+mental Response, Compensation and Liability Act ('CERC-
+LA'), 42 U.S.C. ss 9601-9675," id., which under some circum-
+stances may entail remedial action achieving "a level or 
+
+standard of control which at least attains Maximum Contami-
+nant Level Goals established under the Safe Drinking Water 
+Act," 42 U.S.C. s 9621(d)(2)(A).
+
+     EPA challenges petitioners' theory on several grounds.  
+First, it says, its regulations provide that when a zero MCLG 
+is set, it is the MCL, not the MCLG, that is used to set 
+cleanup standards.  40 CFR s 300.430(e)(2)(i)(C).  In this 
+case, says EPA, the MCL set for TTHMs would control.  
+Since there is no suggestion that the effective MCL will 
+imminently be affected by the zero MCLG, and petitioners 
+have not challenged the MCL for TTHMs, EPA argues that 
+they have failed to demonstrate an injury.
+
+     But the MCL for TTHMs is in fact not dispositive in 
+setting the cleanup standard for chloroform.  EPA has in the 
+past rejected use of the TTHM MCL for that purpose, saying 
+that that MCL is "based on an analysis evaluating the health 
+benefits of chlorinating public drinking water supplies against 
+the detrimental effects of the production of trihalomethanes 
+as a result of chlorinating those supplies."  U.S. EPA, Super-
+fund Record of Decision, Stringfellow Hazardous Waste Site, 
+at 25 (Sept. 30, 1990).  Instead, EPA has set chloroform 
+cleanup goals as low as 6 ppb (far below the 100 ppb MCL for 
+TTHMs), based on an assumption that chloroform poses a 
+risk of cancer at any dose, but that 6 ppb would yield an 
+acceptable cancer risk of one-in-a-million.  Id.  Thus EPA's 
+actual practice belies its claims here as to the inconsequential-
+ity of the chloroform MCLG.
+
+     EPA also argues that unlike the petitioners in Internation-
+al Fabricare, neither petitioners nor their members here have 
+yet been subjected to cleanup costs for chloroform contamina-
+tion, and thus have not demonstrated a "genuine threat" of 
+CERCLA liability.  EPA's Br. at 21.  But in a forward-
+looking suit the petitioners' subjection to past injury is rele-
+vant primarily as it may shed light on whether the challenged 
+action has a "substantial probability" of causing injury.  Flor-
+ida Audubon Soc'y v. Bentsen, 94 F.3d 658, 666 (D.C. Cir. 
+1996) (en banc).  CERCLA imposes joint and several liability 
+on "any person who by contract, agreement, or otherwise 
+
+arranged for disposal or treatment ... of hazardous sub-
+stances owned or possessed by such person."  42 U.S.C. 
+s 9607(a)(3).  In light of petitioners' contention that they face 
+liability "for the cleanup of chloroform at Superfund sites 
+across the country," Petitioners' Reply Br. at 16, we find it at 
+least substantially probable that a zero MCLG, as compared 
+with a nonzero one, will expose them to higher cleanup costs.
+
+                             *  *  *
+
+     Before turning to the merits of petitioners' claim, we note 
+EPA's contention that its motion to vacate obviates the "need 
+for the Court to issue an opinion."  Motion for Vacatur, at 3.  
+But we have no reason to believe that mere vacatur provides 
+an adequate remedy if, as we ultimately conclude, EPA's 
+action was unlawful.  Petitioners request that we instruct 
+EPA to "promulgate a non-zero MCLG using the best avail-
+able peer-reviewed science."  Petitioners' Initial Br. at 34.  
+But EPA has not indicated an intention to take such action 
+upon vacatur.  Moreover, EPA makes no claim that the 1994 
+zero MCLG would not be automatically revived by vacatur of 
+the 1998 rule.  Our agreement with the petitioners on the 
+rule's lawfulness will thus bring issues of remedy into play.
+
+     On the merits petitioners argue that EPA's decision to 
+adopt a zero MCLG in the face of scientific evidence estab-
+lishing that chloroform is a threshold carcinogen was inconsis-
+tent with the Safe Drinking Water Act.  Section 
+300g-1(b)(3)(A) of the Act states unequivocally that "to the 
+degree that an Agency action is based on science, the Admin-
+istrator shall use ... the best available, peer-reviewed science 
+and supporting studies conducted in accordance with sound 
+and objective scientific practices."  In promulgating a zero 
+MCLG for chloroform EPA openly overrode the "best avail-
+able" scientific evidence, which suggested that chloroform is a 
+threshold carcinogen.
+
+     EPA provides several arguments in defense of its action.  
+First, it argues that to establish a non-zero MCLG would be a 
+"precedential step," that represents "a major change in the 
+substance of regulatory decisions related to chloroform."  
+
+EPA's Br. at 28-29.  We do not doubt that adopting a 
+nonzero MCLG is a significant step, one which departs from 
+previous practice.  But this is a change in result, not in 
+policy.  The change in outcome occurs simply as a result of 
+steadfast application of the relevant rules:  first, the statutory 
+mandate to set MCLGs at "the level at which no known or 
+anticipated adverse effect on the health of persons occur," 42 
+U.S.C. s 300g-1(b)(4)(A), as determined on the basis of the 
+"best available" evidence;  and second, EPA's Carcinogen 
+Risk Assessment guidelines, stating that when "adequate data 
+on mode of action show that linearity is not the most reason-
+able working judgment and provide sufficient evidence to 
+support a nonlinear mode of action," the default assumption 
+of linearity drops out.  Proposed Guidelines for Carcinogen 
+Risk Assessment, 61 Fed. Reg. at 17,969/1.  The fact that 
+EPA has arrived at a novel, even politically charged, outcome 
+is of no significance either for its statutory obligation or for 
+fulfillment of its adopted policy.
+
+     Second, and similarly, EPA supports its action on the basis 
+that "it could not complete the deliberations with the SAB" 
+before the November 1998 deadline.  EPA's Br. at 29;  Final 
+Rule, 63 Fed. Reg. at 69,399/1.  But however desirable it may 
+be for EPA to consult an SAB and even to revise its conclu-
+sion in the future, that is no reason for acting against its own 
+science findings in the meantime.  The statute requires the 
+agency to take into account the "best available" evidence.  42 
+U.S.C. s 300g-1(b)(3)(A) (emphasis added).  EPA cannot re-
+ject the "best available" evidence simply because of the 
+possibility of contradiction in the future by evidence unavail-
+able at the time of action--a possibility that will always be 
+present.
+
+     Third, EPA justifies its decision not to adopt a nonzero 
+MCLG on the basis that it had to reevaluate one of its 
+underlying technical assumptions--that ingestion of chloro-
+form in drinking water accounts for 80% of total exposure to 
+chloroform.  As it stated in its final rule, EPA is currently 
+considering use of a 20% relative source contribution for 
+drinking water, which would lower the MCLG to 70 ppb.  
+Final Rule, 63 Fed. Reg. at 69,399/3.  Along these lines, 
+
+EPA's counsel conceded at oral argument that a science-
+based MCLG would fall into the interval between 70 and 300 
+ppb.  The uncertainty on this issue may have provided sup-
+port for choosing the lowest nonzero MCLG from within that 
+interval, but none for choosing an MCLG outside the range of 
+uncertainty.
+
+     Fourth, EPA argues that since the final MCL for TTHMs 
+is unaffected, the MCLG has no actual effect, and thus EPA's 
+decision to publish an MCLG of zero pending further review 
+of the scientific evidence was entirely reasonable.  In light of 
+our analysis of the standing issue, the no-effect premise is 
+plainly incorrect.  Even if it were correct, we fail to see why 
+it would justify EPA's disregard of its own scientific findings.
+
+     Finally, EPA argues that its statements in the 1998 Notice 
+of Data Availability do not represent its "ultimate conclu-
+sions" with respect to chloroform, and thus in adopting a zero 
+MCLG it did not reject what it considered to be the "best 
+available" evidence.  In fact, the zero MCLG merely repre-
+sented an "interim risk management decision" pending the 
+final SAB report.  EPA's Br. at 35.  We find these semantic 
+somersaults pointless.  First, whether EPA has adopted its 
+1998 NODA as its "ultimate conclusion" is irrelevant to 
+whether it represented the "best available" evidence.  All 
+scientific conclusions are subject to some doubt;  future, hypo-
+thetical findings always have the potential to resolve the 
+doubt (the new resolution itself being subject, of course, to 
+falsification by later findings).  What is significant is Con-
+gress's requirement that the action be taken on the basis of 
+the best available evidence at the time of the rulemaking.  
+The word "available" would be senseless if construed to mean 
+"expected to be available at some future date."  Second, EPA 
+cannot avoid this result by dubbing its action "interim."  The 
+statute applies broadly to any "[a]gency action";  whether the 
+action is interim is irrelevant.
+
+                             *  *  *
+
+     Although we agree with petitioners that the zero MCLG for 
+chloroform is inconsistent with the Safe Drinking Water Act 
+
+and that it should be vacated, we are unclear as to what 
+further remedy petitioners seek.  In their opening brief 
+petitioners requested that this Court instruct EPA to "pro-
+mulgate a non-zero MCLG using the best available peer-
+reviewed science as identified in the March 31, 1998 NODA 
+and the December 16, 1998 Final Rule on an expeditious 
+timetable to be specified by the Court."  Petitioners' Initial 
+Br. at 34.  At oral argument, however, counsel for petitioners 
+conceded that this request was a misstatement, and that EPA 
+should be allowed, and required, to consider the new SAB 
+report as well.  Further, the consequences of simple vacatur 
+are themselves unclear.  Accordingly, we will schedule brief-
+ing on the parties' positions as to remedy.
+
+     Finding the Agency's December 1998 rule adopting a zero 
+MCLG for chloroform to be arbitrary and capricious and in 
+excess of statutory authority, see 5 U.S.C. s 706(2)(A) & (C), 
+we vacate the rule.  A separate order on briefing additional 
+remedies will issue shortly.
+
+                                                      So ordered.
+
+        

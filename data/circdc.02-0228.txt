@@ -1,0 +1,530 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 9, 2002   Decided October 22, 2002 
+
+                           No. 01-1198
+
+                         WorldCom, Inc., 
+                            Appellant
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+                Verizon New England Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                     Nos. 01-1206 and 01-1209
+
+                   Appeals of an Order of the 
+                Federal Communications Commission
+
+     Mark D. Schneider argued the cause for appellants and 
+intervenor AT&T Corp.  With him on the briefs were Thom-
+
+as F. O'Neil III, William Single IV, Karlen J. Reed, Assis-
+tant Attorney General, Attorney General's Office of Common-
+wealth of Massachusetts, Charles C. Hunter, Catherine M. 
+Hannan, David W. Carpenter, Mark E. Haddad, and David 
+L. Lawson.  Mark C. Rosenblum and Peter D. Keisler en-
+tered appearances.
+
+     James M. Carr, Counsel, Federal Communications Com-
+mission, argued the cause for appellee.  With him on the brief 
+were John A. Rogovin, Deputy General Counsel, and John E. 
+Ingle, Deputy Associate General Counsel.
+
+     Michael E. Glover argued the cause for intervenors Veri-
+zon New England Inc., et al.  With him on the brief were 
+Mark L. Evans, Donna M. Epps, Colin S. Stretch, and Scott 
+H. Angstreich.
+
+     William P. Agee and Albert P. Halprin were on the brief 
+for amicus curiae Massachusetts Department of Telecommu-
+nications and Technology, urging affirmance.
+
+     Before:  Tatel and Garland, Circuit Judges, and Williams, 
+Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  On January 16, 2001 
+Verizon submitted an application to the Federal Communica-
+tions Commission under s 271 of the Telecommunications Act 
+of 1996, 47 U.S.C. s 271, seeking authority to offer long-
+distance service to customers in Massachusetts.  The Com-
+mission approved the application on April 16, 2001, just within 
+the statutory 90-day time limit.  In Re Application of Veri-
+zon, et al. for Authorization to Provide In-Region, Inter-
+LATA Services in Massachusetts, 16 FCC Rcd 8988 (2001) 
+("Order").  WorldCom, AT&T and a number of similarly 
+situated firms acting through a trade association ("appellants" 
+or "WorldCom") challenge the approval.  The parties' main 
+dispute revolves around the Commission's conclusion that 
+Verizon's rates for unbundled network elements ("UNEs") 
+
+complied with the "TELRIC" standard (total-element long 
+run incremental cost).  Appellants' challenge in essence at-
+tacks as unreasonable the Commission's use in combination of 
+two devices that it had employed separately, one in its s 271 
+approval for Oklahoma, which we upheld in Sprint Comm. Co. 
+v. FCC, 274 F.3d 549 (D.C. Cir. 2001), and the other in its 
+s 271 approval for New York, which we upheld in AT&T 
+Corp. v FCC, 220 F.3d 607 (D.C. Cir. 2000).  We are not 
+persuaded.  As for the two remaining issues, one requires a 
+remand because the relevant record is not materially distin-
+guishable from that in Sprint;  we lack jurisdiction over the 
+other.
+
+                             *  *  *
+
+     Because our opinions in AT&T and Sprint set out the 
+statutory background in some detail, our treatment here will 
+be brief.  The decree settling the AT&T antitrust litigation, 
+the Modification of Final Judgment ("MFJ"), see United 
+States v. American Telephone and Telegraph Co., 552 
+F. Supp. 131 (D.D.C. 1982), aff'd sub nom. Maryland v. 
+United States, 460 U.S. 1001 (1983), split the sale of long-
+distance services from the sale of local telephone services, so 
+that the Bell Operating Companies (spun off from AT&T by 
+the MFJ) could provide local service but were barred from 
+offering long-distance service in their local markets.  But 
+s 271 of the 1996 Act allows those firms--now, together with 
+their successors, commonly known as incumbent local ex-
+change carriers or "ILECs"--to secure FCC approval to sell 
+long-distance service to customers in the region for which 
+they are the dominant local-service providers.  To receive 
+s 271 approval an ILEC must show (among many other 
+things) compliance with a list of fourteen conditions, termed 
+the "competitive checklist," designed to ensure that an ILEC 
+will be permitted to sell long-distance service in its local 
+region only when it has opened up the local service market to 
+competition.  47 U.S.C. s 271(c)(2)(B).
+
+     One of the fourteen items on the checklist requires an 
+ILEC to offer access to "network elements" needed by 
+
+competitors to provide telecommunications service.  See id. 
+at s 251(c)(3) (incorporated into the competitive checklist by 
+s 271(c)(2)(B)(ii)).  These elements, the unbundled network 
+elements or UNEs referred to earlier, must be offered to 
+competitive local exchange carriers ("CLECs") at rates that 
+are "establish[ed]" by state regulatory agencies pursuant to a 
+"pricing methodology" prescribed by the FCC.  See AT&T 
+Corp. v. Iowa Utilities Bd., 525 U.S. 366, 383 (1999).  The 
+methodology chosen by the Commission is called TELRIC, 
+which requires that rates be based on "the cost of operating a 
+hypothetical network built with the most efficient technology 
+available."  Id. at 374 n.3.  See also Verizon Communica-
+tions, Inc. v. FCC, 122 S. Ct. 1646 (2002) (upholding the 
+TELRIC standard).
+
+     Application of the TELRIC standard has proved complex, 
+involving detailed fact-finding over years of litigation in state 
+agencies.  This complexity has two important consequences 
+for this case.  First, because the FCC has only 90 days to 
+approve or reject a s 271 application, it cannot independently 
+determine the TELRIC compliance of an ILEC's UNE rates.  
+Rather, the FCC defers to the determinations of the state 
+agencies who "possess[ ] a considerable degree of expertise" 
+and who typically perform "a significant amount of back-
+ground work" during the rate determinations.  AT&T, 220 
+F.3d at 616.  Thus, the FCC need only ensure that the state 
+proceedings "comply with basic TELRIC principles" and are 
+not infected with clear factual errors so "substantial that the 
+end result falls outside of the range that the reasonable 
+application of TELRIC principles would produce."  Id. at 
+615-16.  Second, the Commission may base its finding of 
+TELRIC compliance on a comparison of the disputed rates 
+with those of a neighboring state which it had already ap-
+proved under s 271, provided that the applicant can demon-
+strate that local costs were at or above those in the bench-
+mark state.  See Joint Application by SBC Communications, 
+Inc. et al. for Provision of In-Region InterLATA Services in 
+Kansas and Oklahoma, 16 FCC Rcd 6237 (2001) at p p 82-87 
+(determining that the Oklahoma loop charges were TELRIC-
+
+compliant based on a comparison with previously approved 
+Texas loop charges), aff'd, Sprint, 274 F.3d at 561.
+
+     The Massachusetts s 271 controversy began when Verizon 
+filed an initial application in September 2000.  Possibly be-
+cause of various criticisms, including FCC concern over its 
+UNE pricing, it withdrew the application in December.  But 
+before doing so it filed a tariff lowering its UNE rates to 
+levels substantially equivalent to the rates offered by Bell 
+Atlantic (Verizon's name before its merger with GTE) in New 
+York, which had already secured Commission approval under 
+s 271.  See AT&T, 220 F.3d at 611-16.
+
+     These New York rates had themselves been the subject of 
+challenge.  CLECs had offered evidence--both before the 
+New York Public Service Commission ("NYPSC") and the 
+FCC (during the s 271 proceeding)--that Bell Atlantic had 
+understated the size of the discounts it received on certain 
+switch purchases, with the result that its UNE rates might in 
+fact not comply with TELRIC.  The NYPSC re-opened its 
+proceedings to inquire into the claims, but the Commission 
+nonetheless approved the s 271 application.  In AT&T we 
+rejected the CLECs' attack on the approval, finding that such 
+newly discovered evidence was not in itself enough to upset 
+an otherwise valid approval.  220 F.3d at 617-18.  In a move 
+loosely paralleling that of the NYPSC, the Massachusetts 
+Department of Telecommunications and Energy ("DTE") in 
+January 2002 embarked on its scheduled, quinquennial review 
+of Verizon's UNE rates.  Thus, as in New York, at the times 
+the relevant s 271 applications were pending before the FCC, 
+the disputed UNE rates were under challenge and review in 
+the state agency with immediate authority.
+
+     WorldCom's leading claim is even if the New York rates 
+were acceptable at the time, their age and their errors made 
+them inadequate as benchmarks, so that the Massachusetts 
+s 271 approval was arbitrary and capricious.  In addition, 
+they say that it was arbitrary and capricious for the FCC to 
+dismiss their argument that the Massachusetts UNE rates 
+created a "price squeeze," i.e., were so high that a CLEC 
+could not use UNEs for profitable sale of local service.  
+
+Finally, WorldCom argues that the s 271 application was 
+fatally defective because, at the time it was filed, Verizon was 
+not offering its advanced services at resale discounts, in 
+contravention of item 14 on the competitive checklist, see 
+s 271(c)(2)(B)(xiv).
+
+          1. Reasonableness of the New York Benchmark
+
+     WorldCom does not claim that there is anything inherently 
+flawed in the Commission's use of benchmarking (which we 
+upheld in Sprint), even where the previously approved rates 
+had been seriously called into question, as was true of the 
+rates approved in the New York s 271 process (which we 
+upheld in AT&T).  Rather, it contends that the Commission's 
+deference under AT&T is owed to a process, not to a result;  
+deference by the Commission is therefore inappropriate 
+where the rates under review were adopted by a state agency 
+(that of Massachusetts) that did not conduct its own fact-
+finding.  Second, WorldCom argues that if the FCC chooses 
+to use a benchmark to evaluate the UNE rates before it in 
+the s 271 proceeding, it must ensure that the chosen bench-
+mark is reasonable, based on all available evidence.
+
+     WorldCom's first point completely overlooks the facts of 
+Sprint.  There the ILEC had simply given a certain class of 
+Oklahoma charges "an arbitrary 25% 'haircut,' " 274 F.3d at 
+558, which had the effect of bringing them into line with rates 
+approved by the Commission for Texas, id. at 561.  We see 
+no principled distinction between Oklahoma's "process," ac-
+cepting arbitrarily trimmed rates that matched ones approved 
+in Texas (and blessed by the Commission under s 271) and 
+Massachusetts's similar adoption of ones matching those ap-
+proved in New York (and similarly blessed by the Commis-
+sion).
+
+     Moreover, many of the elements of the "process" that 
+merited deference under AT&T are present here, both in 
+Massachusetts process itself and the Commission's clear rec-
+ognition of the link between the ongoing New York proceed-
+ings and the Massachusetts rates.  WorldCom points to the 
+critical role of the "active review and modification of Bell 
+Atlantic's proposed [UNE] prices."  In re Application by Bell 
+
+Atlantic New York to Provide In-Region, InterLATA Ser-
+vice, 15 FCC Rcd 3953 (2000), at p 238.  But such active 
+review is present here as well.  The NYPSC is itself continu-
+ing to review its own UNE prices, and as the FCC stated in 
+the Order, New York's rate revisions could "undermine Veri-
+zon's reliance on those [old] rates in Massachusetts and its 
+compliance with the requirements of section 271," if the 
+revisions were not also adopted in Massachusetts.  16 FCC 
+Rcd 8988, at p 30.  In addition, the Commission noted that 
+DTE itself was "endeavoring to reset UNE rates" and ob-
+served that if "prices are not set in accordance with our rules 
+and the Act, [the Commission] retain[s] the ability ... to take 
+appropriate enforcement action."  Id.  In light of these pre-
+cautions, it was perfectly reasonable for the Commission to 
+review the UNE rates in Massachusetts under the same 
+deferential standard as it used in evaluating rates for New 
+York and Oklahoma.
+
+     But WorldCom also argues that the Commission's chosen 
+benchmark was unsuitable, having become radically detached 
+from TELRIC.  The causes of such detachment, according to 
+WorldCom, range from the age of the rates (rates that passed 
+muster in the December, 1999 s 271 proceeding for New 
+York were more than a year older in April 2001), the flaws 
+that had infected the rates from the beginning, and additional 
+evidence brought to bear against them not present in the 
+New York determination.
+
+     At some point, WorldCom's argument plainly must become 
+a winner.  In a market with falling costs, ancient UNE rates 
+cannot serve as a valid benchmark.  Nor could ones that had 
+been convincingly shown, for example, to have been based on 
+fraudulent ILEC submissions.  Moreover, WorldCom is sure-
+ly right to suggest that a challenger might tender evidence of 
+benchmark unreasonableness so strong as to preclude FCC 
+approval without a hearing.
+
+     To the extent, however, that WorldCom argues simply that 
+the Commission could have chosen a better benchmark, it 
+poses the wrong issue.  The FCC need not choose the 
+"optimal" benchmark, only a reasonable one.  Nor can World-
+
+Com expect the s 271 process to grow into a full-scale rate-
+making on the part of the FCC, if for no other reason than 
+the time constraints imposed by the 90-day limit.  The FCC 
+is thus under no duty to provide a detailed, point-by-point 
+explanation of why it rejected the claim that use of the 
+benchmark was improvident.  Rather, the record need only 
+show that the FCC reasonably concluded that it had, in light 
+of appellants' claims and proffered evidence, reasonable 
+grounds to be satisfied that the disputed rates were unlikely 
+to exceed the range of TELRIC compliance.  As we held in 
+AT&T, 220 F.3d at 616, and reiterated in Sprint, 275 F.3d at 
+555, TELRIC is not a single rate but a ratemaking methodol-
+ogy that may yield a rather broad range of rates.  We believe 
+that here the Commission's review of the new evidence was 
+enough.
+
+     WorldCom, for instance, points to comparative studies that 
+show that other states have lower UNE rates than New York.  
+But if TELRIC implies a range of rates--a point on which 
+appellants themselves rely in pressing their price squeeze 
+argument--then such variation by no means shows a lack of 
+TELRIC compliance.  WorldCom also provides an alternative 
+cost study in support of their position, but this study was 
+conducted in 1996, was rejected by DTE when presented to it 
+in 1996, and does not appear to have ever been accepted by 
+the FCC.  At best, this study proves that the Commission 
+and appellants have different opinions on the best way to 
+determine UNE prices;  our deference, of course, is owed to 
+the Commission.
+
+     Appellants also make much of the fact that the New York 
+rates were the oldest UNE rates in the nation, and suggest 
+that they were therefore outdated.  In addition, they point to 
+evidence of a decline in switch costs over time.  While the 
+New York rate may have exceeded theoretically perfect 
+TELRIC levels when the Massachusetts Order was issued, 
+such a lag does not render a rate invalid.  Indeed, when 
+element costs are falling, such temporary deviations, or regu-
+latory lags, are both unavoidable and perhaps even desirable.  
+In AT&T we recognized that a state's TELRIC rates could 
+not always reflect the most recently available information, 
+
+since rate determinations consume substantial periods of time 
+and cannot be constantly undertaken.  220 F.3d at 617-18.  
+Indeed, a process of Penelope-like unraveling and reinvention 
+would, like hers, prove endless.  And in upholding TELRIC, 
+the Supreme Court affirmatively invoked the likelihood of a 
+regulatory lag, saying that such a lag would prevent TELRIC 
+prices from dropping so low as to unduly tempt CLECs to 
+rely on ILEC-supplied UNEs rather than build their own 
+facilities.  Verizon, 122 S. Ct. at 1669-70.
+
+     So the mere age of a rate doesn't render the FCC's 
+reliance on it unreasonable;  we can reverse the Commission's 
+judgment only if it sufficiently disregarded the issue of the 
+rate's age so as to adopt rates that were unreasonably 
+outdated.  This, we are satisfied, the Commission did not do.  
+While it is true that the Commission made no explicit findings 
+that the New York rates were in line with current costs, it 
+adopted what is likely a far more workable approach to the 
+problem of timeliness--namely, reliance on the state's own 
+processes of rate revision and correction.  As noted above, 
+the Commission observed that Verizon's s 271 compliance in 
+Massachusetts would be undermined if its UNE rates fell out 
+of line with TELRIC levels, as determined by the active rate 
+review processes under way in New York and Massachusetts.  
+16 FCC Rcd 8988, at p p 29, 30, 33, 35.  Unless these determi-
+nations were themselves unsupported or arbitrary and capri-
+cious--and we see no evidence that they are--nothing else is 
+required of the Commission on this issue.
+
+     Apart from suggestions that the New York rates were no 
+longer current, WorldCom points to additional flaws in the 
+rates themselves.  To a large extent these claims simply 
+duplicate the assertions of inaccuracy that were at issue in 
+AT&T.  To that extent, obviously, appellants are simply 
+inviting us to reject the conclusion we reached there--that 
+the process of administrative correction under way in New 
+York was enough to assure adequate TELRIC compliance for 
+purposes of s 271--an invitation we could not accept even if 
+we thought it wise (which we don't).  In fact, it turns out here 
+that in January 2002, after the Commission granted the 
+Massachusetts s 271 approval, the NYPSC issued an order in 
+
+large measure accepting the CLECs' position on the switch 
+discounts, resolving several other issues in their favor, and 
+requiring a reduction of the New York rates by more than 
+50%.  See Proceeding on Motion of the Commission to 
+Examine New York Telephone Company's Rates for Unbun-
+dled Network Elements, Order on Unbundled Network Ele-
+ment Rates, Case 98-C-1357 (NYPSC Jan 28. 2002).  And 
+the Massachusetts DTE followed suit with an order broadly 
+accepting the CLECs' claims and in all likelihood leading to a 
+comparable reduction.  See Investigation by the Department 
+of Telecommunications and Energy on its Own Motion in 
+the Appropriate Pricing, D.T.E. 01-20 (released July 11, 
+2002).  These findings, obviously unavailable to the Commis-
+sion at the time of its decision, seem more to establish the 
+effectiveness of the process of agency correction on which it 
+relied--rough though it may be--rather than a basic flaw in 
+its approach.
+
+     WorldCom tries to distinguish our ruling in AT&T by 
+noting that when AT&T was decided, the flaws at issue were 
+thought to be small and difficult to recalculate, whereas they 
+are now known to be large and easily recalculable.  We note, 
+however, that WorldCom has not even tried to take us 
+through the math on this calculation;  more tellingly, its claim 
+relies on data collected by the Commission for the purposes 
+of implementing its duties as to the Universal Service Fund--
+information that the FCC insists is unreliable for the determi-
+nation of UNE rates.  In AT&T, we held that this single 
+errant cost input value did not justify a finding that basic 
+TELRIC principles had been violated, and the proffer of 
+additional evidence that is at best uncertain and highly con-
+testable is not enough to justify a different conclusion.
+
+     More importantly, though, this attempted distinction miss-
+es the central point of our prior holding in AT&T:  that it is 
+reasonable for the FCC to rely on the states' periodic rate 
+revision process as a means of correcting flaws in adopted 
+rates.  Indeed, if there now exists a database of switch 
+purchases that provides greater accuracy for use in the 
+TELRIC cost model, as WorldCom claims, it seems fair to 
+assume that this new information was incorporated in the new 
+
+rates promulgated by NYPSC and DTE, or will be if World-
+Com seeks judicial review or invokes the FCC's own monitor-
+ing process under 47 U.S.C. s 271(d)(6).  WorldCom may 
+disagree with the wisdom of the strategy the Commission 
+adopted here, and may be skeptical that the states' rate 
+revision processes will keep their rates within the range of 
+TELRIC compliance, but it hasn't demonstrated that the 
+strategy is unreasonable.
+
+     WorldCom also notes that the New York rate revision 
+procedure, unlike the one recently undertaken in Massachu-
+setts, ordered refunds to correct for possibly incorrect cost 
+inputs.  But we didn't rely on the refund procedure in our 
+decision in AT&T, and for good reason:  state rate-setting 
+procedures are complex systems aimed at balancing the com-
+peting interests of customers and investors, and we will not 
+upset that balance ad hoc by requiring refunds (or requiring 
+the Commission to do so) unless they are clearly necessary to 
+render the rates TELRIC-compliant.  Such was not the case 
+in AT&T, and it is not the case here.  As for the last attempt 
+to distinguish AT&T--the claim that retail rates are so low in 
+Massachusetts that these UNE rates would prove to be a 
+greater entry barrier to CLECs than they did in New York--
+we note that this issue properly relates to WorldCom's price 
+squeeze argument discussed below.
+
+          2. Possible Price Squeeze and the Public Interest
+
+     Appellants argue, as did their counterparts in Sprint, 274 
+F.3d at 554-56, that the FCC failed to consider their claim 
+that the ILEC's UNE rates would create a "price squeeze," 
+i.e., prices for CLECs' inputs so high as to largely disable 
+them from competing profitably in the local market with the 
+ILEC, the supplier of those inputs.  See, e.g., FPC v. Con-
+way Corp., 426 U.S. 271 (1976) (requiring agency to consider 
+price-squeeze challenges to an electric utility's proposed 
+wholesale rates).  Indeed, the FCC's justifications for not 
+considering this issue--briefly, that the "price-cost squeeze" 
+is irrelevant because s 271 directs the Commission only to 
+examine costs rather than profits;  that compliance with the 
+competitive checklist is enough to prove that the market has 
+
+been opened to competitive entry;  that any deficiencies in 
+actual local competition may well be due to individual ILEC 
+strategies;  and that the matter may turn largely on the level 
+of purely local rates that are entirely under the authority of 
+state regulators--are virtually identical to the rationales we 
+found inadequate in Sprint.  Compare Order, 16 FCC Rcd 
+8988, at p p 41, 234-35, with Sprint, 274 F.3d at 554-56.  The 
+rationales are no more convincing here than there.
+
+     The only apparent difference between the Order here and 
+the Kansas/Oklahoma Order remanded in Sprint is that here 
+the record indicates a higher volume of competitive entry.  
+See Order, 15 FCC Rcd 8988, at p 41 & n.112.  But this 
+evidence alone, unanalyzed, is not enough to discharge the 
+Commission's duty to assure that ILEC entry to the long-
+distance market is in the public interest.  After all, classic 
+price squeeze cases have never turned on a finding that 
+competition by the input-purchasing firms was absolutely 
+precluded.  See, e.g., Anaheim v. FERC, 941 F.2d. 1234, 1238 
+(D.C. Cir. 1991) (describing price squeeze inquiry as deter-
+mining whether the challenged conduct "has exerted any 
+anticompetitive effects" (emphasis added)).  Because of the 
+range of TELRIC-compliant UNE rates, a set of fully compli-
+ant rates might--under some analyses and policy judgments, 
+not addressed by the Commission in this record--impede 
+local competition enough to render a s 271 approval in con-
+travention of the "public interest."  Accordingly, we remand 
+the case for further consideration in the light of Sprint.
+
+          3. Provision of Advanced Services at Wholesale Rates
+
+     Appellants' final argument is that Verizon failed to satisfy 
+checklist item No. 14, see s 271(c)(2)(B)(xiv), in that it was 
+not, on the date of its application on January 16, 2001, 
+offering CLECs DSL and other advanced services at whole-
+sale rates.  In so doing Verizon had relied on a justification 
+that the Commission had formerly embraced, but that this 
+court rejected in Association of Communications Enterprises 
+v. FCC, 235 F.3d 662 (D.C. Cir. 2001).  That opinion was 
+issued on January 9, 2001, but the mandate issued only on 
+
+March 6, 2001.  In reliance on this delay in the mandate, the 
+Commission held that it would not consider Verizon's failure 
+to provide the services at wholesale rates, saying that Verizon 
+should not be faulted for complying "with a Commission order 
+in effect at the time of the application."  Order p 219 & n.707.
+
+     It is undisputed that three days before the issuance of the 
+Order here, Verizon (actually, its affiliate) had filed a tariff 
+that brought it into full compliance with checklist item 14.  At 
+oral argument counsel for appellants admitted that the issue 
+currently has no practical significance.  Although the issue 
+was discussed at oral argument in the context of possible 
+mootness, it appears that nothing has happened between the 
+initial filing of the suit and oral argument that might affect 
+the significance of Verizon's delay.  Thus we conclude that 
+any Commission error never inflicted an injury sufficient to 
+give WorldCom standing to bring the issue.  WorldCom's 
+half-hearted attempt to make out a theory that the issue was 
+"capable of repetition, yet evading review" is therefore inap-
+posite, as that familiar exception to mootness cannot confer 
+standing on a claim when injury in fact was missing at the 
+outset.  Friends of the Earth, Inc. v. Laidlaw Envtl. Services, 
+528 U.S. 167, 191 (2000).  In any case, the issue here does not 
+even qualify as "evading review" since the issue is clearly 
+capable of remedy if Verizon were to retract its resale 
+discounts in this case, or were to withhold resale discounts in 
+other states with respect to which it files a s 271 application.  
+Thus, no matter whether the issue is a matter of standing, 
+mootness or both, we are sure that the complete want of 
+effect in the real world deprives us of jurisdiction over the 
+intriguing question of how the distinction between opinion 
+and mandate might play out in this context.
+
+                             *  *  *
+
+     We remand the price squeeze issue to the FCC for further 
+consideration;  we dismiss the checklist item 14 issue for want 
+of jurisdiction;  and in all other respects we affirm the Com-
+mission Order.
+
+                                                                 So ordered.
+
+                                                                   

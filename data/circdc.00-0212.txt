@@ -1,0 +1,1781 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued April 24, 2000       Decided August 1, 2000 
+
+                           No. 99-1538
+
+                        AT&T Corporation, 
+                            Appellant
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+          Bell Atlantic, U S West Communications, Inc., 
+   Public Service Commission of the State of New York, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             99-1540
+
+                   Appeals of An Order of the 
+                Federal Communications Commission
+
+     David W. Carpenter argued the cause for appellants.  With 
+him on the briefs were Mark E. Haddad, Peter D. Keisler, 
+
+Daniel Meron, Mark C. Rosenblum, Roy E. Hoffinger, and 
+Jonathan Jacob Nadler.
+
+     Randall B. Lowe, Renee R. Crittendon, Russell M. Blau, 
+Mark J. Tauber, Michael D. Hays, J. G. Harrington, and 
+John D. Seiver were on the briefs for intervenors Prism 
+Communication Services, RCN Telecom Services, Competi-
+tive Telecommunications Commission, Close Call America, 
+Inc., and Global NAPs, Inc.
+
+     Jonathan E. Nuechterlein, Deputy General Counsel, Fed-
+eral Communications Commission, argued the cause for ap-
+pellee.  With him on the brief were Christopher J. Wright, 
+General Counsel, John E. Ingle, Deputy Associate General 
+Counsel, and James M. Carr, Counsel.  Joel Marcus, Coun-
+sel, entered an appearance.
+
+     Michael E. Glover argued the cause for intervenors Bell 
+Atlantic and U S West Communications, Inc.  With him on 
+the brief were Randal S. Milch, Edward Shakin, Mark L. 
+Evans, Henk Brands, William T. Lake, Lynn R. Charytan, 
+Dan L. Poole and Robert B. McKenna, Jr.  John H. Har-
+wood, II entered an appearance.
+
+     Lawrence G. Malone and Jonathan D. Feinberg were on 
+the brief for intervenor Public Service Commission of the 
+State of New York.
+
+     Before:  Randolph, Tatel and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Appellants challenge the Federal 
+Communications Commission's approval of an application by 
+Bell Atlantic to provide long distance service in New York, 
+arguing that the company failed to implement two elements of 
+a fourteen-point competitive checklist prescribed by the Tele-
+communications Act of 1996.  The FCC's approval of Bell 
+Atlantic's application was the first time since the 1982 break-
+up of AT&T that a Bell operating company received regulato-
+ry permission to offer long distance service in a state where it 
+provides local telephone service.  Finding no defect in the 
+Commission's analysis, we affirm in all respects.
+
+                                I
+
+     Historically, local telephone companies operated as monop-
+olies.  "States typically granted an exclusive franchise in each 
+local service area to a local exchange carrier (LEC), which 
+owned, among other things, the local loops (wires connecting 
+telephones to switches), the switches (equipment directing 
+calls to their destinations), and the transport trunks (wires 
+carrying calls between switches) that constitute a local ex-
+change network."  AT&T Corp. v. Iowa Util. Bd., 119 S. Ct. 
+721, 726 (1999).  For the better part of the twentieth century, 
+appellant AT&T Corporation provided most local and long 
+distance phone service throughout the country.
+
+     In 1974, the United States filed an antitrust action against 
+AT&T alleging "monopolization by the defendants with re-
+spect to a broad variety of telecommunications services and 
+equipment in violation of section 2 of the Sherman Act."  
+United States v. American Tel. and Tel. Co., 552 F. Supp 131, 
+139 (D.D.C. 1982), aff'd sub nom. Maryland v. United States, 
+460 U.S. 1001 (1983).  Following several years of discovery 
+and nearly a full year of trial, AT&T and the government 
+settled.  Known as the Modification of Final Judgment 
+("MFJ"), the resulting consent decree required AT&T to 
+divest itself of the twenty-two Bell operating companies, or 
+"BOCs," that provided local telephone service.
+
+     Consolidated into seven regional holding companies (four 
+today as a result of mergers), the BOCs continued to have a 
+monopoly in local phone service in their respective service 
+areas.  Because "there are many ways in which the company 
+controlling the local exchange monopoly could discriminate 
+against competitors in the interexchange [long distance] mar-
+ket," the MFJ prohibited BOCs from offering so-called "inter-
+LATA" or long distance service.  AT&T, 552 F. Supp. at 188.  
+The MFJ left open the possibility that BOCs could someday 
+provide long distance service, but only if they "los[t] the 
+ability to leverage their monopoly power into the competitive 
+[long distance] markets," either "as a result of technological 
+developments which eliminate the [BOCs'] local exchange 
+monopoly or from changes in the structures of the competi-
+
+tive markets."  Id. at 194.  No BOC ever obtained permission 
+to provide long distance telephone service under the MFJ.
+
+     This regulatory landscape remained largely unchanged un-
+til Congress enacted the Telecommunications Act of 1996, 
+Pub. L. No. 104-104, 110 Stat. 56.  That Act fundamentally 
+restructured local telephone markets by ending the BOCs' 
+local monopoly.  Designed to "open[ ] all telecommunications 
+markets to competition," the Act established "a pro-
+competitive, de-regulatory national policy framework" that 
+sought to eliminate the barriers that competitive local ex-
+change carriers, known as "CLECs," faced in offering local 
+telephone service.  S. Conf. Rep. No. 230, 104th Cong., 2d 
+Sess. 1 (1996).  To this end, the 1996 Act requires BOCs to 
+offer CLECs access to their local telephone networks in three 
+ways:  by selling local telephone services to competitors at 
+wholesale rates for resale to end users;  by leasing network 
+elements to competitors on an unbundled basis;  and by 
+interconnecting a requesting competitor's network with their 
+own.  See 47 U.S.C. s 251(c)(2)-(4).  The 1996 Act requires 
+BOCs to offer the latter two services on "rates, terms, and 
+conditions that are just, reasonable, and nondiscriminatory."  
+Id. s 251(c)(2)(D), (c)(3).  Through any of these three routes, 
+CLECs may offer local phone service in competition with 
+BOCs.
+
+     Added by the 1996 Act, section 252 of the Communications 
+Act of 1934 established procedures for CLECs to request and 
+obtain access to network elements and other facilities.  The 
+requesting carrier and the BOC "may" first attempt to nego-
+tiate an agreement governing the rates, terms, and conditions 
+under which the CLEC accesses the BOC's facilities.  See id. 
+s 252(a)(1).  If the parties reach an agreement, they must 
+submit it to the appropriate state commission for approval.  
+See id. s 252(a)(1), (e)(1).  If an agreement is not reached, 
+section 252 directs the state commission to arbitrate and 
+resolve the dispute.  Id. s 252(b)(1), (b)(4)(C).  The state 
+commission must "ensure that such resolution and conditions 
+meet the requirements of section 251" and "establish any 
+rates for interconnection, services, or network elements ac-
+cording to subsection (d) of this section."  Id. s 252(c)(1)-(2).  
+
+Subsection (d) requires rates to be "based on the cost ... of 
+providing the interconnection or network element (whichever 
+is applicable), and [ ] nondiscriminatory."  Id. s 252(d)(1)(A).  
+Subsection (f) permits a BOC to file with the appropriate 
+state commission "a statement of the terms and conditions 
+that such company generally offers within that State to 
+comply with the requirements of section 251."  Id. s 252(f)(1).  
+It also requires states to review such statements for compli-
+ance with sections 251 and 252(d).  Id. s 252(f)(2).
+
+     Section 601(a)(1) of the 1996 Act frees BOCs from all 
+restrictions and obligations imposed by the MFJ, including 
+the prohibition against providing long distance service.  Tele-
+communications Act of 1996 s 601(a)(1), Pub. L. No. 104-104, 
+110 Stat. at 143.  To encourage BOCs to open their markets 
+to competition as quickly as possible, the Act permits them to 
+provide "in-region" long distance service (long distance ser-
+vice originating in a state in which they offered local service 
+under the MFJ) if they demonstrate that they have opened 
+their local markets in that state to competition by fulfilling 
+the requirements of section 271.  See 47 U.S.C. s 271(b)(1).  
+BOCs may immediately begin providing "out-of-region" long 
+distance service (long distance service originating outside the 
+states in which the particular BOC offered local service under 
+the MFJ).  See id. s 271(b)(2).
+
+     Under section 271, a BOC wishing to provide in-region long 
+distance service must apply to the FCC for approval.  Id. 
+s 271(b)(1).  In its application, the BOC must first demon-
+strate that it has satisfied either section 271(c)(1)(A), known 
+as "Track A," or section 271(c)(1)(B), known as "Track B."  
+To satisfy Track A, the BOC must show that it has entered 
+into an agreement to provide access and interconnection to 
+"one or more unaffiliated competing providers of telephone 
+exchange service ... to residential and business subscribers."  
+Id. s 271(c)(1)(A).  If no such request for access and inter-
+connection has been made, Track B requires the BOC to show 
+that "a statement of the terms and conditions that the [BOC] 
+generally offers to provide such access and interconnection 
+has been approved or permitted to take effect by the State 
+commission."  Id. s 271(c)(1)(B).
+
+     Once the BOC has shown that it has satisfied either Track 
+A or Track B, it must establish that its offering of services to 
+CLECs meets the fourteen requirements of a "competitive 
+checklist" contained in section 271(c)(2)(B).  The checklist 
+incorporates by reference many of the substantive require-
+ments of the Act's local competition provisions, sections 251 
+and 252, described supra at 4-5.  See id. s 271(c)(2)(B).  For 
+example, the BOC must demonstrate that it provides "[i]nter-
+connection in accordance with the requirements of sections 
+251(c)(2) and 252(d)(1)";  "[n]ondiscriminatory access to net-
+work elements in accordance with the requirements of sec-
+tions 251(c)(3) and 252(d)(1)";  "[l]ocal loop transmission ... 
+unbundled from local switching";  "[l]ocal switching unbun-
+dled from transport, local loop transmission, or other ser-
+vices";  and "[n]ondiscriminatory access to [ ] 911 and E911 
+services [and] directory assistance services to allow the other 
+carrier's customers to obtain telephone numbers."  Id. 
+s 271(c)(2)(B)(i), (ii), (iv), (vi), (vii)(I)-(II).  In addition to 
+satisfying the competitive checklist's fourteen requirements, 
+the BOC must demonstrate that it will provide in-region long 
+distance service in accordance with the nondiscrimination and 
+separate affiliate requirements of section 272.  See id. 
+ss 271(d)(3)(B), 272.  Finally, the BOC must persuade the 
+FCC that "the requested authorization is consistent with the 
+public interest, convenience, and necessity."  Id. 
+s 271(d)(3)(C).
+
+     The statute gives the FCC ninety days to determine wheth-
+er an applicant has met section 271's requirements, including 
+whether it has "fully implemented the competitive checklist."  
+Id. s 271(d)(3).  The Commission must "consult with the 
+Attorney General," who shall "provide to the Commission an 
+evaluation of the application using any standard the Attorney 
+General considers appropriate."  Id. s 271(d)(2)(A).  Al-
+though "[t]he Commission shall give substantial weight to the 
+Attorney General's evaluation," that evaluation "shall not 
+have any preclusive effect on any Commission decision."  Id.  
+The FCC must also "consult with the State commission of any 
+State that is the subject of the application in order to verify 
+the compliance of the [BOC] with the requirements [for 
+
+providing in-region long distance service]."  Id. 
+s 271(d)(2)(B).
+
+     Since passage of the 1996 Act, the FCC has implemented 
+the statute's local competition provisions through a series of 
+regulations and orders.  Of particular relevance to this case, 
+the Local Competition First Report and Order adopted "ini-
+tial rules designed to ... open[ ] the local exchange and 
+exchange access markets to competition."  In the Matter of 
+Implementation of the Local Competition Provisions in the 
+Telecommunications Act of 1996, 11 F.C.C.R. 15499, 15507 
+p 6 (1996) ("Local Competition First Report and Order").  
+The Local Competition First Report and Order listed a 
+minimum set of network elements that BOCs must provide to 
+competing carriers, established interconnection rules, and 
+adopted a methodology for pricing network elements known 
+as "TELRIC" (total element long-run incremental cost).  Id. 
+at 15514-15 pp 27-29.
+
+     Prior to the filing of the application at issue in this case, the 
+FCC had received and rejected five section 271 applications.  
+It rejected the first because the applicant, SBC Communica-
+tions, failed to demonstrate that it satisfied Track A.  In the 
+Matter of Application by SBC Communications, Inc., Pursu-
+ant to Section 271 of the Communications Act of 1934, as 
+amended, to Provide In-Region, InterLATA Services in 
+Oklahoma, 12 F.C.C.R. 8685, 8686 p 1 (1997), aff'd, SBC 
+Communications v. FCC, 138 F.3d 410 (D.C. Cir. 1998).  It 
+rejected the others because the applicants failed to comply 
+with various requirements of the competitive checklist.  See 
+In the Matter of Application of Ameritech Michigan, Pursu-
+ant to Section 271 of the Communications Act of 1934, as 
+amended, to Provide In-Region, InterLATA Services in 
+Michigan, 12 F.C.C.R. 20543, 20546-47 p 5 (1997) (failure to 
+provide nondiscriminatory access to operations support sys-
+tem, interconnection, and 911 and E911 services);  In the 
+Matter of Application of BellSouth Corporation, et al., Pur-
+suant to Section 271 of the Communications Act of 1934, as 
+amended, to Provide In-Region, InterLATA Services in 
+South Carolina, 13 F.C.C.R. 539, 547 p 14 (1997) (failure to 
+(1) provide nondiscriminatory access to operations support 
+
+systems, (2) provide unbundled network elements in a man-
+ner that permits competing carriers to combine them through 
+collocation, and (3) offer certain retail services at discounted 
+rates), aff'd, BellSouth Corp. v. FCC, 162 F.3d 678 (D.C. Cir. 
+1998);  In the Matter of Application by BellSouth Corpora-
+tion, et al., Pursuant to Section 271 of the Communications 
+Act of 1934, as amended, to Provide In-Region, InterLATA 
+Services in Louisiana, 13 F.C.C.R. 6245, 6246-47 p 1 (1998) 
+(failure to provide nondiscriminatory access to operations 
+support system and to make telecommunications services 
+available for resale);  In the Matter of Application of Bell-
+South Corporation, BellSouth Telecommunications, Inc., and 
+BellSouth Long Distance, Inc., for Provision of In-Region, 
+InterLATA Services in Louisiana, 13 F.C.C.R. 20599, 20605 
+p 10 (1998) (failure to provide nondiscriminatory access to 
+operations support system and unbundled network elements).  
+After oral argument in this case, however, the Commission 
+approved SBC Communications's application to provide long 
+distance service in Texas.  In the Matter of Application by 
+SBC Communications, Inc., Southwestern Bell Tel. Co., And 
+Southwestern Bell Communications Services, Inc. d/b/a 
+Southwestern Bell Long Distance Pursuant to Section 271 of 
+the Telecommunications Act of 1996 To Provide In-Region, 
+InterLATA Services in Texas, FCC No. 00-238 (June 30, 
+2000).
+
+     Bell Atlantic filed its application to provide in-region long 
+distance service in New York on September 29, 1999.  By 
+then, the Supreme Court had invalidated that portion of the 
+Local Competition First Report and Order, specifically Rule 
+319, which listed the network elements that BOCs must 
+provide to competitors.  Iowa Util. Bd., 119 S. Ct. at 734-36.  
+According to the Court, "the FCC did not adequately consid-
+er the 'necessary and impair' standards [of section 251(d)(2) 
+of the statute] when it gave blanket access to these network 
+elements."  Id. at 734.  Because Bell Atlantic filed its applica-
+tion while the Commission was still revising its network 
+element rule in response to the Supreme Court's vacatur, the 
+company agreed to demonstrate compliance with the vacated 
+rule.  See In the Matter of Application by Bell Atlantic New 
+York for Authorization Under Section 271 of the Communi-
+
+cations Act to Provide In-Region, InterLATA Service in the 
+State of New York, 15 F.C.C.R. 3953, 3966-67 p 30 (1999) 
+("Bell Atlantic").  When this opinion was in page proofs, the 
+Eighth Circuit, acting on remand from the Supreme Court's 
+decision in Iowa Util. Bd., invalidated the TELRIC pricing 
+methodology.  See Iowa Util. Bd. v. FCC, No. 96-3321 (8th 
+Cir. July 18, 2000).  By basing rates on hypothetical rather 
+than actual costs, the court held, the TELRIC methodology 
+forced BOCs to charge less for network elements than Con-
+gress intended.  Id., slip op. at 7-8.  That decision has no 
+effect on this case, however, because Bell Atlantic has in fact 
+shown compliance with the TELRIC methodology, just as it 
+did with the vacated Rule 319.
+
+     The Bell Atlantic application represented the culmination of 
+more than two years of work by the company and the New 
+York Public Service Commission ("NYPSC").  After Bell 
+Atlantic submitted a draft application in February 1997, the 
+NYPSC commenced collaborative proceedings involving the 
+company and its competitors to open New York's local ex-
+change market to competition.  The NYPSC also issued an 
+order establishing rates for access to certain Bell Atlantic 
+network elements.  Spanning over one hundred pages, that 
+order set rates for local loops, local switching, tandem switch-
+ing, interoffice transport, signal control points, etc.  Opinion 
+and Order Setting Rates for First Group of Network Ele-
+ments, Op. No. 97-2 (NYPSC Apr. 1, 1997) ("1997 NYPSC 
+Order").
+
+     At about the same time, the NYPSC began developing 
+performance measures and service quality standards to as-
+sess whether Bell Atlantic was providing the nondiscriminato-
+ry access to its network that the 1996 Act requires.  Bell 
+Atlantic, 15 F.C.C.R. at 3959 p 11.  The NYPSC also hired 
+the consulting firm KPMG to test Bell Atlantic's operations 
+support systems for processing orders from Bell Atlantic's 
+competitors.  After extensive testing, during which Bell At-
+lantic corrected many problems, KPMG concluded that the 
+company's operations support systems could adequately ac-
+commodate "reasonable, anticipated commercial volumes" of 
+competitors' requests for network access.  Id. at 3959 p 10.
+
+     On December 21, 1999, the FCC approved Bell Atlantic's 
+application to provide long distance service in New York.  
+The Commission began by observing that "[t]he well estab-
+lished pro-competitive regulatory environment in New York 
+in conjunction with recent measures to achieve section 271 
+compliance has, in general, created a thriving market for the 
+provision of local exchange and exchange access service.  
+Competitors in New York are able to enter the local market 
+using all three entry paths provided under the Act."  Id. at 
+3959 p 13.  The FCC cited Bell Atlantic's estimates that 
+competitors serve over one million phone lines in New York.  
+Id. at 3960 p 14.  According to the Department of Justice, 
+moreover, CLECs in New York served approximately 8.9 
+percent of access lines as of June 1999, an amount "signifi-
+cantly larger than the national average of less than five 
+percent."  Evaluation of the United States Department of 
+Justice 9 (Nov. 1, 1999) ("DOJ Evaluation").
+
+     Relying on uncontested evidence that Bell Atlantic had 
+entered into interconnection agreements with several compet-
+ing New York carriers, the Commission determined that the 
+company had satisfied Track A.  Bell Atlantic, 15 F.C.C.R. at 
+3977 p 62.  The Commission next examined Bell Atlantic's 
+compliance with the fourteen components of the competitive 
+checklist, concluding that the company had "fully implement-
+ed" each.  47 U.S.C. s 271(d)(3)(A)(i).  The Commission also 
+found that Bell Atlantic had demonstrated that it would 
+comply with the separate affiliate and nondiscrimination re-
+quirements of section 272.  Bell Atlantic, 15 F.C.C.R. at 4153 
+p 403.  Finding approval of the company's application to be 
+"consistent with promoting competition in the local and long 
+distance telecommunications markets," the Commission con-
+cluded that Bell Atlantic's provision of long distance service in 
+New York would be in the public interest.  Id. at 4162 p 425.
+
+     On December 28, 1999, appellants AT&T and Covad Com-
+munications, a provider of high-speed, data-oriented telecom-
+munications services, appealed the FCC's decision pursuant 
+to 47 U.S.C. s 402(b)(6), (9), which gives this court exclusive 
+jurisdiction to review FCC orders relating to applications to 
+provide long distance service under section 271.  After this 
+court denied appellants' request for stay pending appeal 
+
+AT&T v. FCC, Nos. 99-1538, 99-1540 (D.C. Cir. Jan. 4, 2000) 
+(order denying motion for stay), Bell Atlantic began providing 
+long distance service to customers in New York.
+
+     AT&T mounts four challenges to the FCC's approval of 
+Bell Atlantic's application, the first two of which Covad joins:  
+(1) Bell Atlantic's prices for certain network elements do not 
+conform to the TELRIC pricing methodology;  (2) contrary to 
+the Commission's conclusion, Bell Atlantic fails to provide 
+competitors nondiscriminatory access to two types of unbun-
+dled loops, DSL-capable loops and hot cut loops;  (3) the 
+company imposes use restrictions on combinations of network 
+elements that violate the 1996 Act; and  (4) the company's 
+proposed script for handling calls requesting new service or 
+changes to existing service conflicts with section 272's nondis-
+crimination safeguards.  Supported by intervenors NYPSC, 
+Bell Atlantic, and U S West, the FCC argues that the 
+company has satisfied both the competitive checklist and 
+section 272's nondiscrimination safeguards.  We consider 
+each of appellants' arguments in turn.
+
+                                II
+
+     Section 271's competitive checklist directs the FCC to 
+determine whether Bell Atlantic's rates (which have been 
+approved by the NYPSC) comply with section 252's require-
+ment that the rates be "just and reasonable" and "based on 
+the cost ... of providing the ... network element."  47 
+U.S.C. s 252(d)(1), (d)(1)(A)(i).  The FCC considers section 
+252 satisfied only if the rates conform to TELRIC.  See Bell 
+Atlantic, 15 F.C.C.R. at 4081 p 237;  see also Local Competi-
+tion First Report and Order, 11 F.C.C.R. at 15844 p 672.  A 
+forward-looking methodology, TELRIC bases rates on "the 
+cost of operating a hypothetical network built with the most 
+efficient technology available."  Iowa Util. Bd., 119 S. Ct. at 
+728 n.3.  TELRIC is not a specific formula, but a framework 
+of principles that govern pricing determinations.  "[W]hile 
+TELRIC consists of 'methodological principles' for setting 
+prices, states retain flexibility to consider 'local technological, 
+environmental, regulatory, and economic conditions.' "  Bell 
+
+Atlantic, 15 F.C.C.R. at 4084 p 244 (quoting Local Competi-
+tion First Report and Order, 11 F.C.C.R. at 15812).  In other 
+words, while state commissions use TELRIC to establish 
+rates, application of TELRIC principles may result in differ-
+ent rates in different states.
+
+     The FCC does not conduct de novo review of state pricing 
+determinations in section 271 proceedings, nor does it adjust 
+rates to conform with TELRIC.  See Bell Atlantic, 15 
+F.C.C.R. at 4084 p 244.  It assesses only whether those rates 
+comply with basic TELRIC principles.  In language critical 
+to this case, the FCC described its role this way:
+
+     In reviewing state pricing decisions in the context of 
+     section 271 applications, we will not reject an application 
+     because isolated factual findings by a commission might 
+     be different from what we might have found if we were 
+     arbitrating the matter under section 252(e)(5).  Rather, 
+     we will reject the application only if basic TELRIC 
+     principles are violated or the state commission makes 
+     clear errors in factual findings on matters so substantial 
+     that the end result falls outside the range that the 
+     reasonable application of TELRIC principles would pro-
+     duce.
+     
+Id.
+
+     Neither AT&T nor Covad challenges the TELRIC stan-
+dard.  They claim instead that rates established by the 
+NYPSC for leasing three network elements--switches, voice 
+grade loops, and DSL-compatible loops--violate TELRIC.
+
+     We review the FCC's TELRIC compliance determinations 
+pursuant to the arbitrary and capricious standard.  See 5 
+U.S.C. s 706(2)(A);  Achernar Broad. Co. v. FCC, 62 F.3d 
+1441, 1445 (D.C. Cir. 1995) (applying arbitrary and capricious 
+standard to FCC action).  Highly deferential, that standard 
+presumes the validity of agency action, requiring us to deter-
+mine whether the agency has considered the relevant factors 
+and "articulate[d] a rational connection between the facts 
+found and the choice made."  Motor Vehicle Mfrs. Ass'n of 
+the United States, Inc. v. State Farm Mut. Auto. Ins. Co., 463 
+U.S. 29, 43 (1983) (internal quotation marks omitted).  We 
+"may reverse only if the agency's decision is not supported by 
+substantial evidence, or the agency has made a clear error in 
+
+judgment."  Kisser v. Cisneros, 14 F.3d 615, 619 (D.C. Cir. 
+1994).
+
+     Three characteristics of section 271 proceedings call for 
+special deference to the FCC.  For one thing, not only do 
+section 271 issues "require[ ] a high level of technical exper-
+tise," Marsh v. Oregon Natural Resources Council, 490 U.S. 
+360, 377 (1989), but the Commission must consider those 
+issues in the context of rapid technological and competitive 
+change.  As the agency points out, "at any given point at 
+which a section 271 application might be filed, the rapidly 
+changing telecommunications industry will have recently un-
+leashed a handful of new technological challenges and unset-
+tled legal disputes."  Appellee's Br. at 12.  To deal with these 
+constantly-unfolding changes, the section 271 process "must 
+have some play in the joints."  Id.  Second, unlike most 
+agency decisions that we review, much of the FCC's order is 
+itself a review of a state agency decision.  Also possessing a 
+considerable degree of expertise, the NYPSC did a significant 
+amount of background work, such as establishing prices, 
+instituting collaborative proceedings to design provisioning 
+methods, and developing performance measures.  Finally, 
+and perhaps most important with respect to appellants' chal-
+lenges to the NYPSC pricing determinations, enormous flexi-
+bility is built into TELRIC.  In other words, we decide only 
+whether the FCC's determination that Bell Atlantic's rates do 
+not fall "outside the range that the reasonable application of 
+TELRIC principles would produce" is itself arbitrary or 
+capricious.  Bell Atlantic, 15 F.C.C.R. at 4084 p 244.  Cf. 
+Patrick Thomas v. NLRB, 213 F.3d 651, 2000 WL 694335, at 
+*6 (D.C. Cir. 2000) ("[A] court reviews with deference a 
+Board decision that was itself made with deference to the 
+Union.").  Although we thus give substantial deference to the 
+Commission's decision, we emphasize that "[t]his does not 
+mean that our review is toothless but merely that we must be 
+very cautious in entertaining an invitation to reverse."  Pat-
+rick Thomas, 2000 WL 694335, at *6.
+
+                         Switching costs
+
+     AT&T and Covad claim that the rates the NYPSC set for 
+switches--the equipment used to direct calls to their destina-
+
+tion--violate TELRIC in two respects:  first, the rates ignore 
+substantial discounts Bell Atlantic will likely receive on the 
+purchase of new switches, and second, they erroneously in-
+clude the costs not just of new switches, but of more costly 
+"growth additions" to existing switches.  With respect to the 
+latter argument, appellants claim that because TELRIC con-
+templates construction of a new network using the most 
+efficient technology, it requires the NYPSC to have used the 
+less costly new switches as the basis for the rates.  According 
+to appellants, these two errors caused Bell Atlantic's switch 
+rates to exceed substantially those that proper application of 
+TELRIC would have yielded.
+
+     Addressing switching costs in its April 1997 pricing order, 
+the NYPSC began by noting the wide disparity between the 
+estimates provided by Bell Atlantic ($586 per line) and AT&T 
+($125 per line).  Based on that disparity, other evidence in 
+the record, and its own analysis, the agency found "neither 
+figure ... reliable."  1997 NYPSC Order at 84.  "In these 
+circumstances," the NYPSC explained, "[its] staff examined 
+the data on switching costs closely."  Id. at 85.  Starting with 
+the historic cost of switches installed in 1993 and 1994, the 
+agency adjusted that cost downward to reflect the declining 
+price of switches, yielding a per-line price of $192.67.  The 
+NYPSC acknowledged that its analysis did not take into 
+account "atypically large discounts" received by Bell Atlantic 
+"from its vendors after 1994 in connection with a major switch 
+replacement program."  Id. at 85 n.1.  The reason, the 
+agency explained in a subsequent order, was that it under-
+stood that Bell Atlantic would not receive such large dis-
+counts in the future.  Order Denying Motion to Reopen 
+Phase 1 and Instituting New Proceeding 3-4 (NYPSC Sept. 
+30, 1998) ("1998 NYPSC Order Denying Motion to Reopen").
+
+     More than a year after the NYPSC issued its 1997 order, 
+AT&T and other long distance carriers petitioned the agency 
+to lower switching rates.  They relied on evidence, only 
+recently revealed by Bell Atlantic, that it would in fact 
+continue to receive large discounts on purchases of all new 
+switches.  Seeking to avoid piecemeal changes to the rates, 
+and explaining that the new information would affect its prior 
+analysis in several ways, the NYPSC concluded that "[t]he 
+web of interconnected effects argues strongly against making 
+
+the selective modification urged by the motion without a 
+comprehensive review of switching costs."  Id. at 11.  The 
+NYPSC went on to note that "[w]hile the effect of the 
+adjustment on switching prices cannot be presumed to be 
+trivial--though it might turn out to be so--switching costs in 
+general represent a much smaller component of CLEC ex-
+pense than do the much more significant link costs."  Id. at 
+12.  Accordingly, the agency declined to revise the rates, but 
+scheduled a comprehensive review of switching costs to begin 
+in January 1999.  See id.
+
+     The FCC found no problem with the NYPSC's resolution of 
+this issue.  "AT&T has presented no evidence to persuade us 
+that New York did not conform to TELRIC principles simply 
+because it failed to modify one input into its cost model."  
+Bell Atlantic, 15 F.C.C.R. at 4085 p 245.  Sympathetic to the 
+NYPSC's position that "its determination of allowable switch 
+costs was the result of a complex analysis that does not lend 
+itself to simple arithmetic correction through the adjustment 
+of a single input," the FCC concluded that the prospect of 
+future modification makes the rates no less TELRIC-
+compliant.  Id.
+
+     The FCC's decision seems reasonable to us.  Not only are 
+state-agency-approved rates always subject to refinement, but 
+we suspect that rates may often need adjustment to reflect 
+newly discovered information, like that about Bell Atlantic's 
+future discounts.  If new information automatically required 
+rejection of section 271 applications, we cannot imagine how 
+such applications could ever be approved in this context of 
+rapid regulatory and technological change.  Moreover, both 
+the NYPSC and the FCC agree that adjusting switching 
+rates to reflect discounts is not so simple as subtracting the 
+amount of the discount;  it requires other adjustments to the 
+cost model.  Under these circumstances, we are comfortable 
+deferring to the Commission's conclusion that basic TELRIC 
+principles have not been violated and that the NYPSC has not 
+made such "clear errors in factual findings" that switching 
+costs fall "outside the range that the reasonable application of 
+TELRIC principles would produce."  Id. at 4084 p 244.  Af-
+ter all, not only is the $193 per-line switching cost consider-
+
+ably closer to AT&T's proposed $125 than to Bell Atlantic's 
+much higher estimate, and not only do "switching costs in 
+general represent a much smaller component of CLEC ex-
+pense than do the much more significant link costs" (which 
+appellants have not challenged), 1998 NYPSC Order Denying 
+Motion to Reopen at 12, but the NYPSC has said it will 
+reexamine switching discounts, ordering refunds if appropri-
+ate.
+
+     Appellants' challenge to the inclusion of so-called "growth 
+additions" is largely a corollary of their discount argument.  
+At oral argument, FCC counsel explained that growth addi-
+tions to existing switches cost more than new switches only 
+because vendors offer substantial new switch discounts in 
+order to make telephone companies dependent on the ven-
+dors' technology to update the switches.  In fact, as far as we 
+can tell from the record, the growth addition issue did not 
+even surface in the NYPSC proceedings until after AT&T, 
+relying on the new evidence about discounts, requested recon-
+sideration of switch costs.  Accordingly, we think the Com-
+mission reasonably concluded that because failure to reflect 
+discounts did not violate TELRIC, inclusion of growth addi-
+tions did not either.
+
+                        Voice Grade Loops
+
+     A loop is " 'a transmission facility between a distribution 
+frame, or its equivalent, in an incumbent LEC central office, 
+and the network interface device at the customer premises.' "  
+Bell Atlantic, 15 F.C.C.R. at 4095 p 268 (quoting Local Com-
+petition First Report and Order, 11 F.C.C.R. at 15691).  In 
+plain English, loops are the wires that connect telephones to 
+the switches that direct calls to their destination.  There are 
+many different types of loops:  "two-wire and four-wire analog 
+voice-grade loops, and two-wire and four-wire loops that are 
+conditioned to transmit the digital signals needed to provide 
+services such as ISDN, ADSL, HDSL, and DS1-level sig-
+nals."  Bell Atlantic, 15 F.C.C.R. at 4095 p 268.  The 1997 
+NYPSC pricing order set rates for Bell Atlantic loops.  1997 
+NYPSC Order at Attachment D.
+
+     AT&T and Covad challenge the rates for one type of loop--
+voice grade local loops.  They argue that the NYPSC violated 
+basic TELRIC principles by assuming that the "feeder" 
+portion of the loop would always use optical fiber, rather than 
+copper.  This assumption, according to appellants, produced 
+rates for leasing loops fifteen percent higher than proper 
+application of TELRIC would have yielded.
+
+     AT&T originally advanced this argument in the NYPSC 
+rate proceeding, claiming that copper feeder should always be 
+used for loops less than 9,000 feet long.  Rejecting this 
+argument in its 1997 order, the NYPSC based local loop rates 
+on the assumption that fiber feeder would be used for all 
+loops.  The agency relied on a 1991 Bell Atlantic study 
+establishing that "the investment costs associated with fiber 
+exceeded those of copper, but the difference was found to be 
+more than offset by the lower provisioning and maintenance 
+costs of fiber."  1997 NYPSC Order at 83.  In its rehearing 
+order, the NYPSC devoted twenty-nine more pages to this 
+issue, reaffirming its conclusion and elaborating on its reason-
+ing.  Opinion and Order Concerning Petitions for Rehearing 
+of Opinion No. 97-2, Op. No. 97-14 (NYPSC Sept. 22, 1997) 
+("1997 NYPSC Rehearing Order").  Emphasizing TELRIC's 
+forward-looking character, and relying on its own indepen-
+dent analysis, the NYPSC pointed out that while Bell Atlan-
+tic's plant includes substantial amounts of copper feeder, 
+"virtually none is being installed on a going-forward basis."  
+Id. at 23-24.  The reason, the agency explained, is "fiber's 
+superiority with respect to its initial cost, its ongoing opera-
+tion and maintenance expense, and its flexibility and reliabili-
+ty."  Id. at 24.  Not only are fiber's material costs lower than 
+copper's for the same capacity, but copper's heavier weight 
+and greater volume make it both more difficult and more 
+expensive to install.  See id.  The smaller space taken up by 
+fiber, moreover, reduces costs substantially, an especially 
+critical consideration in dense cities like New York.  See id.  
+Finally, fiber offers numerous operational advantages over 
+copper.  See id. at 25.  The NYPSC tied all these factors 
+back to TELRIC:  "What TELRIC contemplates is the net-
+work that would actually be built, using the most cost-
+
+efficient, forward-looking technology available, which would 
+certainly lead us to posit all-fiber feeder."  Id. at 26.
+
+     Largely reiterating the NYPSC's conclusion, the FCC re-
+jected appellants' challenge to the use of fiber feeder.  "We 
+have no reason to disagree with the [NYPSC's] conclusion 
+that Bell Atlantic's use of fiber ... does not make its rates 
+inconsistent with a TELRIC methodology."  Bell Atlantic, 15 
+F.C.C.R. at 4087 p 249.
+
+     Appellants fault the FCC's decision on a host of largely 
+procedural grounds:  the Commission failed to address a 
+detailed AT&T study that proves copper is more cost-
+effective for shorter loops;  it failed to consider AT&T's 
+evidence purportedly showing that other BOCs had conceded 
+that copper is more cost-effective;  and it could not have 
+reasonably deferred to the NYPSC's findings because the 
+only evidence the NYPSC relied on (the 1991 Bell Atlantic 
+study) was never placed in the record and the only rationale 
+offered by that agency (that fiber feeder is more economical 
+in dense Manhattan) is "plainly inadequate."  Appellants' Br. 
+at 30.
+
+     These arguments miss the mark.  The question whether 
+the FCC adequately considered AT&T's comments is "sub-
+sumed within [appellants'] substantive challenge" to the 
+FCC's conclusion that the assumption of fiber feeder was 
+appropriate, Chemical Mfrs. Ass'n v. EPA, 28 F.3d 1259, 1263 
+(D.C. Cir. 1994), and we find no basis for faulting the Com-
+mission's decisionmaking on that point.  The FCC analyzed 
+the NYPSC's original and rehearing orders, which exhaus-
+tively evaluated AT&T's arguments, thoroughly explained 
+fiber's superiority, and relied on far more than the unique 
+characteristics of Manhattan and the 1991 Bell Atlantic study.  
+Based on this analysis, the Commission determined that 
+AT&T did not "present[ ] sufficient evidence to prove that the 
+[NYPSC] erred in its determination."  Bell Atlantic, 15 
+F.C.C.R. at 4087 p 249.
+
+     Appellants make one additional argument.  They claim that 
+in the Universal Service Tenth Report and Order the Com-
+mission found copper to be more cost-effective than fiber for 
+short distances.  In the Matter of Federal-State Joint Board 
+
+on Universal Service;  Forward-Looking Mechanism for 
+High Cost Support for Non-Rural LECs, 14 F.C.C.R. 20156 
+(1999) ("Universal Service Tenth Report and Order").  That 
+order, however, expressly stated that "it may not be appropri-
+ate to use [the nationwide values developed in the universal 
+service proceedings] ... for other purposes, such as deter-
+mining prices for unbundled network elements."  Id. at 20172 
+p 32.  Explaining that the universal service model employed 
+nationwide, not state-specific, pricing inputs, the Commission 
+"caution[ed] parties from making claims in other proceedings 
+based upon the input values [adopted in the Tenth Report 
+and Order]."  Id.  In any event, the Tenth Report and Order 
+did not say that copper is more cost-effective.  It said only 
+that "[w]hen fiber is more cost effective, the model will use it 
+to replace copper for loops that are shorter than 18,000 feet."  
+Id. at 20196 p 85 (emphasis added).
+
+     Relying on the NYPSC's comprehensive analysis, as the 
+1996 Act directs, the FCC concluded that Bell Atlantic's use 
+of fiber for voice grade loops conforms with TELRIC.  Not 
+only have appellants offered no persuasive reason to disturb 
+that judgment, but we cannot imagine a question more suited 
+for administrative rather than judicial resolution than wheth-
+er copper or fiber loops are more cost-effective.  See Associa-
+tion of Oil Pipe Lines v. FERC, 83 F.3d 1424, 1445 (D.C. Cir. 
+1996) ("Because the Commission's analysis required a high 
+level of technical expertise, the court owes deference to the 
+Commission's informed and rationally exercised discretion.").
+
+                      DSL Loop Conditioning
+
+     "Digital Subscriber Line" or "DSL" technology "describes 
+a 'family of transmission technologies that use specialized 
+electronics at the customer's premises and at a telephone 
+company's central office ... to transmit high-speed data 
+signals over copper cables.' "  Bell Atlantic, 15 F.C.C.R. at 
+4087 p 250 (quoting Bell Atlantic Affidavit in Support of DSL 
+Links).  Only recently developed, DSL technology "allows 
+transmission of data ... at vastly higher speeds than can be 
+
+achieved with analog data transmission."  Bell Atlantic, 15 
+F.C.C.R. at 4117 p 316 n.1000.  When competitors seek to 
+provide DSL service over Bell Atlantic loops that exceed a 
+certain length, the company must sometimes "condition" 
+those loops to make them DSL-compatible by removing load 
+coils and bridge taps that interfere with transmission of 
+digital signals.  See id. at 4088-89 p 252.
+
+     Although BOCs have been obligated to provide access to 
+unbundled loops capable of supporting DSL technologies 
+since the Local Competition First Report and Order was 
+issued in 1996, demand for DSL-compatible loops in New 
+York emerged only in the past year.  See id. at 4117 pp 316-
+17.  In fact, a Covad witness testifying in late July 1999 
+explained that Covad had just begun ordering DSL loops.  
+For this reason, the 1997 NYPSC Order did not address rates 
+for DSL conditioning, so when Bell Atlantic filed its section 
+271 application in September 1999, the company had in place 
+only the interim conditioning rates that it had filed with the 
+NYPSC just one month earlier.
+
+     Responding to increased demand for DSL loops and to 
+complaints from competitors that Bell Atlantic's interim con-
+ditioning charges were excessive, the NYPSC initiated fast-
+track proceedings to set permanent conditioning rates.  As a 
+result of those proceedings, the agency significantly reduced 
+Bell Atlantic's interim conditioning charges.  It also created a 
+"placeholder" rate subject to future adjustment as the 
+NYPSC conducts further inquiry.  See Order and Opinion 
+Concerning DSL Charges, Op. No. 99-12 (NYPSC Dec. 17, 
+1999).  Because the NYPSC issued this order only one week 
+before the end of the FCC's ninety-day review period, the 
+Commission's order focuses only on Bell Atlantic's interim 
+rates.
+
+     Although concerned that interim rates "create uncertainty," 
+the FCC concluded that "a BOC's application for in-region 
+[long distance service] should not be rejected solely because 
+permanent rates may not yet have been established for each 
+and every element or nonrecurring cost of provisioning an 
+element."  Bell Atlantic, 15 F.C.C.R. at 4090-91 p 258.  
+
+"[T]his question," the Commission explained, "should be ad-
+dressed on a case-by-case basis."  Id. at 4091 p 258.  The 
+Commission listed several factors that led it to conclude that 
+Bell Atlantic's use of interim rates did not preclude a finding 
+of checklist compliance:  "[t]he conditioning of DSL loops is a 
+relatively new issue";  the NYPSC "has a substantial track 
+record of setting other applicable prices at TELRIC rates";  
+"Bell Atlantic's interim rates are subject to refund or true-up 
+if the [NYPSC] determines that they exceed applicable 
+TELRIC-based costs";  and the interim rates applied only to 
+"a few ancillary items" affecting a small percentage of unbun-
+dled loops.  Id. at 4090-91 pp 258-59.  Noting that "[a]t some 
+point, states will have had sufficient time to complete [perma-
+nent rate proceedings]," the FCC warned that it will "become 
+more reluctant to continue approving section 271 applications 
+containing interim rates.  It would not be sound policy for 
+interim rates to become a substitute for completing these 
+significant proceedings."  Id. at 4091 p 260.
+
+     AT&T and Covad argue that Bell Atlantic's interim condi-
+tioning rates violate TELRIC.  "When there is a substantial 
+challenge to a particular rate that has not been previously 
+reviewed by a state commission, the FCC's duty is to deter-
+mine its lawfulness and grant the application only if it is 
+found lawful."  Appellants' Reply Br. at 17.
+
+     Because AT&T and Covad's argument rests on their inter-
+pretation of section 271, we employ the familiar two-step 
+Chevron process.  Chevron U.S.A., Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837, 842-43 (1984).  If "Con-
+gress has directly spoken to the precise question at issue," 
+the court "must give effect to the unambiguously expressed 
+intent of Congress."  Id.  In determining whether Congress 
+has spoken to the precise question at issue, we "exhaust the 
+traditional tools of statutory construction."  Natural Re-
+sources Defense Council, Inc. v. Browner, 57 F.3d 1122, 1125 
+(D.C. Cir. 1995) (internal quotation marks omitted).  "[I]f the 
+statute is silent or ambiguous with respect to the specific 
+issue," the court must determine whether the agency's inter-
+pretation "is based on a permissible construction of the 
+statute."  Chevron, 467 U.S. at 843.  In making this determi-
+
+nation, we afford substantial deference to the agency's inter-
+pretation of the statute because "the responsibilities for as-
+sessing the wisdom of ... policy choices and resolving the 
+struggle between competing views of the public interest are 
+not judicial ones, and because of the agency's greater famil-
+iarity with the ever-changing facts and circumstances sur-
+rounding the subjects regulated."  FDA v. Brown & William-
+son Tobacco Corp., 120 S. Ct. 1291, 1300 (2000) (internal 
+quotation marks and citation omitted).  As long as the agen-
+cy's interpretation is reasonable, we uphold it "regardless 
+whether there may be other reasonable, or even more reason-
+able, views."  Serono Lab., Inc. v. Shalala, 158 F.3d 1313, 
+1321 (D.C. Cir. 1998).
+
+     In support of their argument that section 271 requires the 
+Commission to have denied Bell Atlantic's application on the 
+basis of its interim conditioning rates, appellants rely on 
+section 271(d)(3)'s requirement that the FCC "not approve 
+[an application] unless it finds that ... [the applicant] has 
+fully implemented the competitive checklist."  47 U.S.C. 
+s 271(d)(3).  They also point out that the competitive check-
+list requires Bell Atlantic to offer "[n]ondiscriminatory access 
+to network elements in accordance with the requirements of 
+section[ ] ... 252(d)(1)," which the FCC has interpreted to 
+require TELRIC-compliant rates.  Id. s 271(c)(2)(B)(ii).  
+Neither provision, however, speaks, as Chevron put it, unam-
+biguously to "the precise question at issue":  Does the fact 
+that interim rates (reviewed by neither the NYPSC nor the 
+FCC) govern a small component of local loops that has only 
+recently become the subject of competitor demand preclude a 
+finding of checklist compliance?
+
+     Moving to Chevron step two, we think the FCC has reason-
+ably answered this question in the negative.  Rapid advances 
+in technology continuously spark demand for new products 
+and services.  See Bell Atlantic, 15 F.C.C.R. at 4091 p 259.  
+As a result, competitors may often demand access to new 
+technologies before state agencies are able to set TELRIC-
+
+compliant rates--exactly what happened here.  Given this 
+fact of life in the telecommunication industry at this early 
+stage of the implementation of the 1996 Act, and given that 
+the FCC has only ninety days in which to act on section 271 
+applications, the agency's approach strikes a reasonable bal-
+ance between ensuring that an applicant has opened local 
+markets to competition by charging just and reasonable rates 
+and not allowing technological developments to become obsta-
+cles to an applicant's entry into in-region long distance mar-
+kets.
+
+     In deferring to the Commission's resolution of the interim 
+rate issue, we are influenced by an additional factor.  The 
+agency narrowly cabined its acceptance of interim rates to the 
+unique circumstances of this case:  emergence of a recently 
+developed technology produced demand for a new service 
+before the state commission had an opportunity to approve 
+permanent rates;  the state commission instituted fast-track 
+proceedings to set permanent rates;  and those proceedings 
+ended just days before the FCC approved the section 271 
+application.
+
+                               III
+
+     Checklist item four requires BOCs to show that they 
+provide competitors with "[n]ondiscriminatory access to net-
+work elements," which include local loops, and "[l]ocal loop 
+transmission from the central office to the customer's premis-
+es, unbundled from local switching or other services."  47 
+U.S.C. s 271(c)(2)(B)(ii), (iv).  Appellants contend that Bell 
+Atlantic fails to provide nondiscriminatory access to two types 
+of unbundled loops:  DSL-capable loops and voice grade, hot 
+cut loops.
+
+                        DSL-capable loops
+
+     Comments submitted to the FCC opposing Bell Atlantic's 
+application charge the company with failing to provide access 
+to loops capable of supporting DSL technology on a nondis-
+criminatory basis.  For example, Covad summarized its data 
+as follows:  "Covad's own, substantiated data shows that for 
+every 100 loop orders it places in New York, only 50% will 
+
+receive a due date within 72 hours.  Of those 50 remaining 
+orders, only 74% (37) will be wired in the central office by the 
+time Bell Atlantic has committed to do so.  And of those 37 
+remaining orders, only 78% (29) of them will actually be 
+provisioned to the customer's premises on time."  The Justice 
+Department was also concerned about Bell Atlantic's provi-
+sioning of DSL loops:  "As to Bell Atlantic's historical perfor-
+mance in provisioning DSL loops, we are unable to conclude 
+on the current record that Bell Atlantic has demonstrated an 
+acceptable level of performance.  It is possible, however, that 
+the Commission may obtain information not currently avail-
+able to the Department that would support such a conclu-
+sion....  [W]e cannot conclude that CLECs currently have 
+access to DSL loops necessary for them to compete effective-
+ly."  DOJ Evaluation at 27-28.
+
+     The FCC took a different approach.  Acknowledging the 
+concerns about Bell Atlantic's performance with respect to 
+DSL loops, the FCC based its finding of checklist compliance 
+on the company's provisioning of unbundled loops generally, 
+not of DSL-capable loops in particular.  In reaching this 
+conclusion, the Commission relied on several factors.  To 
+begin with, it observed that although BOCs have been obli-
+gated to provide access to DSL-capable loops since 1996, the 
+Commission had not "previously provided guidance to the 
+BOCs as to the type and level of proof necessary in this area 
+to establish compliance with section 271."  Bell Atlantic, 15 
+F.C.C.R. at 4117 p 316.  Moreover, the Commission ex-
+plained, "no previous applicant has made a separate showing 
+on the provision of xDSL loops."  Id.  (The "small 'x' before 
+the letters 'DSL' signifies the use of the term as a generic 
+transmission technology."  Id. at 4087 p 250 n.818.)
+
+     Second, the FCC pointed out that because demand for DSL 
+loops did not surface until 1999, the NYPSC and other state 
+authorities had only recently begun developing and adopting 
+performance standards and measures for DSL loop ordering 
+and provisioning.  See id. at 4117 p 317.  Considering DSL 
+issues for the first time in August 1999, the NYPSC initiated 
+collaborative proceedings to address Bell Atlantic's DSL loop 
+provisioning by defining provisioning methods and developing 
+
+DSL-specific performance standards.  See id.  The FCC 
+explained:  "Bell Atlantic and competing carriers have agreed 
+to joint testing and provisioning procedures for xDSL loops.  
+Provisioning xDSL loops to competitors involves processes 
+that are more complex than those involved with the provision 
+of a voice-grade loop."  Id. at 4118 p 319.
+
+     Third, DSL loops represent only a "small fraction" of all 
+unbundled loops.  Id. at 4118-19 pp 320-21.  In support of 
+this finding, the Commission noted that Bell Atlantic provi-
+sioned just seven DSL-specific loops in June 1999, fifty-six in 
+July, 449 in August, and 653 in September.  Id. at 4118 p 320.  
+Although the company also provisioned more than 3,300 
+premium loops since January 1999 that could "on occasion" be 
+used for DSL service, the FCC was unable to determine what 
+portion, if any, was so used.  Id. at 4119 p 320 n.1012.  In 
+contrast to the small number of DSL loops, Bell Atlantic 
+provisioned 50,000 unbundled voice grade loops through Sep-
+tember 1999.  See id. at 4119 p 321.
+
+     Finally, Bell Atlantic and its competitors (including Covad) 
+submitted conflicting data about Bell Atlantic's provisioning 
+performance.  Noting that "[t]he absence of a New York 
+performance benchmark or [NYPSC] reconciliation of con-
+flicting data claims makes it difficult for this Commission to 
+decide between the competing statistics," the FCC explained 
+that different methodologies in calculating the statistics likely 
+accounted for the divergence and "complicate[d] its efforts to 
+analyze the data."  Id. at 4120 p 326.
+
+     "In light of these unique circumstances," the Commission 
+concluded, "we should rely upon Bell Atlantic's overall show-
+ing of loop performance in evaluating whether Bell Atlantic 
+has met its burden of demonstrating that it provides unbun-
+dled local loops in accordance with checklist item 4."  Id. at 
+4121 p 327.  Acknowledging that this analysis diverged from 
+the Justice Department's, the FCC explained:  "We have 
+given substantial weight to the Department of Justice's views, 
+but nonetheless, based upon our review of the record on loops 
+as a whole, find that Bell Atlantic establishes that it provi-
+sions unbundled local loops at a level of performance suffi-
+cient for checklist compliance."  Id. at 4121 p 328.  The 
+
+Commission cautioned, however, that "[i]f xDSL services 
+continue to grow rapidly ... the aggregate loop results will 
+be more heavily influenced by Bell Atlantic's performance in 
+provisioning xDSL-specific loops.  If the future aggregate 
+performance declines from current levels, we will take appro-
+priate enforcement action."  Id. at 4122 p 329.  
+
+     AT&T and Covad claim that the Commission's reasoning 
+suffers from several flaws.  The first is statutory.  Section 
+271, they point out, requires the FCC to determine whether 
+an applicant "has fully implemented the competitive checklist" 
+and denies the FCC the power to "limit or extend the terms 
+used in the competitive checklist."  47 U.S.C. 
+s 271(d)(3)(A)(i), (d)(4).  According to appellants, the evi-
+dence reveals systemic discrimination with respect to DSL 
+loops, thus precluding a finding that Bell Atlantic "fully 
+implemented" the competitive checklist.
+
+     Responding with a Chevron argument, the FCC contends 
+that Congress has not spoken to the "precise question" that 
+appellants raise:  Must the Commission make a finding of 
+nondiscriminatory access with respect to each type of loop, or 
+does the statute permit the agency to evaluate a BOC's 
+overall loop performance?  The Commission argues that the 
+statute speaks generally of nondiscriminatory access to "net-
+work elements" and "local loop transmission," and that the 
+statute nowhere unambiguously requires it to make pass-fail 
+evaluations of each category of loop.  According to the Com-
+mission, the fact that section 271 says "fully implemented," 
+not "substantially complied," does not answer the question of 
+what must be fully implemented.
+
+     We agree with the FCC that the statute is ambiguous with 
+respect to the precise issue before us.  Section 271 does not 
+say that an applicant must show that it provides nondiscrimi-
+natory access to each category of loop or to every single loop.  
+The statute requires only that the BOC provide "[n]ondis-
+criminatory access to network elements" (which include local 
+loops) and "[l]ocal loop transmission."  47 U.S.C. 
+s 271(c)(2)(B)(ii), (iv).  It thus leaves open precisely what 
+
+section 271's nondiscriminatory access requirement means.  
+That the FCC may not "limit or extend the terms used in the 
+competitive checklist," id. s 271(d)(4), changes nothing.  The 
+Commission neither "limit[ed]" nor "extend[ed]" the term 
+"local loop transmission," nor did it disregard any checklist 
+item.  Rather, it gave content to the statute by defining 
+nondiscriminatory access to unbundled local loops.
+
+     Because Congress has not spoken to the precise question at 
+issue, we ask whether the FCC reasonably interpreted sec-
+tion 271 to allow assessment of an applicant's overall provi-
+sioning of loops, as opposed to mandating pass-fail analysis 
+with respect to DSL-capable loops.  See Chevron, 467 U.S. at 
+843.  We think it did.  To begin with, in reading the term 
+"nondiscriminatory access" not to require a separate showing 
+with respect to DSL-capable loops, the Commission relied on 
+the same characteristics of the DSL loop market that influ-
+enced its decision regarding interim rates:  "competitors have 
+been ordering xDSL-capable loops in New York for a rela-
+tively short period of time;  there has been a recent surge in 
+demand;  and xDSL-capable loops remain a small percentage 
+of loop orders."  Bell Atlantic, 15 F.C.C.R. at 4121 p 327.  In 
+addition, the agency explained, "[p]rovisioning xDSL loops to 
+competitors involves processes that are more complex than 
+those involved with the provision of a voice-grade loop."  Id. 
+at 4118 p 319.  Moreover, not only did the NYPSC institute 
+proceedings to improve Bell Atlantic's DSL performance, but 
+the FCC might have been unable to complete its work within 
+the ninety-day statutory review period had it been required 
+to make separate determinations with respect to each and 
+every type of loop.  As both the Commission and intervenors 
+point out, there are many different types of loops, including 
+two-wire loops, four-wire loops, analog loops, digital loops, 
+fiber loops, and copper loops.  See id. at 4095 p 268, 4097 
+p 275;  Bell Atlantic and U S West's Br. at 5.  There are also 
+"countless uses to which loops can be put, including residen-
+tial service, business service, voice service, data service, alarm 
+service, and so on.  Under [appellants'] theory, each of these 
+
+different kinds and uses of loops could become independent 
+checklist items requiring stand-alone satisfaction."  Id.
+
+     Our conclusion that the FCC's interpretation is reasonable 
+rests, as did the agency's decision, on the "unique factual 
+circumstances" presented by Bell Atlantic's application with 
+respect to DSL loops:  demand for DSL loops had only 
+recently surfaced, DSL loops constitute but a small fraction of 
+total loop orders, and provisioning DSL loops involves techni-
+cal difficulties not encountered in provisioning voice grade 
+loops.  See Bell Atlantic, 15 F.C.C.R. at 4119 p 322.  Unlike 
+Bell Atlantic, moreover, "[f]uture applicants ... may have the 
+benefit of clearly-defined performance standards and verified 
+performance data....  [and] will have a clear picture of the 
+evidentiary showing [the FCC] would expect for a showing of 
+checklist compliance with respect to xDSL-capable loops."  
+Id. at 4122 p 330 n.1032.  We therefore expect, as did the 
+FCC, that as DSL-capable loops become a larger proportion 
+of unbundled loops, and as performance standards are devel-
+oped, checklist compliance will require "a separate and com-
+prehensive evidentiary showing with respect to the provision 
+of xDSL-capable loops."  Id. at 4122 p 330.
+
+     That the Justice Department had a different view about 
+DSL-capable loops does not undermine the Commission's 
+order.  The FCC never disputed the Justice Department's 
+concerns about Bell Atlantic's provisioning of DSL loops.  
+Acknowledging those concerns, the Commission disagreed 
+with the Department about what section 271 required.  Inter-
+preting the Telecommunications Act is the FCC's job, not the 
+Justice Department's, a proposition recognized by both Con-
+gress and the Department.  See 47 U.S.C. s 271(d)(2)(A) 
+("[T]he Attorney General's evaluation ... shall not have any 
+preclusive effect on any Commission decision");  DOJ Evalua-
+tion at 13 n.25 ("We have examined these facts to assess their 
+impact on the development of competition in New York and 
+have not, however, attempted to determine whether they 
+establish compliance with the legal requirements of the com-
+petitive checklist or the Commission's rules, matters which we 
+leave for the Commission's judgment.").
+
+     Appellants make one final argument about DSL loops.  
+They claim the FCC improperly relied on Bell Atlantic's 
+
+promise--made in an ex parte submission shortly before the 
+Commission approved its application--to establish a separate 
+affiliate to provide retail advanced services, such as DSL 
+services.  See Bell Atlantic, 15 F.C.C.R. at 4123 p 331 n.1036.  
+In support, they point to this sentence from the Commission's 
+order:  "In this case, we have further assurance that compet-
+ing carriers in New York will have nondiscriminatory access 
+to xDSL-capable loops in the future as a result of Bell 
+Atlantic's commitment to establish a separate affiliate 
+through which it will offer retail advanced services."  Id. at 
+4122-23 p 331.  Notwithstanding this statement, the record 
+does not support appellants' argument.  The Commission 
+rejected Covad's motion to strike Bell Atlantic's ex parte 
+submission, expressly stating that it had not relied on it in 
+approving the application.  Id. at 3970 p 40.  The order itself, 
+moreover, indicates that the Commission did not rely on the 
+Bell Atlantic submission.  The order mentions the submission 
+only after concluding that the company provided nondiscrimi-
+natory access to loops, and then only in the context of 
+advising future applicants about what they would need to do 
+to obtain approval.  Id. at 4122-23 WW 331-33.
+
+                          Hot Cut Loops
+
+     When a customer changes its local service provider from 
+Bell Atlantic to a competitor, Bell Atlantic must perform a 
+"hot cut," "manually disconnecting the customer's loop in the 
+Bell Atlantic central office and reconnecting the loop at the 
+competing carrier's collocation space."  Id. at 4122-23 p 291 
+n.925.  "The customer is taken out of service while the hot 
+cut is in progress, thereby making the cut 'hot,' although if 
+the cut is successful, the service disruption will last no more 
+than five minutes."  Id.
+
+     AT&T and Covad mount two challenges to the FCC's 
+conclusion that Bell Atlantic provisions hot cut loops in a 
+nondiscriminatory manner.  They challenge both the stan-
+dard the Commission used and the factual basis for the 
+agency's conclusion.
+
+     The FCC has developed two standards for determining 
+whether BOCs provide nondiscriminatory access to certain 
+
+products or services, both of which it has applied in prior 
+section 271 proceedings.  When considering "those functions 
+the BOC provides to competing carriers that are analogous to 
+the functions a BOC provides to itself in connection with its 
+own retail service offerings"--i.e., those with retail ana-
+logues--the Commission asks whether the BOC has "pro-
+vide[d] access that is equal to ... the level of access that the 
+BOC provides itself, its customers, or its affiliates, in terms of 
+quality, accuracy, and timeliness."  Id. at 3971 p 44.  With 
+respect to functions lacking retail analogues, the Commission 
+looks "to whether the BOC's performance offers an efficient 
+competitor a meaningful opportunity to compete."  Id. at 
+4095 p 269.  Because provisioning hot cuts has no retail 
+analogue, the FCC applied the "meaningful opportunity to 
+compete" standard to Bell Atlantic's hot cut performance.  
+Id.
+
+     Use of this standard was erroneous, appellants contend.  
+"The FCC should have required Bell Atlantic to prove that it 
+was providing hot cuts with the least amount of service 
+disruption and missed appointments that is technically and 
+commercially feasible."  Appellants' Br. at 45.  Appellants 
+derive this standard in the following way.  They begin with 
+Rule 311(b), which governs functions having retail analogues:  
+"to the extent technically feasible," the rule says, BOCs must 
+provide access to network elements at the same level of 
+quality as they provide to their own customers.  47 C.F.R. 
+s 51.311(b).  Appellants argue that Rule 311(b) applies to hot 
+cuts because the FCC said in the order approving Bell 
+Atlantic's application that the standard for compliance absent 
+retail analogues (as in the case of hot cuts) is no weaker than 
+the standard where there are retail analogues.  Accordingly, 
+they argue, the meaningful opportunity to compete standard 
+employed in the former scenario must include a requirement 
+that the BOC take all technically feasible steps to provision 
+hot cut loops.  Appellants also contend that their standard is 
+compelled by the statute's requirement that BOCs provide 
+nondiscriminatory access to local loops.
+
+     We are unconvinced.  Applying to obligations that have 
+retail analogues, Rule 311(b) has nothing to do with obli-
+
+gations, like hot cut provisioning, that have no such analogue.  
+As the FCC points out, the meaningful opportunity standard 
+"is neither stronger nor weaker than the standard for func-
+tions with retail analogues.  It is simply different, because it 
+requires an objective level of performance rather than a level 
+that varies with each carrier's individual retail performance."  
+Appellee's Br. at 33.  Appellants thus may not import Rule 
+311(b)'s "technically feasible" requirement into the meaning-
+ful opportunity to compete standard.  Section 271's "nondis-
+criminatory" requirement, moreover, is not self-defining.  
+While appellants' definition is plausible, the Commission in-
+terprets the word differently, and it is to the Commission that 
+we owe deference.
+
+     Applying the meaningful opportunity standard, the FCC 
+determined that Bell Atlantic made "a minimally acceptable 
+showing" of checklist compliance with respect to hot cuts.  
+Bell Atlantic, 15 F.C.C.R. at 4115 p 309.  It found that the 
+company completed over ninety percent of hot cuts within a 
+specified period of time, that fewer than five percent resulted 
+in service outages, and that fewer than two percent of hot cut 
+lines reported installation troubles.  Id. at 4114-15 p 309.  
+Appellants advance several challenges to this conclusion.  
+Our review is pursuant to the arbitrary and capricious stan-
+dard.  See 5 U.S.C. s 706(2)(A).
+
+     Appellants first argue that the FCC failed to give "substan-
+tial weight," 47 U.S.C. s 271(d)(2)(A), to the Justice Depart-
+ment's finding that "the number and magnitude of the defi-
+ciencies [in Bell Atlantic's hot cut provisioning] are imposing 
+a real constraint on competition through the use of unbundled 
+loops and that significant improvement is needed in this 
+area," DOJ Evaluation at 20.  We disagree with appellants.  
+The Commission's analysis and the Justice Department's 
+evaluation rested on the same factual findings--those made 
+by the NYPSC--but differed over the standard a BOC must 
+meet to satisfy the statute.  As the Justice Department itself 
+explained:  "Our assessment of the facts regarding Bell Atlan-
+tic's wholesale performance is substantially consistent with 
+the NYPSC's assessment....  To the extent there is a 
+difference between the Department's judgment and that of 
+
+the NYPSC, it arises largely from the Department's conclu-
+sion that needed improvements should be achieved before 
+Bell Atlantic is authorized to provide [long distance service] in 
+New York, rather than relying on post-271 approval regulato-
+ry mechanisms to attempt to ensure such improvements."  
+Id. at 13-14 (footnote omitted).  Moreover, the Department 
+explained:  "We have examined these facts to assess their 
+impact on the development of competition in New York and 
+have not, however, attempted to determine whether they 
+establish compliance with the legal requirements of the com-
+petitive checklist or the Commission's rules, matters which we 
+leave for the Commission's judgment."  Id. at 13 n.25.
+
+     The Commission and the Justice Department thus disa-
+greed only about where to draw the line between acceptable 
+and unacceptable hot cut performance.  The Commission was 
+satisfied with Bell Atlantic's level of performance;  the De-
+partment was not.  As the Department recognized, line-
+drawing is the agency's responsibility.  Congress required 
+only that the FCC give the Department's evaluation "substan-
+tial weight," admonishing that the evaluation should not have 
+"preclusive effect."  47 U.S.C. s 271(d)(2)(A).  To accept 
+appellants' argument--particularly where the Justice Depart-
+ment and the FCC agreed on the facts but disagreed about 
+the law--would give the Department's evaluation precisely 
+such preclusive effect.
+
+     AT&T and Covad next argue that the FCC failed to give 
+"substantial weight" to the Justice Department's conclusion 
+that Bell Atlantic's hot cut deficiencies had reduced competi-
+tion in the New York market.  But as the Commission noted 
+in the order approving the company's application, "the De-
+partment did not specify in what manner and to what extent 
+the New York local exchange market is affected adversely by 
+these problems.  Nor did the Department provide any indica-
+tion as to what level of hot cut performance or what types of 
+improvements Bell Atlantic should be required to demon-
+strate in order to satisfy section 271."  Bell Atlantic, 15 
+F.C.C.R. at 4108 p 297.  To be sure, the FCC conducted no 
+detailed analysis of the effect on competition, relying instead 
+
+on industry-approved metrics (such as on-time performance 
+and service outages) to conclude that Bell Atlantic provided 
+competitors with a meaningful opportunity to compete.  The 
+Commission certainly could have undertaken its own competi-
+tion studies, but given that it is the agency's responsibility to 
+determine precisely how to measure whether an applicant 
+provides nondiscriminatory access to local loops, we find its 
+reliance on industry-approved metrics neither arbitrary nor 
+capricious.
+
+     Appellants also contend that the FCC failed to provide 
+reasoned support for its conclusion that Bell Atlantic met the 
+Commission's performance targets.  Noting that the NYPSC 
+advocated a ninety-five percent on-time performance rate, 
+they claim that the Commission failed to support its determi-
+nation that a ninety percent rate represents a meaningful 
+opportunity to compete.  As the FCC points out, however, 
+the NYPSC also said that a ninety percent rate cannot be 
+considered discriminatory.  Appellee's Br. at 35.  Equally 
+important, the Commission has wide discretion to determine 
+where to draw administrative lines, and appellants point to 
+nothing suggesting that the agency abused its discretion in 
+drawing the line at ninety as opposed to ninety-five percent.  
+See Department of Health and Human Svcs., Indian Health 
+Service, Oklahoma City v. FLRA, 885 F.2d 911, 917 (D.C. 
+Cir. 1989) ("Because of the need for expertise and judgment, 
+the drawing of the lines between [competing proposals] is 
+ultimately within the jurisdiction of the [agency], which has 
+been vested by Congress with administration of the statute, 
+whose decision must be sustained absent arbitrary action.").  
+The same principle refutes appellants' challenge to the Com-
+mission's conclusion that Bell Atlantic satisfactorily per-
+formed hot cuts with minimal service outages (five percent) 
+and installation troubles (two percent).
+
+     AT&T and Covad next argue that the FCC's conclusion 
+that fewer than five percent of customers suffered service 
+outages caused by Bell Atlantic rests on a legal error, i.e., 
+that the five percent figure did not include service outages 
+where fault could be attributed to neither Bell Atlantic nor 
+AT&T.  Because Bell Atlantic bears the burden of establish-
+
+ing that it has satisfied the competitive checklist, appellants 
+argue, the FCC must assume that the company caused the 
+outages of unattributed origin, raising its error rate to 6.5 
+percent.  But how does attributing outages of unknown origin 
+to Bell Atlantic follow automatically from the proposition that 
+the company has the burden of proof?  Appellants never 
+explain this connection.  Moreover, we find no reason to 
+disturb the Commission's judgment that Bell Atlantic satis-
+fied its burden of proof.  The company offered evidence about 
+the number of service outages, which AT&T attempted to 
+rebut with its own data.  Relying on an NYPSC reconciliation 
+of this conflicting data, the FCC concluded that many of the 
+outages cited by AT&T could not fairly be attributed to Bell 
+Atlantic.  See Bell Atlantic, 15 F.C.C.R. at 4110-11 pp 302-
+03.  The outages-of-unknown-origin problem thus represents 
+a failure of AT&T's rebuttal evidence, not of Bell Atlantic's 
+proof.
+
+     Equally unpersuasive is appellants' argument that "it was 
+absurd for the FCC to find that CLECs have nondiscrimina-
+tory access to unbundled loops when unrebutted evidence 
+showed that more than 10 percent of CLEC loop orders 
+result in dropped [directory] listings."  Appellants' Br. at 54.  
+The Commission responded to this argument in the order 
+approving Bell Atlantic's application, stating:  "We find that 
+Bell Atlantic has taken adequate measures to detect any 
+dropped listings and restore them to the directory assistance 
+database promptly.  No other commenter raises this objec-
+tion, suggesting the difficulty is of little competitive conse-
+quence.  In fact, several parties support Bell Atlantic's asser-
+tion of compliance with this checklist item."  Bell Atlantic, 15 
+F.C.C.R. at 4134 p 355 (footnote omitted).  Acknowledging 
+that the Justice Department, relying on an AT&T study, had 
+expressed concern about directory listings, the Commission 
+explained that the Department "did not have the benefit of 
+Bell Atlantic's reply [to AT&T's study], which we believe 
+sufficiently rebuts AT&T's claims."  Id. at 4134 p 356.  Al-
+though the Commission did not document all problems with 
+AT&T's study, its conclusion finds sufficient support in the 
+record and is neither arbitrary nor capricious.
+
+                                IV
+
+     We turn to AT&T's challenge to the use restrictions Bell 
+Atlantic places on certain combinations of network elements.  
+Bell Atlantic and its competitors use network elements to 
+provide two types of telecommunications services:  exchange 
+services, which subscribers use to make calls within local 
+exchange areas (local calls), and exchange access services, 
+which long distance carriers use to originate and terminate 
+long distance calls.  Adhering to an NYPSC policy, Bell 
+Atlantic prohibits competing carriers from using a certain 
+combination of unbundled network elements--a combination 
+of loop and transport known as the enhanced extended link or 
+"EEL"--to provide exchange access (long distance) services 
+unless those carriers use those elements primarily to provide 
+exchange (local) services.  In other words, Bell Atlantic de-
+nies EEL access to carriers seeking to use them either 
+exclusively or predominately for long distance service;  those 
+carriers must instead provide long distance service as they 
+had before the 1996 Act--by purchasing special access ser-
+vices from Bell Atlantic.  Special access charges for those 
+services exceed what competitive carriers like AT&T would 
+have to pay to lease EELs.  Thus this dispute.
+
+     The Commission originally considered these use restric-
+tions in its Local Competition First Report and Order, finding 
+them to violate section 251(c)(3)'s requirement that BOCs 
+"provide such unbundled network elements in a manner that 
+allows requesting carriers to combine such elements in order 
+to provide such telecommunications service."  47 U.S.C. 
+s 251(c)(3).  Because long distance service is a "telecommuni-
+cations service," the FCC reasoned, BOCs must provide 
+access to network elements to carriers wishing to use them to 
+provide long distance as well as local service.  "Although we 
+conclude ... that we have discretion under the 1934 Act, as 
+amended by the 1996 Act, to adopt a limited, transitional plan 
+to address public policy concerns raised by the bypass of 
+access charges via unbundled elements," the FCC explained, 
+"we believe that our interpretation of section 251(c)(3) ... is 
+compelled by the plain language of the 1996 Act."  Local 
+
+Competition First Report and Order, 11 F.C.C.R. at 15679 
+p 356.
+
+     In 1999, the Supreme Court vacated the rule listing the 
+network elements BOCs must provide to competitors, see 
+Iowa Util. Bd., 119 S. Ct. 721, leading the Commission to 
+reconsider its position with respect to EEL access.  As part 
+of the process of developing new unbundled network element 
+rules, the Commission issued a Supplemental Order expressly 
+authorizing--indeed, mandating--the use restrictions that ap-
+pellants challenge here.  Issued approximately one month 
+before the FCC approved Bell Atlantic's application, the 
+Supplemental Order provides:
+
+     [U]ntil resolution of our Fourth [Further Notice of Pro-
+     posed Rulemaking], which will occur on or before June 
+     30, 2000, interexchange carriers (IXCs) may not convert 
+     special access services to combinations of unbundled 
+     loops and transport network elements....  This con-
+     straint does not apply if an IXC uses combinations of 
+     unbundled network elements to provide a significant 
+     amount of local exchange service, in addition to exchange 
+     access service, to a particular customer.
+     
+In the Matter of Implementation of the Local Competition 
+Provisions of the Telecommunications Act of 1996, 15 
+F.C.C.R. 1760, 1760 p 2 (1999) ("Supplemental Order") (em-
+phasis added), clarified, In the Matter of Implementation of 
+the Local Competition Provisions of the Telecommunications 
+Act of 1996, FCC No. 00-183 (June 2, 2000) ("Supplemental 
+Order Clarification").  In other words, the Commission man-
+dated these use restrictions on an interim basis.  In a Supple-
+mental Order Clarification, released June 2, 2000, the Com-
+mission extended the temporary constraint beyond June 30, 
+"while we compile an adequate record ... for addressing the 
+legal and policy issues that have been raised."  Supplemental 
+Order Clarification at p 8.
+
+     Acknowledging that it had changed its position, the FCC 
+explained that the interim rule "is consistent with the Com-
+mission's finding in the Local Competition First Report and 
+Order, that we may, where necessary, establish a temporary 
+transitional mechanism to help complete all of the steps 
+toward the pro-competitive goals of the 1996 Act, including 
+
+the full implementation of a competitively-neutral system to 
+fund universal service and a completed transition to cost-
+based access charges."  Supplemental Order, 15 F.C.C.R. at 
+1763 p 7.  Under the Commission's universal service program, 
+local telephone service in high-cost areas is subsidized by 
+incumbent LEC exchange access revenue.  The FCC was 
+concerned that if it allowed carriers to bypass special access 
+charges by using network elements to provide their own 
+exchange access, LEC exchange access revenue would de-
+cline, thus threatening universal service funding.
+
+     In comments opposing Bell Atlantic's application (submit-
+ted before promulgation of the Supplemental Order), AT&T, 
+relying on the same reasons the FCC gave in the Local 
+Competition First Report and Order, contended that these 
+use restrictions are unlawful, precluding the Commission's 
+finding that Bell Atlantic provided "nondiscriminatory access 
+to network elements in accordance with the requirements of 
+sections 251(c)(3) and 252(d)(1)." 47 U.S.C. s 271(c)(2)(B)(ii).  
+The Commission responded in the order approving Bell At-
+lantic's application:
+
+     In the wake of the Supreme Court's January 25, 1999 
+     decision vacating the Commission's Rule 51.319 that iden-
+     tified the network elements incumbent LECs are re-
+     quired to provide on an unbundled basis, and prior to 
+     adoption of our order reinstating that rule, the incum-
+     bents' obligations with regard to offering unbundled net-
+     work elements or combinations thereof has been unclear.
+     
+Bell Atlantic, 15 F.C.C.R. at 4080 p 236 (citing Iowa Util. Bd., 
+119 S. Ct. 721).  "Given this vacuum," the FCC reasoned, "it 
+would be inequitable to penalize Bell Atlantic for complying 
+with the rules established by the New York Commission," 
+which permit these use restrictions.  Id.  The Commission 
+also relied on its determination in the Supplemental Order 
+that the imposition of use restrictions on an interim basis was 
+lawful.  See id.
+
+     Renewing its argument here, AT&T claims that Bell Atlan-
+tic's use restrictions violate section 251(c)(3).  According to 
+AT&T, the Supplemental Order is unlawful and Bell Atlan-
+tic's imposition of use restrictions precludes a finding of 
+checklist compliance.  The FCC responds that compliance 
+
+with Commission orders cannot serve as a basis for rejecting 
+an application.  The reason, the FCC explains, is that the 
+statute does not permit appellants in section 271 proceedings 
+to collaterally attack orders or rules adopted by the Commis-
+sion in other proceedings.  Calling its position "prudent," the 
+Commission further argues that "any such challenge could be 
+brought only through a petition for review of the Supplemen-
+tal Order itself, see 47 U.S.C s 402 (a), not as a collateral 
+attack on this section 271 appeal, see 47 U.S.C. s 402 (b)(6), 
+(9)."  Appellee's Br. at 40.  "Because the Supplemental Or-
+der must be deemed lawful for purposes of this case," the 
+Commission concludes, "Bell Atlantic's use restrictions cannot 
+be a basis for challenging its section 271 authorization."  Id.
+
+     Since this issue presents a straightforward question of 
+statutory construction, we again invoke Chevron.  Under 
+Chevron step one, the "precise question" is this:  In a section 
+271 proceeding, may an applicant's compliance with a collater-
+al order provide the basis for a finding that the applicant has 
+not "fully implemented the competitive checklist"?  47 U.S.C. 
+s 271(d)(3)(A)(i).  Put another way, does the statute require 
+the Commission in section 271 proceedings to entertain chal-
+lenges to orders adopted in other proceedings?  We cannot 
+see how section 271(d)(3)(A)(i) speaks unambiguously to this 
+issue.  The section says nothing about what full implementa-
+tion requires, nor whether the Commission can interpret it as 
+being satisfied by compliance with agency orders.
+
+     The question, then, is whether the FCC's interpretation of 
+section 271(d)(3)(A)(i) is reasonable.  See Chevron, 467 U.S. 
+at 843.  The Commission based its interpretation on the "very 
+unfortunate practical consequences" that would result from 
+adopting AT&T's interpretation of the statute.  Appellee's 
+Br. at 41.  Under that interpretation, during the ninety-day 
+statutory review period the FCC would have to resolve all 
+collateral challenges to rules and orders issued in other 
+proceedings, and then defend its decision in a section 271 
+appeal to this court.  According to the Commission, this 
+would risk converting "precisely focused, extremely expedit-
+ed" section 271 "adjudications, as well as this Court's subse-
+
+quent review proceedings, into forums for the mandatory 
+resolution of major industry-wide issues already pending in 
+traditional notice-and-comment rulemaking proceedings."  Id.
+
+     Given the deference we owe the Commission, particularly 
+where, as here, it has made a judgment about the most 
+efficient way to proceed in a complex administrative matter, 
+we find its interpretation of the statute reasonable.  The 
+Commission's concerns about encumbering the ninety-day 
+administrative process and prolonging litigation, thus delay-
+ing BOC entry into long distance markets, seem well-founded.  
+Under AT&T's interpretation of the statute, parties to section 
+271 proceedings could challenge (before both the Commission 
+and this court) virtually every aspect of the agency's local 
+competition regulations--including TELRIC, as AT&T coun-
+sel conceded at oral argument.  Such a challenge would 
+further complicate these already enormously complex pro-
+ceedings, requiring the Commission, in addition to resolving 
+the many other issues before it, to present a comprehensive 
+defense of TELRIC, all within the ninety days prescribed by 
+the statute.  We would then have to determine whether 
+TELRIC was the appropriate pricing methodology, and in 
+doing so we would create a holding that would supplant any 
+pending petitions for review of the underlying TELRIC or-
+ders, at least in this circuit.  We thus agree with the FCC 
+that allowing collateral challenges could change the nature of 
+section 271 proceedings from an expedited process focused on 
+an individual applicant's performance into a wide-ranging, 
+industry-wide examination of telecommunications law and pol-
+icy.
+
+     Perhaps allowing substantive challenges to collateral orders 
+would result in speedier realization of competitive local and 
+long distance telephone markets.  But the FCC has a differ-
+ent view, and this being a policy judgment, it is for the 
+agency--not this court--to make.  "Congress quite clearly 
+gave the Commission the primary responsibility to make 
+delicate judgments under this statute...."  SBC Communi-
+cations, 138 F.3d at 421.  We are particularly comfortable 
+
+deferring to the Commission's judgment because the agency 
+adopted the Supplemental Order only as "a limited, transi-
+tional plan to address public policy concerns, relating to 
+universal service, raised by the bypass of access charges via 
+unbundled elements."  Cf. Competitive Telecommunications 
+Ass'n v. FCC, 117 F.3d 1068, 1073-75 (8th Cir. 1997) ("Comp-
+Tel").
+
+     We do not agree with AT&T that AT&T v. FCC, 978 F.2d 
+727 (D.C. Cir. 1992) requires a different result.  There, 
+AT&T filed a section 208 complaint challenging a competitor's 
+failure to file a tariff in violation of the Communications Act.  
+The Commission, acknowledging that this court had invalidat-
+ed a previous order exempting nondominant carriers from 
+filing tariffs, deferred consideration of the "validity" of the 
+policy to a future rulemaking and dismissed AT&T's com-
+plaint.  Id. at 731.  Calling the Commission's action an "ad-
+ministrative law shell game," id. at 732, we found the dismiss-
+al of AT&T's complaint "with only a promise to address the 
+legal issue it raised in a future rulemaking" to be arbitrary 
+and capricious, id. at 733.
+
+     AT&T differs from this case in a fundamental respect.  
+Unlike there, where the Commission dismissed AT&T's sec-
+tion 208 complaint, here the Commission fully considered 
+AT&T's challenges to the Commission's approval of Bell 
+Atlantic's section 271 application.  Although the Commission 
+declined to consider AT&T's challenge to the Supplemental 
+Order, there is no evidence that its reason for doing so was, 
+as in AT&T, a desire to "avoid judicial review" motivated by a 
+"fear[ ] ... [that the order] cannot withstand judicial scruti-
+ny."  Id. at 731.  Instead, the Commission relied on its 
+view--reasonable, we have held--that section 271 does not 
+permit collateral challenges to Commission orders.  AT&T 
+could have challenged the Supplemental Order by filing a 
+petition for review pursuant to 47 U.S.C. s 402(a).  In fact, 
+this is exactly what Bell Atlantic and other BOCs did when 
+challenging the TELRIC methodology--they filed a petition 
+for review of the Local Competition First Report and Order, 
+which the Eighth Circuit resolved just days ago.  See Iowa 
+Util. Bd. v. FCC, No. 96-3321 (8th Cir. July 18, 2000).  AT&T 
+may still be able to challenge the Supplemental Order by 
+filing a section 208 complaint when Bell Atlantic actually 
+
+refuses to permit it to use EELs to provide long distance 
+service.  Thus this case involves neither an "administrative 
+law shell game" nor a "promise to address the legal issue ... 
+in a future rulemaking."  Id. at 732-33.
+
+     A final note.  The parties debate the implications of Comp-
+Tel, 117 F.3d at 1073-75.  The FCC argues that the decision 
+supports the interim restrictions authorized by the Supple-
+mental Order.  AT&T thinks that CompTel was wrongly 
+decided.  We need not resolve that debate because the lawful-
+ness of the Supplemental Order is not a proper subject of this 
+section 271 proceeding.
+
+                                V
+
+     This brings us to AT&T's final challenge to the Commis-
+sion's order.  In Bell Atlantic's section 271 application, the 
+company stated its intention to market its affiliate's long 
+distance service to customers who call Bell Atlantic to estab-
+lish or change their existing local service.  Bell Atlantic 
+explained that when it receives calls relating to local service, 
+it will mention its affiliate's long distance service, then offer 
+to read the names of other long distance carriers in random 
+order.
+
+     AT&T claims that Bell Atlantic's practice violates section 
+272(c)(1), which prohibits BOCs from discriminating between 
+their long distance affiliate and other providers of long dis-
+tance service.  See 47 U.S.C. s 272(c)(1).  Section 272(g)(2), 
+however, expressly permits BOCs to engage in joint market-
+ing.  See id. s 272(g)(2).  Under section 272(g)(3), moreover, 
+"[t]he joint marketing and sale of services permitted under 
+this subsection shall not be considered to violate the nondis-
+crimination provisions of subsection (c) of this section."  Id. 
+s 272(g)(3).  We read this provision to exempt joint market-
+ing activities from section 272(c)(1)'s nondiscrimination re-
+quirement.  It is true, as AT&T points out, that section 
+272(g)(3) is titled "Rule of construction," but we do not see 
+how this alters its clear implications.
+
+     AT&T also argues that prior to the 1996 Act the FCC 
+required BOCs to read the names of available long distance 
+carriers in alphabetical order, showing favoritism to none.  
+According to AT&T, because section 251(g) requires BOCs to 
+adhere to all pre-Act nondiscrimination requirements until 
+
+"explicitly superseded by regulations prescribed by the Com-
+mission," 47 U.S.C. s 251(g), BOCs may not deviate from the 
+prior practice of reading the list of all long distance carriers, 
+including themselves, in alphabetical order.  The Commission 
+persuasively responded to this issue in its 1997 Order denying 
+BellSouth's South Carolina application:
+
+     [T]he equal access obligations requiring BOCs to provide 
+     the names and telephone numbers of interexchange car-
+     riers in random order were written at a time when BOCs 
+     could not provide (and therefore could not market) long 
+     distance services.  Now that BOCs ... are permitted 
+     under the Act to market their services jointly, we must 
+     harmonize the existing equal access requirements with 
+     the right under the Act to engage in joint marketing.
+     
+In the Matter of Application of BellSouth Corp., 13 F.C.C.R. 
+at 671 p 238 (footnote omitted).
+
+                                VI
+
+     Approving a section 271 application requires a delicate 
+judgment about the current state of competition in local 
+markets, as well as how best to foster future competition.  
+The FCC must ensure--as it has in five previous cases--that 
+BOCs failing to comply with the 1996 Act's local competition 
+provisions are not allowed to provide long distance service.  
+The Commission must be equally careful to ensure--as it has 
+in this case--that BOCs that satisfy the statute's require-
+ments are not barred from long distance markets.  "Setting 
+the bar for statutory compliance too high would inflict two 
+quite serious harms," as the FCC points out.  Appellee's Br. 
+at 11.  "First, it would dampen every BOC's incentive to 
+cooperate closely with state regulators to open its local mar-
+kets to full competition.... Second, setting the bar too high 
+would simultaneously deprive the ultimate beneficiaries of the 
+1996 Act--American consumers--of a valuable source of 
+price-reducing competition in the long distance market."  Id.
+
+     We believe that the Commission set the bar at a reasonable 
+height.  It demanded real evidence that Bell Atlantic had 
+complied with all checklist requirements, but at the same 
+time, it did not allow " 'the infeasible perfect to oust the 
+feasible good.' "  Edison Elec. Inst. v. ICC, 969 F.2d 1221, 
+
+1227 (D.C. Cir. 1992) (quoting Commonwealth of Pennsylva-
+nia v. ICC, 535 F.2d 91, 96 (D.C. Cir. 1976)).  Given the 
+evidence of growing competition in the New York local tele-
+phone market, see supra at 9-10, the NYPSC's careful work 
+on a host of technical and complex issues, and the thorough 
+analysis conducted by the FCC in the limited time permitted 
+by section 271(c), we find no basis for faulting the Commis-
+sion's conclusion that Bell Atlantic satisfied the statute's 
+requirements for entry into the long distance telephone mar-
+ket.
+
+     The Commission's order approving Bell Atlantic's applica-
+tion is affirmed.
+
+                                                           So ordered.
+
+                                                            

@@ -1,0 +1,541 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued December 3, 2001    Decided May 17, 2002 
+
+                           No. 00-1394
+
+                    General Electric Company, 
+                            Petitioner
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Angus Macbeth argued the cause for petitioner.  With him 
+on the briefs were Patricia K. Casano, Christopher L. Bell 
+and Timothy K. Webster.
+
+     H. Michael Semler, Attorney, U.S. Department of Justice, 
+argued the cause and filed the briefs for respondent.
+
+     Before:  Ginsburg, Chief Judge, and Randolph and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Chief Judge Ginsburg.
+
+     Ginsburg, Chief Judge:  General Electric Co. petitions for 
+review of the "PCB Risk Assessment Review Guidance Docu-
+ment" issued by the Environmental Protection Agency.  The 
+parties dispute (1) whether this case is ripe for review;  (2) 
+whether the Document is a "rule" within the meaning of 
+s 19(a) of the Toxic Substances Control Act (TSCA), and 
+hence whether the court has jurisdiction to review its promul-
+gation;  and (3) whether the Agency should have followed the 
+procedures required for rulemaking in the TSCA and in the 
+Administrative Procedure Act when it promulgated the Docu-
+ment.  We conclude that the case is ripe for review, and that 
+the Guidance Document is a legislative rule such that the 
+court does have jurisdiction to entertain GE's petition and the 
+Document should not have been issued without prior notice 
+and an opportunity for public comment.
+
+                          I. Background
+
+     The TSCA prohibits the manufacture, processing, distribu-
+tion, and use (other than in a "totally enclosed manner") of 
+polychlorinated biphenyls (PCBs) unless the EPA determines 
+that the activity will not result in an "unreasonable risk of 
+injury to health or the environment."  15 U.S.C. s 2605(e)(2) 
+& (3).  The Guidance Document governs the application of 
+two regulations promulgated by the EPA under the TSCA to 
+provide respectively for the cleanup and disposal of PCB 
+remediation waste and for the disposal of PCB bulk product 
+waste.  See 40 C.F.R. ss 761.61 ("cleanup and disposal op-
+tions for PCB remediation waste"), 761.62 (how "PCB bulk 
+product waste shall be disposed").
+
+     Under subsection (c) of each regulation a party may apply 
+for permission to use a method other than one of the generic 
+methods set out in the regulations for sampling, cleaning up, 
+or disposing of PCB remediation waste, or for sampling or 
+disposing of PCB bulk product waste.  The EPA will approve 
+applications under these subsections if the alternative method 
+proposed does "not pose an unreasonable risk of injury to 
+health or the environment."  Id.  The regulations do not, 
+
+however, tell applicants how to conduct the necessary risk 
+assessment.*
+
+     That is where the Guidance Document comes in.  It "pro-
+vide[s] an overview of risk assessment techniques, and guid-
+ance for reviewing risk assessment documents submitted 
+under the final PCB disposal rule."  Guidance Document at 
+10.  Of particular relevance to this case, in the Guidance 
+Document the EPA also explains that an applicant seeking to 
+use an alternative method under s 761.61(c) may take either 
+of two approaches to risk assessment.  Id. at 21, 42.  First, 
+the applicant may calculate cancer and non-cancer risks sepa-
+rately.  Id.  To calculate cancer risks the applicant would 
+have to use a cancer potency factor recognized by the EPA.  
+Such cancer potency factors range, depending upon the expo-
+sure pathway and upon the composition of the PCB mixture, 
+from .04 to 2.0 (mg/kg/day)-1.  Id., Table 9, at 64.  To 
+calculate the non-cancer risks a different type of toxicity 
+value--a reference dose, for example--would have to be used, 
+and certain specified non-cancer risks would have to be taken 
+into account.  Id. at 21, 42.
+
+     The second approach endorsed in the Guidance Document 
+is to use a "total toxicity factor" of 4.0 (mg/kg/day)-1 to 
+account for cancer and non-cancer risks together.  Id.  In its 
+brief the EPA explains that this approach "provides the 
+applicant an opportunity to reduce the time and expense 
+associated with the risk assessment" because the Agency is 
+willing "to accept this 'default' toxicity value of 4.0 (mg/kg/
+day)-1[ ] without requiring further justification."
+
+                           II. Analysis
+
+     GE's primary argument is that the Guidance Document is a 
+legislative rule and therefore should have been promulgated 
+only after public notice and an opportunity for comment.  In 
+
+__________
+     * The Guidance Document initially says it applies to both 
+s 761.61 and s 761.62.  See Guidance Document at 10.  Later in 
+the Guidance Document the EPA appears to use s 761.61 as 
+shorthand for both provisions.  See id. at 21.  We follow the 
+Agency's lead in referring henceforth only to s 761.61.
+
+the alternative it contends that the Guidance Document is not 
+supported by substantial evidence.  Before considering these 
+arguments about the merits, however, we must determine 
+whether the case is ripe for review and whether we have 
+jurisdiction to hear it.
+
+A.   Ripeness
+
+     To determine whether a controversy is ripe for judicial 
+review the court must evaluate "the fitness of the issues for 
+judicial decision and the hardship to the parties of withhold-
+ing court consideration."  Abbott Labs. v. Gardner, 387 U.S. 
+136, 149 (1967).  "In determining the fitness of an issue for 
+judicial review we look to see whether the issue is purely 
+legal, whether consideration of the issue would benefit from a 
+more concrete setting, and whether the agency's action is 
+sufficiently final."  Clean Air Implementation Project v. 
+EPA, 150 F.3d 1200, 1204 (D.C. Cir. 1998).
+
+     Here the EPA argues that "GE's claims satisfy neither 
+aspect of the 'fitness'/'hardship' standard under Abbott Labo-
+ratories."  Regarding fitness, the EPA argues that (1) GE is 
+asking the court to consider factual questions, such as how 
+the EPA would evaluate an application that did not use either 
+of the approaches to toxicity set out in the Guidance Docu-
+ment;  (2) the Guidance Document is not final agency action 
+because the Agency "is currently conducting an assessment of 
+the non-cancer risks of PCBs" and will be modifying the 
+Document "as needed";  (3) "the Court's consideration would 
+be aided by further application of the agency's position to 
+particular facts";  and (4) judicial review is premature because 
+"adjudication may well prove unnecessary."
+
+     We think the issues presented are fully fit for review.  
+First, whether the Guidance Document is a legislative rule is 
+largely a legal, not a factual, question, turning as it does in 
+this case primarily upon the text of the Document.  GE does 
+rely in part upon the Agency's application of the Guidance 
+Document, but we need not reach that issue;  we hold the 
+Guidance Document is a legislative rule because on its face it 
+purports to bind both applicants and the Agency with the 
+force of law.
+
+     Second, it is clear that the Guidance Document is final 
+agency action because it marks the consummation of the 
+EPA's decisionmaking process and it determines the rights 
+and obligations of both applicants and the Agency.  See 
+Bennett v. Spear, 520 U.S. 154, 178 (1997).  The EPA argues 
+that the Guidance Document is not final because it is subject 
+to change and the "EPA has not completed its decisionmak-
+ing process regarding the non-cancer impacts of PCBs."  We 
+rejected a similar argument in Appalachian Power Co. v. 
+EPA, 208 F.3d 1015 (2000), stating:  "The fact that a law may 
+be altered in the future has nothing to do with whether it is 
+subject to judicial review at the moment."  Id. at 1022.  If the 
+possibility (indeed, the probability) of future revision in fact 
+could make agency action non-final as a matter of law, then it 
+would be hard to imagine when any agency rule--and particu-
+larly one that must be updated periodically to reflect ad-
+vances in science--would ever be final as a matter of law.
+
+     In the same vein, the EPA contends that the Fifth Circuit's 
+decision in Central & South West Services, Inc. v. EPA, 220 
+F.3d 683, 695 (2000), remanding the Final Rule governing 
+PCB remediation and decontamination--which Rule the 
+Agency promulgated using the 4.0 (mg/kg/day)-1 toxicity fac-
+tor--was "[i]n effect" a decision that the case was "not ripe 
+because EPA's position on this complex scientific issue was 
+not final."  But the court there did not purport in the least to 
+hold GE's petition non-ripe or the Agency's Final Rule non-
+final.  Id. Rather, the court remanded the issue without 
+considering the merits of GE's petition because, in view of the 
+EPA's continuing assessment of the toxicity of PCBs, the 
+Agency had "no objection to a remand," and that was all the 
+relief GE was seeking.  Id.*
+
+__________
+     * This is all the Fifth Circuit had to say:
+
+     EPA is in the process of conducting a comprehensive assess-
+     ment of the non-cancer toxic effects of PCBs.  According to 
+     EPA, it promulgated the Final Rule before the assessment was 
+     completed, in order to comply with the desires of the regulated 
+     community to finalize the rulemaking as soon as possible.  
+     However, EPA states that it has already committed to reexam-
+     
+     Third, we do not think "the Court's consideration would be 
+aided by further application of the agency's position to partic-
+ular facts."  We conclude below that the Guidance Document 
+should not have been issued without public notice and an 
+opportunity for comment because the Document purports on 
+its face to bind both applicants and the Agency.  In this 
+situation, nothing would be gained from delaying review.
+
+     The EPA's final argument regarding the fitness of the 
+issues for review is that, if the court does not resolve this case 
+now, then it may never be necessary to decide the underlying 
+controversy.  This contention rests upon the EPA's assertion 
+that it will apply the Guidance Document flexibly.  That 
+assertion, however, simply restates a portion of the Agency's 
+argument that the Document is not binding, an argument we 
+reject below.
+
+     As for hardship, the EPA argues that GE will not be 
+harmed if the court defers review of the Guidance Document 
+because GE can later challenge under the APA any decision 
+of the EPA denying its application for a risk-based alterna-
+tive.  As we have previously explained, however, "[w]here the 
+first prong of the [Abbott Laboratories] ripeness test is met 
+and Congress has emphatically declared a preference for 
+immediate review ... no purpose is served by proceeding to 
+the second [or hardship] prong."  George E. Warren Corp. v. 
+EPA, 159 F.3d 616, 622 (1998).  In this case the TSCA 
+requires that any petition for review of a rule be filed within 
+60 days of the promulgation of the rule.  15 U.S.C. 
+s 2618(a)(1)(A).  Consequently, having demonstrated that the 
+issue is fit for review, GE need not also show that delaying 
+review would work a hardship.  For these reasons, we hold 
+the case ripe for review.
+
+__________
+     ine the toxicity of PCBs and has no objection to a remand so 
+     that it can consider the results of the assessment.  Therefore, 
+     we remand ss 761.61(a) and 761.79(b) to give EPA an opportu-
+     nity to complete its assessment and reconsider the Final Rule 
+     in light of its study.
+     
+B.   Jurisdiction under the TSCA
+
+     Before we can reach the merits, we must consider whether 
+the Document is a "rule" subject to our review under 
+s 19(a)(1)(A) of the TSCA, 15 U.S.C. s 2618(a)(1)(A).  That 
+section provides:
+
+     Not later than 60 days after the date of the promulgation 
+     of a rule under section ... 2605(e) ... of this title, ... 
+     any person may file a petition for judicial review of such 
+     rule with the United States Court of Appeal for the 
+     District of Columbia Circuit.
+     
+GE contends that the term "rule" should be read broadly to 
+track the definition in the APA.  See 5 U.S.C. s 551(4).  The 
+EPA takes the narrower view that "direct appellate review is 
+limited to legislative rules, i.e., rules which were (or should 
+have been) promulgated through notice and comment rule-
+making."  See, e.g., Appalachian Power, 208 F.3d at 1020 & 
+n.11.  We need not decide which interpretation of the term 
+"rule" in s 19(a)(1)(A) is correct because we conclude that the 
+Guidance Document is indeed a legislative rule.
+
+     GE argues that the Guidance Document is a legislative rule 
+rather than a statement of policy or an interpretive rule 
+because it gives substance to the vague language of 40 C.F.R. 
+s 761.61(c) ("unreasonable risk of injury to health or the 
+environment"), does so in an obligatory fashion, and is treated 
+by the EPA as "controlling in the field."  See Community 
+Nutrition Inst. v. Young, 818 F.2d 943, 946 (D.C. Cir. 1987);  
+McLouth Steel Prods. Corp. v. Thomas, 838 F.2d 1317, 1320-
+22 (D.C. Cir. 1988);  Appalachian Power, 208 F.3d at 1021.  
+The EPA argues that under the three-part test applied in 
+Molycorp, Inc. v. EPA, 197 F.3d 543, 545 (D.C. Cir. 1999), the 
+Guidance Document is not a legislative rule.  Although it is 
+not entirely clear what in the EPA's view the Document is, 
+the EPA comes closest to characterizing it as a statement of 
+policy;  thus:
+
+     [T]he portion of the guidance at issue here is simply an 
+     expression of EPA's policy judgment, based on the avail-
+     able scientific data and analysis, that when the "total 
+     
+     toxicity" analysis is used, the 4.0 (mg/kg/day)-1 toxicity 
+     value is appropriate to avoid an unreasonable risk to 
+     health or the environment.
+     
+With the Agency's argument so understood, the question 
+before us can be framed as whether the Guidance Document 
+is a legislative rule or a statement of policy.
+
+     As GE argues, in cases where we have attempted to draw 
+the line between legislative rules and statements of policy, we 
+have considered whether the agency action (1) "impose[s] any 
+rights and obligations" or (2) "genuinely leaves the agency 
+and its decisionmakers free to exercise discretion."  Commu-
+nity Nutrition Inst., 818 F.2d at 946;  Chamber of Commerce 
+v. Dep't of Labor, 174 F.3d 206, 212 (1999).  In McLouth, we 
+recognized that "[i]n practice, there appears some overlap in 
+the Community Nutrition criteria" because "[i]f a statement 
+denies the decisionmaker discretion in the area of its cover-
+age, so that [the agency] will automatically decline to enter-
+tain challenges to the statement's position, then the statement 
+is binding, and creates rights or obligations."  838 F.2d at 
+1320.  We emphasized that an agency announcement has 
+"present-day binding effect" if the agency is "simply unready 
+to hear new argument" in proceedings governed by the 
+announcement.  Id. at 1321.
+
+     The EPA urges the court to consider three factors:  "(1) the 
+Agency's own characterization of its action;  (2) whether the 
+action was published in the Federal Register or the Code of 
+Federal Regulations;  and (3) whether the action has binding 
+effects on private parties or on the agency."  Molycorp, Inc., 
+197 F.3d at 545;  see also Florida Power & Light Co. v. EPA, 
+145 F.3d 1414, 1418 (D.C. Cir. 1998);  American Portland 
+Cement Alliance v. EPA, 101 F.3d 772, 776 (D.C. Cir. 1996).  
+As the EPA concedes, however, the third factor is the most 
+important:  "[T]he ultimate focus of the inquiry is whether the 
+agency action partakes of the fundamental characteristic of a 
+regulation, i.e., that it has the force of law."  Molycorp, Inc., 
+197 F.3d at 545.
+
+     The two tests overlap at step three of the Molycorp 
+formulation--in which the court determines whether the 
+
+agency action binds private parties or the agency itself with 
+the "force of law."  This common standard has been well-
+stated as follows:
+
+     If a document expresses a change in substantive law or 
+     policy (that is not an interpretation) which the agency 
+     intends to make binding, or administers with binding 
+     effect, the agency may not rely upon the statutory ex-
+     emption for policy statements, but must observe the 
+     APA's legislative rulemaking procedures.
+     
+Robert A. Anthony, Interpretive Rules, Policy Statements, 
+Guidances, Manuals, and the Like--Should Federal Agen-
+cies Use Them to Bind the Public?, 41 Duke L.J. 1311, 1355 
+(1992).
+
+     Our cases likewise make clear that an agency pronounce-
+ment will be considered binding as a practical matter if it 
+either appears on its face to be binding, Appalachian Power, 
+208 F.3d at 1023 ("[T]he entire Guidance, from beginning to 
+end ... reads like a ukase.  It commands, it requires, it 
+orders, it dictates."), or is applied by the agency in a way that 
+indicates it is binding, McLouth, 838 F.2d at 1321.  As 
+Professor Robert A. Anthony cogently comments, the manda-
+tory language of a document alone can be sufficient to render 
+it binding:
+
+     A document will have practical binding effect before it is 
+     actually applied if the affected private parties are reason-
+     ably led to believe that failure to conform will bring 
+     adverse consequences, such as ... denial of an applica-
+     tion.  If the document is couched in mandatory language, 
+     or in terms indicating that it will be regularly applied, a 
+     binding intent is strongly evidenced.  In some circum-
+     stances, if the language of the document is such that 
+     private parties can rely on it as a norm or safe harbor by 
+     which to shape their actions, it can be binding as a 
+     practical matter.
+     
+Interpretive Rules, 41 Duke L.J. at 1328-29.
+
+     GE argues that the Guidance Document is binding both 
+because it facially requires an applicant for a risk-based 
+
+variance to calculate toxicity by one of two methods--either 
+use a total toxicity factor of 4.0 (mg/kg/day)-1 or use a cancer 
+potency factor and account for the specified non-cancer health 
+risks--and because, considering the cost, delay, and uncer-
+tainty entailed in the latter course, "[f]or all practical pur-
+poses, the Guidance is a rule that directs PCB toxicity to be 
+measured by a 4.0 (mg/kg/day)-1 CPF."
+
+     The EPA counters that the Guidance Document lacks the 
+force of law because it does not purport to be binding and 
+because it has not been applied as though it were binding.  
+First, we are told, the Document "allows great flexibility" 
+because it not only "recognizes two broad approaches to risk 
+assessment," but also acknowledges (at 44) that
+
+     some risk assessments may have components that re-
+     quire the use of non-standard reference materials, unique 
+     exposure scenarios or assumptions, or require the use of 
+     unconventional methods for estimating risks.  These risk 
+     assessments will need to be addressed on a case-by-case 
+     basis.
+     
+Second, the EPA says that it has not in practice "applied the 
+guidance document inflexibly, as if it were a rule or regula-
+tion."  By this, however, the EPA means only that it has 
+received and approved applications based upon the use of the 
+total toxicity factor and upon a separate analysis of cancer 
+and non-cancer risks--and even this limited assertion is 
+disputed by GE.  Finally, the Agency contends that the 
+Guidance Document is "an expression of EPA's judgment on 
+values to be used in conducting risk assessments," much like 
+the data in the Agency's Integrated Risk Information System 
+(IRIS), which this court held are not subject to the require-
+ments of notice and comment rulemaking.  See Chemical 
+Mfrs. Ass'n v. EPA, 28 F.3d 1259, 1263 (1994).
+
+     We think it clear that the Guidance Document does purport 
+to bind applicants for approval of a risk-based cleanup plan 
+under 40 C.F.R. s 761.61(c).  Consider the principal di-
+rectives:  "When developing a risk-based cleanup application 
+... both the cancer and non-cancer endpoints must be ad-
+dressed...."  Guidance Document at 21.  If an applicant 
+
+chooses not to use the 4.0 total toxicity factor, then it "must, 
+at a minimum account for the risk from non-cancer endpoints 
+for neurotoxicity, reproductive and developmental toxicity, 
+immune system suppression, liver damage, skin irritation, and 
+endocrine disruption for each of the commercial mixtures 
+found at the cleanup site."  Id.  Although the Guidance 
+Document does, as noted, anticipate and acknowledge that 
+"some risk assessments may have components that require 
+the use of non-standard ... unique ... or unconventional 
+methods for estimating risk," id. at 44, that does not under-
+mine the binding force of the Guidance Document in standard 
+cases.  See McLouth, 838 F.2d at 1321 ("such a provision for 
+exceptions ... does not push it much in the direction of a 
+policy statement").  Furthermore, even though the Guidance 
+Document gives applicants the option of calculating risk in 
+either of two ways (assuming both are practical) it still 
+requires them to conform to one or the other, that is, not to 
+submit an application based upon a third way.  And if an 
+applicant does choose to calculate cancer and non-cancer risks 
+separately, then it must consider the non-cancer risks speci-
+fied in the Guidance Document.  To the applicant reading the 
+Guidance Document the message is clear:  in reviewing appli-
+cations the Agency will not be open to considering approaches 
+other than those prescribed in the Document.
+
+     The Guidance Document also appears to bind the Agency 
+to accept applications using a total toxicity factor of 4.0 
+(mg/kg/day)-1 to calculate the risk from both cancer and non-
+cancer endpoints.  Guidance Document at 21.  The EPA 
+recognized this in its principal brief:  "By indicating that [a] 
+total toxicity value [of 4.0 (mg/kg/day)-1] will be accepted 
+without detailed justification, the guidance document offers 
+an applicant an opportunity to reduce the time and expense 
+associated with risk assessment."  In its supplemental brief, 
+however, the EPA backs away from this statement, asserting 
+that the "EPA is not 'bound' to approve an application under 
+Section 761.61(c) if the applicant uses a total toxicity factor of 
+4.0 (mg/kg/day)-1, even assuming that the application falls 
+within the framework of the guidance document."  How can 
+this be?  According to the Agency, its position with respect to 
+
+the total toxicity factor "is a matter of policy" that "can be 
+changed at any time to respond to, inter alia, advances in 
+scientific knowledge."  But the Guidance Document itself 
+says nothing of the sort.  Clearly the EPA's initial response 
+more accurately describes the Agency's approach in the Doc-
+ument:  Stating without qualification that an applicant may 
+use a total toxicity factor of 4.0 (mg/kg/day)-1 strongly implies 
+that use of that value will not be questioned;  an applicant 
+reasonably could rely upon that implication.
+
+     The EPA argues that the Guidance Document "neither 
+adds to EPA's prior position nor imposes any further obli-
+gations on EPA or the regulated community" because the 
+Agency had used the toxicity factor of 4.0 (mg/kg/day)-1 when 
+it "establish[ed] the generic cleanup standards in the 1998 
+[PCB] regulations."  In its supplemental brief, however, the 
+Agency explicitly states that it does not think its use of 4.0 
+(kg/mg/day)-1 in the 1998 regulations requires it to approve 
+use of that factor in an application under s 761.61(c).  Be-
+cause we conclude that the Guidance Document does bind the 
+Agency to accept use of 4.0 (kg/mg/day)-1, it follows that the 
+Document does indeed impose a "further obligation[ ] on the 
+EPA."  In this way the Guidance Document is not like the 
+risk data at issue in Chemical Mfrs., which we held "constrain 
+no one until ... applied in a particular rule."  28 F.3d at 
+1263.
+
+     Furthermore, the EPA does not contend that in practice it 
+has not treated the Guidance Document as binding in the 
+ways described above.  The EPA does not claim, for example, 
+that it has accepted any applications that (1) use neither of 
+the two methods of risk assessment approved in the Guidance 
+Document;  or (2) calculate risk separately for cancer and 
+non-cancer endpoints, but fail to calculate endpoints for all 
+the non-cancer risks required by the Guidance Document to 
+be addressed.  Nor does the EPA contend that it has ever 
+rejected an applicant's use of 4.0 (mg/kg/day)-1.  Whether an 
+applicant has successfully used the second method of risk 
+assessment set out in the Guidance Document--as the EPA 
+asserts and GE disputes--is immaterial because, even if both 
+
+methods are practically available, the Document nonetheless 
+binds applicants and the Agency in the ways described above.
+
+     In sum, the commands of the Guidance Document indicate 
+that it has the force of law.  On its face the Guidance 
+Document imposes binding obligations upon applicants to 
+submit applications that conform to the Document and upon 
+the Agency not to question an applicant's use of the 4.0 
+(mg/kg/day)-1 total toxicity factor.  This is sufficient to render 
+it a legislative rule.  Furthermore, the Agency's application of 
+the Document does nothing to demonstrate that the Docu-
+ment has any lesser effect in practice.  Consequently, we 
+conclude that the Guidance Document is a legislative rule.  
+The Guidance Document is therefore undisputedly a "rule" 
+for purposes of s 19(a)(1)(A) of the TSCA, and the manner of 
+its promulgation is subject to review.
+
+C.   The Merits
+
+     The EPA concedes that it did not comply with the proce-
+dural requirements of the TSCA and of the APA.  More 
+specifically, as GE points out, it failed to publish a notice of 
+proposed rulemaking, give interested parties an opportunity 
+to comment, and hold an informal hearing.  See 15 U.S.C. 
+s 2605(e)(4);  15 U.S.C. s 2605(c)(2);  5 U.S.C. s 553.  There-
+fore, having held that the case is ripe for review and that the 
+Guidance Document is a "rule" for purposes of the TSCA, it is 
+clear that GE must prevail on the merits.  The EPA agrees:  
+"Either the petition must be dismissed for lack of jurisdiction 
+or the PCB Guidance should be vacated."  For this reason we 
+need not consider GE's alternative argument on the merits, 
+namely, that the Guidance Document is not supported by 
+substantial evidence.
+
+                         III. Conclusion
+
+     GE's petition for review is granted because the EPA 
+promulgated a legislative rule without following the proce-
+dures required by the TSCA and the APA.  The Guidance 
+Document is accordingly
+
+                                                                 Vacated.
+
+                                                                   

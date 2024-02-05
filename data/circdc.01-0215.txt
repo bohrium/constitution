@@ -1,0 +1,604 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued October 1, 2001   Decided November 9, 2001 
+
+                           No. 00-1304
+
+              AT&T Wireless Services, Inc., et al., 
+                            Appellants
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+          Northeast Communications of Wisconsin, Inc., 
+                         d/b/a Cellcom, 
+                           Intervenors
+
+                   Appeal from an Order of the 
+                Federal Communications Commission
+
+     L. Andrew Tollin argued the cause for appellants.  With 
+him on the briefs were Michael Deuel Sullivan, Douglas I. 
+Brandon, Carol L. Tacker and John T. Scott III.
+
+     Roberta L. Cook, Counsel, Federal Communications Com-
+mission, argued the cause for appellee.  With her on the brief 
+was Daniel M. Armstrong, Associate General Counsel.
+
+     Ronald J. Wiltsie II argued the cause for intervenors.  
+With him on the brief were Michele C. Farquhar, Ronnie 
+London, Donald J. Evans, Timothy Edward Welch, Russell 
+D. Lukas and David L. Nace.  David G. Leitch entered an 
+appearance.
+
+     Before:  Edwards, Rogers and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  In the order on review, the Federal 
+Communications Commission affirmed orders by the Bureau 
+of Wireless Telecommunications granting a waiver of 47 
+C.F.R. s 22.925 for two years to permit AirCell, Inc. and 
+cellular licensees that had entered into resale agreements 
+with AirCell to provide airborne cellular telephone service.  
+See AirCell, Inc., 15 F.C.C. Rcd. 9622 (2000).  Petitioners 
+AT&T Wireless Services, Inc., Bell South Cellular Corp., SBC 
+Wireless, Inc., and Cellco Partnership seek review of the 
+Commission's order on three principal grounds.1  First, they 
+contend that the Commission violated its rules as well as the 
+licensing scheme of the 1934 Communications Act by granting 
+a waiver that modifies the licenses of existing licensees, and 
+by failing to require AirCell to apply for a license to provide a 
+new nationwide air-ground radio communications service.  
+Second, they contend that the waiver was arbitrary and 
+capricious insofar as it eviscerates the rule, contravenes Com-
+mission precedent, and violates Commission policy to proceed 
+by rulemaking when changing rules affecting a broad seg-
+ment of industry.  Third, they contend that the Commission 
+failed to provide a reasoned explanation for its conclusion that 
+harmful interference was not likely to result from the AirCell 
+system.  We grant the petitions in part, remanding the case 
+to the Commission for further explanation of one aspect of its 
+waiver decision;  otherwise we deny the petitions.
+
+__________
+     1  See 47 U.S.C. s 402(a) (1991);  Capital Cities Communica-
+tions, Inc. v. FCC, 554 F.2d 1135, 1136 n.1 (D.C. Cir. 1976).
+
+                                I.
+
+     Section 22.925 of the Commission's rules provides, in perti-
+nent part:
+
+     Cellular telephones installed in or carried aboard air-
+     planes, balloons or any other type of aircraft must not be 
+     operated while such aircraft are airborne (not touching 
+     the ground).  When any aircraft leaves the ground, all 
+     cellular telephones on board that aircraft must be turned 
+     off.
+     
+47 C.F.R. s 22.925 (2000).  Under s 1.3, the Commission has 
+authority to waive its rules "if good cause therefor is shown."  
+Id. s 1.3.
+
+     AirCell, Inc. began developing and testing a low-power 
+cellular system installed on general aviation aircraft under a 
+Special Temporary Authority from the Commission in 1992.  
+Two years later, the Commission's Office of Engineering 
+Technology authorized AirCell to operate as an experimental 
+radio station, providing service on a secondary basis.  Pursu-
+ant to 47 C.F.R. s 2.104(d)(3)(i) and (ii), stations with second-
+ary status "[s]hall not cause harmful interference to stations 
+of primary services to which frequencies are already assigned 
+or may be assigned at later date," and "[c]annot claim protec-
+tion from harmful interference" from such primary stations.
+
+     The AirCell system consists of specially engineered hand-
+sets, ground stations, and so-called "smart" aircraft antennae 
+designed to provide low-power airborne cellular communica-
+tions without creating harmful interference for other cellular 
+networks.  AirCell's ground stations are co-located in rural 
+areas at the cell sites of participating cellular licensees, and 
+customer traffic from the airborne mobile units is intercon-
+nected with the public switched network through the switches 
+of AirCell's participating licensees.  In addition to hardware 
+and software modifications designed to provide cellular com-
+munications at relatively low power levels, the AirCell system 
+seeks to minimize the potential for harmful interference 
+through the use of horizontal polarization, specially shaped 
+antenna patterns, non-standard control channels, and fre-
+
+quency coordination with non-participating cellular providers.  
+The AirCell system was tested by AirCell and petitioners on 
+July 10 and 11, 1997, using four sites in Texas and Oklahoma, 
+and again by petitioners on September 22, 1998, in Florida.
+
+     On October 9, 1997, AirCell filed a petition requesting that 
+the Commission waive, among other things, s 22.925 of its 
+rules to permit commercial deployment of AirCell service.  
+Ten months later, AirCell and a number of cellular licensees 
+entering into resale agreements with AirCell filed an amend-
+ed petition to join the waiver request, thereby establishing 
+that the participating licensees had agreed to modifications of 
+their existing cellular licenses to authorize this secondary use 
+of their licensed spectrum.  The Bureau of Wireless Telecom-
+munications ("Bureau") conditionally granted the waiver re-
+quests on December 24, 1998.  Determining that the AirCell 
+system's potential for interference should be evaluated ac-
+cording to its performance under normal operating conditions, 
+the Bureau found that "the record fully supports the conclu-
+sion that because of the lower power, special antennas, and 
+other features unique to the AirCell mobile unit, the risk of 
+harmful interference that use of an ordinary cellular tele-
+phone[ ] in an airborne aircraft poses has been [satisfactorily] 
+addressed."  Consequently, in the Bureau's view, the harm 
+that s 22.925 is intended to prevent "will most likely not 
+occur," and special circumstances justified a waiver of the 
+general rule.  The Bureau concluded a waiver was also 
+warranted because the public safety benefits to aircraft that 
+will accrue from the use of the AirCell system serve the 
+public interest.  Further, the Bureau observed, AirCell's 
+voice and data link promotes competition by providing small 
+aircraft and general aviation consumers an alternative to 
+existing air-ground services.
+
+     The Bureau imposed nine special conditions on the waiver, 
+including the requirement that cellular service to airborne 
+terminals be a secondary service, and that participating licen-
+sees provide at least thirty days prior notice of service or 
+testing to co-block licensees with transmitter sites within 270 
+kilometers of their ground stations.  The Bureau's conditions 
+further stipulated that participating licensees had a duty to 
+
+provide information promptly on request of the Commission 
+regarding any complaint of interference, and an obligation to 
+resolve any instance of harmful interference, which was de-
+fined as "serious degradation, obstruction, or repeated inter-
+ruption of cellular service."
+
+     On three occasions, the Bureau conditionally granted waiv-
+ers for additional licensees.  In so doing, the Bureau rejected 
+the opposing carriers' arguments that, among other things, 
+AirCell had taken over obligations of the participating licen-
+sees and failed to provide proper advance notice to opposing 
+carriers.  On reconsideration the Bureau also clarified several 
+waiver conditions and reduced the notification distance from 
+270 to 151 kilometers, noting that during the Texas- 
+Oklahoma tests the airborne received signal "was not strong 
+enough to interfere with terrestrial cellular communications, 
+except when the AirCell power control system was deliberate-
+ly disabled for testing purposes."
+
+     The Commission largely affirmed the Bureau's orders 
+granting conditional waivers and reset the two-year term of 
+the waivers to begin on June 9, 2000, the effective date of its 
+order.  The Commission "agree[d] with the Bureau's techni-
+cal assessment of the AirCell system, including its judgment 
+that there is little risk the system will cause harmful interfer-
+ence to non-participating carriers, as well as its evaluation of 
+the system's potential benefit for general aviation."  AirCell, 
+15 F.C.C. Rcd. at 9627.  Based primarily on the design 
+characteristics of the AirCell system and the results of the 
+first day of the Texas-Oklahoma field tests on July 10 and 11, 
+1997, the Commission concluded that AirCell had carried its 
+burden of affirmatively showing that its system is not likely 
+to cause harmful interference to terrestrial cellular opera-
+tions.  The Commission noted that for the July 10, 1997, test,
+
+     AirCell chose a "worst case" scenario for site location, 
+     i.e., the tests were conducted in a rural area where there 
+     was no urban noise to mask the AirCell signal, and in a 
+     manner such that the AirCell airborne mobile unit was 
+     close to the "victim" site and far from the AirCell partner 
+     site.  With this configuration, the AirCell mobile has to 
+     
+     emit its highest power level in order to reach its partner 
+     site.  Even under this configuration, the data from the 
+     first day of testing show that there is little likelihood of 
+     harmful interference.
+     
+Id. at 9630 n.60.  The Commission rejected as unpersuasive 
+the evidence presented by the opposing carriers and rejected 
+the opposing carriers' remaining arguments that, for example, 
+the AirCell system violated their exclusive channel block 
+assignments under 47 C.F.R. s 22.905(a), and that their 
+licenses were improperly modified by the AirCell order.  By 
+relegating the AirCell system to secondary status in the 
+cellular band and requiring advance notification to help en-
+sure that all primary cellular service is protected from harm-
+ful interference throughout the waiver term, the Bureau had, 
+in the Commission's view, provided nonparticipating licensees 
+with "adequate, indeed redundant, interference protection."  
+Id. at 9629.  At the same time, the Commission disclaimed 
+any reliance on a probability study submitted by AirCell.  
+The Commission added several other technical operating 
+conditions "to ensure that the AirCell system will in fact 
+operate within the technical parameters on which the Bu-
+reau's decision was based."  Id. at 9627.
+
+                               II.
+
+     Petitioners raise a variety of objections to the Commis-
+sion's order.  We address in Part A whether the Commission 
+violated its rules and the licensing scheme of the Communica-
+tions Act by allowing AirCell to provide a new nationwide 
+radio communications service without a license.  In Part B, 
+we address whether the waiver grant was arbitrary and 
+capricious.  In Part C, we address whether the Commission 
+failed to provide a rational explanation for its conclusion that 
+harmful interference was not likely to result from the AirCell 
+system.
+
+     Under our standard of review, the court must uphold the 
+Commission's order unless it is "arbitrary, capricious, an 
+abuse of discretion, or contrary to law."  5 U.S.C. 
+s 706(2)(A).  See also Greater Boston Television Corp. v. 
+FCC, 444 F.2d 841, 851 (D.C. Cir. 1970).
+
+                                A.
+
+     Contending that the Commission "effectively granted the 
+[license] application that AirCell could not file" consistent 
+with Commission rules, petitioners maintain that the Commis-
+sion also "effectively modified all cellular carriers' licenses 
+nationwide without complying with Section 316 of the Com-
+munications Act, 47 U.S.C. s 316."  There is no merit to 
+these contentions.
+
+     The two relevant rules relate to geographic exclusivity and 
+protection from interference.  The first, 47 C.F.R. 
+s 22.905(a), provides:  "Each channel block is assigned exclu-
+sively to one licensee for use in that licensee's cellular geo-
+graphic service area ("CGSA") (see s 22.911)."  The second, 
+47 C.F.R. s 22.911(d), provides in relevant part:  "Within the 
+CGSA determined in accordance with this section, cellular 
+systems are entitled to protection from co-channel and first-
+adjacent channel interference and from capture of subscriber 
+traffic by adjacent systems on the same channel block."  The 
+Commission's interpretations of its rules regarding the rights 
+of cellular licensees, including the right to channel block 
+exclusivity and freedom from interference or signal capture 
+within a given CGSA, are entitled to substantial deference.  
+See Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 512 
+(1994);  Trinity Broad. of Florida, Inc. v. FCC, 211 F.3d 618, 
+625 (D.C. Cir. 2000).  The court therefore will accept that 
+these rules proscribe only harmful interference within a given 
+carrier's CGSA, which we address in Part II C, infra.  Ab-
+sent harmful interference, AirCell's new system does not 
+trammel upon petitioners' rights as licensees.  See AMSC 
+Subsidiary Corp. v. FCC, 216 F.3d 1154, 1158-59 (D.C. Cir. 
+2000).  Put otherwise, the waiver does not mean that the 
+licensees participating with AirCell may provide airborne 
+cellular service in a manner that would conflict with the 
+regulatory protections afforded to nonparticipating carriers 
+under their existing licenses.  The Commission emphasized 
+the importance of AirCell's secondary status and advance 
+notification to nonparticipating carriers so that they can steer 
+AirCell away from use of particular channels.  As the Com-
+mission explained, with the grant of the waivers nothing 
+
+changed insofar as the protections to which existing licensees 
+are entitled.
+
+     There is likewise no merit to petitioners' contention that 
+AirCell was required to be licensed.  See 47 U.S.C. ss 301, 
+304, 307-310 (1991 & Supp. 2001).  So long as the licensees in 
+partnership with AirCell maintain actual control over the 
+transmission equipment used in AirCell's system and continue 
+to abide by their own regulatory obligations, the court has no 
+basis for second-guessing the Commission's description of 
+AirCell as a "reseller."  Contrary to petitioners' contention, 
+the Commission expressly rejected the claim that an unautho-
+rized transfer of control of the licensees' operations to AirCell 
+had occurred.  The Commission stated that "[i]n the case of a 
+nationwide network such as AirCell is attempting to build, 
+... the AirCell partners, while remaining responsible for 
+complying with Commission requirements ... may reason-
+ably and prudently assign a single entity the task of being a 
+central contact point for system management and system/site 
+termination purposes."  Aircell, 15 F.C.C. Rcd. at 9643.
+
+     Nor did the Commission contravene its precedent in char-
+acterizing AirCell's relationship to its participating carriers as 
+a resale.  See Resale and Shared Use, Docket 20097, Report 
+and Order, 60 F.C.C.2d 261, 263 (1976), recon., 62 F.C.C.2d 
+588 (1977), aff'd sub nom. AT&T v. FCC, 572 F.2d 17 (2d 
+Cir.), cert. denied, 439 U.S. 875 (1978).  As the Bureau 
+explained in rejecting the argument that AirCell is a facilities-
+based service provider seeking co-primary status with non-
+participating cellular licensees, "AirCell holds no cellular li-
+cense of its own, but instead purchases capacity to support 
+the AirCell service from participating cellular licensees pursu-
+ant to resale agreements."  AirCell's partners have agreed to 
+modifications of their licenses to permit this secondary use of 
+their licensed spectrum.  An analogous situation existed with 
+regard to the credit card facilitator of railroad cellular service 
+in GTE Airfone, GTE Railfone, and GTE Mobilnet, 8 F.C.C. 
+Rcd. 6171 (Aug. 27, 1993).
+
+     For these reasons, the court affirms the Commission's 
+determination that the only legal obstacle to the launch of 
+AirCell's system was the bar in s 22.925.
+
+                                B.
+
+     Petitioners' challenges to the Commission's waiver of 
+s 22.925 as arbitrary and capricious are also meritless.
+
+     In WAIT Radio v. FCC, 418 F.2d 1153 (D.C. Cir. 1969), the 
+court explained that the "agency's discretion to proceed in 
+difficult areas through general rules is intimately linked to 
+the existence of a safety valve procedure for consideration of 
+an application for exemption based on special circumstances."  
+Id. at 1157.  Waiver is thus appropriate when "particular 
+facts would make strict compliance inconsistent with the 
+public interest."  Northeast Cellular Tel. Co. v. FCC, 897 
+F.2d 1164, 1166 (D.C. Cir. 1990).  Given the Commission's 
+findings about the unique capability of the AirCell system to 
+provide low power non-degrading cellular service and its 
+contributions to the public interest, petitioners' challenge to 
+the Commission's decision to act by waiver rather than by 
+rulemaking is unpersuasive.
+
+     The Commission's concern has been with the serious risk of 
+harmful interference to terrestrial systems from the greatly 
+enhanced transmitting range of ordinary cellular telephones 
+used aboard airborne aircraft.  See Airborne Use of Cellular 
+Telephones, 7 F.C.C. Rcd. 23 (Dec. 30, 1991).  AirCell repre-
+sented to the Commission that most conventional cellular 
+systems are optimized for vertical wave polarization;  as a 
+result, horizontally polarized signals used by the AirCell 
+system are less prone to capture by terrestrial receiving 
+antennas.  The Commission noted that "smart" antennae 
+mounted on AirCell-equipped aircraft are designed to trans-
+mit specially shaped patterns that reduce the risk of interfer-
+ence.  Because the Commission reasonably interpreted 
+s 22.925 as being intended to protect against only harmful 
+interference from airborne cellular telephone use, petitioners' 
+contention that the waiver "eviscerates" the purpose of 
+s 22.925 necessarily fails.  Cf. Busse Broad. Co. v. FCC, 87 
+F.3d 1456, 1463-64 (D.C. Cir. 1996).  The Commission could 
+reasonably conclude that when combined with the use of non-
+standard control channels and frequency coordination with 
+nonparticipating licensees, the collective effect of AirCell's 
+
+low-power technological design serves to minimize the risk 
+that its operations will degrade the signals of other cellular 
+service providers, thereby addressing the concerns underly-
+ing the rule.
+
+     In identifying the public interest, see Keller Communica-
+tions, Inc. v. FCC, 130 F.3d 1073, 1076 (D.C. Cir. 1997), the 
+Commission found "few viable alternatives that may provide 
+'safety-related voice communications between pilots and 
+emergency personnel, and can be used to uplink in-cockpit, 
+up-to-the-minute-weather and air traffic information as well 
+as potentially provide in-flight monitoring of airframe and 
+engine operations, serving to better inform ground personnel 
+of aircraft operations.' "  AirCell, 15 F.C.C. Rcd. at 9644.  
+The Commission's determination is owed considerable defer-
+ence.  See Metro. Council of NAACP Branches v. FCC, 46 
+F.3d 1154, 1164 (D.C. Cir. 1995);  Health and Med. Policy 
+Research Group v. FCC, 807 F.2d 1038, 1043 (D.C. Cir. 1987).  
+The record before the Bureau included supportive statements 
+by the National Transportation Safety Board, the Federal 
+Aviation Administration ("FAA"), and the National Associa-
+tion of State Aviation Officials.  Although the FAA did not 
+certify the AirCell system as dedicated public safety equip-
+ment, the Commission observed that the FAA noted several 
+public benefits that could be derived from the system, and 
+that on balance, in view of the protections for primary cellular 
+service, these benefits justified granting the waiver.  The 
+Commission's conclusion that the waiver will offer significant 
+public safety benefits is thus amply supported by the record.
+
+     Petitioners' remaining challenges need only brief response. 
+First, contrary to petitioners' contention that the "me-too" 
+waiver process unlawfully delegates authority to private par-
+ties by allowing AirCell to arbitrarily exempt any carrier of 
+its choice from the rule with no individualized showing, noth-
+ing in the order indicates that the Commission granted 
+AirCell exclusive authority to provide nationwide airborne 
+cellular service.  The waiver is limited to two years, and the 
+order does not state that a similar service provider could not 
+also obtain a waiver.
+
+     Second, because the opposing carriers did not seek clarifi-
+cation on reconsideration, see 47 U.S.C. s 405, that the waiver 
+did not apply to commercial aircraft, the Commission's deci-
+sion and order can hardly be faulted for failing specifically to 
+address commercial aircraft.
+
+     Third, petitioners cannot now contend that the protection 
+provided by the secondary status of AirCell's operation is 
+"illusory" should interference occur because tracing interfer-
+ence to AirCell operations is "infeasible" and recourse to the 
+complaint process will be ineffective.  The opposing carriers' 
+application for review of the Bureau's waiver orders did not 
+challenge the feasibility of initiating an interference com-
+plaint, and hence the Commission was not afforded a fair 
+opportunity to pass on the issue.  See Bartholdi Cable Co. v. 
+FCC, 114 F.3d 274, 279-80 (D.C. Cir. 1997) (citing 47 U.S.C. 
+s 405(a)(2));  see also 47 C.F.R. s 1.115(b).  The Commis-
+sion's decision was adopted on May 24, 2000, and petitioners 
+do not dispute that the ex parte letters on which they rely, 
+dated April 4, 2000, and June 5, 2000, were untimely.  The 
+brief reference in petitioners' September 24, 1999, reply (to 
+AirCell's opposition to review of the Bureau's reconsideration 
+order) to problems documenting overflights of brief duration 
+concerned whether the Bureau erred in allowing AirCell 
+operations on DCMA guardband channels, and thus cannot 
+fairly be said to have alerted the Commission to a different 
+issue, namely, the feasibility of enforcing AirCell's status as a 
+secondary service.  See, e.g., Alianza Federal de Mercedes v. 
+FCC, 539 F.2d 732, 739 (D.C. Cir. 1976).
+
+                                C.
+
+     Although petitioners raise a host of claims in contending 
+that the Commission had no basis for its determination that it 
+was not likely that AirCell's operations would cause harmful 
+interference to terrestrial cellular systems, the court's con-
+cern is confined to one aspect of the Commission's explana-
+tion.
+
+     The parties agree that for terrestrial cellular service to 
+remain effective, the signal from a terrestrial cell phone must 
+
+sufficiently exceed the electromagnetic noise floor of the 
+location where the call is received, plus whatever interference 
+may be generated by a concurrent AirCell signal (i.e., the so-
+called "signal-to-noise-plus-interference ratio").  AirCell 
+claims, and petitioners do not appear to dispute, that the 
+industry standard for this ratio is 17dB.  Conversely, and as 
+a corollary principle, interference from an AirCell signal that 
+falls within the existing noise floor should not be detectable to 
+a terrestrial cell phone user, much less degrade a terrestrial 
+signal utilizing the same frequency within the same CGSA.  
+Apart from this baseline understanding, however, the evi-
+dence before the Commission on the levels of harmful inter-
+ference that AirCell's system could cause was in conflict.
+
+     On the one hand, AirCell submitted reports indicating that 
+there was virtually no chance that its service would cause 
+harmful interference to terrestrial cellular operations.  A 
+report prepared by AirCell consultants, TEC Cellular, Inc. 
+("TECC"), found that virtually all interference from AirCell 
+signals in urban, suburban, and rural areas fell within the 
+existing noise floors of those environments during normal 
+operations.  Relying largely on measured signal strength 
+data from the July 10, 1997, test runs, which were designed to 
+simulate "normal" operating conditions (i.e., with all AirCell 
+components operational and airplanes flying point-to-point 
+paths), the TECC report concluded that "[f]ull scale AirCell 
+operation, properly deployed and engineered, will cause a 
+level of interference to terrestrial calls so low that while it 
+may be detectable with sensitive test equipment, it should be 
+imperceptible to terrestrial callers."  In addition, AirCell 
+submitted a report incorporating the results of a probability 
+study, based also on the July 10, 1997, test data, which 
+concluded that there was only a five-in-a-million chance that 
+an AirCell call could noticeably degrade a terrestrial call.
+
+     On the other hand, the opposing carriers submitted con-
+trary analyses of the test data.  For example, an engineering 
+report submitted by Dr. William C. Y. Lee, Vice President 
+and Chief Scientist, and Mark Schulz, Technology Director of 
+the Strategic Technology Group of AirTouch Communica-
+
+tions, Inc., concluded, based on the July 10 and 11, 1997, test 
+data, that harmful interference was likely to occur 30% of the 
+time.  They based this conclusion on the assumption that the 
+test runs employed on both days are equally probable to 
+occur during actual operations, and that a minus 124 dBm 
+interference threshold should be employed in calculating the 
+likelihood of harmful interference, rather than the minus 117 
+dBm threshold used for acceptable voice quality in the inter-
+ference assessment submitted by AirCell, or the minus 110 
+dBm threshold used in the TECC report as a reasonable 
+lower limit on an acceptable ground call.  In addition, Dr. Lee 
+and Mr. Schulz claimed that there was no test data below the 
+5000' altitude level, notwithstanding a "disturbing trend" 
+showing higher interference levels at progressively lower 
+altitudes, and that there was no mechanism in the AirCell 
+system to terminate and block calls below 5000'.
+
+     The Commission adequately explained why it rejected the 
+July 11, 1997, Texas-Oklahoma test data and the September 
+22, 1998, Florida test data upon which petitioners rely.  The 
+July 11, 1997, test runs were conducted without the dynamic 
+power control element, which eliminated the benefits of one of 
+the main components of the AirCell design.  In addition, the 
+flight patterns employed on that date were abnormal, such 
+that the Commission concluded that they simulated conditions 
+approximating a "major malfunction."  AirCell, 15 F.C.C. 
+Rcd. at 1630.  For similar reasons, the Commission discarded 
+the Florida test results, which also involved abnormal flight 
+patterns around a "victim" cell site at close range and low 
+altitude.  The Commission further noted that the opposing 
+carriers had installed the wrong type of antenna during the 
+Florida test, did not record the AirCell mobile transmitter 
+power output, and deliberately matched the supervisory audio 
+tone to prevent the AirCell telephone from hanging up once it 
+had lost a usable signal from the AirCell ground station.  In 
+addition, given its view that the results of the second day of 
+the Texas-Oklahoma tests and the Florida tests were unrelia-
+ble, the Commission sufficiently justified its rejection of the 
+opinions of the chief operating officers of six major cellular 
+carriers for lack of credible supporting evidence.  Finally, the 
+
+Commission reasonably explained that concern about interfer-
+ence from uptilted antennas was adequately addressed by the 
+ordinary coordinating process that every cellular licensee 
+must conduct under Commission rules.
+
+     However, in rejecting the report of Dr. Lee and Mr. Schulz, 
+the Commission provided no such clarity as to its choice of 
+the appropriate interference threshold.  Rather, the Commis-
+sion simply stated that they had relied on "unrealistic as-
+sumptions, including the use of an unrealistically low interfer-
+ence threshold."  Id. at 9631.  In the Commission's view, use 
+of a threshold of minus 124dBm was "too conservative and 
+... an interference threshold of minus 117 dBm is more 
+realistic for typical analog systems."  Id. at 9631 n.67.  This 
+may be so, and the court would otherwise defer to the 
+Commission's expertise.  See Keller Communications, 130 
+F.3d at 1078.  But the Commission's succinct statement fails 
+to provide a reasoned justification for rejecting the minus 124 
+dBm threshold, much less a defense of the minus 117 dBm 
+threshold that the Commission viewed as being "more realis-
+tic."  Nor does the Commission indicate that it was relying on 
+any rules or standards regarding such determinations.  The 
+omission of an explanation of its choice of an interference 
+threshold is particularly troubling because the July 10, 1997, 
+test data, which was the only test data on which the Commis-
+sion apparently relied, did not represent the full range of 
+operational conditions in which AirCell's phones are likely to 
+be used.
+
+     The only other clarification that the Commission provided 
+was a conclusory assessment, again without further explica-
+tion, that "[b]ased on our review of the evidence, it appears to 
+us that use of the latter [minus 117 dBm] threshold would 
+have led to a finding that AirCell would cause a significant 
+level of harmful interference 0% of the time."  Id.  Obviously, 
+this does not fill the void.  Nor, of course, can the fact that 
+AirCell used the minus 117 dBm threshold in its own report 
+suffice to explain the Commission's choice.  That petitioners 
+may not dispute the results of applying different dBm thresh-
+olds to the test data likewise does not fill in the gap, as the 
+Commission appears to suggest in its brief.  The Commis-
+
+sion's failure to justify adequately its choice of an interference 
+threshold thus implicates its additional failure to explain how 
+it was able, in the absence of a probability study, to translate 
+the raw signal data from the July 10, 1997, field test into a 
+finding that AirCell's system "would cause a significant level 
+of harmful interference 0% of the time" in the real world.
+
+     Conclusory explanations for matters involving a central 
+factual dispute where there is considerable evidence in con-
+flict do not suffice to meet the deferential standards of our 
+review.  Basic principles of administrative law require the 
+agency to " 'examine the relevant data and articulate a satis-
+factory explanation for its action including a rational connec-
+tion between the facts found and the choice made.' "  U.S. 
+Telecom Ass'n v. FCC, 227 F.3d 450, 461 (D.C. Cir. 2000) 
+(quoting Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. 
+Ins. Co., 463 U.S. 29, 43 (1983)).  The Commission may well 
+be able, based on the record that was before it, to resolve 
+satisfactorily the issue of harmful interference in AirCell's 
+favor.  Indeed, the explanation for its conclusion in AirCell's 
+favor may be relatively simple and briefly stated.  Because 
+there is too much evidence in the record suggesting a con-
+trary conclusion, however, the court is unable to discern why 
+the Commission considered one interference threshold prefer-
+able to another or how it could extrapolate from the July 10, 
+1997, test data in the absence of a probability study.  Accord-
+ingly, we grant the petitions in part.
+
+                                                                        

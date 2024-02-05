@@ -1,0 +1,740 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued December 7, 2001    Decided March 5, 2002 
+
+                           No. 01-5013
+
+                    State of Arizona, et al., 
+                            Appellants
+
+                                v.
+
+                       Tommy G. Thompson, 
+           Secretary of Health and Human Services and 
+       Dennis P. Williams, Acting Assistant Secretary for 
+                     Management and Budget, 
+          U.S. Department of Health and Human Services, 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv00860)
+
+     Charles A. Miller argued the cause and filed the briefs for 
+appellants.  Phyllis D. Thompson entered an appearance.
+
+     Anne Murphy, Attorney, U.S. Department of Justice, ar-
+gued the cause for appellees.  With her on the brief was Scott 
+R. McIntosh, Attorney.
+
+     Before:  Edwards, Henderson, and Garland, Circuit 
+Judges.
+
+     Garland, Circuit Judge:  Six states seek review of a di-
+rective of the Department of Health and Human Services 
+(HHS) that bars them from using Temporary Assistance for 
+Needy Families (TANF) grants to pay for the common costs 
+of administering the TANF, Medicaid, and Food Stamp pro-
+grams.  We conclude that HHS erroneously determined that 
+it was without discretion to permit those expenditures.
+
+                                I
+
+     Prior to 1996, three important federal programs provided 
+assistance to people in need:  Aid to Families with Dependent 
+Children (AFDC), 42 U.S.C. s 601 et seq. (1994);  Medicaid, 
+id. s 1396a et seq.;  and the Food Stamp program, 7 U.S.C. 
+s 2011 et seq.  In 1996, Congress passed the Personal Re-
+sponsibility and Work Opportunity Reconciliation Act of 1996, 
+referred to by the parties as the "Welfare Reform Act," Pub. 
+L. No. 104-193, 110 Stat. 2105 (codified as amended in 
+scattered sections of Title 42 and other titles of U.S.C.).  The 
+Welfare Reform Act replaced AFDC with the TANF pro-
+gram.  Unlike AFDC, which was an individual entitlement 
+program, TANF provides federal block grants that states 
+may use for their own public assistance programs.  See 42 
+U.S.C. s 601 et seq.;  H.R. Conf. Rep. No. 104-725, at 261 
+(1996);  H.R. Rep. No. 104-651, at 1322 (1996).  The amount of 
+a state's TANF grant is based on the amount of the reim-
+bursement paid to the state under AFDC during an historical 
+base period.  See 42 U.S.C. s 603.  In order to receive a 
+TANF grant, a state must submit a state plan, which HHS 
+must approve, describing how the state intends to use the 
+grant.  Id. s 602.  A state may spend its grant "in any 
+manner that is reasonably calculated to accomplish the pur-
+pose of" the TANF program, or "in any manner that the 
+
+State was authorized to use amounts received" under AFDC.  
+Id. s 604(a).
+
+     This case involves the use of TANF grants to pay the costs 
+of program administration.  Prior to the enactment of the 
+Welfare Reform Act, the federal government reimbursed 50% 
+of most state administrative expenditures for each of the 
+three programs--AFDC, Medicaid, and Food Stamps--with-
+out a dollar limit on the amount of administrative expendi-
+tures eligible for federal reimbursement.  See 42 U.S.C. 
+s 603(a)(3) (1994) (AFDC);  id. s 1396b(a)(7) (Medicaid);  7 
+U.S.C. s 2025(a) (Food Stamps).  This partial reimbursement 
+scheme continues for Medicaid and Food Stamps.  As noted, 
+however, TANF is a block grant program, under which a 
+state receives a fixed amount of federal funds.  A state may 
+use those funds to administer the TANF program, but "shall 
+not expend more than 15 percent of the grant for administra-
+tive purposes."  42 U.S.C. s 604(b)(1).
+
+     The specific point at issue here is whether states may use 
+their TANF funds to pay for all of the costs that are common 
+to the administration of TANF, Medicaid, and Food Stamps.  
+Such costs may include, for example, the expense of deter-
+mining the eligibility of applicants for assistance where the 
+relevant criteria are common to all three programs, the cost 
+of leasing offices and hiring employees who administer all of 
+the programs, and the cost of administering databases con-
+taining the records of individuals who receive benefits under 
+all of the programs.
+
+     For the past thirty years, the Office of Management and 
+Budget (OMB) has issued government-wide standards con-
+cerning the allocation of the costs of government programs.1  
+OMB Circular A-87 provides that, ordinarily, costs that bene-
+fit multiple programs funded by federal grants must be 
+allocated among the benefiting programs "in accordance with 
+relative benefits received," rather than allocated to a single 
+program.  Cost Principles for State, Local, and Indian Tribal 
+
+__________
+     1 See, e.g., Exec. Order No. 11,541 s 1(a), (b), 35 Fed. Reg. 10,737 
+(July 2, 1970).
+
+Governments, OMB Circular A-87, Attach. A, p C.3.a (1997).2  
+The parties refer to this principle as "benefiting program 
+allocation."  Since 1988, HHS has incorporated by reference 
+OMB Circular A-87 in its own regulations and guidance 
+documents.  See 45 C.F.R. s 92.22;  see also id. s 74.27 
+(adopted in 1994);  Implementation Guide for OMB Circular 
+A-87, Cost Principles and Procedures for Developing Cost 
+Allocation Plans and Indirect Cost Rates for Agreements with 
+the Federal Government, ASMB C-10 (HHS April 1997).3
+
+     Notwithstanding the benefiting program allocation princi-
+ple of OMB Circular A-87, during the life of the AFDC 
+program HHS permitted states to allocate entirely to AFDC 
+all costs that were common to administration of the AFDC, 
+Medicaid, and Food Stamp programs.  The parties refer to 
+this approach, in which common costs are allocated to a single 
+program, as "primary program allocation."  Its application to 
+the AFDC program was regarded as an exception to the 
+general rule of Circular A-87.4
+
+     Following passage of the Welfare Reform Act and creation 
+of the TANF program, HHS moved to stop states from 
+
+__________
+     2 The current version of Circular A-87 is a 1997 amendment of 
+the 1995 version.  See Government Wide Grants Management 
+Requirements, 62 Fed. Reg. 45,934 (OMB Aug. 27, 1997) (amending 
+Cost Principles for State, Local, and Indian Tribal Governments, 60 
+Fed. Reg. 26,484 (OMB May 17, 1995)).  The 1995 version was, in 
+turn, a revision of a document published in 1981.  See Cost Princi-
+ples for State and Local Governments, 46 Fed. Reg. 9548 (OMB 
+Jan. 28, 1981) (reissuing Federal Management Circular 74-4 as 
+OMB Circular A-87).  The provision cited in the text above has 
+remained substantively the same throughout these amendments and 
+revisions.
+
+     3 Although HHS issued a revised version of its Implementation 
+Guide in 1997, after the enactment of TANF, it did so in response 
+not to TANF but rather to OMB's 1995 revision of Circular A-87.  
+The Guide does not take account of the TANF legislation.  See 
+Appellees' Br. at 12 n.12.
+
+     4 See OGAM Action Transmittal 98-2 (HHS Sept. 30, 1998);  
+Appellants' Br. at 5-6;  Appellees' Br. at 13-14.
+
+continuing to employ primary program allocation.  On Sep-
+tember 30, 1998, without notice or opportunity for comment, 
+HHS' Office of Grants and Acquisition Management (OGAM) 
+issued OGAM Action Transmittal 98-2.  The Action Trans-
+mittal reconfirms that, as a general rule, Circular A-87 
+requires that:
+
+     [I]f any program benefits from an activity or cost, then 
+     costs must be allocated to each program.  Where multi-
+     ple programs are involved, a single program may not be 
+     designated as the sole benefiting program (primary pro-
+     gram).
+     
+OGAM Action Transmittal 98-2 (HHS Sept. 30, 1998).  Al-
+though the Action Transmittal recognizes that there are 
+exceptions to this general rule, it further declares that:
+
+     Cost shifting [to a primary program] is not permitted by 
+     most program statutes, except where there is a specific 
+     legislative provision allowing such cost shifting.  While 
+     the former AFDC program allowed such an exception, 
+     the TANF legislation that replaced AFDC does not 
+     permit it being designated as the sole benefiting or 
+     primary program.  Therefore, the TANF program is 
+     subject to the cost allocation principles of A-87.
+     
+Id. (emphasis added).  Starting with state fiscal years begin-
+ning on or after October 1, 1998, the Action Transmittal 
+requires state cost allocation plans for the TANF program to 
+comply with the benefiting program allocation principle.  Id.
+
+     Six states5 filed suit in the United States District Court for 
+the District of Columbia seeking to prevent HHS from en-
+forcing Action Transmittal 98-2.  The States alleged that 
+they incur common administrative costs that benefit TANF, 
+Medicaid, and Food Stamps, and that the Welfare Reform 
+Act permits them to "use their TANF grants to cover costs 
+that benefit TANF and other programs simultaneously."  
+Compl. at 18-19.  In their papers in the district court, the 
+
+__________
+     5 These include original plaintiffs Arizona, Maryland, Michigan, 
+New York, and Tennessee, as well as intervenor Florida (hereinaf-
+ter "the States").
+
+plaintiffs explained that "because of the fall in welfare case-
+loads, states have been unable to use their full TANF grants, 
+so that they are better off financially by charging all common 
+costs to the TANF program."  Plaintiffs' Mot. for Summ. J. 
+at 20 n.5.
+
+     The States' complaint charged that Action Transmittal 98-2 
+violated the Administrative Procedure Act (APA) because, 
+inter alia, it was not in accordance with law (i.e., with the 
+TANF provisions of the Welfare Reform Act), and because it 
+was issued without notice and comment.  See 5 U.S.C. 
+ss 553, 706(2)(A), (D).  The district court rejected these 
+contentions and granted summary judgment in favor of HHS.  
+Arizona v. Shalala, 121 F. Supp. 2d 40 (D.D.C. 2000).  The 
+court concluded that HHS' interpretation of the Welfare 
+Reform Act deserved judicial deference under Chevron 
+U.S.A. Inc. v. Natural Res. Def. Council, Inc., 467 U.S. 837 
+(1984), that the Department reasonably interpreted the legis-
+lation to bar states from applying the primary program 
+allocation approach to their TANF grants, that notice and 
+comment procedures were not required in this case, and that 
+the plaintiffs' other arguments were without merit.6
+
+                                II
+
+     We review the district court's grant of summary judgment 
+against the States' APA claims de novo.  See Independent 
+Petroleum Ass'n of Am. v. DeWitt, 2002 WL 191748, at *2 
+(D.C. Cir. Feb. 8, 2002);  Dr. Pepper/Seven-Up Cos. v. FTC, 
+991 F.2d 859, 862 (D.C. Cir. 1993).  We begin--and, in Part 
+III, end--with the States' first argument:  that the Action 
+Transmittal is "not in accordance with law," 5 U.S.C. 
+s 706(2)(A), because its interpretation of the TANF provi-
+sions of the Welfare Reform Act is inconsistent with the 
+statute.  HHS contends that its interpretation of the legisla-
+
+__________
+     6 The district court also concluded that Action Transmittal 98-2 
+constituted final agency action, a prerequisite for review under the 
+APA.  See 5 U.S.C. s 704.  HHS does not dispute that conclusion 
+on appeal, and we agree with the district court's analysis.  See 
+Bennett v. Spear, 520 U.S. 154, 177-78 (1997).
+
+tion must be accorded substantial deference under the rule 
+announced in Chevron.  The States contend, and we agree 
+albeit for a different reason, that Chevron deference is inap-
+propriate in this case.
+
+     Chevron instructs reviewing courts to apply a two-step 
+framework to issues of statutory construction.  First, we 
+must ask "whether Congress has directly spoken to the 
+precise question at issue," in which case we "must give effect 
+to the unambiguously expressed intent of Congress."  Chev-
+ron, 467 U.S. at 842-43.  If the "statute is silent or ambigu-
+ous with respect to the specific issue," we move to the second 
+step and must defer to the agency's interpretation as long as 
+it is "based on a permissible construction of the statute."  Id. 
+at 843.
+
+     The States contend that the Supreme Court's recent deci-
+sion in United States v. Mead Corp., 121 S. Ct. 2164 (2001), 
+which was issued after the district court's decision in this 
+case, makes Chevron deference inapplicable to agency action 
+of the kind embodied in the Action Transmittal.  They point 
+out that in Mead, the Court said:  " '[I]nterpretations con-
+tained in policy statements, agency manuals, and enforcement 
+guidelines' ... are beyond the Chevron pale."  Id. at 2175 
+(quoting Christensen v. Harris County, 529 U.S. 576, 587 
+(2000)).  Action Transmittal 98-2 is a policy statement, the 
+States contend, and thus does not deserve judicial deference.7
+
+     We need not decide whether HHS' decision to announce its 
+statutory interpretation in the form of an Action Transmittal 
+deprives that interpretation of judicial deference, because the 
+Department's pronouncement does not warrant deference for 
+another reason.  The Court's direction in Chevron was to 
+accord deference to an agency's reasonable policy choice 
+where Congress delegated to the agency the discretion to 
+make such a choice.  See Chevron, 467 U.S. at 843-44, 845, 
+865-66.  The problem here, however, is that in barring 
+primary program allocation, HHS did not purport to exercise 
+
+__________
+     7 See generally OGAM Action Transmittal 98-1 (HHS Sept. 30, 
+1998) ("Action Transmittals ... transmit interpretive rules or gen-
+eral statements of policy.").
+
+discretion.  To the contrary, the Action Transmittal declares 
+that "the TANF legislation ... does not permit it being 
+designated as the ... primary program."  Action Transmittal 
+98-2 (emphasis added).  Confirming the point, HHS' briefs 
+state the Department's view that it has no choice but to 
+require benefiting program allocation.  See Appellees' Br. at 
+42 (contending that "it is the intent of Congress, rather than 
+of HHS, that obliges the States to cover costs allocated 
+outside TANF from programs other than TANF" (emphasis 
+added));  see also id. at 27.  In Chevron terms, then, the 
+agency itself has stopped at step one:  HHS believes that the 
+statute clearly bars primary program allocation, and that it is 
+without discretion to reach another result.
+
+     Deference to an agency's statutory interpretation "is only 
+appropriate when the agency has exercised its own judg-
+ment," not when it believes that interpretation is compelled 
+by Congress.  Phillips Petroleum Co. v. FERC, 792 F.2d 
+1165, 1169 (D.C. Cir. 1986);  see Transitional Hosps. Corp. v. 
+Shalala, 222 F.3d 1019, 1029 (D.C. Cir. 2000);  Prill v. NLRB, 
+755 F.2d 941, 942, 948, 956 (D.C. Cir. 1985).  The question of 
+whether benefiting program allocation is actually compelled 
+by statute is a question of law, which we review de novo.  See 
+Chevron, 467 U.S. at 843 n.9;  Transitional Hosps., 222 F.3d 
+at 1026.  It is to that question that we now turn.8
+
+__________
+     8 In 1999, after notice and comment, HHS issued TANF regula-
+tions that, the agency contends, incorporate the benefiting program 
+allocation principle by requiring conformity with OMB Circular 
+A-87.  See Temporary Assistance for Needy Families Program, 64 
+Fed. Reg. 17,720, 17,842, 17,895 (Apr. 12, 1999) (codified at 45 
+C.F.R. s 263.11(b)).  Although the present lawsuit challenges only 
+the 1998 Action Transmittal and not the 1999 regulations, HHS 
+contends that the use of notice and comment in promulgating the 
+1999 regulations moots the Mead issue and qualifies the Depart-
+ment's determination for Chevron treatment.  However, in conclud-
+ing that deference is inappropriate here, we have relied not on the 
+form in which HHS announced its cost allocation principle, but 
+rather on the Department's conclusion that it was without discretion 
+to adopt any other position.  The 1999 Federal Register notice does 
+
+                               III
+
+     The States cite several provisions of the Welfare Reform 
+Act in support of their challenge to HHS' belief that the 
+TANF legislation bars the use of primary program allocation.  
+We need not consider all of the States' arguments, as two key 
+provisions, subsections (1) and (2) of 42 U.S.C. s 604(a), are 
+sufficient to decide the case.9  Section 604(a) provides:
+
+     [A] State to which a grant is made under [TANF] may 
+     use the grant--
+     
+          (1) in any manner that is reasonably calculated to 
+          accomplish the purpose of this part ...;  or
+          
+          (2) in any manner that the State was authorized to use 
+          amounts received under part A [the AFDC and Emer-
+          gency Assistance programs] or F [the Job Opportuni-
+          ties and Basic Skills program] of this subchapter, as 
+          these parts were in effect on September 30, 1995....
+          
+42 U.S.C. s 604(a).  We consider these two subsections be-
+low.
+
+                                A
+
+     Citing s 604(a)(1), the States contend that they may pay 
+common administrative costs out of their TANF grants be-
+cause such expenditures are "reasonably calculated to accom-
+plish the purpose of" the TANF program.  That purpose, as 
+described in 42 U.S.C. s 601(a), is "to increase the flexibility 
+of the states in operating a program" designed to assist needy 
+families and end dependence on government benefits.10
+__________
+not reflect any new understanding that the Department has discre-
+tion in the matter.
+
+     9 Moreover, because we conclude that these provisions establish 
+that Action Transmittal 98-2 is "not in accordance with law," 5 
+U.S.C. s 706(2)(A), we need not consider the States' alternative 
+argument that it was issued "without observance of procedure 
+required by law," id. s 706(2)(D), namely the notice-and-comment 
+procedure of 5 U.S.C. s 553.
+
+     10 Section 601(a) states:
+
+     HHS does not dispute that states may pay the costs of 
+administering the TANF program itself out of their TANF 
+grants.  Indeed, a contrary position would be hard to square 
+with s 604(b)(2), which, in limiting expenditures for adminis-
+trative purposes to "15 percent of the grant," clearly assumes 
+that some such expenditures will be made.  HHS contends, 
+however, that allocating costs of administering Medicaid and 
+Food Stamps to TANF is not "reasonably calculated" to 
+accomplish the purpose of the TANF legislation.  TANF, the 
+Department argues, does not benefit from the payment of 
+costs that are the responsibility of other programs.
+
+     But the costs at issue here are not costs that are solely 
+applicable to other programs.  This case is about common 
+costs, such as the expense of determining eligibility for 
+programs that have the same eligibility criteria.  These are 
+costs that TANF would have to bear even if the other 
+programs did not exist, and that are incurred in order to 
+ensure that a state's TANF program accomplishes its objec-
+tives.  Accordingly, there is no question but that the TANF 
+program "benefits" from payment of these common costs;  
+indeed, the premise of "benefiting program allocation" is that 
+the costs subject to allocation "benefit" all of the programs at 
+issue.  See Action Transmittal 98-2 (requiring that "costs be 
+allocated to all benefiting programs based on relative benefits 
+derived" (emphasis added)).11
+__________
+     The purpose of this part is to increase the flexibility of States 
+     in operating a program designed to--
+     
+          (1) provide assistance to needy families so that children may 
+     be cared for in their own homes ...;
+     
+          (2) end the dependence of needy parents on government 
+     benefits by promoting job preparation, work, and marriage;
+     
+          (3) prevent and reduce the incidence of out-of-wedlock preg-
+     nancies ...;  and
+     
+          (4) encourage the formation and maintenance of two-parent 
+     families.    
+42 U.S.C. s 601(a).
+
+     11 For the same reason, we reject HHS' contention that the 
+congressional intent behind the provisions for 50% federal partic-
+
+     HHS further argues that the statutory 15% limitation on 
+administrative expenditures demonstrates congressional con-
+cern about excessive administrative spending, and supports 
+the view that expenditure of TANF funds on administrative 
+costs allocable to Medicaid and Food Stamps is unauthorized.  
+Only the first half of this argument is correct.  There is no 
+doubt that Congress imposed a 15% cap in order to limit 
+administrative expenditures:  what other purpose could such a 
+limit have?  But nothing in the primary program allocation 
+approach preferred by the plaintiffs would permit a state to 
+spend more than that the 15% limit on administrative funds.  
+Moreover, while the existence of a cap reflects a concern 
+about limiting expenditures, it may also indicate Congress' 
+view that the cap alone is sufficient to satisfy that concern, 
+and that there is no need to tell the states how to spend their 
+grant money within that cap as long as the expenditures are 
+otherwise calculated to advance the purpose of the program.
+
+     Finally, HHS contends that OMB Circular A-87 represent-
+ed "a well-established background of cost principles for feder-
+al grants" against which Congress enacted the TANF pro-
+gram.  Appellees' Br. at 43.  Circular A-87 was in effect 
+when Congress enacted the Welfare Reform Act, HHS ar-
+gues, and "if Congress had wished TANF to be exempt from 
+these principles, it could have expressly so provided."  Id.  
+Because it did not do so, the Department continues, "it is 
+reasonable to suppose that Congress understood that TANF 
+costs would be allocated within the parameters of Circular 
+A-87."  Id.  The problem with this argument is that the 
+"background" against which Congress enacted the Welfare 
+
+__________
+ipation in the costs of administering the Medicaid and Food Stamp 
+programs, 42 U.S.C. s 1396b(a)(7);  7 U.S.C. s 2025(a), would be 
+violated if states were allowed "to shift Medicaid and Food Stamp 
+costs into TANF so that the full amount of those administrative 
+costs will be paid in federal dollars."  Appellees' Br. at 45.  As 
+noted in the text, primary program allocation does not permit the 
+shift of "Medicaid and Food Stamp costs," but rather of costs that 
+those programs share in common with TANF.  Neither of the cited 
+provisions addresses the question of common costs or purports to 
+disallow expenditures separately authorized by s 604(a)(1).
+
+Reform Act included both Circular A-87's general principle of 
+benefiting program allocation and its well-recognized excep-
+tion for the AFDC program.  See supra Part I.  Although 
+that background may not compel the conclusion that Con-
+gress intended to continue the AFDC exception for its succes-
+sor program, TANF, it hardly proves the opposite.
+
+     The benefiting program allocation principle may well be an 
+appropriate tool for accounting for common costs, but it is 
+only that--an accounting tool, not a statutory command.  It is 
+not possible to read s 604(a)(1)--which permits a state to use 
+its TANF grant "in any manner that is reasonably calculated 
+to accomplish the purpose" of the TANF legislation--as 
+barring HHS from permitting a state to spend its grant 
+money on the costs of running the TANF program merely 
+because those expenditures help run other programs as well.  
+That conclusion is further reinforced by Congress' declaration 
+that the "purpose" referenced in s 604(a)(1) is "to increase 
+the flexibility of States in operating [the] program."  Id. 
+s 601(a);  see also H.R. Rep. No. 104-81, pt. 1, at 15 (1995) 
+(noting "that a major purpose of the [TANF legislation] is to 
+allow States maximum flexibility in the use of Federal dol-
+lars").  Although we do not foreclose the possibility that HHS 
+could, in the exercise of its discretion, determine that the 
+allocation of common costs to TANF is not reasonably calcu-
+lated to accomplish TANF's purpose, the statute does not 
+require HHS to reach that conclusion.
+
+                                B
+
+     The States also contend that authorization for primary 
+program allocation may independently be found in the 
+"grandfather clause" of s 604(a)(2).  That subsection permits 
+a state to use a TANF grant "in any manner that the state 
+was authorized to use amounts received" under the AFDC 
+program.  42 U.S.C. s 604(a)(2).  Since states were autho-
+rized to use amounts received under AFDC to pay the 
+common administrative costs of AFDC, Medicaid, and Food 
+Stamps, the States argue that subsection (a)(2)--like subsec-
+tion (a)(1)--authorizes HHS to permit primary program allo-
+
+cation.  HHS disputes this view of s 604(a)(2) for two rea-
+sons.
+
+     First, the Department contends that the key phrase, "au-
+thorized to use," refers solely to expenses that were autho-
+rized under "state plans," which described the substantive 
+assistance programs the state intended to run.  See 45 C.F.R. 
+ss 201.2, 201.3 (1995).  Administrative costs, by contrast, 
+were addressed in the states' "cost allocation plans," which 
+set forth the states' accounting methods.  See id. s 95.505 
+(1995).  Since the use of AFDC funds for common adminis-
+trative costs was authorized not under "state plans," but 
+rather under state "cost allocation plans," HHS contends that 
+the use of TANF funds for such a purpose is not encom-
+passed by the grandfather clause of s 604(a)(2).
+
+     We disagree.  There is nothing in the phrase "authorized 
+to use" that dictates that it be read as "authorized to use 
+under a state plan," rather than "authorized to use under a 
+state cost allocation plan."  Once again, although we do not 
+foreclose the possibility that HHS could, in the exercise of its 
+discretion, interpret the phrase in that way, it is certainly not 
+required to do so.
+
+     Nor does HHS' reference to the legislative history of s 604 
+advance its claim that "authorized to use" refers only to 
+substantive programs.  The Department refers us to a sen-
+tence in the Conference Report on the Welfare Reform Act, 
+which states that "activities now authorized under" AFDC 
+are also authorized under TANF.  H.R. Conf. Rep. No. 
+104-430, at 320 (1995) (emphasis added).  HHS contends that 
+the word "activities" means substantive programs rather than 
+administrative functions, but again we are not persuaded that 
+the word can bear only the former meaning.  Many adminis-
+trative functions can readily be characterized as "activities," 
+including the hiring of staff, the determination of eligibility, 
+and the maintenance of databases.  We see no indication that 
+the Conference Report used a general word like "activities" to 
+signal an intent to exclude common administrative costs from 
+the compass of s 604(a)(2).
+
+     HHS also offers a second argument for rejecting the 
+States' claim that primary program allocation is authorized by 
+s 604(a)(2):  the only reason such allocation was permitted 
+under AFDC, HHS contends, was that the AFDC statute 
+specifically allowed it.  Since TANF contains no such specific 
+authorization, the Department continues, grandfathering 
+plainly was not intended.  See Action Transmittal 98-2.
+
+     The problem with this argument is its premise:  in fact, the 
+AFDC statute did not specifically authorize primary program 
+allocation.  When pressed to identify the statutory provision 
+allegedly at issue, HHS' counsel conceded that there was no 
+language in the AFDC statute that addressed the allocation 
+issue, one way or the other.  Instead, HHS relies on the fact 
+that the eligibility criteria for the three programs were 
+identical under the prior statutory regime, while TANF per-
+mits but does not require the states to use common eligibility 
+criteria.12  HHS also relies on the fact that, under the prior 
+regime, it made no difference from the standpoint of the 
+federal fisc whether administrative costs were allocated to 
+AFDC or shared among all three programs, because the 
+federal government paid 50% of those costs for each pro-
+gram.13  That is no longer true for TANF, since a state may 
+pay all of its administrative costs out of its federal grant, 
+subject only to the 15% cap.  See 42 U.S.C. s 604(b)(1).
+
+     Once again, these are arguments of policymaking discretion 
+rather than law.  Although the differences between AFDC 
+and TANF may justify a decision by HHS to depart from the 
+
+__________
+     12 Prior to the Welfare Reform Act, the statutes setting forth 
+eligibility criteria for Medicaid and Food Stamps each referenced 
+part A of Title IV of the Social Security Act, 42 U.S.C. s 601 et seq. 
+(1994), the former AFDC statute.  See id. s 1396a(a)(10)(A)(i)(I) 
+(Medicaid);  7 U.S.C. s 2014(a) (Food Stamps).  The Welfare Re-
+form Act largely permits the states to determine the eligibility 
+criteria for TANF, see 42 U.S.C. s 602(a)(1)(B)(iii), but leaves the 
+criteria for Medicaid and Food Stamps unchanged, see id. s 1396u-
+1(a).
+
+     13 See 42 U.S.C. s 603(a)(3) (1994) (AFDC);  7 U.S.C. s 2025(a) 
+(Food Stamps);  42 U.S.C. s 1396b(a)(7) (Medicaid).
+
+method of cost allocation it accepted under the former pro-
+gram, they do not compel it to do so.  Nor do they establish 
+that it would be unreasonable for the Department to approve 
+the allocation method preferred by the States.  Although 
+states are not required to use the same eligibility rules for 
+TANF as for Medicaid and Food Stamps, they are permitted 
+to do so.  See id. s 602(a)(1)(B)(iii) (leaving criteria for TANF 
+eligibility up to the states).  And, according to the plaintiffs, 
+in most states many eligibility determinations remain com-
+mon to all three programs.  See Appellants' Reply Br. at 4.  
+If it was the existence of common eligibility rules and hence 
+common costs that justified primary program allocation be-
+fore, it is not readily apparent why that justification disap-
+pears merely because the common rules are now the result of 
+voluntary state decisions rather than federal mandates.14  
+Similarly, although primary program allocation may not have 
+cost the federal government additional money under the prior 
+regime, nothing in the TANF legislation compels the conclu-
+sion that saving federal (as compared to state) money must be 
+the guide for cost allocation, particularly since Congress 
+provided its own solution to the problem of excessive adminis-
+trative costs in the form of the 15% cap.15
+
+__________
+     14 Moreover, some of the common administrative costs subject to 
+primary program allocation under AFDC did not relate to eligibility 
+determination at all, but rather to such things as the renting of 
+space for welfare offices.  It is not apparent why a change in 
+eligibility requirements would be relevant to the question of wheth-
+er such non-eligibility costs were grandfathered by s 604(a)(2).
+
+     15 The district court found additional, although "hardly disposi-
+tive," support for HHS' interpretation of s 604(a)(2) in s 502 of the 
+Agricultural Research Extension and Education Reform Act of 
+1998, codified at 7 U.S.C. s 2025(k).  See Arizona, 121 F. Supp. 2d 
+at 54-55.  Section 502 directs the Secretary of Agriculture to 
+calculate the amount included in a state's TANF grant for what the 
+state would have historically received under AFDC for the common 
+costs of determining AFDC and Food Stamp eligibility;  the Secre-
+tary is then directed to reduce, by that amount, the federal payment 
+to the state for the administrative costs of the Food Stamp pro-
+gram.  7 U.S.C. s 2025(k)(2)(B), (3)(A).  We do not view s 502 as 
+
+                                C
+
+     Finally, we address a contention pressed by HHS at oral 
+argument:  that whatever the import of s 604(a), OMB Circu-
+lar A-87 independently deprives the Department of discretion 
+to permit the use of primary program allocation.  According 
+to HHS, this is because the Circular requires all federal 
+agencies to use benefiting program allocation in the adminis-
+tration of federal grants.  Putting to one side questions 
+raised by the plaintiffs concerning the legal force of Circular 
+A-87, we reject this contention because the Department did 
+not regard the Circular as having an effect independent of the 
+TANF legislation when it issued Action Transmittal 98-2.  
+See Bowen v. Georgetown Univ. Hosp., 488 U.S. 204, 212 
+(1988) (" 'The courts may not accept appellate counsel's post 
+hoc rationalizations for agency [orders].' " (quoting Burling-
+ton Truck Lines v. United States, 371 U.S. 156, 168 (1962))).
+
+     Although Circular A-87 provides that common costs must 
+ordinarily be allocated among benefiting programs, Action 
+Transmittal 98-2 recognizes that there are exceptions to that 
+rule.  In particular, it acknowledges that an exception was 
+made for the former AFDC program because, the Transmit-
+tal states, there was "a specific legislative provision allowing 
+such cost shifting."  Although in fact there was no such 
+specific provision in the AFDC statute, see supra Part III.B, 
+the statement in the Action Transmittal reflects HHS' under-
+lying view that Circular A-87 does not independently con-
+strain the Department if a statute allows an alternative 
+allocation method.  That view is also reflected in HHS' 
+
+__________
+supporting HHS' conclusion that Congress barred states from using 
+their TANF grants to pay for all common administrative costs.  
+Rather, s 502 reflects Congress' understanding that historical 
+"common costs for administering public assistance programs ... 
+were included in the calculation of each State's new TANF grant," 
+and Congress' determination that Food Stamp reimbursements 
+should therefore be reduced to prevent states from "receiv[ing] a 
+second reimbursement for common costs in the Food Stamp (and 
+Medicaid) programs, while retaining their full TANF block grant."  
+H.R. Conf. Rep. No. 105-492, at 115-16 (1998) (emphasis added).
+
+Implementation Guide for OMB Circular A-87, ASMB C-10, 
+which states that, while Circular A-87 requires the use of 
+benefiting program allocation, primary program allocation 
+may be used "where the head of an awarding agency deter-
+mines that the agency's enabling legislation permits" it.  Id. 
+p 2.11 at 2-13.  In accord with this analysis, the Action 
+Transmittal's rationale for applying the general rule of Circu-
+lar A-87 to TANF is simply that TANF does not permit an 
+exception:  "[T]he TANF legislation ... does not permit it 
+being designated as the sole benefiting or primary program.  
+Therefore, the TANF program is subject to the cost allocation 
+principles of A-87."  Action Transmittal 98-2 (emphasis add-
+ed).
+
+     In short, HHS' determination that Circular A-87 applies to 
+TANF was not made without reference to the Department's 
+construction of the TANF legislation.  To the contrary, that 
+determination was made in reliance on HHS' mistaken belief 
+that the statute gave it no choice in the matter.  Although 
+nothing we have said necessarily precludes HHS, in the 
+exercise of its discretion, from relying on the principles of 
+Circular A-87 to determine the most appropriate cost alloca-
+tion rule to apply to TANF, that is not the course the 
+Department followed in this case.
+
+                                IV
+
+     HHS' Action Transmittal 98-2 does not represent a deter-
+mination by the Department that it is reasonable to interpret 
+the Welfare Reform Act as barring states from allocating 
+their common administrative costs to TANF.  Rather, it 
+reflects HHS' incorrect assumption that such an interpreta-
+tion is the only one that is permissible.  As we have said 
+before, "an agency regulation must be declared invalid, even 
+though the agency might be able to adopt the regulation in 
+the exercise of its discretion, if it 'was not based on the 
+[agency's] own judgment but rather on the unjustified as-
+sumption that it was Congress' judgment that such [a regula-
+tion is] desirable' " or required.  Prill, 755 F.2d at 948 
+(quoting FCC v. RCA Communications, 346 U.S. 86, 96 
+
+(1953)) (alterations in original).16  Accordingly, the decision of 
+the district court is reversed, and the case is remanded to 
+that court with instructions to remand to HHS for further 
+consideration consistent with this opinion.17
+
+                                                        Reversed and remanded.
+
+__________
+     16 See Transitional Hosps., 222 F.3d at 1029 (remanding where 
+HHS erroneously interpreted the Medicare statute as barring the 
+treatment of certain hospitals as "long-term" care facilities);  Prill, 
+755 F.2d at 942 (remanding where the NLRB adopted a definition 
+of "concerted activities" that it erroneously regarded as "mandated" 
+by the National Labor Relations Act).
+
+     17 Because HHS did not adopt the interpretation contained in the 
+Action Transmittal as an exercise of its discretion, we have no 
+occasion to decide whether, if it did so, the same interpretation 
+would be sustained if promulgated in a form warranting Chevron 
+deference.  See Transitional Hosps., 222 F.3d at 1028.
+
+                           

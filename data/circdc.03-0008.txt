@@ -1,0 +1,643 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 7, 2002    Decided January 31, 2003 
+
+                           No. 01-5356
+
+           Wisconsin Project on Nuclear Arms Control, 
+                            Appellant
+
+                                v.
+
+              United States Department of Commerce, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv02673)
+
+     Scott L. Nelson argued the cause for appellant.  With him 
+on the briefs was David C. Vladeck.  Alan B. Morrison 
+entered an appearance.
+
+     Steve Frank, Attorney, U.S. Department of Justice, argued 
+the cause for appellee.  With him on the brief were Roscoe C. 
+Howard, Jr., U.S. Attorney, and Leonard Schaitman, Attor-
+ney.
+
+     Eric L. Hirschhorn, Anne W. Stukes, Janice S. Amundson, 
+and Quentin Riegel were on the brief for amici curiae 
+Industry Coalition on Technology Transfer, et al., in support 
+of appellee.
+
+     Before:  Randolph and Rogers, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Dissenting opinion filed by Circuit Judge Randolph.
+
+     Rogers, Circuit Judge:  The principal question on appeal is 
+whether Exemption 3 of the Freedom of Information Act 
+("FOIA"), 5 U.S.C. s 552(b)(3) (2000), permits the Depart-
+ment of Commerce to withhold from public disclosure infor-
+mation contained in export license applications.  This deter-
+mination requires the court to address the nature of the 
+reference in FOIA Exemption 3 to statutes allowing docu-
+ments to be withheld.  Under the Export Administration Act, 
+50 U.S.C. app. ss 2401-20 (2000), which from time to time 
+has been enacted as temporary legislation, manufacturers of 
+dual-use commodities -- that is, products that can be used for 
+both military and civilian purposes -- must obtain a license 
+from the Department before they may export their products.  
+The Wisconsin Project on Nuclear Arms Control ("the Wis-
+consin Project") requested access under FOIA to these ex-
+port license applications.  The Department responded by 
+providing aggregate data while declining, under Exemption 3, 
+to supply much of the requested specific export data.  In 
+light of the unique statutory framework created by Congress 
+to retain the confidentiality of export data, we affirm the 
+grant of summary judgment to the Department.
+
+                                I.
+
+     The Export Administration Act ("EAA") authorizes the 
+Department of Commerce to establish a regulatory scheme 
+governing the export of dual-use items.  50 U.S.C. app. 
+
+ss 2401-20.  The Department accordingly promulgated the 
+Export Administration Regulations ("export regulations"), 
+which set forth exporters' obligations and specify the types of 
+products that are subject to the EAA's requirements.  15 
+C.F.R. ss 730-74 (2002).  Section 12(c) of the EAA provides 
+that "information obtained for the purpose of consideration of, 
+or concerning, license applications under this Act shall be 
+withheld from public disclosure unless the release of such 
+information is determined by the Secretary [of Commerce] to 
+be in the national interest."  50 U.S.C. app. s 2411(c).  The 
+Department has incorporated this confidentiality provision 
+into the export regulations.  15 C.F.R. pt. 736, supp. 2 (2002).
+
+     Congress originally enacted the export control system as 
+part of the Export Control Act of 1949, Pub. L. 81-11, s 6(c), 
+63 Stat. 7, 8-9, and subsequently replaced it with the Export 
+Administration Act of 1969, Pub. L. 91-184, s 7(c), 83 Stat. 
+841, 845.  Congress has enacted each version of the statute as 
+a temporary measure, explaining that "such important regula-
+tory legislation should be periodically reviewed."  H.R. Rep. 
+No. 95-459, at 13 (1977).  From time to time, however, 
+Congress has amended the EAA to reinstate its provisions 
+and on each occasion has included a sunset provision specify-
+ing the date on which the EAA will expire.  50 U.S.C. app. 
+s 2419 (2000).  The current version of the statute -- the 
+EAA of 1979 -- has lapsed six times, for periods ranging 
+from as short as five days to as long as six years.  Each time 
+the EAA has expired, the President has promptly declared a 
+national emergency and has extended the regulatory scheme 
+by executive order.  See, e.g., Exec. Order No. 13,222, 3 
+C.F.R. 783 (2002);  Exec. Order No. 12,867, 3 C.F.R. 649 
+(1994);  Exec. Order No. 12,730, 3 C.F.R. 305 (1991);  Exec. 
+Order No. 12,470, 3 C.F.R. 168 (1985);  Exec. Order No. 
+12,444, 3 C.F.R. 214 (1984);  Exec. Order No. 11,940, 3 C.F.R. 
+150 (1977).
+
+     Originally the President relied on a provision in the Trad-
+ing with the Enemy Act ("TWEA"), 50 U.S.C. app. s 5(b) 
+(2000), for authorization to continue the export control system 
+during lapses in the EAA.  In 1977, however, Congress 
+reformed the TWEA by enacting the International Emergen-
+
+cy Economic Powers Act ("IEEPA") and provided that the 
+President, upon declaration of a national emergency, may 
+"regulate ... prevent or prohibit ... importation or exporta-
+tion of ... any property in which any foreign country or a 
+national thereof has any interest ... by any person, or with 
+respect to any property, subject to the jurisdiction of the 
+United States."  50 U.S.C. s 1702(a)(1) (2000).  In enacting 
+IEEPA, Congress reaffirmed the President's regulatory con-
+trol over exports by broadening the scope of the EAA to 
+include regulation of extraterritorial exports.  Pub. L. No. 
+95-223, s 301, 91 Stat. 1625, 1629 (codified as amended at 50 
+U.S.C. app. ss 2402-03 (2000)).  IEEPA's legislative history, 
+moreover, indicates that Congress intended the President to 
+use his authority under IEEPA "to continue the Export 
+Administration Regulations in effect" should a "lapse" occur 
+in the EAA.  H.R. Rep. No. 95-459, at 13 (1977).  (No 
+Conference Report exists, and the Senate Report is silent on 
+this point.)
+
+     The EAA of 1979 expired by its terms in 1994, and the 
+President, pursuant to IEEPA, again extended the export 
+controls by Executive Order.  The President declared that 
+the EAA's expiration posed "an unusual and extraordinary 
+threat to the national security, foreign policy, and economy of 
+the United States" and constituted a national emergency.  
+Exec. Order No. 12,924, 59 Fed. Reg. 43,437 (Aug. 19, 1994), 
+reprinted in 50 U.S.C. s 1701 (2000).  The President ordered 
+that the EAA's provisions "be carried out under this order so 
+as to continue in full force and effect...."  Id.
+
+     On July 27, 1999, during the period when the EAA had 
+lapsed, the Wisconsin Project submitted a request under 
+FOIA to the Department for "records of all license applica-
+tions for dual-use commodities that the U.S. Department of 
+Commerce approved, denied, suspended, or returned without 
+action, for export to the People's Republic of China (including 
+Hong Kong), India, Israel, Pakistan, and Russia, for the 
+period beginning January 1, 1995 and extending to the pres-
+ent."  The request stated that it included "information show-
+ing the federal agencies to which each license application was 
+
+referred for review, ... each agency's recommendation on 
+the application referred, ... the applicant, the case number, 
+the date received, the final date, the consignee-end user, the 
+[Export Control Classification Number], the value and the 
+statement of end use."  The Department responded by letter 
+dated August 24, 1999, turning over reports showing aggre-
+gate data for the specified countries while stating that the 
+more detailed information was exempt from disclosure under 
+FOIA Exemption 3.
+
+     After exhausting its administrative remedies, the Wisconsin 
+Project sued in the district court for release of the detailed 
+export information.  While the lawsuit was pending, Congress 
+reenacted the EAA, extending its expiration date from Au-
+gust 20, 1994, to August 20, 2001.  Pub. L. 106-508, 114 Stat. 
+2360 (2000) (codified at 50 U.S.C. app. s 2419).  Before the 
+district court ruled on the Department's motion for summary 
+judgment, the August 2001 expiration date passed, and the 
+President once more extended the EAA's export controls by 
+Executive Order.  Exec. Order No. 13,222, 3 C.F.R. 783 
+(2002).  The district court granted the Department's motion 
+on September 4, 2001.  Citing statements by Members of 
+Congress and the President, the district court concluded that 
+Congress's amendment of the EAA in 2000 made clear that 
+the EAA covered the time period when the Wisconsin Pro-
+ject's request for records was pending before the Depart-
+ment, and it ruled that the amended EAA did not constitute 
+an unconstitutional retroactive application of a new statute to 
+prior conduct.
+
+                               II.
+
+     The purpose of the Freedom of Information Act is " 'to 
+pierce the veil of administrative secrecy and open agency 
+action to the light of public scrutiny....' "  Dep't of the Air 
+Force v. Rose, 425 U.S. 352, 361 (1976) (citation omitted).  
+FOIA embodies " 'a general philosophy of full agency disclo-
+sure unless information is exempted under clearly delineated 
+statutory language.' "  Id. at 360-61 (quoting S. Rep. No. 813, 
+89th Cong., 1st Sess., 3 (1965)).  FOIA accordingly mandates 
+
+a "strong presumption in favor of disclosure," United States 
+Dep't of State v. Ray, 502 U.S. 164, 173 (1991), under which 
+the statutory exemptions to disclosure are to be "narrowly 
+construed," Rose, 425 U.S. at 361.  The exemptions, however, 
+are to be given "meaningful reach and application."  John 
+Doe Agency v. John Doe Corp., 493 U.S. 146, 152 (1989).  In 
+reviewing de novo a grant of summary judgment for the 
+government in a FOIA case, the court remains particularly 
+"mindful that the 'burden is on the agency' to show that 
+requested material falls within a FOIA exemption."  Petrole-
+um Info. Corp. v. United States Dep't of the Interior, 976 
+F.2d 1429, 1433 (D.C. Cir. 1992).
+
+     Exemption 3 takes literally the requirement that disclosure 
+prevail absent "clearly delineated statutory language," Rose, 
+425 U.S. at 361.  Under Exemption 3, agencies may withhold 
+information "specifically exempted from disclosure by statute 
+... provided that such statute (A) requires that the matters 
+be withheld from the public in such a manner as to leave no 
+discretion on the issue, or (B) establishes particular criteria 
+for withholding or refers to particular types of matters to be 
+withheld."  5 U.S.C. s 552(b)(3).  To qualify as a withholding 
+provision, a statute must be "the product of congressional 
+appreciation of the dangers inherent in airing particular data" 
+and must "incorporate[ ] a formula whereby the administrator 
+may determine precisely whether the disclosure in any in-
+stance would pose the hazard that Congress foresaw."  Am. 
+Jewish Cong. v. Kreps, 574 F.2d 624, 628-29 (D.C. Cir. 1978).  
+In short, "only explicit nondisclosure statutes that evidence a 
+congressional determination that certain materials ought to 
+be kept in confidence will be sufficient to qualify under the 
+exemption."  Irons & Sears v. Dann, 606 F.2d 1215, 1220 
+(D.C. Cir. 1979).
+
+     Exemption 3 has evolved from its original text to require 
+that Congress, not the agencies of the Executive Branch, 
+determine the need for nondisclosure.  Congress amended 
+Exemption 3 in 1976 in response to the Supreme Court's 
+decision in Administrator, FAA v. Robertson, 422 U.S. 255, 
+266-67 (1975), which held that s 1104 of the Federal Aviation 
+Act of 1958 ("FAA"), 49 U.S.C. s 1504 (2000), constituted an 
+Exemption 3 withholding statute.  The FAA authorized the 
+
+Administrator to withhold information from public disclosure 
+"when, in [the Administrator's] judgment, a disclosure of such 
+information ... is not required in the interest of the public."  
+Robertson, 422 U.S. at 257 n.4.  Concerned that Robertson 
+"afford[ed] the FAA Administrator cart[e] blanche to with-
+hold any information he please[d]," Congress overruled the 
+decision and narrowed Exemption 3 by adding subsections 
+(A) and (B).  H.R. Rep. No. 94-880, pt. 1, at 23 (1976), 
+reprinted in 1976 U.S.C.C.A.N. 2183, 2204-05 ("H.R. Rep. 
+No. 94-880").  As this court has explained:
+
+     The amended text and its legislative history make 
+     clear that Congress did not want the exemption to 
+     be triggered by every statute that in any way gives 
+     administrators discretion to withhold documents 
+     from the public.  On the contrary, Congress intend-
+     ed exemption from the FOIA to be a legislative 
+     determination and not an administrative one.
+     
+Irons & Sears, 606 F.2d at 1220 (footnote omitted).  A statute 
+qualifies as a withholding statute under Exemption 3, then, 
+where "Congress ha[s] itself made the basic decision, and 
+ha[s] left to the administrator only the task of implementa-
+tion."  Am. Jewish Cong., 574 F.2d at 630.
+
+     This court has previously considered the application of 
+Exemption 3 to the EAA.  In 1978, in American Jewish 
+Congress v. Kreps, the court held that the disclosure provision 
+of the EAA of 1969 did not specify the types of matters to be 
+withheld with sufficient particularity.  574 F.2d at 630-31.  
+The court explained that Congress, in amending Exemption 3, 
+clarified that statutes that merely "set forth benchmarks for 
+secrecy so general as the 'interest of the public' " (such as the 
+statute at issue in Robertson) do not satisfy subsection (B)'s 
+"particular criteria" requirement.  Id. at 629.  "When, on the 
+other hand, Congress has made plain its concern with a 
+specific effect of publicity ... Exemption 3 is to honor that 
+concern."  Id.  Because the nondisclosure provision in the 
+EAA of 1969 referred only to "information obtained" under 
+the Act, id. at 626, the court concluded that the statutory 
+language was too broad to justify withholding information 
+
+under Exemption 3, id. at 631.  The court, in light of the 
+EAA's lapse in 1976, had no occasion to reach "the thorny 
+question whether material that, when submitted, was 'specifi-
+cally exempted from disclosure by statute' lost its exemption 
+once the statute went into remission."  Id. (footnote omitted).
+
+     Following the court's decision in American Jewish Con-
+gress, Congress enacted the EAA of 1979 and amended the 
+statute's nondisclosure provision.  Pub. L. 96-72, s 12(c), 93 
+Stat. 503, 531 (1979) (codified as amended at 50 U.S.C. app. 
+s 2411(c)).  Section 12(c) now specifies the particular types of 
+matters to be withheld -- namely, "information obtained for 
+the purpose of consideration of, or concerning, license applica-
+tions under this Act...."  50 U.S.C. app. s 2411(c).  Thus, 
+we have little difficulty concluding that section 12(c) qualifies 
+as an Exemption 3 statute.  Times Publ'g Co. v. United 
+States Dep't of Commerce, 236 F.3d 1286, 1290 (11th Cir. 
+2001);  Lessner v. United States Dep't of Commerce, 827 F.2d 
+1333, 1337 (9th Cir. 1987) (per curiam);  Durnan v. United 
+States Dep't of Commerce, 777 F. Supp. 965, 966 (D.D.C. 
+1991).  As a result, the "thorny question" to be addressed 
+here is whether the Department may withhold export applica-
+tion data submitted during a period of lapse in the EAA, the 
+mirror image of the "thorny question" in American Jewish 
+Congress.
+
+     The Wisconsin Project contends that the Department may 
+not withhold the data, and the logic of its argument is simple:  
+Exemption 3, by its text, requires that a withholding "statute" 
+be in place;  because the EAA was not in effect either when 
+the exporters submitted their application data to the Depart-
+ment or when the Wisconsin Project requested that data from 
+the Department under FOIA, no statute exists to justify the 
+Department's withholding of the requested data.  The Wis-
+consin Project's formalistic logic, however, misses the bigger 
+picture.  As the foregoing discussion of this circuit's prece-
+dents indicates, the touchstone of the Exemption 3 inquiry is 
+
+whether the statute "is the product of congressional apprecia-
+tion of the dangers inherent in airing particular data and 
+incorporates a formula whereby the administrator may deter-
+mine precisely whether disclosure in any instance would pose 
+the hazard that Congress foresaw."  Am. Jewish Cong., 574 
+F.2d at 628-29.
+
+     Congress's actions throughout the long history of the EAA 
+evince a clear appreciation of the dangers inherent in expos-
+ing export application data to public view.  Since it was first 
+enacted by Congress, the EAA has always contained a confi-
+dentiality provision that permits the Department to withhold 
+export application data.  See 50 U.S.C. app. s 2411(c);  EAA 
+of 1969, Pub. L. 91-184, s 7(c), 83 Stat. 841, 845;  Export 
+Control Act of 1949, Pub. L. 81-11, s 6(c), 63 Stat. 7, 8-9.  In 
+1977, as Congress prepared to renew the EAA's provisions, 
+the Department urged Congress "to grant a blanket exemp-
+tion from the provisions of the Freedom of Information Act 
+with respect to all information" submitted under the EAA.  
+H.R. Rep. No. 95-190, at 18 (1977), reprinted in 1977 
+U.S.C.C.A.N. 362, 379.  Declining the invitation, the House 
+International Relations Committee explained that "[a]ny such 
+information which is legitimately confidential is, in the opinion 
+of the committee, adequately protected by the exemptions of 
+the Freedom Information Act and section 7(c) of the Export 
+Administration Act."  Id.  Congress reaffirmed this view two 
+years later when, in enacting the EAA of 1979, it replaced 
+section 7(c) with an amended section 12(c) in order to protect 
+the export data from disclosure under the court's opinion in 
+American Jewish Congress.  Pub. L. 96-72, s 12(c), 93 Stat. 
+503, 531 (1979) (codified as amended at 50 U.S.C. app. 
+s 2411(c)).
+
+     The legislative history indicates that Congress intended to 
+preserve these confidentiality protections when it renewed 
+the EAA in November 2000.  In commenting on the original 
+House version of the 2000 bill, Representative Gilman noted 
+that "the Department is ... currently defending against two 
+separate lawsuits seeking public release of export licensing 
+information," and he explained that the bill would "make sure 
+that [the Department] can keep the information confiden-
+
+tial...."  146 Cong. Rec. H8022 (daily ed. Sept. 25, 2000).  
+Senator Gramm, commenting on the final version of the 
+legislation, stated that the statute "will make clear that [the 
+Department's] authority to apply the 12(c) confidentiality 
+provision of the 1979 act is to be considered as covering any 
+information regarding license applications obtained during 
+that time period, as if there had been no interruption of 
+authority."  146 Cong. Rec. S11365 (daily ed. Oct. 30, 2000).  
+The Wisconsin Project rightly notes that the legislative histo-
+ry is not entirely uniform on this point.  Representative 
+Gilman, for example, indicated that the bill's final language 
+left him uncertain whether the amendment would clearly 
+protect all information submitted between 1994 and 2000 from 
+disclosure.  146 Cong. Rec. H11575-76 (daily ed. Oct. 30, 
+2000).  But regardless of whether every Member of Congress 
+agreed on the amendment's effect, the Members determined 
+that the confidentiality provision is important to the function-
+ing of the export control system;  otherwise they would not 
+have included it as part of the renewed EAA.  And that 
+determination is the touchstone of this circuit's Exemption 3 
+inquiry.  Irons & Sears, 606 F.2d at 1220.
+
+     The Wisconsin Project fails to acknowledge that the EAA is 
+not the only statute that reflects Congress's determination 
+regarding the confidentiality of export application informa-
+tion.  Congress enacted IEEPA out of concern that export 
+controls remain in place without interruption, and the accom-
+panying Report of the House International Relations Com-
+mittee included the following statement:
+
+           The committee rejected administration recommenda-
+     tions that it make the Export Administration Act 
+          permanent legislation, because it feels that such 
+          important regulatory legislation should be periodi-
+          cally reviewed....  Should a lapse [in the EAA] 
+          occur, however, the authority of [IEEPA] could be 
+          used to continue the Export Administration Regula-
+          tions in effect if, and to the extent that, the Presi-
+          dent declared a national emergency as a result of 
+          such lapse....
+     
+H.R. Rep. No. 95-459, at 13 (1977).  Although the legislative 
+history does not refer to the EAA's confidentiality provision, 
+it does evince Congress's intent to authorize the President to 
+preserve the operation of the export regulations promulgated 
+under the EAA.  Moreover, it is significant for purposes of 
+determining legislative intent that Congress acted with the 
+knowledge that the EAA's export regulations had long pro-
+vided for confidentiality and that the President's ongoing 
+practice of extending the EAA by executive order had always 
+included these confidentiality protections.  Cf. United States 
+v. Midwest Oil Co., 236 U.S. 459, 469-74 (1915).  Thus, in 
+Irons & Sears, the court was "extremely reluctant to impute 
+to Congress an intent to eliminate the long-standing confiden-
+tiality accorded to patent applications absent rather unambig-
+uous indications that this is what the Congress really want-
+ed."  606 F.2d at 1220-21.  A similar approach is appropriate 
+here in light of Congress's express desire, as evidenced by its 
+enactment of IEEPA and its knowledge of a pattern of 
+consistent lapse-filling by executive order, to hold export 
+application information in confidence.
+
+     Although Congress might have chosen to act in a manner 
+that reflects the Wisconsin Project's formalistic emphasis on 
+Exemption 3's requirement of a withholding statute -- by, for 
+example, making the EAA and section 12(c) permanent legis-
+lation -- it did not, for reasons it explained.  H.R. Rep. No. 
+95-459, at 13.  Consequently, for purposes of determining 
+congressional intent with respect to withholding certain ex-
+port data from the public, considering the EAA in conjunction 
+with other statutes is not inconsistent with FOIA's purpose or 
+Exemption 3's text.  Exemption 3 contemplates withholding 
+pursuant to "clearly delineated statutory language," a phrase 
+that admits of more than a single statutory source.  Through 
+the concerted operation of three congressional statutes -- the 
+EAA, the TWEA, and IEEPA -- and in light of the Depart-
+ment's regulations and the President's executive orders pur-
+suant to those statutes, the export control system has re-
+mained in place without interruption for over fifty years.  50 
+U.S.C. app. s 2401-20 (2000);  EAA of 1969, Pub. L. 91-184, 
+83 Stat. 841, 845;  Export Control Act of 1949, Pub. L. 81-11, 
+
+63 Stat. 7, 8-9.  During that time, the Department has always 
+retained the authority to withhold export license application 
+information from public disclosure.  50 U.S.C. app. s 2411(c);  
+EAA of 1969, Pub. L. 91-184, s 7(c), 83 Stat. 841, 845;  
+Export Control Act of 1949, Pub. L. 81-11, s 6(c), 63 Stat. 7, 
+8-9.  The Wisconsin Project points to nothing to indicate that 
+this is not as the Congress intended.
+
+     While the Wisconsin Project's approach is attractive in its 
+simplicity, it fails to come to grips with the statutory scheme 
+Congress has erected for export data.  The Wisconsin Project 
+would effectively require the court to hold that Congress 
+must act by a single statute if its legislation is to qualify as a 
+withholding statute under Exemption 3, and that the confi-
+dentiality of the export data is undone by the EAA's expira-
+tion notwithstanding Congress's expectations to the contrary.  
+In allowing the EAA to lapse from time to time, Congress has 
+focused on a series of difficult and controversial questions 
+having, so far as we are aware, nothing to do with its 
+expectation that export data would remain confidential.  See 
+Dan Haendel & Amy L. Rothstein, The Shifting Focus of 
+Dual Use Export Controls, 25 Int'l Law. 267 (1991);  Export 
+Controls;  Views Abound, Time Runs Out, Economist, Oct. 1, 
+1983, at 45;  Christopher Madison, Congress, Administration 
+Split on How to Plug Technology Leaks to Soviets, Nat'l 
+Journal, Feb. 19, 1983, at 380.  Furthermore, the statutory 
+scheme for ensuring the confidentiality of certain export data 
+has none of the FAA's vagaries that concerned Congress, for 
+the statutes do not "afford [the President] cart[e] blanche to 
+withhold any information he pleases."  H.R. Rep. No. 94-880, 
+pt. 1, at 23.
+
+     FOIA undoubtedly demands a liberal presumption of dis-
+closure.  But the Supreme Court has observed that the 
+"statutory exemptions are intended to have meaningful reach 
+and application."  John Doe Agency, 493 U.S. at 152.  The 
+Wisconsin Project's unduly strict reading of Exemption 3 
+strangles Congress's intent and deprives the exemption of 
+meaningful reach in the context of the export regulatory 
+scheme.  In rejecting this approach, the court does not 
+diminish the requirement that an agency's decision not to 
+disclose materials under Exemption 3 must be based upon 
+
+"clearly delineated statutory language" that provides stan-
+dards for withholding.  In Founding Church of Scientology v. 
+Bell, 603 F.2d 945, 951 (D.C. Cir. 1979) (per curiam), the 
+Federal Bureau of Investigation invoked Exemption 3 in 
+withholding documents that a trial court in another proceed-
+ing had sealed under Rule 26(c) of the Federal Rules of Civil 
+Procedure.  The court held that "Exemption 3 is explicitly 
+confined to material exempted from disclosure 'by statute,' 
+and the Federal Rules of Civil Procedure simply do not 
+satisfy this description."  Id. at 952.  The court noted that 
+the rules "are issued by the Supreme Court under rulemak-
+ing powers delegated by Congress.  Although proposed rules 
+may be rejected by Congress, they are not affirmatively 
+adopted by the legislature, as all statutes must be."  Id. 
+(footnotes omitted).  Most importantly, the court observed 
+that "the rule's standards for issuing protective orders do not 
+comport with the criteria set forth in Exemption 3," because 
+the rule affords broad discretion to the trial court and does 
+not identify particular types of matters to be withheld.  Id.  
+There is no dispute, as the Wisconsin Project points out, that 
+the EAA's export regulations and executive orders, like the 
+Federal Rules, are not congressionally enacted statutes.  See 
+INS v. Chadha, 462 U.S. 919, 945-46 (1983).  But Bell is 
+inapposite because the Federal Rules were originated and 
+written not by Congress but by the Supreme Court, whereas 
+the executive order here continued precisely the provision 
+originated and written by Congress.
+
+     Our conclusion accords with the decision of the Eleventh 
+Circuit Court of Appeals in Times Publishing Co. v. United 
+States Department of Commerce, 236 F.3d 1286, 1288 (11th 
+Cir. 2001).  The Eleventh Circuit confronted the same ques-
+tion:  whether the Department may withhold export applica-
+tion information under Exemption 3 even where the EAA has 
+expired.  The court began with the principle established in 
+this court's precedent that, "[w]here Congress has made plain 
+its intention to exclude the information ... from public 
+disclosure under FOIA, the purpose of Exemption 3 -- to 
+ensure that 'basic policy decisions on governmental secrecy 
+are made by the Legislative rather than the Executive 
+
+branch' -- is satisfied."  Id. (quoting Am. Jewish Cong., 574 
+F.2d at 628).  The court then noted that "Congress has 
+renewed the confidentiality provision each time it has re-
+newed the EAA" and that "Congress has authorized the 
+President, also by means of statute, to maintain the force of 
+the confidentiality provision by way of executive order."  Id. 
+at 1291.  The court thus concluded "Congress has acted 
+specifically to design a statutory provision to maintain confi-
+dentiality."  Id.  It followed that "the comprehensive legisla-
+tive scheme as a whole -- the confidentiality provision of the 
+EAA, the intended and foreseen periodic expiration of the 
+EAA, and the Congressional grant of power to the President 
+to prevent the lapse of its important provisions during such 
+times -- exempts from disclosure the export licensing infor-
+mation requested by Appellees."  Id. at 1292.  We agree.
+
+     Finally, because IEEPA qualifies as an Exemption 3 stat-
+ute, there can be no retroactivity problem.  The Wisconsin 
+Project contends that even if the EAA, with its concomitant 
+regulations and executive orders, qualifies as an Exemption 3 
+withholding statute, applying the 2000 EAA amendment to 
+protect the Department's 1994-2000 data improperly affords 
+the amendment retroactive effect.  But the reenactment of 
+the EAA confirmed, with respect to confidentiality, what has 
+been the case all along.  Hence, contrary to the Wisconsin 
+Project's claim, in light of clear congressional intent, no "new 
+legal consequences" are being attached "to events completed 
+before its enactment," Landgraf v. USI Film Prods., 511 U.S. 
+244, 270 (1994), as would make application of the EAA 
+impermissibly retroactive.
+
+     Accordingly, because the Department of Commerce proper-
+ly invoked Exemption 3 in withholding specific export applica-
+tion data in response to the Wisconsin Project's request, and 
+because Congress's amendment of the EAA in 2000 did not 
+constitute unconstitutional retroactive legislation, we affirm 
+the grant of judgment to the Department.
+
+     Randolph, Circuit Judge, dissenting:  The statute has ex-
+pired but its legislative history is good law.  So say my 
+colleagues, in a most curious opinion.
+
+     Exemption 3 of the Freedom of Information Act permits 
+federal agencies to withhold documents "specifically exempt-
+ed from disclosure by statute."  5 U.S.C. s 552(b)(3).  We 
+can all agree that if s 12(c) of the Export Administration Act, 
+50 U.S.C. app. s 2411(c), were a law, it would qualify as an 
+Exemption 3 "statute."  But the Export Act has expired.  It 
+has no more force than the Independent Counsel statute or 
+the Sedition Act of 1798.  It simply "no longer exists.  Its life 
+is at an end."  Greenwood v. Freight Co., 105 U.S. (15 Otto) 
+13, 18 (1881).
+
+     Mere "formalism," a quibble, replies the majority.  The 
+Wisconsin Project's reading of Exemption 3 to require a 
+"statute," the majority explains, "strangles Congress's in-
+tent."  Maj. op. at 12.  In other words, the Export Act may 
+be gone, but congressional intent lives on:  Congress at one 
+time wanted the Commerce Department to keep the informa-
+tion secret, and so it shall remain.  No matter that the 
+Freedom of Information Act--a real law--expresses Con-
+gress's intent to require a statute exempting the documents 
+from disclosure when they are sought or about to be released.  
+(The only documents sought were applications filed during a 
+time when the Export Act was not in effect.)
+
+     The majority also does a little, a very little, with the 
+International Emergency Economic Powers Act, suggesting 
+that it breathes life into the expired confidentiality provision 
+of the Export Act.  To qualify for Exemption 3 treatment 
+under this theory, the Economic Powers Act must explicitly 
+refer to the Export Act, if not its confidentiality provision.  
+See Irons & Sears v. Dann, 606 F.2d 1215, 1220 (D.C. Cir. 
+1979).  The Economic Powers Act does not even mention the 
+Export Act.  Instead, it authorizes the President to "regulate 
+... any ... exportation of ... or transactions involving, any 
+property in which any foreign country or a national thereof 
+has any interest" during a national emergency.  50 U.S.C. 
+s 1702(a)(1)(B).  The only indication the Economic Powers 
+Act revived the Export Act comes not from its text but, as 
+the majority imparts, maj. op. at 10-11, from a Committee 
+
+report.  The trouble is the Committee report does not men-
+tion keeping the expired Export Act alive;  it talks only about 
+preserving regulations the Commerce Department issued.  
+Regulations are not statutes, under the Freedom of Informa-
+tion Act, or otherwise.  More than that, the Committee 
+report does not even refer to the Export Act's confidentiality 
+provision.  The Economic Powers Act, which does not itself 
+exempt anything from disclosure, thus flatly fails to qualify as 
+an Exemption 3 "statute."  See Nat'l Ass'n of Home Builders 
+v. Norton, 309 F.3d 26, 38 (D.C. Cir. 2002).
+
+     The majority must realize the problem, so it asserts that an 
+Executive Order "continued precisely" the Export Act's confi-
+dentiality provision.  Maj. op. at 13.  It never occurred to me, 
+or to the Framers of the Constitution, that the Executive 
+could by the stroke of a pen convert expired legislation into 
+an existing statute.  Besides, no Executive Order of any sort 
+can satisfy Exemption 3, even if it tracks the language of 
+expired legislation.  See Nat'l Ass'n of Home Builders, 309 
+F.3d at 38.  An Executive Order is not a statute.  See INS v. 
+Chadha, 462 U.S. 919, 945-46 (1983).
+
+     Congress amended Exemption 3 in the wake of FAA v. 
+Robertson, 422 U.S. 255 (1975), to restrict the Executive's 
+discretion to withhold information;  it required, as a condition 
+for nondisclosure, an explicit nondisclosure statute.  See Am. 
+Jewish Cong. v. Kreps, 574 F.2d 624, 628-29, 631 (D.C. Cir. 
+1978).  There is no such statute here.  In the end all the 
+majority can come up with is some free-floating congressional 
+intent about the meaning of a statute that no longer exists.  
+Alice once encountered a comparable phenomenon:  " 'Well!  
+I've often seen a cat without a grin,' thought Alice;  'but a 
+grin without a cat!  It's the most curious thing I ever saw in 
+all my life!' "  Lewis Carroll, Alice in Wonderland 69 (1946).  
+I therefore respectfully dissent.
+
+             

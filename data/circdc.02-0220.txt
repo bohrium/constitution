@@ -1,0 +1,905 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued February 20, 2002     Decided July 19, 2002 
+
+                           No. 00-3020
+
+                    United States of America, 
+                             Appellee
+
+                                v.
+
+                  Michael Palmer, a/k/a James, 
+                     a/k/a Knot, a/k/a Tony, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                        (No. 89cr00036-01)
+
+     Sandra G. Roland, Assistant Federal Public Defender, 
+argued the cause for the appellant.  A. J. Kramer, Federal 
+Public Defender, was on brief.
+
+     David B. Goodhand, Assistant United States Attorney, 
+argued the cause for the appellee.  Kenneth L. Wainstein, 
+United States Attorney at the time the brief was filed, and 
+
+John R. Fisher and Thomas J. Tourish Jr., Assistant United 
+States Attorneys, were on brief.  Mary-Patrice Brown, Assis-
+tant United States Attorney, entered an appearance.
+
+     Before:  Henderson, Randolph and Rogers, Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  Michael Palm-
+er (Palmer) appeals the dismissal of his petition to vacate his 
+criminal conviction.  In particular, he challenges the district 
+court's holding that the Antiterrorism and Effective Death 
+Penalty Act of 1996 (AEDPA), Pub. L. No. 104-132, 110 Stat. 
+1214 (1996) (codified in various sections of Title 28 of the 
+United States Code), applies to his petition notwithstanding, 
+he argues, that it merely amends a pre-AEDPA section 2255 
+petition filed on his behalf by the Office of the Federal Public 
+Defender (FPD).  Palmer also contends that his motion for a 
+new trial, made under Federal Rule of Criminal Procedure 33 
+and recharacterized by this court sua sponte as a section 2255 
+petition, does not constitute a "first" section 2255 petition and 
+thus the district court wrongly concluded that his current 
+section 2255 petition is "successive" within the meaning of the 
+AEDPA.  This case raises an issue of first impression in our 
+circuit:  whether this court's (or a district court's) treatment 
+of a federal prisoner's motion for any post-conviction relief 
+(including a new trial) as a section 2255 petition renders a 
+subsequent section 2255 petition "second or successive" and 
+thus governed by the AEDPA's procedural limitations.  
+While we agree that the AEDPA applies to Palmer's section 
+2255 motion, we nonetheless conclude that his motion is not 
+successive and therefore reverse the dismissal of Palmer's 
+motion, remanding for further proceedings.
+
+                                I.
+
+     In a 23-count indictment filed in 1989, the United States 
+charged Palmer and seven co-defendants with multiple nar-
+cotics and firearm offenses.  Following a jury trial, Palmer 
+was convicted on 12 counts, including conspiracy to distribute, 
+and to possess with intent to distribute, cocaine base and 
+
+cocaine powder in violation of 21 U.S.C. s 846;  operating a 
+continuing criminal enterprise which involved the distribution 
+of at least 1500 grams of cocaine base in violation of 21 U.S.C. 
+s 846(b);  conspiracy to use and carry firearms during and in 
+relation to drug trafficking offenses in violation of 18 U.S.C. 
+s 924(c);  and use of juveniles in drug trafficking in violation 
+of 21 U.S.C. s 861.  On October 18, 1989 he was sentenced to 
+life without parole plus twenty years, and ten years' super-
+vised release.  He was also ordered to pay a special assess-
+ment fee of $1,050.  Palmer subsequently appealed his convic-
+tion, which this court affirmed in United States v. Harris, 959 
+F.2d 246 (D.C. Cir.), cert. denied, 506 U.S. 933 (1992).
+
+     On September 15, 1995 Palmer filed pro se his first post-
+conviction motion.  It was entitled "Motion for New Trial 
+Newly Discovered Evidence" and sought a new trial "pursu-
+ant to Federal Rules of Criminal Procedure, Rule 33, and 
+USCA title 18."  (Rule 33 Motion).  Palmer alleged that he 
+was "critically prejudiced" by the introduction into evidence 
+of photographs of himself and Raymond Morant brandishing 
+firearms, which photographs led the jury, wrongly according 
+to Palmer, to believe that the firearms belonged to him.  See 
+Rule 33 Motion at 1.  Attached to the Rule 33 Motion was an 
+affidavit signed by Raymond Morant asserting that, while 
+Palmer was present when Morant purchased four guns in 
+Pennsylvania, it was Morant, not Palmer, who made the 
+purchase and owned the guns.  Id., Exh. A.  Acknowledging 
+that the Rule 33 Motion was untimely, Palmer asserted the 
+delay resulted from "[e]xcusable [n]eglect."  Id. at 1.  On 
+December 5, 1995 the district court summarily denied the 
+Rule 33 Motion.  See December 5, 1996 Order.1  Palmer 
+appealed and the government, in opposition, argued that the 
+district court had properly denied the motion as "untimely."  
+Gov't Br. in United States v. Palmer, No. 95-3204 (1995) at 
+8-9.  The government further asserted that even if the 
+
+__________
+     1 The order stated:  "Upon consideration of defendant's motion 
+for documents and for new trial, good cause not having been shown, 
+and the record herein;  it is ... ORDERED that defendant's 
+petitions be and they are hereby denied."  December 5, 1996 Order.
+
+district court had considered the motion on the merits, it 
+would have rejected the motion.  Id. at 10.  In an unpub-
+lished opinion, we affirmed the district court.  See United 
+States v. Palmer, 97 F.3d 593 (D.C. Cir. 1996).  We initially 
+noted that, "[a]lthough Palmer's motion for a new trial based 
+on newly discovered evidence is untimely under Federal Rule 
+of Criminal Procedure 33, his request for a new trial can be 
+treated as a motion to vacate, set aside, or correct sentence 
+pursuant to 28 U.S.C. s 2255."  Id.  Assessing the merits, we 
+stated that "[t]he evidence Palmer relies on for his claim that 
+he had no connection to the guns bought by Raymond Morant 
+is not newly discovered" because the information included in 
+the Morant affidavit "was made available to the defense prior 
+to trial and ... Morant, in fact, did discuss his possible 
+testimony with Palmer's trial counsel."  Id.  We further 
+opined that the "prosecutorial overreaching" and "ineffective 
+assistance of trial counsel" claims were "insufficient to entitle 
+him to relief under 28 U.S.C. s 2255."  Id.
+
+     On April 22, 1996, two days before the AEDPA became 
+effective, a lawyer in the FPD's Office filed a petition entitled 
+"Motion to Vacate Conviction Pursuant to 28 U.S.C. s 2255" 
+(FPD 2255 Motion), purportedly on Palmer's behalf.  It 
+raised a single claim under Bailey v. United States, 516 U.S. 
+137 (1995),2 seeking to vacate his conviction on the section 
+924(c) count (using/carrying a firearm "during and in rela-
+tion" to a "drug trafficking crime").3  The FPD did not, 
+
+__________
+     2 In Bailey the United States Supreme Court defined "use" of a 
+firearm under 18 U.S.C. s 924(c)(1) to mean that the defendant 
+"actively employed the firearm during and in relation to the predi-
+cate crime."  Bailey, 516 U.S. at 150.  Thus, a conviction of "using" 
+a firearm under section 924(c)(1) "requires more than a showing of 
+mere possession."  Id. at 144.
+
+     3 The FPD 2255 Motion also requested leave to supplement with 
+supporting points and authorities, necessitated by the "recently 
+enacted statute of limitations on the filing of habeas corpus peti-
+tions, see Terrorism Prevention Act, Sec. 105, and upon the fact that 
+the Federal Public Defender's Office has identified over two-
+hundred cases in which relief may he warranted in light of the 
+
+however, contact Palmer before, or even after, filing the 
+motion.  Palmer learned of the FPD 2255 Motion only when 
+he received a copy of the docket sheet from the district court 
+clerk of court in July 1996.  See July 5, 1996 Palmer Motion 
+to Dismiss at 1 p 2-4.  At that point, Palmer, again proceed-
+ing pro se, moved to dismiss the FPD 2255 Motion declaring 
+that "the federal defender's office filed a [section 2255] motion 
+regarding a single issue of violation under 18 U.S.C. 924(c), 
+without consultation with defendant concerning other issues" 
+and thus "has placed defendant with the possibilities of any 
+further petition being denied as successive."  Id. at 2 p 5-6.
+
+     While his motion to dismiss was pending, Palmer filed 
+another motion pro se, this one entitled "Motion to Amend."  
+He explained that he now wanted to "adopt[ ]" the FPD 2255 
+Motion.  See April 8, 1997 Motion to Amend at 2.  He further 
+requested permission to "[a]mend this action in the bounds of 
+justice and equal protection."  Id.  Along with the motion to 
+amend, Palmer filed pro se a sixty-seven page motion entitled 
+"Motion to Vacate Conviction" pursuant to 28 U.S.C. s 2255.  
+He raised ten additional claims involving numerous evidentia-
+ry, sentencing and constitutional issues but making no specif-
+ic reference to the Bailey claim raised in the FPD 2255 
+Motion.  See April 8, 1997 Motion to Vacate Conviction 
+(Palmer 2255 Motion).  On June 2, 1997 the district court 
+issued an order granting Palmer's motion to dismiss the FPD 
+2255 Motion without referring to his subsequent motion to 
+amend (Dismissal Order).  The Dismissal Order denied two 
+of the claims raised in the Palmer 2255 Motion as "previously 
+rejected on direct appeal" and required the government to 
+respond to Palmer's remaining claims within twenty days 
+from the date of the order.  See June 2, 1997 Dismissal Order 
+at 1-2.  Palmer did not seek reconsideration of the Dismissal 
+Order nor did he file a notice of appeal.
+
+     As required by the Dismissal Order, the government re-
+sponded to Palmer's 2255 Motion on June 12, 1997.  Relying 
+on this court's decision in United States v. Palmer, supra, the 
+
+__________
+Supreme Court's recent decision in Bailey."  FPD 2255 Motion at 
+1.
+
+government argued that this court had "deemed defendant's 
+[Rule 33] motion simultaneously as a motion for new trial and 
+as a motion to vacate sentence under 28 U.S.C. section 2255."  
+Government's Opposition to Defendant's Motion to Vacate, 
+Set Aside or Correct Sentence at 3.  The government further 
+argued that "[s]ince this is the defendant's second section 
+2255 motion[,] it is subject to" the procedural limitations of 
+the newly-enacted AEDPA.  Id. at 3-4.  Even if the AEDPA 
+was not applicable, the government contended that the Palm-
+er 2255 Motion violated the "abuse of the writ doctrine"4 and 
+thus was not cognizable in district court.  See id. at 4 (citing 
+McClesky v. Zant, 499 U.S. 467 (1991)).
+
+     On June 23, 1997 Palmer filed pro se a reply entitled 
+"Response to Government's Opposition to Petitioner's 28 
+U.S.C. s 2255," asserting that the Rule 33 Motion was dis-
+missed as untimely only and further that his 2255 motion was 
+not "successive" because it "supplement[ed]" the FPD 2255 
+Motion.  The FPD separately filed a supplement to Palmer's 
+pro se reply, adopting Palmer's position that his 2255 motion 
+was not a "new submission, but merely an amendment" and 
+adding that "Palmer's Motion[ ] to Amend relate[s] back to 
+the April 22, 1996 [FPD 2255] Motion filed on his behalf."  
+July 22, 1997 Supplemental Reply to Government's Opposi-
+tion to Motion to Vacate at 1 p 1.  In a second supplemental 
+reply to the government's opposition, the FPD further argued 
+that abuse of the writ was inapplicable to Palmer's circum-
+stances, noting that the doctrine was designed to address 
+cases of "deliberate abandonment of claims or inexcusable 
+neglect," neither of which applied to Palmer.  See August 8, 
+1997 Second Supplemental Reply to Government's Opposition 
+to Motion to Vacate at 1-2.
+
+     Eventually, on October 29, 1998 Palmer, this time through 
+the FPD, filed "Defendant's Supplement to and Amendment 
+to Motion to Vacate, Set Aside or Correct Sentence," expand-
+ing the arguments he raised in the Palmer 2255 Motion as 
+well as reasserting the Bailey claim raised in the FPD 2255 
+
+__________
+     4 The abuse of the writ doctrine is further explained infra at 17 
+note 10.
+
+Motion.  Palmer attached an affidavit in which he declared 
+that his only intent in filing the Rule 33 Motion was to "file 
+under Rule 33 for a New Trial."  See August 7, 1997 Affidavit 
+of Michael Palmer at 1 p 3.  The government's opposition 
+repeated its argument that the Palmer 2255 Motion was a 
+second or successive one under the AEDPA.  It asked the 
+district court to transfer the Palmer 2255 Motion to this 
+court to consider whether to certify it for review under 
+section 2244.5  See Government's Motion to Transfer Defen-
+dant's Motion Pursuant to 28 U.S.C. s 2255 Or, In The 
+Alternative, Government's Opposition to Defendant's Motion 
+Pursuant to 28 U.S.C. s 2255 at 1.  Alternatively, the govern-
+ment argued that the Palmer 2255 Motion should be denied 
+on the merits.  Significantly, the government conceded that 
+in light of United States v. Anderson, 59 F.3d 1323 (D.C. Cir. 
+1995) (en banc) (one underlying drug-trafficking crime cannot 
+be predicate for more than one section 924(c) conviction), four 
+of Palmer's five section 924(c) convictions should be vacated.  
+Moreover, the government also acknowledged that Palmer's 
+section 846 conspiracy conviction should be vacated because it 
+was a lesser included offense of the continuing criminal 
+enterprise conspiracy count.  Id.  On August 20, 1999 Palmer 
+filed pro se his reply to the government's opposition.  See 
+Palmer's Reply to Government's Response to 2255 Motion.  
+In addition to addressing the merits, Palmer again responded 
+to the government's successive motion argument by pointing 
+out that this court had "[w]ithout implication or notice, ... 
+altered [his] Rule 33 Appeal after all briefing schedules had 
+been met, by noting in its opinion the change to an appeal of a 
+28 U.S.C. s 2255 motion."  He continued that "[t]his misuse 
+of discretion created an impasse now creating a possible 
+successive motion."  Id. at 2.  Palmer further stated that he 
+had filed the Rule 33 Motion "without knowledge of the law" 
+and that, at the time, he was also preparing a section 2255 
+motion covering all of his claims.  Id.
+
+__________
+     5 Section 2244 prohibits the filing of a second or successive habeas 
+application absent exceptional circumstances.  See infra at 14 n.12.
+
+     In a one-page order issued on December 30, 1999 the 
+district court dismissed the Palmer 2255 Motion, concluding 
+that under the AEDPA the motion constituted a "successive 
+application for review of his sentence" which "must initially 
+be addressed by the United States Court of Appeals for the 
+District of Columbia Circuit rather than by this court."  
+December 30, 1999 Order at 1.  On March 3, 2000 Palmer 
+filed a timely notice of appeal.6  Subsequently, he moved to 
+hold the appeal in abeyance pending the issuance of a certifi-
+cate of appealability (COA) by the district court.  After we 
+sua sponte remanded the case for consideration of the COA 
+question, the district court issued an order on April 9, 2001 
+granting the application for a certificate because "a reason-
+able jurist could disagree with this court's holding that the 
+AEDPA applied to Mr. Palmer's s 2255 motion and that the 
+motion was a 'successive application for review of his sentence 
+brought pursuant to 28 U.S.C. s 2255.' "  April 9, 2001 Order 
+Granting Defendant Palmer's Motion for a Certificate of 
+Appealability at 2.  In addition, the court concluded that the 
+"defendant has stated at least one claim that a reasonable 
+jurist could construe as a valid claim of the denial of a 
+constitutional right."  Id.
+
+                               II.
+
+     Our review of the district court's dismissal of Palmer's 
+section 2255 motion is de novo.  See United States v. Lanier, 
+220 F.3d 833, 837 (7th Cir.), cert. denied, 121 S. Ct. 312 
+(2000);  Moore v. United States, 173 F.3d 1131, 1133 (8th Cir. 
+1999).
+
+     Palmer's challenge to the district court's dismissal of the 
+Palmer 2255 Motion rests on two grounds:  first, he contends 
+that his section 2255 motion, filed pro se on April 8, 1997, 
+simply amended the FPD 2255 Motion, which was filed 
+before the enactment of the AEDPA and therefore is not a 
+successive motion under the AEDPA.  Second, Palmer ar-
+
+__________
+     6 On May 9, 2002 we granted the FPD's petition for appointment 
+to represent Palmer, finding that the "interests of justice warrant 
+appointment of counsel."  April 6, 2000 Order (per curiam).
+
+gues that even if the AEDPA does apply, the Palmer 2255 
+Motion is not a second or successive motion because this 
+court sua sponte recharacterized his untimely Rule 33 Motion 
+as a section 2255 motion without notice to him.
+
+     A.   Applicability of AEDPA
+          
+     Palmer asserts that the FPD filed the FPD 2255 Motion on 
+his behalf on April 22, 1996, before the AEDPA's effective 
+date, and therefore it is not subject to the AEDPA's "succes-
+sive" motion restriction.  In Lindh v. Murphy, 521 U.S. 320 
+(1997), the United States Supreme Court determined that the 
+AEDPA amendments to section 2255 apply only to cases filed 
+after the statute's April 24, 1996 enactment date.  Id. at 326-
+27.7  In Lindh, however, the Court did not address whether 
+the AEDPA applies to a section 2255 motion filed prior to, 
+but amended after, the effective date of the AEDPA.  Rule 
+12 of the Rules Governing Section 2255 Proceedings For the 
+United States District Courts provides that "[i]f no procedure 
+is specifically prescribed by these rules, the district court may 
+proceed in any lawful manner not inconsistent with these 
+rules, or any statute, and may apply the Federal Rules of 
+Criminal Procedure or the Federal Rules of Civil Procedure, 
+whichever it deems most appropriate, to petitions filed under 
+these rules."  Rules Governing Section 2255 Proceedings For 
+the United States District Courts, Rule 12.  Because the 
+Section 2255 Rules do not address whether an amended 
+petition relates back to the original filing date, courts have 
+applied Rule 15 of the Federal Rules of Civil Procedure, 
+which governs amended and supplemental pleadings, to 
+
+__________
+     7 The Court in Lindh found evidence of congressional intent from 
+the fact that section 107, which creates an entirely new chapter 154 
+with special rules for habeas proceedings in state capital cases, 
+provides that "Chapter 154 ... shall apply to cases pending on or 
+after the date of enactment of this Act."  110 Stat. 1226.  The 
+Court concluded that section 107(c)'s applicability to all cases pend-
+ing at enactment indicates by implication that the AEDPA amend-
+ments to chapter 153 of Title 28 (which includes section 2255) "were 
+assumed and meant to apply to the general run of habeas cases only 
+when those cases had been filed after the date of the Act."  Lindh, 
+521 U.S. at 327.
+
+amended section 2255 motions.  See, e.g., United States v. 
+Pittman, 209 F.3d 314, 316-17 (4th Cir. 2000) (applying Rule 
+15 to decide whether post-AEDPA amendments "relate back" 
+to timely section 2255 motion).  We need not reach, however, 
+the question whether Palmer's amended section 2255 motion 
+relates back to the pre-AEDPA FPD 2255 Motion under 
+Rule 15.8  The question we do consider is whether the FPD 
+
+__________
+     8 Palmer claims that because he moved to amend the FPD 2255 
+Motion, filed pre-AEDPA, that motion is not governed by AEDPA's 
+successive bar rule. This argument assumes, however, that Rule 15 
+allows an amendment like this to relate back to the FPD 2255 
+Motion.  In a similar context, a number of circuit courts have held 
+that an untimely amendment to a section 2255 motion (i.e., one filed 
+after AEPDA's one-year statute of limitations) that clarifies or 
+amplifies a claim or theory in the original motion may, in the 
+district court's discretion, relate back to the original motion if the 
+original motion was timely filed and the proposed amendment does 
+not seek to add a new claim or to press a new theory.  See, e.g., 
+Pittman, 209 F.3d at 317;  United States v. Thomas, 221 F.3d 430, 
+433-34 (3d Cir. 2000);  United States v. Duffus, 174 F.3d 333, 337 
+(3d Cir.), cert. denied, 528 U.S. 866 (1999).  Whether an amendment 
+to a section 2255 motion relates back to avoid the AEDPA's one-
+year statute of limitations is analogous to whether the Palmer 2255 
+Motion relates back to the FPD 2255 Motion.  Both are procedural 
+bars triggered by time limitations.
+
+ The circuit courts that have addressed the "relation back" issue 
+have found that an untimely section 2255 claim can relate back 
+under Rule 15(c) if the untimely claim has more in common with the 
+timely filed claim than the mere fact that they arose out of the same 
+trial and sentencing proceedings.  Compare Pruitt v. United States, 
+274 F.3d 1315, 1319 (11th Cir. 2001);  Pittman, 209 F.3d at 317-18;  
+Duffus, 174 F.3d at 335;  with Williams v. Vaughn, 3 F. Supp. 2d 
+567, 570 (E.D. Pa. 1998) ("both motions allege constitutional defects 
+surrounding the same 'occurrence'--motioner's trial and penalty 
+phases").  The untimely claim must arise from the "same set of 
+facts" as the timely filed claim, not from separate conduct or a 
+separate occurrence in "both time and type."  Pittman, 209 F.3d at 
+318 (internal quote omitted).  In Pittman the Fourth Circuit found 
+that the amended claims of ineffective assistance arose out of 
+different conduct and transactions from those addressed in Pitt-
+man's first motion that challenged the district court's jurisdiction 
+
+2255 Motion was included in the Dismissal Order, leaving the 
+Palmer 2255 Motion, as amended by the FPD's October 29, 
+1998 submission, as the sole motion before us.
+
+     The government argues that the Dismissal Order dis-
+missed the FPD 2255 Motion, just as Palmer's motion to 
+dismiss sought.  Palmer nonetheless contends that his April 
+8, 1997 motion to amend manifested his intent to abandon his 
+then-pending motion to dismiss and therefore the dismissal of 
+the FPD 2255 Motion was a "ministerial mistake."  Palmer 
+Br. at 9.  To be sure, his motion to amend, filed simulta-
+neously with his 2255 motion, noted that "[a]s of the date of 
+this motion, no decision has been made either on the [FPD's] 
+2255 action nor petitioner motion to withdraw[,] [t]herefore, 
+petitioner now (adopts) the Federal Public Defender motion 
+and requests permission of this Court to Amend this action in 
+the bounds of justice and equal protection."  Motion to 
+Amend 1-2.  Palmer's apparent desire to withdraw his mo-
+tion to dismiss the FPD 2255 Motion and instead to "adopt" 
+and amend it was thwarted.  Irrespective of his motion to 
+amend, the Dismissal Order unmistakably directed that 
+Palmer's "motion to dismiss the April 22, 1996 motion to 
+vacate conviction filed by the Federal Public Defender be and 
+it is hereby GRANTED."  Dismissal Order at 2.  There is no 
+other way to read the Dismissal Order.
+
+     To the extent that Palmer now contends that the district 
+court's decision to dismiss rather than amend the pre-
+AEDPA motion was "mistaken," the time to challenge that 
+aspect of the Dismissal Order is long past.  A motion to alter 
+or amend a judgment must be filed no later than 10 days 
+after entry of the judgment.  See Fed. R. Civ. Pro. 59(e).  In 
+addition, a federal prisoner appealing the dismissal of a 
+section 2255 petition must file the notice of appeal within 60 
+days of final judgment although the district court may, upon a 
+showing of good cause, extend the period an additional 30 
+
+__________
+and the imposition of an enhanced sentence.  See Pittman, 209 F.3d 
+at 318.  Although we do not reach the issue here, it appears that 
+most of the claims raised in the Palmer 2255 Motion would likely 
+fail the same conduct/occurrence test vis-a-vis the FPD 2255 Mo-
+tion, which raised a Bailey claim.
+
+days.  See Rules Governing Section 2255 Proceedings For the 
+United States District Courts, Rule 11 ("time for appeal from 
+an order entered on a motion for [section 2255] relief ... is as 
+provided in Rule 4(a) of the Federal Rules of Appellate 
+Procedure");  Fed. R. App. P. 4(a)(1) (in civil case where 
+United States is party, notice of appeal must be filed within 
+sixty days after date of entry of final judgment).  The speci-
+fied period is "mandatory and jurisdictional."  Browder v. 
+Director, Dep't of Corrections, 434 U.S. 257, 264 (1978) (quot-
+ing United States v. Robinson, 361 U.S. 220, 229 (1960)).  It 
+applies to a pro se section 2255 motion as well.  See Kapsalis 
+v. Wilson, 380 F.3d 365, 366 (9th Cir.) (rejecting pro se 
+petitioner's appeal as untimely), cert. denied, 389 U.S. 878 
+(1967).  Were we to conclude that Palmer by his motion to 
+amend intended to withdraw his previously filed motion to 
+dismiss and instead to adopt the FPD 2255 Motion, that 
+motion was dismissed.9  Palmer failed to move the court to 
+reconsider the ruling, to appeal the dismissal or to challenge 
+the district court's failure to rule on his outstanding motion to 
+amend.  By failing to file a notice of appeal, Palmer has 
+waived his right to now argue that the dismissal was "mistak-
+en."  Because the FPD 2255 Motion filed before the 
+AEDPA's effective date was unquestionably dismissed and 
+that dismissal was not challenged, the remaining Palmer 2255 
+Motion was filed post-AEDPA enactment and the AEDPA's 
+"successive" motion bar applies.
+
+     B.   Successive Motion Procedural Bar
+          
+     In 1995 Palmer filed a Rule 33 motion for new trial based 
+on what he claimed was newly discovered evidence.  Because 
+
+__________
+     9 One basis for the district court's decision could be that the FPD 
+2255 Motion was filed without Palmer's consent and thus the court 
+might have thought it invalid.  Another could be that Palmer's 
+motion to dismiss the FPD 2255 Motion was self-executing under 
+Fed. R. Civ. P. 41(a)(1) ("[A]n action may be dismissed by the 
+plaintiff without order of court (i) by filing a notice of dismissal at 
+any time before service by the adverse party of an answer or a 
+motion for summary judgment" (emphasis added)).  The govern-
+ment had not responded to the FPD Motion when Palmer filed his 
+notice of dismissal.
+
+the motion was filed nearly six years after the jury found him 
+guilty, the motion was untimely.  See Fed. R. Crim. P. 33 ("A 
+motion for a new trial based on newly discovered evidence 
+may be made only within three years after the verdict or 
+finding of guilty.").  Finding no "good cause," the district 
+court denied the Rule 33 Motion.  Palmer appealed.  In an 
+unpublished opinion we affirmed the district court.  See Unit-
+ed States v. Palmer, supra.  Notwithstanding its tardiness, 
+we found "[Palmer's] request for a new trial can be treated as 
+a motion to vacate, set aside, or correct sentence pursuant to 
+28 U.S.C. s 2255."  Id. (emphasis added).  Treating it thus, 
+we concluded that Palmer's claims of ineffective assistance 
+and prosecutorial misconduct were "insufficient to entitle him 
+to relief under 28 U.S.C. s 2255."  Id.
+
+     This court's recharacterization of the Rule 33 Motion fol-
+lows the well-established practice of construing a pro se 
+party's pleadings liberally.  See Haines v. Kerner, 404 U.S. 
+519, 520 (1972) (per curiam) (allegations of pro se motioner, 
+"however inartfully pleaded," are subject to "less stringent 
+standards than formal pleadings drafted by lawyers");  see, 
+e.g., United States v. Cooper, 725 F.2d 756, 757 n.1 (D.C. Cir. 
+1984) (per curiam) (disregarding untimeliness of prisoner's 
+third s 2255 motion because first two motions were pro se).  
+Before the AEDPA and in accordance with this practice, 
+"district courts routinely converted post-conviction motions of 
+prisoners who unsuccessfully sought relief under some other 
+provision of law into motions made under 28 U.S.C. s 2255 
+and proceeded to determine whether the prisoner was enti-
+tled to relief under that statute."  Adams v. United States, 
+155 F.3d 582, 583 (2d Cir. 1998) (per curiam);  see, e.g., United 
+States v. Tindle, 522 F.2d 689, 692-93 (D.C. Cir.1975) (per 
+curiam) (affirming district court's treatment of untimely mo-
+tion for new trial alleging ineffective assistance as s 2255 
+motion).
+
+     The AEDPA significantly changed the landscape.  The 
+final paragraph of section 2255 and section 2244(b) of Title 28, 
+both included in the AEDPA, replace the abuse-of-the-writ 
+
+doctrine10 with statutory requirements that bar second or 
+successive section 2255 motions absent exceptional circum-
+stances and certification by an appellate court.11  Recognizing 
+this change, the Second Circuit observed:
+
+__________
+     10 Pre-AEDPA, if a defendant filed a second section 2255 petition, 
+the government could defend on "abuse of the writ," whereupon the 
+defendant had to show cause for failing to raise the claim earlier, 
+i.e., "some objective factor external to the defense [that] impeded 
+counsel's efforts," as well as demonstrate "actual prejudice resulting 
+from the errors of which he complains."  McCleskey v. Zant, 499 
+U.S. 467, 493-94 (1991) (quotations omitted).  Were we to conclude 
+that the Palmer 2255 Motion was governed by pre-AEDPA law, we 
+would nonetheless have to resolve whether our treatment of the 
+Rule 33 Motion as a section 2255 motion required him to satisfy the 
+"cause and prejudice" standard before we could consider his current 
+2255 motion.  See United States v. Ortiz, 136 F.3d 161, 163-64 (D.C. 
+Cir. 1998) (applying AEDPA to petitioner who filed first petition to 
+vacate before AEDPA but second motion after AEDPA not imper-
+missibly retroactive because he would not have prevailed under 
+McCleskey "cause and prejudice" standard).
+
+     11 Section 2255 provides:
+
+          A second or successive motion must be certified as provided 
+     in section 2244 by a panel of the appropriate court of appeals to 
+     contain--
+     
+           (1) newly discovered evidence that, if proven and viewed in 
+          light of the evidence as a whole, would be sufficient to 
+          establish by clear and convincing evidence that no reasonable 
+          factfinder would have found the movant guilty of the offense;  
+          or
+          
+           (2) a new rule of constitutional law, made retroactive, to 
+          cases on collateral review by the Supreme Court, that was 
+          previously unavailable.
+          
+28 U.S.C. s 2255.  Section 2244 provides for the certificate of 
+appealability (COA) as follows:
+
+          (b)(2) A claim presented in a second or successive habeas 
+     corpus application under section 2254 that was not presented in 
+     a prior application shall be dismissed unless--
+     
+           (A) an applicant shows that the claim relies on a new rule 
+          of constitutional law, made retroactive to cases on collateral 
+          review by the Supreme Court, that was previously unavail-
+          able;  or
+          
+     If a district court receiving a motion under some other 
+     provision of law elects to treat it as a motion under 
+     s 2255 and then denies it, that may cause the movant's 
+     subsequent filing of a motion under s 2255 to be barred 
+     as a "second" s 2255.  Thus a conversion, initially justi-
+     fied because it harmlessly assisted the prisoner-movant 
+     in dealing with legal technicalities, may result in a disas-
+     trous deprivation of a future opportunity to have a well-
+     justified grievance adjudicated.  The court's act of con-
+     version which we approved under pre-AEDPA law be-
+     cause it was useful and harmless might, under AEDPA's 
+     new law, become extraordinarily harmful to a prisoner's 
+     rights.  A prisoner convicted pursuant to unconstitution-
+     al proceedings might lose the right to have a single 
+     motion for habeas corpus adjudicated, solely by reason of 
+     a district court's having incorrectly recharacterized some 
+     prior motion as one brought under s 2255.
+     
+Adams, 155 F.3d at 583-84 (footnote omitted).
+
+     To minimize the risk, the Second Circuit imposed a protocol 
+for district courts to use in deciding whether to convert a 
+post-conviction motion made under a different provision into a 
+section 2255 motion, declaring:
+
+     [D]istrict courts should not recharacterize a motion pur-
+     portedly made under some other rule as a motion made 
+     under s 2255 unless (a) the movant, with knowledge of 
+     
+__________
+           (B)(i) the factual predicate for the claim could not have 
+          been discovered previously through the exercise of due dili-
+          gence;  and
+          
+           (ii) the facts underlying the claim, if proven and viewed in 
+          light of the evidence as a whole, would be sufficient to 
+          establish by clear and convincing evidence that, but for 
+          constitutional error, no reasonable factfinder would have 
+          found the movant guilty of the offense.
+          
+          (3)(A) Before a second or successive application permitted by 
+     this section is filed in the district court, the applicant shall 
+     move in the appropriate court of appeals for an order authoriz-
+     ing the district court to consider the application.
+     
+28 U.S.C. s 2244(b)(2)-(3)(A).
+
+     the potential adverse consequences of such recharacteri-
+     zation, agrees to have the motion so recharacterized, or 
+     (b) the court finds that, notwithstanding its designation, 
+     the motion should be considered as made under s 2255 
+     because of the nature of the relief sought, and offers the 
+     movant the opportunity to withdraw the motion rather 
+     than have it so recharacterized.
+     
+Adams, 155 F.3d at 584;  see also United States v. Emmanu-
+el, 288 F.3d 644, 649 (4th Cir. 2002) (adopting informed 
+consent/notice approach similar to Adams);  United States v. 
+Seesing, 234 F.3d 456, 464 (9th Cir. 2001) (same);  United 
+States v. Kelly, 235 F.3d 1238, 1242 (10th Cir. 2000) (same);  
+United States v. Miller, 197 F.3d 644, 652 (3d Cir. 1999) 
+(adopting expanded Adams notice approach).  While acknowl-
+edging the fairness concerns raised by Adams and others, the 
+First and Seventh Circuits have adopted a slightly different 
+"ameliorative" approach.12  Reluctant to eliminate the rechar-
+acterization practice and concerned about imposing additional 
+burdens on already "overburdened district courts," the First 
+Circuit held that "when a district court, acting sua sponte, 
+converts a post-conviction motion filed under some other 
+statute or rule into a section 2255 motion without notice and 
+an opportunity to be heard (or in the alternative, the plead-
+er's informed consent), the recharacterized motion ordinarily 
+will not count as a 'first' habeas motion sufficient to trigger 
+
+__________
+     12 Until very recently, the Fifth Circuit's decision in In re Tolliv-
+er, 97 F.3d 89 (5th Cir. 1996), was the only authority to the 
+contrary.  There, Tolliver, in an untitled filing, moved to dismiss his 
+conviction for using or carrying a firearm in relation to a drug 
+crime in violation of 18 U.S.C. s 924(c) based on Bailey v. United 
+States, 516 U.S. 137 (1995), which the district court sua sponte and 
+over Tolliver's objection construed as a section 2255 motion.  The 
+court denied Tolliver's successive section 2255 motion and thus 
+upheld the district court's recharacterization, stating that "[w]hile 
+Tolliver objected to the district court's construing it as a s 2255 
+motion, there is nothing else it could be."  Tolliver, 97 F.3d at 90.  
+In light of the overwhelming weight of authority since Tolliver as 
+well as the persuasive rationale of that authority, we decline to 
+follow Tolliver.
+
+AEDPA's gatekeeping requirements."  Raineri v. United 
+States, 233 F.3d 96, 100 (1st Cir. 2000);  see also Henderson v. 
+United States, 264 F.3d 709, 711 (7th Cir. 2001) ("we won't 
+deem a Rule 33 (or other mislabeled motion) a section 2255 
+motion unless the movant has been warned about the conse-
+quences of his mistake");  United States v. Lemon, 2001 WL 
+1628651, *3 (D. Minn. 2001) (adopting Raineri approach).  
+Without citing specific examples, the First Circuit found that 
+"there are times, even after AEDPA, when recharacterization 
+will be to a pro se litigant's benefit, or in the interests of 
+justice, or otherwise plainly warranted."  233 F.3d at 100.  
+The court was concerned that the Adams "protocol" approach 
+would "los[e] the baby along with the bath water" in discour-
+aging district courts from using a sometimes useful practice 
+by "forcing them to jump through extra hoops."  Id.  Be-
+cause we conclude that the "protocol" approach will not 
+unnecessarily burden the court, nor prevent it from using 
+recharacterization where beneficial (assuming it is done with 
+the movant's knowledge and consent), we conclude that the 
+court may recharacterize a post-conviction motion made un-
+der another rule or law as a section 2255 motion only if it first 
+ensures that the movant is fully informed of section 2255's 
+restriction on second or successive 2255 motions as well as 
+other procedural hurdles implicated by recharacterization and 
+the court offers the movant an opportunity to withdraw his 
+motion.13  We endorse the Fourth Circuit's instruction that 
+"[t]he notice to the movant shall set a reasonable period of 
+time for the prisoner to respond to the court's proposed 
+recharacterization and shall advise the prisoner that failure to 
+respond within the time set by the court will result in the 
+original petition being recharacterized as a s 2255 petition."  
+Emmanuel, 288 F.3d at 649.  Thus, where, as here, a mov-
+ant's post-conviction filing has been recharacterized without 
+using the protocol, the recharacterized motion will ordinarily 
+not function as a first petition for the purpose of determining 
+whether the section 2255 motion under review is a second or 
+successive one.
+
+__________
+     13 One example of such a hurdle is the AEDPA one-year statute 
+of limitations period.  See 18 U.S.C. s 2255 p 6.
+
+     Recently, the Eleventh Circuit, which originally followed 
+the First Circuit's "ameliorative" approach,14 vacated its earli-
+er opinion and replaced it with one reaching the opposite 
+result.  See Castro v. United States, 290 F.3d 1270 (11th Cir. 
+May 7, 2002) (Castro II).  As Palmer did here, Castro filed 
+pro se a pre-AEDPA motion for a new trial based upon newly 
+discovered evidence, which the district court treated as both a 
+Rule 33 motion and a section 2255 motion.  Reversing course, 
+the Eleventh Circuit took issue with Raineri, stating that to 
+"relieve an entire class of motioners from any restriction at 
+all on the filing of a second motion simply because their first 
+motions had been recharacterized ... might undermine the 
+congressional purpose behind the AEDPA, which is to limit 
+successive s 2255 motions."  Id. at 1274.  The Castro II 
+majority, while dismissing Castro's motion as successive, then 
+noted that "in future cases where the motioner is not filing a 
+second motion, but rather is asking to withdraw his motion or 
+to include additional claims after a district court has decided 
+to recharacterize the initial motion as a s 2255 motion, we 
+would agree with a clear majority of the circuits that the 
+district courts should warn prisoners of the consequences of 
+recharacterization and provide them with the opportunity to 
+amend or dismiss their filings."  Id. (emphasis added).  The 
+reason for this distinction eludes us.15  How would a petition-
+er like Palmer, unaware of the consequences of a court's sua 
+sponte recharacterization, know either to withdraw his motion 
+or to amend it to include additional claims?16
+
+__________
+     14 See Castro v. United States, 277 F.3d 1300, 1305 (11th Cir. 
+January 2, 2002) ("district court's recharacterization of a petitioner's 
+initial post-conviction petition will not be considered a 'first' habeas 
+petition for AEDPA purposes unless the petitioner is given notice of 
+the consequences of such recharacterization").
+
+     15 The dissent in Castro II noted that "[w]e have found no case in 
+which a pre-AEDPA petition that was 'converted' by the court and 
+then denied barred a second post-AEDPA s 2255 petition."  Castro 
+II, 2002 WL 864219, *5 (Roney, J., dissenting).
+
+     16 Moreover, Castro II's homage to congressional intent seems, to 
+us, ill-founded.  Nothing in the AEDPA indicates that a post-
+conviction motion not styled as a section 2255 motion must be 
+
+     The government, acknowledging the weight of authority 
+against it, argues that Palmer knew that our recharacteriza-
+tion of the Rule 33 Motion could limit his future options.  
+Palmer's failure to challenge the recharacterization in his 
+petition for rehearing en banc, according to the government, 
+stands in contrast to his July 1, 1996 motion to dismiss the 
+FPD 2255 Motion, wherein he stated that "the federal de-
+fender's office has placed defendant with possibilities of any 
+further motion being denied as successive."  July 5, 1996 
+Palmer Motion to Dismiss at 2.  We are not persuaded.  
+First, the government, in effect, is arguing that Palmer fully 
+understood the pitfalls of the AEDPA's successive bar rule 
+even though this court, it appears, did not.  Second, simply 
+because Palmer may have realized that the FPD 2255 Motion 
+could impair any future section 2255 motion does not mean 
+that he was also aware that his Rule 33 motion could be 
+changed into a "first" section 2255 motion without his consent 
+by an appellate court deciding his appeal of the dismissal of 
+the motion as untimely.  In addition, this court stated that 
+the Rule 33 Motion "can be" treated as a section 2255 motion, 
+not that it was formally so recharacterized, making the 
+likelihood that Palmer fully understood the consequences of 
+the ruling even more remote.  See Palmer, 97 F.3d at 593.
+
+     The government also argues that the Rule 33 Motion was 
+not a bona fide motion for a new trial because it raised both 
+constitutional claims and ineffective assistance and prosecuto-
+rial misconduct claims.  See Gov't Brief at 21.  This argument 
+contradicts the government's original stance.  In opposing 
+Palmer's appeal of the district court's dismissal of the Rule 33 
+Motion, the government focused on the motion's untimeliness 
+and on the fact that it did not present "newly discovered" 
+
+__________
+deemed one simply because it could be so styled.  Indeed, the 
+AEDPA does not define a "second or successive" motion at all.  But 
+not every post-conviction motion is properly considered a "second or 
+successive" filing in the AEDPA sense.  See, e.g., Stewart v. 
+Martinez-Villareal, 523 U.S. 637, 644-45 (1998) (movant's claim 
+that he was incompetent to be executed, raised for the second time 
+after his first claim was dismissed as premature, not "second or 
+successive" motion under AEDPA).
+
+evidence, treating Palmer's alleged constitutional/statutory 
+claims in a footnote.  See May 29, 1996 Government Brief in 
+appeal of denial of Motion for New Trial at 8-12 & n.8.  In 
+particular, the government's brief stated that an ineffective 
+assistance claim "was not raised in [Palmer]'s new trial 
+motion and is therefore not properly before this court."  Id.
+
+     Moreover, the circumstances here are easily distinguishable 
+from those presented in United States v. Evans, 224 F.3d 670, 
+673 (7th Cir. 2000), the only case the government cites for its 
+"bona-fide" inquiry.17  In Evans, the prisoner, having already 
+filed a twelve-issue s 2255 motion that the court rejected, 
+attempted to avoid the successive motion bar by designating 
+his new motion as a new trial motion.  Id.  In that motion, 
+his "new evidence" was that the prosecution had failed to 
+disclose evidence in violation of due process.  The court held 
+that a "defendant whose argument is not that newly discover-
+ed evidence supports a claim of innocence, but instead that he 
+has new evidence of a constitutional violation or other ground 
+of collateral attack is making a motion under s 2255 (or 
+s 2254) no matter what caption he puts on the document."  
+Id. at 674.  Distinguishing Evans's new trial motion, the court 
+
+__________
+     17 We note that only the Seventh Circuit inquires into the legiti-
+macy of a Rule 33 motion recharacterized as a section 2255 motion.  
+In this regard, the Seventh Circuit itself appears split.  In 
+Henderson, it conducted no inquiry into whether the Rule 33 motion 
+was bona fide, stating that "[n]othing in the AEDPA says that a 
+motion not labeled as a section 2255 motion shall nevertheless be 
+deemed one if it could have been so labeled accurately.  This is a 
+purely judge-made rule, and so its contours are up to the judges to 
+draw.  All we hold today ... is that we won't deem a Rule 33 (or 
+other mislabeled motion) a section 2255 motion unless the movant 
+has been warned about the consequences of this mistake."  
+Henderson v. United States, 264 F.3d at 711.  One month before its 
+Henderson decision, however, the court did look into whether the 
+Rule 33 motion was "in substance" within the scope of section 2255 
+and thus appropriately recharacterized.  See Ruth v. United States, 
+266 F.3d 658, 660-61 (7th Cir. 2001) (concluding that Rule 33 motion 
+was bona fide and thus was not properly recharacterized as s 2255 
+motion).
+
+stated that "a bona fide motion for a new trial on the basis of 
+newly discovered evidence falls outside s 2255 p 1 because it 
+does not contend that the conviction or sentence violates the 
+Constitution or any statute."  Id. at 673-74.  The focus of 
+Palmer's new trial motion, in contrast, was the "new evi-
+dence" that he did not own the guns that were alleged to be 
+his at trial.  References to ineffective assistance and prosecu-
+torial misconduct were, at most, Palmer's attempts to demon-
+strate prejudice from the failure to present that evidence at 
+trial.  Moreover, because Palmer's new trial motion predated 
+the AEDPA, he did not file the Rule 33 Motion to avoid 
+AEDPA's procedural restrictions, as the movants in Evans 
+and Tolliver did.18  Finally, the inquiry is unnecessary in light 
+of the court's adoption of the protocol approach;  Palmer was 
+not a beneficiary of the protocol and therefore, whether his 
+Rule 33 Motion was bona fide or not, our recharacterization 
+of it does not convert it into Palmer's first section 2255 
+motion.
+
+     In sum, having denominated his filing a motion for new 
+trial based on newly discovered evidence under Rule 33, 
+Palmer was entitled to have his motion decided under that 
+rule.  We could have affirmed its denial as either untimely or 
+meritless.  Because Palmer was not given notice of the 
+potential adverse consequences flowing from this court's con-
+struction of his motion as a section 2255 motion, we reverse 
+
+__________
+     18 The Evans holding includes a relevant caveat:  "One caveat is 
+in order.  Our case is easy because Evans filed a motion explicitly 
+under s 2255, then tried to evade the limitations on successive 
+motions by placing a Rule 33 caption on his next collateral at-
+tack....  When a prisoner who has yet to file a petition under 
+s 2255 invokes Rule 33 but presents issues substantively within 
+s 2255 p 1, the district court should alert the movant that this can 
+preclude any later collateral proceedings and asks whether the 
+prisoner wishes to withdraw the claim....  We postpone, until the 
+occasion requires, deciding what should happen if a district judge 
+fails to deliver that advice, denies the Rule 33 petition on the 
+merits, and the prisoner then files what would otherwise be a timely 
+s 2255 motion."  Evans, 224 F.3d at 674-75;  see also Palmer Reply 
+Br. at 10-11.
+
+the district court's order dismissing Palmer's petition to vacate 
+his conviction as a successive section 2255 motion under the AEDPA
+and remand for further proceedings consistent with this opinion.
+
+                                                                      So ordered.
+
+                                                

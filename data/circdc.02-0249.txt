@@ -1,0 +1,776 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 6, 2002   Decided November 8, 2002 
+
+                           No. 01-1149
+
+      Motion Picture Association of America, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+       National Television Video Access Coalition, et al., 
+                           Intervenors
+
+                            ---------
+
+                        Consolidated with 
+                             01-1155
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Robert Corn-Revere argued the cause for petitioner Motion 
+Picture Association of America, Inc., et al.  With him on the 
+briefs was Ronald G. London.
+
+     Daniel F. Goldstein argued the cause and filed the briefs 
+for petitioner National Federation of the Blind.
+
+     C. Grey Pash, Jr., Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  With him on the 
+brief were Jane E. Mago, General Counsel, Daniel M. Arm-
+strong, Associate General Counsel, and Jacob M. Lewis, 
+Attorney, United States Department of Justice.  Catherine G. 
+O'Sullivan, Chief Counsel, and Nancy C. Garrison, Attorney, 
+United States Department of Justice, entered appearances.
+
+     Donald J. Evans argued the cause for intervenors.  With 
+him on the brief were Liliana E. Ward, Keith A. Noreika, 
+and Robert A. Long, Jr.
+
+     Before:  Edwards, Henderson, and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Concurring opinion filed by Circuit Judge Henderson.
+
+     Edwards, Circuit Judge:  The Telecommunications Act of 
+1996, Pub. L. No. 104-104, 110 Stat. 56 ("the Telecommunica-
+tions Act"), added new provisions covering video program-
+ming accessibility to the Communications Act of 1934, 47 
+U.S.C. s 151 et seq. ("the Act").  The new provisions, codified 
+in s 713 of the Communications Act, 47 U.S.C. s 613, specifi-
+cally dealt with "closed captioning" and "video description" 
+technologies that can be employed to enhance television video 
+services for hearing and visually impaired individuals.  
+Closed captioning displays the audio portion of television 
+signals as words displayed on the screen and can be activated 
+at a viewer's discretion.  Video descriptions provide aural 
+descriptions of a television program's key visual elements 
+(such as the movement of a person in a scene) that are 
+inserted during pauses in the program dialogue.  Video de-
+scriptions change program content because they require the 
+creation of new script to convey program details, whereas 
+
+closed captions present a verbatim transcription of the pro-
+gram's spoken words.
+
+     Congress treated the two technologies quite differently 
+when it passed the Telecommunications Act, which added 
+s 713 to the Communications Act.  Section 713(a) required 
+the Commission to complete a closed captioning inquiry and 
+to report its findings to Congress within 180 days of the Act's 
+passage.  47 U.S.C. s 613(a).  Sections 713(b) and (c) re-
+quired the Commission to prescribe closed captioning regula-
+tions and established compliance deadlines.  47 U.S.C. 
+s 613(b)-(c).  Sections 713(d) and (e) established exemptions 
+from the closed captioning rules.  47 U.S.C. s 613(d)-(e).  In 
+contrast, subsections 713(f) and (g) - the sole subsections 
+dealing with video description - merely defined "video de-
+scription" and required the FCC to prepare a report to 
+Congress.  47 U.S.C. s 613(f)-(g).  Unlike the provisions 
+covering closed captioning, s 713 did not authorize the Com-
+mission to adopt regulations implementing video descriptions.
+
+     After releasing a report on video description, the FCC 
+announced that it was seeking commentary on proposed rules 
+mandating video description.  Implementation of Video De-
+scription of Video Programming, Notice of Proposed Rule-
+making, 14 F.C.C.R. 19,845 (1999) ("Notice of Proposed Rule-
+making").  The FCC then adopted rules mandating television 
+programming with video descriptions.  Implementation of 
+Video Description of Video Programming, Report and Order, 
+15 F.C.C.R. 15,230 (2000) ("Report and Order").  The Motion 
+Picture Association of America ("MPAA") and the National 
+Federation of the Blind ("NFB") both petitioned this court 
+for review of the agency's regulations mandating video de-
+scriptions.  MPAA contends that the new regulations should 
+be struck down because they are not authorized by s 1 and 
+they are precluded by s 713 of the Act.  See 47 U.S.C. 
+ss 151, 613.  NFB contends that the regulations should be 
+rejected as arbitrary and capricious, because the FCC failed 
+to assess whether visually impaired persons actually want or 
+need video description, as opposed to rules requiring spoken 
+articulation of on-screen text.
+
+     By its terms, the Act does not provide the FCC with the 
+authority to enact video description rules.  Contrary to the 
+FCC's arguments suggesting otherwise, s 1, 47 U.S.C. s 151, 
+does not give the FCC unlimited authority to act as it sees fit 
+with respect to all aspects of television transmissions, without 
+regard to the scope of the proposed regulations.  We hold 
+that where, as in this case, the FCC promulgates regulations 
+that significantly implicate program content, s 1 is not a 
+source of authority.  Because the FCC can point to no other 
+statutory authority, the video description regulations must be 
+vacated.  Accordingly, MPAA's petition for review is hereby 
+granted.  NFB's petition for review is dismissed as moot, 
+because the regulations to which they object will be vacated 
+pursuant to the court's judgment in this case.
+
+                          I. Background
+
+     The Telecommunications Act added to the Communications 
+Act new video programming accessibility provisions involving 
+closed captioning and video description.  47 U.S.C. s 613.  
+Video description is defined in the statute to include "the 
+insertion of audio narrated descriptions of a television pro-
+gram's key visual elements into natural pauses between the 
+program's dialogue."  Id. s 613(g).  Video descriptions are 
+usually transmitted over a secondary audio programming 
+channel, a subcarrier that allows video distributors to trans-
+mit additional soundtracks, such as foreign language pro-
+gramming.  Closed Captioning and Video Description of 
+Video Programming, Report, 11 F.C.C.R. 19,214, 19,221 
+(1996) ("Video Accessibility Report").
+
+     There is a marked difference between Congress' treatment 
+of closed captioning and video description in s 713 of the Act.  
+The new provision required the FCC to complete an inquiry 
+into closed captioning, and report the results to Congress 
+within 180 days of the Act's passage.  47 U.S.C. s 613(a).  It 
+also affirmatively required that the FCC prescribe regula-
+tions for the implementation of closed captioning, id. s 613(b), 
+and established compliance deadlines for that action, id. 
+s 613(c).  In contrast, s 713 only required that the FCC 
+
+prepare a video description report for Congress;  it did not 
+mandate any implementation of visual descriptions.  Id. 
+s 613(f).
+
+     The initial House bill preceding the enactment of s 713 
+would have required the FCC to adopt video description 
+rules.  See Report and Order, 15 F.C.C.R. at 15,274 n.9 
+(Powell, dissenting) (noting that H.R. 3636 s 206 provided 
+that the FCC "shall, within 1 year of enactment of the [video 
+programming accessibility] section, prescribe such regulations 
+as are necessary to ensure that all video programming is fully 
+accessible to individuals with disabilities through the provi-
+sion of closed captioning service and video description" (em-
+phases and bracketed language in original)).  However, the 
+bill was amended in committee to provide a discretionary 
+grant of authority rather than mandate that the FCC provide 
+video description.  The new language provided that, "[f]ollow-
+ing the completion of such inquiry, the Commission may 
+adopt regulation [sic] it deems necessary to promote the 
+accessibility of video programming to persons with visual 
+impairments."  Amendment No. 8 to H.R. 3636 (Moorhead) 
+(Mar. 16, 1994), reprinted in Joint Appendix ("J.A.") 237.  
+This new version of the bill passed the House in 1995.  H.R. 
+1555, s 204(f), 104th Cong. (1st Sess. 1995), reprinted in J.A. 
+254-59.
+
+     The corresponding Senate bill, however, only directed the 
+FCC to report to Congress about video description:  It nei-
+ther mandated video description nor provided the FCC with 
+discretionary authority to adopt such rules.  S. 652, s 305, 
+104th Cong. (1st Sess. 1995), reprinted in J.A. 251-53.  The 
+conference committee adopted the Senate version, abandon-
+ing the House language providing the FCC with discretionary 
+authority.  Congress passed this version of the bill and the 
+President signed it into law.
+
+     After the enactment of s 713, the FCC issued the report 
+that the Act mandated.  The report stated that "the best 
+course is ... to continue to collect information and monitor 
+the deployment of video description and the development of 
+standards for new video technologies that are likely to affect 
+
+the availability of video description."  Video Accessibility 
+Report, 11 F.C.C.R. at 19,271.  The FCC supplemented this 
+report with a second report, Annual Assessment of the Status 
+of Competition in the Market for the Delivery of Video 
+Programming, Report, 13 F.C.C.R. 1034 (1998).  Then, in 
+1999, the FCC announced that it was seeking commentary on 
+proposed rules that would mandate video description.  Notice 
+of Proposed Rulemaking, 14 F.C.C.R. 19,845.  The Commis-
+sion sought commentary, inter alia, about whether the FCC 
+possessed statutory authority to enact such rules.  Id. at 
+19,857-59 pp 34-39.
+
+     After reviewing the comments, the FCC voted 3-2 to adopt 
+rules requiring certain video programmers to supplement 
+certain programming with video descriptions.  See Report 
+and Order, 15 F.C.C.R. 15,230.  The FCC concluded that it 
+possessed the statutory authority to adopt these rules pursu-
+ant to s 1 of the Act.  47 U.S.C. s 151.  Section 1 gives the 
+FCC authority to regulate "interstate and foreign commerce 
+in communication by wire and radio so as to make available, 
+so far as possible, to all the people of the United States.... a 
+rapid, efficient, Nation-wide, and world-wide wire and radio 
+communication service...."  47 U.S.C. s 151.  The FCC 
+majority also rejected the argument that s 713, 47 U.S.C. 
+s 613, precluded the agency from mandating video descrip-
+tion merely because the provision only authorized the FCC to 
+conduct an inquiry.  Report and Order, 15 F.C.C.R. at 15,252-
+54 pp 57-61.  Finally, the FCC found that the record demon-
+strated "the importance of video description to persons with 
+visual disabilities."  Id. at 15,232 p 4.  The FCC primarily 
+based this conclusion on the American Council for the Blind's 
+submission, which contained more than 250 e-mails and let-
+ters of support for the rules.  Id.
+
+     The FCC's video description rules require commercial tele-
+vision broadcasters affiliated with the top four commercial 
+networks (ABC, CBS, Fox, and NBC) to provide fifty hours 
+of video description per quarter during either prime time or 
+children's programming.  47 C.F.R. s 79.3(b)(1).  The rules 
+also require multichannel video programming distributors 
+that serve 50,000 or more subscribers to provide fifty hours of 
+
+video description per quarter during prime time or children's 
+programming on each channel that carries one of the top five 
+nonbroadcast networks.  Id. s 79.3(b)(3).
+
+     Commissioners Powell and Furchtgott-Roth dissented from 
+the visual description order, because they did not believe that 
+the Communications Act authorized the FCC to adopt video 
+description rules.  Id. at 15,268-69 (Furchtgott-Roth, dissent-
+ing);  15,272-76 (Powell, dissenting).
+
+     Various parties sought reconsideration of the FCC's Order, 
+primarily on the ground that the rules exceeded the FCC's 
+legal authority.  Petition for Reconsideration of the MPAA, 
+MM Docket No. 99-339, Oct. 11, 2000, reprinted in J.A. 330-
+38;  Petition for Partial Reconsideration and Clarification 
+Submitted by the National Association of Broadcasters, MM 
+Docket No. 99-339, Oct. 11, 2000, reprinted in J.A. 339-54;  
+Petition for Reconsideration of the National Cable Television 
+Association, MM Docket No. 99-339, Oct. 11, 2000, reprinted 
+in J.A. 355-74.  The FCC denied reconsideration, although it 
+did refine certain implementation issues related to the new 
+rules.  Implementation of Video Description of Video Pro-
+gramming, Memorandum Opinion and Order on Reconsid-
+eration, 16 F.C.C.R. 1251 (2001), erratum issued, 66 Fed. 
+Reg. 16,618 (Mar. 27, 2001).  MPAA and NFB then filed 
+petitions for review.
+
+                           II. Analysis
+
+A.   Standard of Review
+
+     In deciding whether to defer to the FCC's construction of 
+the Act, we adhere to the tests enunciated by the Supreme 
+Court in Chevron U.S.A. Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837 (1984) and United States v. Mead 
+Corp., 533 U.S. 218 (2001).  In Chevron, the Court held that, 
+"[i]f the intent of Congress is clear, that is the end of the 
+matter;  for the court, as well as the agency, must give effect 
+to the unambiguously expressed intent of Congress."  467 
+US. 842-43.  This is so-called "Chevron Step One" review.  If 
+Congress "has not directly addressed the precise question" at 
+
+issue, and the agency has acted pursuant to an express or 
+implicit delegation of authority, the agency's interpretation of 
+the statute is entitled to deference so long as it is "reason-
+able" and not otherwise "arbitrary, capricious, or manifestly 
+contrary to the statute."  Id. at 843-44.  This is so-called 
+"Chevron Step Two" review.  In either situation, the agency's 
+interpretation of the statute is not entitled to deference 
+absent a delegation of authority from Congress to regulate in 
+the areas at issue.  See Ry. Labor Executives Ass'n v. Nat'l 
+Mediation Bd., 29 F.3d 655, 671 (D.C. Cir. 1994) (en banc) 
+(Chevron "deference is warranted only when Congress has 
+left a gap for the agency to fill pursuant to an express or 
+implied 'delegation of authority to the agency."') (quoting 
+Chevron, 467 U.S. at 843-44).
+
+     Mead reinforces Chevron's command that deference to an 
+agency's interpretation of a statute is due only when the 
+agency acts pursuant to "delegated authority."  533 U.S. at 
+226-27.  The Court in Mead also makes it clear that, even if 
+an agency has acted within its delegated authority, no Chev-
+ron deference is due unless the agency's action has the "force 
+of law."  Id. at 227.
+
+     In this case, the principal question is whether Congress 
+"delegated authority" to the FCC to promulgate visual de-
+scription regulations.  Absent such authority, we need not 
+decide whether the regulations are otherwise "reasonable."  
+An agency may not promulgate even reasonable regulations 
+that claim a force of law without delegated authority from 
+Congress.
+
+B.   The FCC Lacks Statutory Authority to Adopt the 
+     Video Description Rules
+
+     MPAA argues that s 713 precludes the adoption of rules 
+mandating video description and that s 1 does not otherwise 
+authorize the FCC to adopt video description rules.  We 
+largely agree, although we rest principally on the latter point.
+
+     1.   Section 713
+          
+     There is no doubt that s 713, 47 U.S.C. s 613, by its terms, 
+does not provide the FCC with the authority to enact video 
+
+description rules, and the FCC does not suggest that it does.  
+The harder question is whether the provision effectively bars 
+the FCC from mandating video description.
+
+     Statutory provisions in pari materia normally are con-
+strued together to discern their meaning.  Erlenbaugh v. 
+United States, 409 U.S. 239, 244 (1972) (noting that the rule 
+that statutes in pari materia should be construed together 
+"is ... a logical extension of the principle that individual 
+sections of a single statute should be construed together");  
+Holyoke Water Power Co. v. FERC, 799 F.2d 755, 766 (D.C. 
+Cir. 1986) ("The three sections are in pari materia and must 
+be read together.");  FAIC Sec., Inc. v. United States, 768 
+F.2d 352, 363 (D.C. Cir. 1985) ("[T]hese two statutes are in 
+pari materia and must be construed together.").  Here, when 
+subsections (a), (b), and (f) of s 713 - all addressed to video 
+programming accessibility - are construed together, a strong 
+argument can be made that Congress meant not to authorize 
+the Commission to mandate video description.  The dissent-
+ing opinion of FCC Chairman Powell powerfully demon-
+strates this point.  See 15 F.C.C.R. at 15,274-76 (Powell, 
+dissenting).
+
+     Subsections (a) and (f) merely call for the FCC to under-
+take studies on closed captioning and video description, re-
+spectively.  Subsection (f), which deals with video description, 
+provides:
+
+     Within 6 months after the date of enactment of the 
+     Telecommunications Act of 1996 [enacted Feb. 8, 1996], 
+     the Commission shall commence an inquiry to examine 
+     the use of video descriptions on video programming in 
+     order to ensure the accessibility of video programming to 
+     persons with visual impairments, and report to Congress 
+     on its findings.  The Commission's report shall assess 
+     appropriate methods and schedules for phasing video 
+     descriptions into the marketplace, technical and quality 
+     standards for video descriptions, a definition of program-
+     ming for which video descriptions would apply, and other 
+     technical and legal issues that the Commission deems 
+     appropriate.
+     
+47 U.S.C. s 613(f).  In contrast, subsection (b) affirmatively 
+mandates that
+
+     the Commission shall prescribe such regulations as are 
+     necessary to implement this section.  Such regulations 
+     shall ensure that - (1) video programming first published 
+     or exhibited after the effective date of such regulations is 
+     fully accessible through the provision of closed captions 
+     ...;  and (2) video programming providers or owners 
+     maximize the accessibility of video programming first 
+     published or exhibited prior to the effective date of such 
+     regulations through the provision of closed captions....
+     
+47 U.S.C. s 613(b).  The difference in the language employed 
+in these sections makes it clear that subsection (f) is not 
+intended to provide a mandate for video description require-
+ments.  Subsection (f) neither parallels the closed captioning 
+mandate contained in subsection (b) nor suggests that Con-
+gress provided the FCC with discretionary authority to adopt 
+video description rules.
+
+     We need not decide whether s 713 positively forecloses 
+agency rules mandating video description.  Rather, we find 
+that s 713 does not authorize the FCC to adopt such rules.  
+We also find that, when coupled with the absence of authority 
+under s 1 (discussed below), s 713 clearly supports the con-
+clusion that the FCC is barred from mandating video descrip-
+tion.  We now turn to the question whether s 1, or any other 
+provision in the Act, authorizes the Commission to mandate 
+video description.
+
+     2.   Section 1 of the Communications Act of 1934
+          
+     The FCC's Report and Order argues that the FCC's au-
+thority to mandate video description is derived from the 
+combination of s 1 of the Communications Act, 47 U.S.C. 
+s 151, s 2(a) of the Act, 47 U.S.C. s 152(a) (stating that 
+"[t]he provisions of this Act shall apply to all interstate and 
+foreign communication by wire or radio ... and to all persons 
+engaged within the United States in such communication"), 
+s 4(i) of the Act, 47 U.S.C. s 154(i) (stating that "[t]he 
+Commission may perform any and all acts, make such rules 
+and regulations, and issue such orders, not inconsistent with 
+
+this Act, as may be necessary in the execution of its func-
+tions"), and s 303(r) of the Act, 47 U.S.C. s 303(r) (stating 
+that "the Commission from time to time, as public conve-
+nience, interest, or necessity requires shall ... [m]ake such 
+rules and regulations and prescribe such restrictions and 
+conditions, not inconsistent with law, as may be necessary to 
+carry out the provisions of this Act").  At oral argument, 
+counsel for the FCC essentially conceded that if the agency 
+cannot find its authority in s 1 then the video description 
+regulations must be vacated by the court.  We agree.
+
+     The FCC's majority opinion argues that s 1 authorizes the 
+agency to mandate video description, because
+
+     Congress ... authorized the Commission to make avail-
+     able to all Americans a radio and wire communication 
+     service, and to promote safety and life through such 
+     service, and to make such regulations to carry out that 
+     mandate, that are consistent with the public interest and 
+     not inconsistent with other provisions of the Act or other 
+     law.
+     
+15 F.C.C.R. 15,252.  This is a very frail argument, in no small 
+part because it completely ignores the fact that video descrip-
+tion regulations significantly implicate program content.
+
+     There is no doubt that the video description rules regulate 
+programming content.  Video description is not a regulation 
+of television transmission that only incidentally and minimally 
+affects program content;  it is a direct and significant regula-
+tion of program content.  The rules require programmers to 
+create a second script.  As Chairman Powell noted in his 
+dissent, "video description is a creative work.  It requires a 
+producer to evaluate a program, write a script, select actors, 
+decide what to describe, decide how to describe it and choose 
+what style or what pace.  In contrast, closed captioning is a 
+straight translation of dialogue into text."  Report and Order, 
+15 F.C.C.R. at 15,278 (Powell, dissenting).  Ultimately, video 
+descriptions require a writer to amend a script to fill in audio 
+pauses that were not originally intended to be filled.  Not 
+only will producers and script writers be required to decide 
+on what to describe, how to characterize it, and the style and 
+
+pace of video descriptions, but script writers will have to 
+describe subtleties in movements and mood that may not 
+translate easily.  And many movements in a scene admit of 
+several interpretations, or their meaning is purposely left 
+vague to enhance the program content.  In short, it is clear 
+that the implementation of video descriptions invariably 
+would entail subjective and artistic judgments that concern 
+and affect program content.  The FCC has even acknowl-
+edged that the creation of this second script "raises creativity 
+... issues."  Video Accessibility Report, 11 F.C.C.R. at 
+19,221.  These effects are not insignificant, and there can be 
+no doubt that the result is a direct regulation of program 
+content.
+
+     The FCC's arguments to the contrary are entirely unper-
+suasive.  See Report and Order, 15 F.C.C.R. at 15,254-56.  
+First, the Commission is wrong in its claim that video de-
+scriptions are the same as closed captioning.  One is a simple 
+transcript, a precise repetition of the spoken words.  The 
+other requires an interpretation of visual scenes.  They are 
+not the same.  Second, the FCC's statement that video 
+descriptions are "not related to content" is specious.  Id. at 
+15,255.  FCC's counsel would not even endorse that position 
+at oral argument.  Requiring someone to change or add to a 
+program script is related to the program's content.  Finally, 
+the FCC claims that the video description regulations are 
+"content-neutral."  Id. at 15,254-55.  We need not decide that 
+issue, because it is irrelevant.  The question that we face is 
+whether s 1 provides the FCC with authority to promulgate 
+regulations that significantly regulate programming content.  
+The content-neutrality of the rules is irrelevant to the inquiry 
+of the FCC's delegated authority.
+
+     During oral argument, counsel for the FCC acknowledged 
+that it was not self-evident from the statute that the FCC is 
+authorized to regulate program content pursuant to s 1.  
+Counsel's hesitation was well placed, because s 1 merely 
+authorizes the agency to ensure that all people of the United 
+States, without discrimination, have access to wire and radio 
+communication transmissions.  Section 1 does not otherwise 
+authorize the FCC to regulate program content, as the video 
+
+description regulations clearly do.  Both the terms of s 1 and 
+the case law amplifying it focus on the FCC's power to 
+promote the accessibility and universality of transmission, not 
+to regulate program content.  Neither the FCC's Order nor 
+its brief to this court cite any authority to suggest otherwise.  
+To regulate in the area of programming, the FCC must find 
+its authority in provisions other than s 1.  See, e.g., 47 U.S.C. 
+s 531 (governing designation of cable channels for public, 
+educational, or governmental use).
+
+     The Communications Act was implemented for the purpose 
+of consolidating federal authority over communications in a 
+single agency to assure "an adequate communication system 
+for this country."  S. Rep. No. 73-830, at 3 (1934);  see also 
+H.R. Rep. No. 73-1850, at 3-4 (1934).  Given the limited 
+distribution of communications facilities in 1934, s 1's man-
+date to serve "all the people of the United States" is a 
+reference to the geographic availability of service.  See Mi-
+chael J. Aguilar, Note, Micro Radio:  A Small Step in the 
+Return to Localism, Diversity, and Competitiveness in 
+Broadcasting, 65 Brook. L. Rev. 1133, 1136-37 (1999) (explain-
+ing how limited facilities influenced passage of the Communi-
+cations Act of 1934);  see also Nat'l Broad. Co. v. United 
+States, 319 U.S. 190, 216 (1943) ("The facilities of radio are 
+limited and therefore precious;  they cannot be left to waste-
+ful use without detriment to the public interest.").  Under 
+s 1, Congress delegated authority to the FCC to expand 
+radio and wire transmissions, so that they would be available 
+to all U.S. citizens.  See, e.g., United States v. Midwest Video 
+Corp., 406 U.S. 649, 667-68 (1972) ("[T]he critical question ... 
+is whether the Commission has reasonably determined that 
+its origination rule will 'further the achievement of long-
+established regulatory goals in the field of television broad-
+casting by increasing the number of outlets for community 
+self-expression and augmenting the public's choice of pro-
+grams and types of services...."') (citation omitted);  United 
+States v. Southwestern Cable Co., 392 U.S. 157, 172 (1968) 
+("[I]t was precisely because Congress wished to maintain, 
+through appropriate administrative control, a grip on the 
+dynamic aspects of radio transmission ... that it conferred 
+
+upon the Commission a unified jurisdiction and broad authori-
+ty.") (citations, footnotes, and internal quotations omitted).  
+Section 1 does not address the content of the programs with 
+respect to which accessibility is to be ensured.  In other 
+words, the FCC's authority under s 1 is broad, but not 
+without limits.
+
+     The cases cited to this court by the FCC do not hold 
+otherwise.  These cases do not relate to program content.  
+See, e.g., United Video v. FCC, 890 F.2d 1173 (D.C. Cir. 1989) 
+(FCC's "syndicated exclusivity" rules found to be content-
+neutral, not otherwise arbitrary and capricious, and not viola-
+tive of the Copyright Act of 1976 or the Cable Act of 1984;  
+s 1 of the Communications Act not implicated);  Rural Tel. 
+Coalition v. FCC, 838 F.2d 1307, 1315 (D.C. Cir. 1988) ("As 
+the Universal Service Fund was proposed in order to further 
+the objective of making communication service available to all 
+Americans at reasonable charges, the proposal was within the 
+Commission's statutory authority.  We have recognized previ-
+ously that universal service is an important FCC objective.");  
+North Am. Telecomm. Ass'n v. FCC, 772 F.2d 1282 (7th Cir. 
+1985) (action for review of FCC orders relating to conditions 
+upon which major telecommunications corporation's regional 
+operating companies could enter telephone equipment busi-
+ness);  GTE Serv. Corp. v. FCC, 474 F.2d 724, 730 (2d Cir. 
+1973) (regulations prescribing conditions under which com-
+mon carriers may sell data processing services, designed to 
+insure that "carriers provide efficient and economic service to 
+the public").
+
+     One of the reasons why s 1 has not been construed to allow 
+the FCC to regulate programming content is because such 
+regulations invariably raise First Amendment issues.  E.g., 
+Turner Broad. Sys. v. FCC, 512 U.S. 622, 651 (1994) ("[O]ur 
+cases have recognized that Government regulation over the 
+content of program broadcasting must be narrow, and that 
+broadcast licensees must retain abundant discretion over 
+programming choices.");  Columbia Broad. Sys., Inc. v. Dem-
+ocratic Nat'l Comm., 412 U.S. 94, 126 (1973) (describing "the 
+risk of an enlargement of Government control over the con-
+tent of broadcast discussion of public issues" as a "problem of 
+
+critical importance to broadcast regulation and the First 
+Amendment").  Indeed, the parties in this case have argued 
+over whether the video description rules infringe free speech 
+precepts.  See Br. of Petitioner at 39-43;  Br. of Respondent 
+at 35-41.  To avoid potential First Amendment issues, the 
+very general provisions of s 1 have not been construed to go 
+so far as to authorize the FCC to regulate program content.  
+Rather, Congress has been scrupulously clear when it intends 
+to delegate authority to the FCC to address areas significant-
+ly implicating program content.  E.g., 18 U.S.C. s 1464 
+("Whoever utters any obscene, indecent, or profane language 
+by means of radio communication shall be fined under this 
+title or imprisoned not more than two years, or both.");  47 
+U.S.C. s 315 (governing provision of broadcast time to candi-
+dates for public office);  47 U.S.C. s 399 ("No noncommercial 
+educational broadcasting station may support or oppose any 
+candidate for political office.").  And Congress has imposed 
+limitations on regulations implicating program content.  See 
+47 U.S.C. s 544(f) (providing that "[a]ny Federal agency ... 
+may not impose requirements regarding the provision or 
+content of cable services, except as expressly provided in this 
+title");  see also 47 U.S.C. s 326 (providing that the FCC does 
+not possess the power of censorship, and "no regulation or 
+condition shall be promulgated or fixed by the Commission 
+which shall interfere with the right of free speech by means 
+of radio communication").  It is therefore clear that s 1 is not 
+the provision in the Act from which the FCC can find 
+delegated authority to regulate the content of broadcast 
+programming.  The FCC must look beyond s 1 to find 
+authority for regulations that significantly implicate program 
+content.
+
+     The FCC's position seems to be that the adoption of rules 
+mandating video description is permissible because Congress 
+did not expressly foreclose the possibility.  This is an entirely 
+untenable position.  See Ry. Labor Executives, 29 F.3d at 671 
+("Were courts to presume a delegation of power absent an 
+express withholding of such power, agencies would enjoy 
+virtually limitless hegemony, a result plainly out of keeping 
+with Chevron and quite likely with the Constitution as well.") 
+
+(emphasis in original).  See also Halverson v. Slater, 129 F.3d 
+180, 187 (D.C. Cir. 1997) (quoting Ry. Labor Executives, 29 
+F.3d at 671);  Oil, Chem. & Atomic Workers Int'l Union v. 
+NLRB, 46 F.3d 82, 90 (D.C. Cir. 1995) (same);  see also Ethyl 
+Corp. v. EPA, 51 F.3d 1053, 1060 (D.C. Cir. 1995) ("We refuse 
+... to presume a delegation of power merely because Con-
+gress has not expressly withheld such power.");  Natural Res. 
+Def. Council v. Reilly, 983 F.2d 259, 266 (D.C. Cir. 1993) 
+("'[I]t is only legislative intent to delegate such authority that 
+entitles an agency to advance its own statutory construction 
+for review under the deferential second prong of Chevron."') 
+(quoting Kansas City v. Dep't of Housing & Urban Dev., 923 
+F.2d 188, 191-92 (D.C. Cir. 1991)) (alteration in original).
+
+     Congress enacted the closed captioning and video descrip-
+tion provisions of s 713 together.  After originally entertain-
+ing the possibility of providing the FCC with authority to 
+adopt video description rules, Congress declined to do so.  
+This silence surely cannot be read as ambiguity resulting in 
+delegated authority to the FCC to promulgate the disputed 
+regulations.
+
+     3.   Other Statutory Provisions Cited by the Commission
+          
+     The Commission's brief to this court advances the some-
+what opaque argument that the video description rules are 
+"obviously a 'valid communications policy goal' and in the 
+public interest."  Respondent's Br. at 26.  The Commission 
+thus claims that the regulations are justified under s 303(r), 
+which permits the FCC to regulate in the public interest "as 
+may be necessary to carry out the provisions of [the] Act."  
+47 U.S.C. s 303(r).  But this statutory provision simply can-
+not carry the weight of the Commission's argument.  The 
+FCC cannot act in the "public interest" if the agency does not 
+otherwise have the authority to promulgate the regulations at 
+issue.  An action in the public interest is not necessarily 
+taken to "carry out the provisions of the Act," nor is it 
+necessarily authorized by the Act.  The FCC must act pursu-
+ant to delegated authority before any "public interest" inquiry 
+is made under s 303(r).  This of course means, as FCC 
+counsel conceded at oral argument, that the video description 
+
+rules are arguably justified only if the FCC had authority to 
+act pursuant to s 1 of the Act.
+
+     The FCC's suggestion that s 4(i), without more, gives the 
+agency authority to promulgate the disputed rules cannot 
+withstand scrutiny.  Chairman Powell's discussion of this 
+provision says it all:
+
+          It is important to emphasize that section 4(i) is not a 
+     stand-alone basis of authority and cannot be read in 
+     isolation.  It is more akin to a "necessary and proper" 
+     clause.  Section 4(i)'s authority must be "reasonably 
+     ancillary" to other express provisions.  And, by its ex-
+     press terms, our exercise of that authority cannot be 
+     "inconsistent" with other provisions of the Act.  The 
+     reason for these limitations is plain:  Were an agency 
+     afforded carte blanche under such a broad provision, 
+     irrespective of subsequent congressional acts that did not 
+     squarely prohibit action, it would be able to expand 
+     greatly its regulatory reach.
+     
+15 F.C.C.R. at 15,276 (Powell, dissenting).  We agree.
+
+     Finally, there is really nothing to be said about s 2(a), 47 
+U.S.C. s 152(a), which was also cited by the FCC in support 
+of the video description regulations.  This provision does not, 
+on its own, support the regulations.  Neither the FCC's 
+Order nor counsel's argument on behalf of the FCC suggest-
+ed otherwise.
+
+     In short, the FCC can point to no statutory provision that 
+gives the agency authority to mandate visual description 
+rules.  The rules may be highly salutary.  But that is not the 
+issue before this court and we offer no judgment on the 
+question.  What is determinative here is the FCC acted 
+without delegated authority from Congress.  Section 1 does 
+not furnish the authority sought, because the regulations 
+significantly implicate program content and the FCC can cite 
+no authority in which a court has upheld agency action under 
+s 1 where program content was at the core of the regulations 
+at issue.  And it does not matter that the disputed rules here 
+are arguably "content-neutral."  The point is that the rules 
+
+are about program content and therefore can find no authori-
+zation in s 1.
+
+     Finally, if there were any serious question about proper 
+result in this case, all doubt is resolved by reference to s 713.  
+In s 713(f), Congress authorized and ordered the Commission 
+to produce a report - nothing more, nothing less.  The 
+statute does not, as with closed captioning, instruct (or even 
+permit) the FCC to promulgate regulations mandating video 
+description.  Once the Commission completed the task of 
+preparing the report on video description, its delegated au-
+thority on the subject ended.
+
+                         III. Conclusion
+
+     [G]iven the minimal extent to which the FCC and Con-
+     gress actually influence the programming offered by 
+     broadcast stations, it would be difficult to conclude that 
+     Congress enacted [video description] in an effort to exer-
+     cise content control....  In a regime where Congress or 
+     the FCC exercised more intrusive control over the con-
+     tent of broadcast programming, an argument similar to 
+     [the argument raised by the Commission] might carry 
+     greater weight.  But in the present regulatory system, 
+     those concerns are without foundation.
+     
+Turner Broad. Sys., 512 U.S. at 652.  Accordingly, for the 
+reasons given in this opinion, we hereby grant the petition for 
+review filed by MPAA, and reverse and vacate the Commis-
+sion's Order insofar as it requires broadcasters to implement 
+video description.
+
+                                    So ordered.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karen LeCraft Henderson, Circuit Judge, concurring:
+
+     I believe that section 713 of the Communications Act, 47 
+U.S.C. s 613, plainly does not authorize the FCC to promul-
+gate video description rules and, for that reason, I fully 
+concur in that portion of the majority opinion that so holds.  I 
+do not agree, however, that the video description rules consti-
+tute "a direct and significant regulation of program content."  
+Maj. Op. at 11.  I fail to see how video description need 
+consist of anything more than spoken stage directions.  If so, 
+video description, at least in my view, does not regulate 
+program content.  While I agree that section 1 of the Com-
+munications Act, 47 U.S.C. s 151, does not provide the FCC 
+with authority to promulgate the video description rules, it is 
+not because the rules regulate program content;  in my view, 
+neither section 1, nor any of the other provisions of the Act 
+the FCC relies on, independently delegates authority that 
+section 713 plainly withholds.
+
+                                                     

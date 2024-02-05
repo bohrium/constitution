@@ -1,0 +1,1018 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 7, 2002      Decided May 24, 2002 
+
+                           No. 00-1012
+
+           United States Telecom Association, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+           Bell Atlantic Telephone Companies, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                    01-1075, 01-1102, 01-1103
+
+                            ---------
+
+                                 
+
+                                 
+
+                           No. 00-1015
+
+           United States Telecom Association, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                    AT&T Corporation, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             00-1025
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+     Michael K. Kellogg argued the cause for petitioners and 
+supporting intervenors in 00-1012 & 00-1015.  With him on 
+the briefs in 00-1012 were Mark L. Evans, Sean A. Lev, 
+James D. Ellis, Paul K. Mancini, Roger K. Toppins, Gary L. 
+Phillips, Lawrence E. Sarjeant, Linda L. Kent, Keith Town-
+send, John W. Hunter, Julie E. Rones, William P. Barr, 
+Michael E. Glover, Edward H. Shakin, John P. Frantz, 
+Richard M. Sbaratta, and James G. Harralson.  With him on 
+the briefs in 00-1015 were Mark L. Evans, Sean A. Lev, 
+David L. Schwarz, Lawrence E. Sarjeant, Linda L. Kent, 
+Keith Townsend, John W. Hunter, Julie E. Rones, Sharon J. 
+Devine, Robert B. McKenna, William T. Lake, John H. 
+
+Harwood II, Jonathan J. Frankel, James D. Ellis, Paul K. 
+Mancini, Roger K. Toppins, Gary L. Phillips, Michael E. 
+Glover, Edward H. Shakin, William P. Barr, John P. Frantz, 
+Jonathan B. Banks, Richard M. Sbaratta, and James G. 
+Harralson. Donna M. Epps entered an appearance in 
+00-1012.  Daniel L. Poole and William R. Richardson, Jr. 
+entered appearances in 00-1015.
+
+     Laurence N. Bourne, Counsel, Federal Communications 
+Commission, argued the cause for respondents in 00-1012.  
+With him on the brief in 00-1012 were Charles A. James, 
+Assistant Attorney General, Daniel M. Armstrong, Associate 
+General Counsel, John E. Ingle, Deputy Associate General 
+Counsel, James M. Carr, Counsel, Catherine G. O'Sullivan 
+and Nancy C. Garrison, Attorneys, U.S. Department of Jus-
+tice. Lisa S. Gelb, Counsel, Federal Communications Commis-
+sion entered an appearance in 00-1012.
+
+     Richard K. Welch, Counsel, Federal Communications 
+Commission, argued the cause for respondents in 00-1015.  
+With him on the briefs in 00-1015 were Charles A. James, 
+Assistant Attorney General, Daniel M. Armstrong, Associate 
+General Counsel, John E. Ingle, Deputy Associate General 
+Counsel, Laurence N. Bourne and James M. Carr, Counsel, 
+Catherine G. O'Sullivan and Nancy C. Garrison, Attorneys, 
+U.S. Department of Justice.  Lisa S. Gelb, Counsel, Federal 
+Communications Commission, entered an appearance in 
+00-1015.
+
+     Jonathan Jacob Nadler argued the cause for intervenors 
+AT&T Corp., et al. in 00-1012. With him on the brief in 
+00-1012 were David W. Carpenter, Peter D. Keisler, James 
+P. Young, Mark C. Rosenblum, Lawrence J. Lafaro, Richard 
+H. Rubin, Donald B. Verrilli, Jr., Maureen F. Del Duca, 
+Michael B. DeSanctis, Thomas F. O'Neil III, William Single, 
+IV, Theresa K. Gaugler, Charles C. Hunter, Catherine M. 
+Hannan, Albert H. Kramer, Robert McDowell, Jay C. Keith-
+ley and H. Richard Juhnke.  John J. Heitmann, Jonathan 
+E. Canis and Roy E. Hoffinger entered appearances in 
+00-1012.
+
+     David W. Carpenter argued the cause for intervenors 
+AT&T, Corp., et al. in 00-1015.  With him on the brief in 
+00-1015 were Peter D. Keisler, James P. Young, C. Frederick 
+Beckner III, Mark C. Rosenblum, Lawrence J. Lafaro, Rich-
+ard H. Rubin, Donald B. Verrilli, Jr., Maureen F. Del Duca, 
+Michael B. DeSanctis, Thomas F. O'Neil III, William Single, 
+IV, Rodney Joyce, Christy C. Kunin, Russell I. Zuckerman, 
+Francis D.R. Coleman, Richard E. Heatter, Marilyn H. Ash, 
+Douglas G. Bonner, Albert H. Kramer, Charles C. Hunter 
+and Catherine M. Hannan. Roy E. Hoffinger, Lawrence G. 
+Acker, John J. Heitmann and Jonathan E. Canis entered 
+appearances.
+
+     Before:  Edwards and Randolph, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  Petitioners in these two 
+cases--certain incumbent local exchange carriers ("ILECs") 
+and the U.S. Telecom Association, representing approximate-
+ly 1200 such carriers--seek review of two rulemaking orders 
+of the Federal Communications Commission.  One order 
+requires ILECs to lease a variety of "unbundled network 
+elements" ("UNEs") to competitive local exchange carriers 
+("CLECs"), and the other unbundles a portion of the spec-
+trum of local copper loops so that CLECs can offer competi-
+tive Digital Subscriber Line ("DSL") internet access.  We 
+grant both petitions, and remand both rules to the Commis-
+sion.
+
+I.   Background
+
+     Congress passed the Telecommunications Act of 1996, Pub. 
+L. 104-104, 110 Stat. 56, codified at 47 U.S.C. s 151 et seq. 
+(the "1996 Act" or the "Act"), to "promote competition and 
+reduce regulation in order to secure lower prices and higher 
+quality services for American telecommunications consumers 
+and encourage the rapid deployment of new telecommunica-
+tions technologies."  1996 Act, preamble.  In pursuit of that 
+goal, s 251 of the Act requires that ILECs "unbundle" their 
+
+network elements--that is, provide them on an individual 
+basis to competitive providers on terms prescribed by the 
+Commission.  47 U.S.C. s 251(c)(3).  To guide the Commis-
+sion in deciding which network elements are to be unbundled, 
+the Act goes on to specify:
+
+     (2) Access standards
+     
+          In determining what network elements should be made 
+     available for purposes of subsection (c)(3) of this section, 
+     the Commission shall consider, at a minimum, whether--
+     
+     (A) access to such network elements as are proprietary 
+     in nature is necessary;  and
+     
+     (B) the failure to provide access to such network ele-
+     ments would impair the ability of the telecommunica-
+     tions carrier seeking access to provide the services that it 
+     seeks to offer.
+     
+47 U.S.C. s 251(d)(2) (emphasis added).
+
+     In its first effort at implementation, Implementation of the 
+Local Competition Provisions in the Telecommunications 
+Act of 1996, First Report and Order, CC Docket No. 96-98, 
+11 FCC Rcd 15499 (1996) ("First Local Competition Order"), 
+the Commission gave this section the following reading:
+
+     The term "impair" means "to make or cause to become 
+     worse;  diminish in value."  We believe, generally, that 
+     an entrant's ability to offer a telecommunications service 
+     is "diminished in value" if the quality of the service the 
+     entrant can offer, absent access to the requested ele-
+     ment, declines and/or the cost of providing the service 
+     rises.  We believe we must consider this standard by 
+     evaluating whether a carrier could offer a service using 
+     other unbundled elements within an incumbent LEC's 
+     network.
+     
+Id. at 15643, p 285 (emphasis added).  In AT&T Corp. v. Iowa 
+Utilities Board, 525 U.S. 366 (1999), the Supreme Court 
+found the Commission's view far too broad, saying that under 
+such a standard it was "hard to imagine when the incumbent's 
+failure to give access to the element would not constitute an 
+
+'impairment.' "  Id. at 389.  It specifically criticized the Com-
+mission's having "blind[ed] itself to the availability of ele-
+ments outside the incumbent's network," including self-
+provisioning and leasing from other providers.  Id.  It criti-
+cized the Commission's view that "any increase" in the com-
+petitor's cost (resulting from lack of access to an incumbent's 
+element) would be an "impairment."  Id. at 389-90 (emphasis 
+in original).  Summarizing the overall picture, it said that if 
+"Congress had wanted to give blanket access to incumbents' 
+networks," it "would simply have said (as the Commission in 
+effect has) that whatever requested element can be provided 
+must be provided."  Id. at 390.
+
+     In Iowa Utilities Board, the Supreme Court also addressed 
+the Act's provisions on rates for UNEs, reversing the Eighth 
+Circuit's holding that the Commission had no authority to set 
+such rates.  Id. at 377-86.  It accordingly returned the 
+remaining rate issues to the Eighth Circuit, which on remand 
+invalidated the Commission's rate-setting principle, known by 
+the acronym TELRIC (for "total element long-run incremen-
+tal cost").  See Iowa Utilities Board v. FCC, 219 F.3d 744 
+(8th Cir. 2000).  The Supreme Court reversed, upholding the 
+TELRIC principle.  Verizon Communications, Inc. v. FCC, 
+No. 00-511, 2002 WL 970643 (May 13, 2002).
+
+     Following the Supreme Court's remand on the "impair-
+ment" standard, the Commission again tackled that issue in 
+the rulemakings now on review.  In what we will call the 
+"Local Competition Order," Implementation of the Local 
+Competition Provisions of the Telecommunications Act of 
+1996, Third Report and Order and Fourth Further Notice of 
+Proposed Rulemaking, 15 FCC Rcd 3696 (1999), it revised its 
+definition of "impair" so as to require unbundling if, "taking 
+into consideration the availability of alternative elements out-
+side the incumbent's network, including self-provisioning by a 
+requesting carrier or acquiring an alternative from a third-
+party supplier, lack of access to that element materially 
+diminishes a requesting carrier's ability to provide the ser-
+
+vices it seeks to offer."  Local Competition Order, 15 FCC 
+Rcd at 3725, p 51 (emphasis added);  47 C.F.R. s 51.317(b)(1).  
+In weighing the availability of alternative network elements, 
+the Commission noted that it would examine five factors--
+cost, effect on timeliness of entry, quality, ubiquity, and 
+impact on network operations.  Local Competition Order, 15 
+FCC Rcd at 3731, p 65, 3734-45, p p 71-100;  47 C.F.R. 
+s 51.317(b)(2).  Finally, it said that beyond looking simply to 
+"impairment," it would consider five factors that it believed 
+would further the Act's goals, namely whether unbundling 
+would lead to "rapid introduction of competition in all mar-
+kets," promote "facilities-based competition, investment, and 
+innovation," reduce regulatory obligations, promote certainty 
+in the market, and be administratively practical.  15 FCC 
+Rcd at 3745-50, p p 101-16;  47 C.F.R. s 51.317(b)(3).
+
+     Of particular importance to this case, the Commission 
+decided to make its unbundling requirements (except for two 
+elements) applicable uniformly to all elements in every geo-
+graphic or customer market.  We return in detail to this issue 
+after a survey of the elements unbundled by the Local 
+Competition Order:
+
+     .    Local loops, defined as "all features, functions and 
+          capabilities of the transmission facilities, including 
+          dark fiber and attached electronics (except those used 
+          for the provision of advanced services, such as 
+          DSLAMs [DSL Access Multiplexers]) owned by the 
+          incumbent LEC, between an incumbent LEC's cen-
+          tral office and the loop demarcation point at the 
+          customer premises."  15 FCC Rcd at 3772, p 167;  47 
+          C.F.R. s 51.319(a)(1).  The Commission also required 
+          that incumbent LECs "condition" loops so as to allow 
+          CLECs to offer advanced services.  15 FCC Rcd at 
+          3775, p 172;  47 C.F.R. s 51.319(a)(3).  Conditioning, 
+          for these purposes, means removing devices such as 
+          bridge taps, low-pass filters, range extenders, etc., 
+          
+          that improve voice transmission but may decrease a 
+          loop's advanced services capabilities.  Id.
+          
+     .    Subloops, i.e., those "portions of the loop that can be 
+          accessed at terminals in the incumbent's outside 
+          plant."  15 FCC Rcd at 3789, p 206;  47 C.F.R. 
+          s 51.319(a)(2).  Points of access might include the 
+          pole near the customer's premises, the network inter-
+          face device ("NID"), and the feeder distribution inter-
+          face (where the trunk line from the central office 
+          interfaces with the distribution line to the subscrib-
+          ers).  15 FCC Rcd at 3789-90, p 206.
+          
+     .    Network Interface Devices, which include all "fea-
+          tures, functions, and capabilities of the facilities used 
+          to connect the loop distribution plant to the customer 
+          premises wiring, regardless of the particular design 
+          of the NID mechanism."  Id. at 3801, p 233;  47 
+          C.F.R. s 51.319(b).  This broad definition is intended 
+          to make the unbundling requirement "flexible and 
+          technology-neutral," so as to apply to any new NID 
+          technologies that may develop.  15 FCC Rcd at 3801, 
+          p 234.
+          
+     .    Circuit switching, defined as the "basic function of 
+          connecting lines and trunks," including "all the fea-
+          tures, functions and capabilities of the switch."  Id. at 
+          3805, p 244;  47 C.F.R. s 51.319(c).  The Commission 
+          made one narrow exception to circuit switch unbun-
+          dling, which we discuss below.
+          
+     .    Packet switching under some circumstances.  Packet 
+          switches perform "the function of routing individual 
+          data units based on address or other routing informa-
+          tion contained in the units."  15 FCC Rcd at 3833, 
+          p 302;  47 C.F.R. s 51.319(c)(4).  The Commission for 
+          the most part denied unbundling for packet switch-
+          ing, requiring it only where the ILEC has used 
+          digital loop carrier systems, placing a DSLAM at a 
+          remote terminal and refusing to allow the competitor 
+          to collocate its own DSLAM at that remote terminal.  
+          15 FCC Rcd at 3838, p 313.  That is, if the loop is 
+          such that a remote DSLAM is necessary to provide 
+          
+          DSL service at all, and the ILEC has denied the 
+          CLEC the right to collocate a DSLAM remotely, 
+          then unbundling the packet switching (i.e., the 
+          ILEC's own DSLAM) would be the only way to allow 
+          the CLEC to provide DSL service.
+          
+     .    Dedicated transport, defined as "facilities dedicated 
+          to a particular customer or carrier that provide tele-
+          communications between wire centers owned by in-
+          cumbent LECs or requesting telecommunications 
+          carriers, or between switches owned by incumbent 
+          LECs or requesting telecommunications carriers."  
+          Id. at 3842, p 322;  47 C.F.R. s 51.319(d)(1)(i).  The 
+          Commission expanded this traditional definition so as 
+          to include all high-capacity transmission facilities of 
+          specified types and "such higher capacities as evolve 
+          over time," 15 FCC Rcd at 3843, p 323, as well as 
+          dark fiber, id. at 3843-46, p p 325-30;  47 C.F.R. 
+          s 51.319(d)(1)(ii).
+          
+     .    Shared transport, defined as "transmission facilities 
+          shared by more than one carrier, including the incum-
+          bent LEC, between end office switches, between end 
+          office switches and tandem switches, and between 
+          tandem switches in the incumbent LEC's network."  
+          15 FCC Rcd at 3862, p 370;  47 C.F.R. 
+          s 51.319(d)(1)(iii).
+          
+     .    Signaling networks and call-related databases.  Sig-
+          naling networks include signaling transfer points, to 
+          which each local switch must be connected.  15 FCC 
+          Rcd at 3868, p 384;  47 C.F.R. s 51.319(e).  Call-
+          related databases are "used in signaling networks for 
+          billing and collection or the transmission, routing, or 
+          other provision of telecommunications service."  15 
+          FCC Rcd at 3875, p 403.  The databases specifically 
+          unbundled include the calling name database, the 911 
+          database, the toll free calling database, and several 
+          others.  Id.
+          
+     .    Operations support systems.  These are the "func-
+          tions supported by an incumbent LEC's databases 
+          and information," including "pre-ordering, ordering, 
+          
+          provisioning, repair and maintenance, and billing."  
+          15 FCC Rcd at 3884, p 425;  47 C.F.R. s 51.319(g).
+          
+     So far as we understand, this list is narrower than that 
+which the Court reversed in Iowa Utilities Board only in its 
+exclusion of some circuit switches, as well as of operator 
+services and directory assistance.  See 15 FCC Rcd at 3822-
+31, p p 276-98, 3890-92, p p 438-42.  In other areas, the Com-
+mission's list has actually been expanded, now including high-
+capacity loops, id. at 3777, p 176, 3780, p 184, dark fiber, id. at 
+3785, p 196, 3843-46, p p 325-30, subloops, id. at 3788-89, 
+p p 202-05, and packet switches in a few circumstances, id. at 
+3832-35, p p 300-06.
+
+     In what we call the "Line Sharing Order," In the Matters 
+of Deployment of Wireline Services Offering Advanced Tele-
+communications Capability and Implementation of the Local 
+Competition Provisions of the Telecommunications Act of 
+1996, Third Report and Order in CC Docket No. 98-147 and 
+Fourth Report and Order in CC Docket No. 96-98, 14 FCC 
+Rcd 20912 (1999), the Commission refined unbundling further.  
+Copper loops have a range of spectrum in which the transmis-
+sion of information is possible.  Analog telephone service uses 
+only the lower frequencies of that spectrum (typically 300 to 
+3400 hz), leaving higher frequencies unused.  Recent techno-
+logical development allows the provision of DSL high-speed 
+internet access over the high-frequency (i.e., 20,000+ hz) 
+spectrum.1  By fitting the loop with splitters (which split 
+apart voice and digital signals) and DSLAMs (Digital Sub-
+scriber Line Access Multiplexers) (which send voice traffic to 
+the circuit-switched telephone network and data traffic to the 
+packet-switched data network), local carriers can provide both 
+
+__________
+     1  There are numerous types of DSL technology:  ADSL (asym-
+metric DSL, in which upstream transmissions are much slower than 
+downstream), HDSL (high-speed DSL), UDSL (universal DSL), 
+VDSL (very-high-speed DSL), and RADSL (rate-adaptive DSL).  
+See Line Sharing Order, 14 FCC Rcd at 20915 n.5.  The Commis-
+sion here and elsewhere refers to these technologies collectively as 
+"xDSL," the "x" serving as a generic identifier.  In the interests of 
+judicial economy, we shall simply use "DSL" as the generic term.
+
+plain old telephone service and DSL internet access at the 
+same time.
+
+     In the "Line Sharing Order" the Commission decided that 
+the high frequency portion of copper loop spectrum should be 
+unbundled as to those loops on which ILECs are currently 
+providing telephone service.  The Commission defined the 
+"high frequency" portion as simply any frequency "above the 
+voiceband on a copper loop facility used to carry analog 
+circuit-switched voiceband transmissions."  Line Sharing Or-
+der, 14 FCC Rcd at 20926, p 26;  47 C.F.R. s 51.319(h)(1).
+
+     Such unbundling means, of course, that CLECs and ILECs 
+would share the same copper loop to provide two different 
+services at once.  See, e.g., 14 FCC Rcd at 20923, p 17.  The 
+Commission clarified that the unbundling obligation extends 
+to only one competitor per line.  Id. at 20948, p 47.
+
+     The Commission also required ILECs to condition loops, 
+that is, to remove loading coils, bridge taps, and other voice-
+band transmission enhancing equipment that tends to inter-
+fere with DSL service.  Id. at 20917;  20952-54, p p 81-87;  47 
+C.F.R. s 51.319(h)(5).  An ILEC can escape this obligation 
+by demonstrating that conditioning would significantly de-
+grade analog voice service.  The Commission explicitly recog-
+nized that such a showing would be practically impossible for 
+loops under 18,000 feet.  14 FCC Rcd at 20954, p 86.
+
+II.  The Local Competition Order
+
+     We note at the outset the extraordinary complexity of the 
+Commission's task.  Congress sought to foster competition in 
+the telephone industry, and plainly believed that merely 
+removing affirmative legal obstructions would not do the job.  
+It thus charged the Commission with identifying those net-
+work elements whose lack would "impair" would-be competi-
+tors' ability to enter the market, yet gave no detail as to 
+either the kind or degree of impairment that would qualify.  
+We review the two orders with this in mind.
+
+A.   Unvarying Scope
+
+     As to almost every element, the Commission chose to adopt 
+a uniform national rule, mandating the element's unbundling 
+
+in every geographic market and customer class, without 
+regard to the state of competitive impairment in any particu-
+lar market.  As a result, UNEs will be available to CLECs in 
+many markets where there is no reasonable basis for thinking 
+that competition is suffering from any impairment of a sort 
+that might have the object of Congress's concern.
+
+     One reason for such market-specific variations in competi-
+tive impairment is the cross-subsidization often ordered by 
+state regulatory commissions, typically in the name of univer-
+sal service.  This usually brings about undercharges for some 
+subscribers (usually rural and/or residential) and overcharges 
+for the others (usually urban and/or business).  Petitioners' 
+opening brief in the Local Competition Order case cites 
+testimony of a former FCC Chairman for the proposition that 
+40% of telephone service is charged below cost, Petitioners' 
+Br. at 35 & n.16, and the Commission and its supporting 
+intervenors do not demur.  See also, e.g., Robert W. Crandall 
+& Thomas W. Hazlett, Telecommunications Policy Reform in 
+the United States and Canada, at 18, Working Paper 00-9, 
+AEI-Brookings Joint Center for Regulatory Studies (Dec. 
+2000) (chart showing that in many American cities, businesses 
+are charged substantially more than residences for single 
+lines);  see also generally Robert W. Crandall & Leonard 
+Waverman, Who Pays for Universal Service?  When Subsi-
+dies Become Transparent (2000).
+
+     Competitors will presumably not be drawn to markets 
+where customers are already charged below cost, unless 
+either (1) the availability of UNEs priced well below the 
+ILECs' historic cost makes such a strategy promising, or (2) 
+provision of service may, by virtue of economies of scale and 
+scope, enable a CLEC to sell complementary services (such 
+as long distance or enhanced services) at prices high enough 
+to cover incomplete recovery of costs in basic service.  The 
+Commission never explicitly addresses by what criteria want 
+of unbundling can be said to impair competition in such 
+markets, where, given the ILECs' regulatory hobbling, any 
+competition will be wholly artificial.  And, although it offers 
+an explanation as to why it is desirable as a general matter 
+that CLECs should have "ubiquitous" unimpaired access to 
+
+network elements, see Local Competition Order, 15 FCC Rcd 
+at 3744, p p 97-98, it never explains why the record supports a 
+finding of material impairment where the element in ques-
+tion--though not literally ubiquitous--is significantly de-
+ployed on a competitive basis in those markets where there is 
+no reason to suppose that rates are artificially low, compare 
+id. at 3847, p 335 (finding that 47 of the top 50 areas have 3 or 
+more competitors providing interoffice transport), with id. at 
+3849, p 340 (finding absence of requisite ubiquity for such 
+transport).
+
+     But it is in the other segments of the markets, where 
+presumably ILECs must charge above cost (at least above 
+average costs allocated in conventional regulatory fashion) in 
+order to offset their losses in the subsidized markets, that the 
+gap in the Commission's reasoning is greatest.  In finding 
+that the CLECs' lack of access to each of the many elements 
+"materially diminish[ed]" their ability to provide service, the 
+Commission nowhere appears to have considered the advan-
+tage CLECs enjoy in being free of any duty to provide 
+underpriced service to rural and/or residential customers and 
+thus of any need to make up the difference elsewhere.  As a 
+matter of pure language, perhaps, one might regard as an 
+"impairment" any cost disadvantage that the CLECs suffer in 
+markets where ILECs are hampered by regulatory redistrib-
+ution, even if the disadvantage is fully offset by the exigencies 
+faced by ILECs.  But the Commission has never explained 
+why such a view makes sense.  Indeed, pointing to evidence 
+of considerable investment by CLECs in facilities for service 
+in what are evidently the relatively overcharged markets, see, 
+e.g., Petitioners' Br. at 16 (noting that as of 1999, CLECs had 
+deployed transport facilities in all of the top 50 markets), the 
+petitioners argue that there has been little or no real net 
+impairment.  The Commission responds with an expression of 
+doubt whether these "data accurately reflects [sic] the extent 
+to which alternatives are actually available to competitors."  
+Local Competition Order, 15 FCC Rcd at 3849, p 341.  But 
+because the Commission has loftily abstracted away all specif-
+ic markets, and because its concept of impairing cost-
+
+differentials is so broad (an issue discussed below), we have 
+no way of assessing the real meaning of that conclusion.
+
+     We now turn to the reasons offered by the Commission for 
+adopting an undifferentiated national rule for each element 
+(with narrow exceptions).  Having found legal authority to 
+adopt such a rule, it said that it would help achieve the goals 
+of the Act, to wit:  (1) rapid introduction of competition, (2) 
+promotion of facilities-based competition, investment and in-
+novation, (3) certainty in the marketplace, (4) administrative 
+practicality and (5) reduced regulation.  See Local Competi-
+tion Order, 15 FCC Rcd at 3754-62, p p 124-143;  see also 47 
+C.F.R. s 51.317(b)(3) (identifying same five factors as guiding 
+Commission decision whether to unbundle a network ele-
+ment).
+
+     We first address the third and fourth justifications, both of 
+which seemingly turn on how clear any non-universal rule can 
+be.  The Commission appears simply to assume that any such 
+rule would be unpredictable and hard to apply.  Yet the 
+Commission itself, in regard to circuit switches, chose a 
+partial rule, denying unbundling for local circuit switches 
+serving customers with four or more lines in the highest-
+density zone in any of the top 50 Metropolitan Statistical 
+Areas ("MSAs").  See Local Competition Order, 15 FCC Rcd 
+at 3823-31, p p 278-99.  The Commission's order has no ex-
+planation of why comparable differentiation was not available 
+for other elements.
+
+     As to reduced regulation, the Commission says that a 
+national list "will result immediately in reduced regulation."  
+Id. at 3762, p 143.  It does not elaborate on this counterintui-
+tive proposition.  It goes on to say that a national list is 
+consistent with "the deregulatory goals of the Act":
+
+     Reduced regulation will occur as we remove elements 
+     from the list as requesting carriers are no longer im-
+     paired without access to those elements, and it otherwise 
+     does not further the goals of the Act to continue requir-
+     ing incumbent LECs to unbundle them.
+     
+Id.  We understand that elimination of an entire universal 
+mandate at one whack will achieve more deregulation than 
+removal of a partial mandate.  But imposition of a national 
+mandate does not itself entail national elimination, and in any 
+event we cannot see how imposition and then retraction of a 
+national mandate is more deregulatory, overall, than imposi-
+tion and retraction of a partial one.
+
+     This leaves the more substantive justifications--the ideas 
+that universal rules would promote the goals of the Act by 
+leading to rapid introduction of competition, Local Competi-
+tion Order, 15 FCC Rcd at 3754-57, p p 125-33, and to 
+promotion of facilities-based competition, investment, and in-
+novation, id. at 3757-60, p p 134-39.  Using certain defini-
+tions, the first point--more rapid introduction of competi-
+tion--indeed follows automatically.  If competition performed 
+with ubiquitously provided ILEC facilities counts, the more 
+unbundling there is, the more competition.  The Commission, 
+here in unison with the ILEC petitioners, evidently assumes 
+that the Commission-imposed prices are highly attractive to 
+CLECs;  on that assumption, universal rules encompassing as 
+many elements as possible would indeed generate a rapid 
+spread of "competition."
+
+     But the Commission never makes the argument in quite so 
+stark a form, unwilling to embrace the idea that such com-
+pletely synthetic competition would fulfill Congress's pur-
+poses.  Thus it turns to the argument that universal rules 
+promote investment and facilities-based competition.
+
+     The Commission says that "adoption of a national list" will 
+"facilitate the deployment" of competitive facilities.  Id. at 
+3757, p 134.  There are plainly two sides to the effects on 
+investment of ubiquitously available UNEs at Commission-
+mandated prices.  On one side, the more widespread the 
+availability of elements that can be more efficiently provided 
+by the incumbent (presumably because of economies of scale 
+and scope--an issue to which we'll return), the quicker com-
+petitors will set about providing the other elements and 
+offering of complete competitive service, including long dis-
+tance service.  Compare Iowa Utilities Board, 525 U.S. at 
+
+416-17 (Breyer, J., concurring in part and dissenting in part), 
+cited at Respondent's Br. 32-33.  Further, access to UNEs 
+may enable a CLEC to enter the market gradually, building a 
+customer base up to the level where its own investment would 
+be profitable.
+
+     On the other side, the petitioners argued before the Com-
+mission that mandatory unbundling at Commission-mandated 
+prices reduces the incentives for innovation and investment in 
+facilities.  Their reasoning, of course, is that a regulated price 
+below true cost will reduce or eliminate the incentive for an 
+ILEC to invest in innovation (because it will have to share the 
+rewards with CLECs), and also for a CLEC to innovate 
+(because it can get the element cheaper as a UNE).  Indeed, 
+many prices that seem to equate to cost have this effect.  
+Some innovations pan out, others do not.  If parties who have 
+not shared the risks are able to come in as equal partners on 
+the successes, and avoid payment for the losers, the incentive 
+to invest plainly declines.2  See Iowa Utilities Board, 525 
+
+__________
+     2  The Commission's standard for deciding that a network ele-
+ment should be unbundled--whether lack of access to it "materially 
+diminishes" the requesting carrier's "ability" to provide the ser-
+vices in question--implicitly builds in a relation to the prices at 
+which CLECs get access to UNEs.  (The Commission is rarely 
+clear on precisely what costs are being compared, but in saying that 
+lack of access to unbundled elements would cause a material 
+increase in cost it often uses terms implying that the comparison is 
+to the Commission-mandated price of unbundled elements, i.e., at 
+present TELRIC.  See, e.g., 15 FCC Rcd at 3815, p 263;  id. at 
+3864, p 375.)  Lack of access would not diminish the requester's 
+ability at all if it could secure the function more cheaply on its own.  
+Thus, the closer the Commission's pricing principle is to the low end 
+of what it may lawfully set, the greater the probability that lack of 
+access would cause "material diminution."  As a result low UNE 
+prices would not only have the direct effect mentioned in the text, 
+but would inherently tend to expand the sphere of these effects.  As 
+the "price squeeze" jurisprudence shows, even prices that are set 
+within the band of what is lawfully permissible may have perverse 
+effects, and the Commission may be obligated to consider them.  
+Cf. FPC v. Conway Corp., 426 U.S. 271, 278-79 (1976);  Sprint 
+
+U.S. at 428-29 (Breyer, J., concurring in part and dissenting 
+in part);  cf. FPC v. Hope Natural Gas Co., 320 U.S. 591, 647-
+53 (1944) (Jackson, J., dissenting) (discussing supply implica-
+tions of cost-based regulation of natural gas production).  In 
+any event, the Commission's own assumption that universal 
+access to virtually all network elements would prove attrac-
+tive (leading to rapid introduction of "competition") suggests 
+that such a disincentive effect cannot be discounted a priori.
+
+     The Commission's only response is to point to evidence that 
+both CLECs and ILECs have built facilities since passage of 
+the 1996 Act (the same evidence invoked by the ILECs to 
+show the existence of many markets where unbundling is 
+unneeded), despite the Act's obviously having created a pros-
+pect of unbundling.  Local Competition Order, 15 FCC Rcd 
+at 3758-59, p p 135-38.  But the existence of investment of a 
+specified level tells us little or nothing about incentive effects.  
+The question is how such investment compares with what 
+would have occurred in the absence of the prospect of unbun-
+dling, compare Sugar Cane Growers Cooperative of Florida v. 
+Veneman, No. 01-5335, 2002 Westlaw ----, slip op. at 7 (D.C. 
+Cir. May 10, 2002);  Competitive Enterprise Institute v. 
+NHTSA, 956 F.2d 321, 325 (D.C. Cir. 1992), an issue on which 
+the record appears silent.  Although we can't expect the 
+Commission to offer a precise assessment of disincentive 
+effects (a lack of multiple regression analyses is not ipso facto 
+arbitrary and capricious), we can expect at least some con-
+frontation of the issue and some effort to make reasonable 
+trade-offs.
+
+     In the end, then, the entire argument about expanding 
+competition and investment boils down to the Commission's 
+expression of its belief that in this area more unbundling is 
+better.  But Congress did not authorize so open-ended a 
+judgment.  It made "impairment" the touchstone.  The Com-
+mission argues that s 251(d)(2), directing it to consider neces-
+sity and impairment "at a minimum," clearly allows it to 
+consider other elements.  We assume in favor of the Commis-
+sion that that is so.  But to the extent that the Commission 
+orders access to UNEs in circumstances where there is little 
+or no reason to think that its absence will genuinely impair 
+__________
+
+Communications Co. L.P. v. FCC, 274 F.3d 549, 555 (D.C. Cir. 
+2001).
+
+competition that might otherwise occur, we believe it must 
+point to something a bit more concrete than its belief in the 
+beneficence of the widest unbundling possible.
+
+     Besides the analysis described above, the Commission ad-
+dressed the question whether Iowa Utilities Board precluded 
+its adoption of universal rules for each network element.  It 
+concluded that nothing in that opinion would require it "to 
+determine, on a localized state-by-state or market-by-market 
+basis which unbundled elements are to be made available."  
+Local Competition Order, 15 FCC Rcd at 3753, p 122.  We 
+certainly agree that the Court's brief passage reversing the 
+Commission on the impairment issue contained little detail as 
+to the "right" way for the Commission to go about its work.  
+But the Court's point that if "Congress had wanted to give 
+blanket access to incumbents' networks," it "would simply 
+have said (as the Commission in effect has) that whatever 
+requested element can be provided must be provided," Iowa 
+Utilities Board, 525 U.S. at 390, suggests that the Court read 
+the statute as requiring a more nuanced concept of impair-
+ment than is reflected in findings such as the Commission's--
+detached from any specific markets or market categories.
+
+B.   Kinds of Cost Disparities
+
+     Petitioners complain that the Commission myopically fo-
+cused on "cost differences," thereby skewing its inquiry to 
+produce the maximum unbundling.
+
+     Of course any cognizable competitive "impairment" would 
+necessarily be traceable to some kind of disparity in cost.  
+Indeed, the ILECs argued before the Commission and the 
+Supreme Court that Congress intended that the impairment 
+standard embody the criteria of the "essential facilities" 
+doctrine, see Iowa Utilities Board, 525 U.S. at 388, which 
+itself turns on concepts of cost.  The doctrine's basic idea is 
+that where one firm controls some facility (such as a bridge) 
+that is essential for competition in a broader market, and it 
+would make no economic sense for competitors to duplicate 
+the facility, and certain other criteria are satisfied, see gener-
+ally Phillip E. Areeda & Herbert Hovenkamp, 3A Antitrust 
+Law p p 771-73 (1996), the owner may be compelled to share 
+the facility with its competitors.  The classic case where 
+competitor duplication would make no economic sense is 
+
+where average costs are declining throughout the range of 
+the relevant market.  See Areeda & Hovenkamp, supra, at 
+p 771c;  see also 2 Alfred E. Kahn, The Economics of Regula-
+tion:  Principles and Institutions 119 (1989).  In such a case, 
+duplication, even by the most efficient competitors imagin-
+able, would only lead to higher unit costs for all firms, and 
+thus for customers.  See Areeda & Hovenkamp, supra, at 
+p 771c;  2 Kahn, supra, at 122;  see also generally Iowa 
+Utilities Board, 525 U.S. at 416-17, 427-31 (Breyer, J., 
+concurring in part and dissenting in part).3  Thus the Su-
+preme Court in Verizon observed that "entrants may need to 
+share some facilities that are very expensive to duplicate (say, 
+loop elements) in order to be able to compete in other, more 
+sensibly duplicable elements (say, digital switches or signal-
+multiplexing technology)."  Verizon, slip op. at 38 n.27 (em-
+phasis added).  See also id. at 39 n.27 (characterizing the 
+elements with respect to which new entrants and incumbents 
+are not required to compete (i.e., the elements to be unbun-
+dled) as those " 'the duplication of [which] would prove unnec-
+essarily expensive' ") (quoting Justice Breyer, post, at 8, 
+dissenting). 
+
+     Petitioners' position here is fundamentally that the Com-
+mission relied on cost disparities that, far from being any 
+indication that competitive supply would be wasteful, are 
+simply disparities faced by virtually any new entrant in any 
+sector of the economy, no matter how competitive the sector.  
+See Petitioners' Br. at 28.  Indeed, the Commission's order 
+does reflect an open-ended notion of what kinds of cost 
+disparity are relevant.
+
+     For example, in the discussion of local switching, the 
+Commission notes that there are economies of scale in 
+switches, Local Competition Order, 15 FCC Rcd at 3812-13, 
+p 259, and that it is cheaper to buy a 20,000-line switch than 
+four increments of 5000 lines each, id. at 3813, p 260.  The 
+Commission refers explicitly to a CLEC's probable inability 
+to enjoy scale economies comparable to ILECs' "particularly 
+in the early stages of entry."  Id. at 3814, p 261 (emphasis 
+__________
+     3  Compare William J. Baumol, On the Proper Cost Tests for 
+Natural Monopoly in a Multiproduct Industry, 67 Amer. Econ. 
+Rev. 809 (1977) (proposing concept of "subadditivity" for ascertain-
+ment of natural monopoly), and William W. Sharkey, The Theory 
+of Natural Monopoly (1982) (further development of subadditivity).
+
+added).  But average unit costs are necessarily higher at the 
+outset for any new entrant into virtually any business.  The 
+Commission has in no way focused on the presence of econo-
+mies of scale "over the entire extent of the market."  2 Kahn, 
+supra, at 119 (emphasis added).  Without a link to this sort of 
+cost disparity, there is no particular reason to think that the 
+element is one for which multiple, competitive supply is 
+unsuitable.  See generally id. at 119-26.
+
+     The Commission of course has recognized that marketplace 
+changes and increases in competition may justify later reduc-
+tions in unbundling mandates.  See, e.g., Local Competition 
+Order, 15 FCC Rcd at 3704, p 15.  But this acknowledgement 
+doesn't respond to the analytical problem.  To rely on cost 
+disparities that are universal as between new entrants and 
+incumbents in any industry is to invoke a concept too broad, 
+even in support of an initial mandate, to be reasonably linked 
+to the purpose of the Act's unbundling provisions.
+
+     Each unbundling of an element imposes costs of its own, 
+spreading the disincentive to invest in innovation and creating 
+complex issues of managing shared facilities.  See Iowa Utili-
+ties Board, 525 U.S. at 428-29 (Breyer, J., concurring in part 
+and dissenting in part).  At the same time--the plus that the 
+Commission focuses on single-mindedly--a broad mandate 
+can facilitate competition by eliminating the need for separate 
+construction of facilities where such construction would be 
+wasteful.  Id. at 416-17.  Justice Breyer concluded that 
+fulfillment of the Act's purposes therefore called for "balance" 
+between these competing concerns.  Id. at 429-30.  A cost 
+disparity approach that links "impairment" to universal char-
+acteristics, rather than ones linked (in some degree) to natu-
+ral monopoly, can hardly be said to strike such a balance.  
+The Local Competition Order reflects little Commission effort 
+to pin "impairment" to cost differentials based on characteris-
+tics that would make genuinely competitive provision of an 
+element's function wasteful.
+
+     Petitioners here do not explicitly attack the Commission for 
+its refusal to incorporate the essential facilities doctrine, and 
+we do not intend to suggest that the Act requires use of that 
+doctrine's criteria.4 But what we do say is that cost compari-
+__________
+     4   We note that scholars have raised very serious questions 
+about the wisdom of the essential facilities doctrine as a justification 
+
+sons of the sort made by the Commission, largely devoid of 
+any interest in whether the cost characteristics of an "ele-
+ment" render it at all unsuitable for competitive supply, seem 
+unlikely either to achieve the balance called for explicitly by 
+Justice Breyer or implicitly by the Court as a whole in its 
+disparagement of the Commission's readiness to find "any" 
+cost disparity reason enough to order unbundling.  The Com-
+mission's addition of a materiality notion, see Local Competi-
+tion Order, 15 FCC Rcd at 3725, p 51 (finding impairment in 
+any case where lack of access to an element "materially" 
+diminishes ability to provide services), submits to the Court's 
+ruling in a nominally quantitative sense (though the reality of 
+such acquiescence cannot be measured and may be belied by 
+the virtual identity of the old and new orders).  More impor-
+tant, adding the adjective "material" contributes nothing of 
+any analytical or qualitative character that would fulfill the 
+Court's demand for a standard "rationally related to the goals 
+of the Act."  Iowa Utilities Board, 525 U.S. at 388.
+
+     Because the Commission's concept of "impairing" cost dis-
+parities is so broad and unrooted in any analysis of the 
+competing values at stake in implementation of the Act, we 
+cannot uphold even the two non-universal mandates adopted 
+by the Commission (for circuit switches and packet switches).
+
+     Petitioners also attack the rules on specific elements.  
+Some of these attacks parallel the universality and cost-
+disparity issues already discussed.  Petitioners' critique as to 
+advanced services equipment coalesces with the issues they 
+raise about the Line Sharing Order (see below).  This leaves 
+two issues, neither of which we need address here.  First, 
+petitioners attack the Commission's requirements of certain 
+information disclosure and "loop conditioning."  After re-
+mand, these issues may well be moot, and if they recur will do 
+
+__________
+for judicial mandates of competitor access, and accompanying judi-
+cial price setting.  See, e.g., Areeda & Hovenkamp, supra, at 
+p 771c.  But a doctrine that is inadequate for that purpose may 
+nonetheless offer useful concepts for agency guidance when Con-
+gress has directed an agency to provide competitor access in a 
+specific industry.
+
+so in a different context.  Second, petitioners argue that the 
+"enhanced extended link" condition to the exception to the 
+switch unbundling mandate is in reality a mandate to combine 
+otherwise uncombined network elements, and is therefore 
+invalid.  The Supreme Court appears to have definitely re-
+moved the basis of this claim, holding that the Commission 
+has authority to require such combinations, affirmatively--
+that is, not merely as a condition to an unbundling exception.  
+See Verizon, slip op. at 58-68.  If any comparable claim 
+somehow survives, it too can be raised in the remand pro-
+ceedings. 
+
+III. The Line Sharing Order
+
+     Petitioners primarily attack the Line Sharing Order on the 
+ground that the Commission, in ordering unbundling of the 
+high frequency spectrum of copper loop so as to enable 
+CLECs to provide DSL services, completely failed to consider 
+the relevance of competition in broadband services coming 
+from cable (and to a lesser extent satellite).  We agree.
+
+     The Commission's own findings (in a series of reports 
+under s 706 of the 1996 Act) repeatedly confirm both the 
+robust competition, and the dominance of cable, in the broad-
+band market.  The first s 706 report found that "[n]umerous 
+companies in virtually all segments of the communications 
+industry are starting to deploy, or plan to deploy in the near 
+future, broadband to the consumer market," including "cable 
+television companies, incumbent LECs, some utilities, and 
+'wireless cable' companies."  In the Matter of Inquiry Con-
+cerning the Deployment of Advanced Telecommunications 
+Capability to All Americans in a Reasonable and Timely 
+Fashion, and Possible Steps to Accelerate Such Deployment 
+Pursuant to Section 706 of the Telecommunications Act of 
+1996, 14 FCC Rcd 2398, 2404 p 12 (1999).  The Commission 
+also noted that the "most popular offering of broadband to 
+residential consumers is via 'cable modems'...." id. at 2426, 
+p 54, that "no competitor has a large embedded base of 
+paying residential consumers," id. at 2423, p 48, and that the 
+"record does not indicate that the consumer market is inher-
+ently a natural monopoly," id.  The most recent s 706 Report 
+
+(not in the record of this case) is consistent:  As of the end of 
+June 2001, cable companies had 54% of extant high-speed 
+lines, almost double the 28% share of asymmetric DSL.  
+Third Report Pursuant to s 706, 2002 FCC LEXIS 655, at 
+p p 44, 48 (Feb. 6, 2002).  Even in the Local Competition 
+Order on review in this case, the Commission said, "Competi-
+tive LECs and cable companies appear to be leading the 
+incumbent LECs in their deployment of advanced services."  
+15 FCC Rcd at 3835, p 307.
+
+     Relying on the Commission's repeated findings, petitioners 
+argue that it is "antithetical to the 1996 Act's language and 
+deregulatory objectives" to mandate unbundling in a market 
+that "already has intense facilities-based competition."  DSL 
+Petitioners' Br. at 3.  They note the Supreme Court's obser-
+vation that a proper "impairment" standard should be limited 
+by the "goals of the Act."  Id. at 23 (quoting Iowa Utilities 
+Board, 525 U.S. at 388).
+
+     The Commission's response to this argument is to say that 
+it was "merely adhering" to the letter of the statute:  Thus it 
+quotes the instruction of s 251(d)(2)(B) that it consider 
+whether "failure to provide access to such network elements 
+would impair the ability of the telecommunications carrier 
+seeking access to provide the services that it seeks to offer."  
+DSL Respondent's Br. at 20, quoting 47 U.S.C. s 251(d)(2)(B) 
+(emphasis added by Respondent).  On this theory the Com-
+mission believes it was justified in focusing solely on DSL 
+because that is what "CLECs seek to offer when they request 
+line sharing."  Id. at 21.  The Commission thus appears to 
+acknowledge that it adopted the Line Sharing Order with 
+indifference to petitioners' contentions about the state of 
+competition in the market.
+
+     The Commission's inference from s 251(d)(2)(B)'s allusion 
+to the services the requester "seeks to offer" strikes us as 
+quite unreasonable.  See Chevron U.S.A. Inc. v. Natural 
+Resources Defense Council, Inc., 467 U.S. 837, 842-43 (1984).  
+As Justice Breyer's separate opinion carefully explained, 
+mandatory unbundling comes at a cost, including disincen-
+tives to research and development by both ILECs and 
+
+CLECs and the tangled management inherent in shared use 
+of a common resource.  Iowa Utilities Board, 525 U.S. at 
+428-29.  And, as we said before, the Court's opinion in Iowa 
+Utilities Board, though less explicit than Justice Breyer on 
+the need for balance, plainly recognized that unbundling is 
+not an unqualified good--thus its observation that the Com-
+mission must "apply some limiting standard, rationally relat-
+ed to the goals of the Act," id. at 388, and its point that the 
+Commission "cannot, consistent with the statute, blind itself 
+to the availability of elements outside the incumbent's net-
+work," id. at 389.  In sum, nothing in the Act appears a 
+license to the Commission to inflict on the economy the sort 
+of costs noted by Justice Breyer under conditions where it 
+had no reason to think doing so would bring on a significant 
+enhancement of competition.  The Commission's naked disre-
+gard of the competitive context risks exactly that result.
+
+     Accordingly, the Line Sharing Order must be vacated and 
+remanded.  Obviously any order unbundling the high fre-
+quency portion of the loop should also not be tainted by the 
+sort of error identified in our discussion of the Local Compe-
+tition Order and identified by petitioners here as well.
+
+     Petitioners also claim that the Commission without expla-
+nation reversed a prior decision that a portion of the spec-
+trum of a loop cannot qualify as a "network element."  The 
+Commission urges that any language suggesting such a view 
+is explicable as simply reflecting a judgment on technical 
+feasibility, which it here reversed on the basis of a reexamina-
+tion of the facts.  Line Sharing Order, 14 FCC Rcd at 20942-
+43, p 63.  We think the Commission's view is convincing.
+
+     Finally, petitioners attack the Commission's pricing rule, 
+which limited an ILEC's charges for access to the high 
+frequency portion of the loop to the value the ILEC "allocat-
+ed to [asymmetric] DSL services when it established its 
+interstate retail rates for those services," even where this rule 
+would reduce the charges below the level derived from the 
+Commission's general UNE pricing principles.  Line Sharing 
+Order, 14 FCC Rcd at 20975-76, p 139.  As in the case of the 
+element-specific claims raised in the Local Competition Order 
+
+case, we think the possible mootness, and certainty that any 
+recurrence will be in a different context, warrant deferring 
+the issue to another day.
+
+                             *  *  *
+
+     We grant the petitions for review, and remand both the 
+Line Sharing Order and the Local Competition Order to the 
+Commission for further consideration in accordance with the 
+principles outlined above.
+
+                                                                 So ordered.
+
+                                                 

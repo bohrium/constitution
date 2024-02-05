@@ -1,0 +1,467 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued November 21, 2002    Decided January 10, 2003 
+
+                           No. 01-5429
+
+                 Boca Investerings Partnership, 
+                        a Partnership and 
+    American Home Products Corporation, Tax Matters Partner, 
+                            Appellees
+
+                                v.
+
+                    United States of America, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 97cv00602)
+
+     Mark V. Holmes, Attorney, U.S. Department of Justice, 
+argued the cause for appellant.  With him on the briefs were 
+Roscoe C. Howard, Jr., U.S. Attorney, Richard Farber and 
+Edward T. Perelmuter, Attorneys, U.S. Department of Jus-
+tice.
+
+     Christopher Kliefoth argued the cause for appellees.  With 
+him on the brief were William L. Goldman and Diane L. 
+Cafritz.  Melvin White entered an appearance.
+
+     Before:  Sentelle, Henderson and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  In 1990, American Home Prod-
+ucts (AHP), sold a subsidiary, Boyle-Midway, for a capital 
+gain of more than $605 million.  Just before the sale, Merrill 
+Lynch approached AHP with an investment plan which would 
+enable AHP to claim paper tax losses of a comparable 
+amount, while generating only about $8 million in actual 
+losses.  AHP was one of several Fortune 500 companies that 
+Merrill approached with this idea, and this is the third case 
+before us involving this particular type of scheme.  See Saba 
+P'ship v. Comm'r, 273 F.3d 1135 (D.C. Cir. 2001);  ASA 
+Investerings P'ship v. Comm'r, 201 F.3d 505 (D.C. Cir. 2000).  
+Following Merrill Lynch's proposal, AHP formed Boca Inves-
+terings Partnership with another AHP subsidiary and two 
+foreign corporations.  After completing the transactions pro-
+posed by Merrill Lynch, AHP filed tax returns which re-
+flected the losses offsetting its capital gains for 1990-1993.  
+After the Internal Revenue Service challenged these returns, 
+AHP filed a complaint in the district court contesting the 
+Commissioner of Internal Revenue's proposed adjustments to 
+its partnership returns, and on October 5, 2001, the district 
+court issued an opinion rejecting the Commissioner's adjust-
+ments, and entering judgment in favor of Boca.  See Boca 
+Investerings P'ship v. United States, 167 F. Supp.2d 298 
+(D.D.C. 2001).  We reverse the district court's decision as 
+inconsistent with ASA Investerings, 201 F.3d 505.
+
+Background
+
+     We explored this Merrill Lynch-created tax shelter and the 
+regulation on which it depends at significant length in our 
+opinion in ASA Investerings, 201 F.3d at 506-08, and there-
+fore will not belabor the details here.  The plan proposed by 
+Merrill Lynch to AlliedSignal, the domestic corporation in-
+volved in the ASA partnership, was virtually identical to the 
+
+one Merrill proposed to AHP in the case before us now.  The 
+plan requires the formation of a partnership between a 
+United States corporation and a foreign corporation not sub-
+ject to United States tax, combined with a series of invest-
+ment transactions that exploit the terms of Temp. Treas. Reg. 
+s 15A.453-1(c)(3)(I) (26 C.F.R.).  That regulation provides a 
+tax accounting rule for contingent installment sales.  An 
+installment sale is defined in the code as "a disposition of 
+property where at least 1 payment is to be received after the 
+close of the taxable year in which the disposition occurs."  
+I.R.C. s 453(b)(1) (2001).  A contingent installment sale is 
+one where the total purchase price is unknown at the time of 
+the transaction.  Because the total price is unknown, the total 
+gain on the sale is likewise unknown.  The regulation supplies 
+a general rule of "ratable basis recovery" for situations where 
+a seller at least knows the maximum period over which the 
+purchase price will be paid.  The partnership formed between 
+the domestic entities and the foreign entities takes advantage 
+of this regulation by first buying, then immediately selling a 
+debt instrument on an installment basis.
+
+     As we noted in our opinion in Saba Partnership, which also 
+considered this regulation and another virtually identical ser-
+ies of transactions, "[a]lthough the transaction is basically a 
+wash, generating hardly any economic gain or loss, Merrill 
+Lynch's lawyers' interpretation of the relevant provisions 
+allows the partnership to claim a massive tax gain, which is 
+allocated to the foreign partner, and a massive tax loss, which 
+the U.S. corporation keeps for itself."  273 F.3d at 1136.  
+This sentence essentially describes the transactions in which 
+AHP;  its subsidiary;  and its foreign partners, Syringa and 
+Addiscombe, engaged after forming the Boca partnership.  
+The massive loss AHP was able to claim for tax purposes was 
+then used to offset the tax gain it realized from the sale of its 
+subsidiary, Boyle-Midway.
+
+     The facts in this case are substantially similar to those in 
+ASA Investerings and Saba Partnership.  In 1990, Merrill 
+Lynch representatives approached AHP, as it had also ap-
+proached AlliedSignal and Brunswick, other Fortune 500 
+companies, with the idea for this scheme to shelter large 
+
+capital gains.  After meeting with the representatives, Thom-
+as Nee, AHP's vice-president for taxes prepared a memoran-
+dum for AHP's Chairman and Chief Executive Officer, John 
+Stafford, entitled, "Tax Planning Re:  Sale of Boyle-Mid-
+way."  This memo outlined the proposal as follows, in perti-
+nent part.
+
+     1) Formation of Partnership
+     
+     The partnership would be formed in a favorable tax 
+     jurisdiction such as the Netherlands, Antilles under the 
+     New York general partnership law.  The members of the 
+     partnership would be AHPC, one of its domestic subsid-
+     iaries (henceforth referred to as AHPC) and an unrelated 
+     foreign financial institution (XYZ).  AHPC will contrib-
+     ute cash of $110 million (representing a 10% ownership) 
+     and XYZ will contribute $990 million.  Under the part-
+     nership agreement, all the income, gain, expense and loss 
+     of the partnership will be allocated among the members 
+     in proportion to their capital accounts.  * * *
+     
+     2) Purchase of Corporate Bonds
+     
+     * * * [I]nvest $1.057 billion in [corporate bonds]* * *
+     
+     3) Installment Sale
+     
+     The Partnership will sell the Bonds to a financial institu-
+     tion in exchange for $898.5 million in cash and $158.5 
+     million at fair market value, five year LIBOR installment 
+     notes.  * * *
+     
+     4) Increase of AHPC's Partnership Interest
+     
+     Following Step 3, AHPC will purchase a 45.5% interest 
+     in the partnership from XYZ for $500 million in cash 
+     bringing its total interest to 55.5% and XYZ's interest 
+     down 44.5%.
+     
+     5) Contribution of Assets to Partnership
+     
+     AHPC will thereupon contribute assets with a fair mar-
+     ket value of $200 million to the partnership further 
+     increasing its partnership interest to 62%.  * * *
+     
+     6) Partial Redemption of Partnership Interest
+     
+     The partnership will distribute $159 million fair market 
+     value installment note to AHPC and $96 million in cash 
+     to XYZ.  * * *
+     
+     7) Sale of Installment Note
+     
+          * * * $159 million in cash resulting in a $723.2 million 
+     in capital loss
+     
+              * * *     
+The memo also noted that, "[w]e believe that the above 
+transaction is technically sound.  We expect it would be 
+vigorously attacked by the IRS. * * * Merrill Lynch is 
+requesting a fee of $8 million.  Their contribution is signifi-
+cant in that they identify XYZ, arrange for purchase of the 
+Corporate Assets (Bonds) and locate a buyer for the install-
+ment notes."
+
+     AHP decided to accept Merrill Lynch's proposal and the 
+transaction took form by precisely following the steps laid out 
+in Nee's memo.  Boca Investerings, 167 F. Supp.2d at 319.  
+On April 19, 1990, the Boca partnership was formed between 
+partners AHP;  another AHP subsidiary and two Netherlands 
+Antilles special purpose corporations, Addiscombe and Syrin-
+ga, with initial partner contributions mirroring those antici-
+pated in the memo.  Id.  Merrill Lynch received a $7 million 
+fee for structuring the transaction.  On May 1 and 2, 1990, 
+Boca purchased $1.1 billion of private placement floating-rate 
+notes (PPNs) from two Japanese banks and PepsiCo.  Boca 
+Investerings, 167 F. Supp.2d at 329-30.  A week after Boca 
+made the purchases, Merrill Lynch began arranging for the 
+sale of the PPNs.  During one week in late May, 1990, Boca 
+sold over $1 billion of the PPNs for $880 million in cash, and 
+indefinite debt instruments known as LIBOR (London Inter-
+bank Offering Rate) notes.  Boca Investerings, 167 F. Supp.2d 
+at 333-34.  The district court found that this sale generated 
+transaction costs of $13 million, which was ultimately borne 
+by AHP, id. at 337, and that Boca received less than $7 
+million in interest on its $1.1 billion investment in the PPNs, 
+id. at 351.
+
+     On its 1990 partnership tax return, Boca treated the sale as 
+an installment sale under I.R.C. s 453(b).  Id. at 362.  Boca 
+
+reported a short-term capital gain of over $721 million from 
+the transaction, calculated by subtracting the ratably-
+recovered basis from the $880 million in cash generated by 
+the sale of the PPNs.  Id.  Ten percent of the gain was 
+allocated to AHP and its domestic subsidiary, while the 
+remaining ninety percent was allocated to the foreign part-
+ners, who were not subject to U.S. tax on the gain.  Id.  
+ABN, a Netherlands bank which controlled the two foreign 
+partnerships, id. at 319, and was also involved in the Saba 
+Partnership and ASA Investerings transactions, see Saba 
+P'ship, 273 F.3d at 1138-40;  ASA Investerings, 201 F.3d at 
+508-11, entered into interest-rate swaps with Addiscombe, 
+Syringa and Merrill Lynch to hedge the interest-rate risk on 
+the LIBOR notes.  Boca Investerings, 167 F. Supp.2d at 360, 
+361.
+
+     On July 20, 1990, the parties agreed that AHP would 
+purchase approximately 45% of Syringa's interest in Boca at a 
+$2.5 million above-book-value premium. Boca Investerings, 
+167 F. Supp.2d at 338.  This transaction left the foreign 
+partners with approximately a 45% ownership interest in 
+Boca.  Id. at 339.  In August 1990, Boca distributed $175 
+million in cash to the foreign partners and nearly $220 million 
+in LIBOR notes to the AHP partners.  Id. at 341.  In 
+September and October 1990, Boca redeemed more of the 
+foreign partners' interest, resulting in an 85% ownership 
+interest for the AHP partners.  Id. at 343, 344.  In Novem-
+ber 1990, the AHP partners sold the LIBOR notes Boca had 
+distributed to them.  Id. at 344-45.  This disposition trig-
+gered a paper loss of more than $770 million for AHP.  Id. at 
+345.  This loss offset the capital gains of AHP from the sale 
+of Boyle-Midway, and other gains from 1990 to 1993.  Id.  In 
+December 1990, AHP redeemed Syringa's remaining interest 
+in Boca for cash.  Id.  Finally, in September 1991, the foreign 
+partners were bought out of Boca entirely, with the cash 
+redemption of Addiscombe's remaining interest, which includ-
+ed a premium of $2.2 million above book value.  Id. at 346-47.
+
+     Following the government's audit of Boca's partnership tax 
+returns for 1990-1993, the Commissioner of Internal Revenue 
+proposed different adjustments based on different theories.  
+Under one theory, the Commissioner found that the foreign 
+
+entities had not entered into a valid partnership with AHP, 
+and therefore recognized the Merrill Lynch transaction for 
+tax purposes, but allocated all the gains and losses reported 
+by Boca to AHP.  Under a second theory, that the transac-
+tion was an economic sham, the Commissioner eliminated any 
+gains and losses reported by Boca as resulting from the 
+transaction.  AHP deposited with the Treasury the amount it 
+determined would be due as a result of the proposed adjust-
+ments and filed suit in district court contesting the Commis-
+sioner's proposals.  The district court determined after a 
+lengthy trial that the Commissioner erred in proposing the 
+adjustments.  See Boca Investerings, 167 F. Supp.2d at 388.  
+The government's appeal is now before us.
+
+     We review the findings of fact of the district court under 
+the "clear error" standard.  ASA Investerings, 201 F.3d at 
+511.  "A finding is 'clearly errroneous' when although there is 
+evidence to support it, the reviewing court on the entire 
+evidence is left with the definite and firm conviction that a 
+mistake has been committed."  United States v. United 
+States Gypsum Co., 333 U.S. 364, 395 (1948).  The district 
+court, after a seventeen day trial, issued a well-documented 
+and cross-referenced 180 page opinion which included 392 
+separate findings of fact, as well as conclusions of law.
+
+Analysis
+
+     At the outset, we reject two of the government's assign-
+ments of error without difficulty.  Although the district court 
+reached a different conclusion than other courts had on 
+previous occasions in cases with very similar facts, these 
+findings of fact do not constitute clear error by the district 
+court.  The mere similarity of facts in two cases with differ-
+ent litigants and different evidence provides no basis for a 
+finding of clear error on the part of either trial judge whose 
+findings differ from the other.  This is particularly evident in 
+a case such as this in which many of the district court's 
+findings were based on the demeanor and believability of 
+witnesses at trial.  See Boca Investerings, 167 F. Supp.2d at 
+303.  Nor did the district court err when it refused to admit 
+into evidence materials which did not relate to the parties in 
+
+this case and which the government argued should be admit-
+ted principally because they were admitted as evidence in 
+ASA Investerings.  However, our rejection of these assign-
+ments of error does not mean we reject all assignments.  We 
+reverse the judgment below because the district court erred 
+as a matter of law when it did not properly apply the holding 
+of ASA Investerings, requiring that a legitimate non-tax 
+business necessity exist for the creation of the otherwise 
+sham entity inserted into the partnership for tax avoidance 
+reasons in order to meet the intent test of Commissioner v. 
+Culbertson, 337 U.S. 733 (1949), as applied to this type of 
+partnership transaction.
+
+     The government argues that the district court erred in 
+determining that this case was materially different from the 
+case in ASA Investerings, in which we affirmed the Tax 
+Court's ruling that a very similar partnership between Allied-
+Signal and ABN Bank was a sham for purposes of the 
+"business purpose doctrine."  We agree.  While the similarity 
+of facts in the two cases does not, in itself, invalidate the 
+district court's finding that Boca Investerings Partnership 
+was not a sham partnership, the district court's misapplica-
+tion of ASA Investerings's instructions for interpreting trans-
+actions such as these does constitute reversible error.  As we 
+noted in Saba Partnership, "ASA makes clear that 'the 
+absence of a nontax business purpose is fatal' to the argument 
+that the Commissioner should respect an entity for federal 
+tax purposes."  273 F.3d at 1141 (quoting ASA Investerings, 
+201 F.3d at 512).
+
+     Boca claimed at oral argument and in a post-argument 
+submission that the government failed to raise the require-
+ment stated in ASA Investerings that a partnership have a 
+non-tax need in order for it to be recognized for tax purposes.  
+Accordingly, Boca argues that we should not consider this 
+point on appeal, citing Flynn v. Commissioner, 269 F.3d 
+1064, 1068-69 (D.C. Cir. 2001) ("generally an argument not 
+made in the lower tribunal is deemed forfeited and will not be 
+entertained absent exceptional circumstances.")  However, as 
+the government rightly points out, its Memorandum of Points 
+and  Authorities filed with the district court approximately 
+
+three months before trial expressly argues "given the sub-
+stantial costs incurred, AHP's use of this elaborate 'partner-
+ship' cannot be justified by a non-tax business purpose.  The 
+factual similarity to the ASA Investerings partnership case is 
+obvious and undeniable."
+
+     The business purpose doctrine applied in ASA Investerings 
+establishes that while taxpayers are allowed to structure their 
+business transactions in such a way as to minimize their tax, 
+these transactions must have a legitimate non-tax avoidance 
+business purpose to be recognized as legitimate for tax pur-
+poses.  The reasoning behind this doctrine is readily applica-
+ble to this case.  As we noted in ASA Investerings:
+
+     A tax system of rather high rates gives a multitude of 
+     clever individuals in the private sector powerful incen-
+     tives to game the system.  Even the smartest drafters of 
+     legislation and regulation cannot be expected to antici-
+     pate every device.  The business purpose doctrine re-
+     duces the incentive to engage in such essentially wasteful 
+     activity, and in addition helps achieve reasonable equity 
+     among taxpayers who are similarly situated--in every 
+     respect except for differing investments in tax avoidance.
+     
+201 F.3d at 513.
+
+     We then approved the Tax Court's approach to the Su-
+preme Court's test set out in Culbertson which determined 
+that the existence of a partnership would depend on whether, 
+"considering all the facts ... the parties in good faith and 
+acting with a business purpose intended to join together in 
+the present conduct of the enterprise."  ASA Investerings, 
+201 F.3d at 511 (quoting Culbertson, 337 U.S. at 742).  We 
+stated that "the Tax Court was, we think, sound in its basic 
+inquiry, trying to decide whether, all facts considered, the 
+parties intended to join together as partners to conduct 
+business activity for a purpose other than tax avoidance."  Id. 
+at 513.  Finally, we affirmed the Tax Court's conclusion that 
+AlliedSignal and ABN did not have "the requisite intent to 
+join together for the purpose of carrying on a partnership."  
+Id. at 511 (quoting 76 T.C.M. at 335).
+
+     As the government argued, ASA Investerings set out fac-
+tors which pointed to AlliedSignal's lack of a legitimate non-
+tax business purpose for its transactions with the partnership.  
+"[T]his evidence says nothing about AlliedSignal's use of the 
+elaborate partnership--with a pair of partners concocted for 
+the occasion.  There is no reason to believe that AlliedSignal 
+could not have realized [AlliedSignal's assistant treasurer]'s 
+interest rate play without the partnership at far, far lower 
+transactions costs."  Id. at 516.  In the current case, the 
+district court never made a finding of fact in regard to the 
+necessity of AHP's acquisition of foreign partners in order to 
+engage in the transactions.  No official testified that AHP 
+needed a partnership with a foreign corporation to invest in 
+LIBOR notes or PPNs.  AHP's participation in the partner-
+ship defies common sense from an economic standpoint, since 
+it could have purchased the PPNs and the LIBOR notes 
+directly, and avoided millions in transaction costs, including 
+the $7 million fee it paid to Merrill Lynch and the "premi-
+ums" paid to the foreign partners for the purchase of their 
+ownership interests.
+
+     Without a finding on the business need for the partnership 
+from AHP's standpoint in this transaction, the judgment 
+under review cannot stand.  In addition, the foreign partners 
+Syringa and Addiscombe were, like the foreign entities in 
+ASA, "concocted" for the occasion--neither having existed 
+prior to the transaction's commencement, nor serving any 
+other purpose, and both being funded through loans from 
+ABN, the bank which we found to lack the requisite intent to 
+enter a legitimate business partnership with Allied Signal in 
+ASA.  In fact, the parties stipulated in the court below that 
+both entities came into being only on April 19, 1990, the same 
+day that Boca was created.  Stip. of Facts at p 29.  Nothing 
+in the record indicates that AHP ever considered or weighed 
+the benefits of using a different type of transaction in order 
+to make these investments, including the option of purchasing 
+them directly.
+
+     Boca argues that the district court made the finding that 
+the parties "intended to, and did, organize Boca as a partner-
+ship to share the income, expenses, gains and losses from 
+
+Boca's investments." Boca Investerings, 167 F. Supp.2d at 
+349-50.  This finding, contrary to the appellee's assertion, 
+does not satisfy the legal test for recognition of this type of 
+partnership for tax purposes, as we held in ASA Investerings.  
+In order to satisfy the legal test for this type of partnership, 
+the district court must have found a non-tax business purpose 
+need for the partnership in order to accomplish the goals of 
+the partners.  In this case, there is no evidence of any need 
+for AHP to enter into the Boca partnership with the newly-
+minted Addiscombe and Syringa in order to invest in the 
+LIBOR notes and PPNs.  Nor is there even evidence of any 
+non-tax purpose in the use of the partnerships.  The only 
+logical explanation then, for the partnership's formation was 
+the exploitation of Temp. Treas. Reg. s 15A.453-1(c)(3)(I) 
+and the gain of a paper tax loss to absorb its enormous capital 
+gains.  The district court stated as its first conclusion of law 
+that
+
+     the transactions financing the purchase and sale of the 
+     PPNs had economic substance, were not prearranged 
+     and predetermined, and had a legitimate purpose.  They 
+     therefore should be recognized for federal income tax 
+     purposes.
+     
+Boca Investerings, 167 F.Supp.2d at 580.  As the record 
+would not support a finding that the partnership form served 
+any non-tax business purpose, this conclusion is unsupported, 
+inconsistent with ASA Investerings, and constitutes revers-
+ible error.
+
+     Boca argues that the clear error standard places a heavy 
+burden on the appellant upon review, and we agree that there 
+was ample evidence in the record to support the numerous 
+and well-documented findings of fact made by the district 
+court.  As we stated above these findings are not the prob-
+lem.  The principal error is in the lack of findings on the non-
+tax purpose for the partnership, but that error is determina-
+tive.  We do not of course suggest that in every transaction 
+using a partnership a taxpayer must justify that to form, but 
+as we made clear in both ASA Investerings and Saba Part-
+nership, where taxpayers use an "elaborate partnership" with 
+
+entities created solely for the purpose of the questioned 
+transaction, "the absence of a non-tax business purpose" is 
+fatal to the recognition of the entity for the tax purposes.  
+ASA Investerings, 201 F.3d at 512.  See also Saba P'ship, 273 
+F.3d at 1141.  Because the district court did not find that a 
+legitimate, non-tax necessity existed for the formation of the 
+Boca partnership, and because the evidence of record would 
+not have supported such a finding if made, we reverse.
+
+                               

@@ -1,0 +1,316 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 12, 2002    Decided October 18, 2002
+
+                           No. 01-1234
+
+            California Department of Water Resources, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+   California Independent System Operator Corporation, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Edna Walz, Deputy Attorney General, Attorney General's 
+Office of State of California, argued the cause for petitioner.  
+With her on the briefs were Bill Lockyer, Attorney General, 
+Richard M. Frank, Chief Assistant Attorney General, and 
+Elisa J. Grammar.  Mary E. Hackenbracht, Senior Assistant 
+
+Attorney General, Attorney General's Office of State of Cali-
+fornia, and Peter C. Kissel entered appearances.
+
+     Michael Postar argued the cause for intervenors M-S-R 
+Public Power Agency and the Cities of Redding, Santa Clara, 
+and Palo Alto, California.  On the briefs were Wallace L. 
+Duncan, James D. Pembroke, Richmond F. Allan, and Sean 
+M. Neal.
+
+     Beth G. Pacella, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     Jennifer L. Key, Kenneth G. Jaffe, and Michael E. Ward 
+were on the joint brief for intervenors California Independent 
+System Operator Corporation and Southern California Edison 
+Company.  Richard L. Roberts and Edward Berlin entered 
+appearances.
+
+     Before:  Sentelle and Randolph, Circuit Judges, and 
+Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  The first and, as it turns out, the 
+last question we must decide in this petition for judicial 
+review of an order of the Federal Energy Regulatory Com-
+mission is whether we have jurisdiction.
+
+     California Independent System Operator Corporation (the 
+California ISO) operates a grid comprising the transmission 
+systems of several public utilities that have turned over 
+operational control of their facilities to it.  See Pub. Utils. 
+Comm'n v. FERC, 254 F.3d 250, 252-53 (D.C. Cir. 2001).  
+Entities with firm contractual rights to transmissions gener-
+ated by these public facilities (contractual rightsholders) may 
+also join the California ISO by assigning their contractual 
+rights to the ISO's control.  ISO Revised Tariff s 2.4.4.1.2.  
+Public utilities and contractual rightsholders joining the Cali-
+fornia ISO are called transmission owners.  Under the ISO's 
+regulations, transmission owners are required to develop 
+
+pricing mechanisms.1  ISO Revised Tariff s 7.1.  Through 
+these pricing mechanisms, the California ISO compensates 
+transmission owners for the transmissions they convert to the 
+ISO's control and sets the prices customers pay for transmis-
+sions.  Id.
+
+     On May 3, 1999, the Commission issued an order condition-
+ally approving Amendment 9, a proposal by the California 
+ISO for the provision of firm transmission rights (May Or-
+der).  California Indep. Sys. Operator Corp., 87 F.E.R.C. 
+p 61,143 (1999).  Under Amendment 9, the ISO auctions 
+transmission paths that are subject to congestion.  87 
+F.E.R.C. at 61,570.  Auction revenues are distributed to the 
+transmission owner that owns, or has contractual rights to, 
+the auctioned transmission paths.  Id.  Transmission owners 
+receiving auction revenues are required to deduct these reve-
+nues from the costs they seek to recoup from the California 
+ISO.  Id.  The Commission specifically held that the May 
+Order did not address "the exercise of conversion rights 
+(which permits Existing Customers to convert to ISO Tariff 
+service[)]."  Id. at 61,581.
+
+     The petitioner in this case, the California Department of 
+Water Resources (the Water Department), is a contractual 
+rightsholder that has firm transmission contracts with Pacific 
+Gas & Electric and Southern California Edison.  The Water 
+Department anticipates joining the California ISO as a trans-
+mission owner.  On June 2, 1999, the Water Department 
+sought rehearing of the May Order, arguing that contractual 
+rightsholders should not be required to develop and use ISO 
+pricing mechanisms because they do not apply to contractual 
+rightsholders.  The Water Department's logic was as follows:  
+
+__________
+     1  The pricing mechanisms are a Transmission Revenue Re-
+quirement, which is the total annual authorized revenues turned 
+over to the California ISO;  a Transmission Revenue Balancing 
+Account, which ensures that all credits a transmission owner re-
+ceives are subtracted from its Transmission Revenue Requirement;  
+and an Access Charge, which is the price a transmission owner 
+charges customers.  ISO Tariff s 7.1;  see generally California ISO 
+Second Revised Sheet No. 354.
+
+(1) the ISO pricing mechanisms are calculated by determining 
+the costs of providing transmissions, ISO Tariff s 7.1;  (2) 
+because contractual rightsholders receive transmissions from 
+other transmission providers, contractual rightsholders do not 
+have costs associated with transmissions;  therefore (3) the 
+Water Department, and other contractual rightsholders, 
+should not be required to develop and use ISO pricing 
+mechanisms.  California Indep. Sys. Operator Corp., 88 
+F.E.R.C. p 61,156, at 61,527-28 (1999).  On August 2, 1999, 
+the Commission granted the Water Department's rehearing 
+petition (August Order).  Id. at 61,528.
+
+     The California ISO and Southern California Edison Compa-
+ny filed an application for rehearing of the August Order, 
+contending that because the California ISO compensates 
+transmission owners for their costs and prices transmission 
+charges based upon the ISO pricing mechanisms, contractual 
+rightsholders that join the California ISO must develop ISO 
+pricing mechanisms to avoid "severely skew[ing] the cost 
+allocation system under the California ISO tariff."  Califor-
+nia Indep. Sys. Operator Corp., 94 F.E.R.C. p 61,343, at 
+62,269 (2001).  On March 28, 2001, the Commission granted 
+the California ISO's and Southern California Edison's petition 
+for rehearing (March Order).  Id.
+
+     In a related proceeding, on November 10, 1999, in response 
+to questions regarding the jurisdictional status of transactions 
+under the California ISO's proposal, the Commission issued 
+an opinion holding that pursuant to section 205 of the Federal 
+Power Act, 16 U.S.C. s 824d, the Commission has jurisdiction 
+over the sale of transmission rights.  California Indep. Sys. 
+Operator Corp., 89 F.E.R.C. p 61,153, at 61,435 (1999).  The 
+Cities of Redding, Santa Clara, and Palo Alto, California, and 
+the M-S-R Public Power Agency (Redding), sought rehear-
+ing of this decision, arguing that the Commission had imper-
+missibly attempted to assert jurisdiction over municipalities 
+in violation of section 201(f) of the Federal Power Act.2  The 
+
+__________
+     2  Section 201(f) provides, in relevant part:  "No provision in this 
+subchapter shall apply to ... any political subdivision of a State ... 
+
+Commission denied Redding's petition for rehearing on 
+March 28, 2001.  94 F.E.R.C. at 62,270-71.
+
+     Without seeking rehearing of the March Order, the Water 
+Department filed this petition for judicial review of the 
+March, August and May Orders, arguing that the Commis-
+sion's decision requiring it to develop and use ISO pricing 
+mechanisms was not based upon substantial evidence.  The 
+Water Department also contends that the Commission cannot 
+exercise jurisdiction over it because it is a transmission 
+customer, not a utility owner.  See 16 U.S.C. s 824(b).  Red-
+ding intervened in support of the Water Department, raising 
+the same argument Redding presented in its petition for 
+rehearing before the Commission.
+
+     Section 313(a) of the Federal Power Act provides that a 
+"state commission aggrieved by an order issued by the Com-
+mission ... may apply for a rehearing."  16 U.S.C. s 825l(a).  
+It further provides that "no proceeding to review any order of 
+the Commission shall be brought by any person unless such 
+person shall have made application to the Commission for 
+rehearing thereon."  Id.  The rehearing requirement is an 
+"express statutory limitation[ ] on the jurisdiction of the 
+court." Tennessee Gas Pipeline Co. v. FERC, 871 F.2d 1099, 
+1107 (D.C. Cir. 1989);  see also Granholm ex rel. Michigan 
+Dep't of Natural Resources v. FERC, 180 F.3d 278, 280 (D.C. 
+Cir. 1999).  Neither the court nor the Commission has the 
+discretion to ignore it.  See Granholm, 180 F.3d at 280-81;  
+see also Blue Stone Energy Design, Inc. v. FERC, 74 F.3d 
+1288, 1293 (D.C. Cir. 1996);  Town of Norwood, Mass. v. 
+FERC, 906 F.2d 773, 774 (D.C. Cir. 1990).
+
+     As we have interpreted s 313(a), if an order on rehearing 
+modifies the results of the earlier order in a significant way 
+adverse to a party, that party must seek a rehearing of the 
+order before filing a petition for judicial review.  See Nor-
+wood, 906 F.2d at 775.  This gives the Commission "an 
+opportunity to bring its knowledge and expertise to bear" on 
+the petitioner's objections before they are presented to the 
+
+__________
+unless such provision makes specific reference thereto."  16 U.S.C. 
+s 824(f).
+
+court;  if the objections are well-founded, Commission action 
+on the rehearing request may obviate judicial proceedings.  
+Northwest Pipeline v. FERC, 863 F.2d 73, 77-78 (D.C. Cir. 
+1988);  Granholm, 180 F.3d at 280.
+
+     The Water Department concedes that the March Order, in 
+which the Commission reversed its position regarding wheth-
+er the Water Department must use ISO pricing mechanisms, 
+significantly modified the August Order.  It maintains, 
+though, that the March Order did not significantly modify the 
+May Order because it merely reinstated the aggrievement the 
+Water Department suffered from the May Order.3  The idea 
+must be that in determining whether there was enough of a 
+change to require a rehearing petition, one must compare the 
+original order with the last order, ignoring whatever orders 
+issued in between.  We doubt that our precedents support 
+this approach.  But even if they did, the March Order cannot 
+be viewed as making only a minor alteration to the May 
+Order.  In its May Order, the Commission conditionally 
+approved the California ISO's proposal regarding firm trans-
+mission rights, and nothing more.  The Water Department's 
+alleged injury stems not from the May Order, but from the 
+Commission's decision in its March Order that contractual 
+rightsholders must develop ISO pricing mechanisms. The 
+March Order thus significantly altered legal relationships and 
+gave rise to the grievance the Water Department now presses 
+in court.  See Norwood, 906 F.2d at 775.  Even if we had 
+jurisdiction and agreed with the Water Department's argu-
+ments that it should not be required to develop California 
+ISO pricing mechanisms, this would have no bearing on the 
+May Order approving Amendment 9.
+
+     Given these circumstances, there is no possibility of "an 
+endless cycle of applications for rehearing and denial."  
+
+__________
+     3  Our use of the term "aggrievement" is for convenience and is 
+not meant to imply that the Water Department has in fact been 
+aggrieved.  The Water Department is not a member of the Califor-
+nia ISO, which the Commission claims deprives it of standing to 
+challenge the March Order.  We do not resolve this particular 
+standing question. See Ruhrgas AG v. Marathon Oil Co., 526 U.S. 
+574, 585 (1999).
+
+Southern Natural Gas Co. v. FERC, 877 F.2d 1066, 1073 
+(D.C. Cir. 1989).  In Southern Gas, the court held that a 
+petitioner did not need to seek a rehearing of a Commission 
+order denying rehearing when the outcome had not been 
+changed but the Commission had "supplie[d] a new improved 
+rationale."  Id. (emphasis in original).  Here, the March 
+Order directed an outcome significantly different from the 
+May and August Orders, not the same outcome with a new 
+rationale.  The Southern Gas court explicitly stated that in 
+such a situation the rehearing requirement under s 313(a) 
+begins anew.4  Id.
+
+     The Water Department also sought judicial review of the 
+May and August Orders, but we do not have jurisdiction over 
+those orders either because the Water Department plainly 
+does not have standing to contest them.  A party claiming to 
+be aggrieved within the meaning of s 313(a) must satisfy the 
+constitutional requirements for standing.  See Public Utility 
+Dist. No. 1 of Snohomish County, Washington v. FERC, 272 
+F.3d 607, 613 (D.C. Cir. 2001).  One such requirement is that 
+a party suffer an "injury-in-fact."  Id.  As is clear from the 
+preceding discussion, neither the May Order nor the August 
+Order aggrieved the Water Department.  The May Order 
+merely approved Amendment 9 without binding the Water 
+Department to any of the pricing schemes that it currently 
+challenges, and in the August Order the Commission decided 
+in its favor.  The Water Department suffered "injury-in-fact" 
+from neither of these orders.
+
+     As to the intervenors, "absent extraordinary circumstances, 
+intervenors 'may join issue only on a matter that has been 
+brought before the court by' " a petitioner.  Alabama Mun. 
+Distribs. Group v. FERC, 300 F.3d 877, 879 (D.C. Cir. 2002) 
+(quoting Illinois Bell Tel. Co. v. FCC, 911 F.2d 776, 786 (D.C. 
+Cir. 1990)).  An exception to this rule is that an intervenor 
+may raise an issue if the intervenor has preserved the issue in 
+its own petition for rehearing before the Commission, and the 
+intervenor satisfies the statutory requirements for a petition-
+
+__________
+     4  Southern Gas construed s 19(b) of the Natural Gas Act.  
+That provision is analogous to s 313(a).  See Norwood, 906 F.2d at 
+774.
+
+er to seek judicial review of the Commission's order.  See 
+Alabama Mun., 300 F.3d at 880;  see also Rio Grande 
+Pipeline Co. v. FERC, 178 F.3d 533, 539 (D.C. Cir. 1999) 
+(intervenors must seek direct review to raise additional is-
+sues).  Neither situation is present here.  The Water Depart-
+ment, toward the end of its brief, mentions in a footnote that 
+16 U.S.C. s 824(f) precludes the Commission from exercising 
+jurisdiction over political subdivisions of a state;  the footnote 
+adds that the provision has no "direct applicability" to it, but 
+shows congressional intent.  The Water Department's foot-
+note does not properly present, and thus does not preserve, 
+the issue the intervenors wish to argue.  See Carducci v. 
+Regan, 714 F.2d 171, 177 (D.C. Cir. 1983).  Although Redding 
+raised the arguments it makes in court in its petition for 
+rehearing before the Commission, Redding did not satisfy the 
+statutory requirements for judicial review.  Petitioners must 
+seek review "within sixty days after the order of the Commis-
+sion upon the application for rehearing."  16 U.S.C. s 825l(b).  
+Redding intervened on June 25, 2001--eighty-nine days after 
+the Commission entered its March 28, 2001 order.
+
+     The petition for judicial review is therefore dismissed for 
+lack of jurisdiction.  We also have no jurisdiction to consider 
+the intervenors' contentions regarding the merits.
+
+                                                                 Dismissed.
+
+                                    

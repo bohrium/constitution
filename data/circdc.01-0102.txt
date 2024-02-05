@@ -1,0 +1,281 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 13, 2001    Decided June 26, 2001 
+
+                           No. 00-1144
+
+           Association of Communications Enterprises, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                SBC Communications Inc., et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Charles C. Hunter argued the cause for petitioner.  With 
+him on the briefs was Catherine M. Hannan.
+
+     Rodger D. Citron, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  With him on the 
+
+brief were Christopher J. Wright, General Counsel, John E. 
+Ingle, Deputy Associate General Counsel, and Laurence N. 
+Bourne, Counsel.  Catherine G. O'Sullivan and Nancy C. 
+Garrison, Attorneys, U.S. Department of Justice, entered 
+appearances.
+
+     Robert McDonald, Mark L. Evans, Donna N. Lampert, 
+Mark J. O'Connor, M. Robert Sutherland, Roger K. Toppins, 
+James D. Ellis, Alfred G. Richter, Dan L. Poole, Robert B. 
+McKenna, William P. Barr, M. Edward Whelan, III, Mi-
+chael E. Glover, Edward Shakin and Lawrence W. Katz 
+appeared on the brief of intervenors America Online, Inc., et 
+al.
+
+     Before:  Williams, Ginsburg, and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  In order to foster competition in 
+telecommunication markets, the Telecommunications Act of 
+1996, 47 U.S.C. ss 151 et seq., requires that an incumbent 
+local exchange carrier (incumbent or ILEC) "offer for resale 
+at wholesale rates any telecommunications service that the 
+carrier provides at retail to subscribers who are not telecom-
+munications carriers."  47 U.S.C. s 251(c)(4)(A).  The idea is 
+to enable other carriers to compete with incumbents at the 
+retail level.
+
+     In the Second Report and Order (Order) in CC Docket No. 
+98-147, Deployment of Wireline Services Offering Advanced 
+Telecommunications Capability (1999), the Commission de-
+termined that the discount-for-resale provision applies when 
+an incumbent offers digital-subscriber-line (DSL) service to 
+an end-user but not when it offers DSL service to an internet 
+service provider (ISP).  The Commission maintains that the 
+latter offering is not made "at retail" because the ISP pack-
+ages and ultimately resells the service to end-users.  The 
+petitioner, an association of telecommunications providers, 
+claims that the Commission's position is contrary to the Act 
+or, alternatively, unreasonable.  Finding no merit in either 
+claim, we deny the petition for review.
+
+                          I. Background
+
+     In addition to plain old telephone service (POTS), the 
+ILECs provide various advanced services, foremost among 
+which is DSL service.  (For a description of DSL technology, 
+see Worldcom, Inc. v. FCC, 246 F.3d 690, 692 (D.C. Cir. 
+2001).)  An ILEC may offer DSL service directly to residen-
+tial and business end-users, in which event the ILEC itself 
+performs such collateral functions as marketing, billing, and 
+maintenance.  In addition, the ILEC may offer DSL service 
+designed specifically for ISPs (such as America Online), which 
+package and sell the service to end-users and perform the 
+marketing and other collateral functions.
+
+     At issue in this case is that part of the Second Report and 
+Order in which the Commission addressed the question 
+whether the resale requirement of s 251(c)(4)(A) applies to an 
+ILEC's offering of advanced services.  As the Commission 
+acknowledged, it had previously determined that advanced 
+services constitute "telecommunications service" and that the 
+end-users and ISPs to which the ILECs offer such services 
+are "subscribers who are not telecommunications carriers" 
+within the meaning of s 251(c)(4)(A).  The remaining issue, 
+therefore, was whether an ILEC's offering of certain ad-
+vanced services, including DSL, is made "at retail" so as to 
+trigger the discount requirement.  The Commission ultimate-
+ly concluded that
+
+     while an incumbent LEC DSL offering to residential and 
+     business end-users is clearly a retail offering designed 
+     for and sold to the ultimate end-user, an incumbent LEC 
+     offering of DSL services to Internet Service Providers as 
+     an input component to the Internet Service Provider's 
+     high-speed Internet service offering is not a retail offer-
+     ing.  Accordingly, ... DSL services designed for and 
+     sold to residential and business end-users are subject to 
+     the discounted resale obligations of section 251(c)(4)....  
+     [H]owever, ... section 251(c)(4) does not apply where 
+     the incumbent LEC offers DSL services as an input 
+     component to Internet Service Providers who combine 
+     the DSL service with their own Internet Service.
+     
+     The Association of Communication Enterprises (ASCENT) 
+petitioned for review of this determination, and various tele-
+communications and DSL providers intervened on behalf of 
+the Commission.
+
+                           II. Analysis
+
+     Although ASCENT is by no means precise on the point, we 
+take it to be making arguments under both step one and step 
+two of Chevron U.S.A. v. NRDC, 467 U.S. 837 (1984).  That 
+is, the petitioner claims first that the Commission's interpre-
+tation of the term "at retail" is inconsistent with the Con-
+gress's use of that term and, alternatively, that the Commis-
+sion is being unreasonable insofar as it interprets the term as 
+not including an ILEC's offering of advanced services to an 
+ISP.
+
+     As the Commission states in the Order, and ASCENT does 
+not dispute, "The Act does not define the term 'at retail' and 
+the legislative history on section 251(c)(4) provides only mini-
+mal clarification of Congress' intentions with regard to the 
+appropriate definition and application of the term."  There-
+fore, the Commission invoked the authority of Black's Law 
+Dictionary (6th ed. 1990) and Webster's Deluxe Unabridged 
+Dictionary (2d ed. 1987), and construed "retail transactions 
+[as] necessarily involv[ing] direct sales of a product or service 
+to the ultimate consumer for her own personal use or con-
+sumption."
+
+     ASCENT argues that the Commission thereby did violence 
+to the plain meaning of the phrase "at retail":
+
+     [U]nless an ISP is reselling DSL service without sub-
+     stantial alteration of its form or content ... it is consum-
+     ing that service in creating the information service it is 
+     selling to the public.  Resale is an essential element of a 
+     wholesale transaction;  consumption is an integral part of 
+     a retail transaction.
+     
+Although ASCENT correctly asserts, per Black's, that 
+"wholesale" entails a "sale ... to one who intends to resell," 
+there is no justification for ASCENT's claim that a product 
+
+"substantially altered" in form or content is by definition 
+"consumed."  To use ASCENT's own example, an automobile 
+manufacturer that converts raw steel into motor vehicles can 
+reasonably be said to purchase its steel "wholesale" notwith-
+standing that it substantially alters that steel before selling 
+its finished goods on the retail auto market.  See Black's 
+(sale for "further sale or processing" not a sale at "retail") 
+(emphasis added).
+
+     ASCENT's other textual arguments, namely, that the Com-
+mission has "attempt[ed] to write into the text of Section 
+251(c)(4) certain exemptions" and that it has "undermine[d] 
+the viability of resale as a means of competing in the local 
+telecommunications market," beg the question at issue:  
+s 251(c)(4)(A) applies and the discount requirement comes 
+into play only if a particular offering is in fact "at retail."  
+The same is true of ASCENT's makeweight argument that 
+the Commission has usurped the authority of the states to set 
+wholesale rates under 47 U.S.C. s 252(d)(3), which likewise 
+applies only to services offered "at retail" under s 251(c)(4).
+
+     Because the Congress did not itself resolve the present 
+issue, we turn to ASCENT's arguments under Chevron step 
+two that the Commission's interpretation of the Act is unrea-
+sonable.  Here ACSENT argues that the Commission imper-
+missibly ignored record evidence and its own precedent indi-
+cating that ISPs are indistinguishable from end-users.
+
+     Initially ASCENT complains that, because DSL services 
+are offered indifferently to all pursuant to a tariff, even an 
+ILEC's offering that is tailored to the needs of ISPs is 
+available likewise to any end-user that can use them.  Such 
+an offering requires the purchaser to make term and volume 
+commitments, and does not include customary retail func-
+tions, such as marketing, billing, and maintenance.  The 
+petitioner suggests that large, corporate end-users with the 
+requisite need and the ability to perform those functions for 
+themselves might take the service.  That mere possibility, 
+however, does not invalidate the Commission's interpretation 
+of the statute.  If in the future an ILEC's offering designed 
+for and sold to ISPs is shown actually to be taken by end-
+
+users to a substantial degree, then the Commission might 
+need to modify its regulation to bring its treatment of that 
+offering into alignment with its interpretation of "at retail," 
+but that is a case for another day.*
+
+     ASCENT turns next to possible inconsistencies between 
+the Commission's approach in the Order under review and in 
+a prior proceeding.  In particular, the petitioner seizes upon 
+the Commission's earlier statement that "the services inde-
+pendent public payphone providers [IPPPs] obtain from in-
+cumbent LECs are telecommunications services that incum-
+bent LECs provide 'at retail to subscribers who are not 
+telecommunication carriers' and that such services should be 
+available at wholesale rates to telecommunications carriers."  
+Local Competition Order, 11 F.C.C.R. 15,499 at p 876 (1996).  
+ASCENT maintains that for present purposes an IPPP is 
+indistinguishable from an ISP in that it purchases, bundles, 
+and then resells to end-users a telephone service -- in the 
+case of IPPPs it is POTS -- and that the Commission is 
+therefore unjustified in treating the IPPP but not the ISP as 
+an end-user.
+
+     This argument has force, but it cannot carry the day for 
+two reasons:  First, the analogy between an ISP and an IPPP 
+is not so close;  the POTS an ILEC sells to an IPPP is the 
+same POTS that the IPPP sells to end-users, whereas the 
+DSL service it sells an ISP is distinct because it does not 
+include the collateral functions the ISP performs for end-
+users.  Second, just two paragraphs earlier in the same 
+order, the Commission had determined that offerings of 
+exchange access services tailored for interexchange carriers 
+
+__________
+     * ASCENT further argues in its reply brief that the Order, by 
+seeming to remove from the ambit of s 251(c)(4)(A) "any DSL 
+service offering provided to any ISP, regardless of the terms of the 
+offering," impermissibly delegates authority to ILECs -- the regu-
+lated entities -- to determine what offers are outside the discount-
+for-resale requirement.  Because this argument does not appear in 
+ASCENT's initial brief, the Commission did not have an opportuni-
+ty to address it, nor shall we.  See Coalition for Noncommercial 
+Media v. FCC, 249 F. 3d 1005, 1010 (D.C. Cir. 2001).
+
+(IXCs) are not subject to s 251(c)(4) in part because those 
+services "are designed for, and sold to, IXCs as an input 
+component to the IXC's own retail services," namely long 
+distance services.  Id. at p 874.  In the Order now under 
+review the Commission marshaled its treatment of IXCs as 
+the most relevant precedent.  ASCENT does not now distin-
+guish that treatment in any meaningful way, but attributes it 
+to the Commission's rationale that exchange access services, 
+which IXCs purchase, are used primarily by telecommunica-
+tions carriers.  That does not confront the Commission's 
+independent rationale that IXCs supply their own service to 
+end-users -- as do ISPs.  In any event, if there is tension 
+between the Commission's treatment of IXCs and IPPPs, its 
+resolution is not now before us;  it is enough for our purposes 
+that the Commission in the present Order treated ISPs like 
+IXCs, regardless how it treated IPPPs in a prior order.
+
+     ASCENT's remaining points are less weighty.  First it 
+contends the Commission previously had rejected the sugges-
+tion that volume-based discounts or the absence of various 
+retail functions take an offering outside the reach of 
+s 251(c)(4).  Id. at p 951;  Application of BellSouth Corp., 13 
+F.C.C.R. 539 at p 220 (1997).  In those instances, however, 
+the Commission did not address offerings specifically de-
+signed for customers other than end-users.  Second, 
+ASCENT points out that the Commission has treated ISPs as 
+end-users for other purposes.  That is of no moment if the 
+Commission was reasonable, as we have seen that it was, in 
+treating them as resellers whose purchases from ILECs are 
+not made "at retail" for the purposes of s 251(c)(4)(A).  In 
+sum, having considered ASCENT's objections, we find the 
+Commission's Order in all respects reasonable.
+
+                         III. Conclusion
+
+     For the foregoing reasons, the petition for review is
+
+                                                             Denied.
+
+                                                                          

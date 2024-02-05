@@ -1,0 +1,455 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued October 9, 2001    Decided April 16, 2002 
+
+                           No. 00-5347
+
+                         James Musengo, 
+                            Appellant
+
+                                v.
+
+             Thomas E. White, Secretary of the Army, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv01884)
+
+     Charles W. Gittins argued the cause and filed the briefs for 
+appellant.
+
+     Diane M. Sullivan, Assistant U.S. Attorney, argued the 
+cause for appellee.  With her on the brief were Roscoe C. 
+Howard Jr., U.S. Attorney, and R. Craig Lawrence, Assistant 
+U.S. Attorney.
+
+     Before:  Sentelle, Randolph and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Plaintiff James Musengo chal-
+lenges the Army's refusal to remove an Officer Evaluation 
+Report from his military record.  The District Court granted 
+summary judgment against Musengo, concluding that the 
+Army Board for Correction of Military Records did not act 
+arbitrarily or capriciously in refusing to expunge the report.  
+We affirm.
+
+                                I
+
+     Musengo is currently a major in the United States Army 
+Reserve.  During the period at issue in this case, he was a 
+captain on active duty, instructing members of the Reserve 
+Officer Training Corps and teaching courses in military sci-
+ence at the University of Akron.  In July 1992, Musengo 
+received an Officer Evaluation Report (OER) assessing his 
+performance from June 24, 1991 to June 23, 1992.  We have 
+recently described in detail the officer rating system em-
+ployed by the Army at the time of Musengo's evaluation, see 
+Cone v. Caldera, 223 F.3d 789, 790-91 (D.C. Cir. 2000), and 
+we therefore sketch it only briefly here.1
+
+     An OER is used to evaluate an officer's performance and 
+career potential.  See Army Regulation (AR) 623-105, at 
+p 1-6(a) (Apr. 30, 1992).  At least two of the officer's superi-
+ors prepare the OER.  The first is a "rater," who directly 
+supervises the rated officer and is familiar with his or her 
+day-to-day performance.  Id. p 3-4.  The second is a "senior 
+rater"--here, Colonel Joseph M. Barrow--who is charged 
+with "evaluat[ing] the rated officer from a broad organization-
+al perspective," including measuring the officer's potential for 
+
+__________
+     1 In 1998, the Army altered its regulations and OER form, 
+including the block rating system discussed in the text infra.  See 
+Army Regulation 623-105 (Apr. 1, 1998).  The citations in this 
+opinion refer to the regulations in effect at the time of Musengo's 
+disputed OER.
+
+promotion relative to the larger group of officers under the 
+senior rater's command.  Id. p 3-10(a).
+
+     The OER form contains blanks for both a numerical and a 
+narrative assessment of the rated officer.  In Part VII(a), the 
+senior rater is to check one of a column of nine blocks that 
+compare "the rated officer's potential with all other officers of 
+the same grade."  Id. p 4-16(b).2  The rater's evaluation is to 
+be based on the premise that in a representative sample of 
+officers Army-wide, the distribution of ratings "will approxi-
+mate a bell-shaped normal distribution pattern."  Id.3  Ac-
+cording to the regulations, this means "that in a representa-
+tive sample of 100 officers of the same grade or grade 
+grouping (Army-wide) only one officer can reasonably be 
+expected to be placed in the top block."  Id. p 4-16(c).  An-
+other two are expected to fall in the second block, and so on.  
+See id. fig. 4-4.  The center block, block five, is expected to 
+be the rating achieved by 60 officers out of a representative 
+100.  Id.
+
+     Once the OER is completed, the Army compares the senior 
+rater's assessment of the individual officer to the senior 
+rater's rating history for all officers of the same grade--
+known as the senior rater's "profile."  Id. pp 2-5, 
+4-16(d)(5)(a).  By comparing a specific officer's OER to his 
+senior rater's profile, the Army can discern whether that 
+
+__________
+     2 In Cone, the Army described the column as containing ten 
+blocks.  Army Br. at 5, Cone.  The Army now states that the 
+column contains nine blocks, Army Br. at 2 n.4, Musengo, and this 
+appears to be correct.  What could be construed as two equally 
+weighted blocks in the center of the column is instead a single block 
+into which the Army expects 60% of the evaluations of a representa-
+tive sample to fall.  See AR 623-105, at fig. 4-4.
+
+     3 In a normal distribution, most of the data points are "clustered 
+near the mean, and the density or relative frequency of the num-
+bers decreases with increasing distance from the mean."  David W. 
+Barnes & John M. Conley, Statistical Evidence in Litigation 140 
+(1986).  "If the frequencies with which the numbers in the normal 
+population appear as the result of random experiments are plotted 
+on a graph, the figure resembles a bell-shaped curve."  Id.
+
+officer performed above, at, or below the "center-of-mass"--
+i.e., the median ranking--of all officers ranked by the same 
+senior rater.  Moreover, by comparing the profiles of differ-
+ent senior raters, the Army can determine whether one 
+rater's "rating tendency" is more lenient than that of another.  
+Id. p 4-16(d)(5)(a);  see id. p 9-7(f).
+
+     On the OER that is in dispute in this case, Musengo's 
+senior rater, Colonel Barrow, gave Musengo a second-block 
+rating--corresponding to the top 2-3% of Army captains 
+according to the expected distribution pattern set out in the 
+regulations.  Id. fig. 4-4.  Within Barrow's personal profile 
+for the relevant time period, however, this placed Musengo 
+below the center-of-mass of the captains Barrow rated.  Of 54 
+captain reports completed by Barrow during the period, 32 
+contained top-block ratings, 20 contained second-block rat-
+ings, and 2 placed captains in the third block.  See Joint 
+Appendix (J.A.) at 32.
+
+     Concerned that a below-center-of-mass rating would hurt 
+his chances of promotion, Musengo contacted Barrow, who 
+told Musengo that he had intended to rate Musengo at 
+center-of-mass, and that he had thought the second-block 
+rating was in fact his center-of-mass.  Armed with this infor-
+mation, Musengo appealed to the Officer Special Review 
+Board (OSRB), which has the power to correct substantive 
+inaccuracies in an OER.  AR 623-105, at p 9-2(i).  After the 
+OSRB denied Musengo's initial request to delete the senior 
+rater's numerical rating from his OER, Musengo obtained a 
+supporting letter from Barrow and resubmitted his request.  
+In the letter, Barrow stated:  "It was my clear intent to give 
+CPT Musengo a strong center of mass evaluation on this 
+OER and also get him promoted."  J.A. at 11.  Musengo also 
+provided the OSRB with the transcript of a deposition in 
+which Barrow reiterated that "it was my desire that [Musen-
+go] be placed in center of mass," and that "I believed that my 
+center of mass was a two block at that time."  J.A. at 19.  
+The OSRB denied Musengo's second appeal.  Thereafter, 
+Musengo filed three more appeals to the OSRB, all of which 
+were likewise unsuccessful.
+
+     Following the denial of his requests by the OSRB, Musen-
+go appealed to the Army Board for Correction of Military 
+Records.  The Correction Board is the "next agency in the 
+Army's redress system," AR 623-105, at p 9-5(f), and has the 
+power to direct changes in military records in order to correct 
+"material error or injustice," AR 15-185, at p 1-8(b).4  The 
+Board concluded that "the contested OER appears to repre-
+sent a fair, objective and valid appraisal of [Musengo's] 
+demonstrated performance and potential, and represents the 
+considered opinion and objective judgment of the senior rater 
+at the time of preparation."  ABCMR Decision at 4 (March 
+30, 1994), reproduced at J.A. 5, 8.  Because it was "not 
+convinced that the senior rater was not aware that his center 
+of mass was within the top block at the time he rated the 
+applicant," the Board denied Musengo's appeal.  Id.
+
+     Musengo then filed the instant action in the United States 
+District Court for the District of Columbia.  He alleged that 
+the Correction Board's decision was arbitrary and capricious 
+in violation of the Administrative Procedure Act (APA), 5 
+U.S.C. s 706(2)(A), and sought removal of the disputed OER 
+from his military record.  The district court granted sum-
+mary judgment in favor of the Army, and this appeal fol-
+lowed.
+
+                                II
+
+     Under Army regulations, OERs are presumed to be "ad-
+ministratively correct" and to "[r]epresent the considered 
+opinions and objective judgment of the rating officials at the 
+time of preparation."  AR 623-105, at p 5-32(a).  An appli-
+cant petitioning the Correction Board to amend or delete a 
+report has the burden of "produc[ing] evidence that estab-
+lishes clearly and convincingly" that the "presumption of 
+
+__________
+     4 The Correction Board operates within the Office of the Secre-
+tary of the Army pursuant to 10 U.S.C. s 1552(a), which provides 
+that the secretary of a military department acting through a civilian 
+board "may correct any military record of the Secretary's depart-
+ment when the Secretary considers it necessary to correct an error 
+or remove an injustice."
+
+regularity" should not apply, and that "[a]ction is warranted 
+to correct a material error, inaccuracy, or injustice."  Id. 
+p 9-7(a) (citing id. p 5-32);  see also Frizelle v. Slater, 111 
+F.3d 172, 178 (D.C. Cir. 1997).  Although this court has 
+jurisdiction to review decisions of the Correction Board,5 we 
+do so under an "unusually deferential application of the 
+'arbitrary or capricious' standard" of the APA.  Kreis v. 
+Secretary of the Air Force, 866 F.2d 1508, 1514 (D.C. Cir. 
+1989);  see Cone, 223 F.3d at 793;  Kidwell v. Department of 
+the Army, 56 F.3d 279, 286 (D.C. Cir. 1995).  We review de 
+novo the district court's ruling, on cross-motions for summary 
+judgment, that the Correction Board did not act arbitrarily or 
+capriciously in this case.  See Cone, 223 F.3d at 793.
+
+     Musengo offers three arguments in support of his conten-
+tion that the Board acted unlawfully in denying his applica-
+tion for correction.  We consider these arguments below.
+
+                                A
+
+     Musengo's first contention is that his rating should be 
+vacated because senior rater Barrow violated AR 623-105, at 
+p 4-16(b).  That regulation states that a senior rater's evalua-
+tion "is based on the premise that in a representative sample 
+of 100 officers of the same grade or grade grouping (Army-
+wide), the relative potential of such a sample will approximate 
+a bell-shaped normal distribution pattern."  Musengo con-
+tends that because Barrow's evaluations did not approximate 
+a bell-shaped curve, the senior rater violated the governing 
+regulation and the Board acted arbitrarily in refusing to 
+delete the second-block rating from his OER.
+
+     We rejected the same argument in Cone.  As we explained 
+in that case, although the regulations direct the senior rater 
+to base his or her ratings on the "premise" that evaluations of 
+an Army-wide representative sample will approximate a bell-
+shaped curve, "they do not require adherence to a bell-shaped 
+
+__________
+     5 See Cone, 223 F.3d at 793;  Frizelle, 111 F.3d at 176;  Dickson v. 
+Secretary of Defense, 68 F.3d 1396, 1401 n.6 (D.C. Cir. 1995);  Kreis 
+v. Secretary of the Air Force, 866 F.2d 1508, 1512 (D.C. Cir. 1989) 
+(citing Chappell v. Wallace, 462 U.S. 296 (1983)).
+
+curve" for the evaluations of any individual rater's ratees in a 
+given rating period.  Cone, 223 F.3d at 793.  Moreover, even 
+if Barrow was lax in adhering to the regulation's premise, the 
+Army "anticipates, and compensates for, the fallibility of 
+individual raters by requiring that each rater's personal pro-
+file ... be included in the OER of each officer he or she 
+reviews."  Id. at 794.  The profile permits reviewers "to place 
+the rated officer's OER in perspective by revealing the senior 
+rater's general rating tendency," AR 623-105, at 
+p 4-16(d)(5)(a), including his or her "tendency to inflate or 
+deflate ratings," id. p 9-7(f).  Accordingly, as in Cone, it was 
+reasonable for the Correction Board to refuse to alter the 
+plaintiff's OER.  See Cone, 223 F.3d at 794.6
+
+                                B
+
+     Musengo's second contention is that the Correction Board's 
+refusal to vacate his rating was arbitrary and capricious in 
+light of Barrow's letter and deposition, which averred that 
+Barrow had made a mistake in issuing that rating:  although 
+the senior rater had placed Musengo in the second block, he 
+stated that he had done so under the mistaken belief that the 
+second block was his center-of-mass.  Musengo does not 
+dispute that under the regulations, OERs are presumed to 
+represent "the considered opinions and objective judgment of 
+the rating officials at the time of preparation," AR 623-105, at 
+p 5-32, and that he needed clear and convincing evidence to 
+overcome that presumption, id. p 9-7(a).  But he contends 
+that Barrow's statements were sufficient to satisfy that regu-
+latory standard.
+
+__________
+     6 In support of his argument, Musengo cites an opinion of the 
+Court of Federal Claims, Richey v. United States, 44 Fed. Cl. 577 
+(1999), which remanded a Correction Board decision where a senior 
+rater's evaluations did not approximate a bell-shaped curve.  We 
+are not certain whether Richey intended to announce a general rule 
+of law or merely to hold that the Board acted arbitrarily in light of 
+the specific facts of that case.  However, even if Richey intended 
+the former, this court's decision in Cone necessarily controls the 
+disposition of the instant appeal.
+
+     There is, however, another regulation at issue here as well.  
+Paragraph 5-32(b)(2) of AR 623-105 provides that state-
+ments from rating officials that they "did not intend to rate 
+[an officer] as they did" will "not be used to alter or with-
+draw a report."  The reason for this rule is that "statements 
+from rating officials often reflect retrospective thinking, or 
+second thoughts, prompted by an appellant's non-selection or 
+other unfavorable personnel action claimed to be the sole 
+result of the contested report."  Id. app. N, at p N-2(b)(3).  
+As we explained in Cone, the rule is based on the "under-
+standing that raters may attempt to retract otherwise accu-
+rate assessments when requested to do so by their disap-
+pointed officers."  Cone, 223 F.3d at 794.  This regulation 
+was a reasonable basis for the Correction Board's decision to 
+reject Barrow's statements as insufficient to overcome the 
+presumption of regularity.  See id.7
+
+     In rebuttal, Musengo contends that there is an exception to 
+p 5-32(b)(2) that permits reliance on post hoc statements in 
+the case of "information which was unknown or unverified 
+when the report was prepared," and which "is so significant 
+that it would have resulted in a higher or lower evaluation 
+had it been known or verified when the report was prepared."  
+AR 623-105, at p 5-32(c)(1)-(2).  But it is clear in context that 
+this regulation applies to new information concerning the 
+quality of a ratee's performance, rather than to a rater's 
+sudden recognition of his own profile.8  To read the exception 
+
+__________
+     7 Musengo alludes to the fact that Barrow apparently rated nine 
+captains twice over a one-year period, see J.A. at 32 (OER page 
+containing Barrow's profile), and suggests that this may explain 
+why Barrow did not realize that his center-of-mass had changed 
+from the second to the top block.  But the inclusion of those nine 
+reports did not change Barrow's center-of-mass.  It would still be 
+at the top block even if we assumed that all nine were for top-block 
+captains and removed them from his profile.  See id.
+
+     8 See also AR 623-105 app. N, at p N-2(b)(3) ("[C]laims by rating 
+officials that they did not intend to evaluate as they did will not, 
+alone, serve as the basis of altering or withdrawing an evaluation 
+report.  Rating officials may, however, provide statements of sup-
+port contending the discovery of new information that would have 
+
+as encompassing the latter would permit it to swallow the 
+rule against accepting after-the-fact testimonials.
+
+     In addition to the OER's presumption of regularity, Bar-
+row's contemporaneous rating history provides further evi-
+dence that he was aware that the top block was his center-of-
+mass at the time he placed Musengo in the second block.  As 
+the Correction Board noted, the OSRB determined that for 
+the five months preceding Musengo's contested OER, Barrow 
+"had rendered 23 OER's ... with 17 top block ratings and 
+only six second block ratings;  and that the senior rater did 12 
+OER's the week of the applicant's OER with eight top block, 
+three second block, and one third block checks."  ABCMR 
+Decision at 3.9  This series of contemporaneous ratings, 
+heavily weighted toward the top block, is further reason to 
+discount Barrow's suggestion that he was unaware that the 
+top block was his center-of-mass.10
+
+__________
+resulted in an improved evaluation had it been known at the time of 
+report preparations.").
+
+     9 Still further evidence is the fact that Barrow "restarted" his 
+profile immediately prior to the rating period covered by Musengo's 
+OER.  ABCMR Decision at 2.  Army regulations permit a senior 
+rater to restart his profile to ensure that his intended evaluations 
+are properly conveyed to selection boards and personnel managers.  
+AR 623-105, at p 3-12.1.  The Correction Board concluded that the 
+fact that Barrow had recently restarted his profile undermined his 
+contention that he "was not aware that his center of mass was 
+within the top block at the time he rated the applicant."  ABCMR 
+Decision at 4.
+
+     10 Musengo contends that the Correction Board should not have 
+considered this data because the OSRB opinion in which it was 
+contained was not included in the certified administrative record 
+filed with the district court by the Army.  That failure of certifica-
+tion, however, is not fatal.  Cf. 5 U.S.C. s 706 (stating that in 
+reviewing agency action "due account shall be taken of the rule of 
+prejudicial error").  The Correction Board decision makes clear 
+that the OSRB opinion was part of the "evidence of record" before 
+the Board, ABCMR Decision at 2-3, as would be expected since the 
+purpose of Musengo's appeal to the Board after his rejection by the 
+OSRB was to seek review by "the next agency in the Army's 
+
+                                C
+
+     Finally, Musengo contends that this case is distinguishable 
+from Cone because of the different kind of relief he seeks:  
+Cone asked for an amendment of his OER, while Musengo 
+seeks only its removal from his military record.11  We did 
+note in Cone that the "knowledge that 'correcting' Cone's 
+grades would ultimately require us to reassess the relative 
+rankings of his entire cohort ... confirms the wisdom of 
+deferring to the reasonable judgment of the Correction 
+Board."  Cone, 223 F.3d at 795.  The difference in requested 
+remedy, however, cannot justify a different conclusion as to 
+whether Musengo's rating violated Army regulations.  Nor 
+does that difference truly sidestep the "quagmire" of serial 
+reassessments that we sought to avoid in Cone.  Id.
+
+     Were we to vacate Musengo's second-block rating because 
+Barrow wrongly thought the second block was his center-of-
+mass, would we not have to do the same for the twenty other 
+captains Barrow rated in that block, all of whom could make 
+similar complaints?  And if we did that, what would become 
+of those officers Barrow placed in the top block?  Whatever 
+Barrow thought was his center-of-mass, he clearly thought 
+that those he placed in the top block were superior to those 
+he placed in the second, including Musengo.12  Yet with the 
+
+__________
+redress system," AR 623-105, at p 9-5(f).  Army regulations gave 
+Musengo the right to obtain a copy of the OSRB decision, id., and 
+he conceded at oral argument that he did obtain one.  Moreover, at 
+no time during the numerous proceedings before the OSRB, Cor-
+rection Board, district court, or this court has Musengo contended 
+that the data contained in the OSRB opinion is inaccurate.
+
+     11 Before the Correction Board, Musengo sought removal only of 
+the senior rater's numerical ranking.  See ABCMR Decision at 2.  
+In this court, Musengo seeks removal of the entire OER.  See 
+Compl. at 8.
+
+     12 The OSRB found that:  "[T]he SR [senior rater] intended to 
+give the appellant [a] ranking lower than those officers designated 
+as top block.  The SR may have lost control of his profile, however, 
+the fact remains he rendered both top block and second block 
+reports clearly rank ordering the officers he rated."  See Musengo 
+
+second-block officers' ratings expunged, the top-block group 
+would lose the advantage of the comparison.  Moreover, were 
+we to begin this game of falling dominos for those officers 
+rated by Barrow, we would open the door to similar chal-
+lenges from officers rated by every other rater whose profile 
+did not match the bell-shaped curve that Musengo insists is 
+required by the regulations.  That, of course, is precisely the 
+quagmire we refused to enter in Cone.
+
+                               III
+
+     The Army does not dispute that James Musengo rendered 
+meritorious service.  But there is no warrant for concluding 
+that his rating in the second block of the OER--which placed 
+him among the top 2-3% of all captains Army-wide but not 
+among the top 1%--underrated his performance.  As in Cone, 
+223 F.3d at 796, Musengo's underlying complaint is that he 
+failed to get the full benefit of the inflated grading curve 
+employed by his senior rater, whose ratees, like the children 
+of Lake Wobegon, were apparently all above average.13  As 
+that failure does not render the Army's refusal to expunge 
+Musengo's record arbitrary or capricious, the district court's 
+grant of summary judgment is
+
+                                                                           Affirmed.
+
+__________
+Br. at 9-10 (quoting OSRB).  Neither Musengo's brief, nor Bar-
+row's letter in support of Musengo, disputes that Barrow intended 
+to rank Musengo below the officers he placed in the top block.  See 
+J.A. at 14.
+
+     13 See Garrison Keillor, Lake Wobegon U.S.A. (Minn. Pub. Radio 
+2000), quoted at http: //prairiehome.org/catalog/catalog_014.htm.
+
+                                                                    

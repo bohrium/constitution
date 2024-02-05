@@ -1,0 +1,316 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 6, 2001   Decided December 21, 2001 
+
+                           No. 00-1480
+
+                    Michael J. Markowski and 
+                        Joseph F. Riccio, 
+                           Petitioners
+
+                                v.
+
+               Securities and Exchange Commission, 
+                            Respondent
+
+              Petition for Review of Orders of the 
+                Securities and Exchange Commission
+
+     William VanDercreek argued the cause and filed the briefs 
+for petitioners.
+
+     Susan S. McDonald, Senior Litigation Counsel, Securities 
+& Exchange Commission, argued the cause for respondent.  
+With her on the brief were David M. Becker, General Coun-
+sel, Meyer Eisenberg, Deputy General Counsel, Jacob H. 
+Stillman, Solicitor, and Susan K. Straus, Attorney.
+
+     Before:  Randolph and Garland, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  Petitioners Michael J. 
+Markowski and Joseph F. Riccio seek review of a Securities 
+and Exchange Commission order sustaining a disciplinary 
+action taken by the National Association of Securities Dealers 
+("NASD").  The order imposed liability under Rule 10b-5 for 
+manipulating the stock market and under certain NASD 
+Conduct Rules for causing the publication of "non-bona fide" 
+bid quotations.  The SEC also found against Markowski but 
+not Riccio for violations of a restriction agreement governing 
+his firm's inventory holdings and for failure to cooperate with 
+an NASD investigation.  In re Markowski, Exchange Act 
+Release No. 43,259 (SEC Decision Sept. 7, 2000) ("SEC 
+Decision").  We affirm the Commission's order.
+
+                             *  *  *
+
+     Markowski was the chairman, CEO, and majority share-
+holder of Global America, Inc., then an NASD-member firm 
+that specialized in emerging growth companies.  Riccio was 
+Global's trader.  In June 1990 Global underwrote an initial 
+public offering of Mountaintop Corporation, an Alaskan vodka 
+producer.  The Mountaintop securities included common 
+stock, warrants and "units" (each of which could be ex-
+changed for two shares of common stock and two warrants).  
+Because the SEC does not rest its conclusions on data as to 
+quantities involved, the relationships among these securities 
+need not detain us.  In "aftermarket" trading (i.e., after the 
+IPO), Global dominated the market for Mountaintop securi-
+ties, accounting for an overwhelming majority of both pur-
+chase and sale volume.
+
+     From the IPO in June 1990 until Global's closing in Janu-
+ary 1991, Global supported the price of Mountaintop securi-
+ties.  The SEC said that this support took two forms:  Global 
+(1) maintained high bid prices for Mountaintop securities, and 
+(2) absorbed all unwanted securities into inventory, thereby 
+
+preventing sales from depressing market prices.  In re Mar-
+kowski, Exchange Act Release No. 43,503, at 2 (SEC Decision 
+Nov. 1, 2000) ("SEC Denial of Reconsideration").  In the end 
+these efforts proved unsustainable.  Global closed its doors in 
+January 1991, and Mountaintop's price dropped precipitous-
+ly--about 75% in one day.  Id.
+
+     In July 1998 the NASD's National Adjudicatory Council 
+("NAC") held Markowski and Riccio in violation of s 10(b) of 
+the Securities Exchange Act of 1934, 15 U.S.C. s 78j(b), Rule 
+10b-5 thereunder, 17 C.F.R. s 240.10b-5, and NASD Con-
+duct Rules 2110, 2120, 3310 for their activities in Mountain-
+top.  Specifically, the NAC found that Markowski and Riccio 
+had engaged in manipulative, deceptive, and fraudulent con-
+duct, and had published non-bona fide quotations.  The NAC 
+also found that Markowski had violated the terms of Global's 
+Restriction Agreement and had refused to submit to an 
+NASD investigative interview.
+
+     By way of remedy, the NAC ordered that Markowski and 
+Riccio be censured and barred in all capacities from associa-
+tion with any member of the NASD, and that they be fined 
+$300,000 and $250,000, respectively.  See Final Order of the 
+National Adjudicatory Council, NASD Regulation, Inc., No. 
+CMS920091, at 1-2 (July 13, 1998).
+
+     On appeal, the SEC sustained the NAC's findings and 
+sanctions.  SEC Decision at 1.  The SEC later denied peti-
+tioners' motion for reconsideration.  SEC Denial of Reconsid-
+eration at 3.  Markowski and Riccio now seek review.
+
+                             *  *  *
+
+     We note at the outset that the charge of publishing non-
+bona fide quotations flowed fairly ineluctably from the finding 
+of manipulation:  Rule 3310 bars publishing, or causing to be 
+published, reports of a transaction as a purchase or sale of 
+securities unless the NASD member believes that "such 
+transaction was a bona fide purchase or sale";  an interpreta-
+tion of Rule 3310 by the NASD Board of Governors, IM-3310, 
+reads the rule as embracing the case of a member who causes 
+a quotation to be published "without having reasonable cause 
+
+to believe that such quotation ... is not published for any 
+fraudulent, deceptive or manipulative purpose."  If the find-
+ing of manipulation is supportable, then the second violation 
+follows handily.
+
+     Petitioners first seem to argue that because Global's bids 
+and trades in this case were "real"--they involved real cus-
+tomers, real transactions, and real money--the trades cannot 
+be classified as an unlawful manipulation.  Indeed, Global's 
+activities were unlike classic schemes using fraudulent devices 
+such as "wash sales" or "matched sales" in which the targeted 
+securities are "traded" back to the sellers themselves or 
+among known parties to give a false appearance of sales and 
+market interest.  See, e.g., SEC v. U.S. Environmental, Inc., 
+155 F.3d 107, 109 (2d Cir. 1998);  see also Louis Loss & Joel 
+Seligman, Fundamentals of Securities Regulation 1045-46 
+(4th ed. 2001) (describing the typical manipulative scheme).  
+On the basis of this distinction, petitioners argue--rather 
+summarily--that their conduct must have been lawful.
+
+     Liability for manipulation wholly independent of fictitious 
+transactions in fact raises interesting questions.  Without 
+such transactions, the core of the offense can be obscure.  It 
+may be hard to separate a "manipulative" investor from one 
+who is simply overenthusiastic, a true believer in the object of 
+investment.  Both may amass huge inventories and place 
+high bids, even though there are scant objective data support-
+ing the implicit estimate of the stock's value.  Legality would 
+thus depend entirely on whether the investor's intent was "an 
+investment purpose" or "solely to affect the price of [the] 
+security."  United States v. Mulheren, 938 F.2d 364, 368 (2d 
+Cir. 1991).  Given the typical ambiguity of intent, commenta-
+tors have suggested that imposing liability may chill investors 
+from transactions that actually contribute to the efficiency of 
+securities markets.  Daniel R. Fischel & David J. Ross, 
+"Should the Law Prohibit 'Manipulation' in Financial Mar-
+kets?," 105 Harv. L. Rev. 503, 523 (1991) (expressing concerns 
+about the manipulation doctrine's overdeterrence effects);  see 
+also Mulheren, 938 F.2d at 368 (expressing misgivings about 
+basing 10b-5 violations purely on whether or not a "transac-
+tion is effected for an investment purpose").
+
+     Commentators have also suggested that where manipu-
+lative behavior is solely defined in terms of the actor's 
+purpose, it may well be self-deterring as a general matter, so 
+that any need for an external sanction is slight.  Purely 
+"trade-based" manipulation schemes, in which the manipu-
+lator simply buys a security in order to induce higher prices 
+and then sells to take advantage of the price change, are 
+likely to fail.  First, it is difficult unilaterally to cause price to 
+rise.  Second, it is even more difficult to sell subsequently at 
+a price high enough to cover both purchase costs and transac-
+tion costs.  For one thing, if the actor's purchases are such as 
+to give the market a material upward thrust, his later sales 
+may equivalently drive it down.  See Fischel & Ross, supra, 
+at 512-19.  But see Steve Thel, "$850,000 in Six Minutes--
+The Mechanics of Securities Manipulation," 79 Cornell L. 
+Rev. 219 (1994) (suggesting that manipulators may profit 
+from very small, short-lived price changes).
+
+     These arguments, however, are of little use to Markowski 
+and Riccio.  Whatever the practical concerns, we cannot find 
+the Commission's interpretation to be unreasonable in light of 
+what appears to be Congress's determination that "manipu-
+lation" can be illegal solely because of the actor's purpose.  
+See Chevron U.S.A., Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837, 843-44 (1984).  Section 9(a)(2) of 
+the Securities Exchange Act, 15 U.S.C. s 78i(a)(2), manifests 
+this idea by declaring it unlawful
+
+     [t]o effect ... a series of transactions in any security 
+     registered on a national securities exchange creating 
+     actual or apparent active trading in such security or 
+     raising or depressing the price of such security, for the 
+     purpose of inducing the purchase or sale of such security 
+     by others.
+     
+Id.1  This provision is quite separate from the subsections of 
+s 9 prohibiting manipulation through fraudulent devices such 
+as wash sales, 15 U.S.C. s 78i(a)(1)(A), matched sales, id. at 
+
+__________
+     1  15 U.S.C. s 78i has been slightly altered since Global's closure 
+in 1991, but those amendments are irrelevant in this proceeding.
+
+s 78i(a)(1)(B)-(C), and false statements, id. at s 78i(a)(4).  
+Given Congress's clear endorsement for sanctions against this 
+sort of manipulation, the Commission's inclusion of it within 
+the phrase "manipulative ... device" in s 10(b), id. at 
+s 78j(b), cannot have been unreasonable.
+
+     The Commission's interpretation is also consistent with its 
+rules governing an issuer's purchases of its own securities.  
+See Securities Exchange Act of 1934, Rule 10b-18, 17 C.F.R. 
+s 240.10b-18.  Issuer repurchases are perfectly real transac-
+tions.  But the Commission has created a safe harbor mea-
+sured in terms of timing, volume, and price;  purchases 
+outside the safe harbor are subject to possible enforcement 
+action as manipulations.  See Purchases of Certain Equity 
+Securities by the Issuer and Others;  Adoption of Safe Har-
+bor, 47 Fed. Reg. 53,333 (1982).
+
+     Further, to the extent that the case against liability for 
+"trade-based" manipulation depends on its inherently self-
+deterring character, petitioners' situation may be distinguish-
+able.  The activity in Mountaintop furthered an external 
+purpose.  At least in the short term, Global supported Moun-
+taintop's price not to profit from later sales of Mountaintop, 
+but to maintain customer interest in Global generally and to 
+sustain confidence in its other securities.  As James Shanley, 
+Global's chief operating officer, testified, petitioner Riccio 
+explained his refusal to lower his bid price:  "If we do that on 
+one stock, they [presumably, holders of Global's stocks] will 
+hit us on all the stocks."  Thus, the prospects of losing some 
+money on Mountaintop in the short run would not deter 
+Global from manipulating--if that cost was worth the benefit 
+of keeping its customers and preserving confidence in its 
+other stocks.
+
+     Apart from their conceptual attack on liability for manipu-
+lation where the trades are "real," petitioners argue that 
+Global's $1,400,000 net loss on Mountaintop precludes any 
+finding of scienter.  In the alternative, they say that these 
+losses in Mountaintop at least cut against a finding of manipu-
+lation.  Neither variation is persuasive.  Just because a ma-
+nipulator loses money doesn't mean he wasn't trying.  In-
+
+deed, as suggested above, attempts to support a price for an 
+ulterior purpose seem unlikely to prevail if success will take a 
+long time--protracted struggle against market fundamentals 
+will exhaust the manipulator's resources.
+
+     Petitioners' third claim asserts that some of the evidence 
+before the Commission was so defective that the Commis-
+sion's findings lack substantial evidence.  They point to possi-
+ble infirmities in the NASD's Chronological Transaction Anal-
+ysis ("CTA"), which the NASD used to support its findings 
+that Global's bid prices were higher than needed to acquire 
+the stock, and that its inventories of Mountaintop securities 
+were larger than could be explained by a genuine investment 
+intent.  However compelling the criticisms may be, they are 
+inapposite.  The Commission made clear that its findings of 
+manipulation rested not on the CTA, but on the statements 
+from the firm's own personnel.  SEC Denial of Reconsidera-
+tion at 2.  That testimony, which the Commission was entitled 
+to credit, substantially supports the Commission's key find-
+ing:  that the firm bought Mountaintop securities in order to 
+maintain their apparent market price.
+
+     For example, Shanley testified that Mountaintop securities 
+opened "too high" and remained at high levels only because 
+Global was "always supporting the stock."  He further re-
+counted conversations with Markowski in which he argued 
+that supporting a stock against the market was impossible--
+as the event seemed to prove.  And Gary Boccio, Global's 
+compliance officer, testified that Markowski explained his 
+refusal to reduce Global's inventory by saying that "he didn't 
+want to show we had any weakness in the stocks."  Indeed, 
+Riccio himself admitted that although there was no demand in 
+the open market, Global made the sole high bid for days, even 
+months, on end.  (Global evidently was able to offload much 
+of the Mountaintop stock that it acquired on special "clients" 
+of Markowski, whose role--victims?  coconspirators?  some 
+other class?--neither side in this litigation has seen fit to 
+explain.)  Riccio said that he maintained Global's bids be-
+cause he feared a drop in price and the customer complaints 
+it would generate.
+
+     Finally, Markowski challenges the SEC's findings that he 
+violated Global's restriction agreement by maintaining inven-
+tory positions exceeding 200% of Global's excess net capital, 
+and that he refused to submit to an NASD investigative 
+interview.  Markowski acknowledges the ancillary character 
+of these issues, however, and asks for relief regarding them 
+only if we find no basis for the principal manipulation charge.  
+Since we find that sufficient grounds support the manipu-
+lation charge, we need not reach these issues.
+
+     In any event, the arguments are unconvincing.  Substantial 
+evidence, including testimony from Shanley and a memoran-
+dum from Boccio, support the SEC's finding that Markowski 
+knew about Global's continuing violations of the restriction 
+agreement.  See, e.g., Patrick v. SEC, 19 F.3d 66, 69 (2d Cir. 
+1994).  Similarly, the SEC reasonably found that Markow-
+ski's eventual acquiescence in an NASD request for an inter-
+view two months after his scheduled interview and four 
+months after NASD's initial request neither qualified as "full 
+and prompt cooperation" nor was sufficient to cancel his prior 
+recalcitrance.  In re Borth, 51 S.E.C. 178, 180-81 (1992) 
+(discussing the importance of timely cooperation with NASD 
+investigations);  In re Williams, 50 S.E.C. 1070, 1072 (1992) 
+(holding that litigation concerns did not excuse delays in 
+cooperation).
+
+                             *  *  *
+
+     The order of the SEC is
+
+                                                                 Affirmed.
+
+                                            

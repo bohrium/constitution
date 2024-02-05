@@ -1,0 +1,656 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued November 30, 2000    Decided January 23, 2001 
+
+                           No. 99-1535
+
+                        AT&T Corporation, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+        Telecommunications Resellers Association, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             00-1090
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+     Gene C. Schaerr argued the cause for petitioner AT&T 
+Corporation and supporting intervenor WorldCom, Inc.  With 
+
+him on the briefs were James P. Young, Mark C. Rosenblum, 
+Peter H. Jacoby, Judy Sello, Thomas F. O'Neil, III, William 
+Single, IV, and Jeffrey A. Rackow.
+
+     William T. Lake argued the cause for petitioner US WEST 
+Communications, Inc.  On the briefs were Dan L. Poole, 
+Robert B. McKenna, John H. Harwood, II, and William R. 
+Richardson, Jr.
+
+     John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, argued the cause for respon-
+dents.  With him on the brief were Christopher J. Wright, 
+General Counsel, and Laurel R. Bergold, Counsel.  Robert B. 
+Nicholson and Robert J. Wiggers, Attorneys, United States 
+Department of Justice, entered appearances.
+
+     Mark C. Rosenblum, Peter H. Jacoby, Judy Sello, Gene C. 
+Schaerr, James P. Young, Thomas F. O'Neil, III, William 
+Single, IV, and Jeffrey A. Rackow were on the brief for 
+intervenors AT&T Corporation and WorldCom, Inc.
+
+     Before:  Edwards, Chief Judge, Sentelle and Randolph, 
+Circuit Judges.
+
+     Opinion for the Court filed by Chief Judge Edwards.
+     Edwards, Chief Judge:  US WEST* petitioned the Federal 
+Communications Commission ("FCC" or "Commission"), pur-
+suant to s 10 of the Telecommunications Act of 1996, Pub. L. 
+No. 104-104, 110 Stat. 56 (1996), for forbearance from "domi-
+nant carrier" regulation in the provision of high capacity 
+special access and dedicated transport for switched access 
+services ("high capacity services") in the Phoenix and Seattle 
+Metropolitan Statistical Areas ("MSAs").  See Petition of US 
+WEST Communications, Inc. for Forbearance from Regula-
+tion as a Dominant Carrier in the Phoenix, Arizona MSA, et 
+al., 14 F.C.C.R. 19,947 (1999) (hereinafter "Forbearance Or-
+der").  In seeking forbearance, US WEST relied heavily on 
+evidence regarding its market share.  The Commission found, 
+however, that US WEST failed to provide the underlying raw 
+data on which its conclusions were based, and, as a result, US 
+____________
+     *At the request of petitioner in 00-1090, the caption was amended to read:
+"Qwest Corporation v. Federal Communications Commission and United States of
+America".  Although US West merged into Qwest Corporation, this court's opinion 
+refers to petitioner as "US West".
+WEST's findings were not verifiable.  The Commission thus 
+reasonably rejected US WEST's market share evidence.
+
+     US WEST argues that the Forbearance Order should 
+nevertheless be overturned, because the Commission failed to 
+consider evidence of supply elasticity and demand elasticity.  
+In response to US WEST's claim, the Commission held that 
+market share data is critical to a "prima facie showing of 
+competition."  Id. p 33, at 19,967.  In other words, because 
+US WEST offered no reliable data on market share, the 
+Commission determined that the petition for forbearance 
+failed to make a prima facie showing that sufficient competi-
+tion existed to satisfy the requirements of s 10.  The problem 
+with this position, however, is that the FCC's conclusion is 
+inconsistent with its earlier decisions on this issue.  In the 
+past, the FCC has considered market share along with other 
+factors such as supply elasticity, demand elasticity and com-
+parative advantages in cost structure, size and resources.  
+The FCC has even made a non-dominance determination in 
+the absence of any market share data, never suggesting that 
+market share data is essential for a prima facie showing of 
+competition.  This case must therefore be remanded for 
+further consideration by the agency.
+
+     AT&T and WorldCom, in separate petitions for review, 
+argue that the Forbearance Order should be vacated to the 
+extent that it grants US WEST forbearance under the Pric-
+ing Flexibility Order.  See In re Access Charge Reform, 14 
+F.C.C.R. 14,221 (1999) (hereinafter "Pricing Flexibility Or-
+der").  In p 2 of the Forbearance Order, the Commission 
+stated that "we grant the relief requested in the forbearance 
+petitions to the extent that the Pricing Flexibility Order 
+establishes a framework pursuant to which the BOC petition-
+ers may obtain relief by demonstrating satisfaction of the 
+competitive triggers adopted in that order."  Forbearance 
+Order, 14 F.C.C.R. p 2, at 19,949.  At the conclusion of the 
+Order, however, the Commission explained that "the Pricing 
+Flexibility Order establishes a mechanism by which the peti-
+tioners may receive much of the relief they seek without 
+having to demonstrate loss of market power."  Id. p 36, at 
+19,968.  The FCC therefore "encourage[d] the BOC petition-
+
+ers to submit [their] petitions for any market, including the 
+markets identified in ... their forbearance petitions, as soon 
+as they have sufficient information to satisfy the required 
+competitive triggers."  Id.  AT&T and WorldCom claim that, 
+in referring US WEST to the Pricing Flexibility Order, the 
+FCC effectively granted relief on a petition that was found 
+meritless under s 10.  This is a specious claim.  It is clear 
+that, the Forbearance Order does nothing more than indicate 
+that US WEST is eligible to apply for relief under the Pricing 
+Flexibility Order;  no concrete relief was granted to US 
+WEST in the Forbearance Order.
+
+     During argument before this court, counsel for the FCC 
+suggested that the mere availability of relief under the Pric-
+ing Flexibility Order was itself sufficient to forestall a claim 
+under s 10.  We reject this position.  US WEST and other 
+such petitioners are entitled to pursue forbearance under 
+s 10 without regard to the Pricing Flexibility Order.  In 
+other words, s 10 remains a viable and independent avenue of 
+appeal for pricing flexibility.  Therefore, the FCC's rejection 
+of the US WEST petition for forbearance does not survive 
+review because of the availability of the Pricing Flexibility 
+Order.
+
+                          I. Background
+
+     US WEST petitioned the Commission to forbear from 
+regulating it as a dominant carrier in high capacity services in 
+the Phoenix and Seattle MSAs.  Petition of US WEST Com-
+munications, Inc. for Forbearance from Regulation as a Dom-
+inant Carrier in the Phoenix, Arizona MSA, CC Docket No. 
+98-157 (filed August 24, 1998) (hereinafter "Phoenix Pet."), at 
+1;  Petition of U S WEST Communications, Inc. for Forbear-
+ance from Regulation as a Dominant Carrier for High Capaci-
+ty Services in the Seattle, Washington MSA, CC Docket No. 
+99-1 (filed Dec. 30, 1998) (hereinafter "Seattle Pet."), at iii.  
+SBC Companies, Bell Atlantic Telephone Companies, and 
+Ameritech Operating Companies ("BOC petitioners") also 
+filed forbearance petitions seeking pricing flexibility in other 
+markets throughout the United States.  Forbearance Order, 
+
+14 F.C.C.R. p 1, at 19,947-48.  In seeking forbearance, US 
+WEST requested permissive de-tariffing, which would permit 
+the filing of tariffs on one day's notice with a presumption of 
+lawfulness and without cost support, exemption from price 
+cap and rate of return regulation, and permission to charge 
+de-averaged rates.  Phoenix Pet. at 8-9;  Seattle Pet. at 8-9.
+
+     US WEST's petition for forbearance rested on s 10 of the 
+Telecommunications Act of 1996.  Under s 10, the Commis-
+sion will forbear from applying any regulation or any provi-
+sion of the Act to a telecommunications carrier or telecommu-
+nications service, or class of telecommunications carrier or 
+telecommunications services, in any or some of its geographic 
+markets, if the Commission determines that (1) enforcement 
+of such regulation or provision is not necessary to ensure that 
+the charges, practices, classifications or regulations by, for, or 
+in connection with that telecommunications carrier or tele-
+communications service are just and reasonable, and are not 
+unjustly or unreasonably discriminatory;  (2) enforcement of 
+such regulation or provision is not necessary for the protec-
+tion of consumers;  and (3) forbearance from applying such 
+provision or regulation is consistent with the public interest.  
+47 U.S.C. s 160(a) (1998).
+
+     In its petitions, US WEST argued that the high capacity 
+markets in the Phoenix and Seattle MSAs were robustly 
+competitive, and, as a result, US WEST did not have market 
+power in those areas.  US WEST based its claims primarily 
+on reports prepared by Quality Strategies, POWER Engi-
+neers ("PEI"), and economists Alfred E. Kahn and Timothy 
+J. Tardiff.  Kahn and Tardiff based their economic evaluation 
+on the reports prepared by Quality Strategies and PEI, in 
+addition to their own research.  In describing its diminished 
+market power, US WEST addressed several factors, includ-
+ing (1) market participants, (2) market share, (3) demand 
+elasticity of customers, (4) supply elasticity of customers, and 
+(5) the carrier's cost, structure, size, and resources.  Phoenix 
+Pet. at 14;  Seattle Pet. at 14.  What follows is a brief review 
+the evidence offered by US WEST.
+
+     First, regarding market participants, US WEST claimed 
+that, in the Phoenix MSA, it faced competition from resellers 
+and five facilities-based competitors.  US WEST emphasized 
+that the merger of Teleport Communications Group, one of its 
+competitors, with AT&T ("AT&T/TCG"), and the pending 
+merger of MCI with another of its competitors, MFS World-
+Com ("MCI/MFS WorldCom"), further contributed to robust 
+competition.  Phoenix Pet. at 2-3.  In the Seattle MSA, US 
+WEST claimed to face competition from resellers and three 
+facilities-based competitors, AT&T/TCG, Electric Lightwave 
+Inc., and MCI/MFS WorldCom.  Seattle Pet. at 14-15.
+
+     Second, in reference to market share, US WEST empha-
+sized that, based on the market analysis conducted by Quality 
+Strategies, competitors have captured more than 70% of the 
+retail market for high capacity services in the Phoenix MSA.  
+Phoenix Pet. at 19.  In addition, competitors in the Phoenix 
+MSA have captured significant portions of the growth in 
+demand in the provider segment, i.e., high capacity services 
+ultimately purchased by end users, and in the transport 
+segment, i.e., high capacity services purchased by carriers for 
+transport.  Id. at 21.  In the Seattle MSA, US WEST 
+presented market analysis by Quality Strategies showing that 
+competitors have almost 80% of the retail market for high 
+capacity services.  Seattle Pet. at 19.  Moreover, competitors 
+have captured about two-thirds of the growth in demand for 
+high capacity services.  Id. at iv.
+
+     Third, in demonstrating high demand elasticity, US WEST 
+pointed out that, in the Phoenix MSA, customers for high 
+capacity services are sophisticated businesses, some of which 
+could migrate high capacity traffic to their own affiliated fiber 
+networks.  Phoenix Pet. at 23-25.  US WEST emphasized 
+that evidence showing that competitors hold significant por-
+tions of market share in the retail segment, and increasing 
+portions of market share in the provider and transport seg-
+ments of the market, further indicates demand elasticity.  Id. 
+at 25.  Similarly, in the Seattle MSA, customers tend to be 
+sophisticated businesses and governmental entities that are 
+highly sensitive to price.  Seattle Pet. at 24.  In addition, as 
+in the Phoenix MSA, US WEST's largest carrier customers in 
+
+the Seattle MSA are able to migrate high capacity traffic to 
+their own affiliated fiber networks.  Id. at 25.  Furthermore, 
+Kahn and Tardiff explain that competitors' high market share 
+in the retail segment of the Seattle market, and the rapid 
+growth of competitors' market share in the provider and 
+transport segments of the market, reinforces demand elastici-
+ty.  Id. at 25.
+
+     Fourth, in relation to supply elasticity in the Phoenix MSA, 
+US WEST explained that, based on Quality Strategies' mar-
+ket reports, competitors have more than adequate excess 
+capacity to constrain US WEST's pricing determinations.  
+Phoenix Pet. at 26.  US WEST's five main facilities-based 
+competitors in the Phoenix MSA have put in place over 800 
+route miles of optical fiber.  In the Phoenix MSA, competi-
+tors' fiber backbone networks would be able to assume US 
+WEST's end-use and transport traffic utilizing less than 8% 
+capacity.  Id. at 26.  Based on the PEI study of the Phoenix 
+MSA, US WEST explained that if competitors invest $45 
+million, they could serve almost 50% of US WEST's high 
+capacity customer locations within 1,000 feet of their current 
+fiber networks.  Id. at 27.  Kahn and Tardiff pointed out that 
+economies of scale and opportunities to bundle services make 
+the investment to revenue comparison more favorable to 
+competitors in the Phoenix, MSA.  Id. at 28-29.  US WEST 
+emphasized that the growth of competitors' market share in 
+the Phoenix MSA demonstrates that the cost of entry is not 
+prohibitive.  Id. at 30.
+
+     Similarly, in the Seattle MSA, competitors have in place 
+more than 700 route miles of optical fiber, with the capacity 
+to service all of US WEST's end user and transport traffic.  
+Seattle Pet. at 26.  An estimated 61% of US WEST's high 
+capacity demand is located within 100 feet of competitors' 
+networks.  Id. at iv.  As a result, competitors could absorb 
+US WEST's services relatively quickly.  Based on PEI's 
+report, the cost to competitors of extending their fiber net-
+works to take over most of US WEST's high capacity demand 
+would not be prohibitive.  If competitors invest $46 million, 
+they will be able to serve the almost 60% of US WEST's high 
+capacity customer locations within 1,000 feet of their existing 
+
+fiber networks.  Id. at 27.  The significant growth of competi-
+tors' market share demonstrates that the cost of entry is not 
+prohibitive.  As in the Phoenix MSA, Kahn and Tardiff 
+emphasized that economies of scale and opportunities to 
+bundle services make the investment to revenue ratio more 
+favorable for potential competitors in the Seattle MSA.  Id. 
+at 28-29.
+
+     Fifth, US WEST asserted that it did not have an advantage 
+over its competitors in terms of relative size.  In the Phoenix 
+MSA, US WEST faces five facilities-based competitors, and 
+the merged competitors AT&T/TCG and MCI/MFS World-
+Com have significant advantages in terms of economies of 
+scale and access to capital.  Phoenix Pet. at 31.  Kahn and 
+Tardiff explain that the fact that competition in the market in 
+the Phoenix MSA has increased, while prices for services 
+have decreased, strongly indicates that investors believe in-
+cumbents do not have absolute cost advantages in the market.  
+Id. at 32.
+
+     Similarly, in the Seattle MSA, US WEST does not benefit 
+from comparative advantage in terms of costs, structure, size, 
+and resources.  As in the Phoenix MSA, AT&T/TCG and 
+MCI/MFS have advantages based on size;  furthermore, in-
+crease in competitive entry into the market, despite the fact 
+that US WEST's charges for high capacity services have 
+declined, strongly indicates that US WEST does not have an 
+insurmountable cost advantage.  Seattle Pet. at 31-32.
+
+     The Commission received numerous comments arguing 
+that US WEST remained dominant in the markets for high 
+capacity services in the Phoenix and Seattle MSAs, including 
+comments criticizing Quality Strategies' market reports.  
+Forbearance Order, 14 F.C.C.R. p 25, at 19,961 n.88.  The 
+Commission denied US WEST's request for forbearance, 
+finding US WEST's basis for evidence regarding market 
+share, the market analysis conducted by Quality Strategies, 
+could not be verified and, therefore, was not reliable.  Id. 
+p p 25-26, at 19,961-62.  Furthermore, the market share data 
+was based on DS1 equivalents, which distorted the level of 
+competition.  Finally, the Commission rejected the market 
+
+share analysis, because US WEST focused on retail market 
+share and, therefore, failed to account for the fact that even 
+when US WEST did not provide retail services, US WEST 
+still provided and received compensation for the underlying 
+facilities.  Without Quality Strategies' underlying evidence of 
+market share, the Commission found that US WEST had 
+failed to make a prima facie showing of competition and, 
+therefore, did not satisfy the initial requirement for s 10 
+forbearance.  Id. p 33, at 19,967.
+
+     The Commission, however, completely failed to address the 
+evidence other than the market share data offered by US 
+WEST to show its diminished market power--i.e., evidence 
+relating to market participants, demand elasticity of custom-
+ers, supply elasticity of customers, and the carrier's cost, 
+structure, size, and resources.  It is this failing that is the 
+focus of US WEST's petition for review.
+
+                         III. Discussion
+
+     A.   Standard of review
+          
+     We review the Commission's order pursuant to familiar 
+Administrative Procedure Act standards, to determine wheth-
+er it is arbitrary, capricious, an abuse of discretion, or not in 
+accordance with law.  5 U.S.C. s 706(2)(A) (1994).  As the 
+Supreme Court explained in Motor Vehicle Manufacturers 
+Ass'n v. State Farm Mutual Automobile Insurance Co., 463 
+U.S. 29 (1983):
+
+     The scope of review under the "arbitrary and capricious" 
+     standard is narrow and a court is not to substitute its 
+     judgment for that of the agency.  Nevertheless, the 
+     agency must examine the relevant data and articulate a 
+     satisfactory explanation for its action including a "ration-
+     al connection between the facts found and the choice 
+     made."  Burlington Truck Lines, Inc. v. United States, 
+     371 U.S. 156, 168 (1962).  In reviewing that explanation, 
+     we must "consider whether the decision was based on a 
+     consideration of the relevant factors and whether there 
+     has been a clear error of judgment."  Bowman Trans-
+     portation, Inc. v. Arkansas-Best Freight System, Inc., 
+     
+     supra, at 285;  Citizens to Preserve Overton Park v. 
+     Volpe, supra, at 416.  Normally, an agency rule would be 
+     arbitrary and capricious if the agency has relied on 
+     factors which Congress has not intended it to consider, 
+     entirely failed to consider an important aspect of the 
+     problem, offered an explanation for its decision that runs 
+     counter to the evidence before the agency, or is so 
+     implausible that it could not be ascribed to a difference in 
+     view or the product of agency expertise.  The reviewing 
+     court should not attempt itself to make up for such 
+     deficiencies;  we may not supply a reasoned basis for the 
+     agency's action that the agency itself has not given.  
+     SEC v. Chenery Corp., 332 U.S. 194, 196 (1947).
+     
+Id. at 43.  In addition, the Court has made it clear that when 
+an agency determines to change an existing regulatory re-
+gime it must do so on the basis of "reasoned analysis."  Id. at 
+42.
+
+     B.   Commission's Denial of Forbearance
+          
+     The Commission determined that it was not required to 
+forbear from treating US WEST as a dominant carrier solely 
+because of three major areas of weakness in US WEST's 
+evidence regarding market share.  The Commission's princi-
+pal concern appeared to be that the studies conducted by 
+Quality Strategies analyzing US WEST's market share were 
+not reliable.  US WEST did not provide the underlying raw 
+data on which the studies were based.  As a result, the 
+analysis could not be evaluated or verified.  The Commission 
+noted, for example, that Quality Strategies failed to provide a 
+copy of the questions and answers that were the basis of its 
+surveys, and failed to describe how it weighted and evaluated 
+responses to the surveys.  Forbearance Order, 14 F.C.C.R. 
+p 25, at 19,961.  Without adequate information about Quality 
+Strategies' methods, the Commission found that it was unable 
+to resolve discrepancies between their market share evidence 
+and evidence presented by other commentators.  Id. p 26, at 
+19,962.
+
+     The Commission also faulted the material prepared by 
+Quality Strategies insofar as it purported to measure market 
+share by analyzing the percentage of capacity provided by 
+various providers of high capacity services.  A "DS1" is a 
+measure of capacity, and Quality Strategies used DS1 equiva-
+lents to measure market share.  The problem, however, as 
+the FCC pointed out, is that reliance on DS1 equivalents fails 
+to provide an accurate measure of competition for high capac-
+ity services, because resort to this data overstates competitive 
+inroads in a market.  One DS3 channel is equivalent to 28 
+DS1 channels. Therefore, if entity "x" provides one DS3 
+channel to one customer, and entity "y" provides 28 DS1 
+channels to 28 different customers, entity "y" can claim that it 
+has only 50% of the market share based on "capacity."  Id. 
+p 27, at 19,963.  Because of this type of distortion, the Com-
+mission rejected the claim that the DS1 equivalents methodol-
+ogy provides an accurate measure of market share.  The 
+Commission also found that DS1 equivalents methodology 
+puts disproportionate weight on entrance facilities, which are 
+usually DS3 circuits.  Id. p 28, at 19,964.
+
+     Finally, the Commission found that US WEST's evidence 
+regarding market share further distorts levels of competition 
+by relying on retail market share.  By defining competitive 
+losses based on retail, US WEST can claim competitive losses 
+even when US WEST provides the underlying facilities and, 
+therefore, continues to benefit from a substantial revenue 
+stream from the services.  Id. p 29, at 19,965.  For example, 
+the Commission noted that US WEST claimed to have lost 
+70% of the Phoenix retail market for special access and high 
+capacity dedicated transport services.  But, according to its 
+own calculations, US WEST maintained control over 77% of 
+the overall Phoenix market for special access and high capaci-
+ty dedicated transport.  Id.  US WEST argues that the FCC 
+considered only market share and failed to analyze other 
+bases of market power, including evidence regarding supply 
+elasticity, demand elasticity, and the comparative resources of 
+US WEST and its competitors.  They are right on this point.  
+The FCC's order rests solely on a view that, because US 
+WEST offered no reliable data on market share, the petition 
+
+for forbearance failed to make a prima facie showing that 
+sufficient competition existed to satisfy the requirements of 
+s 10.  Insofar as there may be other reasons to reject US 
+West's petition, such as the purported deficiencies in US 
+West's elasticity arguments outlined in the FCC's brief, they 
+were not articulated in the FCC's order and, therefore, 
+cannot provide the basis for upholding the FCC's decision. 
+See Burlington Truck Lines v. United States, 371 U.S. 156, 
+168-69 (1962) ("the courts may not accept appellate counsel's 
+post hoc rationalizations for agency action;  Chenery requires 
+that an agency's discretionary order be upheld, if at all, on 
+the same basis articulated in the order by the agency itself" 
+(citing SEC v. Chenery, 332 U.S. 194, 196 (1947)).
+
+     Were this the first time the FCC was asked to consider 
+whether a carrier was dominant in a given market, the 
+explanation provided by the Commission in the Forbearance 
+Order may well have been adequate;  but it is not the first 
+time that the Commission has addressed this issue.  Indeed, 
+the FCC has considered this question on several occasions, 
+each time applying a test different from that applied here to 
+determine whether the firm in question retained market 
+power.  For instance, in the Motion of AT&T Corp. to be 
+Reclassified as a Non-Dominant Carrier, 11 F.C.C.R. 3,271 
+(1995) the FCC considered four factors:  (1) "AT&T's market 
+share";  (2) "the supply elasticity of the market";  (3) "the 
+demand elasticity of AT&T's customers";  and (4) "AT&T's 
+cost structure, size and resources."  Id. p 38, at 3,293-94.  
+This approach was also followed in subsequent proceedings 
+before the agency.  See Motion of AT&T Corp. to be De-
+clared Non-Dominant for International Service, 11 F.C.C.R. 
+p 36 at 17,977 (1996) ("AT&T International Nondominance 
+Order");  COMSAT Corp., Petition Pursuant to Section 10(c) 
+of the Communications Act of 1934, as amended, for Forbear-
+ance from Dominant Carrier Regulation and for Reclassifi-
+cation as a Non-Dominant Carrier, 13 F.C.C.R. p 67, at 
+14,118-19 (1998) ("COMSAT Nondominance Order").  Yet, in 
+evaluating US West's petition, the FCC ended its inquiry 
+once it deemed the market share data inadequate.
+
+     Logically, for the lack of market share data to establish the 
+lack of a prima facie case, market share must be an essential 
+factor, not merely one of several factors in the determination.  
+Our research indicates, however, that the FCC has never 
+viewed market share as an essential factor in the past, and 
+the Commission does not assert to the contrary.  In fact, the 
+FCC acknowledges that "the factors the Commission tradi-
+tionally considered in classifying carriers as dominant or non-
+dominant include market share, supply substitutability, elas-
+ticity of demand, and the cost structure, size and resources of 
+the carrier."  FCC Br. at 4.  Therefore, the FCC's conclusion 
+in the Forbearance Order that market share data is essential 
+for a prima facie showing of competition simply is not 
+consistent with the agency's earlier decisions.
+
+     It is also noteworthy that, in the past, the FCC has gone so 
+far as to view market share as irrelevant where there was 
+other evidence that a carrier lacked market power.  In the 
+COMSAT Nondominance Order, for example, the FCC made 
+a nondominance finding without "specific data" on the market 
+shares of the carrier in question or its competitors.   
+COMSAT Nondominance Order, 13 F.C.C.R. p 111, at 14,139.
+
+     It may be that it is reasonable for the Commission to 
+demand a showing on market share in every dominance 
+inquiry.  But, no matter how reasonable it may be for the 
+FCC to require market share data before evaluating an 
+incumbent local exchange carrier's market power, it is not 
+reasonable for the Commission to announce such a policy 
+without providing a satisfactory explanation for embarking on 
+this course when it has not followed such a policy in the past.  
+The FCC "cannot silently depart from previous policies or 
+ignore precedent" as it has done here.  Committee for Com-
+munity Access v. FCC, 737 F.2d 74, 77 (D.C. Cir. 1984) (citing 
+Greater Boston Television Corp. v. FCC, 444 F.2d 841, 852 
+(D.C. Cir. 1970) ("an agency changing its course must supply 
+a reasoned analysis indicating that prior policies and stan-
+dards are being deliberately changed, not casually ignored")).  
+No matter how reasonable the FCC's position that market 
+share data is necessary for a prima facie showing of market 
+competition, the FCC's "conclusory statements cannot substi-
+
+tute for the reasoned explanation that is wanting in this 
+decision." Arco Oil & Gas Co. v. FERC, 932 F.2d 1501, 1504 
+(D.C. Cir. 1991).
+
+     Accordingly, the FCC's Forbearance Order must be re-
+manded so that the Commission may "examine the relevant 
+data and articulate a satisfactory explanation for its action."  
+Motor Vehicle Manufacturers Ass'n, 463 U.S. at 43.  The 
+FCC departed from its traditional non-dominance analysis 
+without explanation.  The FCC's new policy that market 
+share data is essential to evaluate a carrier's market power 
+may well be reasonable, but until the Commission has ade-
+quately explained the basis for this conclusion, it has not 
+discharged its statutory obligation under the Administrative 
+Procedure Act.  Where, as here, an agency "has failed ... to 
+explain the path that it has taken, we have no choice but to 
+remand for a reasoned explanation."  Tex Tin Corp. v. EPA, 
+935 F.2d 1321, 1324 (D.C. Cir. 1991).
+
+     C.   Alleged Grant of Forbearance Under the Pricing Flexi-
+          bility Order
+          
+     In the Forbearance Order, the Commission stated that "we 
+grant the relief requested in the forbearance petitions to the 
+extent that the Pricing Flexibility Order establishes a frame-
+work pursuant to which the BOC petitioners may obtain relief 
+by demonstrating satisfaction of the competitive triggers 
+adopted in that order."  Forbearance Order, 14 F.C.C.R. p 2, 
+at 19,949.  AT&T and WorldCom argue that the Forbearance 
+Order should be vacated to the extent that the Commission 
+"granted" "relief" to US WEST, because US WEST's petition 
+was found to be meritless under s 10.  This argument bor-
+ders on being disingenuous.
+
+     When the Forbearance Order is read in its entirely, it is 
+absolutely clear that US WEST was granted no relief whatso-
+ever.  US WEST sought forbearance and it was categorically 
+denied.  At the conclusion of the Order, the Commission 
+reminded US WEST and other BOCs that they were eligible 
+to apply for pricing flexibility under the Pricing Flexibility 
+Order:
+
+     The BOC petitioners may file petitions with the Commis-
+     sion in accordance with the procedures outlined in the 
+     Pricing Flexibility Order for any market, including the 
+     markets identified in their forbearance petitions, identify-
+     ing the relief requested and demonstrating satisfaction of 
+     the triggers adopted therein.
+     
+Id. p 2, at 19,949.  Indeed, the FCC was quite candid in 
+suggesting that the Pricing Flexibility Order might be the 
+preferred mechanism for companies seeking relief from the 
+burdens of dominant carrier status, because "price cap LECs 
+are not required to demonstrate that they lack market power 
+in the provision of any access service to receive much, if not 
+all, of the pricing flexibility that the BOC petitioners seek in 
+their forbearance requests."  Id. p 11, at 19,953.  The For-
+bearance Order does not, however, ensure US WEST any 
+kind of entitlement to the regulatory relief available under 
+either s 10 of the Act or the recently promulgated Pricing 
+Flexibility Order.  Accordingly, the claims from AT&T and 
+WorldCom are specious.
+
+     D.   Impact of Pricing Flexibility Order on s 10 Forbear-
+          ance
+          
+     During oral argument, it became clear that there is some 
+confusion over the relationship between the mechanisms for 
+relief afforded by s 10 forbearance and the Pricing Flexibility 
+Order.  FCC counsel went so far as to suggest that the latter 
+preempts the former.  We reject this view.
+
+     There is no doubt that the Commission expressed great 
+enthusiasm over the availability of the Pricing Flexibility 
+Order as a mechanism for relief of the sort sought here by 
+US WEST and other BOCs.  Indeed, the Commission sug-
+gested that might be a better mechanism for affected compa-
+nies, because
+
+     non-dominance showings [under s 10] are neither admin-
+     istratively simple nor easily verifiable. The Commission 
+     [bases] non-dominance findings on complex criteria, in-
+     cluding market share and supply elasticity.  Market 
+     
+     share analyses require considerable time and expense, 
+     and they generate controversy that is difficult to resolve.
+     
+Id. p 11, at 19,953.  The Commission may or may not be right 
+in what it surmises about the purported advantages of the 
+Pricing Flexibility Order;  but, at least for now, these surmis-
+es are beside the point.  Congress has established s 10 as a 
+viable and independent means of seeking forbearance.  The 
+Commission has no authority to sweep it away by mere 
+reference to another, very different, regulatory mechanism.
+
+     Section 10 broadly states that the Commission will forbear 
+from applying any regulation or any provision of the Act to a 
+telecommunications carrier or telecommunications service, or 
+class of telecommunications carrier or telecommunications 
+services if certain statutory determinations are made.  47 
+U.S.C. s 160.  The Pricing Flexibility Order does not purport 
+to regulate pursuant to s 10--it is narrower in reach and 
+adopts different burdens of proof with respect to issues that 
+might be common to claims arising under s 10 or the Pricing 
+Flexibility Order.  And, notably, in the Forbearance Order, 
+the Commission did not claim that the Pricing Flexibility 
+Order would afford all of the relief otherwise available to a 
+petitioner under s 10;  rather, the Commission said only that 
+"the Pricing Flexibility Order establishes a mechanism by 
+which the petitioners may receive much [not all] of the relief 
+they seek" under s 10.  14 F.C.C.R. p 36, at 19,968.
+
+     In short, the availability of the Pricing Flexibility Order as 
+an alternative route for seeking pricing flexibility does not 
+diminish the Commission's responsibility to fully consider 
+petitions under s 10.  Therefore, the Commission is without 
+authority to deny US WEST's petition for forbearance be-
+cause of the availability of the Pricing Flexibility Order.
+
+                          IV. Conclusion
+
+     For the foregoing reasons, US WEST's petition for review 
+is granted and the case is remanded for further consideration 
+by the agency.  The petition for review filed by AT&T and 
+WorldCom is hereby denied.
+
+          

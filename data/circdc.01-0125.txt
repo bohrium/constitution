@@ -1,0 +1,424 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 9, 2001       Decided June 15, 2001 
+
+                           No. 00-1376
+
+                   Qwest Corporation, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                    Metrocall, Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             00-1377
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+     Michael K. Kellogg argued the cause for petitioners.  With 
+him on the briefs were Aaron M. Panner, Michael E. Glover, 
+
+Edward Shakin, Joseph Dibella, Dan L. Poole, Robert B. 
+McKenna, Jeffry A. Brueggeman, James D. Ellis, Roger K. 
+Toppins and Hope E. Thurrott.  Alfred G. Richter entered an 
+appearance.
+
+     Richard K. Welch, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  On the brief were 
+Jane E. Mago, Acting General Counsel at the time the brief 
+was filed, John E. Ingle, Deputy Associate General Counsel, 
+Laurel R. Bergold, Counsel, John M. Nannes, Deputy Assis-
+tant Attorney General, U.S. Department of Justice, Catherine 
+G. O'Sullivan and Nancy C. Garrison, Attorneys. Daniel M. 
+Armstrong, Associate General Counsel, Federal Communica-
+tions Commission, entered an appearance.
+
+     Frederick M. Joyce, Christine McLaughlin, Ronald E. 
+Quirk, Jr., Marianne Roach Casserly, Jonathan J. Nadler 
+and Robert L. Hoggarth were on the brief for intervenors 
+Metrocall, Inc., Arch Wireless, Inc. and Personal Communica-
+tions Industry Association.  Angela E. Giancarlo entered an 
+appearance.
+
+     Before:  Williams, Ginsburg and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  When a local caller dials the 
+number of a paging service customer, the caller's Local 
+Exchange Carrier ("LEC") sends the call to a paging termi-
+nal, operated by the paging service.  Once the terminal 
+validates the call and receives the "call-back" number or 
+message, it sends out a radio broadcast that sets off the 
+customer's pager.  Thus the call starts out on the LEC's 
+network but is handed off to the paging carrier, which 
+completes the call.  This case concerns the Federal Commu-
+nications Commission's rule forbidding any LEC charge to 
+the paging company for carrying such calls, 47 CFR 
+s 51.703(b).
+
+     The Commission enforced this no-compensation rule 
+through adjudication of complaints brought by providers of 
+
+one-way paging services, who contended that certain LECs 
+had violated s 51.703(b).  The LECs object to use of this 
+procedure to resolve the dispute.  They contend that under 
+the Telecommunications Act of 1996, Pub. L. No. 104-104, 110 
+Stat. 56 (the "1996 Act"), such disputes can be resolved only 
+through state-managed negotiation and arbitration under 47 
+U.S.C. ss 251(c)(1), 252.  But another court has already 
+resolved against these very LECs an underlying issue that is 
+vital to their claim.  In Iowa Utilities Bd. v. FCC, 120 F.3d 
+753 (8th Cir. 1997), aff'd in part and rev'd in part sub nom., 
+AT & T Corp. v. Iowa Utilities Bd., 525 U.S. 366 (1999), the 
+Eighth Circuit rejected the LECs' claim that 47 CFR 
+s 51.703(b) was wholly ultra vires.  Rather, the court found 
+that, as applied to Commercial Mobile Radio Service 
+("CMRS"), which includes paging, the regulation was validly 
+grounded in 47 U.S.C. s 332, a provision adopted well before 
+the 1996 Act, in the 1982 amendments to the Communications 
+Act of 1934.  See Communications Amendments Act of 1982, 
+Pub. L. No. 97-259, s 331, 96 Stat. 1087, 1096-97.  The 
+Eighth Circuit's decision meets the criteria for issue preclu-
+sion.  Petitioners are therefore bound by its holding that the 
+validity of 47 CFR s 51.703(b) (as applied to CMRS) is wholly 
+independent of the 1996 Act.  The LECs themselves do not 
+contend that a rule so grounded may be enforced solely 
+through the negotiation and arbitration procedures of the 
+1996 Act.  Accordingly we uphold the Commission's use of its 
+complaint procedure.  We also affirm the Commission's sub-
+stantive interpretation of s 51.703(b) as barring charges for 
+facilities used to deliver LEC-originated traffic.
+
+                              * * *
+
+     The Commission promulgated s 51.703(b) in its first major 
+order implementing the 1996 Act.  See Implementation of the 
+Local Competition Provisions in the Telecommunications 
+Act of 1996, 11 F.C.C.R. 15,499, 16,228 (1996) ("Local Compe-
+tition Order").  The rule states:
+
+     A LEC may not assess charges on any other telecommu-
+     nications carrier for local telecommunications traffic that 
+     originates on the LEC's network.
+     
+47 CFR s 51.703(b);  see also Local Competition Order, 11 
+F.C.C.R. at 16,016 p 1042.  In resolving a broad challenge to 
+that order, the Eighth Circuit upheld s 51.703(b) as applied 
+to CMRS providers, Iowa Utilities Bd., 120 F.3d at 800 n.21;  
+the LECs did not petition for certiorari on that issue.
+
+     After the Eighth Circuit's decision the FCC's Common 
+Carrier Bureau ruled that s 51.703(b)'s bar on LEC charges 
+for completion of LEC-originated calls also covered charges 
+for certain facilities used by LECs to provide such services.  
+In response to a request for clarification from several LECs, 
+the then chief of the Common Carrier Bureau, A. Richard 
+Metzger, Jr., issued a letter saying that the LECs could not 
+charge paging service providers for the cost of "LEC trans-
+mission facilities that are used on a dedicated basis to deliver 
+to paging service providers local telecommunications traffic 
+that originates on the LEC's network."  Metzger Letter of 
+December 30, 1997, 13 F.C.C.R. 184, 184 (1997).  The LECs 
+filed applications for review of the letter;  three years later, 
+the Commission has yet to rule on the matter.
+
+     Shortly before and after the release of the Metzger letter, 
+one-way paging providers TSR Wireless, LLC and Metrocall, 
+Inc. filed a series of complaints with the Commission under 47 
+U.S.C. s 208 (authorizing complaints "of anything done or 
+omitted to be done by any common carrier subject to this 
+chapter, in contravention of the provisions thereof").  The 
+complaints claimed (in the aggregate) that the four LECs 
+now petitioning for review had charged for facilities used to 
+deliver LEC-originated traffic, in violation, as the paging 
+companies saw it, of s 51.703(b).  TSR Wireless also chal-
+lenged Qwest's refusal to provide a "T-1 circuit" to handle 
+paging traffic between Yuma and Flagstaff, Arizona.  The 
+LECs argued that the Commission lacked jurisdiction to 
+adjudicate the complaints, on the theory that the carriers 
+could enforce the LECs' interconnection obligations only 
+through the 1996 Act's negotiation and arbitration provisions.  
+See 47 U.S.C. ss 251(c)(1), 252.
+
+     The Commission held that it had jurisdiction to resolve the 
+paging carriers' complaints.  Although relying primarily on a 
+
+different interpretation of the 1996 Act from the LECs', it 
+also invoked 47 U.S.C. s 332, the provision that had won the 
+day for the Commission in the Eighth Circuit.  TSR Wireless, 
+LLC v. US WEST Communications, Inc., 15 F.C.C.R. 11,166, 
+11,172, 11,172-73 n.42, 11,189-90 p p 13, 41-42 (2000) ("Or-
+der").  On the merits the Commission concluded that 
+s 51.703(b) prevented the LECs from imposing charges for 
+the facilities used to deliver LEC-originated traffic to the 
+paging carriers.  It also held (subject to a qualification) that 
+Qwest was required to meet TSR Wireless's request for a T-1 
+line between Yuma and Flagstaff, Arizona at its own expense.  
+Id. at 11,189 p 40.
+
+                             *  *  *
+
+     The parties' dispute over the propriety of CMRS providers 
+enforcing s 51.703(b) via the Commission's s 208 complaint 
+procedure entails two steps--steps that the Commission col-
+lapses into one in its somewhat confusing issue preclusion 
+argument.  The first step is to identify the source of the 
+Commission's authority to adopt s 51.703(b) insofar as it 
+applies to CMRS.  (The LECs here do not challenge the 
+substantive validity of s 51.703(b) as applied to CMRS.)  The 
+second step is to determine whether adversely affected par-
+ties may pursue relief for non-compliance only via the 1996 
+Act's negotiation and arbitration provisions, see 47 U.S.C. 
+ss 251(c)(1), 252, or whether they may get relief via com-
+plaints to the Commission under 47 U.S.C. s 208.
+
+     The link between the two is that if s 51.703(b) (as applied 
+to CMRS) rests solely on the 1996 Act, the second question, 
+that of available remedy, is sharply contested.  But if 
+s 51.703(b) (as applied to CMRS) is validated by prior legisla-
+tion, specifically 47 U.S.C. s 332, then 47 U.S.C. s 208 is 
+indisputably available.  Perhaps because the second step (the 
+proper channels of enforcement) is so easy on the second 
+hypothesis (47 U.S.C. s 332), the Commission tends to over-
+look it.  By coincidence, the Eighth Circuit decision ad-
+dressed the issues of both substantive power and remedy.
+
+     In the Eighth Circuit litigation the LECs challenged the 
+substantive validity of s 51.703(b) and many other provisions 
+of the Local Competition Order.  That order in fact rested on 
+the 1996 Act, and for many contexts the court found the 
+regulations adopted invalid.  But insofar as s 51.703(b) and 
+several kindred sections applied to CMRS, the court found 
+support in 47 U.S.C. s 332:
+
+     Because Congress expressly amended section 2(b) to 
+     preclude state regulation of entry of and rates charged 
+     by Commercial Mobile Radio Service (CMRS) providers, 
+     see 47 U.S.C. ss 152(b) (exempting the provisions of 
+     section 332), 332(c)(3)(A), and because section 
+     332(c)(1)(B) gives the FCC the authority to order LECs 
+     to interconnect with CMRS carriers, we believe that the 
+     Commission has the authority to issue the rules of special 
+     concern to the CMRS providers, i.e., 47 C.F.R. ss 51.701, 
+     51.703, 51.709(b), 51.711(a)(1), 51.715(d), and 51.717, but 
+     only as these provisions apply to CMRS providers. Thus, 
+     rules 51.701, 51.703, 51.709(b), 51.711(a)(1), 51.715(d), and 
+     51.717 remain in full force and effect with respect to the 
+     CMRS providers, and our order of vacation does not 
+     apply to them in the CMRS context.
+     
+Iowa Utilities Bd., 120 F.3d at 800 n.21 (emphasis added).1  
+In the Local Competition Order itself, interestingly, the 
+Commission had not invoked s 332 in support of the regula-
+tion.  See 11 F.C.C.R. at 16,005-06 p p 1023, 1025.  Compare 
+SEC v. Chenery Corp., 332 U.S. 194, 196 (1947).
+
+     The LECs also raised the remedial issue presented here 
+(though in a much broader version), persuading the court that 
+the Commission could not use s 208 complaint proceedings to 
+
+__________
+     1  Section 332(c)(1)(B) provides:  "Upon reasonable request of 
+any person providing commercial mobile service, the Commission 
+shall order a common carrier to establish physical connections with 
+such service pursuant to the provisions of section 201 of this title.  
+Except to the extent that the Commission is required to respond to 
+such a request, this subparagraph shall not be construed as a 
+limitation or expansion of the Commission's authority to order 
+interconnection pursuant to this chapter."
+
+enforce the whole family of duties to which s 51.703(b) (as it 
+applied generally) belonged.  On this they won.  Iowa Utili-
+ties Bd., 120 F.3d at 803-04.  But the victory was short-lived;  
+the Supreme Court vacated the ruling as unripe.  AT&T 
+Corp. v. Iowa Utilities Bd., 525 U.S. at 386.
+
+     The Eighth Circuit's substantive ruling that s 51.703(b) 
+was validly grounded in s 332 seems on its face to meet the 
+criteria for issue preclusion.  Under that doctrine, judgment 
+in a prior suit can preclude relitigation of an issue actually 
+litigated and necessary to the outcome of the first action so 
+long as no unfairness results.  See Parklane Hosiery Co. v. 
+Shore, 439 U.S. 322, 326 n.5 (1979);  Milton S. Kronheim & 
+Co. v. District of Columbia, 91 F.3d 193, 197 (D.C. Cir. 1996);  
+see also Southern Pac. R.R. Co. v. United States, 168 U.S. 1, 
+48-49 (1897).
+
+     The LECs' strongest response is that Iowa Utilities Bd. 
+did not really find that s 332 was the statutory authority for 
+s 51.703(b).  The court's use of s 332, they say, was only to 
+parry a claim that s 51.703(b) and many associated regula-
+tions were invalid intrusions on state authority under s 2(b) 
+of the Communications Act of 1934, 47 U.S.C. s 152(b).  But 
+this cuts the Iowa Utilities Bd. decision too fine.  The LECs' 
+basic attack was that the 1996 Act failed to support 
+s 51.703(b) and the associated regulations.  The Eighth Cir-
+cuit by and large agreed (though the Supreme Court did not).  
+But having agreed on the general proposition, the Eighth 
+Circuit was convinced that an exception applied for CMRS, as 
+to which it plainly found an independent basis of support 
+outside the 1996 Act, in s 332.
+
+     The petitioners did not seek certiorari as to the Eighth 
+Circuit's holding on s 332--making it a final judgment with 
+preclusive effects.  The Supreme Court, discussing the pre-
+clusive effect of a judgment that the loser was entitled to 
+appeal to the Supreme Court, has held that the loser's failure 
+to do so left him as badly off as if he had appealed and lost.  
+Angel v. Bullington, 330 U.S. 183, 189 (1947).  As a general 
+matter we cannot see that certiorari should be on a different 
+footing.  Of course the odds are against such relief;  most 
+
+litigants will not have it granted even if they do seek it.  Yet 
+the judgments of intermediate federal appellate courts none-
+theless have issue preclusive effect.  See Johnson Steel Street 
+Rail Co. v. William Wharton, Jr. & Co., 152 U.S. 252, 261 
+(1894).
+
+     The LECs go on to argue that theirs is a special case--they 
+"had no motivation to challenge section 51.703(b)" because 
+they reasonably thought the rule applied only to traffic (for 
+which they say they never charged);  the FCC only later 
+revealed its view that the rule embraced charges for facilities.  
+See Petitioners' Br. at 38-39.  But this seems somewhat 
+disingenuous on two counts.  First, so far as appears they did 
+contest the rule in the Eighth Circuit.  Indeed, they evidently 
+did so in the specific context of CMRS (at least footnote 21 
+gives no hint that it sprang out of the blue, and the LECs 
+make no claim that it did).  Second, the Eighth Circuit 
+disposed of rehearing petitions in Iowa Utilities Bd. on 
+October 14, 1997, so that the 90-day period for filing a 
+petition for a writ of certiorari, see S. Ct. R. 13, only closed 
+well after the December 30, 1997 Metzger letter clearly put 
+the LECs on notice of the rule's application to facilities.  In 
+any event, and recognizing that litigants must be highly 
+selective in framing petitions for certiorari, we cannot see any 
+serious unfairness in giving preclusive effect to the judgment 
+of a sister circuit.
+
+     Petitioners also invoke the doctrine launched in Functional 
+Music, Inc. v. FCC, 274 F.2d 543 (D.C. Cir. 1958).  But that 
+doctrine has no bearing on issue preclusion, as it relates 
+simply to a party's right, once it has passed up a chance to 
+bring suit attacking a rule, to resist its later application.  
+Public Citizen v. Nuclear Regulatory Commission, 901 F.2d 
+147, 153 n.3 (D.C. Cir. 1990);  Western Coal Traffic League v. 
+Interstate Commerce Commission, 735 F.2d 1408, 1411 (D.C. 
+Cir. 1984).
+
+     Petitioners' procedural victory, the Eighth Circuit's holding 
+that the Commission could not use complaint proceedings to 
+enforce the LECs' 47 U.S.C. ss 251-252 obligations, is also of 
+no use to them.  Because of the Supreme Court's authorita-
+tive ruling that the issue was unripe, AT&T Corp. v. Iowa 
+
+Utilities Bd., 525 U.S. at 386, the Commission cannot be 
+bound by its loss, and petitioners cannot (contrary to the 
+Commission's rather bizarre effort to deploy claim preclusion) 
+be bound by their failure to pose the procedural issue in the 
+CMRS context in the Eighth Circuit.  See Norfolk & Western 
+Ry. Co. v. United States, 768 F.2d 373, 377-78 (D.C. Cir. 
+1985).
+
+     Petitioners acknowledge that the Commission referred to 
+s 332 in the Order, but stress, in a footnote, that the refer-
+ences were tucked away in a diminutive footnote and in the 
+ordering clauses.  See Order, 15 F.C.C.R. at 11,172-73 n.42, 
+11,189-90 p p 41-42.  Petitioners' footnoted claim that under 
+McElroy Electronics Corp. v. FCC, 990 F.2d 1351 (D.C. Cir. 
+1993), a footnote will not suffice, is incorrect.  There we held 
+that an ambiguous footnote in a Commission order failed to 
+provide adequate notice, id. at 1361-62, but here the footnote, 
+though small, is not obscure.
+
+                             *  *  *
+
+     The Commission makes no claim that Iowa Utilities Bd. 
+bars petitioners' attack on its conclusion that s 51.703(b) 
+prohibits charges for facilities as well as traffic.  We review 
+the Commission's reading of its regulation under highly def-
+erential standards, and would reverse only a clear misinter-
+pretation.  See, e.g., National Medical Enterprises, Inc. v. 
+Shalala, 43 F.3d 691, 697 (D.C. Cir. 1995).
+
+     Petitioners argue that the Commission's inclusive reading 
+is unreasonable and "contrary to the plain language of the 
+FCC's regulation."  See Petitioners' Br. at 43.  We see no 
+barrier in the plain language.  As to reasonableness, the 
+Commission's explanation seems compelling;  its interpreta-
+tion prevents LECs from "re-designating the 'traffic' charges 
+as 'facilities' charges."  Order, 15 F.C.C.R. at 11,181 p 25.  
+The opposite reading would create an apparently artificial 
+distinction, giving LECs an incentive to game the system by 
+providing dedicated facilities at the paging providers' expense 
+in cases where they could conveniently carry the traffic at 
+their own expense.
+
+     Petitioners suggest that 47 CFR s 51.709(b) contradicts 
+the Commission's ruling.  That section provides:
+
+     The rate of a carrier providing transmission facilities 
+     dedicated to the transmission of traffic between two 
+     carriers' networks shall recover only the costs of the 
+     proportion of that trunk capacity used by an intercon-
+     necting carrier to send traffic that will terminate on the 
+     providing carrier's network.  Such proportions may be 
+     measured during peak periods.
+     
+That the regulation mentions facilities, while s 51.703(b) does 
+not, is surely not enough to establish the principle that when 
+the Commission wants to target charges for facilities, it must 
+do so explicitly.  Moreover, as we do not understand the 
+LECs to claim that the traffic in question "terminate[s] on 
+the providing carrier's network," we do not see how the 
+regulation assists them.  The Commission reads s 51.709(b) 
+as entirely congruent with s 51.703(b), confirming the ban on 
+charges, whether labeled as for traffic or for facilities, for 
+LEC-originated local calls.  See Order, 15 F.C.C.R. at 
+11,181-82 p 26.  The present case does not call on us to pass 
+on the Commission's reading of s 51.709(b), but we can say 
+that the provision does not seem to pose the contradiction 
+claimed by petitioners.
+
+     Finally, the petitioners say they reasonably fear that the 
+paging carriers will use the Commission's interpretation to 
+demand unnecessary and expensive facilities.  But they have 
+not by any means established that such "gold-plating" is 
+likely.  There are three uses of facilities--so far as appears 
+not uncommon--for which the paging carriers themselves 
+must pay:  (1) for "transiting traffic"--"traffic that originates 
+from a carrier other than the interconnecting LEC but 
+nonetheless is carried over the LEC network to the paging 
+carrier's network," Order, 15 F.C.C.R. at 11,177 n.70;  (2) for 
+connecting parts of a paging carrier's own network, such as 
+those linking a paging terminal with its antennas, id.;  and (3) 
+for delivering traffic that originates or terminates outside the 
+Major Trading Area (essentially the local calling area), id. at 
+11,184 n.102.  As a result of these three facility uses, paging 
+services that insisted on gold-plating would run up their own 
+
+costs.  Further, the Commission observes that LECs can ask 
+the Commission for a waiver of s 51.703.  Commission Br. at 
+45 n.92.  The suggestion seems to reflect a view that paging 
+carriers' efforts at gold-plating would be unreasonable, and 
+thus that the Commission would afford relief on a proper 
+record.  We cannot assume the contrary.  In the absence of 
+gold-plating, the Commission's order simply requires the 
+LECs to look to their own customers to recoup the needed 
+costs of their facilities.
+
+     The LECs' petitions are
+
+                                                                      Denied.
+
+                                                            

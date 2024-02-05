@@ -1,0 +1,553 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued May 17, 2001     Decided June 29, 2001 
+
+                           No. 00-1270
+
+       Husqvarna AB;  Husqvarna Forest and Garden Company; 
+            Frigidaire Home Products-Specialty Power, 
+                           Petitioners
+
+                                v.
+
+                Environmental Protection Agency, 
+                            Respondent
+
+               John Deere Consumer Products, Inc., 
+                            Intervenor
+
+            On Petition for Review of an Order of the 
+                 Environmental Protection Agency
+
+     Nancy S. Bryson argued the cause for the petitioners.
+
+     Pamela S. Tonglao, Attorney, United States Department of 
+Justice, argued the cause for the respondent.  John C. Cru-
+den, Acting Assistant Attorney General, United States De-
+
+partment of Justice, and John T. Hannon and Michael W. 
+Thrift, Attorneys, United States Environmental Protection 
+Agency, were on brief for the respondent.
+
+     Richard E. Ayres argued the cause for the intervenor.
+
+     Before:  Henderson, Tatel and Garland, Circuit Judges.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  The petition-
+ers, Husqvarna AB et al. (Husqvarna), seek review of the 
+Phase 2 Emission Standards for New Nonroad Spark-Ignition 
+Handheld Engines promulgated by the respondent, the U.S. 
+Environmental Protection Agency (EPA), under the authority 
+of section 213 of the Clean Air Act (CAA), 42 U.S.C. s 7547.  
+Husqvarna contends that the final rule is arbitrary and 
+capricious because the EPA failed to select the emission 
+standards that represent the best balance of the factors 
+identified in CAA section 213.  It also maintains that the 
+regulatory alternative chosen by the EPA is not supported by 
+substantial evidence in the record.  Finally, Husqvarna alleg-
+es procedural error stemming from inadequate notice and 
+opportunity to comment.  Because each of these arguments 
+lacks merit, we deny Husqvarna's petition.
+
+                          I. Background
+
+     In 1990 the Congress amended the CAA and added section 
+213, which authorizes the EPA to set emissions standards for 
+"nonroad engines and vehicles."  Pub. L. No. 101-549, 104 
+Stat. 2399 (1990).  Section 213 required the EPA to adopt 
+emission standards by 1993 and to revise them as appropriate 
+thereafter.  The EPA missed the statutory deadline and a 
+lawsuit to enforce the statute was filed, which has resulted in 
+the district court's monitoring of the EPA's compliance.  See 
+Sierra Club v. Whitman, Civ. No. 93-0124 (D.D.C. filed Jan. 
+19, 1993).
+
+     In establishing emission standards, the EPA created two 
+categories of small spark-ignition (SI) engines:  nonhandheld 
+
+and handheld.1  The EPA further divided handheld engines 
+into three classes--Classes III, IV and V--based on engine 
+size, with Class III encompassing the smallest and Class V 
+the largest handheld engines.  The domestic handheld engine 
+industry includes 22 manufacturers, including Husqvarna, 
+Stihl, John Deere, Shindaiwa, Kawasaski, Echo, Ryobi and 
+Honda, which manufacture a total of 186 engine families.2  
+These manufacturers primarily use two-stroke engines in 
+handheld products because of their high power-to-weight 
+ratios and low cost.  A two-stroke engine is an internal 
+combustion engine that accomplishes the operations of intake, 
+compression, expansion and exhaust in two piston strokes 
+rather than four.
+
+     The EPA has regulated emissions from handheld engines 
+in two phases.  See 58 Fed. Reg. 55, 033, 55,034 (Oct. 25, 
+1993).  In Phase 1, the EPA proposed short-term new engine 
+standards based in part on standards California had adopted 
+for similar engines.  In January 1998 the EPA proposed 
+Phase 2 emission standards for handheld engines that were 
+slightly more stringent than those in Phase 1.  63 Fed. Reg. 
+3950, 3953-55, 3958-59, 3964-71, 4009-4013 (Jan. 27, 1998).  
+The proposed Phase 2 standards were expected to reduce 
+hydrocarbons (HC) and oxides of nitrogen (NOx) emissions 
+by 30 per cent beyond Phase 1 standards by the year 2025.3  
+63 Fed. Reg. 4001.  The proposal called for a reduction in 
+emissions for Class III, IV and V engines to 210, 172 and 116 
+
+__________
+     1  Nonhandheld engines tend to be large and include engines 
+that power lawnmowers and garden tractors.  Handheld engines 
+are smaller and are used in equipment such as chainsaws, leaf 
+blowers and weed trimmers.
+
+     2  An engine family is a grouping of engines within a manufac-
+turer's product line. Engines within the same family must be 
+identical in several respects, including combustion cycle, number of 
+cylinders, engine class, catalyst type, fuel required and useful life.  
+40 C.F.R. s 90.116(c), (d)(1)-(10).
+
+     3  HC and NOx contribute to the formation of tropospheric 
+ozone through a complex series of reactions. Both short-term and 
+prolonged exposure to ozone at levels common in many cities has 
+been linked to a number of health problems.  See 65 Fed. Reg. 
+24,268, 24,295 (Apr. 25, 2000).
+
+grams per kilowatt-hour (g/kWhr),4 respectively.  In response 
+to the proposal, the EPA received input from manufacturers 
+indicating that lower emission levels were feasible.  See 63 
+Fed. Reg. 66,081, 66,082-83 (Dec. 1, 1998).5  And in late 1998 
+a portion of the handheld engine industry suggested that it 
+would support final HC+NOx standards of 72 g/kW-hr for 
+Classes III and IV and 87 g/kW-hr for Class V (72-72-87).
+
+     On December 2, 1998 John Deere Consumer Products, Inc. 
+(Deere), which appeared as an intervenor before this court, 
+recommended that the EPA consider stricter Phase 2 stan-
+dards in light of its recent development of "compression wave 
+technology" (CWT), which promised to significantly reduce 
+emissions from handheld engines.  CWT uses compressed air 
+to improve fuel injection in the combustion chamber of a two-
+stroke engine, resulting in almost all of the fuel being com-
+busted.  Deere stated that CWT was adaptable to all sizes of 
+two-stroke engines and could meet a 72 g/kW-hr HC+NOx 
+standard in 2001.
+
+     On July 28, 1999 the EPA published a Supplemental Notice 
+of Proposed Rulemaking (Supplemental Proposal), which pro-
+posed emission limits of 50 g/kW-hr for Classes III and IV 
+with phase-in between 2002 and 2006 and an emission limit of 
+72 g/kW-hr for Class V with phase-in between 2004 and 2008.  
+64 Fed. Reg. 40,940 (July 28, 1999).  In addition to CWT, the 
+Supplemental Proposal identified three other technologies--
+stratified scavenging,6 miniature four-stroke engines7 and cat-
+
+__________
+     4  Grams per kilowatt-hour (g/kW-hr) is used to measure the 
+mass of pollutants (grams) emitted per quantum of work (kW-hr) 
+the engine performs.
+
+     5  "Lower" emission levels equate to stricter standards and 
+presumably cleaner air.
+
+     6  Stratified scavenging is a technique that lowers emissions 
+from two-stroke engines by using pure air, instead of a mixture of 
+fuel and air, to expel exhaust gases following combustion.  The air 
+also serves as a buffer that prevents the air/fuel mixture from 
+escaping the exhaust port.
+
+     7  A miniature four-stroke engine performs the internal combus-
+tion process using four strokes of the piston as opposed to the two 
+
+alysts8--that could be utilized by manufacturers to meet the 
+Phase 2 standards.  The Supplemental Proposal also con-
+tained an averaging, banking and trading (ABT)9 program to 
+give handheld engine manufacturers flexibility in meeting the 
+more stringent Phase 2 standards.  64 Fed. Reg. 40,951.  
+Under the proposed program, manufacturers would declare a 
+family emission limit (FEL) for each engine family.  See 
+supra note 2.  Manufacturers need only ensure that average 
+emissions from all of their engine families meet the emission 
+standards for the given model year.  They could also gener-
+ate bankable emission credits based on the differences be-
+tween the FEL and the Phase 2 standards for the applicable 
+model year.
+
+     Many manufacturers, including Husqvarna, commented on 
+the Supplemental Proposal.  The public comment period 
+closed on September 17, 1999, although the EPA agreed to 
+consider additional comments filed within 30 days therefrom.  
+It also continued to meet with interested manufacturers after 
+the close of the comment period.  The final Phase 2 emission 
+standards for handheld SI engines were published on April 
+25, 2000.  65 Fed. Reg. 24,268.  In the final rule, the EPA 
+adopted the 50-50-72 HC+NOx emission standards proposed 
+in the Supplemental Proposal, but with an implementation 
+schedule of four years instead of the five as proposed.  The 
+decision rested on the EPA's determination that "rapid tech-
+
+__________
+used in two-stroke engines.  Due to their larger size, four-stroke 
+engines, which produce lower HC+NOx emissions due to their 
+lower scavenging losses, have until recently been limited to ground-
+supported applications such as lawnmowers.
+
+     8  Catalysts are small devices that are added to an engine to 
+oxidize or convert unburned hydrocarbons after they exit the en-
+gine's combustion chamber.
+
+     9  Averaging means the exchange of emission credits within a 
+manufacturer's product line.  Banking refers to the retention of 
+emission credits for use in future model year averaging or trading.  
+Trading involves the exchange of emission credits between engine 
+manufacturers that can then be used for averaging, banked for 
+future use or traded again.  63 Fed. Reg. 3972.
+
+nological advances" in the handheld engine industry warrant-
+ed a more expeditious implementation.  65 Fed. Reg. 24,274.  
+While noting that "not all of the technologies ... have yet 
+been demonstrated in mass-produced production engines op-
+erated under typical in-use conditions," the EPA identified 
+the following technologies as likely to meet the newly adopted 
+standards:  Class III (CWT & low-medium efficiency catalyst;  
+stratified scavenging with lean combustion & medium-high 
+efficiency catalyst;  four-stroke), Class IV (CWT;  CWT & low 
+efficiency catalyst;  stratified scavenging with lean combustion 
+& medium efficiency catalyst;  four-stroke) and Class V 
+(CWT;  four-stroke;  stratified scavenging with lean combus-
+tion).  65 Fed. Reg. 24,274-79.  The EPA explained that 
+changes in equipment design could allay safety concerns 
+about the use of catalysts.  65 Fed. Reg. 24,278-79.  It also 
+determined that the Phase 2 standards were cost-effective.  
+65 Fed. Reg. 24, 296-300.  Finally, the EPA revised the ABT 
+program to avoid a delay in the shift to cleaner engines.  65 
+Fed. Reg. 24,282-84.  Husqvarna challenges all of these parts 
+of the final rule.
+
+                           II. Analysis
+
+     "Our analysis is guided by the deference traditionally given 
+to agency expertise, particularly when dealing with a statuto-
+ry scheme as unwieldy and science-driven as the Clean Air 
+Act."  Appalachian Power Co. v. EPA, 135 F.3d 791, 801-02 
+(D.C. Cir. 1998);  see Baltimore Gas & Elec. Co. v. NRDC, 
+462 U.S. 87, 103 (1983) (reviewing court must be "at its most 
+deferential" when agency is "making predictions, within its 
+area of special expertise, at the frontiers of science").  Under 
+section 307(d)(9) of the CAA, we reverse agency action found 
+to be "arbitrary, capricious, an abuse of discretion, or other-
+wise not in accordance with law."  42 U.S.C. s 7607(d)(9)(A).  
+Questions of statutory interpretation are governed by the 
+familiar two-step test set forth in Chevron, U.S.A., Inc. v. 
+NRDC, 467 U.S. 837, 842-43 (1984).  The court first asks 
+"whether Congress has directly spoken to the precise ques-
+tion at issue," in which case it "must give effect to the 
+unambiguously expressed intent of Congress."  Id.  If the 
+
+"statute is silent or ambiguous with respect to the specific 
+issue," the court moves to the second step and defers to the 
+agency's interpretation as long as it is "based on a permissi-
+ble construction of the statute."  Id. at 843.  We will strike 
+down the rulemaking for procedural error "only if the errors 
+were so serious and related to matters of such central rele-
+vance to the rule that there is a substantial likelihood that the 
+rule would have been significantly changed if such errors had 
+not been made."  CAA s 307(d)(8);  42 U.S.C. s 7607(d)(8).
+
+     In challenging the EPA's handheld engine Phase 2 emis-
+sion standards, Husqvarna raises three claims.  First, it 
+asserts that the EPA's choice of the 50-50-72 emission stan-
+dards contravenes the best balance requirement of CAA 
+section 213.  Second, it maintains that the final rule is 
+arbitrary and capricious because it is not supported by sub-
+stantial evidence in the record.  Finally, it argues that the 
+EPA failed to comply with the procedural requirements of 
+CAA section 307(d).
+
+     A.   CAA Section 213
+          
+     Section 213(a)(3) of the CAA requires the EPA to promul-
+gate standards that "shall achieve the greatest degree of 
+emission reduction achievable through the application of tech-
+nology which the Administrator determines will be available 
+for the engines or vehicles to which such standards apply, 
+giving appropriate consideration to the cost of applying such 
+technology within the period of time available to manufactur-
+ers and to noise, energy, and safety factors associated with 
+the application of such technology."  42 U.S.C. s 7547(a)(3).  
+Husqvarna maintains that the 50-50-72 emission standards 
+do not represent the "best balance" of these factors for the 
+industry.  We disagree that a "best balance" of the kind 
+Husqvarna contemplates is required.  The EPA did not devi-
+ate from its statutory mandate or frustrate congressional will 
+by placing primary significance on the "greatest degree of 
+emission reduction achievable" and by considering cost, noise, 
+energy and safety factors as important but secondary factors.  
+The overriding goal of the section is air quality and the other 
+listed considerations, while significant, are subordinate to that 
+
+goal.  Cf. American Petroleum Inst. v. EPA, 52 F.3d 1113, 
+1120 (D.C. Cir. 1995).  The record indicates that the EPA 
+considered each of the factors listed in section 213 and 
+nothing suggests that "the agency abandoned its obligation to 
+balance the statutory factors and select the best balance for a 
+predominant segment of industry from the alternatives before 
+it."  Appellant Br. 37 (emphasis original).  Contrary to Husq-
+varna's claim, the EPA did not single out a single engine 
+technology and use it as a benchmark to set standards.  
+Rather, it set the emission standards with four different 
+engine technologies in mind.  Cf. NRDC v. Thomas, 805 F.2d 
+410, 424 (D.C. Cir. 1986) (rejecting petitioner's claim that 
+EPA must determine which engine can achieve greatest 
+emission reduction and then ratchet standard up to account 
+for cost and other factors).
+
+     Husqvarna argues that the EPA's failure to consider incre-
+mental cost-effectiveness illustrates its erroneous interpreta-
+tion of section 213.  Section 213, however, simply directs the 
+EPA to consider cost.  Although the EPA considered margin-
+al cost-effectiveness in promulgating marine engine emission 
+regulations, it has not done so in promulgating any other 
+standards under section 213.  Moreover, the EPA identified 
+industry-specific factors in the marine engine rulemaking that 
+suggested an incremental cost-effectiveness analysis would be 
+particularly significant to the EPA's choice among various 
+alternative standards.  61 Fed. Reg. 52,088, 52,098 (Oct. 4, 
+1996).  The EPA did consider the cost-effectiveness study 
+submitted by Husqvarna during the public comment period, 
+JA 1885-88, but rejected it as a basis to conclude that the 
+cost of the 50-50-72 standard was unreasonable.  Because 
+section 213 does not mandate a specific method of cost 
+analysis, we find reasonable the EPA's choice to consider 
+costs on the per ton of emissions removed basis.  See 65 Fed. 
+Reg. 24,300.  And there is no dispute that the EPA consid-
+ered cost in this manner in weighing the factors under section 
+213.
+
+     Husqvarna also complains that the changes in the ABT 
+program set forth in the final rule demonstrate improper 
+balancing under section 213.  The record, however, indicates 
+
+just the opposite.  It was the EPA's consideration of the 
+factors listed in section 213, notably the mandate to consider 
+the greatest degree of emission reduction achievable, that led 
+to the changes in the ABT program.  We find nothing 
+unreasonable about the EPA's conclusion that the ABT pro-
+gram as proposed risked undermining the final rule by unnec-
+essarily delaying the introduction of cleaner engine technolo-
+gies.  65 Fed. Reg. 24, 284.
+
+     In sum, we defer to the EPA's selection of emission stan-
+dards under section 213.  The record shows that the EPA 
+reasonably arrived at what it determined was the best regula-
+tory standard by ascertaining the greatest degree of emission 
+reduction achievable while giving appropriate consideration to 
+cost, noise, energy and safety factors.
+
+     B.   Substantial Evidence
+          
+     CAA section 213 is a technology-forcing standard.  See 42 
+U.S.C. s 7547(a)(3);  42 U.S.C. s 7547(b).  In construing simi-
+lar language included in CAA section 202, we explained in 
+NRDC v. Thomas that the mere fact that the provisions "seek 
+to promote technological advances while also accounting for 
+cost does not detract from their categorization as technology-
+forcing standards."  805 F.2d at 428 n.30.  The "Congress 
+intended the agency to project future advances in pollution 
+control capability.  It was 'expected to press for development 
+and application of improved technology rather than be limited 
+by that which exists today.' "  NRDC v. EPA, 655 F.2d 318, 
+328 (D.C. Cir. 1981) (quoting S. Rep. No. 91-1196, at 24 
+(1970)).  Husqvarna acknowledges that the statute is technol-
+ogy-forcing but challenges whether EPA projections of future 
+advances in pollution control capability are supported by 
+substantial evidence.  It asserts that the EPA (1) selected 
+emission standards that are not technologically feasible and, 
+in so doing, (2) failed to consider costs, (3) did not adequately 
+address safety issues and (4) provided no rational explanation 
+for the phase-in period selected.  We find these claims with-
+out merit.
+
+     First, substantial evidence supports the EPA's determina-
+tion that the Phase 2 standards can be achieved through the 
+
+application of the identified technologies--CWT, stratified 
+scavenging, miniature four-stroke engines and catalysts.  The 
+record indicates that these engine technologies are already 
+capable of meeting an emission limit of 72 g/kW-hr, with the 
+four-stroke engine technology currently meeting the 50 g/kW-
+hr standard.  The EPA found that the two-stroke technolo-
+gies--CWT and stratified scavenging--can also currently 
+meet the 50 g/kW-hr standard with the addition of a catalyst.  
+Husqvarna offers no theoretical objections to the technolo-
+gies' capacity to meet the emission standards within the 
+phase-in period.  " 'In the absence of theoretical objections to 
+the technology, the agency need only identify the major steps 
+necessary for development of the device, and give plausible 
+reasons for its belief that the industry will be able to solve 
+these problems in the time remaining.  The EPA is not 
+required to rebut all speculation that unspecified factors may 
+hinder "real world" emission control.' "  Thomas, 805 F.2d at 
+434 (quoting NRDC, 655 F.2d at 334).  Husqvarna criticizes 
+the performance of the various engine technologies but can-
+not show that the remaining issues related to design, imple-
+mentation, mass production, performance, heat and weight 
+cannot be solved through innovation and equipment redesign.  
+It also questions the adequacy of the time period to solve 
+these issues.  Substantial evidence, however, supports the 
+EPA's determination that the continued rapid development of 
+engine technologies makes it probable that CWT, stratified 
+scavenging, four-stroke engine and catalyst technologies will 
+enable manufacturers to comply with the emission standards 
+within the phase-in period.  See 65 Fed. Reg. 24,274-81.
+
+     Second, substantial evidence supports the EPA's cost de-
+terminations.  The EPA sought comment on and considered a 
+significant body of cost data, including an incremental cost-
+effectiveness study submitted by Husqvarna.  JA 1883-93.  
+The EPA calculated the cost per engine and measured the 
+cost-effectiveness of the final Phase 2 standards, in dollars 
+per ton of emissions reduction, against the Phase 1 baseline.  
+65 Fed. Reg. 24,299-300.  Its calculation of $560 per ton of 
+HC+NOx removed, with fuel savings, falls within the range 
+of other nonroad mobile source regulations under Title II.  
+
+See 63 Fed. Reg. 56,968, 56,990-91 (Oct. 23, 1998) (nonroad 
+compression-ignition engines);  64 Fed. Reg. 73,300, 73,325-26 
+(Dec. 29, 1999) (SI recreational marine engines).
+
+     Third, contrary to Husqvarna's claim, the record illustrates 
+that the EPA considered safety issues.  It considered the 
+problem of heat associated with the use of catalysts and it 
+proposed engine and equipment redesign to overcome the 
+problem.  65 Fed. Reg. 24,278-79.  The EPA also investigat-
+ed manufacturers' claims that replacing two-stroke engines 
+with four-stroke engines would increase the weight of certain 
+handheld equipment.  It found their fears largely unwarrant-
+ed and determined that four-stroke engine technology was 
+feasible in Class IV and some Class V applications.  65 Fed. 
+Reg. 24,277.
+
+     Finally, substantial evidence supports the phase-in period 
+selected.  CAA section 213(b) states that "[s]tandards under 
+this section shall take effect at the earliest possible date 
+considering the lead time necessary to permit the develop-
+ment and application of the requisite technology, giving ap-
+propriate consideration to the cost of compliance within such 
+period and energy and safety."  42 U.S.C. s 7547(b).  For 
+the final Phase 2 standards, the EPA determined that the 
+schedule of declining emission standards, to be phased in 
+from 2002 to 2005 for Class III and IV and from 2004 to 2007 
+for Class V, provides adequate time for manufacturers' transi-
+tion to cleaner engine technologies.  The final rule basically 
+shortened the implementation schedule from the five years 
+proposed in the Supplemental Proposal to four years.  In so 
+doing the EPA was responding to several commentators who 
+sought the shorter time frame to avoid delay in the transition 
+to cleaner technologies.  The EPA also considered the poten-
+tial hardships on manufacturers of engine families with an 
+annual production level of fewer than 5000 units and provided 
+them additional lead time.  65 Fed. Reg. 24,289.  Additional-
+ly, the EPA implemented an ABT program to give all manu-
+facturers flexibility in meeting the implementation schedule;  
+the program permits manufacturers to produce some engines 
+that do not meet the standards so long as they can generate 
+or obtain offsetting credits from engines certified below the 
+
+standards.  65 Fed. Reg. 23,282-84.  These provisions mani-
+fest that the EPA followed the congressional mandate embod-
+ied in CAA section 213(b).  42 U.S.C. s 7547(b).
+
+     Accordingly, we conclude that the final rule is supported by 
+substantial evidence.
+
+     C.   Procedural Errors
+          
+     Section 307(d)(9) of the CAA provides that a court may 
+reverse agency action if it was promulgated "without observ-
+ance of procedure required by law, if (i) such failure to 
+observe such procedure is arbitrary or capricious, (ii) the 
+requirement of paragraph (7)(B) has been met, and (iii) the 
+condition of the last sentence of paragraph (8) is met."  42 
+U.S.C. s 7607(d)(9)(D).  Paragraph 7(B) limits judicial review 
+to objections "raised with reasonable specificity during the 
+period for public comment," or on reconsideration if "it was 
+impracticable to raise such objection within such time ... and 
+if such objection is of central relevance to the outcome of the 
+rule."  42 U.S.C. s 7607(d)(7)(B).  Finally, the last sentence 
+of section 307(d)(8) provides that "[i]n reviewing alleged 
+procedural errors, the court may invalidate the rule only if 
+the errors were so serious and related to matters of such 
+central relevance to the rule that there is a substantial 
+likelihood that the rule would have been significantly changed 
+if such errors had not been made."  42 U.S.C. s 7607(d)(8).
+
+     Husqvarna contends that the EPA failed to comply with 
+section 307(d)(3)(a) of the CAA, which requires that a notice 
+of proposed rulemaking "be accompanied by a statement of 
+its basis and purpose" and "include a summary of [ ] the 
+factual data on which the proposed rule is based."  42 U.S.C. 
+s 7607(d)(3).  It also argues that the agency failed to comply 
+with section 307(d)(4)(B)(i), which dictates that "all written 
+comments and documentary information on the proposed rule 
+received from any person for inclusion in the docket during 
+the comment period shall be placed in the docket."  42 U.S.C. 
+s 7607(4)(B)(i).  Husqvarna alleges that these failures denied 
+it sufficient opportunity to comment on the relevant technolo-
+gies as well as on the ABT program as it appeared in the final 
+rule.  We find these claims without merit.  First, the Supple-
+
+mental Proposal specifically referred to the technologies that 
+would serve as the basis of the 50-50-72 emission stan-
+dards--CWT, miniature four-stroke engines, stratified sca-
+venging and catalysts.  Husqvarna and other manufacturers 
+had ample opportunity to comment on the technologies.  In 
+fact, the bulk of Husqvarna's substantive claims revolves 
+around the EPA's treatment of the comments they in fact 
+submitted.  The EPA even extended the time to accept public 
+input until 30 days after close of the public comment period to 
+provide manufacturers like Husqvarna with more opportunity 
+to comment.  Second, Husqvarna had opportunity to com-
+ment on the proposed ABT program.  The final ABT provi-
+sions were a logical outgrowth of those proposed in the 
+Supplemental Proposal, even though they were in part based 
+on comments received during the 30 day extension period.  
+See Small Refiner Lead Phase-Down Task Force v. EPA, 
+705 F.2d 506, 546-47 (D.C. Cir. 1983);  United Steelworkers of 
+Am. v. Marshall, 647 F.2d 1189, 1221 (D.C. Cir. 1980).  The 
+Supplemental Proposal gave Husqvarna fair notice of the 
+subjects and issues involved in formulating the ABT program.  
+Likewise, the four-year phase-in period was a logical out-
+growth of the proposed five-year implementation schedule.  
+Finally, even if the EPA committed procedural error, Husq-
+varna failed to show it was "so serious and related to matters 
+of such relevance to the rule that there is a substantial 
+likelihood that the rule would have been significantly changed 
+if such error[ ] had not been made."  42 U.S.C. s 7607(d)(8).  
+Husqvarna was unable to establish a substantial likelihood 
+that the rule would have been significantly changed if it had 
+had an expanded opportunity to comment.  Accordingly, we 
+find Husqvarna's claims of procedural error without merit.
+
+                         III. Conclusion
+
+     In sum, we reject Husqvarna's substantive and procedural 
+challenges to the Phase 2 Emission Standards for New 
+Nonroad Spark-Ignition Handheld Engines.10  Accordingly, 
+
+__________
+     10  In light of our disposition we have no occasion to consider, 
+and accordingly dismiss as moot, the EPA's motion to strike 
+
+and for the reasons set forth in this opinion, the petition for 
+review is
+
+                                                                      Denied.
+
+__________
+portions of Husqvarna's reply brief and Deere's motion for leave to 
+file a supplemental exhibit.
+
+                              

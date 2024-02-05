@@ -1,0 +1,798 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 24, 1999   Decided January 18, 2000 
+
+                           No. 98-1603
+
+             Midcoast Interstate Transmission, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                Huntsville Utilities Gas System, 
+              City of Huntsville, Alabama, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                    98-1604, 99-1047, 99-1090
+
+                    Petitions for Review of Orders of the Federal 
+                         Energy Regulatory Commission
+
+                            ---------
+
+     Bernard A. Foster III, with whom Marvin T. Griff was on 
+the briefs, argued the cause for petitioner Midcoast Interstate 
+Transmission, Inc.
+
+     Marvin T. Griff argued the cause and filed the briefs for 
+petitioners GASP Coalition and Citizens Opposing North 
+Alabama Pipeline Project.
+
+     Monique Penn-Jenkins, Attorney, Federal Energy Regu-
+latory Commission, with whom Jay L. Witkin, Solicitor, and 
+Susan J. Court, Special Counsel, FERC, were on the briefs, 
+argued the cause for respondent.
+
+     Knox Bemis, with whom R. David Hendrickson, James J. 
+Cleary, Glenn W. Letham, James R. Choukas-Bradley, Josh-
+ua Menter, Edward J. Grenier, and Gregory K. Lawrence 
+were on the briefs, argued the cause for intervenors.  Wen-
+dell B. Hunt, Channing D. Strother, Jr., Jeffrey D. Komarow, 
+John T. Stough, Jr., Kevin M. Downey, and Joseph M. 
+Marcoux entered appearances.
+
+     Before Ginsburg and Randolph, Circuit Judges, and 
+Buckley, Senior Circuit Judge.
+
+     Opinion filed by Senior Judge Buckley.
+
+     Buckley, Senior Judge:  Midcoast Interstate Transmission, 
+Inc., and two unincorporated associations have filed petitions 
+for review of Federal Energy Regulatory Commission orders 
+granting Southern Natural Gas Company's application to 
+construct a natural gas pipeline and denying Midcoast's alter-
+native proposals for serving the same markets.  Petitioners 
+claim that the Commission failed to make a reasoned evalua-
+tion of the competing environmental and economic factors and 
+that its approval of "rolled-in" rates for Southern's project 
+ignored the agency's own policy and precedent.  Because we 
+conclude that the Commission neither abused its discretion 
+nor acted contrary to law, we deny the petitions.
+
+                          I. Background
+
+A.   Statutory and Regulatory Framework
+
+     Under section 7 of the Natural Gas Act ("NGA"), 15 U.S.C. 
+ss 717-717z (1997), a company seeking to construct and 
+
+operate any portion of an interstate gas pipeline must apply 
+to the Federal Energy Regulatory Commission ("FERC") for 
+a certificate of public convenience and necessity.  15 U.S.C. 
+s 717f(c)(1)(A).  Such a certificate
+
+     shall be issued to any qualified applicant therefor ... if it 
+     is found that the applicant is able and willing properly to 
+     do the acts and to perform the service proposed ... and 
+     that the proposed service ... is or will be required by 
+     the present or future public convenience and necessity.
+     
+Id. s 717f(e).  In evaluating certificate applications, FERC 
+employs "a flexible balancing process, in the course of which 
+all the factors are weighed prior to final determination."  
+FPC v. Transcontinental Gas Pipe Line Corp., 365 U.S. 1, 23 
+(1961).  Congress and the Commission have both stated that 
+the promotion of competition in the natural gas industry is 
+one of the Commission's regulatory goals.  See General Mo-
+tors Corp. v. Tracy, 519 U.S. 278, 283-84 (1997).
+
+     Section 4 of the NGA provides that "[a]ll rates and 
+charges" of a natural gas pipeline must be "just and reason-
+able."  15 U.S.C. s 717c(a).  A pipeline may not change its 
+rates "except after thirty days' notice to the Commission and 
+to the public."  Id. s 717c(d).  When a pipeline files a new 
+rate, FERC may, upon receiving a complaint or on its own 
+initiative, "enter upon a hearing concerning the lawfulness of 
+such rate ...;  and, pending such hearing and the decision 
+thereon, the Commission ... may ... defer the use of such 
+rate" for up to five months.  Id. s 717c(e).
+
+     When an interstate pipeline proposes to expand its business 
+through the construction of new facilities ("expansion facili-
+ties"), FERC has the authority to establish the initial rates 
+that will be charged customers who will be served by those 
+facilities.  See United Gas Improvement Co. v. Callery Prop-
+erties, Inc., 382 U.S. 223, 227 (1965) (holding that Commission 
+may establish initial rates as condition to issuing certificate 
+"pending determination of a just and reasonable rate" 
+through a section 4 proceeding).  In May 1995, the Commis-
+sion issued a policy statement governing how the cost of new 
+pipeline construction should be "priced," i.e., reflected in the 
+
+pipeline's rate structure.  See generally Pricing Policy For 
+New and Existing Facilities Constructed By Interstate Natu-
+ral Gas Pipelines, 71 FERC p 61,241 (1995) ("Pricing Poli-
+cy").  The cost of construction may be recovered in either of 
+two ways:  through "incremental" pricing, which imposes an 
+additional charge payable solely by customers who are direct-
+ly served by the expansion facilities ("expansion customers");  
+or "rolled-in" pricing, in which the cost of the new facilities 
+are added to the pipeline's total rate base and reflected in 
+rates charged to all customers system-wide.  See TransCana-
+da Pipelines Ltd. v. FERC, 24 F.3d 305, 307 n.1 (D.C. Cir. 
+1994).
+
+     Under the Pricing Policy, when FERC grants a certificate 
+of public convenience and necessity, it either sets an incre-
+mental rate to be paid by consumers served by the new 
+facilities or establishes a presumption that the facilities will 
+be of sufficient benefit to existing customers to permit the 
+pipeline to roll their cost into its system-wide rates.  See 
+Pricing Policy, 71 FERC at 61,915.  If the Commission issues 
+a certificate with a presumption of rolled-in pricing, the 
+expansion customers will initially pay the pipeline's existing 
+system-wide rates.  Otherwise, they will be required to pay 
+an incremental rate fixed by the Commission at the time the 
+certificate issues.  Id. at 61,918 n.12.  Those rates will remain 
+in place until superceded by new ones established in accor-
+dance with section 4 of the NGA.
+
+     To determine whether a pipeline qualifies for rolled-in 
+pricing, FERC "look[s] to the extent to which the new 
+facilities are integrated with the existing facilities and to the 
+specific system benefits produced by the project."  Id. at 
+61,915-16.  Where the pipeline can establish that the new 
+facilities will provide system-wide benefits and that the rolled-
+in rate would constitute an increase of five percent or less to 
+existing customers, a rebuttable presumption is created in 
+favor of rolled-in rates.  Id. at 61,916-17.  In such instances, 
+the Pricing Policy requires the Commission to approve rolled-
+in rates in the next section 4 proceeding absent evidence of a 
+"significant change in circumstance."  Id. at 61,918.
+
+     While this case was pending, FERC issued a new policy 
+statement on the certification of pipeline projects that argu-
+ably would have required incremental pricing for the expan-
+sion facilities that are the subject of this case.  See generally 
+Certification of New Interstate Natural Gas Pipeline Facili-
+ties, 88 FERC p 61,227 (1999).  The new policy, however, has 
+no bearing on these proceedings because it does not apply 
+retroactively.  See id. at 61,750;  Southeastern Michigan Gas 
+Co. v. FERC, 133 F.3d 34, 37 n. 1 (D.C. Cir. 1998) ("Because 
+FERC issued its [new pricing] rule after this case had begun 
+and did not rely on it in this proceeding, we do not consider 
+what effect its application would have had.").
+
+B.   Facts
+
+     On January 11, 1996, the municipalities of Huntsville and 
+Decatur, Alabama, (collectively, "the Cities") entered into 
+twenty-year gas supply contracts with Southern Natural Gas 
+Company ("Southern") to become effective following comple-
+tion of a proposed North Alabama Pipeline and ancillary 
+facilities ("North Alabama Pipeline Project").  At the time, 
+the Cities were being served by Midcoast Interstate Trans-
+mission's predecessor, Alabama-Tennessee Natural Gas Com-
+pany (collectively, "Midcoast").  Shortly thereafter, Southern 
+filed an application with FERC, under section 7 of the NGA, 
+for a certificate of public convenience and necessity to con-
+struct and operate these facilities.  Southern's proposed pipe-
+line would extend northward 118 miles from Southern's exist-
+ing west-to-east natural gas pipeline to the Cities.  To reach 
+those markets, the new pipeline would have to cross the 
+Tennessee River and Wheeler National Wildlife Refuge.
+
+     In July 1996, FERC made a preliminary determination, 
+contingent on the outcome of an ongoing environmental re-
+view, that Southern's proposed pipeline was required by the 
+public convenience and necessity.  Southern Natural Gas Co., 
+76 FERC p 61,122, 61,628, 61,647-48 (1996) ("Preliminary 
+Determination").  In it, FERC found that "absent significant 
+changes, [Southern would be allowed] to roll-in the costs of 
+the facilities in its next rate case."  Id. at 61,637.
+
+     During the course of the environmental review of South-
+ern's proposal, FERC considered various system and route 
+options, including the Alabama-Tennessee System Alterna-
+tive ("Alabama-Tennessee Alternative") for which Midcoast 
+had filed a certificate application. Southern Natural Gas Co., 
+79 FERC p 61,280, 62,200, 62,205 (1997) ("Certificate Order");  
+Alabama-Tennessee Natural Gas Co., 79 FERC p 61,283, 
+62,237 (1997) ("Order on Application").  This alternative con-
+sisted, essentially, of improving the capacity and efficiency of 
+Midcoast's existing system through the addition of two com-
+pressors and related facilities.  These would enable Midcoast 
+to increase delivery pressures, lower rates, and meet the 
+Cities' increasing demands for gas.  Approval of the 
+Alabama-Tennessee Alternative would render the Southern 
+project superfluous.
+
+     The Final Environmental Impact Statement ("FEIS") for 
+Southern's proposal was released on May 23, 1997.  Although 
+it noted that FERC, the Environmental Protection Agency, 
+and the Department of the Interior all agreed that the 
+Alabama-Tennessee Alternative was environmentally prefera-
+ble to Southern's proposed pipeline, it nevertheless found the 
+adverse impact of Southern's proposed pipeline to be limited, 
+and that, with the adoption of the recommended mitigation 
+measures, the project would be environmentally acceptable.  
+FEIS at S-1.  In an order citing this conclusion, FERC 
+approved the construction of the North Alabama Pipeline 
+Project subject to certain conditions, including compliance 
+with specified environmental requirements.  Certificate Or-
+der, 79 FERC at 62,208, 62,222-23.  While it acknowledged 
+the environmental superiority of the Alabama-Tennessee Al-
+ternative, the Commission declared that it was approving 
+Southern's project "for countervailing policy reasons."  Id. at 
+62,205.  It described its decision as "providing for the first 
+time in forty-seven years a competitive alternative for 
+Alabama-Tennessee's current captive customers," id. at 
+62,208, and noted that the Cities had taken advantage of this 
+option by deciding to enter into long-term contracts with 
+Southern rather than having to rely on Midcoast for their 
+natural gas.  Id. at 62,209.  Following the issuance of the 
+
+certificate, and despite the petition for review of the Commis-
+sion's decision then pending before this court, Southern pro-
+ceeded with construction of the pipeline.  By September 1999, 
+Southern had spent approximately $60 million on the project.
+
+     The Certificate Order incorporated the Preliminary Deter-
+mination's "findings with respect to the nonenvironmental 
+issues," id. at 62,222, which included those relating to rolled-
+in pricing.  As a consequence, the Cities initially will be 
+charged Southern's system-wide rates until such time as new 
+rates are established in a section 4 proceeding.  A statement 
+made by Southern's counsel at oral argument and subsequent 
+submissions by the Cities to the court suggest a disagreement 
+as to the Cities' obligation to continue to use Southern's 
+facilities in the event the Commission should order the pay-
+ment of incremental rates.  Southern contends that the Cities 
+are under a twenty-year obligation to utilize the North Ala-
+bama Pipeline irrespective of the rates they are required to 
+pay;  the Cities maintain that their contracts do not require 
+them to pay other than rolled-in rates.
+
+     FERC denied Midcoast's application for the Alabama-
+Tennessee Alternative.  In doing so, the Commission cited 
+Midcoast's failure to determine the correct sizing of the 
+proposed project by conducting an "open season" during 
+which prospective shippers submit their capacity requests, as 
+well as its failure to demonstrate market support in the form 
+of contracts or other understandings with the local distribu-
+tion companies it proposed to supply.  See Order on Applica-
+tion, 79 FERC at 62,240-41 (deferring action on application);  
+Midcoast Interstate Transmission, Inc., 83 FERC p 61,195, 
+61,831 (1998) ("Order Dismissing Application").
+
+     Midcoast filed a second certificate application seeking to 
+serve the Cities through a proposed Hartselle System Alter-
+native ("Hartselle Alternative").  This alternative would per-
+mit Southern to construct the first 98 miles of its proposed 
+pipeline, at which point the line would be connected with 
+Midcoast's existing system.  In this manner, gas originating 
+in the Southern system could be delivered to the Cities 
+without the need for a new crossing of the environmentally 
+
+sensitive Tennessee River and Wheeler National Wildlife 
+Refuge.  FERC dismissed this application because of Mid-
+coast's failure to provide a complete response to a request for 
+certain environmental information and because, unlike South-
+ern, it had no contracts or other evidence of market support 
+for the project.  See Order Dismissing Application, 83 FERC 
+at 61,831.
+
+                          II. Discussion
+
+     Petitioners maintain that FERC's decisions to grant a 
+certificate of public convenience and necessity to Southern 
+and to deny certificates to Midcoast were arbitrary and 
+capricious.  They also challenge the Commission's application 
+of its Pricing Policy to establish a presumption that Southern 
+will be able to roll the construction costs of the North 
+Alabama Pipeline Project into its system-wide rates.  Finally, 
+GASP Coalition ("GASP"), an unincorporated association of 
+individuals and groups concerned with the environmental 
+aspects of natural gas pipeline regulation, and Citizens Op-
+posing North Alabama Pipeline Project ("CONAPP"), an 
+unincorporated association formed to challenge Southern's 
+expansion project, argue that FERC authorized Southern to 
+exercise the power of eminent domain in violation of the Fifth 
+Amendment to the United States Constitution.  We have 
+jurisdiction to hear these consolidated cases pursuant to 15 
+U.S.C. s 717r(b).
+
+A.   Standard of Review
+
+     A reviewing court "must uphold the Commission's decision 
+unless it is 'arbitrary, capricious, an abuse of discretion, or 
+otherwise not in accordance with law.' "  Michigan Consol. 
+Gas Co. v. FERC, 883 F.2d 117, 120 (D.C. Cir. 1989) (quoting 
+5 U.S.C. s 706(2)(A) (1982)).  The Commission, however, 
+must "articulate a satisfactory explanation for its action in-
+cluding a 'rational connection between the facts found and the 
+choice made.' "  Motor Vehicle Mfrs. Ass'n of the United 
+States, Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 
+(1983) (quoting Burlington Truck Lines, Inc. v. United 
+States, 371 U.S. 156, 168 (1962)).
+
+B.   FERC's Decision to Grant Southern's Certificate
+
+     Midcoast asserts that FERC's decision to grant Southern's 
+certificate for the North Alabama Pipeline Project was arbi-
+trary and capricious for two reasons:  first, the agency failed 
+adequately to evaluate project alternatives that were environ-
+mentally and economically preferable to Southern's proposal;  
+and second, the record does not support FERC's conclusion 
+that Southern's proposal would promote competition in the 
+natural gas market.
+
+     Under the National Environmental Policy Act ("NEPA"), 
+FERC is required to evaluate the environmental impact of 
+each proposed project and issue an Environmental Impact 
+Statement ("EIS").  See 42 U.S.C. s 4332 (1994).  The EIS 
+must provide "a detailed statement ... on ... alternatives to 
+the proposed action" and their environmental consequences.  
+Id. s 4332(C)(iii).  As the Supreme Court has observed, 
+however,
+
+     it is now well settled that NEPA itself does not mandate 
+     particular results, but simply prescribes the necessary 
+     process.  If the adverse environmental effects of the 
+     proposed action are adequately identified and evaluated, 
+     the agency is not constrained by NEPA from deciding 
+     that other values outweigh the environmental costs.
+     
+Robertson v. Methow Valley Citizens Council, 490 U.S. 332, 
+350 (1989) (citations omitted).  All that is required is that the 
+agency "identify the reasonable alternatives to the contem-
+plated action" and "look hard at the environmental effects of 
+[its] decision[ ]." Corridor H Alternatives, Inc. v. Slater, 166 
+F.3d 368, 374 (D.C. Cir. 1999) (internal quotation marks and 
+citation omitted).
+
+     FERC concedes the environmental superiority of the 
+Alabama-Tennessee Alternative, but it has given both the 
+environmental issues and the alternatives to the North Ala-
+bama Pipeline Project careful consideration.  See Certificate 
+Order, 79 FERC at 62,202-05.  Having taken the required 
+"hard look," the Commission concluded that other values 
+outweighed what the FEIS described as the project's limited 
+
+but nonetheless acceptable environmental costs if specified 
+mitigation measures were taken.  It then conditioned the 
+certificate on Southern's compliance with those measures.  
+This strikes us as responsible agency decision making.
+
+     Nor can we fault the Commission's rejection of Midcoast's 
+claims of economic superiority for its own alternatives, given 
+the Cities' decisions to enter into long-term contracts with 
+Southern.  We have "consistently required the Commission to 
+give weight to the contracts and settlements of the parties 
+before it," provided that its authorization of a proposed 
+service represents the agency's "independent judgment [that] 
+the new service 'is or will be required by the present or 
+future public convenience and necessity.' "  Tejas Power 
+Corp. v. FERC, 908 F.2d 998, 1003 (D.C. Cir. 1990) (quoting 
+NGA s 7(e), 15 U.S.C. s 717f(e)).  FERC made such a 
+determination here.  In its Certificate Order, it considered 
+Southern's ability to provide the desired service, its own 
+policy of introducing pipeline competition to a market where 
+none had previously existed, the Cities' expressed desire to 
+have an alternate source of natural gas, and the benefits that 
+Southern's proposed pipeline would offer the Cities in terms 
+of increased delivery pressure, better service, and the elimi-
+nation of scheduling complexities.  Certificate Order, 79 
+FERC at 62,208-10.
+
+     FERC was entitled to take competition into consideration 
+in determining whether to approve Southern's certificate 
+application.  The agency had developed a long-standing policy 
+of favoring competition in natural gas markets, and it had 
+"identified the benefits that it believed competition through-
+out that market would afford consumers, and adopted 
+industry-transforming rules aimed at securing them."  See, 
+e.g., Kansas Power and Light Co. v. FERC, 891 F.2d 939, 942 
+(D.C. Cir. 1989).  FERC was entitled to rely on the general 
+economic theory that the introduction of competition to the 
+market will benefit consumers.  See Associated Gas Distribs. 
+v. FERC, 824 F.2d 981, 1008-09 (D.C. Cir. 1987) ("Agencies 
+do not need to conduct experiments in order to rely on ... 
+predictions that competition will normally lead to lower 
+prices.").
+
+     Although the Commission has since adopted a new pricing 
+policy that constitutes a distinct departure from its previous 
+approach in situations comparable to the one now before us, 
+that fact is irrelevant to the question of whether it acted 
+arbitrarily or capriciously at the time it issued the orders now 
+being challenged.  We are not impressed by Midcoast's argu-
+ments that the economic advantages of its alternatives were 
+so self-evident at the time FERC issued the certificate to 
+Southern that its reliance on its existing policy was unreason-
+able.  Nor are we impressed by Midcoast's charge that the 
+Commission has effectively substituted one monopoly for 
+another.  The ability of the Cities to contract with Southern 
+on a long-term basis for the shipment of their natural gas 
+reflects the fact that, for the first time, they had a choice of 
+providers.  Their choice of one pipeline over another does not 
+evidence a lack of competition.  To the contrary, "[u]nsuc-
+cessful bidders are no less competitors than the successful 
+one.  The presence of two or more suppliers gives buyers a 
+choice."  United States v. El Paso Natural Gas Co., 376 U.S. 
+651, 661 (1964).
+
+C.   Rolled-In Rate Presumption
+
+     1.   Jurisdiction
+          
+     The Commission argues that we should dismiss the peti-
+tions for review of the rolled-in pricing determination for two 
+reasons.  It asserts, first, that the parties are not aggrieved 
+by the order, as required by section 19(b) of the NGA as a 
+precondition to seeking judicial review, 15 U.S.C. s 717r(b) 
+("Any party ... aggrieved by an order of the Commission ... 
+may obtain a review of such order in [a U.S.] court of 
+appeals"),  and second, that the issue is not ripe for review.
+
+     While FERC's statement of the law is correct, it ignores 
+the fact that its rolled-in pricing determination can have 
+consequences more immediate than the establishment of a 
+presumption for a future rate proceeding.  Midcoast con-
+tends, in effect, that but for that determination, it would not 
+be faced with the loss of the Cities' business upon the 
+completion of the North Alabama Pipeline.  If that claim 
+survives analysis, there can be no question that Midcoast has 
+
+suffered a certain, concrete injury that satisfies both the 
+statutory and constitutional requirements for judicial review.
+
+     Whether Midcoast is aggrieved is a question of fact;  and 
+where they are in dispute, a court must assume the correct-
+ness of the challenging party's version of the facts.  See City 
+of New Orleans, LA v. FERC, 67 F.3d 947, 952 (D.C. Cir. 
+1995).  Furthermore, in determining whether an injury ex-
+ists, a court may go beyond the reasons advanced by the 
+challenger in support of its standing.  See American Truck-
+ing Ass'ns, Inc. v. United States Dep't of Transp., 166 F.3d 
+374, 385 (D.C. Cir. 1999) (inferring an argument in support of 
+standing);  see also United States Int'l Trade Comm'n v. 
+Tenneco West, 822 F.2d 73, 75 (D.C. Cir. 1987) (finding 
+standing for reason other than those offered by Commission).
+
+     Midcoast's response to FERC's aggrievement argument 
+reflects more astonishment than coherence.  Nevertheless, in 
+its briefs and in the administrative proceedings, Midcoast has 
+presented facts which, if correct, fully support a finding that 
+it has been aggrieved by the pricing determination.  Midcoast 
+has calculated that if the Commission had required incremen-
+tal pricing, Southern would have to charge users of the North 
+Alabama Pipeline an incremental rate of $10.00 in addition to 
+its system-wide rate of $8.80, for a total of $18.80 per 
+decatherm per month, as compared with the $8.60 that Mid-
+coast proposed to charge.  Midcoast contends that given this 
+disparity, FERC could not have found that the North Ala-
+bama Pipeline would be a "competitive alternative" to Mid-
+coast, Certificate Order, 79 FERC at 62,208;  therefore, it 
+would not have authorized its construction.
+
+     Accepting, as we must for purposes of our analysis, the 
+accuracy of Midcoast's calculation of the incremental rate 
+Southern would be required to charge, we are satisfied that 
+Midcoast has been aggrieved.  As a direct consequence of the 
+agency's action and irrespective of the outcome of a future 
+rate proceeding, Midcoast will have lost the Cities' business 
+from the moment the North Alabama Pipeline begins deliver-
+ies of natural gas until the time that the Cities are released 
+from their obligations under the Southern contracts--whether 
+
+that be at the expiration of twenty years (as Southern con-
+tends), or at an earlier date (in the Cities' view) if FERC 
+should subsequently order the payment of other than rolled-
+in rates.
+
+     It is for this reason that we also find the issue ripe for 
+review.  FERC argues that the challenge to rolled-in pricing 
+is not ripe because the Preliminary Determination did no 
+more than establish a rebuttable presumption in Southern's 
+favor;  therefore, the matter should be deferred until it can be 
+determined whether rolled-in rates will in fact be applied.  As 
+we have pointed out, however, Midcoast's injury is based not 
+on the likelihood that such rates will be imposed in the future 
+but on the inescapable fact that, following the Southern 
+project's completion, Midcoast will lose the Cities' business 
+for an indeterminate period.  It is this that distinguishes the 
+present case from New York State Electric & Gas Corp. v. 
+FERC, 177 F.3d 1037, 1041 (D.C. Cir. 1999), in which we held 
+unripe a challenge to FERC's establishment of a presumption 
+in favor of rolled-in rates in a certificate proceeding.  That 
+case was brought not by a competitor, but by a ratepayer who 
+would continue to pay existing rates until it was determined, 
+in the course of the pipeline's next section 4 filing, whether 
+system-wide customers would be required to absorb the cost 
+of new construction through the imposition of rolled-in rates.  
+Id. at 1040.  Because Midcoast faces an imminent loss irre-
+spective of the outcome of a future rate proceeding, there can 
+be no question that the Commission's pricing determination is 
+ripe for review under the classic test established in Abbott 
+Laboratories v. Gardner, 387 U.S. 136, 149 (1967):  the legali-
+ty of the rolled-in pricing determination is fit for immediate 
+judicial decision, and the hardship faced by Midcoast is 
+indisputable.
+
+     2.   The merits
+          
+     Having found Midcoast's challenge to be properly before 
+us, we now turn to the merits of its claim.  Midcoast alleges 
+that the Commission's decision to establish a presumption of 
+rolled-in rates was erroneous for two reasons:  first, the 
+Pricing Policy is not applicable to cases, such as this, that 
+
+involve questions of fair competition;  and second, even if the 
+policy does apply to this case, Southern's project did not meet 
+the policy's criteria for rolled-in pricing.
+
+     Petitioners' first argument presents a general challenge to 
+the Commission's use of its Pricing Policy in a situation where 
+pipelines of disparate sizes are competing to serve a particu-
+lar market.  Midcoast maintains that, in such instances, appli-
+cation of the policy will distort market realities because large 
+pipeline systems, such as Southern's, can readily absorb the 
+rolled-in cost of new projects without experiencing a rise in 
+system-wide rates that will exceed the policy's five percent 
+limit.  As a result, the cost of the expansion facilities is 
+subsidized by the larger pipeline's existing system-wide cus-
+tomers to the detriment of the smaller competitor.  Midcoast 
+argues that to apply the Pricing Policy in a manner that 
+favors one pipeline over another makes a mockery of FERC's 
+contention that its certificate order serves the interest of 
+competition.
+
+     While it is true that the Commission emphasized the desir-
+ability of providing the Cities with a choice between pipelines, 
+Midcoast's argument ignores the independent purpose of the 
+Pricing Policy, which was to "provide parties with greater 
+certainty about the rate design that will be applied" to new 
+pipelines, thereby allowing them to make better decisions as 
+to such matters as the amount of capacity to develop.  Pricing 
+Policy, 71 FERC at 61,915.  The Commission, and all those 
+who offered comments during the development of the Pricing 
+Policy, felt that such certainty was needed to encourage 
+efficient growth in the natural gas industry as a whole 
+following the Commission's restructuring of the industry to 
+convert pipelines into common carriers.  Id. at 61,914-15 
+(discussing orders providing for open-access transportation 
+service and unbundling the sale of gas from related transpor-
+tation service).  In deciding to encourage efficient pipeline 
+expansion by offering greater rate certainty at the outset in 
+circumstances that could affect the balance of market forces, 
+FERC exercised the kind of judgment on matters of policy 
+that Congress has entrusted to it.  As the Supreme Court has 
+reminded us, "[t]he scope of review under the 'arbitrary and 
+
+capricious' standard is narrow and a court is not to substitute 
+its judgment for that of the agency."  Motor Vehicle Mfrs. 
+Ass'n, 463 U.S. at 43.  Because the Commission fully ad-
+dressed Midcoast's argument, we cannot fault its decision to 
+apply its policy to the facts of this case.
+
+     We now address Midcoast's contention that FERC misap-
+plied the Pricing Policy.  In reaching a pricing decision, the 
+Commission will evaluate two factors:  "the system-wide bene-
+fits of the project and the rate impact on existing customers."  
+Pricing Policy, 71 FERC at 61,915.  In assessing the first of 
+these, the Commission will "look to the extent to which the 
+new facilities are integrated with the existing facilities and to 
+the specific system benefits conferred by the project."  Id. at 
+61,915-16.  If the proposed facilities are sufficiently integrat-
+ed and the impact on existing customers is an increase of five 
+percent or less, the Commission will generally apply the 
+presumption in favor of rolled-in rates.  Id. at 61,916.
+
+     The "question of how to allocate costs among a pipeline's 
+customers is a difficult issue of fact, and one on which the 
+Commission enjoys broad discretion."  Algonquin Gas Trans-
+mission Co. v. FERC, 948 F.2d 1305, 1313 (D.C. Cir. 1991) 
+(internal quotation marks and citation omitted).  As always, 
+its conclusions must be supported by substantial evidence;  
+and when FERC determines that rolled-in pricing is warrant-
+ed, it must "outline[ ] with reasonable particularity the sys-
+tem-wide benefits which each new facility produces."  Id. 
+(discussing standard of review of Commission's decision in 
+rate case).
+
+     In addition to finding that the system would realize a long-
+term economic benefit of $25 million, the Commission identi-
+fied four operational benefits that the Southern project would 
+provide existing customers:  enhancement of system reliabili-
+ty, increase in the availability of interruptible transportation 
+service, the availability of new opportunities for marketers 
+and shippers, and the provision of firm service for increased 
+shipments to the Cities by two Southern system shippers.  
+Preliminary Determination, 76 FERC at 61,638.  These bene-
+fits are comparable to the examples cited in the Pricing Policy 
+
+as justifying rolled-in rates, Pricing Policy, 71 FERC at 
+61,916 ("increased access, reliability, flexibility, or new ser-
+vices");  and FERC has presented sufficient evidence to sup-
+port its conclusion that these benefits satisfy the first prong 
+of its two-factor test.
+
+     In addressing the second, "five percent" prong, the Com-
+mission provided a detailed explanation of how it determined 
+that rolling in the project's construction costs would result in 
+a rate increase of only 1.8 percent.  See Southern Natural 
+Gas Co., 85 FERC p 61,134, 61,526 (1998) ("Order Amending 
+Certificate").  Although the cost of the project has reportedly 
+increased from $66.6 million at the time the Commission 
+made its computation to $103.5 million, this cost overrun 
+would result in a rate increase of only 2.8 percent, well within 
+the limits of the Pricing Policy.  In its Preliminary Determi-
+nation, the Commission described in detail why it chose a 
+particular depreciation rate and rate of return, why it includ-
+ed or did not include certain portions of Southern's claimed 
+contract demand, and how it calculated the return Southern 
+would receive from the new facility over time.  Preliminary 
+Determination, 76 FERC at 61,637-38.  Furthermore, the 
+Commission did not blindly accept the numbers provided by 
+Southern, finding, for example, that the long-term system 
+benefit would be some $10 million less than the figure submit-
+ted by the pipeline.  Id. at 61,638.  Finally, the Commission 
+specifically addressed the issues Midcoast raised in subse-
+quent motions to reconsider and again explained in some 
+detail how and why it arrived at its conclusions.  See, e.g., 
+Certificate Order, 79 FERC at 62,214-15.
+
+     Midcoast repeatedly argued that Southern's proposed pipe-
+line was "a downstream lateral for the benefit of one or only a 
+small number of customers" (quoting the Pricing Policy, 71 
+FERC at 61,917) and, therefore, should not receive rolled-in 
+pricing under the Pricing Policy.  The Commission failed to 
+address this argument in any meaningful way.  Instead, it 
+dismissed the issue with the following comment:
+
+     [Midcoast's] assertion that the proposed project is a 
+     lateral and thus does not qualify for rolled-in treatment 
+     
+     under the policy statement is without merit.  As South-
+     ern notes, its system generally consists of two parallel 
+     mainlines with 15 mainline extensions totaling nearly 
+     1350 miles and serving 66 firm shippers at 196 delivery 
+     points.  The proposed facilities are similar to Southern's 
+     other mainline extensions that have been granted rolled-
+     in rate treatment.
+     
+Preliminary Determination, 76 FERC at 61,638-39.  In re-
+sponding to Midcoast's argument in later petitions for rehear-
+ing, the Commission simply referred back to this conclusory 
+"determination" that the proposal was a mainline extension 
+rather than a lateral.  See, e.g., Order Amending Certificate, 
+85 FERC at 61,526;  Southern Natural Gas Co., 86 FERC 
+p 61,129, 61,437 (1999).
+
+     As unsatisfactory as these responses are, we will not re-
+mand the issue for further explanation because the reason 
+that downstream laterals built for the sole benefit of a few 
+customers do not qualify for rolled-in pricing is that they 
+cannot meet the first criterion set forth in the Pricing Policy:  
+they do not provide system-wide benefits.  This is made clear 
+in the balance of the sentence quoted by Midcoast:  in such 
+cases, "the Commission generally will presume that the pro-
+ject should be priced incrementally, because other shippers 
+will not share in the benefits."  Pricing Policy, 71 FERC at 
+61,917 (emphasis added).
+
+     Furthermore, the Commission explained that it
+
+     did not rely on th[e] fact [that the proposed facilities are 
+     similar to Southern's other mainline expansions] to ap-
+     prove Southern's rolled-in rate proposal....  [T]he Com-
+     mission based its approval of rolled-in rate treatment on 
+     its determination that the proposal met the pricing poli-
+     cy's two pronged test....  
+     
+Southern Natural Gas Co., 86 FERC at 61,438.  Because the 
+agency's findings of system-wide benefits and a minimal rate 
+impact are supported by substantial evidence, we reject this 
+challenge to its rolled-in pricing determination.
+
+D.   The Decision to Deny Midcoast's Petitions
+
+     Midcoast argues that the Commission's dismissals of its 
+petitions to construct and operate the Alabama-Tennessee 
+and Hartselle alternatives were unreasonable and an abuse of 
+discretion.  We disagree.
+
+     The application for the Alabama-Tennessee Alternative 
+was rejected because of Midcoast's failure to hold an open 
+season, to solicit permanent capacity release offers, to allocate 
+some existing capacity in a non-discriminatory way through a 
+bidding process, and to demonstrate market support for its 
+proposal.  Order Dismissing Application, 83 FERC at 61,829-
+30.  The Hartselle Alternative application was rejected for 
+failure to file an appropriate environmental report and to 
+demonstrate market support.  Id. at 61,831.
+
+     Certain types of market data "must accompany each appli-
+cation when tendered for filing."  18 C.F.R. s 157.14(a) (1999) 
+(emphasis added).  The data to be submitted include a "[c]on-
+formed copy of each contract, letter of intent or other agree-
+ment for sale or transportation of natural gas."  Id. 
+s 157.14(a)(11)(v).  If no agreements exist, the applicant must 
+explain its "basis for assuming that contracts will be consum-
+mated and that service will be rendered under the terms 
+contemplated in the application."  Id.  Midcoast failed or was 
+unable to provide this information for either of its proposals.  
+That the latter may be the case is suggested by the state-
+ment, in the Commission's order dismissing the applications, 
+that "the shippers responding to Southern's open season 
+adamantly do not want the service from Midcoast."  Order 
+Dismissing Application, 83 FERC at 61,830.  Be that as it 
+may, in light of Midcoast's failure to comply with the regula-
+tions, FERC's dismissal of the applications is hardly surpris-
+ing and certainly not unreasonable, arbitrary, or capricious.
+
+E.   Fifth Amendment Claim
+
+     The Fifth Amendment to the United States Constitution 
+provides that private property may not be taken for public 
+use without just compensation.  U.S. Const. amend. V.  
+GASP and CONAPP argue that the promotion of competition 
+
+in natural gas markets is not a legitimate public interest 
+sufficient to justify the condemnation of the land required for 
+the pipeline's right-of-way.  Furthermore, even assuming that 
+the enhancement of competition is a permissible public inter-
+est, GASP and CONAPP claim that Southern's taking of 
+private property for its project is not constitutional because 
+competition will not actually be achieved by the Commission's 
+substitution of one natural gas pipeline monopoly for another.
+
+     Our role in reviewing the use of the condemnation power is 
+extremely narrow.
+
+     [A]s long as the condemning authorities were rational in 
+     their positions that some public purpose was served ... 
+     [t]hat suffices to satisfy the Constitution, and we need 
+     not make a specific factual determination whether the 
+     condemnation will accomplish its objectives.
+     
+National R.R. Passenger Corp. v. Boston & Maine Corp., 503 
+U.S. 407, 422-23 (1992).  Furthermore, the NGA explicitly 
+provides that
+
+          [n]othing contained in this section shall be construed 
+     as a limitation upon the power of the Commission to 
+     grant certificates of public convenience and necessity for 
+     service of an area already being served by another 
+     natural-gas company.
+     
+15 U.S.C. s 717f(g).
+
+     Once a certificate has been granted, the statute allows the 
+certificate holder to obtain needed private property by emi-
+nent domain.  Id. s 717f(h).  The Commission does not have 
+the discretion to deny a certificate holder the power of 
+eminent domain.  As we have already discussed, it was not 
+improper for FERC to consider the desirability of competi-
+tion when it decided to grant Southern's application, and its 
+action did not result in the substitution of one monopoly for 
+another.  In light of the above, and because, in issuing the 
+certificate to Southern, the Commission has explicitly de-
+clared that the North Alabama Pipeline will serve the public 
+convenience and necessity, we hold that the takings com-
+plained of served a public purpose.
+
+                         III. Conclusion
+
+     For the foregoing reasons, the petitions for review are
+
+                                                          Denied.
+
+                                    

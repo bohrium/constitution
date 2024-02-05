@@ -1,0 +1,945 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 30, 2000   Decided February 2, 2001 
+
+                           No. 99-1395
+
+                     WorldCom, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+          United States Telephone Association, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                         99-1404, 99-1472
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+     Carl S. Nadler argued the cause for petitioners and sup-
+porting intervenors.  With him on the briefs were Ian Heath 
+
+Gershengorn, Thomas F. O'Neil, III, William Single, IV, 
+Jeffrey A. Rackow, Mark C. Rosenblum, Peter H. Jacoby, 
+Judy Sello, Gene C. Schaerr, James P. Young, Brian Conboy, 
+Thomas Jones, Albert H. Kramer, Robert J. Aamoth, Charles 
+C. Hunter and Catherine M. Hannan.  Maria L. Woodbridge 
+entered an appearance.
+
+     Lisa S. Gelb, Counsel, Federal Communications Commis-
+sion, argued the cause for respondent.  With her on the brief 
+were Christopher J. Wright, General Counsel, and John E. 
+Ingle, Deputy Associate General Counsel.  Robert B. Nichol-
+son and Robert J. Wiggers, Attorneys, U.S. Department of 
+Justice, Daniel M. Armstrong, Associate General Counsel, 
+Federal Communications Commission, and Laurence N. 
+Bourne, Counsel, entered appearances.
+
+     Before:  Edwards, Chief Judge, and Sentelle and 
+Randolph, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Petitioners, WorldCom, AT&T, 
+Time Warner Telecom, and other long distance telephone 
+service providers, seek review of the FCC's Fifth Report and 
+Order and Further Notice of Proposed Rulemaking in In Re 
+Access Charge Reform, 14 F.C.C.R. 14,221 (1999) (hereinafter 
+"Order" or "Pricing Flexibility Order").  That order grants 
+local exchange carriers ("LECs") immediate pricing flexibility 
+for some interstate access services and establishes procedures 
+through which LECs may seek substantial additional relief 
+from existing price cap regulation.  Petitioners maintain that 
+the Order is arbitrary, capricious, and contrary to law in that 
+it violates the FCC's statutory mandate to ensure "just and 
+reasonable" prices for telecommunication services and pro-
+mote the public interest.  Several LECs--BellSouth, Qwest, 
+SBC Communications, and Verizon--intervene in support of 
+the FCC.
+
+     We hold that the FCC's decision to grant additional pricing 
+flexibility to incumbent LECs through a series of collocation 
+
+based triggers, deregulation of new services, and deaveraging 
+of rates was neither arbitrary and capricious nor contrary to 
+law.  The FCC made a reasonable policy determination that 
+collocation was a sufficient proxy for market power in deter-
+mining whether to grant pricing flexibility to LECs and 
+sufficiently explained the basis for its decision to grant imme-
+diate pricing flexibility for some services.  For these reasons, 
+we uphold the FCC's order and deny the petitions for review.
+
+                          I. Background
+
+A.   Legal and Regulatory Context
+
+     In recent years, the FCC has sought to facilitate greater 
+competition in the provision of both long-distance and local 
+telephone service.  See, e.g., AT&T v. FCC, 220 F.3d 607 
+(D.C. Cir. 2000);  Bell Atl. Tel. Cos. v. FCC, 79 F.3d 1195 
+(D.C. Cir. 1996);  Nat'l Rural Telecom Ass'n v. FCC, 988 F.2d 
+174 (D.C. Cir. 1993).  Competition for telephone services, 
+where it exists, serves the FCC's statutory goal of ensuring 
+fair and reasonable prices for telecommunications services.  
+Therefore, as telephone markets become more competitive, 
+the FCC has lessened regulatory control over those markets, 
+including the market for interstate access services.  It is 
+within this evolving regulatory context that this case arises.
+
+     1.   Interstate Access Services
+          
+     Local telephone service is provided by local exchange carri-
+ers.  47 U.S.C. s 153(26).  Typically, one LEC is the domi-
+nant, or "incumbent," service provider in each local area.  
+Until relatively recently, the incumbent LECs had virtual 
+monopolies over the provision of local phone service in their 
+territories.
+
+     Long distance service--that is, service between local access 
+and transport areas ("LATAs") or "InterLATA" service--is, 
+for the most part, provided by interexchange carriers 
+("IXCs"), such as petitioners WorldCom and AT&T.  Long 
+distance providers are reliant upon LECs to reach their 
+customers.  When a customer makes a long distance call, the 
+IXC must have "access" to the local networks at both the 
+
+originating and receiving end of the call in order to complete 
+the connection.  Generally, the LEC connects the call from 
+the caller to a switch or "end office," which is in turn 
+connected to a "serving wire center" (SWC), which is itself 
+connected to an interconnection point, or "point of presence" 
+(POP), with the long distance carrier.  This same series of 
+connections will also be made at the receiving end of the 
+phone call--from POP to SWC to switch to call recipient.  
+LECs charge the IXCs for providing this "access service" in 
+accordance with 47 C.F.R. Part 69.  IXCs then bill customers 
+directly for long distance calls.
+
+     There are two types of access service:  "switched access" 
+and "special access."  Switched access service requires the 
+creation of a connection between the caller and the long 
+distance company on a "call-by-call" basis.  This entails (1) a 
+connection between the caller and a local LEC switch, (2) a 
+connection from the LEC switch to the SWC ("interoffice 
+transport"), and (3) an entrance facility which connects the 
+SWC and the long distance company's POP.  Switched access 
+can either be dedicated to a particular IXC ("dedicated 
+transport" or "direct trunked transport") or shared among 
+IXCs.  "Special access" service, on the other hand, uses 
+dedicated lines between the customer and the IXC's local 
+POP.  Switched access is used by most residential customers.  
+Most users of special access services are companies with high 
+call volumes.
+
+     For quite some time incumbent LECs dominated access 
+service markets.  In recent years, however, other companies 
+have begun to enter these markets.  Market entrants typical-
+ly provide a portion of full access service, such as from the 
+IXC POP to the SWC, in any given market.  This develop-
+ment was facilitated by changes in FCC regulations.  Begin-
+ning in 1992, the FCC required incumbent LECs to permit 
+competitors to "collocate" their equipment at LEC wire cen-
+ters and connect directly to the LEC networks as a means of 
+spurring additional competition in access service.  See Ex-
+panded Interconnection with Local Tel. Co. Facilities, 7 
+F.C.C.R. 7369, p P1-3, 39, reconsidered 8 F.C.C.R. 127 (1992), 
+vacated in part and remanded in part, Bell Atl. Tel. Cos. v. 
+
+FCC, 24 F.3d 1441 (D.C. Cir. 1994).  Now, the FCC believes, 
+there may be sufficient competition for access services to 
+justify deregulatory measures.
+
+     2.   Regulatory Framework
+          
+     For years the FCC imposed traditional rate of return 
+regulation on the LECs.  Beginning in 1990, however, the 
+FCC substituted "price cap" regulation for the largest LECs.  
+See Nat'l Rural Telecom Ass'n, 988 F.2d at 178-79.  Price 
+cap regulation imposes a "cap" on aggregate prices charged 
+by LECs for certain services in a given area.  See 47 C.F.R. 
+ss 61.41-.49.  For the purposes of setting the caps, services 
+are grouped in various "baskets."  See 47 C.F.R. s 61.42(d).  
+These are the common line basket, traffic-sensitive basket, 
+trunking basket, and special access basket, the latter two of 
+which are at issue in this case.  LECs are also required to 
+charge averaged (i.e., uniform) rates in given service areas, 
+absent substantial cost differentials.  See 47 C.F.R. 
+s 69.3(e)(7).  This averaging requirement is designed to pre-
+vent price discrimination by LECs.
+
+     Price cap regulation offers more pricing flexibility than rate 
+of return regulation, as companies are relatively free to set 
+their own prices so long as they remain below the cap.  A 
+company can raise the price for one service so long as that 
+increase is offset by a price decrease in another.  Prices that 
+are below upper price "bands" for a given service are also 
+presumed lawful and given streamlined review by the FCC.  
+See Bell Atl. Tel. Cos., 79 F.3d at 1198.  The FCC implement-
+ed price cap regulation for LECs as "a transitional regulatory 
+scheme until actual competition makes price cap regulation 
+unnecessary."  Order p 11.
+
+     Price cap regulation is supplemented by tariff requirements 
+for "dominant carriers" (including all regional Bell Operating 
+Companies in their local service areas), under which compa-
+nies are required to publish rate changes before they are 
+implemented.  47 U.S.C. s 203(a), s 204(a).  Tariffs must be 
+filed fifteen days in advance of price increases and seven days 
+in advance of price decreases.  47 U.S.C. s 204(a)(3).  This 
+allows both the FCC and affected customers to review and 
+
+challenge price changes by LECs.  The tariff requirement is 
+waived for those carriers that are deemed non-dominant 
+because they face substantial competition from other firms.
+
+     3.   The 1996 Act
+          
+     In 1996, Congress enacted the Telecommunications Act of 
+1996 to "promote competition and reduce regulation in order 
+to secure lower prices and higher quality services for Ameri-
+can telecommunications consumers and encourage the rapid 
+deployment of new telecommunications technologies."  Pub. 
+L. No. 104-104, 110 Stat. 56, 56 (Introductory Statement).  
+The 1996 Act requires incumbent LECs to grant competitors 
+(such as the IXCs) greater access to their local networks 
+through collocation of facilities, the purchase and resale of 
+"unbundled network elements" and services, and mandated 
+interconnection.  47 U.S.C. s 251(c)(2)-(4).  In response to 
+the 1996 Act, the FCC has sought to move toward greater 
+competition for, and less regulation of, telecommunications 
+services.
+
+B.   The FCC's Pricing Flexibility Order
+
+     On August 5 1999, the FCC adopted the Fifth Report and 
+Order and Further Notice of Proposed Rulemaking in In Re 
+Access Charge Reform, 14 F.C.C.R. 14,221 (1999).  In accor-
+dance with the stated goals of the 1996 Act, the Order 
+granted immediate pricing flexibility for some services and 
+set competition thresholds to trigger additional relaxation of 
+regulatory controls. According to the FCC, the Order was the 
+"logical next step in the Commission's ongoing effort to 
+coordinate reduced regulation with competitive develop-
+ments."  Brief for Federal Communications Commission at 9.
+
+     1.   Immediate Pricing Flexibility
+          
+     The Order provides immediate pricing flexibility for LECs 
+in three important respects:  (1) LECs may introduce "new 
+services" subject to a streamlined approval process;  (2) 
+LECs may offer deaveraged rates for services in the trunking 
+basket;  and (3) interstate interLATA and intraLATA toll 
+services are removed from price cap regulation.  Order 
+
+p p 34-66.  Petitioners challenge the first and second changes 
+as unlawful.
+
+     New services are those services that, by definition, "ex-
+pand[ ] the range of service options available to consumers."  
+Id. p 37.  Previously, an LEC needed a waiver to offer a new 
+switched access service that did not fit into the preexisting 
+rate structure.  The LEC was required to demonstrate that 
+such a waiver was in the "public interest."  Finding that 
+existing "new service rules impede the introduction of new 
+services," id. p 37, the FCC Order eliminates the required 
+"public interest" showing and allows LECs to file tariffs for 
+new services with only one-day's notice.  LECs are still 
+prohibited from offering "new services outside of price cap 
+regulation."  Id. p 43.
+
+     Under the FCC's regulations, price cap LECs are general-
+ly required to geographically average charges for access 
+elements across a given "study area" (typically a state or 
+region).  47 C.F.R. s 69.3(e)(7).  Deaveraging--the disaggre-
+gation of charges for specific service access elements--was 
+only allowed in up to three zones per LEC and only subject to 
+certain conditions, such as intensity of use.  Under the new 
+rules, LECs may define up to seven zones subject to the 
+requirements that (1) each zone other than the highest price 
+zone accounts for at least fifteen percent of the LEC's 
+trunking basket revenues in the study area, and (2) annual 
+price increases in a zone cannot exceed fifteen percent.  
+Order p 62.  According to the FCC, this new flexibility "en-
+hances the efficiency of the market for those services by 
+allowing prices to be tailored more easily and accurately to 
+reflect costs and, therefore, promotes competition."  Id. p 59.
+
+     The Pricing Flexibility Order also removes interLATA and 
+intraLATA toll services from price cap regulation upon an 
+LEC's implementation of toll dialing parity.  See id. p 45.  
+Toll service is "telephone service between stations in different 
+exchange areas for which there is made a separate charge not 
+included in contracts with subscribers for exchange service."  
+47 U.S.C. s 153(48).  When an LEC provides toll dialing 
+parity, it permits its local service customers within a given 
+
+calling area "to make a local telephone call notwithstanding 
+the identity of the customer's or the called party's telecommu-
+nications service provider."  47 C.F.R. s 51.207.  LECs are 
+required to implement toll dialing parity throughout their 
+service areas.  See 47 C.F.R. ss 51.205, .209, .211, .213.  
+Upon meeting this requirement for all interLATA and intra-
+LATA toll services, an LEC's provision of these services is 
+removed from price cap regulation.  This portion of the 
+Pricing Flexibility Order is not challenged in this case.
+
+     2.   Future Pricing Flexibility
+          
+     The FCC order also provides for additional pricing flexibili-
+ty once an LEC shows that certain competitive thresholds 
+("triggers") have been met in a given metropolitan statistical 
+area (MSA).  According to the FCC, this step is merely the 
+latest effort to "allow incumbent LECs progressively greater 
+pricing flexibility as they face increasing competition."  Order 
+p 67.  The triggers measure market competition based upon 
+investments in infrastructure by potential competitors.  The 
+FCC's stated aim is to balance the benefit of further deregu-
+lation with the potential risk of exclusionary behavior or 
+increased prices for consumers.  See id. p 69 (noting that the 
+relief "if granted prematurely, might enable price cap LECs 
+to (1) exclude new entrants from their markets, or (2) in-
+crease rates to unreasonable levels").  Therefore, the more 
+relief sought, the higher the trigger is set--that is, a greater 
+level of investment by competitors is required.
+
+     The relief comes in two phases.  In Phase I, LECs may 
+offer contract tariffs and volume and term discounts, while 
+remaining subject to some price cap rules and tariff require-
+ments.  In addition, for LECs subject to Phase I relief, new 
+tariffs only require one day advance notice as opposed to 
+seven or fourteen days notice under current rules.  Phase I 
+relief is available upon a showing "that competitors have 
+made irreversible investments in the facilities needed to 
+provide the services at issue, thus discouraging incumbent 
+LECs from successfully pursuing exclusionary strategies."  
+Id. p 69.  Phase I relief is potentially available for dedicated 
+transport (entrance facilities, direct-trunked transport), chan-
+
+nel terminations, and common line and traffic-sensitive ser-
+vices.
+
+     In order to obtain Phase I relief for dedicated transport 
+services an incumbent LEC must show collocation in fifteen 
+percent of wire centers within the MSA in which relief is 
+sought, or in wire centers accounting for at least thirty 
+percent of revenues for services in question.  Id. p 93.  In 
+addition, at least one competitor must rely on transport 
+facilities provided by a non-incumbent LEC in each wire 
+center relied on in the applicant LEC's petition.  Phase I 
+relief is available for channel terminations upon a showing of 
+collocation in fifty percent of wire centers within the MSA in 
+which relief is sought or in wire centers accounting for at 
+least sixty-five percent of revenues for services in question.  
+Id. p p 105-06.  The trigger for common line and traffic-
+sensitive services is that a competitor must offer service to 
+fifteen percent of incumbent LEC's customer locations using 
+its own transport and switching facilities.  Id. p 120.
+
+     In each case Phase I relief is subject to several conditions 
+to prevent price discrimination or other potentially predatory 
+behavior.  Under Phase I, contract tariff rates must be 
+available to all similarly situated customers, and volume 
+discounts must be available to all similarly situated customers 
+willing to make equivalent term commitments.  Id. p p 124, 
+130.  Incumbent LECs must continue to offer services pursu-
+ant to price caps as well.  Id. p 24.  Finally, LECs remain 
+subject to FCC enforcement actions for anticompetitive be-
+havior.  See, e.g., id. p p 127, 131;  47 U.S.C. s 208.
+
+     In Phase II, LECs are given greater freedom to raise and 
+lower rates outside of price cap regulation.  Phase II relief is 
+available for the same services and may be sought once 
+"competitors have established a significant market presence 
+in the provision of the services at issue."  Order p 69.  Phase 
+II relief allows LECs to offer services outside of price cap 
+regulation, though LECs must still file generally available 
+tariffs and remain subject to FCC enforcement actions for 
+anticompetitive behavior.
+
+     In order to obtain Phase II relief for dedicated transport 
+services an incumbent LEC must show collocation in fifty 
+percent of wire centers within the MSA in which relief is 
+sought or in wire centers accounting for at least sixty-five 
+percent of revenues for services in question.  Id. p p 148-49.  
+In addition, as with Phase I relief, at least one competitor 
+must rely on transport facilities provided by non-incumbent 
+LECs in each wire center relied on in the applicant LEC's 
+petition.  Id. p 82.  Phase II relief is available for channel 
+terminations upon a showing of collocation in sixty-five per-
+cent of wire centers within the MSA in which relief is sought 
+or in wire centers accounting for at least eighty-five percent 
+of revenues for services in question.  Id. p 150.  The FCC has 
+not yet set a collocation trigger for common line and traffic-
+sensitive services Phase II relief.
+
+     As with Phase I relief, LECs must file tariffs and remain 
+subject to FCC enforcement actions for anticompetitive be-
+havior under the relevant statutory provisions.  Id. p 151.  
+The FCC acknowledged that its rule may allow Phase II 
+relief before the manifestation of actual competitive alterna-
+tives for interstate access service customers but that "the 
+costs of delaying regulatory relief outweigh the potential 
+costs of granting it before IXCs have a competitive alterna-
+tive for each and every end user."  Id. p 144.
+
+     Both Phase I and Phase II relief are available on an MSA-
+wide basis.  This is because, according to the FCC, "MSAs 
+best reflect the scope of competitive entry, and therefore are 
+a logical basis for measuring the extent of competition."  Id. 
+p 72.  Relief is not available on a rural service area basis.  
+Rather relief is available for the "non-MSA parts of a study 
+area"--typically one or more rural service areas--if the trig-
+gers are satisfied for the entire area.  Id. p 76.  The FCC 
+acknowledges the "theoretical possibility" that granting relief 
+on an MSA-wide basis could enable LECs to engage in 
+predatory behavior.  Id. p 83.  However, the Commission 
+concluded "the costs, particularly the administrative costs, of 
+granting pricing flexibility on a wire center-by-wire center 
+basis outweigh the benefits of protecting against such theo-
+retical harms."  Id.  The Commission declined to provide 
+
+relief on a LATA basis, as in some states the relevant LATA 
+encompasses the entire states.  Id. p 73.
+
+     The triggers relied upon by the FCC are largely based 
+upon collocation by competitors at LEC facilities.  The FCC 
+adopted this trigger for two reasons.  First, the FCC con-
+cluded that collocation is a reasonable proxy for competitive 
+conditions in a given MSA.  Id. p 78.  Specifically, the FCC 
+found that "collocation by competitors in incumbent LEC 
+wire centers is a reliable indication of sunk investment by 
+competitors."  Id. p 81.  Sufficient sunk investment of this 
+sort, in the FCC's view, will discourage "exclusionary pricing 
+behavior."  Id. p 78.  In addition, the FCC determined that 
+the collocation level is "an easily verifiable, bright-line test" 
+that serves "to avoid excessive administrative burdens."  Id.  
+In this sense, the trigger balances the FCC's desire for an 
+accurate measure of actual competitive conditions in a given 
+MSA, while also establishing a clear administrative standard.
+
+     The FCC acknowledged that adopting specific thresholds, 
+like utility ratemaking, "is not an exact science."  Id. p 96;  
+accord United States v. FCC, 707 F.2d 610, 618 (D.C. Cir. 
+1983).  "Rather, the thresholds are policy determinations 
+based on our agency expertise, our interpretation of the 
+record before us in this proceeding, and our desire to provide 
+a bright-line rule to guide the industry."  Id. p 96 (footnote 
+omitted).  Moreover, the FCC claimed its "effort to select 
+triggers that precisely measure competition for particular 
+services also is hampered by the lack of verifiable data 
+concerning competitors' revenues and facilities."  Id.
+
+     To set the proper trigger thresholds the FCC examined a 
+few local markets to assess the extent of market penetration 
+that correlates with a given level of collocation investment, 
+and scaled the various triggers to correlate with the level of 
+relief sought.  Thus, the Phase II triggers are higher than 
+those for Phase I, and different services have different trig-
+ger levels depending upon the FCC's estimation of the threat 
+of predatory or anticompetitive conduct.  Thus, the amount of 
+collocation required to obtain Phase I relief for channel 
+terminations is higher than for dedicated transport services.
+
+                           II. Analysis
+
+A.   Collocation Thresholds for Pricing Flexibility
+
+     Petitioners challenge the FCC's decision to offer LECs 
+relief from price cap regulation based upon a showing that 
+one or more competitors have made substantial local invest-
+ments in collocation.  Petitioners contend that this decision 
+was arbitrary and capricious and contrary to law because the 
+FCC failed to condition this relief upon a finding of competi-
+tion sufficient to protect consumers from anticompetitive con-
+duct.  Collocation, petitioners contend, is a poor proxy for 
+actual competition in the provision of interstate access ser-
+vices.  As a result, petitioners claim that the Order violates 
+the Commission's statutory duty to ensure that prices are 
+"nondiscriminatory, 'just,' and 'reasonable.' "
+
+     Petitioners specifically challenge three aspects of the 
+FCC's new pricing flexibility framework:  (1) basing the trig-
+gers for pricing flexibility on collocation rather than an 
+analysis of actual competitive conditions;  (2) granting pricing 
+flexibility on an MSA-wide basis based on collocation in only a 
+portion of the MSA;  and (3) selecting specific triggers in an 
+arbitrary fashion and without sufficient explanation.  In as-
+sessing these claims, we consider whether the FCC's actions 
+are "arbitrary, capricious, an abuse of discretion, or otherwise 
+not in accordance with law."  5 U.S.C. s 706(2)(A).  This is a 
+"deferential standard" that "presume[s] the validity of agency 
+action."  Southwestern Bell Tel. Co. v. FCC, 168 F.3d 1344, 
+1352 (D.C. Cir. 1999);  accord Jersey Shore Broad. Corp. v. 
+FCC, 37 F.3d 1531, 1537 (D.C. Cir. 1994).  Like agency 
+ratemaking, price cap regulation of local carriers "involves 
+policy determinations in which the agency is acknowledged to 
+have expertise."  Time Warner Entm't Co. v. FCC, 56 F.3d 
+151, 163 (D.C. Cir. 1995) (per curiam) (internal quotation 
+omitted).  Therefore, it is not our role to second guess the 
+FCC's policy judgment, so long as it comports with estab-
+lished standards of administrative practice.  "The FCC's 
+judgment about the best regulatory tools to employ in a 
+particular situation is ... entitled to considerable deference 
+
+from the generalist judiciary."  Western Union Int'l, Inc. v. 
+FCC, 804 F.2d 1280, 1292 (D.C. Cir. 1986).
+
+     1.   Collocation
+          
+     Under the Pricing Flexibility Order, LECs are eligible for 
+regulatory relief upon a showing that there is sufficient 
+collocation by one or more competitors.  In this fashion, the 
+FCC uses investment in collocation as a proxy for competition 
+in access service.  Petitioners contend that this is arbitrary 
+and capricious because collocation is not a sufficient measure 
+of actual market competition.  Therefore, petitioners argue, 
+the FCC can offer no assurance that LECs will continue to 
+offer "just" and "reasonable" rates once they are granted 
+pricing flexibility.  To petitioners, the regulatory relief pro-
+vided for by the FCC's Order is tantamount to foregoing 
+dominant carrier regulation altogether, and can only be justi-
+fied upon a finding of actual competition.
+
+     It may well be that collocation is a poor measure of market 
+share, as petitioners attest.  That competing firms have 
+invested in collocation does not mean that they have captured 
+a significant portion of the market for access services.  Yet 
+the FCC did not conclude that a loss of market share was 
+necessary to prevent an incumbent LEC from raising prices.  
+The FCC has long held that market share is not the be-all, 
+end-all of competition.  See AT&T Corp. v. FCC, No. 99-1535, 
+slip op. at 13 (D.C. Cir. Jan. 23, 2001) ("the FCC has never 
+viewed market share as an essential factor" in evaluating 
+market competition) (emphasis in original).  It is merely one 
+of several relevant factors considered when making a market 
+power determination.  For example, in Motion of AT&T 
+Corp. to Be Declared Non-Dominant for International Ser-
+vice, 11 F.C.C.R. 17,963, 17,976 p 34 (1996), the FCC wrote 
+that
+
+     market shares, by themselves, are not the sole determin-
+     ing factor of whether a firm possesses market power.  
+     Other factors, such as demand and supply elasticities, 
+     conditions of entry and other market conditions must be 
+     examined to define a relevant market, and determine 
+     whether a particular firm can exercise market power in 
+     the relevant market.
+     
+The FCC is free to change this policy so long as it provides 
+an adequate explanation for the shift, AT&T, slip op. at 13-
+14, but it has not done so.
+
+     As the FCC noted in its Order, the presence of substantial 
+sunk investment, and the resulting potential for entry into the 
+market, can limit anticompetitive behavior by LECs.  Specifi-
+cally, the FCC found that:
+
+     Once multiple rivals have entered the market and cannot 
+     be driven out, rules to prevent exclusionary pricing be-
+     havior are no longer necessary.  Investment in facilities, 
+     particularly those that cannot be used for another pur-
+     pose, is an important indicator of such irreversible entry.  
+     If a competitive LEC has made a substantial sunk invest-
+     ment in equipment, that equipment remains available and 
+     capable of providing service in competition with the 
+     incumbent, even if the incumbent succeeds in driving that 
+     competitor from the market.
+     
+Order p 80.  Even if a rival LEC is unsuccessful at challeng-
+ing an incumbent, "the presence of facilities-based competi-
+tion with significant sunk investment makes exclusionary 
+pricing behavior costly and highly unlikely to succeed."  Id. 
+Collocation, in the FCC's expert view, "is a reliable indication 
+of sunk investment by competitors."  Id. p 81.  Therefore, 
+collocation can reasonably serve as a measure of competition 
+in a given market and predictor of competitive constraints 
+upon future LEC behavior.
+
+     Whatever its faults as a measure of competition, the FCC 
+found collocation to be superior to the various alternatives 
+proposed by petitioners during the notice and comment peri-
+od.  See id. p p 84, 104.  Petitioners, for their part, offer no 
+alternative save a painstaking analysis of market conditions 
+such as that which is required when an LEC seeks classifica-
+tion as a non-dominant carrier or the forbearance of dominant 
+carrier regulation under Section 10 of the Communications 
+Act.  See, e.g., AT&T Corp. v. FCC, No. 99-1535 (D.C. Cir. 
+Jan. 23, 2001).  The FCC determined that this would be 
+burdensome and time-consuming--a point which petitioners 
+do not contest--and thus not appropriate in all cases.  It 
+
+therefore sought an alternative for the purpose of providing 
+pricing flexibility, in addition to the statutory procedure 
+under Section 10, 47 U.S.C. s 160, which remains a "viable 
+and independent means" for carriers to seek regulatory relief.  
+AT&T, slip op. at 16.
+
+     That the FCC chose to rely upon an admittedly imperfect 
+measure of competition does not render its use arbitrary and 
+capricious.  Nat'l Ass'n of Regulatory Util. Comm'rs v. FCC, 
+737 F.2d 1095, 1116 (D.C. Cir. 1984) ("NARUC").  Nor is the 
+FCC's decision to make ease of administration and enforce-
+ability a consideration in setting its standard for regulatory 
+relief.  So long as the FCC's proxy is reasonable, as it is 
+here, we have no basis upon which to require the FCC to 
+engage in a more searching analysis of competition before 
+granting pricing flexibility.  Cf. United States v. FCC, 652 
+F.2d 72, 90-91 (D.C. Cir. 1980) (en banc) ("Someone must 
+decide when enough data is enough.  In the first instance 
+that decision must be made by the Commission....  To allow 
+others to force the Commission to conduct further evidentiary 
+inquiry would be to arm interested parties with a potent 
+instrument for delay.").
+
+     Petitioners emphasize the FCC's concession that the pric-
+ing flexibility contained in the Order could "if granted prema-
+turely ... enable price cap LECs to (1) exclude new entrants 
+from their markets, or (2) increase rates to unreasonable 
+levels."  Order p 68.  Petitioners contend it is reversible error 
+for the FCC to fail to show that its new regulations will result 
+in "just and reasonable" rates for consumers.  See Farmers 
+Union Cent. Exch., Inc. v. FERC, 734 F.2d 1486, 1510 (D.C. 
+Cir. 1984).
+
+     The FCC readily admits that its decision to adopt the 
+thresholds contained in the Pricing Flexibility Order was 
+dependent, at least in part, on the agency's predictive fore-
+casts.  Despite their inherent uncertainty, there is little ques-
+tion that agency prognostications of this sort may be used in 
+the formulation of policy;  "it is within the scope of the 
+agency's expertise to make such a prediction about the mar-
+ket it regulates, and a reasonable prediction deserves our 
+
+deference notwithstanding that there might also be another 
+reasonable view."  Envtl Action, Inc. v. FERC, 939 F.2d 
+1057, 1064 (D.C. Cir. 1991).  There is no statutory require-
+ment that the FCC be confident to a metaphysical certainty 
+of its predictions about the future of competition in a given 
+market before it may modify its regulatory scheme.
+
+     Petitioners also contend that the FCC's reliance upon a 
+proxy for competition is arbitrary and capricious because it is 
+contrary to Commission precedent.  Petitioners argue that 
+since the Pricing Flexibility Order would grant incumbent 
+LECs much of the relief afforded to carriers that are de-
+clared non-dominant, the FCC should be precluded from 
+granting such relief without engaging in the sort of competi-
+tion analysis it conducted when considering whether to de-
+clare a carrier non-dominant.  We do not agree.
+
+     The Commission readily admits it made different findings 
+when declaring AT&T to be non-dominant, as petitioners 
+claim.  See Motion of AT&T Corp. to Be Reclassified as a 
+Non-Dominant Carrier, 11 F.C.C.R. 3271 (1995).  However, 
+the Pricing Flexibility Order expressly does "not grant in-
+cumbent LECs all the regulatory relief ... afford[ed] to non-
+dominant carriers."  Order p 151.  Even those LECs which 
+receive Phase II relief must still file tariffs.  This is not 
+insignificant;  tariff filing is the "centerpiece of ... common 
+carrier regulation."  Southwestern Bell Tel. Co. v. FCC, 19 
+F.3d 1475, 1479 (D.C. Cir. 1994).  Therefore, the fact that the 
+FCC did not engage in the thorough competition analysis 
+common in non-dominance proceedings does not render the 
+FCC's action arbitrary and capricious.
+
+     Petitioners' appeal to other FCC precedent is equally una-
+vailing.  For instance, petitioners note that in the UNE 
+Remand Order, the FCC preferred actual measures of com-
+petition to a "bright-line test" in determining when to relieve 
+LECs of specific regulatory burdens.  In re Implementation 
+of the Local Competition Provisions of the Telecomms. Act of 
+1996, 15 F.C.C.R. 3696 (1999).  However, this proceeding 
+concerned the conditions upon which local service providers 
+are given access to unbundled transport in the first place, not 
+whether deregulatory measures are warranted once competi-
+
+tive providers have used such access to gain a foothold in a 
+given market.
+
+     There is no rule against agencies adopting new policy 
+positions.  "Everyone agrees that an agency's change of mind 
+does not itself render the agency's action arbitrary."  Bell 
+Atl., 79 F.3d at 1202.  Rather "[w]hat matters is the Commis-
+sion's explanation."  Id. Agencies are "not bound to the 
+service of any single regulatory formula;  they are permitted, 
+unless their statutory authority otherwise plainly indicates, to 
+make pragmatic adjustments which may be called for by 
+particular circumstances."  Permian Basin Area Rate Cases, 
+390 U.S. 747, 776-77 (1968) (internal quotation omitted).  
+Here, the Commission determined that there was reason to 
+modify the regulatory requirements imposed upon LEC pro-
+vision of access services and, unlike in its consideration of US 
+West's forbearance petition, thoroughly explained why the 
+Commission found it appropriate to grant incumbent LECs 
+relief from existing regulations upon certain competitive 
+showings.  See AT&T Corp. v. FCC, No. 99-1535 (D.C. Cir. 
+Jan. 23, 2001) (remanding FCC denial of forebearance peti-
+tion for failure to adequately explain departure from FCC 
+precedent).
+
+     More broadly, the FCC contends that the Order should not 
+be viewed in isolation, but rather as an additional step along 
+the road of greater deregulation and pricing flexibility in the 
+interstate access market.  See, e.g, Order p 67.  Beginning in 
+1990, the FCC has taken several steps to encourage innova-
+tion, cost-reduction, and greater efficiency by reducing regu-
+latory strictures in favor of market discipline.  See, e.g., id. 
+p p 11-18 (summarizing replacement of rate-of-return regula-
+tion with price-cap regulation and subsequent developments).  
+Much as the FCC decided that replacing rate-of-return regu-
+lation with price cap regulation furthered the public interest, 
+it has now determined that relaxing price cap regulation, 
+when certain levels of collocation have been achieved, furthers 
+its statutory mandate and promotes the public interest.  Peti-
+tioners fail to show how this conclusion is arbitrary and 
+capricious or otherwise contrary to law.
+
+     2.   MSA-Wide Deregulation
+          
+     Petitioners contend that the FCC was arbitrary and capri-
+cious and abdicated its statutory obligations by authorizing 
+
+MSA-wide relief upon a showing of collocation in only a 
+portion of the MSA.  According to petitioners, due to this 
+provision of the Pricing Flexibility Order the FCC cannot 
+ensure that interstate access service prices will be just and 
+reasonable, and therefore the collocation triggers are unlaw-
+ful.  According to petitioners, the FCC's previous orders 
+establish that in analyzing competitive issues, the proper 
+"geographic market aggregates those consumers with similar 
+choices regarding a particular good or service in the same 
+geographical area."  NYNEX Corp., 12 F.C.C.R. 19,985 p 54 
+(1997).  With the Pricing Flexibility Order, however, the 
+FCC lumped together customers that do not have similar 
+competitive alternatives into larger geographic markets--
+MSAs--for the purpose of regulatory relief.  As a result, 
+petitioners contend, LECs will gain regulatory relief while 
+maintaining substantial bottlenecks and market power.
+
+     The FCC considered this objection in devising its Order 
+and nonetheless concluded that pricing flexibility should be 
+granted on an MSA-wide basis. The FCC defined "the geo-
+graphic area that it should use for purposes of reviewing 
+requests for pricing flexibility ... narrowly enough so that 
+the competitive conditions within each area are reasonably 
+similar, yet broadly enough to be administratively workable."  
+Order p 71.  Commenters proposed both larger and smaller 
+relief areas. The FCC settled upon MSAs because, in the 
+FCC's expert view, they "best reflect the scope of competitive 
+entry."  Id. p 72.  Upon review, the FCC decided that 
+smaller geographic areas would require incumbent LECs to 
+file too many pricing flexibility petitions to achieve meaning-
+ful relief--a conclusion petitioners do not dislodge with any 
+evidence to the contrary.
+
+     At bottom, petitioners' objection to the FCC's decision to 
+offer pricing flexibility on an MSA-wide basis amounts to a 
+difference in policy preferences.  This is not a sufficient basis 
+upon which to upset the FCC's determination.  See Time 
+Warner Entm't, 56 F.3d at 163.  The FCC considered alter-
+natives to MSA-wide relief and determined that, on balance, 
+these alternatives would be less beneficial to consumers and 
+regulated entities.  As the FCC provided an adequate expla-
+
+nation for this conclusion, we uphold the Commission's conclu-
+sion.
+
+     3.   Trigger Level Selection
+          
+     Petitioners' objections to the specific collocation thresholds 
+established by the FCC are no more than policy differences 
+with the Commission.  Like any agency, the FCC must 
+provide a rational basis when setting a number for a stan-
+dard, but it is not held to a standard of perfection.  The 
+standard for reviewing such determinations was outlined in 
+WJG Telephone Co. v. FCC:
+
+     It is true that an agency may not pluck a number out of 
+     thin air when it promulgates rules in which percentage 
+     terms play a critical role.  When a line has to be drawn, 
+     however, the Commission is authorized to make a "ra-
+     tional legislative-type judgment."  If the figure selected 
+     by the agency reflects its informed discretion, and is 
+     neither patently unreasonable nor "a dictate of unbridled 
+     whim," then the agency's decision adequately satisfies 
+     the standard of review.
+     
+675 F.2d 386, 388-89 (D.C. Cir. 1982) (citations omitted);  
+accord NARUC, 737 F.2d at 1141.
+
+     Petitioners are correct that the Commission may not evade 
+review of its decision-making merely by asserting that the 
+thresholds were "policy determinations."  See San Antonio v. 
+United States, 631 F.2d 831, 852 (D.C. Cir. 1980) (That a 
+decision involves a policy judgment "does not excuse the 
+[agency] from articulating fully and carefully the methods by 
+which, and the purposes for which, it has chosen to act.") 
+(internal quotes omitted).  Yet the FCC is not required to 
+identify the optimal threshold with pinpoint precision.  It is 
+only required to identify the standard and explain its relation-
+ship to the underlying regulatory concerns.  The FCC notes 
+that this court is "generally unwilling to review line-drawing 
+performed by the Commission unless a petitioner can demon-
+strate that lines drawn ... are patently unreasonable, having 
+no relationship to the underlying regulatory problem."  Cas-
+sell v. FCC, 154 F.3d 478, 485 (D.C. Cir. 1998) (internal 
+
+quotations omitted).  The relevant question is "whether the 
+agency's numbers are within a 'zone of reasonableness,' not 
+whether its numbers are precisely right."  Hercules Inc. v. 
+EPA, 598 F.2d 91, 107-08 (D.C. Cir. 1978).  Indeed, just last 
+term we held that "the Commission has wide discretion to 
+determine where to draw administrative lines, and appellants 
+point to nothing suggesting that the agency abused its discre-
+tion in drawing the line[s]" where it did.  AT&T Corp., 220 
+F.3d at 627.
+
+     The FCC made a predictive judgment that the amount of 
+collocation required for each trigger will be sufficient to 
+constrain anticompetitive practices by incumbent LECs.  The 
+FCC also looked at areas where there was substantial colloca-
+tion to determine whether that correlated with substantial 
+involvement in competitive transport facilities.  See, e.g., Or-
+der p p 81, 95.  For example, the FCC reviewed evidence that 
+collocation in approximately eighteen percent of wire centers 
+corresponded to over 2,000 miles of competitive fiber facili-
+ties.  See id. p 95.  The FCC also notes that there are 
+reasons to believe that, if anything, collocation underesti-
+mates competition in relevant markets as "it fails to account 
+for the presence of competitors that ... have wholly by-
+passed incumbent LEC facilities."  Id.  Weighing these fac-
+tors, the FCC concluded that its collocation triggers were 
+sufficiently protective of the public interest.  This is precisely 
+the sort of "rational legislative-type judgment" the FCC is 
+empowered to exercise and we are required to respect.
+
+B.   Immediate Pricing Flexibility for New Services
+
+     Petitioners also challenge the FCC's decision to grant 
+LECs immediate pricing flexibility for new services.  Prior to 
+the new rule LECs were required to tariff new services 
+fifteen days in advance and to demonstrate that prices were 
+reasonable given the carrier's direct costs of providing the 
+service.  As a result of the FCC's Pricing Flexibility Order, 
+LECs may tariff with only one day's notice and (with the 
+exception of loop-based services) need not show that the 
+prices for new services bear any relation to costs.  As noted 
+above, the FCC granted pricing flexibility for new services 
+
+because it found that existing regulatory requirements de-
+layed the development and introduction of new services to the 
+detriment of consumers.  See id. p 37.
+
+     Petitioners contend that the FCC's decision to grant imme-
+diate pricing flexibility for new services is unlawful because it 
+compromises the Commission's "fundamental obligation" to 
+ensure that rates are just and reasonable.  Section 201(b) of 
+the Communications Act provides that "[a]ll charges ... shall 
+be just and reasonable, and any such charge ... that is 
+unjust or unreasonable is declared to be unlawful."  47 U.S.C. 
+s 201(b).  Citing the Second Circuit, petitioners argue that 
+there is "no authority for the proposition that the FCC may 
+abdicate its responsibility" under section 201(b) to regulate 
+dominant carriers so as to ensure "just" and "reasonable" 
+rates.  AT&T v. FCC, 572 F.2d 17, 25 (2d Cir. 1978).
+
+     Contrary to petitioners' claims, there is nothing inherently 
+unreasonable in the Commission's shift to streamlined review 
+of new services.  Cf. Nat'l Rural Telecom Ass'n v. FCC, 988 
+F.2d 174, 185 (D.C. Cir. 1993) ("In light of the FCC's objec-
+tive of eliminating the filing burdens of both itself and the 
+carriers, and its reasonable finding that caps and bands 
+render the prospect of unreasonable filings sufficiently im-
+probable, we find streamlined review to be reasonable.").  
+The Commission is free to reduce regulatory requirements 
+where, as here, it finds that less regulation will better serve 
+its statutory goals.  As we noted above, "[t]he FCC's judg-
+ment about the best regulatory tools to employ in a particular 
+situation is ... entitled to considerable deference from the 
+generalist judiciary."  Western Union Int'l, 804 F.2d at 1292.  
+Here, the Commission determined that consumers are better 
+served by loosening the government's grip on new service 
+offerings and prices.
+
+     Petitioners further argue that insofar as new services 
+represent significant technological advances over existing ser-
+vices, failure to offer that service to consumers or competitors 
+at a reasonable price can produce competitive harm.  Al-
+though the FCC did not remove new services from price cap 
+regulation altogether, petitioners contend incumbent LECs 
+
+may nonetheless incorporate a new service into the price caps 
+at an inflated monopolistic price, thereby inflating the overall 
+price cap and enabling LECs to raise the prices of other 
+services.  The FCC also rejected this contention, noting that 
+price caps are determined on a revenue-weighted basis.  
+Therefore, should an LEC offer a new service at an inflated 
+price, it would have little revenue weight so it would not 
+enable the LEC to inflate the rates for other services.
+
+C.   Rate Deaveraging for Transport Basket Services
+
+     As part of the Pricing Flexibility Order, the FCC gave 
+LECs additional flexibility to deaverage rates for transport 
+basket services, subject to certain limitations, because aver-
+aged rates have the potential to "create a pricing umbrella for 
+competitors that would deprive customers of the benefits of 
+more vigorous competition."  Order p 60.  The FCC believes 
+that deaveraged rates promote efficiency, and existing regula-
+tions discouraged carriers from pursuing deaveraged rates.  
+Petitioners challenge this decision on the grounds that allow-
+ing rate deaveraging will result in "predatory pricing and 
+cross-subsidization."  In particular, petitioners contend that 
+LECs will use this new pricing flexibility to lower their 
+transport rates in competitive markets and increase their 
+rates where competition is minimal.
+
+     Merely because WorldCom disagrees with the FCC's con-
+clusion that deaveraging rates will produce more consumer 
+benefits than maintaining the existing regulatory structure is 
+no reason for this court to strike down the FCC's decision.  
+As noted above, the FCC's policy judgments are entitled to 
+due deference from this court so long as the agency's conclu-
+sions are reasonable and supported by substantial evidence, 
+and the agency complies with the applicable procedural re-
+quirements.  As above, the FCC's decision with regard to 
+deaveraging rates meets this minimal test.
+
+     Petitioners' concerns were raised by both AT&T and 
+WorldCom during the notice and comment period, were con-
+sidered by the FCC, and rejected.  The FCC concluded that 
+petitioners' fears are exaggerated, and there is no basis upon 
+which this court could conclude that this determination was 
+
+arbitrary, capricious or otherwise contrary to law.  Indeed, 
+"there is a consensus among commentators that predatory 
+pricing schemes are rarely tried, and even more rarely suc-
+cessful."  Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 
+475 U.S. 574, 589 (1986).  Moreover, the FCC took specific 
+steps to guard against the possibility of anticompetitive con-
+duct.  In particular, the Order limits annual price increases 
+within pricing zones to fifteen percent, and the annual in-
+creases in the study area are limited to five percent.  See 
+Order p 63;  47 C.F.R. s 61.47(e).  According to the Commis-
+sion, this safeguard ensures "that incumbent LECs cannot 
+define zones that are, for all practical purposes, specific to 
+particular customers."  Order p 62.  Finally, LECs can still 
+be subject to prosecution should they engage in predatory 
+behavior.  After thorough review, the FCC considered these 
+safeguards to be sufficient in this instance, and we can find no 
+reason to upset that result.
+
+                         III. Conclusion
+
+     For the foregoing reasons, we affirm the FCC, and the 
+petitions for review are denied.
+
+                           

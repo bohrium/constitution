@@ -1,0 +1,699 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 15, 2002   Decided December 13, 2002 
+
+                           No. 01-1314
+
+                      Idaho Power Company, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                 Arizona Public Service Company, 
+                            Intervenor
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Charles G. Cole argued the cause for petitioner.  With him 
+on the briefs were Gary A. Morgans and Alice E. Loughran.
+
+     Larry D. Gasteiger, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With him on 
+
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     John D. McGrane was on the brief for intervenor.
+
+     Before:  Edwards, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  Petitioner, Idaho Power Compa-
+ny, challenges two FERC orders barring Idaho Power from 
+entering into a 10-year contract to provide electricity to the 
+IP Merchant Group ("IP Merchant") from December 2000 
+through December 2010.  See Idaho Power Co., Order Deny-
+ing Petition for Declaratory Order, 94 F.E.R.C. p 61,311 
+(2001) ("Order Denying Petition");  Idaho Power Co., Order 
+Denying Rehearing and Clarifying Prior Order, 95 F.E.R.C. 
+p 61,224 (2001) ("Order Denying Rehearing").  Before receiv-
+ing the ill-fated bid from IP Merchant, Idaho Power had been 
+furnishing electric transmission service to the Arizona Public 
+Service Company ("APS").  APS had a "right of first refusal" 
+to match the IP Merchant bid for service from Idaho Power.  
+In order to exercise its right of first refusal, APS had to 
+"agree to accept a contract term at least equal to [the] 
+competing request" offered by IP Merchant in its bid for 
+transmission service from Idaho Power.  Idaho Power Com-
+pany Open Access Transmission Tariff s 2.2 ("Idaho Power 
+OATT"), Joint Appendix ("J.A.") 230.  However, because it 
+could only seek service from Idaho Power in 18-month incre-
+ments, APS was unable to match IP Merchant's 10-year 
+contract bid.  FERC nonetheless ruled that Idaho Power was 
+obliged to continue providing service to APS, because the 
+"transmission service requests were not substantially the 
+same in all respects [due to] the dissimilarity in available 
+terms of service."  Order Denying Rehearing, 95 F.E.R.C. at 
+61,759.  In other words, FERC reasoned that the offers by 
+APS and IP Merchant were not "substantially the same in all 
+respects," and thus not competing bids, because IP Merchant 
+offered a 10-year term while APS offered only an 18-month 
+term.  Order Denying Petition, 94 F.E.R.C. at 62,145;  Order 
+Denying Rehearing, 95 F.E.R.C. at 61,759.
+
+     FERC's interpretation of the right of first refusal provision 
+defies reason.  Idaho Power's Open Access Transmission 
+Tariff ("OATT") and FERC's orders creating the applicable 
+pro forma tariff provide that, in order to exercise a right of 
+first refusal, "the existing firm service customer must agree 
+to accept a contract term at least equal to a competing 
+request by any new Eligible Customer."  Idaho Power OATT 
+s 2.2, J.A. 230;  Promoting Wholesale Competition Through 
+Open Access Non-Discriminatory Transmission Services by 
+Public Utilities;  Recovery of Standard Costs by Public Utili-
+ties and Transmitting Utilities, Order No. 888-A, F.E.R.C. 
+Stats. & Regs. p 31,048 (1997) ("Order No. 888-A").  FERC 
+has turned the Tariff and orders on their heads by suggesting 
+that the competitor must put forward an offer identical to the 
+incumbent's in order for the competing bids to be "substan-
+tially the same in all respects."  Under this reasoning, the 
+competitor is not allowed to make a better offer, which of 
+course ensures that the incumbent never loses.  This is a 
+nonsensical construction of the "right of first refusal," which 
+we reject as arbitrary and capricious.  Accordingly, we grant 
+Idaho Power's petition for review.
+
+                          I. Background
+
+A.   The Pro Forma Tariff
+
+     In 1996, FERC promulgated a set of rules designed to 
+create a more competitive environment in the electric utility 
+industry.  Promoting Wholesale Competition Through Open 
+Access Non-Discriminatory Transmission Services by Public 
+Utilities;  Recovery of Stranded Costs by Public Utilities and 
+Transmitting Utilities, Order No. 888, F.E.R.C. Stats. & 
+Regs.  31,036 (1996) ("Order No. 888"), order on reh'g, Order 
+No. 888-A, order on reh'g, Order No. 888-B, 81 F.E.R.C.  
+61,248 (1997), order on reh'g, Order No. 888-C, 82 F.E.R.C.  
+61,046 (1998), aff'd in part and remanded in part sub nom. 
+Transmission Access Policy Study Group v. FERC, 225 F.3d 
+667 (D.C. Cir. 2000), aff'd jurisdictional ruling sub nom. New 
+York v. FERC, 535 U.S. 1 (2002).  These rules required each 
+utility to separate its transmission function from its wholesale 
+
+merchant function (i.e., the selling of electric power at whole-
+sale rates).  They also required each utility to file and take 
+transmission under an OATT designed to assure access to 
+transmission service on a non-discriminatory basis.  FERC's 
+rules specified the terms of a pro forma tariff designed to 
+achieve the competitive goals of Order No. 888.  Order No. 
+888 at 31,926-64.  With limited exceptions, each utility's 
+OATT must conform to the non-rate terms and conditions 
+specified in the pro forma tariff.  Report of the Committee on 
+Electric Utility Regulation, 18 Energy L.J. 197, 200 (1997) 
+("The FERC will allow deviations from the pro-forma's terms 
+and conditions to reflect regional practices, but these devia-
+tions are limited primarily to scheduling deadlines.  With 
+very limited exceptions, the FERC has rejected all other 
+deviations....").  FERC revised the pro forma tariff in 
+Order No. 888-A.
+
+     The pro forma tariff required each utility to create an Open 
+Access Same Time Information System ("OASIS"), an elec-
+tronic system for accepting transmission requests that would 
+make them known simultaneously to all potential customers.  
+While s 13.2 of the pro forma tariff specified that requests 
+for long-term firm service would generally be accepted in the 
+order in which they are received, Order No. 888-A at 30,515-
+16, it also noted a special provision in s 2.2 for determining 
+priority where an incumbent customer seeks to renew service.  
+Id. at 30,516.
+
+     Section 2.2 of the tariff provided the incumbent customer 
+with a right of first refusal to match the duration offered by a 
+new customer at the full OATT rate.  Section 2.2 provides, in 
+relevant part:
+
+     If at the end of the contract term, the Transmission 
+     Provider's Transmission System cannot accommo-
+     date all of the requests for transmission service the 
+     existing firm service customer must agree to accept 
+     a contract term at least equal to a competing re-
+     quest by any new Eligible Customer and to pay the 
+     
+     current just and reasonable rate, as approved by the 
+     Commission, for such service.
+     
+Id. at 30,511.  FERC explained in the Preamble to the pro 
+forma tariff in Order No. 888-A that, "[b]ecause the purpose 
+of the right of first refusal provision is to be a tie-breaker, the 
+competing requests should be substantially the same in all 
+respects."  Id. at 30,198.
+
+B.   The Transmission Service Requests
+
+     Idaho Power provides transmission service in accordance 
+with the rates, terms and conditions of its OATT.  Idaho 
+Power filed its OATT pursuant to FERC Order No. 888, and 
+FERC accepted it as the filed rate.  Atlantic City Elec. Co., 
+77 F.E.R.C. p 61,144 (1996) (non-rate terms and conditions);  
+Allegheny Power Sys., Inc., 80 F.E.R.C. p 61,143 (1997) 
+(rates).  Idaho Power revised its OATT pursuant to Order 
+No. 888-A, and FERC accepted the revisions.  Idaho Power's 
+OATT is substantially the same as the pro forma tariff that 
+FERC issued.  Significantly, s 2.2 of Idaho Power's OATT is 
+identical to s 2.2 of the pro forma tariff.
+
+     APS is Idaho Power's incumbent customer, receiving ser-
+vice from Borah/Brady Substation in southeastern Idaho, 
+through Brownlee Substation in western Idaho, to the La-
+Grande Substation in northeastern Oregon.  The history sur-
+rounding the dealings between APS and Idaho Power is 
+somewhat convoluted.  In 1998, APS submitted several re-
+quests through Idaho Power's OASIS for long-term, point-to-
+point transmission service for an eight-year period.  The 
+following year, Idaho Power provided APS with a facility 
+study that demonstrated that existing long-term obligations 
+prevented Idaho Power from meeting APS's service request 
+for the full eight-year period without constructing facility 
+upgrades.  Idaho Power offered APS 100 MW of transmis-
+sion service on Borah West that PacifiCorp had contractual 
+rights to use, but could not due to system limitations.  How-
+ever, Idaho Power cautioned that this service would terminate 
+when PacifiCorp upgraded the facilities and exercised its pre-
+existing rights to the capacity.
+
+     After further negotiations between Idaho Power and APS 
+failed to yield an executed service agreement, FERC directed 
+
+Idaho Power to provide APS with partial interim transmis-
+sion service.  Idaho Power Co., Order Rejecting Unexecuted 
+Service Agreements, and Requiring the Filing of New Service 
+Agreements and the Provision of Partial Interim Transmis-
+sion Service, 90 F.E.R.C. p 61,009 (2000).  Since Idaho Pow-
+er's facility study indicated that it could provide 100 MW of 
+APS's requested firm point-to-point service for a term of 18 
+months rather than the eight years that APS requested, 
+FERC required Idaho Power to file new service agreements 
+providing APS with firm transmission service for an 18-month 
+term.  Id. at 61,019.  FERC also stated that APS would be 
+entitled to roll over its service at the end of the 18-month 
+term, if it chose not to construct additional facilities and the 
+capacity committed to PacifiCorp remained available.  Id.  
+This FERC order effectively restricted APS's ability to bid to 
+18-month increments.
+
+     Subsequently, on November 8, 2000, IP Merchant submit-
+ted a request on Idaho Power's OASIS for 200 MW of long-
+term firm point-to-point transmission service for the period 
+December 1, 2000 through December 31, 2010.  The following 
+day, APS sent a letter to Idaho Power stating that it was 
+exercising its rollover rights for an additional 18-month peri-
+od from April 1, 2001 through September 30, 2002.  Then on 
+November 15, 2000, IP Merchant submitted a second request 
+on Idaho Power's OASIS for an additional 200 MW of long-
+term firm point-to-point transmission service.  This service 
+was also from the Idaho Power system to LaGrande, for a 10-
+year period from January 1, 2001 to December 31, 2010.
+
+     On December 20, 2000, Idaho Power advised APS of its 
+right of first refusal.  Idaho Power simultaneously informed 
+APS that it was filing a Petition for Declaratory Order.  The 
+Petition requested guidance as to whether, if APS submitted 
+a 10-year or longer request for which the continuation of 
+service beyond 18 months would be contingent on the continu-
+ing availability of capacity over Borah West, this contingent 
+request would be sufficient to match the 10-year, non-
+contingent IP Merchant request.  In response to the Petition, 
+APS questioned the validity of the IP Merchant transmission 
+requests in light of the fact that they were not "precon-
+
+firmed" requests, no service agreements had been executed, 
+and no facilities study agreements or financial commitments 
+had been proffered.  Arizona Public Service Company's Mo-
+tion to Intervene, Protest and Request for Expedited Consid-
+eration at 14-16, 19 n.39, Idaho Power Co., 94 F.E.R.C. 
+p 61,311 (2001), J.A. 78-80, 83 n.39.  APS also argued that, 
+since it is "willing to match the Idaho Merchant Group's term 
+of 10 years, and to extend it for an additional 5 years, for a 
+term from April 1, 2001 through March 31, 2016, to the extent 
+necessary for APS to retain service," it should prevail over IP 
+Merchant under OATT's tie-breaking mechanism.  Id. at 19, 
+J.A. 83.  However, APS did not seek a waiver from FERC's 
+order limiting it to 18-month terms so that it could compete 
+fully against IP Merchant in exercising its right of first 
+refusal.
+
+C.   FERC's Orders
+
+     Despite the shorter term offered by APS, FERC ruled in 
+its initial order that APS could roll over its contract.  FERC 
+acknowledged that the priority rule was designed to "pro-
+vide[ ] a mechanism for allocating transmission capacity when 
+there is insufficient capacity to accommodate all requesters."  
+Order Denying Petition, 94 F.E.R.C. at 62,144.  However, 
+FERC stated that, under Order No. 888-A, the two custom-
+ers' requests had to be " 'substantially the same in all 
+respects' " in order to be competing.  Id. at 62,145 (quoting 
+Order No. 888-A at 30,197) (emphasis in original).  FERC 
+found that the two requests were not, in fact, substantially 
+the same:  Instead, it found them to be "vastly different," 
+primarily because they flowed in different directions and used 
+different portions of the Idaho Power system.  Id.  FERC 
+also noted that "the dissimilarity in available terms of service 
+also supports the variant nature of the two customers' trans-
+mission service requests."  Id.  FERC further noted that 
+APS expressed an intention to match the IP Merchant 
+Group's 10-year offer, but was restricted from doing so by a 
+prior FERC order.  Id.  Since FERC found that the re-
+quests were not substantially the same in all respects, the 
+agency ruled that they were not competing.  It thus ordered 
+Idaho Power to give the available 75 MW to APS.  Id.
+
+     Idaho Power petitioned for rehearing.  It first noted that a 
+central factual premise for FERC's order - that the two 
+requests flowed in different directions and used different 
+portions of the Idaho Power system - was incorrect.  Rather, 
+the requests flowed in the same direction over the 80-mile 
+line in dispute.  Further, Idaho Power argued that, because 
+APS had not matched the IP Merchant Group's offer, the IP 
+Merchant Group should be the priority applicant.
+
+     FERC denied Idaho Power's request for rehearing.  It 
+retreated from its reliance on the alleged physical differences 
+between the services, stating that, while it had "discussed the 
+physical differences between the transmission service re-
+quests, our primary rationale for determining that the trans-
+mission service requests were not substantially the same in 
+all respects was the dissimilarity in available terms of ser-
+vice."  Order Denying Rehearing, 95 F.E.R.C. at 61,759.  
+Since APS was limited to 18-month increments, FERC rea-
+soned that "to permit IP Merchant's longer term service 
+request to obtain transmission capacity at the expense of 
+Arizona Public Service would inappropriately disadvantage an 
+existing transmission customer."  Id.  Thus, FERC awarded 
+the 75 MW of service to APS, for the 18-month period ending 
+September 30, 2002.  Idaho Power now petitions this court 
+for review.
+
+                           II. Analysis
+
+A.   Standing
+
+     The first issue we must address is whether Idaho Power 
+possesses constitutional standing to challenge FERC's orders.  
+FERC argues that Idaho Power suffered no "injury in fact" 
+because the utility cannot prove that FERC's orders will 
+cause any monetary loss.  We reject this argument.
+
+     The two principal forms of standing are "Article III (case 
+or controversy)" and "prudential."  Article III standing en-
+tails three requirements:
+
+     First, the plaintiff must have suffered an "injury in 
+     fact"--an invasion of a legally protected interest 
+     
+     which is (a) concrete and particularized, and (b) 
+     "actual or imminent, not 'conjectural' or 'hypotheti-
+     cal.' "  Second, there must be a causal connection 
+     between the injury and the conduct complained of--
+     the injury has to be "fairly ... trace[able] to the 
+     challenged action of the defendant, and not ... th[e] 
+     result [of] the independent action of some third 
+     party not before the court."  Third, it must be 
+     "likely," as opposed to merely "speculative," that the 
+     injury will be "redressed by a favorable decision."
+     
+Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 (1992) 
+(citations omitted);  see also El Paso Natural Gas Co. v. 
+FERC, 50 F.3d 23, 26 (D.C. Cir. 1995) (describing the re-
+quirements for demonstrating an injury in fact).
+
+     FERC's only standing argument is that Idaho Power suf-
+fered no injury in fact because the utility cannot prove that 
+FERC's orders will cause it to lose any profits.  FERC 
+points out Idaho Power's statement that FERC's orders 
+required it "to enter into a contract that, for an eighteen-
+month period, would generate $1,312,875, and forgo entering 
+into a ten-year contract that would yield $8,752,500," Br. of 
+Petitioner at 28, and states that the two amounts, adjusted 
+for time differential, are equivalent.  Thus, at least for the 
+next 18 months, FERC argues that "petitioner is in exactly 
+the same position revenue-wise, regardless of which contract 
+it is required to accept."  Br. of Respondent at 23.
+
+     This argument is meritless.  Idaho Power has suffered an 
+injury in fact because FERC's orders bind it to an 18-month 
+contract with APS and preclude it from entering a long-term 
+10-year contract with IP Merchant.
+
+     As a general matter, in a perfectly competitive mar-
+     ket, a long-term contract incorporates a premium for 
+     stability, and a pipeline naturally values a longer-
+     term transportation contract more highly, ceteris 
+     paribus....  If the maximum approved rate artifi-
+     cially limits a rival shipper's ability to outbid the 
+     existing shipper, the rival shipper may offer a 
+     
+     higher-value contract by bidding up the contract 
+     duration instead.
+     
+United Distrib. Cos. v. FERC, 88 F.3d 1105, 1140 (D.C. Cir. 
+1996).  "[T]he reality [is] that contract duration is a measure 
+of value."  Id.  Because Idaho Power possesses a legally-
+protected interest in entering a longer-term contract, it suf-
+fered a cognizable injury when it was compelled to forgo a 10-
+year contract with IP Merchant and instead enter a shorter-
+term contract with its associated market risks.  That injury 
+was immediate, concrete, and particularized.
+
+     We have previously recognized that an agency ruling that 
+replaces a certain outcome with one that contains uncertainty 
+causes an injury that is felt immediately and confers standing.  
+In Rio Grande Pipeline Co. v. FERC, 178 F.3d 533 (D.C. Cir. 
+1999), petitioner Rio Grande Pipeline Company could either 
+justify the rates for its service through 18 C.F.R. s 342.2(a), 
+in which it was required to "file cost, revenue and throughput 
+data supporting the proposed rate," or through s 342.2(b), 
+which required only "a sworn statement that the proposed 
+rate is agreed to by at least one non-affiliated person who 
+intends to use the service."  Rio Grande Pipeline Co., 178 
+F.3d at 536.  The major advantage to the former provision 
+was that rates justified under s 342.2(b) were ineffective if a 
+protest to the initial rate was filed;  after the protest, the 
+carrier would be required to seek a s 342.2(a) justification.  
+Id.  Rio Grande requested FERC approval pursuant to 
+s 342.2(a).  FERC denied this request.  However, the agen-
+cy "noted ... that since Rio Grande had supplied the affidavit 
+required by s 342.2(b), and no entity had protested the 
+charged rate, Rio Grande was free to charge the proposed 
+rate in its transactions."  Id. at 537.  When Rio Grande 
+petitioned this court for review, FERC argued that the 
+petitioner had suffered no injury in fact, because it remained 
+free to establish the same rates under s 342.2(b).  Id. at 539-
+40.  However, we found that FERC's orders caused the 
+petitioner a "present economic injury" because approval un-
+der that section left the rates open to challenge at any time 
+by third parties, while approval under s 342.2(a) would have 
+afforded greater certainty.  Id. at 540.
+
+     FERC argues that Idaho Power is unlikely to suffer any 
+economic loss in the future because at least three parties - 
+
+APS, the IP Merchant Group, and PacifiCorp - have ex-
+pressed an interest in using that capacity for the extended 10-
+year period.  However, the energy markets are notoriously 
+volatile.  See Andrew S. Katz, Using the EEI-NEM Master 
+Contract to Manage Power Marketing Risks, 21 Energy L.J. 
+269, 271 (2000);  With Tariff Modifications, Pipelines Move to 
+Reduce Credit Risk, Inside F.E.R.C., Aug. 26, 2002, LEXIS, 
+News Library, News Group File (explaining that three gas 
+pipelines' move to amend their tariffs to include greater 
+protection from "noncreditworthy" customers "[h]ighlight[s] 
+the increasingly volatile nature of energy markets and compa-
+nies").  Even if market volatility did not diminish these 
+parties' interest in Idaho Power's capacity, it could doubtless-
+ly diminish the profits that Idaho Power could obtain in the 
+future.  FERC's arguments to the contrary do not corre-
+spond with the reality of the energy markets.
+
+     The bottom line is that it is inconceivable that Idaho Power 
+could be subjected to a FERC order requiring it to enter into 
+a specific contract concerning the use of its property but lack 
+standing to challenge that order.  See Green v. McElroy, 360 
+U.S. 474, 493 n.22 (1959) (noting that there is generally 
+standing to enforce "a legally protected right to be free from 
+arbitrary interference with private contractual relation-
+ships");  see also Lujan, 504 U.S. at 561-62 (noting that "there 
+is ordinarily little question that the action or inaction has 
+caused [the plaintiff] injury" when "the plaintiff is himself an 
+object of the action (or forgone action) at issue").
+
+B.   FERC's Orders
+
+     In general, this court "gives substantial deference to 
+[FERC's] interpretation of filed tariffs, 'even where the issue 
+simply involves the proper construction of language.' "  Koch 
+Gateway Pipeline Co. v. FERC, 136 F.3d 810, 814 (D.C. Cir. 
+1998) (quoting Nat'l Fuel Gas Supply Corp. v. FERC, 811 
+F.2d 1563, 1569 (D.C. Cir. 1987)).
+
+     We first look to see if the language of the tariff is 
+     unambiguous--that is, if it reflects the clear intent 
+     of the parties to the agreement.  If the tariff lan-
+     guage is ambiguous, we defer to the Commission's 
+     
+     construction of the provision at issue so long as that 
+     construction is reasonable.
+     
+Koch Gateway Pipeline Co., 136 F.3d at 814.  If the tariff's 
+language is unambiguous, this court need not defer to 
+FERC's interpretation.  After all, "a court need not accept 
+'an agency interpretation that black means white.  However, 
+if the choice lies between dark grey and light grey, the 
+conclusion of the agency ... will have great weight.' "  Nat'l 
+Fuel Gas Supply Corp., 811 F.2d at 1572 (quoting Consol. 
+Gas Supply Corp. v. FERC, 745 F.2d 281, 291 (4th Cir. 1984)) 
+(ellipses added).  It is also well understood that no deference 
+is due if FERC's interpretation is inconsistent with prior 
+agency interpretations.  Id. at 1571 ("If the agency's inter-
+pretation of a contract has vacillated, deference might give 
+the agency license to act arbitrarily by making inconsistent 
+decisions without justification.").
+
+     In this case, we reject FERC's interpretation of the "right 
+of first refusal," because it is inconsistent with prior agency 
+interpretations and, also, because it is nonsensical. It would 
+be a great challenge indeed to devise a more backward 
+interpretation of the tariff than that which FERC urges on 
+the court.  FERC essentially contends that s 2.2 of the pro 
+forma tariff and Idaho Power's OATT precludes a competitor 
+from coming forward with a better offer than the incumbent's 
+present deal.  This interpretation runs contrary to the text of 
+Idaho Power's OATT, FERC Orders No. 888 and 888-A, and 
+the agency's own prior interpretations.
+
+     1.   Idaho Power's OATT
+          
+     FERC's interpretation is directly at odds with the language 
+and logic of s 2.2 of Idaho Power's OATT.  The OATT 
+provides that if "the Transmission Provider's Transmission 
+System cannot accommodate all of the requests for transmis-
+sion service the existing firm service customer must agree to 
+accept a contract term at least equal to a competing request 
+by any new Eligible Customer."  Idaho Power OATT s 2.2, 
+J.A. 230.  The OATT does not provide that the competing 
+request must be "substantially the same in all respects" as 
+the incumbent's proposed rollover.  In fact, the definition 
+
+contained in the tariff is consistent with the ordinary meaning 
+of "competing."  The generally accepted definition of "com-
+pete" is "to seek to strive for something (as a position, 
+possession, reward) for which others are also contending."  
+Webster's Third New International Dictionary 463 (1993).  
+Likewise, the language of the tariff suggests that two offers 
+are competing if there is an inability to accommodate both.
+
+     FERC's interpretation of the tariff would nullify the lan-
+guage in s 2.2 which provides that, when two requests are 
+competing, the incumbent customer must change the term of 
+its request to at least equal the new eligible customer's 
+request.  The agency's interpretation holds that "the dissimil-
+iarity in available terms of service" means that the incumbent 
+has no obligation to match the longer-term competitive bid.  
+Order Denying Rehearing, 95 F.E.R.C. at 61,759.  Under 
+this interpretation, the incumbent would never have to change 
+its term of service to match the competitor's superior offer;  
+rather, the utility could not consider the competitor's offer 
+precisely because it is better.  This interpretation is not only 
+nonsensical;  it also relieves the incumbent of any obligation 
+to "agree to accept a contract term at least equal to a 
+competing request."  A tariff should not be interpreted in a 
+manner that renders one of its terms meaningless.  Great 
+Lakes Gas Transmission Ltd. P'ship, 93 F.E.R.C. p 61,008 at 
+61,019 & n.8 (2000).  The fact that FERC's orders directly 
+conflict with the plain meaning of the tariff alone merits a 
+reversal.
+
+     2.   FERC Orders No. 888 and 888-A
+          
+     FERC's orders also conflict with and misinterpret Orders 
+No. 888 and 888-A. The Preamble to Order No. 888 provides 
+that the incumbent must match the challenger's longer pro-
+posed term - not that the challenger must come forward with 
+an offer identical to the incumbent's.  It states that for an 
+existing customer to renew its service, "the existing customer 
+must agree to match the rate offered by another potential 
+customer ... and to accept a contract term at least as long as 
+that offered by the potential customer."  Order No. 888 at 
+31,665.  Moreover, the Preamble does not suggest that two 
+
+offers are competing when they are identical.  Instead, it 
+supports the classical definition of competition by stating that 
+the incumbent's obligation to match the term and price of the 
+new customer's service request arises when "not enough 
+capacity is available to meet all requests for service."  Id.  
+There is no suggestion that the two requests must be sub-
+stantially the same in all respects for this obligation to apply.
+
+     Order No. 888-A also contradicts FERC's interpretation.  
+A number of transmission customers had sought changes to 
+the tariff, because, they claimed, "the Commission's right of 
+first refusal provision fails to adequately protect existing 
+transmission customers' rights to continued service."  Order 
+No. 888-A at 30,195.  FERC rejected these complaints and 
+retained the matching requirements of s 2.2:
+
+     We reject arguments to modify the requirement in 
+     section 2.2 that existing long-term firm transmission 
+     customers seeking to exercise their right of first 
+     refusal must agree to a contract term at least as 
+     long as that sought by a potential customer.  The 
+     objective of a right of first refusal is to allow an 
+     existing firm transmission customer to continue to 
+     receive transmission service under terms that are 
+     just, reasonable, not unduly discriminatory, or pref-
+     erential.  Absent the requirement that the customer 
+     match the contract term of a competing request, 
+     utilities could be forced to enter into 
+     shorter-term arrangements that could be detrimen-
+     tal from both an operational standpoint (system 
+     planning) and a financial standpoint.
+     
+Id. at 30,197-98.  Order No. 888-A thus states clearly and 
+unambiguously that the incumbent must match the new po-
+tential customer's superior offer.
+
+     FERC's notion that the challenger's offer must be substan-
+tially the same in all respects to the incumbent's rollover 
+provision is, in fact, based on a gross misinterpretation of one 
+sentence in Order No. 888-A. Examining the full context of 
+Order No. 888-A's statement that the two offers must be 
+"substantially the same in all respects" makes FERC's error 
+apparent.  The quoted language appears in a paragraph in 
+
+which FERC rejected the arguments of incumbent customers 
+that it could be difficult for them to match the challenger's 
+superior offer.  The National Rural Electric Cooperative 
+Association had argued that the incumbent's obligation to 
+match the price offered by another customer should be 
+capped at the maximum transmission rate that the incumbent 
+customer is obligated to pay prior to the end of its contract 
+term.  Id. at 30,196.  FERC responded:
+
+     The fact that existing customers historically have 
+     been served under a particular rate design does not 
+     serve to "grandfather" that rate methodology in 
+     perpetuity.  Because the purpose of the right of first 
+     refusal provision is to be a tie-breaker, the compet-
+     ing requests should be substantially the same in all 
+     respects.
+     
+Id. at 30,198.  It is clear from this passage that FERC was 
+imposing a requirement for the existing customer to come 
+forward with an offer substantially the same in all respects to 
+the challenger's, rather than requiring that the challenger 
+come forward with an offer substantially the same in all 
+respects to the incumbent's contract terms.  The challenged 
+orders thus directly conflict with Orders No. 888 and 888-A, 
+and grossly misinterpret the language in Order No. 888-A.
+
+     3.   Prior FERC Interpretations
+          
+     The petitioner also points out that FERC's reasoning in 
+this case is flatly inconsistent with the agency's decisions 
+interpreting s 2.2 of the pro forma tariff.  FERC has ruled 
+repeatedly that s 2.2 requires the incumbent to match the 
+term of service offered by the new customer.
+
+     For example, in Dynegy Power Marketing, Inc. v. Ameren 
+Services Co., 93 F.E.R.C. p 61,201 (2000), the agency directed 
+the transmission provider to grant the incumbent's request to 
+roll over its service, provided that there were no competing 
+requests for the service.  In discussing potential offers from 
+challengers, FERC stated that "[i]f there is a competing 
+request with a term exceeding [the incumbent's] request, [the 
+incumbent] has the right of first refusal to match the compet-
+ing request or to forfeit its own request."  Id. at 61,665 n.12.
+
+     FERC has consistently adopted this interpretation of s 2.2 
+of the pro forma tariff.  See, e.g., Promoting Wholesale 
+Competition Through Open Access Non-Discriminatory 
+Transmission Services by Public Utilities, 101 F.E.R.C. 
+p 61,104, 2002 F.E.R.C. LEXIS 2234, at *15 ("The Commis-
+sion requires existing customers to match the term of compet-
+ing requests for service so that utilities will not be forced to 
+enter into shorter-term agreements.");  Wisconsin Pub. Pow-
+er Inc. SYS. v. Wisconsin Pub. Serv. Corp., 84 F.E.R.C. 
+p 61,120, at 61,656 (1998) (holding that the incumbent must 
+match the challenger's competing term).  FERC does not cite 
+a single case to the contrary.  Thus, we must conclude that in 
+addition to doing violence to the language of the tariff and the 
+agency's prior orders, the challenged orders are inconsistent 
+with prior and subsequent agency interpretations of s 2.2 of 
+the pro forma tariff.
+
+     4.   APS's System Constraints
+          
+     Finally, FERC suggests that APS should not be required 
+to match IP Merchant's longer term offer, because APS was 
+limited to 18-month terms caused by system constraints.  See 
+Order Denying Petition, 94 F.E.R.C. at 62,145 ("To say that 
+OATT Section 2.2 controls would create a situation where an 
+offer to match a longer service term is unattainable.").  How-
+ever, neither Idaho Power's OATT nor the FERC orders 
+creating the pro forma tariff excuse the incumbent from 
+matching a competitor's offer on these grounds.  Nowhere 
+does the tariff state that an incumbent who cannot match a 
+competing bid due to system constraints or contractual re-
+straints nevertheless has the right to roll over its contract for 
+a shorter term than the challenger offers.  FERC has not 
+pointed to any phrase in the language of the tariff that would 
+authorize such an exception.
+
+     Furthermore, the history of the pro forma tariff makes it 
+clear that FERC intended no such exceptions.  When some 
+parties sought rehearing of Order No. 888 on the grounds 
+that its rule for incumbents was too strict, FERC rejected 
+their efforts to secure exceptions.  Order No. 888-A at 30,196-
+97.  The agency stated, "We reject arguments to modify the 
+
+requirement in section 2.2 that existing long-term firm trans-
+mission customers seeking to exercise their right of first 
+refusal must agree to a contract term at least as long as that 
+sought by a potential customer."  Id. at 30,197.  Moreover, 
+the agency "reject[ed] the proposition that either existing 
+wholesale customers or transmission providers providing ser-
+vice to retail native load customers should be insulated from 
+the possibility of having to pay an increased rate for trans-
+mission in the future."  Id. at 30,198.  FERC insisted on this 
+rule even when some utilities claimed that adherence to it 
+would place them at a competitive disadvantage.  Id. at 
+30,196.
+
+     Thus, it does not matter that APS was limited to 18-month 
+increments due to system constraints at Borah West and 
+preexisting rights possessed by PacifiCorp.  These are eco-
+nomic factors that may always affect an incumbent's ability to 
+exercise a right of first refusal.  However, these contingen-
+cies of the marketplace do not alter the substantive parame-
+ters of the right of first refusal.
+
+                         III. Conclusion
+
+     Accordingly, for the reasons enumerated above, Idaho Pow-
+er's petition for review is hereby granted.  FERC's orders 
+are reversed and vacated.  The case is remanded to FERC so 
+that appropriate orders may be issued approving Idaho Pow-
+er's proposal to enter into a 10-year contract to provide 
+electrical transmission service to the IP Merchant Group.
+
+                      

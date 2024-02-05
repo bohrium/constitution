@@ -1,0 +1,1588 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 9, 2002     Decided June 14, 2002 
+
+                           No. 01-5278
+
+              National Mining Association, et al., 
+                            Appellants
+
+                                v.
+
+                  Department of Labor, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 00cv03086)
+
+     Mark E. Solomons argued the cause for appellants.  With 
+him on the briefs was Laura Metcoff Klaus.
+
+     Sushma Soni, Attorney, United States Department of Jus-
+tice, argued the cause for federal appellees.  With her on the 
+brief were Roscoe C. Howard, Jr., United States Attorney, 
+and Mark B. Stern, Attorney, United States Department of 
+Justice.
+
+     Thomas E. Johnson argued the cause for appellees United 
+Mine Workers of America.  With him on the brief were 
+Grant Crandall and Judith Rivlin.
+
+     Before:  Edwards and Tatel, Circuit Judges, and 
+Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed Per Curiam.
+
+     Per Curiam:  This lawsuit challenges regulations issued by 
+the Secretary of Labor pursuant to the Black Lung Benefits 
+Act, as amended, 30 U.S.C. ss 901-945 (1994) ("BLBA" or 
+"Act").  The District Court upheld the regulations against all 
+challenges.  This appeal followed.  For the reasons stated 
+herein, we affirm in part and reverse in part.  The case will 
+be remanded to the District Court with instructions to re-
+mand the case to the Department of Labor for further 
+proceedings consistent with this opinion.
+
+                          I. Background
+
+     The BLBA is a federally administered law providing bene-
+fits to coal miners who are totally disabled due to pneumoco-
+niosis, also known as black lung disease, and to the surviving 
+dependents of miners who died of the disease.  Under the 
+Act, coal mine operators are responsible for paying benefits 
+to miners whose death or total disability due to black lung 
+disease arose out of employment in the mines.  30 U.S.C. 
+s 932.  Black lung disease encompasses a cruel set of condi-
+tions that afflict a significant percentage of the nation's coal 
+miners with "severe, and frequently crippling, chronic respi-
+ratory impairment."  Usery v. Turner Elkhorn Mining Co., 
+428 U.S. 1, 6 (1976) (citing, inter alia, S. Rep. No. 91-411, at 6 
+(1969)).  It is caused by the "long-term inhalation of coal 
+dust."  Id.  A rare and serious form of the disease, known as 
+"complicated pneumoconiosis," results in pulmonary impair-
+ment and respiratory disability.  Id. at 7.  It can lead to 
+cardiac failure and can contribute to other causes of death.  
+Id.  The purpose of the BLBA "is to satisfy a specific need 
+created by the dangerous conditions under which [coal miners 
+have] labored--to allocate to the mine operator[s] an actual, 
+measurable cost of [their] business."  Id. at 19.
+
+     A miner or his survivor may seek benefits under the Act by 
+filing a claim with the District Director in the Department of 
+Labor's Office of Workers' Compensation Programs 
+("OWCP").  After investigating the claim, the District Di-
+rector determines whether the claimant is eligible for benefits 
+and which employer will be held responsible.  See 20 C.F.R. 
+ss 725.301-725.423 (2001) (all citations to the Code of Federal 
+Regulations will be to the 2001 edition unless otherwise 
+noted).  If the employer cannot be identified, the claim is paid 
+out of the Black Lung Disability Trust Fund ("the Fund"), 
+which is financed by a tax on coal.  See 30 U.S.C. ss 932, 934;  
+26 U.S.C. ss 4121, 9501(d)(1).  Either party may appeal the 
+District Director's determination and request a hearing be-
+fore an Administrative Law Judge ("ALJ").  20 C.F.R. 
+ss 725.450-725.480.  The ALJ's decision may be appealed to 
+the Department of Labor's Benefits Review Board, id. 
+s 725.481, and then to the Court of Appeals for the circuit in 
+which the impairment occurred, 33 U.S.C. s 921(c);  20 C.F.R. 
+s 725.482.
+
+     In 1997, the Secretary of Labor ("the Secretary," "the 
+Department," or "the government") issued a notice of pro-
+posed revisions to the rules governing the adjudication of 
+miners' claims under the BLBA.  See Regulations Imple-
+menting the Federal Coal Mine Health and Safety Act of 
+1969, as Amended, 62 Fed. Reg. 3338-435 (proposed Jan. 22, 
+1997).  The Secretary received approximately 200 comments 
+and held two public hearings on the proposed rules.  The 
+Secretary also consulted the National Institute for Occupa-
+tional Safety and Health ("NIOSH"), the federal agency 
+charged with researching occupational health.  See 29 U.S.C. 
+s 671.  Congress directed the Secretary to consult with 
+NIOSH to establish criteria for medical tests to determine 
+whether coal miners are totally disabled.  30 U.S.C. s 902(f).
+
+     In 1999, the Secretary issued another notice, announcing 
+revisions to certain proposed regulations.  See Regulations 
+Implementing the Federal Coal Mine Health and Safety Act 
+of 1969, as Amended, 64 Fed. Reg. 54,966-55,072 (proposed 
+Oct. 8, 1999).  After receiving more comments and testimony 
+and consulting NIOSH and other experts, the Secretary 
+
+promulgated the final rule, which would go into effect on 
+January 19, 2001.  See Regulations Implementing the Federal 
+Coal Mine Health and Safety Act of 1969, as Amended, 65 
+Fed. Reg. 79,920-80,107 (Dec. 20, 2000).
+
+     The appellants in this case include mine operators, insur-
+ance companies, and the National Mining Association (collec-
+tively "NMA").  The BLBA requires coal mine operators to 
+purchase insurance to cover their liabilities under the Act.  
+See 30 U.S.C. s 933 (governing employers' insurance ar-
+rangements);  20 C.F.R. Part 726 (entitled "Black Lung Bene-
+fits;  Requirements for Coal Mine Operator's Insurance").  
+The Secretary of Labor anticipates that the new rules will 
+impose costs on mine operators in the form of higher insur-
+ance premiums.  See 65 Fed. Reg. at 80,030.  The Secretary's 
+initial analysis indicated that, in the long term, the new rules 
+would cause operators' insurance premiums to go up by about 
+39.3%, resulting in total annual costs to the industry of 
+approximately $57.56 million.  Id.  The Secretary's analysis 
+also suggested that the overall approval rate for claims 
+against responsible coal mine operators would increase from 
+7.33% to no more than 12.18%.  Id. at 80,036.  It is not clear 
+how much of this anticipated increase is attributable to an 
+anticipated increase in approval of claims that are already 
+pending, and how much is attributable to claims that have not 
+yet been filed.
+
+     Almost immediately after the final regulations were an-
+nounced, appellants sought declaratory and injunctive relief 
+in the United States District Court for the District of Colum-
+bia.  See Am. Compl. p 1, reprinted in Joint Appendix 
+("J.A.") 1.  They challenged many of the rules as impermissi-
+bly retroactive.  See id. pp 19-23.  They alleged that many of 
+the rules violated the BLBA or applicable provisions of the 
+Longshore and Harbor Workers Compensation Act 
+("LHWCA" or "Longshore Act"), 33 U.S.C. ss 901-950, many 
+provisions of which are incorporated by reference into the 
+BLBA by 30 U.S.C. s 932(a).  See Am. Compl. pp 24-26.  
+They alleged that some of the rules impermissibly shifted the 
+burden of proof.  See id .pp 27-32.  They alleged that certain 
+rules ran afoul of the right to a full and fair hearing, treated 
+
+parties unequally, or were arbitrary, capricious, and an abuse 
+of discretion in contravention of the Administrative Procedure 
+Act ("APA").  See id. pp 33-43.  Finally, they alleged that the 
+rulemaking procedure was inadequate and that the rules 
+violated the due process guarantee of the Constitution.  Id. 
+pp 44-52.  The United Mine Workers of America and other 
+black lung advocates, including miners, intervened on behalf 
+of the Secretary.
+
+     The District Court granted the NMA limited injunctive 
+relief, but ultimately granted the Secretary's motion for sum-
+mary judgment, upholding the regulations in every respect.  
+Nat'l Mining Ass'n v. Chao, 160 F. Supp. 2d 47 (D.D.C. 2001) 
+(Mem. Op.) [hereinafter "NMA"].  Rejecting the Secretary's 
+argument that the District Court lacked jurisdiction, the 
+court first found that it had jurisdiction pursuant to 28 U.S.C. 
+s 1331, because NMA challenged a rulemaking, rather than 
+an "order," of DOL.  Id. at 54-56.  Black lung benefits 
+determinations ("orders") may be challenged only in the 
+Court of Appeals.  33 U.S.C. s 921(c), (e).
+
+     The District Court next addressed NMA's claim that many 
+of the rules were impermissibly retroactive, in part because 
+they applied to pending claims as well as claims filed after the 
+effective date of the regulations.  See NMA, 160 F. Supp. 2d 
+at 65.  The court agreed with all parties that the Secretary 
+was not authorized to promulgate retroactive regulations, but 
+found that the challenged regulations were not retroactive, 
+because some apply only to newly filed claims, while the 
+remainder "simply clarify legal principles that were already 
+in effect and [did] not change the substantive standards of 
+entitlement."  Id.  Finally, the District Court upheld the 
+regulations against the various substantive challenges.  Id. at 
+69-90.  Appellants now seek review of the District Court's 
+determinations.
+
+                          II. Discussion
+
+A.   Jurisdiction
+
+     The government challenged the District Court's jurisdiction 
+to hear appellants' broad-scale attack on the Department's 
+
+regulations and reiterates that argument before us.  It is the 
+government's contention that the mining companies may only 
+challenge the regulations piecemeal, insofar as particular 
+provisions are brought into question, by an appeal directly to 
+the Court of Appeals from a compensation order of the 
+Benefits Review Board.  That is so, according to the govern-
+ment, because the BLBA provides that a person "adversely 
+affected or aggrieved by a final order of the Board may 
+obtain review of that order in the United States court of 
+appeals for the circuit in which the injury occurred ..."  33 
+U.S.C. s 921(c) (emphasis added).
+
+     The obvious difficulty with the government's position is 
+that this provision putting exclusive review jurisdiction in the 
+Court of Appeals speaks of orders, but Congress in passing 
+the APA drew a distinction between orders, which typically 
+follow adjudications, and regulations.  See National Treasury 
+Employees Union v. Weise, 100 F.3d 157, 160 (D.C. Cir. 1996) 
+(explaining that courts and Congress use the terms "regula-
+tion" and "rule" interchangeably);  compare 5 U.S.C. s 551(4) 
+(defining "rule") with id. s 551(6) (defining "order").  Indeed, 
+the BLBA itself indicates that Congress was using order in 
+the same sense it used the term in the APA.  The other 
+provision the government points to, 33 U.S.C. s 921(e), states 
+that "proceedings for suspending, setting aside, or enforcing a 
+compensation order, whether rejecting a claim or making an 
+award, shall not be instituted otherwise than as provided 
+above" (referring to s 921(c) (emphasis added)).  That lan-
+guage makes rather clear that in s 921(c) Congress used the 
+term "order" to refer to an adjudicatory compensation order, 
+not the promulgation of a regulation, and therefore the 
+preclusion of review other than by s 921(c) would seem not to 
+apply to review of a regulation.  Since Congress was silent on 
+how review of regulations was to be accomplished, it would 
+appear accordingly that persons seeking such review would 
+be directed by the APA to go to district court.  See Work-
+place Health & Safety Council v. Reich, 56 F.3d 1465, 1467 
+(D.C. Cir. 1995).
+
+     In that regard, the Supreme Court's decision in McNary v. 
+Haitian Refugee Center, Inc., 498 U.S. 479 (1991), instructs 
+
+us to read very carefully legislative restrictions on district 
+court review of generic challenges to agency action.  In the 
+Immigration Reform and Control Act of 1986, Congress pro-
+vided that there would be "no administrative or judicial 
+review of a determination respecting an application for ad-
+justment of status" except in accordance with that subsection, 
+which eventually provided for judicial review in the Court of 
+Appeals.  8 U.S.C. s 1160(e).  The Court held that s 210(e) 
+of the Reform Act did not deprive a district court of subject 
+matter jurisdiction of "general collateral challenges to uncon-
+stitutional practices and policies used by the agency in pro-
+cessing applications."  McNary, 498 U.S. at 492.
+
+     The Court read the phrase "determination respecting an 
+application for adjustment of status" to refer only to an 
+individual adjudication - not a determination made in a 
+regulation.  In our case, the word order is more obviously 
+confined to an adjudication than the word determination, so 
+therefore this case, linguistically, appears a fortiori to 
+McNary.1  To be sure, the Court also observed that plaintiffs' 
+challenge to the procedures would not easily be remedied by 
+individual appeals to the Court of Appeals, a notion we return 
+to below.  Id. at 496.
+
+     The government points to another Supreme Court case, 
+Thunder Basin Coal Company v. Reich, 510 U.S. 200 (1994), 
+holding that the Federal Mine Safety and Health Act preclud-
+ed district court jurisdiction over a pre-enforcement challenge 
+to several Department of Labor regulations.  In that case, a 
+
+__________
+     1 The Second Circuit has also recognized that the term "order" 
+carries a limited meaning.  In Merritt v. Shuttle, Inc., 187 F.3d 263 
+(2d Cir. 1999) (Merritt I), that court held that Merritt could not 
+bring a Bivens claim challenging an FAA order suspending his 
+pilot's certificate because 49 U.S.C. s 46110(a) vested review of an 
+FAA "order" in the Court of Appeals and his Bivens claim chal-
+lenged the merits of the administrative adjudication.  By contrast, 
+in Merritt v. Shuttle, Inc., 245 F.3d 182, 188 (2d Cir. 2001) (Merritt 
+II), the Second Circuit clarified that s 46110(a), which referred only 
+to an FAA order, did not preclude district court jurisdiction over 
+Merritt's FTCA claim, which did not claim that he was either 
+injured or aggrieved by the order suspending his license.
+
+mine operator refused to post the names of two United Mine 
+Workers of America employees - not employees of the mine 
+operator - who had been chosen by its employees as their 
+representatives to "walk around" with federal inspectors.  
+The Mine Safety statute authorized the Secretary of Labor to 
+seek enforcement of the posting in proceedings before the 
+Federal Mine Safety and Health Review Commission.  Be-
+fore the Secretary could do so, the mine operator, claiming 
+rights under both the National Labor Relations Act and the 
+Constitution, sought an injunction against the Labor Depart-
+ment's position that the mine operator was obliged to post the 
+names.  The Court held that the District Court lacked juris-
+diction over "such" a pre-enforcement challenge in light of the 
+comprehensive administrative and judicial review procedures 
+culminating in the Court of Appeals.  Id. at 208.  Although 
+the statute was silent on pre-enforcement review, this sort of 
+case was thought to be implicitly precluded.  The company 
+had simply jumped the gun by suing before the Secretary 
+issued a citation, and the company's argument that both the 
+Constitution and the National Labor Relations Act allowed it 
+to exclude non-employee representatives could be meaningful-
+ly reviewed in the Court of Appeals.  It is important to note 
+that the case did not involve a regulation, which is typically 
+treated differently from an adjudication.  United States v. 
+Florida East Coast Ry. Co., 410 U.S. 810, 820-21 (1973).  
+Indeed, under the Mine Safety Act safety standards are 
+issued as regulations and are explicitly reviewable in the 
+Court of Appeals. 30 U.S.C. s 811(d).2
+
+     The government also relies on two circuit court cases, 
+Compensation Dep't of Dist. Five v. Marshall, 667 F.2d 336, 
+340-44 (3d Cir. 1981), and Louisville & Nashville R.R. v. 
+Donovan, 713 F.2d 1243, 1245-47 (6th Cir. 1983), denying pre-
+enforcement review under this very statute.  The first of 
+these, upon which the second relies, involved a request for an 
+injunction brought by the United Mine Workers against the 
+
+__________
+     2 The Court did not indicate how it would treat the review of a 
+regulation that was not a safety standard.  Compare Chamber of 
+Commerce of the United States v. Dep't of Labor, 174 F.3d 206 
+(D.C. Cir. 1999), with id. at 213 (Silberman, J., dissenting).
+
+Labor Department to prevent the Secretary from indepen-
+dently examining x-rays presented by those seeking eligibility 
+for black lung benefits.  The statute obliged the Secretary to 
+accept a radiologist's interpretation of an x-ray if certain 
+requirements were met.  The Secretary's position was that 
+although his Office of Workers' Compensation was bound, 
+neither an ALJ nor the independent Benefits Review Board 
+was so bound, and therefore nothing prevented the Secretary 
+from turning over a competing interpretation to the mine 
+operator to be used as rebuttal evidence.
+
+     The Third Circuit held that the District Court lacked 
+jurisdiction because the "scheme of review" established by 
+Congress "for determination of black lung benefits" was 
+exclusive;  it provided administrative review and then review 
+in the Court of Appeals.  There was no reason why the 
+United Mine Workers could not challenge the Secretary's 
+enforcement policy in an individual adjudication before the 
+Benefits Review Board and, if necessary, in the Court of 
+Appeals.  The case therefore bears a strong resemblance to 
+Thunder Basin;  a plaintiff sought to short-circuit the admin-
+istrative process by challenging a Department enforcement 
+position in a district court.  Compare Compensation Depart-
+ment, 667 F.2d at 340, with Thunder Basin, 510 U.S. at 216.
+
+     The Sixth Circuit's Louisville & Nashville R.R. case is 
+somewhat more problematic.  There, fifteen railroads sought 
+and gained an injunction in district court preventing the 
+Secretary from extending coverage of the BLBA to railroad 
+employees.  The Department of Labor had issued guidelines 
+defining the statutory term "transportation of coal" to include 
+railroad employees if they were transporting coal between the 
+extraction site and the tipple and if their work was necessary 
+to the extraction process.  The Sixth Circuit reversed, follow-
+ing the Third Circuit's analysis in Compensation Department, 
+pointing out that any railroad could contest the Secretary's 
+position before the Benefits Review Board, and if necessary 
+challenge an order awarding benefits in the Court of Appeals.  
+Although the guidelines involved seem a bit more generic 
+than the enforcement policies implicated in either Thunder 
+Basin or Compensation Department, the Secretary had not 
+
+issued a formal regulation, as is true in our case, and again as 
+in Compensation Department, 667 F.2d at 334, there was no 
+reason to believe that a railroad's legal position, if correct, 
+could not be fully remedied through review in the Court of 
+Appeals.  Louisville & Nashville RR, 713 F.2d at 1246-47.3
+
+     In the case at bar the Secretary of Labor has chosen, as 
+was not true in any of the cases upon which the government 
+relies, to gain all of the law-declaring attributes of an APA 
+notice-and-comment rulemaking.  Trans-Pacific Freight Con-
+ference of Japan/Korea v. Federal Maritime Comm'n, 650 
+F.2d 1235, 1244-45 (D.C. Cir. 1980) (distinguishing notice-
+and-comment rulemaking, which is "prospective in operation 
+and general in scope," from adjudications).  Accordingly, the 
+cases upon which she relies do not really support her position.  
+Moreover, the regulations before us are challenged primarily 
+on the ground that they are impermissibly retroactive.  To 
+determine whether that is true it is necessary to analyze 
+carefully all of the regulations together as well as the entire 
+rulemaking process, which would not be feasible in individual 
+adjudications dealing with particular regulatory provisions.  
+Cf. Kreschollek v. Southern Stevedoring Co., 78 F.3d 868 (3d 
+Cir. 1996) (holding that 33 U.S.C. s 921 did not deprive a 
+district court of jurisdiction over plaintiff's constitutional 
+claim as to the lack of a pre-deprivation hearing because the 
+statutory review process would be insufficient to provide him 
+with the full relief to which he might be entitled).  In that 
+respect, this case is closer to McNary than Thunder Basin.  
+As such, the District Court did have jurisdiction over appel-
+lants' challenges, to which we now turn.
+
+B.   Retroactivity
+
+     Appellants argue that some of the provisions in the new 
+regulations are impermissibly retroactive.  In particular, ap-
+
+__________
+     3 The Seventh Circuit, by contrast, has explained that even "an 
+order denying or revoking a certificate of exemption, not being a 
+compensation order, would not be subject to the special review 
+procedure established by 33 U.S.C. s 921."  Maxon Marine, Inc. v. 
+Director, Office of Workers' Compensation Programs, 39 F.3d 144, 
+146 (7th Cir. 1994).
+
+pellants cite the following rules:  ss 718.104(d), 718.201(a)(2), 
+718.201(c), 718.204(a), 725.101(a)(6), 725.101(a)(31), 725.204, 
+725.212(b), 725.213(c), 725.214(d), 725.219(c), 725.219(d), 
+725.309(d), and 725.701.  We will address each rule in turn.
+
+     1.   Legal Principles Governing Retroactivity
+          
+     The general legal principles governing retroactivity are 
+relatively easy to state, although not as easy to apply.  An 
+agency may not promulgate retroactive rules absent express 
+congressional authority.  Bowen v. Georgetown Univ. Hosp., 
+488 U.S. 204, 208 (1988).  A provision operates retroactively 
+when it "impair[s] rights a party possessed when he acted, 
+increase[s] a party's liability for past conduct, or impose[s] 
+new duties with respect to transactions already completed."  
+Landgraf v. USI Film Prods., 511 U.S. 244, 280 (1994).  In 
+the administrative context, a rule is retroactive if it " 'takes 
+away or impairs vested rights acquired under existing law, or 
+creates a new obligation, imposes a new duty, or attaches a 
+new disability in respect to transactions or considerations 
+already past.' "  Nat'l Mining Ass'n v. United States Dep't of 
+Interior, 177 F.3d 1, 8 (D.C. Cir. 1999) (quoting Ass'n of 
+Accredited Cosmetology Sch. v. Alexander, 979 F.2d 859, 864 
+(D.C. Cir. 1992)).  The critical question is whether a chal-
+lenged rule establishes an interpretation that "changes the 
+legal landscape."  Id. (quoting Health Ins. Ass'n of Am., Inc. 
+v. Shalala, 23 F.3d 412, 423 (D.C. Cir. 1994)).  It is undisput-
+ed here that the Secretary was not authorized to promulgate 
+retroactive rules governing BLBA benefits determinations.  
+Hence, the parties dispute only whether the challenged regu-
+lations are retroactive.
+
+     The Secretary argues that none of the rules is retroactive, 
+even as applied to pending claims, because all are merely 
+procedural and do not confer new substantive rights or 
+liabilities.  See Landgraf, 511 U.S. at 275 ("Changes in proce-
+dural rules may often be applied in suits arising before their 
+enactment without raising concerns about retroactivity.").  It 
+is true that purely procedural rules often do not operate 
+retroactively even when applied to transactions predating 
+their institution.  This is because such rules often regulate 
+
+only "secondary rather than primary conduct."  Id.  Where a 
+"procedural" rule changes the legal landscape in a way that 
+affects substantive liability determinations, however, it may 
+operate retroactively.  See Martin v. Hadix, 527 U.S. 343, 
+359 (1999) (noting that, in Landgraf, the Court "took pains to 
+dispel the 'suggest[ion] that concerns about retroactivity have 
+no application to procedural rules' ") (quoting Landgraf, 511 
+U.S. at 275 n.29).
+
+     Rather than rely on "procedural" and "substantive" labels, 
+a court must "ask whether the [regulation] operates retroac-
+tively."  Id.  This inquiry involves a "commonsense, function-
+al judgment about 'whether the new provision attaches new 
+legal consequences to events completed before its enact-
+ment.' "  Id. at 357-58 (quoting Landgraf, 511 U.S. at 270).  
+Thus, where a rule "changes the law in a way that adversely 
+affects [a party's] prospects for success on the merits of the 
+claim," it may operate retroactively even if designated "proce-
+dural" by the Secretary.  Ibrahim v. District of Columbia, 
+208 F.3d 1032, 1036 (D.C. Cir. 2000).
+
+     The Secretary argues, and the District Court agreed, that 
+none of the challenged rules changes the landscape, because 
+the rules merely clarify the Secretary's position or conform to 
+cases decided by the Courts of Appeals.  In analyzing each 
+new regulation, we first look to see whether it effects a 
+substantive change from the agency's prior regulation or 
+practice.  If a new regulation is substantively consistent with 
+prior regulations or prior agency practices, and has been 
+accepted by all Courts of Appeals to consider the issue, then 
+its application to pending cases has no retroactive effect.  If a 
+new regulation is substantively inconsistent with a prior 
+regulation, prior agency practice, or any Court of Appeals 
+decision rejecting a prior regulation or agency practice, it is 
+retroactive as applied to pending claims.
+
+     Some of the challenged rules here codify the results of a 
+case in one circuit while effectively reversing a case in 
+another circuit in which the court rejected the Secretary's 
+practice or policy.  Such rules change the legal landscape as 
+applied to cases that were pending when the regulations were 
+
+promulgated.  See National Mining, 177 F.3d at 8 (explain-
+ing that "[w]here before there was 'a range of possible 
+interpretations,' " of the relevant statutes, a rule may estab-
+lish " 'a precise interpretation' " that changes the legal land-
+scape) (citing Health Ins. Ass'n, 23 F.3d at 423-24).  It goes 
+without saying that such rules change the law for cases 
+pending in the circuit that previously rejected the Secretary's 
+approach.  In those cases, the operators insured against the 
+filed claims based on the law in effect at the time the claims 
+were filed.  Less obviously, the regulations preclude the 
+courts in other circuits from adopting the view of their sister 
+court rejecting the Secretary's position, a possibility that was 
+still available when the cases were initially filed.  Thus, to the 
+extent that a new rule reflects a substantive change from the 
+position taken by any of the Courts of Appeals and is likely to 
+increase liability, that rule is impermissibly retroactive as 
+applied to pending claims.
+
+     2.   Application of Legal Principles to Challenged Rules
+          
+     We find some of the challenged rules to be impermissibly 
+retroactive as applied to claims that were pending on the 
+regulations' effective date.  None of the new regulations is 
+retroactive as to claims filed on or after the effective date.  
+The distinction between pending and newly filed claims is one 
+on which appellants rely in their briefs.  See Br. for Appel-
+lants at 15 n.6 (stating that the relevant date for purposes of 
+retroactivity is the date the claim is filed, as that is the last 
+date on which the operators' and insurers' transactions are 
+closed and expectations are settled);  Reply Br. for Appellants 
+at 4 (arguing that the Secretary "fails to explain why key 
+provisions are expressly made retroactively applicable to 
+pending and previously filed claims," while saying nothing 
+about claims filed after the effective date).  Moreover, NMA 
+never affirmatively argues that the rules should be considered 
+retroactive as applied to claims first filed after the effective 
+date.  Nor would the record support such an argument.
+
+     Appellants do argue that the regulations are retroactive as 
+applied to newly filed claims when those claims are "subse-
+quent claims."  We reject this argument.  Under both the 
+
+new and old regulations, a miner whose claim is initially 
+denied may later file a new claim if he subsequently develops 
+black lung disease or can show that another condition of 
+entitlement has changed.  See 20 C.F.R. s 725.309(d).  As we 
+explain in more detail below, a claimant bringing such a claim 
+still bears the burden of demonstrating that he meets all of 
+the relevant conditions.  For this reason, we agree with the 
+Secretary that such claims are new claims to which the 
+application of the new regulations is permissible.
+
+     20 C.F.R. s 718.104(d):  The "treating physician rule" in-
+structs the officer adjudicating a miner's claim to consider the 
+relationship between the miner and any treating physician 
+whose report is submitted when determining whether the 
+miner suffers from black lung disease and whether he was 
+totally disabled or died because of the disease.  The disputed 
+rule instructs the officer to consider the nature of the rela-
+tionship (a doctor's opinion is entitled to more weight if he 
+has treated the miner for pulmonary, as opposed to non-
+pulmonary, conditions), its duration, the frequency of treat-
+ment, and the extent of treatment in weighing the doctor's 
+opinion along with the other evidence.  20 C.F.R. 
+s 718.104(d)(1)-(4).  The regulation provides that in "appro-
+priate cases," the doctor-patient relationship "may constitute 
+substantial evidence in support of the adjudication officer's 
+decision to give that physician's opinion controlling weight," 
+but only when the weight given is based on the credibility of 
+that physician's opinion "in light of its reasoning and docu-
+mentation, other relevant evidence and the record as a 
+whole."  Id. s 718.104(d)(5) (emphasis added).  It applies 
+both to pending claims and claims filed after the regulations' 
+effective date.  See id. ss 718.2, 725.4(a) (setting forth the 
+applicability of the regulations in Part 718).  The old rule said 
+nothing about the relationship between the miner and the 
+evaluating doctor.  See 20 C.F.R. s 718.104 (2000).
+
+     We hold that treating physician rule is not retroactive, 
+because it codifies judicial precedent and does not work a 
+substantive change in the law.  NMA argues that the rule 
+contravenes a number of court decisions.  This argument is 
+unfounded.  The consensus among courts has been that an 
+
+agency adjudicator may give weight to the treating physi-
+cian's opinion when doing so makes sense in light of the 
+evidence and the record, but may not mechanistically credit 
+the treating physician solely because of his relationship with 
+the claimant.  For example, in Peabody Coal Co. v. McCand-
+less, 255 F.3d 465, 469 (7th Cir. 2001), relied upon by NMA, 
+the Seventh Circuit restated its disapproval of "any mechani-
+cal rule that the views of a treating physician prevail" (citing 
+Consolidation Coal Co. v. OWCP, 54 F.3d 434, 438 (7th Cir. 
+1995)).  Instead, the Seventh Circuit has repeatedly demand-
+ed that the adjudicator explain his or her decision to credit 
+the treating physician in terms of "a medical reason," id., or 
+explain why the opinion of the treating physician was viewed 
+to be "better reasoned" than the opinions of non-treating 
+physicians, Consolidation Coal Co., 54 F.3d at 438;  see also 
+Amax Coal Co. v. Beasley, 957 F.2d 324, 327 (7th Cir. 1992) 
+(holding, in a case where both doctors agreed that coal 
+exposure probably had not caused the miner's death, that an 
+ALJ may not disregard uncontradicted medical evidence nor 
+give more weight to the examining physician "solely because 
+that doctor personally treated the claimant") (emphasis in 
+original).  These holdings are codified in the new 
+s 718.104(d), which by its terms allows an adjudicator to give 
+weight to the treating physician's opinion only when that 
+decision is supported by the opinion's "reasoning and docu-
+mentation" in light of the other evidence in the record.  20 
+C.F.R. s 718.104(d)(5).
+
+     The other cases cited by appellants similarly express the 
+principles embodied in the new rule.  In Sterling Smokeless 
+Coal Co. v. Akers, 131 F.3d 438, 441 (4th Cir. 1997), the 
+Fourth Circuit vacated an award of benefits where the ALJ 
+had "mechanistically credited, to the exclusion of all other 
+testimony," the opinions of two examining physicians who had 
+only treated the miner for a month, despite allegations that 
+the two doctors had not independently evaluated the miner 
+themselves.  The court acknowledged that the opinions of 
+treating physicians can be "deserv[ing of] especial consider-
+ation," but rejected any requirement or presumption that 
+their opinions automatically be given greater weight.  Id. 
+
+(quoting Grizzle v. Pickands Mather & Co., 994 F.2d 1093, 
+1097 (4th Cir. 1993)).
+
+     Likewise, the Sixth Circuit recently summarized its law in 
+Peabody Coal Co. v. Groves, 277 F.3d 829 (6th Cir. 2002).  
+Reviewing past cases, the court explained that opinions of 
+treating physicians are entitled to greater weight, but should 
+not "automatically be presumed to be correct";  rather, "their 
+opinions should be 'properly credited and weighed.' "  Id. at 
+834 (quoting Tussey v. Island Creek Coal Co., 982 F.2d 1036, 
+1042 (6th Cir. 1993)).  Adjudicators must "examine the medi-
+cal opinions of treating physicians on their merits and ... 
+make a reasoned judgment about their credibility."  Id.;  
+accord Griffith v. Director, OWCP, 49 F.3d 184, 186-87 (6th 
+Cir. 1995) (holding that an ALJ was not required to give 
+greater weight to the opinion of the treating physician where 
+the physician was equivocal as to the cause of the miner's 
+disease).
+
+     In short, appellants do not cite a single case from any 
+circuit in which a Court of Appeals espoused principles at 
+odds with the new rule embodied in s 718.104(d).  As the 
+cases demonstrate, the courts to consider the issue have 
+adopted the balanced policy reflected in the new rule.  Thus, 
+the rule does not upset settled expectations, and it is not 
+retroactive as applied to pending claims for benefits.
+
+     20 C.F.R. s 718.201(a)(2):  NMA argues that the new rule 
+in s 718.201(a), which defines pneumoconiosis, is impermissi-
+bly retroactive.  Section 718.201(a) parrots the statutory defi-
+nition of pneumoconiosis, i.e., "a chronic dust disease of the 
+lung and its sequelae, including respiratory and pulmonary 
+impairments, arising out of coal mine employment."  See 30 
+U.S.C. s 902(b).  The regulation goes on to define pneumoco-
+niosis as including both medical or "clinical" pneumoconiosis 
+and statutory or "legal" pneumoconiosis.  20 C.F.R. 
+s 718.201(a).  Legal pneumoconiosis is defined to include 
+"any chronic lung disease or impairment ... arising out of 
+coal mine employment," including "any chronic restrictive or 
+obstructive pulmonary disease arising out of coal mine em-
+ployment."  Id. s 718.201(a)(2).
+
+     NMA challenges as retroactive the inclusion of restrictive 
+or obstructive pulmonary disease in the definition of pneumo-
+coniosis.  It argues that most courts require individual min-
+ers to prove the causal relationship between mining and their 
+obstructive lung disease, and that the new rule will change 
+this.  This argument is misplaced.  NMA concedes that the 
+record supports the premise that obstructive lung disease 
+may be caused by mining exposure and can contribute to a 
+miner's disability.  Br. for Appellants at 17 n.8.  The new 
+rule does no more than reflect this reality.  It does not, as 
+appellants suggest, create a presumption that all or even 
+most obstructive disease is caused by exposure to coal dust.  
+The District Court correctly found that, under both the old 
+and new regulations, "each miner bear[s] the burden of 
+proving that his obstructive lung disease did in fact arise out 
+of his coal mine employment."  NMA, 160 F. Supp. 2d at 79 
+(quoting 65 Fed. Reg. at 79,938) (emphasis added).
+
+     NMA also alleges that the preamble to the regulations 
+impermissibly suggests that an adjudicator may ignore a 
+medical report if the reporting doctor concludes that a min-
+er's obstructive lung disease was caused by smoking, rather 
+than mining.  This objection is entirely meritless.  The regu-
+lation's plain text in no way indicates that medical reports will 
+be excluded if they conclude that a particular miner's obstruc-
+tive disease was caused by smoking, rather than mining.  
+Indeed, the preamble itself states that the revised definition 
+does not alter the requirement that individual miners must 
+demonstrate that their obstructive lung disease arose out of 
+their work in the mines.  See 65 Fed. Reg. at 79,938.  And 
+appellants acknowledge that this regulatory statement is ac-
+ceptable.  Br. for Appellants at 17 n.8.  To the extent that 
+appellants' objection is based on anticipated misapplications 
+of the rule by agency adjudicators, it is unripe for review.  
+Appellants may object to applications of the rule only in the 
+context of concrete cases.
+
+     20 C.F.R. s 718.201(c), 725.309(d):  Section 718.201(c) states 
+that pneumoconiosis is "recognized as a latent and progres-
+sive disease which may first become detectable only after the 
+cessation of coal mine dust exposure."  Appellants argue that 
+
+this regulatory statement is impermissibly retroactive, be-
+cause the question whether pneumoconiosis is latent and 
+progressive is unsettled.  This contention is based on a false 
+reading of the rule.
+
+     Appellants acknowledge that at least one rare type of 
+pneumoconiosis is both latent and progressive, but argue that 
+the more common "simple pneumoconiosis" is not.  Br. for 
+Appellants at 17.  During oral argument, the Secretary con-
+ceded that the most common forms of pneumoconiosis are not 
+latent.  Moreover, the Secretary acknowledged that latent 
+and progressive pneumoconiosis is rare, occurring in a small 
+percentage of cases by all accounts.  Tr. of Oral Arg. at 52-55.  
+Nothing in the disputed rule says otherwise.  The rule simply 
+prevents operators from claiming that pneumoconiosis is nev-
+er latent and progressive.  The medical literature makes it 
+clear that pneumoconiosis may be latent and progressive, and 
+appellants do not dispute this point.
+
+     NMA's concern about the definition of pneumoconiosis as 
+latent and progressive is tied to the fact that, under 20 C.F.R. 
+s 725.309(d), a claimant whose claim was previously denied 
+may file a subsequent claim.  The subsequent claim will be 
+denied unless the claimant demonstrates that one of the 
+applicable conditions of entitlement has changed since the 
+claim was denied.  Id.  The "applicable condition" must be 
+one of the conditions on which the claim was denied in the 
+first place.  Id. s 725.309(d)(2).  Thus, a miner who was 
+originally found not to suffer from black lung disease may file 
+again if he develops the disease subsequently.  Any such 
+claimant, however, must still prove that he now has pneumo-
+coniosis and that his disease arose out of employment in coal 
+mines.
+
+     On its own, s 725.309(d) is not retroactive.  First, it applies 
+only to claims filed after the regulations' effective date and 
+has no application to pending subsequent claims.  See id. 
+s 725.2(c).  In any event, the new regulation, in relevant part, 
+mirrors the prior s 725.309(d), which provided that a subse-
+quent claim will be denied unless the deputy commissioner 
+determines that "there has been a material change in condi-
+
+tions."  20 C.F.R. s 725.309(d) (2000).  Counsel acknowl-
+edged at oral argument that, under the old regulatory regime, 
+a claimant who had been denied benefits could reapply when 
+relevant conditions changed.  Tr. of Oral Arg. at 39.  The 
+new rule does not allow anything more.  Because it is not 
+substantively new, it does not change the legal landscape.
+
+     Nor is s 725.309(d) retroactive in combination with the rule 
+recognizing that pneumoconiosis can be latent and progres-
+sive.  While appellants express concern that the regulations 
+allow claimants to relitigate old claims under an irrebuttable 
+presumption that the miners' pneumoconiosis is progressive, 
+the rules afford no such presumption.  The fundamental 
+requirement that the claimant must prove a change in a 
+relevant condition (such as whether he developed pneumoco-
+niosis after his claim was denied) has not changed.  A miner 
+will only be successful in his subsequent claim if he has 
+actually developed pneumoconiosis or another relevant condi-
+tion of entitlement in the interim.
+
+     20 C.F.R. s 718.204(a):  The "total disability rule" provides 
+that nonpulmonary diseases that "cause[ ] an independent 
+disability unrelated to the miner's pulmonary or respiratory 
+disability, shall not be considered in determining whether a 
+miner is totally disabled due to pneumoconiosis."  The con-
+tested language does not appear in the prior version of the 
+regulation.  We find that the rule is retroactive as applied to 
+pending cases, because it changes the legal landscape in a 
+way that is likely to affect liability determinations.
+
+     NMA contends that the rule's purpose and effect is to 
+overrule a Seventh Circuit decision in Peabody Coal Co. v. 
+Vigna, 22 F.3d 1388 (7th Cir. 1994).  The record supports this 
+suggestion.  See 62 Fed. Reg. at 3344-45 (stating that the 
+new regulation "makes clear the Department's disagreement 
+with the holding in [Vigna]" and was "designed to ensure that 
+the Seventh Circuit's view will not be applied outside that 
+circuit to cases arising under part 718").  The District Court 
+held that the regulation codified existing law and the Secre-
+tary's prior interpretation.  NMA, 160 F. Supp. 2d at 67-68 
+(citing many cases and adding a "But see" citation to Vigna).
+
+     In Vigna, a miner who had mined for forty years suffered a 
+stroke and became totally disabled.  22 F.3d at 1390.  The 
+miner was also a longtime smoker.  Id.  The Seventh Circuit 
+held, contrary to the ALJ's finding, that the coal company 
+successfully rebutted the presumption that the miner's dis-
+ability arose from his coal mine employment.  Id. at 1394.  
+The court found that the evidence left no doubt that the 
+miner's employment did not contribute to his stroke, which 
+was the cause of his total disability.  Id.  At the time of the 
+stroke, there was no evidence that the miner had pneumoco-
+niosis.  Id.
+
+     Under the new rule, the adjudicator would not be able to 
+consider a nonpulmonary condition (such as a stroke) at all in 
+determining whether the miner was totally disabled due to 
+pneumoconiosis.  Instead, the adjudicator would have to de-
+termine whether the miner was totally disabled due to pneu-
+moconiosis without considering his unrelated, nonpulmonary 
+disability.  The new regulation thus changes the legal land-
+scape by precluding adjudicators from considering unrelated 
+medical disabilities, reversing the rule in the Seventh Circuit, 
+and precluding any other circuit from adopting the Seventh 
+Circuit's interpretation.  It cannot be said to be merely 
+"procedural," because it has a direct effect on the determina-
+tion of liability.
+
+     In finding the rule to be impermissibly retroactive as 
+applied to pending cases, we do not, of course, intend to affect 
+the law in circuits that have adopted or might adopt positions 
+that conform with the Secretary's interpretation.  See, e.g., 
+Cross Mountain Coal, Inc. v. Ward, 93 F.3d 211, 217 (6th Cir. 
+1996) (holding that "the fact that claimant may, or may not, 
+also be disabled by a back injury is not grounds for denying 
+his claim for benefits").  Instead, the effect of our ruling is to 
+leave the state of the law on this question exactly as it was 
+prior to the regulations' promulgation for cases that had 
+already been filed when the regulations were promulgated.
+
+     20 C.F.R. s 725.701:  The rule embodied in s 725.701 cre-
+ates a rebuttable presumption that when a miner who is 
+eligible for black lung benefits receives medical treatment for 
+
+a pulmonary disorder, the disorder is "caused or aggravated 
+by the miner's pneumoconiosis."  20 C.F.R. s 725.701(e).  
+The employer may rebut the presumption with "credible 
+evidence that the medical service or supply provided was for 
+a pulmonary disorder apart from those previously associated 
+with the miner's disability" or was beyond the treatment 
+necessary to treat the covered disorder, or "was not for a 
+pulmonary disorder at all."  Id.  The regulation codifies the 
+so-called Doris Coal presumption, named for a Fourth Circuit 
+case that adopted the presumption before it was included in 
+the new regulations.  See Doris Coal Co. v. Director, OWCP, 
+938 F.2d 492, 496-97 (4th Cir. 1991) ("Since most pulmonary 
+disorders are going to be related or at least aggravated by 
+the presence of pneumoconiosis, when a miner receives treat-
+ment for a pulmonary disorder, a presumption arises that the 
+disorder was caused or at least aggravated by the miner's 
+pneumoconiosis, making the employer liable for the medical 
+costs.").  The Fourth Circuit later reaffirmed and clarified 
+the presumption, using language that was mirrored in the 
+new regulation.  See Gulf & W. Indus. v. Ling, 176 F.3d 226, 
+233 (4th Cir. 1999) (holding that the employer can rebut the 
+presumption by producing "credible evidence that the treat-
+ment rendered is for a pulmonary disorder apart from those 
+previously associated with the miner's disability, or is beyond 
+that necessary to effectively treat a covered disorder, or is 
+not for a pulmonary disorder at all").
+
+     NMA argues that the regulation codifying the judicial 
+presumption is retroactive as applied to pending cases, and 
+we agree.  The rule is not reflected in the prior regulation, 
+even though it may reflect the Secretary's longstanding poli-
+cy.  See Doris Coal, 938 F.2d at 496-97.  Moreover, the rule 
+contradicts the Sixth Circuit's holding in Glen Coal Co. v. 
+Seals, 147 F.3d 502 (6th Cir. 1998).  In that case, the court 
+held that the Doris Coal presumption is permissible under 
+the APA, because it only reallocates the burden of production, 
+not the burden of proof.  Id. at 512-13.  Nonetheless, the 
+court struck down the presumption as inconsistent with Sixth 
+Circuit law, in part because it found that the creation of such 
+judicial presumptions ran afoul of the BLBA's statutory goal 
+
+of uniformity.  Id. at 513-14 (citing Director, OWCP v. Green-
+wich Collieries, 512 U.S. 267 (1994)).  The regulation changes 
+the outcome for cases that have already been filed in the 
+Sixth Circuit and any other circuit that would have rejected 
+Doris Coal.  Our holding is, of course, not intended to affect 
+the law in the Fourth Circuit or any other circuit that would 
+have embraced the Doris Coal presumption.  That judicial 
+presumption remains the law in the circuits that adopt it.  
+Our holding simply prevents the Secretary from imposing the 
+presumption, in the form of a new regulation, on all of the 
+other circuits for cases that were filed before the regulations 
+were promulgated.
+
+     20 C.F.R. s 725.101(a)(6):  The rule propounded in 
+s 725.101(a)(6) defines "benefits" to include any expenses 
+related to the medical examination and testing authorized 
+pursuant to s 725.406, which requires the Department of 
+Labor to provide each applicant for benefits with a pulmonary 
+evaluation at no expense to the miner.  The new 
+s 725.101(a)(6) conforms the regulatory definition of "bene-
+fits" to s 725.406, both the old and new versions.  The prior 
+version of s 725.406(c) already provided that the cost of the 
+medical examination would be paid by the Fund and that the 
+Fund would be reimbursed "by an operator, if any, found 
+liable for the payment of benefits to the claimant."  20 C.F.R. 
+s 725.406(c) (2000).  Likewise, the new s 725.406(e) provides 
+that the cost of the medical examination will be paid by the 
+Fund and that the Fund will be reimbursed "by an operator, 
+if any, found liable for the payment of benefits to the claim-
+ant."
+
+     NMA argues that s 725.101(a)(6) retroactively shifts to the 
+employer the cost of the medical examination provided under 
+s 725.406.  NMA recognizes that the cost always has been 
+shifted under s 725.406 when an operator is found liable for 
+the payment of benefits.  Its challenge is based on the 
+misperception that the new rule shifts the cost of the medical 
+examination even when the miner does not prevail.  This is 
+incorrect.  The cost shifts to the employer only when "bene-
+fits" are awarded.  When no benefits are awarded, the cost of 
+the examination presumably will continue to be paid by the 
+
+Fund, as set forth in s 725.406.  Appellants have not pointed 
+to anything in the new definition that departs from the 
+system already in place under the old s 725.406(c).  Thus, the 
+new definition changes nothing and is not impermissibly 
+retroactive.
+
+     20 C.F.R. s 725.101(a)(31):  The rule in s 725.101(a)(31) 
+provides that "[a] payment funded wholly out of general 
+revenues shall not be considered a payment under a workers' 
+compensation law."  This provision is significant because the 
+benefits payable under the BLBA must be offset by any 
+amount the miner receives for his black lung disability under 
+a state or federal workers' compensation law.  See 30 U.S.C. 
+s 932(g).  NMA agrees that the new rule reflects prior 
+agency practice, but argues that it is nonetheless retroactive 
+as applied to pending cases because at least one Court of 
+Appeals has rejected the agency's practice.  We agree.
+
+     In Director, OWCP v. Eastern Associated Coal Corp., 54 
+F.3d 141 (3d Cir. 1995), the Third Circuit declined to defer to 
+the Director of the OWCP's policy of not reducing a miner's 
+BLBA benefits by the amount that he received from general 
+revenues under a state occupational disease compensation act.  
+The court agreed that the statutory reference to "workers' 
+compensation law" was ambiguous.  However, the old regula-
+tion said nothing about payments funded out of general 
+revenues, so the court declined to exclude workers' compensa-
+tion payments funded out of general revenues.  Id. at 147-49;  
+20 C.F.R. s 725.101(a)(4) (2000).  The court suggested that 
+the Secretary rewrite the regulations to achieve the agency's 
+regulatory goal.  Id. at 149.  This is exactly what the Secre-
+tary did in promulgating 20 C.F.R. s 725.101(a)(31).  It would 
+be impermissibly retroactive, however, to apply the new 
+regulation to claims that were already pending when the new 
+regulation took effect.  It would also be retroactive to apply 
+the regulation to adjust the payments being made on settled 
+or resolved claims.  Of course, other circuits remain free to 
+apply the Secretary's longstanding interpretation of the prior 
+regulation to pending claims.  The regulation is not imper-
+missibly retroactive as applied to claims filed after the regula-
+tions' effective date.
+
+     20 C.F.R. ss 725.204, 725.212(b), 725.213(c), 725.214(d), 
+725.219(c), (d):  These regulations, as applied to claims other 
+than those filed after the regulations' effective date, are 
+impermissibly retroactive, because they expand the scope of 
+coverage by making more dependents and survivors eligible 
+for benefits.  For example, the new s 725.204 describes 
+criteria for determining whether a claimant qualifies for 
+augmented benefits as a miner's spouse.  The new version of 
+the regulation eliminates a provision in the prior version that 
+essentially prevented a miner from having more than one 
+qualifying spouse for purposes of augmented benefits.  Com-
+pare 20 C.F.R. s 725.204(a)(4) with 20 C.F.R. s 725.204(d)(1) 
+(2000).  Similarly, under the new 20 C.F.R. s 725.212(b) and 
+s 725.214(d), a miner could have more than one surviving 
+spouse if he divorced and remarried during the pertinent 
+period.  Sections 725.209 and 725.219 address the determina-
+tion of the miner's dependent children.  Section 725.213(c) 
+provides that a surviving spouse or surviving divorced spouse 
+whose entitlement to benefits is terminated because she 
+remarries may thereafter again become entitled to benefits, 
+either by divorcing or through the death of her successor 
+spouse.
+
+     The Secretary recognizes that the new definitions expand 
+the scope of liability, but defends the expansion as necessary 
+to conform to the 1990 amendments to the Social Security 
+Act, portions of which are incorporated into the BLBA.  See 
+30 U.S.C. s 902(a)(2), (e) (incorporating various Social Securi-
+ty Act definitions found at 42 U.S.C. s 416).  The District 
+Court agreed, holding that the revisions "bring the regula-
+tions into conformity with changes made by Congress in 1990 
+to the" Social Security Act's definitions of "dependent wife" 
+and other key terms.  NMA, 160 F. Supp. 2d at 69.
+
+     The Secretary's position as to the new provisions' applica-
+tion remains unclear.  In its brief, the Secretary suggests 
+that the expanded definitions apply to all BLBA claims filed 
+after the 1990 amendments to the Social Security Act.  Pre-
+sumably, this could even affect payments made on claims that 
+were finally adjudicated before the new regulations were 
+promulgated.  In a post-hearing chart submitted pursuant to 
+
+an order of this court, the Secretary stated that the provi-
+sions would apply to all claims pending on the new regula-
+tions' effective date, as well as to claims filed after that date, 
+and to all benefit payments made after that date, including 
+still-open claims filed on or after, or pending on, August 18, 
+1978.  See also 20 C.F.R. s 725.2 (setting forth the applicabil-
+ity of the provisions).
+
+     In either case, we hold that it would be unlawfully retroac-
+tive to apply the definitions to any claims other than those 
+filed on or after the regulations' effective date.  Before the 
+effective date, mine operators had no notice of the new 
+definitions, for they were never incorporated in the old regu-
+lations.  The Secretary and intervenors contend that the 
+Secretary had changed the functional definitions as early as 
+1994 to conform with the 1990 Social Security Act amend-
+ments, by changing the Department of Labor's procedural 
+manual.  Tr. of Oral Arg. at 80-84.  There are two problems 
+with this argument.  The first is that counsels' citation to the 
+record does not bear out the claim.  Counsel cited 65 Fed. 
+Reg. 79,964 in support of the argument that the Secretary 
+had already adopted these new definitions as far back as 
+1994.  But the cited page states only that, since 1994, the 
+Secretary's procedure manual has provided that when a sur-
+viving spouse and a surviving divorced spouse both qualify, 
+each is entitled to full benefits.  This citation does not 
+address the other challenged regulations, such as those deal-
+ing with surviving children and those addressing surviving 
+spouses who become ineligible and then become eligible 
+again.  The second problem is that the Secretary's prior 
+practice was encapsulated only in a manual, not in a regula-
+tion promulgated pursuant to notice-and-comment rulemak-
+ing.  There is nothing to indicate that the cited manual 
+purported to state substantive rules or that it was generally 
+known by and available to regulated parties.  The Secretary 
+cannot bind parties to substantive rules of which they had no 
+notice.
+
+     The Secretary argues that application of the revised defini-
+tions to all claims filed after the 1990 amendment date is 
+merely a correct application of the law in effect since that 
+
+time.  The Secretary relies on Regions Hospital v. Shalala, 
+522 U.S. 448, 456 (1998), in which the Court held that the 
+government's reaudit rule was not impermissibly retroactive 
+because it merely called for the correct "application of the 
+cost-reimbursement principles in effect" when the costs were 
+incurred.  By contrast, the instant regulations would actually 
+change the scope of liability for claims that were filed at a 
+time when these rules were not in effect.  The decision in 
+Regions Hospital does not support an argument that the 
+Secretary may apply newly updated regulations retroactively 
+to pending claims that were initiated before the change.  
+Claims that have been resolved or settled, and claims that 
+were filed after the effective date of the new rules, are not 
+affected by this holding.
+
+C.   Substantive Challenges
+
+     In considering NMA's challenges to the revised regulations, 
+we are guided by well-accepted principles of administrative 
+law.  To the extent NMA argues that the regulations conflict 
+with the statute, we begin by asking whether "Congress has 
+directly spoken to the precise question at issue.  If the intent 
+of Congress is clear, that is the end of the matter;  for the 
+court, as well as the agency, must give effect to the unambig-
+uously expressed intent of Congress."  Chevron, U.S.A., Inc. 
+v. Natural Res. Def. Council, 467 U.S. 837, 842 (1984).  If, 
+however, "the statute is silent or ambiguous with respect to 
+the specific issue," we defer to the agency's reasonable con-
+struction of that statute.  Id. at 843.  As for NMA's arbitrary 
+and capricious challenges, we will uphold the regulations as 
+long as they "conform to certain minimal standards of ration-
+ality."  Small Refiner Lead Phase-Down Task Force v. EPA, 
+705 F.2d 506, 521 (D.C. Cir. 1983) (citation and internal 
+quotation marks omitted).  Though agencies have a duty of 
+reasoned decisionmaking, see Motor Vehicle Mfrs. Ass'n v. 
+State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983), we 
+"presume the validity of agency action," Kisser v. Cisneros, 
+14 F.3d 615, 618 (D.C. Cir. 1994), and may vacate only if the 
+regulation is unsupported by substantial evidence, or if the 
+agency has made a clear error in judgment, see Citizens to 
+Preserve Overton Park v. Volpe, 401 U.S. 402, 415-16 (1971).  
+
+We give particular deference to an agency's promulgation of 
+evidentiary rules governing its own adjudications;  the agen-
+cy's defense of those regulations need only be "reasonable" so 
+long as they are not "inconsistent with a federal statute," 
+such as the APA. Chem. Mfrs. Ass'n v. Dep't of Transp., 105 
+F.3d 702, 706 (D.C. Cir. 1997).  Finally, to the extent NMA 
+argues that where, as here, we consider a challenge to a 
+recently promulgated regulation, "[i]t is not uncommon ... 
+that ... the meaning of the disputed provisions does not 
+appear clearly until the case is before the courts of appeals.  
+We typically accept the agency's construction - which often 
+eliminates or narrows the dispute - because we recognize the 
+agency is entitled to deference as to the meaning of its own 
+regulation."  Nat'l Mining Ass'n v. Babbitt, 172 F.3d 906, 911 
+(D.C. Cir. 1999).  And in such cases, that construction may be 
+expressed in the agency's brief or even at oral argument.
+
+     With these standards in mind, we consider each section of 
+the revised regulations challenged by NMA.
+
+     Pneumoconiosis Definition
+
+     As revised, s 718.201(a) largely repeats the pneumoconiosis 
+definition contained in the regulation's prior version but 
+divides that definition into two groups, "clinical" pneumoconi-
+osis ("those diseases recognized by the medical community as 
+pneumoconiosis") and "legal" pneumoconiosis ("any chronic 
+lung disease or impairment ... arising out of coal mine 
+employment").  Compare 20 C.F.R. s 718.201 (2000) with 20 
+C.F.R. s 718.201(a) (2001).  This revision merely adopts a 
+distinction embraced by all six circuits to have considered the 
+issue, see, e.g., Ling, 176 F.3d at 231-32;  see also 65 Fed. 
+Reg. at 79,938 (citing six circuit court cases), and, contrary to 
+NMA's repeated assertions, neither "expand[s]" nor "rede-
+fine[s]" the meaning of pneumoconiosis beyond its statutory 
+definition, Br. for Appellants at 38.  Even if the regulation 
+could be read to change the definition, the Black Lung 
+Benefits Act broadly invests the Secretary with authority not 
+only to write regulations defining "total disability," 30 U.S.C. 
+s 902(f)(1) - which in turn depends on the definition of 
+
+pneumoconiosis - but also to supplement statutory terms "as 
+[s]he deems necessary," id. s 932(a).
+
+     NMA also argues that another part of the pneumoconiosis 
+definition, section 718.201(c), defining pneumoconiosis as a 
+"latent and progressive disease which may first become de-
+tectable only after the cessation of coal mine dust exposure," 
+lacks support in the administrative record and is thus arbi-
+trary and capricious.  In support of this argument, NMA 
+points to record evidence indicating that pneumoconiosis is 
+latent and progressive in - at most - eight percent of cases.  
+See P.T. Donnan, et al., Progression of Simple Pneumoconio-
+sis in Ex-Coalminers After Cessation of Exposure to Coal-
+mine Dust iv (Inst. of Occupational Medicine, December 
+1997).  We would thus sustain NMA's challenge to section 
+718.201(c) if the regulation said that pneumoconiosis is "al-
+ways" or "typically" a latent and progressive disease.  Al-
+though the regulation could be so read - "pneumoconiosis is 
+recognized as a latent and progressive disease" - the remain-
+ing language provides that the disease "may first become 
+detectable only after the cessation of coal mine dust expo-
+sure."  The Secretary resolved this ambiguity at oral argu-
+ment.  Asked whether her "position is [that the] regulation 
+simply states [pneumoconiosis] can be a progressive and 
+latent disease," counsel answered "that's correct."  Tr. of 
+Oral Arg. at 54.  In light of this narrowing construction, we 
+conclude that the record evidence of the disease's latency and 
+progressivity - which also includes a study (not explicitly 
+relied on by the government in its brief) indicating that 
+pneumoconiosis is latent and progressive as much as 24% of 
+the time, see 62 Fed. Reg. 3338, 3344 (Jan. 22, 1997) (citing 
+studies) - is sufficient to support section 718.201(c).
+
+     Change in Condition Rule
+
+     Revised s 725.309(d) governs the circumstances under 
+which miners may file a claim after denial of an earlier claim.  
+The prior regulation allowed such claims only upon proof of 
+"a material change in conditions," 20 C.F.R. s 725.309(d) 
+(2000), while the revised regulation requires "the claimant [to] 
+demonstrate[ ] that one of the applicable conditions of entitle-
+
+ment has changed," 20 C.F.R. s 725.309(d) (2001).  NMA's 
+assertion that the revised rule is arbitrary and capricious 
+because it "requires no exacting proof of materially changed 
+conditions," Br. for Appellants at 40, and creates an "irrebutt-
+able presumption" that a claimant has pneumoconiosis, id. at 
+46, finds no support in the regulation's language.  The re-
+vised rule actually places the burden of proof squarely on the 
+claimant to prove a change in condition, stating that "the 
+claim shall be denied unless the claimant demonstrates that 
+one of the applicable conditions of entitlement ... has 
+changed."  20 C.F.R. s 725.309(d) (2001).  Nor do we find 
+convincing NMA's related argument that the revised regula-
+tion "waives res judicata or traditional notions of finality," Br. 
+for Appellants at 45, as the Secretary has interpreted the 
+regulation to permit new claims based only on the claimant's 
+current condition and to preclude the admission of any evi-
+dence that existed at the time the previous claim was denied, 
+see Br. for Appellees at 31.
+
+     Treating Physician Rule
+
+     A new rule, s 718.104(d) establishes that in determining 
+whether a successful claimant's subsequent treatment for a 
+pulmonary disorder is "compensable, the opinion of the min-
+er's treating physician may be entitled to controlling weight."  
+The rule is not mandatory.  Instead, it permits ALJs to 
+accord controlling weight to a treating physician's opinion if 
+that opinion is "based on the credibility of the physician's 
+opinion in light of its reasoning and documentation, other 
+relevant evidence and the record as a whole."  20 C.F.R. 
+s 718.104(d)(5).
+
+     According to NMA, the revised rule impermissibly shifts 
+the burden of proof from claimant to employer.  In support of 
+this argument, NMA relies on Greenwich Collieries, where 
+the Supreme Court held that absent specific statutory autho-
+rization, agencies may not informally create rules that sup-
+plant the APA's requirement that "the proponent of a rule or 
+order has the burden of proof."  512 U.S. at 269-71 (quoting 5 
+U.S.C. s 556(d)).  Greenwich Collieries, however, is inappli-
+cable here, for neither the revised regulation's plain language 
+
+nor the Secretary's interpretation, see Br. for Appellees at 38, 
+relieves claimants of the burden of proving both pneumoconi-
+osis and the credibility of the doctor's opinion.  Indeed, the 
+Secretary points out that this regulation does not even "ad-
+dress which party bears the burden of proving the proposition 
+to which the medical opinion evidence relates."  Br. for 
+Appellees at 38 (citing 65 Fed. Reg. at 79,933-34).  Equally 
+without merit is NMA's related argument that the treating 
+physician rule is invalid because it "treats proof differently" 
+by unfairly advantaging claimants' evidence;  NMA even sug-
+gests that the rule enables doctors to help claimants obtain 
+benefits fraudulently by "exaggerating" the extent of claim-
+ants' illnesses.  Br. for Appellants at 34.  This argument 
+assumes that ALJs will automatically give controlling weight 
+to treating physicians' opinions, yet the regulation actually 
+places limits on their capacity to do so.  See 20 C.F.R. 
+s 718.104(d)(5) (permitting reliance on treating physician tes-
+timony only where physician's opinion is credible and consis-
+tent with record evidence).  The requirement that a treating 
+physician's opinion be credible, moreover, largely eliminates 
+any risk of fraud.
+
+     Arguing that the treating physician rule is also arbitrary 
+and capricious, NMA claims that "[t]here is no scientific or 
+medical reason to conclude that a treating physician has 
+clearer insight into any medical question that might arise in a 
+black lung claim than a pulmonary specialist or any other 
+doctor."  Br. for Appellants at 35.  In support of this argu-
+ment, NMA cites record evidence suggesting that "there is a 
+significant likelihood that a treating physician will use decep-
+tion to assist patients in obtaining third party paid benefits."  
+Cmts. of the Nat'l Mining Ass'n at 44 (1/6/2000), reprinted at 
+J.A. 2231.  Yet the agency considered and rejected this 
+allegation, convincingly pointing out that the claim could "as 
+easily be directed toward any party-affiliated physician, or 
+group of such physicians, who may benefit by tailoring conclu-
+sions to fit the interests of the party paying for the medical 
+opinion."  65 Fed. Reg. at 80,024;  see also State Farm, 463 
+U.S. at 51-54 (holding that an agency's duty of reasoned 
+
+decisionmaking includes the requirement to explain away 
+contrary evidence) and, e.g., id. at 52 ("Rescission of the 
+[safety restraint] requirement would not be arbitrary and 
+capricious merely because there was no evidence in direct 
+support of the agency's conclusion.").
+
+     Hastening Death Rule
+
+     The Secretary revised s 718.205(c)(5) to state that "pneu-
+moconiosis is a substantially contributing cause of a miner's 
+death if it hastens the miner's death."  Calling the rule 
+arbitrary and capricious, NMA says "there is no science to 
+support" a hastening death rule in the case of a death caused 
+by a non-respiratory condition.  Br. for Appellants at 50.  
+The regulation, however, nowhere mandates the conclusion 
+that pneumoconiosis be regarded as a hastening cause of 
+death, but only describes circumstances under which a has-
+tening-cause conclusion may be made.  Moreover, it expressly 
+requires claimants to prove that pneumoconiosis is the has-
+tening cause.  The fact that pneumoconiosis may, as NMA 
+asserts, rarely or never hasten death primarily caused by 
+other diseases does not undermine the regulation;  it merely 
+means that few or no claimants will succeed on the theory 
+that black lung disease hastened death from other causes.
+
+     In any event, the record contains medical testimony indi-
+cating that "impairment of lung function from pneumoconiosis 
+[can] weaken the body's defenses to infections and increase 
+susceptibility to other disease processes."  65 Fed. Reg. at 
+79,950 (discussing testimony of Dr. Robert Cohen, Chief of 
+the Division of Pulmonary Medicine, Cook County (IL) Hospi-
+tal).  Although NMA cites two medical studies suggesting 
+contrary conclusions, see J.A. 1167, 2468, the Secretary con-
+sidered this evidence and gave plausible reasons for rejecting 
+it, noting that both studies focused on the narrower medical 
+definition of pneumoconiosis rather than the broader legal 
+one, and that one of the studies concluded only that hastening 
+death was rare but "did not rule it out as a medical possibili-
+ty," 65 Fed. Reg. at 79,951.  In light of all this, we think it 
+obvious that the Secretary has successfully discharged her 
+duty of reasoned decisionmaking.
+
+     Operator Liability Rules
+
+     Section 725.408 establishes a deadline for coal mine opera-
+tors to submit evidence if they disagree with their designation 
+as parties potentially liable for a miner's claim, while 
+s 725.495(c) provides that once an operator has been deter-
+mined to be responsible for a claim, that operator may be 
+relieved of liability only if it proves both that it is financially 
+incapable of assuming liability and that another operator that 
+more recently employed the miner is financially capable of 
+doing so.  Again relying on Greenwich Collieries, NMA ar-
+gues that the revised rules "relieve the agency of its normal 
+burden to identify the correct responsible party" and shift 
+that burden onto coal mine operators in violation of the APA's 
+requirement that proponents of an order sustain the burden 
+of proof.  Br. for Appellants at 62.  NMA misreads both 
+revised regulations.  Section 725.408 shifts the burden of 
+production, not the burden of proof;  it requires nothing more 
+than that operators must submit evidence rebutting an asser-
+tion of liability within a given period of time.  Greenwich 
+Collieries carefully distinguishes agency regulations that shift 
+the burden of proof (prohibited by the APA "except as 
+otherwise provided by statute," 5 U.S.C. s 556(d)) from regu-
+lations that shift the burden of production (which the APA 
+does not prohibit, see 512 U.S. at 270-80 (distinguishing 
+burden of proof from burden of production)).  NMA argues 
+that s 725.495(c) nevertheless violates Greenwich Collieries 
+because it "reliev[es] the agency of its natural burden of 
+proving the identity of the correct responsible party."  Br. for 
+Appellants at 64.  The regulation, however, shifts the burden 
+of proof only to the "designated responsible operator," 20 
+C.F.R. s 725.495(c);  i.e., it applies only to the extent that a 
+claimant has already carried his burden of proving that an 
+operator is liable.  "In seeking to be excused from liability," 
+the District Court explained, "the operator becomes the 'pro-
+ponent' of a remedial order of the ALJ and, therefore, the 
+party to which [the APA] assigns the burden of proof."  Nat'l 
+Mining Ass'n v. Sec'y of Labor, No. 00-3086, slip op. at 52 
+(D.D.C. Aug. 9, 2001);  see also Greenwich Collieries, 512 U.S. 
+at 278.
+
+     NMA argues that s 725.495(c) is also arbitrary and capri-
+cious because it rests on the premise that "employers and 
+carriers are better situated to identify and prove an alterna-
+tive liable party."  Br. for Appellants at 64.  As the Secretary 
+points out, however, s 725.495(c) is not based on that pre-
+sumption.  See 65 Fed. Reg. at 80,008-09 (discussing 
+s 725.495(c) but nowhere mentioning the rationale that mine 
+operators and insurance carriers have superior access to 
+information about miners' subsequent employment).  Al-
+though the Secretary offers little in the way of positive 
+support for the rule, s 725.495(c) - an evidentiary rule - need 
+only be "reasonable" and not "inconsistent with a federal 
+statute" to survive review.  Chem. Mfrs. Ass'n, 105 F.3d at 
+706.  Where, as here, the Secretary affords a mine operator 
+liable for a claimant's black lung disease the opportunity to 
+shift liability to another party, it is hardly irrational to 
+require the operator to bear the burden of proving that the 
+other party is in fact liable.
+
+     Medical Benefits Rule
+
+     The Secretary's revision of s 725.201(e) creates a presump-
+tion that any pulmonary disorder for which a miner receives 
+treatment after successfully filing a BLBA claim is caused by 
+that miner's pneumoconiosis.  The new regulation allows the 
+operator to rebut this presumption with credible evidence 
+that the disorder was not pulmonary, the disorder was unre-
+lated to the miner's pneumoconiosis, or the treatment the 
+miner received was unnecessary.
+
+     Claiming that the medical benefits rule "shifts the burden 
+to the employer to disprove medical coverage," Br. for Appel-
+lants at 52, NMA argues it too runs afoul of Greenwich 
+Colleries.  Although the regulation could be so read, the 
+Secretary explains that it shifts only the burden of produc-
+tion to operators to produce evidence that the treated disease 
+was unrelated to the miner's pneumoconiosis;  the ultimate 
+burden of proof remains on claimants at all times.  See 65 
+Fed. Reg. at 80,022 (explaining that "invocation" of the pre-
+sumption "shifts only the burden of production, not persua-
+sion");  see also Ling, 176 F.3d at 233-34 (holding that an 
+
+identical "presumption merely reallocates the burden of pro-
+duction, and does not affect the burden of proof");  Seals, 147 
+F.3d at 512 (same).
+
+     NMA argues that the medical benefits rule is also arbitrary 
+and capricious, pointing to a comment claiming that "[w]hen a 
+miner receives a medical service or supply for a pulmonary 
+disorder, it is not reasonable to assume that the disorder is 
+caused or aggravated by pneumoconiosis."  Cmts. of Gregory 
+J. Fino, M.D., and Barbara J. Bahl, Ph.D. at 11 (1/4/2000), 
+reprinted at J.A. 2439.  Carefully considering this comment, 
+however, the Secretary rejected it because the comment 
+failed to distinguish between medical pneumoconiosis and the 
+much broader legal definition of the disease.  See 65 Fed. 
+Reg. at 80,023.  As the Secretary points out, there is a clear 
+rational relationship between the fact proved (that a miner 
+suffered from totally disabling pneumoconiosis in the past) 
+and the fact presumed (that the miner's treated pulmonary 
+disorder is related to that pneumoconiosis);  this suffices for 
+purposes of our review.
+
+     Total Disability Rule
+
+     An entirely new provision, s 718.204(a) states that "any 
+nonpulmonary or nonrespiratory condition or disease, which 
+causes an independent disability unrelated to the miner's 
+pulmonary or respiratory disability, shall not be considered" 
+in determining a miner's total disability under the BLBA.  
+According to NMA, the rule runs counter to the proposition 
+that parties may submit all relevant evidence in support of 
+their position.  See 30 U.S.C. s 923(b).  This argument, 
+however, ignores the BLBA's clear grant of authority to the 
+Secretary to establish the medical criteria for adequate proof 
+of "total disability."  Id. s 902(f)(1)(D).  And contrary to 
+NMA's claim that "DOL's rule excludes relevant evidence for 
+no good reason," Br. for Appellants at 48, we see an obvious 
+rational basis for the rule:  the statute only pertains to 
+whether a miner is disabled "due to pneumoconiosis," and 
+evidence of nonpulmonary conditions has no relevance to that 
+inquiry.  Indeed, three circuits have adopted just this reading 
+of the Act.  See 65 Fed. Reg. at 79,947 (citing cases from 
+
+Sixth, Seventh, and Tenth Circuits).  But see Vigna, 22 F.3d 
+at 1394-95.
+
+     Challenging the total disability rule as arbitrary and capri-
+cious, NMA claims that the regulation "is supported only by 
+an intent to reverse" the Seventh Circuit's decision in Pea-
+body Coal v. Vigna, which held that a miner totally disabled 
+due to a nonpulmonary ailment could not be compensated 
+under the Black Lung Benefits Act.  See id.  NMA's asser-
+tion regarding intent is irrelevant:  no authority supports the 
+proposition that a rule is arbitrary and capricious merely 
+because it abrogates a circuit court decision.  Quite to the 
+contrary, "regulations promulgated to clarify disputed inter-
+pretations of a regulation are to be encouraged.  Tidying-up a 
+conflict in the circuits with a clarifying regulation permits a 
+nationally uniform rule without the need for the Supreme 
+Court to essay the meaning of every debatable regulation."  
+Pope v. Shalala, 998 F.2d 473, 486 (7th Cir. 1999) (citation 
+and internal quotation marks omitted).
+
+     NMA also claims that the total disability rule "is contrary 
+to all of the medical testimony," Br. for Appellants at 49, but 
+points only to record evidence generally indicating that evi-
+dentiary restrictions are "inconsistent with good medical 
+practice," Cmts. of Drs. Fino and Bahl at 4, reprinted in J.A. 
+2432, evidence far too vague to supply any basis for conclud-
+ing that the total disability rule is arbitrary and capricious.  
+The revised regulation has a rational basis and is consistent 
+with the APA;  that is enough.
+
+     Evidence Limitation Rules
+
+     NMA next argues that nothing in the APA authorizes the 
+revised regulations (ss 725.310(b), 725.414, 725.456, 
+725.457(d), and 725.458) setting limits on the amount and 
+timing of evidence admissible in benefits determinations, be-
+cause that statute "authorizes each party to submit whatever 
+evidence that party thinks is needed to prove its case or 
+defense."  Br. for Appellants at 56.  NMA's theory - that the 
+APA permits introduction of unlimited amounts of evidence - 
+is flatly contradicted by the statute itself, which empowers 
+agencies to "exclu[de] ... irrelevant, immaterial, or unduly 
+
+repetitious evidence" as "a matter of policy," 5 U.S.C. 
+s 556(d), as well as the Black Lung Benefits Act, which 
+authorizes the Secretary to issue regulations "provid[ing] for 
+the nature and extent of the proofs and evidence and the 
+method of taking and furnishing the same in order to estab-
+lish the rights to benefits," 30 U.S.C. s 923(b) (incorporating 
+42 U.S.C. s 405(a)).  Nor do the revised rules set inflexible 
+limits, as NMA claims.  On the contrary, the rules give ALJs 
+discretion to hear additional evidence for "good cause," 20 
+C.F.R. s 725.456(b)(1).
+
+     NMA claims that the evidence-limiting rules are also arbi-
+trary and capricious because they are unsupported by medical 
+evidence.  NMA bases this claim on a commenter's argument 
+that "it is unreasonable to artificially limit" the amount of 
+evidence heard in benefits determinations.  Cmts. of Drs. 
+Fino and Bahl at 4, reprinted in J.A. 2432.  Other record 
+evidence, however, indicates that the new evidentiary limits 
+are not at all "artificial[ ]," but - as the Secretary explained - 
+will enable ALJs to focus their attention "on the quality of the 
+medical evidence in the record before [them]."  64 Fed. Reg. 
+at 54,994.  The record also makes clear the need for evidence 
+limitations;  in their absence, lawyers often waste ALJs' time 
+and resources with excessive evidence - in one case, a mine 
+operator's lawyer submitted eighty-nine separate X-ray re-
+readings from fourteen different experts.  Cmts. of Robert 
+Cohen at 71 (6/19/1997), reprinted in J.A. 1381.  At oral 
+argument, moreover, NMA conceded that ALJs have always 
+had discretion to exclude evidence in precisely the manner 
+outlined by the new evidence-limiting rules;  it would be 
+strange indeed to conclude that the Secretary acted arbitrari-
+ly and capriciously by codifying evidentiary limits that ALJs 
+have always had the discretion to impose.
+
+     Dependency Rules
+
+     The Black Lung Benefits Act incorporates the Social Secu-
+rity Act's definition of "dependent."  See 30 U.S.C. s 902(a) 
+(incorporating the Social Security Act's definition of "depen-
+dents").  These regulations (ss 725.204, 725.213(c), 725.214, 
+725.219(d)) broaden the definition of "dependent" to track 
+
+more closely recent revisions of the incorporated Social Secu-
+rity Act provisions.  Like the District Court, though, we 
+decline to consider this claim, because NMA failed to raise it 
+during the notice-and-comment period.  See, e.g., Nat'l Wild-
+life Fed'n v. EPA, 286 F.3d 554, 562 (D.C. Cir. 2002) ("It is 
+well established that issues not raised in comments before the 
+agency are waived and this Court will not consider them.").  
+NMA points out that it argued before the agency that "Con-
+gress did not intend to treat the black lung program as a 
+social safety net," Br. for Appellants at 69, but this general 
+claim falls well short of providing the agency with the re-
+quired "adequate notice" of NMA's specific claim.  Nat'l 
+Recycling Coalition, Inc. v. Reilly, 884 F.2d 1431, 1437 (D.C. 
+Cir. 1989).  Contrary to NMA's argument, moreover, this 
+notice requirement is not undermined by Darby v. Cisneros, 
+509 U.S. 137 (1993), and Sims v. Apfel, 530 U.S. 103 (2000).  
+As we recently noted, Darby "addresses exhaustion of reme-
+dies, not waiver of claims, and is thus wholly inapposite" to 
+the latter issue.  Nat'l Wildlife Fed'n, 286 F.3d at 562.  Sims 
+is equally inapplicable, for it addresses issue exhaustion, not 
+issue waiver.
+
+     Attorney's Fee Rule
+
+     Section 725.366(b) provides that in calculating attorney's 
+fees that are shifted from claimant to mine operator, the ALJ 
+"shall take into account" a number of factors, including "the 
+quality of the representation, the qualifications of the repre-
+sentative, [and] the complexity of the legal issues involved."  
+In Burlington v. Dague, the Supreme Court held that shifted 
+attorney's fees must be calculated according to the "lodestar 
+method," which requires that such fees be determined by 
+multiplying reasonable time spent by the attorney's hourly 
+fee.  See 505 U.S. 557, 562 (1992).  Although the revised 
+regulation requires consideration of no factors not already 
+included in the lodestar analysis, NMA argues that the rule 
+will require ALJs to consider some factors more than once, 
+resulting in prohibited "double counting."  Br. for Appellants 
+at 67;  see Pennsylvania v. Delaware Valley City Council, 483 
+U.S. 711, 726 (1987).  Not only does nothing in the revised 
+regulation require such double counting, but the Secretary 
+
+interprets the regulation to mean that "the factors identified 
+in s 725.366(b) do not supplant the 'lodestar' method of 
+calculating reasonable fees, or enhance the lodestar fee once 
+it is calculated."  Br. for Appellees at 54.
+
+     Cost and Expense Rules
+
+     Section 725.101(a)(6) (the cost rule) expands the definition 
+of BLBA "benefits" to include "any expenses related to the 
+medical authorization."  As a result, employers now bear the 
+costs of successful claimants' medical examinations.  Section 
+725.459 (the expense rule) empowers ALJs in their discretion 
+to shift costs incurred by claimants' production of witnesses 
+to an employer, regardless of which party prevails.
+
+     NMA rests its challenge to these regulations on the twin 
+premises that parties presumptively bear the costs of their 
+own litigation expenditures and that such costs may only be 
+shifted to the losing party pursuant to "specific statutory 
+authorization."  See W. Va. Univ. Hosp. v. Casey, 499 U.S. 83, 
+97-100 (1991).  The cost rule, however, finds just such "specif-
+ic statutory authorization" in the Black Lung Benefits Act's 
+express authorization to "[t]he Secretary ... to charge the 
+cost of examination ... to the employer."  33 U.S.C. s 907(e).
+
+     In support of the expense rule, the Secretary first cites 33 
+U.S.C. s 928(d), which permits her to shift attorney's fees.  
+But that section of the Act authorizes fee-shifting only when 
+the claimant prevails, while the expense rule authorizes such 
+shifting for both successful and unsuccessful claimants.  Nor 
+does 30 U.S.C. s 907(e) provide an adequate source of author-
+ity;  that clause only permits the Secretary to assign costs of 
+a single pulmonary examination - not any cost associated with 
+claimants' witnesses - to the employer.  The expense rule 
+thus lacks the "specific statutory authorization" for fee-
+shifting required by Casey and is the one regulation that we 
+find invalid on its face.
+
+                         III. Conclusion
+
+     For the foregoing reasons, we affirm in part, reverse in 
+part, and remand to the District Court for further instruc-
+tions consistent with this opinion.
+
+                                                                            

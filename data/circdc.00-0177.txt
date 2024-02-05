@@ -1,0 +1,580 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued April 4, 2000       Decided July 14, 2000 
+
+                           No. 97-1538
+
+                   GTE Service Corporation and 
+           Micronesian Telecommunications Corporation, 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+             MCI Communications Corporation, et al., 
+                           Intervenors
+
+                        Consolidated with 
+                         99-1045, 99-1046
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+     Daniel E. Troy and Howard J. Symons argued the cause 
+for petitioners.  With them on the briefs were Gail L. Polivy, 
+
+R. Michael Senkowski, Michael F. Altschul, Michelle M. 
+Mundt.  David A. Gross, James D. Ellis, Robert M. Lynch, 
+Michael J. Zpevak, William B. Barfield, M. Robert Suther-
+land, L. Andrew Tollin, Michael Deuel Sullivan, Luisa L. 
+Lancetti, S. Mark Tuller an Matthew B. Pachman.  M. 
+Edward Whelan and Theodore C. Whitehouse entered ap-
+pearances.
+
+     John Edward Ingle, Deputy Associate General Counsel, 
+Federal Communications Commission, argued the cause for 
+respondents.  With him on the brief were Christopher J. 
+Wright, General Counsel, Laurel R. Bergold, Counsel, Joel I. 
+Klein, Assistant Attorney General, U.S. Department of Jus-
+tice, Robert B. Nicholson, and Robert J. Wiggers, Attorneys.  
+Adam D. Hirsh, Attorney, entered an appearance.
+
+     John W. Katz, Veronica M. Ahern, Herbert E. Marks and 
+Thomas K. Crowe were on the brief for intervenors.
+
+     Before:  Williams, Ginsburg, and Sentelle, Circuit Judges.
+
+     Opinion for the Court by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  Several parties petition for re-
+view of four orders by the Federal Communications Commis-
+sion implementing the rate integration requirement of 
+s 254(g) of the Communications Act of 1934, as amended by 
+the Telecommunications Act of 1996, 47 U.S.C. s 254(g).  The 
+petitioners challenge two determinations made by the Com-
+mission:  (1) That a telecommunications provider is required 
+to integrate its rates across all commonly owned or controlled 
+affiliates that provide interstate interexchange services;  and 
+(2) that the requirement of rate integration applies to provid-
+ers of Commercial Mobile Radio Service (CMRS), that is, 
+wireless technologies such as cellular and PCS.
+
+     We hold first that the Commission's interpretation of 
+s 254(g) as requiring rate integration across affiliates is 
+reasonable and second that the Commission erred in conclud-
+ing the plain text of s 254(g) required it to apply the rate 
+integration requirement to providers of CMRS.  We there-
+
+fore vacate the order in relevant part and remand this matter 
+to the Commission for further consideration whether, as an 
+exercise of its delegated authority, s 254(g) should be applied 
+to providers of CMRS.
+
+                          I. Background
+
+     Prior to 1972 rates for interstate long distance telecommu-
+nications services to and from non-contiguous domestic loca-
+tions such as Alaska, Hawaii, and Puerto Rico were much 
+higher than rates for the same services within the contiguous 
+48 states.  In effect, providers of long distance services 
+treated those locations as foreign for the purpose of setting 
+long distance rates.  See Establishment of Domestic 
+Communications-Satellite Facilities by Non-Governmental 
+Entities, 35 F.C.C.2d 844, 856 p 35 (1972) (Domsat II Order).  
+The Commission became concerned that this disparate treat-
+ment "inhibited the free flow of communications between the 
+contiguous states and [non-contiguous domestic] points to the 
+disadvantage of all of our citizens."  Id.  The Commission 
+also recognized that the use of satellites, the cost of which is 
+insensitive to distance, was making it economically feasible to 
+serve non-contiguous locations at rates comparable to those 
+offered in the contiguous 48 states.  See id.
+
+     In 1972, therefore, the Commission initiated a policy of 
+"rate integration":  Telecommunications carriers serving Alas-
+ka, Hawaii, and Puerto Rico (and later the U.S. Virgin 
+Islands) were required, as a condition of their licenses to use 
+new domestic satellites, to submit a plan that would "give 
+maximum effect to the elimination of overall distance as a 
+major cost factor and ... integrate these three United States 
+points into the uniform mileage rate pattern that now obtains 
+for the contiguous states."  Id. at 857 p 37.  Thus AT&T was 
+required to develop a tariff that would integrate the rates it 
+charged for interstate long distance service to Alaska, Hawaii, 
+and Puerto Rico into the domestic rate pattern applicable in 
+the contiguous 48 states.  See Integration of Rates, 61 
+F.C.C.2d 380, 392 (1976) (1976 Rate Integration Order).  
+Rate integration would thus ensure "service between the 
+
+contiguous states and ... noncontiguous points[ ] at rates 
+that are equivalent to those prevailing for comparable dis-
+tances in the contiguous 48 states."  Integration of Rates, 9 
+F.C.C.R. 2197, 2198 n.2 (1993).
+
+     A.   Rate Integration under the Telecommunications Act 
+          of 1996
+          
+     The Commission adopted its policy of rate integration as an 
+exercise of its broad authority under the Communications Act 
+to regulate carriers for the public convenience and necessity.  
+See 47 U.S.C. s 214;  Domsat II Order, 35 F.C.C.2d at 856 
+p 35.  In the Telecommunications Act of 1996, Pub. L. No. 
+104-104, 110 Stat. 56 (1996), the Congress put rate inte-
+gration upon a statutory footing by adding s 254(g) to the 
+Communications Act of 1934:
+
+     Within 6 months after February 8, 1996, the Commission 
+     shall adopt rules to require ... that a provider of 
+     interstate interexchange telecommunications services 
+     shall provide such services to its subscribers in each 
+     State at rates no higher than the rates charged to its 
+     subscribers in any other State.
+     
+Although perhaps not obvious on its face, the parties agree 
+that s 254(g) means what the Conference Report says it 
+means:
+
+     New section 254(g) is intended to incorporate the polic[y] 
+     of ... rate integration of interexchange services....  
+     The conferees intend the Commission's rules ... to 
+     incorporate the policies contained in the Commission's 
+     proceeding entitled "Integration of Rates and Services 
+     for the Provision of Communications by Authorized Com-
+     mon Carriers between the United States Mainland and 
+     the Offshore Points of Hawaii, Alaska and Puerto 
+     Rico/Virgin Islands" (61 FCC2d 380 (1976)).
+     
+H.R. Conf. Rep. No. 104-458, at 132 (1996).
+
+     B. The Commission's Orders
+
+     The Commission promulgated rules requiring rate inte-
+gration under s 254(g) in a series of four orders:  (1) Imple-
+
+mentation of Section 254(g) of the Communications Act of 
+1934, as Amended, Report & Order, 11 F.C.C.R. 9564 (1996) 
+(Integration Order);  (2) First Memorandum Opinion and 
+Order on Reconsideration, 12 F.C.C.R. 11812 (1997) (First 
+Reconsideration Order);  (3) Order, 12 F.C.C.R. 15739 (1997) 
+(Stay Order);  and (4) Memorandum Opinion & Order, 14 
+F.C.C.R. 391 (1998) (Second Reconsideration Order).  The 
+petitioners now challenge two determinations made in the 
+course of those orders.
+
+     1.   Rate Integration Across Affiliates
+          
+     In the Integration Order the Commission announced with-
+out elaboration that it read the term "provider of interstate 
+interexchange telecommunications services" in s 254(g) to 
+include "parent companies that, through affiliates, provide 
+service in more than one state."  11 F.C.C.R. at 9598 p 69.  
+Upon reconsideration at the instance of GTE and U.S. 
+West, Inc., the Commission explained that the statute was 
+ambiguous on the specific issue whether for purposes of 
+rate integration a "provider of interstate interexchange tele-
+communications services" includes commonly owned or con-
+trolled affiliates of the provider.  First Reconsideration Or-
+der, 12 F.C.C.R. at 11819 p 14.  Because an interexchange 
+carrier could circumvent rate integration by providing inter-
+state long distance service to each non-contiguous location 
+through a separate subsidiary, the Commission concluded 
+that requiring rate integration among affiliates was most 
+consonant with the purpose of the statute.  See id. p 15.  
+Under the resulting rule, for example, the GTE affiliate that 
+provides long distance service only in the Commonwealth of 
+the Northern Mariana Islands is required to integrate its 
+rates with those of all other GTE affiliates providing long 
+distance service anywhere in the contiguous 48 states or in 
+other non-contiguous domestic locations.
+
+     2.   Rate Integration by CMRS Providers
+          
+     Prior to enactment of the 1996 Telecommunications Act, 
+the Commission had required only wireline carriers, and not 
+providers of CMRS, to integrate their rates.  In the Inte-
+
+gration Order the agency gave no indication that it believed 
+s 254(g) either required or authorized a change in this state 
+of affairs.  In the First Reconsideration Order, however, the 
+Commission stated, again without elaborating, that CMRS 
+providers were required by s 254(g) to integrate the rates for 
+their interstate interexchange services.  12 F.C.C.R. at 11821 
+p 18.  Several parties petitioned the Commission to reconsid-
+er and stay enforcement of that determination.*  In the 
+Second Reconsideration Order the Commission explained its 
+rationale for requiring CMRS providers to integrate their 
+rates:  Section 254(g) by its terms applies to providers of 
+interstate interexchange service without making an exception 
+for CMRS.  14 F.C.C.R. at 396 p 10.
+
+     Because CMRS does not use wireline exchanges, its cover-
+age by s 254(g) raised the following question for the Commis-
+sion:  Which interstate CMRS are "interexchange" services?  
+Noting that the Communications Act defines "telephone ex-
+change service" as "service within a telephone exchange, or 
+... comparable service provided through a system of 
+switches, transmission equipment, or other facilities," 47 
+U.S.C. s 153(47), the Commission determined that CMRS 
+within a "major trading area" (MTA) was "comparable" to 
+wireline "service within a telephone exchange," 14 F.C.C.R. at 
+401 p 23;  therefore, CMRS between MTAs was comparable 
+to "interexchange" wireline service, and interstate, inter-MTA 
+CMRS was subject to rate integration.
+
+                           II. Analysis
+
+     The petitioners seek review of the rules requiring rate 
+integration among affiliates and the application of rate inte-
+gration to providers of CMRS.  Both challenges turn upon 
+
+__________
+     * The Commission, without expressing any doubt that s 254(g) 
+applies to CMRS providers, stayed application of the rule requiring 
+CMRS providers to integrate their rates across affiliates pending 
+further consideration whether such integration would produce anti-
+competitive effects owing to the prevalence of cross-ownership and 
+joint ventures in the CMRS industry.  See Stay Order, 12 F.C.C.R. 
+at 15746 p 14.
+
+the Commission's interpretation of the phrase "provider of 
+interstate interexchange telecommunications services" in 
+s 254(g).  Because the Congress committed administration of 
+the Communications Act to the Commission, we review the 
+petitioners' challenges to the Commission's interpretation of 
+s 254(g) using the two-step analysis of Chevron U.S.A., Inc. 
+v. NRDC, 467 U.S. 837 (1984).  Under Chevron step one, we 
+ask "whether Congress has directly spoken to the precise 
+question at issue."  If so, then we "must give effect to the 
+unambiguously expressed intent of Congress."  If not, then 
+under Chevron step two we will defer to the agency's inter-
+pretation of the Act if it is reasonable in light of the text, the 
+structure, and the purpose of the Act.  See id. at 842-43.
+
+     A.   Rate Integration Across Affiliates
+          
+     The petitioners make two arguments for the proposition 
+that the Congress in s 254(g) unambiguously directed the 
+Commission to prescribe rate integration only with respect to 
+each individual provider of telecommunications services and 
+not with respect to all commonly owned or controlled affili-
+ates.  They first argue that because "provider" means simply 
+"one that provides," the Congress could not have meant the 
+phrase "provider of interstate interexchange telecommunica-
+tions services" to include parent companies, which are not 
+licensed to and do not provide telecommunications services.  
+Further, because holding companies are not "providers," they 
+"may not be used as conduits through which rate integration 
+requirements are imposed on commonly owned affiliates."
+
+     Both parts of petitioners' argument miss the mark.  First, 
+the Commission no longer interprets "provider of interstate 
+interexchange telecommunications services" to include parent 
+companies that are not themselves carriers:  In the First 
+Reconsideration Order the Commission, responding to this 
+very argument, narrowed its cross-affiliate rule to apply only 
+to "affiliated carriers"--thereby excluding any parent compa-
+ny that is not itself a carrier.  12 F.C.C.R. at 11819 p 16.  
+And as to the petitioners' derivative claim that the Commis-
+sion cannot regulate commonly owned affiliates except by 
+impermissibly regulating parent companies as "conduits," the 
+
+petitioners provide no legal support for this ipse dixit.  Nor 
+does the Commission either purport or need to regulate the 
+parent--as a conduit or otherwise--when it requires two or 
+more carriers under common control to coordinate their 
+activities.
+
+     The petitioners' second argument turns upon the Congress 
+having expressly extended regulatory obligations to the "affil-
+iates" of a carrier in other sections of the Act;  by not 
+similarly including the word "affiliates" in s 254(g), we are 
+told, the Congress unambiguously (albeit implicitly) limited 
+the scope of the integration requirement to the rates charged 
+by individual providers of telecommunications services.  The 
+petitioners make a substantial point:  In 1996 the Congress 
+added "affiliate" as a defined term in the Communications 
+Act, see 47 U.S.C. s 153(1), and then used that term in 15 
+sections of the Act, see 47 U.S.C. ss 222, 224, 228, 251, 260, 
+271-275, 541, 543, 548, 572, and 573.  In many of those 
+sections the Congress specifically extended a regulatory pro-
+hibition or obligation from the individual carrier to the carri-
+er's affiliates.  See, e.g., 47 U.S.C. s 572 ("No local exchange 
+carrier or any affiliate of such carrier ... [may acquire] more 
+than a 10 percent financial interest, or any management 
+interest, in any cable operator providing cable service within 
+the [LEC's] telephone service area").
+
+     If the Congress had written s 254(g) upon a blank slate, 
+announcing an entirely new requirement that rates to non-
+contiguous points be integrated, then the absence of "affili-
+ates" from the text of s 254(g), coupled with its inclusion in 
+so many other sections, might be strong textual evidence that 
+the Congress spoke directly to this issue.  See, e.g., Alabama 
+Power Co. v. FERC, 160 F.3d 7, 14 (D.C. Cir. 1998).  Section 
+254(g) does not, however, announce a new policy;  the legisla-
+tive history makes clear that the Congress intended s 254(g) 
+to carry forward by regulation the Commission's preexisting 
+policy requiring rate integration.  See H.R. Conf. Rep. No. 
+104-458, at 132 (1996).  An undisputed aspect of that policy is 
+that AT & T was required to integrate its rates across all its 
+affiliated providers.  The parties dispute whether other carri-
+ers were required to integrate rates across affiliates but, 
+
+regardless of the answer to that question, it is clear that the 
+Commission under its preexisting policy could and in the case 
+of AT&T did mandate integration across affiliates.  Against 
+that backdrop, the omission of the word "affiliates" in a 
+statute intended to perpetuate existing Commission policy 
+cannot be read to preclude for the first time integration 
+across affiliates;  the most the omission tells us is that the 
+Congress did not specifically require the Commission to order 
+rate integration across affiliates.  We agree with the Commis-
+sion, therefore, that s 254(g) is ambiguous on the precise 
+issue whether affiliates may be included within the phrase 
+"provider of interstate interexchange telecommunications ser-
+vices."
+
+     Turning to Chevron step two, the petitioners argue that the 
+Commission's interpretation is unreasonable because it con-
+flicts with two of the purposes of the 1996 Act, namely, "to 
+promote competition and reduce regulation."  Pub. L. No. 
+104-104, 110 Stat. 56, 56 (1996) (preamble), and with one of 
+the goals of rate integration, namely, the expansion of tele-
+communications services offered to non-contiguous domestic 
+locations, see Domsat II Order, 35 F.C.C.2d at 856 p 35.  The 
+petitioners illustrate their point with the following (not very) 
+hypothetical situation:  A carrier provides interstate interex-
+change service through separate affiliates in the highly com-
+petitive mainland market and in a high-cost domestic over-
+seas market (such as Guam, which cannot be served by 
+domestic satellites because of its distance from the continen-
+tal United States).  If rates must be integrated across those 
+affiliates then, according to the petitioners, the carrier must 
+either charge above-market rates on the mainland, and there-
+fore become noncompetitive, or charge below-market rates in 
+the overseas location, and therefore lose money on every call.  
+Faced with this Hobson's choice, the carrier will want to sell 
+its overseas affiliate, presumably to a new owner with no 
+other operations subject to the rate integration requirement.
+
+     The problem with the petitioners' argument--passing over 
+the Commission's factual rejoinder that the carrier would not 
+lose money on every call--is that the central purpose of rate 
+integration, namely, ensuring "service between the contiguous 
+
+states and ... noncontiguous points[ ] at rates that are 
+equivalent to those prevailing for comparable distances in the 
+contiguous 48 states," Integration of Rates, 9 F.C.C.R. 2197, 
+2198 n.2 (1993), by its nature does nothing to reduce regula-
+tion or to promote competition.  The real question raised by 
+this argument, therefore, is not whether integration across 
+affiliates is regulatory and anti-competitive but whether it is 
+unreasonable in light of the underlying goal of rate inte-
+gration (pace the preamble to the 1996 Act), namely, equal-
+ized rates to non-contiguous locations.  Viewed thus at the 
+margin, the petitioners' hypothetical scenario actually demon-
+strates the reasonableness of the Commission's interpreta-
+tion:  If the Commission did not read affiliates into the term 
+"provider" in s 254(g), then the petitioners' hypothetical car-
+rier would charge higher rates in the non-contiguous market 
+(through one affiliate) than it charges on the mainland 
+(through the other affiliate), and there would be no rate 
+integration of non-contiguous markets at all.  We therefore 
+agree with the Commission that interpreting "provider of 
+interstate interexchange telecommunications services" to en-
+compass commonly owned or controlled affiliates is reason-
+able in light of the text and the regulatory purpose of 
+s 254(g).
+
+     Finally, the petitioners challenge the Commission's decision 
+as inconsistent and therefore arbitrary and capricious.  Even 
+if interpreting "provider" to include affiliates is permissible, 
+the petitioners claim, the Commission has interpreted "pro-
+vider" in three inconsistent ways:  (1) for wireline carriers, 
+"provider" means a provider and all commonly owned or 
+controlled affiliates;  (2) for providers of CMRS, as to which 
+the Commission has stayed the requirement of affiliate inte-
+gration, "provider" will likely be interpreted to mean a pro-
+vider and all affiliates not jointly owned by competing provid-
+ers;  and (3) for the purpose of "geographic rate averaging"--
+another policy prescribed in s 254(g)--the Commission has 
+"implicitly" excluded affiliates from the scope of the term 
+"provider."
+
+     We reject this challenge for two reasons.  First, as the 
+Commission notes, it has to date given but a single interpre-
+
+tation to the term "provider" in s 254(g).  For the purpose of 
+rate integration, "provider" includes affiliates of both wireline 
+and CMRS providers;  the Stay Order did not alter this 
+interpretation, and the Commission may yet adhere to it.  
+And in a separate order not under review here, the Commis-
+sion gave the same interpretation for the purpose of geo-
+graphic rate averaging.  See Motion of AT&T Corp. to be 
+Reclassified as a Non-Dominant Carrier, 12 F.C.C.R. 20787, 
+20804 p 31 (1997).  Second, even if the Commission ultimately 
+does interpret "provider" differently with respect to wireline 
+service and CMRS, that would not necessarily be arbitrary 
+and capricious.  The Commission might reasonably conclude 
+that requiring integration among affiliates better advances 
+the purposes of the Congress with respect to wireline service 
+than it does with respect to CMRS, depending upon the 
+competitive structure of the markets in which the two ser-
+vices are offered.  On the record presently before us, there-
+fore, we see no infirmity in the Commission's actions, and we 
+deny the petition to review the requirement of integration 
+across affiliates.
+
+     B.   Rate Integration by CMRS Providers
+          
+     The Commission held that the phrase "provider of inter-
+state interexchange telecommunications services" in s 254(g) 
+"unambiguously applies to the interstate, interexchange ser-
+vices offered by CMRS providers.  If Congress had intended 
+to exempt CMRS providers, it presumably would have done 
+so expressly as it did in other sections of the Act."  Second 
+Reconsideration Order, 14 F.C.C.R. at 396 p 10.  In an 
+unusually direct confrontation under Chevron step one, the 
+petitioners maintain not that the statute is ambiguous but 
+that it unambiguously means the opposite of what the Com-
+mission says it means.  For our part, we cannot agree with 
+either the Commission or the petitioners that the Congress 
+spoke unambiguously on the precise issue that divides them.
+
+     The Commission's secondary assertion that the Congress 
+would have expressly exempted CMRS from s 254(g) had it 
+so intended is undermined by the Conference Report indicat-
+ing that the Congress meant s 254(g) to incorporate the 
+
+Commission's preexisting rate integration policy, see H.R. 
+Conf. Rep. No. 104-458, at 132 (1996), which the Commission 
+had never before applied to CMRS.  As Commissioner Powell 
+wrote in dissent, "when it is undisputed that CMRS providers 
+were not subject to the Commission's pre-1996 Act rate 
+integration policy, and where Congress seems to say it is 
+merely incorporating that policy, why would we expect to find 
+an explicit and unambiguous indication to exclude them?"  
+Dissenting Statement of Commissioner Michael K. Powell, 
+1999 WL 38420 (Jan. 28, 1999).
+
+     This leaves the Commission's primary assertion that the 
+term "interexchange telecommunications service," which is 
+not defined in the Communications Act, "on its face unambig-
+uously" makes CMRS subject to rate integration under 
+s 254(g).  The Commission starts out in the hole:  Because 
+CMRS does not use exchanges, it is by no means obvious that 
+the Congress, when it used a phrase in which the word 
+"interexchange" is an essential term, was referring to CMRS.  
+True, the Congress provided a functional definition of "tele-
+phone exchange service," including not just "service within a 
+telephone exchange" but also "comparable service provided 
+through ... other facilities," 47 U.S.C. s 153(47);  therefore, 
+the Commission may characterize as "exchange service" even 
+services that, like CMRS, do not use exchanges.  That the 
+Congress may have extended to providers of CMRS various 
+statutory obligations attaching to "exchange service" does 
+not, however, demonstrate that the Congress, in using the 
+word "interexchange," must have extended the requirement 
+of rate integration to providers of CMRS.  The Commission 
+might decide, as an exercise of its delegated authority to 
+interpret ambiguities in the Act, that the phrase "interex-
+change telecommunications service" in s 254(g) is best read 
+in a manner analogous to the express definition of "exchange 
+service," that is, as applying not only to wireline interex-
+change service but also to CMRS that the Commission deter-
+mines is "comparable";  but that interpretation is certainly 
+not compelled by the "unambiguous" text of the statute.
+
+     As for the petitioners' Chevron step one arguments, they 
+first claim that the Congress's use of the word "interex-
+
+change"--which they say has no relevance to CMRS--demon-
+strates that s 254(g) must apply only to wireline providers.  
+As we just explained, however, the functional definition of 
+"telephone exchange service" in 47 U.S.C. s 153(47) demon-
+strates that the Congress has authorized the Commission to 
+characterize as "exchange service" even services that do not 
+use exchanges.  Therefore it is not clear that the Congress 
+was referring only to wireline service when it used the word 
+"interexchange."  The petitioners' second claim is that by 
+stating in the legislative history that s 254(g) was intended to 
+codify the Commission's preexisting policy, which did not 
+apply to providers of CMRS, the Congress clearly and unam-
+biguously excluded providers of CMRS from the coverage of 
+s 254(g).  We think this reads too much into both the Com-
+mission's policy and the legislative history.  The Commission 
+had never either applied or declined to apply the policy to 
+providers of CMRS.  There is no reason to believe that prior 
+to the 1996 Act the Commission was in any way precluded 
+from extending its policy to providers of CMRS, and the 
+Congress, in stating that it was incorporating the Commis-
+sion's preexisting policy into s 254(g), gave no indication that 
+it meant to freeze rate integration as it then was and to 
+prohibit any further development or extension of the policy.
+
+     The petitioners further argue that application of s 254(g) to 
+providers of CMRS "would be inconsistent with the deregula-
+tory intent" of 47 U.S.C. s 332(c) (authorizing Commission to 
+exempt CMRS from some regulations), the definition of "tele-
+phone toll service" in 47 U.S.C. s 153(48), and the pro-
+consumer purpose of the 1996 Telecommunications Act over-
+all.  However probative these arguments may be in determin-
+ing whether the Commission's interpretation of s 254(g) is 
+reasonable, they do not rise to the level of demonstrating that 
+the Congress has spoken directly to this precise issue.
+
+     In light of the text and legislative history of s 254(g), then, 
+it is unclear whether CMRS is included in the phrase "inter-
+exchange telecommunications service":  the Congress may 
+have been referring only to wireline interexchange service, or 
+it may also have meant to include "comparable" CMRS.  At 
+this juncture we would ordinarily proceed to step two and 
+
+consider whether the Commission's interpretation of the stat-
+ute is reasonable.  In this case, however, the Commission 
+never exercised its discretionary authority to interpret the 
+statute, as the Second Reconsideration Order makes clear;  
+because it believed that the plain text of s 254(g) subjected 
+providers of CMRS to the requirement of rate integration, 
+the Commission did not go on to show why, even if it is not 
+the only possible interpretation of the statute, it is nonethe-
+less a reasonable interpretation of the statute.  14 F.C.C.R. 
+at 396 p p 10, 11, 18.
+
+     Thus the Commission "act[ed] pursuant to an erroneous 
+view of law and, as a consequence, fail[ed] to exercise the 
+discretion delegated to it by Congress."  Prill v. NLRB, 755 
+F.2d 941, 942 (D.C. Cir. 1985);  see also FCC v. RCA Commu-
+nications Inc., 346 U.S. 86, 95-96 (1953).  Because the Com-
+mission might well exclude CMRS from coverage under 
+s 254(g) as an exercise of its discretion, we must remand this 
+matter for the Commission to make that determination in the 
+first instance.  See SEC v. Chenery Corp., 318 U.S. 80, 88 
+(1943);  Prill, 755 F.2d at 956-57.*
+
+                         III. Conclusion
+
+     The petition for review is denied insofar as it challenges the 
+Commission's requirement that carriers integrate their inter-
+state long distance rates with those of all commonly owned or 
+controlled affiliates in both contiguous and non-contiguous 
+domestic locations.  The petition is granted insofar as it 
+challenges the Commission's requirement that providers of 
+CMRS likewise integrate their rates.  The orders under 
+review are vacated in relevant part and this matter is re-
+manded to the Commission for further consideration.
+
+                                                       So ordered.
+
+__________
+     * In view of this disposition, we do not address the petitioners' 
+alternative claim that if s 254(g) applies to providers of CMRS then 
+the Commission is required by 47 U.S.C. s 160 to forbear from 
+enforcement of the requirement.
+
+   

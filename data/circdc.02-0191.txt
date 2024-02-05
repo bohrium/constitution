@@ -1,0 +1,467 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued March 15, 2002      Decided July 12, 2002 
+
+                           No. 01-1121
+
+          Riggs National Corporation and Subsidiaries, 
+                            Appellant
+
+                                v.
+
+                Commissioner of Internal Revenue, 
+                             Appellee
+
+             Appeal from the United States Tax Court 
+                          (No. 24368-89)
+
+     Thomas C. Durham argued the cause for appellant.  With 
+him on the briefs were Joel V. Williamson, Russell R. Young, 
+Kim Marie Boylan, Charles W. Hall and Stephen M. Fel-
+dhaus.
+
+     Stephen D. Gardner was on the brief for amicus curiae 
+National Foreign Trade Council, Inc. in support of appellant.
+
+     Charles Bricken, Attorney, U.S. Department of Justice, 
+argued the cause for appellee.  With him on the brief was 
+David English Carmack, Attorney.
+
+     Before:  Sentelle, Henderson and Tatel, Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  This case returns to us after 
+decision on remand by the United States Tax Court.  Riggs 
+Bank, asserting that the Central Bank of Brazil paid taxes to 
+the Brazilian government on its behalf with respect to inter-
+est income on loans it had made to the Central Bank, claimed 
+foreign tax credits under section 901 of the Internal Revenue 
+Code.  The Commissioner disallowed the credits and the Tax 
+Court denied Riggs's petition for relief.  Upon review, we 
+conclude that official tax receipts that the Central Bank 
+submitted on behalf of Riggs Bank are entitled to the pre-
+sumption of regularity.  Holding that the Commissioner 
+failed to rebut this presumption through clear and specific 
+evidence that the taxes had not, in fact, been paid, we reverse 
+the decision of the Tax Court and hold that Riggs is entitled 
+to the tax credits.  We remand to the Tax Court for determi-
+nation of whether the tax credits owed to Riggs should be 
+reduced by offsetting subsidies reportedly paid to the Central 
+Bank.
+
+               I. Background and Prior Proceedings
+
+     The origins of this case are set out more fully in our prior 
+opinion Riggs National Corporation & Subsidiaries v. Com-
+missioner, 163 F.3d 1363 (D.C. Cir. 1999) (Riggs II), and will 
+not be repeated at length here.  We instead provide an 
+overview of this case's prior history with a recitation of the 
+facts giving rise to the issues now before us.
+
+     Riggs National Corporation's subsidiary, Riggs Bank 
+("Riggs"), made loans to the Central Bank of Brazil during 
+the early to mid-1980's.  These loans were of the "net loan" 
+variety.  In a net loan, the borrower contractually agrees to 
+pay both the interest on the loan to the lender and any local 
+(in this case, Brazilian) tax that the lender incurs as a result 
+
+of the interest income.  The attractiveness of such a loan is 
+obvious:  the lender receives the agreed upon interest income 
+while the borrower is obligated to pay any tax that the lender 
+owes on that interest.  Making these types of loans even 
+more appealing is an added benefit resulting from the United 
+States's Internal Revenue Code ("IRC").  Under section 901 
+of the IRC, a United States taxpayer is able to take a credit 
+against his U.S. tax liability on income earned in a foreign 
+country equal to the amount of foreign tax paid on that 
+income.  26 U.S.C. s 901.  Thus, by providing ordinary net 
+loans (i.e., net loans to individual foreign borrowers), Riggs 
+could take a credit equal to the amount of taxes that Brazilian 
+borrowers paid to Brazil on Riggs's behalf without running 
+afoul of the IRC.  See Riggs II, 163 F.3d at 1365;  Continen-
+tal Illinois Corp. v. Commissioner, 998 F.2d 513, 516-17 (7th 
+Cir. 1993).
+
+     At issue in Riggs II was the fact that the borrower was the 
+Central Bank of Brazil, a government entity that is ordinarily 
+immune from tax on its own income under the Federal 
+Constitution of Brazil.  Despite its tax immune status, and 
+possibly because of pressure from foreign lenders who fa-
+vored the tax credits under section 901, Brazil's Minister of 
+Finance--the highest ranking Brazilian tax authority--ruled 
+that the Central Bank was required under Brazilian law to 
+pay the tax obligation it assumed from foreign lenders.  The 
+Minister of Finance justified his ruling under the rationale 
+that the funds were available for "re-lending" by the Central 
+Bank to private Brazilian borrowers.  See Riggs Nat'l Corp. 
+v. Commissioner, 107 T.C. 301, 331 (1996) (Riggs I).  The 
+Minister concluded that the Central Bank must, "as a substi-
+tute for such borrowers [to-be,] pay the income tax incident 
+on the interest from January 1, 1984 to the end of the period 
+of availability for such funds to be relent."  Riggs II, 163 
+F.3d at 1366 (quoting Riggs I, 107 T.C. at 331).  In response, 
+the Central Bank issued official tax receipts, called 
+"DARFs,"1 to the foreign lenders which purportedly indicat-
+
+__________
+     1 Documento de Arrecadacao de Receitas Federais.  DARFs are 
+official forms authorized by the Brazilian government as the only 
+form to pay taxes and prove payment of those taxes within Brazil.
+
+ed the amount of tax paid on the lender's behalf.  This 
+comported with the standard practice in Brazil:  taxpayers 
+submit DARFs and the accompanying tax payment to com-
+mercial banks, which then transfer the payments to the 
+Banco do Brasil, a quasi-public, quasi-private bank that col-
+lects taxes on behalf of Brazil's National Treasury.
+
+     Despite the Minister's ruling that the Central Bank was 
+required to pay the taxes, and despite the receipt of DARFs 
+indicating that the taxes had been paid, the Commissioner 
+rejected the DARFs as sufficient proof that the taxes were 
+paid, reasoning instead that because the Central Bank was a 
+tax immune entity, any tax payments made by the Central 
+Bank were voluntary and not "taxes paid or accrued ... to 
+any foreign country."  26 U.S.C. s 901(b)(1).  The Commis-
+sioner consequently assessed a deficiency against Riggs.  Be-
+fore the Tax Court, Riggs submitted its DARFs as proof that 
+the Central Bank paid the foreign taxes on Riggs's behalf.  
+Riggs also provided the Tax Court with entries from the 
+Banco do Brasil which purportedly showed that the Central 
+Bank paid to the National Treasury the taxes withheld from 
+its payments of interest to Riggs.  The Tax Court, however, 
+agreed with the Commissioner that the Central Bank was not 
+obligated to pay the taxes and therefore disallowed the tax 
+credits.  Riggs I, 107 T.C. at 360.  Riggs appealed.
+
+     On appeal, we held that the Minister of Finance's ruling 
+that the Central Bank was obligated to pay the taxes was an 
+act of state, which precluded the Commissioner from inquir-
+ing into its validity.  We remanded "so that the Tax Court 
+may determine in the first instance ... whether the taxes 
+were in fact paid by the Central Bank" on Riggs's behalf, and 
+whether any of the potential tax credits must be reduced by 
+pecuniary benefits, or subsidies, paid to the Central Bank.  
+Riggs II, 163 F.3d at 1369.  Pecuniary benefits were original-
+ly instituted in 1975 and allowed Brazilian borrowers who 
+paid interest to foreign lenders to receive a benefit, or 
+subsidy, equal to a percentage of the amount of the tax paid 
+with respect to the interest.  The amount of the pecuniary 
+benefit was originally 85 percent of the amount of the tax 
+
+paid.  It was reduced to 50 percent of the tax in July 1979, 
+increased to 95 percent of the tax in December 1979, reduced 
+to 40 percent of the tax in May 1980, and reduced to zero in 
+June 1985.  See Riggs I, 107 T.C. at 308.
+
+     On remand, the Tax Court ruled that Riggs failed to 
+establish that the Central Bank had, in fact, paid the taxes at 
+issue on Riggs's behalf.  Riggs Nat'l Corp. & Subs. v. Com-
+missioner, T.C. Memo. 2001-12, 81 T.C.M. 1023, 2001 Tax Ct. 
+Memo LEXIS 20, *66 (Jan. 22, 2001) (Riggs III).  Specifical-
+ly, the Tax Court noted that letters and spreadsheets the 
+Central Bank submitted with the DARFs reported that, for 
+some of the payments, a pecuniary benefit had been reported 
+as received after June 28, 1985.  That is, the Central Bank 
+continued to report pecuniary benefit information in docu-
+ments submitted to Morgan Bank, the Central Bank's agent 
+to foreign lenders such as Riggs, after Brazil stopped provid-
+ing the pecuniary benefits.  Reasoning that errors of this sort 
+would not have been made if payment of the taxes had 
+actually occurred (in other words, had the Central Bank 
+actually paid the taxes, it would know that it did not receive a 
+pecuniary benefit for those tax payments after June 28, 1985 
+and would therefore not report the receipt of such), the Tax 
+Court found that the DARFs issued by the Central Bank 
+were not reliable proof that the withholding taxes in issue had 
+actually been paid by the Central Bank.  Id.  The Tax Court 
+also disagreed with secondary accounting evidence relied on 
+by Riggs to indicate that the taxes had been paid.  Id.  
+Consequently, the Tax Court ruled that Riggs was not enti-
+tled to the foreign tax credits at issue.  Id.  After ruling that 
+Riggs was ineligible for the tax credits, the Tax Court had no 
+occasion to reach the issue of whether Riggs's tax credits 
+should be reduced by the value of any pecuniary benefits paid 
+to the Central Bank.  Id.
+
+     In this appeal, Riggs asserts that the Commissioner acted 
+contrary to Treasury Regulations by refusing to accept the 
+DARFs as definitive proof that the foreign taxes were paid.  
+Riggs also contends that the DARFs are entitled to the 
+presumption of administrative regularity and must be deemed 
+reliable.  Finally, Riggs argues that its foreign tax credits 
+
+should not be reduced by the offsetting pecuniary benefits 
+paid to the Central Bank.  The Commissioner, however, 
+contends that Riggs has the burden of proving its entitlement 
+to the foreign tax credits.  The Commissioner relies on the 
+language of IRC s 905(b), which allows foreign tax credits 
+only to the extent "the taxpayer establishes to the satisfaction 
+of the Secretary" the amount of foreign tax paid.  26 U.S.C. 
+s 905(b).  The Commissioner argues that this section autho-
+rizes him to require more satisfactory proof that foreign taxes 
+were, in fact, paid.  The Commissioner also contends that 
+Riggs waived its "presumption of regularity" argument by not 
+raising it before the Tax Court, but that even if a presump-
+tion of regularity exists with respect to the DARFs, irregular-
+ities accompanying the issuance and submission of the 
+DARFs rebut that presumption.  The Commissioner further 
+contends that Riggs's secondary accounting evidence is un-
+persuasive to show that the taxes were actually paid to the 
+National Treasury by the Central Bank.
+
+                           II. Analysis
+
+A.    Availability of Foreign Tax Credits
+
+     When we remanded this case to the Tax Court for it to 
+determine "whether the taxes were in fact paid by the 
+Central Bank," Riggs II, 163 F.3d at 1369, the Tax Court was 
+required to determine whether the taxes were paid within the 
+meaning of section 901 of the Internal Revenue Code.  Deter-
+mining whether taxes for which a credit is sought under 
+section 901 have been paid is governed by section 905 of the 
+IRC.  Section 905 reads in applicable part that the foreign 
+tax credit "shall be allowed only if the taxpayer establishes to 
+the satisfaction of the Secretary ... the tax paid...."  I.R.C. 
+s 905(b)(2).  The amount the taxpayer claims as having been 
+paid, and thus the amount of the credit sought, shall "be 
+determined under regulations prescribed by the Secretary."  
+Id.  For the type of credit at issue in this case, Treasury 
+Regulation s 1.905-2 requires that if a taxpayer corporation, 
+like Riggs, seeks to claim a foreign tax credit, the taxpayer 
+must submit a Form 1118, Computation of Foreign Tax 
+
+Credit--Corporations.  See Treas. Reg. s 1.905-2(a)(1).  This 
+form "must be carefully filled in with all the information 
+called for and with the calculations of credits indicated.  
+Except where it is established to the satisfaction of the 
+district director that it is impossible for the taxpayer to 
+furnish such evidence, the taxpayer must provide upon re-
+quest the receipt for each such tax payment if credit is sought 
+for taxes already paid....  This receipt ... must be either 
+the original, a duplicate original, a duly certified or authenti-
+cated copy, or a sworn copy."  Treas. Reg. s 1.905-2(a)(2).  
+In this case, while Riggs must in the first instance submit 
+direct evidence of foreign tax withholding and payment where 
+possible (i.e., "the receipt for each ... tax payment"), the 
+district director has the discretion to accept secondary evi-
+dence.  See id. s 1.905-2(b).  Regardless of the evidence 
+upon which the Commissioner ultimately relies, the taxpayer 
+"must plainly establish his right [to the foreign tax credit] by 
+showing that he has fulfilled all the conditions upon which the 
+allowance of the credit is made to depend."  Irving Air Chute 
+Co. v. Commissioner, 143 F.2d 256, 259 (2d Cir. 1944).
+
+     Riggs contends that it provided the Commissioner with 
+both direct and secondary evidence that the taxes were paid 
+on its behalf.  It is undisputed that Riggs provided the 
+Commissioner with a DARF, or tax receipt, for each tax 
+payment credit that it sought, and that it recorded the 
+amount of taxes paid on an accompanying Form 1118.2  Riggs 
+thus insists before this Court that the Commissioner failed to 
+comply with Treas. Reg. s 1.905-2(a)(2) by not accepting the 
+submission of the DARFs as definitive proof that the Central 
+Bank paid the foreign taxes on Riggs's behalf.  We disagree, 
+although our disagreement is not fatal to Riggs's position.  
+The regulations do not require the Commissioner to accept 
+foreign tax receipts at face value.  It follows that the regula-
+tions do not require the Commissioner to allow foreign tax 
+credits without scrutinizing the tax receipts on which the 
+
+__________
+     2 Indeed, the Tax Court accepted Riggs's DARFs into evidence as 
+authenticated copies of the original tax receipts and agreed the 
+receipts were official records of the Brazilian government.
+
+claim for credits is premised.  In fact, the regulations do not 
+require the Commissioner to take any action at all.  Rather, 
+the regulations only set forth the necessary evidence a tax-
+payer must provide, upon request, to the Commissioner if 
+that taxpayer intends to claim a foreign tax credit.  This 
+evidentiary requirement does not require the Commissioner 
+to accept the tax receipts as sufficient proof that the taxes 
+were paid.  Indeed, if, as here, the Commissioner questions 
+the legitimacy of the accompanying receipts, section 1.905-2 
+in no way compels the Commissioner to ignore a perceived 
+inconsistency and accept the receipts as unquestionable proof 
+of payment.  We conclude, therefore, that mere submission of 
+a DARF is not absolute proof that the taxes reported therein 
+were paid.
+
+     Although we hold that the submission of DARFs, as re-
+quired under section 1.905-2, is not conclusive proof of a 
+foreign tax payment, we nonetheless conclude that the 
+DARFs are entitled to a presumption of regularity.  Common 
+law has long recognized a presumption of regularity for 
+actions and records of public officials.  See United States v. 
+Chemical Foundation, 272 U.S. 1, 14-15 (1926);  American 
+Federation of Government Employees v. Reagan, 870 F.2d 
+723, 727-28 & n.33 (D.C. Cir. 1989).  The presumption also 
+applies to the actions of tax officials and in applying United 
+States tax law.  See R.H. Stearns Co. v. United States, 291 
+U.S. 54, 62-63 (1934);  cf. Utah Power & Light Co. v. Pfost, 
+286 U.S. 165, 190 (1932).  Most pertinently, it applies to the 
+actions and records of foreign public officials.  See United 
+States v. King, 44 U.S. (3 How.) 773, 785-86 (1845);  Murarka 
+v. Bachrack Bros., Inc., 215 F.2d 547, 552-53 (2d Cir. 1954).  
+We therefore conclude that a DARF, as an official tax receipt 
+of the Brazilian government, is entitled to a presumption of 
+regularity.  While not irrebuttable, this presumption may 
+only be rebutted through clear or specific evidence.  "The 
+presumption of regularity supports the official acts of public 
+officers and, in the absence of clear evidence to the contrary, 
+courts presume that they have properly discharged their 
+official duties."  Chemical Foundation, 272 U.S. at 14-15;  see 
+also United States v. Studevent, 116 F.3d 1559, 1563 (D.C. 
+
+Cir. 1997).  Thus the Commissioner must provide clear and 
+specific evidence that the DARFs submitted on behalf of 
+Riggs were inaccurate representations of the amount of tax 
+paid by the Central Bank in order to justify its denial of 
+Riggs's claimed tax credit.
+
+     The Commissioner argues that Riggs waived its "presump-
+tion of regularity" argument by not raising it before the Tax 
+Court.  We disagree.  Riggs clearly argued before the Tax 
+Court that the Commissioner had the burden of proving that 
+the DARFs were inaccurate accountings of the amount of 
+foreign tax paid on Riggs's behalf.  Riggs's argument before 
+this Court--that the DARFs must be given a presumption of 
+regularity--is merely an improved articulation of that previ-
+ously raised argument.  Riggs is not raising a novel issue or 
+argument before us that it failed to first bring before the Tax 
+Court.  Riggs is instead reasserting and restating its earlier 
+position--that the Commissioner has the burden of disproving 
+the accuracy of the DARFs, and the Commissioner failed to 
+meet that burden.
+
+     The Commissioner argues next that inconsistencies in docu-
+ments accompanying the submission of the DARFs "call into 
+question" the accuracy and validity of the DARFs.  Specifi-
+cally, the Commissioner relies on the finding of the Tax Court 
+that schedules, or spreadsheets, that accompanied letters 
+from the Central Bank and that were submitted along with 
+the DARFs indicated that the Central Bank had received a 40 
+percent pecuniary benefit with respect to the tax payments, 
+even though the pecuniary benefit had by then been repealed.  
+The Tax Court reasoned that:
+
+     If, as [taxpayer] asserts, the Central Bank actually had 
+     paid withholding taxes on [taxpayer's] ... behalf ..., we 
+     then find inexplicable the Central Bank's erroneous ac-
+     tions well after June 28, 1985, in continuing to report its 
+     having received a nonexistent "pecuniary benefit."
+     
+Riggs III, 2001 Tax Ct. Memo LEXIS 20, at *65.  Thus when 
+making its finding that the foreign tax had not been paid, the 
+Tax Court relied on the reported receipt of a pecuniary 
+benefit after the benefits were reduced to zero.  In the first 
+
+instance, we note that an inconsistency that merely "call[s] 
+into question" the validity of an official document is not "clear 
+evidence" of that document's invalidity, or "clear evidence" of 
+anything, for that matter.  That being so, we are not con-
+vinced that the erroneous reporting of a pecuniary benefit in 
+a document that accompanied the submission of an official 
+government record entitled to a presumption of regularity, is 
+clear and specific evidence that the official government record 
+is itself erroneous.  The spreadsheets and transmittal letters 
+indicated the receipt of a nonexistent pecuniary benefit.  The 
+obvious irregularities in the accompanying documents do not, 
+however, indicate clear and specific evidence that taxes re-
+ported as paid in the DARFs were not paid.  At best, the 
+accompanying documents reflect clerical errors;  at worst, 
+they reflect the erroneous receipt of a disallowed pecuniary 
+benefit.  Neither scenario, however, is clear evidence that the 
+Central Bank failed to remit foreign tax payments on behalf 
+of Riggs, as indicated by the DARFs.  Therefore, we con-
+clude that the Commissioner did not rely on clear and specific 
+evidence necessary to rebut the presumption of regularity 
+that attaches to the DARFs.
+
+     We understand that the payment of foreign taxes and the 
+receipt of a pecuniary benefit are necessarily related:  while 
+the pecuniary benefits were in effect, the pecuniary benefit 
+was dependent on the payment of foreign taxes.  As we 
+understand the Brazilian tax system, a borrower paid the 
+entire amount of interest owed on a foreign debt and then 
+later received a credit equal to the amount of the pecuniary 
+benefit.  Such a system necessitates two separate and inde-
+pendent transactions.  Perhaps if the payment of taxes and 
+the receipt of the pecuniary benefits had taken place through 
+one transaction (e.g., the borrower made interest payments 
+that were already reduced by the amount of the pecuniary 
+benefit), evidence of one (payment of the tax or receipt of the 
+pecuniary benefit) might bear strongly upon the other.  But 
+given that the receipt of a pecuniary benefit was the result of 
+a separate transaction, we are altogether unconvinced that 
+the impossibility of one establishes the impossibility of the 
+other.  Thus the Central Bank's reported receipt of a nonex-
+
+istent pecuniary benefit is not clear and specific evidence that 
+the DARF, an official government document otherwise enti-
+tled to a presumption of regularity, is erroneous.
+
+     Inconsistencies or inaccuracies in documents accompanying 
+official government records do not inherently rebut the pre-
+sumption of regularity attaching to those official records, 
+especially when the accompanying documents do not directly 
+address the matter sought to be proved by the official rec-
+ords.  Because the DARFs are entitled to a presumption of 
+regularity, and because the Tax Court based its decision on 
+inconsistencies in accompanying documents rather than the 
+DARFs themselves, and because the accompanying docu-
+ments did not in fact address the issue of whether the foreign 
+taxes had, in fact, been paid, we conclude that the Commis-
+sioner did not have clear and specific evidence that the 
+DARFs were themselves erroneous representations of 
+Riggs's claimed tax credits.
+
+     As the Tax Court erroneously based its decision to reject 
+the DARFs on the wrongly reported pecuniary benefit, we 
+need not consider the other arguments, such as inconsisten-
+cies in Riggs's secondary accounting evidence, now offered by 
+the Commissioner to explain the Tax Court's decision.  We 
+therefore reverse the decision of the Tax Court and hold that 
+the foreign tax credits should have been allowed.
+
+B.   Offsetting Subsidies
+
+     In our initial remand of this case to the Tax Court, we 
+directed it to determine whether any of Riggs's potential tax 
+credits should be reduced by the pecuniary benefits, or 
+subsidies, reportedly paid to the Central Bank.  Riggs II, 163 
+F.3d at 1369.  Given the Tax Court's decision in favor of the 
+Commissioner, the Tax Court never reached this issue.  As 
+we now hold that the foreign tax credits should have been 
+allowed, this issue is ripe for consideration.  However, rather 
+than decide this issue for the first time on appeal, we remand 
+this case to the Tax Court solely to determine whether any of 
+the tax credits owed to Riggs must be reduced by the 
+subsidies reportedly paid to the Central Bank.
+
+                         III. Conclusion
+
+     The official actions of foreign governments are entitled to a 
+presumption of regularity.  While this presumption is not 
+absolute, it may be rebutted only through clear and specific 
+evidence.  The DARFs submitted by the Central Bank indi-
+cating that it had paid taxes on Riggs's behalf are entitled to 
+the presumption of regularity unless rebutted by the Com-
+missioner.  We conclude that irregularities in documents 
+accompanying the DARFs that do not specifically pertain to 
+whether the taxes had, in fact, been paid do not rise to the 
+level of clear and specific evidence showing that the taxes 
+were never remitted.  We therefore reverse the decision of 
+the Tax Court disallowing Riggs's tax credits for the taxes 
+paid by the Central Bank on Riggs's behalf with respect to 
+interest income on loans Riggs made to the Central Bank.  
+We remand the case solely for the Tax Court to determine 
+whether the tax credits should be reduced by any subsidies 
+that may have been paid to the Central Bank.
+
+                                                                       

@@ -1,0 +1,857 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+      Argued September 17, 2001   Decided December 28, 2001 
+
+                           No. 01-1076
+
+               Sprint Communications Company L.P., 
+                            Appellant
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+                SBC Communications Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                01-1081, 01-1082, 01-1083, 01-1084
+
+                  Appeals from an Order of the 
+                Federal Communications Commission
+
+     David W. Carpenter argued the cause for appellants. With 
+him on the briefs were Mark C. Rosenblum, Mark E. Had-
+
+dad, David L. Lawson, Jay T. Jorgensen, Theodore C. White-
+house, Randy J. Branitsky, Thomas F. O'Neil III, William 
+Single IV, Mark D. Schneider, Robert J. Aamoth, Brad E. 
+Mutschelknaus and Jonathan E. Canis. Peter D. Keisler 
+entered an appearance.
+
+     James M. Carr, Counsel, Federal Communications Com-
+mission, argued the cause for appellee. With him on the brief 
+were Daniel M. Armstrong, Associate General Counsel, and 
+John E. Ingle, Deputy Associate General Counsel.
+
+     Geoffrey M. Klineberg argued the cause for intervenors 
+SBC Communications Inc., Southwestern Bell Telephone 
+Company and Southwestern Bell Communications Services, 
+Inc. With him on the brief were Michael K. Kellogg, Scott K. 
+Attaway, Alfred G. Richter, Jr., James D. Ellis, Martin E. 
+Grambow and Mary W. Marks.
+
+     Eva Powers, Elisabeth H. Ross and Douglas S. Burdin 
+were on the brief for intervenor Kansas Corporation Commis-
+sion.
+
+     William R. Burkett was on the brief for amicus curiae 
+Oklahoma Corporation Commission in support of appellee.
+
+     Before:  Tatel, Circuit Judge, Silberman and Williams*, 
+Senior Circuit Judges.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  The regional Bell operat-
+ing companies ("BOCs"), split off from AT&T in the 1982 
+antitrust settlement, provide most local telephone service.  
+Section 271 of the Telecommunications Act of 1996 (the 
+"Act"), 47 U.S.C. s 271, offers the BOCs a deal:  such a 
+company can enter the long distance business in a state 
+within its service area if it takes specified steps to open the 
+local-service market to competition.  SBC Communications, a 
+
+__________
+     * Senior Circuit Judge Williams was in regular active service at 
+the time of oral argument.
+
+provider of local service in Kansas and Oklahoma, applied to 
+the Federal Communications Commission for authorization to 
+enter the long distance market in those states.  Various long 
+distance providers, including the five appellants before us, 
+objected.  The FCC granted the authorization, see Joint 
+Application by SBC Communications, Inc. et al. for Provi-
+sion of In-Region InterLATA Services in Kansas and Okla-
+homa, 16 F.C.C.R. 6237 (2001) (the "Order"), and this appeal 
+followed.  See 47 U.S.C. s 402(b)(6) & (9) (giving this court 
+exclusive jurisdiction over challenges to the Commission's 
+s 271 orders).
+
+     The full regulatory context of a s 271 application is set 
+forth comprehensively in our decision affirming the FCC's 
+approval of Bell Atlantic's s 271 application for New York.  
+AT&T v. FCC, 220 F.3d 607, 610-15 (D.C. Cir. 2000), affirm-
+ing Bell Atlantic New York Order, 15 F.C.C.R. 3953 (1999) 
+("New York Order").  Here we state only the bare bones.  
+The Act entitles each of the BOCs to begin offering long 
+distance service originating outside their local-service areas 
+immediately.  See 47 U.S.C. s 271(b)(2).  But for authority to 
+offer "in region" long distance service (i.e., service originating 
+in a state where it provided local service), the Act requires a 
+BOC to apply for Commission approval.  Id. s 271(b)(1).  
+The Commission then has 90 days to decide whether the BOC 
+has shown that it is in compliance with the statutory prereq-
+uisites.  Id. s 271(d)(3).
+
+     First, the BOC must satisfy either "Track A" or "Track 
+B"--names derived from subparagraphs of s 271(c)(1).  For 
+Track A it must show that it provides network access to "one 
+or more unaffiliated competing providers of telephone ex-
+change service ... to residential and business subscribers."  
+Id. s 271(c)(1)(A).  If no competing provider has requested 
+such access, the BOC may invoke Track B, showing that it is 
+ready and willing to provide its competitors with network 
+access and interconnectivity under terms "approved ... by 
+the State commission."  Id. s 271(c)(1)(B).
+
+     Besides prevailing on Track A or B, the BOC must estab-
+lish that its offering of interconnection and access to competi-
+
+tive local exchange companies ("CLECs") meets the fourteen 
+requirements of a "competitive checklist" contained in 
+s 271(c)(2)(B).  Many of these requirements are simply incor-
+porations by reference of obligations independently imposed 
+on the BOCs by ss 251-52 of the Act, id. s 271(c)(2)(B)(i) & 
+(ii), and enforced by state regulatory commissions pursuant to 
+s 252.  The required interconnection and access must be 
+available on non-discriminatory terms and at cost-based rates.  
+See, e.g., id. ss 251(c)(2) & (3), 252(d)(1).  Finally, the BOC 
+must convince the FCC that "the requested authorization is 
+consistent with the public interest, convenience, and necessi-
+ty."  Id. s 271(d)(3)(C).
+
+     SBC filed an application for long distance service authoriza-
+tion in both Kansas and Oklahoma on October 26, 2000.  Its 
+petition relied on the network element rates that were set by 
+the Kansas Corporation Commission and the Oklahoma Cor-
+poration Commission in s 252 proceedings implementing 
+SBC's duties under s 251.  See Order at p p 12-16, 22-23.  
+Numerous parties--including the Department of Justice, the 
+Kansas Commission and the Oklahoma Commission, and the 
+five appellants--filed comments.  The state commissions 
+weighed in on the side of SBC.  DOJ's recommendations 
+endorsed neither denial nor approval of the applications, but 
+instead urged the FCC to scrutinize particular aspects of the 
+petition, including SBC's prices for network elements.
+
+     On January 22, 2001--ninety days after the application was 
+filed, and for the first time in a situation involving predomi-
+nantly rural states--the FCC released its order granting 
+SBC the authorizations.  See Order p 1.
+
+     The Commission found first that SBC had satisfied Track A 
+in both Kansas and Oklahoma because the company was 
+supplying network access to one or more unaffiliated competi-
+tors providing residential and business customers with "facili-
+ties-based service."  Order p p 40-44;  see also s 271(c)(1)(A).
+
+     Next the Commission concluded that SBC had fully met the 
+requirements of the competitive checklist in both states.  
+Evidence in the record was virtually uncontested with respect 
+to eleven of the fourteen checklist items.  Order p p 39, 241-
+
+55.  As for the remaining three items, the Commission con-
+sidered and rejected commenters' contentions that SBC failed 
+to provide network elements and interconnection to CLECs 
+at cost-based rates.  See Order p p 45-240.
+
+     Appellants raised two rate-related arguments that are nov-
+el in s 271 litigation.  Pointing to the rather low level of 
+residential service by CLECs, they argued that the unbun-
+dled network element ("UNE") rates could not have genuine-
+ly conformed to the cost requirement, or else competition 
+would have flourished, or at least not proven so modest.  
+Further, pointing to submissions of evidence that SBC's UNE 
+rates were too high to provide profitable residential service, 
+they argued that SBC was engaged in a "price squeeze" 
+(charging prices for inputs that precluded competition from 
+firms relying on those inputs), and that accordingly the 
+Commission could not find that authorization of its entry into 
+the long distance market was "consistent with the public 
+interest," as required by s 271(d)(3)(C).  The Commission 
+rather summarily rejected both claims.  Order p p 92, 268.
+
+     Appellants here pursue three basic arguments.  First, they 
+make the arguments summarized above about the relation 
+between UNE rates and low volumes of residential service.  
+Second, they make a series of detailed attacks on the Com-
+mission's findings that the UNE rates were cost-based.  Fi-
+nally, they say that the FCC improperly relied on ex parte 
+communications in its Kansas Track A determination, which 
+was, in any event, independently erroneous.  We consider the 
+arguments in that order.  We conclude that appellants have 
+made out a case for a remand to the Commission only on the 
+"public interest" aspect of the first issue.
+
+1.   Low-volume local competition, possible price squeeze and 
+     the public interest.
+
+     In contrast to the situation in the other two states where 
+the FCC has previously granted long distance authority to a 
+requesting BOC (New York and Texas), Oklahoma and Kan-
+sas have local telephone markets characterized by relatively 
+low volumes of residential competition from non-BOC firms.  
+Order p p 34, 92, 268.  Appellants also point to evidence they 
+
+submitted, evidently uncontradicted in the record, that com-
+petition in the residential market that was dependent on 
+UNEs at SBC's prices could not succeed.  They argue that 
+the low volumes and the evidence of the impossibility of 
+profitable competition both contradict the Commission's find-
+ing of cost-based rates and undermine its conclusion that 
+granting SBC's applications was consistent with the public 
+interest.
+
+     The Commission's standard for cost--"TELRIC" (or total 
+long-run incremental cost)--is one that might normally be 
+expected to generate competition.  In principle, there is no 
+reason to think the BOC's real costs could be lower.  In an 
+otherwise undistorted market, firms capable of efficiently 
+supplying the non-BOC elements should be able to compete.  
+Appellants' proposal that the Commission consider the vol-
+ume of competition as a cross-check for its cost finding is 
+therefore understandable.
+
+     But we can hardly find the Commission's rejection of 
+appellants' proposal unreasonable.  The statute imposes no 
+volume requirements for satisfaction of Track A, so that it 
+would be odd for the Commission to use low volume to defeat 
+a finding of TELRIC-compliant rates.  And it would be 
+reasonable for the Commission to treat any questions raised 
+by the low volumes, or by the appellants' evidence showing 
+the difficulty of making a profit under SBC's rates, as sub-
+sumed within the issue of TELRIC compliance.  See AT&T, 
+220 F.3d at 619.  As the appellants concede, the lack of 
+competition they allude to is neither a direct nor a conclusive 
+proof of a checklist violation.  Appellants' Br. at 52.1  The 
+Justice Department argued that the low volumes "compel[led] 
+a closer look" at whether SBC's rates were "properly cost-
+based," Evaluation of the U.S. Department of Justice ("DOJ 
+Report") at 10, and the FCC did just that, as we shall see.
+
+     Appellants repackage the data on volumes and potential 
+profitability as an attack on the Commission's public interest 
+finding.  Concededly, Congress did not expressly consider 
+
+__________
+     1  All cites to briefs are to pages in the sealed versions.
+
+whether such data could prevent a public interest finding or 
+even require further inquiries by the Commission.  See Chev-
+ron U.S.A. v. Natural Resources Defense Council, 467 U.S. 
+837, 842-43 (1984).  But appellants in substance argue that 
+the only reasonable construction of the requirement calls at 
+least for such an inquiry.  They point to "price squeeze" 
+decisions, construing public-interest provisions in statutes 
+that are not explicitly aimed at fostering competition, which 
+reviewed--and found wanting--agencies' asserted grounds 
+for failing to follow up similar claims.  See, e.g., Mid-Tex 
+Elec. Coop., Inc. v. FERC, 773 F.2d 327, 351-62 (D.C. Cir. 
+1985).  With a statute that proclaims competition as the 
+congressional purpose, Pub. L. No. 104-104, purpose state-
+ment, 110 Stat. 56, 56 (1996), it follows a fortiori, appellants 
+say, that the Commission should pursue their price squeeze 
+claim, or at the very least explain why the public interest does 
+not require it to do so.  After all, "the words 'public interest' 
+in a regulatory statute ... take meaning from the purposes of 
+the regulatory legislation."  NAACP v. FPC, 425 U.S. 662, 
+669 (1976).
+
+     In fact, the Commission gave appellants' claim rather a 
+brush-off.  First, the Commission said that under its reading 
+of the Act, the "profitability" considerations raised by appel-
+lants were "irrelevant" because the Act directed it to assure 
+that the rates were cost-based, "not [to determine] whether a 
+competitor can make a profit by entering the market."  Order 
+p 92;  see also id. p 65.  This, of course, is unresponsive.  The 
+issue is not guarantees of profitability, but whether the UNE 
+pricing selected here doomed competitors to failure.
+
+     Second, the Commission reasoned that consideration of the 
+price-squeeze claims would have exceeded the Commission's 
+authority under the Act, because it would have required the 
+FCC to invade state commissions' exclusive jurisdiction over 
+retail rates.  Order p 92 ("Were we to focus on profitability, 
+we would have to consider the level of a state's retail rates, 
+something which is within the state's jurisdictional authority, 
+not the Commission's.").  But the Supreme Court rejected 
+precisely this argument in FPC v. Conway Corp., 426 U.S. 
+271 (1976).  There the Federal Power Commission had re-
+
+fused to hear price-squeeze evidence on the theory that it was 
+powerless to eliminate any such squeeze, as retail rates fell in 
+the exclusive jurisdiction of state commissions.  Id. at 277.  
+The Supreme Court responded that the remedy, if any, could 
+take the form of the Commission's fixing the wholesale rates, 
+which were under its jurisdiction, at a lower level within "the 
+zone of reasonableness."  Id. at 279 (internal quotation marks 
+omitted).
+
+     The Commission makes a related argument in its brief, 
+saying that any price-squeeze claim is effectively rebutted by 
+the Commission's finding that UNE rates were cost-based. 
+That is true to the extent that an agency can pinpoint 
+TELRIC rates;  as we suggested earlier, in an undistorted 
+market "perfect" TELRIC rates would seem inconsistent 
+with any price squeeze.  But to the extent that an agency can 
+confidently identify TELRIC rates only within some band, 
+like those involved under conventional "just and reasonable" 
+regulation, the possibility exists that the agency has chosen 
+too high a point within the band.  As the Court said in 
+Conway:
+
+     This argument, however, assumes that ratemaking is an 
+     exact science and that there is only one level at which a 
+     wholesale rate can be said to be just and reasonable....  
+     [H]owever, there is no single cost-recovery rate, but a 
+     [wide] zone of reasonableness....
+     
+Conway, 426 U.S. at 278.
+
+     Finally, the Commission observes, "[f]actors beyond a 
+BOC's control, such as individual CLEC entry strategies for 
+instance, might explain a low residential customer base."  
+Order, p 268.  This is, of course, correct in principle, although 
+it may leave the inquisitive wondering why firms would 
+forego what superficially appear to be promising opportuni-
+ties for profit.  But the observation is no basis for rejecting a 
+proffer of evidence that the ceiling level for UNE rates--
+fixed by the state commissions and approved by the FCC 
+itself--precluded profitable entry.
+
+     At oral argument Commission counsel offered another anal-
+ysis, not explicitly mentioned in the Order.  He suggested 
+that state commissions have historically set relatively low 
+residential rates, especially rural ones, allowing the incum-
+bent monopoly to make it up in other aspects of their 
+business.  Compare City of Batavia v. FERC, 672 F.2d 64, 90 
+n.52 (D.C. Cir. 1982) ("Conway [does not] require the Com-
+mission to set a wholesale rate so that wholesale customers 
+are guaranteed the ability to compete in the retail market.  It 
+may be, for instance, that the state commission is not allowing 
+an adequate rate of return.  If so, the Commission is not 
+obliged to follow, and indeed may not follow suit, for the rates 
+it sets must fall within the zone of reasonableness.").  This 
+was in part contested by appellants' counsel, who suggested 
+that even with state commission regulation it would be possi-
+ble to offer certain enhanced services profitably--if only 
+UNE rates were capped at correct TELRIC levels, or, in the 
+alternative formulation, at lower levels within the correct 
+TELRIC range.
+
+     In any event Commission counsel's observation is not a 
+ground for rejecting appellants' claim;  we can affirm only on 
+the Commission's reasoning.  See SEC v. Chenery Corp., 318 
+U.S. 80, 88 (1943).  We therefore remand the case to the 
+Commission for reconsideration of this issue.  Of course 
+Conway itself "merely holds that the Commission must weigh 
+anticompetitive effects along with other factors in setting 
+rates."  Kansas Cities v. FERC, 723 F.2d 82, 94 (D.C. Cir. 
+1983) (citing Conway, 426 U.S. at 278-79).  Here, as the Act 
+aims directly at stimulating competition, the public interest 
+criterion may weigh more heavily towards addressing poten-
+tial "price squeeze."  But the Commission's reasoning, when 
+it is proffered, will presumably help establish the reasonable 
+range for interpretations of the statutory criterion.
+
+     In closing we note two points, without evaluation.  First, 
+the potential scale of a serious price squeeze inquiry may 
+present a problem;  we have already recognized that Con-
+gress's 90-day limit constrains the scope of the Commission's 
+inquiries.  AT&T, 220 F.3d at 631.  Second, if the Commis-
+sion is correct in reading Track A to require only a minimal 
+
+volume of competition to be present, see Order p 42, and that 
+reading is not challenged here (though its application is), it 
+may reflect a recognition that the residential market may not 
+be attractive to competitors even if UNE costs are at the 
+lower end of TELRIC (assuming it to have a material range).  
+See City of Batavia, 672 F.2d at 90.  While we remand for 
+consideration of this issue, we do not vacate the Order.  See, 
+e.g., Allied-Signal, Inc. v. NRC, 88 F.2d 146, 150-51 (D.C. 
+Cir. 1993) ("The decision whether to vacate depends on 'the 
+seriousness of the order's deficiencies (and thus the extent of 
+doubt whether the agency chose correctly) and the disruptive 
+consequences of an interim change that may itself be 
+changed.' ").
+
+2.   Specific attacks on the Commission's UNE rate findings.
+
+     General background.  There is no dispute here on the basic 
+principle governing the rates at which a BOC must offer 
+unbundled network elements.  The 1996 Act gives the Com-
+mission general authority to promulgate rules necessary to 
+implement the statute, while entrusting the individual state 
+commissions with the application of those principles in the 
+process of approving interconnection agreements and rates 
+pursuant to s 252.  See AT&T Corp. v. Iowa Utils. Bd., 525 
+U.S. 366, 385 (1999);  AT&T, 220 F.3d at 615.  In August 1996 
+the FCC adopted general rules, including the TELRIC stan-
+dard.  See First Report and Order, Implementation of Local 
+Competition Provisions in the Telecommunications Act of 
+1996, 11 F.C.C.R. 15499, 15844 p 672 (1996).
+
+     A forward-looking rather than a historical measure, 
+TELRIC bases rates on "the cost of operating a hypothetical 
+network built with the most efficient technology available."  
+Iowa Utils. Bd., 525 U.S. at 374 n.3.  "TELRIC is not a 
+specific formula," but rather a collection of "methodological 
+principles."  AT&T, 220 F.3d at 615 (internal quotation marks 
+omitted).  As it allows the states wide latitude to account for 
+"local technological, environmental, regulatory, and economic 
+conditions," its application "may result in different rates in 
+different states."  Id. (internal quotation marks omitted).  
+
+When the Commission adjudicates s 271 applications, it does 
+not--and cannot--conduct de novo review of state rate-
+setting determinations.  Instead, it makes a general assess-
+ment of compliance with TELRIC principles.  Id.
+
+     Specifically, the Commission has said that it "will not reject 
+an application ... [unless] basic TELRIC principles are 
+violated or the state commission makes clear errors in factual 
+findings on matters so substantial that the end result falls 
+outside the range that the reasonable application of TELRIC 
+principles would produce."  Order p 59 (quoting New York 
+Order, 15 F.C.C.R. at 4084, p 244).
+
+     We review the Commission's decision on TELRIC compli-
+ance under the arbitrary and capricious standard.  5 U.S.C. 
+s 706(2)(A).  In AT&T we identified three reasons why "spe-
+cial deference" was in order for our review of a s 271 finding 
+by the Commission:  that the issues at stake were ones 
+involving a high level of technical expertise in an area of 
+rapidly changing technological and competitive circumstances;  
+that the Commission itself was reviewing a state agency with 
+considerable expertise;  and that "enormous flexibility [was] 
+built into TELRIC."  220 F.3d at 616.  These reasons of 
+course continue to apply, and so shall the deference.
+
+     Thus, a challenger can prevail here by making one of two 
+showings.  First, he may demonstrate that the FCC acted 
+arbitrarily and capriciously in finding that the state commis-
+sion followed basic TELRIC principles.  Alternatively, he 
+may point to specific factual errors made by the state com-
+mission, and demonstrate either that the FCC failed to 
+consider these errors or that it arbitrarily determined that 
+the rates were nevertheless within the range acceptable 
+under TELRIC.
+
+     Kansas non-recurring charges.  A CLEC leasing a net-
+work element from the BOC incurs two types of charges.  
+Recurring charges are assessed for the use of the network 
+element in question over some time period.  Non-recurring 
+charges are for one-time activity of processing orders for 
+UNEs and for physically providing them initially.  Under the 
+FCC's rules, TELRIC applies to both.  See 47 C.F.R. 
+
+s 51.507(e).  Our inquiry in this section focuses on SBC's 
+non-recurring charges in Kansas.
+
+     The key dispute revolves around the so-called "fall-out 
+factor."  Even with the best technology available, each stage 
+in the various automatic processes may fail, requiring more 
+expensive manual intervention.  When this occurs, a service 
+order is said to "fall out."  Kansas Commission Nov. 3, 2000 
+Non-Recurring Charges Order p 35;2 see also Order p 57 
+(comparing a $2.35 non-recurring service charge for electroni-
+cally-processed orders with a $12.35 charge associated with 
+manual processing).
+
+     At the outset of its s 252 proceeding, the Kansas Commis-
+sion found itself faced with what it deemed unrealistic cost 
+proposals submitted by both parties (SBC and the long 
+distance providers).  Over a four-year period it conducted 
+"extensive workshops, hearings, and other types of discovery" 
+aimed at obtaining an accurate estimate of SBC's UNE costs.  
+Order p 49.  Finally, it ordered both sides to rerun their 
+TELRIC recurring and non-recurring cost studies "using 
+certain prescribed inputs and cost assumptions" that the 
+commission thought would better approximate efficient net-
+work design and operation.  See id.
+
+     For non-recurring charges this attempted solution proved 
+defective.  Making an estimate that fall-out probably would 
+occur about 5% of the time in a well-functioning system, the 
+commission directed the two sides to re-run their studies on 
+this aspect yet again, using this figure.  Kansas Commission 
+Sept. 17, 1999 Reconsideration Order p 70;  Kansas Commis-
+sion Nov. 3, 2000 Non-Recurring Charges Order p 35.  Both 
+sides, however, applied the 5% factor creatively so as to 
+inflate or understate the net rate of manual processing, as 
+would suit their respective cases.  Kansas Commission Nov. 
+3, 2000 Non-Recurring Charges Order p p 13(C), 35, 38 (not-
+ing that in the case of one particular network element, SBC's 
+unfounded assumptions ballooned the cumulative fall-out fac-
+
+__________
+     2  The Kansas Commission set the rates for non-recurring costs 
+on November 3, 2000, a week after SBC filed for s 271 approval, 
+and SBC's application was duly supplemented.  Order p 50.
+
+tor to 59.3%).  Although the exact nature of AT&T's fudging 
+is obscure, see id. p 13(C), AT&T here makes no claim to have 
+complied precisely with the commission order.
+
+     Concerned with preventing further delay in the already 
+lengthy proceedings, and frustrated by the carriers' failure to 
+follow its directions, the commission decided to set non-
+recurring rates based on "information previously received in 
+this matter" and "its best judgment."  Kansas Commission 
+Nov. 3, 2000 Non-Recurring Charges Order p 4.  To fix the 
+majority of non-recurring rates it split the baby, adopting a 
+weighted average of the AT&T (2/3) and SBC (1/3) proposals.  
+Kansas Commission Nov. 3, 2000 Non-Recurring Charges 
+Order p 32;  Revised Attachment B at 10 n.2.  In weighting 
+the studies "so that the final price fell toward the low end of 
+the range of possible prices," id. p 32, the commission aimed 
+to avoid "reward[ing] an inefficient service provider," id. It 
+set the remaining rates by adopting either SBC or AT&T cost 
+proposals, or by relying on similar rates from comparable 
+jurisdictions.
+
+     SBC's initial s 271 application to the FCC relied on the 
+non-recurring charges calculated as described above.  Re-
+sponding to comments filed by the Department of Justice and 
+private commenters, which noted that many of the charges 
+were a good deal higher than the corresponding rates in 
+Texas, SBC proposed to lower its non-recurring rates in 
+Kansas by 25%.  SBC December 28, 2000 Ex Parte Letter at 
+2, Joint Appendix ("J.A.") 1447;  see also Order p 56.  The 
+Kansas Commission adopted these cuts on January 5, 2001.  
+Order p 52.  In light of "these additional voluntary reduc-
+tions," the Commission reasoned that it "need not reach a 
+conclusion as to whether the carriers' failure to follow the 
+Kansas Commission's directions" in running cost studies re-
+sulted in non-recurring rates that violate TELRIC.  Order 
+p 60.  In its opinion, the cuts eliminated "any remaining 
+concerns" about the non-recurring rates in Kansas.
+
+     Appellants claim the FCC could not properly find these 
+rates TELRIC-compliant, as they are the product of a crude 
+"settlement" method, trimmed by an arbitrary 25% "haircut."  
+
+Accusing the Kansas Commission of acting out of self-
+imposed pressure to support SBC's s 271 application, the 
+appellants say that the Kansas Commission should have 
+required SBC to continue re-running its studies until they 
+reflected "accurate and Commission-approved cost data."  
+Appellants' Br. at 39 (quoting Kansas Commission Nov. 3, 
+2000 Non-Recurring Charges Order p 30 (internal quotation 
+marks omitted)).  (Appellants often cite to pages in the 
+Kansas Commission's rulings where the commission finds 
+fault with SBC's studies, never mentioning that the same 
+pages allocate seemingly equal fault to AT&T's.)
+
+     Appellants' complaints overlook the procedural context of 
+the Kansas proceeding.  The commission stated that the 
+burden of producing cost studies "squarely fell upon AT&T 
+and SWBT," Kansas Commission Nov. 3, 2000 Non- 
+Recurring Charges Order p 28 (J.A. 800-01);  appellants have 
+not contested this (or mentioned it!).  Given that calculation 
+of forward-looking costs for a hypothetical network requires 
+far more pervasive use of predictive judgments than does 
+standard cost-of-service ratemaking, some such allocation was 
+likely essential.  Especially in the rural states, the burden on 
+regulatory resources might otherwise have proven over-
+whelming.  Cf. Order p 2.  Perhaps AT&T might have legiti-
+mately protested the assignment of any burden to the protest-
+ers, but it appears not to have done so.
+
+     In fact the Kansas Commission diligently labored for sever-
+al years scrutinizing AT&T's and SBC's submissions;  to the 
+extent that it believed those studies contained errors, it made 
+adjustments.  As the appellants concede, the Kansas Com-
+mission "identified the many cost-inflating flaws in SBC's cost 
+studies."  Appellants' Repl. Br. at 17.  In such instances it 
+would then use "inputs, in some instances those proposed by 
+AT&T, that it found more reasonable," accordingly reducing 
+SBC's non-recurring charges for service orders and several 
+kinds of loops.  Order p 63.
+
+     As we have seen, however, sound application of a fall-out 
+rate proved comparatively intractable.  Appellants argue that 
+the weighted (2/3)/(1/3) formula, even when coupled with the 
+
+25% cut, was "mathematically incapable" of bringing SBC's 
+exaggerated fall-out ratios down to the correct 5% level.  But 
+in fact appellants waited until their reply brief before deign-
+ing to offer any detailed numbers in support of their com-
+plaint.  See id. at 20-21 n.5.  Further, we note that if the 
+calculations were so simple, surely AT&T itself could have 
+offered the Kansas Commission some easy way of bringing 
+SBC's submissions--or its own--into line with the 5% criteri-
+on.  In AT&T, rejecting AT&T's insistence that switching 
+costs should have been adjusted to reflect newly discovered 
+information, we endorsed the New York agency's observation 
+that its computations were "the result of a complex analysis 
+that does not lend itself to simple arithmetic correction 
+through the adjustment of a single input."  220 F.3d at 617 
+(internal quotes omitted).  Here, too, we cannot fault the 
+FCC for approving the Kansas Commission's compromise 
+resolution of an issue that the parties' behavior had left a 
+muddle.
+
+     Nor are we persuaded by appellants' suggestion that be-
+cause some of SBC's non-recurring charges (even after its 
+25% discount) remain significantly higher in Kansas than in 
+Texas, such charges are not TELRIC-compliant. First, even 
+if the appellants' calculations were properly done, only two of 
+the five non-recurring UNE rates on which appellants rely in 
+this appeal--loop and cross-connect charges--are higher in 
+Kansas;  the other three--service order charge, analog line 
+switch port, and central office access--are identical in both 
+states.  AT&T Clarke Supp. Decl. Ex. 1, Cols. F & J (J.A. 
+1526-27).  Second, SBC submitted evidence indicating that if 
+the relevant non-recurring charges (pre-discount) were amor-
+tized over a reasonable period of time, the total monthly 
+UNE costs for CLECs serving comparable exchanges would 
+be lower in Kansas than in Texas.  Order p 61 n.171.  Al-
+though appellants dispute the latter conclusion, saying that it 
+was generated by selectively comparing charges in urban 
+areas of Kansas to those in more costly suburban Texas, 
+Appellants' Reply Br. 21, their own citations (see J.A. 1519-
+20, 1563-64) do not clearly establish a fallacy in SBC's 
+contention.
+
+     Even if the two states' rates in fact differ, the FCC 
+identified a likely cause.  Whereas the Texas Commission had 
+explicitly rejected SBC's claimed entitlement to a "trip 
+charge" for various installation and maintenance activities, a 
+comparable charge was evidently allowed in Kansas.  Order 
+p 61.  Because the "trip charge" is not a directly observable 
+quantity, but like many other inputs to the TELRIC model is 
+a prediction about future costs faced by a not-yet existent 
+efficient provider, a state-to-state difference in prediction 
+scarcely proves that either resulting rate is non-TELRIC.
+
+     Appellants argue that the Kansas Commission never explic-
+itly approved a trip charge.  But in fact the Kansas Commis-
+sion cited a statement by AT&T that "20 percent of [new] 
+service orders will require sending a truck (and technician) to 
+work the order."  Kansas Commission Nov. 3, 2000 Non-
+Recurring Charges Order p 24;  see also id. p 48-49.  (Pre-
+sumably this 20% is applied to a set different from and 
+smaller than the set for which the 5% fall-out rate was 
+considered appropriate.)  While there may be no explicit 
+Kansas finding of a trip charge, the Kansas Commission's 
+express recognition of AT&T's own suggestion makes its 
+exclusion by Kansas seem implausible.
+
+     Accordingly, we reject appellants' claim that the Commis-
+sion was arbitrary or capricious in finding no violation by the 
+Kansas Commission of basic TELRIC principles and no 
+"clear errors in factual findings on matters so substantial that 
+the end result falls outside the range that the reasonable 
+application of TELRIC would produce."  Order p 59.
+
+     Oklahoma rates.  Oklahoma's recurring and non-recurring 
+UNE rates were set by the Oklahoma Commission's adminis-
+trative law judge on June 30, 1998, and approved by the 
+Oklahoma Commission without modification on July 17, 1998.  
+Although SBC's initial recurring and non-recurring cost pro-
+posals were founded on cost studies similar to those it had 
+used in Kansas, the Oklahoma ALJ did not--unlike its Kan-
+sas counterpart--order a re-run of estimates.  Declaration of 
+Baranowski & Flappan, November 15, 2000, at 7.  Instead, he 
+recommended adoption of rates that SBC and Cox Oklahoma, 
+
+a cable competitor, had agreed to in a s 252 arbitration, 
+convinced that they appropriately reflected forward-looking 
+costs.  Order p 69.
+
+     Oklahoma non-recurring charges.  Appellants now chal-
+lenge the FCC's conclusion that Oklahoma's non-recurring 
+rates, after a 25% discount paralleling that in Kansas, satis-
+fied the s 271 checklist.  Pointing out that Cox uses its own 
+network to provide telephone service, has no need for most 
+UNEs that other CLECs must rely on, and thus would 
+benefit--or, at least, be indifferent--if SBC overcharges oth-
+er local competitors for these elements, AT&T insists that the 
+Oklahoma non-recurring rates are not supported by any cost 
+evidence.  Thus, it reasons, the FCC should have indepen-
+dently determined compliance with TELRIC.
+
+     We are unconvinced.  First, the fact that the non-recurring 
+charges recommended by the ALJ (before the 25% haircut) 
+were 33% below those originally proposed by SBC, Order 
+p 100, tends to rebut the claim that Cox didn't really object to 
+high rates for SBC's UNEs.  Second, that the ALJ's ultimate 
+selection was of stipulated rates did not in itself show that 
+they were not backed by any cost studies.  The ALJ had 
+SBC's and AT&T's cost data before him, and found that the 
+stipulated rates fell within the range of cost-based rates 
+proposed by the parties.  Order p p 69, 90;  see also Okla-
+homa ALJ Report at 159.  The FCC ultimately concluded 
+that the Oklahoma ALJ had "carefully analyzed the various 
+cost studies submitted for nonrecurring charges, and was 
+committed to TELRIC principles in making his evaluations."  
+Order p 98.  While appellants point to passages in the ALJ's 
+report that may be ambiguous on the articulation of TEL-
+RIC, Appellants' Repl. Br. at 24 (citing Oklahoma ALJ 
+Report at 165-66), even these snippets are not clearly incon-
+sistent with a sound understanding of TELRIC.
+
+     Appellants correctly note that the ALJ mistakenly assumed 
+manual processing for all service order charges. But the FCC 
+saw that error too, and concluded that it was neutralized by 
+SBC's subsequent implementation of a reduced charge for 
+electronic orders, so that the higher charge originally adopted 
+
+by the ALJ was in fact applied only to manually processed 
+orders.  Order p 99.  Appellants question that conclusion, 
+and, again challenging the ALJ's grasp of TELRIC, point to 
+a section of the record where the ALJ rejected the conten-
+tion--just as the Kansas Commission had--of an AT&T 
+witness who claimed that almost all of the actual provisioning 
+of UNEs could be done electronically.  Order p 100 & n.286;  
+see also Oklahoma ALJ Report at 166.  The passage in fact 
+doesn't show the ALJ to be the hopeless rube appellants 
+paint him as.
+
+     Oklahoma recurring charges.  Following the same line of 
+reasoning it had applied when considering Oklahoma non-
+recurring charges, the FCC also determined that SBC's 
+Oklahoma recurring rates, with one exception, complied with 
+TELRIC.  Order p p 75, 90, 91.  To the extent that appel-
+lants' challenge to the recurring rates in Oklahoma tracks 
+their arguments raised against the non-recurring charges, we 
+reject it for the reasons just stated.
+
+     The FCC's only serious doubt concerned the ALJ's choice 
+of what the Commission viewed as an unreasonably low loop 
+"fill factor" for the computation of recurring loop rates.  "A 
+fill factor is the estimate of the proportion of a facility that 
+will be used.  In other words, the per-unit cost associated 
+with a particular element ... [is] the total cost associated 
+with the element divided by a reasonable projection of the 
+actual total usage of the element."  Order p 78.  Thus, the 
+lower the fill factor, the higher the rate ceiling.  The ALJ had 
+erred, the Commission thought, by basing the fill factor on its 
+current value (30%) instead of "consider[ing] the forward-
+looking fill or assum[ing] that the fill factor would increase 
+over time."  Order p 80.  AT&T was urging 50%.  Id.
+
+     The FCC resolved this issue by (1) taking into account 
+SBC's proposal of a 25% reduction in its rates and (2) 
+comparing the resulting loop charge with that approved by 
+the Commission for Texas.  Order p p 82-87.  To do so, it 
+took into account estimates from its "USF" (universal service 
+fund) cost model, which it regards as generally valid for 
+comparisons between states, indicating that loop costs were 
+
+23% higher in Oklahoma than in Texas.  Id. p 84.  As the 
+weighted average of the various Oklahoma discounted loop 
+rates was only 11% higher than the equivalent for Texas, the 
+FCC concluded that the Oklahoma rates, though not calculat-
+ed by TELRIC means, nonetheless fell "within the range that 
+TELRIC would produce."  Order p 86.  To create a distinc-
+tion between properly derived cost-based rates and rates that 
+were equal to them, the Commission said, "would promote 
+form over substance, which, given the necessarily imprecise 
+nature of setting TELRIC-based pricing, is wholly unneces-
+sary."  Order p 87.
+
+     AT&T's main complaint here is that the Commission was 
+wrong to accept the Texas rates as a standard, as "the 
+reasonableness of Texas network element rates was not liti-
+gated" in the Texas s 271 proceedings.  But all of the 
+appellants in this case participated in the Texas administra-
+tive proceedings and were free to litigate the matter if they 
+thought litigation promising.  As the stakes for appellants 
+must have been high, and as they have not generally been shy 
+about pressing claims in this area, we see no abuse of 
+discretion in the Commission's reliance on the Texas rates, 
+with suitable adjustments, to verify TELRIC compatibility 
+for the Oklahoma recurring loop rates.
+
+     Against the Texas comparison AT&T also urges that new 
+evidence, coming to light after the Texas rates had been set, 
+shows that CLECs have abandoned their efforts to provide 
+residential service in the state.  But nothing that AT&T cites 
+ties the alleged decline to excessive UNE rates.
+
+     Finally, AT&T says that as the FCC used some Texas 
+recurring rates for comparison, it should have also compared 
+all the Oklahoma recurring rates to Texas's.  This issue was 
+not raised before the FCC and is therefore waived.  See 47 
+U.S.C. s 405;  Coalition for Noncommercial Media v. FCC, 
+249 F.3d 1005, 1008-09 (D.C. Cir. 2001).
+
+     3. Track A.  Under the FCC's interpretation of s 271, a 
+BOC cannot qualify under Track A unless it shows that at 
+least one competing provider, with which it has entered into 
+an interconnection agreement, serves "more than a de min-
+
+imis" number of residential and business customers using 
+either exclusively or predominantly that CLEC's own tele-
+phone exchange facilities (including therein UNEs leased 
+from the BOC, Ameritech Michigan Order, 12 F.C.C.R. 
+20543, 20588 p 101 (1997)) and thus constitutes "an actual 
+commercial alternative to the BOC."  SBC Oklahoma Order, 
+12 F.C.C.R. 8685, 8695 p 14 (1997);  see also Order p 42.  
+Appellants contend that SBC had failed to make that showing 
+with respect to Kansas residential subscribers.
+
+     The weakness of appellants' position is most easily viewed 
+in relation to the evidence for residential service offered by a 
+CLEC named Ionex.  SBC was not privy to Ionex's own 
+figures on the subject.  But because Ionex was offering 
+service via UNEs leased from SBC, SBC was in a position to 
+estimate the sum of Ionex's aggregate service volumes, and, 
+by further extrapolation, to estimate the residential service.  
+In its Reply Comments before the Commission, it produced 
+an analysis suggesting that Ionex's residential service via 
+UNE was sufficient to meet the Commission's standard--
+"more than a de minimis number."  See SBC Reply Com-
+ments at 73, J.A. 1240;  Affidavit of J. Gary Smith dated 
+December 11, 2000 at 6, J.A. 1269.
+
+     Later SBC submitted an "ex parte" letter dated December 
+20, 2000, with actual numbers for Ionex and an explanation of 
+its methodology.  J.A. 1370-71, 1373.  SBC made the filing of 
+the letter public by an open filing on January 12, 2001, and 
+appellants secured a copy from SBC on January 17, just two 
+days before the Commission decided SBC's application.  Ap-
+pellants cry foul.
+
+     But Ionex was itself a party to the proceeding, sturdily 
+resisting SBC's application and presumably fully aware of its 
+residential services.  The public SBC Reply put it on notice 
+that SBC was using Ionex's service to satisfy Track A. Ionex 
+uttered not a peep in protest, correction or qualification.  So 
+the FCC's observation that it used the ex parte letter only as 
+"additional support" for the Track A finding, Order p 43, was 
+entirely legitimate.
+
+     Appellants also say the Commission contradicted its own 
+prior decision when it counted Birch as a competitive alterna-
+tive, even though Birch was "not actively marketing" residen-
+tial service in Oklahoma.  They point to the Commission's 
+1997 decision on SBC's first Oklahoma s 271 application, 
+where it found Brooks Fiber's residential service inadequate:  
+the only "customers" were four Brooks employees receiving 
+free service as a test, and Brooks was refusing to accept any 
+new business.  See SBC Oklahoma Order, 12 F.C.C.R. 8685, 
+8698 p 20 (1997).  The Commission's finding no commercial 
+alternative there hardly contradicts a positive finding here, 
+where the Commission found that more than a de minimis 
+number of real customers were actually being served.  Order 
+p 42.
+
+                              * * *
+
+     Because the Commission has offered an inadequate justifi-
+cation for why it thought that evidence of a "price squeeze" 
+precluding profitable CLEC competition was irrelevant to its 
+public interest analysis, we remand the case for reconsidera-
+tion of that issue.  We reject all other claims.
+
+                                                                           So ordered.
+
+                                                             

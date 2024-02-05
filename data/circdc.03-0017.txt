@@ -1,0 +1,574 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 8, 2002    Decided January 17, 2003 
+
+                           No. 01-1345
+
+     Consolidated Edison Company of New York, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+       Transcontinental Gas Pipe Line Corporation, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Steven J. Kalish argued the cause for petitioners.  With 
+him on the briefs were Denise C. Goulet and Irwin Popow-
+sky.
+
+     Timm Abendroth, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With him on 
+
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     Michael J. Thompson, Jeffrey G. DiSciullo, David A. 
+Glenn, Richard P. Bonnifield, Kenneth R. Carretta, Freder-
+ick W. Peters, and Charles H. Shoneman were on the brief 
+for intervenors Transcontinental Gas Pipe Line Corporation, 
+et al.  Gregory Grady entered an appearance.
+
+     Before:  Ginsburg, Chief Judge, and Edwards and 
+Sentelle, Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  Petitioners Consolidated Edison 
+("ConEd") and other pipeline customers of Transcontinental 
+Gas Pipeline Corporation ("Transco") ask this court to vacate 
+three Orders issued by the Federal Energy Regulatory Com-
+mission ("FERC" or the "Commission"), involving Transco's 
+proposed rate change for several of its expansion projects.  
+Petitioners contend that the policy standards used by FERC 
+to evaluate Transco's proposal violate the Administrative 
+Procedure Act ("APA").
+
+     Reversing a decision by an administrative law judge 
+("ALJ"), FERC approved Transco's proposal to shift from 
+"incremental" pricing to "rolled-in" rates based on standards 
+enunciated in a 1995 Policy Statement.  Transcon. Gas Pipe 
+Line Corp., 87 F.E.R.C. p 61,087 (Apr. 16, 1999) ("Transco 
+I"), reprinted in Joint Appendix ("J.A.") 181-98.  After peti-
+tioners filed requests for rehearing on this matter, FERC 
+issued a new 1999 Policy Statement for future rate change 
+proposals.  However, in addressing the petition for rehearing, 
+the Commission again evaluated Transco's proposal pursuant 
+to the 1995 Policy Statement and ultimately upheld its initial 
+ruling to approve the rate change.  Transcon. Gas Pipe Line 
+Corp., 94 F.E.R.C. p 61,362 (Mar. 28, 2001) ("Transco II"), 
+reprinted in J.A. 199-215.  Subsequently, in response to a 
+second petition for rehearing, FERC rejected objections to its 
+reliance on the 1995 Policy Statement.  Order Denying Re-
+hearing, Transcon. Gas Pipe Line Corp., 95 F.E.R.C. p 61,388 
+(June 13, 2001) ("Transco III"), reprinted in J.A. 232-36.
+
+     Petitioners argue that the disputed Orders are unreason-
+able, because they rely upon the 1995 Policy Statement rather 
+than the 1999 Policy Statement.  Petitioners contend that 
+FERC was obliged to apply the more recent policy statement, 
+because it was issued while the Transco case was still pend-
+ing.  We disagree.
+
+     The application of a newly adopted policy statement to a 
+pending case is not presumed unless the policy change has 
+the "force of law."  When an agency issues a policy statement 
+that is not binding and merely signals how the agency may 
+handle future cases, there is no legal principle that mandates 
+retroactive application of the new policy statement to pending 
+cases.  Retroactive application to pending cases may be per-
+missible, but it is not required.  An agency may decide to 
+apply a pre-existing policy to resolve a pending case, so long 
+as that policy is not otherwise arbitrary and the agency 
+provides a reasoned explanation for its decision.
+
+     On the record before us, we hold that FERC did not act 
+unlawfully in applying its 1995 Policy Statement when it 
+resolved Transco's proposal to implement rolled-in rates.  We 
+further hold that the 1995 Policy Statement is not unreason-
+able, either facially or as applied in this case.  Finally, we 
+hold that FERC sufficiently explained its reasons for relying 
+on the 1995 Policy Statement (rather than the 1999 Policy 
+Statement) to evaluate the rate change proposal.  We reject 
+petitioners' arguments to the contrary.  Accordingly, we deny 
+the petition for review.
+
+                          I. Background
+
+A.   Regulatory Framework
+
+     Under the Natural Gas Act ("NGA"), FERC has jurisdic-
+tion to approve the construction of natural gas pipeline facili-
+ties and to regulate the transportation of natural gas in 
+interstate commerce.  15 U.S.C. s 717, et seq. (2000).  Any 
+pipeline seeking to build or to expand its facilities must first 
+apply for a certificate of public convenience and necessity 
+from FERC.  After notice and hearing, FERC may authorize 
+
+or "certificate" any pipeline project that the agency deter-
+mines is "necessary or desirable in the public interest."  Id. 
+s 717f.
+
+     The NGA requires that all rates and charges by pipelines 
+must be "just and reasonable."  Id. s 717c(a).  Rate cases 
+before FERC are reviewed under either section 4 or section 5 
+of the NGA:
+
+          [T]his court has strictly policed the statutory line 
+     that separates action taken under NGA section 4 
+     from that taken under NGA section 5.  In Algon-
+     quin, we described this distinction as follows:
+     
+          [T]he Commission may act under two different 
+     sections of the Natural Gas Act (NGA or the 
+     Act) to effect a change in a gas company's rates. 
+     When the Commission reviews rate increases 
+     that a gas company has proposed, it is subject 
+     to the requirements of section 4(e) of the Act.  
+     Under section 4(e), the gas company bears the 
+     burden of proving that its proposed rates are 
+     reasonable.  On the other hand, when the Com-
+     mission seeks to impose its own rate determina-
+     tions, rather than accepting or rejecting a 
+     change proposed by the gas company, it must 
+     do so in compliance with section 5(a) of the 
+     NGA.
+     
+          Under section 5, the Commission must first establish 
+     that the proposed or existing rate is unjust and 
+     unreasonable.  It is only after this antecedent show-
+     ing has been made that the Commission properly 
+     can illustrate that its alternative rate proposal is 
+     both just and reasonable.
+     
+"Complex" Consol. Edison Co. v. FERC, 165 F.3d 992, 1001 
+(D.C. Cir. 1999) (quoting Algonquin Gas Transmission Co. v. 
+FERC, 948 F.2d 1305, 1311 (D.C. Cir. 1991)) (citations omit-
+ted).
+
+     Generally, a pipeline can allocate the costs associated with 
+new or expanded facilities in one of two ways.  The pipeline 
+
+may "roll in" these costs, by distributing additional charges 
+among all customers of the pipeline system.  This pricing 
+approach recognizes that the pipeline is "not just a collection 
+of discrete pieces and parts, but an integrated system serving 
+all of its customers."  Battle Creek Gas Co. v. Fed. Power 
+Comm'n, 281 F.2d 42, 46 (D.C. Cir. 1960).  The alternative to 
+rolled-in rates is "incremental" pricing:
+
+          Whatever its virtues, use of a "rolled-in" approach 
+     alone is not adequate in all situations, particularly 
+     where some assets are used by the utility solely for 
+     the benefit of one customer.  At some point in every 
+     gas distribution facility the general system ends and 
+     connective links to the local distributors' own equip-
+     ment begins.  At this point the facility becomes so 
+     identified with its function as a part of the local 
+     distributor's gas plant that it may be unfair to 
+     charge its costs to all of the customers of the utility.  
+     This is particularly so where the extent and cost of 
+     such segregated facilities vary greatly among the 
+     customers.  In such a situation the costs of these 
+     facilities are commonly charged as an "incremental" 
+     cost added in to the particular customer's rate base.  
+     Whether the cost of a particular facility is more 
+     properly treated as a systemic cost and rolled-in to 
+     the rate base of all of the customers, or as a 
+     segregated cost to a particular customer, which 
+     should be treated on an incremental basis, is fre-
+     quently a difficult issue of fact presented to the 
+     Commission.
+     
+Id. at 46-47 (footnote omitted).
+
+     Over time, FERC policy has moved away from routinely 
+encouraging rolled-in rates toward a preference for rate 
+proposals that rely upon incremental pricing.  See Trans- 
+Canada Pipelines Ltd. v. FERC, 24 F.3d 305, 308 (D.C. Cir. 
+1994).  Responding to this court's directives to justify its 
+evolving standard for evaluating rate allocation proposals, 
+FERC adopted a Policy Statement discussing its revised 
+approach.  Pricing Policy for New and Existing Facilities 
+
+Constructed By Interstate Natural Gas Pipelines, 71 
+F.E.R.C. p 61,241 (1995), reh'g denied, 75 F.E.R.C. p 61,105 
+(1996) ("1995 Statement").  The Commission's goals were to 
+give the industry clear signals about which pricing approach 
+would govern an expansion project and to avoid imposing 
+"rate shock" on existing pipeline customers.  1995 Statement, 
+71 F.E.R.C. at 61,915.
+
+     FERC described two essential features of the 1995 Policy 
+Statement:
+
+          First, the Commission will make a determination of 
+     an appropriate rate design in a pipeline's certificate 
+     proceeding.  Second, when the pipeline seeks rolled-
+     in pricing, the Commission will base its pricing 
+     decision on an evaluation of the system-wide benefits 
+     of the project and the rate impact on existing cus-
+     tomers.  To reduce uncertainty, in those cases, the 
+     Commission will establish a presumption for rolled-
+     in rates when the rate effect on existing customers is 
+     not substantial.
+     
+Id.  The Commission indicated that a rolled-in rate proposal 
+was presumptively valid if the rate impact on existing custom-
+ers was 5% or less and the pipeline company also offered 
+evidence of general systemwide benefits.  Id. at 61,916-17.
+
+     After 1995, as competition in the pipeline industry in-
+creased, FERC decided to develop a new policy that de-
+emphasized rolled-in rates.  Certification of New Interstate 
+Natural Gas Pipeline Facilities, 88 F.E.R.C. p 61,227 (1999), 
+clarified, 90 F.E.R.C. p 61,128, further clarified, 94 F.E.R.C. 
+p 61,094 (2000) ("1999 Statement").  In issuing the new policy, 
+FERC sought to "strike the proper balance between the 
+enhancement of competitive alternatives and the possibility of 
+over building."  1999 Statement, 88 F.E.R.C. at 61,737.  The 
+1999 Statement indicated that FERC would not approve 
+rolled-in rates unless the pipeline could show that the benefits 
+of construction outweighed the adverse economic effects on 
+existing pipeline customers:
+
+          If residual adverse effects on [existing pipeline cus-
+     tomers, other pipelines in the market and their 
+     captive customers, or the economic interest of adja-
+     cent landowners and communities] are identified, 
+     after efforts have been made to minimize them, then 
+     the Commission will proceed to evaluate the project 
+     by balancing the evidence of public benefits to be 
+     achieved against the residual adverse effects.  This 
+     is essentially an economic test.
+     
+Id. at 61,745.  FERC emphasized that its "economic test" for 
+rate proposals would apply prospectively:  "[T]he new policy 
+will not be applied retroactively to cases where the certificate 
+has already issued and the investment decisions have been 
+made."  Id. at 61,750.
+
+B.   Procedural Background
+
+     Transco operates a natural gas pipeline that connects pro-
+duction sites along the Gulf of Mexico with customers located 
+along the Eastern seaboard.  The company's pipeline system 
+serves most of the East Coast metropolitan markets including 
+Atlanta, Washington, D.C., and New York City.  Between 
+1984 and 1994, FERC certificated 12 of Transco's expansion 
+projects - nine that linked the company's pipeline to areas in 
+Pennsylvania and three others that added capacity to the 
+section of the pipeline between Virginia and Alabama.  See 
+Transco II, 94 F.E.R.C. at 62,307, J.A. 200;  Transco I, 87 
+F.E.R.C. at 61,383-84, J.A. 181-82.  FERC initially certificat-
+ed all of these projects under an incremental pricing scheme, 
+before it issued the 1995 Statement.  Transco I, 87 F.E.R.C. 
+at 61,385, J.A. 183.
+
+     In March 1995, Transco applied to FERC for a general 
+rate increase pursuant to section 4 of the NGA.  Id. at 61,383, 
+J.A. 181.  This rate filing included a variety of planned 
+changes, but Transco did not seek to switch from incremental 
+pricing.  Id.  Several pipeline customers who paid incremen-
+tal costs intervened and objected to this proposal, arguing 
+that Transco should instead adopt rolled-in rates.  After a 
+series of negotiations led to a settlement of several issues in 
+
+dispute, FERC approved a deal reflecting the parties' partial 
+agreement and scheduled the remaining matters for a hearing 
+before an ALJ.  Id. at 61,384, J.A. 182.  As part of this 
+arrangement, Transco reserved the right to seek rolled-in 
+rates for its expansion projects at a later time.
+
+     In November 1996, while the administrative hearing on the 
+remaining issues was in progress, Transco and other interest-
+ed parties submitted a new rate change proposal to FERC.  
+Id.  Under this proposal, the company planned to roll in costs 
+for the expansion projects on a prospective basis.  The Com-
+mission consolidated the hearing on Transco's rolled-in rate 
+proposal with the ongoing agency proceedings.  Following an 
+evidentiary hearing on this issue, the ALJ ruled that Transco 
+was not entitled to charge rolled-in rates to cover expansion 
+costs.  Transcon. Gas Pipe Line Corp., 82 F.E.R.C. p 63,019 
+(1998), reprinted in J.A. 134-80.  The ALJ determined that 
+the proposal was governed by section 5 of the NGA.  Id. at 
+65,163-66, J.A. 140-43.  Applying the standards from the 1995 
+Statement, the ALJ found that existing customers faced an 
+increase that exceeded the 5% presumption for rolled-in 
+rates.  Id. at 65,175-76, J.A. 152-53.  Therefore, the ALJ 
+concluded, Transco could not justify rolled-in rates simply by 
+referring to evidence of general systemwide benefits.  Id. at 
+65,179, J.A. 156.
+
+     On April 16, 1999, the Commission reversed the ALJ's 
+ruling and approved the rolled-in rates proposed by Transco.  
+See Transco I, 87 F.E.R.C. p 61,087, J.A. 181.  The Commis-
+sion found that the ALJ erred in applying section 5, instead 
+of section 4, of the NGA.  The Commission also determined 
+that the ALJ had misapplied the 1995 Statement in assessing 
+Transco's proposal.  Rather than evaluating the combined 
+rate impact of all 12 expansion projects in light of the 5% 
+presumption, FERC held that the correct methodology was to 
+apply the 5% presumption to interrelated groups of projects.  
+Id. at 61,389, J.A. 187.  Dividing the projects into seven 
+groups, FERC found that the rate change for each group 
+would not exceed the 5% threshold and that Transco had 
+shown benefits that satisfied its burden of proof.  Id. at 
+61,394-95, J.A. 192-93.
+
+     Petitioners filed a request for rehearing.  FERC then 
+issued the new 1999 Policy Statement, i.e., after petitioners' 
+request for rehearing had been filed.  On March 28, 2001, the 
+Commission denied petitioners' requests for a rehearing on 
+its initial Order.  Transco II, 94 F.E.R.C. p 61,362, J.A. 199.  
+The Commission declined to apply the new 1999 Policy State-
+ment, because the Transco case had been fully litigated under 
+the 1995 Policy Statement.  Id. at 62,310, J.A. 203.  The 
+Commission then upheld its initial finding that Transco's 
+rolled-in rate was warranted under the statute based on the 
+factors in the 1995 Statement:
+
+          The Commission is unpersuaded by ConEdison, et 
+     al.'s arguments that Transco failed to meet its Sec-
+     tion 4 burden with regards to its roll-in proposal.  
+     Transco has sufficiently shown that rolled-in rates 
+     are just and reasonable as evidenced by the Com-
+     mission's findings that:  (1) the expansion facilities 
+     are fully integrated with Transco's system;  (2) the 
+     expansion facilities provide significant system bene-
+     fits;  and (3) the rate impact of rolling in the costs of 
+     the expansion facilities is less than 5 percent.
+     
+Id. at 62,316, J.A. 209.
+
+     On the same day that FERC issued its decision in Transco 
+II, the Commission decided another, unrelated case in which 
+it applied the 1999 Policy Statement.  See Transcon. Gas 
+Pipe Line Corp., 94 F.E.R.C. p 61,360 (2001). Petitioners 
+again sought rehearing, contending that the 1999 Policy 
+Statement should have been applied to Transco in this pro-
+ceeding as well.  On June 13, 2001, FERC denied petitioners' 
+requests for further rehearing.  Transco III, 95 F.E.R.C. 
+p 61,388, J.A. 232.  The Commission specifically addressed 
+arguments that the 1999 Statement should have governed, as 
+in the other case decided on the same day as Transco II.  Id. 
+at 62,450-51, J.A. 235-36.  First, FERC noted that the pro-
+jects in the two cases were of a different vintage.  The 
+Commission also reiterated that, in Transco's case, the parties 
+had completed the evidentiary hearing under the 1995 State-
+ment.  The same was not true in the other case.  Finally, the 
+
+Commission noted that its handling of Transco's rate change 
+proposal was not inconsistent with the policy goals articulated 
+in the 1999 Statement.  Id.
+
+     This petition for review followed.
+
+                           II. Analysis
+
+     FERC's orders must be upheld unless they are "arbitrary, 
+capricious, an abuse of discretion, or otherwise not in accor-
+dance with law."  5 U.S.C. s 706(2)(A);  see Union Pac. 
+Fuels, Inc. v. FERC, 129 F.3d 157, 161 (D.C. Cir. 1997).  The 
+court's role is "limited to assuring that the Commission's 
+decisionmaking is reasoned, principled, and based upon the 
+record."  Pennsylvania Office of Consumer Advocate v. 
+FERC, 131 F.3d 182, 185 (D.C. Cir. 1997).  In reviewing 
+FERC's orders, we must be certain that the Commission has 
+considered the relevant data and "articulate[d] ... a rational 
+connection between the facts found and the choice made."  
+Ass'n of Oil Pipe Lines v. FERC, 83 F.3d 1424, 1431 (D.C. 
+Cir. 1996) (quoting Motor Vehicle Mfrs. Ass'n v. State Farm 
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)).
+
+     Petitioners maintain that FERC acted unreasonably by 
+ignoring the relevant standards and factors articulated in the 
+1999 Policy Statement.  They argue that, once FERC issued 
+the 1999 Statement, the continued application of the 1995 
+Statement in Transco's rate case was impermissible.  They 
+further contend that the Commission's use of the earlier 
+policy was unreasonable, because neither the pipeline nor its 
+customers had a reliance interest in the previous policy. In 
+petitioners' view, FERC had an obligation to apply the 1999 
+Statement retroactively to all currently pending cases - even 
+including those in which the record had been fully developed 
+under a lawful pre-existing policy statement.  Petitioners' 
+view is misguided.
+
+     Normally, an agency must adhere to its precedents in 
+adjudicating cases before it.  See Hatch v. FERC, 654 F.2d 
+825, 835 (D.C. Cir. 1981).  An agency may, within the realm 
+of its statutory authority, change the established law and 
+apply newly created rules.  Id. at 837 (citing NLRB v. Bell 
+
+Aerospace, 416 U.S. 267 (1974)).  Such changes may occur in 
+the course of an adjudication, so long as the agency acts 
+pursuant to delegated authority, adopts a permissible con-
+struction of the statute, and adopts a rule that is not arbitrary 
+and capricious.  NAACP v. FCC, 682 F.2d 993, 998 (D.C. Cir. 
+1982).  A new rule may be applied retroactively to the parties 
+in an ongoing adjudication, so long as the parties before the 
+agency are given notice and an opportunity to offer evidence 
+bearing on the new standard, Hatch, 654 F.2d at 835, and the 
+affected parties have not detrimentally relied on the estab-
+lished legal regime, Clark-Cowlitz Joint Operating Agency v. 
+FERC, 826 F.2d 1074, 1081 (D.C. Cir. 1987) (en banc);  Retail, 
+Wholesale & Dep't Store Union v. NLRB, 466 F.2d 380, 390 
+(D.C. Cir. 1972).
+
+     "Policy statements" differ from substantive rules that carry 
+the "force of law," because they lack "present binding effect" 
+on the agency.  Interstate Natural Gas Ass'n v. FERC, 285 
+F.3d 18, 59 (D.C. Cir. 2002).  When an agency hears a case 
+under an established policy statement, it may decide the case 
+using that policy statement if the decision is not otherwise 
+arbitrary and capricious.  See, e.g., Woodland Broad. v. FCC, 
+414 F.2d 1160, 1164 (D.C. Cir. 1969).  If, however, the agency 
+changes its policy statement before the case is complete, it 
+must explain why the pending case should be decided on the 
+basis of the old versus the new policy. Williston Basin 
+Interstate Pipeline Co. v. FERC, 165 F.3d 54, 62 (D.C. Cir. 
+1999).
+
+     Thus, the principles governing retroactivity differ depend-
+ing upon whether the agency has acted to change the sub-
+stantive law or merely issue a new, non-binding policy state-
+ment.  If an agency adopts a new rule that reflects a change 
+in "law," we presume that the new rule will be given retroac-
+tive application.  The agency thus may decide a pending case 
+by applying the new substantive rule, subject to notice re-
+quirements and detrimental reliance considerations.  Clark-
+Cowlitz Joint Operating Agency, 826 F.2d at 1081.  If, how-
+ever, an agency merely adopts a new "policy statement" that 
+does not purport to have the "force of law," it is "binding on 
+no party and ha[s] no precedential effect." Panhandle East-
+
+ern Pipe Line Co. v. FERC, 198 F.3d 266, 269 (D.C. Cir. 
+1999).  The agency need only give a reasoned explanation for 
+its failure to apply a new policy statement in a pending case 
+tried under an old policy statement.  Williston Basin, 165 
+F.3d at 62.
+
+     Contrary to petitioners' suggestion, Williston Basin does 
+not stand for the proposition that an agency must apply a 
+newly adopted policy statement to all pending cases.  In 
+Williston Basin, FERC "shifted course" with regard to one 
+of the policies in dispute while the case was on appeal in this 
+court.  The court therefore held that the case should be 
+remanded to the agency to allow FERC to reconsider its 
+application of the pre-existing policy in light of the change.  
+Id.  The court did not indicate which policy should be applied 
+by the agency on remand, because it was understood that 
+neither policy statement carried the "force of law."  In other 
+words, the court did not presume that a new policy statement 
+must be applied retroactively to the parties in a pending case, 
+for the obvious reason that a policy statement only signals the 
+agency's possible behavior in future cases.
+
+     Petitioners cite Tennessee Gas Pipeline Co., 76 F.E.R.C. 
+p 61,022 (1996), aff'd, "Complex" Consol. Edison Co. v. FERC, 
+165 F.3d 992 (D.C. Cir. 1999), and Pacific Gas Transmission 
+Co., 50 F.E.R.C. p 61,067 (1990), in support of their view that 
+new policy statements must be applied to pending cases.  The 
+decisions in these cases do not say this.  Rather, in these 
+cases, the agency opted to apply "new" policies to ongoing 
+adjudications.  But this is neither surprising nor impermissi-
+ble.  FERC merely exercised its discretion to apply new 
+policies to ongoing adjudications.  The agency did not say 
+that it was bound to follow the policy statements in all future 
+cases, nor did the reviewing court.
+
+     In this case, FERC's new policy statement did not purport 
+to carry the "force of law."  The 1999 Statement was non-
+binding and it was issued with a statement that FERC 
+intended to change its enforcement regime in future rate 
+cases.  Furthermore, there is nothing in the record of this 
+case indicating that application of the 1995 Statement was 
+
+unreasonable or otherwise unlawful.  Nonetheless, FERC 
+had a duty to explain why it chose to apply the old, and not 
+the new, pricing policy in Transco II and Transco III.  
+Indeed, the need for an explanation is quite apparent here, 
+because the Commission elected to apply the new policy in 
+another rate case on the same day that it decided to apply the 
+1995 Policy Statement, and declined to apply the 1999 Policy 
+Statement, in Transco II.  See Williston Basin, 165 F.3d at 
+62.  Petitioners claim that the agency's decision on this score 
+cannot survive review.  We disagree.
+
+     Petitioners argue that FERC's "vintage" distinction fails to 
+justify its use of the 1995 Policy Statement in the present 
+case.  While the "vintage" concept appears to denote the 
+length of time that the pipeline facilities have been incremen-
+tally priced, see Transcon. Gas Pipe Line Corp., 94 F.E.R.C. 
+at 62,303, Respondent's Br. at 19 n.8, the Commission did not 
+provide a clear definition of this term and did not adequately 
+explain why a different "vintage" matters in its decision about 
+which policy statement should apply.  We therefore agree 
+with petitioners that this justification alone cannot sustain the 
+agency's decision.
+
+     The Commission provided a second explanation for han-
+dling the two cases differently, however - administrative 
+convenience.  Unlike the instant case, in which all of the 
+underlying litigation was completed before the announcement 
+of the new 1999 Policy Statement, the original filing in the 
+second rate case did not occur until 2000.  Transcon. Gas 
+Pipe Line Corp., 94 F.E.R.C. at 62,299.  When FERC reject-
+ed petitioners' first request for rehearing in Transco II, the 
+Commission explained that it would apply the 1995 Statement 
+because the factual record had been fully developed:
+
+          The hearing in this case was conducted while the 
+     1995 Pricing Policy Statement was in effect, and all 
+     the parties have presented evidence and filed plead-
+     ings based on the application of that policy.  By 
+     contrast, the new policy having not been established 
+     until after the instant rehearing requests were filed, 
+     there is no record in this case upon which the 
+     
+     Commission could make a determination as to how 
+     the new policy should apply, and the parties have 
+     had no opportunity to present positions on that 
+     issue.
+     
+Transco II, 94 F.E.R.C. at 62,310, J.A. 203.  The Commission 
+referred to this same rationale in denying petitioners' second 
+request for rehearing:
+
+          Because the hearing took place while the 1995 Pric-
+     ing Policy Statement was in effect, and the parties' 
+     evidence and arguments were presented with refer-
+     ence to that policy, the Commission reasonably ap-
+     plied the 1995 Pricing Policy to the issues in this 
+     case.
+     
+Transco III, 95 F.E.R.C. at 62,451, J.A. 236.  In both of these 
+statements, FERC suggested that applying the 1999 State-
+ment would lead to significant delays and inconveniences.  
+The parties had already developed an entire evidentiary 
+record highlighting the factors relevant to the 1995 Policy 
+Statement.  The 1995 Statement was not unreasonable or 
+unlawful, either facially or as applied in this case, so the 
+Commission was not foreclosed from relying on it in assessing 
+the merits of Transco's proposal.  And reopening the record 
+would have wasted significant time and money, which would 
+have undermined the agency's interest in efficiency and the 
+parties' interest in a prompt resolution of the matter.  We 
+therefore find that FERC's justification for applying the 1995 
+Policy Statement in the Transco case is reasonable and 
+consistent with the overall goals of the Natural Gas Act.
+
+                         III. Conclusion
+
+     For the reasons discussed above, we hereby deny the 
+petitions for review.
+
+                           

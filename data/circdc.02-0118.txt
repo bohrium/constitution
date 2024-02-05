@@ -1,0 +1,1115 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued February 15, 2002     Decided May 14, 2002 
+
+                           No. 01-1131
+
+                           KPMG, LLP, 
+                            Petitioner
+
+                                v.
+
+               Securities and Exchange Commission, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+                Securities and Exchange Commission
+
+     Michael P. Carroll argued the cause for petitioner.  With 
+him on the brief were Ronald S. Flagg and Joseph R. Guerra.
+
+     Louis A. Craco, Jr. argued the cause and filed the brief for 
+amicus curiae American Institute of Certified Public Accoun-
+tants in support of petitioner.
+
+     Rada Lynn Potts, Senior Litigation Counsel, Securities and 
+Exchange Commission, argued the cause for respondent.  
+
+With her on the brief were David M. Becker, General Coun-
+sel, Jacob H. Stillman, Solicitor, and Michael A. Conley, 
+Attorney.
+
+     Before:  Henderson, Randolph and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Dissenting opinion filed by Circuit Judge Randolph.
+
+     Rogers, Circuit Judge:  KPMG, LLP (formerly KPMG 
+Peat Markwick, LLP) challenges a cease-and-desist order 
+entered by the Securities and Exchange Commission, pursu-
+ant to Section 21C(a) of the Securities and Exchange Act 
+("Exchange Act"), 15 U.S.C. s 78u-3(a), on the basis of 
+several violations of the securities laws and regulations.  
+KPMG principally contends that the Commission lacks au-
+thority to turn the ancillary authority provided by Section 
+21C into an independent basis to sanction accountants, failed 
+to give fair notice of its novel interpretation of Rule 302 of the 
+Code of Professional Conduct of the Association of Indepen-
+dent Certified Public Accountants ("AICPA"), and adopted an 
+improper presumption in concluding there was a sufficient 
+risk of future violations warranting a cease-and-desist reme-
+dy.  KPMG also contends that the cease-and-desist order is 
+overbroad and vague.  We hold that although KPMG did not 
+have fair notice of the Commission's interpretation of AICPA 
+Rule 302, the Commission properly could use a negligence 
+standard to enforce violations of the Exchange Act and 
+Commission rules under Section 21C.  We also hold that 
+several contentions are waived, not having been raised before 
+the Commission.  We further hold that, although the Com-
+mission's explanation on reconsideration of the basis for its 
+conclusion that there was a risk of future harm might leave 
+ambiguous whether simply one or more than one of the 
+violations would be sufficient to meet its standard for entry of 
+a cease-and-desist order, there is no ambiguity here that the 
+Commission on remand would reach the same result.  Ac-
+cordingly, we deny the petition for review.
+
+                                I.
+
+     The Commission issued the cease-and-desist order follow-
+ing an evidentiary hearing that commenced, based on allega-
+tions by the Division of Enforcement and the Office of the 
+Chief Accountant (together, "the Division"), with the issuance 
+on December 4, 1997, of an order instituting a proceeding 
+("OIP") under Commission Rule of Practice 102(e) and Sec-
+tion 21C of the Exchange Act.  The evidentiary hearing was 
+to determine if KPMG had engaged in improper professional 
+conduct in violation of Rule 2-02 of Regulation S-X and 
+caused violations of Section 13(a) of the Act and Rule 13a-1 
+thereunder, and if so, what remedial actions or sanctions 
+would be appropriate.  The evidence at the hearing revealed 
+the following:
+
+     In January 1995, as part of an effort to start a separate 
+entity that would provide financial and business consulting 
+services to clients, KPMG (then known as KPMG Peat Mar-
+wick) entered into a license agreement with KPMG BayMark, 
+LLC ("BayMark"), and BayMark subsidiaries known as 
+KPMG BayMark Strategies ("Strategies"), and KPMG Bay-
+Mark Capital.  Under its license agreement, KPMG agreed 
+to lend $100,000 to each of the four founding principals to be 
+used by them as equity contributions to BayMark and its 
+subsidiaries.  Also under the agreement, KPMG granted 
+BayMark rights to use "KPMG" as part of its name in return 
+for a royalty fee of five percent of its quarterly consolidated 
+fee income.
+
+     Glenn Perry, a senior partner in KPMG's Department of 
+Professional Practice ("DPP") had previously met with Com-
+mission staff from the Office of the Chief Accountant ("OCA") 
+to discuss independence issues surrounding the BayMark 
+arrangement, and when OCA became aware that KPMG was 
+moving forward with the plan, OCA staff asked KPMG for 
+additional information.  On October 19, 1995, Perry and a 
+KPMG senior manager named Chris Trattou met with OCA 
+staff.  The meeting concluded with OCA staff cautioning 
+KPMG against having BayMark provide services to any of 
+the audit clients of KPMG.  Notwithstanding this warning, on 
+
+November 3, 1995, Strategies entered into an agreement with 
+PORTA--a long-standing KPMG audit client facing financial 
+difficulties--to provide "turnaround services" and assist it 
+with financing.  Leonard Sturm, KPMG's engagement part-
+ner for PORTA's 1994 audit, had introduced PORTA to 
+BayMark.  Under the agreement between PORTA and Strat-
+egies, one of BayMark's founding principals, Edward Olson, 
+would be Chief Operating Officer of PORTA and Strategies 
+would receive a management fee of $250,000 and a "success 
+fee" based on a percentage of PORTA's earnings, disposed 
+inventory, and restructured debt.  On November 9, 1995, 
+PORTA's Board of Directors elected Olson president and 
+Chief Operating Officer of the company.
+
+     Sturm became aware that PORTA was engaging BayMark 
+and contacted the DPP to determine whether it was okay for 
+BayMark to provide services to an audit client.  Trattou 
+indicated that it was okay and that the Commission had no 
+objection to it.  Once Sturm learned that Olson was an officer 
+of PORTA, he inquired again as to whether there were any 
+independence concerns with the audit.  Trattou discussed the 
+matter with Michael Conway, the partner in charge of the 
+DPP;  they disagreed as to the propriety of the arrangement, 
+with Conway (and Perry) expressing concern.
+
+     After several meetings in December 1995 between Conway 
+and Perry and OCA staff, OCA staff indicated that in order 
+to resolve its independence concerns, KPMG would need to 
+drop the KPMG initials from the BayMark parties' names, 
+eliminate the royalty fee arrangement, and bring about the 
+repayment of the $400,000 in loans made to the BayMark 
+principals.  Conway agreed to undertake negotiations with 
+BayMark to make these changes.  Although Conway alerted 
+OCA staff to the existence of six dual engagements where 
+KPMG was the auditor of record and BayMark had contracts 
+with those clients, Conway did not inform OCA staff of the 
+detailed entanglements involved with PORTA, i.e., the out-
+standing loan to Olson, Olson's status as an officer of PORTA 
+and a principal of BayMark, and the success fee arrange-
+ment.
+
+     The evidence also showed that sometime before December 
+27, 1995, Trattou called Sturm with an answer to Sturm's 
+earlier independence inquiries.  Trattou indicated that the 
+Commission was aware of the PORTA situation and that the 
+KPMG audit of PORTA could proceed.  On December 27, 
+1995, PORTA signed KPMG's engagement letter to conduct 
+its 1995 audit.  When OCA staff discovered the PORTA 
+audit, it informed Conway that KPMG was not independent 
+from PORTA because none of the structural changes to the 
+BayMark strategic alliance had been implemented and a loan 
+was outstanding to Olson who was part of PORTA's manage-
+ment.  By letter of June 21, 1996, OCA advised PORTA that 
+KPMG's independence had been compromised and that POR-
+TA's audited financial statements included in its 1995 annual 
+report would be considered unaudited and not in compliance 
+with federal securities laws.
+
+     In light of this evidence, an administrative law judge 
+("ALJ") found that under Generally Accepted Auditing Stan-
+dards ("GAAS"), KPMG lacked independence from PORTA 
+by virtue of its loan to Olson and that as a result, KPMG 
+engaged in and caused violations charged in the OIP but did 
+not engage in improper professional conduct under Rule 
+102(e) because KPMG did not act recklessly.  See Matter of 
+KPMG Peat Marwick L.L.P., 71 S.E.C. Dkt. 1220, 2000 WL 
+45725, at *32-33 (Jan. 21, 2000).  In determining a remedy, 
+the ALJ considered the factors identified by the Commission 
+as relevant to determining whether to issue an injunction:  
+egregiousness of the defendant's action, isolated or recurrent 
+nature of the infraction, degree of scienter involved, sincerity 
+of the defendant's assurances against future violations, the 
+defendant's recognition of the wrongful nature of his conduct, 
+and the likelihood that his occupation will present opportuni-
+ties for future violations.  See id. at *34 (citing Joseph J. 
+Barbato, 69 S.E.C. Dkt. 179, 200 n.31 (Feb. 10, 1999) (quoting 
+Steadman v. SEC, 603 F.2d 1126, 1140 (5th Cir. 1979), aff'd 
+on other grounds, 450 U.S. 91 (1981))).  The ALJ declined to 
+issue a cease-and-desist order.  The ALJ considered it signifi-
+cant that the audit itself was not challenged (and a second 
+audit reached the same result), that the violations were not 
+
+recurring, growing out of "highly unusual circumstances," and 
+that there was no evidence of an adverse impact on investors.  
+See id. at *34.  The Division appealed the decision to the 
+Commission.
+
+     The Commission conducted "an independent review of the 
+record."  Order at 3.  It concluded, on the basis of KPMG's 
+debtor/creditor relationship with Olson and its right to share 
+in Strategies' "success" fee, that KPMG's independence was 
+impaired under GAAS.  Noting that KPMG admitted that the 
+loan to Olson impaired its independence under GAAS, the 
+Commission characterized the violation as a "serious" mistake 
+that arose from KPMG's failure to exercise ordinary care to 
+maintain its independence.  Further, the Commission inter-
+preted AICPA Rule 302 to "flatly prohibit[ ] an auditor from 
+'perform[ing] for a contingent fee for any professional ser-
+vices, or receiv[ing] such a fee' from a client," and found that 
+KPMG violated Rule 302 by receiving such a fee.  The 
+Commission concluded that "these relationships, whether con-
+sidered individually or collectively, impaired [KPMG's] inde-
+pendence."  Order at 32.  Because of these impairments, the 
+Commission concluded that KPMG violated Rule 2-02 of 
+Regulation S-X, 17 C.F.R. s 210.2-02(b)(1), which requires 
+that the accountant's report "state whether the audit was 
+made in accordance with generally accepted auditing stan-
+dards."  In addition, the Commission concluded that PORTA 
+violated Section 13(a) of the Exchange Act, 15 U.S.C. 
+s 78m(a), and Rule 13a-1, 17 C.F.R. s 240.13a-1, which 
+requires issuers to file reports certified by independent public 
+accountants.  The Commission repeated that each of the two 
+impairments (the debtor/creditor relationship and the contin-
+gency fee arrangement) "considered on its own, compromised 
+[KPMG's] independence and each is sufficient, on its own, to 
+support our finding of violations of Section 13(a) and Rule 
+13a-1," Order at 36, and "[s]imilarly, each impairment is 
+sufficient, standing alone, to compromise independence under 
+GAAS and to support our finding of violation of Rule 
+2-02(b)(1)."  Order at 36.
+
+     Turning to the question of the appropriate sanctions for the 
+violations, the Commission concluded that under Section 21C 
+
+it could issue a cease-and-desist order for negligent conduct 
+that causes a primary violation of the securities laws and 
+regulations, and that KPMG had acted negligently in deter-
+mining that it was independent from PORTA.  As a result, 
+the Commission issued a cease-and-desist order to KPMG 
+because it acted negligently, which resulted in its primary 
+violation of Rule 2-02(b) of Regulation S-X, and in its being a 
+cause of PORTA's violations of Section 13(a) of the Exchange 
+Act, 15 U.S.C. s 78m(a), and Rule 13a-1, 17 C.F.R. 
+s 240.13a-1.  The Commission denied KPMG's motion for 
+reconsideration and KPMG appealed to the court.
+
+     In Part II, we address KPMG's challenges to the determi-
+nations underlying the Commission's decision to issue a 
+cease-and-desist order.  In Part III, we address KPMG's 
+challenges to the cease-and-desist order.
+
+                               II.
+
+     KPMG contends that it lacked fair notice in two respects.  
+First, it contends it lacked fair notice of the Commission's 
+interpretation of AICPA Rule 302 prohibiting the receipt of 
+contingent fees.  Second, it contends that it lacked fair notice 
+that it could be sanctioned based on the conduct of Leonard 
+Sturm.  KPMG also contends that negligence is an impermis-
+sible basis for a cease-and-desist order against accountants 
+who cause a violation of securities laws or regulations.  
+KPMG further contends that it was improper to impose a 
+cease-and-desist order on it for causing a violation of Section 
+13(a) of the Exchange Act in the absence of such an order 
+against the primary violator, PORTA, and that it cannot be 
+sanctioned as a primary violator of the securities laws under 
+Rule 2-02(b) of Regulation S-X because that provision impos-
+es enforceable duties only on registrants, not accountants.
+
+                                A.
+
+     AICPA Rule 302 provides, in relevant part:
+
+     Rule 302--Contingent fees.  A member in public prac-
+     tice shall not
+     
+     (1) Perform for a contingent fee any professional ser-
+     vices for, or receive such a fee from a client for whom the 
+     member or the member's firm performs,
+     
+     (a) an audit or review of a financial statement;
+     
+     ....
+     
+     The prohibition in (1) above applies during the period in 
+     which the member or the member's firm is engaged to 
+     perform any of the services listed above and the period 
+     covered by any historical financial statements involved in 
+     any such listed services.
+     
+     Except as stated in the next sentence, a contingent fee is 
+     a fee established for the performance of any service 
+     pursuant to an arrangement in which no fee will be 
+     charged unless a specified finding or result is attained, or 
+     in which the amount of the fee is otherwise dependent 
+     upon the finding or result of such service.
+     
+American Institute of Certified Public Accountants ("AIC-
+PA") Code of Professional Conduct Rule 302.  The Commis-
+sion found that KPMG's "success" fee arrangement with 
+BayMark put it in a position to receive contingent fees in 
+violation of the rule.  See Order at 30.  This determination 
+that the conglomeration of fee arrangements at issue some-
+how constituted, in their totality, a contingent fee arrange-
+ment in favor of KPMG runs afoul of any interpretation the 
+AICPA or the Commission has ever attached to Rule 302.
+
+     Amicus AICPA points out that the Commission has recog-
+nized that AICPA's interpretation of its rules is generally 
+authoritative, see Opinion at 26 & n.67, and yet disregarded 
+AICPA's interpretation and applied Rule 302 incorrectly.  
+AICPA states that as defined, the term "contingency fee" 
+does not reach either the "success" fee PORTA paid Bay-
+Mark or the royalty arrangement between BayMark and 
+KPMG, standing alone.  This is because BayMark was not an 
+accounting firm, and thus not a "member in public practice," 
+and because the royalty BayMark was committed to pay 
+KPMG was not linked to the attainment of any "specified 
+finding or result" and its amount was not "dependent upon 
+the finding or result" of any professional or other service. By 
+
+lumping the two separate compensation arrangements to-
+gether, neither of which violates AICPA Rule 302, amicus 
+concludes that the Commission "morph[s] the Rule into 
+something entirely different than [AICPA] intended to pro-
+mulgate."  Amicus Brief at 5.
+
+     The plain language of Rule 302 does not forbid, as amicus 
+puts it, " 'sets of relationships' but rather the performance of 
+services for, or the receipt of, fees the existence or amount of 
+which are contingent on particular 'findings' or 'results' of 
+those services--in this case, the audit--not simply on the 
+'financial success of an audit client.' " Id. at 5-6.  In other 
+words, the rule on its face does not cover all services provided 
+to PORTA, only professional services.  Or at least that is the 
+way Rule 302 was understood prior to the Commission's order 
+in the instant case, according to the testimony of two expert 
+witnesses presented by KPMG.  The Commission declined to 
+find that KPMG controlled BayMark.  KPMG, then, received 
+only a flat fee from PORTA and did not "perform any 
+professional services" for BayMark;  rather, the supposed 
+contingent fee here was not received from a client but was a 
+royalty fee to be paid by a nonclient, BayMark.  The Com-
+mission does not suggest in its brief to the court that the 
+Commission has previously interpreted AICPA Rule 302 in a 
+manner that would reach BayMark's "success" fee or 
+KPMG's royalty fee.  Indeed, its own accounting expert did 
+not testify that Rule 302 was to be read the way the Commis-
+sion did. Nor is there anything to suggest that Congress 
+intended the Commission to fill in gaps left by AICPA;  it 
+would be another thing if the Commission had its own rule on 
+contingent fees, but all it has is its general requirement that 
+accountants be independent.
+
+     Even assuming that the text of AICPA Rule 302 is reason-
+ably susceptible to the Commission's interpretation, as pro-
+hibiting KPMG from receiving an income stream while it was 
+auditing PORTA's financial statements that was dependent in 
+part on the size of PORTA's earnings, because that interpre-
+tation is novel and involves a strained reading of the rule, 
+KPMG cannot be said to have had fair notice that the 
+"success" fee/royalty arrangement would be deemed a prohib-
+
+ited contingent fee under AICPA Rule 302.  Cf. Checkosky v. 
+SEC, 23 F.3d 452, 460-61 (D.C. Cir. 1994) (separate opinion of 
+Judge Silberman). Even when the Commission's own rules 
+are involved, although the Commission may broadly construe 
+its rules, and because it cannot foresee every possible evasion 
+of its rules, it may determine specific applications of its rules 
+on a case by case basis, the court "cannot defer to the 
+Commission's interpretation of its rules if doing so would 
+penalize an individual who has not received fair notice of a 
+regulatory violation."  Upton v. SEC, 75 F.3d 92, 98 (2d Cir. 
+1996) (citations omitted).  Given that this due process princi-
+ple applies when the rule carries only civil penalties, see id. 
+(citing Village of Hoffman Estates v. Flipside, Hoffman 
+Estates, Inc., 455 U.S. 489, 498-99 (1982)), we hold that the 
+Commission erred in finding that KPMG had violated AICPA 
+Rule 302 as a result of its arrangement with BayMark and 
+BayMark's arrangement with PORTA.
+
+                                B.
+
+     Regarding Leonard Sturm, KPMG also contends that it 
+lacked fair notice it could be sanctioned based on his conduct.  
+Specifically, KPMG contends that because Commission staff 
+never challenged the propriety of Sturm's conduct throughout 
+the administrative proceedings, for the Commission to predi-
+cate its cease-and-desist order in part on Sturm's conduct 
+violated administrative due process and KPMG's right to fair 
+notice.  Amicus AICPA protests the Commission's conclusion 
+that Sturm was negligent simply for relying on the DPP's 
+opinion and proceeding with the PORTA audit.  The Commis-
+sion maintains, however, that because KPMG failed to raise 
+this issue before the Commission it is not properly before the 
+court.
+
+     Section 25(c)(1) of the Exchange Act provides that "[n]o 
+objection to an order or rule of the Commission, for which 
+review is sought under this section, may be considered by the 
+court unless it was urged before the Commission or there was 
+reasonable ground for failure to do so."  15 U.S.C. 
+s 78y(c)(1).  The purpose of Section 25(c)(1) is to "assur[e] 
+
+that the Commission have had a chance to address claims 
+before being challenged on them in court."  Blount v. SEC, 
+61 F.3d 938, 940 (D.C. Cir. 1995).  Such statutory provisions 
+are jurisdictional and serve as a bar to consideration by the 
+court of issues not previously raised to the agency.  See Sims 
+v. Apfel, 530 U.S. 103, 107-08 (2000).  However, the court has 
+recognized that statutes containing the language of Section 
+13(a), "or reasonable ground for failure to do so", include a 
+safety valve.  See Marine Mammal Conservancy v. Dep't of 
+Agriculture, 134 F.3d 409, 412 (D.C. Cir. 1998) (citing as 
+examples 15 U.S.C. s 78y(c)(1) ("reasonable ground for fail-
+ure to do so");  29 U.S.C. s 160(e) ("extraordinary circum-
+stances")).  See generally Hormel v. Helvering, 312 U.S. 552, 
+556-59 (1941).  If KPMG failed to raise the issue of Sturm's 
+negligence before the Commission, the question then becomes 
+whether KPMG has provided a reasonable explanation for its 
+failure to challenge the Commission's reliance on Sturm's 
+conduct in issuing the cease-and-desist order.
+
+     It is clear that the negligence finding based on Sturm's 
+conduct as audit partner is erroneous given the way the case 
+was tried.  The OCA did not challenge Sturm's conduct, and 
+commented that Sturm was a "careful guy" who had been 
+"kept in the dark."  The ALJ concluded that Sturm had acted 
+in good faith and believed that OCA staff "would not object to 
+the engagements."  Matter of KPMG, 71 S.E.C. Dkt. 1220, 
+2000 WL 45725, at *32.  Nonetheless, the Commission criti-
+cized KPMG for failing to recognize the seriousness of its 
+actions or inaction citing Sturm's conduct as one example.  
+See Reconsideration Order at 11.  In light of the absence of 
+an OCA challenge to Sturm's conduct either in its OIP or in 
+response to the ALJ's decision, KPMG's first notice that 
+Sturm's conduct would be considered negligent came when 
+the Commission issued its Order.  See Order at 43.  Nonethe-
+less, in seeking reconsideration by the Commission, KPMG 
+failed to challenge the Commission's finding as to Sturm.  
+KPMG explains, however, that it was not until the Reconsid-
+eration Order "that it became other than pointless to raise 
+[the issue]."
+
+     In its original opinion the Commission stated that each of 
+the violations it found independently justified its cease-and-
+desist order.  See Order at 54.  Given this, and the fact that 
+the Commission found Conway, the head of DPP, to be 
+negligent as well, it might have been "clearly useless" for 
+KPMG to object to a sanction for Sturm's conduct.  See 
+Randolph-Sheppard Vendors of Am. v. Weinberger, 795 F.2d 
+90, 105-06 (D.C. Cir. 1986).  The question is not without 
+difficulty, however.  See id.  Safety valves are subject to 
+abuse, see, e.g., Etelson v. Office of Personnel Management, 
+684 F.2d 918, 925 (D.C. Cir. 1982), and a mere losing posi-
+tion--in the absence of circumstances such as an agency 
+position that it is without jurisdiction to act or a very clearly 
+articulated agency position, such as refusing to change a rule 
+absent judicial instruction to do so--is insufficient.  See Ran-
+dolph-Sheppard, 795 F.2d at 105;  cf. Marine Mammal Con-
+servancy, 134 F.3d at 413.  The Commission plausibly main-
+tains on appeal both that a single violation of the type at issue 
+here can suffice for issuance of a cease-and-desist order and 
+that the finding that Sturm was negligent was not essential.  
+Our decision leaves in place the Commission's negligence 
+findings on a number of statutory and rules violations by 
+KPMG.  For these reasons, we need not decide whether 
+KPMG's explanation brings it within Section 13(a)'s safety 
+valve.  The rationale underlying exhaustion requirements is 
+sufficiently important that it behooves the court to avoid 
+possibly expanding the "futility" exception when it is unneces-
+sary to do so.  See Randolph-Sheppard, 795 F.2d at 104-05;  
+see also McKart v. United States, 395 U.S. 185, 193-95 (1969);  
+3 R.J. Pierce, Administrative Law Treatise, s 15.2 at 970, 974 
+(2002).
+
+                                C.
+
+     KPMG also challenges the propriety of a negligence stan-
+dard under Section 21C.  In contesting the Commission's 
+position that this issue is not properly before the court 
+because it was not raised "at any point in these proceedings," 
+Respondent's Br. at 35, KPMG responds that because the 
+Commission has previously disclaimed authority to regulate 
+
+accountants other than pursuant to Rule 102(e) (and its 
+predecessors), and the prosecution proceeded on that basis, 
+its challenge to a negligence standard for Rule 102(e) is 
+properly understood as a challenge to a negligence standard 
+however the Commission might seek to regulate accountants.  
+That may be somewhat of a stretch.  But, in its brief before 
+the Commission, KPMG argued that the Division was seeking 
+to impose strict liability under Rule 21C for independence 
+violations and that such constituted "an unwarranted de facto 
+expansion of the Division's powers to sanction professionals."  
+KPMG noted that under this approach, Rule 102(e)--at issue 
+in Checkosky v. SEC, 23 F.3d 452, 455 (D.C. Cir. 1994)--
+would never need to be invoked and any violation of the rules 
+would justify a cease-and-desist order.  This was sufficient to 
+alert the Commission to the challenge to its authority to enter 
+a cease-and-desist order on the basis of a negligence stan-
+dard.  See Blount v. SEC, 61 F.3d 938, 940 (D.C. Cir. 1995);  
+Dep't of Treasury v. FLRA, 762 F.2d 1119, 1122 (D.C. Cir. 
+1985).  The Commission, in fact, was alerted to the issue, 
+ruling that negligence is sufficient to establish liability under 
+Section 21C, and specifically rejecting KPMG's due process 
+claim based on its reading of the court's holding in Checkosky.  
+See Order at 38-39 & n.99.
+
+     On the merits, KPMG's contention that the Commission 
+cannot use Section 21C "to bootstrap" its authority to regu-
+late accountants fails on several grounds.  First, Rule 102(e) 
+provides that the Commission may sanction accountants in a 
+particular manner.  The rule provided at the time of the 
+administrative proceeding that the Commission could "deny, 
+temporarily or permanently, the privilege of appearing or 
+practicing before it" to any accountant who had "engaged in 
+unethical or improper professional conduct" or "willfully vio-
+lated ... any provision of the Federal securities laws."  17 
+C.F.R. s 201.102(e)(1996).  No such barring order was en-
+tered here, and there is nothing in the rule itself to indicate 
+that it is the exclusive means for addressing accountants' 
+conduct.  KPMG's contention that the Commission viewed 
+Rule 102(e) to be the exclusive basis for disciplinary actions 
+against accountants is an overstatement.  In Touche Ross & 
+
+Co. v. SEC, 609 F.2d 570 (2d Cir. 1979), on which KPMG 
+relies, the court made no more than a historical statement 
+that the rule was "the basis for a number of disciplinary 
+proceedings" in rejecting a challenge to the Commission's 
+authority to discipline accountants and others.  Id. at 578.  
+Commission decisions cited by KPMG are not to the contrary.  
+See, e.g., Matter of Carter, 47 S.E.C. 471 (1981).  Nor is the 
+fact that in Checkosky the Commission declined to take a 
+position on whether negligence was sufficient under Rule 
+102(e) dispositive, as KPMG appears to maintain;  a Section 
+21C issue was simply not before the court.
+
+     Second, the premise of KPMG's view that the Commission's 
+invocation of Section 21C is no more than a way to circumvent 
+the scienter requirement of Rule 201(e) is flawed.  There is 
+no support for the position that the culpability standards 
+governing Rule 102(e) proceedings can be applied with equal 
+force in Section 21C proceedings.  The nature of the two 
+proceedings is different.  As the Commission points out, "one 
+is a professional disciplinary proceeding designed to protect 
+the integrity of the Commission's process while the other is a 
+law enforcement proceeding," each involving "fundamentally 
+different remedies...."  Respondent's Br. at 46.  See Check-
+osky, 23 F.3d at 456 (separate opinion of Judge Silberman);  
+id. at 467, 471 (separate opinion of Judge Randolph).  
+KPMG's view that it was only by disclaiming jurisdiction to 
+sanction accountants as primary violators of securities law 
+that the Commission was able to justify Rule 102(e) as an 
+administrative disciplinary rule impales on the same flawed 
+premise.  Likewise, KPMG's position that the federal court 
+has exclusive jurisdiction over actions to punish violations of 
+the securities laws under 15 U.S.C. s 78aa fails to distinguish 
+between the Commission's authority to discipline profession-
+als from its substantive enforcement functions.  See Checko-
+sky, 23 F.3d at 456 (separate opinion of Judge Silberman).
+
+     Third, the Commission found that KPMG violated the 
+independence requirement of Rule 2-02(b)(1) of Regulation 
+S-X. See Order at 36.  KPMG acknowledges that the Com-
+mission has used the independence requirement as a "base-
+line for assessing the propriety of an accountant's conduct 
+
+under its rules of practice."  Petitioner's Br. at 26.  In other 
+words, the Commission has interpreted the independence 
+requirements of Regulation S-X to apply to accountants.  
+The very cases KPMG cites include Matter of Alan S. Gold-
+stein, et al. 57 S.E.C. Dkt. 1419 & 1421, 1994 WL 499304 & 
+1994 WL 499312 (Sept. 6, 1994), where the Commission both 
+censured an accountant under the predecessor to Rule 102(e) 
+and enjoined the accountant under Section 21C from causing 
+violations of Section 17(a)(1) and Rule 18a-5(d) by virtue of 
+lack of independence.  KPMG's implicit argument that impo-
+sition of discipline is a necessary precondition to enforcement 
+under Section 21C finds no support in the authorities on 
+which it relies.
+
+     Moreover, the Commission was virtually compelled by Con-
+gress' choice of language in enacting Section 21C to interpret 
+the phrase "an act or omission the person knew or should 
+have known would contribute to such violation" as setting a 
+negligence standard.  See Order at 38.  KPMG contends that 
+the court should give no deference to the Commission's 
+interpretation of Section 21C as regulating accounting negli-
+gence as it is an unexplained and unsupportable usurpation of 
+authority.  Yet the plain language of Section 21C invokes, as 
+the Commission stated, "classic negligence language."  Order 
+at 38 (citing Davis v. Monroe County Bd. of Educ., 526 U.S. 
+629, 642 (1999);  United States v. Finkelstein, 229 F.3d 90, 95 
+(2d Cir. 2000)).  To the extent that KPMG sought reconsider-
+ation by the Commission on the ground that the Commission 
+sanctioned it for negligent conduct based on an evidentiary 
+hearing held under a scienter standard, we see no occasion to 
+elaborate on the Commission's reasoning.  See Reconsidera-
+tion Order at 3-10.  In denying reconsideration, the Commis-
+sion pointed to the administrative record where the ALJ had 
+ruled that only the misconduct charged under Rule 102(e) 
+would be governed by a scienter standard.  The Commission 
+also noted that the Division had made clear that it would 
+premise its litigation of the charges under Section 21C on a 
+negligence standard.  KPMG has no response.
+
+                                D.
+
+     KPMG further contends that it was improper to impose a 
+cease-and-desist order on it for causing a violation of Section 
+13(a) in the absence of such an order against the primary 
+violator, PORTA, and that it cannot be sanctioned as a 
+primary violator of the securities laws under Rule 2-02(b) of 
+Regulation S-X because that provision imposes enforceable 
+duties only on registrants, not accountants.  Review of the 
+record before the court reveals that KPMG failed to press 
+these objections before the Commission.  Consequently, the 
+court lacks jurisdiction to address them.
+
+     The record does not show that any of KPMG's legal briefs 
+before the ALJ or the Commission addressed or mentioned 
+the issue of Commission's authority to issue a cease-and-
+desist order against causing or secondary violators without 
+sanctioning primary violators.  The Commission's brief to this 
+court makes this point, and KPMG did not contest the point 
+in its reply brief.  Because the Commission has not had an 
+opportunity to address KPMG's primary violator contention, 
+it is not properly before the court.
+
+     The record further indicates that KPMG effectively aban-
+doned any contention that Regulation S-X does not apply 
+directly to accountants.  KPMG mentioned the argument in 
+its post-trial legal brief to the ALJ when it stated, "In any 
+event, Regulation S-X was promulgated to effectuate the 
+registration requirements of Section 13(a), 15 U.S.C. 
+s 78m(a), which, by its terms, applies to issuers of securities, 
+not their auditors."  KPMG made no attempt to elaborate on 
+this comment and made no other mention of this point 
+elsewhere in the proceedings.  An argument cannot be mere-
+ly intimated or hinted at to be raised;  it must be "pressed" to 
+be preserved.  Hays v. Sony Corp., 847 F.2d 412, 420 (7th 
+Cir. 1988);  In re Fairchild Aircraft Corp., 6 F.3d 1119, 1128 
+(5th Cir. 1993);  see also In Re Espino, 806 F.2d 1001, 1002 
+(11th Cir. 1986).  Because KPMG made no mention of this 
+issue in its brief to the Commission or its motion for reconsid-
+eration, all indications are that the argument was either 
+dropped or that it was not truly an argument that KPMG had 
+
+ever pressed.  Where a litigant "seem[s] to abandon its 
+argument" the court will hold that "the agency did not have a 
+fair opportunity to address this argument."  Busse Broad-
+casting Corp v. FCC, 87 F.3d 1456, 1461 (D.C. Cir. 1996).  
+Given Section 25(c)(1)'s purpose to afford the Commission the 
+first opportunity to address claims, see Blount, 61 F.3d at 
+940, we cannot conclude that KPMG's passing reference to an 
+issue that was later abandoned gave the Commission that 
+opportunity.
+
+                               III.
+
+     KPMG challenges the cease-and-desist order as improper 
+on a variety of grounds, only one of which we conclude has 
+apparent merit.  KPMG makes much of the fact that Con-
+gress referred to the cease-and-desist authority of other 
+agencies, see S. Rep. No. 101-337, at 19;  H.R. Rep. No. 101-
+616, at 23, in contending that Section 21C gave the Commis-
+sion no new authority to regulate professional conduct.  But 
+KPMG cites no authority that other agencies had declined to 
+issue cease-and-desist orders as part of their enforcement 
+powers against a person who, although a professional, had 
+been found to violate the relevant laws either directly or by 
+causing another to violate the laws.  In fact, the converse is 
+true.  See, e.g., Matter of Phillip C. Zarcone, CFTC Dkt. No. 
+93-18, 1993 WL 302633, at *1 (Aug. 10, 1993) (accountant);  
+Matter of California Dental Ass'n, 1995 WL 452990 (July 17, 
+1995), rev'd on other grounds, California Dental Ass'n. v. 
+FTC, 224 F.3d 942 (9th Cir. 2000);  Matter of Superior Court 
+Trial Lawyers Ass'n, 107 F.T.C. 510 (June 23, 1986), affirmed 
+on other grounds, Superior Court Trial Lawyers Ass'n v. 
+FTC, 493 U.S. 411 (1990).  Moreover, KPMG does not dispute 
+that under Section 21C the Commission may impose sanctions 
+for such violations, and never argued to the Commission that 
+it lacked authority to hold KPMG accountable for misrepre-
+senting its independence in its Independent Auditor's Report.
+
+     The Commission's cease-and-desist order required that 
+KPMG cease and desist from committing present or future 
+
+ violations of Rule 2-02(b) of Regulation S-X, or being the 
+cause of any present or future violation of Section 13(a) of the 
+Exchange Act or Rule 13a-1 thereunder due to an act or 
+omission that KPMG knows or should know will contribute to 
+such violation, by having any transactions, interests or rela-
+tionships that would impair its independence under Rule 2-01 
+of Regulation S-X or under GAAS.  In addressing KPMG's 
+challenges to the order, our review of the Commission's 
+choice of a sanction is limited by both the Administrative 
+Procedure Act ("APA"), 5 U.S.C. s 706(2)(A) (2000), and 
+Supreme Court precedent.  See Wonsover v. SEC, 205 F.3d 
+408, 412 (D.C. Cir. 2000).  The APA limits our inquiry to 
+whether the Commission's sanction was "arbitrary, capricious, 
+an abuse of discretion, or otherwise not in accordance with 
+law."  5 U.S.C. s 706(2)(A);  Wonsover, 205 F.3d at 213.  The 
+Supreme Court has long instructed that the Commission's 
+choice of sanction shall not be disturbed by the court unless 
+the sanction is either "unwarranted in law or is without 
+justification in fact."  American Power & Light v. SEC, 329 
+U.S. 90, 112-13 (1946);  Wonsover, 205 F.3d at 213 (citations 
+omitted).
+
+                                A.
+
+     KPMG contends that the cease-and-desist order is over-
+broad because it bears no reasonable relation to the violations 
+found.  KPMG also contends that the order is unduly vague 
+because by prohibiting all relationships that violate GAAS, 
+the order incorporates broad, open-ended standards that 
+require interpretation and exposes KPMG to the possibility of 
+punishment for making good-faith but incorrect judgments 
+about compliance.  Neither contention is persuasive.
+
+     Section 21C authorizes the entry of a cease-and-desist 
+order to prohibit "any future violation of the same provision" 
+found to have been violated in the instant case.  15 U.S.C. 
+s 78u-3 (emphasis added).  The provisions at issue are Rule 
+2-02(b) of Regulation S-X, 13(a) of the Exchange Act, and 
+Rule 13a-1 promulgated thereunder.  There is, consequently, 
+no "sweeping order to obey the law" as KPMG contends, 
+
+because the terms of the order are limited to these provisions.  
+Further, the Commission stated that the order "extends only 
+to violative acts 'the threat of which in the future is indicated 
+because of their similarity or relation to those [past] unlawful 
+acts.' "  Order at 47 n.121.  The order thus extends only to a 
+subset of the violations comprehended by the rules and 
+statutory provisions involved, namely those that are indepen-
+dence related.  By concluding that the seriousness of 
+KPMG's misconduct, combined with the flaws in its mode of 
+assessing independence, created a serious risk of future inde-
+pendence-impairing relationships beyond the two circum-
+stances at issue, see Order at 54, the Commission justified an 
+order aimed at preventing violations flowing from a broader 
+array of independence impairments than the precise ones 
+found.  In so doing, it cannot be said that the order has "no 
+reasonable relation to the unlawful practices found to exist."  
+FTC v. Colgate Palmolive Co., 380 U.S. 374, 394-95 (1965).  
+The order is unlike those condemned in the cases on which 
+KPMG relies, such as ITT Continental Baking Co. v. FTC, 
+532 F.2d 207, 221 (2d Cir. 1976), and Joseph A. Kaplan & 
+Sons, Inc. v. FTC, 347 F.2d 785, 789-90 (D.C. Cir. 1965), 
+where the cease-and-desist orders extended beyond the na-
+ture of violations found.  It also is unlike the orders in NLRB 
+v. Express Pub. Co., 312 U.S. 426, 433 (1941), or Swanee 
+Paper Corp. v. FTC, 291 F.2d 833, 838 (2d Cir. 1961), which 
+were not limited to related activities.  Chrysler Corp. v. FTC, 
+561 F.2d 357 (D.C. Cir. 1977), is distinguishable because in 
+that case the Federal Trade Commission conceded that the 
+marketing violations were "unintentional," "not continuing," 
+and "confined to two out of fourteen advertisements," thus 
+providing less justification for a more wide-ranging ban.  Id. 
+at 364.  Country Tweeds, Inc. v. FTC, 326 F.2d 144 (2d Cir. 
+1964), is similarly distinguishable given the voluntary cessa-
+tion of the offending conduct long before the complaint was 
+filed and the likelihood that the offending party would not 
+resume such or related conduct.  Id. at 149.
+
+     Neither is there any requirement on the part of the Com-
+mission to tailor its order more narrowly to specific types of 
+violations of the provisions involved.  The "any future viola-
+
+tion" language in Section 21C makes this clear and the 
+"reasonable relationship" requirement does not impose such a 
+limit.  As the Supreme Court observed in FTC v. Ruberoid 
+Co. 343 U.S. 470 (1952), cease-and-desist authority is "not 
+limited to prohibiting the illegal practice in the precise form 
+in which it is found to have existed in the past.  If the 
+Commission is to attain the objectives Congress envisioned, it 
+cannot be required to confine its road block to the narrow 
+lane the transgressor has traveled;  it must be allowed effec-
+tively to close all roads to the prohibited goal, so that its 
+order may not be by-passed with impunity."  Id. at 473.  
+What KPMG would appear to suggest is required--namely an 
+order so narrow that in the absence of copy-cat violations 
+there would be no possibility of a violation of the order--
+ignores the expansive language used by Congress.  Given the 
+Congressional purpose of empowering the Commission "to 
+curb a wider range of securities violations" in an effort to 
+"combat recidivism," S. Rep. No. 101-337, at 1 (1990);  see H. 
+Rep. No. 101-616, at 23-24, the Commission could reasonably 
+interpret Section 21C as empowering it to issue orders limit-
+ed only by the specific provisions of law or regulations found 
+to have been violated.
+
+     Consequently, the record belies KPMG's contentions that 
+the order bears no reasonable relation to the violations found 
+and was entered without regard to the nature of the infrac-
+tion or the good-faith of the accountant involved.  The judg-
+ment underlying the Commission's decision that the indepen-
+dence violations were of an order of seriousness that KPMG 
+failed to appreciate is the type of agency expertise to which 
+courts defer.  See Svalberg v. SEC, 876 F.2d 181, 1884 (D.C. 
+Cir. 1989);  see also Blinder, Robinson & Co. v. SEC, 837 F.2d 
+1099, 1107 (D.C. Cir. 1988).
+
+     KPMG's challenge to the cease-and-desist order on vague-
+ness grounds is similarly without merit.  KPMG contends 
+that because GAAS standards are "vague and open-ended" 
+the Commission could not properly enjoin compliance with 
+broad prohibitions that require subjective interpretation and 
+complex judgments over which reasonable professionals may 
+disagree.  This court has observed, in light of the severity of 
+
+monetary penalties under antitrust laws, that cease-and-
+desist orders should be "sufficiently clear and precise to avoid 
+raising serious questions as to their meaning and application."  
+Joseph A. Kaplan, 347 F.2d at 790 (quoting FTC v. Henry 
+Broch & Co., 368 U.S. 360, 367-68 (1962)).  KPMG neverthe-
+less fails to show that such serious questions will necessarily 
+arise to its detriment.
+
+     Section 21C allows for the order to enjoin the "causing [of] 
+such violation and any future violation of the same provision, 
+rule, or regulation."  That is all the order did;  it ordered 
+KPMG to "cease and desist from committing any violation or 
+future violation of Rule 2-02(b) of Regulation S-X, or from 
+being a cause of any violation or future violation of Section 
+13(a) of the Securities Exchange Act of 1934 or Rule 13a-1 
+thereunder."  The order merely tracks the statutory lan-
+guage and inserts the relevant provisions.  Further, although 
+GAAS may be a complex scheme and reasonable professionals 
+may differ as to its application to discrete sets of facts, it is 
+not a set of indefinite and open-ended standards subject to 
+the whims of the Commission.  Rather, as with most provi-
+sions of the law, there are broad areas of clarity and instances 
+closer to the line where there will be some doubt.  See 
+generally Checkosky, 23 F.3d at 472-73 & n.7 (separate 
+opinion of Judge Randolph);  cf. Shalala v. Guernsey Memo-
+rial Hospital, 514 U.S. 87, 100-01 (1995).  The rule, as 
+amended, effective February 2001, Exchange Act Rel. No. 
+43602, 2000 WL 1726933, at *1, 73 S.E.C. Dkt. 2601 (Nov. 21, 
+2000), includes examples of when independence will be found 
+lacking, and while non-exclusive, the examples nonetheless 
+inform the general standard.  See id. at *35.  Although 
+absolute precision is impossible, even with an objective stan-
+dard, see Bristol-Myers Co. v. FTC, 738 F.2d 554, 560 (2d 
+Cir. 1984), KPMG fails to show that it will have "difficulty 
+applying the Commission's order to the vast majority of their 
+contemplated future [actions]."  Colgate-Palmolive, 380 U.S. 
+at 394.  But, as KPMG is aware, if a situation arises where 
+KPMG is "sincerely unable to determine whether a proposed 
+course of action would violate the present order, [KPMG] can 
+... oblige the Commission to give ... definitive advice as to 
+
+whether [the] proposed action if pursued, would constitute 
+compliance with the order."  Id.  If KPMG has a disagree-
+ment with the Commission as to its interpretation of a GAAS 
+standard, it will have the opportunity to make the case for its 
+interpretation in any contempt proceeding the Commission 
+may institute to adjudicate an alleged violation of the order.
+
+                                B.
+
+     More problematic, however, is KPMG's contention that in 
+entering the cease-and-desist order, the Commission created 
+an improper presumption that a past violation is sufficient 
+evidence of "some risk" of future violation, and applied it in 
+an arbitrary and capricious manner whereby it is, "in essence, 
+irrebutable," ignoring KPMG's evidence of serious remedia-
+tion and the ALJ's finding there was no future threat of 
+harm.  In seeking reconsideration by the Commission, KPMG 
+argued that the Commission had failed to comply with the 
+standard that it had established for issuance of a cease-and-
+desist order--namely some likelihood of future violation 
+based on proof of some continuing or threatened conduct by 
+KPMG creating an increased likelihood of future violations--
+and that there was no such evidence.  The plain language of 
+Section 21C, as well as the legislative history, see S. Rep. No. 
+101-337, at 18;  H.R. Rep. No. 101-616, at 24, undermine 
+KPMG's contention that the Commission erred in proceeding 
+on the basis of a lower risk of future violation than is required 
+for an injunction.  However, the precise manner in which the 
+standard is met is unclear from the Commission's analysis on 
+reconsideration.
+
+     In its original opinion, the Commission acknowledged that:
+
+     in imposing sanctions, we traditionally have balanced a 
+     variety of mitigating and aggravating circumstances, 
+     such as the harm caused by the violations, the serious-
+     ness of the violations, the extent of the wrongdoer's 
+     unjust enrichment, and the wrongdoer's disciplinary rec-
+     ord.  The question this case poses are whether, as a 
+     matter of either statutory command or in the exercise of 
+     our broad discretion, we will require some showing of 
+     
+     likelihood of future violations before issuing a cease-and-
+     desist order, and how that showing may be made.
+     
+Order at 46.  The Commission had stated that a single 
+violation sufficed to show the necessary likelihood.  See id. at 
+54.  On reconsideration, the Commission explained that, con-
+sistent with the history leading up to the enactment of 
+Section 21C, it had applied a standard for showing a risk of 
+future violations that was significantly less than that required 
+for an injunction.  See Reconsideration Order at 10.  To the 
+Commission, "although 'some risk' of future violations is 
+necessary, it need not be very great to warrant issuing a 
+cease-and-desist order and that in the ordinary case and 
+absent evidence to the contrary, a finding of past violation 
+raises a sufficient risk of future violation."  Id.  Disclaiming 
+that issuance of a cease-and-desist order is "automatic" on a 
+finding of past violation, the Commission stated that "[a]long 
+with the risk of future violations, we will continue to consider 
+our traditional factors in determining whether a cease-and-
+desist order is an appropriate sanction based on the entire 
+record."  Id.
+
+     The Commission proceeded to reject KPMG's argument 
+that the violative conduct was isolated, inadvertent, and un-
+connected to any ongoing conduct or engagement.  Rather, 
+the Commission explained, that although "the isolated nature 
+of the conduct tended to counsel against relief.... we did not, 
+and do not, consider the lack of care at senior levels that 
+attended the independence determinations in this case to 
+have been merely inadvertent or to be 'unconnected' to any 
+ongoing conduct or engagement."  Id. at 11.  The risk of 
+future violations arises here, the Commission explained, 
+"from the manifestly inadequate level of scrutiny given to 
+independence issues and [KPMG's] consistent failure to rec-
+ognize the seriousness of this misconduct."  Id.  The Com-
+mission then noted that the loan to Olson, an officer of a 
+registrant, was, in the words of a witness, "an absolute 
+blatant out-and-out violation" of GAAS.  Id. More specifically, 
+the Commission stated:
+
+     We found that this impairment, as well as the impair-
+     ment flowing from [KPMG's] right to receive a fee 
+     contingent on the registrant's success [in violation of 
+     AICPA Rule 302], resulted in serious violations and that 
+     [KPMG] failed to appreciate that seriousness.  We also 
+     determined that the violations flowed from the negligent 
+     failures of the head of [KPMG]'s DPP [Conway] and the 
+     audit partner [Sturm] to inform themselves about facts 
+     material to specific issues about independence attending 
+     [KPMG]'s audit engagement--when both had questions 
+     or concerns about the propriety of the audit and had 
+     ready access to relevant information.  These findings, as 
+     well as others detailed in our opinion, are based on the 
+     record as a whole and are more than adequate to support 
+     our conclusion that there was not just 'some' risk but 
+     a 'serious' risk of future violation, which, together with 
+     the traditional sanctioning factors we considered, fully 
+     warranted the cease-and-desist relief we issued. (Empha-
+     sis added)
+     
+Id. at 11.
+
+     The Commission's statement on reconsideration suggests 
+that it may no longer consider, as it initially made clear, see 
+Order at 54, that any one of its findings of a violation, 
+standing alone, would suffice under its standard to enter a 
+cease-and-desist order.  At oral argument counsel for the 
+Commission argued that the language in the Reconsideration 
+Order is insufficiently precise to suggest that the Commission 
+had changed its mind.  In truth, the Reconsideration Order 
+leaves this unclear.  Nevertheless, in light of the Commis-
+sion's having found several serious violations--all but one of 
+which we affirm--we conclude that a remand is unnecessary.  
+See McNulty & Co. v. Sec'y of Labor, 283 F.3d 328, 339 (D.C. 
+Cir. 2002).
+
+     The Commission stated in its original order that either the 
+outstanding loan or the "success" fee/royalty arrangement, 
+standing alone, compromised KPMG's independence and that 
+"each of the violations we have found today independently 
+calls for cease-and-desist relief."  Order at 54.  On reconsid-
+
+eration, the Commission continued to find multiple violations 
+of sufficient seriousness to warrant cease-and-desist relief 
+under either a "some-risk-of-future-violation" standard or a 
+"serious-risk-of-future-violation" standard.  Reconsideration 
+Order at 11.  Removing the Commission's erroneous finding 
+that KPMG violated AICPA Rule 302 still leaves what was 
+characterized as "an absolute blatant out-and-out violation" of 
+GAAS in the form of the loan to Olson.  Order at 30;  
+Reconsideration Order at 11.  Similarly, removing the al-
+leged negligence of Sturm, who was perhaps the only "careful 
+guy" involved in the "strategic alliance" between KPMG and 
+BayMark, still leaves, at the very least, "the negligence of the 
+head of [KPMG's] Department of Professional Practice," 
+Conway, who, according to the Commission, rendered a 
+"manifestly inadequate level of scrutiny ... to independence 
+issues" when scrutiny was most needed.  Reconsideration 
+Order at 11.  Under these circumstances, and consistent with 
+remanding only when we conclude "that there is a significant 
+chance that but for [an] error the agency might have reached 
+a different result," McNulty, 283 F.3d at 339 (citing Enviro-
+care of Utah, Inc. v. Nuclear Regulatory Comm'n, 194 F.3d 
+72, 79 (D.C. Cir. 1999)), we conclude that "[i]t would be 
+meaningless to remand."  NLRB v. Wyman-Gordon, 394 
+U.S. 759, 766 n.6 (1969).
+
+                               IV.
+
+     Accordingly, because KPMG lacked fair notice of the Com-
+mission's interpretation of AICPA Rule 302, we reverse the 
+Commission's finding that the "success" fee/royalty arrange-
+ment violated that rule.  As to KPMG's contention that it also 
+lacked fair notice it could be sanctioned on the basis of 
+Sturm's conduct, we conclude, in view of our disposition and 
+the Commission's position on appeal, that we need not decide 
+whether KPMG's failure to challenge the Commission's find-
+ing as to Sturm falls within the safety valve of Section 
+25(c)(1).  We affirm the Commission's determination that 
+negligence is an appropriate basis for violations underlying a 
+Section 21C cease-and-desist order, and reject KPMG's con-
+tentions that the order is overbroad and vague.  Because not 
+
+raised before the Commission, we do not address KPMG's 
+challenges to the Commission's determinations that it may 
+impose sanctions under Section 21C on secondary violators 
+without also sanctioning primary violators, and that Regula-
+tion S-X may apply directly to accountants.  Finally, we 
+conclude that a remand to allow the Commission to clarify 
+whether simply one or a combination of two or more of the 
+violations it found suffice to meet its standard for finding a 
+risk of future violation to enter a cease-and-desist order is 
+unwarranted in light of the Commission's alterative findings 
+of violations in its original order.  We therefore deny 
+KPMG's petition for review.
+
+     Randolph, Circuit Judge, dissenting:  I believe the SEC's 
+cease and desist order should be vacated and remanded to the 
+agency.
+
+     In its first opinion, the SEC nodded in favor of the need to 
+find some risk of future misconduct as a precondition to a 
+cease and desist order.  But it then turned around and held 
+that "[a]bsent evidence to the contrary, a finding of violation 
+raises a sufficient risk of future violation."  KPMG challenged 
+this conclusion, and on reconsideration the SEC expressly 
+disclaimed any notion that a cease and desist order is "auto-
+matic" after a violation of the securities laws.  The SEC said 
+it will continue to consider "our traditional factors" before 
+imposing a cease and desist order, which, according to the 
+SEC's first opinion, appear to be "the harm caused by the 
+violations" (here none), "the seriousness of the violations," 
+"the extent of the wrongdoer's unjust enrichment" (here 
+none), and "the wrongdoer's disciplinary record" (as acknowl-
+edged at oral argument, meager at best).  In its opinion on 
+reconsideration, the SEC wrote that its "findings"--(1) the 
+loan to Olson;  (2) the contingent fee arrangement;  (3) 
+KPMG's lack of remorse;  and (4) the negligence of the 
+KPMG partners including Conway and Sturm, all of which it 
+discussed in the prior sentences--were "more than adequate 
+to support [the SEC's] conclusion that there was ... a 
+serious risk of future violation, which, together with the 
+traditional sanctioning factors we considered, fully warranted 
+the cease-and-desist relief [the SEC] issued."
+
+     The SEC's contingent fee finding was clearly erroneous.  
+On its face, AICPA's Rule 302 covers not all services provided 
+to Porta Systems, but only professional services.  Rules of 
+Professional Conduct s 302 (American Inst. of Certified 
+Pub. Accountants 2001).  The SEC's interpretation of the 
+rule receives no deference because we have no hint that 
+Congress intended the SEC to fill in gaps left by AICPA.  It 
+would be another thing entirely if the SEC had its own rule 
+on contingent fees, but all the agency has is its general 
+requirement that accountants be independent.  See 17 C.F.R. 
+s 210.2-01.
+
+     It is also clear that the SEC's negligence finding based on 
+Sturm's conduct is erroneous given the way the case was 
+
+tried.  There was no charge of wrongdoing regarding Sturm.  
+At trial before the Administrative Law Judge, the SEC 
+enforcement staff called Sturm "a careful guy" who was "kept 
+in the dark."  As to KPMG's failure to bring this objection to 
+the SEC, we do not require that a party raise arguments 
+when it would be futile to do so.  See, e.g., Omnipoint Corp. 
+v. FCC, 78 F.3d 620, 635 (D.C. Cir. 1996).  The SEC's original 
+opinion explicitly stated that each of its four reasons for 
+issuing the order independently justified its cease and desist 
+order.  It was only on reconsideration that the SEC made an 
+about-face and lumped all the findings together.  Given this 
+posture, and the fact that the SEC found Conway to be 
+negligent as well, it would have been "clearly useless" for 
+KPMG to object to imposition of a sanction for Sturm's 
+conduct in its motion for reconsideration.  See Randolph-
+Sheppard Vendors of Am. v. Weinberger, 795 F.2d 90, 105-06 
+(D.C. Cir. 1986).
+
+     The reconsideration order criticizes KPMG for its "consis-
+tent failure to recognize the seriousness" of its violations.  
+True, KPMG mounted a vigorous defense to the SEC's case, 
+but those charged with misconduct have a right to defend 
+themselves.  Also, it is arbitrary for the SEC to fault KPMG 
+for not recognizing the seriousness of Sturm's so-called mis-
+conduct when the SEC enforcement staff praised his behav-
+ior.
+
+     In light of the SEC's errors in finding a contingent fee 
+arrangement and in finding Sturm negligent, the cease and 
+desist order cannot be sustained.  We should have vacated 
+the order and sent the case back so the SEC could decide 
+whether it still wants to issue the order without these legs of 
+the table.
+
+     I would therefore not reach any of the other issues in the 
+case.
+
+                                                    

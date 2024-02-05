@@ -1,0 +1,734 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 4, 2002   Decided December 20, 2002 
+
+                           No. 01-1326
+
+                Southern Company Services, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                 United Telecom Council, et al., 
+                           Intervenors
+
+                        Consolidated with 
+           01-1328, 01-1372, 01-1377, 01-1378, 01-1380
+
+            On Petitions for Review of Orders of the 
+                Federal Communications Commission
+
+                           -----------
+
+     J. Russell Campbell argued the cause for petitioners.  With 
+him on the briefs were Andrew W. Tunnell, Eric B. Langley, 
+Jennifer M. Buettner, Charles A. Zdebski, Shirley S. Fujimo-
+to, Christine M. Gill, Thomas P. Steindler, Erika E. Olsen, 
+Jill M. Lyon, Brett W. Kilbourne, and Laurence Brown.  
+John D. Sharer entered an appearance.
+
+     Gregory M. Christopher, Counsel, Federal Communications 
+Commission, argued the cause for respondents.  With him on 
+the brief were Jane E. Mago, General Counsel, John E. 
+Ingle, Deputy Associate General Counsel, Robert B. Nichol-
+son and Robert J. Wiggers, Attorneys, United States Depart-
+ment of Justice.  John J. Powers III entered an appearance.
+
+     Daniel L. Brenner, Neal M. Goldberg, David L. Nicoll, 
+Thomas F. O'Neil III, William Single IV, Paul Glist, John 
+D. Seiver, Geoffrey C. Cook, Brian M. Josef, and Anthony C. 
+Epstein were on the brief for intervenors National Cable & 
+Telecommunications Association, et al.
+
+     Before:  Edwards, Rogers, and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  In this case, Southern Company 
+Services along with a dozen owners of utility poles and 
+conduits (collectively, "utilities" or "petitioners") petition this 
+court for review of three Federal Communications Commis-
+sion ("FCC" or "Commission") Orders implementing amend-
+ments to the Pole Attachments Act (the "Act"), 47 U.S.C. 
+s 224 (2000).  Under the Act, the owners of poles and 
+conduits have an obligation to lease space to companies that 
+wish to "attach" cables or wires.  The statute gives the FCC 
+authority to "regulate the rates, terms, and conditions" in the 
+market for attachment space and to "adopt procedures neces-
+sary and appropriate to hear and resolve complaints" regard-
+ing these matters.  Id. s 224(b)(1).  In the disputed Orders, 
+the Commission announced regulations and procedures de-
+signed to assure that telecommunications providers can ob-
+tain the attachment space at just and reasonable rates.
+
+     In July 1997, the FCC adopted a Notice of Proposed Rule 
+Making ("NPRM") relating to the implementation of s 703(e) 
+
+of the Telecommunications Act of 1996 to amend the Commis-
+sion's rules and policies governing pole attachments.  In the 
+Matter of Implementation of Section 703(e) of the Telecom-
+munications Act of 1996, Amendment of the Commission's 
+Rules and Policies Governing Pole Attachments, Notice of 
+Proposed Rule Making, 12 F.C.C.R. 11,725 (Aug. 12, 1997), 
+reprinted in Joint Appendix ("J.A.") 297-326.  In February 
+1998, after notice and comment, the Commission announced 
+rules governing reasonable rates for telecommunications at-
+tachments and guidelines for nondiscriminatory access to 
+poles and conduits.  Implementation of Section 703(e) of the 
+Telecommunications Act of 1996, Amendment of the Com-
+mission's Rules and Policies Governing Pole Attachments, 
+Report and Order, 13 F.C.C.R. 6,777 (Feb. 6, 1998), ("Tele-
+com Order"), reprinted in J.A. 213-96.  In March 1997, the 
+FCC adopted a NPRM relating to the maximum just and 
+reasonable rates utilities may charge for attachments made to 
+a pole, duct, conduit or right-of-way.  12 F.C.C.R. 7,449 (Mar. 
+14, 1997).  In April 2000, following notice and comment, the 
+Commission revised the methodology and application of the 
+rate formula.  Amendment of Rules and Policies Governing 
+Pole Attachments, Report and Order, 15 F.C.C.R. 6,453 (Apr. 
+3, 2000) ("Fee Order"), reprinted in J.A. 79-158.  Finally, in 
+May 2001, the FCC clarified and revised its two previous 
+orders, answering petitions from interested parties in a con-
+solidated proceeding.  In the Matter of Amendment of the 
+Commission's Rules and Policies Governing Pole Attach-
+ments;  In the Matter of Implementation of Section 703(e) of 
+the Telecommunications Act of 1996, Consolidated Partial 
+Order on Reconsideration, 16 F.C.C.R. 12,103 (May 25, 2001) 
+("Reconsideration Order"), reprinted in J.A. 1-78.
+
+     The utilities contend that the new rules exceed the FCC's 
+enforcement authority and interfere with their rights to rea-
+sonably deny pole, duct, conduit, and right-of-way space.  
+Petitioners also claim that the rules betray the requirements 
+of reasoned decision-making under the Administrative Proce-
+dure Act ("APA").
+
+     On the record presented, we find that the FCC Orders are 
+premised on reasonable interpretations of the Act and that 
+
+the disputed rules do not interfere with petitioners' rights to 
+negotiate contracts or to deny space for legitimate reasons.  
+Certain of the disputed rules are unripe for review, so we 
+offer no judgment on them.  We otherwise hold that, in 
+promulgating the disputed Orders, the FCC took into account 
+the relevant factors, provided reasoned explanations for its 
+decisions, and grounded its justifications in record evidence.  
+Accordingly, we reject petitioners' claim that the rules are 
+"arbitrary, capricious or contrary to law," and hereby deny 
+the petitions for review.
+
+                          I. Background
+
+     In 1978, Congress enacted the Pole Attachments Act to 
+curb anti-competitive tendencies that limited the growth of 
+the communications market.  Pub. L. No. 95-234, 47 U.S.C. 
+s 224 (1978);  see also Nat'l Cable & Telecomm. Ass'n, Inc. v. 
+Gulf Power Co., 534 U.S. 327, 330 (2002);  FCC v. Fla. Power 
+Corp., 480 U.S. 245, 247-48 (1987).  The then-nascent cable 
+industry relied heavily upon the space on utility poles to 
+secure the wires that delivered the signals to consumers.  
+Since building new poles was prohibitively expensive, cable 
+operators instead leased existing space from utilities (usually 
+electricity and telephone service companies).  Fla. Power 
+Corp., 480 U.S. at 247 ("Utility company poles provide, under 
+such circumstances, virtually the only practical physical medi-
+um for the installation of television cables.").  However, 
+utilities often exploited their market position to charge exces-
+sively high attachment rates.  To restrain this practice, Con-
+gress sought to "establish a mechanism whereby unfair pole 
+attachment practices may come under review and sanction, 
+and to minimize the effect of unjust or unreasonable pole 
+attachment practices on the wider development of cable tele-
+vision service to the public."  S. Rep. No. 95-580 (1977) 
+("Senate Report"), reprinted in 1978 U.S.C.C.A.N. 109.
+
+     The original provisions in the Act gave the FCC authority 
+to "regulate the rates, terms, and conditions" for attachment 
+contracts and the authority to assure that such rates are "just 
+and reasonable."  47 U.S.C. s 224(a) (1978).  The Act defined 
+
+a "pole attachment" as "any attachment made by a cable 
+television system to a pole, duct, conduit or right of way 
+controlled by a utility."  Id. s 224(a)(4).  Under the Act, the 
+Commission could set rates ranging from no less than "the 
+additional cost of providing the pole attachments" to no more 
+than the share of the total operating expenses in proportion 
+to the percentage of space on the pole occupied by the cable 
+carrier.  Id. s 224(d)(1);  see also Fla. Power Corp., 480 U.S. 
+at 248.  The FCC's jurisdiction to enforce the statute applied 
+in all places where state agencies had not previously adopted 
+regulations. See Senate Report, 1978 U.S.C.C.A.N. at 110.
+
+     Responding to the development of telecommunications 
+technologies during the intervening years, Congress substan-
+tially amended 47 U.S.C. s 224 in the 1996 Telecommunica-
+tions Act, Pub. L. No. 104-104, 110 Stat. 56 (1997).  The 
+major changes in the Act reflect the view that telecommunica-
+tions companies offering new services to the public should 
+enjoy protections similar to those that the 1978 Act made 
+available to the cable industry.  See H.R. Conf. Rep. No. 
+104-458 (1996), reprinted in 1996 U.S.C.C.A.N. 125.  Con-
+gress determined that expanding the Act's scope in this 
+manner would ultimately improve telecommunications service 
+options for consumers.
+
+     Three specific changes in the Act are relevant to the 
+present case.  First, the amended statute broadens the defi-
+nition of "pole attachment" to include connections made by 
+cable operators or any other "provider of telecommunications 
+service" to poles, ducts, conduits, or rights-of-way owned or 
+controlled by a utility.  47 U.S.C. s 224(a)(4).  The Act also 
+calls on the FCC to develop a separate attachment rate 
+scheme for telecommunications providers.  Id. s 224(e).  Fi-
+nally, the Act requires owners to provide "non-discriminatory 
+access" to attachers seeking space on poles, ducts, conduits, 
+and rights-of-way.  Id. s 224(f)(1).  An owner may deny 
+space "where there is insufficient capacity and for reasons of 
+safety, reliability and generally applicable engineering pur-
+poses."  Id. s 224(f)(2).
+
+     The contested issues in this case fall into four general 
+categories.  First, the Commission updated its formula for 
+allocating the cost of "other than usable" (or "unusable") 
+space.  The Act directs that "[a] utility shall apportion the 
+cost of providing space on a pole, duct, conduit, or right-of-
+way other than the usable space among entities so that such 
+apportionment equals two-thirds of the costs of providing 
+space other than the usable space that would be allocated to 
+such entity under an equal apportionment of such costs 
+among all attaching entities."  Id. s 224(e)(2).  Thus, the 
+maximum rate for any single attacher decreases as the total 
+number of attaching entities grows.  In the Reconsideration 
+Order, the FCC announced that it would calculate the costs 
+for unusable space based on the following definition:
+
+     The term "attaching entities" includes, without limi-
+     tation and consistent with the Pole Attachment Act, 
+     any telecommunications carrier, incumbent or other 
+     local exchange carrier, cable operator, government 
+     agency, and any electric or other utility, whether or 
+     not the utility provides telecommunications service 
+     to the public, as well as any other entity with a 
+     physical attachment to the pole.
+     
+Reconsideration Order at 12,133-34 p 59, J.A. 29 (footnote 
+omitted).  This position reversed the Commission's position in 
+the Telecom Order that both municipal agencies and utilities 
+with wires on the pole were subject to the "attaching entities" 
+classification only if they provided telecommunications ser-
+vices.  Id. at 12,1332 p57, J.A. 28;  see also Telecom Order at 
+6,800-04 pp 48-54, J.A. 237-40. To aid in rate calculations, the 
+Commission announced that poles located in areas with more 
+than 50,000 people have a presumed average of five attachers, 
+while poles located in areas with fewer than 50,000 people 
+have a presumed average of three attachers.  Reconsidera-
+tion Order at 12,139-40 p 71, J.A. 35-36.
+
+     Second, pursuant to s 224(e)(1), the FCC adopted a com-
+plaint resolution process for situations "when the parties fail 
+to resolve a dispute over [rate] charges."  Under the applica-
+ble rules, an attacher may "sign" a contract with a utility and 
+
+later file a complaint with the FCC to contest an element of 
+that agreement deemed to be unfair.  Id.;  Telecom Order at 
+6,780-90 pp 16-21, J.A. 223-26;  Reconsideration Order at 12,-
+112 p 12, J.A. 8.  This is the so-called "sign and sue" rule.
+
+     Third, the Commission adopted regulations for overlashing, 
+a technique whereby a telecommunications provider attaches 
+a wire to its own (or, for third-party overlashing, to other 
+attachers') existing wires.  The FCC rule provides that a 
+third-party overlasher "shares space with the host attach-
+ment" and, therefore, does not qualify as an "attaching enti-
+ty" for purposes of the attachment rate formula.  Reconsider-
+ation Order at 12,145 p 83, J.A. 41.  This rule changed the 
+position taken by the FCC in the Telecom Order.  See 
+Telecom Order at 6,809-10 pp 68-69, J.A. 245-46.  The Com-
+mission also clarified that an overlashing party does not need 
+to obtain advance consent from a utility if that party has a 
+primary wire attachment already in place.  Reconsideration 
+Order at 12,144-45 p 82, J.A. 40-41.  The FCC recognized, 
+however, that "a utility is entitled to notice of the overlash-
+ing," and that the utility may recover any costs incurred for 
+strengthening the pole to support the weight of additional 
+wires.  Id.
+
+     Fourth, the FCC adopted rules concerning the rate formula 
+for attachment space in conduits - the hollow underground 
+structures that carry cables and telecommunications wires.  
+In both the Fee Order and the Reconsideration Order, the 
+Commission determined that conduits contain no unusable 
+space.  Id. at 12,149 p 93, J.A. 45;  Fee Order at 6,496-97 
+pp 89-90, J.A. 123.  The Commission found that any conduit 
+area that could be utilized for a specific purpose was "usable" 
+and therefore was subject to the rate formula:
+
+     [A]n electric utility is allowed to reserve capacity for 
+     future business purposes under a bona fide business 
+     plan, but must allow that capacity to be used for 
+     attachments until an actual business need arises.  
+     For whatever reason capacity may be reserved or 
+     designated for special uses, by or on behalf of the 
+     utility, and regardless of who may benefit directly or 
+     
+     indirectly from those uses, the capacity is available 
+     for use and therefore remains part of the total 
+     capacity of the conduit for rate determination pur-
+     poses.
+     
+Reconsideration Order at 12,150 p 94, J.A. 46 (footnotes 
+omitted).  The FCC also adopted an administrative presump-
+tion that each conduit attachment occupies only half the space 
+within each duct (i.e., a subsection of the conduit).  Id. at 
+12,150 p 95, J.A. 46;  Telecom Order at 6,829 p 115, J.A. 265-
+66.  Just as it found that its presumptions for the number of 
+entities on a pole were rebuttable, the agency noted that any 
+utility could offer data showing that specific attachments 
+actually used a greater share of duct space.  Id.
+
+                           II. Analysis
+
+     Petitioners assert that the disputed rules and procedures 
+should be vacated, because they violate the Act and betray 
+the precepts of reasoned decision-making under s 706(2)(A) 
+of the APA, 5 U.S.C. s 706(2)(A).
+
+     In deciding whether to defer to the FCC's construction of 
+the Pole Attachments Act, we adhere to the tests enunciated 
+by the Supreme Court in Chevron U.S.A. Inc. v. Natural 
+Resources Defense Council, Inc., 467 U.S. 837 (1984), and 
+United States v. Mead Corp., 533 U.S. 218 (2001).  In Chev-
+ron, the Court held that, "[i]f the intent of Congress is clear, 
+that is the end of the matter;  for the court, as well as the 
+agency, must give effect to the unambiguously expressed 
+intent of Congress."  467 U.S. at 842-43.  This is so-called 
+"Chevron Step One" review.  If Congress "has not directly 
+addressed the precise question" at issue, and the agency has 
+acted pursuant to an express or implicit delegation of authori-
+ty, the agency's interpretation of the statute is entitled to 
+deference so long as it is "reasonable" and not otherwise 
+"arbitrary, capricious, or manifestly contrary to the statute."  
+Id. at 843-44.  This is so-called "Chevron Step Two" review.  
+Mead reinforces Chevron's command that Chevron deference 
+to an agency's interpretation of a statute is due only when "it 
+appears that Congress delegated authority to the agency 
+
+generally to make rules carrying the force of law, and that 
+the agency interpretation claiming deference was promulgat-
+ed in the exercise of that authority."  Mead, 533 U.S. at 226-
+27.
+
+     In this case, there is no doubt that the FCC promulgated 
+the new rules pursuant to congressionally delegated authority 
+and that the disputed Orders purport to have the force of law.  
+Petitioners contend, however, that certain provisions in the 
+new rules exceed the Commission's authority under the Act.  
+We reject this contention.  The intent of Congress is not 
+unambiguously expressed in the provisions of the Act at issue 
+in this case.  Nonetheless, the FCC's constructions of the Act 
+are entirely reasonable and thus deserving of deference under 
+Chevron Step Two.
+
+     Petitioners also contend that, whether or not the new rules 
+reflect permissible interpretations of the statute, they should 
+be vacated as "arbitrary and capricious" under the APA.  In 
+Motor Vehicle Mfrs. Assoc. v. State Farm Mut. Auto. Ins. 
+Co., 463 U.S. 29 (1983), the Supreme Court explained the 
+APA's "arbitrary and capricious" test, as follows:
+
+     The scope of review under the "arbitrary and capri-
+     cious" standard is narrow and a court is not to 
+     substitute its judgment for that of the agency.  Nev-
+     ertheless, the agency must examine the relevant 
+     data and articulate a satisfactory explanation for its 
+     action including a "rational connection between the 
+     facts found and the choice made."  In reviewing that 
+     explanation, we must "consider whether the decision 
+     was based on a consideration of the relevant factors 
+     and whether there has been a clear error of judg-
+     ment."  Normally, an agency rule would be arbi-
+     trary and capricious if the agency has relied on 
+     factors which Congress has not intended it to consid-
+     er, entirely failed to consider an important aspect of 
+     the problem, offered an explanation for its decision 
+     that runs counter to the evidence before the agency, 
+     or is so implausible that it could not be ascribed to a 
+     difference in view or the product of agency exper-
+     
+     tise.  The reviewing court should not attempt itself 
+     to make up for such deficiencies:  "We may not 
+     supply a reasoned basis for the agency's action that 
+     the agency itself has not given."  We will, however, 
+     "uphold a decision of less than ideal clarity if the 
+     agency's path may reasonably be discerned."
+     
+Id. at 43 (citations omitted).  As the Court makes clear, the 
+scope of judicial review under this standard is narrow.  Pur-
+suant to this standard, we can find no basis for overturning 
+the agency rules at issue in this case.
+
+A.   The Pole Space Rules
+
+     The Act sets forth fairly general rules regarding allocations 
+of the cost of usable and unusable space for attachments.  See 
+47 U.S.C. s 224(d), (e).  As noted above, the rate for any 
+single "attaching entity" varies inversely with the total num-
+ber of attachers.  Reconsideration Order at 12,131-32 p 55, 
+J.A. 27-28.  In applying the statute, the Commission's rules 
+prescribe that any party with a physical attachment is an 
+"attaching entity."  Reconsideration Order at 12,133-34 p 59, 
+J.A. 29.  This means that even municipalities and utility 
+owners themselves may be deemed "attaching entities."  Pe-
+titioners challenge this rule, claiming that the statute only 
+allows telecommunications and cable companies to be counted 
+as attaching entities.
+
+     Petitioners' view of the statute is wrong.  The specific 
+provision at issue, 47 U.S.C. s 224(e)(2), merely says that the 
+FCC must equally apportion costs "among all attaching enti-
+ties."  Petitioners argue, however, that the statutory defini-
+tions of "pole attachment," s 224(a)(4), and "telecommunica-
+tions carrier," s 224(a)(5), which do not include utilities and 
+municipalities, show that Congress meant to exclude utilities 
+and municipalities from the category of attaching entities.  
+This argument fails, because the cited provisions do not 
+establish what parties qualify as "attaching entities" for pur-
+poses of apportioning costs under s 224(e)(2).  In fact, to the 
+extent the Act mentions "entities" at all, the term bears 
+different meanings depending upon the context.  Compare id. 
+
+s 224(h) (describing obligations of an "owner" and "any enti-
+ty" when either modifies a pole attachment), with id. s 224(i) 
+(prohibiting charges to a party for attachment changes by 
+"any other entity" including owners).  The most that can be 
+said is that s 224(e)(2) is unclear on whether utilities or 
+municipalities count as "attaching entities" for purpose of 
+apportioning costs.
+
+     The FCC's decision to count utilities among "attaching 
+entities" is an eminently reasonable interpretation of the 
+statute.  The FCC reasoned that its broader definition better 
+reflects the operative language in the Act.  Congress chose 
+not to use a more specific term like "telecommunications 
+carrier" or "provider of telecommunications services," which 
+would have evidenced an intent to distribute the unusable 
+space costs more narrowly.  Reconsideration Order at 12,133-
+34 p 59, J.A. 29-30.  The broader definition is also justified 
+because it limits the financial burden on telecommunications 
+providers and therefore encourages growth and competition 
+in the industry.  Finally, the FCC noted that, absent the rule, 
+a telecommunications provider might bear the entire cost of 
+unusable space where it is the sole paying attacher.  Id. at 
+12,134 p 60, J.A. 30.  In sum, the agency's interpretation of 
+s 224(e)(2) is clearly a permissible interpretation of the stat-
+ute to which we must defer.
+
+     Petitioners complain that the FCC acted unreasonably 
+when it "reversed course" in its Reconsideration Order, re-
+moving all of the limitations that it had previously embraced 
+for counting attaching entities in the Telecom Order.  Com-
+pare Reconsideration Order at J.A. 28-30 with Telecom Order 
+at J.A. 236-40.  But this reversal does not render the new 
+rule infirm.  Rather, the issue is whether the agency fur-
+nished a reasoned explanation for its changed position.  
+PSWF Corp. v. FCC, 108 F.3d 354, 357 (D.C. Cir. 1997);  
+Greater Boston Corp. v. FCC, 444 F.2d 841, 852 (D.C. Cir. 
+1970).  There is no doubt in this case that the FCC's changed 
+position was fully justified and reasonable.  The same reasons 
+that justify the agency's permissible interpretation of the 
+statute justify its decision to change from a narrow to a 
+broader definition of attaching entities.  Reconsideration Or-
+
+der at 12,133-34 pp 58-61, J.A. 29-30.  As noted above, the 
+FCC reasonably concluded that the broader definition better 
+served the goals of the Act.
+
+     Petitioners further claim that the FCC violated the Act and 
+acted unreasonably in adopting presumptions for the number 
+of attaching entities.  The Reconsideration Order states:
+
+          In order to expedite the process of developing 
+     average numbers of attaching entities, and allow 
+     utilities to avert the expense of developing location 
+     specific averages, we provide two rebuttable pre-
+     sumptive averages for use in our Telecom Formula.  
+     This gives both small and large utilities the option of 
+     not conducting a potentially costly and burdensome 
+     exercise necessary to develop averages based on 
+     their company specific records.  The adoption of 
+     presumptive averages should reduce cost and effort 
+     by all parties....  
+     
+          In the Telecom Order, we did not establish pre-
+     sumptions, but said we believed the most efficient 
+     and expeditious manner to calculate a presumptive 
+     number of attaching entities would be for each utili-
+     ty to develop its own presumptive average number 
+     of attaching entities.  We now reconsider that deci-
+     sion and set rebuttable presumptive average num-
+     bers of attaching entities for our two categories, 
+     urbanized and non-urbanized.  We are now persuad-
+     ed that utilities and attaching entities would benefit 
+     from our providing presumptive averages for their 
+     use.  Our establishment of presumptive averages 
+     will expedite the process and allow utilities to avert 
+     the expense of developing location specific averages.  
+     As with all our presumptions, either party may rebut 
+     this presumption with a statistically valid survey or 
+     actual data.
+     
+Id. at 12,139 pp 69-70, J.A. 35 (footnotes omitted).
+
+     The FCC's decision to use rebuttable presumptions is 
+neither inherently unlawful nor facially unreasonable.  We 
+
+reject petitioners' suggestions to the contrary.  However, 
+because the FCC has yet to apply the presumptions, we have 
+no basis upon which to judge the reasonableness of the new 
+rules as applied.  The presumptions are merely presumptions 
+that are subject to rebuttal in any case.  And, under the 
+applicable rule, utilities are free to substitute their own 
+surveys to establish more precise data on the numbers of 
+attaching entities.  Absent a live controversy regarding a 
+particular application of the presumptions, petitioners' chal-
+lenges to the presumptions as applied are unfit for review.  
+Because the "institutional interests" of the agency and the 
+court favor postponing review, and because petitioners have 
+pointed to no "hardship" that will result from delaying review, 
+we dismiss the as-applied challenges to the presumptions for 
+want of ripeness.  See City of Houston v. Dep't of Housing 
+and Urban Dev., 24 F.3d 1421, 1430-32 (D.C. Cir. 1994).
+
+B.   The Overlashing Rules
+
+     Petitioners contest the FCC's rules on overlashing on 
+several grounds.  First, they claim that the rules force utili-
+ties to violate the Act's nondiscrimination provision, because 
+they establish different norms for an overlashing entity and 
+other attaching entities.  Second, they contend that without a 
+rule that overlashers give prior notice to utilities, owners 
+cannot exercise their right to deny access for the reasons 
+listed in the statute.  Finally, they suggest that the FCC 
+procedurally erred by ignoring their comments in drafting 
+these rules.  We find no merit in these claims.
+
+     Because overlashing by definition involves a physical con-
+nection to other wires and not to the pole itself, the Commis-
+sion concluded that a utility is not entitled to charge overlash-
+ing parties for pole space.  Reconsideration Order at 12,142 
+p 76, J.A. 38.  This is a permissible construction of the 
+statute, one that comports with the FCC's permissible con-
+struction of "attaching entities."
+
+     The overlashing rules allow utilities to charge overlashers 
+"make ready" costs if the overlashing wires require enhancing 
+the strength of the pole.  Id. at 12,142 p 77, J.A. 38-39.  And 
+a utility can also deny access to overlashers for reasons of 
+
+insufficient capacity, safety or reliability as described in the 
+Act.  See 47 U.S.C. s 224(f)(2);  Reconsideration Order, at 
+12,141 p 74, J.A. 37.  Overlashers are not required to give 
+prior notice to utilities before overlashing.  However, the 
+FCC rules do not preclude owners from negotiating with pole 
+users to require notice before overlashing.  Id. at 12,144 p 82, 
+J.A. 41 ("We clarify that it would be reasonable for a pole 
+attachment agreement to require notice of third party over-
+lashing.").  Whether, and to what extent, such a contract 
+provision might be enforceable is a question not presently 
+before us.  Therefore, we have no occasion to decide that 
+issue.
+
+     In short, the overlashing rules show due consideration for 
+the utilities' statutory rights and financial concerns.  The 
+record shows that these matters played a role in the FCC's 
+decision, but petitioner's concerns were balanced with the 
+efficiency gains that overlashing brings to the industry.  See 
+id. at 12,140-41 p 73, J.A. 36-37.
+
+C.   "Sign and Sue" Rule
+
+     Petitioners also contend that the FCC's rule allowing enti-
+ties to "sign and sue" violates the Act's plain meaning and is 
+arbitrary and capricious.  According to petitioners, attaching 
+parties should be required to take exception to the terms and 
+conditions of an agreement when the attachment agreement 
+is negotiated or be estopped from filing a complaint about 
+those terms after the agreement is executed.  Petitioners 
+argue that, under the Commission's rule, attachers can keep 
+the benefit of their bargains as they see fit and simultaneous-
+ly seek to avoid disfavored provisions.  "The Commission's 
+decision to play both negotiator and arbitrator, thus displac-
+ing any true market negotiations, is unlawful," say petition-
+ers.  Petitioners' Br. at 37.  We disagree.
+
+     The Commission has a duty to "adopt procedures necessary 
+and appropriate to hear and resolve complaints concerning 
+such rates, terms, and conditions."  47 U.S.C. s 224(b)(1);  
+see also id. s 224(e)(1) (directing FCC to establish regula-
+tions to govern when "parties fail to resolve a dispute over 
+such charges").  Complying with these statutory mandates 
+
+gives the FCC jurisdiction to resolve contract disputes be-
+tween the parties, save possibly where state regulations 
+occupy the field.  Id. s 224(c)(1).
+
+     Petitioners' argument implicitly suggests that, under the 
+disputed rule, the FCC seeks to retain unfettered authority to 
+abrogate the lawful terms of private settlements merely at 
+the behest of attachers.  We see nothing in the rules to 
+support this view.  The agency's brief to this court aptly 
+disposes of this issue:
+
+                The utilities do not describe or explain under what 
+     circumstances the Commission's condoning of "sign 
+     and sue" undermines reliance on private negotiation 
+     or when exactly it is unfair to the utilities, but we 
+     observe that "sign and sue" is likely to arise only in 
+     a situation in which the attacher has agreed, for one 
+     reason or another, to pay a rate above the statutory 
+     maximum or otherwise relinquish a valuable right to 
+     which it is entitled under the Pole Attachments Act 
+     and the Commission's rules.  If the rates and condi-
+     tions to which the attacher later objects are within 
+     the statutory framework, then the utility has nothing 
+     to fear from the attacher's complaint.  The attacher 
+     would not be entitled to relief.
+     
+                 For example, one scenario in which "sign and sue" 
+     is likely to arise is when the attacher acquiesces in a 
+     utility's "take it or leave it" demand that it pay more 
+     than the statutory maximum or relinquish some 
+     other valuable right - without any quid pro quo 
+     other than the ability to attach its wires on unrea-
+     sonable or discriminatory terms.  Of course the Pole 
+     Attachments Act was designed to prevent such an 
+     exercise of monopoly power that would nullify the 
+     statutory rights of cable systems or telecommunica-
+     tions carriers to obtain both immediate access and 
+     timely regulatory relief to the extent access is unrea-
+     sonable or discriminatory.  The utility is statutorily 
+     required to grant prompt, nondiscriminatory access 
+     and may not erect unreasonable barriers or engage 
+     
+     in unreasonable delaying tactics.  So in this scenar-
+     io, where the utility gives nothing of value in ex-
+     change for the attacher's coerced "agreement" to 
+     accept unreasonable or discriminatory access, the 
+     utility has no right to complain if the attacher "signs 
+     and sues" to challenge this abuse of the utility's 
+     monopoly control over the essential transport facili-
+     ties.
+     
+          It is conceivable that in some circumstances, the 
+     utility may give a valuable concession in exchange 
+     for the provision the attacher subsequently chal-
+     lenges as unreasonable.  As a hypothetical example, 
+     the utility might agree to absorb some of the make-
+     ready or attachment costs that are normally paid by 
+     the attachers in exchange for a higher rate.  In that 
+     situation, the Commission could evaluate the reason-
+     ableness of the rate provisions as a package, and 
+     these provisions would rise or fall together without 
+     undermining the statutory policy in favor of volun-
+     tary dispute resolution.
+     
+Respondent's Br. at 42-43.
+
+     On the record at hand, we conclude that the rule is a 
+reasonable exercise of the agency's duty under the statute to 
+guarantee fair competition in the attachment market.  The 
+agency's limited authority to review negotiated settlements is 
+consistent with the statute and it does not interfere with any 
+of the rights afforded petitioners under the Act.
+
+D.   Conduit Space Rules
+
+     Finally, petitioners contend that the FCC's decisions on 
+conduit space and fees are unlawful and unreasonable.  Ac-
+cording to petitioners, the Reconsideration Order fails to 
+recognize that portions of conduits are unusable for purposes 
+of computing the appropriate attachment formula.  Petition-
+ers also contend that, without explanation or support in the 
+record, the FCC reversed the Telecom Order decision that 
+conduit space reserved for maintenance and emergency use is 
+reserved for the benefit of all conduit occupants;  that such 
+reservation renders that duct unusable;  and that the costs of 
+the space should be allocated to those who benefit from it.  
+
+Petitioners argue further that the FCC engaged in arbitrary 
+and capricious decision-making when it derived a rebuttable 
+presumption that an attacher occupies only one-half of a duct 
+or conduit.  We find no merit in these contentions.
+
+     The Commission did not shift its position without explana-
+tion or good reason, as petitioners contend, when it adopted 
+the unusable space rule.  Rather, the Commissioner's Recon-
+sideration Order is cogent on this issue:
+
+             In the Fee Order, we reviewed the Fee Order 
+     Notice filings as well as the Telecom Order petition 
+     filings and concluded that other than collapsed ducts 
+     which are not counted in determining total capacity, 
+     there is no unusable capacity in a conduit.  This was 
+     a departure from our conclusion in the Telecom 
+     Order and we now affirm our conclusion in the Fee 
+     Order.  The total capacity of a duct or conduit is the 
+     entire volume of available capacity in the conduit 
+     system.  All costs associated with the construction of 
+     the conduit system are considered in determining 
+     the cost of this total capacity.
+     
+             ... 
+     
+            We will not allow capacity designated for mainte-
+     nance, future business plans, or municipal set-asides 
+     to be subtracted from the total duct or conduit 
+     capacity for rate determination purposes.  The rec-
+     ord supports our analysis that capacity in a duct or 
+     conduit that is usable for any of these purposes is 
+     part of the "total duct or conduit capacity."  For 
+     example, a utility may set-aside capacity for mainte-
+     nance or emergencies so that unoccupied capacity is 
+     available into which a temporary cable may be 
+     placed and spliced into a damaged cable.  Capacity 
+     so designated is usable in the event it is needed, and 
+     available for use by the utility at any time for any 
+     purpose, and is therefore part of the total available 
+     conduit capacity.  Such reservation of capacity is not 
+     necessarily identified by a specific duct or location, 
+     can be treated, used, withdrawn or discarded at the 
+     
+     sole discretion of the utility, and must be considered 
+     part of the total capacity of the conduit.
+     
+Reconsideration Order, 12,147, 12,149 pp 88, 93, J.A. 43, 47.
+
+     The FCC's rule adopting a presumption for duct space is 
+not facially invalid.  The rule merely establishes a rebuttable 
+presumption.  See id. at 12,150-51 p 95, J.A. 46;  see also id. 
+at 12,152 p 98, J.A. 48 ("When the actual percentage of 
+capacity is known, it can and should be used instead of the 
+one half presumption.").  The possibility that a utility can 
+present information showing that an attached wire or cable 
+occupies more than half of the duct space makes it clear that 
+the rule is not facially unreasonable.
+
+     We will not otherwise address the merits of this rule, 
+however, because petitioners' challenge to the rule as applied 
+is unripe.  See City of Houston, 24 F.3d at 1430-32.  The 
+same considerations that prompted our dismissal of petition-
+ers' as-applied challenge to the rule regarding presumptions 
+for the number of attaching entities apply here as well.
+
+                         III. Conclusion
+
+     For the reasons stated above, the petitions for review of 
+the FCC Orders are hereby denied.
+
+                                                                     

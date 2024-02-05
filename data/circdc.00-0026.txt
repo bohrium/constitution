@@ -1,0 +1,490 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 18, 1999   Decided February 29, 2000 
+
+                           No. 98-1516
+
+                     Herbert L. Schoenbohm, 
+                            Appellant
+
+                                v.
+
+               Federal Communications Commission, 
+                             Appellee
+
+                     Appeal of Orders of the 
+                Federal Communications Commission
+
+     Lauren A. Colby argued the cause and filed the briefs for 
+appellant.
+
+     James M. Carr, Counsel, Federal Communications Com-
+mission, argued the cause for appellee.  With him on the brief 
+were Christopher J. Wright, General Counsel, and Daniel M. 
+Armstrong, Associate General Counsel.  Pamela L. Smith, 
+Counsel, entered an appearance.
+
+     Before:  Sentelle, Henderson, and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Appellant Herbert Schoenbohm 
+operates an amateur radio station in the U.S. Virgin Islands.  
+In 1992, he was convicted of a felony for fraudulently using 
+counterfeit access codes to obtain long distance telephone 
+services.1  In 1994, shortly before Schoenbohm's amateur 
+radio licenses were due to expire, he filed a renewal applica-
+tion with the Federal Communications Commission (FCC).
+
+     After a series of hearings, an administrative law judge 
+(ALJ) denied Schoenbohm's application.  On June 29, 1998, 
+the Commission affirmed the denial, finding that Schoen-
+bohm's fraud conviction, "in combination with" his misrepre-
+sentations and lack of candor during the renewal proceedings, 
+justified nonrenewal.  Herbert L. Schoenbohm, 13 F.C.C.R. 
+15,028, 15,028 (1998) [hereinafter Decision].  Schoenbohm 
+filed a petition for reconsideration, reiterating arguments he 
+had previously made and asking for the first time that the 
+FCC investigate allegations that some of his detractors may 
+have had improper ex parte contacts with the ALJ.  See J.A. 
+at 77.  The FCC denied reconsideration, restating its previ-
+ous justifications for nonrenewal and rejecting the request for 
+an inquiry into the ex parte allegations.  See Herbert L. 
+Schoenbohm, 13 F.C.C.R. 23,774, 23,777 (1998) [hereinafter 
+Reconsideration Order].
+
+     Schoenbohm contends that the denials of both his renewal 
+application and his petition for reconsideration were arbitrary 
+and capricious agency actions, in violation of the Administra-
+
+__________
+     1 Schoenbohm was found guilty of violating 18 U.S.C. 
+s 1029(a)(1), which provides that anyone who "knowingly and with 
+intent to defraud produces, uses, or traffics in one or more counter-
+feit access devices" commits a felony.  The statute defines "access 
+device" as "any card, plate, code, account number, ... or other 
+means of account access that can be used ... to obtain money, 
+goods, services, or any other thing of value."  Id. s 1029(e)(1).  An 
+access device is "counterfeit" if it is "counterfeit, fictitious, altered, 
+or forged."  Id. s 1029(e)(2).
+
+tive Procedure Act, 5 U.S.C. s 706(2)(A).  We affirm the 
+FCC's refusal to renew Schoenbohm's radio licenses and 
+conclude that we are without jurisdiction to review the rejec-
+tion of his petition for reconsideration.
+
+                                I
+
+     We begin with the FCC's denial of Schoenbohm's renewal 
+application.  Before reaching the merits of that decision, 
+however, we must resolve a preliminary question of jurisdic-
+tion.  The Commission argues that Schoenbohm did not 
+appeal from its original decision to deny his renewal applica-
+tion, but only from its order denying his petition to reconsider 
+that decision.  Denial of a petition for reconsideration, the 
+agency correctly notes, is generally nonreviewable unless the 
+request for reconsideration was based on new evidence or 
+changed circumstances.  See ICC v. Brotherhood of Locomo-
+tive Eng'rs, 482 U.S. 270, 279-80 (1987);  Southwestern Bell 
+Tel. Co. v. FCC, 180 F.3d 307, 311 (D.C. Cir. 1999);  see also 
+Entravision Holdings, LLC v. FCC, No. 99-1025, slip op. at 4 
+& n.* (D.C. Cir. Feb. 11, 2000) (holding that nonreviewability 
+in this context means lack of jurisdiction).
+
+     It is true that the notice of appeal Schoenbohm filed in this 
+court characterizes his appeal as being from the order deny-
+ing the petition for reconsideration.  See J.A. at 85.  It is also 
+true that in Southwestern Bell, where the petition for review 
+designated only the reconsideration order, we held both that 
+the reconsideration order was nonreviewable and that the 
+underlying order was not properly before us.  See Southwest-
+ern Bell, 180 F.3d at 313-14.  We did not, however, suggest 
+that the failure to designate an order in a petition for review 
+(or notice of appeal) is always fatal.  To the contrary, "we 
+said in Southwestern Bell Telephone Co. v. FCC [that] a party 
+may demonstrate its intention to appeal from one order 
+despite referring only to a different order in its petition for 
+review if the petitioner's intent 'can be fairly inferred' from 
+the petition or documents filed more or less contemporane-
+ously with it."  Martin v. FERC, 199 F.3d 1370, 1372 (D.C. 
+
+Cir. 2000) (quoting Southwestern Bell, 180 F.3d at 313 (quot-
+ing Brookens v. White, 795 F.2d 178, 180 (D.C. Cir. 1986))).
+
+     Here, Schoenbohm's intent to appeal from the underlying 
+decision (as well as from the denial of reconsideration) is 
+fairly inferable from the "concise statement of reasons," 
+required by 47 U.S.C. s 402(c), that he filed together with his 
+notice of appeal.  That statement expressly lists each of his 
+challenges to the underlying decision, including arguments 
+that the FCC erred in relying on his criminal conviction and 
+in finding that he lacked candor in his testimony before the 
+agency.  It also separately challenges the agency's refusal to 
+investigate his allegations of improper ex parte contacts with 
+the ALJ.  See J.A. at 85-86.  Schoenbohm's ancillary filing 
+therefore makes this case like Damsky v. FCC, in which we 
+recently inferred an appellant's intent to appeal an underlying 
+decision from the fact that her concise statement of reasons 
+challenged the substantive merits of that decision.  See 199 
+F.3d 527, 533 (D.C. Cir. 2000);  see also Martin, 199 F.3d at 
+1373 (holding that petitioner's intent to seek review of under-
+lying order was fairly inferable from his contemporaneously 
+filed motion for stay).  At the same time, it makes this case 
+unlike Southwestern Bell, where there was no such challenge 
+in any filing "prior to the brief filed in this court."  South-
+western Bell, 180 F.3d at 313.
+
+     Because Schoenbohm's intent to appeal the FCC's underly-
+ing decision can reasonably be inferred from his concise 
+statement of reasons, and because for the same reason the 
+FCC "cannot claim that any notice defects surprised or 
+misled it with regard to the issues [appellant] intended to 
+raise on appeal," we conclude that we have jurisdiction to 
+review the FCC's decision to deny renewal of Schoenbohm's 
+amateur radio licenses.  Damsky, 199 F.3d at 533.
+
+                                II
+
+     We review the merits of the FCC's decision only to deter-
+mine whether the decision was "arbitrary, capricious, an 
+abuse of discretion, or otherwise not in accordance with law," 
+5 U.S.C. s 706(2)(A).  We review the factual findings upon 
+
+which the decision was based to ensure that they were 
+supported by "substantial evidence," id. s 706(2)(E).  See 47 
+U.S.C. s 402(g);  Damsky, 199 F.3d at 533.  "Substantial 
+evidence," in turn, is defined as "such relevant evidence as a 
+reasonable mind might accept as adequate to support a 
+conclusion."  Consolo v. Federal Maritime Comm'n, 383 U.S. 
+607, 620 (1966) (quoting Consolidated Edison Co. v. NLRB, 
+305 U.S. 197, 229 (1938)).  Because this standard is "some-
+thing less than the weight of the evidence, ...  the possibility 
+of drawing two inconsistent conclusions from the evidence 
+does not prevent an administrative agency's finding from 
+being supported by substantial evidence."  Id.
+
+     In the following sections, we apply these principles to each 
+of Schoenbohm's challenges to the FCC's refusal to renew his 
+radio licenses.
+
+                                A
+
+     Schoenbohm's first contention is that it was arbitrary and 
+capricious for the FCC to deny renewal based on his criminal 
+conviction.  In 1990, the Commission modified its "character" 
+policy to provide that "evidence of any conviction for miscon-
+duct constituting a felony will be relevant to our evaluation of 
+an applicant's or licensee's character."  Policy Regarding 
+Character Qualifications in Broadcast Licensing, 5 F.C.C.R. 
+3252, 3252 (1990) (footnote omitted) [hereinafter Character 
+Policy].  Such evidence is relevant, the FCC said, because it 
+aids the Commission in ascertaining whether a licensee will 
+"deal truthfully with the Commission and ... comply with 
+[its] rules and policies."  Id. (quoting 102 F.C.C.2d 1179, 
+1190-91 (1986)).  Rather than establish a " 'hierarchy' of 
+felonies that might arise in individual cases," the Commission 
+examines the impact of a conviction on a case-by-case basis.  
+Id.
+
+     There is nothing unreasonable about the FCC's conclusion 
+that Schoenbohm's felony conviction was relevant to his li-
+cense renewal.  A conviction for fraudulent conduct plainly 
+calls into question a licensee's ability to act in a manner 
+consonant with FCC regulations.  As the Commission ob-
+served, fraud "is a subject area the Commission has tradition-
+
+ally considered to be pertinent to its evaluation of a licensee's 
+character."  Decision, 13 F.C.C.R. at 15,038. Schoenbohm 
+argues, however, that the Commission acted arbitrarily in 
+judging his conviction not just relevant, but sufficient to 
+justify denial, since in other cases it has renewed a license or 
+granted a permit despite an applicant's felony conviction 
+when the applicant showed evidence of rehabilitation.  See, 
+e.g., Richard Richards, 10 F.C.C.R. 3950 (Rev. Bd. 1995);  
+Alessandro Broad. Co., 99 F.C.C.2d 1 (Rev. Bd. 1984).  Ac-
+cording to appellant, he too established his rehabilitation.
+
+     The FCC's policy does acknowledge rehabilitation as a 
+mitigating factor in assessing an applicant's character.  See 
+Character Policy, 5 F.C.C.R. at 3252 & n.4.  Here, however, 
+the FCC found that Schoenbohm demonstrated an absence of 
+rehabilitation by making deliberate misrepresentations and 
+displaying a lack of candor during the renewal proceedings.  
+See Decision, 13 F.C.C.R. at 15,038.  Moreover, because 
+these occurred in the course of the agency's own proceedings, 
+they were a rationale for nonrenewal that went beyond the 
+felony conviction alone.  See id.  Commission regulations 
+forbid applicants from "mak[ing] any misrepresentation or 
+willful material omission bearing on any matter...."  47 
+C.F.R. s 1.17;  see also 47 U.S.C. s 312(a)(1).  A licensee's 
+complete candor is important to the FCC because "effective 
+regulation is premised upon the agency's ability to depend 
+upon the representations made to it by its licensees."  Leflore 
+Broad. Co. v. FCC, 636 F.2d 454, 461 (D.C. Cir. 1980);  see 
+also Character Policy, 5 F.C.C.R. at 3253.  Accordingly, it is 
+well recognized that the Commission may disqualify an appli-
+cant who deliberately makes misrepresentations or lacks can-
+dor in dealing with the agency.  See Swan Creek Communi-
+cations, Inc. v. FCC, 39 F.3d 1217, 1221-24 (D.C. Cir. 1994);  
+Garden State Broad. Ltd. v. FCC, 996 F.2d 386, 393-94 (D.C. 
+Cir. 1993).  The FCC's findings with respect to Schoenbohm's 
+misrepresentations and lack of candor are therefore more 
+than sufficient to distinguish this case from the precedents he 
+cites.
+
+                                B
+
+     Schoenbohm does not dispute that if he had made misrep-
+resentations to the Commission, that fact, together with his 
+fraud conviction, would have justified nonrenewal.  Instead, 
+he disputes that he made any misrepresentations.  The FCC 
+found to the contrary in connection with two aspects of his 
+presentations to the Commission.
+
+     First, the Commission determined that Schoenbohm made 
+misrepresentations and lacked candor in testifying about the 
+nature of his prior felony.  As the Third Circuit noted in 
+affirming his conviction, Schoenbohm was found guilty of 
+violating 18 U.S.C. s 1029(a)(1) because he "used a counter-
+feit access device."  United States v. Schoenbohm, No. 
+93-7516, slip op. at 3 (3d Cir. Apr. 18, 1994) (emphasis added).  
+Schoenbohm effectively conceded this in his first written 
+submission to the Commission, stating that he was "convicted 
+for defrauding a telephone resale service provider by ...  
+making unauthorized long distance calls."  Schoenbohm Aff. 
+at 1 (Aug. 8, 1995) (J.A. at 160).  In subsequent presenta-
+tions, however, Schoenbohm described his conviction differ-
+ently.  In a July 18, 1995 affidavit he said:
+
+     I did not steal any money or cause the account of any 
+     subscriber to be debited.  I was convicted solely of 
+     having knowledge in my mind of certain telephone codes 
+     of which 4 of the 6 digits were said to be similar to those 
+     that could be used to make long distance calls without 
+     paying for them.
+     
+Schoenbohm Aff. at 2 (J.A. at 185) (emphasis added).  And in 
+oral testimony before the Commission, he characterized his 
+conviction as based on his possession of "numbers in my 
+mind," rather than on the performance of any unlawful act.  
+Decision, 13 F.C.C.R. at 15,031 (quoting Tr. at 38).
+
+     On the basis of this evidence, the FCC found that Schoen-
+bohm had intentionally portrayed his crime in a misleading 
+manner in order to minimize its significance.  Schoenbohm 
+maintains that he was not attempting to mislead, but rather 
+was simply trying to explain that his crime involved numeric 
+codes rather than mechanical devices.  Although that is not 
+
+an impossible reading of his testimony, it was certainly rea-
+sonable for the FCC to reach a contrary conclusion.
+
+     The FCC also found that Schoenbohm misrepresented the 
+facts and lacked candor in connection with an inquiry the ALJ 
+made into whether he had attempted to violate the agency's 
+ex parte rules--by urging others to ask the Virgin Islands' 
+congressional delegate to intervene with the FCC on his 
+behalf.2  The ex parte rules prohibit a party in specified 
+proceedings (including the proceedings at issue here) from 
+making written presentations to the Commission without 
+serving them on the other parties, and from making oral 
+presentations without notice and an opportunity for the oth-
+ers to be present.  See 47 C.F.R. ss 1.1202, 1.1208.  They 
+also provide that "[n]o person shall solicit or encourage others 
+to make any presentation which he or she is prohibited from 
+making...."  Id. s 1.1210.
+
+     In a radio conversation with another amateur operator, 
+Schoenbohm was tape recorded as saying:
+
+     I'm not allowed under ex-parte rules to ask for assistance 
+     of ... people in political positions but other people if 
+     they feel that government is overbearing or I'm being 
+     treated unfairly, have every right to point this out to 
+     their elected representatives.
+     
+J.A. at 175.  He also told the other operator:
+
+     I'm not permitted at this time because of ex-parte rules 
+     to make any requests of political intervention.  Other 
+     people could do it if they are so disposed but I can't do it.  
+     Go ahead.
+     
+Id.  Schoenbohm then spelled out the congressional dele-
+gate's name, and provided an address and telephone number 
+at which he could be reached.  Id.
+
+__________
+     2 This inquiry is distinct from the inquiry Schoenbohm himself 
+requested, which would have investigated whether opponents of his 
+application had engaged in ex parte communications with the ALJ.  
+See discussion infra Part III.
+
+     When asked to explain this conversation, Schoenbohm told 
+the ALJ that he intended only to share his newly acquired 
+knowledge regarding the ex parte rules, and that he did not 
+intend to encourage an ex parte solicitation on his behalf.  
+See Herbert L. Schoenbohm, 11 F.C.C.R. 1146, 1148-49 (1996) 
+(initial decision of ALJ).  Later, he submitted an affidavit 
+reiterating that he was simply "expounding on [his] newly 
+discovered knowledge of the ex parte rules," and was not 
+asking anyone to make a contact.  Schoenbohm Aff. p 8 (Feb. 
+1997) (J.A. at 191).  Once again, although it is not impossible 
+that Schoenbohm intended to do no more than declare his 
+understanding of the law, the record provides substantial 
+evidence to support the FCC's finding that this explanation 
+was less than candid, and that he was in fact trying to solicit 
+others to make ex parte submissions on his behalf.
+
+     Schoenbohm further contends that because there is no 
+evidence that any ex parte contacts actually occurred, he "is 
+being punished simply for uttering words to a friend in the 
+course of a private amateur radio conversation."  Schoen-
+bohm Br. at 13-14.  This, he argues, violates the First 
+Amendment.  He is wrong for two reasons.  First, the agen-
+cy's ex parte rules do not interfere with Schoenbohm's right 
+to discuss the proceedings with others;  they merely require 
+that communications with the agency be on the record.  As 
+the FCC correctly concluded, "rules intended to protect the 
+integrity of the administrative process by requiring that 
+presentations to the agency be made on the record and that 
+solicitations of such presentations be limited to requests for 
+on-the-record presentations d[o] not violate the First Amend-
+ment."  Reconsideration Order, 13 F.C.C.R. at 23,775;  see 
+California Motor Transp. Co. v. Trucking Unlimited, 404 
+U.S. 508, 513 (1972) (stating that although the First Amend-
+ment protects the right of access to agencies and courts, it 
+does not immunize from proscription "practice[s] which may 
+corrupt the administrative or judicial processes");  cf. Nation-
+al Soc'y of Prof'l Eng'rs v. United States, 435 U.S. 679, 697 
+(1978) (noting that although "an injunction against price 
+fixing abridges the freedom of businessmen to talk to one 
+
+another about prices," the First Amendment does not make it 
+impossible to enforce the antitrust laws).
+
+     Moreover, and more fundamentally, the FCC did not deny 
+Schoenbohm's renewal application because he violated, or 
+attempted to violate, the ex parte rules.  Nor did it do so 
+because of what he said to his fellow radio operator.  Rather, 
+the FCC denied the application because Schoenbohm made 
+misleading statements to the agency itself, and it is well 
+established that the First Amendment does not protect mis-
+representations made in administrative adjudications.  See 
+California Motor Transp., 404 U.S. at 512-13.
+
+     For the foregoing reasons, we conclude there was substan-
+tial evidence to support the FCC's findings that Schoenbohm 
+made misrepresentations and lacked candor in his testimony 
+regarding both his felony conviction and his efforts to induce 
+ex parte communications with the Commission.  We further 
+conclude that the FCC acted reasonably in deciding that 
+Schoenbohm's "lack of candor and misrepresentation along 
+with the felony conviction together" justified nonrenewal of 
+his licenses.  Decision, 13 F.C.C.R. at 15,038.
+
+                               III
+
+     Following the FCC's original decision denying his license 
+renewal on June 29, 1998, Schoenbohm petitioned the agency 
+for reconsideration.  In addition to restating his previous 
+arguments, he asked for the first time that the Commission 
+investigate whether amateur operators who disliked him had 
+themselves communicated with the ALJ ex parte, seeking to 
+have his application denied.  In support of this request, 
+Schoenbohm stated that on January 17, 1998 he had made a 
+tape recording of a conversation between two amateur opera-
+tors which, he asserted, indicated that his detractors were 
+making calls to the ALJ.  See Pet. for Recons. pp 5, 6 (J.A. at 
+77).
+
+     The FCC rejected Schoenbohm's request for an inquiry on 
+two grounds.  First, the agency held it untimely because it 
+was based neither on changed circumstances nor on newly 
+discovered facts.  As the FCC noted, Schoenbohm's request 
+
+relied on a conversation he had taped more than six months 
+before the Commission's decision on his renewal application.  
+See Reconsideration Order, 13 F.C.C.R. at 23,775.  Second, 
+the FCC rejected Schoenbohm's request on the ground that 
+the tape-recorded conversation "d[id] not provide probative 
+evidence that anyone contacted or attempted to contact [the 
+ALJ], let alone that any such contact reached the Judge."  
+Id. at 23,776.  Schoenbohm's allegation, the FCC said, was 
+based "solely on hearsay, speculation, and rumor."  Id.
+
+     In ICC v. Brotherhood of Locomotive Engineers (BLE), the 
+Supreme Court held that an agency's denial of a petition for 
+reconsideration is nonreviewable unless the petition was 
+based on "new evidence or changed circumstances."  482 U.S. 
+at 284.  Included within the ambit of nonreviewable decisions 
+were those concerning matters that, even though "newly 
+raised," were "previously available."  Id. at 283.  The Court 
+treated nonreviewability under such circumstances as juris-
+dictional, see id. at 287, a point this circuit confirmed in 
+Entravision Holdings, LLC v. FCC, No. 99-1025, slip op. at 4 
+n.*.
+
+     Schoenbohm does not contend that his petition for recon-
+sideration was based on "new evidence" in the sense of 
+evidence not "previously available" to him.  To the contrary, 
+it is apparent on the face of the petition that the evidence 
+upon which he relied--the tape recording of an amateur radio 
+transmission--was previously available.  As the FCC noted, 
+the petition states that Schoenbohm made the recording on 
+January 17, 1998--six months before the FCC rendered its 
+original decision on his renewal application.  Schoenbohm 
+could have, and under FCC rules should have, submitted this 
+evidence prior to that decision.3  He failed to do so, and on 
+
+__________
+     3 See 47 C.F.R. s 1.1214 ("Any party to a proceeding ... who has 
+substantial reason to believe that any violation of [the ex parte 
+rules] has been solicited, attempted, or committed shall promptly 
+advise the Office of General Counsel in writing of all the facts and 
+circumstances which are known to him or her.");  see also 47 C.F.R. 
+s 1.65(a) ("Each applicant is responsible for the continuing accuracy 
+and completeness of information furnished in a pending application 
+
+appeal does not respond to the FCC's contention that this 
+omission deprives us of jurisdiction.  This is not a case, 
+therefore, in which nonreviewability means that "petitioner 
+will have been deprived of all opportunity for judicial consid-
+eration ... of facts which, through no fault of his own, the 
+original proceeding did not contain."  BLE, 482 U.S. at 279.  
+Here, the fault is solely that of petitioner, and because his 
+petition was not based on new evidence or changed circum-
+stances, we are without jurisdiction to review its denial.4
+
+                                IV
+
+     The FCC's decision denying appellant's application for 
+renewal of his amateur radio licenses is affirmed.  Insofar as 
+appellant also appeals from the FCC's refusal to reconsider 
+that decision, we dismiss that appeal for lack of jurisdiction.  
+See BLE, 482 U.S. at 284, 287;  Entravision Holdings, No. 
+99-1025, slip op. at 4 n.*.
+
+__________
+or in Commission proceedings involving a pending application....  
+Whenever there has been a substantial change as to any other 
+matter which may be of decisional significance in a Commission 
+proceeding involving the pending application, the applicant shall as 
+promptly as possible ...  submit a statement furnishing such 
+additional or corrected information as may be appropriate....").
+
+     4 In this case, little turns on whether we hold that the court lacks 
+jurisdiction, or whether we consider the issue on the merits.  Even 
+if we were to consider the merits, BLE instructs that we must 
+uphold an agency's decision to deny reconsideration unless there 
+was the clearest abuse of discretion.  See 482 U.S. at 278;  see also 
+Southwestern Bell, 180 F.3d at 311;  Beehive Tel. Co. v. FCC, 180 
+F.3d 314, 319-20 (D.C. Cir. 1999).  It would be difficult to find such 
+an abuse in a case like this, where the agency's denial was based 
+both on the unexcused untimeliness of the appellant's submission 
+and on its lack of probative support.
+
+                     

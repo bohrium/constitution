@@ -1,0 +1,661 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 4, 2002      Decided May 21, 2002 
+
+                           No. 01-1059
+
+                     ACS of Anchorage, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                  General Communication, Inc., 
+                            Intervenor
+
+                            ---------
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Richard P. Bress argued the cause for petitioner.  With 
+him on the briefs were Karen Brinkmann and Richard R. 
+Cameron.
+
+     Jeffrey J. Peck and David W. Zesiger were on the brief for 
+amicus curiae Independent Telephone and Telecommunica-
+tions Alliance in support of petitioner.  Lewis A. Tollin 
+entered an appearance.
+
+     John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, argued the cause for respon-
+dents.  With him on the brief were Laurel R. Bergold, 
+Counsel, Federal Communications Commission, and Charles 
+A. James, Assistant Attorney General, and Robert B. Nichol-
+son and Robert Wiggers, Attorneys, U.S. Department of 
+Justice.  Laurence N. Bourne, Counsel, Federal Communica-
+tions Commission, entered an appearance.
+
+     Joe D. Edge argued the cause and filed the brief for 
+intervenor General Communication, Inc.  With him on the 
+brief were Tina M. Pidgeon and Kathleen S. O'Neill.
+
+     Before:  Edwards and Randolph, Circuit Judges, and 
+Williams, Senior Circuit Judge.
+
+            Opinion for the Court filed by Senior Circuit Judge 
+Williams.
+
+     Williams, Senior Circuit Judge:  Petitioner ACS of An-
+chorage, Inc. challenges a Federal Communications Commis-
+sion order finding that ACS exceeded its permissible rate of 
+return for 1997-98.  As a remedy, the Commission ordered 
+ACS to pay damages plus prejudgment interest to a com-
+plaining customer, General Communications, Inc. ("GCI").  
+See In re General Communication, Inc. v. Alaska Communi-
+cations Systems Holdings, Inc., Memorandum Opinion and 
+Order, FCC 01-32, at 2, p 1 (Jan. 24, 2001) ("Order");  id. at 
+31, p 77.  ACS poses three claims.  First, it says that the 
+Commission erroneously required it to allocate to its intra-
+state services the traffic-sensitive costs associated with calls 
+to internet service providers ("ISPs").  Second, it argues that 
+even if the Commission were right on that issue, ACS's filing 
+of tariffs under 47 U.S.C. s 204(a)(3), a provision for "stream-
+lined tariffs," barred any damages for overcharges for the 
+period those tariffs were in effect, namely calendar year 1998.  
+See In re Implementation of Section 402(b)(1)(A) of the 
+Telecommunications Act of 1996, Report and Order, 12 FCC 
+Rcd 2170 (1997) ("Streamlined Tariff Order").  Third, as to 
+any damages that were due, ACS challenges the rate chosen 
+by the FCC for calculating prejudgment interest.  We deny 
+ACS's petition on the first issue, grant its petition on the 
+second, and remand for further proceedings on the third.
+
+                             *  *  *
+
+     ACS is the incumbent local exchange carrier ("LEC") in 
+Anchorage, Alaska.  Order at 3, p 4.  As a "rate-of-return" 
+carrier (i.e., one whose rates are limited in terms of the rate 
+of return rather than via price caps, see 47 C.F.R. s 65.1(b)), 
+ACS files tariff rates for a two-year period, 47 C.F.R. 
+s 69.3(a);  the rates must be chosen with a view to yielding a 
+rate of return no greater than the Commission-prescribed 
+maximum.  See In re Amendment of Parts 65 and 69 of the 
+Commission's Rules to Reform the Interstate Rate of Return 
+Represcription and Enforcement Processes, 10 FCC Rcd 
+6788, 6791-94, p p 7-12, 6847-48, p 135 (1995).  In addition, 
+such carriers periodically submit monitoring reports showing 
+their actual rates of return.  47 C.F.R. s 65.600.  These 
+reports may lead carriers to file revised rates, see 47 C.F.R. 
+s 69.3(b), or cause the Commission to start proceedings un-
+der 47 U.S.C. s 205 to prescribe new rates "to be thereafter 
+followed."
+
+     Three tariff filings by ACS are pertinent.  In April 1996 it 
+filed tariff rates for the two-year period from July 1, 1996 to 
+June 30, 1998 (the "1997 Tariff"), and in December 1997 a 
+"mid-course correction" tariff covering the balance of that 
+period (January 1, 1998 to June 30, 1998) (the "January 1998 
+Tariff").  See 47 C.F.R. s 69.3(b) (permitting mid-course 
+corrections);  Southwestern Bell Telephone Co. v. FCC, 10 
+F.3d 892, 893-94 & n.1 (D.C. Cir. 1993) (describing use of 
+mid-course corrections).  ACS filed the January 1998 Tariff 
+under the streamlined tariff provisions of 47 U.S.C. 
+s 204(a)(3), which in this instance required a 15-day notice 
+period.  Order at 4, p 8.  During this notice period, apparent-
+ly, the Commission took no action to suspend the tariffs and 
+initiate a hearing on the rates, see 47 U.S.C. s 204(a)(3) 
+(cross-referencing 47 U.S.C. s 204(a)(1)), and the tariffs went 
+into effect without any hearing being ordered.
+
+     In June 1998, ACS filed its rates for the two-year period 
+from July 1, 1998 to June 30, 2000 (the "July 1998 Tariff"), 
+also pursuant to the streamlined tariff provisions.  The July 
+1998 Tariff, however, allocated to ACS's interstate service the 
+
+traffic-sensitive switching costs associated with ISP calls.  
+Order at 5, p 9.  Previously, ACS had treated ISP calls as 
+intrastate.  See id. at 5, p 8 & n.18;  see also ACS Br. at 15.  
+This accounting change had the effect of increasing ACS's 
+reported interstate costs, thereby making its expected rate of 
+return lower than it otherwise would have been.  See Order 
+at 17, p 39.  Again, however, the Commission took no action 
+during the notice period, and the tariffs went into effect 
+without any hearing being ordered.
+
+     In September 1999, ACS filed its final monitoring report 
+for the two-year period from January 1, 1997 to December 31, 
+1998.1  The report continued to classify ISP-related traffic as 
+interstate.  Anchorage Telephone Utility, Rate of Return 
+Report (Sept. 30, 1999);  Order at 6, p 11.  Had ISP costs 
+been classified as intrastate, ACS's cumulative rate of return 
+would have been 26.66% or 32.12% (depending on other 
+accounting practices not challenged here), see Order at 6, 
+p 12;  Responses of Alaska Communications Systems Holding, 
+Inc. and ACS of Anchorage, Inc. to Interrogatories, In re 
+General Communication, Inc. v. Alaska Communications 
+Systems Holdings Inc., File No. EB-00-MD-016, at ex. 1 
+(Oct. 20, 2000), well in excess of the prescribed maximum rate 
+of return of 11.65%, see In re Represcribing the Authorized 
+Rate of Return for Interstate Services of Local Exchange 
+Carriers, 5 FCC Rcd 7507, p 1 (1990) (prescribing maximum 
+rate of return of 11.25%);  47 C.F.R. s 65.700(a) (stating that 
+maximum allowable rate of return for any access service 
+category is the prescribed rate of return plus 0.4%).
+
+     In August 2000, GCI filed a complaint with the Commission 
+alleging that ACS had improperly calculated its interstate 
+costs by treating ISP calls as interstate, and had violated its 
+prescribed rate of return during the 1997-98 monitoring 
+period.  Order at 6-7, p 13.  The Commission agreed with 
+GCI, id. at 10, p 22, 20, p 48, and ordered ACS to pay 
+
+__________
+     1  Commission regulations specify two-year monitoring reports 
+running with the calendar year, even though the tariffs are filed for 
+periods starting July 1.  Compare 47 C.F.R. s 69.3(a) (specifying 
+periodicity for rate-of-return monitoring reports), with 47 C.F.R. 
+
+damages of about $2.7 million plus prejudgment interest 
+assessed at the Internal Revenue Service's corporate over-
+payment rate, id. at 31, p 77.
+
+     Petitioning for review, ACS challenges the Commission's 
+classification of ISP calls, its failure to treat the s 204(a)(3) 
+tariff filings as a bar to damages for 1998, and the rate 
+selected for prejudgment interest.
+
+                             *  *  *
+
+     ISP calls classification.  Because the same telecommunica-
+tions equipment is often used for both intrastate and inter-
+state communications, carriers must apportion their costs (for 
+regulatory purposes) through what is called the "separations" 
+process.  See generally 47 C.F.R. ss 36.1-36.3.  ACS argues 
+that because FCC has previously recognized ISP calls as 
+interstate for jurisdictional purposes under its "end-to-end" 
+analysis, e.g., In re Implementation of the Local Competition 
+Provisions in the Telecommunications Act of 1996, 14 FCC 
+Rcd 3689, 3695-3703, p p 10-20 ("Reciprocal Compensation 
+Order"), ISP calls should be interstate for separations pur-
+poses as well.
+
+     Of course, generally speaking, separations will follow juris-
+diction.  This basic norm is inherent in the separations for-
+mulas found at 47 C.F.R. s 36.125(a)(3), (a)(5) & (b), the 
+Supreme Court's decision in Smith v. Illinois Bell Tel. Co., 
+282 U.S. 133, 150-51 (1930), and our decision in MCI Tele-
+communications Corp. v. FCC, 750 F.2d 135, 137, 140-41 
+(D.C. Cir. 1984).  But practical considerations may justify 
+divergent treatment--at least temporarily.  See Smith, 282 
+U.S. at 150 (recognizing the "practical difficulty of dividing 
+the property between interstate and intrastate services" and 
+requiring "only reasonable measures" for separation).  In-
+deed, in MCI, we explicitly upheld a deviation from the 
+jurisdictional norm where the Commission was implementing 
+(a) an interim ratemaking solution (b) justified by a substan-
+tial policy objective.  MCI, 750 F.2d at 140-41.
+     
+   While the Order does not explicitly invoke the MCI excep-
+tion, we can reasonably discern the path from its reasoning 
+__________
+s 65.701 (specifying periodicity for rate-of-return monitoring re-
+ports).
+
+and citations.  See Bowman Transportation, Inc. v. 
+Arkansas-Best Freight System, Inc., 419 U.S. 281, 285-86 
+(1974);  Syracuse Peace Council v. FCC, 867 F.2d 654, 665 
+(D.C. Cir. 1989).  The interim nature of the decision is quite 
+explicit--and, of course, a natural concomitant of the novelty 
+of the internet itself.  Compare, e.g., WorldCom v. FCC, No. 
+01-1218, 2002 WL 832541 (D.C. Cir. May 3, 2002).  As the 
+Order explains, the Commission views its treatment of ISP 
+calls as derivative of its policy exempting ISPs and other 
+enhanced service providers ("ESPs") from paying interstate 
+"access" charges--the charges normally paid by an interex-
+change carrier ("IXC") such as AT&T and MCI for access to 
+the LECs originating and terminating an interexchange call.  
+Order at 8, p 17, 14, p 32.  Insofar as the ESP exemption is 
+clearly temporary, it follows that the intrastate classification 
+would be as well.  See, e.g., id.;  In re Amendments of Part 
+69 of the Commission's Rules Relating to the Creation of 
+Access Charge Subelements for Open Network Architecture, 
+Report and Order, 6 FCC Rcd 4524, 4535, p 60 (1991) ("ONA 
+Order") (retaining exemption temporarily to provide stability 
+during open tariff architecture reforms);  In re Amendments 
+of Part 69 of the Commission's Rules Relating to Enhanced 
+Service Providers, 3 FCC Rcd 2631, 2631 p 2 (1988) ("ESP 
+Exemption Order") (characterizing ESP exemption as a tem-
+porary measure to avoid "unduly" burdening the ISP indus-
+try).  Furthermore, recent letters issued by the Commission's 
+Common Carrier Bureau explicitly note that the intrastate 
+classification "is an interim measure only."  Common Carrier 
+Bureau Issues Letter to Bell Atlantic Regarding Jurisdic-
+tional Separations Treatment of Reciprocal Compensation 
+for Internet Traffic, Public Notice, 14 FCC Rcd 13148, 13148 
+(1999);  see also Common Carrier Bureau Issues Letter to 
+SBC Regarding Its Jurisdictional Separations Treatment of 
+Internet Traffic, Public Notice, 14 FCC Rcd 8178, 8180 n.9 
+(1999).
+
+     The Commission's primary policy justification for the intra-
+state classification matches the language it has used for the 
+ESP exemption.  Rather than directly exempting ESPs from 
+interstate access charges, the Commission defined them as 
+
+"end users"--no different from a local pizzeria or barber 
+shop.  See Order at 16, p 37;  In re Amendments of Part 69 of 
+the Commission's Rules Relating to the Creation of Access 
+Charge Subelements for Open Network Architecture, Notice 
+of Proposed Rulemaking, 4 FCC Rcd 3983, 3988, p 39 & n.89 
+(1989) ("ONA NPRM");  see also 47 C.F.R. s 69.2(m).  While 
+this categorization exempted ISPs from interstate access 
+charges paid by IXCs, it left them obliged to purchase access 
+through intrastate tariffs--namely, local business line 
+charges.  The Commission contends that ACS's allocation of 
+ISP costs to interstate service would thus create a cost-
+revenue mismatch.  Order at 14-16, p p 32-37.  The tariff 
+revenue would be allocated to intrastate and the costs to 
+interstate, disrupting rate-of-return calculations.
+
+     Once the Commission has allotted the revenue to intrastate 
+service, plainly it makes sense to allocate the costs there as 
+well.  But that might be said merely to relocate the question:  
+as the functional significance of the ESP exemption is to 
+channel the revenue to intrastate service, one might ask if 
+such an allocation was reasonable.  Indeed, ACS's brief ad-
+dresses the cost-revenue matching principle in economic 
+terms, i.e., the proposition that, in the interest of aligning 
+incentives correctly, costs should be borne by the customers 
+who cause them to be incurred.  See Union Elec. Co. v. 
+FERC, 890 F.2d 1193, 1198 (D.C. 1989).  Noting that in 
+creating the ESP exemption the Commission had recognized 
+that it would cause economic distortions, making non-ESP 
+users of interstate access bear disproportionate costs, ACS 
+argues that the Commission cannot now rely on the cost-
+revenue matching principle.  See ACS Br. at 34 (citing ESP 
+Exemption Order, 3 FCC Rcd at 2631, p 2).  But the Com-
+mission needn't rely on the economic cost-revenue principle.  
+All it invokes is a more modest principle of regulatory orderli-
+ness.  And because we must take the ESP exemption as 
+given, with its concomitant potential for economic distortions, 
+the principle of regulatory orderliness indeed supports the 
+Commission.
+
+     We are left, then, with the Commission matching its sepa-
+rations treatment of costs for ISP-bound calls with its classifi-
+cation of those calls for tariffing and revenue purposes.  
+
+Further, not only is the latter unchallenged here, but the 
+Commission appears to be working on a number of intercon-
+nected parts of the puzzle.  The ESP exemption itself is 
+temporary.  And the Commission has set out to reform the 
+regime to which it is an exception, the regime of interstate 
+access charges, see Order at 14, p 32;  In re Access Charge 
+Reform, First Report and Order, 12 FCC Rcd 15982, 16133, 
+p 345 (1997), and is investigating future regulatory schemes 
+for ISPs, In re Usage of Public Switched Network by Infor-
+mation Service and Internet Access Providers, Notice of 
+Inquiry, 11 FCC Rcd 21354, 21490-93, p p 311-18 (1996).  
+Further, it is fundamentally rethinking the separations pro-
+cess in light of ISPs and other market changes.  In re 
+Jurisdictional Separations Reform and Referral to the 
+Federal-State Joint Board, Notice of Proposed Rulemaking, 
+12 FCC Rcd 22120 (1997);  see also Report Filed by State 
+Members of Joint Board of Jurisdictional Separations, Pub-
+lic Notice, 14 FCC Rcd 3482 (1999).  Clearly, as we stated in 
+MCI, the Commission is entitled to substantial deference 
+"when it acts to maintain the status quo so that the objectives 
+of a pending rulemaking proceeding will not be frustrated," 
+MCI, 750 F.2d at 141, including the objective of implementing 
+large-scale revisions "in a manner that would cause the least 
+upheaval in the industry," id.  Accordingly, we cannot find 
+the Commission's interim intrastate classification of ISP-
+related costs to be arbitrary or capricious.
+
+                             *  *  *
+
+     Damages for rates filed in "streamlined tariffs".  ACS 
+next argues that 47 U.S.C. s 204(a)(3), as elaborated upon by 
+the Commission in its Streamlined Tariff Order, is a bar to 
+damages for its purported overcharges in 1998.  47 U.S.C. 
+s 204(a)(3), part of the Telecommunications Act of 1996, 
+states:
+
+     A local exchange carrier may file with the Commission a 
+     new or revised charge, classification, regulation, or prac-
+     tice on a streamlined basis.  Any such charge, classifica-
+     tion, regulation, or practice shall be deemed lawful and 
+     
+     shall be effective 7 days (in the case of a reduction in 
+     rates) or 15 days (in the case of an increase in rates) 
+     after the date on which it is filed with the Commission 
+     unless the Commission takes action under paragraph (1) 
+     before the end of that 7-day or 15-day period, as is 
+     appropriate.
+     
+Id. (emphasis added).
+
+     The terms "legal" rate and "lawful" rate come to us bur-
+dened with (or illuminated by) the Supreme Court's decision 
+in Arizona Grocery Co. v. Atchison, Topeka & Santa Fe 
+Railway Co., 284 U.S. 370 (1932), as the Commission recog-
+nized in its Streamlined Tariff Order, 12 FCC Rcd at 2181-
+82, p p 19-20 & nn.62, 65.  "Legality" mainly addresses proce-
+dural validity.  "[T]o render rates definite and certain, and to 
+prevent discrimination and other abuses," rates must be filed 
+and published, and deviation from published rates is subject 
+to criminal and civil penalties.  Arizona Grocery, 284 U.S. at 
+384.  A particular rate thus becomes "legal" when it is filed 
+with an agency and becomes effective.  But a rate's legality is 
+not enough to establish its substantive reasonableness or 
+"lawfulness."  See id. (noting that a rate's legality does not 
+abrogate "the common-law duty to charge no more than a 
+reasonable rate").  A carrier charging a merely legal rate 
+may be subject to refund liability if customers can later show 
+that the rate was unreasonable.  Id.  Should an agency 
+declare a rate to be lawful, however, refunds are thereafter 
+impermissible as a form of retroactive ratemaking.  See id. at 
+387-89.
+
+     Informed by this dichotomy, the Commission in its Stream-
+lined Tariff Order interpreted the "deemed lawful" language 
+in s 204(a)(3) as "establish[ing] a conclusive presumption of 
+reasonableness."  Streamlined Tariff Order, 12 FCC Rcd at 
+2181-82, p 19.  Therefore, "a streamlined tariff that takes 
+effect without prior suspension or investigation is conclusively 
+presumed to be reasonable and, thus, a lawful tariff during 
+the period that the tariff remains in effect."  Id. at 2182, p 19.  
+In accordance with Arizona Grocery, these "deemed lawful" 
+tariffs are not subject to refunds.  If a later reexamination 
+
+shows them to be unreasonable, the Commission's available 
+remedies will be prospective only.  Id. at 2182-83, p p 20-21.  
+As the Commission emphatically recognized, s 204(a)(3) ef-
+fected a considerable change in the regulatory regime:  be-
+fore, tariffs that became effective without suspension or inves-
+tigation were only legal (not conclusively lawful), and thereby 
+remained subject to refund remedies.  Id. at 2176, p 8 (de-
+scribing no-refund rule as differing "radically" from past 
+practice);  id. at 2182-82, p 20 (describing previous practice).
+
+     Clearly then, to the extent that the streamlined tariff 
+provisions apply to ACS tariff filings, the Commission may 
+not now impose refund liability for covered rates--even ones 
+it concludes were unreasonable.  The Commission, however, 
+argues that the streamlined tariff provisions do not apply.
+
+     First it asserts a critical distinction between rates and rates 
+of return.  Order at 23, p 57.  It claims that since the Order 
+found ACS in violation of its prescribed rate of return, the 
+fact that ACS's rates might have been deemed lawful under 
+s 204(a)(3) does not immunize it from refund liability.  In 
+support, the Commission relies on New England Telephone 
+and Telegraph Co. v. FCC, 826 F.2d 1101 (D.C. Cir. 1987), in 
+which we upheld the Commission's use of a refund remedy for 
+violations of prescribed rates of return.  Id. at 1109;  see also 
+MCI Telecommunication Corp. v. FCC, 59 F.3d 1407, 1413 
+(D.C. Cir. 1995).  Since neither s 204(a)(3) nor the Stream-
+lined Tariff Order directly addressed the issue of rate-of-
+return violations, the Commission contends that the "long-
+standing rules concerning liability for rate-of-return viola-
+tions" should be left unscathed.  Order at 25, p 59.
+
+     The Commission's position, however, overlooks the lan-
+guage of its statutory mandate.  Under the Communications 
+Act of 1934, it is empowered to ensure just and reasonable 
+rates ("charges"), not rates of return.  See 47 U.S.C. 
+s 201(a).  The Commission acquires the authority to pre-
+scribe rates of return only as a means to achieve just and 
+reasonable rates.  See Nader v. FCC, 520 F.2d 182, 203 (D.C. 
+Cir. 1975).  As we explained in Nader, rates of return are but 
+one element in the task of ratemaking, but the Commission 
+
+can prescribe them--sometimes in separate phases from the 
+other necessary elements--if doing so will help the Commis-
+sion "carry out its functions in an expeditious manner."  Id. 
+at 204.  Over the years, rate-of-return violations have devel-
+oped into proxies for finding rates unreasonable.  MCI, 59 
+F.3d at 1414 (noting that the Commission may "treat a 
+violation of [a rate-of-return] prescription as a per se violation 
+of the requirement ... that a common carrier maintain 'just 
+and reasonable' rates").  But we have never suggested that 
+rates of returns could be ends in themselves, rather than 
+means to the end of reasonable rates.
+
+     Here, of course, no proxy for (un)reasonableness is needed.  
+Since s 204(a)(3) deems ACS's rates to be lawful, the inquiry 
+ends.  This situation is quite different from New England 
+Telephone, which was decided before the passage of 
+s 204(a)(3).  In that case, the carrier's rates had gone into 
+effect with neither a Commission finding of reasonableness, 
+826 F.2d at 1105, which under Arizona Grocery would bar 
+refunds, nor a suspension of the rates and initiation of a 
+hearing, for which s 204(a) (a precursor to the current 
+s 204(a)(1)) specifically allowed refunds.  Section 204 as it 
+then read was silent as to the permissibility of refunds where 
+the Commission simply allowed the company's filed rate to go 
+into effect without suspension or initiation of a hearing, and in 
+effect New England Telephone read the silence as permitting 
+the Commission to order refunds (in certain circumstances).  
+For the cases covered by s 204(a)(3), Congress has now 
+broken the silence.
+
+     Recall that the Streamlined Tariff Order read s 204(a)(3)'s 
+"deemed lawful" language to create a conclusive bar to re-
+funds.  12 FCC Rcd at 2175-76, p p 8-9, 2181-82, p p 18-19.  
+In doing so, it reasoned that "deemed lawful" was "unambigu-
+ous" in the "consistent" interpretation of the courts.  Id. at 
+2181-82, p 18;  see also, e.g., Ohio Power Co. v. FERC, 954 
+F.2d 779, 783 (D.C. Cir. 1992) (discussing "deemed" as estab-
+lishing a conclusive presumption);  H.P. Coffee Co. v. Recon-
+struction Finance Corp., 215 F.2d 818, 822 (Emer. Ct. App. 
+1954) (reporting "almost unanimous judicial determination 
+that the word ['deemed'], when employed in statutory law, 
+
+creates a conclusive presumption").  This being so, and bear-
+ing in mind that Commission control over the rate of return is 
+under the statute merely a tool for determining the reason-
+ableness of rates, see 47 U.S.C. s 201, we find s 204(a)(3) 
+equally unambiguous in barring refunds purportedly for rate-
+of-return violations.
+
+     The Commission next suggests that s 204(a)(3) does not 
+protect the January 1998 Tariff from refunds because neither 
+of the two challenged cost allocation practices appeared in 
+that filing.  Order at 23, p 56.  (Apparently, the earliest 
+public disclosure was a March 1998 preliminary monitoring 
+report, see Anchorage Telephone Utility, Rate of Return 
+Report (Mar. 31, 1998);  Order at 5, p 9.)  Accordingly, the 
+Commission contends that these " 'practices' were not 'filed' 
+in [ACS's] January 1998 Tariff in accordance with section 
+204(a)(3)."  Order at 23, p 56.  We find this argument some-
+what mystifying.  By the Commission's own account, the 
+methods used in the January 1998 Tariff were the proper 
+ones.  Surely the Commission cannot now criticize ACS for 
+failing to use in January 1998 the new accounting methods 
+that the Commission maintains are impermissible and which 
+ACS had not yet adopted.
+
+     Alternatively, the Commission may be claiming that ACS's 
+changes in computation, implemented between the January 
+1998 Tariff and the July 1998 Tariff, were changes in "prac-
+tices" within the meaning of s 204(a)(3) (authorizing filing of 
+"a new or revised charge, classification, regulation, or prac-
+tice"), so that ACS's failure to file a tariff announcing the 
+computational change nullified any right of ACS to rely on 
+the previously filed January 1998 Tariff.  But we see no basis 
+for understanding s 204(a)(3)'s word "practice" to include 
+internal computations underlying a rate.  The Streamlined 
+Tariff Order expressly addresses filings that are hard to 
+classify as rate reductions or rate increases (thus entailing 7- 
+or 15-day waiting periods), and reads the 15-day language of 
+s 204(a)(3) broadly as covering any non-rate change in "terms 
+and conditions" or even introduction of new service;  yet it 
+nowhere suggests that any of the words used by s 204(a)(3) 
+encompasses purely internal changes in computation, as op-
+
+posed to terms or conditions of service, which, like rate 
+changes, are directly experienced by customers.  See 12 FCC 
+Rcd at 2200-03, p p 62-68.
+
+     The Commission may have been confused by its pre-
+s 204(a)(3) habit of retroactively assessing the lawfulness of a 
+rate long after it had taken effect without advance suspension 
+or initiation of hearing.  See FCC Br. at 40.  As we noted in 
+our 1995 MCI decision, it is virtually impossible to tell in 
+advance just what rate of return a given rate may yield.  59 
+F.3d at 1415-16.  In a world where the lawfulness of a rate is 
+in almost endlessly suspended animation, the Commission 
+may understandably feel entitled to receive ongoing updates 
+of a company's calculations showing the links between its 
+rates and its rate of return.  But that is not the world of 
+s 204(a)(3), where the rate itself, if filed and not suspended, 
+is "deemed lawful."
+
+     We do not, of course, address the case of a carrier that 
+furtively employs improper accounting techniques in a tariff 
+filing, thereby concealing potential rate of return violations.  
+The Order here makes no claim of such misconduct.
+
+     Finally, the Commission argues that s 204(a)(3) does not 
+protect the July 1998 Tariff because ACS failed to satisfy the 
+statutory notice period.  Order at 23, p 54.  ACS filed the 
+July 1998 Tariff on 7-days notice.  The Commission contends 
+that because the Tariff changed accounting methods, it al-
+tered "terms and conditions," and thus had to be filed on 15-
+days notice.  Order at 25-26, p p 61-63;  see also Streamlined 
+Tariff Order, 12 FCC Rcd at 2203, p 68 (discussing treatment 
+of "tariffs that change terms and conditions or apply to new 
+services even where there is no rate increase or decrease").  
+Again, nothing in the statute or even the Streamlined Tariff 
+Order supports the classification of a filing that changes only 
+underlying calculations as an "increase in rate" requiring 15-
+days notice.
+
+     We note that since s 204(a)(3) immunizes ACS's rates for 
+1998, it is unclear how its rate of return should be calculated 
+for 1997 in light of Virgin Islands Telephone Corp. v. FCC, 
+989 F.2d 1231 (D.C. Cir. 1993).  In Virgin Islands we held 
+
+that the Commission could not evaluate a carrier's rate-of-
+return using a period different from the two-year period the 
+Commission had itself prescribed.  Id. at 1238 (holding inval-
+id Commission use of a six-month monitoring period).  But 
+there the truncation of the two-year period was at the insti-
+gation of the Commission, while here it is a result of ACS's 
+use of s 204(a)(3).  As the Commission has not yet had the 
+opportunity to address rate of return violations for a period 
+cut short in this fashion, we express no opinion and remand 
+the case to the Commission for its consideration of the issue.
+
+                             *  *  *
+
+     Prejudgment Interest.  ACS lastly argues that the Com-
+mission erred in using the IRS's rate for corporate overpay-
+ment for the calculation of prejudgment interest.  ACS con-
+tends that it should instead have used the rate for "large" 
+corporate overpayments.  See Order at 29-30, p p 72-74.
+
+     Under 26 U.S.C. s 6621, the IRS calculates five rates of 
+interest, all functions of the Treasury's rate for short-term 
+borrowing.  The rates depend on whether taxes are overpaid 
+or underpaid, whether the party is an individual or a corpora-
+tion, and whether the amount is "large" (exceeds $10,000).  
+See 2002-12 I.R.B. 637, 638-43 (2002).  The Commission 
+apparently co-opts these rates for the calculation of prejudg-
+ment interest.  The following, for example, are the rates for 
+January 1, 1999 to March 31, 1999, the first period of pre-
+judgment interest charged against ACS:
+
+     Noncorporate over- and underpayment:  7%
+     
+     Corporate overpayment:  6%
+     
+     Large corporate overpayment:  4.5%
+     
+     Corporate underpayment:  7%
+     
+     Large corporate underpayment:  9%
+     
+Id.
+
+     The Commission found that the rate for non-large corpo-
+rate overpayments was most appropriate because it was "the 
+overpayment rate that the Commission has most recently 
+
+applied, despite the apparent availability of the rate for large 
+corporate overpayments."  Order at 30, p 74.  The precedents 
+offered by the Commission generally support this position.  
+See In re Time Warner Entertainment/Advance-Newhouse 
+Partnership, 14 FCC Rcd 9149, 9154 n.36 (1999);  In re 
+Section 208 Complaints Alleging Violations of the Commis-
+sion's Rate of Return Prescriptions, 12 FCC Rcd 4007, 4020-
+21 app. B (1997).  The Ameritech case, in which the FCC 
+held that the appropriate interest rate was the individual 
+overpayment rate (as opposed to the corporate overpayment 
+rate) is somewhat anomalous, but in any case offers no 
+support for ACS's proposed use of the large corporate over-
+payment rate.  See In re Long-Term Telephone Number 
+Portability Tariff Filings of Ameritech Operating Compa-
+nies, et al., 14 FCC Rcd 17,339, p p 1, 4 (1999).  Indeed, ACS 
+presents no cases in which the Commission has ever applied 
+the large corporate overpayment rate.  See Order at 30 
+n.160.
+
+     Fair enough.  But the Commission acknowledged the possi-
+bility of applying the large corporate overpayment rate, in 
+words contradicting its prior simple reasoning from prece-
+dent:
+
+     Although we might appropriately apply the rate for large 
+     corporate overpayments exceeding $10,000 when a defen-
+     dant has simply miscalculated revenue or demand and 
+     accidently exceeded its rate of return, such is not the 
+     case here.
+     
+Order at 30, p 74.  The Commission went on to justify the 
+higher rate by arguing that ACS "had at least constructive 
+knowledge" of the intrastate classification rule because "the 
+Commission had rejected other carriers' attempts to assign 
+ISP traffic to the interstate jurisdiction."  Id.  But those 
+rejections happened in 1999, well after ACS filed its 1997 
+tariffs.  See id. at 30 n.161 (cross-referencing id. at 9-10, 
+p 21).  And while the rejections did occur before ACS filed its 
+1997-98 Monitoring Report in September 1999, it is unclear 
+why a company's acquisition of "constructive knowledge" of 
+
+Commission views after its collection of disputed rates should 
+affect its culpability for that collection.
+
+     As the Commission alleges no bad faith (or quasi-bad faith) 
+in the 1997 tariff filings, we fail to understand how this case 
+differs from one in which "a defendant has simply miscalcu-
+lated revenue or demand and accidently exceeded its rate of 
+return."  Id. at 30, p 74.  We therefore remand the case for 
+further explanation on this issue.
+
+                             *  *  *
+
+     We (1) deny ACS's petition for review of the Commission's 
+classification of ISP-related traffic-sensitive costs as intra-
+state, (2) grant its petition regarding the Commission's failure 
+to honor s 204(a)(3)'s bar on refunds as to ACS's 1998 rates 
+and vacate the Order insofar as it grants damages for over-
+charges in 1998, and (3) remand the case to the Commission 
+for (a) its consideration of the treatment of a rate-of-return 
+violation for a monitoring period cut short by s 204(a)(3) 
+filings, and (b) its reconsideration of the use of the IRS rate 
+for non-large corporate overpayments for prejudgment inter-
+est.
+
+                                                            So ordered.
+
+                      

@@ -1,0 +1,367 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued January 22, 2001     Decided April 24, 2001 
+
+                           No. 00-3057
+
+                       In re:  Sealed Case
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                        (No. 99cr00196-01)
+
+     Gregory L. Poe, Assistant Federal Public Defender, argued 
+the cause for appellant.  With him on the briefs was A.J. 
+Kramer, Federal Public Defender.
+
+     Marc O. Litt, Assistant U.S. Attorney, argued the cause for 
+appellee.  With him on the brief were Wilma A. Lewis, U.S. 
+Attorney, John R. Fisher, Roy W. McLeese, III, and Mary T. 
+O'Connor, Assistant U.S. Attorneys.
+
+     Before:  Williams, Ginsburg and Sentelle, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  Appellant pleaded guilty to one 
+count of unlawful possession of a firearm in violation of 18 
+U.S.C. s 922(g)(1) and one count of unlawful possession of 
+
+cocaine in violation of 33 D.C. Code s 33-541.  The presen-
+tence investigation report found that appellant had threat-
+ened to shoot someone with the firearm, a separate felony 
+that under s 2K2.1(b)(5) of the United States Sentencing 
+Guidelines calls for a 4-level enhancement of the sentence for 
+gun possession.  Appellant objected, and the district court 
+took evidence, including some hearsay testimony.  On finding 
+by a preponderance of the evidence that appellant had indeed 
+made such a threat, the district court applied the enhance-
+ment and sentenced appellant accordingly.
+
+     Appellant challenges the court's reliance on the hearsay.  
+He also objects to the use of the preponderance standard, 
+contending that the Supreme Court's decision in Apprendi v. 
+New Jersey, 530 U.S. 466, 120 S. Ct. 2348 (2000), requires the 
+government to prove the gun threat beyond a reasonable 
+doubt.  (He makes no claim of entitlement to jury trial on the 
+gun threat.)  Neither of appellant's claims prevails.  We 
+address the Apprendi theory first.
+
+                              * * *
+
+     Apprendi had pleaded guilty to a gun possession charge 
+carrying a sentence of 5-to-10 years.  At sentencing, the trial 
+court found by a preponderance that he had committed the 
+crime with a racially biased purpose, a finding that under 
+New Jersey law allowed a 10-to-20 year sentence for the 
+underlying crime.  The court imposed a 12-year sentence.  
+In vacating the sentence, the Supreme Court held that any 
+fact (other than a prior conviction) "that increases the penalty 
+for a crime beyond the prescribed statutory maximum must 
+be submitted to a jury, and proved beyond a reasonable 
+doubt."  Apprendi, 120 S. Ct. at 2362-63 (emphasis added).
+
+     In the present case, appellant's sentence, with the enhance-
+ment, was 48 months, far less than the 10-year statutory 
+maximum for the gun possession charge.  18 U.S.C. 
+s 924(a)(2).  Thus appellant can win on his Apprendi claim 
+only if Apprendi also applies to a Guidelines enhancement 
+that results in a sentence within the statutory range.  Be-
+cause appellant failed to raise this issue at sentencing, we 
+
+review for plain error, United States v. Foster, 988 F.2d 206, 
+209 (D.C. Cir. 1993);  in fact there is no error at all.
+
+     Clearly Apprendi does not articulate a rule that takes the 
+step proposed by appellant.  In addition, the Apprendi Court 
+specifically distinguished, and found permissible, the practice 
+of authorizing "judges to exercise discretion--taking into 
+consideration various factors relating both to offense and 
+offender--in imposing a judgment within the range pre-
+scribed by statute."  120 S. Ct. at 2358 (citing Williams v. 
+New York, 337 U.S. 241, 246 (1949)).  See also id. at 2366 n.21 
+(stating that the Court took no position on the effect of the 
+decision on the Guidelines, but quoting the observation in 
+Edwards v. United States, 523 U.S. 511, 515 (1998), that 
+"petitioners' statutory and constitutional claims would make a 
+difference if it were possible to argue, say, that the sentences 
+imposed exceeded the maximum that the statutes permit.").  
+The opinion stressed that the Court had "often noted" that 
+judges had exercised this discretion "within statutory limits."  
+Id. at 2358.  In fact, the Court recently approved enhance-
+ments based on acquitted conduct when supported by a 
+preponderance of the evidence.  See United States v. Watts, 
+519 U.S. 148, 157 (1997).  Given this traditional latitude, and 
+the Apprendi Court's explicit endorsement of the tradition, it 
+is hard to see how the Court could have intended to mandate 
+the heightened standard for application of the Guidelines' 
+enhancement instructions when the resulting sentence re-
+mains within the statutory maximum.  Reading the Apprendi 
+rule to avoid such a result is consistent with the Court's 
+statement that the case addressed a "narrow issue."  Appren-
+di, 120 S. Ct. at 2354.
+
+     Appellant seeks support in the fact that the Court has 
+granted certiorari, vacated, and remanded ("GVR'd") a Guide-
+lines case for further consideration in light of Apprendi.  See 
+Clinton v. United States, 121 S. Ct. 296 (2000), remanding 
+United States v. Reliford, 210 F.3d 285 (5th Cir. 2000).  At 
+best a GVR order could add little to appellant's case.  While 
+it may indicate "a reasonable probability that the decision 
+below rests upon a premise that the lower court would reject 
+if given the opportunity for further consideration," Lawrence 
+
+v. Chater, 516 U.S. 163, 167 (1996), it does "not amount to a 
+final determination on the merits," Henry v. City of Rock 
+Hill, 376 U.S. 776, 777 (1964).  But appellant's attempted 
+inference is even weaker here.  The GVR'd case involved not 
+only Guidelines enhancements but also the application of a 
+statutory progression of minimum and maximum sentences 
+under 21 U.S.C. s 841 (providing for increasing penalties for 
+different quantities and types of drugs).  Facts that trigger 
+the higher statutory maxima provided in s 841 are clearly 
+subject to Apprendi, as we found in United States v. Fields, 
+242 F.3d 393 (D.C. Cir. 2001).  The Solicitor General sup-
+ported a grant of certiorari in Clinton only for the statutory 
+penalty issues, but the Court issued the GVR order without 
+making the distinction.  App. Br. at 22-23.  As weak as 
+inferences from a GVR may be, an inference from the Court's 
+failure to sever some issues from the remand is feebler yet.  
+We give it no weight.
+
+     The Apprendi dissenters, to be sure, attacked the line 
+drawn by the majority as "meaningless formalism," 120 S. Ct. 
+at 2388-90, and appellant argues in essence that their reading 
+reveals that the logic of Apprendi will ultimately compel the 
+Court to apply the case to Guidelines enhancements.  App. 
+Br. at 21-22.  The Apprendi dissent suggested that the 
+majority's stated rule would allow a legislature to set astro-
+nomic statutory ceilings for crimes, and then direct the courts 
+to make adjustments in accordance with facts determined 
+solely by the judge.  120 S. Ct. at 2389.  But the majority 
+responded that "structural democratic constraints exist to 
+discourage legislatures from enacting penal statutes that 
+expose every defendant ... to a maximum sentence exceed-
+ing that which is, in the legislature's judgment, generally 
+proportional to the crime."  Id. at 2363 n.16.  It is clearly not 
+for us to disregard a conceptual line that the Court majority 
+has not only stated but also stoutly defended against a 
+dissenting challenge.
+
+     We therefore join all of our sister circuits that have ad-
+dressed the issue in declining to extend Apprendi beyond its 
+stated coverage.  See United States v. Caba, 241 F.3d 98, 101 
+(1st Cir. 2001);  United States v. Garcia, 240 F.3d 180, 184 (2d 
+
+Cir. 2001);  United States v. Williams, 235 F.3d 858, 862-63 
+(3d Cir. 2000);  United States v. Kinter, 235 F.3d 192, 198-201 
+(4th Cir. 2000);  United States v. Keith, 230 F.3d 784, 786-87 
+(5th Cir. 2000);  United States v. Munoz, 233 F.3d 410, 413-14 
+(6th Cir. 2000);  Hernandez v. United States, 226 F.3d 839, 
+841 (7th Cir. 2000);  United States v. Aguayo-Delgado, 220 
+F.3d 926, 933-34 (8th Cir. 2000);  United States v. 
+Hernandez-Guardado, 228 F.3d 1017, 1027 (9th Cir. 2000);  
+United States v. Heckard, 238 F.3d 1222, 1235-36 (10th Cir. 
+2001);  United States v. Nealy, 232 F.3d 825, 829 (11th Cir. 
+2000).
+
+                              * * *
+
+     The Sentencing Guidelines provide that a sentencing judge 
+may use relevant information to resolve a dispute over a 
+factor without regard to admissibility at trial, "provided that 
+the information has sufficient indicia of reliability to support 
+its probable accuracy."  U.S.S.G. s 6A1.3 (2000).  The evi-
+dence supporting the finding of a gun threat was clearly 
+hearsay that would not have been admissible at trial.  Officer 
+Spalding of the Metropolitan Police Department gave testi-
+mony that included reports of statements made to him by the 
+complainant and a friend of hers, and (double hearsay) state-
+ments made by the complainant to another police officer 
+(Sergeant White) and relayed to Spalding.  Appellant asserts 
+that the crediting of hearsay testimony delivered by Officer 
+Spalding violates both s 6A1.3 and appellant's due process 
+rights under United States v. Tucker, 404 U.S. 443, 447 
+(1972), which holds that a sentence founded on "misinforma-
+tion of constitutional magnitude" may not be sustained.  We 
+have recently held that use of hearsay at sentencing does not 
+per se violate a defendant's rights.  See United States v. 
+Drew, 200 F.3d 871, 879 (D.C. Cir. 2000).  As we cannot 
+imagine how hearsay with "sufficient indicia of reliability to 
+support its probable accuracy" could violate Tucker's due 
+process standard, our analyses of the due process and Guide-
+lines arguments merge for the purposes of this appeal.
+
+     Appellant argues that we should review the reliability 
+determination de novo.  In support he cites Ornelas v. United 
+
+States, 517 U.S. 690, 697 (1996), prescribing such review for 
+district court findings of reasonable suspicion or probable 
+cause, and the plurality opinion in Lilly v. Virginia, 527 U.S. 
+116, 136 (1999), requiring de novo review to resolve whether 
+hearsay received in a criminal trial had the "particularized 
+guarantees of trustworthiness" that are required under the 
+Confrontation Clause for hearsay not meeting any recognized 
+exception, see Ohio v. Roberts, 448 U.S. 56, 66 (1980).  The 
+government argues for an abuse of discretion standard, on 
+the ground that the issue is basically an evidentiary ruling in 
+a phase of the proceeding where the judge exercises broad 
+discretion.  We need not decide this dispute, because even 
+under de novo review we find that the hearsay testimony has 
+sufficient indicia of reliability.
+
+     Spalding testified that he responded to a radio run for a 
+man with a gun at an apartment in Southeast Washington.  
+Spalding went to the apartment and found appellant and his 
+sister.  Appellant "appeared distraught."  Spalding asked if 
+"there was a weapon in this apartment that needs to be 
+removed," and appellant directed him to the back bedroom 
+where another officer, White, found a 12-gauge shotgun.  See 
+Transcript of Sentencing, May 9, 2000 ("Tr.") at 14-16.  After 
+the gun was secured, Spalding interviewed those present in 
+the apartment while White interviewed people on the street, 
+including the complainant.  See id. at 16-17.  Spalding con-
+ducted follow-up interviews with the complainant and, at her 
+suggestion, a friend of hers who was also present during the 
+incident but who was not interviewed at the time.  See id. at 
+20.  The friend's story was consistent with the complainant's 
+in all relevant respects.  At the sentencing hearing Spalding 
+offered the statements made to him and to White.
+
+     It appears agreed that appellant was acquainted with the 
+complainant and that she took offense when he made a lewd 
+comment about her from the apartment window as she passed 
+by on the street.  It is further agreed that appellant went 
+down to the front of the building to intercept her, and an 
+argument ensued.  Here the agreement ends.  According to 
+the complainant's version as reported by Spalding, she made 
+some (possibly threatening) reference to her boyfriend, and 
+
+appellant responded that "he would take care of her, or he 
+would take care of them."  Id. at 18.  Appellant retreated 
+into the building, while complainant remained at the locked 
+front door to the building.  See id.  Appellant then returned 
+carrying something in his right hand.  See id.  When com-
+plainant recognized the item as a gun, she began to flee but 
+then changed her mind.  See id. at 19.  As she returned 
+toward the building, her friend stepped between her and the 
+door.  See id. at 19-20.  Appellant reportedly told complain-
+ant's friend "to move out of the way, because he did not want 
+to shoot her."  Id. at 20, 21-22.  Complainant understood 
+herself to be the intended target.  See id. at 20.
+
+     To establish reliability the government notes that complain-
+ant presented her version of the facts on the night of the 
+incident, maintained it consistently in more than one later 
+interview, and testified to it before the grand jury under oath.  
+(The grand jury testimony was not admitted into evidence but 
+government counsel proffered that she had read it and that it 
+was consistent with the accounts by Spalding except as to the 
+exact words of the appellant's threat.  Gov't Br. at 20-21 
+n.15.)  See United States v. Williams, 10 F.3d 910, 914-15 
+(1st Cir. 1993) (crediting hearsay declarant who had previous-
+ly presented story under oath and therefore subjected to 
+perjury);  United States v. Corvin, 998 F.2d 1377, 1386 (7th 
+Cir. 1993) (crediting hearsay based in part on fact that 
+declarant gave statement to police at the scene "without 
+opportunity for reflection" and maintained a consistent ver-
+sion).
+
+     Appellant tries to turn the complainant's self-consistency 
+around, saying that she had an "obvious incentive to hold 
+fast" once she had told her story.  See App. Br. at 25.  
+Perhaps so, but self-consistency, in accounts given virtually in 
+the heat of the event and later with a clear exposure to 
+perjury, must still count as a plus.  Appellant further argues 
+that complainant's self-corroboration is insufficient because 
+her grand jury testimony differed from the earlier interviews.  
+But all we know is that there was a minor difference in her 
+report of the wording of the threat.  This alone is not enough 
+to undermine credibility.  Finally, appellant notes that com-
+
+plainant failed in the first instance to reveal a past sexual 
+relationship between them that might have created bias.  But 
+the testimony of co-conspirators and informers is often credit-
+ed if other indicia of reliability are present, despite the fact 
+that they may be perceived as interested parties.  See United 
+States v. Golden, 17 F.3d 735, 736 (5th Cir. 1994) ("This court 
+has previously concluded that information provided by an 
+'interested adverse witness' was sufficiently reliable.");  Unit-
+ed States v. Wise, 976 F.2d 393, 403 (8th Cir. 1992) ("[A] co-
+conspirator's prior inconsistent statement, brought out during 
+his testimony at the sentencing hearing, was sufficiently 
+reliable, when considered along with the other corroborating 
+circumstances present.") (citing United States v. Sciarrino, 
+884 F.2d 95, 97 (3rd Cir. 1989)).
+
+     The government points to other indicia of reliability besides 
+self-consistency.  First, appellant's own sister, testifying on 
+his behalf, gave testimony consistent with the complainant's 
+account at least up to the point of appellant's retreat into the 
+building.  She also acknowledged, on listening to a tape of a 
+911 call placed from the apartment, that appellant can be 
+heard screaming, "[W]here is the gun?", that he was "pretty 
+angry at this point," and that another woman at the scene 
+was repeatedly yelling at appellant "to get into the house."  
+Tr. at 75-78.  That appellant was actively in search of the 
+gun during the confrontation supports the likelihood of his 
+using it to make a threat, and the would-be pacifier's shouts 
+suggest that she at least saw a risk of violence.  Finally, the 
+account of complainant's friend matched hers in all serious 
+respects.  Although there is no non-hearsay witness precisely 
+confirming the threat, appellant has not pointed us to any 
+case that would demand it.  And it would make little sense 
+for this court to make such a demand, especially in the 
+context of judicial sentencing, as then the hearsay would be 
+largely unnecessary to the court's finding.
+
+     Appellant takes several shots at the corroborating data, but 
+most of his critiques show no more than that each item taken 
+alone falls short of independently establishing the threats.  
+Beyond that, he observes that the district court gave no 
+weight to the claim by another sister of appellant, who was 
+
+not present during the incident, that complainant had been 
+drinking and smoking marijuana laced with PCP earlier in 
+the day.  See id. at 53-54.  But the district court noted the 
+testimony, expressed grave doubt as to its credibility, and 
+said that even if true it was of little relevance, as there was no 
+doubt of her ability to identify appellant correctly.  See id. at 
+95-96.
+
+     Appellant also argues that the district court erred in dis-
+crediting the sister who was present.  The court observed 
+that it "was perfectly clear that her desire to protect her 
+brother outweighed her desire, if any, to tell the truth."  Id. 
+at 95.  The decision to disbelieve this direct witness, though 
+affecting the court's ultimate assessment of the hearsay, was 
+a garden-variety credibility issue that we could reverse only 
+for clear error.  We find none.  The sister's testimony was 
+jumbled and inconsistent and included retractions.  Further, 
+Spalding testified that neither sister had been forthcoming on 
+the night of the incident and that both seemed committed to 
+consulting with each other before talking with the police.  We 
+therefore find that the hearsay has substantial indicia of 
+reliability and that appellant has failed to undermine our 
+confidence in this assessment.
+
+     Finally, appellant claims for the first time on appeal that 
+s 6A1.3(b) of the Guidelines and Fed. R. Crim. P. 32(c)(1) 
+(which s 6A1.3(b) makes applicable to resolution of disputed 
+sentencing factors) required specific written findings relating 
+to the reliability and credibility of the hearsay declarants.  
+But we have long and consistently held that one who fails to 
+object to the absence of Rule 32(c)(1) findings waives his right 
+to challenge an enhancement on these grounds and that we 
+will uphold an enhancement supported by the record.  See, 
+e.g., United States v. Sobin, 56 F.3d 1423, 1428 (D.C. Cir. 
+1995).  In any event, because here we have reviewed the 
+issue de novo, any error would appear harmless.
+
+     The judgment of conviction and sentence are
+
+                                                              Affirmed.
+
+                                              

@@ -1,0 +1,343 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued May 10, 2002     Decided June 14, 2002 
+
+                           No. 01-1467
+
+                        AT&T Corporation, 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+       Association of Communications Enterprises, et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Peter D. Keisler argued the cause for petitioner.  With him 
+on the briefs were David W. Carpenter, James F. Benderna-
+gel Jr., Michael J. Hunseder, Mark C. Rosenblum, and Peter 
+H. Jacoby.
+
+     Richard K. Welch, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  On the brief were 
+Jane E. Mago, General Counsel, John E. Ingle, Deputy 
+Associate General Counsel, Rodger D. Citron, Counsel, Rob-
+ert B. Nicholson and Marion Jetton, Attorneys, U.S. Depart-
+ment of Justice.
+
+     Andrew D. Lipman, Russell M. Blau, David Cosson, 
+Glenn B. Manishin, Jonathan E. Canis, Timothy J. Fitzgib-
+bon, Charles C. Hunter and Catherine M. Hannan were on 
+the brief for intervenors Association of Communications En-
+terprises, et al.  Ronald J. Jarvis and Richard J. Metzger 
+entered appearances.
+
+     Before:  Ginsburg, Chief Judge, Randolph and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  In October 2001, the FCC issued 
+a declaratory ruling holding that long-distance carriers have 
+an obligation to purchase interstate switched access services 
+provided by competitive local exchange carriers.  See In re 
+AT&T & Sprint Petitions for Declaratory Ruling on CLEC 
+Access Charge Issues, 16 F.C.C.R. 19158 (2001) ("Declaratory 
+Ruling").  We now grant AT&T's petition for judicial review 
+of this ruling.
+
+                                I.
+
+     Long-distance telephone carriers (also called "interex-
+change carriers" or "IXCs") generally do not directly connect 
+to their telephone customers.  Rather, long-distance tele-
+phone traffic is ordinarily transmitted by a local exchange 
+carrier (also called a "LEC") from its originating customer to 
+an IXC.  See generally United States Tel. Ass'n v. FCC, 188 
+F.3d 521, 523-24 (D.C. Cir. 1999).  Then the "IXC carries the 
+traffic to its region of destination and hands it off to the LEC 
+there."  Id. at 524.  For example, if a customer in Washing-
+ton, D.C., who subscribes to Verizon for local service and 
+AT&T for long-distance service, calls a relative in Florida, 
+who subscribes to Bellsouth for local service, the call initially 
+
+will travel over Verizon's facilities.  Verizon will hand off the 
+call to AT&T's facilities, which will carry the call to Florida 
+before handing it off to Bellsouth's facilities for delivery to 
+the caller's relative.  AT&T will charge the caller for the 
+telephone call, and will pay "originating" access charges to 
+Verizon and "terminating" access charges to BellSouth.  
+These interstate access charges--that is, the charges paid to 
+LECs by IXCs for local origination and termination of inter-
+state long-distance telephone calls--are at the heart of this 
+case.
+
+     Until recently a single, incumbent local exchange carrier or 
+ILEC, whose access rates were regulated by the FCC, pro-
+vided all local exchange and exchange access services in a 
+particular region.  See In re Access Charge Reform, Sixth 
+Report and Order, 15 F.C.C.R. 12962, 12965-67 (2000).  The 
+Telecommunications Act of 1996 allowed a new class of com-
+petitive local exchange carriers ("CLECs") into the local 
+exchange market.  See In re Access Charge Reform, Seventh 
+Report and Order and Further Notice of Proposed Rulemak-
+ing, 16 F.C.C.R. 9923, 9931 (2001).  At first, the FCC left 
+CLECs largely free of the kind of rate regulation applied to 
+monopoly LECs.  The assumption was that CLECs' small 
+market share would not allow them to charge unreasonable 
+rates.  See id. at 9926.  This assumption later proved to be 
+incorrect with respect to access charges because CLECs 
+possess a "series of bottleneck monopolies over access to each 
+individual end user."  Id. at 9935.  If an IXC wants to 
+provide long-distance service to customers of a CLEC's local 
+service, the IXC must utilize access services from that partic-
+ular CLEC.  Id.  When "an end user decides to take service 
+from a particular LEC, that LEC controls an essential com-
+ponent of the system that provides interexchange calls, and it 
+becomes the bottleneck for IXCs wishing to complete calls to, 
+or carry calls from, that end user."  Id.  In addition, the FCC 
+requires IXCs to geographically average their rates so as to 
+spread the cost of both originating and terminating access 
+over all their end users, thereby precluding IXCs from shift-
+ing the burden of high CLEC access rates to those customers 
+
+who have chosen CLECs that charge unreasonably high 
+access rates.  Id.
+
+     Taking advantage of their control over essential compo-
+nents of the network, some CLECs began charging access 
+rates that were well above the rates ILECs charged for 
+similar services.  See id. at 9931.  While the access rates of 
+some CLECs, for example, were in excess of nine cents per 
+minute, see id., the average interstate access rate the ILECs 
+charged in 2000 was around one cent per minute.  See Brief 
+of Petitioner at 5.
+
+     Because of high access rates, AT&T decided that it did not 
+want to purchase access services from certain CLECs, and it 
+began taking steps to cut off its ties with these companies.  
+AT&T sent letters to CLECs informing them that it would 
+not submit an Access Service Request to a CLEC unless 
+AT&T and the CLEC reached an agreement regarding the 
+access rates to be charged.  Nevertheless, some CLECs 
+continued to send long-distance calls from their customers to 
+AT&T and then billed AT&T for that traffic.  They were able 
+to do so without AT&T's agreement because the CLECs first 
+routed their traffic to a tandem switch operated by the ILEC 
+in their area.  By the time the call reached AT&T's network, 
+it was intermingled with the traffic of other carriers, and 
+AT&T was unable to identify and block the traffic on a 
+CLEC-specific basis.1
+
+     In response to the CLECs' actions, AT&T filed a petition 
+with the FCC in October 1998 in which it complained that 
+numerous CLECs were charging excessive access rates and 
+refusing to negotiate with AT&T regarding those rates.  
+AT&T requested a declaratory ruling that existing law, policy 
+and regulations do not require IXCs to purchase tariffed 
+access services from CLECs.  On August 27, 1999, the FCC 
+determined that a declaratory ruling was not the proper 
+vehicle to resolve the issue.  See In re Access Charge Reform, 
+
+__________
+     1 At oral argument, AT&T's counsel stated that AT&T could have 
+developed technology to sort out unwanted CLEC traffic but that 
+this technology would have cost $35 to $40 million.  See  Transcript 
+of Proceedings at 6.
+
+Fifth Report and Order, 14 F.C.C.R. 14221 (1999).  Instead, 
+it decided to invite comments and initiate a rulemaking 
+regarding the reasonableness of CLEC access charges and 
+whether the FCC might adopt rules to address, by the least 
+intrusive means, any failure of market forces to constrain 
+CLEC access charges.2  Id.
+
+     Thereafter numerous CLECs initiated litigation in federal 
+court seeking to force IXCs, such as AT&T, to pay for access 
+charges incurred.  See Seventh Rep. & Order, 16 F.C.C.R. at 
+9932 n.56.  In one of the suits, filed January 5, 2000, in the 
+Eastern District of Virginia, the CLECs alleged that they 
+began providing originating and terminating access services 
+to AT&T in April 1997 and that AT&T paid for those services 
+at full tariffed rates until November 1998, when AT&T 
+stopped payment.  See Advamtel, LLC v. AT&T Corp., No. 
+00-643-A (E.D. Va.).  AT&T responded by denying that it 
+had ordered the services, and by asserting that in one in-
+stance, it had canceled the service.
+
+     In January 2001, the district court in Advamtel referred 
+two legal issues to the FCC, invoking the doctrine of primary 
+jurisdiction.  See Advamtel, LLC v. Sprint Communications 
+Co., 125 F. Supp. 2d 800 (E.D. Va. 2001).  The two questions 
+were:  (1) whether any statutory or regulatory constraints 
+prevent an IXC from terminating or declining access services 
+ordered or constructively ordered;  and (2) if not, what steps 
+IXCs must take to avoid ordering service or to cancel service 
+after it has been ordered.  Id. at 807.  The district court said 
+that if the FCC did not act within six months, the court would 
+proceed to trial and resolve the issues itself.  Id.
+
+__________
+     2 The FCC eventually issued a rulemaking order requiring 
+IXCs--strictly on a prospective basis after April 2001--to purchase 
+CLEC access services if the rates are set at or below a benchmark 
+rate of 2.5 cents per minute, or the rate charged by the competing 
+ILEC, whichever is higher.  See Seventh Rep. & Order, 16 F.C.C.R. 
+at 9925, 9941.  The benchmark rate, the FCC declared, will decline 
+gradually over a three-year period.  Id. at 9941.  This order is the 
+subject of a separate petition for review in this court.  See AT&T 
+Corp. v. FCC, No. 01-1244.
+
+     When the FCC failed to act within the allotted time, the 
+district court decided to reach the issues itself and ordered 
+the parties to submit briefs on the issues.  The court then 
+held that the "plain terms of s 201(a)" of the Communications 
+Act do not "impose on AT&T any duty to accept all access 
+services."  See Transcript of Motions Hearing Before Judge 
+Ellis in Advamtel, LLC v. AT&T Corp., No. 00-643-A, at 18, 
+reprinted in Joint Appendix at 342.  Under s 201(a), the 
+FCC may order, on a prospective basis after opportunity for 
+a hearing, an IXC to provide service to end users and to 
+establish connections with other carriers.  Id.  Because the 
+FCC had not held a hearing or issued a prospective order, the 
+district court entered partial summary judgment for AT&T 
+on the issue whether the FCC could compel AT&T to pur-
+chase the access services in dispute, and it set the remaining 
+issues for trial.  See Order in Advamtel, LLC v. AT&T Corp., 
+No. 00-643-A (E.D. Va. Sept. 7, 2001), reprinted in Joint 
+Appendix at 359-61.
+
+     Just weeks after the district court issued its order, the 
+FCC finally acted on the questions referred to it by the 
+district court.  See Declaratory Ruling, 16 F.C.C.R. at 19158.  
+The FCC's ruling declared that "an IXC cannot refuse to 
+exchange originating or terminating [access] traffic with the 
+CLEC."  Id. at 19163.  The FCC based its reasoning on the 
+first clause in s 201(a) of the Federal Communications Act, 
+which requires common carriers to accept a "reasonable 
+request" for service.  See 47 U.S.C. s 201(a).  According to 
+the FCC, during the period at issue, CLECs were required to 
+file tariffs and such filed tariffs were considered presumptive-
+ly lawful.  See Declaratory Ruling, 16 F.C.C.R. at 19163.  
+Therefore, IXCs must accept all requests "to complete a call 
+using CLEC access service that is tariffed at presumptively 
+reasonable rates."  Id. at 19163-64.
+
+     AT&T filed a timely petition for review of the FCC's 
+declaratory ruling, bringing the case before us.  Because the 
+FCC's interpretation of a statutory provision it administers is 
+at issue, we now review the FCC's declaratory ruling in 
+accordance with Chevron U.S.A., Inc. v. Natural Res. Def. 
+Council, 467 U.S. 837 (1984).
+
+                               II.
+
+     The question before us is whether s 201(a) permitted 
+AT&T to refuse to purchase access services from a CLEC 
+when an end user has requested that AT&T provide long-
+distance service through the CLEC.  Section 201(a) provides:
+
+     It shall be the duty of every common carrier engaged in 
+     interstate or foreign communication by wire or radio to 
+     furnish such communication service upon reasonable re-
+     quest therefor;  and, in accordance with the orders of the 
+     Commission, in cases where the Commission, after op-
+     portunity for hearing, finds such action necessary or 
+     desirable in the public interest, to establish physical 
+     connections with other carriers, to establish through 
+     routes and charges applicable thereto and the divisions of 
+     such charges, and to establish and provide facilities and 
+     regulations for operating such through routes.
+     
+47 U.S.C. s 201(a).  The first clause of s 201(a)--the clause 
+preceding the semicolon--establishes the duty of every com-
+mon carrier to furnish communication service upon "reason-
+able request."  The second clause--after the semicolon--
+provides that the FCC may order a carrier to establish a 
+through route only after opportunity for a hearing.
+
+     AT&T argues that when both clauses of s 201(a) are 
+considered together, it is clear that the first clause of s 201(a) 
+concerns a carrier's obligations to its own customers' reason-
+able requests and that the second clause concerns a carrier's 
+obligation to provide service in conjunction with other carri-
+ers.  See Brief of Petitioner at 16.  This, according to AT&T, 
+means that it must provide service to customers upon "rea-
+sonable request" only when doing so would not compel AT&T 
+to act jointly with other carriers.  See id.  When providing 
+service would require AT&T to establish a physical connec-
+tion or through route with another carrier, then AT&T as-
+serts that its duty to purchase access services from a CLEC 
+is limited to obeying any FCC order entered after the hear-
+ing provided in the second clause of s 201(a).  See id.  As 
+against this, the FCC argues that when a customer makes a 
+"reasonable request" for service, IXCs are required by the 
+
+first clause of s 201(a) to provide the service--whether or not 
+providing that service would force the IXC to act in conjunc-
+tion with other carriers without the hearing called for in the 
+second clause of s 201(a).
+
+     We reject the FCC's interpretation.  The language of 
+s 201(a) is clear:  if the FCC wants to compel AT&T to 
+establish a through route with another carrier, then the FCC 
+must follow the procedures specified in the second clause of 
+s 201(a).  In ruling that AT&T was obligated to purchase 
+access services from CLECs, the FCC sought--without first 
+having followed the procedures specified in the second clause 
+of s 201(a)--to compel AT&T to establish a through route.
+
+     It cannot be that a CLEC's demand to an IXC for a 
+physical connection or a through route is a request by the 
+CLEC's customer for such service under the first clause of 
+s 201(a).  This would allow the first clause in s 201(a) to 
+render the second clause meaningless.  Yet all parts of a 
+statute are to be given effect, see Weinberger v. Hynson, 
+Wescott & Dunning, 412 U.S. 609, 633 (1973), as the FCC 
+recognized long ago in regard to s 201(a).  See American 
+Tel. & Tel. Co. & the Western Union Tel. Co., 5 Rad. Reg. 
+(P & F) 639, 659 (1949) (explaining that if a customer could 
+effect the establishment of a through route, this "would 
+permit the customer to do at will what this Commission 
+cannot do without a finding, after opportunity for a hearing, 
+that such action is 'necessary or desirable in the public 
+interest,' and would result in a clear circumvention of the 
+Congressional intent expressed in s 201(a) of the Act.").
+
+     The FCC gave the second clause of s 201(a) no more than 
+one cursory paragraph's worth of attention in its declaratory 
+ruling.  See Declaratory Ruling, 16 F.C.C.R. at 19164-65.  
+On appeal the FCC offers three newly-discovered reasons 
+why the second clause does not change its analysis.  First, 
+the FCC argues that AT&T voluntarily connected with the 
+CLECs and thus there was no need for the FCC to decide 
+whether AT&T had a duty to connect under the second clause 
+of s 201(a).  See Brief for Respondents at 27.  Second, the 
+FCC asserts that the Specialized Common Carrier rulemak-
+
+ing proceeding requires LECs and IXCs to interconnect their 
+networks.  See id. at 28 (citing Specialized Common Carrier, 
+29 F.C.C.2d 870 (1971)).  Third, the FCC claims that 
+s 251(a)(1) of the Act, which requires telecommunications 
+carriers to interconnect with the facilities and equipment of 
+other carriers, imposes an interconnection duty on AT&T. See 
+Brief for Respondents at 31 (citing 47 U.S.C. s 251(a)(1)).  
+None of these three assertions were relied upon--or for that 
+matter even discussed--in the FCC's declaratory ruling, and 
+we therefore will not consider them.  See SEC v. Chenery, 
+318 U.S. 80, 88 (1943).
+
+     The petition for review is granted.  The declaratory ruling 
+of the FCC is vacated.
+
+                                                                 So ordered.
+
+        

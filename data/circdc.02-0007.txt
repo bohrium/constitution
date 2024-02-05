@@ -1,0 +1,685 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued October 4, 2001   Decided January 18, 2002 
+
+                           No. 00-1371
+
+       National Rural Electric Cooperative Association and 
+               American Public Power Association, 
+                           Petitioners
+
+                                v.
+
+               Securities and Exchange Commission, 
+                            Respondent
+
+            American Electric Power Company, Inc. and 
+                         Paul S. Davis, 
+                           Intervenors
+
+             Petition for Review of an Order of the 
+                Securities and Exchange Commission
+
+     Scott Hempling argued the cause for petitioners.  With 
+him on the briefs was David S. Lapp.  Richard B. Geltman 
+entered an appearance.
+
+     John W. Avery, Special Counsel, Securities & Exchange 
+Commission, argued the cause for respondent.  With him on 
+the brief was Eric Summergrad, Deputy Solicitor.
+
+     J. A. Bouknight Jr. argued the cause for intervenor.  With 
+him on the brief were Samuel T. Perkins, Cynthia L. Taub 
+and Niki Kuckes.  Douglas G. Green entered an appearance.
+
+     Before:  Edwards, Henderson and Tatel, Circuit Judges.  
+Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  The Securities and Exchange Com-
+mission authorized American Electric Power Company, which 
+provides electricity services in a number of eastern and 
+midwestern states, to acquire a company that provides elec-
+tricity services in several distant southern and southwestern 
+states. Challenging the Commission's decision, two electric 
+utility associations argue that the post-acquisition company 
+will violate section 10 of the Public Utility Holding Company 
+Act, 15 U.S.C. s 79j, which requires that any registered 
+public-utility holding company comprise a "single integrated 
+... system" that is "physically interconnected or capable of 
+physical interconnection" and "confined in its operations to a 
+single area or region," id. ss 79j(c)(1);  79k(b)(1);  
+79b(a)(29)(A).  Because the Commission failed to explain its 
+conclusions regarding the interconnection requirement, and 
+because it failed to justify its finding that the proposed 
+acquisition will satisfy the single-area-or-region requirement, 
+we vacate the Commission's order and remand for further 
+proceedings consistent with this opinion.
+
+                                I.
+
+     Congress passed the Public Utility Holding Company Act 
+of 1935, 15 U.S.C. ss 79a et seq. ("PUHCA"), to "protect 
+consumers and investors from abuses associated with [inter-
+state] public utility holding companies," Envtl. Action, Inc. v. 
+SEC, 895 F.2d 1255, 1258 (9th Cir. 1990).  Many of these 
+companies had developed highly pyramidal structures with a 
+few not always responsible shareholders of the top holding 
+company exercising excessive control over the underlying 
+
+operating companies.  See Am. Power & Light Co. v. SEC, 
+329 U.S. 90, 100-03 (1946).  To ensure that "the growth and 
+extension of holding companies" bear some "relation to econo-
+my of management and operation or ... integration and 
+coordination of related operating properties," 15 U.S.C. 
+s 79a(b)(4), the Act requires most interstate holding compa-
+nies to register with the Securities and Exchange Commis-
+sion, id. s 79e, and charges the Commission with reviewing 
+all transactions in which a registered holding company pro-
+poses to acquire securities or utility assets of another holding 
+or public-utility company, id. s 79j.
+
+     Although PUHCA states that the Commission "shall ap-
+prove" most proposed acquisitions, id. s 79j(b), it details 
+several conditions barring approval, two of which are relevant 
+here.  First, the Act prohibits approval of an acquisition if the 
+Commission finds that the resulting holding company will no 
+longer constitute a single "integrated public-utility system," 
+id. ss 79j(c)(1);  79k(b)(1), defined elsewhere as--
+
+     [A] system ... whose utility assets, whether owned by 
+     one or more electric utility companies, are physically 
+     interconnected or capable of physical interconnection and 
+     which under normal conditions may be economically op-
+     erated as a single interconnected and coordinated system 
+     confined in its operations to a single area or region, in 
+     one or more States, not so large as to impair (considering 
+     the state of the art and the area or region affected) the 
+     advantages of localized management, efficient operation, 
+     and the effectiveness of regulation.
+     
+Id. s 79b(a)(29)(A).  The Commission has broken this lan-
+guage down into four separate prerequisites for approval of a 
+proposed acquisition:  (1) The post-acquisition public-utility 
+system's assets must be "physically interconnected or capable 
+of physical interconnection" (the interconnection require-
+ment);  (2) the assets must be capable of economic operation 
+"as a single interconnected and coordinated system" (the 
+coordination requirement);  (3) the system itself must be 
+confined to a "single area or region" (the region require-
+
+ment);  and (4) the system "must not be so large as to impair 
+... the advantages of localized management, efficient opera-
+tion, and the effectiveness of regulation" (the localization 
+requirement).  Electric Energy, Inc., PUHCA Release No. 
+13871, 38 S.E.C. 658, 668 (Nov. 28, 1958).  The second 
+relevant PUHCA condition prohibits the Commission from 
+approving an acquisition unless the Agency finds that the 
+proposed transaction will "serve the public interest by tend-
+ing towards the economical and efficient development of an 
+integrated public-utility system."  15 U.S.C. s 79j(c)(2).  To 
+win Commission approval, then, a proposed acquisition must 
+not only meet the four single-integrated-system require-
+ments, but do so in a way that produces net " 'efficiencies and 
+economies.' "  Wisconsin's Envtl. Decade, Inc. v. SEC, 882 
+F.2d 523, 528 (D.C. Cir. 1989) (quoting Union Elec. Co., 
+PUHCA Release No. 18368, 45 S.E.C. 489, 494 (Apr. 10, 
+1974)).
+
+     The proposed acquisition at issue here will merge Central 
+and South West Corporation's ("CSW") four wholly-owned 
+operating subsidiaries, which currently supply power to parts 
+of Arkansas, Louisiana, Oklahoma, and Texas, with Interve-
+nor American Electric Power Company's ("AEP") wholly-
+owned electric generating company and seven wholly-owned 
+electric operating utilities, which supply power to parts of 
+Indiana, Kentucky, Michigan, Ohio, Tennessee, Virginia, and 
+West Virginia.  Under the terms of the agreement, a newly-
+formed AEP subsidiary will merge with and into CSW.  CSW 
+will survive the merger, but it and most of its subsidiaries will 
+become subsidiaries of the post-acquisition company--so-
+called "New AEP."  With more than thirty-seven thousand 
+megawatts of generating capacity, New AEP will serve close 
+to five million customers in eleven states.
+
+     AEP and CSW's systems are neither contiguous nor physi-
+cally interconnected--indeed, at their closest point, they are 
+separated by hundreds of miles.  See Appendix A;  see also 
+AEP, Service Territories, at http://www.csw.com/about/ 
+territory.htm (last visited Nov. 8, 2001).  The companies 
+propose to interconnect their systems by means of a 250-
+megawatt, unidirectional transmission service contract with 
+
+Ameren Corporation.  This "contract path" will enable New 
+AEP's western zone (the current CSW system) to make use 
+of some surplus generating capacity--that is, generating ca-
+pacity over and above firm load obligations--in the eastern 
+zone (the current AEP system).  The contract extends for 
+four years (from June 1, 1999 to May 31, 2003), after which 
+New AEP may renew, though potentially at greater cost.  
+See Resp't's Br. at 35.  AEP and CSW apparently expect that 
+there will be fewer "opportunit[ies] to transfer energy eco-
+nomically" from west to east than from east to west, but when 
+and if such opportunities arise, New AEP proposes to make 
+use of its rights under pre-existing transmission service 
+agreements.  Am. Elec. Power Co., Inc. & Central S. W. 
+Corp., PUHCA Release Nos. 35-27186, 70-9381, 2000 SEC 
+LEXIS 1227, at *61 n.79, *65-66 (June 14, 2000) ["Approval 
+Order"].
+
+     The proposed acquisition requires the approval of several 
+regulatory agencies in addition to the Securities and Ex-
+change Commission.  The Federal Energy Regulatory Com-
+mission granted conditional approval in March 2000 provided 
+that AEP and CSW reduce the merger's potential anticom-
+petitive effects by divesting 550 megawatts of generating 
+capacity and "limit[ing] their ability to contract for firm 
+transmission capacity from [east to west] to 250" megawatts.  
+Am. Elec. Power Co., Cent. & S. W. Corp., Docket Nos. 
+EC98-40-000, ER98-2770-000, ER98-2786-000, 90 F.E.R.C. 
+p 61,242, 61776 (2000) (reversing in part, affirming in part, 
+vacating in part, and modifying FERC's initial decision);  see 
+also Wabash Valley Power Ass'n v. FERC, 268 F.3d 1105 
+(D.C. Cir. 2001) (denying petition for review).  The public 
+utility commissions of the affected states also considered the 
+proposed merger, and most explicitly approved side agree-
+ments among AEP, CSW, and third parties, all drafted to 
+ensure that ratepayers realize benefits from the transaction.  
+Approval Order, 2000 SEC LEXIS 1227, at *23-24 & n.28.
+
+     On June 14, 2000, the Securities and Exchange Commission 
+added its voice to the chorus approving the proposed acquisi-
+tion.  Id. at *113.  Dismissing concerns expressed by four 
+intervenors--a coalition of utility stakeholders and a group of 
+
+consumer counselors, as well as Petitioners in this case, the 
+American Public Power Association and the National Rural 
+Electric Cooperative Association--the Commission found that 
+the merger satisfies PUHCA's requirements.  Id. at *44-109.  
+Specifically, the Commission concluded that the contract path, 
+though both temporary and unidirectional, "is adequate to ... 
+satisfy the interconnection requirement" because it will per-
+mit "the economic transfer of energy from one zone of the 
+New AEP System ... to another," generating "net-fuel relat-
+ed savings of approximately $98 million over the ten-year 
+period following the merger."  Id. at *50-51.  Moreover, the 
+Commission observed, AEP has "committed" either "to renew 
+the [c]ontract [p]ath" or to find another way to satisfy the 
+interconnection requirement after 2003.  Id. at *48.
+
+     With respect to the statute's coordination requirement, the 
+Commission conceded that New AEP's structure will "differ 
+in some respects from the traditional ... utility model," in 
+which generating capacity is centrally pooled and dis-
+patched--presumably because New AEP's east and west 
+zones will continue to satisfy their respective power demands 
+separately, transferring power from east to west only when 
+"one [z]one has surplus capacity available for sale and the 
+other has insufficient capacity."  Id. at *54-55, 61.  The 
+Commission was unconcerned by this lack of centralization, 
+however, because it viewed "unbundling of generation and 
+transmission" to be "the direct result of [government] efforts 
+to promote a competitive energy market--a goal consistent 
+with" PUHCA's purpose of ensuring that the growth of 
+holding companies fosters economy of management and oper-
+ation.  Id. at *75.
+
+     The Commission next addressed PUHCA's region require-
+ment.  Finding that recent technological advances have "re-
+duced the relative importance of ... geographical limitations" 
+on utility systems, the Commission declined to read this third 
+requirement as imposing any independent conditions on the 
+proposed merger.  Id. at *83.  Rather, the Commission found 
+that the merger satisfies PUHCA's other requirements--
+including interconnection and coordination (discussed above) 
+and localization (discussed below)--and then concluded, "[i]n 
+
+view of these considerations, ... the New AEP System will 
+operate in a 'single area or region.' "  Id. at *85.
+
+     Turning to the fourth single-integrated-system require-
+ment, localization, the Commission observed that "[v]arious 
+state regulators have ... demonstrated that they can effec-
+tively regulate the New AEP System," in that they have 
+already imposed "an extensive list of service quality stan-
+dards on the New AEP System Operating Companies that 
+operate within their states."  Id. at *94.  Additionally, the 
+Commission indicated that most affected states have imposed 
+conditions on the proposed merger, under which the states 
+retain the ability to review the activities of New AEP and its 
+affiliates and subsidiaries.  Id. at *94-95.  Noting that it has 
+historically "found that effectiveness of state regulation is not 
+impaired where state regulators have the same jurisdiction 
+before and after a merger," id. at *95 (citing Conectiv, Inc., 
+PUHCA Release Nos. 35-26832, 70-9069, 60 S.E.C. Docket 
+1260 (CCH) (Feb. 25, 1998)), and also citing its conclusion 
+(discussed below) that the AEP-CSW merger will generate 
+efficiencies, id. at *99, the Commission concluded that New 
+AEP will not be "so large as to impair ... the advantages of 
+localized management, efficient operation, and the effective-
+ness of regulation," PUHCA, 15 U.S.C. s 79b(a)(29)(A).
+
+     Finally, the Commission considered PUHCA's requirement 
+that any "acquisition of securities or utility assets of a public 
+utility or holding company" must itself tend "towards the 
+economical and efficient development of an integrated public-
+utility system."  Id. s 79j(c)(2).  Referring to AEP and 
+CSW's projection that the merger will save "almost $2 billion 
+of net non-fuel cost[s]" and "approximately $98 million" of 
+fuel-related costs over the first ten years, the Commission 
+indicated that it had "reviewed the assumptions and method-
+ologies" underlying the projection and found them "reason-
+able and consistent with ... precedent."  Accordingly, the 
+Commission determined that the merger will produce suffi-
+cient "economies and efficiencies" to pass muster under 
+
+PUHCA.  Approval Order, 2000 SEC LEXIS 1227, at *100-
+04.
+
+                               II.
+
+     Reiterating many of the substantive arguments they raised 
+during the Commission's review process, Petitioners claim 
+that the Commission erred in finding that the proposed 
+acquisition satisfies PUHCA's interconnection and region re-
+quirements and in accepting AEP and CSW's projections 
+regarding the cost savings that will result from the merger.  
+Petitioners also argue that the Commission's "decision not to 
+hold evidentiary hearings as part of its review of the applica-
+tion for approval of the acquisition was arbitrary and capri-
+cious because the acquisition raised factual issues substantial-
+ly in dispute."  Pet'rs' Br. at 2.  In considering these claims, 
+we follow the familiar rules of administrative review, accept-
+ing the Commission's findings of fact as long as they are 
+supported by "substantial evidence," Steadman v. SEC, 450 
+U.S. 91, 97 n.12 (1981) ("Commission findings of fact are 
+conclusive for a reviewing court if supported by substantial 
+evidence." (internal citations omitted)), and affirming its con-
+clusions of law unless they are "arbitrary, capricious, an 
+abuse of discretion, or otherwise not in accordance with law," 
+5 U.S.C. s 706(2)(A).  See, e.g., Wonsover v. SEC, 205 F.3d 
+408, 412 (D.C. Cir. 2000) (applying this standard).
+
+                   Interconnection Requirement
+
+     Petitioners have two principal concerns regarding the Com-
+mission's application of the statute's interconnection require-
+ment:  first, that the companies' "temporary, one-way trans-
+mission contract" is "too small and too tentative" to satisfy 
+PUHCA, and second, that the Approval Order departed from 
+Commission precedent without adequate explanation.  Pet'rs' 
+Br. at 23-24, 33-35.  In support of their first point, Petition-
+ers contend that AEP and CSW's contract with Ameren 
+permits the transfer of only a "[t]oken [a]mount" of power, in 
+that the 250-megawatt contract path "represents just 0.68 
+percent" of New AEP's combined 37,000 megawatts of gener-
+ating capacity.  Id. at 24-25.  Moreover, they argue that the 
+unidirectional contract path cannot satisfy PUHCA because 
+the Act requires interconnection--a term that, to Petitioners, 
+
+implies two-way transfers of power.  Petitioners also point 
+out that AEP and CSW have never said how they plan to 
+satisfy the interconnection requirement after 2003.  The com-
+panies' promise to devise an alternative method of intercon-
+necting their systems if they opt not to renew the contract 
+path is, according to Petitioners, inadequate because " 'sepa-
+rate properties not interconnected must be capable of physi-
+cal interconnection ... at the time the Commission considers 
+the matter and not at some indefinite future time.' "  Id. at 27 
+(quoting Gen. Pub. Utils. Corp., PUHCA Release No. 10982, 
+32 S.E.C. 807, 825 (Dec. 28, 1951)).  Finally, Petitioners 
+invoke our decision in Madison Gas & Elec. v. SEC, 183 F.3d 
+1337, 1340 (D.C. Cir. 1999), for the proposition that a trans-
+mission contract cannot, in and of itself, support a finding 
+that utility assets are "physically interconnected or capable of 
+physical interconnection," PUHCA, 15 U.S.C. s 79b(a)(29)(A).
+
+     We are unpersuaded by Petitioners' characterization of the 
+contract path as too "small" and "tentative."  Although we 
+recognize that 250 megawatts represents a small percentage 
+of New AEP's total generating capacity, Petitioners point to 
+no statutory language, legislative history, or case law requir-
+ing that physically separated zones of a power system be 
+interconnected by lines capable of transmitting any specific 
+percentage of the power generated in each zone.  Moreover, 
+the Commission said it could order New AEP to divest one of 
+the systems if the company fails to devise a satisfactory 
+method of integrating its utilities after the contract with 
+Ameren expires.  Resp't's Br. at 35-36.
+
+     Nor are we swayed by Petitioners' reference to Madison 
+Gas.  All we said there was that a power system's "showing 
+of a current transmission line contract and of a plan to build 
+two tie-lines ... before the end of the contract term" ade-
+quately supported the Commission's finding that the system's 
+two zones were "capable of physical interconnection."  Madi-
+son Gas, 168 F.3d at 1340 (internal citations omitted).  This 
+in no way implies that the transmission line contract would be 
+insufficient, in and of itself, to satisfy PUHCA.  On the 
+contrary, just before approving the Commission's intercon-
+nection finding we observed that "[t]he SEC has reasonably 
+
+construed [the interconnection] requirement to be satisfied in 
+cases past on the basis of contractual rights to use a third-
+party's transmission lines or if physical interconnection is 
+contemplated or ... possible within the reasonably near 
+future."  Id. (internal citations omitted) (emphasis added).  
+Thus, nothing in Madison Gas precludes a finding that AEP 
+and CSW's contract with Ameren meets PUHCA's intercon-
+nection requirement.
+
+     We are, however, puzzled by the Commission's acceptance 
+of a unidirectional contract path to "interconnect" AEP and 
+CSW.  Webster's Dictionary defines "interconnection" as 
+"connection between two or more:  mutual connection"--a 
+definition that seems, on its face, to require two-way transfers 
+of power.  Webster's Third New International Dictionary 
+1177 (1993) (emphasis added).  In addition, PUHCA itself 
+requires that the interconnected system be one "which under 
+normal conditions may be economically operated as a single 
+interconnected and coordinated" whole.  15 U.S.C. 
+s 79b(a)(29)(A).  Absent some explanation from the Commis-
+sion, we cannot understand how a system restricted to unidi-
+rectional flow of power from one half to the other can be 
+operated in such a manner.
+
+     Moreover, we agree with Petitioners that the Commission 
+failed to follow its own prior reasoning regarding interconnec-
+tion of distant utilities.  Petitioners point to several prior 
+orders in which the Commission expressly indicated that 
+"contract rights cannot be relied upon to integrate two dis-
+tant utilities."  WPL Holdings, Inc., PUHCA Release No. 35-
+26856, 53 S.E.C. 501, 517 n.39 (Apr. 14, 1998) (emphasis 
+added) (concluding that "the distances at issue in this mat-
+ter"--between cities in Iowa and Wisconsin--are "within the 
+parameters of the previous decisions"), aff'd, Madison Gas & 
+Elec., 183 F.3d 1337;  see also UNITIL Corp., PUHCA 
+Release No. 35-25524, 50 S.E.C. 961, 967 n.30 (Apr. 24, 1992) 
+("[C]ontract rights cannot be relied upon to integrate two 
+distant utilities.");  Northeast Utils., PUHCA Release Nos. 
+35-25221, 70-7695, 50 S.E.C. 427, 449 n.75 (Dec. 21, 1990) 
+(indicating that "the use of a third party cannot be relied 
+upon to integrate two distant utilities").  Although these 
+
+statements were dicta, Petitioners argue that they express a 
+clear policy from which the Commission departed in approv-
+ing the AEP-CSW merger.  We agree.
+
+     As Petitioners point out, the Commission has clearly indi-
+cated that a contract path cannot alone integrate distant 
+utilities.  We think those statements sufficiently explicit to 
+obligate the Commission to provide some rationale for its 
+current contrary view.  "[A]n agency changing its course 
+must supply a reasoned analysis indicating that prior policies 
+and standards are being deliberately changed, not casually 
+ignored."  Greater Boston Tel. Corp. v. FCC, 444 F.2d 841, 
+852 (D.C. Cir. 1970).  This is particularly true here, since the 
+few cases in which the Commission has accepted transmission 
+contracts as evidence of interconnection, unlike this case, 
+have involved contracts for transmission of large amounts of 
+power in both directions between relatively closely situated 
+utility assets.  E.g., Conectiv, Inc., 66 S.E.C. Docket at 1266 
+(stating that "the physical interconnection requirement of the 
+Act can be satisfied on the basis of contractual rights to use 
+third parties' transmission lines, when the merging companies 
+are members of a tight power pool"--that is, a group of 
+utilities that coordinate their planning and operation to im-
+prove economy and reliability); UNITIL Corp., 50 S.E.C. at 
+966 (deciding that contract rights were adequate to intercon-
+nect utilities, both because the utilities were part of a tight 
+power pool, and because they were located in New England, a 
+small area with "unique geographical characteristics");  Cen-
+terior Energy Corp., PUHCA Release Nos. 35-24073, 
+70-7149, 49 S.E.C. 472, 478 (Apr. 29, 1986) (approving use of 
+third-party transmission lines to interconnect two formerly 
+separate utility systems in light of a study showing that the 
+transmission lines would be adequate even in an emergency 
+in which one of the systems had to meet 100% of the other 
+system's power demand).
+
+     Recognizing the apparent conflict between its past and 
+present views on the interconnection issue, the Commission 
+rationalized its approval of the contract path in this case as 
+follows:
+
+     There is dicta in a series of our decisions stating that 
+     contract rights cannot be relied on to "integrate" "dis-
+     
+     tant" utility properties....  We do not believe that these 
+     statements mean that a contract path might not meet the 
+     interconnection requirement because of its length.  
+     These earlier cases suggest that the reason a contract 
+     path might not "integrate" two distant utilities was due 
+     to the "single area or region" requirement....  We did 
+     not hold in any of these prior cases that the length of a 
+     contract path was relevant in determining whether the 
+     interconnection requirement ... was met.  Such an ap-
+     proach would be inappropriate in view of the express 
+     language of [PUHCA] as well as technological and com-
+     mercial developments that have made feasible the trans-
+     mission of power over longer distances.
+     
+Approval Order, 2000 SEC LEXIS 1227, at *49-50.  We 
+perceive only one rational interpretation of this peculiar 
+paragraph:  Although a long transmission line may be suffi-
+cient to interconnect two distant utilities, the length of the 
+line--that is, the distance between the connected utilities--
+may violate PUHCA's region requirement.  Yet the Commis-
+sion concedes that it failed explicitly to consider the length of 
+the contract path in deciding whether New AEP meets the 
+region requirement.  Resp't's Br. at 37 n.24.  The Commis-
+sion cannot first distinguish its prior orders on the grounds 
+that a factor considered in those orders is relevant to one part 
+of its analysis but not another, and then ignore that factor 
+altogether.  There may be a satisfactory explanation for the 
+Commission's change in course, but it is not evident from the 
+Approval Order now before us.
+
+                        Region Requirement
+
+     Challenging the Commission's determination that the pro-
+posed merger satisfies PUHCA's region requirement, Peti-
+tioners make three arguments:  No industry standard sup-
+ports the conclusion that AEP and CSW are in the same 
+"region";  the Commission failed to make independent eviden-
+tiary findings to support that conclusion;  and finally, the 
+Commission erred in deciding that a proposed acquisition that 
+meets the other single-integrated-system requirements is 
+
+necessarily also confined to a single region.  We agree with 
+the Commission that the first argument "read[s] into [PUH-
+CA] additional constraints that are not imposed by" the 
+statute's language.  Resp't's Br. at 30.  Nothing in the Act 
+requires, as Petitioners imply, that a utility system's bound-
+aries conform to those of the "reliability regions" created by 
+the voluntary North American Reliability Council ("NARC").  
+Nor does the Act mention FERC's "regional transmission 
+organizations."  While the Commission could potentially 
+point to boundaries identified by NARC or FERC as evi-
+dence that a utility system is confined to a single region, 
+Petitioners may not point to such boundaries as evidence that 
+a utility system is not so confined.  The Commission may 
+make its own decision regarding the meaning of the region 
+requirement;  NARC and FERC actions have no precedential 
+value for that decision.
+
+     That said, we agree with Petitioners that the Commission's 
+decision that New AEP meets the region requirement cannot 
+withstand even the most deferential review, both because the 
+Commission failed to make any evidentiary findings on the 
+issue and because it erroneously concluded that a proposed 
+acquisition that satisfies PUHCA's other requirements also 
+meets the statute's region requirement.  On the first point, 
+we note that prior Commission decisions addressing the 
+region requirement have analyzed such factors as the geogra-
+phy and socioeconomic characteristics of the areas covered by 
+the system.  In Middle West Corp., for example, the Commis-
+sion stated:
+
+     To find that an aggregation of the properties of South-
+     western Light, Public Service and Southwestern Gas 
+     constitutes a single system, we must find that an area 
+     400 miles north-to-south and 350 miles east-to-west em-
+     braces but a single area or region.  In well-settled and 
+     economically developed territory such a finding might be 
+     impossible.  But the geographical characteristics of the 
+     territory encompassed by this sector of properties are 
+     fairly homogeneous.  The area is more or less typical 
+     throughout, relying largely on oil and other minerals, 
+     
+     agriculture, and relatively light industry for its subsis-
+     tence.  The rendition of satisfactory service in arid and 
+     sparsely-settled areas frequently requires the stretching 
+     of lines over long distances to connect small population 
+     centers with generating facilities strategically placed 
+     near suitable water and fuel supplies.  In view of these 
+     facts we believe that the properties in question lie within 
+     a single area or region.
+     
+PUHCA Release No. 4846, 15 S.E.C. 309, 336 (Jan. 25, 1944).  
+Similarly, in American Natural Gas Co., the Commission 
+listed several factors that could be relevant to a finding that 
+different service areas are located in "a common economic 
+and geographic region," including "industrial, marketing and 
+general business activity, transportation facilities, and gas 
+utility requirements."  PUHCA Release No. 15620, 43 S.E.C. 
+203, 206 (Dec. 12, 1966).
+
+     The Approval Order in this case considers none of these 
+factors.  Never mentioning whether the territories served by 
+AEP and CSW have common geographic or geologic traits, 
+the order's discussion of the region requirement rests on two 
+repeated assertions:  that the terms "area" and "region" are 
+"by their nature ... susceptible of flexible interpretation," 
+e.g., Approval Order, 2000 SEC LEXIS 1227, at *81, 84, and 
+that "recent institutional, legal and technological changes 
+have reduced the relative importance of geographical limita-
+tions" on utility systems, id. at *83, 87, 92.  From these 
+statements, which we accept as true, the Commission some-
+how concludes that it may reach an affirmative decision 
+regarding the region requirement without any substantive 
+discussion of the noncontiguous and seemingly dissimilar 
+regions served by New AEP.
+
+     In fact, as Petitioners' final argument stresses, the Com-
+mission's Approval Order ultimately determines that New 
+AEP satisfies the region requirement not because of any 
+identified similarities between the areas currently served by 
+AEP and those served by CSW, but instead because New 
+AEP satisfies all other PUHCA requirements:
+
+     As described above, the New AEP System will be inter-
+     connected and susceptible of economic and coordinated 
+     operation....  We find below that the size of the New 
+     AEP System will not impair efficient operation, localized 
+     management or effective regulation and that the Merger 
+     will result in economies and efficiencies....  In view of 
+     these considerations, we find that the New AEP System 
+     will operate in a single area or region.
+     
+Id. at *85 (internal quotations omitted).  This analysis con-
+flicts with PUHCA's express requirement that an electric 
+utility system be "confined in its operations to a single area or 
+region ... not so large as to impair ... the advantages of 
+localized management, efficient operation, and the effective-
+ness of regulation."  15 U.S.C. s 79b(a)(29)(A).  The Com-
+mission applies the requirement as if it did not include the 
+word "single" but instead read:  "confined to an area or areas 
+not so large as to impair...."  Technological improvements 
+may well justify ever-expanding electric utilities, but PUHCA 
+confines such utilities to a "single" area or region.
+
+     In support of its approval of the merger in this case, the 
+Commission cites its decision in North American Co., 
+PUHCA Release No. 35-5657, 18 S.E.C. 459 (Mar. 13, 1945), 
+for the principle that a "flexible approach" to interpreting the 
+region requirement "is not new," Resp't's Br. at 26-27.  But 
+that case involved an integrated gas rather than electric 
+system--a highly relevant detail, for even in 1945, PUHCA 
+specifically provided that "gas utility companies deriving nat-
+ural gas from a common source of supply may be deemed to 
+be included in a single area or region." 15 U.S.C. 
+s 79b(a)(29)(B) (1940).  Thus, the statute itself expressly 
+supported the Commission's conclusion that the two natural 
+gas companies in question lay "in a single area within the 
+meaning of the Act" despite the "wide intervening territory 
+lying between them."  North American Co., 18 S.E.C. at 462-
+63.  No comparable statutory language supports the Commis-
+sion's parallel decision regarding the electric utilities at issue 
+in this case.  See 15 U.S.C. s 79b(a)(29)(A).
+
+     The Commission may well be right that PUHCA's region 
+requirement is outdated in light of recent technological ad-
+vances.  In view of the statute's plain language, however, only 
+Congress can make that decision.  In fact, a pending bill 
+would repeal PUHCA, but it has not yet become law.  See 
+Public Utility Holding Company Act of 2001, S. 206, 107th 
+Cong. s 4 (2001) (last action in May 2001).  In the meantime, 
+the Commission may not interpret the phrase "single area or 
+region" so flexibly as to read it out of the Act.  The Commis-
+sion may have some legitimate basis for concluding that 
+AEP's service territories in Indiana, Kentucky, Michigan, 
+Ohio, Tennessee, Virginia, and West Virginia fall in the same 
+"region" as CSW's service territories in Arkansas, Louisiana, 
+Oklahoma, and Texas, but we cannot find it in the record 
+before us.
+
+                    Economies and Efficiencies
+
+     This brings us finally to Petitioners' arguments regarding 
+PUHCA's requirement that a holding company's acquisition 
+of securities or utility assets of another holding or public-
+utility company produce net "economies and efficiencies."  
+According to Petitioners, the Commission erred in accepting 
+AEP and CSW's projections that the proposed merger will 
+produce approximately $2.1 billion in cost savings.  We dis-
+agree.  We owe considerable deference to the Commission's 
+assertion that it "reviewed the assumptions and methodolo-
+gies that underlie" the projections and found them "reason-
+able and consistent with ... precedent."  Approval Order, 
+2000 SEC LEXIS 1227, at *102.  Moreover, Petitioners point 
+to no evidence or expert testimony supporting their assertion 
+that the companies' calculations were flawed.  Their unsup-
+ported claims that the projections are speculative and that 
+the companies' FERC-mandated divestiture of generating 
+capacity is neither economical nor efficient are insufficient to 
+cast doubt on the Commission's contrary findings or even to 
+raise a substantial question of fact warranting a hearing.  Cf. 
+City of Holyoke Gas & Elec. Dep't v. SEC, 972 F.2d 358, 365 
+(D.C. Cir. 1992) (noting that the Commission need only grant 
+a hearing if "the ultimate decision will ... be enhanced or 
+assisted by the receipt of [additional] evidence," and that we 
+
+review for abuse of discretion a Commission decision not to 
+hold a hearing).
+
+                               III.
+
+     The Commission's order is vacated and this matter is 
+remanded for further proceedings consistent with this opin-
+ion.
+
+                                                                 So ordered.
+
+      
+
+                                 
+
+
+              [Photo not available electronically]
+
+
+
+
+
+
+
+
+Appendix A: Map of the United States showing the CSW
+service territories in parts of Arkansas, Louisiana,
+Oklahoma, and Texas, and the AEP service territories in
+parts of Indiana, Kentucky, Michigan, Ohio, Tennessee,
+Virginia, and West Virginia.
+
+              

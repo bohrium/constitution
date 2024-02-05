@@ -1,0 +1,371 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued December 9, 2002    Decided January 17, 2003 
+
+                           No. 01-1407
+
+                Exxon Mobil Corporation, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+     Consolidated Edison Company of New York, Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             01-1415
+
+            On Petitions for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Thomas J. Eastment argued the cause for petitioners 
+Exxon Mobil Corporation, et al.  With him on the briefs were 
+
+Douglas W. Rasch, Bruce A. Connell, Joseph E. Mixon and 
+Charles J. McClees, Jr.  Linda L. Geoghegan entered an 
+appearance.
+
+     Gregory Grady argued the cause for petitioner Transconti-
+nental Gas Pipe Line Corporation.  With him on the briefs 
+were Michael J. Thompson and David A. Glenn.
+
+     Timm L. Abendroth, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With him on 
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor.
+
+     Kenneth T. Maloney argued the cause for intervenors 
+KeySpan, et al.  With him on the brief were James H. Byrd 
+and Steven J. Kalish.  Edward B. Myers entered an appear-
+ance.
+
+     Before:  Ginsburg, Chief Judge, and Rogers and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Transcontinental Gas Pipe Line 
+Corporation has tried for nearly ten years to convince the 
+Federal Energy Regulatory Commission to allow it to adopt a 
+pricing system called "firm to the wellhead" that many of its 
+competitors employ.  In this case, Transco and a group of 
+natural gas producers that use its pipeline petition for review 
+of FERC's latest rejection of Transco's firm transportation 
+proposals.  Because the Commission failed to reconcile its 
+decision here with an earlier opinion on a related matter, we 
+grant the petition and remand for further proceedings.
+
+                                I.
+
+     Like so much of this circuit's FERC business, this case has 
+its roots in the Commission's 1992 restructuring of the natu-
+ral gas industry under its landmark Order No. 636 to create a 
+"national gas market" with "head-to-head, gas-on-gas compe-
+tition."  Pipeline Service Obligations and Revisions to Regu-
+
+lations Governing Self-Implementing Transportation;  and 
+Regulation of Natural Gas Pipelines After Partial Wellhead 
+Decontrol, [Regs. Preambles 1991-1996] FERC Stats. & 
+Regs. (CCH) p 30,939, at 30,434 (1992), on reh'g, Order No. 
+636-A, [Regs. Preambles 1991-1996] FERC Stats. & Regs. 
+(CCH) p 30,950 (1992), on reh'g, Order No. 636-B, 61 
+F.E.R.C. p 61,272 (1992), reh'g denied, 62 F.E.R.C. p 61,007 
+(1993), aff'd in part, United Distrib. Cos. v. FERC, 88 F.3d 
+1105 (D.C. Cir. 1996).  Order No. 636 made three changes 
+relevant here.  First, it required interstate pipelines to pro-
+vide local gas distributors that had contracts to purchase gas 
+in downstream areas an opportunity to convert those entitle-
+ments into rights to "firm transportation" (FT) service that 
+could be used to deliver gas purchased from a variety of 
+producers upstream.  Second, the order changed traditional 
+FT pricing--which requires customers to pay both a reserva-
+tion charge to preserve their priority capacity and a separate 
+usage charge based on volumes actually shipped--by mandat-
+ing that pipelines allocate all fixed costs to the reservation 
+charge.  According to FERC, this "straight fixed variable" 
+system would make pricing more transparent.  Finally, be-
+cause most pipelines base their rates on a zone system, Order 
+No. 636 increased transportation flexibility by requiring that 
+where FT customers pay reservation charges to secure capac-
+ity in any part of a zone, they must be given secondary rights 
+to receive or deliver gas at other points within that zone, even 
+if the locations are not specified in their contracts.
+
+     Most interstate pipelines responded to Order No. 636 by 
+offering their converting customers rights to firm transporta-
+tion from producers' gathering facilities downstream to the 
+delivery points specified in the customers' contracts.  This is 
+called "firm-to-the-wellhead" (FTW) service, although techni-
+cally it does not extend to individual wellheads.
+
+     Transco chose not to adopt FTW service when it voluntari-
+ly unbundled its sales and transportation service about a year 
+before Order No. 636 was issued.  The company, which 
+operates a pipeline running northeast from the Gulf of Mexico 
+to New York City, carried unbundling one step further by 
+
+breaking its transportation service into two distinct compo-
+nents.  First, Transco's 1991 settlements with its local gas 
+distributors, known as "FT conversion shippers," gave the 
+shippers firm transportation rights from "pooling points" at 
+certain compressor stations on Transco's main pipeline down-
+stream to their designated delivery points.  Second, the 
+agreements left service above the pooling points and on 
+supply laterals to be contracted for separately under Tran-
+sco's "interruptible transportation" (IT) service tariff.  Sub-
+ject to a one-part volumetric price that includes both variable 
+and fixed costs, IT service must give way to higher priority 
+deliveries.  Because the FT conversion shippers and FERC 
+were concerned about potential upstream disruptions, howev-
+er, Transco specified that "IT feeder" shipments for delivery 
+to FT conversion shippers would have higher priority than 
+normal IT transmissions.  Transcontinental Gas Pipe Line 
+Corp., 55 F.E.R.C. p 61,446 (1991), on reh'g, 57 F.E.R.C. 
+p 61,345 (1991), on reh'g, 59 F.E.R.C. p 61,279 (1992), aff'd in 
+part and remanded sub nom. Elizabethtown Gas Co. v. 
+FERC, 10 F.3d 866 (D.C. Cir. 1993).
+
+     Although the parties appear to have assumed during the 
+negotiations that FT conversion shippers would contract sep-
+arately with Transco for IT feeder service, the settlement 
+agreements did not actually require them to do so.  In 
+practice, producers such as Petitioners Exxon and the other 
+so-called Indicated Shippers have contracted with Transco for 
+IT feeder service to move their supplies to the pooling points.  
+Thus, while local gas distributors pay nearly all fixed costs on 
+competitor pipelines under FTW pricing systems, producers 
+linked to Transco pay about $50 million per year in fixed costs 
+under Transco's IT feeder rates.  By raising their commodity 
+prices downstream, producers could pass those costs onto FT 
+conversion shippers and other local gas distributors, but 
+Transco and the Indicated Shippers assert that they are often 
+forced to absorb the expense instead to ensure that their 
+prices appear competitive with producers on other pipelines.  
+According to Transco, this puts it at a competitive disadvan-
+tage and, over the long term, may prompt producers to avoid 
+connecting to its pipeline.
+
+     FERC, however, has repeatedly rejected Transco's at-
+tempts to adopt FTW pricing.  In 1993, it ruled that Order 
+No. 636 did not require FTW pricing and declined to exercise 
+its authority under section 5 of the Natural Gas Act (NGA), 
+15 U.S.C. s 717d, to mandate such service.  Transcontinental 
+Gas Pipe Line Corp., 63 F.E.R.C. p 61,194 (1993), on reh'g, 65 
+F.E.R.C. p 61,023 (1993).  Transco then proposed a change to 
+its tariff under NGA section 4, 15 U.S.C. s 717c, that would 
+eliminate IT feeder service, give FT conversion shippers 
+secondary rights to service on supply laterals, and increase 
+their rates to cover the additional $50 million in fixed costs 
+that had previously been paid by producers ("FTW propos-
+al").  The Commission rejected this plan as well, concluding 
+that it would abrogate the conversion shippers' existing con-
+tracts and have anticompetitive effects.  Transcontinental 
+Gas Pipe Line Corp., 72 F.E.R.C. p 63,003 (1995), modified 76 
+F.E.R.C. p 61,021 (1996), on reh'g, 77 F.E.R.C. p 61,270 
+(1996), on reh'g, 79 F.E.R.C. p 61,205 (1997).  The Indicated 
+Shippers filed a petition for review of that decision before this 
+court.
+
+     While that petition was pending, FERC rejected still an-
+other Transco proposal to replace IT feeder service with new 
+contracts for "firm transportation-supply lateral" service to 
+be offered to FT conversion shippers and other interested 
+parties ("FTSL proposal").  Although the Commission found 
+that change forbidden by neither the 1991 settlements nor the 
+FT conversion shippers' firm service contracts, Transconti-
+nental Gas Pipe Line Corp., 85 F.E.R.C. p 61,357 (1998), 
+reh'g denied, 88 F.E.R.C. p 61,135 (1999), it concluded that 
+Transco's proposed terms would violate its flexible receipt 
+and delivery point policy under Order No. 636, Transconti-
+nental Gas Pipe Line Corp., 86 F.E.R.C. p 61,175 (1999), 
+reh'g denied, 88 F.E.R.C. p 61,135 (1999).  Shortly thereafter, 
+we acted on the Indicated Shippers' petition for review and 
+remanded the Commission's FTW decision for further expla-
+nation.  Exxon Corp. v. FERC, 206 F.3d 47, 52-54 (D.C. Cir. 
+2000).
+
+     On remand, in the order at issue in this case, FERC again 
+rejected Transco's FTW proposal.  Transcontinental Gas 
+
+Pipe Line Corp., 95 F.E.R.C. p 61,322 (2001), on reh'g, 96 
+F.E.R.C. p 61,142 (2001).  This time the Commission focused 
+on two facts:  that the 1991 settlements and the conversion 
+shippers' FT contracts gave them service rights only on 
+Transco's main pipeline and that conversion shippers had 
+chosen not to contract separately with Transco for IT feeder 
+service.  Although their agreements contain so-called Mem-
+phis clauses that authorize Transco to make unilateral 
+changes in rates, terms, and conditions of conversion ship-
+pers' firm service, see United Gas Pipe Line Co. v. Mem-
+phis Light, Gas & Water Div., 358 U.S. 103 (1958), the Com-
+mission concluded that the proposed change exceeded the 
+scope of those clauses because it would force the conversion 
+shippers to take capacity for which they had not contracted 
+and then increase their rates accordingly.  After rejecting 
+Transco's proposal under NGA section 4 as not "just and 
+reasonable," FERC again rejected the Indicated Shippers' 
+argument that it should have exercised its NGA section 5 
+authority to require Transco to use the two-part, straight 
+fixed variable pricing structure favored in Order No. 636 
+throughout its entire pipeline.
+
+     Transco now petitions for review of the Commission's sec-
+tion 4 decision, while Exxon and the other Indicated Shippers 
+challenge both the section 4 and section 5 rulings.  A group of 
+FT conversion shippers intervenes in support of FERC's 
+decision.
+
+                               II.
+
+     Under NGA section 4(e), interstate pipelines bear the 
+burden of proving that proposed rate changes are just, rea-
+sonable, and not unduly discriminatory.  15 U.S.C. s 717c(a), 
+(d), (e).  If a pipeline carries this burden, the Commission 
+must approve the change even if other rates would also be 
+just and reasonable.  Western Resources, Inc. v. FERC, 9 
+F.3d 1568, 1578-79 (D.C. Cir. 1993).  Although our review of 
+FERC decisions under the Administrative Procedure Act is 
+quite deferential, see 5 U.S.C. s 706(2)(C), we must reverse a 
+decision that departs from established precedent without a 
+
+reasoned explanation.  ANR Pipeline Co. v. FERC, 71 F.3d 
+897, 901 (D.C. Cir. 1995).
+
+     Because the Commission has already ruled that FTW 
+service using two-part, straight fixed variable rates is gener-
+ally permissible, see, e.g., Tex. E. Transmission Corp., 62 
+F.E.R.C. p 61,015, at 61,094 (1993);  Transcontinental Gas 
+Pipe Line Corp., 76 F.E.R.C. p 61,021, at 61,060, the validity 
+of FERC's decision here hinges upon whether Transco's 
+particular FTW proposal would involve a contract modifica-
+tion not authorized by the Memphis clauses contained in the 
+1991 settlement agreements and the conversion shippers' 
+existing firm service contracts.  See Memphis Light, Gas & 
+Water Div., 358 U.S. at 110-13;  United Gas Pipe Line Co. v. 
+Mobile Gas Serv. Corp., 350 U.S. 332, 343 (1956).  At first 
+glance, the Commission's conclusions that Transco's proposal 
+would force conversion shippers to accept and pay for capaci-
+ty in excess of their current contractual obligations and that 
+such a change exceeds the scope of the Memphis clauses 
+seem perfectly reasonable.  Although the Commission ruled 
+in the FTSL case that the 1991 settlements and the conver-
+sion shippers' firm service agreements did not prohibit Tran-
+sco from replacing IT feeder service with some other rate 
+structure, that case involved a proposal to create a new set of 
+voluntary contracts rather than, as here, an attempt to force 
+supply lateral service on conversion shippers involuntarily 
+under their existing FT contracts.  Transcontinental Gas 
+Pipe Line Corp., 85 F.E.R.C. at 62,388-91.  Petitioners, 
+moreover, point to no case in which a Memphis clause has 
+been used to force a pipeline customer to take additional 
+service rather than to accept changes in the rates, terms, or 
+conditions of service already agreed upon.  Indeed, before the 
+Commission, petitioners conceded that requiring customers to 
+accept greater volumes of gas deliveries than called for in 
+their service contracts would not be authorized by a normal 
+Memphis clause.  Transcontinental Gas Pipe Line Corp., 95 
+F.E.R.C. at 62,139-40.
+
+     There is, however, a serious glitch:  The Commission failed 
+to reconcile its decision at issue here with its previous opin-
+ions concerning the complex ways in which the 1991 settle-
+
+ments and firm service agreements, Transco's FT tariff, and 
+the Commission's own flexible delivery and receipt point 
+policy interact with each other to shape the FT conversion 
+shippers' rights to service.
+
+     In this case, FERC's characterization of Transco's FTW 
+proposal as a contract modification rests largely on a 1995 
+opinion in which the Commission found that Transco's FT 
+conversion shippers have no rights to service on supply 
+laterals unless they contract separately for IT feeder service.  
+Although FERC's flexible receipt point policy would normally 
+provide secondary rights to service at all points within any 
+zone in which an FT shipper pays reservation charges, the 
+Commission concluded that Transco FT shippers have sec-
+ondary rights only on the main pipeline because "[i]n the 
+production area, the reservation charge is for service on the 
+mainline facilities.  A shipper pays a separate IT rate for 
+service on supply laterals (IT-Feeders)."  Transcontinental 
+Gas Pipe Line Corp., 73 F.E.R.C. p 61,361, at 62,128 (1995).  
+Applying that ruling to this case, the Commission reasoned 
+that because the FT conversion shippers have in fact chosen 
+not to contract for IT feeder service, forcing supply lateral 
+service on them would modify their FT contracts in a way 
+unauthorized by their Memphis clauses.
+
+     Disagreeing, petitioners point out that the Commission 
+stated in its 1999 opinion rejecting the FTSL proposal that its 
+flexible receipt point policy would automatically give Tran-
+sco's FT customers secondary rights on supply laterals--
+apparently without modifying their service contracts--if 
+Transco eliminated its IT feeder service.  According to the 
+opinion, the only reason that Transco's FT customers did not 
+already have such rights as a benefit of paying zone reserva-
+tion charges was that FERC had "made an exception to its 
+general receipt and delivery point policy, because the IT-
+Feeder service itself provided shippers with the flexibility to 
+access receipt and delivery points throughout the production 
+area."  Transcontinental Gas Pipe Line Corp., 86 F.E.R.C. 
+at 61,609.  If Transco eliminated the IT feeder service, 
+however, there would no longer be "any basis for permitting 
+Transco to deny shippers the receipt and delivery point 
+
+flexibility attendant to firm service," id., despite Transco's 
+protests that its firm zone rates did not include the costs 
+allocated to service on the production area laterals.  The 
+Commission stated that any cost allocation problems could be 
+fixed by adjusting zone reservation charges in a separate 
+filing and did not change the basic rule that shippers paying a 
+reservation rate for capacity within a particular zone are 
+entitled to access at any point within that zone on a secondary 
+basis.  Id. at 61,610-11.  Applying the same logic to this case, 
+petitioners argue that no contract modification is necessary to 
+give the FT conversion shippers rights on the supply laterals 
+since they will gain such rights automatically under the 
+Commission's general policies and Transco's proposed tariff 
+modifications and that Transco is entitled to adjust its zone 
+reservation charges accordingly.
+
+     The Commission may be able to reconcile the 1995 and 
+1999 decisions, but its efforts so far have only added to the 
+confusion.  When petitioners pointed out the conflict, the 
+Commission flatly denied that the conversion shippers' cur-
+rent lack of supply lateral rights is "the result of any exemp-
+tion from any Commission policy" without acknowledging the 
+directly contradictory language in its 1999 decision.  Trans-
+continental Gas Pipe Line Corp., 96 F.E.R.C. at 61,609.  
+Instead, the Commission simply dismissed that case, saying 
+only that "adoption of FTW rates might also have an effect on 
+flexible receipt and delivery points in Transco's production 
+area, but that is a separate issue" from Transco's proposal 
+forcing the conversion shippers to accept additional capacity 
+in abrogation of their original contracts.  Id. at 61,610.  In 
+our view, this explanation falls short because the 1999 opinion 
+seems to indicate that the Commission's general policy would 
+give FT conversion shippers secondary rights on the supply 
+laterals without the need for a contract modification.  See 
+also Regulation of Short-Term Natural Gas Transportation 
+Services, and Regulation of Interstate Natural Gas Trans-
+portation Services, 101 F.E.R.C. p 61,127 (2002) (rejecting an 
+argument that Commission policies that increase firm ship-
+pers' secondary rights modify individual service agreements).
+
+     Because FERC failed to explain its conclusions here in 
+light of its previous decisions, we remand the case for recon-
+sideration consistent with this opinion.  Given Transco's as-
+surance at oral argument that it will immediately implement 
+its FTW proposal if the Commission approves the rate change 
+under section 4, we think it unnecessary to address the 
+Indicated Shippers' section 5 arguments.  See Exxon Corp., 
+206 F.3d at 48-49.
+
+                                                                 So ordered.
+
+                        

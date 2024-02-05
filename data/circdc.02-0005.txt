@@ -1,0 +1,623 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 13, 2001   Decided January 25, 2002 
+
+                           No. 00-5387
+
+                         Public Citizen, 
+                            Appellant
+
+                                v.
+
+                  Department of State, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 98cv01423)
+
+     Michael E. Tankersley argued the cause for appellant.  
+With him on the briefs was Alan B. Morrison.
+
+     Matthew M. Collette, Attorney, U.S. Department of Justice, 
+argued the cause for appellees.  With him on the brief were 
+Wilma A. Lewis, U.S. Attorney at the time the brief was 
+filed, Leonard Schaitman, Attorney, U.S. Department of 
+
+Justice, and John Schnitker, Attorney, U.S. Department of 
+State.
+
+     Before:  Edwards and Tatel, Circuit Judges, and 
+Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  When the State Department re-
+sponds to Freedom of Information Act requests, it generally 
+declines to search for documents produced after the date of 
+the requester's letter.  Challenging this "date-of-request cut-
+off" policy, appellant claims that the Department promulgated 
+it without notice and opportunity to comment as required by 
+the Administrative Procedure Act, and that, in any event, the 
+policy is unreasonable both generally and as applied to appel-
+lant's particular request because it forces FOIA requesters to 
+file multiple requests.  We reject the former claim because 
+the policy falls within the APA's exemption for "rules of 
+agency organization, procedure or practice."  Finding that 
+the State Department has failed to substantiate its claim that 
+an "administrative nightmare" would result were it unable to 
+apply the date-of-request cut-off policy, however, we agree 
+with appellant that the policy is unreasonable both generally 
+and as applied to its FOIA request.  Finally, we reject 
+appellant's additional claim that the Department improperly 
+invoked FOIA's national security exemption to withhold some 
+otherwise responsive information.
+
+                                I.
+
+     The State Department processes FOIA requests in four 
+stages.  During the first stage, it mails a letter to the 
+requester acknowledging receipt and assigning an identifica-
+tion number.  Grafeld Decl. II p 18.  This initial letter also 
+informs the requester that the "cut-off date ... is the date of 
+the requester's letter" and that "no documents ... origi-
+nat[ing] after the date of [the] letter will be retrieved."  
+Sforza Decl. p 6.  During the second stage, the Department's 
+Statutory Compliance & Research Division determines "which 
+offices, overseas posts, or other records systems within the 
+
+Department may reasonably be expected to contain the infor-
+mation requested."  Grafeld Decl. II p 23.  The Department 
+then "task[s]" these various components to search for respon-
+sive documents.  Id. p 28.  The speed at which the tasked 
+component completes a search depends largely on available 
+personnel, the nature of the request and the number of 
+outstanding requests.  "By far" the most frequently tasked 
+component is the Department's Central Foreign Policy File, a 
+centralized automated records system containing the "most 
+comprehensive authoritative compilation of documents," in-
+cluding documents "that establish, discuss or define foreign 
+policy," as well as "official record copies of incoming and 
+outgoing Department communications."  Id. p 24.  Conse-
+quently, the Central File has the "longest queue" of any 
+Department component.  Id. p 46.  During the third phase of 
+FOIA request processing, the Department reviews the re-
+trieved documents to determine whether it should withhold 
+any, or portions thereof, pursuant to one of FOIA's nine 
+exemptions.  During the final phase, the Department copies 
+the documents, redacts classified material and releases them 
+to the requester.
+
+     In April 1998, appellant Public Citizen, a non-profit, public 
+interest organization "dedicated to the study and promotion 
+of public health and ... consumer welfare," Appellant's Open-
+ing Br. at ii, sent a FOIA request to the Department asking 
+for records describing its "current system for managing word 
+processing files ... and electronic mail messages," as well as 
+"disposition schedule[s] submitted to the National Archives 
+concerning the transfer or disposal" of these materials.  Graf-
+eld Decl. I p 4.  Three months later, the Department released 
+seven documents in full, as well as an eighth with portions 
+redacted pursuant to FOIA's first exemption, the national 
+security exemption, 5 U.S.C. s 552(b)(1).  This final docu-
+ment was a thirty-five chapter "records disposition schedule," 
+essentially a document index with each entry containing a 
+brief description of a Department record and designating the 
+record as "permanent" or "temporary."  Ronan Decl. p 4.  
+Although the Department initially withheld all 119 entries 
+pertaining to the Bureau of Intelligence and Research, it 
+
+eventually released all but portions of seventeen entries.  
+According to the Department, the withheld portions describe 
+"sources and methods of intelligence collection [that] would 
+identify substantive areas in which intelligence activities have 
+been carried out or might be undertaken in the future," as 
+well as "identif[y] persons and organizations that ... partici-
+pate in ... intelligence activities."  Grafeld Decl. I p 17.  
+Significantly for this case, the letter accompanying the re-
+leased documents stated that although the Department typi-
+cally declines to retrieve documents produced after the date 
+of the FOIA request, the Department had waived this "date-
+of-request cut-off" policy as a courtesy to Public Citizen.  Id. 
+p 9.
+
+     Meanwhile, in response to the initial withholding, Public 
+Citizen had filed suit in the United States District Court for 
+the District of Columbia claiming that the Department pro-
+mulgated the cut-off policy without the notice and comment 
+required by the Administrative Procedure Act, 5 U.S.C. 
+s 553(b), and that the cut-off policy was unreasonable both 
+generally and as applied to its request.  Public Citizen also 
+claimed that in withholding portions of the seventeen record 
+entries, the Department had improperly invoked FOIA's na-
+tional security exemption.
+
+     Before anything significant occurred in the district court, 
+Public Citizen submitted two additional FOIA requests.  The 
+first, made in June, sought documents relating to "interna-
+tional investment issues," including discussions or negotia-
+tions of the Multilateral Agreement on Investment.  Grafeld 
+Decl. II p 43.  The Department acknowledged this request 
+with its standard letter, which included a paragraph inform-
+ing Public Citizen that it would apply its usual date-of-request 
+cut-off policy.  The second request, made in October, sought 
+four specific record disposition schedules and two related 
+"appraisal memoranda" from the National Archives and Rec-
+ords Administration.  Appellees' Br. at 13.  The Archives 
+released two of these schedules in full but, after consulting 
+with the State Department (the relevant classification author-
+ity), invoked FOIA's national security exemption to withhold 
+portions of the remaining documents that essentially duplicat-
+
+ed information withheld in response to Public Citizen's April 
+FOIA request.  See id.  (Archives documents "contained the 
+same information in the Department of State records previ-
+ously withheld as classified");  Appellant's Opening Br. at 12-
+13 (Archives documents "included the same information in the 
+database entries withheld by the Department").  Amending 
+its complaint in the district court, Public Citizen challenged 
+the application of the cut-off policy to the June request and 
+charged that the Department had improperly classified the 
+Archives material.
+
+     In May 2000, the district court dismissed Public Citizen's 
+challenge to the cut-off policy as applied to the April FOIA 
+request because the Department had in fact not applied it.  
+The court dismissed as unripe Public Citizen's challenge to 
+the cut-off policy generally, finding it insufficiently "crystal-
+lized," as well as Public Citizen's challenge to the cut-off 
+policy as applied to the June FOIA request, reasoning it was 
+"not possible ... to know" whether the cut-off policy would 
+be applied to that request.  Pub. Citizen v. Dep't of State, 100 
+F. Supp.2d 10, 18 (D.D.C. 2000).  Finding the policy a "rule[ ] 
+of agency organization ... or practice" exempt from notice 
+and comment, the district court also granted summary judg-
+ment for the Department on Public Citizen's APA claim.  Id. 
+at 20-21.
+
+     Turning to the Department's invocation of FOIA's national 
+security exemption, the district court, after examining a clas-
+sified State Department declaration in camera, found that the 
+Department had, for the most part, demonstrated that the 
+withheld material was classifiable.  At the same time, howev-
+er, the court ordered the "disposition dates" on the seventeen 
+record entries released because they were "apparently ... 
+meaningful" to Public Citizen and easily segregable.  Id. at 
+25.  Because in responding to Public Citizen's FOIA request, 
+the Department had classified some information the organiza-
+tion sought, the district court held that pursuant to Executive 
+Order 12,958, the Department and Archives had to show that 
+they had not previously released the withheld portions.  Id. 
+at 22 (citing Exec. Order No. 12,958 s 1.8(d) (requiring 
+agencies classifying information in response to a FOIA re-
+
+quest to show that they have not previously released the 
+information)).  Although the district court found that the two 
+agencies had generally satisfied this burden, it ordered the 
+Department to file a supplemental declaration addressing 
+whether it had ever previously disclosed the information 
+contained in the Archives documents.  As part of its ruling on 
+the public disclosure issue, the district court rejected Public 
+Citizen's arguments that the government declarants lacked 
+"personal knowledge" of agency procedure, and thus denied 
+Public Citizen's motion to strike the relevant portions of the 
+declarations.  Id. at 26 n.11.  It also denied Public Citizen's 
+motion for additional discovery.  After the Department filed 
+its supplemental declaration, the district court entered final 
+judgment for the Department.
+
+     Public Citizen appeals the district court's dismissal of its 
+challenges to the reasonableness of the cut-off policy as 
+unripe and the grant of summary judgment with respect to 
+the remaining claims, as well as the district court's discovery 
+and evidentiary rulings.  We review the former de novo, 
+Wilson v. Pena, 79 F.3d 154, 160 n. 1 (D.C. Cir. 1996) ("Our 
+standard of review under Federal Rules 12(b)(6) and 56 is the 
+same:  de novo."), and the latter for abuse of discretion, White 
+v. Fraternal Order of Police, 909 F.2d 512, 517 (D.C. Cir. 
+1990) (reviewing district court's discovery ruling for abuse of 
+discretion);  O'Regan v. Arbitration Forums, Inc., 246 F.3d 
+975, 986 (7th Cir. 2001) (reviewing district court's decision to 
+strike parts of an affidavit for abuse of discretion).
+
+                               II.
+
+     We begin with Public Citizen's claim that the Department 
+unlawfully promulgated the cut-off policy without the notice 
+and opportunity to comment required by the APA.  The 
+Department responds that its cut-off policy is procedural and 
+thus covered by the APA's exemption from notice and com-
+ment for "rules of agency organization, procedure, or prac-
+tice," 5 U.S.C. s 553(b)(3)(A).  According to Public Citizen, 
+the cut-off policy cannot be considered procedural because it 
+"substantially ... affects rights" by "needlessly multipl[ying] 
+
+the number of FOIA requests that must be submitted to 
+obtain access to records."  Appellant's Opening Br. at 33-34.  
+We have, however, characterized agency rules as procedural 
+even where their effects were far harsher than the Depart-
+ment's date-of-request cut-off policy.  For example, in Rang-
+er v. FCC, we found an agency rule establishing a cut-off date 
+for the filing of radio license applications to be procedural 
+even though the failure to observe the rule cost appellants a 
+radio broadcast license.  294 F.2d 240, 243-44 (D.C. Cir. 
+1961).
+
+     As we recognized in American Hospital Ass'n v. Bowen, 
+"[o]ver time, our circuit in applying the s 553 exemption for 
+procedural rules has gradually shifted focus from asking 
+whether a given procedure has a 'substantial impact' on 
+parties to ... inquiring more broadly whether the agency 
+action ... encodes a substantive value judgment."  834 F.2d 
+1037, 1047 (D.C. Cir. 1987) (citation omitted).  This "gradual 
+move," we noted, "reflects a candid recognition that even 
+unambiguously procedural measures affect parties to some 
+degree."  Id.  More recently, in JEM Broadcasting Co. v. 
+FCC, we found that FCC "hard look rules," which required 
+the dismissal of flawed license applications without leave to 
+amend, were procedural despite their sometimes harsh ef-
+fects.  22 F.3d 320, 327-28 (D.C. Cir. 1994).  In doing so, we 
+rejected the argument that the rules encoded substantive 
+value judgments because they valued applications without 
+errors over those with minor errors.  Id. Clarifying the 
+American Hospital standard, we held that in referring to 
+"value judgments" in that case, we had not intended to 
+include "judgment[s] about what mechanics and processes are 
+most efficient" because to do so would "threaten[ ] to swallow 
+the procedural exception to notice and comment, for agency 
+housekeeping rules often embody [such] judgment[s]."  Id. at 
+328.
+
+     Because the Department's cut-off policy applies to all FOIA 
+requests, making no distinction between requests on the basis 
+of subject matter, it clearly encodes no "substantive value 
+judgment," Am. Hosp., 834 F.2d at 1047.  To be sure, the 
+policy does represent a "judgment" that a date-of-request cut-
+
+off promotes the efficient processing of FOIA requests, but a 
+"judgment about procedural efficiency ... cannot convert a 
+procedural rule into a substantive one."  James V. Hurson 
+Assocs., Inc. v. Glickman, 229 F.3d 277, 282 (D.C. Cir. 2000) 
+(internal quotation marks and citation omitted).  Consequent-
+ly, we agree with the district court that the Department's cut-
+off policy represents a prototypical procedural rule properly 
+promulgated without notice and comment.
+
+                               III.
+
+     Before considering the merits of Public Citizen's alternative 
+argument--that the cut-off policy is unreasonable--we must 
+address the Department's assertion, embraced by the district 
+court, that the policy is unripe for review either generally or 
+as applied to the June request.  Ripeness inquiry requires 
+that we evaluate "the fitness of the issues for judicial decision 
+and the hardship to the parties of withholding court consider-
+ation."  Texas v. United States, 523 U.S. 296, 300-301 (1998) 
+(quoting Abbott Labs. v. Gardner, 387 U.S. 136, 149 (1967)).  
+"[U]nder the ripeness doctrine, the hardship prong ... is not 
+an independent requirement divorced from the consideration 
+of the institutional interests of the court and agency."  Payne 
+Enters., Inc. v. United States, 837 F.2d 486, 493 (D.C. Cir. 
+1988).  A case is ripe "when it presents a concrete legal 
+dispute [and] no further factual development is essential to 
+clarify the issues, ... [and] there is no doubt whatever that 
+the challenged agency practice has crystallized sufficiently for 
+purposes of judicial review."  Rio Grande Pipeline Co. v. 
+FERC, 178 F.3d 533, 540 (D.C. Cir. 1999) (alterations in 
+original) (internal quotation marks and citation omitted).
+
+     The Department argues that Public Citizen's generic chal-
+lenge is unripe because it does not apply an "across-the-board 
+cut-off rule."  Appellees' Br. at 26.  In fact, the Department 
+contends, it will "on occasion" perform a "more comprehen-
+sive search."  Id.  The record, however, provides little if any 
+support for the notion that the cut-off policy is flexible.  The 
+Department's published guidance states unequivocally that 
+
+"the Department has established that the cut-off date ... is 
+the date of the initial request," http:  //foia.state.gov/
+faqs.asp#Q15 (last visited Jan. 4, 2002), and all Department 
+acknowledgment letters refer to the cut-off policy as a "condi-
+tion[ ] which govern[s] all [FOIA] requests," Sforza Decl. p 6.  
+The only evidence of flexibility that the Department points to 
+is the fact that it did not apply the cut-off policy to Public 
+Citizen's initial FOIA request.  But we have never allowed 
+agencies to defeat judicial review of their standards by occa-
+sionally waiving them in individual cases.  See, e.g., Better 
+Gov't Ass'n v. Dep't of State, 780 F.2d 86, 91 (D.C. Cir. 1986) 
+(holding challenge to fee waiver policy as applied moot be-
+cause agency had waived fees, but finding challenge to "fa-
+cial" validity of fee waiver ripe).  This general principle 
+applies with special force here:  At oral argument, Depart-
+ment counsel was unable to give any reason for the waiver, 
+leading us to suspect that the Department waived the cut-off 
+policy only to avoid having it attacked by a vigorous litigant 
+like Public Citizen.
+
+     Equally unconvincing is the Department's argument that 
+the generic challenge is unripe because the reasonableness of 
+the cut-off policy turns on "the particular circumstances of 
+the case."  Appellees' Br. at 27.  As a non-profit organization 
+that has "submitted ... and plans to continue to submit 
+FOIA requests" to the Department, First Amend. Compl. 
+p 27, Public Citizen seeks a declaration that the Department's 
+reflexive application of the date-of-request cut-off policy to all 
+FOIA requests is unreasonable.  Public Citizen does not 
+argue that the Department may never under any circum-
+stances reasonably apply a date-of-request cut-off to a partic-
+ular FOIA request.  Although such a claim might well be 
+impossible to adjudicate outside the "particular circum-
+stances" of one or more FOIA requests, the claim Public 
+Citizen mounts in this case, by its very nature, is not.  
+Finding no "institutional interests," Payne Enters., 837 F.2d 
+at 493, in deferring review, we think Public Citizen's generic 
+challenge is ripe.
+
+     We reach the same conclusion with respect to Public Citi-
+zen's challenge to the cut-off policy as applied to its June 
+
+request, even though the record before the district court does 
+not indicate whether the Department in fact "exercised its 
+discretion to retrieve documents created after the date of the 
+request."  Pub. Citizen, 100 F. Supp. 2d at 17-18.  As we 
+said in Better Government, "[w]here ... the agency has 
+stated that the action in question governs and will continue 
+to govern its decisions, such action must be viewed as final in 
+our analysis of ripeness."  780 F.2d at 93.  Here, the Depart-
+ment sent Public Citizen a letter expressly saying that it 
+considered the date of the letter to be the "cut-off" date, thus 
+creating a controversy ripe for judicial review.
+
+     Public Citizen argues that the cut-off policy is unreasonable 
+because it forces the organization to "periodically ... resub-
+mit the identical request in order to get more recent records."  
+Appellant's Opening Br. at 30.  In support of this argument, 
+Public Citizen relies on our decision in McGehee v. CIA, 697 
+F.2d 1095 (D.C. Cir. 1983).  In that case, a freelance journal-
+ist filed a FOIA request with the Central Intelligence Agency 
+seeking all documents relating to the infamous Jonestown 
+Massacre.  Id.  Following its usual practice, the CIA's Infor-
+mation and Privacy Division "tasked" the divisions most likely 
+to possess relevant documents.  Id. at 1098.  Though the 
+journalist made the initial request in December 1978, by 
+November 1980, almost two years later, the CIA had neither 
+released any documents nor provided any meaningful infor-
+mation about the status of the request.  Id. at 1099.  The 
+journalist sued, claiming that the CIA's use of a date-of-
+request cut-off policy was unreasonable.  Id.
+
+     We began by rejecting the CIA's contention that because 
+the "language in ... FOIA and authoritative case law inter-
+preting the statute establishes that the use of a time-of-
+request cut-off is always reasonable," we should "decide [the] 
+question from a generic standpoint."  Id. at 1102.  In particu-
+lar, we rejected the CIA's reliance on cases holding that 
+FOIA does not require "an agency ... [to] continuously ... 
+update its responses," reasoning that "the question presented 
+in this case is whether, when an agency first releases docu-
+ments ... it may use a [date-of-request] cut-off."  Id.  "That 
+an agency has no obligation, after it has once responded fully 
+
+to a FOIA request," we noted, "has little bearing on the issue 
+before us."  Id.
+
+     We then considered the reasonableness of the date-of-
+request cut-off policy as applied to the journalist's particular 
+FOIA request.  The CIA defended the policy as necessary to 
+avoid an "administrative nightmare."  Id. at 1103.  "Confu-
+sion," the CIA argued, "might be engendered by different 
+agency components using different cut-off dates," fee sched-
+ules would be "disrupt[ed]" without such a policy, and it 
+would experience increased costs from the "successive ... 
+searches that might be necessary if the date of a final 
+response or the date of litigation were employed as a cut-off."  
+Id. at 1103-04 (internal quotation marks omitted).  The CIA 
+also claimed that it needed the date-of-request cut-off policy 
+to preserve the "expeditious[ ] processing [of] relatively sim-
+ple requests."  Id. at 1104 n. 41.  Finding the CIA's argu-
+ments "either unpersuasive or irrelevant" in the "absence of 
+more detailed substantiation," we hypothesized an "alterna-
+tive procedure[ ] without the flaws of the [date]-of-request 
+cut-off policy and without any real potential for ... adminis-
+trative nightmares," namely, that at minimum, the CIA could 
+use as the cut-off date the date on which the Information and 
+Privacy Division determined which components to "task."  Id. 
+at 1103-04.
+
+     According to Public Citizen, McGehee controls this case and 
+requires that we find the State Department's cut-off policy 
+unreasonable both generally and as applied to the June 
+request.  The Department urges us not to address these 
+questions but instead to remand to the district court, which 
+because it dismissed Public Citizen's claims as unripe, never 
+reached the merits of the McGehee issue.  We see no reason 
+to remand.  Not only was the Department aware of McGehee, 
+but given the procedural posture of this case--cross-motions 
+for summary judgment--it had every opportunity to justify 
+its policy.  See Frito-Lay, Inc. v. Willoughby, 863 F.2d 1029, 
+1032-33 (D.C. Cir. 1988) (holding that court must enter 
+summary judgment against nonmovant who bears the burden 
+of production and fails to meet that burden).
+
+     We need not linger long over the Department's attempts to 
+justify its reflexive application of the cut-off policy to every 
+request regardless of circumstances.  McGehee expressly re-
+jected the proposition that under FOIA, the "use of a time-of-
+request cut-off date is always reasonable."  McGehee, 697 
+F.2d at 1102.  Although specific circumstances in some agen-
+cies may render an across-the-board rule reasonable, the 
+Department has made no showing that warrants such an 
+approach in its case.
+
+     The Department advances two justifications for its cut-off 
+policy as applied to Public Citizen's June request.  It first 
+argues that although the use of a "later cut-off date" might 
+have resulted in the retrieval of more documents, Public 
+Citizen would have had to "wait a longer time."  Appellees' 
+Br. at 34.  As noted above, however, McGehee rejected a 
+similar argument advanced by the CIA, 697 F.2d at 104-05 
+n.41, and we find the claim likewise unsubstantiated here.  
+Because the Department has a large "backlog" of FOIA 
+requests, Grafeld Decl. II p 2, and because Public Citizen has 
+no way of knowing whether the Department created new 
+responsive documents after the date of its June request, the 
+policy's net result is to increase processing time by forcing 
+Public Citizen to file multiple FOIA requests to obtain docu-
+ments that the Department would have released in response 
+to a single request had it used a later cut-off date.
+
+     Second, the Department points out that because the June 
+request was not limited to a "central records system," the 
+Department must "task various offices and components" to 
+search for responsive records.  Since searches may take place 
+in "different components ... at vastly different times for the 
+same FOIA request," the Department argues, a "date-of-
+request" cut-off policy avoids the "confusion of having multi-
+ple cut-off dates on a given request, and provides requesters 
+with a clear basis for determining whether a subsequent 
+request might be necessary."  Appellees' Br. at 35-36.  
+Again, we rejected just such a claim in McGehee, hypothesiz-
+ing an alternative procedure that would utilize a "cut-off date 
+much later than the time of the original request ... [and] 
+result[ ] in a much fuller search and disclosure."  697 F.2d at 
+
+1104.  The same is true here:  Because the Central File is 
+typically the component searched last--it possesses the long-
+est queue--and because, as the Department concedes, the 
+Central File contains the "most comprehensive" collection of 
+Department documents, Grafeld Decl. II p 46, the current 
+policy of releasing only documents prepared before the re-
+quest date permits the Department to withhold, with little or 
+no justification, a potentially large number of relevant docu-
+ments.  At the very least, we think that with minimal admin-
+istrative hassle, the Department could apply a date-of-search 
+cut-off to the Central File.
+
+     In short, like the CIA in McGehee, the State Department 
+has failed to substantiate its claim that an "administrative 
+nightmare," 697 F.2d at 1103, would result were it unable to 
+apply the date-of-request cut-off policy to Public Citizen's 
+June request.  In reaching this conclusion, we emphasize that 
+nothing in this opinion precludes either the Department or 
+any other federal agency from attempting a more compelling 
+justification for imposing a date-of-request cut-off on a partic-
+ular FOIA request.
+
+                               IV.
+
+     This brings us to Public Citizen's challenge to State's and 
+Archives' invocation of FOIA's national security exemption.  
+According to Public Citizen, the district court erred when it 
+concluded that the Department (which has sole classification 
+authority) has shown that the information withheld relates to 
+national security.  Public Citizen also argues that even if the 
+material does relate to national security, the two agencies 
+must show that they have never previously released the 
+material publicly.  We disagree with both contentions.
+
+     The government has the initial burden of demonstrating 
+that requested material is classifiable.  Halperin v. CIA, 629 
+F.2d 144, 147 (D.C. Cir. 1980).  Summary judgment may be 
+granted on this issue "on the basis of agency affidavits [only] 
+if they contain reasonable specificity of detail rather than 
+merely conclusory statements, and ... they are not called 
+into question by contradictory evidence in the record or by 
+
+evidence of agency bad faith."  Id. at 148.  In this case, the 
+Department's declaration states as follows:
+
+     Withheld ... information ... relates directly to intelli-
+     gence activities, sources or methods, discussed in detail 
+     in the Document Description shown below.  Disclosure of 
+     this information could enable foreign governments or 
+     foreign persons or entities opposed to United States 
+     foreign policy objectives to identify U.S. intelligence ac-
+     tivities, sources or methods and to undertake counter-
+     measures that could frustrate the ability of the U.S. 
+     Government to acquire information necessary to the for-
+     mulation and implementation of U.S. foreign policy.  Dis-
+     closure of this information, therefore, "... reasonably 
+     could be expected to result in damage to the national 
+     security...."
+     
+Machak Decl. II p 11.  In Halperin, we found similar lan-
+guage sufficient to sustain the government's burden.  In that 
+case, the CIA stated that if the names of its attorneys were 
+revealed "representatives of hostile, foreign intelligence ser-
+vices working in this country [could], by a variety of tech-
+niques, ... undertake courses of action to ascertain ... other 
+contacts [or] other locations, and then arrive at determina-
+tions whether [the attorney] is doing any other function for 
+the [CIA]."  Halperin, 629 F.2d at 149.  The sworn state-
+ment in this case--that "[d]isclosure ... could enable foreign 
+persons or entities opposed to United States foreign policy 
+objectives to identify U.S. intelligence activities, sources or 
+methods"--is equally specific and detailed.  To be absolutely 
+sure, like the district court, we reviewed the classified portion 
+of the declaration and are satisfied that the government has 
+sustained its burden.
+
+     In the face of the Department's reasonably detailed decla-
+ration, Public Citizen points to only one source of "contradic-
+tory evidence," id.:  the fact that after reviewing the Archives 
+documents, the Department turned over certain information 
+that it had earlier refused to release in response to Public 
+Citizen's first FOIA request.  Yet we have previously de-
+clined to find subsequent disclosure as evidence of bad faith, 
+
+reasoning that "to effectively penalize an agency for volun-
+tarily declassifying documents would work mischief by creat-
+ing an incentive against disclosure."  Pub. Citizen v. Dep't of 
+State, 11 F.3d 198, 203 (D.C. Cir. 1993) (internal quotation 
+marks and citation omitted).  That principle applies here as 
+well.
+
+     Public Citizen next claims that the government's declara-
+tions are insufficient to demonstrate that the information 
+withheld had never been previously released because the 
+declarants did not rely on "personal knowledge."  Appellant's 
+Opening Br. at 39.  This argument rests on a misunderstand-
+ing of the burden of production.  Although it is true that 
+under certain circumstances, previously released information 
+"cannot be withheld under exemption[ ] one," we have made 
+clear that "a plaintiff asserting a claim of prior disclosure 
+must bear the initial burden of pointing to specific informa-
+tion in the public domain that appears to duplicate that being 
+withheld."  Afshar v. Dep't of State, 702 F.2d 1125, 1129 (D.C. 
+Cir. 1983).  "This is so," we have explained, "because the task 
+of proving the negative, that the information has not been 
+revealed, might require the government to undertake an 
+exhaustive, potentially limitless, search."  Davis v. Dep't of 
+Justice, 968 F.2d 1276, 1279 (D.C. Cir. 1992).  Public Citizen 
+points to no "specific information in the public domain" that 
+might "duplicate that being withheld."  Afshar, 702 F.2d at 
+1130.  Instead, it argues that if researchers had requested 
+the documents, Archives employees might have shown the 
+documents to them.  Such speculation neither satisfies Public 
+Citizen's burden of production, cf. Cottone v. Reno, 193 F.3d 
+550, 554 (D.C. Cir. 1999) (plaintiff met burden by demonstrat-
+ing that audio tapes containing information had been "aired 
+publicly in open court"), nor demonstrates that the district 
+court's denial of the organization's request for further discov-
+ery amounted to an abuse of discretion, see White, 909 F.2d at 
+517.
+
+                                V.
+
+     In sum, we conclude that (1) the cut-off policy is a proce-
+dural rule properly promulgated without notice and comment, 
+
+(2) Public Citizen's McGehee challenges to the cut-off policy 
+generally and as applied to its June request are ripe, (3) the 
+cut-off policy is unreasonable both generally and as applied to 
+Public Citizen's June request and (4) the Department and 
+Archives properly withheld material pursuant to FOIA's na-
+tional security exemption.  Thus, we affirm in part, reverse in 
+part, and remand to the district court for further proceedings 
+consistent with this opinion.
+
+                                                                 So ordered.
+
+                     

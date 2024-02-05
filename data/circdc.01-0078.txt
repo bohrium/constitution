@@ -1,0 +1,297 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued January 16, 2001      Decided April 3, 2001 
+
+                           No. 99-7124
+
+           National Telephone Cooperative Association, 
+                             Appellee
+
+                                v.
+
+       Exxon Mobil Corporation, A New Jersey Corporation, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 96cv02504)
+
+     Arthur H. Jones, Jr. argued the cause for appellant.  With 
+him on the briefs were Robert T. Lehman, Cynthia J. Morris, 
+and Heather E. Gange.
+
+     Donald B. Mitchell, Jr. argued the cause for appellee.  
+With him on the brief was James H. Hulme.
+
+     Before:  Edwards, Chief Judge, Ginsburg, and Randolph, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  The plaintiff in this case won a 
+jury verdict and judgment on the theory that the defendant 
+negligently performed an environmental remediation; the cen-
+tral question before us is whether the plaintiff at trial estab-
+lished the standard of care, which is necessary to support the 
+judgment in its favor.  Under the law of the District of 
+Columbia, if the applicable standard of care in a negligence 
+action is "beyond the ken of the average layperson," then the 
+plaintiff must establish that standard through the testimony 
+of an expert.  District of Columbia v. Arnold & Porter, 756 
+A.2d 427, 433 (2000) (quoting Messina v. District of Colum-
+bia, 663 A.2d 535, 538 (D.C. 1995)).  Specifically,
+
+     the expert must clearly articulate and [refer to] a stan-
+     dard of care by which the defendant's actions can be 
+     measured ....  Thus the expert must clearly relate the 
+     standard of care to the practices in fact generally fol-
+     lowed by [similarly situated parties] or to some standard 
+     nationally recognized by such [parties].
+     
+Id. (quoting Phillips v. District of Columbia, 714 A.2d 768, 
+773 (D.C. 1998)).  To similar effect, "[t]he personal opinion of 
+the testifying expert as to what he or she would do in a 
+particular case, without reference to a standard of care, is 
+insufficient to prove the applicable standard of care."  Tra-
+vers v. District of Columbia, 672 A.2d 566, 568 (D.C. 1996).
+
+     No one doubts that the standard of care in this case is 
+beyond the ken of the average layperson.  In mounting its 
+case, therefore, the plaintiff introduced expert testimony;  but 
+its expert described the standard of care with respect only to 
+an ultimate goal that the defendant failed to meet, not with 
+respect to any "practices in fact generally followed" or "to 
+some standard [that is] nationally recognized" from which the 
+defendant departed.  Arnold & Porter, 756 A.2d at 433.  
+Under Arnold & Porter and the cases from which it springs, 
+
+such testimony is insufficient for the plaintiff to prevail and 
+we therefore must reverse the judgment of the district court.
+
+                          I. Background
+
+     The National Telephone Cooperative Association (NTCA) 
+sued the Exxon Mobil Corporation (Exxon) in district court, 
+alleging negligence.  At the time of the events at issue, the 
+NTCA owned and occupied an office building in the District 
+of Columbia that abutted a gas station owned by Exxon.  In 
+March 1990 the NTCA discovered a black liquid seeping 
+through a crack in the basement of its office building.  The 
+NTCA reported the problem to Exxon, which sent environ-
+mental engineers to examine the site and to repair the 
+basement wall.  Exxon also conducted a comprehensive inves-
+tigation of petroleum contamination on its own property and 
+reported the problem to the D.C. Department of Consumer 
+and Regulatory Affairs (DCRA).  Exxon then submitted to 
+the DCRA, and the DCRA approved, a Corrective Action 
+Plan (CAP) pursuant to which Exxon would remediate petro-
+leum contamination on its property.
+
+     There were two basic components to the CAP:  a "pump 
+and treat" system that used a series of wells containing 
+pumps to control the migration of groundwater and to remove 
+gasoline from the water table;  and a "soil vapor extraction" 
+(SVE) system that removed vaporous gasoline from the soil.  
+The CAP further detailed a number of specific measures that 
+Exxon would take and the types of technology that it would 
+use.  According to the CAP, the result would be to "ensure 
+that hydrogeologic control is established at the site to prevent 
+further off-site migration, as well as eliminate residual soil 
+hydrocarbons that could [contaminate the groundwater]."
+
+     Notwithstanding Exxon's remediation efforts, the leakage 
+of black liquid through the crack in the wall of the NTCA's 
+office building recurred in March 1995.  The NTCA was then 
+poised to sell its office building but the deal fell through 
+owing to the leak.  The NTCA finally sold the building three 
+years later.
+
+     The NTCA proceeded to the jury on the theory that Exxon 
+had been negligent in its remediation.  The NTCA argued, 
+and the district court agreed, that Exxon's own CAP supplied 
+the operative standard of care.  The expert who testified in 
+support of the NTCA's theory of negligence, Mr. Kent Camp-
+bell, took issue with four aspects of Exxon's remediation:  (1) 
+the type of pump Exxon installed in the wells;  (2) its failure 
+to excavate more dirt in installing underground storage tanks;  
+(3) its installation of an insufficient number of wells to capture 
+groundwater;  and (4) its failure to install and to run an 
+adequate SVE system.  As Exxon clarified in cross-
+examining him, Campbell expressly grounded these criticisms 
+in his own views and did not relate them to any general 
+practice or recognized standard.  Although Campbell did not 
+specify exactly how Exxon should have achieved hydrogeolog-
+ic control, he did testify that it should have achieved it and 
+that Exxon's loss of hydrogeologic control coincided with 
+recurrence of the leakage.
+
+     The NTCA contended that the leakage, in addition to 
+damaging its building, delayed sale of the building for three 
+years and thus both deprived it of the return it would have 
+realized from investing the proceeds of an earlier sale, and 
+owing to a change in market conditions forced it to pay more 
+for a long-term lease on the building to which it eventually 
+moved.  The jury found in favor of the NTCA, awarding it 
+$30,000 in damages for harm to the building and $2,459,357 in 
+damages arising from the delayed sale.  The district court 
+entered judgment on that verdict and Exxon appealed, chal-
+lenging both the determination that it was negligent and the 
+award of damages for delaying the sale of the building.
+
+                           II. Analysis
+
+     Initially Exxon maintains that the doctrine of primary 
+jurisdiction forecloses a finding of negligence; specifically, 
+Exxon claims the DCRA's exercise of its regulatory authority 
+in approving Exxon's remediation plan gave the DCRA pri-
+mary jurisdiction, to which the district court owed deference.  
+See United States v. Western Pac. R.R. Co., 352 U.S. 59, 64 
+
+(1956) (doctrine "comes into play whenever enforcement of 
+the claim requires the resolution of issues which, under a 
+regulatory scheme, have been placed within the special com-
+petence of an administrative body").  We review the district 
+court's decision to the contrary only for abuse of discretion.  
+See Environmental Technology Council v. Sierra Club, 98 
+F.3d 774, 789 (4th Cir. 1996);  Brumark Corp. v. Samson 
+Resources Corp., 57 F.3d 941, 947-48 (10th Cir. 1995).
+
+     Exxon failed to show that the DCRA oversees a compre-
+hensive regulatory scheme that in any way would be dis-
+turbed by the instant action.  At most the record suggests 
+that the DCRA saw nothing in Exxon's remediation plan that 
+violated the agency's regulations -- not that the DCRA so 
+closely supervised the remediation planning or implementa-
+tion as in practice to prescribe the standard of care that 
+would govern it.  The district court was well within its 
+discretion, therefore, in hewing to the principle that conduct 
+complying with administrative regulations may nonetheless 
+be negligent.  See, e.g., Restatement (Second) of Torts 
+s 288C.
+
+     Exxon also claims that "because the standard of care for a 
+service station remediation is not readily discernible by a lay 
+person, the District Court erred in not instructing the jury 
+that the NTCA had to establish that standard through expert 
+testimony."  Exxon's sole basis for objecting to the lack of a 
+jury instruction on this point is District of Columbia v. 
+Mitchell, 533 A.2d 629, 649-50 (D.C. 1987), in which the Court 
+of Appeals refused to reinstate a verdict for the plaintiff in a 
+medical malpractice case because such an instruction had not 
+been given.  Id. at 649-50.  Even if Mitchell can be read as 
+stating a per se rule -- a proposition for which it has never 
+been cited -- Exxon must show prejudice in order to secure 
+reversal upon the basis of a missing jury instruction.  See 
+Material Supply Int'l, Inc. v. Sunmatch Indus. Co., 146 F.3d 
+983, 992 (D.C. Cir. 1998).  In this case any error was assured-
+ly harmless:  the district court instructed the jury that the 
+NTCA bore the burden of proof and that the relevant stan-
+dard of care was that of a specialist performing remediation;  
+Campbell's was undisputedly expert testimony, and there was 
+
+no other evidence from which the jury could have concluded 
+that the NTCA carried its burden.
+
+     Exxon next argues that the NTCA did not fulfill its obli-
+gation to explain to the jury the operative standard of care 
+for the remediation.  The NTCA's answer is that it permissi-
+bly treated Exxon's own CAP as supplying that standard.  
+The NTCA's principal theory is that the objective of the 
+CAP -- to "ensure that hydrogeologic control is estab-
+lished" -- itself supplies the relevant standard of care.  If so, 
+then liability would be established by the jury finding that 
+Exxon's loss of hydrogeologic control caused the renewed 
+leakage into the NTCA's adjoining property.
+
+     This theory is more akin to strict liability or to negligence 
+per se -- both of which the district court expressly reject-
+ed -- than to simple negligence;  it entails no effort to connect 
+the damage to any particular conduct in which Exxon did or 
+did not engage.  The theory is therefore inconsistent with the 
+District of Columbia's requirement that a standard of care 
+beyond the grasp of a lay jury be related either to "practices 
+in fact generally followed" or "to some standard [that is] 
+nationally recognized."  Arnold & Porter, 756 A.2d at 433.  
+We cannot deem the CAP's stated goal of "ensur[ing] hydro-
+geologic control" a standard of care on this record because it 
+stands unrelated to any accepted practice or standard to 
+which Exxon should have but failed to conform.
+
+     The lone precedent that NTCA marshals in hope of bridg-
+ing this gap is Levy v. Schnabel Found. Co., 584 A.2d 1251 
+(D.C. 1991), which involved allegedly negligent construction;  
+the court held that "tak[ing] all necessary steps to prevent 
+any movement that would cause damage to adjacent proper-
+ties" constituted a standard of care.  Id. at 1255.  The court 
+so held, however, only because there was expert testimony -- 
+indeed, an expert for each party had specifically testified -- 
+that this was "the applicable standard of care for persons 
+engaged in [the defendant's line of work]."  Id.  Therefore, 
+although this "articulation of the standard of care might be 
+viewed as sounding more like a lofty goal," id. at 1256, the 
+"expert testimony was sufficient, albeit barely so" to establish 
+
+it as the applicable standard of care.  Id. at 1255.  In this 
+case the NTCA cannot claim the benefit of Schnabel because 
+it introduced no evidence that "ensuring hydrogeologic con-
+trol" was not merely a goal but was in fact the prevailing 
+practice or a national standard applicable to Exxon's efforts 
+at environmental remediation.
+
+     The NTCA fares no better with its argument that the 
+prescriptions in the CAP supply a standard of conduct to 
+which Exxon might be held.  The central problem with the 
+argument is that the NTCA's expert, Campbell, identified no 
+practice or provision in the CAP from which Exxon departed 
+in any way that might have caused the harm.  Indeed, 
+Campbell consistently couched his criticisms in terms of his 
+personal opinion, which does not suffice under the law of the 
+District of Columbia.  See Travers, 672 A.2d at 568 (quoted 
+above at page 2).  Consider:  One of Campbell's four criti-
+cisms of the remediation effort was that Exxon drilled too few 
+wells to capture the groundwater;  yet that aspect of Exxon's 
+remediation effort fully complied with the CAP.  Two of 
+Campbell's criticisms related, respectively, to the type of 
+pump Exxon installed in the wells and to the amount of dirt it 
+excavated in installing storage tanks;  these issues were not 
+addressed in the CAP, however, nor did Campbell attempt to 
+tie them thereto.  Campbell's final criticism was that Exxon 
+was late in installing the SVE system called for in the CAP, 
+and then ran it less than half the time it was in place;  
+although this might identify a breach of the CAP, the NTCA 
+adduced no evidence that causally connects it to Exxon's loss 
+of hydrogeologic control and the ensuing harm to the build-
+ing.
+
+     Finally, the NTCA suggests that "the regulations cited in 
+the trial court's 'evidence of negligence' jury charge are 
+relevant evidence the Jury could consider in determining the 
+common law standard of care."  These regulations avail it not 
+with respect to the standard of care, however, as the NTCA 
+did not introduce expert testimony explaining their applica-
+tion, as required in the District of Columbia.  See McNeil 
+Pharm. v. Hawkins, 686 A.2d 567, 583 (D.C. 1996) ("this 
+jurisdiction has required expert testimony to explain the 
+
+applicability of statutes where the statute is relied upon as 
+establishing the standard of care").
+
+     In sum, the NTCA failed to establish a standard of care 
+consistent with its theory of negligence.  As that is fatal to 
+the NTCA's case, we do not reach Exxon's other arguments.
+
+                         III. Conclusion
+
+     Because the NTCA did not introduce evidence of the 
+standard of care through expert testimony as required under 
+the law of the District of Columbia, it did not prove its case 
+against Exxon.  The judgment of the district court in favor of 
+the NTCA is therefore reversed and vacated, and this case is 
+remanded to the district court for it to enter judgment in 
+favor of Exxon.
+
+                                                            So ordered.
+
+                      

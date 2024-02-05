@@ -1,0 +1,432 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued March 14, 2000      Decided April 28, 2000 
+
+                           No. 96-1459
+
+                   MCI WorldCom, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+           Competitive Telecommunications Association, 
+                              et al., Intervenors
+
+                        Consolidated with
+               96-1477, 97-1009, 97-1676, 98-1003, 
+                    98-1007, 99-1240, 99-1242
+
+                    On Petitions for Review of Orders of the Federal 
+                         Communications Commission.
+
+     Donald B. Verrilli, Jr. argued the cause for petitioners and 
+supporting intervenors.  With him on the briefs were Thomas 
+
+F. O'Neil III, Matthew B. Pachman, Jodie L. Kelley, Mark 
+C. Rosenblum, Roy E. Hoffinger, David W. Carpenter, Peter 
+D. Keisler, Paul J. Zidlicky, Robert M. McDowell, Leon M. 
+Kestenbaum, Michael B. Fingerhut, James M. Smith, Mi-
+chael J. Shortley, III, Gail L. Polivy, Charles C. Hunter, and 
+Catherine M. Hannan.  Jay C. Keithley, David J. Gudino, 
+Dana Frix, Genevieve Morelli, and Richard S. Whitt entered 
+appearances.
+
+     John E. Ingle, Deputy Associate General Counsel, Federal 
+Communications Commission, argued the cause for respon-
+dents. With him on the brief were Joel I. Klein, Assistant 
+Attorney General, U.S. Department of Justice, Catherine G. 
+O'Sullivan and Robert J. Wiggers, Attorneys, Christopher J. 
+Wright, General Counsel, Federal Communications Commis-
+sion, Susan L. Launer, Deputy Associate General Counsel, 
+and Laurence N. Bourne, Counsel.  Richard K. Welch, Coun-
+sel, entered an appearance.
+
+     Henry D. Levine, Ellen G. Block, and James S. Blaszak 
+appeared on the brief for intervenors in support of respon-
+dents.
+
+     Before:  Silberman, Randolph, and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Silberman.
+
+     Silberman, Circuit Judge:  Petitioners, the large long-
+distance telecommunications carriers, seek review of an FCC 
+order prohibiting them from filing tariffs with the Commis-
+sion.  We reject their petition.
+
+                                I.
+
+     Commission efforts to move to a nontariff environment for 
+interexchange carriers--insofar as those carriers do not exer-
+cise market power--have not had an easy time with this court 
+and the Supreme Court.  For over six decades a tariff regime 
+was mandated by the Communications Act of 1934, which 
+requires the FCC to review telecommunications carriers' 
+tariffs to ensure their reasonableness.  See 47 U.S.C. ss 201-
+
+202.  The Act requires carriers to file their tariffs with the 
+FCC, see 47 U.S.C. s 203(a), and they are prohibited from 
+charging consumers except as provided in the tariffs. See 47 
+U.S.C. s 203(c) (establishing what is popularly known as the 
+"filed-rate doctrine").  Starting in the early 1980s, the Com-
+mission tried to prohibit tariff-filing by nondominant carri-
+ers--in essence, those other than AT&T--but that effort was 
+successfully challenged in this court in MCI Telecommunica-
+tions Corp. v. FCC, 765 F.2d 1186 (D.C. Cir. 1985), where we 
+struck down "mandatory detariffing" as inconsistent with the 
+1934 Act.
+
+     There remained some confusion as to whether the FCC's 
+surviving "permissive detariffing" policy for nondominant car-
+riers--allowing those carriers to choose whether to file tar-
+iffs--was premised on an agency nonenforcement position, 
+subject to only very limited judicial review, or whether it 
+constituted a substantive regulatory framework.  AT&T, by 
+filing a complaint against MCI with the Commission over 
+MCI's non-filing (as it had a right to do under section 208 of 
+the Communications Act, 47 U.S.C. s 208(a)), put the cat 
+among the canaries and forced the Commission, by defending 
+MCI, to embrace the substantive position which we had 
+rejected.  The result was more Commission reversals, see 
+American Tel. & Tel. Co. v. FCC, 978 F.2d 727 (D.C. Cir. 
+1992); American Tel. & Tel. Co. v. FCC, 1993 WL 260778 
+(D.C. Cir. 1993), this time affirmed by the Supreme Court.  
+See MCI Telecommunications Corp. v. American Tel. & Tel. 
+Co., 512 U.S. 218 (1994).  The upshot of all of this was that 
+the Commission simply could not suspend (permissively or 
+mandatorily) the tariff-filing obligations for interexchange 
+carriers, whether they had market power or not.
+
+     The landscape changed, however, when Congress passed 
+the Telecommunications Act of 1996, which requires the FCC 
+to
+
+     forbear from applying any regulation or any provision of 
+     this chapter to a telecommunications carrier or telecom-
+     munications service, or class of telecommunications carri-
+     ers or telecommunications services, in any or some of its 
+     
+     or their geographic markets, if the Commission deter-
+     mines that--
+     
+     (1) enforcement of such regulation or provision is not 
+     necessary to ensure that the charges, practices, classifi-
+     cations, or regulations by, for, or in connection with that 
+     telecommunications carrier or telecommunications ser-
+     vice are just and reasonable and are not unjustly or 
+     unreasonably discriminatory;
+     
+     (2) enforcement of such regulation or provision is not 
+     necessary for the protection of consumers;  and
+     
+     (3) forbearance from applying such provision or regula-
+     tion is consistent with the public interest.
+     
+47 U.S.C. s 160(a).1
+
+     Armed with this new statutory authority, the FCC moved 
+once more to detariff the interstate, domestic, interexchange 
+services of nondominant carriers--now all of the interex-
+change companies.  In a Notice of Proposed Rulemaking, 11 
+F.C.C. R. 7141 (1996), the Commission tentatively concluded 
+that the 1996 Act required it to "forbear from applying" the 
+tariffing requirement to nondominant carriers, and that per-
+mitting carriers to file tariffs at all would not be in the public 
+interest.  It thus announced its intention to implement man-
+datory detariffing by "forbearing from applying" s 203(a) of 
+the 1934 Act.  Following a comment period the FCC con-
+firmed that enforcement of the tariffing provision is neither 
+necessary to ensure just and reasonable, nondiscriminatory 
+rates, nor necessary for the protection of consumers, and 
+ordered mandatory detariffing.  See Second Report and Or-
+der, 11 F.C.C.R. 20730, 20742-47, 20750-53 (1996).
+
+     In their comments, petitioners did not dispute the Commis-
+sion's tentative conclusion that tariffing was no longer neces-
+
+__________
+     1 The 1996 Act was passed in the expectation that telecommunica-
+tions carriers would actively seek detariffing.  See 47 U.S.C. 
+s 160(c) ("Any telecommunications carrier, or class of telecommuni-
+cations carrier, may submit a petition to the Commission requesting 
+that the Commission exercise the authority granted under this 
+section with respect to that carrier or those carriers....").
+
+sary, but argued that the Commission's intention to order 
+mandatory detariffing--rather than permissive detariffing--
+both exceeded the Commission's statutory authority and was 
+unreasonable.  They claimed that under the 1996 Act the 
+FCC may forbear from enforcing s 203, but cannot actually 
+forbid the filing of tariffs.  Petitioners also complained that 
+detariffing would lead to their customer relationships being 
+governed by state contract laws, which, in some cases, might 
+require the execution of a new contract whenever the carrier 
+would want to change its rates.  According to petitioners, the 
+necessity of mailing new contracts to customers would in-
+crease their transaction costs resulting in higher prices for 
+consumers, make casual-calling options more difficult, and 
+hinder their ability to respond quickly to competitors' price 
+changes.  See id. at 20755-56.2  If tariffs were permitted, 
+petitioners claimed, they could still negotiate individual con-
+tracts with large customers, but also file tariffs for millions of 
+mass-market consumers, the optimal result for both groups.  
+In response to objections by consumer groups that carriers 
+might negotiate contracts with individual customers and then 
+rely on the filed-rate doctrine to collect higher tariff rates, 
+petitioners argued that courts would not apply the doctrine 
+because permissive detariffing would gut its rationale:  the 
+filed rate would no longer be the only lawful rate.  See id. at 
+20757.
+
+     The Commission rejected petitioners' statutory and prac-
+tical arguments.  The FCC concluded that outside the filing 
+requirement of s 203(a) there was no provision granting 
+carriers a right to file tariffs, so its forbearance authority 
+under the 1999 Act inherently contemplated mandatory detar-
+iffing.  It found petitioners' proposed distinction between 
+large and small customers immaterial, because the competi-
+tive benefits of detariffing would be felt by both.  The 
+Commission was also concerned that courts might not inter-
+pret the interplay of permissive detariffing and the filed-rate 
+doctrine quite as petitioners suggested, and that carriers 
+
+__________
+     2 Casual calling refers to collect calls, credit-card calls, or dial-
+around calling.
+
+would use the continued existence of the filed-rate doctrine to 
+refuse to negotiate individualized contracts with customers.  
+The risk that tariffs might serve to facilitate price fixing was 
+also a factor cited by the Commission in its order, but in 
+response to two petitions for reconsideration the Commission 
+abandoned this rationale.  See id. at 20760, 20765-67, 20772;  
+Order on Reconsideration, In re Policy and Rules Concern-
+ing the Interstate, Interexchange Marketplace, 12 F.C.C.R. 
+15014 (1997);  Second Order on Reconsideration and Erra-
+tum, In re Policy and Rules Concerning the Interstate, 
+Interexchange Marketplace, 14 F.C.C.R. 6004 (1999).
+
+     Petitioners challenge both the order and the reconsidera-
+tion orders, and raise before us the same concerns presented 
+to the Commission.  They argue that the mandatory detariff-
+ing order is ultra vires because the FCC lacks statutory 
+authority to forbid the filing of tariffs.  Petitioners claim 
+alternatively that the order is arbitrary and capricious be-
+cause the Commission's preference for mandatory detariffing 
+over permissive detariffing is not supported by facts or logic, 
+the Commission failed to respond to a third alternative ad-
+vanced by AT&T, and the Commission based its decision in 
+part on a misunderstanding of the filed-rate doctrine.
+
+                               II.
+
+     We begin with petitioners' argument that the 1996 Act does 
+not give the FCC authority to implement mandatory detariff-
+ing--it cannot forbid the filing of tariffs.  The Act states that 
+the FCC "shall forbear from applying any regulation or any 
+provision of this chapter ... if the Commission determines 
+that (1) enforcement ... is not necessary [to ensure rates are 
+just, reasonable, and nondiscriminatory], (2) enforcement ... 
+is not necessary for the protection of consumers, and (3) 
+forbearance from applying such provision or regulation is 
+consistent with the public interest."  47 U.S.C. s 160(a) (em-
+phasis added).  Petitioners urge that under the plain lan-
+guage of the statute the Commission is empowered merely to 
+exercise its discretion not to enforce a provision under such 
+circumstances.  In other words, to forbear is to "refrain from 
+
+action," see Pet. Br. at 17 (citing, e.g., Black's Law Dictionary 
+329 (5th ed. 1983));  nonenforcement is therefore forbearance, 
+but barring the doors of the FCC to lawyers bearing tariff 
+filings and throwing out extant tariffs, both affirmative acts, 
+are not.
+
+     Petitioners offer in support of their interpretation our 
+opinion in American Telephone & Telegraph, where we stated 
+that the FCC "went beyond mere forbearance ... by making 
+detariffing mandatory and by telling non-dominant carriers 
+that it would no longer even accept their rate filings...."  
+978 F.2d at 729-30.  But we ourselves have used the word 
+forbear in two different ways.  In MCI Telecommunications, 
+we said "forbearance was made mandatory" and the Commis-
+sion "changed the permissive forbearance arrangement into a 
+mandatory one."  765 F.2d at 1191 n.4, 1189.  So it is hardly 
+open to us to deny the ambiguity which accompanies the 
+statutory use of that term--particularly when Congress acted 
+against a backdrop of our decisions.  Moreover, the crucial 
+phrase in the statute is not "forbear from enforcing" but 
+rather "forbear from applying," which suggests a broader 
+authority.  As the Commission correctly points out no provi-
+sion of the Communications Act except s 203(a) requires 
+tariffing, and no provision gives a carrier a positive right to 
+file a tariff, so if it forbears from applying s 203(a) the 
+Commission's staff is not obliged to accept filings.  We there-
+fore think that the Commission's interpretation of the Act is 
+entitled to Chevron deference.  See Chevron U.S.A. Inc. v. 
+Natural Resources Defense Council, Inc., 467 U.S. 837 
+(1984).3
+
+     Petitioners alternatively claim that the Commission's order 
+is arbitrary and capricious, and, to use the Act's terminology, 
+against the "public interest" because its stated objectives 
+easily can be met by adopting a permissive-detariffing re-
+gime, and therefore the extra transaction costs imposed on 
+the carriers--and passed through to consumers--are unnec-
+
+__________
+     3 Petitioners seem to argue that the delegation of the authority to 
+"forbear" implicitly precludes authority to forbid but that is even 
+more of a stretch.
+
+essary.  The major thrust of petitioners' arguments is that 
+the Commission inadequately responded to their comments, 
+and therefore the case should be remanded to the FCC so as 
+to require the agency to do so.  (It is worth noting that we 
+have stayed the Commission's order so the status quo favors 
+the petitioners for so long as they can maintain it.)
+
+     The Commission, as we have mentioned, wishes to disen-
+tangle the interexchange carriers' prices from the filed-rate 
+doctrine.  The Commission has long been concerned that the 
+necessity of filing tariffs hinders competitive responsiveness. 
+And, according to consumer representatives' comments pre-
+sented to the FCC, the filed-rate doctrine has been used by 
+the carriers as a shield to avoid individual contract negotia-
+tions with large and small users, thereby reducing competi-
+tion among carriers.  Petitioners argue that streamlined tar-
+iff procedures already adopted by the FCC, see Tariff Filings 
+Requirements for Nondominant Common Carriers, 8 
+F.C.C.R. 6752 (1993), and carriers' ability to file tariffs for 
+individual consumers have obviated those concerns.  But the 
+Commission reasonably disagreed, in part relying on the 
+consumers' reported experience under those procedures, and 
+in part because it was wary that the filed-rate doctrine might 
+be interpreted by state and federal courts to interfere with 
+free-market behavior.  See Second Report and Order, 11 
+F.C.C.R. at 20760-61;  20766-67.
+
+     Perhaps the most interesting argument in the case relates 
+to an AT&T ex parte letter (suitably filed) sent after the 
+comment period ended.  In a rather downplayed alternative 
+argument AT&T suggested in a single paragraph that if the 
+Commission's interpretation of forbearance was legitimate 
+(which of course AT&T denied) the Commission could elimi-
+nate certain problems with tariffs--and thereby move to only 
+permissive detariffing--if it would forbear from enforcing--or 
+even forbid the application of--the filed-rate doctrine, 47 
+U.S.C. s 203(c).  The Commission did not respond to this 
+rather subtle suggestion and petitioners contend that that 
+failure alone requires a remand.  The FCC argues that 
+AT&T's comment was only a throwaway, inconsistent with 
+petitioners' primary argument that mandatory forbearance is 
+
+ultra vires, and not even part of its formal comment, so we 
+should not regard the issue as properly presented to the 
+Commission under 47 U.S.C. s 405(a).  If that were so, we 
+would not have jurisdiction to consider the point.  We do not 
+think that is quite correct, although it is a close question.
+
+     Petitioners note that the Commission's order refers to 
+several ex parte filings received after the filing in issue here.  
+See Second Report and Order, 11 F.C.C.R. at 20781-82 nn. 
+253 & 254.  AT&T's filing was not long, and the relevant 
+paragraph concluded a discussion on one of the key issues of 
+the proceeding:  whether the filed-rate doctrine would be an 
+impediment to permissive detariffing.  The paragraph--even 
+though presented as an alternative argument--does suggest 
+that forbearance from s 203(c) would eliminate the possibility 
+of carriers' invoking the filed-rate doctrine.  Therefore, we 
+think the argument was presented--if barely--to the Com-
+mission.
+
+     Still, it is one thing to preserve a point for judicial review 
+and quite another to raise the issue with sufficient force to 
+require an agency to formally respond.  An agency is not 
+obliged to respond to every comment, only those that can be 
+thought to challenge a fundamental premise.  See Grand 
+Canyon Air Tour Coalition v. FAA, 154 F.3d 455, 468 (D.C. 
+Cir. 1998) ("An agency must ... demonstrate the rationality 
+of its decisionmaking process by responding to those com-
+ments that are relevant and significant.") (emphasis added).  
+In this case, AT&T's late ex parte alternative comment does 
+not seem to us to be forceful enough to have obliged the 
+Commission to squarely confront it.  Certainly the Commis-
+sion made clear its concern that if tariffs were permitted it 
+could not foresee how the judiciary (in this case, probably 
+state courts) would treat the filed-rate doctrine.  It seems 
+obvious to us that the Commission would not have wished to 
+risk the doctrine's continued employment even had AT&T's 
+device been tried.4
+
+__________
+     4 Since the filed-rate doctrine is applied by courts, even if it has 
+its genesis in the 1934 Act, the Commission's concern about the 
+
+     Moreover, as we read the Commission's decision the es-
+sence of its reasoning was a desire to put the interexchange 
+carriers under the same market conditions as apply to any 
+other nonregulated provider of services in our economy.  The 
+Commission concluded that "a regime without nondominant 
+interexchange carrier tariffs for interstate, domestic, interex-
+change service is the most pro-competitive, deregulatory sys-
+tem."  Second Report and Order, 11 F.C.C.R. at 20760.  It 
+thought the public interest would best be served by "estab-
+lishing market conditions that more closely resemble an 
+unregulated environment."  See id.  It noted that the "par-
+ties that oppose complete detariffing have not shown that the 
+business of providing interstate, domestic, interexchange ser-
+vices offered by nondominant interexchange carriers should 
+be subject to a regulatory regime that is not available to 
+firms that compete in any other market in this country."  Id. 
+at 20763.  And, importantly, the Commission found that 
+permitting carriers to file tariffs on a voluntary basis would 
+undermine the competition-enhancing effect of detariffing.  
+See id. at 20760.5  Under such circumstances, remand is not 
+necessary for the agency to consider the proposed alternative.  
+See Center for Science in the Public Interest v. Department 
+of the Treasury, 797 F.2d 995, 1004 (D.C. Cir. 1986).
+
+     Tariff filing, in other words, in the Commission's view is an 
+undesirable deviation from the market--at least where there 
+are no market imperfections.  Petitioners contend that the 
+Commission could not foreclose a permissive detariffing with-
+out more justification than simply a desire to embrace the 
+free market.  We think, however, the Commission was enti-
+tled to value the free market, the benefits of which are rather 
+well established.  Indeed, the 1996 Act provides that "[i]f the 
+Commission determines that ... forbearance will promote 
+
+__________
+filed-rate doctrine is not unreasonable and is certainly not, as 
+petitioners claim, legally erroneous.
+
+     5 The agency rejected an alternative similar to AT&T's without 
+even referring to the danger of judicial mishandling of the filed-rate 
+doctrine;  the focus was squarely on competition.  See id. at 20766-
+67.
+
+competition ... that determination may be the basis for a ... 
+finding that forbearance is in the public interest."  47 U.S.C. 
+s 160(b).  It was certainly reasonable to move regulation in 
+that direction even if it ostensibly raises transaction costs for 
+the carriers.6
+
+                            *  *  *  *
+
+     The petition for review is denied.
+
+                                                        So ordered.
+
+__________
+     6 The Commission did not, as petitioners contend, ignore the 
+probability of increased transaction costs.  It simply found them 
+insignificant compared to the competitive benefits of detariffing.  
+See Second Report and Order, 11 F.C.C.R. at 20764.
+
+              

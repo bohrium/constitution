@@ -1,0 +1,993 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued March 8, 2002     Decided July 26, 2002 
+
+                           No. 01-1118
+
+                 Darrell Andrews Trucking, Inc., 
+                            Petitioner
+
+                                v.
+
+          Federal Motor Carrier Safety Administration, 
+                            Respondent
+
+            On Petition for Review of an Order of the 
+           Federal Motor Carrier Safety Administration
+
+     Henry E. Seaton, III argued the cause for petitioner.  
+With him on the briefs were James E. Scapellato and John T. 
+Husk.
+
+     Robert Digges, Jr. and Erika Z. Jones were on the brief for 
+amicus curiae American Trucking Associations, Inc. in sup-
+port of petitioner.
+
+     H. Thomas Byron, III, Attorney, U.S. Department of 
+Justice, argued the cause for respondent.  On the brief were 
+Robert S. Greenspan and August E. Flentje, Attorneys.  Ed-
+ward R. Cohen, Attorney, entered an appearance.
+
+     Before:  Ginsburg, Chief Judge, Rogers and Garland, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Darrell Andrews Trucking, Inc., a 
+commercial motor carrier, petitions for review of an order of 
+the Federal Motor Carrier Safety Administration (FMCSA) 
+assigning Andrews a "conditional" safety rating.  The agency 
+gave Andrews that rating because it violated a regulation 
+requiring carriers to maintain all documents that support its 
+drivers' records of duty status.  The FMCSA found that 
+Andrews removed its drivers' toll receipts from driver-specific 
+files, where they could be used to verify the number of hours 
+a driver was on the road, and commingled them with the 
+receipts of all other drivers so that the tolls could not be used 
+for verification.  Andrews challenges the FMCSA's decision 
+on a number of grounds, including a claim that the agency 
+improperly changed its original interpretation of the record-
+keeping regulation.  We reject that challenge and all of the 
+others but one.  We remand the case to the agency for 
+consideration of the sole issue that it failed to address below.
+
+                                I
+
+     Congress has directed the Secretary of Transportation to 
+prescribe regulations establishing a procedure for determin-
+ing the safety fitness of the owners and operators of commer-
+cial motor vehicles.  49 U.S.C. s 31144(b);  see MST Express 
+v. Department of Transp., 108 F.3d 401, 402 (D.C. Cir. 1997).  
+The Secretary has delegated that responsibility to the 
+FMCSA.  49 C.F.R. s 1.73.1  Pursuant to Part 385 of its 
+
+__________
+     1 Motor carriers were initially regulated by the Interstate Com-
+merce Commission.  Motor Carrier Act, Pub. L. No. 74-255, 49 
+Stat. 543 (1935).  In 1966, Congress transferred regulatory authori-
+ty to the Department of Transportation, which delegated it to the 
+
+regulations, the FMCSA assigns motor carriers one of three 
+possible safety ratings:  "satisfactory," "conditional," or "un-
+satisfactory."  49 C.F.R. s 385.3;  see id. s 385.7 (listing 
+factors considered in determining safety ratings, including the 
+frequency of accidents and the frequency and severity of 
+regulatory violations);  see generally MST Express, 108 F.3d 
+at 402-03.2  The agency conducts compliance reviews, "on-site 
+examination[s] of motor carrier operations," in order "to 
+determine whether a motor carrier meets the safety fitness 
+standard" and which rating it should be assigned.  49 C.F.R. 
+s 385.3;  see id. s 385.9.
+
+     To ensure that truck drivers are awake and alert on the 
+road, Congress has also directed the Secretary of Transporta-
+tion to prescribe the maximum number of hours they may 
+operate their vehicles in a given time period.  See 49 U.S.C. 
+s 31502(b).  To implement that directive, the FMCSA has 
+promulgated regulations that fix maximum driving times, 49 
+C.F.R. s 395.3, and require each driver to keep a record of 
+duty status (RODS)3 that records his or her driving times for 
+each 24-hour period, id. s 395.8.  In order to permit the 
+FMCSA to ensure compliance with the maximum-hours limi-
+tations, the regulations further require each motor carrier to 
+"maintain records of duty status and all supporting docu-
+
+__________
+Federal Highway Administration (FHWA), which, in turn, promul-
+gated the regulations discussed below.  The FMCSA, which has 
+now taken over those responsibilities, was created by the Motor 
+Carrier Safety Improvement Act of 1999, Pub. L. No. 106-159, 113 
+Stat. 1748.  See 49 C.F.R. s 1.73.  For the sake of convenience, we 
+will refer to both the FMCSA and its predecessor agencies as the 
+FMCSA.
+
+     2 Although "a carrier that receives a conditional rating is permit-
+ted to continue its normal operations," insurance companies use the 
+ratings and shippers consult them when selecting carriers.  MST 
+Express, 108 F.3d at 403.  A carrier that receives an unsatisfactory 
+rating may not transport certain hazardous materials or more than 
+15 passengers.  Id. at 403-04 (citing 49 C.F.R. s 385.13).
+
+     3 For convenience, we will use the abbreviation RODS to refer to 
+both "record of duty status" and "records of duty status."
+
+ments for each driver it employs for a period of six months 
+from the date of receipt."  49 C.F.R. s 395.8(k)(1).
+
+     On November 9, 2000, during an on-site compliance review, 
+FMCSA investigators determined that Andrews had violated 
+agency regulations.  The investigators found maximum-hours 
+violations as well as false RODS.  Compliance Review, J.A. at 
+48-49, 55, 57-58.  In addition, they cited Andrews for failing 
+to properly maintain supporting documents for the RODS.  
+Specifically, the investigators noted that, although Andrews 
+"receives [an] envelope containing each driver's expenses (toll 
+receipts, fuel receipts, CAT scale receipts, ...)," it separates 
+out the toll receipts and files them "all together" with those of 
+the other drivers.  J.A. at 51.  The result, the investigators 
+said, is that the "carrier is not able to cross reference toll 
+receipts back to the driver's RODS."  Id.  Moreover, if the 
+toll receipts had been maintained as received, the investiga-
+tors believed that "more falsification would have been discov-
+ered."  J.A. at 55.  Based on Andrews' treatment of the toll 
+receipts, the investigators cited the carrier for violating 
+s 395.8(k)(1), the recordkeeping regulation.  As a conse-
+quence of that violation, together with an unrelated citation 
+for an excessively high accident rate, the compliance review 
+assigned Andrews the lowest of the three possible safety 
+ratings:  "unsatisfactory."  J.A. at 49.
+
+     Andrews sought administrative review before the FMCSA.  
+The carrier conceded that it maintained the toll receipts in 
+the ordinary course of its business.  In re Darrell Andrews 
+Trucking, Inc., No. 2001-8686, slip op. at 8 (FMCSA Jan. 19, 
+2001).  Andrews argued, however, that the receipts were not 
+"supporting documents" within the meaning of s 395.8(k)(1), 
+because it did not use them to verify the information in its 
+drivers' RODS.  It further contended that, even if the toll 
+receipts were supporting documents, the regulation did not 
+require that such documents be kept in a manner that 
+permitted their correlation with the driver to whom they 
+corresponded.
+
+     The FMCSA disagreed.  First, it concluded that, under 
+s 395.8(k)(1), "supporting documents" include documents that 
+
+"can be used to verify information on the driver's records of 
+duty status"--not only those that the carrier actually does 
+use.  Andrews Trucking, FMCSA slip op. at 9-10 (emphasis 
+added) (citing Regulatory Guidance for the Federal Motor 
+Carrier Safety Regulations, 62 Fed. Reg. 16,370, 16,425 (Apr. 
+4, 1997)).  Second, the FMCSA thought it reasonable to 
+construe the maintenance requirement as requiring carriers 
+to maintain the documents in a usable condition.  Id. at 10.  
+As did the investigators, the agency noted that although each 
+Andrews driver turns in a "trip envelope" that contains his or 
+her toll and other receipts, thereafter "the toll receipts are 
+removed and all filed together in one central location."  Id. at 
+8.  This " 'salad shooter' approach," the FMCSA held, "does 
+not comply with the spirit of the law and frustrates proper 
+enforcement."  Id. at 11 (quoting In re A.D. Transport 
+Express, Inc., No. 00-05-296052, slip op. at 5 (FMCSA May 
+22, 2000), aff'd, A.D. Transport Express, Inc. v. United 
+States, 290 F.3d 761 (6th Cir. 2002)).  In particular, it "frus-
+trates an investigator[']s ability to connect the supporting 
+document (toll receipt) and the RODS," and leaves the inves-
+tigator "unable to use the toll receipt to check for hours-of-
+service or falsification violations of the driver."  Id. at 8.  
+Finally, the agency concluded that prior compliance reviews 
+had put Andrews "on notice that [its] method of retention of 
+supporting documents (including toll receipts) does not con-
+form to the regulatory requirements."  Id. at 9.
+
+     Although the FMCSA upheld Andrews' s 395.8(k)(1) viola-
+tion, it raised the carrier's overall safety rating to "condition-
+al" because it found that one of the accidents on its record 
+had been non-preventable.  Id. at 11-13.  Andrews now 
+petitions for review of the determination that it violated 
+s 395.8(k)(1).  See 28 U.S.C. s 2344.
+
+                                II
+
+     This court must uphold a decision of the FMCSA unless it 
+is "arbitrary, capricious, an abuse of discretion, or otherwise 
+not in accordance with law."  5 U.S.C. s 706(2)(A);  El Conejo 
+Americano of Texas, Inc. v. Department of Transp., 278 F.3d 
+
+17, 19-20 (D.C. Cir. 2002).  We accord "substantial deference 
+to [an] agency's interpretation of its own regulations," Thom-
+as Jefferson Univ. v. Shalala, 512 U.S. 504, 512 (1994), and 
+will affirm the FMCSA's interpretation of one of its regula-
+tions unless "it is plainly erroneous or inconsistent with the 
+regulation itself."  Corridor H Alternatives, Inc. v. Slater, 
+166 F.3d 368, 372 (D.C. Cir. 1999) (internal quotation marks 
+omitted);  see Auer v. Robbins, 519 U.S. 452, 461 (1997).
+
+     Andrews raises five main challenges to the FMCSA's deci-
+sion.  According to Andrews, the requirement that it main-
+tain each driver's toll receipts, and that it refrain from 
+combining them with the receipts of all other drivers:  (i) 
+constitutes a change in the original regulation, promulgated 
+without the required notice and opportunity for comment;  (ii) 
+even if not a change, was applied to Andrews without fair 
+notice;  (iii) imposes increased and unapproved recordkeeping 
+burdens, in violation of the Paperwork Reduction Act, 44 
+U.S.C. ss 3501-3520;  (iv) was applied to Andrews without 
+adherence to proper adjudicatory procedures;  and (v) was 
+imposed without consideration of a substantial countervailing 
+consideration.  We consider Andrews' five challenges below.4
+
+                               III
+
+     Andrews' first argument is that the interpretation of 
+s 395.8(k)(1) upon which the FMCSA based its decision con-
+stitutes a substantial change in the agency's construction of 
+that regulation, and that it was unlawful for the agency to 
+make such a change without promulgating a new regulation 
+pursuant to the notice and comment provisions of the Admin-
+istrative Procedure Act (APA), 5 U.S.C. s 553(c).  See Appa-
+lachian Power Co. v. EPA, 208 F.3d 1015, 1024 (D.C. Cir. 
+2000) ("It is well-established that an agency may not escape 
+the notice and comment requirements ... by labeling a major 
+substantive legal addition to a rule a mere interpretation.");  
+Paralyzed Veterans of Am. v. D.C. Arena L.P., 117 F.3d 579, 
+
+__________
+     4 Andrews raises a number of additional arguments, or variants 
+on the above arguments, which we have considered and rejected but 
+which are too insubstantial for extended discussion.
+
+586 (D.C. Cir. 1997) ("Once an agency gives its regulation an 
+interpretation, it can only change that interpretation as it 
+would formally modify the regulation itself:  through the 
+process of notice and comment rulemaking.").  To succeed 
+with this argument, Andrews must show that the "agency has 
+given its regulation a definitive interpretation, and later sig-
+nificantly revise[d] that interpretation."  Alaska Prof'l Hunt-
+ers Ass'n v. FAA, 177 F.3d 1030, 1034 (D.C. Cir. 1999).
+
+     Andrews contends that two elements of the FMCSA's 
+decision represent significant changes from the agency's pri-
+or, definitive position.  Those are the agency's determinations 
+that:  (a) toll receipts that the carrier does not itself use for 
+verification of RODS are "supporting documents" that the 
+carrier must maintain;  and (b) the carrier must not only 
+preserve the toll receipts but also must refrain from removing 
+them from individually identifiable files and combining them 
+in a fashion that makes correlation with individual drivers 
+impossible.  We consider each of these determinations below.
+
+                                A
+
+     The FMCSA concluded that Andrews' toll receipts are 
+"supporting documents" because they could be used by the 
+carrier and the agency to check the accuracy of the drivers' 
+RODS.  Andrews contends that the term applies only to 
+documents that a carrier actually uses to verify the RODS.  
+Because Andrews does not use toll receipts in its verification 
+process, the carrier contends that it is not required to main-
+tain them.
+
+     Section 395.8(k) states:
+
+     Retention of driver's record of duty status.  (1) Each 
+     motor carrier shall maintain records of duty status and 
+     all supporting documents for each driver it employs for a 
+     period of six months from the date of receipt.
+     
+49 C.F.R. s 395.8(k).  The regulation does not define "sup-
+porting documents" and, as a consequence, we are bound to 
+defer to a reasonable agency interpretation.  The agency 
+interprets the term as encompassing any document that could 
+
+be used to support the RODS, and notes that a toll receipt 
+(because it is normally date- and time-stamped) is such a 
+document.  Although this may not be the only plausible 
+interpretation of "supporting document," it is hardly unrea-
+sonable.  The agency further contends that to adopt An-
+drews' interpretation--which would permit each carrier to 
+exclude from the coverage of s 395.8(k)(1) any document it 
+chose simply by not using it for verification--would eviscerate 
+enforcement of the maximum-hours regulations.  While that 
+may be an overstatement of the consequence of adopting 
+Andrews' view, the agency is nonetheless correct in arguing 
+that its own view is consistent with the regulatory purpose 
+and facilitates the agency's ability to ensure the veracity of 
+the RODS and the enforcement of the limits on driving time.
+
+     We thus conclude that the FMCSA's current interpretation 
+of s 395.8(k)(1) is a reasonable construction of its regulation.  
+Nonetheless, that interpretation might still trigger the re-
+quirements of notice and comment if it represents a signifi-
+cant change from a previous, definitive interpretation.  We 
+are unable, however, to discern such a change.
+
+     In support of its contention that the FMCSA previously 
+interpreted "supporting documents" as limited to those actu-
+ally "used by" a carrier, Andrews points to a passage from a 
+regulatory guidance that the agency issued in 1993 and 
+repeated verbatim in 1997:
+
+     Supporting documents are the records of the motor 
+     carrier which are maintained in the ordinary course of 
+     business and used by the motor carrier to verify the 
+     information recorded on the driver's record of duty sta-
+     tus.  Examples are:  Bills of lading ..., weight/scale 
+     tickets, fuel receipts, fuel billing statements, [and] toll 
+     receipts....
+     
+Regulatory Guidance for the Federal Motor Carrier Safety 
+Regulations, 58 Fed. Reg. 60,734, 60,761 (Nov. 17, 1993), 
+repeated in 62 Fed. Reg. 16,370, 16,425 (Apr. 4, 1997) (empha-
+sis added).  In focusing on this passage, however, Andrews 
+neglects the two sentences that immediately follow, and that 
+
+appear to adopt a "can be used" (or "could be used") interpre-
+tation:
+
+     Supporting documents may include other documents 
+     which the motor carrier maintains and can be used to 
+     verify information on the driver's records of duty status.
+     
+Id. (emphasis added).  The regulatory guidance thus offers 
+some support for the positions of both Andrews and the 
+FMCSA, and can only be described as--at best--ambiguous.  
+It cannot be said to mark a definitive interpretation from 
+which the agency's current construction is a substantial de-
+parture.
+
+     In further support of its argument, Andrews points to a 
+Notice of Proposed Rulemaking (NPRM) that the FMCSA 
+issued in 1998 but never finalized in a promulgated rule.  The 
+NPRM was issued in response to Congress' directive, in the 
+Hazardous Materials Transportation Authorization Act of 
+1994, Pub. L. No. 103-311, s 113, 108 Stat. 1673, that the 
+FMCSA clarify the meaning of "supporting document" and 
+list those supporting documents that a carrier is required to 
+maintain.  The statute directed the FMCSA to "prescribe 
+regulations amending part 395 of [C.F.R.] title 49," and to 
+include "[a] provision specifying the number, type, and fre-
+quency of supporting documents that must be retained by a 
+motor carrier."  Id. s 113(a)(1), (b)(2).  For purposes of those 
+new regulations, the legislation defined a supporting docu-
+ment as "any document that is generated or received by a 
+motor carrier or commercial motor vehicle driver in the 
+normal course of business that could be used, as produced or 
+with additional identifying information, to verify the accuracy 
+of a driver's record of duty status."  Id. s 113(c) (emphasis 
+added).  The congressional directive was not self-executing 
+(and did not indicate whether it was restating or changing the 
+agency's existing interpretation).  Hence, because the 
+FMCSA never promulgated the contemplated regulation, the 
+statutory definition does not govern this case.  It does, 
+however, provide support for the proposition that the agen-
+cy's interpretation of "supporting document," as a document 
+
+that "could be used" to verify the accuracy of a RODS, is 
+reasonable.
+
+     Needless to say, this is not the aspect of the NPRM to 
+which Andrews draws our attention.  Instead, it contends 
+that statements in the notice show that the FMCSA under-
+stood its original 1982 interpretation of supporting documents 
+as limited to documents actually used by the carrier.  But the 
+1998 NPRM is no less ambiguous (or, perhaps better put, no 
+less self-contradictory) than the guidances that preceded it.  
+The NPRM does state, as Andrews notes, that:
+
+     The FMCSA intended that the term "supporting docu-
+     ment" refer to those specific documents, and only those 
+     specific documents, that a motor carrier used in its 
+     internally-developed system or program to verify the 
+     accuracy of the driver's duty activities.  It was not meant 
+     to encompass all records, but only those that were, 
+     indeed, used by the motor carrier, to verify the dates, 
+     times, and locations the driver recorded.
+     
+Hours of Service of Drivers;  Supporting Documents, 63 Fed. 
+Reg. 19,457, 19,459 (Apr. 20, 1998) (emphasis added).  But 
+two sentences later, the NPRM destroys this clarity by 
+stating:
+
+     The regulatory guidance stated that supporting docu-
+     ments are the records of the motor carrier maintained in 
+     the ordinary course of business that are used, or could be 
+     used, by the motor carrier to verify the information 
+     recorded on a driver's record of duty status.
+     
+Id. (emphasis added).  Moreover, the NPRM then goes on to 
+state that it is "proposing to use the statutory definition of 
+supporting documents as provided by Congress in the Act," 
+id.--i.e., the "could be used" definition--and declares that, 
+because "since 1982, [the FMCSA] has required that all 
+supporting documents must be collected and kept for six 
+months[,] [t]his collection of documents ... is not a new 
+paperwork burden."  Id. at 19,464.  In short, although "am-
+biguous" may be too charitable a word to describe these 
+conflicting passages in the NPRM, the one thing that is clear 
+is that the document cannot be regarded as a definitive 
+acknowledgment that the agency had previously regarded 
+
+"used by" rather than "could be used" as the appropriate 
+interpretation of "supporting documents."
+
+     Finally, we note that, while its Federal Register notices are 
+less than clear, the agency's prior informal adjudication on 
+this issue is quite clear and completely in accord with the 
+view of "supporting documents" relied upon by the FMCSA 
+below.  In In re National Retail Transportation, Inc., No. 
+R1-92-03 (FMCSA Sept. 12, 1996), the FMCSA rejected a 
+carrier's claim, identical to that of Andrews, that the term 
+"supporting documents" should be limited to "those that the 
+motor carrier uses--instead of could have been used--for log 
+verification."  Id., FMCSA slip op. at 6.  If supporting docu-
+ments were defined as the carrier urged, the FMCSA contin-
+ued, "motor carriers could always escape responsibility for 
+retaining them merely by saying that they do not use them."  
+Id.  Instead, the agency said, s 395.8(k)(1) "provided [the 
+carrier] with reasonable notice of a duty to keep ordinary 
+business documents so that the record of duty status of its 
+drivers could be verified"--specifically including documents 
+containing "information such as mileage, origin, destination, 
+stops, expenses, [and] tolls."  Id. at 5 (emphasis added).5
+
+     In sum, in the midst of the period in which the FMCSA 
+issued the ambiguous guidances relied upon by Andrews, it 
+issued a clear decision that confirms the interpretation ap-
+plied by the agency in this case.  Andrews is therefore unable 
+
+__________
+     5 Another FMCSA decision cited by Andrews, In re Ace Doran 
+Hauling & Rigging Co. (FMCSA Feb. 24, 2000), is inapposite.  
+That case involved the question of whether a motor carrier was 
+required to obtain and retain the toll receipts of drivers who, unlike 
+Andrews' drivers, were owner-operators rather than employees.  
+The agency concluded that "the supporting documents rule is not 
+applicable to toll receipts received by [Ace Doran's] owner operator 
+drivers since [Doran] does not reimburse them for highway tolls ... 
+and therefore does not, in the normal course of business, require 
+these drivers to submit toll receipts."  Id., FMCSA slip op. at 2.  
+Here, by contrast, there is no dispute that Andrews does reimburse 
+its drivers, and does require them to submit toll receipts in the 
+ordinary course of its business.
+
+to show that the decision below represents a substantial 
+change in the agency's construction of s 395.8(k)(1).
+
+                                B
+
+     Andrews further contends that, even if toll receipts are 
+supporting documents and therefore must be maintained, 
+s 395.8(k)(1) does not require motor carriers to maintain 
+them in a way that permits the FMCSA to match them with 
+their corresponding drivers.  Andrews argues that the 
+phrase, "shall maintain ... all supporting documents for each 
+driver," requires maintenance only and does not specify the 
+manner in which the documents must be maintained.  The 
+agency, by contrast, argues that "maintain" is reasonably 
+construed to mean maintain in a usable condition:  here, that 
+the carrier may not take documents that it receives in a 
+format that permits identification of individual drivers, and 
+then merge them so that the individual identifications are 
+lost.  Once again, we find the agency's interpretation reason-
+able.
+
+     Although s 395.8(k)(1) does not define "maintain," it is 
+hardly arbitrary to construe the regulation in light of its 
+purpose--which is to ensure "the enforceability of the hours 
+of service regulations and ... the protection to the public 
+which these regulations provide."  Driver's Logs, 47 Fed. 
+Reg. 7702, 7702 (Feb. 22, 1982).  If the carrier maintains the 
+toll receipts (which usually do not have the individual driver's 
+name on them) in the manner in which they arrive at its 
+office--i.e., in the individual driver's trip envelope--it is possi-
+ble for both the carrier and the FMCSA to enforce those 
+regulations.  If, instead, Andrews removes the receipts and, 
+without copying or otherwise marking them, combines them 
+with the receipts of all other drivers, correlation with individ-
+ual drivers becomes impossible and the purpose of the regula-
+tion is frustrated.  It is thus not unreasonable for the agency 
+to read "maintain" in a way that bars the latter practice.
+
+     Andrews seeks support for its position in the following 
+passage from the 1993 and 1997 guidances cited above:
+
+     Supporting documents may include other documents 
+     which the motor carrier maintains and can be used to 
+     
+     verify information on the driver's records of duty status.  
+     If these records are maintained at locations other than 
+     the principal place of business but are not used by the 
+     motor carrier for verification purposes, they must be 
+     forwarded to the principal place of business upon a 
+     request by an authorized representative of [the FMCSA] 
+     or State official within 2 business days.
+     
+58 Fed. Reg. at 60,761, repeated in 62 Fed. Reg. at 16,425 
+(emphasis added).  Andrews contends that the italicized 
+clause recognizes that a carrier may keep records that it does 
+not use for verification, like the toll receipts in this case, at a 
+location remote from the place at which it keeps the driver's 
+RODS.  But while Andrews is correct in concluding that 
+supporting documents may be removed from their original 
+location, the passage also makes clear that the documents 
+must quickly be returned upon the request of an FMCSA 
+investigator.  And since the investigator's purpose in request-
+ing return is to permit verification of the information in the 
+driver's RODS, it is not unreasonable for the agency to insist 
+that, if the documents are removed, they must be handled in 
+a fashion that permits them to be matched with their original 
+driver.
+
+     Andrews also contends that the FMCSA's decision in this 
+case amounts to the de facto adoption of a recordkeeping 
+requirement considered but rejected in the 1998 NPRM.  
+Like that requirement, Andrews asserts, the FMCSA deci-
+sion requires the carrier to "toe tag" (label by driver) every 
+supporting document, create a system of cross-indexing, and 
+then file each document accordingly.  But that is not an 
+accurate description of the decision below.  This case involves 
+a document (a toll receipt) that Andrews concedes it receives 
+in the ordinary course of business, and that it receives in a 
+manner (inside the driver's trip envelope) that permits identi-
+fication of the driver who submitted it.  All the FMCSA's 
+decision requires is that Andrews retain such documents (for 
+six months) and refrain from destroying the agency's ability 
+to match them with their associated drivers by taking them 
+out of their original envelopes and tossing them into a com-
+mon pile.  In short, the FMCSA's decision does not require 
+
+Andrews to index these documents;  it merely bars the carrier 
+from de-indexing them (at least without copying or labeling 
+them first).6
+
+     Our conclusion, that the FMCSA has reasonably interpret-
+ed s 395.8(k)(1) as barring Andrews from irretrievably com-
+mingling its drivers' toll receipts, is in accord with the views 
+of the only other circuit to have considered the question.  In 
+A.D. Transport Express, Inc. v. United States, the Sixth 
+Circuit considered the FMCSA's conditional rating of a motor 
+carrier that, like Andrews, treated its drivers' toll receipts in 
+a fashion that prevented their comparison with the associated 
+driver's RODS.  290 F.3d 761 (6th Cir. 2002), aff'g In re A.D. 
+Transport Express, Inc., No. 00-05-296052 (FMCSA May 22, 
+2000).  A.D. Transport received a driver's packet from each 
+driver, containing (inter alia) the driver's toll receipts, bills of 
+lading, fuel receipts, and logs.  When the payroll department 
+finished with the toll receipts, it "lumped" the receipts for all 
+its drivers "into one large envelope" for each month of the 
+year--making correlation of receipts and drivers impossible.  
+The FMCSA found A.D. Transport to have violated 
+s 395.8(k)(1), holding that "supporting documents must be 
+maintained by the carrier in a manner that will allow an 
+agency investigator to compare those documents to the 
+RODS."  In re A.D. Transport, FMCSA slip op. at 5, quoted 
+in A.D. Transport, 290 F.3d at 766.
+
+     The Sixth Circuit affirmed, concluding that "the FMCSA's 
+interpretation of 49 C.F.R. s 395.8(k) is reasonable and con-
+sistent with the language of the regulations."  A.D. Trans-
+port, 290 F.3d at 766.  It found that A.D. Transport's practice 
+"rendered the toll receipts nearly useless in verifying a 
+driver's RODS," and that while it was semantically possible to 
+
+__________
+     6 Similarly, in A.D. Transport, discussed below, the FMCSA 
+emphasized that the toll receipts at issue there were "already 
+grouped nicely together by driver" when the carrier received them.  
+In re A.D. Transport, FMCSA slip op. at 6.  It was only the 
+"carrier[']s own overt action that resulted in the separation of the 
+supporting documents from the RODS without first taking proper 
+steps to cross reference the documents back to the driver's RODS."  
+Id.
+
+construe "maintain" as requiring nothing more than what 
+A.D. Transport did, the FMCSA's interpretation better 
+served the statutory purpose of promoting the safe operation 
+of commercial motor vehicles.  Id. at 767.  Finally, the court 
+also held that, because the FMCSA's decision "did nothing 
+more than interpret an existing regulation" and "did not 
+change any existing law or policy," it "was an interpretative 
+rule exempt from the notice and comment requirements of 
+the Administrative Procedure Act."  Id. at 768.  We are in 
+accord with the views of the Sixth Circuit, and therefore 
+reject the claim of the petitioner here.7
+
+                                IV
+
+     Andrews' next argument is that, even if the FMCSA's 
+interpretation of s 395.8(k)(1) is reasonable and unchanged, 
+"Andrews had no fair notice that its satisfactory safety rating 
+was in jeopardy" for failing to maintain its drivers' toll 
+receipts in an identifiable fashion.  Andrews Br. at 18.  In 
+General Electric Co. v. EPA, we held that "[i]n the absence of 
+notice--for example, when the regulation is not sufficiently 
+clear to warn a party about what is expected of it--an agency 
+may not deprive a party of property by imposing civil or 
+criminal liability."  53 F.3d 1324, 1328-29 (D.C. Cir. 1995).8  
+As the discussion in Part III.A suggests, there is something 
+to Andrews' argument that the agency has been less than 
+clear as to whether the term "supporting documents" extends 
+
+__________
+     7 Andrews correctly notes that, although the Sixth Circuit opinion 
+does not mention it, the carrier in A.D. Transport, unlike Andrews, 
+used the toll receipts to verify the accuracy of its drivers' RODS.  
+See In re A.D. Transport, FMCSA slip op. at 2, 3.  That fact, 
+however, goes only to the question of whether the toll receipts 
+should be characterized as "supporting documents," not to the 
+manner of their retention.  As we have concluded that Andrews' toll 
+receipts are supporting documents regardless of whether they are 
+actually used for RODS verification, the Sixth Circuit's decision is 
+directly on point regarding how such documents must be main-
+tained.
+
+     8 General Electric applies where the a party is deprived of 
+"property," or where "sanctions are drastic."  Id. at 1328-29.  
+
+to records, like Andrews' toll receipts, that could be but are 
+not actually used by a carrier to verify its drivers' RODS.  
+Although the regulatory language may not itself be so unclear 
+as to implicate the General Electric rule, the self-
+contradictory "clarifying" utterances of the agency could have 
+left a carrier confused about what was required of it.  For 
+that, the agency has no one but itself to blame.  Despite 
+Congress' 1994 direction that the FMCSA issue a regulation 
+elucidating the term's coverage, the agency has still inexplica-
+bly failed to act.
+
+     Notwithstanding the ambiguity of the regulatory guidances, 
+however, the FMCSA's 1996 opinion in National Retail 
+Transportation was crystal clear on this point.  It expressly 
+rejected the claim that supporting documents are only those a 
+motor carrier actually uses, and specifically listed tolls as the 
+kind of information included within the realm of "supporting 
+documents."9  Moreover, Andrews' early reaction to its 2000 
+citation strongly suggests that the employer was not in doubt 
+that s 395.8(k)(1) requires it to maintain toll receipts.  The 
+carrier's petition for administrative review did not dispute 
+that toll receipts are supporting documents, but claimed only 
+that the regulation did not require that "all supporting docu-
+ments [be] filed by each driver."  J.A. at 7 (emphasis omit-
+ted).  Similarly, the affidavit of Andrews' safety director 
+acknowledged that "I retain toll receipts for at least six 
+months to comply with 49 C.F.R. 395.8(k)."  Jones Aff. at 2 
+(J.A. at 14).10  Indeed, despite the legal arguments Andrews 
+
+__________
+Because we conclude that Andrews received fair notice, we need not 
+decide whether the issuance of a "conditional" rating meets those 
+prerequisites.
+
+     9 Although Andrews contends that the FMCSA's decisions are not 
+widely available, it concedes that they are available on the FMCSA 
+website.  Andrews Br. at 17 n.7.  That is sufficient notice for a well-
+represented regulated entity as intensely interested in the issue as 
+is Andrews.
+
+     10 Andrews did dispute that toll receipts are supporting docu-
+ments in the brief it filed in support of its administrative appeal.  
+J.A. at 38.
+
+raises here, the fact is that Andrews does retain its toll 
+receipts:  the carrier was not downgraded for not having toll 
+receipts, but for refiling them in a manner that left them 
+useless.
+
+     The only remaining question, therefore, is whether An-
+drews had sufficient notice that the FMCSA regarded An-
+drews' practice of combining drivers' toll receipts as a viola-
+tion of s 395.8(k)(1).  On that point, this court has no doubt.  
+Under General Electric, an "agency's pre-enforcement efforts 
+to bring about compliance will provide adequate notice."  53 
+F.3d at 1329.  And as the agency points out, Andrews was the 
+subject of many such efforts.
+
+     In response to the fair notice argument below, the FMCSA 
+held that Andrews "has previously been put on notice that 
+[its] method of retention of supporting documents (including 
+toll receipts) does not conform to the regulatory require-
+ments," specifically citing Andrews' March 1997 compliance 
+review.  Andrews Trucking, FMCSA slip op. at 9.  In that 
+review, Andrews was cited for violating s 395.8(k)(1), because 
+its drivers had submitted "[f]alse reports of record of duty 
+status" and because "supporting documents are not identifi-
+able to the driver[']s corresponding record of duty status."  
+J.A. at 62.  The review went on to advise Andrews to "ensure 
+all documents supporting records of duty status (such as toll, 
+fuel[,] repair and other on-the-road expense receipts ...) ... 
+are identified to the corresponding drivers' record of duty 
+status."  J.A. at 63 (emphasis added).11
+
+     Nor was March 1997 the first or last time Andrews was 
+warned prior to the instant citation.  In Andrews' July 1991 
+compliance review, the FMCSA discovered ten instances in 
+
+__________
+     11 Andrews contends that it was entitled to regard this advice as 
+optional because it was listed in a part of the compliance review 
+sheet labeled "Recommendations."  In light of the other instruc-
+tions listed under the same heading, that was not a reasonable 
+reading.  See J.A. at 63 (requiring Andrews, inter alia, to "ensure 
+all drivers are fully and properly qualified," "maintain all required 
+controlled substance testing records," and "ensure all drivers' rec-
+ords of duty status are accurate").
+
+which drivers had falsified their RODS.  Administrative Rec-
+ord (A.R.) doc. 12, at 2.  Andrews was cited for not having "a 
+system to effectively control the drivers' hours of service."  
+Id. at 6.  The investigators specifically noted:  "Carrier has 
+change[d] his method of filing documents since the last prose-
+cution.  Toll records are thrown in a box."  Id. at 7.  There-
+after, in a September 1993 compliance review, Andrews was 
+again cited for allowing drivers to submit "[f]alse reports of 
+records of duty status," and for allowing drivers to drive in 
+excess of the maximum-hour limitations.  A.R. doc. 14, at 2.  
+The FMCSA specifically noted that Andrews had "reduce[d] 
+the probability of identifying a false record of duty status by 
+mainta[in]ing toll receipts by payroll period, not by driver."  
+Id. at 5.  Finally, in a December 1997 compliance review, the 
+investigators once again noted that Andrews had "taken the 
+toll tickets from the driver's expense envelope and placed 
+these documents in a box with other driver[s'] toll tickets."  
+A.R. doc. 18, at 6.  This meant, the investigators said, that 
+the toll receipts could not "be used to check the driver's logs 
+for accuracy."  It "appear[ed]," they continued, that "the 
+carrier has taken steps to make it difficult to determine if the 
+drivers are in a specific location at a certain time."  Id.12
+
+     Nor were these citations Andrews' only notice of the 
+FMCSA's interpretation of the recordkeeping requirements.  
+As we have discussed above, six months before it issued the 
+citation to Andrews, the FMCSA held in A.D. Transport that 
+a carrier's practice of removing toll receipts from its individu-
+al drivers' packets and combining them in large envelopes 
+
+__________
+     12 Andrews urges us not to consider these prior compliance 
+reviews, on the ground that they were not relied upon by the 
+FMCSA below and were outside the administrative record.  An-
+drews is wrong on both counts.  In the FMCSA opinion, the 
+associate director for motor carriers stated:  "I have reviewed the 
+prior CRs [compliance reviews] conducted on this carrier and 
+conclude that Darrell Andrews Trucking has previously been put on 
+notice...."  Andrews Trucking, FMCSA slip op. at 9.  Moreover, 
+the certified index to the administrative record makes clear that the 
+compliance reviews of July 1991, September 1993, March 1997, and 
+December 1997 were all part of that record.  See J.A. at 3-4.
+
+violated s 395.8(k)(1) and warranted a conditional safety rat-
+ing.  In re A.D. Transport, FMCSA slip op. at 6.  Thus, even 
+if nothing else did, A.D. Transport put Andrews squarely on 
+notice that it should cease the filing practices against which it 
+had been repeatedly warned throughout the 1990s.  This is 
+not a case in which a regulated entity required "extraordinary 
+intuition or ... the aid of a psychic" to anticipate being found 
+in violation of a regulation.  United States v. Chrysler Corp., 
+158 F.3d 1350, 1357 (D.C. Cir. 1998).  Rather, it is a case in 
+which the carrier persisted in its ways despite clear and 
+repeated warnings from the relevant government agency.  
+Andrews, therefore, can find no refuge in the doctrine of fair 
+notice.
+
+                                V
+
+     Andrews also argues that the requirement that toll receipts 
+be retained, and retained in a way that permits the FMCSA 
+to match them to its drivers' RODS, violates the Paperwork 
+Reduction Act, 44 U.S.C. ss 3501-3520.  That statute bars 
+the enforcement of a recordkeeping requirement unless it is 
+first approved by the Office of Management and Budget 
+(OMB).  Id. ss 3507, 3512.  The FMCSA does not dispute 
+the application of the Act to the recordkeeping requirements 
+of s 395.8(k)(1), but argues that the statute has been satisfied 
+because OMB approved the regulation when it was promul-
+gated in 1982.  See Driver's Logs, 47 Fed. Reg. 53,383, 53,383 
+(Nov. 26, 1982);  see also 63 Fed. Reg. at 19,464 (referring to 
+past OMB approvals of s 395.8(k)(1) recordkeeping require-
+ments).
+
+     Andrews contends that the original approval by OMB is 
+insufficient because the FMCSA has materially changed the 
+meaning of the regulation, and that the new meaning amounts 
+to a new recordkeeping burden regardless of whether the 
+agency acknowledges the point by promulgating a new rule.  
+See 44 U.S.C. s 3507(h)(3) (providing that "an agency may 
+not make a substantive or material modification to a collection 
+of information after such collection has been approved by 
+[OMB], unless the modification has been submitted to [OMB] 
+
+for review and approval").  This argument has little traction, 
+however, as we have already accepted the agency's position 
+that its current interpretation does not depart from the 
+original.  Andrews might nonetheless prevail if it could dem-
+onstrate that, whatever the FMCSA thought in 1982, OMB 
+understood the regulation differently.  But this Andrews 
+cannot do either, as the 1982 announcement of OMB approval 
+did not describe what documents either agency thought were 
+within the scope of the regulation.  See 47 Fed. Reg. at 
+53,383.
+
+     In a related vein, Andrews argues that the FMCSA's latest 
+estimate of the burden posed by its current interpretation is 
+substantially higher than its estimate of the burden of the 
+original rule.  If true, this could suggest that the agency is 
+indeed requiring more than it did when the rule was first 
+promulgated.13  The cited estimates, however, do not support 
+Andrews' argument.
+
+     Once again, the document Andrews points to is the 1998 
+NPRM.  There, the FMCSA stated that it believed the 
+burden imposed by fully implementing the Hazardous Materi-
+als Transportation Authorization Act of 1994 "would be more 
+than is currently expected" and "at least 219,095,423 hours."  
+63 Fed. Reg. at 19,465.  Although the NPRM did not state 
+the "currently expected" burden, Andrews points to a roughly 
+contemporaneous submission by the Department of Transpor-
+tation that put the figure at 14,284,339 hours.14  Andrews 
+contends that the difference results from the Hazardous 
+Materials Act's requirement that all documents that "could be 
+used" to verify RODS must be retained and indexed, while 
+
+__________
+     13 However, because the paperwork burden of a regulation is 
+measured by computing the total number of "burden hours" it 
+imposes on a nationwide basis, an increased burden may only 
+indicate that there are now more carriers, more drivers, and more 
+documents of the same kind than there were in 1982.  See, e.g., 
+FHWA, Paperwork Reduction Act Submission, Supporting State-
+ment at 6 (July 30, 1998).
+
+     14 FHWA, Paperwork Reduction Act Submission, Supporting 
+Statement at 6.
+
+the original regulation required nothing more than retention 
+of those documents that actually are used to verify RODS.
+
+     The 1998 NPRM, however, does not corroborate Andrews' 
+argument.  The estimated 219,095,423-hour burden was not 
+for maintaining, in the manner in which they were received 
+by the carrier, all documents that could be used to verify a 
+driver's RODS.  To the contrary, the agency indicated that 
+merely defining supporting documents as the 1994 Act de-
+fined them (i.e., as those that "could be" used) "is not a new 
+paperwork burden."  Id. at 19,464.  The "collection of docu-
+ments" under that definition, the FMCSA said, "has been 
+calculated into past paperwork burden approvals of the Office 
+of Management and Budget."  Id.  Rather, the 219-million-
+hour burden was for a new rule the agency considered but did 
+not propose:  a rule that would have required carriers to 
+"audit each one" of 23 supporting documents for a minimum 
+of five items, "compare the documents to the RODS," and 
+"fil[e] and stor[e] the 23 records."  Id. at 19,465.  That was 
+the task the agency said was "more than is currently expect-
+ed" and that it rejected as too burdensome.  Id.  And as we 
+have explained in Part III.B above, that is not the task 
+required by the decision below.
+
+     In sum, because the FMCSA's decision in this case relies 
+upon a reasonable interpretation of a regulation previously 
+cleared by OMB under the Paperwork Reduction Act, and 
+does not represent the imposition of a new rule or record-
+keeping burden, the Act does not bar enforcement of the 
+interpretation against Andrews.15
+
+                                VI
+
+     Andrews further contends that, in reaching its decision to 
+downgrade the carrier's safety rating, the FMCSA violated 
+the procedural requirements of both the APA and the Consti-
+tution.  In particular, it contends that the FMCSA improper-
+
+__________
+     15 For the same reason, we reject Andrews' assertion that the 
+FMCSA violated the Regulatory Flexibility Act, 5 U.S.C. ss 601-
+612, by effectively issuing a new rule without undertaking a cost-
+benefit analysis to determine the rule's impact on small business.
+
+ly denied its request for an oral hearing and discovery.  
+These arguments require only brief mention.
+
+     Andrews argues that it was entitled to an oral hearing and 
+discovery by the provisions of 49 C.F.R. ss 386.35 and 386.43.  
+The FMCSA, however, held that those provisions do not 
+apply to the downgrading of a safety rating under Part 385, 
+but only to three specific types of proceedings under Part 
+386, none of which is at issue here.  Andrews Trucking, 
+FMCSA slip op. at 3.  This court has previously reached the 
+same conclusion.  See MST Express, 108 F.3d at 405 (holding 
+that the procedures of Part 386 do not apply to a proceeding 
+to determine a carrier's safety rating, and that "a carrier that 
+disputes its safety rating is not entitled to an administrative 
+hearing").  Nor is there anything in the APA or any relevant 
+statute that requires these procedural incidents for informal 
+adjudications like this one.  Accordingly, we are powerless to 
+order the agency to do more.  See Vermont Yankee Nuclear 
+Power Corp. v. NRDC, 435 U.S. 519, 524 (1978);  Hi-Tech 
+Furnace Sys., Inc. v. FCC, 224 F.3d 781, 789-90 (D.C. Cir. 
+2000);  see also Trailways Lines, Inc. v. ICC, 766 F.2d 1537, 
+1546 (D.C. Cir. 1985) ("The conduct and extent of discovery in 
+agency proceedings is a matter ordinarily entrusted to the 
+expert agency in the first instance and will not, barring the 
+most extraordinary circumstances, warrant the Draconian 
+sanction of overturning a reasoned agency decision.").
+
+     Andrews' additional contention, that not providing an oral 
+hearing and discovery (principally regarding the unreliability 
+of toll records) violates the Due Process Clause of the Consti-
+tution, is also groundless.  Without deciding whether the 
+conditional safety rating at issue deprives Andrews of the 
+kind of protected interest that triggers application of the 
+clause, see Lepelletier v. FDIC, 164 F.3d 37, 45 (D.C. Cir. 
+1999), it is clear that Andrews did receive due process here.  
+The FMCSA citation put Andrews on notice of the charges, 
+Andrews had an opportunity to present its arguments 
+through written briefs, and the carrier similarly had an 
+opportunity to present evidence of the unreliability of toll 
+receipts by affidavit.  Procedural due process requires no 
+more in this kind of administrative setting.  See Lomak 
+
+Petroleum, Inc. v. FERC, 206 F.3d 1193, 1199-200 (D.C. Cir. 
+2000).
+
+                               VII
+
+     Finally, we consider Andrews' argument that it was arbi-
+trary and capricious for the FMCSA to downgrade the carri-
+er's safety rating, based on its treatment of toll receipts, 
+when evidence shows that such receipts are unreliable.  In 
+support, Andrews submitted an affidavit from its safety di-
+rector, stating:  "Toll receipts are not used to verify logs 
+because they have proven to be unreliable.  On many occa-
+sions authorities mass produce toll receipts in order to handle 
+peak traffic volumes.  Consequently, drivers often have re-
+ceipts that do not reflect the actual time the driver is at that 
+location."  Jones Aff. at 2 (J.A. at 14).  The FMCSA's 
+decision did not address Andrews' contention regarding the 
+reliability of toll receipts.
+
+     Andrews' argument is a substantial one, and requires an 
+answer from the agency.  See Frizelle v. Slater, 111 F.3d 172, 
+177 (D.C. Cir. 1997) (concluding that an agency decision was 
+arbitrary because it did not respond to non-frivolous argu-
+ments that could affect the agency's ultimate disposition).  If 
+Andrews is correct, and toll receipts are in fact unreliable 
+(and misleading) records of the time drivers are actually on 
+the road, then it might well be arbitrary and capricious for 
+the agency to regard such worthless records as "supporting 
+documents" and to downgrade a carrier for failing to retain 
+them.  Of course, we have no idea whether Andrews is 
+correct on this point.  In National Retail Transportation, for 
+example, the agency rejected a similar argument on the 
+ground that there were serious flaws in the evidence of 
+unreliability offered by the motor carrier.  National Retail 
+Transportation, FMCSA slip op. at 5-6.  Perhaps that is the 
+case here as well.  But without any explanation at all by the 
+agency, we cannot use that as a ground for affirming its 
+decision.  See American Mun. Power--Ohio, Inc. v. FERC, 
+863 F.2d 70, 73 (D.C. Cir. 1988) ("[W]e cannot uphold the 
+agency's decision 'on the same basis articulated' where the 
+
+agency's decision articulates none." (quoting Burlington 
+Truck Lines, Inc. v. United States, 371 U.S. 156, 169 (1962))).  
+We must therefore remand the case so that the FMCSA may 
+answer this argument.  See Iowa v. FCC, 218 F.3d 756, 759 
+(D.C. Cir. 2000) (remanding where agency failed to address 
+substantial argument).
+
+                               VIII
+
+     We conclude that the FMCSA reasonably interpreted the 
+relevant regulation, provided Andrews with fair notice of that 
+interpretation, complied with the requirements of the Paper-
+work Reduction Act, and afforded the carrier appropriate 
+process before downgrading its safety rating.  However, be-
+cause the agency failed to address a significant challenge to 
+the rationality of its decision in this case, we remand the case 
+to the agency for further proceedings consistent with this 
+opinion.
+
+                                                                 Remanded.
+

@@ -1,0 +1,1089 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued November 8, 1999     Decided August 18, 2000 
+
+                           No. 99-1029
+
+                      Sharon M. Graham and 
+                        Stephen C. Voss, 
+                           Petitioners
+
+                                v.
+
+               Securities and Exchange Commission, 
+                            Respondent
+
+                            ---------
+
+            On Petition for Review of an Order of the 
+                Securities and Exchange Commission
+
+                            ---------
+
+     Ida Wurczinger Draim argued the cause and filed the 
+briefs for petitioners.
+
+     Susan S. McDonald, Senior Litigation Counsel, Securities 
+and Exchange Commission, argued the cause for respondent.  
+With her on the brief were David M. Becker, Deputy General 
+Counsel, Jacob H. Stillman, Solicitor, and Robert C. Stacy, II, 
+Attorney.
+
+     Before:  Ginsburg, Tatel, and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Sharon Graham and Stephen Voss 
+petition for review of an order of the Securities and Exchange 
+Commission (SEC) sanctioning them for conduct relating to 
+trades executed for their customer, John Broumas.  The 
+Commission found that Graham, a registered representative 
+with Voss' brokerage firm, violated section 10(b) of the Secu-
+rities Exchange Act of 1934 and Rule 10b-5 promulgated 
+thereunder by aiding and abetting Broumas in the fraudulent 
+trading of stock.  The Commission further concluded that 
+Voss had failed reasonably to supervise Graham with a view 
+to preventing the securities violations.  Graham challenges 
+the Commission's findings on several grounds;  Voss' chal-
+lenge depends solely upon the exoneration of Graham.  Be-
+cause we conclude that the Commission's decision was reason-
+able and supported by substantial evidence, we deny the 
+petition for review and affirm the SEC's order.
+
+                                I
+
+     Voss is the owner and president of an independent discount 
+brokerage firm, Voss & Co., Inc. (VCI), located in Springfield, 
+Virginia.  Graham began working in the securities industry in 
+1982 and joined VCI in September of 1984.  She was a 
+registered representative,1 as well as VCI's cashier and back 
+office assistant.  She was also VCI's primary "house" broker, 
+handling house accounts on a noncommission basis as well as 
+some 250 of her own accounts for commissions.  See J.A. at 
+371-72.2  Graham spent the bulk of her time performing 
+
+__________
+     1 A representative is a person associated with a National Associ-
+ation of Securities Dealers (NASD) member firm who is engaged in 
+supervision, solicitation, or conduct of securities business.  The 
+NASD requires that representatives of member firms register with 
+the Association and pass a qualifying exam.  See 6 Louis Loss & 
+Joel Seligman, Securities Regulation 2809-11 & n.42 (3d ed. 1990).
+
+     2 At VCI, house accounts were not assigned to any particular 
+broker.  Commissions on trades in these accounts were paid to the 
+firm rather than to the brokers executing the trades.
+
+cashiering and back office duties.  In February of 1990, she 
+received her principal's license.3  Graham's immediate super-
+visor, James Pasztor, was VCI's vice-president, general man-
+ager, and SEC compliance officer.
+
+     One of the firm's house accounts was a joint account in the 
+names of John Broumas and his wife, Ruth.  Broumas' trou-
+bles began when the stock market crashed in 1987.  To cover 
+his losses, he borrowed heavily and by May 1989 owed 
+roughly $2 million in personal loans and $1 million in mort-
+gages.  See id. at 180-85.  Unable to borrow any more from 
+banks, Broumas launched upon a scheme that the SEC 
+described as "similar to check-kiting."  Sharon M. Graham, 
+Release No. 34-40727, 68 S.E.C. Docket 1934, 1998 WL 
+823072, at *2 (Nov. 30, 1998).4
+
+     Broumas held a substantial number of shares in the Class 
+A common stock of James Madison, Ltd. (JML), a holding 
+company for a family of banks with which he was affiliated.  
+Although JML stock was listed on the American Stock Ex-
+change (AMEX), Broumas undertook a series of trades in the 
+over-the-counter market.  Broumas arranged wash trades 
+and matched orders5 of JML stock among accounts in his own 
+name and in the name of nominees whose accounts he con-
+
+__________
+     3 A principal is a person who is "actively engaged in the 
+management of the [NASD] member's ... securities business."  
+Markowski v. SEC, 34 F.3d 99, 101 n.1 (2d Cir. 1994) (internal 
+quotation omitted).  An additional examination is required to be-
+come registered as a principal.  See 6 Loss & Seligman, supra, at 
+2810-11 n.42.
+
+     4 For a description of the mechanics of a check-kiting scheme, 
+see Williams v. United States, 358 U.S. 279, 281 n.1 (1982).
+
+     5 "Wash trades," also called "wash sales," are "transactions 
+involving no change in beneficial ownership."  Ernst & Ernst v. 
+Hochfelder, 425 U.S. 185, 205 n.25 (1976).  "Matched orders" are 
+"orders for the purchase/sale of a security that are entered with the 
+knowledge that orders of substantially the same size, at substantial-
+ly the same time and price, have been or will be entered by the 
+same or different persons for the sale/purchase of such security."  
+Id.;  see Michael Batterman, 46 S.E.C. 304, 305 (1976).
+
+trolled.  Broumas directed these trades among at least 25 
+different brokerage accounts he controlled at 14 different 
+broker-dealers.  In each case, he would instruct one broker to 
+buy and another to sell a specified number of shares at a 
+specified price, thus moving the stock from one of his (or his 
+controlled) accounts to another.  See J.A. at 211.  Neither 
+broker was told by Broumas that the other account also 
+belonged to or was controlled by him.
+
+     Broumas' stock was held in margin accounts.6  Under the 
+rules applicable to those accounts, Broumas could obtain the 
+proceeds from a sale one day after the transaction was 
+completed, but could wait at least five business days until the 
+settlement date to pay for the corresponding purchase.  See 
+Graham, 1998 WL 823072, at *2;  see also 12 C.F.R. s 220.4 
+(1989).  When the settlement date arrived, Broumas some-
+times executed another set of wash trades or matched orders 
+to obtain the funds he needed to make the payment--as if he 
+were playing a fiscal version of "musical chairs."7
+
+     As Broumas' financial situation continued to deteriorate, 
+"many of the broker-dealers with which he dealt ... bec[ame] 
+increasingly reluctant to extend him credit."  Graham, 1998 
+WL 823072, at *2.  Broumas then began to effectuate wash 
+and matched trades through accounts in the names of rela-
+tives and business associates.  The trades in these nominee 
+
+__________
+     6 In a margin account:
+
+          the broker lends the customer money to allow him to pur-
+          chase securities.  The customer advances only a portion of 
+          the purchase price and pays interest on the balance.  The 
+          broker maintains the securities purchased as collateral.  If 
+          the value of the securities declines, the broker may seek 
+          more collateral for the protection of his "loan."
+          
+Liang v. Dean Witter & Co., 540 F.2d 1107, 1109 n.2 (D.C. Cir. 
+1976).
+
+     7 Broumas testified that the proceeds available to him during 
+the settlement period allowed him to "take care of my bank notes or 
+whatever was pressing me that day and then worry about how I 
+was going to handle the purchase price and the amount of the 
+purchase price a week later."  J.A. at 209.
+
+accounts were placed by Broumas or at his direction with 
+funds he provided and for his benefit.  Between January 1, 
+1989 and June 30, 1990, Broumas effectuated 203 sets of wash 
+and match trades in JML stock, involving a total of 420 
+trades.  Each trade typically involved the purchase and sale 
+of between 3,000 and 12,000 JML shares.  See id.
+
+     Seventy-six of the directed trades were conducted by VCI, 
+and approximately 60 of those--an average of one every 
+week-and-a-half--were executed by Graham.  At the begin-
+ning of 1989, Broumas' joint account at VCI held 37,500 
+shares of JML stock.  From January 23, 1989 through May 
+24, 1990, Broumas instructed VCI to exchange a total of 
+644,800 shares.  Although Broumas' account was a "house" 
+account, a rapport soon developed between Broumas and 
+Graham and he began to ask for her specifically.  Generally, 
+Broumas would give Graham a specific number of shares to 
+trade, a particular limit price, the name of the firm ("contra-
+broker") that would execute the other side of the trade, and 
+the name of the broker he wanted her to contact at that firm.  
+After consulting the AMEX listing to verify that the order 
+price was within the listed bid and offer prices, Graham would 
+complete the trade.  Broumas usually asked VCI to issue a 
+check for the proceeds the day after the sale.  See id. at *3.
+
+     Graham observed that Broumas "had a peculiar way of 
+trading."  J.A. at 306.  Of the 100 house accounts she han-
+dled during this time, only Broumas directed trades, and only 
+Broumas traded in such large quantities.  See id. at 285.  
+Because Broumas always identified the specific contact per-
+sons to call at the contra-brokers, Graham came to believe 
+that Broumas controlled the shares in the accounts or at least 
+"had connections" with them, id. at 382, although Broumas 
+never told her so and she "never asked him," id. at 286-87.  
+Finally, from her work as the firm's cashier, Graham noticed 
+that Broumas "never seemed to ... make any money on his 
+trades."  Id. at 380, 383.  Eventually, Graham asked Brou-
+mas directly why he traded in such a strange manner, and 
+Broumas answered that "he owed bank notes or bank loans 
+and that for him to sell the stock was an easier way for him to 
+
+get the money to pay those loans, as opposed to having to go 
+to other means."  Id. at 356-57;  see also id. at 308.8
+
+     Due to Broumas' suspicious manner of trading, Graham 
+undertook special precautions to protect her firm's financial 
+interests.  She knew that Broumas had financial problems, 
+that he had bounced checks, and that he often owed money on 
+his joint account.  See id. at 288, 317, 343.  As a consequence, 
+she feared that "Broumas' orders presented a financial risk to 
+the firm."  Graham Br. at 14 (citing J.A. at 317).  Graham 
+discussed Broumas' "peculiar way of trading" with her super-
+visor, James Pasztor, and, as a safeguard, generally sought 
+his prior approval for Broumas' trades--something she rarely 
+did with respect to her other house accounts.  J.A. at 283-85, 
+316-17.
+
+     By early 1989, Broumas was having difficulty making time-
+ly payment for trades through his VCI joint account.  Al-
+though he had five business days to pay for a purchase, both 
+Graham and Voss knew that VCI's clearing firm,9 U.S. Clear-
+ing Corp., had been required to obtain "quite a few" exten-
+sions of time.  Graham, 1998 WL 823072, at *4 (quoting, 
+without citation, J.A. at 296).  In March of 1989, the margin 
+supervisor for the clearing firm told Pasztor that Broumas 
+had received too many extensions, and that he thought Brou-
+mas might be "check kiting" through his brokerage account.  
+Pasztor agreed.  See id. at *4 & n.17.  As a consequence, the 
+clearing firm imposed restrictions on Broumas' account, and 
+directed Pasztor to bar trading unless the account already 
+contained cleared funds or stock.  Pasztor informed Graham, 
+
+__________
+     8 At trial, Broumas claimed that he sold the shares to himself, 
+rather than to a buyer on the open market, because he "wanted to 
+maintain [his] position [in JML] at that price."  J.A. at 212.
+
+     9 A clearing broker performs "back office services such as 
+clearing stock, handling customer funds, holding customer securi-
+ties, dealing with transfer agents, and matching of trades with the 
+exchanges and market makers" for firms that do not have the 
+capacity to perform these functions.  SEC Br. at 18 n.17;  see, e.g., 
+United States v. Russo, 74 F.3d 1383, 1386 (2d Cir. 1996).
+
+Voss, and Broumas that the account was restricted.  See id. 
+at *4.
+
+     Thereafter, Broumas called Voss and asked to open a 
+second account, entitled "Les Girls," purportedly for a part-
+nership between Broumas' wife and daughter.  Voss agreed 
+to permit the opening of the new account, although he never 
+spoke to Broumas' wife or daughter and testified that he 
+"suspected" Broumas would be advising on the trading.  J.A. 
+at 564.  Graham completed the form to open the "Les Girls" 
+account, although she had never spoken to Broumas' wife or 
+daughter either.  Graham conceded that she regarded the 
+account as belonging to Broumas, and that she knew he 
+placed all the trades.  Although she believed Broumas had 
+opened the Les Girls account to prevent the restricted joint 
+account "from being closed out or his position sold out," id. at 
+295-96, Graham nonetheless continued to place directed 
+trades for him.  Broumas directed 40 JML stock trades 
+through the Les Girls account;  between March 21 and Au-
+gust 29, 1989, all of Broumas' VCI trades in JML stock were 
+effected through that account.
+
+     In February of 1990, Broumas began directing trades in 
+JML stock through yet another VCI account.  These trades 
+were made through an already existing house account main-
+tained by his friend and attorney, Lawton Rogers.  Broumas 
+called Graham to direct trades through the Rogers account;  
+Graham would then call Rogers to confirm them.  Graham 
+told Pasztor about the directed trades, who in turn told Voss.  
+Voss said he "didn't have a problem" with the trades because 
+Broumas and Rogers were "bosom buddies."  Id. at 429.
+
+     At the beginning of April 1990, a check Broumas had given 
+VCI to pay for the purchase of JML shares was returned for 
+insufficient funds.  Pasztor again restricted the joint account 
+and told Graham that Broumas could not trade without 
+cleared funds.  Initially, Voss concurred.  At the end of April, 
+however, Broumas invited Voss to lunch.  Following the 
+lunch, Voss told Pasztor that Broumas could continue to 
+trade.  Pasztor in turn informed Graham.  See Graham, 1998 
+WL 823072, at *5.
+
+     Eventually, Broumas became unable to satisfy his margin 
+calls and failed to pay for his last trade through VCI.  
+Although the firm liquidated Broumas' account, it suffered a 
+loss of over $60,000.  See id.  Broumas filed for personal 
+bankruptcy in early 1991.  See id. at *2 n.3.
+
+     On September 27, 1991, the SEC filed a complaint in 
+district court alleging that, from January of 1989 through 
+July of 1990, Broumas violated the securities laws by execut-
+ing wash trades in JML stock.  See SEC v. John G. Brou-
+mas, Civ.A.No. 91-2449 (D.D.C.).  Without admitting or de-
+nying the allegations, Broumas consented to the entry of a 
+permanent injunction against future violations.  Subsequent-
+ly, Broumas pled guilty to utilizing a check-kiting scheme to 
+meet margin calls.  See United States v. Broumas, 69 F.3d 
+1178, 1179-80 (D.C. Cir. 1995).
+
+     On September 30, 1994, the SEC issued an administrative 
+complaint against Graham, Voss, and Pasztor in connection 
+with Broumas' trades from January 1989 through May 1990.  
+Graham was charged with willfully aiding and abetting Brou-
+mas' violations of two sections of the Securities Exchange Act 
+of 1934:  section 9(a)(1), which prohibits the effectuation of 
+wash trades or matched orders
+
+     [f]or the purpose of creating a false or misleading ap-
+     pearance of active trading in any security registered on a 
+     national securities exchange, or a false or misleading 
+     appearance with respect to the market for any such 
+     security,
+     
+15 U.S.C. s 78i(a)(1), and section 10(b) (and Rule 10b-5 
+thereunder), which makes it unlawful
+
+     [t]o use or employ, in connection with the purchase or 
+     sale of any security registered on a national securities 
+     exchange ... any manipulative or deceptive device or 
+     contrivance ...,
+     
+id. s 78j(b).  Pasztor and Voss were charged with violating 
+section 15(b)(4)(E) for failing reasonably to supervise Graham 
+"with a view to preventing" the violations.  Id. s 78o(b)(4)(E).  
+The charges against Pasztor were severed from those against 
+Voss and Graham.  The SEC subsequently found Pasztor 
+
+liable for failure to supervise and sanctioned him with a 
+three-month suspension.  See James J. Pasztor, Release No. 
+34-42008, 70 S.E.C. Docket 1979 (Oct. 14, 1999).
+
+     The charges against Graham and Voss were heard before 
+an Administrative Law Judge (ALJ), who found Graham and 
+Voss liable on all charges, suspended them from association 
+with any broker or dealer for two and three months, respec-
+tively, and ordered Graham to cease and desist from future 
+violations.  See Sharon M. Graham, Release No. 34-82, 60 
+S.E.C. Docket 2707, 1995 WL 769011, at *28 (Dec. 28, 1995).  
+On appeal, the SEC held that Broumas' trading did not 
+violate section 9(a)(1) because the specific manipulative intent 
+required under that section had not been established, and 
+hence that Graham did not aid and abet such a violation.  See 
+Graham, 1998 WL 823072, at *6 n.27.  However, the Com-
+mission affirmed the ALJ's holding that Broumas' wash and 
+matched trades violated section 10(b) and Rule 10b-5 because 
+they operated as a fraud upon:  a) the market for JML stock, 
+by creating a deceptive appearance of market activity;  and 
+b) the brokerage firms through which Broumas traded, which 
+were induced to pay him money they would not have paid had 
+they known the sales were not bona fide.  See id. at *5.  The 
+Commission further affirmed the ALJ's findings that Graham 
+aided and abetted Broumas, and that Voss failed reasonably 
+to supervise, and it upheld the two- and three-month suspen-
+sions.  See id. at *7, *9, *10.  Graham and Voss petition for 
+review of the Commission's order.
+
+                                II
+
+     The securities laws provide for judicial review of SEC 
+disciplinary proceedings in the courts of appeals.  See 15 
+U.S.C. s 78y(a)(1).  The Commission's findings of fact, "if 
+supported by substantial evidence, are conclusive."  Id. 
+s 78y(a)(4);  see Steadman v. SEC, 450 U.S. 91, 96 n.12 
+(1981).  Its other conclusions may be set aside "only if 
+'arbitrary, capricious, an abuse of discretion, or otherwise not 
+in accordance with law,' 5 U.S.C. s 706(2)(A)."  Wonsover v. 
+SEC, 205 F.3d 408, 412 (D.C. Cir. 2000) (internal quotation 
+omitted).
+
+     Section 10(b) of the Securities Exchange Act of 1934 makes 
+it unlawful to use deceptive devices in connection with the 
+purchase or sale of securities.  See 15 U.S.C. s 78j(b).  Rule 
+10b-5, promulgated pursuant to section 10(b), specifically 
+provides that it is unlawful for any person, in connection with 
+the purchase or sale of any security:
+
+          (a) To employ any device, scheme, or artifice to de-
+     fraud,
+     
+          (b) To make any untrue statement of a material fact or 
+     to omit to state a material fact necessary in order to 
+     make the statements made ... not misleading, or
+     
+          (c) To engage in any act, practice, or course of busi-
+     ness which operates or would operate as a fraud or deceit 
+     upon any person.
+     
+17 C.F.R. s 240.10b-5.  Although variously formulated, three 
+principal elements are required to establish liability for aiding 
+and abetting a violation of section 10(b) and Rule 10b-5:  (1) 
+that a principal committed a primary violation;  (2) that the 
+aider and abettor provided substantial assistance to the pri-
+mary violator;  and (3) that the aider and abettor had the 
+necessary "scienter"--i.e., that she rendered such assistance 
+knowingly or recklessly.  See SEC v. Fehn, 97 F.3d 1276, 
+1287-88 (9th Cir. 1996);  Bloor v. Carro, Spanbock, Londin, 
+Rodman & Fass, 754 F.2d 57, 62 (2d Cir. 1985);  SEC v. 
+Falstaff Brewing Corp., 629 F.2d 62, 72 (D.C. Cir. 1980);  
+Investors Research Corp. v. SEC, 628 F.2d 168, 178 (D.C. Cir. 
+1980);  see also SEC v. Steadman, 967 F.2d 636, 641 (D.C. Cir. 
+1992).
+
+     Graham contests all three of these elements:  She contends 
+that Broumas' conduct did not constitute a violation of section 
+10(b) or Rule 10b-5, that she did not substantially assist such 
+a violation, and that she did not do so knowingly or recklessly.  
+Graham and Voss further argue that the SEC is estopped 
+from sanctioning them because the SEC and National Associ-
+ation of Securities Dealers (NASD) observed Broumas' trad-
+ing and failed to alert petitioners to it or identify it as a 
+securities violation.  Finally, Voss argues that because Gra-
+ham is not guilty of aiding and abetting, he cannot be guilty 
+
+of failing reasonably to supervise her.  We consider these 
+arguments below.
+
+                                A
+
+     The SEC based its conclusion that Broumas' trades consti-
+tuted a fraud under section 10(b) and Rule 10b-5 on two 
+independent theories.  First, it concluded that the trades 
+constituted a fraud on the market for JML stock by creating 
+a deceptive appearance of market activity.  Second, it con-
+cluded that Broumas defrauded the broker-dealers through 
+which he traded by causing them to remit sales proceeds to 
+him that they would not have paid had they known the true 
+nature of the transactions.  Although Graham challenges the 
+validity of the first theory,10 we need not resolve that dispute 
+because Broumas' trades clearly constitute violations under 
+the second.
+
+     As the SEC explained, Broumas, unable to obtain further 
+loans from banks, arranged wash trades and matched orders 
+"for the purpose of obtaining a float in a scheme similar to 
+check-kiting."  Graham, 1995 WL 769011, at *4.11  Broumas' 
+scheme caused the selling brokers to pay him immediately 
+the anticipated proceeds from the contrived sales, payments 
+they would not have made had they realized that Broumas--
+with his shaky financial condition--was also on the other side 
+of the transaction, promising to pay for the same stock within 
+
+__________
+     10 Graham disputes that Broumas' trades constituted a fraud on 
+the market.  She argues, inter alia, that Broumas' trades were not 
+material because they constituted a small percentage of the total 
+volume of outstanding JML shares.  The SEC counters that the 
+trades nonetheless made up a substantial proportion of the daily 
+volume of trades on the days they were reported.
+
+     11 Broumas acknowledged that he began wash trading because 
+he "didn't have the credit" to meet his existing obligations, J.A. at 
+174, and couldn't borrow money from a bank because he had 
+"reached [his] limit," id. at 213.  He also testified that on many 
+occasions he sold JML stock to himself in order to meet margin 
+calls.  See id. at 205.
+
+five days.  See Graham, 1998 WL 823072, at *6.12  Indeed, 
+not only did Broumas fail to disclose that he was on both 
+sides of the transaction, but he also took affirmative steps to 
+hide that fact--by trading through the Les Girls and Rogers 
+accounts--when the clearing firm restricted trading in his 
+own account.13
+
+     As we have noted, although Broumas received payment for 
+the sale immediately, he did not have to make payment for 
+the "purchase" of the same shares until five days later.  Were 
+he unable to make that payment--an eventuality his uncer-
+tain financial condition rendered likely and which ultimately 
+occurred--the selling broker (or the purchasing broker, if it 
+had paid over the funds to the selling broker and received the 
+stock) would be forced to cover the loss by selling the JML 
+shares.  But there was no guarantee that those shares would 
+cover the amount advanced to Broumas by the broker--either 
+because the stock was no longer worth the price Broumas 
+himself had offered a week earlier,14 or because it had never 
+
+__________
+     12 See SEC v. Drysdale Sec. Corp., 785 F.2d 38, 42 (2d Cir. 1986) 
+(finding s 10(b) violation where, in order to honor its obligation to 
+resell securities on settlement date of reverse "repo," defendant 
+"had to purchase identical securities, something which its insolvency 
+may have rendered impossible");  see also A. T. Brod & Co. v. 
+Perlow, 375 F.2d 393, 397 (2d Cir. 1967) (upholding claim for fraud 
+against broker under s 10(b) where investors placed purchase order 
+with fraudulent intent to pay for securities only if their market 
+value increased by settlement date, and further noting that scheme 
+effectively resulted in "an involuntary extension of credit without 
+compliance with the margin requirements").
+
+     13 Broumas testified that he began asking Rogers to allow him 
+to direct trades through his account "[b]ecause I didn't have the 
+credit and my margin calls wouldn't permit me to trade with those 
+other brokers of mine."  J.A. at 174;  cf. United States v. Sayan, 
+968 F.2d 55, 61 (D.C. Cir. 1992) (affirming conviction for check-
+kiting and noting that "creating fictitious payees and forging en-
+dorsements" constituted a material part of the fraud, because "[i]f 
+[the defendant] had merely made the drafts payable to herself, the 
+bank would not have granted her immediate credit").
+
+     14 The price of JML Class A stock began to decline in February 
+of 1990.  See Graham, 1995 WL 769011, at *2.  On February 2, 
+
+been worth that amount in the first place.15  Indeed, some-
+thing like this happened to VCI, which suffered a $60,000 loss 
+when forced to liquidate Broumas' account after he failed to 
+pay for his last transaction.16
+
+     Graham contends that Broumas' scheme cannot violate 
+section 10(b) because fraud on a broker is not fraud "in 
+connection with the purchase or sale of [a] security," as 
+required by the statutory language.  15 U.S.C. s 78j(b).  To 
+constitute a violation of section 10(b), Graham maintains, "the 
+fraud must have been perpetrated upon an actual or potential 
+investor."  Graham Br. at 27.  As the brokers were never 
+parties to the securities transactions, but merely executed 
+
+__________
+1990, it closed at $6 per share.  On May 24, 1990, it closed at $4 5/8.  
+See J.A. at 754-55.  Broumas testified that around this time the 
+"stock dropped dramatically and I had to sell a lot of things.  I was 
+finding it difficult to meet those interest payments and those loan 
+payments."  Id. at 188.
+
+     15 We note that unlike a plaintiff in a private damages action, 
+the SEC need not prove actual harm.  See Schellenbach v. SEC, 989 
+F.3d 907, 913 (7th Cir. 1993);  SEC v. Blavin, 760 F.2d 706, 711 (6th 
+Cir. 1985).
+
+     16 In her reply brief, Graham contends that Broumas did not 
+defraud the brokers into paying him the proceeds of the JML sales 
+because he was "entitled" to the money.  Graham Reply Br. at 8.  
+Graham claims that the funds Broumas received from the "sell side" 
+of the transaction were the sale proceeds of his own stock, and 
+therefore his own money.  The selling broker, however, did not pay 
+Broumas out of the actual proceeds of the sale, but rather out of 
+"proceeds" it anticipated would be paid five days later.  Unbe-
+knownst to the broker, that payment would have to come from 
+Broumas himself, and, if Broumas were unable to pay, the selling 
+broker's recourse was against the JML stock--which may well have 
+been insufficient to cover what the broker had paid out.  Of course, 
+if the transaction is viewed from the "buy side," there is even less 
+justification for regarding the money as Broumas' own, as the 
+purchasing broker extended Broumas credit on margin to purchase 
+the stock from the contra-broker.
+
+them, Graham contends that no violation of section 10(b) was 
+possible.
+
+     Graham's argument is foreclosed by the Supreme Court's 
+unanimous decision in United States v. Naftalin, 441 U.S. 768 
+(1979).  There, the Court confronted the same challenge to a 
+criminal conviction under section 17(a)(1) of the Securities Act 
+of 1933, which makes it unlawful for any person "in the offer 
+or sale of any securities" to employ any device, scheme, or 
+artifice to defraud.  15 U.S.C. s 77q(a)(1).  The defendant 
+had placed sell orders for stock he did not own, gambling that 
+he could make offsetting purchases at lower prices before he 
+was required to deliver the stock.  Defendant did not dispute 
+that he defrauded the brokers who executed the orders, but 
+contended, as petitioners do here, that the statute "applies 
+solely to frauds directed against investors, and not to those 
+against brokers."  Naftalin, 441 U.S. at 772.
+
+     The Court rejected the argument.  It held that the statuto-
+ry phrase, "in the offer or sale of any securities," was 
+intended to be "define[d] broadly," and is "expansive enough 
+to encompass the entire selling process, including the sell-
+er/agent transaction."  Id. at 773.  The "language does not 
+require," the Court said, "that the fraud occur in any particu-
+lar phase of the selling transaction," or "that injury occur to a 
+purchaser."17  Id.
+
+     Turning to the statutory purpose, Naftalin emphasized that 
+"neither this Court nor Congress has ever suggested that 
+investor protection was the sole purpose of the Securities 
+Act."  Id. at 775.  Although "[p]revention of frauds against 
+investors was surely a key part ... so was the effort to 
+achieve a high standard of business ethics ... in every facet 
+of the securities industry."  Id. (internal quotation omitted) 
+
+__________
+     17 The Court noted that the case would be different if it had 
+been brought by private plaintiffs, because the class of plaintiffs 
+who may bring private actions under Rule 10b-5 is limited to 
+purchasers or sellers.  See Naftalin, 441 U.S. at 774 n.6;  see also 
+United States v. O'Hagan, 521 U.S. 642, 664-65 (1997);  Blue Chip 
+Stamps v. Manor Drug Stores, 421 U.S. 723, 751 n.14 (1975);  SEC 
+v. National Sec., Inc., 393 U.S. 453, 467 n.9 (1969).
+
+(second alteration in original);  see United States v. O'Hagan, 
+521 U.S. 642, 658-59 (1997) (reaching same conclusion regard-
+ing s 10(b) of the Securities Exchange Act).  Moreover, the 
+Court continued, "the welfare of investors and financial inter-
+mediaries are inextricably linked--frauds perpetrated upon 
+either business or investors can redound to the detriment of 
+the other and to the economy as a whole."  Naftalin, 441 U.S. 
+at 776.
+
+     Although Naftalin involved section 17(a)(1) of the Securi-
+ties Act, rather than section 10(b) of the Securities Exchange 
+Act, the relevant language is virtually identical.  Compare 15 
+U.S.C. s 77q(a)(1) ("in the offer or sale of any securities"), 
+with id. s 78j(b) ("in connection with the purchase or sale of 
+any security").  Indeed, the Court recognized an argument 
+that section 17(a)(1) might be narrower than section 10(b), 
+but held that "even if 'in' were meant to connote a narrower 
+group of transactions than 'in connection with,' " it would still 
+cover fraud against brokers.  Naftalin, 441 U.S. at 773 n.4.  
+Naftalin's application to the broader wording of section 10(b) 
+is, therefore, a fortiori.  This point is further confirmed by 
+the Supreme Court's subsequent description of Naftalin as 
+having "appl[ied] s 17(a) of the 1933 Act to conduct also 
+prohibited by s 10(b) of the 1934 Act," Herman & MacLean 
+v. Huddleston, 459 U.S. 375, 383 (1983), and by its recent 
+affirmation that section 10(b) "does not confine its coverage to 
+deception of a purchaser or seller of securities," O'Hagan, 521 
+U.S. at 651.  See also SEC v. Jakubowski, 150 F.3d 675, 680 
+(7th Cir. 1998) (noting that Naftalin was "a case under s 17 
+of the 1933 Act, which requires proof that the fraud occurred 
+'in' an offer or sales of securities--a tighter link, one might 
+suppose, than 'in connection with' ") (citation omitted);  A. T. 
+Brod & Co. v. Perlow, 375 F.2d 393, 396-97 (2d Cir. 1967) 
+(holding that s 10(b) and Rule 10b-5 apply to frauds against 
+brokers).
+
+     Graham also contends that there cannot have been an 
+actionable fraud in this case because the SEC charged owners 
+and brokers at the contra-firms with securities violations like 
+those of petitioners.  "Clearly," Graham declares, "Broumas' 
+alleged aiders and abettors cannot also be his defrauded 
+
+victims."  Graham Br. at 26.  This argument, too, is of no 
+avail.
+
+     First, even assuming that such a defense were valid, the 
+SEC did not charge all of the contra-brokers with securities 
+violations.18  Second, this purported defense has no applica-
+tion to the clearing firms--none of which played any role in 
+Broumas' scheme and one of which expressly tried to restrict 
+it.  Broumas, assisted by Graham and Voss, established and 
+traded through the Les Girls and Rogers accounts specifically 
+to avoid those restrictions, thus deceiving the clearing firm 
+into making the advances necessary to execute his transac-
+tions.  See Graham, 1998 WL 823072, at *3-*4;  Richard D. 
+Chema, Release No. 34-40719, 68 S.E.C. Docket 1911, 1998 
+WL 820658, at *3 (Nov. 30, 1998) (concluding that Broumas 
+also defrauded another broker-dealer's clearing firm into 
+advancing funds);  see also United States v. Russo, 74 F.3d 
+1383, 1388, 1390 (2d Cir. 1996) (upholding conviction under 
+s 10(b) where scheme involved generating false cash credits 
+from clearing broker).19
+
+     Finally, whatever the involvement of the brokers or own-
+ers, fraud on their corporate institutions is an independent 
+matter.20  As the Supreme Court recognized in Naftalin, 
+
+__________
+     18 Broumas' wash trades involved a total of 14 different broker-
+dealers.  The VCI trades involved eight different firms, while the 
+SEC instituted administrative proceedings against four.  See Gra-
+ham, 1998 WL 823072, at *3 n.14.
+
+     19 Like the other brokers, the clearing firm was exposed to the 
+risk that funds it advanced might not have been repaid at the time 
+Broumas became insolvent.  Although the clearing broker might be 
+able to recover against the introducing firm in the event of nonpay-
+ment, it would incur transaction costs in so doing--and there was 
+always the risk that Broumas' scheme would bankrupt one of the 
+broker-dealers involved.  See Richard D. Chema, 1998 WL 820658, 
+at *4-*5.
+
+     20 Cf. Superintendent of Ins. v. Bankers Life & Cas. Co., 404 
+U.S. 6, 12 (1971) (holding that s 10(b) applies to fraud on corpora-
+tion by controlling stockholder, and that "the fact that creditors of 
+the defrauded" corporation "may be the ultimate victims does not 
+
+fraud on brokerage firms affects more than the health of 
+those firms alone.  See Naftalin, 441 U.S. at 776.  When the 
+music stops, the firm left without a chair (payment or collat-
+eral) does not simply leave the game.  "Losses suffered by 
+brokers," whether or not covered by insurance, "increase 
+their cost of doing business, and in the long run investors pay 
+at least part of this cost through higher brokerage fees."  Id. 
+Equally important, fraud against brokers may "create a level 
+of market uncertainty that could only work to the detriment 
+of both investors and the market as a whole."  Id.  Accord-
+ingly, we have no warrant for overturning the SEC's determi-
+nation that Broumas violated section 10(b) and Rule 10b-5.
+
+                                B
+
+     Having concluded that Broumas' stock-kiting scheme con-
+stituted a primary violation of the securities laws, the next 
+question is whether Graham substantially assisted Broumas 
+in that violation.  We have no doubt that she did.  Graham 
+placed 60 directed trades for Broumas, an average of one 
+every week-and-a-half during the 18-month period at issue.  
+She opened the Les Girls account and executed wash trades 
+from both that account and from the account of Lawton 
+Rogers.  Such conduct is more than sufficient to constitute 
+substantial assistance.  See SEC v. U.S. Envtl., Inc., 155 F.3d 
+107, 112 (2d Cir. 1998) (holding trader who recklessly execut-
+ed manipulative buy and sell orders for customer liable as 
+primary violator).
+
+     Graham contends that this conclusion is inconsistent with 
+our decision in Zoelsch v. Arthur Andersen & Co., 824 F.2d 27 
+(D.C. Cir. 1987).  She describes Zoelsch as a case in which we 
+dismissed an aiding and abetting claim against an accounting 
+firm, "which had issued an audit report with respect to 
+corporate financial statements" but had "played no role in the 
+use of certain figures from those statements in a prospectus 
+
+__________
+warrant disregard of the corporate entity") (footnote omitted);  
+United States v. Saks, 964 F.2d 1514, 1518-19 (5th Cir. 1992) 
+(affirming finding of intent to defraud banking institution, notwith-
+standing bank officers' collusion with customer).
+
+and no role in the publication of any misleading financial 
+statements."  Graham Br. at 31.  In fact, the accounting 
+firm's relationship to the misleading financial statements was 
+even further removed than Graham describes,21 but the dis-
+tance reflected in her description suffices to distinguish that 
+case from this one:  unlike the accounting firm in Zoelsch, 
+Graham did play a role--and a substantial one--in Broumas' 
+deceptive trades.
+
+     Graham further contends that she may not be regarded as 
+substantially assisting Broumas since the execution of his 
+trades was merely a "ministerial" act on her part.  She had 
+"no discretion" with respect to the handling of Broumas' 
+accounts, she asserts, because "once Mr. Pasztor approved a 
+trade, [she] could not refuse to execute it."  Id. at 14.  But 
+Graham did have discretion.  A registered representative can 
+always refuse to execute a trade she knows may constitute a 
+securities violation.  Cf. U.S. Envtl., 155 F.3d at 112 ("Like 
+lawyers, accountants, and banks who engage in fraudulent or 
+deceptive practices at their clients' direction, [the defendant 
+broker] is a primary violator despite the fact that someone 
+else directed the market manipulation scheme.").  Of course, 
+doing so might have made Graham's career at VCI more 
+difficult, but fear of such consequences does not excuse a 
+violation of the securities laws.
+
+                                C
+
+     The real question here concerns the third element of aiding 
+and abetting liability:  did Graham assist Broumas with the 
+requisite scienter?  We have held that knowledge or reckless-
+ness is sufficient to satisfy that requirement.  See Kowal v. 
+MCI Communications Corp., 16 F.3d 1271, 1276 (D.C. Cir. 
+1994);  SEC v. Steadman, 967 F.2d 636, 641 (D.C. Cir. 1992);  
+Zoelsch, 824 F.2d at 36;  Dirks v. SEC, 681 F.2d 824, 844-45 
+(D.C. Cir. 1982), rev'd on other grounds, 463 U.S. 646 (1983).  
+
+__________
+     21 The defendant accounting firm had not issued the audit 
+report, but rather had provided information to another accounting 
+firm that had prepared the report.  See Zoelsch, 324 F.2d at 34;  see 
+also id. at 28-29, 35-36.
+
+We are satisfied that Graham acted with at least extreme 
+recklessness in aiding Broumas' stock-kiting scheme.
+
+     The SEC did not hold Graham reckless merely for execut-
+ing stock trades.  Rather, during the course of executing 
+some 60 trades, Graham noticed numerous suspicious circum-
+stances.  She observed that Broumas invariably specified the 
+contra-broker for his trades, rather than using American 
+Securities, the firm VCI typically contacted for over-the-
+counter trades in exchange-listed securities.  Out of the more 
+than 300 accounts with which Graham worked, only Broumas 
+specified the contra-broker with whom to execute the trade, 
+and only Broumas traded in such large volumes.  He also 
+detailed every aspect of the trade, including the specific 
+employee at the contra-broker with whom he wanted Graham 
+to speak.  Cf. United States v. Corr, 543 F.2d 1042, 1046 (2d 
+Cir. 1976) (recognizing directed trades as evidence of manipu-
+lation).  Graham testified that, as a result, she assumed 
+Broumas controlled the shares in the accounts or at least 
+"had connections" with them.
+
+     Perhaps most important, Graham recognized, and discussed 
+with Pasztor, the fact that Broumas had "a peculiar way of 
+trading."  J.A. at 306.  Although these were "big money 
+trades" involving thousands of shares, and although he was 
+repeatedly buying and selling and paying commissions on the 
+transactions, Graham realized that Broumas was not making 
+any money on the trades.  See id. at 380.  This economically 
+irrational trading was a large red flag.  See Edward J. 
+Mawod & Co. v. SEC, 592 F.2d 588, 595 (10th Cir. 1979) 
+(holding that broker willfully aided and abetted manipulative 
+wash and match trades scheme when he "knew or had reason 
+to know that such trading was economically irrational").
+
+     At the same time that she was noting these trading pecu-
+liarities, Graham also knew that Broumas was experiencing 
+financial difficulties.  She learned that he was buying and 
+selling JML stock as a method of borrowing money he needed 
+to repay bank loans.  She knew that he was having trouble 
+paying for his trades on time, had received "quite a few" 
+
+extensions on his joint account, and had bounced checks.  
+J.A. at 288, 296, 343.  She knew that VCI's clearing firm had 
+imposed restrictions on his joint account.  And she knew that, 
+with her help, Broumas was circumventing those restrictions 
+by trading in accounts nominally owned by others.  More-
+over, when it came to her own firm's financial interests, 
+Graham took special precautions to protect against financial 
+loss, seeking Pasztor's authorization on almost every trade 
+because "I couldn't take a chance of writing an order when 
+the man would owe thousands of dollars in his account."  Id. 
+at 317.  All of this provides more than the "substantial 
+evidence" necessary to support the SEC's finding of scienter 
+on the part of Graham.
+
+     In her defense, Graham notes that she "stood to gain 
+absolutely nothing from Broumas' scheme," since Broumas 
+traded through a "house account" for which she did not 
+receive commissions.  Graham Br. at 27.  It is true that lack 
+of opportunity for personal gain may suggest lack of motive, 
+which may in turn be relevant to the question of scienter.  
+But the absence of commissions does not necessarily negate 
+either motive or scienter.  Graham may have gone along with 
+Broumas' scheme (or hidden her head in the sand) to please 
+her bosses or to keep her job.  Or she may have done so 
+merely because she was reckless, regardless of any motive to 
+gain money or favor.  Either way, the absence of commis-
+sions does not absolve her of responsibility.  See U.S. Envtl., 
+155 F.3d at 112 ("[A]s long as [broker], with scienter, effected 
+the manipulative buy and sell orders, [his] personal motiva-
+tion for manipulating the market is irrelevant in determining 
+whether he violated s 10(b).").
+
+     Graham also points to the fact that she sought and obtained 
+approval for Broumas' trades from her immediate supervisor, 
+James Pasztor, who told her they were "fine."  She "left it up 
+to my supervisor," she states, to "say that this was not 
+allowed."  J.A. at 338.  And she argues that this reliance 
+negates the scienter necessary for an aiding and abetting 
+violation.  In support, Graham cites James L. Owsley, a case 
+in which the Commission excused the conduct of a broker 
+who, prior to selling his own stock in a company, was told by 
+
+a firm official with whom he consulted that it was not 
+necessary to disclose those sales to customers he was asking 
+to purchase the same stock at the same time.  See 51 S.E.C. 
+524, 528 (1993).
+
+     The SEC rejected Graham's reliance defense, noting that 
+she is an experienced professional who has an independent 
+duty to use diligence "where there are any unusual factors."  
+Graham, 1998 WL 823072, at *6-*7 & n.30 (quoting Alessan-
+drini & Co., Inc., 45 S.E.C. 399, 406 (1973)).  Registered 
+representatives are "under a duty to investigate," Hanly v. 
+SEC, 415 F.2d 589, 595 (2d Cir. 1969) (internal quotation 
+omitted), and "red flags and suggestions of irregularities 
+demand inquiry as well as adequate follow-up and review," 
+Frederick H. Joseph, 51 S.E.C. 431, 438 (1993).  See Wons-
+over, 205 F.3d at 411.  Given the abundance of red flags here, 
+it would be very hard to characterize Graham's conduct as 
+anything but extremely reckless, regardless of the approvals 
+she received from Pasztor.
+
+     The Commission distinguished the Owsley decision on the 
+ground that, "[a]mong other things, ... [it] involved a single, 
+discrete inquiry and limited transactions."  Graham, 1998 
+WL 823072, at *7 n.34.  Nor did Owsley mention the pres-
+ence of any suspicious circumstances or red flags.  By con-
+trast, this case involved 60 transactions over 18 months, with 
+Graham's involvement becoming increasingly more significant 
+(e.g., through the establishment of the Les Girls account and 
+the use of the Rogers account) at the same time that the 
+warning signs were becoming increasingly more prominent.
+
+     Graham's reliance on Pasztor, a VCI employee, also differs 
+substantially from the reliance at issue in SEC v. Steadman, 
+where we held that directors of a mutual fund company had 
+not been reckless in relying on a "formal, unqualified opinion 
+letter" from their outside counsel--an opinion also relied 
+upon by the funds' "disinterested independent auditor," a 
+major national accounting firm.  967 F.2d at 642.  There 
+were no red flags in evidence in Steadman, nor were there 
+suspicious events creating reasons for doubt.  Indeed, there 
+was no evidence at all that the directors were on notice of the 
+
+violation at issue, which arose from a failure to register the 
+funds' securities under state Blue Sky laws, other than the 
+SEC's view that "[s]ophisticated professionals like Steadman 
+might be assumed to have come across [such] information ... 
+at some point during" their careers.  Id.
+
+     Graham, by contrast, was not simply a professional who 
+should have known better.  She was a professional who was 
+aware of her customer's financial difficulties, aware that he 
+was trading in a suspicious and economically irrational man-
+ner, and aware that he was trying to circumvent restrictions 
+that had been placed on his account--yet she assisted him 
+nonetheless.  Cf. Wonsover, 205 F.3d at 411, 415 (holding, in 
+light of "several 'red flags,' " that broker's reliance on approv-
+al of firm and its lawyers did not negate finding that he acted 
+willfully).  Accordingly, we reject Graham's reliance defense 
+and affirm the SEC's determination that she recklessly, and 
+substantially, assisted Broumas in violating the securities 
+laws.22
+
+                                D
+
+     Finally, Graham and Voss argue that the SEC is barred by 
+principles of "equitable estoppel" and "administrative inter-
+pretation" from sanctioning them.  They note that, "[f]rom 
+late 1988 through mid-1989, the NASD had several occasions 
+to review Broumas' directed trading in JML shares."  Gra-
+ham Br. at 33.  The NASD concluded, petitioners assert, 
+"that so long as Broumas' trades were not reported to the 
+consolidated transaction reporting system of the exchanges, 
+
+__________
+     22 Commissioner Johnson dissented from the finding of liability 
+against Graham, solely on the ground that her reliance on the 
+advice of Pasztor and Voss was reasonable. See Graham, 1998 WL 
+823072, at *11-*12 (Johnson, Comm'r, dissenting).  Even he, how-
+ever, found the case an "exceedingly close call[ ]," which "necessari-
+ly depend[ed] on the facts and circumstances."  Id.  While each 
+SEC Commissioner may make his or her own factual determina-
+tions de novo, our standard of review requires deference to the 
+determinations of the Commission where they are supported by 
+substantial evidence.
+
+they were not manipulative."  Id.23  They also claim that 
+"[t]he NASD sought the SEC's view with respect to this 
+administrative interpretation and the SEC concurred."  Id.  
+And they further contend that during 1988 and 1989, the SEC 
+conducted its own examination of Broumas' trading, and "did 
+not perceive" securities violations.  Id. at 34.
+
+     At the start, it is important to describe accurately what 
+transpired during the examinations in question.  First, the 
+NASD did not give Broumas' trades anything like a clean bill 
+of health, and certainly did not do so in the form of an 
+"administrative interpretation."  An examiner simply con-
+cluded, in an internal review, that because Broumas' trades 
+were not being included in the consolidated transaction re-
+porting system, see supra note 23, they did not violate an 
+NASD rule that proscribes wash trades undertaken for the 
+purpose of creating the false appearance of market activity, 
+see NASD Manual, Sched. G, s 4(b) (1989).  The examiner 
+was nonetheless troubled by the trades "because they didn't 
+smell right.  There was something fishy about these trades 
+being prearranged, directed trades...."  J.A. at 610;  see 
+also id. at 616-17.  The NASD referred the matter of Brou-
+mas' trading to the SEC for further investigation.  See id. at 
+608, 618, 804.
+
+     The SEC's role was even less formalized, and is of even 
+less comfort to petitioners.  The support petitioners cite for 
+the proposition that "[t]he NASD sought the SEC's view with 
+respect to this administrative interpretation and the SEC 
+concurred" is no more than the NASD examiner's testimony 
+that he spoke to someone at the SEC--whose name and title 
+he could not recall--who "basically agreed" with his evalua-
+tion.  Id. at 610, 611.  The support for petitioners' contention 
+that the SEC "did not perceive" securities violations in re-
+viewing Broumas' trading is the testimony of an SEC examin-
+
+__________
+     23 NASD rules require that most transactions in stocks listed on 
+the AMEX be reported on the "Consolidated Tape," NASD Manual, 
+Sched. G, ss 1(d), 2 (1989), which is the "consolidated transaction 
+reporting system for the dissemination of last sale reports in [such] 
+securities," id. s 1(b).  Broumas' trades often were not reported.
+
+er, who said that after reviewing the NASD examination, he 
+decided that "no conclusion could be reached as to whether 
+any violative activities have occurred."  Id. at 802.  The SEC 
+examiner therefore recommended that a "further review of 
+Mr. Broumas's activities should be conducted in order to 
+determine if insider trading or a check kiting scheme was 
+being perpetrated."  Id. at 803;  see also id. at 659.  Further 
+review by the SEC eventually did result in the complaints at 
+issue here.
+
+     Even in circumstances where the doctrine of estoppel is 
+applicable,24 the following elements, at least, must be estab-
+lished:  that there was a "definite" representation to the party 
+claiming estoppel;  that the latter "relied on its adversary's 
+conduct in such a manner as to change his position for the 
+worse";  and that the reliance was "reasonable."  Heckler v. 
+Community Health Servs., 467 U.S. 51, 59 (1984) (internal 
+quotations and footnote omitted).  Here, neither the NASD 
+nor the SEC made any representations at all to Graham or 
+Voss, and petitioners do not assert that they acted in reliance 
+on any such representations.  Nor did either entity issue any 
+kind of opinion or "administrative interpretation" that might 
+have bound it, even as a matter of precedent, in a future 
+adjudication.25
+
+__________
+     24 See Heckler v. Community Health Servs., 467 U.S. 51, 60 
+(1984) ("[I]t is well settled that the Government may not be 
+estopped on the same terms as any other litigant.");  see also Office 
+of Personnel Management v. Richmond, 496 U.S. 414, 419, 421-22 
+(1990).
+
+     25 Of course, even if the NASD had done something to bind 
+itself, that would not have bound the SEC.  As a private, nonprofit 
+corporation, the NASD conducts its own independent investigatory 
+and disciplinary actions, and is subject to limited review by the 
+SEC.  See 15 U.S.C. s 78s;  6 Loss & Seligman, supra, at 2819-30.  
+There is "no statutory, regulatory, or historical reference to support 
+[an] argument that NASD discipline of its members was intended to 
+preclude ... disciplinary action by the SEC itself against a securi-
+ties professional."  Jones v. SEC, 115 F.3d 1173, 1179 (4th Cir. 
+1997).
+
+     Instead, what we have in this case is nothing more than a 
+series of investigations into Broumas' trades, which ultimately 
+provided the SEC with sufficient understanding of the under-
+lying scheme to file the complaint now before us.  Neither 
+Broumas nor the petitioners can be said to have been cleared 
+along the way.  And the SEC's failure to prosecute at an 
+earlier stage does not estop the agency from proceeding once 
+it finally accumulated sufficient evidence to do so.26
+
+__________
+     26 See Investors Research, 628 F.2d at 174 & n.37 (rejecting 
+estoppel argument where there was "no evidence the Commission 
+learned all the facts of the violation" at early meetings with 
+petitioners);  Capital Funds, Inc. v. SEC, 348 F.2d 582, 588 (8th Cir. 
+1965) (rejecting argument that the SEC was estopped because it 
+previously investigated but took no action);  SEC v. Culpepper, 270 
+F.2d 241, 248 (2d Cir. 1959) (finding that routine examination 
+provided "no fact-basis for an estoppel" because "neither the Com-
+mission nor its staff directly or indirectly caused the defendants to 
+understand that it concurred in the legality of the [subject] sales");  
+G.K. Scott & Co., 51 S.E.C. 961, 966 n.21 (1994) ("A regulatory 
+authority's failure to take early action neither operates as an 
+estoppel against later action nor cures a violation.") (internal quota-
+tion omitted), review denied, 56 F.3d 1531 (D.C. Cir. 1995) (table 
+decision);  cf. 15 U.S.C. s 78z ("No action or failure to act by the 
+Commission ... in the administration of this chapter shall be 
+construed to mean that the particular authority has in any way 
+passed upon the merits of, or given approval to, any security or any 
+transaction or transactions therein....").
+
+     In Klein v. SEC, 224 F.2d 861 (2d Cir. 1955), cited by petitioners, 
+the Second Circuit held that after an NASD committee had exam-
+ined a broker's 50% markup and found no violation, it could not 
+sanction him for charging the same markup two years later because 
+the prior review "justified [the broker] in believing that a 50% 
+markup did not violate the Rules."  Id. at 864.  The court regarded 
+the NASD's earlier determination as "an interpretation of the Rules 
+on which [the broker] reasonably relied."  Id.  Klein is of no 
+assistance to petitioners, however, as they make no claim of reliance 
+on the SEC's initial investigation.  In any event, the Second Circuit 
+subsequently appeared to limit Klein to actions of the NASD, 
+holding that because the SEC enforces an "Act of Congress," it 
+could not "be estopped even if it had acquiesced in" a transaction 
+
+                               III
+
+     We conclude that substantial evidence supports the SEC's 
+determination that Graham aided and abetted Broumas' viola-
+tions of section 10(b) and Rule 10b-5.  Because Voss' defense 
+rested solely upon the exoneration of Graham, we also uphold 
+the SEC's determination that he failed reasonably to super-
+vise her.  The order of the SEC is
+
+                                        Affirmed.
+
+__________
+similar to the one it was now sanctioning.  Culpepper, 270 F.2d at 
+248.
+
+                       

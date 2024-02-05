@@ -1,0 +1,835 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 3, 2002        Decided May 31, 2002 
+
+                           No. 00-5329
+
+                         Richard Drake, 
+                            Appellant
+
+                                v.
+
+                Federal Aviation Administration, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv02790)
+
+     Andrew Dunlap, Student Counsel, argued the cause as 
+amicus curiae in support of appellant.  With him on the 
+briefs were Steven H. Goldblatt, Director of the Appellate 
+Litigation Program, Georgetown University Law Center, ap-
+pointed by the court as amicus curiae, Wendy M. Marantz, 
+Supervising Attorney, and Kristina Marlow, Student Coun-
+sel.
+
+     Richard Drake appearing pro se, was on the briefs for 
+appellant.
+
+     Madelyn E. Johnson, Assistant U.S. Attorney, argued the 
+cause for appellee.  With her on the brief were Roscoe C. 
+Howard, Jr., U.S. Attorney, and R. Craig Lawrence, Assis-
+tant U.S. Attorney.  Christy A. Slamowitz, Assistant U.S. 
+Attorney, entered an appearance.
+
+     Before:  Edwards, Henderson, and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  This appeal arises from the Dis-
+trict Court's dismissal of appellant Richard Drake's action 
+against the Federal Aviation Agency ("FAA").  Drake be-
+lieves that Delta Airlines infringed his legal rights when it 
+processed a random drug test that Drake was required to 
+take by virtue of his flight attendant position.  Drake there-
+fore contends that the FAA neglected its statutory responsi-
+bilities in finding that Delta did not violate agency regulations 
+and breached a regulatory obligation in refusing to disclose 
+information bearing on that determination.  The District 
+Court dismissed all of Drake's claims, concluding that they 
+were barred by res judicata.  This was error.  Nevertheless, 
+we affirm the dismissal on other grounds.  The efforts of 
+amicus curiae to convince us otherwise were ultimately unper-
+suasive.*
+
+     Drake's requests for information are moot, because he has 
+received all the documents to which he is entitled under the 
+Freedom of Information Act ("FOIA").  While Drake argues 
+that a since-amended FAA regulation, 49 C.F.R. s 40.37 
+(1993), guaranteed him more, we defer to the agency's rea-
+sonable interpretation of that provision, under which it ap-
+
+__________
+     * On August 15, 2001, the court appointed Georgetown University 
+Law Center's Appellate Litigation Program as amicus curiae on 
+Drake's behalf.  A third-year law student, Andrew Dunlap, present-
+ed argument in support of the appellant.  The court commends Mr. 
+Dunlap on the excellence of his oral advocacy, which greatly assist-
+ed our deliberations and judgment in this case.
+
+plies neither to requests made upon the agency itself nor to 
+the broad class of information that Drake has sought here.
+
+     Next, we conclude that Drake cannot state a claim under 
+the Administrative Procedure Act ("APA") against the FAA 
+based on its failure to find that Delta had violated the 
+agency's drug testing rules.  Under the FAA's organic stat-
+ute, the agency "may dismiss a complaint without a hearing 
+when the Secretary [of Transportation] or Administrator is of 
+the opinion that the complaint does not state facts that 
+warrant an investigation or action."  49 U.S.C. s 46101(a)(3) 
+(1994) (emphasis added).  The FAA's decision to do just that 
+here is "committed to agency discretion by law," and may not 
+be reviewed under the APA.  5 U.S.C. s 701(a)(2).
+
+     The last two suggested bases for Drake's action are plainly 
+meritless.  First, Drake's complaint cannot be read to sup-
+port an action under Bivens v. Six Unknown Named Agents 
+of Federal Bureau of Narcotics, 403 U.S. 388 (1971).  A 
+Bivens action cannot be maintained against a federal agency 
+such as the FAA, and Drake has neither named nor served 
+any individual defendants.  Finally, Drake has asserted no 
+basis for a claim under the Federal Tort Claims Act 
+("FTCA").  Just as the APA precludes review of the FAA's 
+discretionary decision not to hold a hearing on Drake's com-
+plaint against Delta, that decision cannot give rise to FTCA 
+liability either.
+
+               I. Background
+
+     FAA regulations require that air carriers administer peri-
+odic drug tests on employees who perform certain safety-
+sensitive functions.  See 49 C.F.R. pt. 40 (1993) ("Part 40").  
+In 1989, the Department of Transportation promulgated the 
+Part 40 rules that were in effect during the times relevant to 
+this case.  See Procedures for Transportation Workplace 
+Drug Testing Programs, 54 Fed. Reg. 49,854 (Dec. 1, 1989).  
+These rules included a number of detailed requirements 
+relating to the scope of drug tests and the procedural protec-
+tions afforded to employees subject to testing.
+
+     Under the applicable version of Part 40, an employee's 
+positive test results had to be verified by the employer's 
+Medical Review Officer ("MRO").  Before doing so, however, 
+the MRO normally was required to give an employee a 
+chance to discuss his test result before reporting it to the 
+employer.  See 49 C.F.R. s 40.33(c)(1), (5).  Where there 
+were questions about the accuracy or validity of a positive 
+result, the MRO could order a retesting of the original 
+specimen.  If this reanalysis was negative, the MRO was 
+required to cancel the test.  49 C.F.R. s 40.33(e).  If the 
+result was "scientifically insufficient for further action," the 
+MRO could either declare the test negative or order a retest 
+under s 40.33(e).  49 C.F.R. s 40.33(g).  Moreover, in a 
+provision entitled "Individual access to test and laboratory 
+certification results," the FAA regulations indicated that an 
+individual "shall, upon written request, have access to any 
+records relating to his drug test and any records relating to 
+the results of any relevant certification, review, or revocation-
+of-certification proceedings."  49 C.F.R. s 40.37.
+
+     While Part 40 by its terms conferred no private right of 
+action against a carrier, employees may file a written com-
+plaint with the FAA if they believe a carrier has violated the 
+agency's rules or regulations.  See 49 U.S.C. s 46101(a).  In 
+turn, the Administrator "shall investigate the complaint if 
+reasonable ground appears to the ... Administrator for the 
+investigation."  Id. s 46101(a)(1).  However, the Administra-
+tor "may dismiss a complaint without a hearing when the ... 
+Administrator is of the opinion that the complaint does not 
+state facts that warrant an investigation or action."  Id. 
+s 46101(a)(3).  If there is a hearing, the Administrator "shall 
+issue an order to compel compliance" with the regulations "if 
+the Administrator finds in an investigation" that the regula-
+tions have been violated.  Id. s 46101(a)(4).
+
+     In accordance with Part 40, Delta Airlines required its 
+flight attendants to undergo random drug tests as a condition 
+of their employment.  In 1993, Drake was selected for testing 
+four times, the last on October 28.  His urine sample was sent 
+to Delta's designated laboratory, CompuChem Laboratories, 
+Inc., which pronounced it "unsuitable for testing," indicating 
+
+that it was somehow adulterated or abnormal.  A subsequent 
+report suggested that this initial result was "indicative of 
+adulteration with glutaraldehyde," a substance often used to 
+mask the presence of drugs in the body.  This finding was 
+transmitted to Dr. William Whaley, Delta's MRO, who decid-
+ed to forward an aliquot of Drake's sample to another lab, 
+North West Toxicology Laboratory, for further testing.  Dr. 
+Whaley allegedly did so without informing Drake or obtaining 
+his consent.
+
+     North West's test came back negative for glutaraldehyde, 
+although it revealed a pH of below 4, which the lab consid-
+ered "inconsistent with human kidney function and highly 
+suggestive of adulteration."  Dr. Whaley thus decided to send 
+the urine for yet another retest, this one to be conducted by 
+Dr. Malmoud ElSohly, who believed that he could adjust for 
+the abnormal pH and determine if the sample had been 
+tainted.  However, Dr. ElSohly's test uncovered no positive 
+indication of either drugs or adulterants.  Thus, while his 
+report did indicate that "the specimen might be adulterated," 
+Dr. ElSohly recommended that Dr. Whaley take no action 
+against Drake "because of presumed adulteration."  On No-
+vember 24, 1993, Dr. Whaley contacted Delta directly, report-
+ing the inconclusive results to the airline's drug program 
+managers.  He recounted Drake's testing history, noting that 
+the Part 40 regulations forbade any additional testing on the 
+October 28 sample.  Dr. Whaley therefore suggested that 
+Drake be contacted, at which point a new specimen could be 
+collected.
+
+     On November 29, North West performed a third retest on 
+Drake's original sample.  This test came back positive for 
+glutaraldehyde.  The next day, after Delta learned of this 
+result, Drake was removed from active flight status.  One 
+month later, he was asked to resign, and was fired when he 
+refused.
+
+     On December 28, 1994, Drake filed a pro se complaint 
+against Delta in the United States District Court for the 
+Eastern District of New York, arguing that the airline's 
+testing procedures had violated both the Part 40 regulations 
+
+and the Fourth Amendment.  The District Court in New 
+York dismissed the case on the ground that Part 40 provides 
+no private right of action against a carrier and that the 
+intrusion into Drake's privacy from the various retests of his 
+urine was minimal.  See Drake v. Delta Airlines, Inc., 923 
+F. Supp. 387 (E.D.N.Y. 1996).  On appeal, the Second Circuit 
+affirmed as to the regulations, but reversed on the constitu-
+tional issue.  See Drake v. Delta Airlines, Inc., 147 F.3d 169 
+(2d Cir. 1998).  That aspect of the case is still pending.  In 
+rejecting Drake's bid to sue under Part 40, the court of 
+appeals noted that Drake "could have sought redress of the 
+alleged regulatory violations through administrative avenues, 
+such as by filing a complaint with the Secretary of Transpor-
+tation."  Id. at 171 n.2.
+
+     In September 1998, Drake formally requested that the 
+FAA investigate Delta for its allegedly unlawful actions in 
+processing his urine sample.  Drake met with several agency 
+employees, who purportedly told him that he would be given 
+access to copies of all evidence and material collected during 
+the FAA's investigation.  Compl. in Civ. Act. No. 99-2790, at 
+p 11.  The FAA conducted a week-long investigation of Delta 
+between November 2 and November 6, 1998.
+
+     This inquiry was not yet completed when, on November 12, 
+1998, Drake filed a second pro se lawsuit, this one against the 
+FAA itself in the United States District Court for the District 
+of Columbia.  See Drake v. FAA, Civ. Act. No. 98-2758 
+(D.D.C.) ("FAA I").  In this action, Drake alleged that the 
+Part 40 regulations themselves violated the Fourth Amend-
+ment as well as "procedural due process."  He contended that 
+Part 40 failed to provide adequate hearing opportunities for 
+tested employees and should have included a private right to 
+sue carriers who run afoul of the rules' requirements.  
+Compl. in Civ. Act. No. 98-2758, at p p 6, 9-10.  This case was 
+assigned to Judge Lamberth.
+
+     On March 25, 1999, while this matter was proceeding, the 
+FAA informed Drake of the results of the agency's investiga-
+tion.  The FAA reported that it had found no evidence to 
+support Drake's allegations against Delta.  The agency also 
+
+informed Drake that any documents uncovered by the agency 
+during the course of its investigation could be released to him 
+only through FOIA.  Thus, "as a courtesy," the FAA inter-
+preted Drake's previous request for documents as a FOIA 
+request, and submitted it to the appropriate office on his 
+behalf.
+
+     Invoking s 40.37, Drake wrote to the FAA to argue that he 
+had a right to information gathered during the agency's 
+investigation.  The FAA, however, continued to demur, insist-
+ing that only FOIA, and not the regulation, applied to Drake's 
+request.  In April 1999, Drake was informed that although 
+the FAA had at least one responsive document, that docu-
+ment was exempt from disclosure under FOIA Exemption 
+7(a).  This exemption applies to records complied for law 
+enforcement to the extent that production "could reasonably 
+be expected to interfere with enforcement proceedings."  5 
+U.S.C. s 52(b)(7)(A).  The agency noted, however, that the 
+protection of Exemption 7 would terminate when its investi-
+gation of Delta was complete.
+
+     The instant case commenced on October 20, 1999, when 
+Drake filed a second pro se action against the FAA in the 
+United States District Court for the District of Columbia.  
+See Drake v. FAA, Civ. Act. No. 99-2790 (D.D.C.) ("FAA II").  
+In this complaint, Drake alleged that the FAA's determina-
+tion that Delta had not violated Part 40 was unreasonable, 
+and the product of a conspiracy between the agency and the 
+airline.  Compl. in Civ. Act. No. 99-2790, at p p 20-31.  He 
+asked that the court compel the FAA to complete a proper, 
+fair investigation of Delta and also to "release all information 
+of that investigation to date and in the future."  Id. at p 44.  
+This case was originally assigned to Judge Kessler, who 
+transferred it to Judge Lamberth on February 2, 2000 as a 
+related case to FAA I.  Judge Lamberth had previously 
+dismissed FAA I for lack of jurisdiction;  he reopened the 
+case following the transfer of FAA II in response to Drake's 
+motion to reconsider.  On July 31, 2000, however, Judge 
+Lamberth granted the FAA's motion to dismiss both cases.
+
+     As to FAA I, the District Court found that the Part 40 
+regulations attacked by Drake did not violate procedural due 
+process.  Moreover, noting that those regulations had been 
+superseded by new ones, the court declined to pass judgment 
+on the constitutionality of the replacement regulations, which 
+Drake had not challenged.  See FAA I, Civ. Act. No. 98-2758, 
+at 5-9 (D.D.C. July 31, 2000).  Finally, the District Court 
+concluded that no private right of action existed under Part 
+40.  Id. at 9.
+
+     The District Court then dismissed Drake's action in FAA 
+II, holding that the action was barred by res judicata, 
+because it grew out of the same factual nucleus as did FAA I. 
+See FAA II, No. 99-2790, at 3-5 (D.D.C. July 21, 2000).  
+However, the District Court elected to "comment" on the 
+merits, finding that Drake had failed to state a valid legal 
+claim.  Id. at 5.
+
+     The District Court suggested that the federal government's 
+sovereign immunity precluded Drake from obtaining the re-
+lief that he sought from the FAA.  As to Drake's information 
+request, the court agreed with the FAA that FOIA governed, 
+and that Drake was not entitled to judicial review of the 
+FAA's decision to invoke Exemption 7(a), because he had 
+failed to exhaust his administrative remedies.  In support of 
+this conclusion, the District Court read s 40.37 to apply only 
+to the material referenced in its title:  "test and laboratory 
+certification results."  The regulation did not, in the court's 
+view, apply to the "body of information produced during the 
+agency investigation."  Id. at 8-9.
+
+     Drake appealed both decisions.  On March 16, 2001, this 
+court summarily affirmed the dismissal of FAA I.  See Drake 
+v. FAA, No. 00-5328 (D.C. Cir. Mar. 16, 2001).  However, we 
+denied the FAA's motion for summary affirmance of FAA II, 
+suggesting that it was not clear that the District Court's 
+judgment on res judicata was a proper application of that 
+doctrine.  Moreover, we directed the parties to address two 
+merits issues in their briefs:  (1) whether appellant's request 
+for information pursuant to s 40.37 is governed by FOIA;  
+and (2) what is the proper disposition of appellant's claims for 
+
+all other relief (aside from the release of information).  We 
+now turn to these questions.
+
+               II. Discussion
+
+A.   Res Judicata
+
+     The first issue presented in this appeal is whether the 
+District Court correctly dismissed FAA II on res judicata 
+grounds.  Also known as "claim preclusion," this doctrine 
+holds that "a judgment on the merits in a prior suit bars a 
+second suit involving the same parties or their privies based 
+on the same cause of action."  Parklane Hosiery Co. v. Shore, 
+439 U.S. 322, 326 n.5 (1979).  Whether two cases implicate the 
+same cause of action turns on whether they share the same 
+"nucleus of facts."  Page v. United States, 729 F.2d 818, 820 
+(D.C. Cir. 1984).  Thus, under res judicata, "a final judgment 
+on the merits of an action precludes the parties or their 
+privies from relitigating issues that were or could have been 
+raised in that action."  Allen v. McCurry, 449 U.S. 90, 94 
+(1980) (emphasis added).
+
+     In this case, the District Court misapplied the claim preclu-
+sion doctrine.  It is clear that, for the most part, the causes of 
+action asserted in FAA II are different from those asserted in 
+FAA I.  The first case was concerned with the Part 40 
+regulations as a whole, and the related allegation that the 
+laxity of these regulations may have allowed Delta to violate 
+Drake's rights when it processed his urine sample.  In 
+marked contrast, the bulk of FAA II attacks the agency's 
+subsequent determination that Delta did not violate those 
+regulations and the FAA's refusal to disclose information 
+bearing on that determination.  Compl. in Civ. Act. No. 
+99-2790, at p p 23-31.  Plainly, then, the claims underlying 
+FAA II are based on a different nucleus of facts than were 
+those advanced in FAA I.
+
+     What is particularly noteworthy here is that many of the 
+central events underlying FAA II had not even taken place at 
+the time when Drake instigated FAA I.  While it is not clear 
+from the record when exactly the FAA prepared the investi-
+gation report attacked in FAA II, it is undisputed that the 
+
+agency did not tell Drake about its contents until March 25, 
+1999.  FAA I, of course, had been filed months before, on 
+November 12, 1998.  Moreover, Drake's claim in FAA II that 
+the agency improperly disregarded the terms of 49 C.F.R. 
+s 40.37 plainly arose after his first action began.  It was not 
+until April 12, 1999 that the FAA informed Drake that it was 
+treating his request for information as one made under FOIA, 
+thus rejecting his assertion that he was entitled to the 
+information under s 40.37.
+
+     Accordingly, the District Court's conclusion that Drake 
+should, or could, have raised these claims in FAA I was 
+misguided.  Res judicata does not preclude claims based on 
+facts not yet in existence at the time of the original action.  
+Page, 729 F.2d at 820 & n.12;  see also Stanton v. District of 
+Columbia Court of Appeals, 127 F.3d 72, 78-79 (D.C. Cir. 
+1997).  So it is here.  The doctrine does not bar a litigant 
+from doing in the present what he had no opportunity to do in 
+the past.  Therefore, insofar as FAA II challenges the nature 
+of the agency's investigation and its refusal to disclose the 
+fruits of that investigation, those claims were improperly 
+dismissed on res judicata grounds.
+
+B.   Drake's Request for the Release of Information
+
+     Drake contends that the FAA has provided no reasoned 
+basis for its refusal to apply 49 C.F.R. s 40.37 to his requests 
+for documents gathered or generated during the agency's 
+investigation of Delta.  If this regulation does not apply, then 
+the issue is now moot.  On May 9, 2000, the FAA informed 
+Drake that because its investigation of Delta was over, FOIA 
+no longer barred the release of the information gathered 
+during that inquiry.  Thus, the bulk of what Drake had 
+requested, including the FAA's Enforcement Investigation 
+Report and documentation relating to his 1993 drug test, was 
+released to him.
+
+     In light of this disclosure, Drake's claim is moot, unless he 
+can show that s 40.37 entitles him to certain documents that 
+he has requested but not yet received.  This he is unable to 
+do, because the FAA reasonably interpreted that regulation 
+as not applying to Drake's requests.  The FAA asserts that 
+
+Drake's demands for documents based on s 40.37 must fail, 
+because the regulation is addressed to laboratories, not the 
+agency, and, in any event, the regulation is limited to test and 
+laboratory certification results, not agency investigatory ma-
+terials.  Therefore, according to the FAA, Drake was obliged 
+to rely on FOIA, not s 40.37, in his quest for documents from 
+the FAA.  We agree.
+
+     In the Notice of Proposed Rulemaking ("NPRM") issued to 
+amend Part 40, the FAA indicated that the existing regula-
+tions "require[ ] laboratories to provide certain information 
+about, among other things, their HHS certifications."  Proce-
+dures for Transportation Workplace Drug and Alcohol Test-
+ing Programs, 64 Fed. Reg. 69,076, 69,085 (Dec. 9, 1999) 
+(emphasis added).  This suggested that any disclosure obli-
+gation imposed by s 40.37 was on the laboratories that con-
+ducted the actual drug testing, or on the employers for whom 
+the tests were conducted, not the FAA.  Neither the NPRM 
+nor the rule itself states that an employee may rely on 
+s 40.37 to obtain information amassed by the FAA in the 
+course of its investigation of a carrier or laboratory.  More-
+over, since the NPRM was aimed at "laboratories," this 
+suggested that the regulation applied only to laboratory 
+results and not to documents relating to FAA investigations 
+of carriers.
+
+     This interpretation of the regulation was never expressly 
+advanced by the FAA when it rejected Drake's request for 
+documents.  Agency officials merely advised Drake that he 
+was bound to use FOIA, not s 40.37, in his quest for docu-
+ments.  Drake also points out that s 40.37 does not expressly 
+foreclose his claim and, further, that the regulation can be 
+plausibly read to support his position.  We agree with Drake 
+that the regulation, on its face, is ambiguous.  However, this 
+is not fatal to FAA's position.  Recent decisions of this court 
+make it clear that we owe deference to an agency's interpre-
+tation advanced during litigation regarding the meaning of an 
+ambiguous regulation, if the position is not inconsistent with 
+the agency's prior statements and actions regarding the 
+disputed regulation.  See Bigelow v. Dep't of Defense, 217 
+F.3d 875, 878 (D.C. Cir. 2000);  Akzo Nobel Salt, Inc. v. Fed. 
+
+Mine Safety and Health Review Comm'n, 212 F.3d 1301, 
+1304-05 (D.C. Cir. 2000).  The FAA's interpretation here is 
+consistent with the position the agency took in its NPRM and 
+offers a perfectly reasonable interpretation of s 40.37, one to 
+which we defer.
+
+     In support of its interpretation, the FAA first points to 
+s 40.1.  This provision provides that Part 40 "applies to 
+transportation employers (including self-employed individu-
+als) conducting drug urine testing programs pursuant to 
+regulations issued by agencies of the Department of Trans-
+portation and to such transportation employers' officers, em-
+ployees, agents and contractors."  Thus, according to the 
+FAA, the mandate of s 40.37 - like the rest of Part 40 - was 
+directed to regulated carriers, such as Delta, and not to the 
+FAA itself.  See Br. of Appellee 19.  The agency finds further 
+support for this view in s 40.37's title, which refers only to 
+"test and laboratory certification results."  The FAA claims 
+that information generated during an agency investigation of 
+the kind mounted by the FAA here does not fit within the 
+confines of this title.  See id. at 18.
+
+     We accede to this interpretation of s 40.37.  The Supreme 
+Court's seminal decision in Bowles v. Seminole Rock & Sand 
+Co., 325 U.S. 410 (1945), established the basic principle that 
+an agency's interpretation of one of its own regulations 
+commands substantial judicial deference.  That interpretation 
+"becomes of controlling weight unless it is plainly erroneous 
+or inconsistent with the regulation."  Id. at 414.  More 
+recently, in Auer v. Robbins, the Court held that such defer-
+ence is not to be withheld merely because the agency's 
+reading of the regulation comes in form of a legal brief.  See 
+519 U.S. 452, 462 (1997);  see also Nat'l Wildlife Federation v. 
+Browner, 127 F.3d 1126, 1129 (D.C. Cir. 1997) ("The mere 
+fact that an agency offers its interpretation in the course of 
+litigation does not automatically preclude deference to the 
+agency.").
+
+     There are at least three preconditions for applying this so-
+called Auer deference.  First, the language of the regulation 
+in question must be ambiguous, lest a substantively new rule 
+
+be promulgated under the guise of interpretation.  See Chris-
+tensen v. Harris County, 529 U.S. 576, 588 (2000).  Second, 
+there must be "no reason to suspect that the interpretation 
+does not reflect the agency's fair and considered judgment on 
+the matter in question."  Auer, 519 U.S. at 462;  see also 
+Bigelow, 217 F.3d at 878.  Finally, the agency's reading of its 
+regulation must be fairly supported by the text of the regula-
+tion itself, so as to ensure that adequate notice of that 
+interpretation is contained within the rule itself.  See Auer, 
+519 U.S. at 461.
+
+     There is no doubt that s 40.37 is ambiguous in its reach.  
+And the interpretation advanced by the FAA, which applies 
+the rule only to test or laboratory certification results, and 
+not to requests presented to the agency itself, resolves that 
+underlying ambiguity quite sensibly.  The phrase "relating to 
+his or her drug test" is plastic, and can plausibly be read 
+either narrowly, particularly in light of the provision's title, or 
+broadly, as referring to any records bearing on or connected 
+to a drug test.  By focusing on the title to determine the 
+scope of the text, the FAA has adopted a reasonable construc-
+tion.
+
+     The regulation is silent on the question of to whom the 
+employee may present a "written request" in order to gain 
+access to his or her testing records.  It is not inconsistent 
+with the provision - and actually quite consistent with the 
+structure of the Part 40 regulations as a whole - to construe 
+this silence as the agency has now done.  Part 40 imposes 
+obligations on regulated carriers and affiliated laboratories, 
+not on the FAA itself.  These are the entities that actually 
+conduct the drug testing, and who therefore would generally 
+maintain records relating to such tests.  It therefore makes 
+perfect sense to read s 40.37 to allow employees to seek such 
+information from private entities.
+
+     Accordingly, the interpretation of the regulation advanced 
+by the FAA during this litigation is controlling unless we 
+discern some reason to believe that it is not "fair and consid-
+ered."  In conducting this inquiry, we consider whether the 
+agency has "ever adopted a different interpretation of the 
+
+regulation or contradicted its position on appeal."  National 
+Wildlife, 127 F.3d at 1129.  Where the agency's litigation 
+position is consistent with its past statements and actions, 
+there is good reason for the court to defer, for then the 
+position seems "simply to articulate an explanation of long-
+standing agency practice."  Akzo Nobel, 212 F.3d at 1304;  see 
+also Ass'n of Bituminous Contractors, Inc. v. Apfel, 156 F.3d 
+1246, 1252 (D.C. Cir. 1998) (distinguishing between explana-
+tions of a rationale implicitly adopted by the agency in its 
+prior actions and explanations that offer new explanations for 
+conduct previously defended on other grounds).
+
+     So it is here.  The FAA's litigation position that s 40.37 
+applies neither to the FAA nor to documents relating to FAA 
+investigations of carriers is in accord with the agency's han-
+dling of Drake's information requests solely under FOIA and 
+treating the Part 40 rules as irrelevant.  The FAA did not 
+vacillate or reverse itself on this point.  See Akzo Nobel, 212 
+F.3d at 1304-05 (concluding that the "flip-flops here mark the 
+Secretary's position as the sort of 'post hoc rationalizations' to 
+which courts will not defer") (quoting Martin v. OSHRC, 499 
+U.S. 144, 156 (1991)).  Furthermore, Drake can point to no 
+prior situations during which the FAA has followed a practice 
+different from the one it has invoked in this case.  See 
+Bigelow, 217 F.3d at 878 (deferring where there were "no 
+past practices or pronouncements" inconsistent with agency's 
+"current interpretation").  And, finally, as noted above, the 
+FAA's litigation position finds support in the NPRM issued to 
+amend Part 40.
+
+     Accordingly, we have no reason to believe that the FAA's 
+reading of s 40.37 represents anything but its fair and consid-
+ered understanding.  Deferring to that reasonable interpreta-
+tion, we find that s 40.37 does not apply to Drake's request 
+for documents, and that accordingly his claim is moot.
+
+C.   Drake's Remaining Claims
+
+     The District Court invoked sovereign immunity to support 
+its dismissal of the remainder of Drake's action.  Drake 
+contends that this was error, arguing that the court instead 
+should have viewed his pro se allegations as three separate 
+
+claims each of which survives the Government's 12(b)(6) 
+motion.  We address each of these claims in turn.
+
+     1.   APA Claim
+          
+     Drake claims that the FAA's decision not to find Delta in 
+violation of the agency's Part 40 rules violated the APA.  In 
+other words, according to Drake, Delta so manifestly disobey-
+ed the FAA's regulations in processing Drake's urine sample 
+that the FAA abused its discretion in concluding otherwise.
+
+     The agency's actions in this context were governed by 49 
+U.S.C. s 46101.  Under this provision, any person may file a 
+complaint with the FAA asserting a violation of one of the 
+agency's regulations.  The agency is directed to look into the 
+matter "if a reasonable ground appears to the Secretary [of 
+Transportation] or Administrator [of the FAA] for the investi-
+gation."  s 46101(a)(1).  Here, Drake filed such a complaint 
+against Delta, and the FAA conducted an investigation.  
+What happened next falls within the ambit of s 46101(a)(3), 
+which provides that:
+
+     The Secretary of Transportation or Administrator may 
+     dismiss a complaint without a hearing when the Secre-
+     tary or Administrator is of the opinion that the complaint 
+     does not state facts that warrant an investigation or 
+     action.
+     
+(Emphasis added.)  It is this dismissal that Drake now seeks 
+to challenge.  We reject this challenge, because we find that 
+the FAA's decision to dismiss Drake's complaint without a 
+hearing is "committed to agency discretion by law," and thus 
+excluded from review under the APA.  5 U.S.C. s 701(a)(2).
+
+     While the APA embodies a "basic presumption of judicial 
+review," Abbott Laboratories v. Gardner, 387 U.S. 136, 140 
+(1967), s 701(a)(2) bars judicial review of agency action when 
+the matter in dispute has been "committed to agency discre-
+tion by law."  The Supreme Court's first significant discus-
+sion of s 701(a)(2) came in Citizens to Preserve Overton Park, 
+Inc. v. Volpe, 401 U.S. 402 (1971).  There, the Court indicated 
+that this is a "very narrow exception," which applies only "in 
+those rare instances where 'statutes are drawn in such broad 
+
+terms that in a given case there is no law to apply.' "  Id. at 
+410 (quoting S. Rep. No. 79-752 (1945)).
+
+     Since the Court's decision in Overton Park, the "no law to 
+apply" formula has come to refer to the search for substan-
+tive legal criteria against which an agency's conduct can be 
+seriously evaluated.  If no such "judicially manageable stan-
+dards" are discernable, meaningful judicial review is impossi-
+ble, and agency action is shielded from the scrutiny of the 
+courts.  Heckler v. Chaney, 470 U.S. 821, 830 (1985);  Webster 
+v. Doe, 486 U.S. 592, 599-600 (1988).  In such circumstances, 
+the courts have no legal norms pursuant to which to evaluate 
+the challenged action, and thus no concrete limitations to 
+impose on the agency's exercise of discretion.  In other 
+words, s 701(a)(2) encodes the principle that an agency can-
+not abuse its discretion, and thus violate s 706(2)(A), where 
+its governing statute confers such broad discretion as to 
+essentially rule out the possibility of abuse.
+
+     In determining whether a matter has been committed 
+solely to agency discretion, we consider both the nature of the 
+administrative action at issue and the language and structure 
+of the statute that supplies the applicable legal standards for 
+reviewing that action.  See, e.g., Legal Assistance for Viet-
+namese Asylum Seekers v. Dep't of State, Bureau of Consu-
+lar Affairs, 104 F.3d 1349, 1353 (D.C. Cir. 1997).  The 
+Supreme Court has recognized that certain categories of 
+administrative decisions, including refusals to take enforce-
+ment actions, are presumptively outside the bounds of judicial 
+review.  See Chaney, 470 U.S. at 831-34;  see also Lincoln v. 
+Vigil, 508 U.S. 182, 191 (1993).
+
+     In the present case, the FAA's decision to dismiss Drake's 
+complaint without a hearing was equivalent to a decision not 
+to commence an enforcement action.  Such a hearing is a 
+prerequisite to an FAA finding that a carrier has committed a 
+statutory or regulatory violation.  See 49 U.S.C. 
+s 46101(a)(4).  Here, the agency determined that no hearing 
+was necessary because the facts stated in Drake's complaint 
+were insufficient to warrant further action.  The FAA's action 
+in this case was thus analogous to an exercise of "prosecutori-
+
+al discretion" of the sort discussed in Chaney.  And, as 
+Chaney makes clear, when prosecutorial discretion is at issue, 
+the matter is presumptively committed to agency discretion 
+by law.  See Block v. SEC, 50 F.3d 1078, 1082 (D.C. Cir. 1995) 
+(concluding that an agency's refusal to hold a hearing for the 
+purpose of establishing the factual basis for subsequent en-
+forcement action is subject to Chaney's presumption against 
+judicial review).
+
+     In an effort to avoid Chaney's presumption against judicial 
+review, Drake argues that he is merely challenging the 
+specific findings of the FAA that led the agency not to 
+commence an enforcement action.  In other words, Drake 
+contends that there is "law to apply" in the sense indicated by 
+the Supreme Court in Overton Park, because the agency 
+made specific findings to support its judgment and these 
+findings are subject to review under s 706(2)(A) of the APA.  
+This is a superficially appealing argument, but it ultimately 
+fails for two related reasons.
+
+     First, it is clear that the FAA's factual findings were 
+inextricably intertwined with its decision not to issue a com-
+pliance order against Delta.  In other words, the FAA's 
+decision that the facts did not show a violation of Part 40 was 
+inseparable from its decision to take no further prosecutorial 
+action against the carrier.  This is not to suggest that such 
+agency findings are never subject to judicial review.  Instead, 
+our point is that when, as here, such determinations are a 
+prerequisite to an enforcement action, we would read Chaney 
+far too narrowly to conclude that a challenge to the adequacy 
+of agency findings is not in substance a challenge to the 
+agency's refusal to enforce.  See Block, 50 F.3d at 1081 
+(suggesting that Chaney applies not merely to an agency's 
+decision not to commence enforcement action in the case of a 
+recognized violation, but also to "its antecedent judgment 
+upon the question of whether a violation has occurred") 
+(internal quotation marks omitted).
+
+     Second, whether this case is governed by Overton Park 
+("no law to apply" so the presumption of reviewability is lost) 
+or Chaney (agency action involved an exercise of prosecutori-
+
+al discretion and presumption of non-reviewability has not 
+been overcome), Drake cannot prevail.  This is so because, in 
+the end analysis, the statute at issue gives virtually unfet-
+tered discretion to the FAA to act as it did in this case.
+
+     Chaney's presumption against judicial review may be re-
+butted where the relevant statute supplies meaningful stan-
+dards to cabin the agency's otherwise plenary discretion.  See 
+Chaney, 470 U.S. at 832-33;  see also Vigil, 508 U.S. at 193 
+("Congress may always circumscribe agency discretion to 
+allocate resources by putting restrictions in the operative 
+statutes....");  Block, 50 F.3d at 1082 (noting that "an en-
+forcement decision that would otherwise be unreviewable is 
+subject to judicial review if the Congress or the agency itself 
+has provided a meaningful standard for the agency to follow 
+in exercising its enforcement power").  Accordingly, we may 
+review the FAA decisions challenged by Drake only if the 
+operative statute provides clear guidelines by which to do so, 
+or otherwise evinces an intent to constrain the FAA's discre-
+tion.
+
+     In this case, however, the statute does just the opposite.  
+The language of s 46101(a)(3), which set the terms for the 
+FAA's decision to dismiss Drake's complaint without a hear-
+ing, is highly discretionary.  Indeed, a provision that allows 
+the Administrator to act when she "is of the opinion that the 
+complaint does not state facts that warrant an investigation," 
+gives the FAA virtually unbridled discretion over such deci-
+sions.  The only statutory reference point is the Administra-
+tor's own beliefs.  Therefore, a court has no meaningful 
+standard against which to judge the agency's exercise of 
+discretion, at least so long as the agency's action does not 
+otherwise infringe some constitutional right or protection.  
+See Webster, 486 U.S. at 603-04.
+
+     The Supreme Court has relied on an analogous distinction 
+between a subjective standard (whether the agency thinks 
+that a condition has been met) and an objective one (whether 
+the condition in fact has been met) in deciding that agency 
+action was unreviewable.  In Webster, the Court held that a 
+provision allowing termination of a CIA employee whenever 
+
+the agency's Director "shall deem such termination necessary 
+or advisable in the interests of the United States" precluded 
+judicial review of that decision.  Id. at 600 (quoting 50 U.S.C. 
+s 403(c)).  What may be thought necessary may not in fact be 
+necessary, but a court may pass judgment only on the latter, 
+not the former.
+
+     Thus, whether this case involves a presumption of non-
+reviewability under Chaney or, instead, a presumption of 
+reviewability under Overton Park, Drake's claim still fails 
+because there is "no law to apply."  See, e.g., Claybrook v. 
+Slater, 111 F.3d 904, 908-09 (D.C. Cir. 1997) (decision of 
+agency representative to adjourn a meeting whenever "he 
+determines it to be in the public interest" was committed to 
+agency discretion by law) (emphasis added).  In sum, then, it 
+is clear that the relevant statutory language "fairly exudes 
+deference" to the FAA, and "foreclose[s] the application of 
+any meaningful judicial standard of review."  Webster, 486 
+U.S. at 600.  We therefore have no basis upon which to 
+review the FAA's decision to dismiss Drake's complaint with-
+out a hearing.  Appellant has therefore failed to state a claim 
+under the APA.
+
+     2.   Bivens Claim
+          
+     We need not linger long over Drake's argument that his 
+complaint states a colorable Bivens claim.  The complaint 
+names only the FAA itself as defendant.  Drake neither 
+named nor served any individual defendants.  It is of course 
+well-settled that Bivens liability cannot be imposed on an 
+agency of the Federal Government.  See FDIC v. Meyer, 510 
+U.S. 471 (1994).  Drake's constitutional claim against the 
+FAA thus fails.
+
+     Aware of this problem, amicus asks us to allow Drake to 
+correct this pleading deficiency on remand.  Because we have 
+rejected all of appellant's claims, however, there is nothing to 
+remand.  Insofar as we are being asked to send the case back 
+merely so that Drake may amend his complaint, this request 
+comes too late.  See Gov't of Guam v. Am. President Lines, 
+
+28 F.3d 142, 149-51 (D.C. Cir. 1994) (holding that plaintiffs 
+whose complaints are dismissed waive their right to amend 
+following appeal if they failed to seek leave to amend from the 
+District Court);  United States ex rel. Totten v. Bombardier 
+Corp., 286 F.3d 542, 552-53 (D.C. Cir. 2002) (confirming that 
+this rule applies so long as the Court of Appeals affirms the 
+dismissal of the complaint).
+
+     3.   FTCA Claim
+          
+     Finally, we reject Drake's complaint resting on the Federal 
+Tort Claims Act.  By its own terms, the FTCA does not 
+apply to any claim that is "based upon the exercise or 
+performance or the failure to exercise or perform a discre-
+tionary function or duty on the part of a federal agency ... 
+whether or not the discretion involved be abused."  28 U.S.C. 
+s 2680(a).  As our discussion of appellant's APA claim has 
+demonstrated, the FAA's decision to dismiss Drake's com-
+plaint without a hearing in light of its finding that Delta did 
+not violate Part 40 plainly represents an exercise of the 
+agency's discretion.  Accordingly, the District Court's deci-
+sion that Drake stated no claim under the FTCA was entirely 
+correct.
+
+     Drake argues that the FAA's governing statute contains 
+certain mandatory elements that, if disregarded, could serve 
+as the basis for an FTCA action.  Specifically, he points to 
+the provision mandating that the Administrator "shall issue 
+an order to compel compliance with this part if the Secretary 
+or Administrator finds in an investigation under this subsec-
+tion that a person is violating this part."  49 U.S.C. 
+s 46101(a)(4) (emphasis added).  We have no occasion to 
+address whether disobeying such a statutory command could 
+give rise to FTCA liability, because there has been no such 
+disobedience in this case.  The whole basis for Drake's com-
+plaint is that the FAA did not find a violation.  Accordingly, 
+whatever obligations this statutory scheme may impose on 
+the FAA simply have not been triggered.
+
+               III. CONCLUSION
+
+     For the reasons given above, the decision of the District 
+Court is affirmed.
+
+                                                  It is so ordered.
+
+            

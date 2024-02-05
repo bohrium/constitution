@@ -1,0 +1,530 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued February 20, 2001     Decided April 27, 2001 
+
+                           No. 00-1136
+
+                       Global NAPs, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                 Verizon Delaware, Inc., et al., 
+                           Intervenors
+
+                            ---------
+
+             On Petition for Review of Orders of the 
+                Federal Communications Commission
+
+                            ---------
+
+     Christopher W. Savage argued the cause and filed the 
+briefs for petitioner. John D. Seiver entered an appearance.
+
+     Lisa E. Boehley, Counsel, Federal Communications Com-
+mission, argued the cause for respondents. With her on the 
+brief were Christopher J. Wright, General Counsel, John E. 
+Ingle, Deputy Associate General Counsel, A. Douglas Me-
+lamed, Assistant Attorney General, U.S. Department of Jus-
+tice, Catherine G. O'Sullivan and Robert J. Wiggers, Attor-
+neys.  Laurel R. Bergold, Counsel, Federal Communications 
+
+Commission, and Nancy C. Garrison, Attorney, U.S. Depart-
+ment of Justice, entered appearances
+
+     Aaron M. Panner argued the cause for intervenors Verizon 
+Telephone Companies.  With him on the brief were Mark L. 
+Evans, Michael E. Glover, Edward H. Shakin and Lawrence 
+W. Katz.
+
+     Before:  Williams, Sentelle and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  Petitioner Global NAPs, Inc. 
+("GNAPs") seeks review of a Federal Communications Com-
+mission ("FCC") ruling that GNAPs' tariff for Internet-bound 
+traffic was facially invalid under FCC regulations.  GNAPs 
+raises both procedural and substantive challenges to the 
+FCC's order.  Specifically, GNAPs contends that the FCC 
+violated its own rules and due process requirements in void-
+ing the tariff, misconstrued the tariff terms, and improperly 
+invalidated the tariff retroactively.  We hold that the FCC 
+did not deprive GNAPs of due process, did not exceed its 
+authority by invalidating the tariff, and reasonably declared 
+GNAPs' tariff unlawful.  Therefore we uphold the FCC's 
+order and deny the petition for review.
+
+                    I. Background
+
+A.   Statutory & Regulatory Context
+
+     1.   Reciprocal Compensation
+          
+     Under Section 251(b) of the Telecommunications Act of 
+1996, local exchange carriers ("LECs") are required to "es-
+tablish reciprocal compensation arrangements for the trans-
+port and termination of telecommunications."  47 U.S.C. 
+s 251(b)(5).  This means that when a customer of Carrier X 
+calls a customer of Carrier Y who is within the same local 
+calling area, Carrier X pays Carrier Y for completing, or 
+"terminating," the call.  The FCC interprets this requirement 
+to apply only to local calls--that is, calls that originate and 
+terminate within a local area.  The reciprocal compensation 
+requirement "do[es] not apply to the transport or termination 
+
+of interstate or intrastate interexchange traffic."  In re Im-
+plementation of the Local Competition Provisions in the 
+Telecom. Act of 1996, 11 F.C.C.R. 15,499, 16,013 p 1034 (1996) 
+(subsequent history omitted).
+
+     Under the Act, carriers are expected to negotiate the rate 
+and terms of reciprocal compensation.  If the carriers are 
+unable to reach agreement, they may submit the contested 
+issues to arbitration by the relevant state public utility com-
+mission ("PUC").  47 U.S.C. s 252(e)(1).  Once the PUC 
+approves an interconnection agreement, it is charged with 
+interpreting and enforcing the agreement, but the PUC's 
+determinations are subject to review in federal court for 
+consistency with the Act.  See 47 U.S.C. s 252(e)(6).
+
+     In February 1999, the FCC published an order holding that 
+Internet-bound calls to Internet Service Providers ("ISPs") 
+are not local on the theory that such traffic does not originate 
+and terminate in the same local calling area, and is therefore 
+not covered by the reciprocal compensation obligation.  See 
+In re Implementation of the Local Competition Provisions in 
+the Telecom. Act of 1996, Inter-carrier Compensation for 
+ISP-Bound Traffic, 14 F.C.C.R. 3689 (1999) ("Reciprocal 
+Compensation Ruling").  While the call to the ISP may be 
+local, the FCC concluded that the terminating end of the call 
+is actually the site reached by the Internet connection.  The 
+FCC noted that there was no federal rule governing inter-
+carrier compensation for Internet-bound traffic, but held that 
+carriers would be bound to provide compensation as provided 
+under their respective interconnection agreements as inter-
+preted by state PUCs.  Id. at 3704 p 24.  The FCC also 
+initiated a rulemaking on an appropriate federal inter-carrier 
+compensation mechanism.  Id. at 3707 p 28.  While this rule-
+making was underway, the affected LECs petitioned this 
+court for review of the FCC's decision.  We vacated and 
+remanded the order for the Commission's failure to provide 
+an adequate explanation as to why Internet-bound calls were 
+not treated as local calls.  See Bell Atlantic Tel. Cos. v. FCC, 
+206 F.3d 1 (D.C. Cir. 2000).
+
+     2.   Tariff Requirements
+          
+     Under Section 201(b) of the Telecommunications Act, all 
+interstate communications "charges, practices, classifications, 
+and regulations" must be "just and reasonable."  47 U.S.C. 
+s 201(b).  Carriers must publish rate tariffs before they go 
+into effect.  Published tariffs "must contain clear and explicit 
+explanatory statements regarding the rates and regulations."  
+47 C.F.R. s 61.2 (a).  Tariffs may not "make reference to any 
+other tariff publication or to any other document or instru-
+ment."  Id. at s 61.74(a).  Tariffs filed by nondominant carri-
+ers, such as GNAPs, take effect on only one day's notice.  
+Such tariffs receive streamlined review and are presumed 
+lawful by the Commission.  Failure to comply with the rele-
+vant regulatory provisions "may be grounds for rejection" of 
+the tariff.  Id. at s 61.1(b).
+
+B.   Relevant Facts
+
+     GNAPs is a competitive local exchange carrier ("CLEC") in 
+several states.  GNAPs and Intervenor Verizon, an LEC 
+formerly known as Bell Atlantic, have interconnection agree-
+ments in several states.  In April 1997, the two carriers 
+entered into an interconnection agreement including a provi-
+sion that "[r]eciprocal compensation only applies to the trans-
+port and termination of Local Traffic" defined as "a call which 
+is originated and terminated within a given [Local Access and 
+Transport Area or "LATA"]" in Massachusetts.  The parties 
+did not agree as to whether the agreement's reciprocal com-
+pensation provisions covered Internet-bound traffic, but 
+agreed to abide by the interpretation of the Massachusetts 
+Department of Telecommunications and Energy ("DTE")--
+the Massachusetts PUC--of either the GNAPs-Verizon 
+agreement or identical language in other agreements to which 
+Verizon was a party.
+
+     On October 21, 1998, DTE ruled that Verizon was required 
+to pay reciprocal compensation for the delivery of Internet-
+bound traffic by MCI WorldCom.  Complaint of MCI World-
+Com, Inc., D.T.E. 97-116 (Mass. D.T.E. Oct. 21, 1998).  At 
+the time, DTE directed Verizon to pay reciprocal compensa-
+tion to other LECs with which it had similar agreements 
+
+within the state.  Shortly thereafter, however, the FCC pub-
+lished the Reciprocal Compensation Ruling declaring that 
+Internet-bound traffic is interstate, not local.  DTE respond-
+ed on May 19, 1999 by vacating its October decision and 
+declaring that Verizon was not required to pay reciprocal 
+compensation for Internet-bound traffic, but may be required 
+to pay compensation under the interconnection agreement.  
+Complaint of MCI WorldCom, Inc., D.T.E. 97-116-C (Mass. 
+D.T.E. May 19, 1999).  On February 25, 2000, after this 
+Court vacated the FCC's order, DTE reaffirmed its May 1999 
+ruling, but this ruling is the subject of ongoing litigation.  
+Complaint of MCI WorldCom, Inc., D.T.E. 97-116-D (Mass. 
+D.T.E. Feb. 25, 2000).
+
+     On April 14, 1999, while the DTE proceedings were under-
+way (and before the DTE vacated its initial decision) GNAPs 
+filed a tariff imposing an $0.008 per minute charge on the 
+delivery of all Internet-bound calls for which GNAPs "does 
+not receive compensation ... under the terms of an intercon-
+nection agreement."  The tariff further provided that a carri-
+er's "[f]ailure ... to actually compensate [GNAPs] for ISP-
+bound traffic as local traffic under the terms of an Intercon-
+nection Agreement shall constitute an election to compensate 
+[GNAPs] under the terms of this Tariff."  On May 27, 1999, 
+GNAPs billed Verizon under this tariff over $1.7 million for 
+fifteen days of service.  Verizon refused to pay.
+
+C.   The FCC Proceedings
+
+     On July 8, 1999 Verizon filed a complaint against GNAPs' 
+tariff under Section 208 of the Communications Act.  Verizon 
+alleged that 1) the tariff was inconsistent with FCC rules 
+insofar as the FCC exempted ISPs from access charges and 
+provided for joint provision of access service to interexchange 
+carriers, 2) the tariff preempted state determination of inter-
+carrier compensation for interstate Internet-bound traffic, 3) 
+the tariff made Verizon an involuntary GNAPs customer, and 
+4) the tariff imposed excessive rates.  Specifically, Verizon 
+alleged "GNAPs has no right to circumvent the negotiation 
+and arbitration process that the DTE and this Commission 
+have directed it to follow by unilaterally filing a federal 
+
+tariff."  After a status conference, the FCC directed briefing 
+on ten issues concerning the legality of the tariff and the 
+applicability of specific FCC rules, including "why Global 
+NAPs filed a federal tariff and whether that was reasonable."  
+In re Bell Atlantic-Delaware, Inc., E-99-22 (Aug. 19, 1999).
+
+     On December 2, 1999, the FCC declared GNAPs' tariff 
+unlawful under section 201(b) and void ab initio.  In re Bell 
+Atlantic-Delaware, Inc., et al. v. Global NAPs, Inc., Memo-
+randum Opinion and Order, 15 F.C.C.R. 12,946 (1999) ("Or-
+der").  The FCC found that the challenged tariff provisions 
+violated the requirement of 47 C.F.R. s 61.2 that tariffs be 
+"clear and explicit" because "those tariff provisions condition 
+the imposition of charges on circumstances that were indeter-
+minate when the tariff took effect and remain indeterminate 
+today."  Id. p 2.  Additionally, the FCC found that the tariff 
+impermissibly cross-referenced another document--in this 
+case the interconnection agreement between GNAPs and 
+Verizon--in violation of 47 C.F.R. s 61.74(a).  The Commis-
+sion noted that at the time the tariff was filed, the parties did 
+not know whether GNAPs would receive reciprocal compen-
+sation from Verizon for Internet-bound traffic because the 
+DTE proceedings were still underway.
+
+     On January 3, 2000, GNAPs petitioned for reconsideration 
+of the FCC's order.  GNAPs raised several arguments.  
+First, GNAPs argued that in basing its decision on grounds 
+not raised by Verizon or briefed by either party, the FCC 
+denied GNAPs its right to notice and due process and illegal-
+ly relieved Verizon of its burden of proof.  GNAPs further 
+argued that the FCC, by voiding the tariff retroactively, 
+illegally denied GNAPs just compensation for the interstate 
+services it provided to Verizon.  Finally, GNAPs claimed that 
+the FCC's order was wrong on the merits and the tariff was 
+legal under the Act and applicable FCC regulations.
+
+     The FCC denied GNAPs' petition on March 22.  In re Bell 
+Atlantic-Delaware, Inc., et al. v. Global NAPs, Inc., Order on 
+Reconsideration, 15 F.C.C.R. 5,997 (2000) ("Reconsideration 
+Order").  The FCC rejected GNAPs procedural claims, ex-
+
+plaining that its initial Order was based on issues that were 
+antecedent to those raised by Verizon's complaint, and there-
+fore could be considered.  The FCC further rejected GNAPs' 
+contentions that the tariff was lawful and that GNAPs was 
+due compensation for services rendered to Verizon.
+
+     On March 24, 2000, GNAPs petitioned for review of both 
+orders.
+
+                         II. Notice
+
+     Petitioner GNAPs contends the FCC violated both its own 
+rules and GNAPs' due process rights by basing its ruling on 
+legal arguments that were not presented by either party nor 
+raised by the FCC in its August 1999 briefing order.  Accord-
+ing to GNAPs, only those issues pled to the Commission are 
+properly before it.  Therefore, GNAPs claims, the Commis-
+sion was precluded from basing its decision on any other 
+grounds.  By doing otherwise, GNAPs claims the FCC violat-
+ed its due process rights and the Order must be set aside.
+
+     The FCC's rules require that a petitioner plead "[a]ll 
+matters concerning a claim ... fully and with specificity."  47 
+C.F.R. s 1.720(a).  As interpreted by the FCC, these rules 
+bar a complainant from amending or otherwise "introducing 
+new issues late in the development of the case."  In re 
+Implementation of the Telecom. Act of 1996, 12 F.C.C.R. 
+22,497, 22,597 p 241 (1997).  GNAPs claims that any depar-
+ture from those rules violates GNAPs' due process rights.  
+Specifically, GNAPs alleges that the FCC's conduct contra-
+dicts the Administrative Procedure Act's ("APA") require-
+ment that a party "shall be timely informed of ... the 
+matters of fact and law asserted."  5 U.S.C. s 554(b).  See 
+Amoco Prod. Co. v. Fry, 118 F.3d 812, 819 (D.C. Cir. 1997) 
+("Notice and a meaningful opportunity to challenge the agen-
+cy's decision are the essential elements of due process.").  
+The lack of notice, GNAPs claims, made it impossible for it to 
+respond to the arguments upon which the FCC ultimately 
+made its decision.  Proper notice, GNAPs claims, would have 
+enabled it "to cut its losses early on by amending its tariff."  
+Brief for Petitioner at 27.
+
+     The FCC responds to GNAPs' procedural claims by argu-
+ing that it voided GNAPs' tariff based on legal theories that 
+were "antecedent" to those raised by Verizon.  The FCC 
+could not determine the reasonableness of the tariff without 
+determining what it covered, and that question was indeter-
+minate given the ongoing DTE proceedings.  We agree.  
+Though the precise legal theories relied upon by the Commis-
+sion were different than those raised by Verizon, GNAPs 
+cannot credibly argue that the effect of the ongoing state 
+proceeding on GNAPs' tariff and Verizon's payment obli-
+gations was not squarely before the agency.  GNAPs cites 
+Virginia State Corp. Comm'n v. MCI, 14 F.C.C.R. 4744 
+(1999), for the proposition that in a Section 208 proceeding, 
+the FCC may only consider those issues briefed by the 
+complainant.  While the FCC declined to consider issues 
+raised sua sponte by Commission staff in Virginia State 
+Corp., it was not because the Commission lacked the authori-
+ty to do so.  Rather, the FCC concluded that "[i]n the 
+particular circumstances" of that case the unbriefed issues 
+"raised difficult and important issues warranting extensive 
+analysis by the parties and the Commission."  Id. at 4753 p 24 
+n.65.  It was these "particular circumstances," and not the 
+complainant's failure to raise particular issues standing alone, 
+that would have deprived the parties "a full and fair opportu-
+nity" to address the issues.  Id.
+
+     There is no dispute that the FCC declared GNAPs' tariff 
+unlawful "for reasons other than those asserted" by Verizon.  
+Order at p 14.  This does not, however, mean that GNAPs 
+was deprived due process.  Even assuming that the FCC 
+violated its own rules, GNAPs had adequate opportunity to 
+meet the charges on reconsideration.  GNAPs addressed the 
+substance of the FCC's findings in its petition for reconsider-
+ation (while claiming not to), and identified no significant 
+evidence that might have changed the FCC's conclusions.  
+Unless we are given concrete reason to believe otherwise, we 
+will trust that an agency properly discharged its obligation to 
+reconsider those issues presented in a petition for reconsider-
+ation;  "we cannot consider the reconsideration to have been a 
+sham."  U.S. Satellite Broad. Co. v. FCC, 740 F.2d 1177, 1186 
+
+(D.C. Cir. 1984).  We therefore proceed to review the merits 
+of the FCC's decision.
+
+                         III. Merits
+
+A.   Standard of Review
+
+     Under the APA, a reviewing court must uphold an FCC 
+order unless it is found to be "arbitrary, capricious, an abuse 
+of discretion, or otherwise not in accordance with law."  5 
+U.S.C. s 706(2)(A).  This is a "deferential standard" that 
+"presume[s] the validity of agency action."  Southwestern 
+Bell Tel. Co. v. FCC, 168 F.3d 1344, 1352 (D.C. Cir. 1999).  
+The FCC is due substantial deference in its implementation 
+of the Communications Act, and "even greater deference" 
+when interpreting its own rules and regulations.  Capital 
+Network Sys. v. FCC, 28 F.3d 201, 206 (D.C. Cir. 1994).  A 
+similar standard applies to the FCC's interpretation of tariffs.  
+Such interpretations should be upheld where they are "rea-
+sonable [and] based upon factors within the Commission's 
+expertise."  American Message Centers v. FCC, 50 F.3d 35, 
+39 (D.C. Cir. 1995) (citation omitted).  Reversing an FCC 
+tariff interpretation should only occur where it "is not sup-
+ported by substantial evidence, or the [Commission] has made 
+a clear error in judgment."  Id. (citation omitted).
+
+B.   The Tariff
+
+     The FCC found GNAPs' tariff to be ambiguous and to 
+contain an impermissible cross-reference.  Either is a suffi-
+cient ground to declare the tariff illegal.  GNAPs maintains 
+that a proper reading of its tariff shows that it is not 
+ambiguous and does not contain an impermissible cross-
+reference.  Whereas the FCC and Verizon contend that the 
+tariff is conditional on another document--the referenced 
+interconnection agreement--GNAPs maintains that the tariff 
+is conditional on whether GNAPs was actually paid for carry-
+ing the traffic, irrespective of the reason.  GNAPs claims the 
+tariff is not unclear or ambiguous, as carriers will know 
+whether they paid GNAPs and therefore will know whether 
+the tariff applies.  For the same reason, GNAPs claims, the 
+
+tariff should not be read to contain an impermissible cross-
+reference in violation of 47 C.F.R. s 61.74(a).
+
+     The FCC clearly has the better of this argument.  47 
+C.F.R. s 61.74(a) provides that "no tariff publication filed 
+with the Commission may make reference to any other tariff 
+publication or to any other document or instrument."  The 
+relevant portion of the tariff reads:  "This tariff applies to all 
+ISP-bound traffic for which [GNAPs] does not receive com-
+pensation from the Delivering LEC under the terms of an 
+interconnection agreement."  (Emphasis added.)  From 
+these words it is unmistakable that the application of the 
+tariff is contingent upon whether GNAPs is paid "under the 
+terms of an interconnection agreement."  If GNAPs receives 
+payment for some other reason, this would not satisfy the 
+condition, and payment would still be due under the tariff.  
+The tariff, on its face, violates the FCC's rule.  Any reason-
+able construction of the tariff's language would require a 
+customer to consult the interconnection agreement to deter-
+mine whether the tariff applied.
+
+     The FCC also reasonably concluded that the tariff violates 
+47 C.F.R. s 61.2(a) which provides that tariffs must be clear 
+and explicit "[i]n order to remove all doubt as to their proper 
+application."  When GNAPs filed the tariff, the DTE pro-
+ceedings were still underway.  As a result, it remained un-
+clear whether the GNAPs-Verizon interconnection agreement 
+required compensation for Internet-bound traffic.  If a party 
+could not know whether compensation was due under the 
+agreement, it could not know whether any payment to 
+GNAPs was "under the terms of an interconnection agree-
+ment."  If a party could not reasonably ascertain the "proper 
+application" of the tariff at the time it was filed, the tariff was 
+unclear and therefore was invalid.
+
+     DTE's subsequent dismissal of GNAPs' claim for compen-
+sation under the agreement did not "cure" its ambiguity for 
+several reasons.  First, the FCC's Order focused on whether 
+the tariff was valid at the time it was filed.  GNAPs revised 
+its tariff on February 14, 2000, eliminating the provisions 
+found unlawful by the FCC.  DTE's subsequent ruling could 
+
+not retroactively cure the deficiency of the tariff in effect 
+prior to February 14 or affect the validity of charges GNAPs 
+sought to assess Verizon prior to that point.  In addition, 
+because GNAPs appealed the DTE finding, that matter was 
+not resolved when the FCC made its determination.  Finally, 
+even had the DTE ruling cured the tariff's indeterminacy, it 
+did not eliminate the impermissible cross-reference.
+
+C.   Statutory Structure
+
+     In a final effort to avoid the inevitable, GNAPs argues that 
+the FCC does not have the authority to invalidate tariffs 
+under Section 208, but only acts as an "adjudicator of private 
+rights."  AT&T v. FCC, 978 F.2d 727, 732 (D.C. Cir. 1992).  
+In GNAPs' view, it would be proper for the FCC to award 
+damages to one party or another, but not to declare a tariff 
+unlawful on its face.  Challenges to tariffs themselves, 
+GNAPs claims, must proceed under Sections 204 and 205, 
+which relate to modifying or invalidating tariffs.
+
+     This argument is no more successful than GNAPs' creative 
+reading of its own tariff.  As we noted just last year, Section 
+204 grants the FCC "quasi-legislative authority to evaluate a 
+carrier's proposals for new or revised rates."  Hi-Tech Fur-
+nace Sys., Inc. v. FCC, 224 F.3d 781, 786 (D.C. Cir. 2000). 
+Section 208, on the other hand, grants "authority, upon 
+complaint by an injured party, to adjudicate the lawfulness of 
+a carrier's past and present rates and practices."  Id.  It is 
+difficult to conceive of this case as other than an adjudication 
+of "the lawfulness of a carrier's ... present rates and prac-
+tices."
+
+D.   Relief
+
+     GNAPs argues, in the alternative, that even if the FCC was 
+correct to declare the tariff unlawful, the FCC erred by 
+"retroactively invalidating" the tariff.  Whatever the deficien-
+cies of the tariff in this case, GNAPs argues, it is not so 
+deficient as to justify retroactive invalidation under the stan-
+dards set forth in ICC v. American Trucking Assn's, 467 U.S. 
+354 (1984).  The retroactive invalidation is not, in GNAPs' 
+view, "legitimate, reasonable, and direct[ly] adjunct to the 
+Commission's explicit statutory power."  Id. at 365 (internal 
+
+quotation omitted).  While acknowledging that the FCC has 
+the authority to order a complete refund of tariff overcharges, 
+GNAPs argues that the Commission must consider the equi-
+ties before ordering such a result.  See Virgin Islands Tel. 
+Co. v. FCC, 989 F.2d 1231, 1240 (D.C. Cir. 1993);  Las Cruces 
+TV Cable v. FCC, 645 F.2d 1041, 1047-48 (D.C. Cir. 1981).  
+Not only did the FCC not award GNAPs any compensation, 
+but it did not even bother to consider whether to exercise its 
+discretion.  Thus, even if the Court sides with the FCC on 
+the merits, GNAPs argues that a remand is necessary for the 
+FCC to consider whether payment to GNAPs for services 
+rendered is due.
+
+     GNAPs' argument that relief under Section 208 of the Act 
+cannot be retroactive in effect is clearly wrong.  Section 208 
+is designed to enable parties to obtain redress for a carrier's 
+violation of the Act or the FCC's regulations.  Yet insofar as 
+Section 208 authorizes the award of damages or other reme-
+dies, it is always "retroactive" in its application in that it will 
+always be changing the economic consequences of a carrier's 
+prior conduct.  The remedy here--complete invalidation of 
+GNAPs' tariff--may be more severe than consequential dam-
+ages, but it is no more backward-looking.
+
+     The FCC notes that it may be inappropriate for GNAPs to 
+have filed its tariff in the first place.  The FCC has not 
+authorized, let alone required, carriers to file tariffs for local 
+Internet-bound traffic.  Instead, the Commission expected 
+carriers to enter into interconnnection agreements that would 
+set compensation subject to state commission approval.  
+Merely because a tariff is presumed lawful upon filing does 
+not mean that it is lawful.  Such tariffs still must comply with 
+the applicable statutory and regulatory requirements.  Those 
+that do not may be declared invalid.  Indeed, GNAPs ac-
+knowledges that "[a] tariff that is so plainly defective as to be 
+a legal nullity may be declared retroactively invalid--void ab 
+initio--in order to ensure that an injustice is not worked on 
+the affected customers."  Brief for Petitioner at 36.  That 
+was the case here.  The FCC found that the tariff, on its face, 
+violated the plain meaning of the FCC's tariff regulations and 
+therefore was unlawful from the date of issuance.  This is 
+
+sufficient to satisfy the test laid out in American Trucking 
+Ass'ns as the FCC voided a tariff in furtherance of a "specific 
+statutory mandate" to which the action was "directly and 
+closely tied."  467 U.S. at 367.  The other cases cited by 
+GNAPs--Virgin Islands Tel. Co. and Las Cruces TV Cable-- 
+are distinguishable, as they involved refunds for unreasonable 
+rates, and not a patently unlawful tariff.
+
+     While we uphold the FCC's conclusion that the tariff was 
+void ab initio and invalid from the date it was published, we 
+have not left GNAPs without opportunity to seek redress.  
+Our holding today does not foreclose GNAPs' ability to seek 
+compensation under the interconnection agreement before the 
+DTE as well as to seek a negotiated compensation settlement 
+with Verizon.  If this route is unsuccessful or impractical, and 
+the FCC's rules make it difficult for GNAPs and other 
+carriers to obtain compensation for Internet-bound traffic, 
+they may petition the FCC for a change in the Commission's 
+rules.  That GNAPs sought to game the existing rules, and 
+lost, does not mean the FCC was arbitrary and capricious in 
+its application of its own rules.
+
+                         IV. Conclusion
+
+     For the foregoing reasons, the petition for review is
+
+                                                            Denied.
+
+                              

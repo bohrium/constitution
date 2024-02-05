@@ -1,0 +1,451 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued March 24, 2000      Decided June 30, 2000 
+
+                           No. 98-1214
+
+                 Alabama Power Company, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+                Florida Power & Light Company and 
+                The City of Tallahassee, Florida, 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Dan H. McCrary argued the cause for the petitioners.  
+Andrew W. Tunnell was on brief.  Rodney O. Mundy en-
+tered an appearance.
+
+     Monique Penn-Jenkins, Attorney, Federal Energy Regu-
+latory Commission, argued the cause for the respondent.  
+John H. Conway, Acting Solicitor, Federal Energy Regulato-
+ry Commission, and Timm L. Abendroth, Attorney, Federal 
+Energy Regulatory Commission, were on brief.
+
+     Gary D. Bachman and Cheryl M. Feik were on brief for 
+intervenor City of Tallahassee, Florida.
+
+     Steven Jay Ross entered an appearance for intervenor 
+Florida Power & Light Company.
+
+     Before:  Edwards, Chief Judge, Henderson, Circuit Judge 
+and Buckley, Senior Circuit Judge.
+
+     Opinion for the court filed by Circuit Judge Henderson.
+
+     Karen LeCraft Henderson, Circuit Judge:  Petitioners 
+Alabama Power Company, Georgia Power Company, Gulf 
+Power Company, Mississippi Power Company, Savannah 
+Electric and Power Company and Southern Company Ser-
+vices, Inc. (collectively, the Southern Companies, petitioners) 
+seek review of two orders of the Federal Energy Regulatory 
+Commission (FERC, Commission) rejecting two components 
+of the rates they had proposed for supplying electric power to 
+the City of Tallahassee, Florida (City).1  The first component 
+is "turbine assembly costs" and the second is "heating loss 
+costs."  With regard to the former, the Southern Companies 
+argue that FERC's policy as applied here is inconsistent with 
+a recent FERC decision allowing recovery of such costs.  
+With regard to the Commission's denial of recovery for 
+heating loss, the Southern Companies argue that the method 
+they used to calculate loss, yielding results FERC deemed 
+unreliable, is used by FERC for related purposes.  They also 
+argue that the Commission's concern over double recovery of 
+heating loss costs is misplaced.
+
+     For the reasons set forth below, we grant the petition for 
+review and remand to the Commission for proceedings consis-
+tent with this opinion and with its recent decision approving 
+recovery of turbine costs to determine whether the Southern 
+Companies justified this component of its rate.
+__________
+     1 The City filed an intervenor brief in support of FERC's deci-
+sions.
+
+                                I.
+
+     In 1990 the Southern Companies filed a Unit Power Sales 
+(UPS) Agreement between themselves and the City propos-
+ing the sale of certain electric power capacity to the City for a 
+term of ten years.  The UPS Agreement prescribed transmis-
+sion charges for various support services, including a monthly 
+reactive control charge for the costs associated with 
+generator-supplied reactive power.  The Southern Companies 
+then faced the task of satisfying FERC that their proposed 
+reactive power charge was just and reasonable.  Hearings 
+before an administrative law judge yielded an Initial Decision 
+largely approving the Southern Companies' proposal, conclud-
+ing that "the proposed reactive power charges, with modifica-
+tion to certain component allocations and [the Southern Com-
+panies'] reactive power credits, are just and reasonable."  
+Southern Co. Servs., Inc., 61 FERC p 63,009 at 65,024 (1992).  
+The Commission affirmed in part and reversed in part, taking 
+issue with certain aspects of the Southern Companies' meth-
+odology.  See Southern Co. Servs., Inc., 80 FERC p 61,318 
+(1997).  The Commission's two modifications at issue here, on 
+which the Commission stood firm in denying rehearing, see 82 
+FERC p 61,168 (1998), are the exclusion of turbine assembly 
+costs and the exclusion of heating loss costs.
+
+     The Commission described reactive power and its role in 
+the provision of electric power as follows:
+
+          Electric power consists of two components.  The first 
+     component, "real" power (expressed in terms of watts), is 
+     the active force that causes electrical equipment to per-
+     form work.  The second component, "reactive" power, 
+     (expressed in terms of volt-amperes reactive (VARs)) is 
+     necessary to maintain adequate voltages so that "real" 
+     power can be transmitted.
+     
+          Failure to provide the correct amount of reactive pow-
+     er at various points on the transmission system can cause 
+     deviations from desired voltage levels and disruption in 
+     the flow of power on the system.  In order to maintain 
+     desired voltage levels, reactive power must be supplied 
+     
+     or absorbed by generators (or transmission equipment) 
+     at various points on the transmission system.
+     
+Southern Co. Servs., Inc., 80 FERC at 62,080 (footnotes 
+omitted).
+
+     The Southern Companies utilize generators to produce 
+reactive power and the production of reactive power causes 
+heating loss that increases fuel consumption and demand on 
+the generators.  See Brief of Commission at 36.2  The South-
+ern Companies factored the heating loss into its costs equa-
+tion, seeking to recoup for the required use of additional fuel 
+and for a portion of the generators' real power capacity.  To 
+calculate costs, the Southern Companies combined the cost of 
+reactive power "impacts" on their energy system with the 
+heating loss cost to arrive at a control charge.  Brief of 
+Petitioners at 12.  They determined the cost of the reactive 
+power impacts through use of two load flow studies.  One 
+study measured the "base-case" load flow conditions and 
+quantified the reactive power requirement of all generators in 
+the transmission system.  The other, a "transaction-case" 
+load flow study, measured the effect on the system of an 
+energy transaction similar to those proposed in the UPS 
+Agreement with the City.  A comparison of the studies 
+demonstrated the impact (measured in megavolt ampere reac-
+tives (MVARs)) of individual transactions under the UPS 
+Agreement, allowing the petitioners to determine the amount 
+of generating capacity lost in each transaction and then to 
+multiply that figure by an average energy rate and thus 
+quantify the heating loss resulting from production of reactive 
+power necessary to supply the City.
+
+     The petitioners also sought to recoup, through the pro-
+posed reactive power charge at issue, costs incurred from use 
+of their generators to supply or absorb reactive power.  Hav-
+
+__________
+     2 See also Joint Appendix (JA) 180 (testimony of FERC staff 
+member) ("Producing or absorbing reactive power at a generator 
+results in real power heating losses in the generator and [this] 
+heating loss requires that fuel be burned [and] causes a portion of 
+the real capacity of [sic] generator to be consumed producing the 
+heating loss.").
+
+ing determined the amount of MVARs the transactions under 
+the UPS Agreement demanded, their next step in calculating 
+the charge was to identify the six major generator compo-
+nents associated with reactive power production.3  Relying on 
+the connection between the turbines and the production of 
+reactive power,4 the Southern Companies included the "tur-
+bine assembly"5 as one of the six major components in its 
+costs calculation.  Using these components, they estimated 
+the plant investment associated with production of reactive 
+power.  Because the turbine assembly is involved with the 
+production of both real power and reactive power, the South-
+ern Companies included in their estimate, and thus in the 
+reactive power charge, only that portion of the turbine assem-
+bly cost allocated to reactive power based on the ratio of total 
+power to reactive power.  See 80 FERC at 62,083.
+
+     The Commission concluded the Southern Companies' calcu-
+lations suffered from "erroneous modeling assumptions and 
+
+__________
+     3 They identified the (1) exciter, (2) exciter cooling system, (3) 
+generator stator, (4) rotor, (5) turbine assembly and (6) step-up 
+transformers.  See 80 FERC at 62,083.
+
+     4 Turbines are mechanical devices with fan-like blades that rotate 
+when steam, for example, is forced though them.  The resulting 
+mechanical energy powers a connected instrument like a generator 
+(or, more specifically, a generator's exciter):  "The turbine produces 
+the mechanical [or real] power to turn the generator, which, in turn, 
+produces both real and reactive power."  80 FERC at 62,090 n.65;  
+see 82 FERC at 61,611.  A turbine is essential to the production of 
+reactive power.  See JA 212-13 (testimony of petitioners' witness) 
+("Without the turbine, there would be no production of real or 
+reactive power[;]  the exciter is driven by the rotor and turbine 
+assembly, and thus that equipment is directly involved in the 
+production of reactive power.").
+
+     5 The turbine assembly is "the device [or motor] that turns the 
+exciter within the magnetic field" and includes "all of the equipment 
+that is on the same shaft," described as "a lot of equipment."  See 
+JA 248-49 (testimony of petitioners' witness).  "Turbine assembly" 
+is used interchangeably with "turbine(s)," see, e.g., 80 FERC at 
+62,091;  Brief of Commission at 17-18, and there is "not generally" a 
+difference between the two terms.  JA 248.
+
+flawed rate design."  Id. at 62,084.  The load flow studies 
+used to calculate heating loss costs came under attack first.  
+The base-case load flow study reflected a hypothetical operat-
+ing condition that, as the Southern Companies' expert con-
+ceded, is not typical or desirable.  See id. at 62,084-85.  The 
+Commission disapproved the transaction cases as well be-
+cause the Southern Companies' calculations did not account 
+for possible generator responses that benefit the system by 
+either absorbing or producing fewer MVARs.  For example, 
+some transactions cause a decrease in the absorption of 
+MVARs, a benefit to the transmission system, but the peti-
+tioners' calculations reflected this reduction of demand on the 
+system as an increase in demand for reactive power service.  
+As the Commission phrased its concern, "[j]ust as one would 
+expect not to be charged more for consuming less energy, one 
+would expect not to be charged more for reducing reactive 
+power support."  Id. at 62,086.  In addition to disapproving 
+the petitioners' methodology, FERC concluded that they had 
+not explained why their fuel adjustment clause, designed to 
+enable a utility to recover from its power customers the fuel 
+expense associated with producing power, see Brief of Com-
+mission at 39, did not already ensure recovery of these costs.  
+The Commission concluded that, absent such a showing, the 
+petitioners' proposed rate would result in a prohibited double 
+recovery of costs.  See 80 FERC at 62,089.
+
+     Turning to the turbine assembly costs, the Commission 
+disallowed their inclusion in the petitioners' reactive power 
+charge because, in its words, "turbines produce only real 
+power."  Id. at 62,091.  In contrast, it noted that the genera-
+tors, in addition to producing real power, produce (or absorb) 
+reactive power.  Accordingly, the Commission agreed that 
+costs of the generator and its parts are appropriately included 
+in the reactive power charge.  The Commission also noted 
+that reactive power can be produced by a generator discon-
+nected from its turbine and operated as a "synchronous 
+condenser."6  In the end, the Commission determined that 
+
+__________
+     6 As the Commission notes, the Southern Companies do not use 
+these self-powered generators.  See Brief of Commission at 7 n.2.
+
+the Southern Companies failed to establish that their rates 
+were just and reasonable.
+
+     In denying rehearing, the Commission again addressed the 
+recovery of turbine assembly and heating loss costs.  While 
+the Southern Companies compared the costs associated with 
+the turbine that powers a generator to the cost of electricity 
+that powers a synchronous condenser, which the Commission 
+agreed would be recoverable under a reactive power charge, 
+the Commission again concluded that recovery of turbine 
+assembly costs was not appropriate because turbines produce 
+only real power notwithstanding their contribution to the 
+generators' production of reactive power.  See 82 FERC at 
+61,611.  With regard to heating loss costs, FERC again 
+rejected the load flow studies and also declined to accept the 
+summary of actual meter readings,7 which the Southern Com-
+panies submitted with their rehearing request, because the 
+readings "represent[ ] a moving target" and use of actual data 
+was inconsistent with FERC's approach "not to adjust esti-
+mates for actuals."  Id. at 61,612.  Finally, the Commission 
+remained unconvinced that the petitioners' revenue crediting 
+mechanism prevented double recovery of heating loss costs.  
+See id.
+
+                               II.
+
+     We review FERC's orders under the arbitrary and capri-
+cious standard of the Administrative Procedure Act (APA).  
+See 5 U.S.C. s 706(2)(A) (1994);  Sithe/Independence Power 
+Partners v. FERC, 165 F.3d 944, 948 (D.C. Cir. 1999).  We 
+explained the applicable standard of review in Northern 
+States Power Co. v. FERC, 30 F.3d 177, 180 (D.C. Cir. 1994):
+
+     The Federal Power Act requires that rates for "the 
+     transmission ... of electric energy subject to the juris-
+     
+__________
+     7 The Southern Companies submitted the actual meter readings 
+showing the system's total MVAR production for 1991 and the 
+"Reactive Power Effects on Southern Company Generators," JA 
+425.  The total MVAR production was greater than they had 
+estimated.  See id. at 419-20, 423 (5897 MVARs versus 4954 
+MVARs).
+
+     diction of the Commission ... be just and reasonable."  
+     16 U.S.C. s 824d(a).  Because "[i]ssues of rate design 
+     are fairly technical and, insofar as they are not technical, 
+     involve policy judgments that lie at the core of the 
+     regulatory mission," our review of whether a particular 
+     rate design is "just and reasonable" is highly deferential.  
+     Town of Norwood v. Federal Energy Regulatory Com-
+     mission, 962 F.2d 20, 22 (D.C. Cir. 1992).  Our review is 
+     not, however, an empty gesture:  the Commission must 
+     be able to demonstrate that it has "made a reasoned 
+     decision based upon substantial evidence in the record."  
+     Id.
+     
+     The Southern Companies argue that the Commission's 
+exclusion of turbine assembly costs from the reactive power 
+charge was arbitrary and capricious because the real power 
+created by the turbine is essential to the generator's produc-
+tion of reactive power.  In producing reactive power, the 
+generator derives power from the turbine, the generator's 
+"prime mover."  Brief of Commission at 7;  see JA 177;  80 
+FERC at 62,091.  Although FERC allows recovery of genera-
+tor costs, it disallowed recovery of the petitioners' turbine 
+assembly costs.  In fact, FERC allows recovery of costs of 
+electric power serving as the prime mover of a synchronous 
+condenser generator producing reactive power, that is, a 
+generator disconnected from the turbine assembly.  See 82 
+FERC at 61,611 & n.6.  The Southern Companies contend 
+that the recoverability of costs for the prime mover of a 
+generator should not depend on whether the generator's 
+prime mover is electric power, as with a synchronous con-
+denser, or a turbine.  FERC chose to draw the costs recov-
+ery line at the generator and its integral parts rather than at 
+its prime mover.  We need not decide whether the line is 
+reasonably so drawn, however, because FERC's treatment of 
+the Southern Companies' turbine costs compared with its 
+treatment of turbine costs in American Electric Power Ser-
+vice Corp., 80 FERC p 63,006 (1997), aff'd in relevant part, 88 
+FERC p 61,141 (1999) (AEP), requires remand.
+
+     In AEP FERC allowed recovery of turbine costs as part of 
+the investment required for the production of real power 
+
+necessary to drive the generator.  In the AEP initial decision, 
+which the Commission affirmed summarily, see 88 FERC at 
+61,439-40, the administrative law judge (ALJ) approved the 
+amount of production plant investment that American Elec-
+tric Power Service Corporation (AEPSC) allocated to reactive 
+power production and sought to recover through the reactive 
+power charge.  AEPSC divided its charge into three compo-
+nents:  "(1) the generator and its exciter, (2) accessory elec-
+tric equipment that supports the operation of the generator-
+exciter, and (3) the remaining total production investment 
+required to provide real power and operate the exciter."  80 
+FERC at 65,074.  Although AEPSC omitted its investment in 
+turbines from its generator and exciter costs, the ALJ recog-
+nized its turbine investment as a legitimate cost, see id. at 
+65,076-77, and therefore included turbine costs in the residual 
+category of "the remaining total production investment re-
+quired to provide real power and operate the exciter," id. at 
+65,074, which the ALJ labeled "Other Power Production 
+Investment."8  Id. at 65,079-80.  FERC's allowance of recov-
+ery of turbine costs in AEP and its failure to explain its 
+disallowance of the Southern Companies' turbine costs re-
+quires us to remand to FERC for reconsideration in light of 
+its holding in AEP.
+
+     As the Commission points out, however, its inclusion of 
+turbine costs in AEP does not necessarily mean it must adopt 
+the Southern Companies' method of calculation.  See Brief of 
+Commission at 29, 35.  The petitioners use "a relatively large 
+allocation of one component (the turbine) to serve as a proxy 
+for the amount of [the] other production plant that is attribut-
+
+__________
+     8 In brief FERC disputes that it allowed recovery of turbine costs 
+in AEP.  See Brief of Commission at 34-35.  In AEP, however, 
+FERC allowed recovery of "the remaining total production invest-
+ment required to provide real power to operate the exciter."  80 
+FERC at 65,074.  AEPSC incurred costs for investment in tur-
+bines, see id. at 65,077, and the turbines provide real power to 
+operate the exciter.  See supra notes 4 and 5.  The investment in 
+turbines was not included in the first two categories, see 80 FERC 
+at 65,076-78, but was instead part of AEPSC's third category of 
+recoverable costs.  See id. at 65,079-80.
+
+able to reactive power production" compared to the "smaller 
+allocation of all components of the other production plant" 
+approved in AEP.  Brief of Petitioners at 31 n.18 (emphasis 
+in original).  While they insist that the end result of their 
+methodology is "virtually identical" to that obtained with 
+AEPSC's methodology, see id. at 33-34, we leave that deter-
+mination to FERC on remand.
+
+     Although we also remand FERC's denial of heating loss 
+recovery, the Commission's rejection of the Southern Compa-
+nies' heating loss cost calculations survives our review under 
+the APA.  It disallowed recovery because the Southern Com-
+panies' calculations rested on their base-case load flow study 
+which the Commission found flawed.  The flaw, according to 
+the Commission, resulted from the measurement of VAR 
+output at peak operating conditions instead of normal condi-
+tions.  See 80 FERC at 62,085.  The Southern Companies' 
+own witness testified that they would not operate at the level 
+used in the calculations.9  See JA 237-39, 241-42.  The 
+Commission thus determined that the petitioners' calculations 
+did not accurately quantify their heating loss costs.  See 82 
+FERC at 61,612;  80 FERC at 62,086.  Although they seek to 
+recast FERC's denial as based on their choice of methodolo-
+gy, that is, the load flow study, and not on their calculations, 
+we conclude that the Commission rejected, correctly, their 
+calculations associated with heating loss costs.  On remand, 
+FERC should allow the Southern Companies to recalculate 
+the costs associated with heating loss.
+
+     The Commission further concluded that the heating loss 
+costs should not even be reflected in the proposed rates.  
+According to FERC, the fuel adjustment clause allows for 
+compensation for heating loss and the Southern Companies 
+failed to explain why the clause did not cover the heating loss 
+
+__________
+     9 Before us the Commission cites only the flaw it found with the 
+base-case study, see Brief of Commission at 36-37;  in its original 
+order, however, the Commission found the transaction-case study 
+flawed because it did not accurately reflect "the benefits and 
+burdens of its generators in response to the subject transactions."  
+80 FERC at 62,085;  see p. 6 supra.
+
+component.  The Southern Companies, however, maintained 
+that their revenue-crediting mechanism prevented double re-
+covery and also avoided subsidy of certain customers' rates 
+by other customers.  But it was the Commission that failed to 
+explain its rejection of the revenue-crediting mechanism.  See 
+82 FERC at 61,612.  Thus, FERC should reconsider whether 
+all heating loss costs are recovered through the fuel adjust-
+ment clause and whether the revenue-crediting mechanism 
+prevents double recovery of those costs that are recovered 
+through the fuel adjustment clause.  Assuming FERC's re-
+consideration of the petitioners' revenue-crediting mechanism 
+discloses unrecovered10 heating loss costs, FERC should allow 
+the Southern Companies to adjust the rate accordingly so 
+that the costs are recovered.
+
+     For the foregoing reasons, we grant the petition for review 
+and remand to the Commission for reconsideration of the 
+turbine assembly costs in light of its holding in American 
+Electric Power Service Corp., 80 FERC p 63,006 (1997), aff'd 
+in relevant part, 88 FERC p 61,141 (1999).  The Commission 
+should also reconsider whether the Southern Companies incur 
+unrecovered heating loss costs or heating loss costs that could 
+be more equitably recovered.
+
+                                                                          So ordered.
+
+__________
+     10 Even if the costs are already recovered, the Commission should 
+consider if it is more appropriate to allow recovery through the 
+proposed rates (with appropriate revenue-credits), that is, if the 
+rates properly allocate costs among consumers.
+
+                     

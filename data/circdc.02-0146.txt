@@ -1,0 +1,597 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+          Argued May 10, 2002     Decided June 18, 2002 
+
+                           No. 01-1371
+
+              Verizon Telephone Companies, et al., 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+                     WorldCom Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                             01-1379
+
+           On Petitions for Review of an Order of the 
+                Federal Communications Commission
+
+     Mark L. Evans argued the cause for petitioners.  With him 
+on the briefs were Michael K. Kellogg, Scott K. Attaway, 
+
+David C. Frederick, Michael E. Glover, Edward Shakin, 
+Joseph DiBella, Richard M. Sbaratta, James D. Ellis, Jeffrey 
+B. Thomas and Gary L. Phillips.  Roger K. Toppins entered 
+an appearance.
+
+     John Rogovin, Deputy General Counsel, Federal Communi-
+cations Commission, argued the cause for respondents.  With 
+him on the brief were John E. Ingle, Deputy Associate 
+General Counsel, Laurence N. Bourne and Rodger D. Citron, 
+Counsel, Catherine G. O'Sullivan and Nancy C. Garrison, 
+Attorneys, U.S. Department of Justice.
+
+     David W. Carpenter argued the cause for intervenors 
+American Telephone and Telegraph Company, et al.  With 
+him on the brief were Peter D. Keisler, James P. Young, 
+Mark C. Rosenblum, Mark D. Schneider, John E. Benedict, 
+H. Richard Juhnke, Charles C. Hunter, Catherine M. Han-
+nan, Jonathan Jacob Nadler, Jason Oxman, Thomas F. 
+O'Neil III, William Single IV, Teresa K. Gaugler, Rodney L. 
+Joyce, Mary C. Albert and Morton J. Posner.  David L. 
+Lawson and Paul J. Zidlicky entered appearances.
+
+     Before:  Ginsburg, Chief Judge, and Randolph and Tatel, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Section 251(c)(6) of the Telecommu-
+nications Act of 1996 requires incumbent local exchange 
+carriers to provide competitive local exchange carriers with 
+space for the "physical collocation of equipment necessary for 
+interconnection or access to unbundled network elements at 
+[their] premises."  Responding to our opinion in GTE Service 
+Corporation v. FCC, which vacated the Federal Communica-
+tion Commission's first order implementing section 251(c)(6) 
+"insofar as it embrace[d] unduly broad definitions of 'neces-
+sary' and 'physical collocation,' " the Commission issued a new 
+order, which petitioners now challenge.  They argue that (1) 
+the Commission's standard for collocatable equipment re-
+mains overly broad because it permits collocation of any 
+
+equipment "necessary for interconnection or access" whether 
+or not it is "necessary" to place such equipment "at the 
+premises";  (2) the Commission unlawfully allowed the place-
+ment of switching and routing equipment, as well as equip-
+ment containing multiple functions only some of which are 
+"necessary" for interconnection or access to network ele-
+ments;  (3) the Commission lacks authority to order incum-
+bents to physically connect collocating competitive local ex-
+change carriers to each other;  and (4) the Commission's 
+space assignment rules are unlawful.  Finding petitioners' 
+claims either meritless or waived, we deny the petitions.
+
+                                I.
+
+     In order to foster competition for local telephone services, 
+Congress, in the Telecommunications Act of 1996, authorized 
+competitive local exchange carriers (CLECs) to place certain 
+equipment within the premises of incumbent local exchange 
+carriers (ILECs) so that CLECs could gain access to ILECs' 
+networks.  Specifically, section 251(c)(6) requires ILECs to 
+"provide, on rates, terms, and conditions that are just, reason-
+able, and nondiscriminatory, for physical collocation of equip-
+ment necessary for interconnection or access to unbundled 
+network elements at the premises of the local exchange 
+carrier."  47 U.S.C. s 251(c)(6).  The statute provides certain 
+exceptions (not here relevant) for instances where an ILEC 
+can demonstrate to a state commission that "physical colloca-
+tion is not practical for technical reasons or because of space 
+limitations."  Id.
+
+     Based on this statutory authorization, the Commission is-
+sued an order entitled Deployment of Wireline Services Of-
+fering Advanced Telecommunications Capability, 14 F.C.C. 
+Rcd. 4761 (1999), ("Collocation Order"), in which it outlined 
+the types of equipment that may be collocated, established 
+standards for the assignment of space within the ILEC's 
+facilities, and fashioned rules allocating the initial costs of 
+preparing collocation space.  A detailed summary of this 
+Collocation Order appears in our decision in GTE Service 
+Corporation v. FCC, 205 F.3d 416, 420 (D.C. Cir. 2000).  In 
+that case, although we affirmed the Commission's cost alloca-
+
+tion rule, we found defective its standards for the types of 
+equipment collocatable and its space assignment rules.  The 
+flaws in the Commission's prior ruling fell into three catego-
+ries, which we outline below together with the Commission's 
+responses on remand.  See Deployment of Wireline Services 
+Offering Advanced Telecommunications Capability, 16 F.C.C. 
+Rcd. 15,435 (2001) ("Remand Order").
+
+       Equipment "necessary" for interconnection or access
+
+     In GTE, we found "impermissibly broad," 205 F.3d at 424, 
+the Commission's interpretation of the phrase "necessary for 
+interconnection or access," which allowed collocation of any 
+equipment " 'used or useful' for either interconnection or 
+access to unbundled network elements, regardless of other 
+functionalities inherent in such equipment," Collocation Order 
+p 28.  The Commission's interpretation, we observed, "ap-
+pear[ed] to permit competitors to collocate equipment that 
+may do more than what is required to achieve interconnection 
+or access."  GTE, 205 F.3d at 423.
+
+     Responding to this criticism, the Commission now deems 
+equipment "necessary" for purposes of section 251(c)(6) only 
+"if an inability to deploy that equipment would, as a practical, 
+economic, or operational matter, preclude the requesting 
+carrier from obtaining interconnection or access to unbundled 
+network elements."  Remand Order p 21.  In crafting this 
+new standard, the Commission rejected Verizon's argument 
+that "necessary" modifies the phrase "physical collocation," 
+reasoning that "such a reading would wrongly place [the] 
+focus on whether 'collocation' of the equipment is necessary, 
+... as opposed to whether the equipment itself, regardless of 
+its location in the network, is necessary for interconnection 
+[or] access to unbundled network elements."  Remand Order 
+p 25 (emphasis added) (internal quotation marks omitted).
+
+     In light of its new standard, the Commission also reexam-
+ined its treatment of switching and routing equipment.  In 
+the Collocation Order, the Commission expressly declined to 
+require incumbents to collocate "equipment used exclusively 
+for switching," finding insufficient support in the record for 
+
+such a requirement.  Collocation Order p 30.  At the same 
+time, however, the Commission warned that it might "explore 
+requiring such collocation in the future," id.--precisely what 
+it did on remand from GTE.  Benefitting from a "greatly 
+expanded record ... reflect[ing] ... parties' several years of 
+experience with the unbundled network access regime," the 
+Commission reversed course, Remand Order p 51, concluding 
+that smaller, more modern switching and routing equipment 
+may be entitled to collocation because it was "necessary" to 
+"access an unbundled local loop's theoretical capability of 
+providing a telecommunications service," id. p 46.  The Com-
+mission declined to allow collocation of older, traditional 
+circuit switches, finding them unnecessary in light of the 
+availability of smaller, more modern switches.
+
+     With regard to multi-functional equipment--i.e., "equip-
+ment that combines functions that meet [the] equipment 
+standard with functions that would not meet that standard as 
+stand-alone functions," Remand Order p 32--the Commission 
+now allows collocation if (1) the "primary purpose and func-
+tion ... as the ... carrier seeks to deploy" the equipment are 
+to provide interconnection or access to unbundled network 
+elements;  (2) any additional functions have a "logical nexus" 
+to that purpose;  and (3) the additional functions do not 
+"affect the demand on the incumbent's space and other 
+resources so significantly as to increase the relative burden 
+on the incumbent's property interests," id. pp 36-40.
+
+                   "Cross-connect" requirement
+
+     In GTE, we vacated the Commission's decision to allow 
+CLECs to connect their equipment directly to that of other 
+collocating carriers "subject only to the same reasonable 
+safety requirements that the [ILEC] imposes on its own 
+equipment."  Collocation Order p 33.  The "obvious problem" 
+with this so-called cross-connect requirement, we thought, 
+was that it "impose[d] an obligation on [I]LECs that ha[d] no 
+apparent basis in [a] statute [that] focuse[s] solely on connect-
+ing new competitors to [I]LECs' networks."  GTE, 205 F.3d 
+at 423.  In its Remand Order, the Commission elected to 
+maintain the cross-connect requirement, but in a modified 
+
+form.  Instead of allowing CLECs to provision (i.e., install 
+and maintain) their own cross-connects, the Commission now 
+requires ILECs to provision cross-connects upon request.  
+Remand Order p 62.  The Commission imposed that require-
+ment because "[i]f an incumbent ... refuses to provision 
+cross-connects between [CLECs] collocated at the incum-
+bent's premises, the incumbent would be the only LEC that 
+could interconnect with all or even any of the [CLECs] 
+collocated at a common, centralized point--the central office."  
+Id. p 63.  In contrast, for two CLECs to exchange traffic 
+without a cross connect,
+
+     each [CLEC] would have to carry its own telecommuni-
+     cations traffic into its collocation space and then ... have 
+     the incumbent LEC transport that traffic over incum-
+     bent-owned facilities to an interconnection point outside 
+     the incumbent's premises.  From [there], the other 
+     [CLEC] would likely then carry the traffic back to its 
+     own collocation space in the same central office to be 
+     transported through the [CLEC's] network.
+     
+Id. p 64.  Such "back hauling," the Commission found, would 
+impose "significant wasteful economic costs" on CLECs that 
+"incumbent LECs themselves do not face" and that would 
+"severely restrict the viability of competitive transport."  Id. 
+pp 64 & n. 166, 63.
+
+     According to the Commission, three separate provisions of 
+the Communications Act support the new cross-connect re-
+quirement.  First, the Commission found the cross-connect 
+requirement authorized under section 201(a), which requires a 
+common carrier:
+
+     to furnish such communication service upon reasonable 
+     request therefor;  and, in accordance with the orders of 
+     the Commission, in cases where the Commission, after 
+     opportunity for hearing, finds such action necessary or 
+     desirable in the public interest, to establish physical 
+     connections with other carriers....
+     
+47 U.S.C. s 201.  Second, an incumbent's "refusal to provi-
+sion cross-connects," the Commission concluded, was an "un-
+
+just and unreasonable practice in connection with existing 
+services," Remand Order p 72, thus violating section 201(b)'s 
+requirement that all "[c]harges, practices, classifications, and 
+regulations for and in connection with such communication 
+service ... be just and reasonable."  47 U.S.C. s 201(b).  
+Finally, because it felt ILECs would be operating in an 
+"unreasonable and discriminatory manner if [they] refused to 
+provide cross-connects between collocators," Remand Order 
+p 79, the Commission found the new cross-connect require-
+ment authorized by section 251(c)(6)'s requirement of colloca-
+tion on such "terms and conditions" as are "just, reasonable, 
+and nondiscriminatory," 47 U.S.C. s 251(c)(6).  Arguing that 
+GTE does not foreclose this result, the Commission pointed 
+out that GTE merely rejects the notion that cross-connects 
+were collocatable equipment and never addresses whether the 
+Commission "could require incumbent ... provisioned cross-
+connects pursuant to the 'rates, terms, and conditions' clause 
+of section 251(c)(6)."  Remand Order p 81.
+
+                      Space assignment rules
+
+     Third and finally, in GTE, we vacated the Commission's 
+space assignment rules.  By banning ILECs from requiring 
+competitors to use separate entrances, or isolated rooms or 
+floors, those rules left "competitors ... free to pick and 
+choose preferred space on the LECs' premises, subject only 
+to technical feasibility."  GTE, 205 F.3d at 426.  Modifying 
+the space assignment rules in response to GTE, the Commis-
+sion gave ILECs "ultimate responsibility" for placement of 
+equipment.  Remand Order p 90.  An ILEC may also provide 
+for the physical segregation of collocated equipment "if the 
+proposed separated space is:  (a) available in the same or a 
+shorter time frame as non-separated space;  (b) at a cost not 
+materially higher than the cost of non-separated space;  and 
+(c) is comparable, from a technical and engineering stand-
+point, to non-separated space."  Remand Order p 102.  Under 
+the Remand Order, moreover, incumbents may require segre-
+gated spaces only where "legitimate security concerns, or 
+operational constraints unrelated to the incumbent's ... com-
+petitive concerns, warrant them."  Id. p 102.  The Commis-
+
+sion adopted this final requirement after finding "based on 
+the record ... that there [was] simply insufficient evidence to 
+support a finding that incumbent['s] security concerns require 
+physical separation of collocated equipment ... in every 
+instance."  Id. p 101.  It also held that ILECs could require 
+separate entrances "where construction of such ... en-
+trance[s] is technically feasible, and will neither artificially 
+delay collocation provisioning nor materially increase the 
+requesting carrier's costs" and where an incumbent has "le-
+gitimate security concerns."  Id. p 103.
+
+                               II.
+
+     Claiming the Commission "failed to heed this Court's man-
+date" in GTE, Pet'rs' Opening Br. at 4, petitioner Verizon 
+Communications, Inc., together with BellSouth Corporation 
+and SBC Communications, Inc. (throughout this opinion we 
+shall refer to petitioners as "Verizon") now petition for re-
+view.  Verizon argues that (1) the Commission's new reading 
+of section 251(c)(6) is overly broad because it allows for the 
+collocation of equipment "at the premises" of ILECs even if 
+"interconnection or access" could be obtained through the use 
+of off-site equipment, id. at 15 (internal quotation marks 
+omitted);  (2) the Commission acted unlawfully by allowing 
+CLECs to collocate switching or routing equipment and by 
+permitting CLECs to collocate multifunctional equipment 
+without demonstrating that each function is "necessary for 
+interconnection or access," id. at 16;  (3) the Commission has 
+no authority to order carrier-to-carrier cross-connects;  and 
+(4) the new space assignment rules "grant competitors un-
+warranted rights to control the specific location of their 
+equipment within the incumbent's premises," id. at 17.  In-
+tervening in support of the Commission are fourteen other 
+telecommunications companies, led by AT&T Corporation.
+
+     The familiar standard established by Chevron U.S.A., Inc. 
+v. Natural Resources Defense Council, 467 U.S. 837 (1984), 
+governs our review of the Commission's interpretation of a 
+statute it administers.  Under this standard, we first deter-
+mine whether Congress has "spoken to the precise question 
+
+at issue," and if not, we defer to any "permissible" agency 
+interpretation.  Id. at 843.  We do not understand Verizon to 
+be arguing that the Commission's interpretation fails Chev-
+ron's first step, nor could such an argument succeed with 
+respect to the agency's interpretation of section 251(c)(6) in 
+light of our express holding that the relevant statutory terms 
+are ambiguous.  See GTE, 205 F.3d at 421 (holding that the 
+"disputed terms at issue--'necessary,' 'physical collocation,' 
+and 'premises' ... are ambiguous in their meanings").  Con-
+sequently, we "defer to the Commission's interpretations if 
+they are reasonable and consistent with the statutory pur-
+pose."  Id.  Our deference is particularly great where, as 
+here, the issues involve "a high level of technical expertise in 
+an area of rapidly changing technological and competitive 
+circumstances."  Sprint Comms. Co. v. FCC, 274 F.3d 549, 
+556 (D.C. Cir. 2001).  With this highly deferential standard in 
+mind, we consider each of Verizon's arguments.
+
+     We begin with Verizon's claim that the phrase "equipment 
+necessary for interconnection or access to unbundled network 
+elements at the premises of the local exchange carrier," 47 
+U.S.C. s 251(c)(6), means that CLECs may not place equip-
+ment on an ILEC's premises unless an off-site location is 
+infeasible.  According to Verizon, the Commission's interpre-
+tation, which focuses on whether the equipment is necessary 
+for interconnection or access "regardless of its location in the 
+network," Remand Order p 25, "ignore[s] the pivotal phrase 
+at the end of the sentence, which makes clear that equipment 
+must be necessary ... at the premises of the local exchange 
+carrier," Pet'rs' Opening Br. at 20.  The only sensible inter-
+pretation of this language, Verizon argues, is that "the adjec-
+tive 'necessary' " "relates" to "both components of the com-
+pound prepositional phrase 'for interconnection or access ... 
+at the premises of the local exchange carrier.' "  Pet'rs' Reply 
+Br. at 4.  Otherwise, "the 'premises' clause does no work at 
+all;  it is simply a redundant appendage."  Pet'rs' Opening Br. 
+at 20.
+
+     As the Commission points out, on remand from GTE, 
+Verizon made an entirely different textual argument, namely, 
+that the word "necessary" modifies "physical collocation," not 
+
+"equipment."  See Comments of the Verizon Telephone Com-
+panies, Oct. 12, 2000 at 2 (requesting the Commission "find 
+that the term 'necessary' modifies the phrase 'physical collo-
+cation of equipment,' so that any physical collocation can be 
+ordered only where that collocation is 'necessary for intercon-
+nection or access to unbundled network elements' ").  The 
+Commission rejected that argument, finding that the "most 
+natural reading" of the statutory language, as dictated by 
+"simple grammar," is that the term "necessary" modifies 
+"equipment," not "physical collocation."  Remand Order p 25.  
+Seizing upon this variation, the Commission insists that Veri-
+zon has waived its "at the premises" argument.  See High 
+Plains Wireless, LP v. FCC, 276 F.3d 599, 608 (D.C. Cir. 
+2002) (citing 47 U.S.C. s 405(a)).  We agree.
+
+     Conceding that it never presented to the Commission the 
+precise textual argument it raises now, Verizon argues that 
+"every facet of an argument" need not be presented to the 
+Commission as long as the "basic challenge to a Commission 
+policy was reasonably flagged."  Pet'rs' Reply Br. at 9 (cita-
+tion and internal quotation marks omitted).  The case Verizon 
+relies upon, Time Warner Entertainment Co. v. FCC, 144 
+F.3d 75, 81 (D.C. Cir. 1998), however, establishes a slightly 
+more demanding test.  There, we held that if "a petitioner 
+makes a basic challenge to a Commission policy, but the 
+formulation of the issue presented to us was not precisely as 
+presented to the Commission, we ask whether a reasonable 
+Commission necessarily would have seen the question raised 
+before us as part of the case presented to it."  144 F.3d 75, 81 
+(D.C. Cir. 1998).  Here, Verizon made a quite specific textual 
+argument before the Commission--that the word "necessary" 
+modifies the phrase "physical collocation."  In responding to 
+this argument, the Commission had no occasion to consider 
+the different textual argument made here--that the word 
+"necessary" relates to the phrase "at the premises" as well as 
+to the phrase "physical collocation."  The textual argument 
+Verizon made before the Commission does not logically impli-
+cate the one it makes now, as would have been the case if, for 
+example, the Commission, in order to arrive at its decision, 
+would necessarily have had to determine the effect of the "at 
+
+the premises" language.  In short, we do not believe that a 
+"reasonable Commission necessarily would have seen" the 
+argument Verizon now raises.
+
+     We have expressed our concern about the effect on federal 
+"agencies' rightful role in statutory construction under the 
+Chevron framework" when petitioners fail "to present statuto-
+ry challenges to ... agencies for initial resolution."  Line-
+master Switch Corp. v. EPA, 938 F.2d 1299, 1309 (D.C. Cir. 
+1991).  This case implicates that concern.  Chevron's second 
+step requires that we defer to an agency's interpretation of 
+ambiguous statutory provisions such as section 251(c)(6).  By 
+failing to raise before the Commission the textual argument it 
+makes now, Verizon has deprived us of the Commission's 
+expert judgment, informed by the pertinent policy consider-
+ations, as to the relationship between the word "necessary" 
+and the phrase "at the premises."  Were we to reject the 
+Commission's waiver argument, we would have to undertake 
+the very sort of freewheeling policy inquiry that Chevron 
+deference was crafted to avoid.  This we may not do.
+
+     Our conclusion that Verizon has waived its primary statuto-
+ry claim largely moots its challenge to the Commission's 
+decision to allow collocation of switches and routers in certain 
+instances, as Verizon's arguments depend heavily on its asser-
+tion that CLECs could feasibly locate such equipment off-
+premises.  Verizon, however, makes an additional argument 
+that focuses more precisely on the Commission's reasoning 
+with respect to switches and routers rather than the general 
+standard for equipment entitled to collocation.  The Commis-
+sion determined that without a
+
+     switch[ ] or router, the local loop is merely a transmis-
+     sion medium theoretically capable of carrying telecom-
+     munications traffic.  To access an unbundled local loop's 
+     theoretical capability of providing a telecommunications 
+     service, i.e., of accommodating the transmission of infor-
+     mation between or among points specified by the user, a 
+     requesting carrier must, as a practical, economic and 
+     operational matter, be able to switch or route traffic to 
+     or from that loop.
+     
+Remand Order p 46 (internal quotation marks omitted).  Ac-
+cording to Verizon, this reasoning "has no apparent stopping 
+point:  Every piece of equipment in a competitor's network is 
+arguably necessary to complete a call and thereby 'to access 
+an unbundled local loop's theoretical capability of providing 
+telecommunications service.' "  Pet'rs' Opening Br. at 24.  
+Although acknowledging the Commission's ruling that equip-
+ment used for "call-related databases, information services, or 
+operations support" (i.e., back office equipment) "may not be 
+collocated," Pet'rs' Br. at 24 (citing Remand Order p 24), 
+Verizon insists that the Commission "failed to articulate any 
+coherent limiting principle to justify those exclusions" since a 
+"competitor could hardly complete a call without using the 
+appropriate database to determine where a call must be 
+switched--thereby making such a database 'necessary' on the 
+same flawed reasoning that switching equipment is supposed-
+ly necessary."  Pet'rs' Reply Br. at 12-13.  Again, we dis-
+agree.
+
+     To begin with, we think it inaccurate to say that the 
+Commission's reasoning has no limiting principle.  Putting 
+aside the question of whether a call-related database is "nec-
+essary" to access the functions of a local loop, Verizon gives 
+us no reason to believe that the Commission's standard fails 
+coherently to exclude "operations support system equipment" 
+and other "troubleshooting, billing or record-keeping" equip-
+ment.  Pet'rs' Reply at 12.  Moreover, even with respect to 
+call-related databases, given the heavy deference owed, the 
+distinctions drawn by the Commission easily withstand scruti-
+ny.  The Commission relied on the fact that switching and 
+routing equipment activates those capabilities of a loop that 
+allow the loop to carry calls.  That is not the case with call-
+related databases, which merely allow the switch to identify 
+which local loop to activate but do not actually activate the 
+loop's capabilities themselves.
+
+     Verizon next challenges the Commission's decision to allow 
+collocation of multifunctional equipment in certain circum-
+stances.  According to Verizon, "that view of the Commis-
+sion's statutory authority is squarely foreclosed by this 
+Court's holding in GTE that the statute does not permit 
+
+competitors to smuggle unnecessary functions into otherwise 
+necessary equipment."  Pet'rs' Opening Br. at 26.  GTE 
+contains no such holding.  Rather, GTE simply expresses 
+concern over the Collocation Order's standard, which seemed 
+to allow competitors to add any function that "lower[ed] costs 
+and increase[d] the services they [could] offer their custom-
+ers."  GTE, 205 F.3d at 424.  By contrast, the Remand Order 
+limits collocation of multifunctional equipment to devices 
+whose "primary purpose" is interconnection or access to 
+unbundled network elements and whose additional functions 
+have a "logical nexus" to this primary purpose, Remand 
+Order WW 36-40.  We find this statutory interpretation emi-
+nently reasonable, particularly since the statute speaks of 
+collocatable "equipment" not "functions."  47 U.S.C. 
+s 251(c)(6).
+
+     Next, Verizon claims that the cross-connect requirement 
+can be justified under neither section 201 nor section 
+251(c)(6).  Relying on the general rule that "a specific statute 
+will not be controlled or nullified by a general one," Crawford 
+Fitting Co. v. J.T. Gibbons, 482 U.S. 437, 445 (1987), Verizon 
+first argues that the "general authority in section 201 simply 
+does not empower the Commission to sidestep the specific 
+limitation in section 251(c)(6) on the authorized use of collo-
+cated equipment."  Pet'rs' Opening Br. at 38.  Under the 
+Remand Order, however, cross-connects are no longer collo-
+cated;  rather, they are owned and maintained by the incum-
+bent.  Thus, section 251(c)(6)'s limitations on collocatable 
+equipment are irrelevant.  Cf. Verizon Tel. Cos. v. FCC, 122 
+S.Ct. 1646, 1684 (2002) (noting in the context of section 
+251(c)(3) that "it takes a stretch to get from permissive 
+statutory silence to a statutory right on the part of incum-
+bents to refuse to combine [unbundled network elements] for 
+a requesting carrier").
+
+     The only issue, then, is whether the cross-connect require-
+ment can be justified under either section 201(a) or (b).  
+Although the Commission explicitly invoked both subsections, 
+Verizon's opening brief never addresses section 201(b).  Not 
+until its reply brief does Verizon argue that section 201(b) 
+might not apply even in the absence of section 251(c)(6), 
+
+Pet'rs' Reply Br. at 22, but this comes too late, see Power Co. 
+of Am., L.P. v. FERC, 245 F.3d 839, 845 (D.C. Cir. 2001) 
+(finding arguments not in opening brief waived).  We will 
+thus affirm the Commission on that ground without reaching 
+the question of whether the Commission reasonably invoked 
+either section 201(a) or section 251(c)(6)'s "terms[ ] and condi-
+tions" clause.
+
+     This brings us, finally, to Verizon's challenge to the space 
+assignment rules.  According to Verizon, the "new rules, 
+though superficially more limited" than the previous rules 
+struck down in GTE, "nonetheless effectively allow competi-
+tors to insist on their space preferences and apparently 
+prevent incumbents from requiring that competitors install 
+their equipment in segregated space."  Pet'rs' Opening Br. at 
+40.  This argument lacks merit.  Attempting to make the 
+current rule resemble the vacated portions of the previous 
+rule, Verizon mischaracterizes both.  For example, Verizon 
+states that "the default rule effectively remains what it was 
+before:  Incumbents apparently may not, as a general matter, 
+require segregated collocation space and separate entrances."  
+Pet'rs' Opening Br. at 40 (emphasis added).  This inaccurate-
+ly describes the Collocation Order;  instead of mandating as a 
+"default" that incumbents could not require segregated space 
+and separate entrances, that order prohibited their use com-
+pletely.  See Collocation Order p 42.
+
+     Turning to the current rule and mischaracterizing it as 
+well, Verizon argues that ILECs' "security and efficiency 
+concerns apparently count for nothing in the Commission's 
+calculus."  Pet'rs' Opening Br. at 41.  The Commission, how-
+ever, abandoned the requirement that CLECs be permitted 
+to control the placement of equipment;  rather, the Remand 
+Order acknowledges that because "[a]n incumbent is far more 
+familiar with the design and layout of its premises," it should 
+have "ultimate responsibility" for determining where to place 
+equipment.  Remand Order p 90.  Moreover, rather than 
+banning separate entrances and segregated facilities outright, 
+the Commission established a presumption against their use, 
+which ILECs can rebut by showing that legitimate security 
+concerns require separate facilities or entrances, that the 
+
+separate facilities are comparable from an engineering stand-
+point, that they are available on a similar time frame, and 
+that their use will not "materially" increase CLEC costs.  
+Remand Order p 102.  Finally, the Commission did not ignore 
+ILEC security concerns;  rather, it found "insufficient evi-
+dence to support a finding that [those] concerns require 
+physical separation of collocated equipment from the incum-
+bent's own equipment in every instance."  Id. p 101.
+
+     As Verizon's brief makes clear, it prefers a rule that "at a 
+minimum, permit[s] an incumbent, as a default, ... to deter-
+mine where in its central office ... competitors may install 
+their equipment and the path they may take through those 
+buildings."  Pet'rs' Opening Br. at 40.  But this is a policy 
+judgment for the Commission;  nothing in the statute man-
+dates such a result or disallows the path the Commission here 
+has chosen.
+
+                               III.
+
+     The petitions for review are denied.
+
+                                                                 So ordered.
+
+                                               

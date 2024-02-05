@@ -1,0 +1,790 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 8, 2000       Decided July 14, 2000 
+
+                           No. 99-1383
+
+        Natural Resources Defense Council, Inc., et al., 
+                           Petitioners
+
+                                v.
+
+                Nuclear Regulatory Commission and 
+                    United States of America, 
+                           Respondents
+
+          On Petition for Review of a Regulation of the 
+                  Nuclear Regulatory Commission
+
+     David E. Adelman argued the cause for petitioners.  With 
+him on the briefs were Eric R. Glitzenstein and Howard 
+Crystal.
+
+     Wendy M. Keats, Attorney, U.S. Department of Justice, 
+argued the cause for respondents.  With her on the brief 
+were David W. Ogden, Acting Assistant Attorney General, 
+
+Leonard Schaitman, Attorney, and John F. Cordes, Solicitor, 
+U.S. Nuclear Regulatory Commission.
+
+     Before:  Edwards, Chief Judge, Randolph and Garland, 
+Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  The National Resources Defense 
+Council, Inc. (NRDC)1 asks us to vacate a regulation, promul-
+gated by the Nuclear Regulatory Commission, that defines 
+the term "meeting" for purposes of the Government in the 
+Sunshine Act, 5 U.S.C. s 552b.  The Sunshine Act requires 
+that gatherings of members of certain agencies be open to the 
+public if they constitute "meetings" under the Act.  NRDC 
+argues that the Commission's regulation is inconsistent with 
+the text and legislative history of the statute.  It further 
+contends that the regulation is improper because it fails to 
+provide procedural safeguards necessary to facilitate effective 
+relief in the event that a meeting is improperly closed to the 
+public.
+
+     We deny the petition for review.  We are unable to accept 
+NRDC's first argument because the Commission has done 
+nothing more than adopt, verbatim, the Supreme Court's own 
+interpretation of the meaning of "meeting" under the Act, as 
+set forth in FCC v. ITT World Communications, Inc., 466 
+U.S. 463 (1984).  We are unable to accept the second argu-
+ment because it conflicts with the Court's injunction against 
+imposing non-statutory procedural requirements on agency 
+decisionmaking, as set forth in Vermont Yankee Nuclear 
+Power Corp. v. NRDC, 435 U.S. 519 (1978).
+
+                                I
+
+     The Sunshine Act provides, with ten specified exemptions, 
+that "every portion of every meeting of an agency shall be 
+open to public observation."  5 U.S.C. s 552b(b) (emphasis 
+
+__________
+     1  NRDC is joined by a number of other public interest groups.  
+For ease of reference, this opinion will refer to these parties 
+collectively as "NRDC" or "petitioner."
+
+added).  It imposes procedural requirements to ensure, inter 
+alia, that advance notice is given to the public before agency 
+meetings take place.  See id. s 552b(e).  It also imposes 
+procedural requirements an agency must follow before deter-
+mining that one of the ten exemptions from the openness 
+requirement applies.  See id. s 552b(d), (f).  However, nei-
+ther the openness requirement, nor the related procedural 
+requirements, are triggered unless the governmental entity at 
+issue is an "agency," and unless the gathering in question is a 
+"meeting" of that agency.
+
+     For purposes of the Act, "agency" is defined as an execu-
+tive branch authority or independent regulatory agency 
+"headed by a collegial body composed of two or more individ-
+ual members, a majority of whom are appointed to such 
+position by the President with the advice and consent of the 
+Senate."  Id. s 552b(a)(1) (cross-referencing 5 U.S.C. 
+s 552(e), subsequently redesignated s 552(f)).  In addition, as 
+will become relevant in our later discussion of the ITT case, 
+the definition of "agency" extends to "any subdivision thereof 
+authorized to act on behalf of the agency."  Id. s 552b(a)(1).  
+The Nuclear Regulatory Commission is an agency covered by 
+the Act.  See Philadelphia Newspapers, Inc. v. NRC, 727 
+F.2d 1195, 1199-1200 (D.C. Cir. 1984).2
+
+     The Sunshine Act defines the term "meeting" as "the 
+deliberations of at least the number of individual agency 
+members required to take action on behalf of the agency 
+where such deliberations determine or result in the joint 
+conduct or disposition of official agency business...."  5 
+U.S.C. s 552b(a)(2).  The Commission's original Sunshine Act 
+regulation, adopted in 1977, merely reproduced the language 
+of the statutory definition.  See 42 Fed. Reg. 12,875, 12,877 
+(1977).3  It also clarified the kinds of communications not 
+subject to the Act, explicitly excepting only social gatherings, 
+
+__________
+     2  The Nuclear Regulatory Commission is composed of five 
+members appointed by the President and confirmed by the Senate.  
+See 42 U.S.C. s 5841.
+
+     3  The Sunshine Act requires each covered agency to promul-
+gate implementing regulations.  See 5 U.S.C. s 552b(g).
+
+and briefings of the Commission by outsiders where discus-
+sion was informational and without specific reference to pend-
+ing Commission matters.  See id.  Under the 1977 regulation, 
+the Commission "treated every discussion of agency business 
+by three or more Commissioners, no matter how informal or 
+preliminary it might be, as a 'meeting' for Sunshine Act 
+purposes."  64 Fed. Reg. 24,936, 24,937 (1999).
+
+     In 1984, the Supreme Court decided ITT.  In the course of 
+its opinion, the Court said the following about the term 
+"meeting" under the Act:
+
+     This statutory language contemplates discussions that 
+     effectively predetermine official actions.  Such discus-
+     sions must be sufficiently focused on discrete proposals 
+     or issues as to cause or to be likely to cause the individu-
+     al participating members to form reasonably firm posi-
+     tions regarding matters pending or likely to arise before 
+     the agency.
+     
+466 U.S. at 471 (citations and quotation marks omitted).  In 
+1985, noting the decision in ITT, the Commission issued an 
+"interim" rule that revised the definition of "meeting" by 
+appending the Supreme Court's definition, verbatim, to the 
+language of the prior regulation.  See 50 Fed. Reg. 20,889 
+(1985).  The 1985 rule stated:
+
+     "Meeting" means the deliberations of at least a quorum 
+     of Commissioners where such deliberations determine or 
+     result in the joint conduct or disposition of official Com-
+     mission business, that is, where discussions are suffi-
+     ciently focused on discrete proposals or issues as to 
+     cause or to be likely to cause the individual participat-
+     ing members to form reasonably firm positions regard-
+     ing matters pending or likely to arise before the agency.
+     
+Id. at 20,891 (codified at 10 C.F.R. s 9.101(c)) (new language 
+in italics).
+
+     The 1985 rule was controversial.  In response to criticism, 
+the Commission announced that it would not conduct non-
+Sunshine Act discussions until it put into place procedures to 
+govern such discussions.  Before the Commission completed 
+
+those procedures, the American Bar Association's Administra-
+tive Law Section announced its intention to consider the 
+issue, and the Commission decided to defer implementation of 
+the 1985 rule pending receipt of the ABA's views.  See 64 
+Fed. Reg. at 24,938.  In 1987, the ABA issued its recommen-
+dations, which urged federal agencies and courts to interpret 
+the term "meeting" as the Commission had proposed in 
+1985--by using the Supreme Court's language in ITT.  See 
+ABA Section of Administrative Law, Report to House of 
+Delegates (J.A. at 460).4  Despite the ABA's recommenda-
+tions, the Commission took no further action.  Although the 
+"interim" rule of 1985 remained on the books, the agency 
+continued to apply its pre-1985 regulation.
+
+     In May 1999, the Commission published, for notice and 
+comment in the Federal Register, its intention to implement 
+the 1985 rule's definition of "meeting."  The Commission 
+stated that its purpose was "to bring the NRC's Sunshine Act 
+regulations, and the way they are applied by NRC, into closer 
+conformity with Congressional intent, as set forth in the 
+legislative history of the Sunshine Act and as clarified in 
+[ITT]."  64 Fed. Reg. at 24,936.  In the Commission's view, 
+Congress had "carefully weighed the competing consider-
+ations involved:  the public's right of access to significant 
+information, on the one hand, and the agencies' need to be 
+able to function in an efficient and collegial manner on the 
+other."  Id. at 24,939.  "Congress," the Commission said, had 
+"struck a balance:  it did not legislate openness to the maxi-
+mum extent possible, nor did it provide unfettered discretion 
+to agencies to offer only as much public access as they might 
+choose."  Id.  The notice listed a number of examples of 
+topics that might be the subject of non-Sunshine Act discus-
+sions under the new rule, "so long as the discussion will not 
+effectively predetermine final agency action."  Id. at 24,941.  
+The topics included:  "How well is the agency functioning, 
+what are our successes and failures, what do we see as major 
+
+__________
+     4  The Administrative Law Section issued its recommendations 
+in 1986;  the ABA adopted them in February 1987.  See 64 Fed. 
+Reg. at 24,938.
+
+challenges in the next five and ten years, what is the state of 
+our relations with the public, industry, Congress, the press?"  
+Id. at 24,941-42.5  A final order implementing the rule be-
+came effective on August 23, 1999.  64 Fed. Reg. 39,393 
+(1999).
+
+                                II
+
+     This court has authority to set aside agency regulations 
+that are "not in accord with" the requirements of the Sun-
+shine Act.  5 U.S.C. s 552b(g).  That, NRDC contends, is 
+how the Commission's definition of "meeting" should be char-
+acterized.  We consider this contention below.
+
+                                A
+
+     In petitioner's view, the agency's definition of "meeting" is 
+fundamentally inconsistent with both the language and legis-
+lative history of the Act.  NRDC's argument concerning the 
+statutory language cannot be easily dismissed.  The Act 
+states that the term "meeting" means the deliberations of a 
+quorum of an agency, "where such deliberations determine or 
+result in the joint conduct or disposition of official agency 
+business."  5 U.S.C. s 552b(a)(2) (emphasis added).  Select-
+ing from the "or" clauses, the statutory definition of "meet-
+ing" would appear to include any deliberations that "result in 
+the joint conduct ... of official agency business," even if they 
+do not "determine" either the joint conduct or disposition of 
+that business.  The Commission's definition, on the other 
+hand, is limited to deliberations that are "likely to cause the 
+individual participating members to form reasonably firm 
+positions regarding" the matter--that is, to deliberations that 
+"effectively predetermine final agency action."  64 Fed. Reg. 
+at 24,941.  Indeed, the Commission's examples of what it 
+regards as outside the scope of "meetings" demonstrate the 
+potential divergence between its definition and the literal 
+
+__________
+     5  The Commission subsequently advised Congress and this 
+court that discussions focused on specific pending matters, such as 
+licensing and restart authorizations, will not take place except in 
+"meetings" covered by the Sunshine Act.  See NRC Br. at 36;  see 
+also J.A. at 240, 245, 357 (letters to members of Congress).
+
+statutory language.  As NRDC argues, surely formal agency 
+discussions of "how well" the agency is functioning, of its 
+"successes and failures," of its "major challenges in the next 
+five and ten years," and of the state of its "relations with the 
+public, industry, Congress, [or] the press" qualify as the 
+"joint conduct of official agency business," even if they do not 
+predetermine agency decisions.6
+
+     Nor are NRDC's arguments concerning legislative intent 
+frivolous.  As petitioner points out, the Act begins with a 
+declaration of policy that "the public is entitled to the fullest 
+practicable information regarding the decisionmaking pro-
+cesses of the Federal Government."  Pub. L. No. 94-409, s 2, 
+90 Stat. 1241, 1241 (1976).7  In our own decision below in ITT, 
+we made the same point.  See 699 F.2d 1219, 1243 (D.C. Cir. 
+1983) ("[T]he Act's presumption of openness requires that all 
+doubts be resolved against closure."), rev'd, 466 U.S. 463 
+(1984).  NRDC also notes that in an opinion issued prior to 
+the Supreme Court's decision in ITT, this court pointed out 
+that the Sunshine Act, unlike the Freedom of Information Act 
+(FOIA), 5 U.S.C. s 552, lacks an express exemption for 
+predecisional matters.  See Common Cause v. NRC, 674 F.2d 
+921, 929 (D.C. Cir. 1982);  see also ITT, 699 F.2d at 1241 
+("The broad sweep of the Sunshine Act does not support a 
+distinction between an agency's predecisional actions and its 
+postdecisional efforts to implement, interpret, and promote 
+
+__________
+     6  Even on a literal reading, however, it is not enough that 
+discussions constitute joint conduct of official business;  to come 
+with the term "meeting," such discussions must be "deliberations" 
+that "result in" such joint conduct.  5 U.S.C. s 552b(a)(2).
+
+     7  See also H.R. Rep. No. 94-880, pt. 1, at 2 (1976) ("Absent 
+special circumstances, there is no reason why the public should not 
+have the right to observe the agency decisionmaking process first 
+hand.").  The Commission notes, however, that the Act's declaration 
+of policy goes on to state that "the purpose of this Act [is] to 
+provide the public with such information while protecting the rights 
+of individuals and the ability of the Government to carry out its 
+responsibilities."  Pub. L. No. 94-409, s 2, 90 Stat. at 1241.
+
+its policies.").8  And NRDC emphasizes, as we did in the 
+decision reviewed by the Supreme Court in ITT, that the 
+examples the legislative history provides of discussions ex-
+cluded from the Act are largely limited to "passing references 
+to agency business at social gatherings, casual background 
+conversations in offices and corridors, banter at the golf 
+course, and breakfast or luncheon discussions among mem-
+bers about the day's business."  699 F.2d at 1243 (footnotes 
+omitted).9  All of this, petitioner argues, supports the notion 
+that Congress intended to except only "casual" conversation 
+from the definition of "meeting"--not formal discussions 
+about the agency's business, even if such discussions are not 
+likely to be predeterminative.
+
+     NRDC acknowledges that the Senate Report on the Sun-
+shine Act declares that "... the agency must be careful not 
+to cross over the line and engage in discussions which effec-
+tively predetermine official actions."  S. Rep. No. 94-354, at 
+19 (1975).  But petitioner contends that the Commission cites 
+this sentence out of context, as it comes from a passage that 
+discusses the particular problems of three-member agencies, 
+
+__________
+     8  The Commission argues that "predecisional" is not necessarily 
+synonymous with "predeterminative," the adjective it uses for draw-
+ing the line between meetings and nonmeetings.  According to the 
+agency, under its definition " 'predecisional' matters fall on both 
+sides of the Sunshine Act divide."  NRC Br. at 38 n.18;  see also 
+Common Cause, 674 F.2d at 930 (" 'The meetings opened by [the 
+Act] are not intended to be merely reruns staged for the public 
+after agency members have discussed the issue in private and 
+predetermined their views.' ") (quoting S. Rep. No. 94-354, at 18 
+(1975)) (emphasis added).  Common Cause did not address the 
+definition of "meeting" under the Act, but rather whether any of the 
+Act's express exemptions authorized the closure of budget discus-
+sions that were conceded to be meetings.  See 674 F.2d at 926.
+
+     9  See also S. Rep. No. 94-354, at 18 ("[B]rief references to 
+agency business where the Commission members do not give seri-
+ous attention to the matter do not constitute a meeting.");  122 
+Cong. Rec. 28,474 (Aug. 31, 1976) (remarks of Rep. Fascell) (stating 
+that the definition of "meeting" "is intended to permit casual 
+discussions between agency members that might invoke the bill's 
+requirements under the less formal 'concern' standard").
+
+in which any two members would necessarily constitute a 
+quorum.10  Indeed, the full sentence begins with the words, 
+"When two members constitute a quorum," which fill the 
+space indicated by the ellipses above.  NRDC argues that 
+Congress did not intend the sentence to apply outside the 
+three-member agency context, and that it therefore has no 
+application to the five-member Nuclear Regulatory Commis-
+sion.  But see infra note 12.
+
+     In short, were we authorized to decide the validity of the 
+Commission's definition of "meeting" de novo, NRDC's argu-
+ments would give us some pause.  NRDC contends that we 
+are in fact so authorized, because courts do not accord 
+deference to an agency's statutory interpretation where the 
+statute at issue, like the Sunshine Act, "impose[s] general 
+obligations on [many] governmental agencies."  NRDC v. 
+Defense Nuclear Facilities Safety Bd., 969 F.2d 1248, 1250-51 
+(D.C. Cir. 1992).11  But while we may not have to defer to the 
+
+__________
+     10 The passage reads as follows:
+
+     In three-member agencies, two members will constitute a 
+     quorum....  It is not the intent of the bill to prevent any two 
+     agency members, regardless of agency size, from engaging in 
+     informal background discussions which clarify issues and ex-
+     pose varying views.  When two members are less than a 
+     quorum, such discussions would not in any event come under 
+     the section's open meeting requirements.  When two members 
+     constitute a quorum, however, the agency must be careful not 
+     to cross over the line and engage in discussions which effective-
+     ly predetermine official actions.
+     
+S. Rep. No. 94-354, at 19.
+
+     11  See Reporters' Comm. v. Dep't of Justice, 816 F.2d 730, 734 
+(D.C. Cir. 1987) (applying de novo review to agency interpretation 
+of FOIA), rev'd on other grounds, 489 U.S. 749 (1989);  see also 
+Salleh v. Christopher, 85 F.3d 689, 692 (D.C. Cir. 1996) (declining to 
+accord deference where multiple agencies were granted authority to 
+interpret same statute).  The customary deference mandated by 
+Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 (1984), would not apply 
+here in any event because, as discussed below, the Supreme Court 
+has already determined the meaning of the term "meeting" under 
+the Act.  See Maislin Indus. v. Primary Steel, Inc., 497 U.S. 116, 
+
+views of the Nuclear Regulatory Commission, the views of the 
+Supreme Court are another matter.  Because the Commis-
+sion's definition is taken in haec verba from the Court's 
+unanimous opinion in ITT, we now turn to an examination of 
+that case.
+
+                                B
+
+     The question before the Court in ITT was whether the 
+Sunshine Act applied to informal international conferences 
+attended by members of the Federal Communications Com-
+mission (FCC).  The conferences, referred to as the Consul-
+tative Process, were intended to facilitate joint planning of 
+telecommunications facilities.  In the hope of persuading 
+European nations to cooperate with its policy of encouraging 
+competition in overseas telecommunications services, the 
+FCC added the topic of new carriers and services to the 
+agenda.  See 466 U.S. at 465.  ITT, which opposed the entry 
+of new competitors, contended that the Consultative Process 
+sessions constituted "meetings" of the FCC and that the 
+Sunshine Act therefore required that they be held in public.  
+See id. at 465-66.  This circuit agreed.  See ITT, 699 F.2d at 
+1246-50.  The Supreme Court, however, reversed, holding 
+that "the participation by FCC members in these sessions 
+constitutes neither a 'meeting' as defined by s 552b(a)(2) nor 
+a meeting 'of the agency' as provided by s 552b(b)."  ITT, 
+466 U.S. at 469.
+
+     Writing for the Court, Justice Powell undertook an exami-
+nation of the Sunshine Act's legislative history in order to 
+determine the appropriate definition of the word "meeting."  
+As the Nuclear Regulatory Commission does here, he empha-
+sized those portions of the history suggesting an intent to 
+balance the interest in openness with administrative concerns.  
+"[I]n drafting the Act's definition of 'meeting,' " the Court 
+said, Congress "recognized that the administrative process 
+
+__________
+131 (1990) ("Once we have determined a statute's clear meaning, we 
+adhere to that determination under the doctrine of stare decisis, 
+and we judge an agency's later interpretation of the statute against 
+our prior determination of the statute's meaning.").
+
+cannot be conducted entirely in the public eye."  466 U.S. at 
+469.  Quoting the Senate Report, the Court continued:  
+" '[I]nformal background discussions [that] clarify issues and 
+expose views' are a necessary part of an agency's work."  Id. 
+(quoting S. Rep. No. 94-354, at 19).  Because it believed that 
+applying the Act in such contexts "would prevent such discus-
+sions and thereby impair normal agency operations," the 
+Court concluded that the Act's definition did not encompass 
+them.  Id.
+
+     In a footnote, Justice Powell examined the evolution of the 
+statutory language defining the term "meeting."  That evolu-
+tion, he said, "reflects the congressional intent precisely to 
+define the limited scope of the statute's requirements."  Id. at 
+470 n.7.  In particular, he noted that "the Senate substituted 
+the term 'deliberations' for the previously proposed terms--
+'assembly or simultaneous communication' or 'gathering'--in 
+order to 'exclude many discussions which are informal in 
+nature.'  S. Rep. No. 94-354, at 10."  Id. (other citations 
+omitted). Justice Powell also noted that although "earlier 
+versions of the Act had applied to any agency discussions that 
+'concer[n] the joint conduct or disposition of agency busi-
+ness,' " the final version applied "only to deliberations that 
+'determine or result in' the conduct of 'official agency busi-
+ness.' "  Id. (citations omitted).  "The intent of the revision," 
+he inferred, "clearly was to permit preliminary discussion 
+among agency members."  Id. (citations omitted).
+
+     Finally, the Court turned to the same passage of the 
+Senate Report that we referred to at the end of Part II.A 
+above--the passage NRDC contends applies only to three-
+member agencies.  Relying on that language, the Court con-
+cluded that the statutory definition of "meeting" "contem-
+plates discussions that 'effectively predetermine official ac-
+tions.' "  Id. at 471 (quoting S. Rep. No. 94-354, at 19).  This 
+conclusion was stated without qualification--without any sug-
+gestion that it was limited to three-member agencies.  To the 
+contrary, the Court went on to endorse a definition of "meet-
+ings" recommended for all agencies in the Interpretive Guide 
+published by the Office of the Chairman of the Administrative 
+Conference of the United States (ACUS):
+
+     Such discussions must be "sufficiently focused on dis-
+     crete proposals or issues as to cause or to be likely to 
+     cause the individual participating members to form rea-
+     sonably firm positions regarding matters pending or 
+     likely to arise before the agency."  R. Berg & S. Klitz-
+     man, An Interpretive Guide to the Government in the 
+     Sunshine Act 9 (1978).
+     
+Id.12  This is the definition that the Nuclear Regulatory 
+Commission subsequently adopted as its own definition of 
+"meeting," and that NRDC now challenges as unlawful.
+
+     Having settled upon a definition of "meeting," ITT then 
+applied it to the Consultative Process sessions at issue in the 
+case.  The Court noted that the three FCC commissioners 
+who attended those sessions constituted a quorum of the 
+FCC's Telecommunications Committee, to which the Commis-
+sion had delegated the power to approve applications for 
+common carrier certification.  The Committee was therefore 
+a " 'subdivision ... authorized to act on behalf of the agen-
+cy' " with respect to such applications, and hence was itself an 
+"agency" within the Sunshine Act's definition.  466 U.S. at 
+470-71 (quoting 5 U.S.C. s 552b(a)(1)).  But while the Court 
+found the Committee to be covered by the Act, it concluded 
+that the members had not engaged in discussions that effec-
+tively predetermined official actions.  The Court noted that 
+ITT had "alleged neither that the Committee formally acted 
+upon applications for certification at the Consultative Process 
+sessions nor that those sessions resulted in firm positions on 
+
+__________
+     12  The Supreme Court noted that "the Office of the Chairman 
+of the Administrative Conference of the United States prepared the 
+Interpretive Guide at Congress' request, s 552b(g), and after exten-
+sive consultation with the affected agencies."  466 U.S. at 471 n.10.  
+The ACUS guide expressly rejected the suggestion that the quota-
+tion from the Senate Report was limited to three-member agencies:  
+"[T]he passage necessarily has broader application, since there is 
+nothing in the statute which supports a special definition of 'meet-
+ing' for agencies where two members make up a quorum."  Inter-
+pretive Guide at 6.  We agreed with that view in our opinion below 
+in ITT.  See 699 F.2d at 1243 n.163 (quoting Interpretive Guide at 
+6).
+
+particular matters pending or likely to arise before the Com-
+mittee."  Id. at 471.  Rather, the Court said, "the sessions 
+provided general background information" and permitted the 
+commissioners to engage in an exchange of views with their 
+foreign counterparts "by which decisions already reached by 
+the Commission could be implemented."  Id. at 472.
+
+     Justice Powell did note that this court had reached a 
+contrary result.  He observed, however, that we had done so 
+not by finding that the commissioners were deliberating 
+"upon matters within their formally delegated authority"--
+i.e., applications for certification--but rather upon matters 
+within some "undisclosed authority, not formally delegated, to 
+engage in discussions on behalf of the Commission."  Id. at 
+472.  Such deliberations, the Supreme Court said, are not 
+covered by the Sunshine Act at all.  Again quoting the 
+definition of "agency" rather than "meeting," the Court noted 
+that the only covered deliberations are those by a " 'subdivi-
+sion ... authorized to act on behalf of the agency.' "  Id. at 
+472 (quoting, without citation, s 552b(a)(1)).  The Act only 
+applies, the Court said, "where a subdivision of the agency 
+deliberates upon matters that are within that subdivision's 
+formally delegated authority to take official action for the 
+agency."  Id.  Because "the Telecommunications Committee 
+at the Consultative Process sessions did not consider applica-
+tions for common carrier certification--its only formally dele-
+gated authority-- ... the sessions were not 'meetings' within 
+the meaning of the Sunshine Act."  Id. at 473.
+
+                                C
+
+     On its face, the Supreme Court's decision in ITT would 
+appear to end this appeal, as the definition of "meeting" 
+adopted by the Nuclear Regulatory Commission is the same 
+as that endorsed and applied by the Court in that case.  
+NRDC contends, however, that for a number of reasons ITT 
+is a much narrower opinion than the Commission believes it 
+to be, and that the decision's definition of "meeting" is at best 
+unauthoritative dictum--unnecessary to its holding and non-
+binding upon this court.
+
+     NRDC argues, first, that ITT involved only the limited 
+question of whether the Sunshine Act applies where fewer 
+than a quorum of the agency's members attend international 
+conferences, and where those members have not been "for-
+mally delegated authority to take official action for the agen-
+cy."  NRDC Br. at 25 (quoting ITT, 466 U.S. at 472).  The 
+Supreme Court's "central rationale," petitioner contends, was 
+that the Act "applies only where a subdivision of the agency 
+deliberates upon matters that are within that subdivision's 
+formally delegated authority."  Id. (quoting ITT, 466 U.S. at 
+472-73). Because the Telecommunications Committee lacked 
+delegated authority to deliberate on the business discussed at 
+the conferences, the Act did not apply.  The Court's other 
+language, petitioner suggests, was simply dictum.
+
+     As our description of ITT makes clear, however, this was 
+not the central--or even a sufficient--rationale for the 
+Court's decision.  Before considering the Committee's discus-
+sions on subjects as to which it did not have delegated 
+authority, the Court first addressed those as to which it did:  
+namely, applications for common carrier certification.  As to 
+any discussions on that subject, the Court concluded that the 
+Committee had not participated in "meetings" because--in 
+the words of the Interpretive Guide and now of the Commis-
+sion's rule--such discussions were not "likely to cause the 
+individual participating members to form reasonably firm 
+positions regarding matters pending or likely to arise before 
+the agency."  466 U.S. at 471.  It was only when the Court 
+went on to examine the rationale of this court below that it 
+considered the Committee's discussions on subjects as to 
+which it did not have delegated authority, and found those 
+discussions to be outside the Act.  Because that finding could 
+not have sufficed to resolve whether discussions as to which 
+the committee did have authority constituted meetings, the 
+definition the Court relied upon to decide that question 
+cannot be characterized as dictum.
+
+     NRDC also contends that in applying its definition of 
+"meeting," the Court faced only the narrow question of 
+whether discussions on topics that the Commission had al-
+
+ready decided were included.  Petitioner is correct that the 
+discussions in ITT did involve an "exchange of views by which 
+decisions already reached by the Commission could be imple-
+mented."  Id. at 472.  But the Court only relied on that fact 
+to conclude that the discussions did not "result[ ] in firm 
+positions on particular matters pending or likely to arise 
+before the Committee"--i.e., that the discussions necessarily 
+could not have "predetermined" official decisions because the 
+decisions had already been made.  Id. at 471.  The Court 
+gave no hint that its opinion was limited to this unique 
+situation, and nothing in the Court's definition of "meeting," 
+or in the Interpretive Guide upon which it was based, sup-
+ports such a reading.  Although ITT may be factually distin-
+guished from the instant case on this ground, we are not free 
+to turn every factual distinction into a reason for ignoring the 
+Supreme Court's considered guidance.
+
+     NRDC does correctly point out that there was a second, 
+truly independent ground for the Court's decision in ITT--
+one to which we have averred, but not yet described.  In a 
+single paragraph at the end of the opinion, the Court conclud-
+ed that not only were the Consultative Process sessions not 
+"meetings" within the meaning of the Sunshine Act, they 
+were also not meetings of an "agency."  The international 
+sessions were not meetings of an "agency," the Court said, 
+because the FCC did not convene them and could not unilat-
+erally control their procedures.  Id. at 473.
+
+     There is no question that this rationale was an independent 
+basis for the Supreme Court's decision:  to come within the 
+Sunshine Act, discussions must be both "meetings" and meet-
+ings of an "agency," and the Court concluded that the Consul-
+tative Process sessions were neither.  See id. at 469.  None-
+theless, "where there are two grounds, upon either of which 
+an appellate court may rest its decision, and it adopts both, 
+'the ruling on neither is obiter [dictum], but each is the 
+judgment of the court, and of equal validity with the other.' "  
+Dooling v. Overholser, 243 F.2d 825, 828 (D.C. Cir. 1957) 
+(quoting United States v. Title Ins. & Trust Co., 265 U.S. 472, 
+486 (1924));  see Woods v. Interstate Realty Co., 337 U.S. 535, 
+
+536 (1948) ("Where a decision rests on two or more grounds, 
+none can be relegated to the category of obiter dictum.").  
+Moreover, even if the Court's reliance on two independent 
+grounds rendered each dictum, we would still be bound by its 
+interpretation of the term "meeting," since " '[c]arefully con-
+sidered language of the Supreme Court, even if technically 
+dictum, generally must be treated as authoritative.' "  United 
+States v. Oakar, 111 F.3d 146, 153 (D.C. Cir. 1997) (quoting 
+Doughty v. Underwriters at Lloyd's, London, 6 F.3d 856, 861 
+n.3 (1st Cir. 1993));  see also Bangor Hydro-Elec. Co. v. 
+FERC, 78 F.3d 659, 662 (D.C. Cir. 1996).  As our above 
+recitation of ITT makes clear, the Supreme Court's language 
+was carefully considered, following as it did the Court's 
+detailed review of the Act's legislative history and its adoption 
+of the formulation in ACUS' own detailed guide.
+
+     Finally, NRDC contends that the Commission's definition 
+will undermine the purposes of the Act.  Petitioner argues 
+that the Commission's definition should be vacated because it 
+eliminates an "objective" rule and replaces it with a "vague, 
+wholly subjective standard" that, if permitted to stand, "will 
+fatally undermine the Sunshine Act" and "make abuse inevit-
+able."  NRDC Br. at 11, 23.  It is impossible to conceive, 
+NRDC argues, that the kinds of discussions the Commission 
+describes as non-meetings could occur without at least one 
+commissioner formulating a reasonably firm position on a 
+matter before the agency.  Thus, petitioner urges, the Com-
+mission's rule "is contrary to the Act."  Id. at 24.
+
+     In many ways, NRDC's argument echoes points made by 
+this court in its decision below in ITT.  See 699 F.2d at 1244.  
+In its own decision, however, the Supreme Court instructed 
+that the definition now adopted by the Commission is the one 
+that Congress itself intended.  Because the Commission's 
+definition is therefore that of the Act itself, it neither can be 
+contrary to the Act nor can it fatally undermine it.13
+
+__________
+     13  For like reasons, we reject NRDC's suggestion that we 
+vacate the Commission's definition because "there is no prospect 
+that it will solve the NRC's purported 'collegiality' deficit, which is 
+the ostensible rationale for the rulemaking."  NRDC Br. at 28.
+
+                               III
+
+     In the alternative, NRDC argues that even if the Commis-
+sion's rule is consistent with the statutory definition, we 
+should "find it illegal for the NRC to implement the rule 
+without minimal procedural safeguards," such as maintaining 
+complete records of all closed, non-Sunshine Act discussions.  
+NRDC Br. at 13.  Such procedures are necessary, petitioner 
+maintains, because the Commission cannot be trusted "to 
+determine unilaterally when they are starting to form 'rea-
+sonably firm positions'--and hence when public access is 
+required."  Id.  Without a contemporaneous written record, 
+judicial review of whether the agency is improperly closing 
+meetings will assertedly not be possible.
+
+     NRDC does not argue that its proposed procedures are 
+required by the Sunshine Act itself, and they plainly are not.  
+As the Senate Report made clear:  "Any meeting falling 
+outside the definition [in s 552b(a)] is not subject to any of 
+the other provisions of the bill."  S. Rep. No. 94-354, at 19.  
+This dooms petitioner's challenge because, under the Su-
+preme Court's decision in Vermont Yankee, " 'absent constitu-
+tional constraints or extremely compelling circumstances' 
+courts are never free to impose on the NRC (or any other 
+agency) a procedural requirement not provided for by Con-
+gress."  Union of Concerned Scientists v. NRC, 920 F.2d 50, 
+53 (D.C. Cir. 1990) (quoting Vermont Yankee, 435 U.S. at 
+543);  see also Envirocare of Utah, Inc. v. NRC, 194 F.3d 72, 
+78 (D.C. Cir. 1999).  The Commission is, of course, at liberty 
+to adopt additional procedures in the exercise of its discre-
+tion, see Vermont Yankee, 435 U.S. at 524, and in this case it 
+has done so:  The agency has undertaken to keep a record of 
+the date, subject, and participants for any scheduled non-
+Sunshine Act discussions among a quorum of commissioners 
+for an initial six month period, and has stated that it will not 
+discontinue this practice without advance notice to the public.  
+See 64 Fed. Reg. at 39,395;  see also 64 Fed. Reg. at 24,942.  
+We, however, are without authority to impose such procedur-
+al requirements against the Commission's will.
+
+     In response to the obstacle posed by Vermont Yankee, 
+NRDC makes two arguments based on analogies to litigation 
+under FOIA.  First, it notes that when an agency claims that 
+documents are not covered by FOIA, a court may conduct an 
+in camera review to assess the validity of the agency's claims.  
+See, e.g., Spirko v. United States Postal Serv., 147 F.3d 992, 
+996 (D.C. Cir. 1998).  The distinctions between in camera 
+review and the procedures requested by NRDC, however, are 
+plain.  In camera review is expressly authorized by FOIA, 
+see 5 U.S.C. s 552(a)(4)(B),14 as it is by the Sunshine Act, see 
+id. s 552b(h)(1).  Moreover, in camera review of an agency's 
+records does not require the agency to add any administrative 
+procedures or create any new documents;  requiring the 
+Commission to keep minutes of its non-Sunshine Act discus-
+sions would do both.
+
+     Second, NRDC points out that in FOIA litigation, this 
+circuit requires an agency to provide a plaintiff with a 
+"Vaughn index," a description of and detailed justification for 
+the non-disclosure of each withheld document.  See Vaughn v. 
+Rosen, 484 F.2d 820 (D.C. Cir. 1973);  see also Spirko, 147 
+F.3d at 997-98.  But while this judicial rule does require an 
+agency to create a document (the index) that would not 
+otherwise exist, it is a rule that governs litigation in court and 
+not proceedings before the agency.  In particular, it is a rule 
+the circuit imposed because FOIA itself places the burden on 
+the agency to sustain the lawfulness of specific withholdings 
+in litigation.  See Vaughn, 484 F.2d at 825-26, 828;  see also 5 
+U.S.C. s 552(a)(4)(B).  The Sunshine Act likewise imposes 
+the burden of justifying specific closures on the agency, and 
+expressly authorizes the court to "take such additional evi-
+dence as it deems necessary" to decide such cases.  5 U.S.C. 
+
+__________
+     14  The express authorization was not added to FOIA until 1974.  
+See Pub. L. No. 93-502, s B(2), 88 Stat. 1561, 1561-62 (1974) 
+(codified in relevant part at 5 U.S.C. s 552(a)(4)(B)).  Previously, 
+trial courts conducted such reviews on the rationale noted in the 
+text below:  i.e., in their role as triers of fact endeavoring to 
+determine whether the government had met its burden of justifying 
+specific nondisclosures.  See Vaughn v. Rosen, 484 F.2d 820, 825 
+(D.C. Cir. 1973).
+
+s 552b(h)(1).  But this authorization, like the analogous one 
+in FOIA, applies only to suits charging violations of the Act 
+with respect to specific agency meetings15--not to petitions 
+like this one, which challenge an agency's implementing regu-
+lations on their face.16  Neither Vaughn, nor the Sunshine 
+Act, authorizes this court to impose additional procedures on 
+the conduct of administrative rather than judicial proceed-
+ings.
+
+                                IV
+
+     Because the Supreme Court's decision in ITT renders 
+petitioner's challenge to the Commission's definition of "meet-
+ing" unavailing, and because the Court's decision in Vermont 
+Yankee bars us from imposing the additional procedural 
+requirements NRDC seeks, the petition for review is denied.
+
+__________
+     15  Section 552b(h)(1) grants district courts jurisdiction over 
+actions "to enforce the requirements" of the Act.  "Such actions 
+may be brought by any person against an agency prior to, or within 
+sixty days after, the meeting out of which the violation of this 
+section arises...."  5 U.S.C. s 552b(h)(1).  In such cases, the 
+"burden is on the defendant to sustain his action," and the court 
+may make in camera examinations "and may take such additional 
+evidence as it deems necessary."  Id.
+
+     16  See 5 U.S.C. s 552b(g).  This section authorizes any person 
+to "bring a proceeding in the United States Court of Appeals for 
+the District of Columbia to set aside agency regulations" promulgat-
+ed to implement the requirements of the Act.
+
+                                          

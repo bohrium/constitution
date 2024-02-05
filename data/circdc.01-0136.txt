@@ -1,0 +1,441 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued November 6, 2000    Decided June 8, 2001 
+
+                           No. 96-5274
+
+                  National Mining Association, 
+                            Appellant
+
+                                v.
+
+        United States Department of the Interior, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                           (94cv02740)
+
+     Thomas C. Means argued the cause for appellant.  With 
+him on the briefs were Harold P. Quinn, Jr., J. Michael 
+Klise and Kirsten L. Nathanson.  John A. MacLeod entered 
+an appearance.
+
+     Kathryn E. Kovacs, Attorney, U.S. Department of Justice, 
+argued the cause for appellees.  With her on the brief were 
+James F. Simon, Acting Assistant Attorney General, and 
+
+Robert H. Oakley, Attorney.  John T. Stahr and William B. 
+Lazarus, Attorneys, entered appearances.
+
+     Before:  Ginsburg, Randolph, and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  No one may engage in surface 
+coal mining without a permit issued pursuant to the Surface 
+Mining Reclamation and Control Act, 30 U.S.C. s 1201 et 
+seq., and the regulations thereunder.  Under the Act, States 
+administer permit programs approved by the Secretary of the 
+Interior as consistent with federal laws and regulations.  See 
+National Mining Ass'n v. United States Dep't of the Interior, 
+70 F.3d 1345, 1347 (D.C. Cir. 1995).  The questions initially 
+presented in this appeal dealt with the validity of several 
+federal regulatory requirements imposed on permit appli-
+cants, and the procedures for contesting the accuracy of 
+information used to determine permit eligibility.  After oral 
+argument, the Interior Department revised many of these 
+regulations, and so we are faced with additional questions 
+concerning the extent to which the case is now moot.
+
+     Some of the original regulations stemmed from a consent 
+decree requiring the Interior Department to "establish and 
+maintain a computerized system" to track applicants and 
+violators, in order to enforce 30 U.S.C. s 1260(c).  See Save 
+Our Cumberland Mountains v. Clark, No. 81-2134, 1985 U.S. 
+Dist. LEXIS 22934, at *1-*4 (D.D.C. Jan. 31, 1985);  Save 
+Our Cumberland Mountains v. Watt, 550 F. Supp. 979, 980 
+(D.D.C. 1982), rev'd, 725 F.2d 1434 (D.C. Cir. 1984).  Section 
+1260(c) provides that a permitting authority may not issue a 
+permit if "the schedule [attached to the permit application] or 
+other information available to the regulatory authority indi-
+cates that any surface coal mining operation owned or con-
+trolled by the applicant is currently in violation of this 
+chapter ... [unless] ... the applicant submits proof that such 
+violation has been corrected or is in the process of being 
+corrected."  30 U.S.C. s 1260(c).
+
+     In compliance with the consent decree, the Interior Depart-
+ment's Office of Surface Mining created the Applicant/Viola-
+
+tor System ("AVS").  The AVS is a computerized database 
+"programmed to identify 'links' between known violators and 
+applicants, individuals, and corporations."  Sam P. Burchett, 
+The Applicant Violator System in Transition, 21 N. Ky. L. 
+Rev. 555 n.5 (1994).  The Office of Surface Mining operates 
+the database and makes it available to the public on dedicated 
+terminals and the Internet.  See Office of Surface Mining, 
+Access, at http://www.avs.osmre.gov/pubaccess.htm (last visit-
+ed Dec. 5, 2000).
+
+     The National Mining Association (NMA) brought this ac-
+tion to set aside aspects of the AVS and related regulations.  
+NMA objected to the AVS rules both because of the informa-
+tion required of applicants and because of what is purportedly 
+done with the information.  The district court granted sum-
+mary judgment in favor of the Interior Department, sustain-
+ing all of the regulations.
+
+     The case was argued before us in November 2000.  In 
+December 2000, the Interior Department published a rule, 
+effective January 18, 2001, replacing the AVS rule at issue in 
+this appeal.  See Application and Permit Information Re-
+quirements;  Permit Eligibility;  Definitions of Ownership and 
+Control;  the Applicant/Violator System;  Alternative Enforce-
+ment, 65 Fed. Reg. 79,582 (Dec. 19, 2000) (to be codified at 30 
+C.F.R.) [hereinafter AVS Rules].  We ordered supplemental 
+briefing on the question of mootness.
+
+                                I.
+
+     To determine whether anything remains of NMA's case, we 
+need to identify which regulations NMA challenged and 
+whether the new rules altered those regulations.  This is no 
+small task.  NMA, in its complaint, did not see fit to provide 
+citations to all of the regulations it thought invalid.  Even in 
+its briefs in this court, NMA is content to refer generally to 
+"the rules" without, in many instances, providing any citations 
+to the C.F.R.  Perhaps this results from NMA's habit of 
+describing what "the rules" prohibit when in fact NMA's real 
+complaint is that "the rules" do not affirmatively require what 
+NMA desires.
+
+     At any rate, by our count NMA specifically argued against 
+the following old AVS rules issued by the Office of Surface 
+Mining:  30 C.F.R. ss 773.5, 773.20(c), 773.23(b), 773.24, 
+773.25 & 778.14(c) (1999).  In its supplemental brief, NMA 
+agrees with the government that the new AVS rules moot its 
+challenges to ss 773.20(c), 773.23(b), 773.24 & 773.25.  See 
+Supplemental Brief of Appellant at 4, 11.  NMA also agrees 
+that its contention about the lack of any provision to allow 
+provisional permits is moot because the new rules fill the gap.  
+See AVS Rules, 65 Fed. Reg. at 79,664-65 (to be codified at 
+30 C.F.R. s 773.14).
+
+     As to NMA's remaining challenges to the regulations, some 
+are also moot and the rest are meritless.
+
+                                A.
+
+     NMA mounted a scattershot due process attack on the old 
+AVS rules.  Its main objections were that the rules did not 
+give notice, and did not give applicants the chance to contest 
+links to them on the AVS before these were posted and used 
+to deny applications.  NMA brought the case as a facial 
+challenge to the rules.  Yet NMA conceded at oral argument 
+that even by its lights, "the rules" could be constitutionally 
+applied in some cases.  Whether that concession should have 
+ended this aspect of the case under the doctrine that a law 
+valid in some of its applications cannot be struck down as 
+invalid on its face is a question we leave to another day.  
+Compare United States v. Salerno, 481 U.S. 739, 745 (1987);  
+Reno v. Flores, 507 U.S. 292, 301 (1993);  INS v. National 
+Ctr. for Immigrants' Rights, 502 U.S. 183, 188 (1991);  Chemi-
+cal Waste Mgmt. v. EPA, 56 F.3d 1434, 1437 (D.C. Cir. 1995);  
+with National Mining Ass'n v. Army Corps of Engineers, 
+145 F.3d 1399, 1407-08 (D.C. Cir. 1998).  We also leave to 
+another day the question whether the sort of generalized due 
+process attack NMA advanced would be ripe under the 
+doctrine of Abbott Laboratories v. Gardner, 387 U.S. 136, 149 
+(1967).  See Appalachian Power Co. v. EPA, 208 F.3d 1015, 
+1023 n.18 (D.C. Cir. 2000).  We leave these questions undecid-
+
+ed because NMA's due process claims are moot in light of the 
+new AVS rules.
+
+     In order to evaluate a procedural due process claim, a court 
+must evaluate the "risk of an erroneous deprivation of [a 
+property] interest through the procedures used, and the 
+probable value, if any, of additional or substitute procedural 
+safeguards."  Mathews v. Eldridge, 424 U.S. 319, 335 (1976).  
+Although the new AVS rules, like the old rules, contain no 
+explicit provision allowing an owner to challenge a violation's 
+status before it has been entered into the AVS, see AVS 
+Rules, 65 Fed. Reg. at 79,666 (to be codified at 30 C.F.R. 
+s 773.25(a)), the new rules add other procedural protections.  
+Responding to due process concerns, the Office of Surface 
+Mining's new 30 C.F.R. s 773.14, provides that an entity 
+challenging AVS listings may be entitled to a provisional 
+permit.  See AVS Rules, 65 Fed. Reg. at 79,664.  This affects 
+the Mathews v. Eldridge calculus.  The old set of rules, which 
+are the subject of this lawsuit, cannot be evaluated as if 
+nothing has changed.  A new system is now in place.  We 
+therefore must vacate this aspect of the district court's deci-
+sion as moot.  See Fusari v. Steinberg, 419 U.S. 379, 386, 
+388-89 (1975);  see also Kremens v. Bartley, 431 U.S. 119, 128 
+(1977) (suggesting that mootness determination can be col-
+ored by interest in avoiding premature constitutional adjudi-
+cation).
+
+                                B.
+
+     NMA argued that the definition of "owned and controlled" 
+in s 773.5 of the old regulations was unconstitutionally vague 
+and that the Office of Surface Mining should have adopted 
+substantive rebuttal standards to overcome the presumptions 
+set forth in the definition.  See Brief of Appellant at 39-40.  
+The new rules eliminate the presumptions and, in place of the 
+former definition of "owned or controlled," substitute two new 
+definitions of "own, owner, or ownership" and "control or 
+controller."  See AVS Rules, 65 Fed. Reg. at 79,662 (to be 
+codified at 30 C.F.R. s 701.5).  The new rules also list the 
+types of information one may use to rebut an ownership or 
+
+control linkage in the AVS.  See AVS Rules, 65 Fed. Reg. at 
+79,666 (to be codified at 30 C.F.R. s 773.25(c)).  In light of 
+these substantial changes, NMA's vagueness challenge is 
+moot.  Any opinion regarding the former rules would be 
+merely advisory.
+
+                                C.
+
+     Section 778.14(c) of the old rules required applicants to 
+submit "[a] list of all violation notices received by the appli-
+cant during the three-year period preceding the application 
+date, and a list of all outstanding violation notices received 
+prior to the date of the application by any surface coal mining 
+operation that is deemed to be owned or controlled by the 
+applicant."  30 C.F.R. s 778.14(c) (1999).  Because the new 
+version of s 778.14(c) is to the same effect, see AVS Rules, 65 
+Fed. Reg. at 79,669 (to be codified at 30 C.F.R. s 773.14(c)), 
+NMA's claim that the rule exceeds the Interior Department's 
+statutory authority is not moot.
+
+     Under the Act, applicants must list all "notices of violations 
+... incurred by the applicant in connection with any surface 
+coal mining operation during the three-year period prior to 
+the date of application."  30 U.S.C. s 1260(c).  The rule, 
+NMA points out, seeks information beyond the three-year 
+cutoff--namely, "a list of all outstanding violation notices 
+received prior to the date of the application by any surface 
+coal mining operation that is deemed to be owned or con-
+trolled by the applicant" regardless of the date.  This is true, 
+but not determinative.  NMA fails to appreciate the distinc-
+tion between violations incurred by the applicant and viola-
+tions incurred by entities owned or controlled by the appli-
+cant.  The three-year cutoff in s 1260(c) of the Act applies 
+only to violations by the applicant itself;  it does not place any 
+time limit on the other information s 778.14(c) of the regula-
+tions requires.  We have held that "the Act's explicit listings 
+of information required of permit applicants are not exhaus-
+tive, and do not preclude the Secretary from requiring the 
+states to secure additional information needed to ensure 
+compliance with the Act."  In re Permanent Surface Mining 
+
+Regulation Litig., 653 F.2d 514, 527 (D.C. Cir. 1981);  see 
+National Mining Ass'n v. Department of the Interior, 177 
+F.3d 1, 9 (D.C. Cir. 1999).  There is not the slightest doubt 
+that the information sought through the regulation will help 
+ensure compliance with the Act.  Under s 1260(c), a permit 
+may not be granted to an applicant if such related entities are 
+in violation of the Act at the time of the application and have 
+not taken steps to rectify the situation.  We therefore reject 
+NMA's attack on s 778.14(c).
+
+                                D.
+
+     This brings us to NMA's claim that the old rules violate 
+"state primacy."  By "state primacy," NMA refers to the 
+Act's giving power to state agencies to issue permits pursuant 
+to federally-approved state programs.  See 30 U.S.C. 
+s 1260(a).  The Department of the Interior is empowered to 
+approve or disapprove state programs, see 30 U.S.C. 
+s 1253(b), and to establish regulatory requirements for these 
+programs, see 30 U.S.C. s 1251(b).  But once the Secretary 
+approves a program, permits are to be issued and revoked by 
+the designated "regulatory authority," rather than the Interi-
+or Department.  See also Bragg v. West Virginia Coal Ass'n, 
+No. 99-2443, 2001 WL 410382, at *3-*4 (4th Cir. Apr. 24, 
+2001) (describing the "cooperative federalism" envisioned by 
+the statute).
+
+     According to NMA, the old rules "effectively strip[ped] the 
+state of its exclusive permitting authority under s 510 [of the 
+Act], prohibiting the state from issuing a permit if the 
+applicant [was] shown in the AVS as linked to:  unabated 
+violations issued by other states;  or violations issued by 
+OSM."  See Brief of Appellant at 51.  The offending rules 
+were s 773.23(b) and ss 773.24-.25, which NMA described as 
+prohibiting a "state from allowing the applicant to demon-
+strate that :  (1) it is not linked by ownership/control to the 
+alleged violator(s);  (2) that the violations have been abated;  
+or (3) that the violations are invalid."  Id.  In its supplemen-
+tal brief NMA admits that the rule (30 C.F.R. 
+s 773.25(b)(3)(i)) giving the Office of Surface Mining "plenary 
+
+authority" over information on the AVS has been removed.  
+We think the rest of NMA's state primacy challenge is also 
+moot.
+
+     NMA also contended that state primacy was undercut by 
+30 C.F.R. s 773.23(b)(2) (1999), which, it claimed, barred 
+states from issuing permits when the AVS showed links to 
+unabated violations issued by other states or by OSM.  It is 
+by no means clear that the new regulations continue this 
+practice.  Under the new s 773.11(a), a regulatory authority 
+is required to review information from the AVS as well as 
+"any other available information" to establish an applicant's 
+compliance history.  AVS Rules, 65 Fed. Reg. at 79,664 (to be 
+codified at 30 C.F.R. s 773.11).  Section 773.12 directs the 
+regulatory authority to make its decision based on the infor-
+mation gathered under s 773.11.  See id. (to be codified at 30 
+C.F.R. s 773.12).  There is no readily apparent provision 
+indicating that information from the AVS is to be given 
+controlling weight.  Likewise, there is nothing in the new 
+s 773.23 that indicates that AVS information should control a 
+regulatory authority's decision to rescind a permit as improvi-
+dently issued.  See AVS Rules, 65 Fed. Reg. at 79,665 (to be 
+codified at 30 C.F.R. s 773.23).  Since nothing indicates that 
+the new regulations require AVS information to control state 
+decisions, the remainder of NMA's state primacy challenge is 
+moot.
+
+                                E.
+
+     Because rules of the Interior Department's Office of Hear-
+ing and Appeals (OHA) were not changed by the new rule-
+making, NMA's original challenge to those rules--43 C.F.R. 
+ss 4.1374 and 4.1384--presents a live controversy.  Both 
+rules place the "burden of persuasion" on those challenging 
+the validity of a decision to rescind a permit as improvidently 
+granted (s 4.1374(b)), and to those challenging decisions of 
+the Office of Surface Mining regarding an ownership or 
+control link in the AVS or the status of a violation reported 
+there (s 4.1384(b)).
+
+     When it originally promulgated these regulations, the Of-
+fice of Surface Mining thought that such an allocation of the 
+
+burden of proof was permitted by s 7(c) of the Administrative 
+Procedure Act.  See Use of the Applicant/Violator System in 
+Surface Coal Mining and Reclamation Permit Approval;  
+Standards and Procedures for Ownership and Control Deter-
+minations, 59 Fed. Reg. 54,306, 54,360 (Oct. 28, 1994) [herein-
+after Use of the AVS] (citing APA s 7(c), 5 U.S.C. s 556(d)).  
+Relying on our decision in Environmental Defense Fund, Inc. 
+v. EPA, 548 F.2d 998 (D.C. Cir. 1976), it concluded that "OSM 
+properly bears only the burden of going forward with proof, 
+not the ultimate burden of persuasion."  Use of the AVS, 59 
+Fed. Reg. at 54,360.
+
+     Section 7(c) says that "[e]xcept as otherwise provided by 
+statute, the proponent of a rule or order has the burden of 
+proof."  5 U.S.C. s 556(d).  In Environmental Defense Fund, 
+we interpreted "burden of proof" to mean only the burden of 
+production or "going forward."  See Environmental Def. 
+Fund, 548 F.2d at 1004 & n.14.  The Supreme Court, in dicta, 
+later agreed with us.  See NLRB v. Transportation Mgmt. 
+Corp., 462 U.S. 393, 404 n.7 (1983).  However, shortly before 
+the Department of the Interior approved the rules in this 
+case, the Supreme Court changed its position.  In Greenwich 
+Collieries, it concluded that the "burden of proof" in s 7(c) 
+meant "the burden of persuasion."  Director, Office of Work-
+ers' Comp. Programs v. Greenwich Collieries, 512 U.S. 267, 
+276 (1994).
+
+     NMA argues that the regulations cannot be valid because 
+they shift the burden of proof, in violation of the Administra-
+tive Procedure Act.  But this argument only succeeds if one 
+ignores the other language in s 7(c).  The statute says that 
+the proponent of an order bears the burden of proof "[e]xcept 
+as otherwise provided by statute."  5 U.S.C. s 776(d) (empha-
+sis added).  We have already concluded that the power to 
+suspend permits that were improvidently granted derives 
+from OSM's power to "order the suspension, revocation, or 
+withholding of any permit for failure to comply with any of 
+the provisions of this chapter or any rules and regulations 
+adopted pursuant thereto."  30 U.S.C. s 1211(c)(1);  National 
+Mining Ass'n v. United States Dep't of the Interior, 177 F.3d 
+1, 9 (D.C. Cir. 1999).  We have also concluded that the 
+
+obligation to comply with the provisions of this chapter means 
+the obligation to comply with the requirements of 30 U.S.C. 
+s 1260(c).  That section provides that when the regulatory 
+authority is aware of an "operation owned or controlled by 
+the applicant [that] is currently in violation" of state or 
+federal rules, "the permit shall not be issued until the appli-
+cant submits proof that such violation has been corrected or 
+is in the process of being corrected."  30 U.S.C. s 1260(c) 
+(emphasis added).  In short, Congress has allocated the 
+burden of proving compliance with the Act.  Cf. Steadman v. 
+SEC, 450 U.S. 91, 96-97 (1981) (applying standards of proof 
+from s 7(c) because Congress had not otherwise provided).  
+If, at any point, a permit-holder is unable to submit proof that 
+its permit is not linked to a violator, it is no longer in 
+compliance with s 1260(c) and the Secretary may rescind the 
+permit.  It follows that when challenging OSM's decision to 
+rescind a permit as improvidently granted, the permit holder 
+properly bears the burden of persuasion.
+
+     43 C.F.R. s 4.1374 covers only decisions to rescind improvi-
+dently granted permits.  But the same allocation of burdens 
+of proof is made in 43 C.F.R. s 4.1384 (1999), which governs 
+review of OSM's decisions regarding the existence and status 
+of ownership and control links in the AVS.  NMA contends 
+that OSM should bear the burden of proving that a linkage 
+should be entered into the AVS at all.  To NMA, the OSM is 
+the "proponent" of an administrative order to enter informa-
+tion into the AVS, and s 4.1384 is invalid even if s 4.1374 is 
+valid.  But this view distorts the statute:  30 U.S.C. s 1260(c) 
+places the burden of proof on the applicant, and no one else.  
+The regulatory authority deciding whether to issue a permit 
+uses the AVS as a source of information about potential 
+violations.  If NMA's view were correct, then the question 
+whether the permit should be issued would shift from a 
+proceeding before a state regulatory agency where the appli-
+cant bears the burden of proof to a federal proceeding over 
+the accuracy of the AVS information where OSM bears the 
+burden of proof.  That result is inconsistent with the statute.
+
+     It is true that the Interior Department did not explicitly 
+rely on the foregoing rationale in its preamble to the OHA 
+rules.  Ordinarily, when an agency reaches the proper conclu-
+sion for the wrong reasons, the courts remand the rule to the 
+agency for further consideration.  See SEC v. Chenery Corp., 
+318 U.S. 80, 95 (1943).  However, we do not do so here.  
+When the language of the statute commands a particular 
+outcome--as 30 U.S.C. ss 1211 and 1260 do here--the fact 
+that the agency states an incorrect legal rationale is insuffi-
+cient to require a remand.  See Motion Picture Ass'n of Am. 
+v. Oman, 969 F.2d 1154, 1158 (D.C. Cir. 1992).  In this case, a 
+remand would be pointless.  As Judge Friendly stated, 
+"Chenery does not mean that any assignment of a wrong 
+reason calls for reversal and remand;  this is necessary only 
+when the reviewing court concludes there is a significant 
+chance that but for the error the agency might have reached 
+a different result."  Henry J. Friendly, Chenery Revisited:  
+Reflections on Reversal and Remand of Administrative Or-
+ders, 1969 Duke L.J. 199, 211.
+
+                               II.
+
+     We therefore vacate the district court's judgment with 
+regard to the following challenges:  (1) the due process chal-
+lenge to "the rules" as a whole;  (2) the challenge to the rules' 
+lack of provisional permits;  (3) the challenge to 30 C.F.R. 
+s 773.5 (1999) as vague as well as the lack of rebuttal 
+standards;  (4) the claim that the rules--specifically, 30 
+C.F.R. ss 773.23, 773.24 & 773.25 (1999)--violated the Act's 
+"state primacy" requirement.  With regard to each of these 
+challenges, we order that the district court dismiss them as 
+moot.  We affirm the district court's ruling that 30 C.F.R. 
+s 778.14 (1999) does not impermissibly require extra informa-
+tion, and that the Office of Hearing and Appeals rules, 43 
+C.F.R. ss 4.1374, 4.1384 (1999), do not improperly shift the 
+burden of proof.
+
+                                                                       So ordered.
+
+    

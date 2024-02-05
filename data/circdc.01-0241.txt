@@ -1,0 +1,474 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 2, 2001   Decided December 21, 2001 
+
+                           No. 00-1328
+
+                    Saba Partnership, et al., 
+                    Appellants/Cross-Appellees
+
+                                v.
+
+            Commissioner of Internal Revenue Service, 
+                     Appellee/Cross-Appellant
+
+                        Consolidated with 
+                             00-1385
+
+            Appeals from the United States Tax Court 
+                   (No. IRS-1470-97;  1471-97)
+
+     Thomas C. Durham argued the cause for appellants/cross-
+appellees.  With him on the briefs was Joel V. Williamson.
+
+     Richard Farber, Attorney, U.S. Department of Justice, 
+argued the cause for appellee/cross-appellant.  With him on 
+the briefs was Edward T. Perelmuter, Attorney.  Stuart L. 
+
+Brown, Attorney, Internal Revenue Service, entered an ap-
+pearance.
+
+     Before:  Edwards, Rogers and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Tatel, Circuit Judge:  Through an elaborate scheme involv-
+ing partnerships with a foreign bank operating in a tax-free 
+jurisdiction, a diversified U.S. company generated over $190 
+million worth of tax losses while incurring an actual loss of 
+only $5 million.  The Tax Court found that because certain of 
+the partnerships' transactions lacked economic substance, 
+they created no gains or losses for federal tax purposes.  At 
+the same time, the Tax Court declined to address the govern-
+ment's alternative contention that both partnerships were 
+shams for federal tax purposes.  The partnerships, together 
+with the company, now appeal, and the government cross-
+appeals.  We vacate and remand to the Tax Court for recon-
+sideration in light of our recent decision in ASA Investerings 
+Partnership v. Commissioner, 201 F.3d 505 (D.C. Cir. 2000), 
+where we invalidated what appears to be a similar--perhaps 
+even identical--tax shelter on the grounds that the entire 
+partnership, not merely the specific transactions at issue, was 
+a sham for federal tax purposes.
+
+                                I.
+
+     This case involves the legality of a tax shelter marketed by 
+Merrill Lynch to a small number of U.S. corporations.  De-
+signed for corporations anticipating large capital gains, the 
+shelter takes advantage of certain Internal Revenue Code 
+provisions and related Treasury Department regulations that 
+govern installment sales where the taxpayer lacks advance 
+knowledge of the installment payments' value.  See 26 I.R.C. 
+s 453;  Temp. Treas. Reg. s 15A.453-1(c)(3)(i) (1984).  To 
+build such a shelter, the Merrill Lynch client forms a partner-
+ship with a foreign corporation operating in a tax-free juris-
+diction.  This partnership then buys and immediately sells a 
+debt instrument on an installment basis.  Although the trans-
+action is basically a wash, generating hardly any economic 
+gain or loss, Merrill Lynch's lawyers' interpretation of the 
+
+relevant provisions allows the partnership to claim a massive 
+tax gain, which is allocated to the foreign partner, and a 
+massive tax loss, which the U.S. corporation keeps for itself.  
+A detailed description of this shelter and the code provisions 
+on which it depends appears in ASA, 201 F.3d at 506-8.  In 
+that case, we affirmed a Tax Court determination that anoth-
+er Merrill Lynch client that had adopted the shelter, Allied-
+Signal, had "not entered into a bona fide partnership" for 
+federal tax purposes.  Id. at 515.
+
+     The facts of this case appear similar to those of ASA.  In 
+1990, appellant Brunswick Corporation, a diversified manufac-
+turer, decided to divest itself of certain business groups.  
+Because the sales would generate massive capital gains, Mer-
+rill Lynch proposed that Brunswick generate compensatory 
+paper losses by forming a partnership with a foreign bank.  
+In an extensive memorandum, Judith P. Zelisko, an attorney 
+and Brunswick's Director of Taxes, laid out step by step how 
+Merrill Lynch's proposal would "generate sufficient capital 
+losses to offset the capital gain which w[ould] be generated on 
+the sale of [certain divisions]."  Saba P'ship v. Comm'r, 78 
+T.C.M. (CCH) 684, 689.  Because of this document's signifi-
+cance, we quote it in substantial part:
+
+     Step 1:
+     
+     BC [Brunswick] and an unrelated foreign partner [FP] 
+     would form a Partnership no later than March 1, 1990 
+     with BC contributing $20 million in cash and the FP 
+     contributing $180 million in cash.  The Partnership 
+     would have a fiscal year-end of March 31st since that 
+     would be the year-end of the FP, the majority Partner.
+     
+     Step 2:
+     
+     Partnership buys a private placement note for $200 
+     million with the cash in the Partnership and holds the 
+     note for one month.
+     
+     Step 3:
+     
+     Before March 31, 1990, the Partnership would sell the 
+     $200 million private placement note for $160 million in 
+     cash and five-year contingent note with an assumed fair 
+     
+     market value (fmv) of $40 million.  Under this contingent 
+     note, payments would be made to the Partnership over a 
+     five-year period equal to [a variable interest rate] times a 
+     fixed notional principal....  
+     
+     The Partnership would recognize gain on the sale of the 
+     private placement note calculated as follows:
+     
+          Cash                                    160.0      
+          Basis                                     33.3    
+          (1/6 of 200)        
+                                              _________
+          Gain                                    126.7     
+                    
+          BC's Gain                          12.67    
+          FP's Gain                               114.03  
+                                             _________
+          Total Gain                              126.70    
+     BC's share of the gain equals its 10% ownership in the 
+     Partnership for a taxable gain to BC of $12.67 million in 
+     1990.
+     
+     Step 4:
+     
+     In April 1990 or later, (i.e., until there has been some 
+     movement in the value of the contingent note) BC buys 
+     50% of FP's interest in the Partnership for $90 million, 
+     assuming that the fmv of the contingent note is still $40 
+     million.  With this purchase, BC's basis in its Partner-
+     ship interest is $122.67 million calculated as follows:
+     
+          BC's initial investment            $20.0     million
+          Gain                            12.67   
+          Purchase of 50% of FP's       
+          interest                                  90.00
+                                             _________
+                          122.67    
+
+     Step 5:
+     
+     The Partnership distributes the contingent note to BC 
+     assuming a fmv of $40 million.  In addition, the Partner-
+     ship would distribute approximately $32.72 million in 
+     cash to FP which is the equivalent cash distribution to 
+     FP given its percentage ownership.
+          Step 6:
+     
+     BC sells the contingent note for cash.  This sale of the 
+     contingent note by BC generates the capital loss.
+     
+          BC's basis in the note                  $122.67    
+          FMV of the note                        40.00 
+                                             _________
+          Capital loss                                82.67 
+          Net Gain on sale of FP note            12.67 
+                                              _________
+          Net Capital loss                                      70.00    
+     After the sale of the note, BC's tax basis in the Partner-
+     ship is zero and the Partnership still has 127.28 in cash 
+     (160-32.72).
+     
+     Step 7:
+          In April 1991, the Partnership will be terminated ... 
+     
+Id. at 689-90.  The Zelisko memorandum also notes that 
+Merrill Lynch would earn a fee of "5-10% of the tax savings";  
+that the fee "would not be due if the tax law changed prior to 
+implementation";  that "[l]egal fees for BC and operating 
+expenses of the Partnership ... would be paid by BC";  and 
+that the foreign partner would earn "40-75 basis points on 
+the FP's equity investment."  Id.  Finally--and ironically--
+the memorandum reminds Zelisko's superiors that "[t]here 
+cannot have been any agreements, negotiations, or under-
+standings of any kind among the Partners or their represen-
+tatives regarding the possible liquidation of the Partnership 
+or the assets to be distributed to each respective Partner 
+upon termination and liquidation of the Partnership or the 
+transactions described in Steps 4 and 5."  Id.
+
+     To execute the scheme, Merrill Lynch enlisted the same 
+Dutch bank, Algemene Bank Netherlands, N.V. (ABN), that 
+had served as the foreign partner in the shelter at issue in 
+ASA.  See ASA, 201 F.3d at 508.  Merrill Lynch drafted a 
+"credit proposal" for ABN that, like the Zelisko memoran-
+dum, outlined the partnership's investment steps, including 
+(1) the purchase of highly rated private placement notes 
+(PPNs);  (2) the sale of the PPNs for cash and contingent 
+notes;  and (3) Brunswick's gradual buy-down of ABN's part-
+nership interest.  Id. at 692.  In a separate memorandum to 
+ABN, Merrill Lynch confirmed that "ABN will receive ... an 
+
+upfront fee [of] around $600,000."  Id.  Previously, Merrill 
+Lynch had assured ABN that in these types of deals, it would 
+face "virtually no credit risk [since] the paper invested in 
+[would] be of the highest credit quality and [would] have 
+short term maturities," and that interest rate risk would be 
+eliminated by a series of "perfect hedges."  "Legal and tax 
+risk," Merrill Lynch assured ABN, "will be covered by opin-
+ions of legal and tax counsel."  Id.
+
+     Because Brunswick ultimately sold more assets than origi-
+nally anticipated, it implemented the scheme outlined above 
+on two separate occasions using two separate partnerships:  
+Saba Partnership and Otrabanda Investerings Partnership.
+
+                         Saba Partnership
+
+     On February 26, 1990, Brunswick contributed $20 million, 
+and ABN contributed $180 million to the newly formed Saba 
+Partnership (Zelisko memorandum, Step 1).  Id. at 693.  
+Saba immediately--in fact, the very same day--bought $200 
+million worth of 5-year PPNs (Step 2).  Merrill Lynch then 
+began to negotiate the sale of the notes and, on March 6, 
+transmitted a summary of terms to two potential buyers.  On 
+March 23, just prior to the close of Saba's first taxable year, 
+Saba sold the PPNs, worth $200 million, for an immediate 
+cash payment of $160 million and four indefinite debt instru-
+ments, known as LIBOR (London Interbank Offering Rate) 
+notes, worth approximately $38.5 million (Step 3).  Id. at 695.  
+Saba could have reduced its $1.5 million loss by selling the 
+PPNs to a money market fund and then purchasing LIBOR 
+notes, but because such funds cannot issue LIBOR notes, 
+Saba eliminated them from consideration.  Id.  Saba could 
+also have eliminated the loss by investing in LIBOR notes 
+directly instead of first purchasing, then immediately selling, 
+PPNs.  Id. at 696.
+
+     Because LIBOR varies, Saba could not determine with 
+certainty the aggregate selling price of the PPNs and thus 
+reported the sale as an installment sale.  Assuming it would 
+receive payments over a period of six years (year of sale plus 
+five years of LIBOR payments), Saba calculated its annual 
+basis at $33,333,333, yielding a massive tax gain of 
+
+$126,666,667, ninety percent of which it allocated to ABN, the 
+foreign, tax-free "partner."  Id.  Pleased with the result, 
+Brunswick's Vice-President of Finance, William R. McMana-
+man, prepared a "Foreign Partnership Tax Update" predict-
+ing that Brunswick would ultimately realize capital losses of 
+$80 million from the Saba deal and nearly $60 million in its 
+second, yet-to-be formed partnership, Otrabanda.  Id. at 696-
+97.
+
+     In July 1990, Brunswick purchased 50% of ABN's interest, 
+giving Brunswick a 55% stake (Step 4).  Id. at 697.  Around 
+the same time, it entered into a "consulting" agreement with 
+ABN under which Brunswick paid ABN $750,000.  In August, 
+Saba distributed the three LIBOR notes to Brunswick and 
+cash to ABN (Step 5).  Id.  In determining the amount of 
+cash owed to ABN, Saba valued the LIBOR notes in such a 
+way as to eliminate ABN's portion of the $1.5 million loss 
+from the sale of the PPNs.  In addition, Brunswick added a 
+$535,000 "fee."  Id.  Brunswick then sold the three LIBOR 
+notes at a slight discount for $26 million (Step 6).  Brunswick 
+calculated the tax basis for all four notes as $166,666,667 
+($200 million minus the already used basis of $33,333,333).  
+Since it had only received three of the four LIBOR notes, 
+Brunswick multiplied this number by 3/4 to obtain its actual 
+basis of $125 million, which it then reduced to $123 million for 
+reasons not here relevant.  Id. at 697-98.  Using this basis, 
+Brunswick calculated its paper loss at $84 million (basis in the 
+three notes minus the notes' sale price minus its small share 
+of the paper gain reported by Saba from the sale of the 
+PPNs), even though it actually lost probably no more than 
+$2.5 million.  Id. at 698.
+
+     In September, Brunswick purchased an additional partner-
+ship share from ABN, bringing its total share to approximate-
+ly 90%.  Id.  In June, Brunswick dissolved Saba and, after a 
+series of complicated transactions not here relevant, ended up 
+with the remaining LIBOR note, which it sold (Step 7).  Id. 
+at 698-99.  After computing its tax basis as described above, 
+Brunswick recorded a tax loss of $32 million, even though it 
+actually lost only about $700,000.  Id. at 700.  Throughout all 
+
+these transactions, Brunswick protected itself from LIBOR 
+volatility by a series of hedges.  Id. at 701.
+
+                Otrabanda Investerings Partnership
+
+     In June 1990, Brunswick began discussing the possibility of 
+forming another partnership.  Once again, Merrill Lynch, 
+acting as Brunswick's agent, sent ABN a memorandum prom-
+ising "total remuneration [of] $600,000" to ABN and outlining 
+a specific "calendar" for the transaction, beginning with the 
+purchase of PPNs and ending with a proposed termination of 
+the partnership in July 1991.  Id. at 701-02.  With the 
+confidence of one whose "[l]egal ... risk" is "covered by 
+opinions of ... tax counsel," id. at 692, ABN's Risk Manage-
+ment Department approved the transaction solely on the 
+condition that ABN reserved the right to liquidate the portfo-
+lio if its interest in the partnership was not reduced according 
+to the proposed schedule, id. at 702.
+
+     On June 25, ABN and Brunswick contributed $135 million 
+and $15 million respectively to the newly formed Otrabanda 
+Investerings Partnership.  Id. at 703.  Four days later, Otra-
+banda bought four certificates of deposit for $100 million, 
+selling them three weeks later for $80 million in cash and four 
+LIBOR notes, which it then hedged.  Id. at 703-04.  Again, 
+had Otrabanda invested directly in the LIBOR notes, it would 
+have avoided the $750,000 loss attributable to the CDs' lack of 
+liquidity.  Id.
+
+     The remaining steps are familiar:  The use of LIBOR notes 
+allowed the transaction to be reported as a six year "install-
+ment sale," yielding an annual basis of $16,666,666 and con-
+comitant paper gain of $63,333,333, the vast majority of which 
+Saba allocated to ABN.  Id. at 705.  Following Brunswick's 
+purchase of 50% of ABN's interest, Otrabanda distributed the 
+LIBOR notes to Brunswick and an amount of cash to ABN 
+equal to the fair value of the LIBOR notes plus ABN's share 
+of the loss associated with the CDs' sale.  Id.  Brunswick 
+sold the notes for only about $17.5 million.  Because it 
+calculated its basis as $83,333,333, the sale yielded a tax loss 
+of approximately $60 million (tax basis minus sales price of 
+
+the notes and Brunswick's share of the original tax gain on 
+the sale of the CDs).  In actuality, Brunswick lost only about 
+$1.7 million--the difference between the value of the LIBOR 
+notes and their sale price.  Id. at 705-06.  In December, 
+Brunswick bought a further portion of Otrabanda bringing its 
+total interest to approximately 90%, amended the agreement 
+to give it total control over Otrabanda and paid ABN a 
+$645,000 "control premium."  Id. at 706.  In June 1991, one 
+month ahead of schedule, Brunswick terminated Otrabanda.  
+Id.
+
+     Based on the Saba and Otrabanda transactions, Brunswick 
+claimed tax losses of nearly $195 million even though it 
+actually lost only about $5 million.  These massive paper 
+losses piqued the interest of the Commissioner, who proposed 
+various adjustments to the partnerships' returns based on 
+two alternative theories:  that the installment sale transac-
+tions should be disregarded for federal tax purposes because 
+they had no rational economic motivation except tax avoid-
+ance--that is, they lacked "economic substance";  or that 
+Brunswick formed Saba and Otrabanda solely for tax reasons 
+and therefore both partnerships, in their entireties, should be 
+disregarded as "shams" for federal tax purposes.  Id. at 710.
+
+     Brunswick, as Saba and Otrabanda's "tax matters partner," 
+filed a petition for readjustment in the Tax Court.  Because 
+our opinion in ASA had not yet been released, the Tax Court 
+followed the Third Circuit's opinion in ACM Partnership v. 
+Commissioner, 157 F.3d 231 (3d Cir. 1998), which struck 
+down a virtually identical Merrill Lynch tax shelter on the 
+grounds that the installment sale transactions lacked econom-
+ic substance.  Mirroring the Third Circuit's reasoning, the 
+Tax Court held the installment sales in this case to be 
+"economic shams."  Saba P'ship v. Comm'r, 78 T.C.M. (CCH) 
+684, 722.
+
+     Brunswick and the partnerships now appeal, arguing that 
+the transactions in fact had economic substance.  The Com-
+missioner, relying on ASA, cross-appeals the Tax Court's 
+refusal to find Saba and Otrabanda invalid partnerships.
+
+                               II.
+
+     All parties agree that the sham transaction and sham 
+partnership approaches yield different results.  See Appel-
+lee's Br. at 27 n.12 ("alternative theor[y] would produce 
+adjustments to the returns ... not identical to the adjust-
+ments resulting from the Tax Court's decision");  Appellant's 
+Reply Br. at 43 ("The Commissioner is asking this Court to 
+reach a different result from the Tax Court's judgment.")  
+Although the Commissioner seemed to concede at oral argu-
+ment that under either approach, Brunswick could deduct 
+actual losses from the transactions, we assume (without decid-
+ing) that different adjustments would result from the two 
+approaches.  Thus, we may not simply affirm on an alterna-
+tive ground.  Cf. EEOC v. Aramark Corp., Inc., 208 F.3d 266, 
+268 (D.C. Cir. 2000) ("[B]ecause we review the district court's 
+judgment, not its reasoning, we may affirm on any ground 
+properly raised.").  At a minimum, we would simply remand 
+to the Tax Court for reconsideration in light of ASA.
+
+     Urging us to go further, the Commissioner argues that we 
+should apply ASA, find the partnerships to be shams, and 
+remand for the limited purpose of making any necessary 
+adjustments.  In response, Brunswick argues that the ques-
+tion of whether "an entity should be regarded as a partner-
+ship for federal tax purposes is inherently factual."  Appel-
+lant's Reply Br. at 38.  Although we agree that whether a 
+valid partnership exists for tax purposes is a fact-intensive 
+inquiry, it is a determination that we may make in cases 
+where the Tax Court has "ma[d]e adequate fact findings."  
+Transp. Mfg. & Equip. Co. v. Comm'r, 374 F.2d 173, 177 (8th 
+Cir. 1967) (cited in Appellant's Reply Br. at 39).
+
+     According to Brunswick, the Tax Court's findings are inad-
+equate because of "significant differences" between the ac-
+tions of Brunswick in this case and those of Allied Signal in 
+ASA.  Appellant's Reply Br. at 44.  Though we agree that 
+the differences Brunswick points to could be significant if 
+they existed, we have our doubts that they do.  Brunswick 
+claims that it "did not promise ABN a 'specified return,' " but 
+
+the record demonstrates that Brunswick, through its agent 
+Merrill Lynch, promised ABN $600,000 for participating in 
+Saba and the same for participating in Otrabanda.  See supra 
+at 5-6, 8.  Brunswick claims that it "did not agree to pay 
+Saba's and Otrabanda's expenses," but the Zelisko memoran-
+dum makes clear that Brunswick understood that it would 
+pay "operating expenses." See supra at 5.  Brunswick claims 
+that "ABN understood it would share in Saba's and Otraban-
+da's losses," but record evidence demonstrates that Saba and 
+Otrabanda eliminated ABN's share of the loss occasioned by 
+the sale of the PPNs and CDs through the valuation of the 
+LIBOR notes.  See supra at 7, 8.  Brunswick claims that 
+"there were no agreements between the parties contrary to 
+their written [partnership] agreement" like the "Bermuda 
+Agreement" in ASA, but the record demonstrates not only 
+that Merrill Lynch, Brunswick's agent, sent written proposals 
+to ABN outlining the future actions of Saba and Otrabanda, 
+but that ABN approved these proposals.  See supra at 5-6, 8.  
+As far as we can tell, the only difference between this case 
+and ASA is that Brunswick and ABN did not meet in 
+Bermuda.
+
+     In any case, ASA makes clear that "the absence of a nontax 
+business purpose is fatal" to the argument that the Commis-
+sioner should respect an entity for federal tax purposes.  
+ASA, 201 F.3d at 512.  Here, the Tax Court specifically found 
+"overwhelming evidence in the record that Saba and Otraban-
+da were organized solely to generate tax benefits for Bruns-
+wick."  Saba P'ship, 78 T.C.M. (CCH) at 718 (emphasis 
+added).  Arguably, this broader finding subsumes any factual 
+differences that might exist between this case and ASA.
+
+     In the end, however, we will not, as the Commissioner 
+urges, affirm on the basis of ASA.  Although the present 
+record might strongly suggest that Saba and Otrabanda were 
+sham partnerships organized for the sole purpose of generat-
+ing paper tax losses for Brunswick, fairness dictates that we 
+ought not affirm on this ground.  In particular, in presenting 
+its case in the Tax Court, Brunswick may have acted on the 
+mistaken belief that the Supreme Court's decision in Moline 
+Properties, Inc. v. Commissioner, 319 U.S. 436 (1943), estab-
+
+lished a two-part test under which Saba and Otrabanda must 
+be respected simply because they engaged in some business 
+activity, an interpretation that ASA squarely rejected, see 
+ASA, 201 F.3d at 512 ("[C]ourts have understood the 'busi-
+ness activity' reference in Moline to exclude activity whose 
+sole purpose is tax avoidance....  Thus, what the petitioner 
+alleges to be a two-pronged inquiry is, in fact, a unitary test 
+... under which the absence of a nontax business purpose is 
+fatal.").
+
+     The Tax Court's judgment is vacated and the case remand-
+ed for reconsideration in light of ASA.
+
+                                                                 So ordered.
+
+          

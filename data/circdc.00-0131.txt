@@ -1,0 +1,475 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 15, 2000       Decided June 27, 2000 
+
+                           No. 99-1169
+
+               Missouri Public Service Commission, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+             Kansas Corporation Commission, et al., 
+                           Intervenors
+                        Consolidated with 
+                         99-1171, 99-1241
+
+            On Petitions for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+     Charles F. Wheatley, Jr. and David D'Alessandro argued 
+the cause and filed the briefs for petitioners Kansas Cities 
+and the Missouri Public Service Commission.  Kelly A. Daly 
+entered an appearance.
+
+     Gary W. Boyle argued the cause and filed the briefs for 
+petitioner/intervenor Williams Gas Pipelines Central, Inc.  
+Beverly H. Griffith, Gregory Grady and Joseph S. Koury 
+entered appearances.
+
+     Andrew K. Soto, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With him on 
+the brief were John H. Conway, Deputy Solicitor and Susan 
+J. Court, Acting Deputy Solicitor.  Jay L. Witkin, Solicitor, 
+entered an appearance.
+
+     Before:  Williams, Henderson and Rogers, Circuit Judges.
+
+             Opinion for the Court filed by Circuit Judge Williams.
+
+     Williams, Circuit Judge:  In 1993 Williams Natural Gas 
+Company,1 a natural gas pipeline company within the jurisdic-
+tion of the Federal Energy Regulatory Commission, filed for 
+a general rate increase under s 4 of the Natural Gas Act, 15 
+U.S.C. s 717c.  The proceeding closed in 1999 with the 
+Commission's third rehearing order.  Williams Natural Gas 
+Co., 86 FERC p 61,323 (1999) ("Third Rehearing").  That and 
+the underlying orders are attacked from two sides.  A host of 
+Kansas cities, the Missouri Public Service Commission and 
+others, which we will collectively call the "Public Service 
+Commission," attack the allowed rate of return.  They argue 
+that the Commission wrongly refused (a) to impute to 
+Williams the capital structure of its corporate parent, or 
+alternatively, (b) to adjust Williams's return on equity down-
+ward to reflect its subsidiary status and the "thickness" of its 
+equity ratio in comparison to that of firms in the proxy group 
+used by the Commission to calculate the return on equity.  
+The pipeline itself attacks on an unrelated issue, objecting to 
+
+__________
+     1 In the course of the proceedings Williams Natural Gas Compa-
+ny became Williams Gas Pipelines Central, Inc.  We use "Williams" 
+as shorthand.
+
+the Commission's method of projecting the costs for cleaning 
+up PCB (polychlorinated biphenyl).
+
+     We cannot say that the Commission's use of Williams's 
+capital structure and the median return on equity for the 
+proxy group was arbitrary and capricious.  As to clean-up 
+costs, the Commission no longer defends the $1.4 million 
+annual cost recovery as a figure representative of actual cost, 
+and its decision does not purport to rely on any procedural 
+default by Williams;  we therefore grant Williams's petition 
+and remand for further proceedings.
+
+Capital   structure and rate of return on equity
+
+     The Public Service Commission's brief offers a non-
+exhaustive, but here uncontested, explanation of the role of 
+capital structure and equity rate of return.  It points out that 
+a firm's return on equity must be higher than the return on 
+debt because (1) any dividends are paid out of after-tax 
+earnings, whereas the firm can deduct interest on debt, and 
+(2) equity is riskier.  Because the overall cost of equity is the 
+product of the equity share of capital and the equity rate of 
+return, these factors imply that an increase in the equity-debt 
+ratio tends to increase a firm's allowable overall rate of 
+return.  But there is an offset:  Because debt service has 
+priority, the higher the proportion of equity capital, the lower 
+the financial risk for the firm's stock, and thus, in this 
+respect, the lower the necessary rate of return.  See also 
+Richard J. Pierce, Jr. & Ernest Gellhorn, Regulated Indus-
+tries 136-37 (3d ed. 1994).
+
+     Williams is a wholly owned subsidiary of The Williams 
+Companies ("TWC").  Williams's own capital structure is 
+35.71% debt and 64.29% equity, while TWC's is 50% debt, 3% 
+preferred equity, and 47% common equity.  Assuming use of 
+the same equity rate of return, FERC's use of TWC's ratio 
+would be an advantage for Williams's customers.
+
+     In calculating the equity rate of return of a wholly owned 
+subsidiary, the Commission has a special problem.  Since its 
+shares are not traded in the market, they have no market 
+price from which to infer their rate of return.  So the 
+
+Commission looks instead to a proxy group of supposedly 
+similar firms whose stock is traded, calculates their return on 
+equity with the "DCF" or "discounted cash flow" method, and 
+then tacks the resulting number onto the equity of the 
+subsidiary.  See generally Williston Basin Inter. Pipeline 
+Co. v. FERC, 165 F.3d 54, 56-57 (D.C. Cir. 1999);  North 
+Carolina Utilities Comm'n v. FERC, 42 F.3d 659, 661 (D.C. 
+Cir. 1994).
+
+     Here the Commission used Williams's capital structure.  It 
+found the company's business risk average, and, though not 
+explicitly so labelling its financial risk, held that its overall 
+risk (the amalgam of the two) was not outside the "broad 
+middle range of average risk."  Third Rehearing, 86 FERC 
+p 61,323, at 61,860-61.  It thus allowed Williams the median 
+rate of return of the proxy group.  In doing so, it made no 
+adjustment to reflect the fact that Williams's equity ratio was 
+a good deal thicker than the average of the proxy group (and 
+therefore presumably less risky).  Indeed, Williams's ratio 
+was higher than the highest equity ratio of the proxy group--
+64%, compared with 42% and 62% for the average and 
+highest ratio of the proxy group, respectively.2
+
+     We review the challenge under the arbitrary and capricious 
+standard of the Administrative Procedure Act.  5 U.S.C. 
+s 706(2)(A).  The Commission must consider the relevant 
+factors and draw "a rational connection between the facts 
+found and the choice made."  Williston Basin, 165 F.3d at 60 
+(citation and quotation marks omitted).  On the technical 
+aspects of ratemaking FERC's decisions necessarily enjoy 
+considerable deference.  Public Service Comm'n v. FERC, 
+813 F.2d 448, 451 (D.C. Cir. 1987).
+
+     The attack on the Commission's refusal to use TWC's 
+capital structure opens with the "double leveraging" theory.  
+The theory's basic concept is that the true cost of a subsid-
+iary's equity capital is the overall cost of the parent's capital.  
+Accordingly, the cost of the subsidiary's equity should be 
+computed as the weighted average of the parent's debt and 
+equity costs.  Otherwise, says the theory, shareholders of the 
+__________
+     2 The proxy companies and their equity ratios were:  Sonat, Inc. 
+(62%), TWC (47%), Enron Corporation (43%), Panhandle Eastern 
+Corporation (45%), Coastal Corporation (39%), and Transcontinen-
+tal Energy Corporation (16%).
+
+parent receive not only the higher equity returns associated 
+with the parent's equity, but an artificial (doubly leveraged) 
+return on the subsidiary's equity.
+
+     Although the Commission in the first rehearing order opted 
+in favor of using TWC's capital structure, Williams Natural 
+Gas Co., 80 FERC p 61,158 (1997) ("First Rehearing"), even 
+then it rejected double leveraging as a rationale:  "The rate of 
+return to a pipeline should not depend on who owns the 
+pipeline, nor on how that owner, whether a holding company 
+or individual stockholders, financed its investment."  Id. at 
+61,682;  see also Third Rehearing, 86 FERC p 61,323, at 
+61,858-59.  The double leveraging theory would in principle 
+be applicable to a pipeline owned by a single individual, or by 
+a group of investors, requiring the Commission to pursue its 
+inquiry into these owners' finances.  Further, an expert 
+quoted by the Commission makes the point that the pipeline 
+investment's true opportunity cost does not depend on the 
+capital structure of the investor, but rather on the foregone 
+risk-adjusted returns of alternative investments.  See James 
+E. Brown, "Double Leverage:  Indisputable Fact or Precari-
+ous Theory," Public Utilities Fortnightly 26, 29 (May 9, 1974), 
+cited at First Rehearing, 80 FERC p 61,158, at 61,682 n.21.
+
+     It is not for us to say whether these arguments have put 
+the kibosh on the double leverage theory.  We can, however, 
+say that the Public Service Commission's quick response--
+individual investors would never directly own a FERC-
+regulated pipeline, and if they did, they would not stand for 
+such high equity ratios--is not a serious intellectual answer to 
+them.  On this record we have no basis to disturb FERC's 
+refusal to apply the double leveraging theory.
+
+     The Commission nevertheless briefly flirted with the idea 
+of using TWC's capital structure.  First Rehearing, 80 FERC 
+p 61,158, at 61,683.  But on the next lap it dropped that 
+approach, with the reasoning stated in a chronologically con-
+nected case:
+
+     Traditionally, the Commission has preferred to utilize the 
+     applicant's own capital structure and will continue to do 
+     so if the applicant issues its own non-guaranteed debt 
+     
+     and has its own bond rating.  But the Commission will 
+     utilize an imputed capital structure (most often that of 
+     the corporate parent) if the record in a particular case 
+     reveals that the pipeline's own equity ratio is so far 
+     outside the range of other equity ratios approved by the 
+     Commission and the range of proxy company equity 
+     ratios that it is unreasonable.
+     
+Transcontinental Gas Pipe Line Corp., 84 FERC p 61,084, at 
+61,413 (1998) ("Order 414-A"), affirmed North Carolina Utili-
+ties Comm'n v. FERC, No. 99-1037 (D.C. Cir. Feb. 7, 2000) 
+(unpublished opinion).  The Commission applied this policy to 
+Williams on the second rehearing.  Williams Natural Gas 
+Company, 84 FERC p 61,080, at 61,356 (1998) ("Second Re-
+hearing").  As Williams issued its own non-guaranteed debt 
+and had its own bond rating, the normal pre-conditions for 
+using Williams's own capital structure were satisfied.
+
+     We now turn to the Public Service Commission's argument 
+that Williams's equity ratio is so out of line that the Commis-
+sion should either have applied the caveat in the excerpt 
+quoted above (calling for use of an imputed capital structure 
+in cases of anomalous equity ratios), or should have adjusted 
+Williams's equity rate of return down from that of the proxy 
+group.  The common sense of this attack is clear.  Given that 
+a high equity ratio reduces financial risk (everything else 
+being equal), it would make no sense for the Commission to 
+use a rate of return inferred from the market experience of a 
+proxy group with much thinner equity ratios.
+
+     But how thick is "too thick," and how much difference in 
+thickness is too much?  Here the issue is whether 64% equity 
+is "anomalous," bearing in mind that it is 22% above the 
+proxy average but only 2% above the highest in the proxy 
+group.  See supra note 2.  Judges are hardly in a position to 
+play this numbers game.  Such numerical limits cannot readi-
+ly be derived by judicial reasoning, Hoctor v. USDA, 82 F.3d 
+165, 170 (7th Cir. 1996), though to be sure courts are driven 
+to it occasionally, as in enforcement of the Administrative 
+Procedure Act's mandate to ensure that agency action is not 
+"unreasonably delayed."  5 U.S.C. s 706(1).  The ultimate 
+
+choice may partake of arbitrariness--not in the sense of being 
+"arbitrary and capricious," but in the sense that, while nu-
+merical lines sometimes must be drawn, it is impossible to 
+give a reasoned distinction between numbers just a hair on 
+the OK side of the line and ones just a hair on the not-OK 
+side.
+
+     Here, it seems clear at the outset that the Commission was 
+on firm ground in rejecting the idea that an equity ratio 
+outside the bounds of the proxy group must automatically 
+require an adjustment.  See Second Rehearing, 84 FERC 
+p 61,080, at 61,355.  Assume a proxy group with ratios vary-
+ing from 40% to 44%.  Insisting on an adjustment for a firm 
+with one of 45% would surely impute an improbable refine-
+ment to the rough inferences derived from capital markets, as 
+well as raising the question just how great the adjustment 
+should be.
+
+     The Public Service Commission suggests in its brief that 
+Commission precedent can provide some guidance.  In 
+Transcontinental Gas Pipeline Corp., 60 FERC p 61,246 
+(1992), reh'g denied 64 FERC p 61,039 (1993), FERC found 
+that Transco Energy Corporation's equity ratio (the pipeline 
+proposed using its parent's equity ratio) was 22% below the 
+proxy average and required a different imputed capital struc-
+ture to boost pipeline returns.  See North Carolina Utilities 
+Comm'n, 42 F.3d at 661, 663.  FERC does not really respond 
+to this argument, although it did observe in the Second 
+Rehearing that the proxy group average here is brought 
+down by the 16% equity ratio for one of the proxy firms 
+(Transco, interestingly).  84 FERC p 61,080, at 61,358 n.31.  
+Indeed, Transco's presence lowered the proxy group average 
+over 5% (47.4% to 42.2%).  But as petitioners point out, if one 
+outlier is to be removed, why not another (Sonat, at 62%)?  
+And the double removal would put the average at 43.8%, 
+which would leave Williams still well above the average and 
+even more above the new top (48%).  Further, the Commis-
+sion gives no explanation as to why any outlier should be 
+removed, see United States Telephone Assn. v. FCC, 188 F.3d 
+521, 525 (D.C. Cir. 1999) (agency eliminating outlying data 
+points must explain "why the outliers were unreliable or their 
+
+use inappropriate"), much less why a low outlier should be 
+removed and a high one retained.  Had the Transco prece-
+dent been properly raised, FERC's failure to offer a distinc-
+tion might well have required a remand.  See Greater Boston 
+Television Corp. v. FCC, 444 F.2d 841, 852 (D.C. Cir. 1970) 
+("[I]f an agency glosses over or swerves from prior prece-
+dents without discussion it may cross the line from the 
+tolerably terse to the intolerably mute.").  But petitioners' 
+exceptions before the Commission did not cite the North 
+Carolina Utilities Comm'n case or make such precedent-
+based arguments.3
+
+     Nor is there much force to petitioners' argument that 
+creeping stare decisis will inch equity ratios ever-higher, as 
+each new peak in equity ratio will justify another, still higher 
+peak.  The Commission swears off any such progression, see, 
+e.g., Second Rehearing, 86 FERC p 61,232, at 61,858, and 
+petitioners can identify nothing in the record to undercut its 
+commitment.  A slippery slope argument is almost always 
+available.  "Judges and lawyers live on the slippery slope of 
+analogies;  they are not supposed to ski it to the bottom."  
+Robert H. Bork, The Tempting of America:  The Political 
+Seduction of the Law 169 (1990).  Especially with the Com-
+mission's explicit pledge, the slope risk provides no basis for 
+us to upset the Commission's judgment.
+
+     Petitioners also claim that in looking in part to pipeline 
+companies outside the proxy group in determining the rea-
+sonableness of Williams's equity ratio, the Commission failed 
+to provide adequate notice and thus failed to allow them an 
+opportunity to offer evidence distinguishing the companies 
+outside the proxy group.  But after the Commission consid-
+ered pipelines outside the proxy group in the Second Rehear-
+ing, petitioners made no request to supplement the record.
+
+__________
+     3 Petitioners have not been punctilious in their use of precedent, 
+mistaking in their brief the facts of North Carolina Utilities 
+Comm'n, 42 F.3d at 663, for those of Public Service Comm'n v. 
+FERC, 642 F.2d 1335 (D.C. Cir. 1980).  See Petitioners' Opening 
+Br. at 32.
+
+     All that said, this case is somewhat puzzling.  No one 
+contests the Public Service Commission's point that a thick 
+equity ratio implies less risk and thus a lower rate of return, 
+everything else being equal.  Yet the Commission selected a 
+proxy group with widely dispersed equity ratios, from 16% to 
+62%, as opposed to a proxy group nearer to Williams's capital 
+structure.  Further, it is unclear why the Commission has 
+taken such an interest, both in its orders and in its brief here, 
+in explaining that Williams's 64% ratio is in the mainstream of 
+ratios in the pipeline industry generally.  The rate of return 
+is inferred from the rate of return of the proxy group, so the 
+non-anomalous character of Williams's equity ratio by the 
+standards of the industry generally is not self-evidently perti-
+nent.
+
+     But there are also gaps in the petitioners' attacks, which 
+undermine any inference that FERC's looking to the industry 
+generally had any material effect.  Given the supposed rela-
+tion between equity ratio, risk, and rate of return, we should 
+expect to see some effort to show it at work within the proxy 
+group, or broadly among publicly traded companies generally.  
+Yet petitioners offer no such analysis.  We know the direction 
+of the effect of equity thickness on equity rate of return (as 
+no one contests it), but we have nothing on the degree.  
+Accordingly, we have no basis for thinking that relationship 
+to be so strong as to make a material difference, business risk 
+being held constant.  On this record, then, we cannot find 
+anything arbitrary and capricious in the Commission's use of 
+Williams's capital structure and the proxy group's median 
+return on equity.
+
+PCB  removal cost estimates
+
+     Before the administrative law judge Williams presented 
+evidence of $4.2 million in past unamortized costs for cleaning 
+up PCB (polychlorinated biphenyl), plus projections of future 
+costs.  The ALJ allowed the company to amortize the $4.2 
+million over three years, with a procedure for refunding any 
+amounts Williams recovered from third parties responsible 
+for the PCB.  ALJ Opinion, 73 FERC p 63,015, at 65,074-75.  
+Because Williams made a new s 4 rate filing in 1995, the 
+
+issue of PCB cost recovery in the present case became 
+"locked in" for the period of November 1, 1993 through July 
+31, 1995.
+
+     For this locked-in period, the Commission rejected amorti-
+zation in favor of the "test period" method.  Williams Natu-
+ral Gas Co., 77 FERC p 61,277, at 62,182 (1996) ("First 
+Order");  see generally Southwestern Public Service Co. v. 
+FERC, 952 F.2d 555 (D.C. Cir. 1992).  This method takes 
+actual costs of the most recent 12-month period (the "base 
+period"), subject under some circumstances to adjustment on 
+the basis of data from a nine-month period following the base 
+period (the "adjustment period"), and absent some anomaly 
+projects them into the period covered by the rate filing.  See 
+18 CFR s 154.303.
+
+     Without looking to whether Williams had offered such test 
+period figures, the Commission declared that "the $1.4 million 
+annual amount the participants and the ALJ arrived at using 
+an amortization method is a reasonable equivalent of WNG's 
+actual PCB-related test period costs."  First Order, 77 FERC 
+p 61,277, at 62,182.  It also asserted that Williams had pro-
+jected 10-year costs of $20 million;  "this averages to $2 
+million a year which is reasonably close to the $1.4 million 
+annual amount the ALJ permitted [Williams] to recover."  Id. 
+at 62,183.
+
+     Williams did not object to use of the test period method.  
+But on rehearing it did strenuously argue that the Commis-
+sion was wrong to convert the amortization figures into test 
+period figures.  Williams pointed to Exhibit 216 in the record, 
+which stated "Test Period Actuals" and a total of 
+"$3,990,768."  The Commission rejected the $3.9 million fig-
+ure, however, claiming it inappropriately covered a 22-month 
+period;  but in so doing the Commission cited Exhibit 24 not 
+Exhibit 216. First Rehearing, 80 FERC p 61,158, at 61,680 & 
+n.11.  As for Exhibit 216, the Commission stated it provided 
+"no distinct record evidence" of the level of PCB costs 
+"incurred over any annual period during the test period."  Id. 
+at 61,680 & n.13.  The Commission offered no explanation as 
+
+to the precise flaw in Exhibit 216's statement of "Test Period 
+Actuals."
+
+     Sticking by $1.4 million as "representative of annual PCB 
+cost figures," the Commission chastised Williams for disput-
+ing the figure, saying that this was the figure initially pro-
+posed by Williams (albeit as a figure for amortization).  Id. at 
+61,679-80.
+
+     At oral argument the Commission abandoned any claim of 
+equivalence between the $1.4 million accepted by Williams 
+under the amortization theory and imposed by the Commis-
+sion as a "representative" test period amount.  Clearly a 
+number that emerges from taking past aggregate costs and 
+amortizing them over an arbitrarily chosen future period is 
+not necessarily useful for applying past experience to project 
+future expenses--the basic principle of the test period meth-
+od.  It could hardly satisfy the Natural Gas Act's require-
+ment of substantial evidence for facts found by the Commis-
+sion, 15 U.S.C. s 717r(b).  See also Public Service Comm'n, 
+813 F.2d at 451.
+
+     Instead, the Commission at oral argument seemed to de-
+fend the use of $1.4 million as a response to what it claimed 
+was Williams's failure to place correct test period figures into 
+the record.  The Commission's brief points out that $3.2 
+million of the total test period $3.9 million were incurred in 
+two months, proving (in its current view) that Williams's test 
+period figures were "unrepresentative."  And for the very 
+first time in this seven-year saga, the Commission at oral 
+argument claimed that Williams's data failed to satisfy a 
+regulatory requirement of monthly cost figures during the 
+test period.
+
+     Williams maintains that Exhibit 216's "Test Period Actuals" 
+was sufficient evidence.  Nothing said by the Commission up 
+until oral argument has supplied a reason to believe that that 
+was inadequate.  That $3.2 million in costs were incurred 
+during two months of the test period may show that PCB 
+removal costs come in lumps.  But it hardly shows that the 
+$3.9 million annual aggregate figure was unrepresentative, a 
+
+theory in any event never invoked in the Commission's or-
+ders.
+
+     When the Commission at oral argument asserted a require-
+ment of monthly data, Williams questioned the existence of 
+any such requirement and said that in fact it had supplied 
+such data.  The new Commission theory is in any event the 
+purest form of "appellate counsel's post hoc rationalization," 
+which in the usual case we do not accept.  North Carolina 
+Utilities Comm'n, 42 F.3d at 663.  Since the Commission no 
+longer defends the $1.4 million figure as representative, and 
+in its orders never sought to justify it as a solution to some 
+procedural default by Williams, we grant the petition and 
+remand the case for the Commission to address this issue.
+
+                                           *  *  *
+
+     The petitions of Public Service Commission are denied;  the 
+petition of Williams is granted, that part of the order is 
+vacated, and the case is remanded to the Commission.
+
+                                                                So ordered.
+
+                                                                         

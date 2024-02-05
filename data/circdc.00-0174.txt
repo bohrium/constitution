@@ -1,0 +1,401 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued April 7, 2000        Decided July 18, 2000 
+
+                           No. 99-1129
+
+                    D&F Afonso Realty Trust, 
+                            Petitioner
+
+                                v.
+
+       Jane F. Garvey and Federal Aviation Administration, 
+                           Respondents
+
+            On Petition for Review of an Order of the 
+                 Federal Aviation Administration
+
+     Rachel B. Trinder argued the cause for petitioner.  With 
+her on the briefs was Craig M. Cibak.
+
+     William G. Cole, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With him on the brief were 
+David W. Ogden, Acting Assistant Attorney General, and 
+Robert S. Greenspan, Attorney.
+
+     Before:  Silberman, Ginsburg and Sentelle, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  D&F Afonso Realty Trust peti-
+tions for review of the Federal Aviation Administration's 
+issuance of an aviation hazard determination declaring the 
+roof of a house constructed by the petitioner to be a naviga-
+tional hazard.  The FAA defends the procedure and evidence 
+underlying its determination and also argues that the peti-
+tioner lacks standing to bring its case before this court.  
+After considering several affidavits submitted by the petition-
+er, we conclude that it has Article III standing.  We further 
+conclude, based on a review of the administrative record, that 
+the FAA inexplicably failed to follow established agency 
+procedure, did not adequately explain its decision, and acted 
+arbitrarily and capriciously in making its hazard determina-
+tion.  Therefore, we vacate and remand the agency's determi-
+nation.
+
+                          I. Background
+
+     D&F Afonso Realty Trust ("D&F"), a husband and wife-
+owned construction company, decided to build a single family 
+home in Hopedale, Massachusetts near a small, privately-
+owned airport.  In October 1997, construction on the house 
+began after the town of Hopedale issued construction permits 
+to the company.  After building commenced, D&F learned 
+from the Massachusetts Aeronautics Commission that it need-
+ed to notify the Federal Aviation Administration ("FAA") 
+about the structure in order for the FAA to determine 
+whether the house would violate any federal regulations.  
+D&F informed the New England Regional Office of the FAA 
+about the house-in-progress in late December 1997 by having 
+its engineering firm file with the agency a Notice of Proposed 
+Construction or Alteration (FAA Form 7460-1) required by 
+14 C.F.R. s 77.17 to be submitted at least thirty days before 
+the earlier of either the start date of construction or the 
+
+construction permit's filing date.  In early January, D&F 
+informed the FAA of the house's completion.
+
+     After reviewing D&F's filing, the FAA determined that the 
+completed house exceeded one of the air navigation obstruc-
+tion standards listed in 14 C.F.R. s 77.25.  Specifically, the 
+FAA found that 16.1 feet of the house's roof penetrated one 
+of the "imaginary surfaces" around the airport.  An imagi-
+nary surface is essentially an artificial engineering boundary 
+"drawn" in the air around airports.  The imaginary surface at 
+issue here is the "transitional surface" which extends "out-
+ward and upward at right angles to the runway centerline 
+and the runway centerline extended at a slope of 7 to 1 from 
+the sides of the primary surface and from the sides of the 
+approach surfaces."  14 C.F.R. s 77.25(e).  Because the roof 
+penetrated the transitional surface, the FAA initiated an 
+administrative inquiry to ascertain whether the structure 
+would present a hazard to air navigation around the airport.
+
+     Specifically, the FAA began an "aeronautical study" be-
+cause the house exceeded a Part 77 obstruction standard.  
+Part 77 of the Federal Aviation Regulations "establishes 
+standards for determining obstructions to air navigation."  14 
+C.F.R. s 77.21(a).  The FAA uses the standards to evaluate 
+whether an object represents a hazard to air navigation.  See 
+id. ss 77.31-39 (Subpart D).
+
+     At the conclusion of the study, the FAA made a finding 
+that the house had a substantial adverse effect on air naviga-
+tion and issued a determination of hazard.  The FAA conclud-
+ed, without further explanation, that because the house "is 
+immediately adjacent to the final approach course" for the 
+runway, "it represents a hazard to all aircraft landing on [the] 
+runway."  In justifying the substantial adverse effect finding, 
+the FAA concluded, without explanation, that the house would 
+adversely affect all arrivals using Visual Flight Rules.  Given 
+the FAA's cursory reference to some aerial photographs 
+showing the house's proximity to the runway's final approach 
+course, the agency apparently relied sub silentio on the 
+photographs as the core support for its hazard determination.
+
+     D&F sought administrative review of the FAA's determina-
+tion and requested a hearing.  The FAA denied D&F's 
+request for a hearing and issued a final determination uphold-
+ing its prior conclusions.  In explaining its position, the FAA 
+stated:
+
+     [T]he proposed structure would lie within the Hopedale 
+     ... runway ... traffic pattern buffer.  This buffer area 
+     is designed to provide a degree of protection for those 
+     pilots, departing and landing at an airport, operating in 
+     accordance with visual flight rules (VFR)....  [B]ecause 
+     of the proposed structure's height and its relative posi-
+     tion within the traffic pattern buffer, it is the FAA's 
+     position that the planned structure would be a distraction 
+     to pilots during a critical phase of flight.
+     
+To effectuate its findings, the FAA published a warning to 
+pilots to "use extreme caution when landing ... due to a two-
+story house located approximately 400' northwest of the 
+runway threshold."
+
+     In addition to the FAA finding the house to be a hazard to 
+air navigation, the Massachusetts Aeronautics Commission 
+determined that the house penetrated certain protected air-
+space in violation of the Code of Massachusetts Regulations.  
+After the administrative findings came to light, the Hopedale 
+Airport asked the town to remove the house.  Currently, the 
+town of Hopedale refuses to issue an occupancy permit to 
+D&F.  In light of the foregoing events, D&F seeks review of 
+the FAA's hazard determination and asks this court to re-
+verse the FAA's determination in an effort to obtain an 
+occupancy permit from the town as a result.1
+
+__________
+     1  Subsequent to D&F's filing a Petition for Review in this 
+court, the FAA issued a new policy which, with certain exceptions, 
+makes exceeding "[t]he height of the transition surface (other than 
+abeam the runway)" a per se hazard.  Policy Memorandum 99-02.  
+We will not analyze this case under the new policy.  We leave 
+consideration of the new policy to the FAA because the agency, not 
+this court, must interpret and apply a new agency policy in the first 
+instance.  See NLRB v. Food Store Employees Union, Local 347, 
+417 U.S. 1, 10 n.10 (1974).
+
+                          II. Discussion
+
+A.    D&F's Standing
+
+     The FAA challenges D&F's standing to bring this appeal.  
+In order to establish Article III standing, D&F must show 
+that "(1) it has suffered an 'injury in fact' that is (a) concrete 
+and particularized and (b) actual or imminent, not conjectural 
+or hypothetical;  (2) the injury is fairly traceable to the 
+challenged action of the defendant;  and (3) it is likely, as 
+opposed to merely speculative, that the injury will be re-
+dressed by a favorable decision."  Friends of the Earth, Inc. 
+v. Laidlaw Envtl. Servs., Inc., 120 S. Ct. 693, 704 (2000) 
+(citing Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 
+(1992));  see also Florida Audubon Soc'y v. Bentsen, 94 F.3d 
+658, 663 (D.C. Cir. 1996) (en banc).  D&F established an 
+actual and concrete and particularized injury consisting of a 
+diminution in property value due to its inability to obtain an 
+occupancy permit from the town.  The FAA argues, however, 
+that D&F has not shown a causal link between the agency's 
+hazard determination and D&F's injury, given the Massachu-
+setts Aeronautics Commission and airport's independent ob-
+jections to the house.  The FAA also challenges the ability of 
+this court to redress D&F's injury by reversing the agency 
+because the town, not the agency, controls permit issuance.
+
+     If the FAA hazard determination independently diminished 
+the house's property value or constituted the only factor 
+motivating the town's denial of the occupancy permit, causa-
+tion and redressibility would be non-issues because our rever-
+sal of the FAA would either provide a remedy for the 
+financial injury caused by the FAA or prompt the town to 
+issue the permit.  However, neither the record nor the briefs 
+submitted to this court established which of the events among 
+the FAA's findings, the Massachusetts Aeronautics Commis-
+sion's findings, the airport's complaint, or some combination 
+thereof prompted the town's denial of the occupancy permit 
+and the diminution in property value.  However, at oral 
+argument, D&F asserted that the FAA's hazard determina-
+tion in and of itself caused a diminution in property value and 
+that the town was withholding the occupancy permit solely 
+
+due to the FAA's hazard determination.  Therefore, we af-
+forded D&F the opportunity to submit affidavits supporting 
+its allegations, if true.
+
+     Upon review of D&F's submissions, we conclude that D&F 
+alleges facts satisfying the standing requirements of causation 
+and redressibility.  D&F supplied an affidavit explaining that 
+"a real estate broker ... informed [D&F] that the FAA's 
+Hazard Determination has resulted in a diminution of value to 
+the Afonso House independent of whether an occupancy 
+permit is granted."  In addition, D&F submitted an affidavit 
+establishing that the Massachusetts Aeronautics Commission 
+would "defer to the outcome of the FAA-related proceedings 
+currently before this Court."  Moreover, D&F supplied an 
+affidavit from the Hopedale Building Commissioner declaring 
+that "the only obstacle to issuance of the occupancy permit is 
+the FAA's Hazard Determination.  But for that Determina-
+tion, the occupancy permit would have already issued.  If the 
+FAA's Hazard Determination is withdrawn or reversed, [the 
+town] will issue an occupancy permit for the Afonso House 
+forthwith."  We must construe the statements made in the 
+affidavits in the light most favorable to the petitioner.  See 
+Warth v. Seldin, 422 U.S. 490, 501 (1975).  Taken together, 
+the statements show that the FAA's hazard determination 
+causes D&F injury in the form of diminished property value 
+and comprises the sole obstacle between D&F and an occu-
+pancy permit.  Therefore, we conclude that D&F has stand-
+ing to challenge the FAA's hazard determination.
+
+B.   The Hazard Determination
+
+     We review decisions of federal agencies, including the FAA, 
+under the standards set forth by the Administrative Proce-
+dure Act.  See Public Citizen, Inc. v. FAA, 988 F.2d 186, 196 
+(D.C. Cir. 1993).  That Act provides that a reviewing court 
+must set aside agency action if it is "arbitrary, capricious, an 
+abuse of discretion, or otherwise not in accordance with law."  
+5 U.S.C. s 706(2)(A).  As we have often held, "[t]he require-
+ment that agency action not be arbitrary or capricious in-
+cludes a requirement that the agency adequately explain its 
+result...."  Public Citizen, 988 F.2d at 197.  In the hazard 
+
+determination under review, the FAA has offered no such 
+explanation.  As we have stated before, we must strike down 
+agency action if the agency failed to consider relevant factors 
+or made a clear error of judgment.  See Motor Vehicle Mfrs. 
+Ass'n v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43 
+(1983);  Starr v. FAA, 589 F.2d 307, 311 (7th Cir. 1978).
+
+     The FAA made a finding that the house penetrated an 
+imaginary surface, specifically the transitional surface.  How-
+ever, mere penetration, and even evidence of adverse effect 
+alone, do not provide adequate support for a hazard determi-
+nation.  In dealing with obstruction standard violations, the 
+FAA follows a handbook entitled "Procedures for Handling 
+Airspace Matters," FAA Procedures 7400.2D (1993) ("Hand-
+book"), which mandates conducting aeronautical studies, in 
+accordance with Subpart D of Part 77, of proposed structures 
+exceeding Part 77 obstruction standards.  See Br. for FAA at 
+4 (citing chapter 5 of Handbook).  According to Subpart D of 
+Part 77, "[i]n the aeronautical studies, present and future ... 
+aeronautical operations and procedures are reviewed and any 
+possible changes in those operations and procedures and in 
+the construction proposal that would eliminate or alleviate the 
+conflicting demands are ascertained."  14 C.F.R. s 77.31.  
+Pursuant to the Handbook, objects exceeding an obstruction 
+standard are "presumed to be hazards to air navigation 
+unless an aeronautical study determines otherwise."  Id. at 
+s 7-1(b).  In order to issue a hazard determination, the FAA 
+must find by a clear showing that the penetration in question 
+will have a "substantial adverse effect" on air navigation.  See 
+id. at ss 7-2 to 7-5, 8-2.  The Handbook provides that 
+"substantial adverse effect" occurs when a structure has or 
+would have an "[a]dverse effect" and "a significant volume of 
+aeronautical operations would be affected."  Id. at s 7.4.
+
+     A substantial adverse effect finding requires three ele-
+ments.  First, the structure in question must have exceeded 
+the relevant obstruction standards or have been found to have 
+a physical or electromagnetic radiation effect on the operation 
+of air navigation facilities.  See id. at s 7.3.  Second, the 
+structure will be considered to have an adverse effect if it 
+would, inter alia, "require a [Visual Flight Rules] operation," 
+
+that is, an operation in which the pilot lands an aircraft or 
+takes off using visual approach procedures only, "to change 
+from a regular flight course or altitude," "[d]erogate airport 
+capacity/efficiency," or "[a]ffect future [Visual Flight Rules] 
+... operations indicated by plans on file."  Id.  Third, the 
+structure must affect a significant volume of aeronautical 
+activity;  the FAA considers the type of activity involved and 
+the frequency of occurrence.  See id. at s 7.5.  In addition, a 
+study must include, inter alia, an evaluation regarding mark-
+ing and lighting the structure, see id. at s 7-9, and every 
+hazard finding is supposed to include "a clear, but brief, 
+statement why aviation can or cannot accommodate the pro-
+posal."  Id. at s 8-2.
+
+     Here, the FAA first sought comments from twenty-four 
+interested parties concerning the effect the house would have 
+on aviation.  Apart from the manager of the Providence, 
+Rhode Island Traffic Control Tower who declared, without 
+further elaboration, that the house "would result in a negative 
+impact to air traffic operations," the responding parties either 
+did not object to the house or failed to provide any comments 
+pertaining to the hazardousness of the structure.
+
+     Based on the FAA's explanation, or lack thereof, in the 
+issuance of this hazard determination, we conclude that the 
+FAA acted arbitrarily by issuing a hazard determination 
+inconsistent with established standards.  Thus, we hold that 
+the FAA exceeded the permissible bounds of agency action.
+
+     Nowhere in the record before us can we find a link between 
+established hazard determination standards and the hazard 
+determination reached by the FAA in this case.  The FAA 
+made a finding that the house penetrated an imaginary 
+surface.  However, as we previously noted, mere penetration, 
+and even evidence of adverse effect alone, cannot support a 
+hazard determination.  See Handbook ss 7-3, 7-4, 8-2.  Ac-
+cording to the Handbook, the FAA is to conduct a "substan-
+tial adverse effect" inquiry and only upon a clear showing of 
+substantial adverse effect issue a hazard determination.  See 
+id. at ss 7-1, 7-3, 7-4, 8-2(b)(3).  However, here, the FAA 
+
+failed both to conduct a complete inquiry and make a clear 
+showing of substantial adverse effect.
+
+     More specifically, the FAA arbitrarily based its hazard 
+finding on an unsupported pilot distraction finding instead of 
+following the policy outlined in the controlling Handbook.  
+"We review the FAA's findings of fact merely to see whether 
+they are 'supported by substantial evidence.' "  Public Citi-
+zen, 988 F.2d at 196 (quoting 49 U.S.C. App. s 1486(e) 
+(1988)).  Here, if there is substantial evidence, the FAA has 
+not alluded to it.
+
+     The FAA also acted contrary to its own procedure by 
+failing to explicitly apply the established multi-factor test 
+which considers adverse effect and the volume of operations 
+affected.  See Handbook ss 7-3 to 7-5.  For example, the 
+FAA based its finding on the house's effect on VFR opera-
+tions but failed to consider the relevant VFR adverse effect 
+factors of potential changes in flight course and potential 
+effects on future VFR operations.  See id. at s 7-3.  In 
+addition, the agency did not investigate the available airport 
+traffic figures and instead based its "significant volume" 
+finding on the "proximity of [the] structure to the final 
+approach course."  Even assuming the FAA's reference to a 
+traffic buffer zone in the order affirming the hazard determi-
+nation has meaning as a technical and practical matter, the 
+agency did not do its job of connecting the buffer zone 
+concept to the "substantial adverse effect" inquiry.  In short, 
+the FAA did not consider relevant factors or sufficiently 
+explain the basis of its hazard determination.
+
+     The FAA's post hoc rationalizations for deviating from 
+procedure and for failing to substantiate its hazard determi-
+nation cannot pass muster as a matter of law.  For example, 
+the Handbook requires that every aeronautical study include 
+an evaluation regarding the marking and lighting of the 
+structure in question.  See id. at s 7-9.  However, the agen-
+cy did not make any findings concerning the marking or 
+lighting of the house.  The agency cannot claim to be engag-
+ing in reasoned analysis when it cavalierly brushes off specific 
+mandates such as a marking and lighting evaluation.  Nor 
+
+can it claim to be acting reasonably when it ignores, without 
+explanation, policy provisions such as the one establishing the 
+inclusion of "a clear, but brief, statement why aviation can or 
+cannot accommodate [a] proposal."  See id. at s 8-2.
+
+     Moreover, the agency inexplicably refused to take into 
+consideration the trees and other structures in the vicinity 
+also apparently intruding into the transitional surface in the 
+surrounding terrain which might alter the geometry of its 
+calculations.  In Aircraft Owners and Pilots Association v. 
+FAA, 600 F.2d 965 (D.C. Cir. 1979), we recognized that 
+surrounding terrain could possibly "mitigate what might oth-
+erwise have been a potential hazard to aircraft."  Id. at 973.  
+In other words, the FAA should have considered the land-
+scape in its entirety when making its hazard determination.  
+See id.  Yet, according to the FAA, only D&F's house 
+presents cause for concern.  All in all, the FAA failed to 
+rationally substantiate or explain its process and findings.
+
+     In essence, the FAA adopted an ipse dixit approach to 
+making a hazard determination:  the house creates a naviga-
+tional hazard because the agency says so.  Even our highly 
+deferential standard of review requires more than the FAA 
+offers.  Thus, the FAA's abandonment of its own established 
+procedure and its lack of reasoned analysis on the record 
+constitute arbitrary and capricious agency action in violation 
+of the law.  Due to the shortcomings in the FAA's hazard 
+determination, we reverse and remand D&F's case to the 
+agency in order for it to undertake an appropriate hazard 
+analysis.
+
+                         III. Conclusion
+
+     In sum, we hold that D&F has alleged facts sufficient for 
+standing to challenge the FAA's hazard determination.  Upon 
+review, we vacate and remand the FAA's determination due 
+to the agency's engaging in an arbitrary and capricious 
+hazard determination procedure.
+
+                                    

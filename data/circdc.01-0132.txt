@@ -1,0 +1,244 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued May 7, 2001       Decided June 12, 2001 
+
+                           No. 00-5211
+
+                         Gregory Smith, 
+                            Appellant
+
+                                v.
+
+                  U. S. Department of Justice, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv00784)
+
+     Sidney A. Rosenzweig, appointed by the court, argued the 
+cause as amicus curiae on the side of appellant.  With him on 
+the brief was Robert S. Litt.
+
+     Gregory Smith, appearing pro se, was on the brief for 
+appellant.
+
+     Lisa Barsoomian, Assistant U.S. Attorney, argued the 
+cause for appellee. With her on the brief were Wilma A. 
+Lewis, U.S. Attorney at the time the brief was filed, and R. 
+Craig Lawrence, Assistant U.S. Attorney.
+
+     Before:  Williams, Ginsburg, and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  While incarcerated at a federal 
+correctional institution, Gregory Smith placed several calls to 
+his attorney.  Although an unmonitored telephone was avail-
+able for this purpose, Smith used a telephone line on which he 
+knew all calls were monitored and recorded pursuant to a 
+policy of the Bureau of Prisons.  Smith claims that during the 
+conversations the attorney effectively acknowledged that he 
+had not provided Smith with constitutionally adequate assis-
+tance.
+
+     Smith later asked the Bureau of Prisons, under the Free-
+dom of Information Act, 5 U.S.C. s 552, for copies of the 
+recordings it made of the conversations.  The Government 
+denied the request on the sole ground that the recordings fall 
+within Exemption 3 of the FOIA because Title III of the 
+Omnibus Crime Control and Safe Streets Act, 18 U.S.C. 
+ss 2510 et seq., bars their disclosure.  When Smith sought 
+judicial review, the district court granted summary judgment 
+for the Government.  As we read Title III it is inapplicable to 
+the recordings at issue.  Therefore, under the FOIA Smith is 
+entitled to the recordings.  Smith -- who appeared pro se 
+and briefed the case creditably both in the district court and 
+here -- is now aided by an amicus curiae we appointed for 
+the occasion;  we make no further distinction between Smith's 
+arguments and those of the amicus.
+
+                             Analysis
+
+     Exemption 3 of the FOIA makes the general requirement 
+of disclosure inapplicable to materials
+
+     specifically exempted from disclosure by statute ... pro-
+     vided that such statute (A) requires that the matters be 
+     withheld from the public in such a manner as to leave no 
+     
+     discretion on the issue, or (B) establishes particular 
+     criteria for withholding or refers to particular types of 
+     matters to be withheld.
+     
+5 U.S.C. s 552(b)(3).  We have held that Title III, 18 U.S.C. 
+ss 2510 et seq., which limits the electronic interception and 
+disclosure of various communications, is just such an exempt-
+ing statute because it "refer[s] to particular types of matters 
+to be withheld."  Lam Lek Chong v. DEA, 929 F.2d 729, 733 
+(1991).  Accordingly, Smith concedes that if the non-
+disclosure provisions of Title III apply to the recordings he 
+seeks, then so does Exemption 3 of the FOIA.  Whether the 
+district court correctly granted summary judgment for the 
+Government therefore turns upon whether Title III pro-
+scribes disclosure of the recordings.
+
+     Subject to certain exceptions, Title III makes it unlawful 
+for a person to "intercept" "any wire, oral, or electronic 
+communication."  18 U.S.C. s 2511.  The Government here 
+contends that the prison authorities, by recording the conver-
+sations Smith had with his attorney, "intercepted" those 
+communications and did so lawfully, as authorized by the 
+consent exception in 18 U.S.C. s 2511(2)(c) ("person acting 
+under of color of law [may] intercept ... where ... one of the 
+parties to the communication has given prior consent").  The 
+Government then reasons that because Title III expressly 
+permits certain specifically-described types of disclosure (for 
+example, in court testimony) of communications obtained "by 
+any means authorized" in Title III, 18 U.S.C. s 2517, it 
+implicitly forbids any other type of disclosure, including dis-
+closure pursuant to the FOIA.
+
+     Smith correctly identifies the fundamental defect in the 
+Government's argument:  the recordings he seeks were not 
+the product of an "interception," consensual or otherwise, 
+governed by Title III;  therefore, they are not subject to 
+whatever limitations Title III places upon the disclosure of 
+information that does result from a covered interception.  
+Here " 'intercept' means the aural or other acquisition of ... 
+any wire, electronic, or oral communication through the use of 
+any electronic, mechanical, or other device."  8 U.S.C. 
+
+s 2510(4).  "[E]lectronic, mechanical, or other device," in 
+turn,
+
+     means any device or apparatus which can be used to 
+     intercept a wire, oral, or electronic communication other 
+     than--
+     
+          (a) any telephone or telegraph instrument, equipment 
+          or facility, or any component thereof, ... 
+          
+               (ii) being used ... by an investigative or law en-
+               forcement officer in the ordinary course of his 
+               duties.
+               
+18 U.S.C. s 2510(5) (emphasis supplied).  The latter defini-
+tion consists first of an inclusionary clause specifying the 
+equipment associated with a proscribed interception, and then 
+of an exclusionary provision -- of which s 2510(a)(ii) is 
+part -- specifying "acquisitions" that remain outside the 
+statutory definition of an "interception."  We have no doubt 
+that the recordings Smith seeks fall under the exclusionary 
+terms of s 2510(5)(a)(ii):  They were obtained by "law en-
+forcement officers" (the prison authorities) who "used," "in 
+the ordinary course of [their] duties," some telephone "instru-
+ment, equipment or facility, or [a] component thereof."
+
+     In fact, the Government said as much before the district 
+court:  "The ... provisions of Title III," here citing 
+s 2510(5)(a)(ii) and the consent exception, "ma[d]e the taping 
+of these calls legal."  Government's Statement of Material 
+Facts Not in Genuine Dispute at p 9.  Evidently, the Govern-
+ment (and the district court) overlooked the point Smith made 
+in his own motion for summary judgment, namely, that 
+s 2510(5)(a)(ii) does not 'authorize' the recordings but instead 
+excludes them entirely from the coverage of the statute.  
+Now that Smith drives the point home, the Government has 
+changed its position.
+
+     The Government's current position, that the recordings do 
+not satisfy the terms of s 2510(5)(a)(ii), is contradicted by a 
+consistent line of cases admitting into evidence recordings 
+made by prison authorities who routinely monitor inmates' 
+conversations.  Those cases hold that such recordings are not 
+unlawful under Title III because they come within the exclu-
+
+sionary terms of s 2510(5)(a)(ii).  See, e.g., United States v. 
+Van Poyck, 77 F.3d 285, 292 (9th Cir. 1996);  United States v. 
+Daniels, 902 F.2d 1238, 1245 (7th Cir. 1990);  United States v. 
+Feekes, 879 F.2d 1562, 1565-66 (7th Cir. 1989);  United States 
+v. Paul, 614 F.2d 115, 117 (6th Cir. 1980).  Indeed, that was 
+the position of the Government in each of the cited cases.
+
+     The Government nonetheless posits two reasons 
+s 2510(5)(a)(ii) does not embrace (and hence does not exclude 
+from Title III) the recordings here at issue;  neither has real 
+bite.  First, the Government asserts that the exclusion pro-
+vided in s 2510(5)(a)(ii) "applies only to use of a telephone to 
+listen, not to use of a tape recorder to record."  That con-
+struction conflicts with the distinction, which is implicit in 
+Title III, between intercepting ("acqui[ring] the contents of 
+any ... communication," s 2510(4)) -- for which some prison 
+telephone "instrument, equipment or facility, or [some] com-
+ponent thereof" was almost certainly used in this case -- and 
+recording that communication -- for which a separate device 
+well may have been used.  See 18 U.S.C. s 2518(8) (a) 
+("contents of any ... communication intercepted by any 
+means authorized by this chapter shall, if possible, be record-
+ed on tape or wire or other comparable device") (emphasis 
+supplied).  We say "almost certainly" because the Govern-
+ment introduced no evidence whatsoever regarding the equip-
+ment it used to monitor the calls;  more to the point, the 
+Government failed to prove that the means of intercepting the 
+calls did not involve use of the prison's telephone system or a 
+component thereof.  Because the Government bears the bur-
+den of showing that an exemption from the FOIA applies, see 
+Maydak v. DOJ, 218 F.3d 760, 764 (D.C. Cir. 2000), that 
+failure of proof alone forecloses its first argument.
+
+     Second, the Government asserts that "section 2510(5)(a)(ii) 
+applies only when the telephone is 'being used by ... an 
+investigative or law enforcement officer,' i.e. the officer is the 
+person using the telephone, not when the telephone is being 
+used by someone else and the officer is just using the tape 
+recorder."  The statute is not susceptible to that construction 
+because it embraces use not only of a telephone but of any 
+telephone "equipment or facility, or any component thereof," 
+
+18 U.S.C. s 2510(5);  clearly, the law enforcement officer need 
+not be using the telephone itself, wherefore he need not be 
+participating in the conversation either.  Moreover, 18 U.S.C. 
+s 2511(2)(c) separately authorizes "a person acting under 
+color of law to intercept a ... communication where such 
+person is a party to the conversation";  as the requirements of 
+that section are automatically met when a law enforcement 
+officer actually participates in the conversation, the Govern-
+ment's reading would render s 2510(5)(a)(ii) superfluous.
+
+     Finally, the Government requests in the alternative that we 
+remand this case to the district court so it can there for the 
+first time raise certain other exemptions from the FOIA.  
+That avenue is barred:
+
+     We have plainly and repeatedly told the government 
+     that, as a general rule, it must assert all exemptions at 
+     the same time, in the original district court proceed-
+     ings....  FOIA was enacted to promote honesty and 
+     reduce waste in government by exposing an agency's 
+     performance of its statutory duties to public scrutiny....  
+     As we have observed in the past, the delay caused by 
+     permitting the government to raise its FOIA exemption 
+     claims one at a time interferes both with the statutory 
+     goals of "efficient, prompt, and full disclosure of informa-
+     tion," ... and with "interests of judicial finality and 
+     economy."
+     
+Maydak, 218 F.3d at 764.  The Government identifies no 
+"extraordinary circumstance" or "interim development" of 
+facts or of law, id. at 767, to warrant our departing from this 
+rule.  Therefore, it must produce the recordings notwith-
+standing any other FOIA exemptions it may assert in a 
+future case of this sort.
+
+                            Conclusion
+
+     For the foregoing reasons, we hold that Smith is entitled to 
+the recordings he requested pursuant to the FOIA.  The 
+judgment of the district court is, accordingly,
+
+                                                             Reversed.
+
+                                                                           

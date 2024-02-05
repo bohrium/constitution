@@ -1,0 +1,577 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 9, 2002   Decided October 15, 2002 
+
+                           No. 01-1187
+
+                Pacific Gas and Electric Company, 
+                            Petitioner
+
+                                v.
+
+              Federal Energy Regulatory Commission, 
+                            Respondent
+
+              Enron Power Marketing, Inc., et al., 
+                           Intervenors
+
+                        Consolidated with 
+                           No. 01-1190
+
+            On Petitions for Review of Orders of the 
+               Federal Energy Regulatory Commission
+
+                            ---------
+
+     Stuart K. Gardiner and Richard L. Roberts argued the 
+causes for utility petitioners.  With them on the briefs was 
+Jennifer L. Key.
+
+     Lona T. Perry, Attorney, Federal Energy Regulatory 
+Commission, argued the cause for respondent.  With her on 
+the brief were Cynthia A. Marlette, General Counsel, and 
+Dennis Lane, Solicitor, Federal Energy Regulatory Commis-
+sion.
+
+     Channing D. Strother, Jr. was on the brief for intervenor 
+City of Vernon, California.
+
+     Before:  Edwards, Sentelle and Rogers, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Rogers.
+
+     Rogers, Circuit Judge:  The principal issue in this appeal is 
+whether the review conducted by the Federal Energy Regu-
+latory Commission ("FERC") of the revenue requirements of 
+a non-jurisdictional entity that is part of a jurisdictional 
+independent system operator ("ISO") was sufficient to ensure 
+that the ISO's rates will be just and reasonable under s 205 
+of the Federal Power Act ("FPA"), 16 U.S.C. s 824d.  South-
+ern California Edison Company ("Edison") and Pacific Gas 
+and Electric Company (collectively, "PG&E"), petition for 
+review of three Orders in which FERC approved the trans-
+mission revenue requirement of Vernon, a municipally owned 
+utility and non-jurisdictional entity, for use in the California 
+ISO's ("CAISO") transmission access charge.  PG&E con-
+tends that FERC did not properly evaluate, consistent with 
+its duty under s 205, Vernon's revenue requirements, and 
+arbitrarily and capriciously approved Vernon's requirements 
+based on findings that are unsupported by substantial evi-
+dence.  We hold that, although FERC has considerable dis-
+cretion in choosing how to implement its statutory duty, its 
+approach in the Orders on review fails to ensure that the 
+CAISO's rates will be just and reasonable under s 205.  
+Accordingly, we grant the petition and remand the case for 
+further proceedings.
+
+                                I.
+
+     In Order No. 2000, FERC encouraged the formation of 
+regional transmission organizations.  See Regional Transmis-
+sion Organizations, Order No. 2000, FERC Stats. & Regs. 
+p 31,089 (1999), 65 Fed. Reg. 810 (2000), on reh'g, Order No. 
+2000-A, FERC Stats. & Regs. p 31,092, 65 Fed. Reg. 12,088 
+(2000) (codified at 18 C.F.R. s 35.34), aff'd, Pub. Util. Dist. 
+No. 1 v. FERC, 272 F.3d 607 (D.C. Cir. 2001).  The State of 
+California created a regional transmission organization, the 
+CAISO, to operate transmission facilities within California.  
+The CAISO is subject to FERC's regulatory authority, see 
+Cal. Indep. Sys. Operator Corp., 91 F.E.R.C. p 61,205, at 
+61,724 (2000), including the statutory requirement under 
+ss 205 and 206 of the FPA that a utility's rates must be "just 
+and reasonable."  16 U.S.C. ss 824d, 824e.  The CAISO 
+originally consisted of three investor-owned utilities (PG&E, 
+Edison, and San Diego Gas & Electric Company), each of 
+which is subject to FERC's jurisdiction.  Each of the utilities 
+is compensated by the CAISO for the use of its facilities 
+through a transmission revenue requirement ("TRR"), which 
+consists of the costs and rate of return to which the utilities 
+are entitled as participating transmission owners.  FERC 
+independently examines each of these jurisdictional utilities' 
+TRRs to ensure that they are just and reasonable.  See Cal. 
+Indep. Sys. Operator, 91 F.E.R.C. at 61,723 n.11.  Initially, 
+the CAISO's rates, or transmission access charge ("TAC"), 
+reflected the TRRs of the participating transmission owners 
+in each of three TAC areas.  Id. at 61,720.
+
+     This case arises out of California's efforts to encourage 
+non-jurisdictional, municipal utilities to join the CAISO.  Id. 
+at 61,720-21.  As a general matter, publicly-owned utilities 
+are not subject to FERC's ss 205 and 206 jurisdiction, see 
+FPA s 201(f), 16 U.S.C. s 824(f), although FERC may ana-
+lyze and consider the rates of non-jurisdictional utilities to the 
+extent that those rates affect jurisdictional transactions, see 
+S.C. Pub. Serv. Auth., 75 F.E.R.C. p 61,209, at 61,696 & n.7 
+(1996);  see also Pub. Utils. Comm'n v. FERC, 660 F.2d 821, 
+826 (D.C. Cir. 1981).  The CAISO proposed to amend its 
+tariff to allow non-jurisdictional utilities or governmental 
+
+entities that joined the CAISO to recover their TRRs through 
+the CAISO's transmission access charge.  See Cal. Indep. 
+Sys. Operator, 91 F.E.R.C. at 61,720.  Once a new transmis-
+sion owner ("TO") joined the CAISO, the TAC would reflect 
+the combined TRRs of the owners in each of the three TAC 
+areas, and then, over a ten-year period, a single ISO grid-
+wide TAC would be phased-in.  Id.  However, the CAISO's 
+original tariff proposal did not allow for any FERC review of 
+the TRRs of governmental entities;  instead, review was 
+limited to a CAISO Revenue Review Panel.  Id. at 61,721.  In 
+a May 31, 2000 Order, FERC concluded that the CAISO's 
+proposal was inconsistent with FERC's statutory responsibili-
+ty to ensure that jurisdictional utilities' rates, namely the 
+CAISO's TAC, be just and reasonable.  Id. at 61,729.  In 
+compliance with the May 31, 2000 Order, the CAISO submit-
+ted a revised tariff proposal which provided:
+
+     If the Participating TO is not FERC jurisdictional, the 
+     Participating TO shall at its sole option:  (1) file its High 
+     Voltage TRR and Low Voltage TRR for those facilities 
+     and Entitlements under the Operational Control of the 
+     ISO directly with the Commission in accordance with the 
+     rules and requirements established by the Commission;  
+     or (2) submit to the ISO its TRR....  The decision of 
+     the [Revenue Review] panel shall be subject to review 
+     and acceptance by the FERC.
+     
+Cal. Indep. Sys. Operator Corp., 93 F.E.R.C. p 61,104, at 
+61,287 (2000) [hereinafter "TAC Order"] (alterations in the 
+original).  In an October 27, 2000 Order, FERC accepted this 
+revision.  Id. at 61,288-89.
+
+     Pursuant to the CAISO's revised tariff, Vernon, a munici-
+pally-owned utility located in the same TAC area as Edison, 
+voluntarily submitted its TRR for FERC review.  With cer-
+tain revisions, FERC "accept[ed] Vernon's use of the rate 
+methodology utilized by [Edison] (an [investor-owned utility] 
+that has determined its TRR) which is a methodology familiar 
+to [FERC]" and approved Vernon's TRR.  City of Vernon, 93 
+F.E.R.C. p 61,103, at 61,285 (2000) [hereinafter "Vernon Or-
+der"].  PG&E sought rehearing, which was denied in an 
+
+order dated February 21, 2001.  Cal. Indep. Sys. Operator 
+Corp., 94 F.E.R.C. p 61,148, at 61,565 (2000) [hereinafter 
+"Rehearing Order"].  PG&E now seeks review of the TAC 
+Order, Vernon Order, and Rehearing Order.
+
+                               II.
+
+     PG&E contends that FERC's review of Vernon's TRR was 
+insufficient to ensure that the CAISO's rates remained just 
+and reasonable because it was based on an inadequate stan-
+dard of review and contrary to FERC precedent.  PG&E also 
+contends that FERC violated s 205 by relying solely on a 
+review of Vernon's rate methodology in order to approve 
+Vernon's TRR.  PG&E further contends that by not requir-
+ing the CAISO to file cost support for the part of its 
+transmission rate resulting from use of Vernon's facilities or 
+requiring Vernon to meet the CAISO's s 205 obligation, 
+FERC chose an impermissible course and the court should 
+remand with directions for a s 205 inquiry of Vernon's TRR.
+
+     The court reviews FERC's Orders under the arbitrary and 
+capricious standard.  5 U.S.C. s 706(2)(A);  Pub. Utils. 
+Comm'n v. FERC, 254 F.3d 250, 253-54 (D.C. Cir. 2001) 
+[hereinafter "CPUC"].  FERC therefore "must be able to 
+demonstrate that it has made a reasoned decision based upon 
+substantial evidence in the record."  Sithe/Independence 
+Power Partners, L.P. v. FERC, 165 F.3d 944, 948 (D.C. Cir. 
+1999) (quotations omitted).  Because of the highly technical 
+and policy-based nature of rate design, the court's review of 
+whether a particular rate design is just and reasonable is 
+highly deferential.  CPUC, 254 F.3d at 254.  Absent proce-
+dural or methodological flaws, the court may only set aside a 
+rate that is outside a zone of reasonableness, bounded on one 
+end by investor interest and the other by the public interest 
+against excessive rates.  Jersey Cent. Power & Light Co. v. 
+FERC, 810 F.2d 1168, 1176-77 (D.C. Cir. 1987) (describing 
+the standard in FPC v. Hope Natural Gas Co., 320 U.S. 591 
+(1944)).  Pertinent here, the Supreme Court explained:
+
+     The court's responsibility is not to supplant the Commis-
+     sion's balance of these interests [investor and public 
+     
+     interest] with one more nearly to its liking, but instead to 
+     assure itself that the Commission has given reasoned 
+     consideration to each of the pertinent factors.  Judicial 
+     review of the Commission's orders will therefore function 
+     accurately and efficaciously only if the Commission indi-
+     cates fully and carefully the methods by which, and the 
+     purposes for which, it has chosen to act, as well as its 
+     assessment of the consequences of its orders for the 
+     character and future development of the industry.
+     
+In re Permian Basin Area Rate Cases, 390 U.S. 747, 792 
+(1968).  FERC's findings of facts are conclusive if supported 
+by substantial evidence.  FPA s 313(b), 16 U.S.C. s 825l(b).
+
+     The CAISO's TAC methodology is a formula rate through 
+which the TRR of each participating transmission owner is 
+collected.  See generally CPUC, 254 F.3d at 254.  As such, 
+the TRR of each participating transmission owner can be 
+conceptualized not as its own rate but rather as a cost of the 
+CAISO.  Understood this way, Vernon's TRR need not be 
+independently subjected to the just and reasonable standard 
+of s 205, as PG&E contends.  While FERC does subject the 
+TRRs of jurisdictional participating transmission owners to 
+an independent s 205 just and reasonable review, FERC may 
+take a different approach as to Vernon, over which FERC 
+lacks independent jurisdiction, so long as FERC can ensure 
+by examining Vernon's TRR that the CAISO's rates will 
+ultimately be just and reasonable.
+
+     FERC's approach is to allow a non-jurisdictional entity to 
+file its costs directly with the FERC, in effect reducing 
+paperwork and speeding the regulatory process.  See Public 
+Utils. Comm'n, 660 F.2d at 824.  FERC then uses its review 
+of Vernon's filed costs--i.e., its TRR--to evaluate whether 
+the CAISO's jurisdictional rates are permissible, a form of 
+indirect regulation.  An analogous approach was upheld as to 
+small natural gas producers in FPC v. Texaco, Inc., 417 U.S. 
+380 (1974).  In Texaco, FERC allowed small gas producers to 
+sell gas at market prices even if those prices were above the 
+maximum area rates set by FERC, id. at 384, inasmuch as it 
+could indirectly regulate the rates of the small producers by 
+
+regulating them as costs of the large producers, id. at 384, 
+386-87.  The Supreme Court held that "the Commission is 
+free to engage in indirect regulation of small producers by 
+reviewing pipeline costs of purchased gas, providing that it 
+insures that the rates paid by pipelines, and ultimately borne 
+by the consumer, are just and reasonable."  Id. at 401.
+
+     In principle, then, there is no objection to the general 
+approach taken by FERC.  Neither FERC nor Vernon sug-
+gest that FPA s 201, exempting "a State or any political 
+subdivision of a State ... from the review provisions of 
+s 205," 16 U.S.C. s 824(f), bars FERC's review of Vernon's 
+TRR to the extent necessary to ensure that the CAISO's 
+rates are just and reasonable.  However, the only place 
+where FERC described this approach--the approach it now 
+relies upon in its brief--was in its Rehearing Order.  Its 
+explanation there of the standard it applied in implementing 
+that approach is limited to the statement:  "[W]e evaluated 
+Vernon's proposed TRR as a means of ensuring that the costs 
+ultimately charged by the ISO are just and reasonable."  
+Rehearing Order, 94 F.E.R.C. at 61,564.  Nowhere does 
+FERC elaborate on the application of this standard to Ver-
+non's TRR or to the CAISO's rates;  in other words, it is 
+unclear under what standard FERC reviewed Vernon's TRR 
+to ensure that a pass through of its costs by the CAISO 
+would be just and reasonable.  Typically, "[u]nder the Com-
+mission's cost-of-service ratemaking, before a utility's costs of 
+providing jurisdictional service will be disallowed, those costs 
+must be examined and found to be excessive or improper."  
+Ind. & Mich. Mun. Distribs. Ass'n, 62 F.E.R.C. p 61,189, at 
+62,237 (1993), aff'd sub nom. Ind. Mun. Power Agency v. 
+FERC, 56 F.3d 247 (D.C. Cir. 1995).  In its brief, FERC 
+recognizes that it generally judges pass-through costs using 
+this prudence test.  But this prudence standard is nowhere to 
+be found in the Orders at issue.
+
+     In contrast, elsewhere in the administrative proceedings, 
+the most prominently stated description of the approach that 
+FERC undertook was as follows:
+
+     [T]he purpose of our review is to determine whether 
+     Vernon's rate methodology, in the context of Vernon's 
+     participation in a Commission jurisdictional public utility 
+     ISO, will result in a just and reasonable component of the 
+     ISO's rates.
+     
+Vernon Order, 93 F.E.R.C. at 61,285;  accord Rehearing 
+Order, 94 F.E.R.C. at 61,563;  TAC Order, 93 F.E.R.C. at 
+61,389.  On its face, this statement suggests that FERC did 
+not consider Vernon's TRR only as a cost component of the 
+CAISO's formula rate, but rather reviewed Vernon's rate 
+methodology independently to determine if Vernon's TRR 
+was itself just and reasonable, albeit under an arguably less 
+strict standard of just and reasonable.  This is confirmed by 
+other statements in the Orders that FERC concluded that 
+Vernon's TRR was itself just and reasonable and not merely 
+that, when passed through into the CAISO's formula rate, the 
+CAISO's rate remained just reasonable:
+
+     [T]he Commission finds that Vernon's proposed rate 
+     methodology and resulting high voltage TRR, as modi-
+     fied, are just and reasonable.
+     
+Vernon Order, 93 F.E.R.C. at 61,283.
+
+     In the [Vernon Order], the Commission found that the 
+     proposed rate methodology and resulting TRR filed by 
+     the City of Vernon, in accordance with the ISO's alterna-
+     tive filing procedure, were just and reasonable as modi-
+     fied.
+     
+Rehearing Order, 94 F.E.R.C. at 61,562.
+
+     The filed protests by PG&E and Edison argued that all 
+aspects of Vernon's TRR had to be found just and reasonable 
+under the s 205 or comparable standard, Vernon Order, 93 
+F.E.R.C. at 61,284-85, and took issue with various claimed 
+costs of services, including the proper rate of return.  Id.  
+The CAISO sought guidance on three aspects of Vernon's 
+calculation of its TRR, regarding cost deferrals and use of 
+Edison's rate of return and depreciation factor.  Id. at 61,285.  
+FERC did address some of these concerns.  It directed 
+Vernon to modify its TRR by (1) using Edison's capital 
+
+structure as well as its return on common equity as a proxy 
+and (2) deleting unused transmission capacity expense.  Id. at 
+61,286.  In concluding that Vernon's "resulting high voltage 
+TRR" was just and reasonable, see Vernon Order, 93 
+F.E.R.C. at 61,282, and in addressing the evidence supporting 
+its costs provided by Vernon, see Rehearing Order, 94 
+F.E.R.C. at 61,564, FERC also considered the costs that 
+underlay Vernon's TRR.  We therefore reject PG&E's con-
+tention that FERC improperly relied solely on cost methodol-
+ogy.  But FERC never clarified and developed either the 
+approach or the standard that it applied in this case.
+
+     In justifying its approach, FERC stated:  "We believe that 
+the approach we took properly balances our duty to ensure 
+the justness and reasonableness of the ISO's rates with the 
+fact that Vernon itself is not jurisdictional for purposes of 
+FPA Section 205."  Rehearing Order, 94 F.E.R.C. at 61,564.  
+In none of the Orders on review did FERC expand on this 
+justification for its "approach" aside from noting that it may 
+approve other approaches in the future, id. at 61,563.
+
+     FERC's efforts to defend its approach on appeal are to no 
+avail.  First, FERC seeks to defend its vague standard under 
+the "end result" test identified in Hope Natural Gas, 320 U.S. 
+at 602.  However, it is long settled that "[e]xperience has 
+taught that a determination of whether the result reached is 
+just and reasonable requires an examination of the method 
+employed in reaching that result."  City of Charlottesville v. 
+FERC, 661 F.2d 945, 950 (D.C. Cir. 1981) (citing Permian 
+Basin Area Cases, 390 U.S. at 791-92).  Second, FERC 
+maintains, relying on CPUC, 254 F.3d 250, that as long as the 
+formula rate filed by the CAISO has been approved, it need 
+not conduct any separate review under s 205 of the CAISO's 
+pass through of Vernon's TRR costs via that formula rate.  
+But, FERC itself acknowledged in requiring FERC review of 
+non-jurisdictional TRRs that it "must be able to determine 
+that the pass through of costs by the [CAISO] to its custom-
+ers are just and reasonable."  Cal. Indep. Sys. Operator 
+Corp., 91 F.E.R.C. at 61,724.  Moreover, in CPUC, the court 
+held that separate s 205 review was unnecessary for "con-
+tracts that merely affect jurisdictional rates" because the 
+
+CAISO used a bid-based process to ensure that it paid as 
+little as possible for those contracts.  254 F.3d at 255.  The 
+Vernon TRR at issue, on the other hand, is filed directly with 
+FERC, and the CAISO has no authority to approve or 
+disapprove it, see TAC Order, 93 F.E.R.C. at 61,287, giving 
+Vernon "unfettered discretion to set the level of" its TRR, see 
+CPUC, 254 F.3d at 256 n.5.  FERC also appears to have 
+relied on its review of Vernon's TRR to deny future "collater-
+al" attacks on the justness and reasonableness of the 
+CAISO's pass through of Vernon's costs.  See Cal. Indep. 
+Sys. Operator Corp., 94 F.E.R.C. p 61,147, at 61,558 (2001).  
+Finally, FERC's reliance for the first time on appeal on FPA 
+s 206, which allows FERC or consumers to retroactively 
+challenge rates as not just and reasonable, as affording 
+consumers sufficient protections, is a post-hoc rationalization 
+of counsel, Burlington Truck Lines, Inc. v. United States, 371 
+U.S. 156, 168-69 (1962), that cannot cure the deficiency of the 
+initial review.
+
+     The only remaining question is what standard of review 
+should apply, and on this point it is clear that s 205 imposes a 
+"just and reasonable" standard.  FERC acknowledges that it 
+is required under s 205 to determine that the rate ultimately 
+charged by an ISO is "just and reasonable."  See Respon-
+dent's Br. at 22-23.  Yet the Orders on review reveal, as 
+noted, no method for ensuring this, neither specifying what 
+approach nor defining the standard FERC applied in deter-
+mining that the CAISO's rates were "just and reasonable" 
+after the inclusion of Vernon's TRR.  On appeal FERC does 
+not claim that its somewhat amorphous standards ensure that 
+Vernon's TRR itself will be just and reasonable.  While 
+FERC's approach might be acceptable if FERC tested the 
+final ISO composite rate (which included Vernon's require-
+ments) to determine whether it was just and reasonable, 
+FERC acknowledged at oral argument that the CAISO's rate 
+is filed without such review.  See generally CPUC, 254 F.3d 
+at 254.  Thus, "[a]t the very least, the [approach] is so 
+ambiguous that it falls short of that standard of clarity that 
+administrative orders must exhibit," see Texaco, 417 U.S. at 
+395-96, and a remand is required so that FERC can articu-
+late with clarity what approach and standard are governing 
+
+its review and how both ensure the CAISO's rates are just 
+and reasonable under s 205.
+
+                               III.
+
+     In light of the remand, we briefly address PG&E's conten-
+tion that FERC's method of review of Vernon's TRR was 
+arbitrary and capricious on several procedural and substan-
+tive grounds.
+
+     The claimed procedural error concerns FERC's denial of a 
+hearing.  PG&E maintains FERC precedent establishes that 
+all material, factual disputes warrant a hearing and discovery, 
+which were both denied to PG&E.  Inasmuch as FERC may 
+have to consider this question anew on remand, we need only 
+point out that FERC may properly deny an evidentiary 
+hearing if the issues, even disputed issues, may be adequately 
+resolved on the written record, at least where there is no 
+issue of motive, intent, or credibility.  Texaco, Inc. v. FERC, 
+148 F.3d 1091, 1100 (D.C. Cir. 1998).  PG&E does not con-
+tend that the disputed issues could not be resolved on the 
+written record and offers no evidence that would have re-
+quired such a hearing.  Its contentions pose legal and policy 
+disputes as to the appropriateness of the evidence provided 
+by Vernon, see Carnegie Natural Gas Co., 47 F.E.R.C. 
+p 63,025, at 65,063 (1989), and as such do not warrant a 
+hearing, Union Pac. Fuels, Inc. v. FERC, 129 F.3d 157, 164 
+(D.C. Cir. 1997).  Under the circumstances, the court defers 
+to FERC's determination that a hearing was not required.  
+See Ala. Power Co. v. FERC, 993 F.2d 1557, 1565 (D.C. Cir. 
+1993).  That said, it does not follow that legal and policy 
+disputes about the sufficiency of the evidence might not 
+require further elaboration on remand.
+
+     The substantive errors, PG&E maintains, arise because 
+FERC (1) failed to look for cost justification of Vernon's TRR 
+and improperly declined to examine certain costs because 
+they were de minimis, and (2) did not justify Vernon's reli-
+ance on Edison's rates of return and depreciation.  FERC's 
+threshold response, that these contentions fail because PG&E 
+does not claim that the CAISO's rates are not just and 
+
+reasonable, misses the mark.  When PG&E contends that 
+FERC lacked adequate support to conclude that Vernon's 
+TRR was just and reasonable, PG&E is necessarily contend-
+ing that the CAISO's TAC, to the extent it has as a compo-
+nent Vernon's TRR, is not just and reasonable.  Indeed, any 
+failure by PG&E to challenge explicitly the CAISO's resulting 
+TAC may well be a result of FERC's amorphous analysis 
+purporting to determine, under an unspecified standard of 
+review, that Vernon's TRR was a just and reasonable compo-
+nent of the CAISO's rate.  In the end, FERC's responsibility 
+appears the same:  whatever standard it might apply, it must 
+be able to show that there was substantial evidence to sup-
+port the conclusion that the CAISO's rates after the inclusion 
+of Vernon's TRR are just and reasonable and that this 
+conclusion was not arbitrarily and capriciously reached.
+
+     Regarding costs, "it has come to be well established that 
+electrical rates should be based on the costs of providing 
+service to the utility's customers, plus a just and fair return 
+on equity."  Ala. Elec. Coop., Inc. v. FERC, 684 F.2d 20, 27 
+(D.C. Cir. 1982).  FERC generally requires that rates be cost 
+supported.  Id.  PG&E maintains that FERC improperly 
+relied solely on sworn cost support and testimony and that 
+there is a lack of specific evidence to support FERC's conclu-
+sions;  according to PG&E, this prevented FERC from inves-
+tigating why Vernon's costs were proportionately so much 
+higher than Edison's. With respect to the administrative and 
+general costs, PG&E contends that FERC departed from 
+pre-existing precedent not to disregard de minimis costs, 
+citing People's Elec. Coop., 84 F.E.R.C. p 61,229 (1998);  N. 
+Ind. Pub. Serv. Co., 66 F.E.R.C. p 61,213 (1994), when it 
+justified its review of those costs by pointing out that Ver-
+non's administrative and general expense was approximately 
+0.04 percent of the CAISO's rate.  Rehearing Order, 94 
+F.E.R.C. at 61,564 n.7.
+
+     FERC persuasively responds that it did review the costs 
+underlying Vernon's proposed rate methodology and that in 
+large part they were "objectively verifiable."  Although the 
+supporting data for Vernon's TRR costs do not meet the 
+requirements of 18 C.F.R. s 35.13, which apply to the rate 
+
+filings of jurisdictional utilities, PG&E never specifically rais-
+es this as a challenge to the Orders and, more importantly, 
+for reasons discussed in Part II, FERC need not apply to 
+non-jurisdictional utilities the requirements of its regulations 
+applicable to jurisdictional utilities.  In the Rehearing Order, 
+FERC discussed each element of Vernon's costs, noting that 
+most of its costs were specified in work papers from various 
+"transmission projects" in which Vernon had ownership inter-
+ests and came from expenses paid to other utility corpora-
+tions for transmission of Vernon's electricity, expenses that 
+were "a pass through of verifiable transmission expenses" 
+paid to those utilities.  Rehearing Order, 94 F.E.R.C. at 
+61,564.  With respect to Vernon's administrative and general 
+costs, FERC reviewed this cost, indicating that it was approx-
+imating 0.04 percent of the CAISO's rate, a sufficient analysis 
+to defeat PG&E's contention that FERC departed from pre-
+existing precedent not to disregard de minimis costs.  Given 
+our deferential standard of review, FERC's review of Ver-
+non's costs was not arbitrary and capricious.  Rather, the 
+more fundamental problem is the amorphous standard by 
+which FERC has reviewed the impact of Vernon's TRR on 
+the CAISO's rates.
+
+     Regarding Vernon's use of Edison as a proxy for the rate 
+of return on common equity and the depreciation rate, the 
+Orders on review provide only an inadequate conclusory 
+statement that FERC thought use of Edison as a proxy was 
+appropriate because Edison and Vernon were in the same 
+TAC area.  Vernon Order, 93 F.E.R.C. at 61,286.  Not only 
+does the record reflect that Vernon itself sought to distin-
+guish itself from Edison, at least for the purposes of being 
+allowed to include unused transmission expense in its TRR, 
+the filed protests presented unanswered challenges to allow-
+ing Vernon to use Edison's rates.  Vernon Order, 93 F.E.R.C. 
+at 61,284;  see also Rehearing Order, 94 F.E.R.C. at 61,563.  
+While use of a surrogate capital structure or return on equity 
+may be appropriate for a governmental entity, FERC did not 
+explain why such a proxy was necessary nor justify the 
+selection of Edison as a surrogate by considering and examin-
+ing, for example, whether Vernon and Edison share common 
+
+risks.  Cf. S. Cal. Edison Co., 92 FERC p 61,070, at 61,264-67 
+(2000).  Vernon's use of Edison's rate-making methodology 
+bears no obvious correlation to an appropriate return on 
+equity for Vernon, and mere geographical proximity hardly 
+appears, absent further explanation, a sufficient warrant for 
+the same return on equity or the same capital structure.  A 
+similar problem exists with regard to FERC's explanation of 
+its approval of Vernon's reliance on Edison's 3.2% rate of 
+depreciation.  FERC's conclusion that its choice is "reason-
+able," Rehearing Order, 94 F.E.R.C. at 61,565, is thus insuffi-
+cient to survive arbitrary and capricious review.
+
+     Perhaps on remand FERC may be able to provide an 
+adequate explanation for allowing Vernon to use Edison as a 
+proxy.  FERC did adequately explain in the Rehearing Order 
+that the "alternative proposal to use a cost of capital equiva-
+lent to the debt costs of other California municipals does not 
+represent a superior proxy for Vernon[, because] Vernon's 
+facilities were not financed with tax-exempt debt or bonds of 
+any kind."  Rehearing Order, 94 F.E.R.C. at 61,565.  Howev-
+er, the rejection of a single alternative does not alone warrant 
+adoption of Edison as a proxy.  On appeal, FERC maintains 
+that it was necessary for Vernon to rely on Edison's capital 
+structure and overall return as a proxy because Vernon's 
+return could only be measured indirectly, and Vernon and 
+Edison had the same risks because they provide services in 
+the same TAC area.  The Orders on review do not provide 
+that explanation and the court cannot rely on FERC's post 
+hoc justifications for its action.  Burlington Truck Lines, 371 
+U.S. at 168-69.
+
+     Accordingly, because the Orders on review provided no 
+explanation as to how or why FERC's review of Vernon's 
+TRR produced the necessary result, namely, just and reason-
+able rates for the CAISO, we grant the petition and remand 
+the case for further proceedings.  In doing so we are not 
+unmindful of the complexities underlying Order No. 2000 and 
+FERC's regional approach, and that FERC may wish to 
+retain flexibility regarding the nature of its review of the 
+TRRs of individual non-jurisdictional entities.  Vernon Order, 
+93 F.E.R.C. at 61,285.  Nevertheless, while FERC has discre-
+
+tion in formulating its approach with respect to a non-
+jurisdictional utility, the choice it makes must ensure that the 
+CAISO's rates meet the just and reasonable standard of 
+s 205.
+
+                                                    

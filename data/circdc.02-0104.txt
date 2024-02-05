@@ -1,0 +1,723 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 8, 2002       Decided May 31, 2002 
+
+                      Nos. 01-5157 & 01-5158
+
+                        Robert Lederman, 
+                            Appellant
+
+                                v.
+
+                United States of America, et al., 
+                            Appellees
+
+          Appeals from the United States District Court 
+                  for the District of Columbia 
+                         (No. 99cv03359)
+
+     Neal Goldfarb argued the cause for appellant/cross-
+appellee.  With him on the briefs was Arthur B. Spitzer.
+
+     Marina Utgoff Braswell, Assistant U.S. Attorney, argued 
+the cause for appellees/cross-appellants.  With her on the 
+briefs were Roscoe C. Howard, Jr., U.S. Attorney, and R. 
+Craig Lawrence, Assistant U.S. Attorney.
+
+     Before:  Edwards and Tatel, Circuit Judges, and 
+Silberman, Senior Circuit Judge.
+
+     Opinion for the Court filed by Circuit Judge Tatel.
+
+     Concurring opinion filed by Senior Circuit Judge Silber-
+man.
+
+     Tatel, Circuit Judge:  In this interlocutory appeal, we 
+consider a facial First Amendment challenge to a regulation 
+banning leafleting and other "demonstration activit[ies]" on 
+the sidewalk at the foot of the House and Senate steps on the 
+East Front of the United States Capitol.  Finding that the 
+sidewalk is a public forum and that no part of the ban is 
+narrowly tailored to further a significant governmental pur-
+pose, we declare the ban unconstitutional.  Because the Capi-
+tol Police violated no clearly established legal rules in arrest-
+ing Appellant for leafleting in violation of the ban, however, 
+we conclude that the officers named in Appellant's Bivens 
+claim are entitled to qualified immunity.
+
+                                I.
+
+     The United States Capitol Grounds extend from Union 
+Station in the North to Virginia Avenue in the South, and 
+from Second Street Northeast to Third Streets North- and 
+Southwest, encompassing the Capitol itself as well as House 
+and Senate office buildings, a power plant, press areas, and 
+public open space.  See Traffic and Motor Vehicle Regula-
+tions for the United States Capitol Grounds ("Capitol 
+Grounds Regulations") Demonstration Areas Map.  This case 
+involves only the smaller, approximately sixty-acre area of 
+grass, trees, sidewalks, and a few paved plazas--designed by 
+Frederick Law Olmstead in the late 1870s--that surrounds 
+the Capitol.  See Architect of the Capitol, History of the U.S. 
+Capitol Grounds, at http://www.aoc.gov/cc/grounds/g_ 
+history.htm (last visited Apr. 22, 2002).  Although barricades 
+prevent vehicles from entering this central area except 
+through designated gatehouses, no barriers impede pedestri-
+
+an access.  As a result, members of the public use the area 
+extensively, commuting to work, sightseeing, posing for pic-
+tures, jogging, and walking dogs.
+
+     Federal law charges the Capitol Police Board, consisting of 
+the Sergeant at Arms of the United States Senate, the 
+Sergeant at Arms of the House of Representatives, and the 
+Architect of the Capitol, with regulating "movement of all 
+vehicular and other traffic ... within the ... Capitol 
+Grounds."  40 U.S.C. s 212b(a).  Acting on this authority, the 
+Board promulgated a regulation that restricts "demonstration 
+activity" near the Capitol, delimiting areas in which such 
+activity is entirely barred ("no-demonstration zones"), and 
+areas in which demonstrations are allowed, subject to various 
+permitting requirements ("demonstration permit zones").  
+Capitol Grounds Regulations art. XIX, s 158, amend. II, & 
+Demonstration Areas Map.  "[D]emonstration activity" 
+means:
+
+     [P]arading, picketing, leafleting, holding vigils, sit-ins, or 
+     other expressive conduct or speechmaking that conveys a 
+     message supporting or opposing a point of view and has 
+     the intent, effect or propensity to attract a crowd or 
+     onlookers, but does not include merely wearing Tee 
+     shirts, buttons, or other similar articles of apparel that 
+     convey a message.
+     
+Id. s 158(a), amend. II.  This definition incorporates several 
+minor revisions made during the course of this litigation.  
+Because these revisions do not affect our analysis, however, 
+we refer only to the current version throughout the remain-
+der of this opinion.
+
+     In early 1997, the Capitol Police applied the demonstration 
+ban to a lone visitor to the Capitol Grounds, appellant Robert 
+Lederman, who was distributing leaflets in a "no-
+demonstration zone":  the sidewalk at the foot of the Senate 
+steps on the Capitol's East Front.  An artist participating in 
+the annual Arts Advocacy Day, Lederman sought to publicize 
+a lawsuit he and others had brought regarding artists' rights 
+to sell their work on public sidewalks in New York City.  In 
+addition to his leaflets, he carried a sign that read "Stop 
+Arresting Artists."  Lederman v. United States, 89 F. Supp. 
+
+2d 29, 31 (D.D.C. 2000) ("Lederman I").  Capitol Police 
+officers approached Lederman and informed him that demon-
+strations were not permitted on the East Front sidewalk but 
+that he could continue to leaflet if he moved to the lawn on 
+the far side of the paved East Front Plaza--still in the 
+central part of the Capitol Grounds but approximately 250 
+feet from the Capitol.  Believing that he could not reach his 
+intended audience from the lawn, Lederman declined to 
+move.  The officers then asked him to wait in another "no-
+demonstration zone":  the identical sidewalk area at the foot 
+of the House steps.  While Lederman waited there, he re-
+sumed leafleting, and, after repeated warnings, appellees 
+Lieutenant Loughery and Officer McQuay arrested him.
+
+     Lederman was charged in D.C. Superior Court with violat-
+ing the Capitol Police Board's demonstration ban.  Finding 
+the ban "unconstitutional on its face and as applied to [Leder-
+man's] conduct," the Hearing Commissioner entered an un-
+published judgment of acquittal.  Id. at 31-32.  Lederman 
+then filed this suit in the United States District Court for the 
+District of Columbia, challenging the constitutionality of the 
+demonstration ban and seeking compensatory damages for 
+his arrest from various parties, including the Federal Govern-
+ment (under the Federal Tort Claims Act, 28 U.S.C. s 2674), 
+the District of Columbia (under 42 U.S.C. s 1983), and Lieu-
+tenant Loughery and Officer McQuay (under Bivens v. Six 
+Unknown Named Agents of the Fed. Bureau of Narcotics, 
+403 U.S. 388 (1971)).  To support his standing to bring a 
+facial challenge to the entire ban, Lederman stated that he 
+"wishe[d] to come to Washington in the future, on subsequent 
+Arts Advocacy Days and on other occasions, to engage in 
+constitutionally-protected demonstration activity in the no-
+demonstration zone--including, but not necessarily limited to, 
+leafleting and holding signs."  First Am. Compl. p 36;  see 
+also Lederman Decl. p 17.
+
+     The parties filed cross-motions for summary judgment, and 
+the district court issued a preliminary opinion declaring fa-
+cially unconstitutional and permanently enjoining enforce-
+ment of the portion of the ban that prohibits "other expres-
+sive conduct or speechmaking that conveys a message ... 
+
+and has the intent, effect or propensity to attract a crowd or 
+onlookers."  Lederman v. United States, 131 F. Supp. 2d 46, 
+53-55 (D.D.C. 2001) ("Lederman II") (internal quotation 
+marks and citation omitted).  In so ruling, the court made 
+clear that its order pertained only to the East Front sidewalk 
+where Lederman was arrested, not to the paved East Front 
+Plaza nor to the remainder of the "no-demonstration zone" 
+surrounding the Capitol.  Id. at 50-51.  The court also de-
+clined to address the constitutionality of the part of the ban 
+that proscribes parading, picketing, leafleting, holding vigils, 
+and sit-ins.  See id. at 49, 53-54 (focusing analysis on ban on 
+"other expressive conduct or speechmaking that conveys a 
+message ... ").  Turning to Lederman's Bivens claim against 
+Lieutenant Loughery and Officer McQuay, the district court 
+held that under "clearly established" First Amendment law in 
+the District of Columbia, expressive conduct on the Capitol 
+Grounds is protected unless it is "more disruptive or substan-
+tial than [conduct] normally engaged in by tourists."  Id. at 
+57.  Although the court believed there was "a material, 
+factual dispute as to whether [the officers] reasonably applied 
+[this 'tourist standard'] when they arrested [Lederman]," id., 
+it nevertheless concluded that because the Government failed 
+to prove the officers "acted reasonably or in compliance with 
+the ... standard," they could not invoke qualified immunity 
+as a defense to the Bivens claim, id. at 60.
+
+     All parties now appeal.  Lederman challenges the district 
+court's failure to extend its ruling to the similar demonstra-
+tion ban in "no-demonstration zones" other than the East 
+Front sidewalk, as well as its refusal to invalidate the entire 
+ban.  The Government defends the ban's constitutionality and 
+challenges the district court's qualified immunity determina-
+tion.  Considering these issues de novo, see, e.g., Sturdza v. 
+United Arab Emirates, 281 F.3d 1287, 1293 (2002) (noting 
+standard of review on summary judgment), we do not limit 
+our analysis--as did the district court--to the portion of the 
+ban that proscribes "expressive conduct or speechmaking that 
+conveys a message ... and has the intent, effect or propensi-
+ty to attract a crowd or onlookers."  Capitol Grounds Regula-
+
+tions art. XIX, s 158(a), amend. II.  Given Lederman's arrest 
+for leafleting and his intent to return to the Capitol Grounds 
+to engage in other expressive activity on the East Front 
+sidewalk, see supra p. 4, he has standing to challenge the 
+entire regulation because he has established a "distinct and 
+palpable" threat of future "direct injury"--arrest.  Meese v. 
+Keene, 481 U.S. 465, 472 (1987) (internal quotation marks and 
+citation omitted).
+
+                               II.
+
+     As the district court rightly observed, the "degree of First 
+Amendment scrutiny accorded to governmental decisions lim-
+iting speech on public property depends on whether the 
+property in question is a traditional public forum, a govern-
+ment-designated public forum, or a non-public forum."  Led-
+erman I, 89 F. Supp. 2d at 35.  To determine the constitu-
+tionality of the challenged demonstration ban, therefore, we 
+must decide whether the East Front sidewalk is a public 
+forum.  Lederman urges that we also consider the public 
+forum status of "no-demonstration zones" other than the 
+sidewalk where he was arrested, but we decline to do so on 
+the record before us.
+
+     In deciding how to classify the East Front sidewalk, we 
+have little maneuvering room, as courts have long recognized 
+that the Capitol Grounds as a whole meet the definition of a 
+traditional public forum:  They have traditionally been open to 
+the public, and their intended use is consistent with public 
+expression.  In Jeannette Rankin Brigade v. Chief of Capitol 
+Police, a three-judge panel of the United States District 
+Court for the District of Columbia, striking down a statute 
+that forbade " 'parad[ing], stand[ing], or mov[ing] in proces-
+sions or assemblages' " around the Capitol, concluded that the 
+Grounds are "an area to which access cannot be denied 
+broadly or absolutely."  342 F. Supp. 575, 583-84 (D.D.C. 
+1972) (three-judge panel) (quoting 40 U.S.C. s 193g).  The 
+Supreme Court summarily affirmed, making Jeannette Ran-
+kin Brigade binding precedent.  409 U.S. 972 (1972).  Later, 
+in Community for Creative Non-Violence v. Kerrigan 
+("CCNV"), we observed that "[t]here is no doubt that the 
+
+Capitol Grounds are a public forum."  865 F.2d 382, 383, 387 
+(1989) (upholding as "a reasonable time, place or manner 
+restriction" a regulation limiting the length of time during 
+which demonstration "[p]rops and [e]quipment" may remain 
+on the Grounds).  Clearly, therefore, the "Grounds (excluding 
+such places as the Senate and House floors, committee rooms, 
+etc.) have traditionally been open to the public," and "the 
+primary purpose for which the Capitol was designed--legis-
+lating"--is entirely consistent "with the existence of all pa-
+rades, assemblages, or processions which may take place on 
+the grounds."  Jeannette Rankin Brigade, 342 F. Supp. at 
+584.  Indeed, in Jeannette Rankin Brigade, the district court 
+observed that "the fundamental function of a legislature in a 
+democratic society assumes accessibility to [public] opinion."  
+Id.
+
+     Despite this controlling case law, the Government insists 
+the sidewalk is a nonpublic forum because it is " 'some special 
+type of enclave.' "  Appellees' Br. at 20 (quoting United 
+States v. Grace, 461 U.S. 171, 180 (1983)).  In making this 
+argument, the Government relies on the differences between 
+this case and Grace, in which the Supreme Court considered 
+the constitutionality of a statute that prohibited " 'display [of] 
+any flag, banner, or device designed or adapted to bring into 
+public notice any party organization, or movement' in the 
+United States Supreme Court building or on its grounds."  
+461 U.S. at 172-73 (alteration in original) (quoting 40 U.S.C. 
+s 13k (1949)).  The Court limited its consideration of the 
+constitutional issues to the area where Grace and her fellow 
+demonstrators had attempted to exercise their First Amend-
+ment speech rights--the "public sidewalks surrounding the 
+Court building."  Id. at 175.  Observing that "[s]idewalks ... 
+are among those areas of public property that traditionally 
+have been held open to the public for expressive activities," 
+id. at 179, the Court concluded that the sidewalks surround-
+ing the Court building were no exception.  Writing for the 
+majority, Justice White elaborated:
+
+     The sidewalks comprising the outer boundaries of the 
+     Court grounds are indistinguishable from any other side-
+     walks in Washington, D.C.....  There is no separation, 
+     
+     no fence, and no indication whatever to persons stepping 
+     from the street to the curb and sidewalks ... that they 
+     have entered some special type of enclave....  "Con-
+     gress ... may not by its own ipse dixit destroy the 
+     'public forum' status of streets and parks which have 
+     historically been public forums...."
+     
+Id. at 180-81 (quoting United States Postal Serv. v. Green-
+burgh Civic Ass'ns, 453 U.S. 114, 133 (1981) (alteration in 
+original)).  Distinguishing Grace, the Government contends 
+that the East Front sidewalk "is significantly different" from 
+the sidewalks around the Court because the former "abuts 
+the Capitol Building, is well within the Capitol Grounds, and 
+does not run parallel to any city street."  Appellees' Br. at 
+19-20.  Unlike in Grace, however, where the Supreme Court 
+expressly declined to consider whether the Court building 
+and the remainder of its grounds are a public forum, in this 
+case the entire Capitol Grounds are a public forum.  As a 
+result, the Government cannot prevail by establishing that 
+the East Front sidewalk "is well within" those Grounds.  
+Rather, to convince us the sidewalk is not a public forum, the 
+Government must establish that the sidewalk differs from the 
+remainder of the public Grounds in ways that make it unique-
+ly "nonpublic."
+
+     Perhaps recognizing this requirement, the Government 
+next argues that "[i]t is entirely possible ... to have property 
+within areas constituting a traditional public forum be consid-
+ered a nonpublic forum."  Id. at 22.  As evidence that the 
+East Front sidewalk warrants such an exemption, the Gov-
+ernment asserts:  "[t]he sidewalk ... has never been available 
+to the public for expressive activity," id. at 20;  Congress 
+Members' use of the sidewalk for "quick and unimpeded 
+access to the House and Senate floors" is "not consistent with 
+public debate and assembly," id. at 22-23;  and finally, the 
+sidewalk's function as a security perimeter around the Capitol 
+is equally incompatible with public use, id. at 23-24.  We are 
+unpersuaded.  To begin with, the sidewalk has never been 
+available for public expression primarily because, for almost a 
+century, such expression was prohibited anywhere on the 
+Capitol Grounds by the very statute declared unconstitutional 
+
+in Jeannette Rankin Brigade.  342 F. Supp. at 587-88.  If 
+"time, place, or manner restrictions can[not] bootstrap them-
+selves into validity by their mere existence, even if pro-
+longed," Henderson v. Lujan, 964 F.2d 1179, 1183 (D.C. Cir. 
+1992) (emphasis added), then unconstitutional restrictions cer-
+tainly cannot, by their mere existence, bootstrap subsequent 
+restrictions into validity.
+
+     The Government's arguments regarding the limited uses of 
+the East Front sidewalk are equally unconvincing.  True, we 
+have recognized that an area's "specialized use[s] may out-
+weigh the attributes that would otherwise mark [it] as [a] 
+public forum[ ]," but the Government has failed to meet its 
+"burden ... to show that the [sidewalk's] use [is] overwhelm-
+ingly specialized."  Id. at 1182.  Even assuming, as did the 
+district court, that the sidewalk "is used primarily by people 
+coming to and from the Capitol building," Lederman II, 131 
+F. Supp. 2d at 51, we do not think that use sufficiently 
+"specialized" to warrant distinguishing the sidewalk from the 
+remainder of the Grounds for purposes of the public forum 
+analysis.  If people entering and leaving the Capitol can avoid 
+running headlong into tourists, joggers, dogs, and strollers--
+which the Government apparently concedes, as it has not 
+closed the sidewalk to such activities--then we assume they 
+are also capable of circumnavigating the occasional protester.  
+That "clusters of individual demonstrators could ... impede 
+access to the Capitol," Appellees' Br. at 23, is immaterial:  
+Although such concerns may provide a basis for reasonable 
+restrictions on the duration or size of a sidewalk demonstra-
+tion, they cannot justify classifying the area as a nonpublic 
+forum.  We likewise reject the proposition that demonstra-
+tors of any stripe pose a greater security risk to the Capitol 
+building and its occupants than do pedestrians, who may 
+come and go anonymously, travel in groups of any size, carry 
+any number of bags and boxes, and linger as long as they 
+please.  Again, the Government could address its concern--
+the presence of "groups too large to surveil individually," 
+carrying "unscreened personal containers and belongings," 
+id.--through reasonable time, place, or manner restrictions 
+that, for example, limit the size of group demonstrations or 
+the number of individual demonstrators.
+
+     Finally, United States v. Kokinda, 497 U.S. 720 (1990), 
+which the Government cites for the proposition that all side-
+walks are not necessarily public forums, does not control this 
+case.  For one thing, although a plurality of the Kokinda 
+Court upheld the constitutionality of a U.S. Postal Service 
+regulation prohibiting individuals from "soliciting alms and 
+contributions" on the sidewalk leading from the Bowie, Mary-
+land Post Office to the post office parking lot, id. at 722-23, 
+only four Justices agreed with the Government that the 
+sidewalk in question was a nonpublic forum, id. at 730.  
+Moreover, analyzing the public forum issue for the Chief 
+Justice and Justices White and Scalia, Justice O'Connor 
+focused on the fact that the sidewalk "le[d] only from the 
+parking area to the front door of the post office" and "was 
+constructed solely to assist postal patrons to negotiate the 
+space between the parking lot and the front door of the post 
+office, not to facilitate the daily commerce and life of the 
+neighborhood or city."  Id. at 727-28.  In contrast, the side-
+walk at issue here wraps around the Capitol's East Front 
+almost without interruption, providing pedestrian access to 
+the entire front of the building in addition to the doors, 
+thereby facilitating tourist access to the Capitol--a center-
+piece of our democracy.
+
+     In short, although the East Front sidewalk borders no 
+public streets, it is "continually open, often uncongested, and 
+constitutes not only a necessary conduit in the daily affairs of 
+[the city's] citizens, but also a place where people may enjoy 
+the open air or the company of friends and neighbors," 
+Heffron v. Int'l Soc'y for Krishna Consciousness, Inc., 452 
+U.S. 640, 651 (1981), and a place from which tourists may 
+view and photograph the Capitol.  Under these circum-
+stances, we agree with the district court that, like the rest of 
+the Capitol Grounds, the sidewalk is a traditional public 
+forum.
+
+                               III.
+
+     Because the East Front sidewalk is a public forum, "the 
+government's ability to permissibly restrict expressive con-
+
+duct [there] is very limited:  [It] may enforce reasonable time, 
+place, and manner regulations as long as the restrictions 'are 
+content-neutral, are narrowly tailored to serve a significant 
+government interest, and leave open ample alternative chan-
+nels of communication.' "  Grace, 461 U.S. at 177 (quoting 
+Perry Educ. Ass'n v. Perry Local Educators' Ass'n, 460 U.S. 
+37, 45 (1983)).  Lederman principally argues that the ban (1) 
+is not narrowly tailored to controlling traffic and promoting 
+security around the Capitol, and (2) fails to leave open ample 
+alternative channels of communication.  Because we agree 
+with the former, we do not address the latter.
+
+     We begin with the principles that guide our narrow tailor-
+ing analysis.  First, we "closely scrutinize" challenged speech 
+restrictions "to determine if [they] indeed promote[ ] the 
+Government's purposes in more than a speculative way."  
+CCNV, 865 F.2d at 390.  Second, per se bans on expressive 
+conduct are inherently suspect.  See Grace, 461 U.S. at 182 
+(questioning the need for a "total ban" on carrying flags and 
+banners).  Third, while the Government "must be afforded a 
+reasonable measure of discretion in determining how best to 
+promote" its identified interests, the Constitution does not 
+tolerate "regulations that, while serving their purported aims, 
+prohibit a wide range of activities that do not interfere with 
+the Government's objectives."  CCNV, 865 F.2d at 390.  
+Fourth, "[t]he fact that a substantially less restrictive regula-
+tion [would] be equally effective in promoting the same ends 
+may be relevant" to the constitutional analysis.  Id.
+
+     The first principle presents little difficulty in this case.  We 
+need not "speculat[e]" at all to assume that the demonstration 
+ban discourages some people from coming to the East Front 
+sidewalk to express themselves, thereby reducing pedestrian 
+traffic and decreasing risks to the Capitol and its occupants.  
+Thus, the Board could reasonably have concluded that the 
+ban would serve those interests.
+
+     The remaining principles, however, reveal the ban's pro-
+found flaws.  To begin with, it imposes precisely the sort of 
+"total" restriction on certain types of speech that the Su-
+preme Court "question[ed]" in Grace.  461 U.S. at 182.  Even 
+
+if we read the ban narrowly--assuming that the sole qualifier 
+(that the activity in question must convey a message and have 
+the "intent, effect or propensity" to attract more than one 
+onlooker) modifies the entire list of proscribed activities, from 
+"parading" to "speechmaking"--that qualifier is of no prac-
+tical significance:  Demonstration activity always conveys a 
+message (that is, after all, its purpose), and it has the 
+"propensity" to attract more than one onlooker whenever it is 
+loud or obvious enough to be heard or noticed by more than 
+one passerby.  As the district court observed, "[i]t is hard to 
+conceive of much expression that a reasonable officer would 
+not find to be conveying a message[,] ... [and] an officer 
+reasonably could determine that any expressive conduct 
+meeting th[is] first definition, with the possible exception of 
+private conversations, has the ... 'propensity' to attract ... 
+onlookers." Lederman II, 131 F. Supp. 2d at 54.  The regula-
+tion's exemption of expressive tee-shirts and buttons is equal-
+ly insignificant.  As in Grace, the problem here is that certain 
+types of speech (parading, picketing, leafleting, vigils, sit-ins, 
+and speechmaking) are, even under a narrow reading, almost 
+entirely prohibited.  That the ban permits other types of 
+speech may establish that it "leave[s] open ample alternative 
+channels of communication," Grace, 461 U.S. at 177 (internal 
+quotation marks and citation omitted), but that fact hardly 
+demonstrates that the ban is narrowly tailored to its objec-
+tives.
+
+     The ban's absolute nature might be less troubling if--in 
+accordance with the third principle--all listed demonstration 
+activities could reasonably be expected to interfere with the 
+stated objectives of traffic control and safety.  Some banned 
+activities, however, cannot possibly pose that risk.  For exam-
+ple, a single leafleteer standing on the East Front sidewalk 
+will no more likely block traffic or threaten security than will 
+photographers, star-struck tourists, and landscape painters 
+complete with easels, but the Board has made no effort to 
+keep any of these latter individuals away from the Capitol.  
+"Freedom of expression ... would rest on a soft foundation 
+indeed if government could distinguish" between demonstra-
+tors and pedestrians on "a wholesale and categorical basis," 
+
+without providing evidence that demonstrators pose a greater 
+risk to identified government interests than do pedestrians.  
+Police Dep't of Chicago v. Mosley, 408 U.S. 92, 101 (1972).  
+We likewise doubt that "a group of congressional staffers" 
+standing "outside the Capitol arguing [loudly] about the latest 
+... bill" would impede traffic flow or raise security concerns, 
+yet "assuming that the ban was applied literally and even-
+handedly," such a group "would presumably be risking cita-
+tion or arrest for engaging in 'expressive conduct.' "  Leder-
+man I, 89 F. Supp. 2d at 41.
+
+     Perhaps the most troubling aspect of the Board's virtually 
+per se ban on expressive activity on the East Front sidewalk 
+is the ready availability of "substantially less restrictive" 
+alternatives that would "equally effective[ly]" promote safety 
+and orderly traffic flow.  CCNV, 865 F.2d at 390.  For 
+example, the Board could rely on existing laws that bar 
+visitors to the Capitol Grounds from "utter[ing] loud, threat-
+ening, or abusive language, ... engag[ing] in any disorderly 
+or disruptive conduct," or "obstruct[ing] ... or ... 
+imped[ing] passage through or within" the Grounds.  40 
+U.S.C. s 193f(b)(4)-(5).  Alternatively, the Board could re-
+quire permits for demonstrations on the sidewalk, limit the 
+duration of such demonstrations, restrict the number of indi-
+viduals who may demonstrate simultaneously, require that 
+demonstrators present bags and other personal possessions to 
+police officers for screening, or prohibit activities likely to 
+attract large crowds.  We emphasize that in listing these 
+alternatives, we do not intend to provide the Board with 
+specific suggestions for future regulations--indeed, we are 
+uncertain that every identified alternative would survive con-
+stitutional scrutiny, though some surely would.  Rather, our 
+list shows only that the Government could achieve its intend-
+ed objectives while also permitting some demonstrations on 
+the East Front sidewalk.
+
+     Moreover, because our hypothetical alternatives, like the 
+existing ban, aim at future speech, we find unconvincing the 
+Government's warning that striking down the current ban will 
+somehow preclude the Police Board from "enact[ing] regula-
+tions to address conduct reasonably expected to occur."  Ap-
+
+pellees' Br. at 28.  We well recognize that under established 
+First Amendment doctrine, the Government may issue rea-
+sonable, prospective, time, place, and manner regulations that 
+restrict expressive activity on the East Front sidewalk.  We 
+hold only that, as currently written, the demonstration ban 
+imposes "a serious loss to speech ... for a disproportionately 
+small governmental gain," White House Vigil for the ERA 
+Comm. v. Clark, 746 F.2d 1518, 1544 (D.C. Cir. 1984) (Wald, 
+J., concurring in the judgment in part and dissenting in part 
+on other grounds), thus violating the narrow tailoring require-
+ment.
+
+                               IV.
+
+     This brings us to the issue of Lieutenant Loughery's and 
+Officer McQuay's qualified immunity for arresting Lederman.  
+"Qualified immunity shields officials from liability for dam-
+ages so long as their actions were objectively reasonable, as 
+measured in light of the legal rules that were 'clearly estab-
+lished' at the time of their actions."  Kalka v. Hawk, 215 F.3d 
+90, 94 (D.C. Cir. 2000) (quoting Harlow v. Fitzgerald, 457 
+U.S. 800, 818-19 (1982)).  In analyzing this issue, we first 
+determine whether "the facts alleged show the officer's con-
+duct violated a constitutional right."  Saucier v. Katz, 533 
+U.S. 194, 201 (2001).  "[I]f a violation could be made out on a 
+favorable view of the parties' submissions, the next ... step is 
+to ask whether the right was clearly established."  Id.  If 
+existing law at the time of the violation "did not put the 
+officer on notice that his conduct would be clearly unlawful, 
+summary judgment based on qualified immunity is appropri-
+ate."  Id. at 202.
+
+     By finding the Police Board's demonstration ban unconsti-
+tutional, we have resolved the "threshold question," id. at 201:  
+Lederman's arrest violated his constitutional rights.  For 
+three reasons, however, we do not believe that existing law at 
+the time of the arrest "put [Lieutenant Loughery and Officer 
+McQuay] on notice that [their] conduct would be clearly 
+unlawful."  Id. at 202.  First, while Jeannette Rankin Bri-
+gade and CCNV establish that the Capitol Grounds as a whole 
+
+are a public forum, neither case discusses individual areas of 
+the Grounds, and we agree with the Government that some 
+areas within a large public forum may be nonpublic if their 
+"use" is "specialized."  Henderson, 964 F.2d at 1182.  Indeed, 
+the three-judge panel in Jeannette Rankin Brigade suggest-
+ed that its First Amendment analysis might have produced a 
+different result if the expressive conduct at issue had oc-
+curred "near or in the immediate vicinity of the Capitol 
+itself."  342 F. Supp. at 584 (internal quotation marks omit-
+ted).  While we now explicitly hold that the First Amendment 
+analysis does not, in fact, differ on the East Front sidewalk, 
+we nevertheless think a reasonable police officer could have 
+believed that the sidewalk's proximity to the Capitol altered 
+the First Amendment balance with respect to demonstration 
+activities there.
+
+     Second, we agree with the Government that because nar-
+row tailoring is "not an exact science," a reasonable officer 
+should not be expected to perform that analysis prior to 
+arresting an individual for violating an ostensibly lawful time, 
+place, and manner restriction governing expressive activity in 
+a public forum.  Appellees' Br. at 52.  As the Supreme Court 
+stated in a different context prior to Harlow:
+
+     The enactment of a law forecloses speculation by enforce-
+     ment officers concerning its constitutionality--with the 
+     possible exception of a law so grossly and flagrantly 
+     unconstitutional that any person of reasonable prudence 
+     would be bound to see its flaws.  Society would be ill-
+     served if its police officers took it upon themselves to 
+     determine which laws are and which are not constitution-
+     ally entitled to enforcement.
+     
+Michigan v. DeFillippo, 443 U.S. 31, 38 (1979);  see also 
+Grossman v. Portland, 33 F.3d 1200, 1210 (9th Cir. 1994) 
+("[A]n officer who reasonably relies on the legislature's deter-
+mination that a statute is constitutional should be shielded 
+from personal liability.").  Although the demonstration ban is 
+a regulation not a statute, we think a similar standard applies 
+here.  While we find the ban's sheer breadth astonishing, we 
+
+recognize that the Police Board made some attempt at tailor-
+ing--it exempted expressive tee-shirts and buttons and in-
+cluded the phrases regarding "convey[ing] a message" and 
+"ha[ving] the intent, effect or propensity to attract a crowd or 
+onlookers."  Capitol Grounds Regulations art. XIX, s 158(a), 
+amend. II.  Although those qualifiers cannot begin to satisfy 
+the narrow tailoring requirement, see supra pp. 11-12, we 
+think their inclusion in the ban keeps it from being "so 
+grossly and flagrantly unconstitutional," DeFillippo, 443 U.S. 
+at 38, that the officers should have recognized its flaws.
+
+     Third, as the Government points out, the East Front 
+sidewalk "has never been available to the public for expres-
+sive activity."  Appellees' Br. at 20;  see also supra pp. 8-9.  
+Although the longstanding policy of prohibiting demonstra-
+tions around the Capitol cannot "bootstrap" the current ban 
+"into validity," Henderson, 964 F.2d at 1183, we do think that 
+policy could have misled a reasonable police officer as to the 
+ban's constitutionality.
+
+     Finally, we must consider the significance of the District of 
+Columbia Court of Appeals' "tourist standard," on which the 
+district court relied.  See supra p. 5.  To begin with, contrary 
+to Lederman's assertion, we have never "held" that the 
+tourist standard "governs" the constitutionality "of arrests for 
+demonstration activity on the Capitol Grounds."  Appellant's 
+Br. at 38.  Rather, in Dellums v. Powell, the lone case in 
+which we cited the standard, we were applying a District of 
+Columbia law that District courts had "definitively construed" 
+to incorporate the standard.  566 F.2d 167, 177 (D.C. Cir. 
+1977) (citing United States v. Nicholson, Nos. 20210-69A et 
+al. (D.C.Ct. of Gen.Sess. June 19, 1969), aff'd, 263 A.2d 56 
+(D.C.App. 1970)).  Of course, that we have never incorporated 
+the tourist standard into our First Amendment jurisprudence 
+does not resolve the qualified immunity issue because, in 
+evaluating what constitutes "clearly established statutory or 
+constitutional rights of which a reasonable person would have 
+known," Harlow, 457 U.S. at 818, we must look not just to 
+federal case law, but also to the law of the highest court in 
+the state in which the case arose, see Doe v. Delie, 257 F.3d 
+309, 321 n.10 (3d Cir. 2001) (reviewing federal appellate 
+
+decisions regarding what constitutes "clearly established" 
+law).
+
+     Even if the tourist standard represents "clearly estab-
+lished" law, however, two factors convince us that the stan-
+dard does not bar qualified immunity for the officers in this 
+case.  First, although the District of Columbia Court of 
+Appeals has stated that it "impose[s] the 'tourist standard' to 
+save content-neutral statutes regulating the time, place, and 
+manner of expression from unconstitutionality in their appli-
+cation," Berg v. United States, 631 A.2d 394, 398 (D.C. 1993), 
+we have found no case in which the court has applied the 
+standard to any federal law or regulation.  Even assuming 
+that the appeals court would apply the standard to the 
+demonstration ban and other federal laws if given the oppor-
+tunity, we see no basis for requiring reasonable police officers 
+to foresee that possibility.  Second, we are unpersuaded that 
+Lederman's leafleting "clearly" met the standard.  Because 
+District of Columbia courts have never applied the standard 
+to a case involving leafleting, we think a reasonable police 
+officer could conclude that leafleting, which requires some 
+minimal personal interaction between the leafleteer and his 
+audience, is "more disruptive" to passing pedestrians, includ-
+ing Members of Congress and their staff, than the conduct of 
+an average tourist.
+
+     Overall, therefore, whether we review only the officers' 
+conduct in relying on the unconstitutional demonstration ban, 
+or consider also their alleged violation of the District of 
+Columbia tourist standard, we cannot conclude that their 
+arrest of Lederman violated his "clearly established" rights.  
+The officers are therefore entitled to qualified immunity.
+
+                                V.
+
+     We declare the entire demonstration ban unconstitutional, 
+find that Lieutenant Loughery and Officer McQuay are enti-
+tled to qualified immunity for their roles in Lederman's 
+arrest, and remand for entry of an injunction barring enforce-
+ment of the ban and for further proceedings consistent with 
+this opinion.
+
+                                                            So ordered.
+
+     Silberman, Senior Circuit Judge, concurring:  I concur in 
+the court's opinion.  We are certainly bound by Jeannette 
+Rankin Brigade v. Chief of Capitol Police, 342 F. Supp. 575 
+(D.D.C. 1972) (three judge panel), aff'd, 409 U.S. 972 (1972).  
+However, I think it is distinctly possible that the later Su-
+preme Court case, United States v. Grace, 461 U.S. 171 
+(1983), particularly the Court's implicit rejection of Justice 
+Marshall's position that the whole of the Supreme Court's 
+grounds are a traditional public forum, betokens a more 
+sympathetic reception to the government's arguments.  To be 
+sure, Jeannette Rankin Brigade was summarily affirmed, but 
+the Court rarely considers itself bound by the reasoning of its 
+prior opinions--which is why I have referred to it as a "non-
+court court," see United States v. Moore, 110 F.3d 99, 102 
+(D.C. Cir. 1997) (Silberman, J., dissenting from denial of 
+rehearing en banc)--let alone a summary affirmance. (Of 
+course, the Court's reluctance to offend Congress would not 
+be irrelevant.)
+
+     In light of my doubts as to how this case will be received by 
+the Supreme Court if certiorari is granted, I join my col-
+leagues' treatment of the Bivens claim.  However, I am 
+inclined to think that under applicable immunity law each of 
+the police officer's conduct should be judged as if he were the 
+lawyer for the Capitol Police.
+
+                                                 

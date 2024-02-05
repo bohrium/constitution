@@ -1,0 +1,502 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 5, 2002      Decided June 4, 2002 
+
+                           No. 01-1192
+
+                       Global NAPS, Inc., 
+                            Petitioner
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+              Verizon Telephone Companies, et al., 
+                           Intervenors
+
+             On Petition for Review of Orders of the 
+                Federal Communications Commission
+
+     Christopher W. Savage argued the cause and filed the 
+briefs for petitioner.
+
+     Lisa E. Boehley, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  With her on the 
+
+brief were John Rogovin, Deputy General Counsel, Richard 
+K. Welch, Associate General Counsel, John E. Ingle, Deputy 
+Associate General Counsel, Catherine G. O'Sullivan, and 
+Robert J. Wiggers, Attorneys, U.S. Department of Justice.  
+Nancy C. Garrison, Attorney, entered an appearance.
+
+     Aaron M. Panner argued the cause for intervenors.  With 
+him on the brief were Mark L. Evans, Michael E. Glover, 
+Edward H. Shakin, and Lawrence W. Katz.
+
+     Before:  Edwards, Rogers, and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Edwards.
+
+     Edwards, Circuit Judge:  The Telecommunications Act of 
+1996, Pub. L. No. 104-104 (Feb. 8, 1996), requires the Federal 
+Communications Commission ("FCC") to preempt the juris-
+diction of any state regulatory commission that "fails to act to 
+carry out its responsibility" to approve or reject interconnec-
+tion agreements entered into by local exchange carriers 
+("LECs").  47 U.S.C. s 252(e)(5).  In this case, Global NAPs, 
+Inc. ("GNAPs"), a LEC providing local exchange services in 
+Massachusetts and other Eastern states, has petitioned for 
+review of the FCC's refusal to preempt the regulatory au-
+thority of the Massachusetts Department of Telecommunica-
+tions and Energy ("DTE") over the interpretation of an 
+interconnection agreement between GNAPs and Verizon.
+
+     The disputed GNAPs-Verizon agreement provides that the 
+carriers shall pay "reciprocal compensation" to one another 
+for carrying and completing local calls made by customers of 
+one company to customers of the other.  Many of GNAPs' 
+customers are Internet Service Providers ("ISPs"), who need 
+telephone connections to provide their own customers with 
+dial-up Internet access.  However, the agreement does not 
+specify whether calls made to ISPs are "local" calls for which 
+reciprocal compensation is due.  Because this question has 
+been the source of much debate and confusion in the telecom-
+munications field, and because the financial stakes are high, 
+GNAPs sought a declaratory ruling from DTE that ISP-
+bound traffic is subject to reciprocal compensation under the 
+terms of its agreement with Verizon.  After waiting for the 
+
+state agency to act on this request for nearly eight months, 
+GNAPs filed a petition with the FCC, asking the federal 
+Commission to preempt DTE's jurisdiction and resolve the 
+issue itself.
+
+     Before the FCC responded to this request, DTE issued an 
+order dismissing GNAPs' claim as moot in light of the state 
+agency's decision that ISP-bound calls were not local within 
+the meaning of an identically worded interconnection agree-
+ment between Verizon and MCI WorldCom.  In light of 
+DTE's dismissal, the FCC concluded that the state commis-
+sion had not "fail[ed] to act to carry out its responsibility" 
+under s 252 and, therefore, that preemption was not warrant-
+ed.  GNAPs now petitions for review of the FCC decision, 
+arguing that the FCC misunderstood its obligations under 
+s 252(e)(5), which, the company insists, compels the Commis-
+sion to adjudicate the issue that DTE found to be moot.  We 
+reject the petition for want of merit.
+
+     We hold that the FCC's conclusion that s 252(e)(5) does 
+not empower it to look behind a state agency's dismissal of a 
+carrier's claim to evaluate the substantive validity of that 
+dismissal is both a reasonable interpretation of that provision 
+and consistent with the Commission's past practices and 
+precedents.  It is clear that DTE believed that it was conclu-
+sively resolving the issue of whether GNAPs had a right to 
+compensation from Verizon for the costs associated with 
+completing calls made to ISPs.  It does not matter whether 
+the state agency's position is correct on the merits.  Rather, 
+as the FCC found, what matters is that DTE did not fail to 
+act, so the federal Commission has no basis upon which to 
+preempt the regulatory authority of the state agency.  
+GNAPs' remedy lies not in FCC preemption, but rather in 
+judicial review of DTE's order, whether in federal or in state 
+court.
+
+                          I. Background
+
+     GNAPs is a competitive LEC that provides local telephone 
+service in several eastern states, including Massachusetts.  
+Among its customers are a number of ISPs, who use connec-
+
+tions supplied by GNAPs to allow their own customers to 
+establish dial-up access to the Internet.  Verizon is the 
+incumbent LEC operating in Massachusetts.  In April of 
+1997, as directed by the Telecommunications Act of 1996, 
+GNAPs and Verizon entered into an interconnection agree-
+ment, which provided that each carrier would receive "recip-
+rocal compensation" for completing calls made by one anoth-
+er's customers.  See 47 U.S.C. s 251(b)(5) (requiring LECs to 
+establish reciprocal compensation agreements).  Thus, Veri-
+zon agreed to compensate GNAPs for the costs that the latter 
+incurs when one of Verizon's subscribers calls a GNAPs 
+subscriber within the same local calling area.
+
+     By the terms of the agreement, this reciprocal compensa-
+tion obligation applies only to the "the transport and termi-
+nation of Local Traffic," that is, to calls both originated and 
+terminated in Massachusetts.  That definition, however, 
+leaves ambiguous whether "local traffic" includes ISP-bound 
+traffic.  Such calls are difficult to classify, because, while the 
+ISP itself may be located within Massachusetts, the actual 
+end-point of a call made to that provider may be a remote 
+Internet site well outside the Commonwealth.  Despite the 
+substantial sums of money at stake - millions of dollars, 
+according to GNAPs, see Br. for the Pet'r 5 n.9 - the carriers 
+made no attempt to resolve this ambiguity.  They did, howev-
+er, agree that whatever the proper interpretation, Verizon 
+would pay GNAPs for ISP-calls if it paid compensation for 
+such calls under the terms of identically worded interconnec-
+tion agreements that it had made with other LECs, including 
+MCI WorldCom.  And, following an October 1998 decision in 
+which DTE interpreted the Verizon/MCI WorldCom to re-
+quire compensation for the delivery of ISP-bound traffic, 
+Verizon began to pay such compensation to GNAPs as well.  
+See Complaint of WorldCom Technologies, Inc., D.T.E. 
+97-116 (Mass. DTE Oct. 21, 1998) ("October 1998 Order") 
+(Joint Appendix ["J.A."] 84).
+
+     The issue appeared settled until February 1999, when the 
+FCC issued an order holding that calls made to ISPs would 
+be considered as nonlocal for purposes of the Commission's 
+rules regulating reciprocal compensation.  See In re Imple-
+
+mentation of the Local Competition Provisions in the Tele-
+communications Act of 1996, Intercarrier Compensation for 
+ISP-Bound Traffic, 14 F.C.C.R. 3689 (Feb. 26, 1999) ("Recip-
+rocal Compensation Order"), vacated, Bell Atlantic Tel. Cos. 
+v. FCC, 206 F.3d 1 (D.C. Cir. 2000).  However, the FCC's 
+Reciprocal Compensation Order left open the possibility that 
+state regulators (such as DTE) could continue to treat ISP-
+bound traffic as local traffic, if interconnection agreements 
+between carriers so provided, whether explicitly or implicitly.  
+See Verizon Md. Inc. v. Public Serv. Comm'n of Md., 535 
+U.S. __, 122 S. Ct. 1753, 1757 (2002).
+
+     In the wake of the Reciprocal Compensation Order, Veri-
+zon asked DTE to reverse its October 1998 Order, and hold 
+that Verizon was no longer obligated to compensate other 
+carriers for ISP-bound calls.  The company then stopped 
+making such payments to GNAPs.  GNAPs responded to this 
+development in two ways.  First, it filed a new tariff with the 
+FCC in which it sought to impose a $.008 per minute charge 
+on the delivery of all ISP-bound calls for which GNAPs did 
+not receive compensation under an existing interconnection 
+agreement.  Verizon refused to pay, and challenged the valid-
+ity of the tariff before the FCC.  The Commission declared 
+the tariff unlawful and void ab initio, a decision eventually 
+affirmed by this court.  See Global NAPs, Inc. v. FCC, 247 
+F.3d 252 (D.C. Cir. 2001).  Second, on April 16, 1999, GNAPs 
+filed a complaint against Verizon with DTE, seeking a decla-
+ration that, under the terms of the carriers' interconnection 
+agreement, ISP-traffic was included in the category of local 
+traffic for which compensation was owed.
+
+     On May 19, 1999, DTE vacated its October 1998 Order.  
+See Complaint of MCI WorldCom, Inc., D.T.E. 97-116-C 
+(Mass. DTE May 19, 1999) ("May 1999 Order") (J.A.136).  
+The state agency declared that, in light of the Reciprocal 
+Compensation Order, nothing in either its own rules or those 
+of the FCC required Verizon to pay reciprocal compensation 
+for Internet-bound traffic.  At the same time, however, DTE 
+did not purport to decide whether ISP-traffic might still be 
+considered local under the terms of any particular intercon-
+
+nection agreement.  It merely held that no then-viable DTE 
+order mandated such a conclusion.  Therefore, the separate 
+contractual interpretation question regarding the meaning of 
+"Local Traffic" in the GNAPs-Verizon agreement was "a now-
+unresolved dispute."  Id. at 26 (J.A. 166).  In other words, 
+nothing in DTE's May 1999 Order purported to resolve the 
+complaint that GNAPs had filed against Verizon the previous 
+month.
+
+     DTE, however, did nothing in response to that complaint in 
+the subsequent months.  Finally, on December 9, 1999, 
+GNAPs petitioned the FCC to preempt DTE's regulatory 
+jurisdiction and decide for itself the question of whether 
+"Local Traffic" included ISP-bound calls.  Such preemption is 
+authorized by the Telecommunications Act of 1996, but only 
+where the "State commission fails to act to carry out its 
+responsibility under [s 252] in any proceeding or other mat-
+ter under [s 252]."  47 U.S.C. s 252(e)(5).  On February 25, 
+2000, before the FCC had acted on the preemption request, 
+DTE issued an order denying reconsideration of its May 1999 
+Order. In so doing, the state agency addressed GNAPs' 
+complaint:
+
+     In addition, we hereby dismiss as moot the Motion for 
+     Complaint of GNAPs in D.T.E. 99-39.  As noted above, 
+     in its Motion for Complaint, GNAPs sought a declaratory 
+     ruling from the Department that, under the terms of its 
+     interconnection agreement with [Verizon], GNAPs should 
+     be compensated for terminating ISP-bound traffic from 
+     [Verizon] customers.  The operative provisions of 
+     GNAPs' agreement (i.e. the definition of local traffic and 
+     the payment of reciprocal compensation) are in all mate-
+     rial respects the same as the provision in the MCI-
+     WorldCom agreement, which were the subject of the 
+     dispute in this proceeding (D.T.E. 97-116).  In that we 
+     have affirmed, above, our Order in D.T.E. 97-116-C 
+     concerning this very subject, we find that the GNAPs 
+     Motion for Complaint is moot.
+     
+Complaint of MCI WorldCom, Inc., D.T.E. 97-116-D, at 20 
+(Mass. DTE Feb. 25, 2000) ("February 2000 Order") (J.A. 
+
+269).  The May 1999 Order had not decided whether Veri-
+zon's interconnection agreements included Internet-bound 
+calls within the definition of "Local Traffic."  Nonetheless, 
+DTE's February 2000 Order determined that reaffirming its 
+previous order resolved the theretofore undecided interpre-
+tive question, and thus mooted GNAPs' complaint.
+
+     Soon after DTE's decision was released, the FCC's Com-
+mon Carrier Bureau ("CCB") denied GNAPs' petition for 
+preemption.  See In re Global NAPs, Inc., 15 F.C.C.R. 4942 
+(CCB Mar. 7, 2000) ("CCB Order") (J.A. 279).  In doing so, 
+CCB first noted that there was a reasonable question about 
+whether a dispute over the interpretation of an interconnec-
+tion agreement even constituted a "proceeding or other mat-
+ter under [s 252]" such that the FCC would have the power 
+to preempt under s 252(e)(5).  Id. at p p 5-7 (J.A. 281-82);  cf. 
+Verizon Md., 122 S. Ct. at 1758 (declining to decide whether a 
+state commission's decision interpreting an interconnection 
+agreement is a "determination under s 252").
+
+     In the end, however, the Bureau held that, because GNAPs' 
+complaint was no longer pending before DTE, there was 
+nothing for the FCC to preempt.  DTE had resolved the 
+matter, rejecting GNAPs' complaint.  See id. at p 7 (J.A. 282).  
+Moreover, CCB explained that the FCC's statutory preemp-
+tion authority did not empower the federal agency to examine 
+the "underlying reasoning" supplied by DTE for its conclu-
+sion.  The Bureau thus declined to look beyond DTE's deci-
+sion to question the substantive validity of the state agency's 
+judgment.  Id. at p 9 (J.A. 283).  On review, the FCC af-
+firmed CCB's order, agreeing with the Bureau's analysis in 
+all respects.  See In re Global NAPs, Inc., Order on Review, 
+16 F.C.C.R. 4976 (Feb. 21, 2001) (J.A. 388).  GNAPs now 
+challenges the Commission's decision before this court.
+
+                          II. Discussion
+
+     The single issue presented in this case is whether the FCC 
+reasonably determined that DTE did not "fail[ ] to act to 
+carry out its responsibility" to adjudicate the dispute between 
+GNAPs and Verizon over whether ISP-bound calls are "local" 
+
+within the meaning of their interconnection agreement.  Only 
+where there is such a failure does s 252(e)(5) obligate the 
+Commission to step in.  Otherwise - such as where the state 
+agency actually "makes a determination" under s 252 - there 
+is no statutory basis for FCC preemption. Under such cir-
+cumstances, an aggrieved party may bring an action for 
+judicial review in federal court under s 252(e)(6), or, if that 
+provision is inapplicable and there is no federal question at 
+issue, in state court.  Cf. Verizon Md., 122 S. Ct. at 1758-60 
+(holding that federal courts have jurisdiction to review deci-
+sions of state commissions interpreting interconnection agree-
+ments, at least where review turns on issues of federal law, 
+and that this jurisdiction is not stripped by s 252(e)(6)).
+
+     Section 252(e)(6), entitled "Review of State commission 
+actions," reads as follows:
+
+     In a case in which a State fails to act as described in 
+     paragraph (5), the proceeding by the Commission under 
+     such paragraph and any judicial review of the Commis-
+     sion's actions shall be the exclusive remedies for a State 
+     commission's failure to act.  In any case in which a State 
+     commission makes a determination under this section, 
+     any party aggrieved by such determination may bring an 
+     action in an appropriate Federal district court to deter-
+     mine whether the agreement or statement meets the 
+     requirements of section 251 of this title and this section.
+     
+Both the plain language and structure of this provision sug-
+gest that the remedies it authorizes are distinct and mutually 
+exclusive.  If a state commission fails to act, preemption is a 
+viable option;  however, if the state agency takes final action 
+disposing of the pending claim, that action can be undone only 
+by direct judicial review in the appropriate forum.  And, in 
+the present case, it does not matter whether DTE's decision 
+to dismiss GNAPs' complaint as moot was reasonable.  What 
+matters is that the FCC did not err in concluding that DTE's 
+February 2000 Order did not constitute a "failure to act."  
+Therefore, the FCC correctly held that DTE is not subject to 
+preemption.
+
+     When DTE issued its February 2000 Order, the state 
+agency believed that it was acting on, and disposing of, the 
+issues raised in GNAPs' Motion for Complaint.  For whatev-
+er reason, the state commission thought that upholding its 
+May 1999 Order decided (or reconfirmed) that ISP-bound 
+traffic was not local traffic under the Verizon-MCI WorldCom 
+agreement, and that this determination effectively resolved 
+the dispute between the parties to the Verizon-GNAPs agree-
+ment.  Even if the state agency's dismissal was premised on 
+faulty or incomprehensible legal reasoning, it nonetheless 
+constituted final action disposing of GNAPs' complaint.
+
+     In the Orders now on review, the FCC decided that it 
+would not preempt an already completed state proceeding, at 
+least where doing so would require the Commission to exam-
+ine the underlying reasoning given by the state agency for 
+terminating that proceeding.  See CCB Order, at p p 7-9 (J.A. 
+282-83);  Br. for Respondents 18-19.  In so holding, the FCC 
+has effectively construed s 252(e)(5) as not covering situa-
+tions where a state agency affirmatively acts to dispose of a 
+case, and in so doing at least purports to resolve the issues 
+presented to it.  See also In re Implementation of the Local 
+Competition Provisions in the Telecommunications Act of 
+1996, First Report and Order, 11 F.C.C.R. 15499, p 1285 
+(Aug. 8, 1996), aff'd in part, vacated in part, Iowa Utils. Bd. 
+v. FCC, 120 F.3d 753 (8th Cir. 1997), aff'd in part, rev'd in 
+part, sub nom. AT&T Corp. v. Iowa Utils. Bd., 525 U.S. 366 
+(1999) ("The Commission will not take an expansive view of 
+what constitutes a state's 'failure to act.'  Instead, the Com-
+mission interprets 'failure to act' to mean a state's failure to 
+complete its duties in a timely manner.").
+
+     The FCC's interpretation thus suggests that only if the 
+state commission either does not respond to a request, or 
+refuses to resolve a particular matter raised in a request, 
+does preemption become a viable option.  Under this reading, 
+the purpose of s 252(e)(5) is to hold out the FCC as an 
+alternative forum for the adjudication of certain disputes 
+related to interconnection agreements;  the statute does not 
+authorize the Commission to sit as an appellate tribunal to 
+review the correctness of state resolution of such disputes.  
+
+We believe that this understanding of the preemption provi-
+sion is neither incompatible with congressional intent nor 
+unreasonable.  Instead, it seems quite faithful to the key 
+statutory language:  in this context, "fails to act" suggests 
+incomplete action or no action, not misguided action.  See 
+Webster's Third New International Dictionary 814 (1993) 
+(defining "fail" when used with the infinitive as "to neglect to 
+do something;  leave something undone;  be found wanting in 
+not doing something").
+
+     Indeed, GNAPs' objection here seems less to DTE's sup-
+posed inaction than to the quality of its action.  Petitioner 
+thus focuses our attention on the "carry out its responsibility" 
+language in s 252(e)(5), suggesting that these words require 
+the FCC to take a more substantive look at what a state 
+commission has done before absolving itself of its duty to 
+preempt.  See Br. for Pet'r 20.  While this phrase may be 
+ambiguous, the FCC's preferred interpretation is entirely 
+plausible, and therefore commands deference under Step Two 
+of Chevron.  See Chevron U.S.A., Inc. v. Natural Res. Def. 
+Council, Inc., 467 U.S. 837, 843 (1984).
+
+     In essence, the Commission reasonably concluded that the 
+"responsibility" invoked by the statute is the state agency's 
+responsibility to make a determination - that is, to mediate, 
+to arbitrate, to approve, and (possibly) to interpret and 
+enforce an interconnection agreement - rather than the re-
+sponsibility to make a determination that is satisfactory to all 
+parties, or to the FCC itself.  This construction, which focus-
+es on whether the state agency has acted, rather than on the 
+quality of its action, is consistent with the text and structure 
+of the statute.  This approach also allows parties frustrated 
+by the results from a state commission to know immediately 
+whether to seek preemption or judicial review, thereby saving 
+the time and expense of simultaneous litigation on multiple 
+fronts.
+
+     Finally, GNAPs contends that the FCC's holding in this 
+case was inconsistent with the agency's previous decisions 
+under s 252(e)(5).  According to GNAPs, the Commission has 
+"consistently held that it is not bound by the mere fact that a 
+
+state regulator has issued an order, or by the mere words of 
+such an order, in assessing whether the state regulator has 
+acted to carry out its responsibility with regard to a dispute."  
+Br. for Pet'r 23 (internal quotation marks omitted).  GNAPs 
+points to two FCC decisions, neither one of which supports 
+GNAPs' position in this case.
+
+     The first decision involved a request for preemption 
+brought by MCI.  In that case, the Commission rejected the 
+argument that preemption was inappropriate merely because 
+a state agency had issued a final arbitration order.  See In re 
+Petition of MCI for Preemption Pursuant to Section 
+252(e)(5) of the Telecommunications Act of 1996, 12 F.C.C.R. 
+15594, at p 32 (Sept. 26, 1997).  However, the point of the 
+FCC's statement was merely that a state agency can fail to 
+act under s 252(e)(5) where it issues a general dismissal 
+order that does not resolve all issues "clearly and specifically" 
+presented to it.  See id. at p 27.  Indeed, in MCI, the FCC 
+ultimately declined to preempt, because the Missouri Public 
+Service Commission had acted on all such issues;  other 
+claims that the carrier argued should have been decided had 
+not been advanced with sufficient clarity and specificity to 
+make the state's agency's inaction a "failure to act" within the 
+meaning of s 252(e)(5).  See id. at p 36.
+
+     In the instant case, the claim over which GNAPs seeks 
+preemption - the definition of "Local Traffic" in its agree-
+ment with Verizon - was properly presented to DTE and the 
+state agency explicitly addressed that claim, finding it to be 
+moot.  Accordingly, there is no inconsistency between the 
+FCC's refusal to preempt here and its refusal to do so in 
+MCI.
+
+     The second decision to which GNAPs points involved a 
+situation in which the FCC actually did decide to preempt a 
+state commission's jurisdiction.  See In re Starpower Com-
+munications, LLC, Pet. for Preemption of Jurisdiction of the 
+Vir. State Corp. Comm'n Pursuant to Section 252(e)(5) of the 
+Telecommunications Act of 1996, 15 F.C.C.R. 11277 (June 14, 
+2000).  While it is true that the FCC concluded that "the 
+mere issuance of the [state] Commission's final order in each 
+
+proceeding" was insufficient to fulfill the state agency's re-
+sponsibilities under s 252(e)(5), id. at p 8, the Starpower 
+decision actually supports the FCC's position in the present 
+case.
+
+     Starpower concerned a preemption request brought by a 
+LEC that had sought - and failed to receive - a declaration 
+from a state agency (the Virginia State Corporation Commis-
+sion) that ISP-bound traffic was local under an interconnec-
+tion agreement.  The Virginia commission expressly declined 
+even to consider Starpower's petition and, instead, encour-
+aged the parties to seek relief from the FCC.  See id. at p 4.  
+Thus, when Starpower petitioned the FCC for preemption, 
+the federal agency accepted, explaining that "[b]ecause the 
+[state agency] decisions explicitly declined to take any action 
+with respect to Starpower's petitions ... we are compelled to 
+conclude that the Virginia Commission 'failed to act to carry 
+out its responsibility' under section 252."  Id. at p 7 (emphasis 
+added).
+
+     The FCC went on to note that, under Commission prece-
+dent, a state agency fulfills its responsibilities under 
+s 252(e)(5) "when it resolves the merits of a section 252 
+proceeding or dismisses such a proceeding on jurisdictional or 
+procedural grounds."  Id. at p 8.  This is just what DTE did 
+here.  In doing so, DTE - in stark contrast to the Virginia 
+commission - did not recommend that the parties turn to the 
+FCC for resolution of their dispute.  Instead, DTE acted as if 
+it was adjudicating (or at least confirming its earlier adjudica-
+tion) of GNAPs' complaint.  This decision may have produced 
+a questionable result, but it was hardly inaction.
+
+     In sum, MCI and Starpower support the Commission's 
+decision in this case.  In neither of those prior cases did the 
+FCC so much as suggest that a state agency's dismissal of an 
+issue on the merits constitutes a failure to act.  Quite the 
+opposite.  And because DTE acted here, the FCC's determi-
+nation that it lacked the authority under s 252(e)(5) to second 
+guess the validity of the state agency's decision under the 
+guise of preemption was neither contrary to the statute nor to 
+
+the Commission's past practices.  Accordingly, GNAPs' chal-
+lenge must fail.
+
+                         III. Conclusion
+
+     For the reasons given above, we hold that the FCC's 
+decision not to preempt DTE's jurisdiction over GNAPs' 
+complaint represented a reasonable interpretation of 
+s 252(e)(5).  We therefore deny the petition for review.
+
+                                                            It is so ordered.
+
+                                                                      

@@ -1,0 +1,1444 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+        Argued November 5, 1999     Decided June 16, 2000 
+
+                           No. 98-1526
+
+     Allied Local and Regional Manufacturers Caucus, et al., 
+                           Petitioners
+
+                                v.
+
+              U.S. Environmental Protection Agency, 
+                            Respondent
+
+         National Paint & Coatings Association, et al., 
+                           Intervenors
+
+                        Consolidated with
+                             98-1527
+
+            On Petitions for Review of Orders of the 
+                 Environmental Protection Agency
+
+     C. Boyden Gray argued the cause for petitioner Dunn-
+Edwards Corporation.  With him on the briefs were James 
+
+R. Wrathall and IJay Palansky.  Daniel H. Squire entered 
+an appearance.
+
+     William M. Smiland argued the cause for petitioners 
+Allied Local and Regional Manufacturers Caucus, et al.  With 
+him on the briefs were Christopher G. Foster and Albert M. 
+Cohen.
+
+     Scott J. Jordan, Attorney, U.S. Department of Justice, 
+argued the cause for respondent.  With him on the brief were 
+Lois J. Schiffer, Assistant Attorney General, and Geoffrey L. 
+Wilcox, Attorney, U.S. Environmental Protection Agency.  
+Eric G. Hostetler, Attorney, U.S. Department of Justice, 
+entered an appearance.
+
+     Nancy S. Bryson, Richard J. Mannix, Robert L. Rhodes 
+and Rena I. Steinzor were on the brief for intervenors.  
+Thomas J. Graves entered an appearance.
+
+     Before:   Ginsburg, Tatel, and Garland, Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  Petitioners in these consolidated 
+cases challenge final regulations promulgated by the Environ-
+mental Protection Agency (EPA) to limit the content of 
+volatile organic compounds in architectural coatings, including 
+paints.  The regulations were issued pursuant to section 
+183(e) of the Clean Air Act, which directs the agency to 
+regulate emissions from consumer and commercial products 
+to help achieve the national ambient air quality standard for 
+ozone.  Petitioners are Dunn-Edwards Corporation, a large 
+paint manufacturer, and Allied Local and Regional Manufac-
+turers Caucus, an association of manufacturers and distribu-
+tors of architectural coatings.  Intervening on EPA's side are 
+other industry groups--including the National Paint & Coat-
+ings Association, a trade association of some 400 paint and 
+coatings manufacturers and distributors--which urge us to 
+uphold the regulations.
+
+     Petitioners challenge the regulations on a multitude of 
+grounds, including their asserted inconsistency with the Clean 
+Air Act, the Regulatory Flexibility Act, the Unfunded Man-
+dates Reform Act, and the Commerce Clause.  We conclude 
+
+that EPA's regulations are lawful and deny the petitions for 
+review.
+
+                                I
+
+     The Clean Air Act, 42 U.S.C. ss 7401 et seq., directs EPA 
+to establish national ambient air quality standards for harm-
+ful air pollutants.  See 42 U.S.C. s 7408(a).  One of the 
+pollutants so identified and regulated by the agency is 
+ground-level ozone.  See 40 C.F.R. s 50.9.  Although in the 
+upper atmosphere ozone occurs naturally and forms a protec-
+tive layer that shields human beings from the harmful effects 
+of the sun's ultraviolet rays, at ground level, man-made ozone 
+can have a wide array of negative effects on human health, 
+crops, and forests.1  See EPA, Study of Volatile Organic 
+Compound Emissions From Consumer and Commercial Prod-
+ucts, Report to Congress 1-1 (1995) (J.A. at 518) [hereinafter 
+Report].
+
+     Section 183(e) of the Clean Air Act, added as part of the 
+1990 amendments to that Act, is aimed at mitigating the 
+problem of ground-level ozone.  See Clean Air Act Amend-
+
+__________
+     1 Reporting on the Clean Air Act Amendments of 1990, the 
+Senate Environment and Public Works Committee explained the 
+impact of ground-level ozone on human health:
+
+     Ozone is fatal at high concentrations.  At lower concentrations 
+     found in many urban areas in the United States, extensive 
+     research has shown that healthy adults and children begin to 
+     exhibit adverse health effects.  These include chest pains, 
+     shortness of breath, coughing, nausea, throat irritation, and 
+     increased susceptibility to respiratory infections.
+     
+     Potentially more troubling and less well understood are the 
+     effects of long-term chronic exposure to summertime ozone 
+     concentrations found in many cities. Regular out-of-doors work 
+     or play during the hot, sunny summer months in the more 
+     polluted cities may cause biochemical and structural changes in 
+     the lung, paving the way for chronic respiratory diseases.
+     
+S. Rep. No. 101-228, at 6 (1989);  see also Consumer and Commer-
+cial Products:  Schedule for Regulation, Final Listing, 63 Fed. Reg. 
+48,792, 48,793 (1998).
+
+ments of 1990, Pub. L. No. 101-549, s 183(e), 104 Stat. 2399, 
+2444-47 (codified at 42 U.S.C. s 7511b(e)).  Ozone is formed 
+when nitrogen oxides (NOx) react with volatile organic com-
+pounds (VOCs) in the presence of sunlight.  See Report at 
+1-1 (J.A. at 518).  Section 183(e) directs EPA to regulate 
+emissions of VOCs from consumer and commercial products 
+in order to help states achieve the national ambient air 
+quality standard (NAAQS) for ozone.2
+
+     Section 183(e) contains a number of directions to EPA.  
+First, it instructs the agency to "conduct a study of the 
+emissions of volatile organic compounds into the ambient air 
+from consumer and commercial products (or any combination 
+thereof)" in order to "(i) determine their potential to contrib-
+ute to ozone levels which violate the national ambient air 
+quality standard for ozone" and "(ii) establish criteria for 
+regulating consumer and commercial products."  42 U.S.C. 
+s 7511b(e)(2)(A).  The section further directs that the study 
+be completed, and a report submitted to Congress, "not later 
+than 3 years after November 15, 1990."  Id.
+
+     Upon submission of the report, section 183(e) requires the 
+EPA to "list those categories of consumer or commercial 
+products that [it] determines, based on the study, account for 
+at least 80 percent of the VOC emissions, on a reactivity-
+adjusted basis, from consumer or commercial products in 
+areas that violate the NAAQS for ozone."  Id. 
+s 7511b(e)(3)(A).  The statute then directs the agency "to 
+divide the list into 4 groups establishing priorities for regula-
+tion" based on the criteria developed in the study.  Id. 
+Finally, the statute requires the EPA to regulate one group 
+every two years until all four have been regulated.  See id.
+
+     After passage of the 1990 amendments, EPA instituted a 
+formal regulatory negotiation process, aimed at achieving 
+
+__________
+     2 The statute defines a "consumer or commercial product" as 
+"any substance, product (including paints, coatings, and solvents), or 
+article (including any container or packaging) held by any person, 
+the use, consumption, storage, disposal, destruction, or decomposi-
+tion of which may result in the release of volatile organic com-
+pounds."  42 U.S.C. s 7511b(e)(1)(B).
+
+consensus on the development of VOC regulations for paint 
+and architectural coatings.  Representatives of the affected 
+industry were included on the negotiation committee.  Com-
+plete consensus could not be reached, however, and the 
+process was terminated in 1994.  See National Volatile Or-
+ganic Compound Emission Standards for Architectural Coat-
+ings, Final Rule, 63 Fed. Reg. 48,848, 48,850 (1998) [hereinaf-
+ter Final Rule].
+
+     In March 1995, EPA submitted its statutorily-required 
+report to Congress.  The report concluded that "[c]onsumer 
+and commercial products, while individually small sources of 
+VOC emissions, contribute significantly to the ozone nonat-
+tainment problem."  Report at 2-1 (J.A. at 523).  VOC 
+emissions from these products, the report said, constitute 
+approximately 28% of all man-made VOC emissions.  See id. 
+at 2-8 (J.A. at 530).  In compliance with Congress' direction, 
+the report also set forth "criteria for regulating consumer and 
+commercial products under the Act."  Id. at 4-1 (J.A. at 557).  
+The eight criteria listed by the agency were:
+
+     (1) utility 
+     (2) commercial demand 
+     (3) health or safety functions 
+     (4) emissions of 'highly reactive' compounds 
+     (5) availability of alternatives 
+     (6) cost-effectiveness of controls 
+     (7) magnitude of annual VOC emissions 
+     (8) regulatory efficiency 
+     
+Id. at 4-2 (J.A. at 558).3
+
+     In March 1995, EPA also published the statutorily-
+mandated list of categories of consumer or commercial prod-
+ucts that together account for at least 80% of VOC emissions 
+from such products in ozone nonattainment areas on a reac-
+tivity-adjusted basis.  See Consumer and Commercial Prod-
+ucts, Notice of Product Category List and Schedule for 
+
+__________
+     3 The first six criteria were derived from five factors specified in 
+the statute.  See 42 U.S.C. s 7511b(e)(2)(B).  The last two were 
+added by the agency.  See infra Part IV.E.
+
+Regulation, 60 Fed. Reg. 15,264 (1995) [hereinafter Notice of 
+Product Category List].  Per Congress' instruction, EPA 
+divided those categories into four groups, establishing priori-
+ties for regulation.  Architectural coatings were included in 
+the first group, along with certain household consumer prod-
+ucts and automobile refinish coatings.  EPA determined that 
+these three categories account for about 30% of the VOC 
+emissions from all consumer and commercial products.  See 
+Consumer and Commercial Products:  Schedule for Regula-
+tion, Final Listing, 60 Fed. Reg. 48,792, 48,793 (1998) [herein-
+after Final Listing].  According to EPA, the architectural 
+coatings category alone accounts for about 9% of the emis-
+sions from all consumer and commercial products, making it 
+"one of the largest emissions sources among the consumer 
+and commercial products categories."  Final Rule, 63 Fed. 
+Reg. at 48,850;  see National Volatile Organic Compound 
+Emission Standards for Architectural Coatings, Proposed 
+Rule, 61 Fed. Reg. 32,729, 32,731 (1996) [hereinafter Pro-
+posed Rule];  Report at 2-6 (J.A. at 528).
+
+     In September 1998, EPA published its final rules and 
+listing.  As proposed, the agency listed architectural coatings, 
+along with consumer products and automobile refinish coat-
+ings, in the first group of consumer and commercial product 
+categories subject to regulation under section 183(e).  See 
+Final Listing, 63 Fed. Reg. at 48,792.  At the same time, it 
+issued a rule specifying limits on the permissible VOC content 
+of products in each of the categories.  See National Volatile 
+Organic Compound Emission Standards for Automobile Coat-
+ings, 63 Fed. Reg. 48,806 (1998);  National Volatile Organic 
+Compound Emission Standards for Consumer Products, 63 
+Fed. Reg. 48,819 (1998);  National Volatile Organic Compound 
+Emission Standards for Architectural Coatings, 63 Fed. Reg. 
+48,848 (1998).
+
+     Petitioners Dunn-Edwards and Allied challenge EPA's ini-
+tial study and report to Congress, as well as the list and rule 
+that followed.4  They assert that EPA has misinterpreted the 
+
+__________
+     4 Dunn-Edwards challenges EPA's decisions only insofar as 
+they relate to architectural coatings.  Although Allied's brief sug-
+
+Clean Air Act and that its regulations are arbitrary and 
+capricious.  By contrast, intervenor National Paint & Coat-
+ings Association, which, like Allied, participated in the unsuc-
+cessful attempt at regulatory negotiation, supports EPA's 
+regulations, describing them as a "comprehensive set of rea-
+sonable limits that are tough but fair, and which can contrib-
+ute significantly to ozone emissions reductions as mandated 
+by the [Act]."  NPCA Br. at 2-3.
+
+                                II
+
+     In assessing petitioners' claim that EPA has misconstrued 
+the statute, we are guided by the standards set forth in 
+Chevron U.S.A. Inc. v. Natural Resources Defense Council, 
+Inc., 467 U.S. 837, 842-44 (1984).  Under Chevron's first step, 
+we ask whether Congress "has directly spoken to the precise 
+question at issue," in which case we "must give effect to the 
+unambiguously expressed intent of Congress."  Id. at 842-43.  
+If "the statute is silent or ambiguous with respect to the 
+specific issue," however, we move to Chevron's second step.  
+Id. at 843.  Under step two, we must defer to the agency's 
+interpretation so long as it is "based on a permissible con-
+struction of the statute," id., and is "reasonable in light of the 
+Act's text, legislative history, and purpose," Southern Cal. 
+Edison Co. v. FERC, 116 F.3d 507, 511 (D.C. Cir. 1997).
+
+     As petitioners note, we also have the power to set aside a 
+final rule promulgated under the Clean Air Act if the rule is 
+"arbitrary, capricious, an abuse of discretion, or otherwise not 
+in accordance with law."  42 U.S.C. s 7607(d)(9)(A).  To 
+determine whether EPA's rules are "arbitrary and capri-
+cious," we apply the same standard of review under the Clean 
+Air Act as we do under the Administrative Procedure Act 
+(APA), 5 U.S.C. s 706(2)(A).  See Ethyl Corp. v. EPA, 51 
+F.3d 1053, 1064 (D.C. Cir. 1995);  Chemical Mfrs. Ass'n v. 
+EPA, 28 F.3d 1259, 1263-64 (D.C. Cir. 1994).  In that regard, 
+
+__________
+gested a challenge to the consumer products and automobile refin-
+ish coatings rules as well, at oral argument counsel made clear that 
+Allied's attack on those rules is identical to its attack on the 
+architectural coatings rule.  See Oral Arg. Tr. at 78-79.
+
+we look for guidance to Motor Vehicle Manufacturers Ass'n 
+v. State Farm Mutual Automobile Insurance, 463 U.S. 29, 43 
+(1983).  Under the standard set forth in that case, we must 
+affirm the EPA's rules if the agency has considered the 
+relevant factors and articulated a " 'rational connection be-
+tween the facts found and the choice made.' " Id. at 43 
+(quoting Burlington Truck Lines v. United States, 371 U.S. 
+156, 168 (1962)).
+
+     In the following parts, we apply these standards to petition-
+ers' challenge to the architectural coatings rule and related 
+EPA decisions.
+
+                               III
+
+     Petitioners' principal argument is that the Clean Air Act 
+requires EPA to regulate VOCs according to their "reactivi-
+ty," and that EPA failed to do so.  "Reactivity," as defined by 
+petitioners, is " 'the amount of ozone formed per unit amount 
+... of VOC added [to a given atmospheric mixture].' "  
+Dunn-Edwards Br. at 3 n.4 (quoting National Research 
+Council, Rethinking the Ozone Problem in Urban and Region-
+al Air Pollution 153 (1991) (J.A. at 165)) (alterations in 
+original).  In petitioners' view, EPA ignored reactivity and 
+instead regulated VOCs according to their "mass"--i.e., ac-
+cording to the amount of VOCs contained in a product.
+
+     In this blunt form, petitioners' attack on the EPA is 
+factually incorrect.  As the EPA notes, it did "consider[ ] 
+reactivity in prioritizing and selecting product categories to 
+be listed for regulation."  Final Listing, 63 Fed. Reg. at 
+48,795.  It did so by using available reactivity data to divide 
+VOCs into three groups:  negligibly reactive, reactive, and 
+highly reactive.  See id.
+
+     EPA designated as negligibly reactive those compounds the 
+data showed to have insignificant ozone-forming potential.  
+See id.  To make that designation, EPA relied on data 
+derived from the "method now normally used for identifying 
+negligibly reactive VOC," the so-called "kOH method."  Re-
+port at 3-4 (J.A. at 549).  "kOH reactivity data," the agency 
+said, "have been obtained or estimated for nearly all VOC 
+
+species of interest."  Id. at 3-5 (J.A. at 550);  see also id. at 3-
+4 (J.A. at 549) (describing kOH method).  Compounds deter-
+mined to be negligibly reactive on the basis of that data were 
+excluded altogether from the VOC emissions inventory and 
+from the related regulations.  See Final Listing, 63 Fed. Reg. 
+at 48,795.5
+
+     To differentiate between the remaining reactive VOCs, 
+EPA included data derived from the "Incremental Reactivity" 
+method, a method "more appropriate for rating reactive 
+VOC."  Report at 3-4 (J.A. at 549).  EPA used this data to 
+identify ten classes of VOCs that are highly reactive under 
+most conditions.  See Final Listing, 63 Fed. Reg. at 48,795-
+96.  The agency then identified the product categories known 
+to contain these highly reactive compounds, and estimated the 
+quantity of highly reactive compounds emitted by those prod-
+uct categories.  See id. at 48,796.  Finally, EPA adjusted the 
+mass emissions figures for those product categories by apply-
+ing a reactivity adjustment factor to the mass emissions of 
+their highly reactive VOCs.  See id.
+
+     Petitioners recognize that EPA did, at least in this tripar-
+tite categorical form, regulate according to reactivity.  Their 
+contention is that this is not enough.  Rather, petitioners 
+urge that the statute requires EPA to determine the reactivi-
+ty of each individual VOC species, and to use each VOC's 
+relative reactivity in promulgating the final regulations.  Peti-
+tioners' argument is based on their analysis of three provi-
+sions of the Clean Air Act.
+
+                                A
+
+     Section 183(e) of the Clean Air Act directs EPA "to conduct 
+a study of the emissions of volatile organic compounds into 
+the ambient air from consumer and commercial products (or 
+any combination thereof) in order to--(i) determine their 
+potential to contribute to ozone levels which violate the 
+national ambient air quality standard for ozone...."  42 
+
+__________
+     5 EPA labeled a compound negligibly reactive if its kOH value 
+was lower than that of ethane.  See Report at 3-5 (J.A. at 550).
+
+U.S.C. s 7511b(e)(2)(A).  Petitioners contend that the phrase 
+"potential to contribute" as used in this provision is synony-
+mous with the term "reactivity."
+
+     Accepting petitioners' contention that the Clean Air Act 
+requires a determination of reactivity, however, does not 
+resolve the question of whether reactivity must be deter-
+mined on an individual VOC-by-VOC, rather than categorical, 
+basis.  Allied contends that the above-quoted provision re-
+quires EPA to determine the reactivity of "each" volatile 
+compound.  See Allied Br. at 14.  Had Congress used the 
+word "each" in the statute, the first step of the Chevron test 
+might well dictate victory for Allied.  But Congress did not 
+use that word.  Instead, it directed EPA to study emissions 
+of volatile organic compounds "from consumer and commer-
+cial products (or any combination thereof) in order to ... 
+determine their potential to contribute to ozone levels."  42 
+U.S.C. s 7511b(e)(2)(a) (emphasis added).  The express refer-
+ence to "any combination thereof," and the direction to deter-
+mine "their potential" rather than "each's potential" (or even, 
+"their potentials"), renders it impossible to regard the statute 
+as unambiguously expressing an intent that each VOC be 
+analyzed individually.  To the contrary, and moving to the 
+second step of the Chevron test, these references support the 
+reasonableness of EPA's contention that Congress authorized 
+the agency to proceed on a category-by-category basis.
+
+     EPA's reading of the statute is further supported by the 
+provision requiring EPA to complete its study and submit its 
+report within three years.  See id. Relatively little data is 
+currently available on the comparative reactivity of individual 
+VOC species.  See Report at 2-10, 3-5 (J.A. at 532, 550) 
+(noting that Incremental Reactivity data is only available for 
+"some 328 VOC species or groups of species").  According to 
+EPA's figures, not seriously contested by petitioners, a de-
+tailed reactivity study of a single VOC species would take two 
+months to accomplish.  See EPA, Response to Comments on 
+Section 183(e) Study and Report to Congress 2-75 (1998) 
+(J.A. at 740) [hereinafter Response to Comments].  As "there 
+are approximately 1,000 different VOC species associated 
+with the architectural coating industry alone," id., EPA esti-
+
+mates that a truly species-specific analysis of reactivities 
+would require 166 years of testing.  Accordingly, EPA rea-
+sonably concluded that in light of the three-year statutory 
+timetable, Congress could not have expected it to proceed on 
+a species-specific basis.
+
+     In reply to this argument, Dunn-Edwards suggests that 
+EPA could have streamlined the task by confining its analysis 
+to the smaller universe of those VOCs most commonly found 
+in architectural coatings.  "EPA need not," Dunn-Edwards 
+says, "have determined the reactivity of every VOC."  Dunn-
+Edwards Reply Br. at 6.  Instead, a "reactivity-based regula-
+tion could be implemented using information on only the three 
+VOCs accounting for almost all emissions from waterborne 
+architectural coatings and the eight VOCs accounting for 
+almost 80% of emissions from solventborne architectural coat-
+ings."  Id. at 6.  Individual analyses of just those eleven, 
+Dunn-Edwards argues, could readily have been completed 
+within the statutory timetable.
+
+     This reply has two problems.  First, Congress directed 
+EPA to study and regulate the VOC emissions from all 
+"consumer or commercial products," not only from architec-
+tural coatings.  While the streamlined approach Dunn- 
+Edwards suggests might accomplish the task for the product 
+category of principal concern to petitioner, that does not 
+answer EPA's contention that the agency would still have 
+been unable to meet the statutory deadline across the board.
+
+     Moreover, and more important, in making this suggestion 
+Dunn-Edwards effectively abandons the purity of the argu-
+ment it predicated on Chevron step one.  By contending that 
+EPA could have accomplished its task within the time avail-
+able by studying only eleven of the VOCs contained in 
+architectural coatings, Dunn-Edwards must accept that the 
+statute does not require a separate evaluation of each VOC's 
+individual reactivity.  And if the statutory language permits 
+the agency to regulate by analyzing only the eleven most 
+significant VOCs, it is hard to see why it bars EPA from 
+instead taking the analytical approach it preferred:  excluding 
+from regulation those VOCs with negligible reactivity, giving 
+
+regulatory priority to product categories containing the ten 
+classes of most highly reactive VOCs, and regulating the 
+balance of reactive compounds according to the mass of their 
+emissions.  It may be, as petitioners contend, that theirs is 
+the better approach;  but that is not a question for this court.  
+Under Chevron, we are bound to uphold agency interpreta-
+tions as long as they are reasonable--"regardless whether 
+there may be other reasonable, or even more reasonable, 
+views."  Serono Lab., Inc. v. Shalala, 158 F.3d 1313, 1321 
+(D.C. Cir. 1998).
+
+     Finally, Dunn-Edwards implicitly suggests that EPA was 
+unfaithful to section 183(e)(2)(A) because, rather than "deter-
+mine [VOCs'] potential to contribute to ozone levels" by doing 
+its own testing, the agency relied on a review of the existing 
+scientific literature.  See Dunn-Edwards Br. at 12.  But 
+nothing in section 183(e) declares that the only way to "deter-
+mine" potential is through the agency's own studies--some-
+thing Congress did demand in other sections of the Clean Air 
+Act.  See, e.g., 42 U.S.C. s 7511f (directing EPA to study the 
+role of ozone precursors in tropospheric ozone formation, and 
+commanding that the "Administrator shall utilize all available 
+information and studies, as well as develop additional infor-
+mation, in conducting the study required by this section") 
+(emphasis added).  Nor is there anything unreasonable about 
+the agency's conclusion that it could "determine" VOCs' po-
+tential to contribute by examining data in the existing litera-
+ture.  To the contrary, "EPA typically has wide latitude in 
+determining the extent of data-gathering necessary to solve a 
+problem.  We generally defer to an agency's decision to 
+proceed on the basis of imperfect scientific information, rath-
+er than to 'invest the resources to conduct the perfect 
+study.' "  Sierra Club v. EPA, 167 F.3d 658, 662 (D.C. Cir. 
+1999) (quoting American Iron & Steel Inst. v. EPA, 115 F.3d 
+979, 1004 (D.C. Cir. 1997)).
+
+                                B
+
+     As a second source of statutory support for their argument 
+that the Clean Air Act requires a VOC-specific approach, 
+
+petitioners note that in establishing "criteria for regulating 
+consumer and commercial products," Congress directed EPA 
+to take into consideration "[t]hose consumer and commercial 
+products which emit highly reactive volatile organic com-
+pounds into the ambient air."  42 U.S.C. s 7511b(e)(2)(B)(iii).  
+But EPA expressly complied with this congressional com-
+mand, adopting as one of its criteria "emissions of highly 
+reactive compounds."  See Report at 4-6 (J.A. at 562).  As 
+noted above, the agency implemented this criterion by identi-
+fying ten classes of VOCs as "highly reactive," and using that 
+classification to give priority to consumer and commercial 
+products that emitted those highly reactive compounds.  See 
+Final Listing, 63 Fed. Reg. at 48,796.  Accordingly, this 
+statutory citation does not add to the weight of petitioners' 
+challenge.
+
+                                C
+
+     Finally, petitioners note that section 183(e)(3)(A) requires 
+EPA to "list those categories of consumer or commercial 
+products" that "account for at least 80 percent of the VOC 
+emissions, on a reactivity-adjusted basis, from consumer or 
+commercial products in areas that violate the NAAQS for 
+ozone."  42 U.S.C. s 7511b(e)(3)(A).  EPA is then directed to 
+"divide the list into 4 groups establishing priorities for regula-
+tion," and to regulate one group every two years until all have 
+been regulated.  Id.
+
+     To comply with these requirements, EPA first used the 
+methodology we have described above:  it divided VOCs into 
+three sets, exempting those with negligible reactivity and 
+applying an (upward) reactivity adjustment factor to the mass 
+emissions of products with highly reactive ingredients.  After 
+ranking product categories based on eight regulatory criteria, 
+see supra Part I, EPA developed the required list of regulat-
+ed categories by starting with the highest ranked category 
+and proceeding through successive categories until the list 
+accounted for 80% of the emissions, adjusted for reactivity.  
+See Final Listing, 63 Fed. Reg. at 48,796.  The agency 
+identified architectural coatings as "one of the largest sources 
+
+of VOC emissions among categories of consumer and com-
+mercial products," id. at 48,797, and therefore included it 
+within the first group of regulated categories.
+
+     Because EPA did not evaluate each VOC's individual reac-
+tivity, petitioners contend that "products containing less-
+reactive compounds were included in an early group when, 
+instead, they should have been exempted or regulated, if at 
+all, in later stages."  Allied Br. at 20.  Petitioners argue that 
+these two possibilities--that some compounds were regulated 
+that should have been exempted, and that architectural coat-
+ings as a category were given priority regulation when they 
+should have been regulated in one of the later groups--
+render EPA's methodology inconsistent with the statute's 
+command to account for VOC emissions "on a reactivity-
+adjusted basis."  We disagree.
+
+     First, the possibility that some compounds that were regu-
+lated should not have been regulated at all is not likely 
+enough to undermine EPA's methodology.  As explained 
+above, EPA expressly exempted from regulation those com-
+pounds determined to have negligible reactivity.  Moreover, 
+pre-existing EPA regulations allow companies to apply to 
+have a compound excluded from the definition of VOC, and 
+thereby exempted from regulation, based on evidence that it 
+is negligibly reactive.  See Final Listing, 63 Fed. Reg. at 
+48,798 (citing 40 C.F.R. s 51.100(s)).  Working with industry, 
+EPA has exempted more than 100 VOC species (42 com-
+pounds and 2 classes of compounds) under this provision.  
+See Response to Comments at 2-90 (J.A. at 755);  Final 
+Listing, 63 Fed. Reg. at 48,798.  Since data necessary to 
+determine negligible reactivity are available for "nearly all 
+VOC species of interest," Report at 3-5 (J.A. at 550), and 
+since even petitioners concede that all VOCs have some 
+potential to contribute to ozone formation, see Oral Arg. Tr. 
+at 27;  see also Final Listing, 63 Fed. Reg. at 48,797, petition-
+ers' challenge does not cast doubt on EPA's regulatory 
+process.
+
+     Nor is the second possibility, that in a perfect regulatory 
+world architectural coatings would not be in the first group of 
+
+regulated products, of great moment in evaluating the reason-
+ableness of EPA's method of regulation.  There is no serious 
+argument that architectural coatings would not appear some-
+where on even a perfect regulatory list, given their status as 
+one of the largest sources of VOC emissions among consumer 
+and commercial products.  Indeed, section 183(e) directs the 
+EPA to list those categories of consumer or commercial 
+products that account for "at least" 80% of VOC emissions on 
+a reactivity-adjusted basis--implying that it could list catego-
+ries accounting for 100% of such emissions.  As to exactly 
+where on that list architectural coatings should have ranked, 
+we can only say what we have repeatedly said before:  An 
+"agency is entitled to the highest deference in deciding priori-
+ties among issues, including the sequence and grouping in 
+which it tackles them."  Associated Gas Distribs. v. FERC, 
+824 F.2d 981, 1039 (D.C. Cir. 1987);  see Sierra Club v. 
+Thomas, 828 F.2d 783, 797 (D.C. Cir. 1987).  Moreover, we 
+must be particularly deferential in a case like this, where 
+Congress--by instructing EPA to set priorities using multi-
+ple, nondeterminative criteria6--has necessarily indicated an 
+intention to delegate substantial discretion to the agency.
+
+     In sum, we conclude that nothing in the Clean Air Act 
+unambiguously requires the EPA to analyze the reactivity of 
+each VOC on an individual basis, and that EPA's more 
+categorical approach is a reasonable interpretation of the 
+reactivity-related requirements of the Act.  Accordingly, the 
+architectural coatings rule survives review under the stan-
+dard set by the Supreme Court in Chevron.
+
+                                D
+
+     Petitioners contend that even if the Clean Air Act does not 
+require EPA, as a matter of statutory construction, to regu-
+late VOCs based on an analysis of their relative individual 
+reactivities, the agency must nonetheless do so to avoid 
+
+__________
+     6 Congress directed EPA to establish regulatory priorities 
+based on criteria which "take into consideration" at least five listed 
+factors.  42 U.S.C. s 7511b(e)(2)(B);  see also supra note 3;  infra 
+Part IV.E.
+
+regulating in an arbitrary and capricious fashion.  As peti-
+tioners note, EPA's own report conceded that:  "[t]o be the 
+most effective, ozone control strategies ideally should be 
+based not only on mass VOC and NOx emissions but should 
+consider the relative photochemical reactivity of individual 
+species."  Report at 2-1 (J.A. at 523);  see also Notice of 
+Product Category List, 60 Fed. Reg. at 15,266.  The key 
+words in the quoted sentence, however, are "to be the most 
+effective" and "ideally."  Indeed, in the sentence following the 
+one just quoted, EPA went on to state:
+
+     Reactivity data on VOC, especially those compounds used 
+     to formulate consumer and commercial products, is ex-
+     tremely limited.  Better data, which can be obtained only 
+     at great expense, is needed if the EPA is to consider 
+     relative photochemical reactivity in any VOC control 
+     strategy.  In the meantime, a practical approach is to act 
+     on the basis of mass VOC emissions.
+     
+Report at 2-1 (J.A. at 523).  In short, the agency concluded 
+that the methodology it adopted, and which we have de-
+scribed above, was the "most appropriate way to meet the 
+statutory requirements, given the limitations and uncertain-
+ties surrounding the reactivity issue."  Report at 3-10 (J.A. 
+at 555).
+
+     Our role, of course, is to determine neither whether EPA's 
+approach was "ideal," nor whether it was the "most appropri-
+ate," but only whether it was reasonable.  See Ethyl Corp. v. 
+EPA, 541 F.2d 1, 36 (D.C. Cir. 1976) (en banc) ("We must 
+look at the decision not as the chemist, biologist or statistician 
+that we are qualified neither by training nor experience to be, 
+but as a reviewing court exercising our narrowly defined duty 
+of holding agencies to certain minimal standards of rationali-
+ty.");  see also State Farm, 463 U.S. at 43.  For the reasons 
+discussed in Part III.A-C above, we conclude that it was.  
+See Animal Legal Defense Fund, Inc. v. Glickman, 204 F.3d 
+229, 234 (D.C. Cir. 2000) (noting overlap between analysis 
+under Chevron and State Farm).  We agree with the agency 
+that its general reliance on the mass of VOC emissions, 
+coupled with the exemption for those VOCs known to be 
+
+negligibly reactive and the upward adjustment for those 
+known to be highly reactive, constitutes a reasonable ap-
+proach given both "the uncertainties and inconsistencies of 
+reactivity," Report at 2-10 (J.A. at 532), and "Congress's 
+direction that the EPA complete the study within three 
+years," Final Listing, 63 Fed. Reg. at 48,796.  In reaching 
+this conclusion, "[o]ur analysis is guided by the deference 
+traditionally given to agency expertise, particularly when 
+dealing with a statutory scheme as unwieldy and 
+science-driven as the Clean Air Act."  Appalachian Power 
+Co. v. EPA, 135 F.3d 791, 801-02 (D.C. Cir. 1998).
+
+                                IV
+
+     In this Part, we consider a number of additional, miscella-
+neous charges leveled by petitioners against the architectural 
+coatings rule.  Some raise questions of statutory interpreta-
+tion under the Clean Air Act, some charge EPA with arbi-
+trary and capricious decisionmaking under that Act, and some 
+involve a combination of the two.
+
+                                A
+
+     Dunn-Edwards attacks the EPA study for "fail[ing] to 
+address the beneficial environmental and health effects of the 
+negative reactivity" of some VOCs.  Dunn-Edwards Br. at 
+12.  There is evidence, the company contends, showing that 
+the emissions of certain types of VOCs actually reduce ozone 
+levels.  The agency's failure to consider the positive health 
+effects of a restricted pollutant, Dunn-Edwards continues, 
+constitutes both a violation of the Clean Air Act and unrea-
+sonable agency action.  See Dunn-Edwards Br. at 13 (citing 
+American Trucking Ass'n v. EPA, 175 F.3d 1027, 1051 (D.C. 
+Cir. 1999), cert. granted, 68 U.S.L.W. 3496 (U.S. May 22, 
+2000)).
+
+     The answer to this challenge is that EPA did consider the 
+possible effects of negative reactivity.  See Response to Com-
+ments at 2-92 to 2-95 (J.A. at 757-760).  It concluded, 
+however, that the phenomenon was too rare and unpredict-
+able to warrant changes in the regulatory structure.  See id. 
+at 2-92 to 2-93 (J.A. at 757-58) (concluding that "reduction of 
+
+ozone by VOC occurs in very limited circumstances").  Nega-
+tive reactivity, the agency determined, occurs "only in very 
+limited cases, with only a few species of VOC (not VOC 
+species typically used in consumer and commercial products), 
+and under specific meteorological conditions."  Id. at 2-154 
+(J.A. at 802).  Studies offered by petitioners were not to the 
+contrary.  See, e.g., J.A. at 985-86 (study describing "slightly 
+negative values" for two compounds in one-hour test in Los 
+Angeles, but noting that all compounds tested there showed 
+positive values in eight-hour tests).  Because EPA reasonably 
+considered, and discounted, the phenomenon of negative reac-
+tivity, we reject this challenge.
+
+                                B
+
+     In a related attack, Dunn-Edwards contends that EPA's 
+rule may also be counterproductive because it "has the poten-
+tial to increase ozone levels in two ways."  Dunn-Edwards 
+Br. at 21.  First, because the rule imposes limits on the mass 
+of VOCs in a product, rather than on the type (reactivity) of 
+the VOCs, it "allows for the possibility" that producers of 
+architectural coatings may substitute more reactive VOCs for 
+less reactive ones.  Id.  Although the reformulated products 
+would then emit a smaller quantity of VOCs as measured by 
+mass, they would generate more ozone over all.  Second, 
+Dunn-Edwards warns, "if performance is compromised" by 
+reducing the VOC content of architectural coatings, the over-
+all volume of such products used to attain the same results 
+will increase--in the form of more coats, more touch-ups, and 
+more frequent recoating.  Id.
+
+     As the quoted portions of petitioner's argument suggests, it 
+is framed more as a series of theoretical possibilities than of 
+fact-based predictions.  Petitioners offer no evidence at all 
+that the VOC substitution they fear will occur.  EPA's own 
+view is that even if such substitution did occur, the benefit 
+from reducing the total mass of VOC emissions would out-
+weigh any differences in relative reactivities of different 
+compounds.  See EPA, National Volatile Organic Compound 
+Emission Standards for Architectural Coatings, Background 
+
+for Promulgated Standards 2-297 (1998) (J.A. at 437) [herein-
+after Background].  In the absence of contrary evidence, it is 
+to the expert agency's prediction, rather than to the petition-
+er's, that we must defer.  See Her Majesty the Queen in 
+Right of Ontario v. EPA, 912 F.2d 1525, 1534 (D.C. Cir. 
+1990);  New York v. EPA, 852 F.2d 574, 580 (D.C. Cir. 1988).
+
+     EPA also found "no evidence or documentation to support 
+the[ ] claims [that] increased thinning, more priming, more 
+topcoating, and more frequent painting" would result if the 
+VOC content of architectural coatings were reduced.  Back-
+ground at 2-293 (J.A. at 433).  To the contrary, the agency 
+cited evidence that low VOC content coatings perform well 
+and do not require additional coats to achieve the same 
+results as those with high VOC content.  See Background at 
+2-293 to 2-297 (J.A. at 433-37);  Proposed Rule, 61 Fed. Reg. 
+at 32,738;  see also Final Rule, 63 Fed. Reg. at 48,869 (finding 
+"no link between product quality and VOC content since 
+quality, high-performing products are available in a wide 
+range of VOC content levels in many product categories").  
+In reply, Dunn-Edwards cites a California survey indicating 
+that between 1980 and 1990, total VOC emissions from archi-
+tectural coatings increased by 16%, notwithstanding that the 
+VOC content of such coatings decreased by 37% during the 
+same period.  See Dunn-Edwards Reply Br. at 10.  Poorer 
+performance by the reduced VOC paint "may be responsible," 
+Dunn-Edwards asserts.  Id.  And it may be that Dunn-
+Edwards is right.  But without evidence of cause-and-effect, 
+we cannot know.  Dunn-Edwards offers no evidence that the 
+increase in VOC emissions during the 1980s was due to the 
+poorer performance of the paints, rather than to the cause 
+suggested by the EPA:  an increase in the volume of paints 
+used during that time, spurred by growth in the population, 
+an improved economy, and an increase in construction.
+
+                                C
+
+     The architectural coatings rule regulates the manufacture 
+and sale of coating products nationwide.  Allied contends that 
+this exceeds EPA's authority, which it asserts is limited to 
+
+regulating manufacture and sale within "nonattainment" ar-
+eas.  A nonattainment area is one that either does not meet 
+the national primary or secondary ambient air quality stan-
+dard for ozone, or that contributes to ozone levels in a nearby 
+area that does not meet the standard.  See 42 U.S.C. 
+s 7407(d).  Allied's contention principally relies on two sub-
+sections of section 183(e).  First, subsection (2)(A) requires 
+EPA to study VOC emissions in order to determine their 
+potential "to contribute to ozone levels which violate the 
+national ambient air quality standard for ozone."  Id. 
+s 7511b(e)(2)(A)(i).  Second, subsection (3)(A) requires the 
+EPA to list, and then to regulate, those categories of products 
+that "account for at least 80 percent of the VOC emissions 
+... from consumer or commercial products in areas that 
+violate the NAAQS for ozone."  Id. s 7511b(e)(3)(A).
+
+     Neither of these provisions says anything about where the 
+regulated product itself must be manufactured or sold, or 
+about the geographic scope of EPA's regulatory authority.  
+Rather, the first directs EPA to consider the potential of 
+emissions to contribute to ozone levels that violate the 
+NAAQS;  the second instructs it to regulate categories of 
+products that account for a specified percentage of emissions 
+in nonattainment areas.  As EPA concludes, this language 
+permits the agency to regulate nationwide in order to accom-
+plish emissions reduction in nonattainment areas.
+
+     EPA's reading is bolstered by consideration of other provi-
+sions in the same section.  For example, subsection (3)(A) 
+also states that "[i]n order to carry out this section, the 
+Administrator may, by regulation, control or prohibit any 
+activity, including the manufacture or introduction into com-
+merce, offering for sale, or sale of any consumer or commer-
+cial product."  Id. s 7511b(e)(3)(A) (emphasis added);  see 
+also id. s 7511b(e)(4) ("The regulations under this subsection 
+may include any system or systems of regulation as the 
+Administrator may deem appropriate.").  Similarly, subsec-
+tion (1)(C) defines "regulated entities" as manufacturers and 
+distributors of consumer or commercial products for sale in 
+interstate commerce "in the United States," without geo-
+graphic limitation.  Id. s 7511b(e)(1)(C)(i).  Thus, although 
+
+Congress did direct EPA to regulate VOCs in order to 
+improve conditions within nonattainment areas, nothing in the 
+statute limits its ability to regulate the manufacture and sale 
+of VOCs outside such areas if such regulation is reasonably 
+related to that end.7
+
+     EPA readily persuades us that nationwide regulation is 
+reasonably related to the statutory objective.  First, architec-
+tural coating products are widely distributed and easily trans-
+portable across area boundaries.  See Final Listing, 63 Fed. 
+Reg. at 48,804.  End-users (e.g., commercial painters) them-
+selves may well utilize these products in different locations 
+from day to day.  See id.8  Accordingly, as EPA reasoned, a 
+national rule is necessary to "preempt opportunities for end-
+users to purchase such consumer and commercial products in 
+attainment areas and then use them in nonattainment areas, 
+thereby circumventing the regulations and undermining the 
+decrease in VOC emissions in nonattainment areas."  Final 
+Listing, 63 Fed. Reg. at 48,804.
+
+     Second, just as coating products are easily transportable, 
+so too are the VOCs they release and the ozone the VOCs 
+
+__________
+     7 For that reason, section 183(e) is different from Clean Air Act 
+section 165(a), which we considered in Alabama Power Co. v. Costle, 
+636 F.2d 323 (D.C. Cir. 1979).  The latter section expressly limits 
+EPA's permit authority to facilities "constructed in any area to 
+which [Part C] applies," 42 U.S.C. s 7475(a) (emphasis added), i.e., 
+to facilities constructed in nonattainment areas.  See Alabama 
+Power, 636 F.3d at 365.  Section 183(e) does not contain an analo-
+gous limitation.
+
+     8 As the National Paint & Coatings Association wrote in its 
+intervening brief in support of the EPA:
+     A manufacturer or distributor, whether big or small, that sells 
+     an architectural coatings product can never be sure where that 
+     product will end up being used.  For example, a small manu-
+     facturer in Maryland who manufacturers his paint solely in 
+     Maryland and sells his paint to contractors only in Maryland 
+     may have his paint used in Washington, D.C. one day, Virginia 
+     the next day, West Virginia the next day, and finally used to 
+     paint a weekend beach house in Delaware the next day.
+     
+NPCA Br. at 24.
+
+create.  Ambient VOCs and ozone do not obey geographic 
+boundaries and can flow freely between attainment and non-
+attainment areas.  See Final Listing, 63 Fed. Reg. at 48,804;  
+see also Virginia v. EPA, 108 F.3d 1397, 1400 (D.C. Cir. 
+1997).  Thus, EPA reasonably concluded that "emissions in 
+attainment areas can contribute to nonattainment in adjoining 
+nonattainment areas," and that a nationwide rule is therefore 
+consistent with its statutory mandate.  Final Listing, 63 Fed. 
+Reg. at 48,803.
+
+                                D
+
+     Dunn-Edwards contends that because section 183(e) re-
+quires a study of "emissions of volatile organic compounds 
+into the ambient air," 42 U.S.C. s 7511b(e)(2)(A), EPA violat-
+ed its directive by focusing its study and rule on VOC content 
+rather than emissions.  That focus, petitioner suggests, as-
+sumes without foundation that all VOCs contained in a coat-
+ing will be emitted into the ambient air.  But EPA did not 
+assume that all of a product's VOCs would be emitted.  
+Rather, it employed a test to determine the mass of solvents 
+that would volatize, and limited its calculation of VOC content 
+to the latter alone.9
+
+     Dunn-Edwards also contends that even when VOCs are 
+emitted from a product, they may not become "available" in 
+the atmosphere to form ozone--for example, because they 
+may be emitted indoors rather than outside.  EPA considered 
+
+__________
+     9 In EPA's test, the paint sample is weighed, heated, and 
+reweighed.  VOC content is calculated as the difference in the two 
+weights, after also subtracting the weight of water and any exempt 
+compounds.  Hence, solvents that do not volatize under the test 
+conditions are not measured as VOC.  See Response to Comments 
+at 2-56 (J.A. at 723).  In a footnote, Dunn-Edwards contends that 
+because paints are not heated when applied, this test "does not bear 
+the necessary relationship to actual conditions in which coatings are 
+used."  Dunn-Edwards Br. at 16 n.16 (citing Chemical Mfrs. Ass'n 
+v. EPA, 28 F.3d 1259, 1264 (D.C. Cir. 1994)).  EPA's rejoinder is 
+that heating simply accelerates the emissions of VOC, but does not 
+increase total emissions over time.  In the absence of contrary 
+evidence, we defer to the agency's expert opinion.
+
+this assertion during the rulemaking, and responded by point-
+ing to recent studies suggesting that "close to 100 percent of 
+the VOC from paint is eventually emitted into the ambient 
+air."  Response to Comments at 2-64 (J.A. at 729).  Because 
+this conclusion is supported by substantial evidence, the 
+agency's decision to control VOC emissions through the regu-
+lation of VOC content is reasonable.10
+
+                                E
+
+     Section 183(e) directs EPA to take into consideration five 
+factors in establishing criteria for regulating consumer and 
+commercial products, as well as in establishing regulatory 
+priorities among those products.  See 42 U.S.C. 
+s 7511b(e)(2)(B), (e)(3)(A).  Allied contends that EPA erred 
+by failing to consider the last three factors listed in the 
+statute:
+
+     (iii) Those consumer and commercial products which 
+     emit highly reactive volatile organic compounds into the 
+     ambient air.
+     
+     (iv) Those consumer and commercial products which are 
+     subject to the most cost-effective controls.
+     
+     (v) The availability of alternatives (if any) to such con-
+     sumer and commercial products which are of comparable 
+     costs, considering health, safety, and environmental im-
+     pacts.
+     
+__________
+     10 Dunn-Edwards also contends that EPA was required to 
+account for reactivity variation caused by differences in the makeup 
+of the ambient air in different airsheds, noting that the agency 
+conceded that "ideally" ozone control strategies should consider the 
+conditions in specific airsheds.  See Dunn-Edwards Br. at 17 n.17 
+(citing Report at 2-1 (J.A. at 523)).  Nothing in the statutory 
+language, however, requires airshed-by-airshed analysis.  Nor does 
+this court's authority extend to requiring EPA to utilize the "ideal" 
+strategy, particularly not when the agency concludes that such a 
+strategy is not practical in light of the limitations of the existing 
+data.  See Report at 2-1 (J.A. at 523).
+
+Id. s 7511b(e)(2)(B).11 We reject this challenge.
+
+     First, EPA did consider the three listed factors.  Each was 
+expressly included among the regulatory criteria adopted by 
+the agency, and was applied in establishing regulatory priori-
+ties.  See Report at 4-6 (J.A. at 562) (factor iii);  id. at 4-10 to 
+4-11 (J.A. at 566-67) (factor iv);  id. at 4-8 to 4-9 (J.A. at 
+564-65) (factor v);  see also Final Listing, 63 Fed. Reg. at 
+48,794 (listing criteria);  Notice of Product Category List, 60 
+Fed. Reg. at 15,266 (same);  Report at 4-12 to 4-13 (J.A. at 
+568-69) (describing application of the criteria);  EPA, Nation-
+al Air Pollution Control Techniques Advisory Committee 
+Meeting on Consumer and Commercial Products 53 (1995) 
+(J.A. at 700) (describing EPA's scoring of product categories 
+based on the criteria).
+
+     Second, EPA's consideration of these factors was adequate 
+to constitute reasoned decisionmaking.  As we have discussed 
+above, EPA considered the third factor by assigning greater 
+weight to those products that emit VOCs from one of the ten 
+classes of VOCs that are highly reactive, an approach we 
+regard as consistent with the statute and neither arbitrary 
+nor capricious.  See supra Part III.  EPA reasonably consid-
+ered the fourth factor by assigning a higher priority to 
+categories of products that can reduce VOC emissions at 
+lowest cost.  See Report at 4-10 to 4-11 (J.A. at 566-67).12  
+And EPA adequately considered the fifth factor, the availabil-
+ity of alternatives at comparable costs, by applying a criterion 
+that evaluated the possibility of reformulation of the product 
+and the availability of substitutes.  See Report at 4-8 to 4-9 
+
+__________
+     11 The first two factors listed in the statute are:  "(i) The uses, 
+benefits, and commercial demand of consumer and commercial 
+products[;  and] (ii) The health or safety functions (if any) served by 
+such consumer and commercial products."  42 U.S.C. 
+s 7511b(e)(2)(B).
+
+     12 EPA used cost-effectiveness data where it was available, and 
+where it was not, used a matrix that considered the availability of 
+alternatives and the mass of emissions from the product.  See 
+Report at 4-10 to 4-11 (J.A. at 566-67).
+
+(J.A. at 564-65);  see also Response to Comments at 2-27 (J.A. 
+at 714).13
+
+     In addition to alleging that EPA failed to consider these 
+three statutorily-enumerated factors, Allied contends that 
+EPA impermissibly considered two further factors not listed 
+in the statute:  "magnitude of annual VOC emissions" and 
+"regulatory efficiency and program considerations."  Final 
+Listing, 63 Fed. Reg. at 48,794;  see supra note 3.  Although 
+it is true that "an agency rule would be arbitrary and 
+capricious if the agency has relied on factors which Congress 
+has not intended it to consider," State Farm, 463 U.S. at 43, 
+that is not the case here.  Nothing in section 183(e) suggests 
+that Congress intended to limit EPA's consideration to the 
+five factors specified in the statute.  Indeed, the structure of 
+the section suggests the contrary.  Subsection (2)(A) first 
+directs the agency to "establish criteria";  subsection (2)(B) 
+then directs that "[i]n establishing the criteria," the agency 
+"shall take into consideration" the five listed factors.  The 
+reasonable inference taken by EPA is that while it must 
+consider the five listed factors, it is not barred from consider-
+ing additional ones.  See George Warren Corp. v. EPA, 159 
+F.3d 616, 624 (D.C. Cir. 1998) (noting this court's "usual 
+reluctance to infer from congressional silence an intention to 
+preclude the agency from considering factors other than 
+those listed in a statute").
+
+     Moreover, the two additional criteria are reasonable in light 
+of the use to which Congress wanted all of the criteria to be 
+put:  establishing regulatory priorities among the categories 
+of consumer and commercial products.  See 42 U.S.C. 
+s 7511b(e)(3)(A).  We have already considered, and judged 
+permissible, EPA's accordance of greater regulatory priority 
+to product categories that emit greater masses of VOCs--the 
+first of the two additional criteria.  See supra Part III.  The 
+agency's consideration of the second additional factor, denom-
+inated as "regulatory efficiency," seems nothing more than 
+
+__________
+     13 EPA reasonably relied on consumer acceptance, as measured 
+by market share data, as a surrogate for cost data which was of 
+limited availability.  See Report at 4-8 to 4-9 (J.A. at 564-65);  see 
+also Response to Comments at 2-27 (J.A. at 714).
+
+regulatory common sense:  in determining priorities, EPA 
+considered which categories it could regulate quickly because, 
+for example, the agency had ongoing or recently completed 
+rulemakings concerning them, or because they raised factual 
+issues in common with other categories.  See Report at 4-12 
+to 4-13 (J.A. at 568-69).
+
+                                V
+
+     So far, we have considered challenges to the architectural 
+coatings rule based on the Clean Air Act.  In this part, we 
+consider Allied's claims that the rule is contrary to the 
+Regulatory Flexibility Act (RFA)14 as amended by the Small 
+Business Regulatory Enforcement Fairness Act of 1996 
+(SBREFA),15 and to the Unfunded Mandates Reform Act 
+(UMRA).16
+
+                                A
+
+     Section 603(a) of the RFA requires that an agency, at the 
+time of issuance of a notice of proposed rulemaking, publish 
+an initial regulatory flexibility analysis which "shall describe 
+the impact of the proposed rule on small entities."  5 U.S.C. 
+s 603(a).  Section 603(c) requires that such an initial analysis 
+also describe "any significant alternatives to the proposed 
+rule which accomplish the stated objectives" of the applicable 
+statute while minimizing significant economic impact on small 
+entities.  Id. s 603(c).  Allied contends that EPA failed to 
+comply with section 603(a) by failing to discuss two such 
+economic impacts:  "stigmatic harm" allegedly arising from 
+the agency's suggestion that it may impose more stringent 
+VOC limits in future regulations;17  and asset devaluation, in 
+that the coatings rule allegedly will render existing product 
+
+__________
+     14 5 U.S.C. ss 601 et seq.
+
+     15 Pub. L. No. 104-121, ss 241-42, 101 Stat. 857, 864-68 (1996).
+
+     16 2 U.S.C. ss 1501 et seq.
+
+     17 In announcing the architectural coatings rule, EPA stated 
+that in the future "an additional study for this category may be 
+
+formulas valueless.  Allied also contends that EPA failed to 
+comply with section 603(c) by failing to consider label di-
+rections as an alternative to VOC limits.
+
+     We are without jurisdiction to consider these challenges to 
+EPA's compliance with the initial regulatory flexibility analy-
+sis requirements of section 603.  Section 611(c) of the RFA 
+states that "[c]ompliance or noncompliance by an agency with 
+the provisions of this chapter shall be subject to judicial 
+review only in accordance with this section."  5 U.S.C. 
+s 611(c).  Section 611(a) specifically lists the sections of the 
+RFA subject to judicial review, and section 603 is not on the 
+list.18  See id. s 611(a)(1), (2).
+
+__________
+warranted to determine the feasibility of additional reductions in 
+VOC limits."  Final Rule, 63 Fed. Reg. at 48,872.  Allied contends 
+not only that this announcement imposes a "stigma" on manufactur-
+ers, but that EPA would be without authority to issue such addi-
+tional reductions.  EPA replies, inter alia, that this claim is unripe:  
+The agency has not yet decided whether it will issue any further 
+regulations, and Allied has not established that it will suffer any 
+harm in the interim.  We agree.  See Grand Canyon Air Tour 
+Coalition v. FAA, 154 F.3d 455, 471 (D.C. Cir. 1998);  Florida 
+Power & Light Co. v. EPA, 145 F.3d 1414, 1419-21 (D.C. Cir. 1998).  
+Allied "will have ample opportunity later to bring its legal challenge 
+at a time when harm is more imminent and more certain."  Ohio 
+Forestry Ass'n v. Sierra Club, 523 U.S. 726, 734 (1998).
+
+     18 In its reply brief, Allied notes that unlike challenges to an 
+agency's compliance with section 603 (concerning initial regulatory 
+flexibility analyses), challenges to compliance with RFA section 604 
+(concerning final regulatory flexibility analyses) are included in the 
+jurisdictional list of section 611.  Allied suggests that the challenges 
+noted in the above text can be reformulated as challenges to 
+compliance with section 604.  In relevant part, that section requires 
+the agency to describe the steps it has taken "to minimize the 
+significant economic impact on small entities consistent with the 
+stated objectives of applicable statutes, including a statement of ...  
+why each of the other significant alternatives to the rule considered 
+by the agency ... was rejected."  5 U.S.C. s 604(a)(5) (emphasis 
+added).  For the reasons noted in the text, Allied has not estab-
+
+     That, however, is not the end of the story.  As Allied points 
+out, although we may not review EPA's handling of these 
+issues in terms of the agency's compliance with the RFA, we 
+may consider them in determining whether EPA complied 
+with the overall requirement that an agency's decisionmaking 
+be neither arbitrary nor capricious.  See Clean Air Act, 42 
+U.S.C. s 7607(d)(9)(A);  see also APA, 5 U.S.C. s 706(2)(A).  
+That was the law prior to passage of SBREFA's amendments 
+to the RFA, see Thompson v. Clark, 741 F.2d 401, 405 (D.C. 
+Cir. 1984);  Small Refiner Lead Phase-Down Task Force v. 
+EPA, 705 F.2d 506, 539 (D.C. Cir. 1983), and it was not 
+altered by those amendments.19
+
+     For an agency's decisionmaking to be rational, it must 
+respond to significant points raised during the public com-
+ment period.  See Home Box Office, Inc. v. FCC, 567 F.2d 9, 
+35-36 (D.C. Cir. 1977).  EPA did so here.  The agency stated 
+that it was not aware of any stigmatic harm of the kind urged 
+by Allied, and reasonably concluded that the comments sub-
+mitted on the subject had "not provided enough detail to 
+allow the EPA to consider the issue further."  Background at 
+2-334 (J.A. at 474).  Allied's unadorned allegation in its brief, 
+that "[s]uch impacts are significant," Allied Br. at 23, adds no 
+further detail and no reason to require further agency re-
+sponse.  EPA also reasonably rejected the contention that it 
+was ignoring the regulation's impact on the value of existing 
+
+__________
+lished that the economic impacts and regulatory alternative it 
+contends EPA ignored can be classified as "significant."
+
+     19 Prior to the amendments, section 611(b) stated:  "When an 
+action for judicial review of a rule is instituted, any regulatory 
+flexibility analysis for such rule shall constitute part of the whole 
+record of agency action in connection with the review."  5 U.S.C. 
+s 611(b) (1994).  In Thompson, 741 F.2d at 405, we held that those 
+words "mean[ ] that the reviewing court will consider the contents 
+of the preliminary or final regulatory flexibility analysis, along with 
+the rest of the record, in assessing not the agency's compliance with 
+the Regulatory Flexibility Act, but the validity of the rule under 
+other provisions of law," particularly the APA.  The current version 
+of section 611(b) contains the same words, with minor stylistic 
+alterations.
+
+product formulas, noting that to the contrary it was directly 
+considering that impact by analyzing the effect of the regula-
+tion on annual profits per product.  See Background at 2-334 
+(J.A. at 474).
+
+     To be regarded as rational, an agency must also consider 
+significant alternatives to the course it ultimately chooses.  
+See State Farm, 463 U.S. at 48-51;  Grand Canyon Air Tour 
+Coalition v. FAA, 154 F.3d 455, 471 (D.C. Cir. 1998);  Public 
+Citizen v. Steed, 733 F.2d 93, 99 (D.C. Cir. 1984).  Allied 
+contends that the agency should have considered imposing a 
+requirement that labels contain directions for responsible use 
+of coating products, as an alternative to imposing VOC limits 
+on such products.20  But the agency did consider the possibili-
+ty of imposing label directions as an addition to product 
+reformulation, and even in that respect found "it would be 
+impossible to predict the VOC reductions achieved by provid-
+ing the consumer with directions for use."  Report at 2-14 
+(J.A. at 536).  Allied offers no response to this defect in the 
+labeling alternative, and no reason to believe that such an 
+approach would accomplish the objectives of the Clean Air 
+Act.  Accordingly, we reject Allied's challenges under the 
+RFA.21
+
+__________
+     20 The Clean Air Act authorizes, but does not require, "di-
+rections for use" as one of numerous possible means of achieving 
+emissions reduction.  42 U.S.C. s 7511b(e)(1)(A) (defining "best 
+available controls" as the degree of emissions reduction achievable 
+through application of "the most effective equipment, measures, 
+processes, methods, systems or techniques, including chemical re-
+formulation, product or feedstock substitution, repackaging, and 
+directions for use, consumption, storage, or disposal").
+
+     21 Allied briefly raises two further RFA claims.  First, it 
+charges that the agency failed to comply with the requirement of 
+section 609(b) that it, inter alia, convene a review panel prior to 
+issuing the initial regulatory flexibility analysis.  This court, howev-
+er, has no jurisdiction to review challenges to an agency's compli-
+ance with section 609(b).  See 5 U.S.C. s 611(a)(1)-(2), (c).  Second, 
+Allied contends that EPA failed to comply with the requirement of 
+section 601(3) that it provide an opportunity for public comment 
+before adopting (as it did) a definition of the term "small business" 
+
+                                B
+
+     Allied contends that EPA violated provisions of the Un-
+funded Mandates Reform Act that require preparation of a 
+written cost-benefit analysis, see 2 U.S.C. s 1532(a)(2), and 
+selection of the "least costly, most cost-effective or least 
+burdensome alternative that achieves the objectives of the 
+rule," id. s 1535(a).  UMRA itself expressly denies courts 
+jurisdiction to review compliance with the latter provision.  
+See id. s 1571(b)(1);  see also id. s 1571(a).  And while the 
+Act permits limited judicial review of compliance with the 
+requirement to prepare a written cost-benefit analysis,22 that 
+requirement is not triggered unless the rule in question may 
+result in expenditures of $100 million or more in any one 
+year, see id. s 1532(a).  Because EPA estimated the total 
+cost associated with the architectural coatings rule to be only 
+$32 million per year, see Final Rule, 63 Fed. Reg. at 48,855, it 
+concluded that UMRA was inapplicable.  See id. at 48,875-76.
+
+     Allied challenges EPA's cost estimate, but advances little 
+basis for such a challenge beyond the complaints we consid-
+ered above in the context of Allied's RFA claim:  Petitioner 
+contends that EPA ignored the "stigmatic" costs it imposed 
+through its suggestion that more stringent VOC limits might 
+
+__________
+different from that referenced in the statute.  See 5 U.S.C. 
+s 601(3);  15 U.S.C. s 632(a).  Although we do have jurisdiction to 
+review a section 601 challenge, see 5 U.S.C. s 611(a)(1)-(2), Allied's 
+challenge fails on the merits because EPA did provide an opportuni-
+ty for public comment on its proposed definition.  See National 
+Volatile Organic Compound Emission Standards for Architectural 
+Coatings, Extension of Public Comment Period, 61 Fed. Reg. 
+46,410, 46,411 (1996);  Background at 2-373 to 2-375, 2-424 to 2-426 
+(J.A. at 480-82, 490-92).
+
+     22 UMRA, 2 U.S.C. s 1571(a)(2)(A), states that agency compli-
+ance with section 1532 is subject to judicial review only under 5 
+U.S.C. s 706(1) (court may compel agency action unlawfully with-
+held).  If an agency fails to prepare the written statement required 
+by section 1532, "a court may compel the agency to prepare such 
+written statement," 2 U.S.C. s 1571(a)(2)(B), but the failure may 
+"not be used as a basis for ... invalidating or otherwise affecting 
+[the] rule," id. s 1571(a)(3).
+
+be promulgated in the future, as well as the impact of the 
+coatings rule on the market value of existing product formu-
+las.23  We concluded above that EPA dealt with these issues 
+in a reasonable manner and, given the limited judicial review 
+applicable to compliance with section 1532(a), see supra note 
+22, we have no warrant for inquiring further under UMRA.24
+
+                                VI
+
+     Finally, we consider Allied's argument that in regulating 
+architectural coatings, Congress exceeded its constitutional 
+authority "[t]o regulate Commerce ... among the several 
+States."  U.S. Const., art. I, s 8, cl. 3.  Dunn-Edwards does 
+not join in this attack, and the intervenor National Paint & 
+Coatings Association actively opposes it, preferring uniform 
+national regulation to the "multiple, divergent state rules" 
+that would otherwise hold sway.  NPCA Br. at 3.  The crux 
+
+__________
+     23  Allied's brief also asserts, without elaboration, that EPA 
+"excluded from its calculus losses to (1) retailers, (2) contractors, (3) 
+workers, and (4) consumers," and that each of these categories 
+"may alone reach $100,000,000 in any year."  Allied Br. at 25.  But 
+EPA did consider the effect of the rule on many of these groups, see 
+EPA, Draft Economic Impact Analysis and Regulatory Flexibility 
+Analysis of Air Pollution Regulations:  Architectural and Indus-
+trial Maintenance Coatings 2-32 to 2-40, 2-44 to 2-45 (J.A. at 33-
+41, 45-46);  Background at 2-364 to 2-366 (J.A. at 1017-19), and 
+Allied offers neither support for nor explanation of the loss calcula-
+tion it asserts.
+
+     24  In a related argument, Dunn-Edwards contends that EPA 
+must consider costs in the course of examining "economic feasibili-
+ty," a factor in the evaluation of "best available controls" under the 
+statute, 42 U.S.C. s 7511b(e)(1)(A).  Dunn-Edwards argues that 
+EPA's cost estimate was arbitrary and capricious, largely because 
+the agency reduced its initial estimate after receiving cost estimates 
+submitted by commenters without determining the reliability of 
+those estimates.  In fact, EPA did evaluate the reasonableness of 
+the comments, utilizing data from only 11 out of 27 because the 
+others suffered from incompleteness or lack of clarity, or from a 
+failure to provide cost information on a per product basis.  See 
+Background at 2-304 to 2-305 (J.A. at 444-45).
+
+of Allied's argument is that EPA's regulation exceeds Con-
+gress' authority under the Commerce Clause because there is 
+an insufficient nexus between coatings manufacture, which it 
+describes as an intrastate event, and the interstate phenome-
+non of ozone formation.
+
+     Allied attempts to rely on the Supreme Court's decision in 
+United States v. Lopez, 514 U.S. 549 (1995), striking down the 
+Gun-Free School Zones Act25 which made it a federal crime 
+knowingly to possess a firearm in a school zone.  In United 
+States v. Morrison, 68 U.S.L.W. 4351 (U.S. May 15, 2000), 
+handed down last month, the Court relied on Lopez in holding 
+that Congress also lacked authority under the Commerce 
+Clause to provide a federal civil remedy for the victims of 
+gender-motivated violence.  In both cases, the Court agreed 
+that " 'Congress' commerce authority includes the power to 
+regulate those activities having a substantial relation to inter-
+state commerce, ... i.e., those activities that substantially 
+affect interstate commerce.' "  Id. at 4354 (quoting Lopez, 514 
+U.S. at 558-59).  As Morrison explained, however, four con-
+siderations contributed to Lopez's conclusion that the Gun-
+Free School Zones Act did not fall within that category of 
+regulatable activity.  Not one of those considerations applies 
+to section 183(e) of the Clean Air Act.
+
+     The Court held, first, that "in those cases where we have 
+sustained federal regulation of intrastate activity based upon 
+the activity's substantial effects on interstate commerce, the 
+activity in question has been some sort of economic endeav-
+or."  Id. at 4355 (citing Lopez, 514 U.S. at 559-60).  Morrison 
+noted that the criminal statute at issue in Lopez " 'had 
+nothing to do with "commerce" or any sort of economic 
+enterprise, however broadly one might define those terms.' "  
+Id. at 4354 (quoting Lopez, 514 U.S. at 561).  It said that the 
+same was true of the federal civil remedy provision of the 
+Violence Against Women Act (VAWA).26  See id. at 4355.  
+But the same cannot be said of the Clean Air Act provisions 
+concerning VOC emissions, which permit regulation only of:
+
+__________
+     25 18 U.S.C. s 922(q)(1)(A).
+
+     26 42 U.S.C. s 13981.
+
+     (i) manufacturers, processors, wholesale distributors, or 
+     importers of consumer or commercial products for sale 
+     or distribution in interstate commerce in the United 
+     States;  or
+     
+     (ii) manufacturers, processors, wholesale distributors, or 
+     importers that supply the entities listed under clause (i) 
+     with such products for sale or distribution in interstate 
+     commerce in the United States.
+     
+42 U.S.C. s 7511b(e)(1)(C).
+
+     Second, Morrison noted that in Lopez, the Gun-Free 
+School Zones Act, like VAWA, "contained 'no express juris-
+dictional element which might limit its reach to a discrete set 
+of firearm possessions that additionally have an explicit con-
+nection with or effect on interstate commerce.' "  Morrison, 
+68 U.S.L.W. at 4355 (quoting Lopez, 514 U.S. at 562).  As 
+quoted above, however, EPA's regulation of VOCs is express-
+ly limited to entities that act "in interstate commerce."  42 
+U.S.C. s 7511b(e)(1)(C).
+
+     Third, Morrison pointed out that neither the Gun-Free 
+School Zones Act, " 'nor its legislative history contain[s] ex-
+press congressional findings regarding the effects upon inter-
+state commerce of gun possession in a school zone.' "  Id. 
+(quoting Lopez, 514 U.S. at 562).  The legislative history of 
+the Clean Air Act Amendments, by contrast, expressly de-
+scribes the problem of interstate transport of ozone, see, e.g., 
+S. Rep. No. 101-228, at 3, 13, 49 (1989), as well as its effects 
+on the national economy, see, e.g., id. at 8-9.
+
+     Finally, according to Morrison, the "decision in Lopez 
+rested in part on the fact that the link between gun posses-
+sion and a substantial effect on interstate commerce was 
+attenuated," Morrison, 68 U.S.L.W. at 4355, which the Court 
+said was true of gender-motivated violence as well, see id. at 
+4356.  But, there is nothing attenuated about the interstate 
+effects of the activity regulated here.  We ourselves have 
+noted the interstate nature of the "ozone transport phenome-
+non," and the way in which it may render any given state 
+unable to achieve attainment because of ozone created hun-
+dreds of miles away.  See Virginia v. EPA, 108 F.3d 1397, 
+1400 (D.C. Cir. 1997).  The legislative history and EPA's 
+
+report to Congress substantiate the heavy impact ozone pollu-
+tion has on national health care costs and national agricultur-
+al production.  See S. Rep. No. 101-228, at 8-9 (1989);  Report 
+at 1-1 (J.A. at 518).  And the rulemaking record sustains the 
+proposition that the large majority of the products regulated 
+by the rule are distributed nationally, and then applied by 
+end-users in multiple locations, see 63 Fed. Reg. 48,792, 
+48,804--facts that are confirmed, and stressed, by the Nation-
+al Paint & Coatings Association, see NPCA Br. at 24.
+
+     In short, none of the considerations that led the Court to 
+find Congress' authority wanting in Lopez and Morrison has 
+any application to section 183(e) of the Clean Air Act.  In 
+Hodel v. Virginia Surface Mining and Reclamation Ass'n--a 
+case cited with approval by the Supreme Court in both Lopez 
+and Morrison, see Lopez, 514 U.S. at 557;  Morrison, 68 
+U.S.L.W. at 4354--the Court declared that it "agree[d] with 
+the lower federal courts that have uniformly found the power 
+conferred by the Commerce Clause broad enough to permit 
+congressional regulation of activities causing air or water 
+pollution, or other environmental hazards that may have 
+effects in more than one State."  452 U.S. 264, 282 (1981).  
+Contrary to Allied's assertion, nothing contained in the 
+Court's recent Commerce Clause jurisprudence casts doubt 
+on the validity of that declaration here.
+
+                               VII
+
+     For the foregoing reasons, we reject petitioners' challenges 
+to the architectural coatings rule and deny the petitions for 
+review.
+

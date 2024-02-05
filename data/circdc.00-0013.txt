@@ -1,0 +1,1012 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 19, 1999   Decided January 18, 2000 
+
+                           No. 99-5028
+
+                  America's Community Bankers, 
+                            Appellant
+
+                                v.
+
+             Federal Deposit Insurance Corporation, 
+                             Appellee
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 97cv00416)
+
+     H. Stephen Harris, Jr., argued the cause for appellant. 
+With him on the briefs was Philip R. Stein.
+
+     Thomas L. Holzman, Counsel, Federal Deposit Insurance 
+Corporation, argued the cause for appellee.  With him on the 
+brief were Jack D. Smith, Deputy General Counsel, Ann S. 
+Duross and Thomas A. Schulz, Assistant General Counsel, 
+and Robert D. McGillicuddy and Barbara Sarshik, Counsel.
+
+     Before:  Sentelle, Henderson and Garland, Circuit 
+Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  America's Community Bankers 
+(Bankers), a trade association of banks and savings institu-
+tions, appeals from a district court order granting summary 
+judgment for the Federal Deposit Insurance Corporation 
+(FDIC) in an action challenging the results of an FDIC 
+rulemaking undertaken in response to the Deposit Insurance 
+Funds Act of 1996 (the Act or the 1996 Act).  Reviewing the 
+agency's rulemaking under Chevron U.S.A. Inc. v. Natural 
+Resources Defense Council, Inc., 467 U.S. 837 (1984), the 
+district court upheld the FDIC's conclusions as a reasonable 
+interpretation of the relevant statutes.  Because we agree 
+with the district court that the FDIC's interpretation of its 
+governing statute is a reasonable one entitled to Chevron 
+deference, we affirm the district court's decision.
+
+                           I. Glossary
+     Because of the numerous acronyms and terms of art em-
+ployed in this opinion, we provide a brief glossary.
+
+     Bankers                  America's Community Bankers (Ap- 
+                                   pellant)
+     
+     APA                 Administrative Procedure Act
+     
+     Bank Fund             Bank Insurance Fund
+     
+     Act or 1996 Act     Deposit Insurance Funds Act of 1996
+     
+     FDIC                     Federal Deposit Insurance Cor- 
+                                   poration (Appellee)
+     
+     FICO                     Financing Corporation
+     
+     FIRREA                Financial Institutions Reform, Re- 
+                              covery, and Enforcement Act
+     
+     FSLIC                Federal Savings and Loan Insur- 
+                               ance Corporation
+     
+     Savings Fund             Savings Association Insurance Fund  
+                          II. Background
+
+     In 1987, in an effort to stem a crisis in the savings and loan 
+industry, Congress established the Financing Corporation 
+(FICO) and authorized it to issue and service bonds for the 
+purpose of recapitalizing and stabilizing the insolvent Federal 
+Savings and Loan Insurance Corporation (FSLIC).  See Fed-
+eral Savings and Loan Insurance Corporation Recapitaliza-
+tion Act of 1987, Pub. L. No. 100-86, s 302, 101 Stat. 552, 585 
+(1987);  see also 12 U.S.C. s 1441 (1994) (current version at 12 
+U.S.C.A. s 1441 (West Supp. 1999));  Marirose K. Lescher & 
+Merwin A. Mace III, Financing the Bailout of the Thrift 
+Crisis:  Workings of the Financing Corporation and the 
+Resolution Funding Corporation, 46 Bus. Law. 507, 510 (1991) 
+(discussing the establishment of FICO).  The problems of the 
+savings and loan industry failed to abate, however, so in 1989 
+Congress enacted more sweeping legislation to increase the 
+supervisory authority of the FDIC and other regulatory 
+agencies and to "reform, recapitalize, and consolidate" the 
+federal deposit insurance system.  Financial Institutions Re-
+form, Recovery, and Enforcement Act of 1989, Pub. L. No. 
+101-73, 103 Stat. 183, 183 (1989) (FIRREA);  see also How a 
+Good Idea Went Wrong:  Deregulation and the Savings and 
+Loan Crisis, 47 Admin. L. Rev. 643, 656-58 (1995) (discussing 
+the enactment of FIRREA).  To accomplish the latter, 
+FIRREA created two insurance funds under the administra-
+tive authority of the FDIC:  the Savings Association Insur-
+ance Fund (Savings Fund) and the Bank Insurance Fund 
+(Bank Fund).  See FIRREA s 206 (codified at 12 U.S.C. 
+s 1815).  FIRREA also abolished the FSLIC, gave the Fed-
+eral Housing Finance Board administrative authority over 
+FICO, and shifted responsibility for the interest on FICO's 
+bonds to Savings Fund member institutions.  See id. 
+ss 401(a), 512.
+
+     In further legislation, Congress ordered the FDIC to pro-
+mulgate by regulation a schedule to assess Savings Fund 
+member institutions semiannually to achieve by the year 2004 
+a designated 1.25% reserve-to-deposits capitalization ratio, 
+then to set semiannual assessments to maintain reserves at 
+that level.  See Federal Deposit Insurance Corporation Im-
+provement Act of 1991, Pub. L. No. 102-242, s 302(a), 105 
+
+Stat. 2236, 2345 (1991) (codified as amended at 12 U.S.C. 
+s 1817(b) (West Supp. 1999)).  The FDIC's governing statute 
+instructed the FDIC Board, in setting the Savings Fund's 
+assessments, to consider "(I) expected operating expenses, 
+(II) case resolution expenditures and income, (III) the effect 
+of assessments on members' earnings and capital, and (IV) 
+any other factors that the Board of Directors may deem 
+appropriate."  12 U.S.C.A. s 1817(b)(2)(A)(ii) (West Supp. 
+1999).
+
+     Another section of that statute, 12 U.S.C. s 1441(f)(2), also 
+authorized FICO, "with the approval of the Board of Di-
+rectors of the [FDIC]," to assess Savings Fund members to 
+service FICO's bonds.  12 U.S.C. s 1441(f)(2) (1994) (current 
+version at 12 U.S.C.A. s 1441(f)(2) (West Supp. 1999)).  The 
+same provision mandated that the sum of amounts assessed 
+by FICO and by the Resolution Funding Corporation under 
+12 U.S.C. s 1441b "shall not exceed the amount authorized to 
+be assessed against [Savings Fund] members pursuant to [12 
+U.S.C. s 1817];"  and that FICO "shall have first priority to 
+make the assessment."  Id. s 1441(f)(2)(A)-(B).  Finally, 12 
+U.S.C. s 1441(f)(2)(C) required the amount of the Savings 
+Fund assessment under 12 U.S.C. s 1817 to be reduced by 
+the amount of the FICO and Resolution Funding Corporation 
+assessments.  See id. s 1441(f)(2)(C).  After FIRREA abol-
+ished the FSLIC in 1989, the FDIC collected the FICO 
+assessments on FICO's behalf along with the Savings Fund 
+assessments.  Thus the pre-1996 statutory scheme linked 
+FICO's bond interest funding to the Savings Fund's insur-
+ance premium assessment process and gave FICO funding 
+the higher priority.
+
+     The Bank Fund achieved capitalization in May 1995, so the 
+FDIC lowered the assessments of member institutions.  See 
+Lisa L. Bonner, Updating FDICIA/RTC, 15 Ann. Rev. Bank-
+ing L. 81, 84-87 (1996) (describing the state of the insurance 
+funds immediately prior to passage of the 1996 Act).  In 
+comparison, the Savings Fund remained significantly under-
+capitalized, and Savings Fund assessments remained high, 
+because of the diversion of a portion of Savings Fund assess-
+ments to satisfy FICO's bond interest obligation.  See id. 
+
+Pursuing lower insurance fund assessments, Savings Fund 
+member institutions sought to shift their deposits to the Bank 
+Fund, and thus threatened to destabilize the Savings Fund 
+and FICO's ability to pay its bond interest obligation.  See J. 
+Virgil Mattingly & Keiran J. Fallon, Understanding the 
+Issues Raised by Financial Modernization, 2 N.C. Banking 
+Inst. 25, 62-63 (1998) (discussing the enactment of the 1996 
+Act).  To address this problem, Congress passed the 1996 
+Act, which the President signed into law on September 30, 
+1996.  See id.
+
+     The Act ordered the FDIC to impose a special assessment 
+sufficient to raise the Savings Fund to the 1.25% designated 
+reserve ratio for the fourth quarter of 1996 as of October 1, 
+1996.  See 1996 Act, Pub. L. No. 104-208, s 2702, 110 Stat. 
+3009, 3009-479 (1996).  The Act also amended 12 U.S.C. 
+s 1817(b)(2)(A)(i) to require that the FDIC make Savings 
+Fund assessments "when necessary, and only to the extent 
+necessary" to maintain Savings Fund reserves at the desig-
+nated reserve ratio.  1996 Act s 2708(a), 110 Stat. 3009-497 
+(codified at 12 U.S.C.A. s 1817(b)(2)(A)(i) (West Supp. 1999)).  
+Finally, effective January 1, 1997, the Act authorized FICO to 
+service its bonds by assessing all insured depository institu-
+tions, not just Savings Fund member institutions;  and in a 
+related amendment, the Act eliminated the language in 12 
+U.S.C. s 1441(f)(2) that linked the FICO and Savings Fund 
+assessments.  See 1996 Act s 2703(a), 110 Stat. 3009-485 
+(codified at 12 U.S.C.A. s 1441(f)(2) (West Supp. 1999)).
+
+     To summarize:  As of October 1, 1996, the Savings Fund 
+was fully capitalized at the designated reserve ratio.  Thus, 
+under 12 U.S.C. s 1817(b)(2)(A)(i), the FDIC could only 
+assess Savings Fund members to the extent necessary to 
+maintain the Savings Fund at that level.  Because the amend-
+ment to 12 U.S.C. s 1441(f)(2) severing the statutory relation-
+ship between the Savings Fund and FICO did not become 
+effective until January 1, 1997, however, FICO could only 
+assess Savings Fund members to the extent authorized under 
+12 U.S.C. s 1817 to cover its bond interest obligation for the 
+fourth quarter of 1996.
+
+     On May 30, 1996, before the 1996 Act was enacted, FICO 
+sent a memorandum to the FDIC requesting funding of 
+$396,665,000 for the period of July 1 through December 31, 
+1996. On August 31, 1996, the FDIC sent invoices to the 
+Savings Fund member institutions for the fourth quarter 1996 
+Savings Fund and FICO assessments.  On September 30, 
+1996, the day the President signed the Act into law, the FDIC 
+collected the fourth quarter Savings Fund and FICO assess-
+ments and transmitted to FICO its portion.  On October 16, 
+1996, the FDIC issued a final rule imposing the special 
+assessment ordered by the Act, to be collected on November 
+27, 1996.  See 61 Fed. Reg. 53,834 (1996).  Since the special 
+assessment capitalized the Savings Fund retroactive to Octo-
+ber 1, the FDIC also issued on October 16 a notice of 
+proposed rulemaking to revise the fourth quarter assessment 
+schedules so as to refund the fourth quarter Savings Fund 
+assessment collected on September 30, 1996.  See 61 Fed. 
+Reg. 53,867 (1996) (proposed Oct. 16, 1996).
+
+     On December 11, 1996, the FDIC Board held an open 
+meeting to consider a final rule revising the fourth quarter 
+Savings Fund assessment rates.  At that meeting, the Board 
+considered whether a refund of the fourth quarter FICO 
+assessment was appropriate as well.  While acknowledging 
+that the statutes could be read otherwise, the Board rejected 
+the legal interpretation favored by Bankers in this litigation 
+in favor of what the Board deemed to be "the better reading."  
+The Board concluded that the statutory relationship between 
+the FICO and Savings Fund assessments should be construed 
+to satisfy congressional intent that FICO be funded, that 
+FICO's needs fell within the scope of "any other factors that 
+the Board of Directors may deem appropriate" under 12 
+U.S.C. s 1817(b)(2)(A)(ii)(IV), and that the FDIC serves 
+purely a custodial role in collecting and disbursing the FICO 
+assessments, thus has no authority to refund the fourth 
+quarter 1996 FICO assessment.  The final rule adopting the 
+revised assessment schedules, including the Savings Fund 
+refund but no FICO refund, was issued December 24, 1996.  
+See 61 Fed. Reg. 67,687 (1996) (codified as amended at 12 
+C.F.R. ss 327.3-327.10).
+
+     Bankers sued under the Administrative Procedure Act 
+(APA) seeking a declaratory judgment that its members are 
+statutorily entitled to a refund of the FICO portion of the 
+September 30, 1996, assessment.1  The district court applied 
+the two-part test of Chevron U.S.A. Inc. v. Natural Re-
+sources Defense Council, Inc., 467 U.S. 837 (1984), to the 
+FDIC Board's interpretation of the statutory scheme, and 
+found that the FDIC's decision not to refund the FICO 
+portion of the fourth quarter 1996 assessments "was neither 
+arbitrary, capricious, nor otherwise unlawful."  America's 
+Community Bankers v. FDIC, 31 F. Supp. 2d 137, 141 
+(D.D.C. 1998).  Additionally, the district court found that the 
+refund sought by Bankers was not available under 5 U.S.C. 
+s 702:  Because the FDIC had disbursed the funds to FICO 
+immediately upon collection, the FDIC lacked the particular 
+res required for recovery under the APA.  See id. at 142 
+(citing City of Houston v. Department of Hous. and Urban 
+Dev., 24 F.3d 1421, 1428 (D.C. Cir. 1994)).  The court sug-
+gested that Bankers should sue FICO for relief instead.
+
+                    III. Article III Standing
+
+     First, the FDIC challenges Bankers's standing before this 
+court, a contention which we must address before proceeding 
+to the merits of Bankers's claim.  To meet the case or 
+controversy requirement of Article III of the United States 
+Constitution, a plaintiff must demonstrate that he has suf-
+fered injury in fact, that the injury is fairly traceable to the 
+defendant's actions, and that a favorable decision will redress 
+the plaintiff's injury.  See Bennett v. Spear, 520 U.S. 154, 162 
+(1997);  Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 
+(1992).  The FDIC does not challenge Bankers's satisfaction 
+of the injury-in-fact element,2 but asserts that Bankers cannot 
+
+__________
+     1 Under the APA, reviewing courts hold unlawful and set aside 
+only those agency actions or conclusions found to be "arbitrary, 
+capricious, an abuse of discretion, or otherwise not in accordance 
+with law."  5 U.S.C. s 706(2)(A) (1994).
+
+     2 Bankers's standing rests on the concept of associational stand-
+ing.  A membership organization may sue to redress its members' 
+
+satisfy the causation and the redressability requirements for 
+Article III standing.  To establish causation, Bankers must 
+demonstrate a causal link between the injury to its members 
+and the FDIC's conduct, that is that the injurious conduct is 
+fairly traceable to the FDIC's actions, as opposed to the 
+independent action of a third party not before the court.  See 
+Defenders of Wildlife, 504 U.S. at 560-61.  To satisfy the 
+redressability requirement, Bankers must establish that it is 
+likely, as opposed to merely speculative, that a favorable 
+decision by this court will redress the injury suffered.  See id.
+
+                           A. Causation
+
+     The FDIC suggests that, to satisfy the causation element 
+of the standing analysis, the challenged agency must have 
+been the driving force behind the injurious conduct.  Employ-
+ing this standard, the FDIC maintains that it did not cause 
+the injury to Bankers's members because it was only a 
+conduit, a passive intermediary acting entirely on FICO's 
+behalf and at FICO's instruction.  Contrary to the FDIC's 
+assertion, our precedents generally do not require so high a 
+degree of independent agency action for a finding of causa-
+tion.  We have held in several recent opinions that the 
+causation element is satisfied by a demonstration that an 
+administrative agency authorized the injurious conduct.  See, 
+e.g., Animal Legal Defense Fund (ALDF) v. Glickman, 154 
+F.3d 426, 440-43 (D.C. Cir. 1998) (en banc);  Bristol-Myers 
+Squibb Co. v. Shalala, 91 F.3d 1493, 1499 (D.C. Cir. 1996);  
+Telephone and Data Sys., Inc. v. FCC, 19 F.3d 42, 46-47 
+(D.C. Cir. 1994).  In ALDF v. Glickman, we held that even 
+agency action which implicitly permits a third party to behave 
+in an injurious manner offers enough of a causal link to 
+support a lawsuit against the agency.  See 154 F.3d at 440-
+43.  In short, our precedents suggest that an agency does not 
+
+__________
+injuries, even if the organization cannot demonstrate an injury to 
+itself.  See, e.g., UAW v. Brock, 477 U.S. 274 (1986);  Hunt v. 
+Washington State Apple Adver. Comm'n, 432 U.S. 333 (1977);  
+Warth v. Seldin, 422 U.S. 490 (1975).  Our discussion therefore 
+concerns injury to Bankers's member institutions, not the organiza-
+tion per se.
+
+have to be the direct actor in the injurious conduct, but that 
+indirect causation through authorization is sufficient to fulfill 
+the causation requirement for Article III standing.
+
+     In the present case, the FDIC was more involved in both 
+the assessment and collection processes than our precedents 
+require.  Both before and after the 1996 Act, FICO was 
+statutorily required to obtain "the approval of the Board of 
+Directors of the [FDIC]" in assessing Savings Fund member 
+institutions.  12 U.S.C.A. s 1441(f)(2) (West Supp. 1999);  see 
+also 12 U.S.C. s 1441(f)(2) (1994).  Even if the FDIC is 
+correct that it could not collect the semiannual FICO assess-
+ment without FICO's permission, clearly 12 U.S.C. 
+s 1441(f)(2) contemplates that FICO could not assess Savings 
+Fund member institutions without FDIC approval, either.  
+The FDIC's own deliberations over whether or not to refund 
+the FICO portion of the funds collected on September 30, 
+1996, suggest that, contrary to its position here, the FDIC 
+viewed itself as playing an active role in the assessment 
+process.  Moreover, once the assessments were final, the 
+FDIC was solely responsible for collecting the funds from 
+Savings Fund members.  So while the FDIC's involvement in 
+the FICO assessment was perhaps something less than we 
+often see, cf. Bennett v. Spear, 520 U.S. at 169-70;  Northeast 
+Energy Assocs. v. FERC, 158 F.3d 150, 153-54 (D.C. Cir. 
+1998), the FDIC's actions are well within the outer boundary 
+of causation established by ALDF v. Glickman and the cases 
+discussed therein.
+
+                        B. Redressability
+
+     In its suit against the FDIC, Bankers seeks a declaratory 
+judgment that 12 U.S.C. ss 1441 and 1817, as of October 1, 
+1996, limited the fourth quarter 1996 Savings Fund assess-
+ment (including the FICO assessment portion) to the rate 
+necessary to maintain the Savings Fund at the 1.25% desig-
+nated reserve ratio.  See Appellant's Br. at 2.  Bankers also 
+seeks a declaration that its members are entitled to a refund 
+from the FDIC of all fourth quarter assessments exceeding 
+that amount--in other words, a refund of the fourth quarter 
+
+FICO assessment paid September 30, 1996--plus interest and 
+costs.  See id.  The FDIC maintains that a decision against it 
+will not redress the injury to Bankers's members because the 
+FDIC does not control the funds it collects on FICO's behalf 
+and does not have the authority to use the Bank Fund and 
+Savings Fund reserves it does control to provide a refund.  
+Bankers responds that the FDIC still must approve FICO 
+assessments and continues to be actively involved in the 
+structure and timing of those assessments.  Moreover, Bank-
+ers claims that 12 U.S.C. s 1817(e)(1) gives the FDIC the 
+statutory authority to make the requested refund.  Thus, the 
+parties perceive that whether a favorable decision by this 
+court would redress the injury to Bankers's members turns 
+upon whether the FDIC has the authority either to pay the 
+refund sought by Bankers or to require FICO to pay it.
+
+     The parties misconstrue the inquiry.  The redressability 
+element does not depend upon the defendant's financial abili-
+ty to pay a judgment against it.  Courts do not deny a 
+plaintiff his day in court simply because the defendant may be 
+unable to pay all or part of a potential judgment against it.  
+Indeed, courts regularly grant awards against defendants 
+who cannot pay, then leave the problems of collection to the 
+prevailing plaintiffs.  As a general rule, governing statutes do 
+not explicitly authorize agencies to pay judgments against 
+them, presumably because such statutes do not typically 
+address the consequences of agencies overstepping their au-
+thority.  Instead, Congress has promulgated statutes like the 
+APA to waive sovereign immunity and authorize parties 
+aggrieved by agency actions to seek relief against the offend-
+ing agencies in court.  See generally 5 U.S.C. s 702 (1994).  
+If an agency errs, the agency is liable, to the extent that 
+Congress has waived the government's immunity from suit.  
+Premising redressability on the agency's explicit authority to 
+pay contradicts the premise of agency accountability which 
+underlies the APA.
+
+     The law does not require that the challenged agency be 
+able to pay before the redressability element for Article III 
+standing is satisfied.  Instead, the law only requires that the 
+relief requested, if granted, will resolve the injury.  In Natu-
+
+ral Resources Defense Council v. Pena, 147 F.3d 1012 (D.C. 
+Cir. 1998), for example, the appellants sought an injunction 
+precluding a government agency from using a particular 
+report prepared by a committee organized and operated in 
+violation of the Federal Advisory Committee Act (FACA).  
+We concluded that the NRDC failed to satisfy redressability 
+for two reasons:  First, the NRDC could not demonstrate that 
+denying use of the report would redress the injury caused by 
+past FACA violations;  and second, even if ongoing FACA 
+violations continued to injure the NRDC, the injunction 
+sought would do nothing to resolve ongoing violations.  See 
+id. at 1021-22.  In contrast, the relief that Bankers seeks 
+would redress the alleged injury by giving Bankers's mem-
+bers their money back, so long as they could collect the 
+award.
+
+     Where an agency rule causes the injury, the redressability 
+requirement may be satisfied as well by vacating the chal-
+lenged rule and giving the aggrieved party the opportunity to 
+participate in a new rulemaking the results of which might be 
+more favorable to it.  See, e.g., Lepelletier v. FDIC, 164 F.3d 
+37, 43 (D.C. Cir. 1999) (citing Northeast Energy Assocs. v. 
+FERC, 158 F.3d at 154;  Motor & Equip. Mfrs. Ass'n v. 
+Nichols, 142 F.3d 449, 457-58 (D.C. Cir. 1998)).  If we order 
+the relief that Bankers seeks, the FDIC would issue new 
+fourth quarter 1996 schedules assessing a lesser amount, in 
+essence revoking its approval of the FICO assessment retro-
+actively, as it did with the fourth quarter 1996 Savings Fund 
+assessment, and entitling Bankers's members to a refund.
+
+     Finally, collectibility is not in fact a problem in this case.  
+At oral argument, the FDIC conceded that it could utilize its 
+approval authority to require FICO to offer Bankers's mem-
+bers a credit against future assessments if this court were to 
+find for Bankers on the merits.  Thus, while several lines of 
+analysis appear to support Bankers's satisfaction of the re-
+dressability requirement for Article III standing, at a mini-
+mum, the FDIC's ability to offer a remedy in the form of a 
+credit is sufficient to establish redressability.  On that basis, 
+we hold that Bankers has standing to bring this claim for 
+declaratory relief against the FDIC.
+
+                        IV. Money Damages
+
+     The FDIC additionally contests our jurisdiction under the 
+APA to consider Bankers's request for declaratory relief.  
+That provision limits judicial review of claims challenging 
+agency actions to those "seeking relief other than money 
+damages."  5 U.S.C. s 702.  Relying upon our opinion in City 
+of Houston v. Department of Hous. and Urban Dev., 24 F.3d 
+1421, 1428 (D.C. Cir. 1994), the district court held that, since 
+the FDIC was merely a conduit for the payment of funds by 
+the Savings Fund member institutions to FICO, the FDIC 
+did not retain the specific res from which a refund could be 
+paid;  thus, it held, the refund Bankers seeks is unavailable 
+under 5 U.S.C. s 702.  See America's Community Bankers, 
+31 F. Supp. 2d at 141-42.  In other words, since the FDIC no 
+longer holds the funds paid by Bankers's members for the 
+fourth quarter of 1996, a refund constitutes money damages 
+beyond the scope of the APA's jurisdictional grant.  Bankers 
+suggests that the district court misconstrued City of Houston 
+and interpreted 5 U.S.C. s 702 too narrowly.
+
+     The pivotal analysis in distinguishing specific relief avail-
+able under the APA from unavailable money damages comes 
+from our opinion in Maryland Dep't of Human Resources v. 
+Department of Health and Human Servs., 763 F.2d 1441 
+(D.C. Cir. 1985), which the Supreme Court adopted in Bowen 
+v. Massachusetts, 487 U.S. 879 (1988).  Not all forms of 
+monetary relief are money damages.  See Maryland Dep't of 
+Human Resources, 763 F.2d at 1447.  Rather, money dam-
+ages represent compensatory relief, an award given to a 
+plaintiff as a substitute for that which has been lost;  specific 
+relief in contrast represents an attempt to restore to the 
+plaintiff that to which it was entitled from the beginning.  See 
+id. at 1446.  Maryland Department of Human Resources, 
+Bowen, and subsequent cases focus on the nature of the relief 
+sought, not on whether the agency still has the precise funds 
+paid.
+
+     Where a plaintiff seeks an award of funds to which it claims 
+entitlement under a statute, the plaintiff seeks specific relief, 
+not damages.  See, e.g., Bowen, 487 U.S. at 901;  Maryland 
+
+Dep't of Human Resources, 763 F.2d at 1446-48;  National 
+Ass'n of Counties v. Baker, 842 F.2d 369, 373 (D.C. Cir. 1988);  
+Aetna Cas. & Sur. Co. v. United States, 71 F.3d 475, 478-79 
+(2d Cir. 1995);  Dia Navigation Co. v. Pomeroy, 34 F.3d 1255, 
+1266-67 (3d Cir. 1994).  In the present case, Bankers main-
+tains that the statutory scheme, as it was for the fourth 
+quarter of 1996, required the FDIC to provide for a FICO 
+assessment refund in the revised assessment schedules pro-
+mulgated in December 1996.  If Bankers is correct that the 
+FDIC violated its statutory obligation by adopting revised 
+assessment schedules which permitted an overcharge, then 
+under established and binding precedent, Bankers's claim 
+represents specific relief within the scope of 5 U.S.C. s 702, 
+not consequential damages compensating for an injury.  That 
+the FDIC no longer possesses the precise funds collected is 
+not determinative of this analysis.
+
+     Our precedent in City of Houston does not preclude Bank-
+ers's claim.  In that case, Houston sued HUD for congres-
+sionally appropriated grant money that HUD first allocated 
+to Houston, then reallocated elsewhere after Houston failed 
+to meet spending targets.  The FDIC notes that we rejected 
+Houston's argument that HUD could use other funds at its 
+disposal to pay its claim and concluded that "specific relief" 
+under section 702 requires payment "out of a specific res."  
+City of Houston, 24 F.3d at 1428.  The FDIC argues that 
+Bankers's claim is analogous to Houston's, as Bankers sug-
+gests that if the FDIC does not have adequate authority to 
+pay a refund from FICO funds, the FDIC could use Savings 
+Fund reserves instead.  This resemblance is superficial, how-
+ever.
+
+     The principal issue in City of Houston was mootness, not 
+the question of allowable specific relief as opposed to unavail-
+able money damages.  We dismissed Houston's claim as moot 
+because the grant funds were contractually obligated to an-
+other recipient and the appropriation in question had lapsed.  
+See id. at 1427.  We rejected Bowen as inapplicable in view of 
+the Appropriations Clause of the Constitution.  Because the 
+Appropriations Clause precludes a distribution of money from 
+the Treasury unless appropriated by Congress, we held that 
+
+we had no authority to provide monetary relief by ordering 
+reapplication of lapsed or fully obligated appropriations.  See 
+id at 1428.  The commitment of the appropriated funds to 
+other recipients and the expiration of the congressional ap-
+propriation eliminated Houston's particular entitlement to 
+government monies.  Outside the appropriations process, 
+HUD had no statutory, regulatory, or other legal obligation 
+or authority to distribute funds to Houston.  Under those 
+circumstances, an award from other available HUD funds not 
+only would have represented compensation for Houston's loss 
+of the grant money--thus money damages as opposed to 
+specific relief--but also would have created a separation of 
+powers encroachment under the Appropriations Clause of the 
+Constitution.  The City of Houston petitioners sought to have 
+us control the appropriation of funds, or the distribution of 
+appropriated funds, while the present case does not directly 
+implicate appropriated funds, but rather seeks restoration of 
+funds allegedly taken wrongfully by assessment from Bank-
+ers's member institutions.
+
+     Whereas City of Houston addressed whether a court could 
+award to a claimant funds which otherwise belonged to the 
+government, this case questions whether the government can 
+retain funds which originally belonged to Bankers's members.  
+Unlike Houston, Bankers is not seeking compensation for 
+economic losses suffered by the government's alleged wrong-
+doing;  Bankers wants the FDIC to return that which right-
+fully belonged to Bankers's member institutions in the first 
+place.  Bankers alleges that the FDIC violated the terms of 
+12 U.S.C. ss 1441 and 1817 by assessing more in the fourth 
+quarter of 1996 than the statutory scheme permitted.  If 
+Bankers is correct in its statutory interpretation, then the 
+FDIC improperly collected money from Bankers's members, 
+and they are entitled under the statutory scheme to get their 
+money back.  The FDIC cannot eliminate the entitlement of 
+Bankers's member institutions to reimbursement by distrib-
+uting the improperly collected funds elsewhere.
+
+     The FDIC also cites Department of the Army v. Blue Fox, 
+Inc., 119 S. Ct. 687 (1999), as supporting the district court's 
+conclusion.  In Blue Fox, a prime contractor on a government 
+
+contract failed to pay a subcontractor, who then sued the 
+Army seeking an equitable lien on any funds available or 
+appropriated for the project and an order directing payment 
+of those funds.  The Supreme Court held that, since the 
+subcontractor's claim for specific relief was against the de-
+faulting prime contractor, an equitable lien represented com-
+pensatory or substitute relief, thus money damages.  See id. 
+at 692.  The present case is different because the FDIC's 
+responsibility for the alleged overassessment is not purely 
+subsidiary to FICO's.  Unlike the Army in Blue Fox, the 
+FDIC at least shares with FICO primary responsibility for 
+the alleged wrongdoing.  Although the FDIC disclaims any 
+active role in the alleged injurious conduct, as we have 
+already discussed, the FDIC's characterization is inaccurate.  
+Since the FDIC shares direct responsibility for assessing and 
+collecting the FICO assessment, Bankers's claim for mone-
+tary relief is equitable, like the claims in Bowen and Mary-
+land Department of Human Resources, not compensatory, 
+like the claim in Blue Fox.
+
+     Regardless, even if we were to order a refund in this case, 
+no transfer of funds would be necessary to follow our com-
+mand.  At oral argument, the FDIC conceded that it had the 
+authority to offset Bankers's members' future FICO assess-
+ments by the amount of any refund this court might order.  
+In other words, if we found for Bankers on the merits, we 
+could order the FDIC to give them a credit against future 
+FICO assessments as opposed to a cash refund of past 
+assessments.  Bankers agreed that such a remedy would be 
+functionally equivalent to the relief it seeks.  These conces-
+sions render the FDIC's cash position both practically and 
+legally irrelevant.  For these reasons, we hold that the reme-
+dy sought by Bankers does not constitute money damages.  
+Thus we have power under 5 U.S.C. s 702 to consider the 
+merits of Bankers's claim.
+
+                    V. Alleged Issues of Fact
+
+     Bankers challenges the district court's grant of summary 
+judgment on the ground that the court improperly resolved 
+
+genuine issues of material fact which should be left to a jury. 
+Bankers raises three allegedly key facts as in dispute:  First, 
+whether FICO could have met its interest payment obli-
+gations in the fourth quarter of 1996 without the special 
+assessment;  second, whether the FDIC played an active or 
+passive role with respect to the assessment;  and third, 
+whether the FDIC is capable of paying a refund.  An appel-
+late court reviews a grant of summary judgment de novo, 
+applying the same standard as governed the district court's 
+decision.  See Greene v. Dalton, 164 F.3d 671, 674 (D.C. Cir. 
+1999).  Accordingly, we must determine whether a genuine 
+issue of material fact exists in this case.  See Byers v. 
+Burleson, 713 F.2d 856, 859 (D.C. Cir. 1983).
+
+     Bankers's claim misapprehends the district court's decision 
+and the nature of the inquiry at hand.  Summary judgment is 
+appropriate when evidence on file shows "that there is no 
+genuine issue as to any material fact and that the moving 
+party is entitled to a judgment as a matter of law."  Fed. R. 
+Civ. P. 56(c).  Not all alleged factual disputes represent 
+genuine issues of material fact which may only be resolved by 
+a jury.  "Material facts are those 'that might affect the 
+outcome of the suit under governing law,' and a genuine 
+dispute about material facts exists 'if the evidence is such that 
+a reasonable jury could return a verdict for the nonmoving 
+party.' "  Farmland Indus., Inc. v. Grain Board of Iraq, 904 
+F.2d 732, 735-36 (D.C. Cir. 1990) (quoting Anderson v. Liber-
+ty Lobby, Inc., 477 U.S. 242, 248 (1986)).  The "factual issues" 
+raised by Bankers do not meet this standard.
+
+     With respect to FICO's ability to meet its interest payment 
+obligation, the FDIC's concern was with the construction of 
+the statutory funding scheme overall.  The FDIC at no point 
+in the record said that FICO could not make its fourth 
+quarter 1996 interest payment unless it retained the funds 
+collected on September 30, 1996.  Instead, the FDIC rea-
+soned that Bankers's interpretation of the statute could yield 
+inconsistent funding and disrupt FICO's ability to meet its 
+bond interest obligation, that another reading would generate 
+a more stable cash flow for FICO, and that the stable cash 
+flow was consistent with congressional intent.  Thus, the 
+
+FDIC's discussion of FICO's ability to meet its bond interest 
+obligation represents statutory construction, not fact finding, 
+and the district court appropriately treated it as such.
+
+     The nature of the FDIC's role in the FICO assessment 
+process is also a legal, not a factual, question.  The adequacy 
+of the Savings Fund reserves is not a material fact because it 
+is not relevant.  But even if we considered these allegedly 
+factual disputes to be issues of fact, and a jury found that the 
+FDIC was an active participant, that finding would only 
+influence whether Bankers clears the Article III standing 
+hurdle, a question which we have already decided in Bank-
+ers's favor as a matter of law;  and for a jury to find that the 
+Savings Fund reserves are adequate to cover the refund 
+would resolve nothing.  Neither finding would inform the 
+question of whether the FDIC properly interpreted its statu-
+tory obligation with respect to the FICO assessment.  Put 
+simply, even if Bankers were correct in characterizing these 
+so-called disputes as issues of fact, they do not involve 
+material facts because they have no bearing on the outcome 
+of the case.  This case turns on whether the FDIC properly 
+interpreted the statutory scheme governing Savings Fund 
+and FICO assessments, not on determinations of fact.  The 
+district court did not invade the jury's province.
+
+                   VI. Statutory Interpretation
+
+     Accordingly, we turn to the bottom line of the present case:  
+whether the FDIC properly construed its authority and obli-
+gations under 12 U.S.C. ss 1441 and 1817.  Prior to the 
+enactment of the 1996 Act and through January 1, 1997, 12 
+U.S.C. s 1441(f)(2) provided that the FICO assessment "shall 
+not exceed the amount authorized to be assessed against 
+Savings Association Insurance Fund members pursuant to [12 
+U.S.C. s 1817]...."  12 U.S.C. s 1441(f)(2) (1994);  see also 
+Pub. L. 104-208, s 2703(a), (c), 110 Stat. 3009, 3009-485 to 
+3009-486 (1996) (making the amendments to s 1441(f)(2) ef-
+fective only with respect to semiannual periods beginning 
+after December 31, 1996).  As of September 30, 1996, howev-
+er, 12 U.S.C. s 1817(b)(2)(A)(i) required the FDIC Board to
+
+     set semiannual assessments for insured depository insti-
+     tutions when necessary and only to the extent necessary 
+     ... to maintain the reserve ratio of each deposit insur-
+     ance fund at the designated reserve ratio;  or ... if the 
+     reserve ratio is less than the designated reserve ratio, to 
+     increase the reserve ratio to the designated reserve 
+     ratio....  
+     
+12 U.S.C.A. s 1817(b)(2)(A)(i) (West Supp. 1999).  The stat-
+ute instructed the FDIC Board in carrying out that task to 
+consider the Savings Fund's expected operating expenses, 
+case resolution expenditures and income, the effect of assess-
+ments on members' earnings and capital, and "any other 
+factors that the Board of Directors may deem appropriate."  
+Id. s 1817(b)(2)(A)(ii).  The statute also precluded the FDIC 
+Board from setting the Savings Fund assessments "in excess 
+of the amount needed ... to maintain the reserve ratio of the 
+fund at the designated reserve ratio;  or ... if the reserve 
+ratio is less than the designated reserve ratio, to increase the 
+reserve ratio to the designated reserve ratio."  Id. 
+s 1817(b)(2)(A)(iii).  Notably, the limitation on assessment 
+codified in 12 U.S.C. s 1817(b)(2)(A)(iii) was part of the 1996 
+Act, and thus became effective September 30, 1996.  Addi-
+tionally, even though the changes to 12 U.S.C. s 1441(f)(2) 
+severing the link between the FICO and Savings Fund as-
+sessments were not effective until January 1, 1997, the por-
+tion of 12 U.S.C. s 1817(b)(2) which addressed the FICO 
+assessment was repealed effective September 30, 1996:  "Not-
+withstanding any other provision of this paragraph, amounts 
+assessed by the Financing Corporation under section 1441 of 
+this title against Savings Association Insurance Fund mem-
+bers shall be subtracted from the amounts authorized to be 
+assessed by the Corporation under this paragraph."  12 
+U.S.C. s 1817(b)(2)(D) (1994);  see also Pub. L. No. 104-208, 
+s 2703(b), 110 Stat. 3009, 3009-485 (1996) (repealing 
+s 1817(b)(2)(D)).3
+
+__________
+     3 In its final rule, the FDIC took the view that section 2703(c) of 
+the 1996 Act contained a misprint, and that the Act actually 
+repealed 12 U.S.C. s 1817(b)(2)(D) effective January 1, 1997.  See 
+
+     Bankers asserts that the plain meaning of these provisions 
+as they read for the fourth quarter of 1996 unambiguously 
+excused Savings Fund members from paying fourth quarter 
+1996 assessments in excess of the amount necessary for the 
+Savings Fund to achieve or maintain the designated 1.25% 
+reserve-to-deposits capitalization ratio.  Congress, through 
+the 1996 Act, ordered the FDIC to set and collect a special 
+assessment sufficient to raise the Savings Fund reserves to 
+the designated reserve ratio as of October 1, 1996, and limited 
+the Savings Fund assessment to the amount needed to main-
+tain the Savings Fund reserves at that level.  But Congress 
+preserved the statutory link between the FICO and Savings 
+Fund assessments until January 1, 1997.  Therefore, Bankers 
+argues, Congress clearly intended to limit the fourth quarter 
+FICO assessment.  As the fourth quarter FICO assessment 
+had already been collected when the Act came into effect, 
+Bankers argues a refund is required, as with the fourth 
+quarter Savings Fund assessment.  Bankers suggests that 
+the FDIC's approach reduces 12 U.S.C. s 1441(f)(2) to an 
+instruction for the FDIC to allocate to FICO whatever 
+amounts FICO requested, while 12 U.S.C. s 1441(f)(2) clearly 
+limited the FICO assessment to the amount necessary to 
+achieve or maintain the Savings Fund at the designated 
+reserve ratio.
+
+     The FDIC, in contrast, maintains that the only reasonable 
+interpretation of the statutory scheme as a whole, both before 
+the 1996 Act and through the fourth quarter of 1996, was for 
+the Savings Fund assessment to include the amounts neces-
+sary for both the Savings Fund and FICO.  Before the Act 
+required a special assessment raising the Savings Fund re-
+serves to the designated ratio, 12 U.S.C. s 1817(b)(3)(B) 
+ordered the FDIC to bring the Savings Fund to that level 
+within a fifteen year time frame.  As the FDIC sees it, if 
+Bankers's interpretation of the pre-1996 statutory scheme is 
+correct, then the FDIC would have had to satisfy the require-
+ments of FICO and the Savings Fund both out of the 
+
+__________
+61 Fed. Reg. at 67,688 n.2.  We do not need to resolve whether the 
+FDIC is correct on this point to reach our conclusion.
+
+assessment necessary to fund the Savings Fund alone, and 
+the Savings Fund could not have achieved the designated 
+reserve ratio within the required fifteen year period.  More-
+over, as the Savings Fund approached and achieved the 
+designated level, FICO would have received less and less, 
+then nothing at all unless the Savings Fund fell below that 
+ratio.  Such an outcome, it argues, would contradict Con-
+gress's clear intent to provide FICO with the funding neces-
+sary to satisfy its bond interest payment obligations.  Under 
+its own interpretation, the statutory scheme merely precluded 
+the FDIC from assessing for the Savings Fund's needs until 
+it had assessed an amount adequate to fund FICO, and the 
+FDIC could maintain a stable cash flow for FICO even after 
+the Savings Fund attained the designated reserve ratio.  
+Moreover, the statute does not provide for a refund of the 
+FICO assessment.  If Congress intended a refund, the FDIC 
+asserts, it would have provided for one.
+
+     The overall statutory scheme involves a statute over which 
+the FDIC does not possess administrative authority, 12 
+U.S.C. s 1441.  Ordinarily, an agency's interpretation of a 
+statute it does not administer is not entitled to deference.  
+See, e.g., Professional Reactor Operator Soc'y v. United 
+States Nuclear Regulatory Comm'n, 939 F.2d 1047, 1051 
+(D.C. Cir. 1991).  Nevertheless, because the FDIC's actions 
+derive principally from its interpretation of 12 U.S.C. 
+s 1817(b)(2), which it does administer, the two-step Chevron 
+inquiry is appropriate here.  See Chevron, 467 U.S. at 842-43.  
+Under the Chevron standard, if Congress has directly spoken 
+to the issue, and the intent of Congress is clear, then there is 
+nothing for the agency to interpret, and the court must give 
+effect to the unambiguous expression of Congress.  See id.  
+If, however, the court decides that the statute is ambiguous, 
+then the court determines only whether the agency's inter-
+pretation is a reasonable one.  See id.
+
+     Turning to the first step of the analysis, we cannot agree 
+with Bankers that the plain meaning of 12 U.S.C. s 1441(f)(2) 
+and 12 U.S.C. s 1817(b)(2) required the FDIC to refund the 
+FICO assessment.  Neither can we concur with the FDIC's 
+claim that these provisions explicitly precluded a refund.  
+
+Indeed, both parties offer reasonable interpretations of the 
+proper functioning of the statutory scheme.  In our view, the 
+intersection of 12 U.S.C. s 1817(b)(2)(A) and 12 U.S.C. 
+s 1441(f)(2) was somewhat ambiguous even before the Act, 
+and the staggered effective dates imposed by the Act sub-
+stantially compounded that ambiguity.
+
+     We note however that 12 U.S.C. s 1817(b)(2)(A) gives the 
+FDIC the authority to "set" the Savings Fund assessment 
+amount, then articulates several factors including the "any 
+other factors" element for the FDIC to consider in doing so.  
+In its notice of final rulemaking and before this court, the 
+FDIC asserted that the pre-1996 Act statutory scheme in 
+effect when the assessment at issue was collected, as well as 
+the "any other factors" language of 12 U.S.C. 
+s 1817(b)(2)(A)(ii) which survived the Act, gave it some dis-
+cretion to deny a FICO assessment refund on the ground that 
+such a refund would imperil FICO funding.  See 61 Fed. Reg. 
+at 67,692;  Appellee's Br. at 26-27, 30, 32.  Although each 
+party argued that the case should be resolved in its favor at 
+Chevron step one, our conclusion that the statutory scheme is 
+facially ambiguous and our acceptance of the FDIC's claim 
+that 12 U.S.C. s 1817(b)(2)(A)(ii) allows it some discretion 
+over these matters permit us to move to the second phase of 
+the Chevron analysis.
+
+     We recognize that the FDIC's interpretation of the provi-
+sions in question has been inconsistent.  Indeed, in its final 
+rule addressing the refund issue, the FDIC blamed the FICO 
+allocation for the Savings Fund's failure to receive the full 
+amount of the revenues that the Savings Fund assessments 
+generated prior to the Act.  See 61 Fed. Reg. 67,687 & n.1 
+(1996).  The FDIC noted that, "[t]hrough the end of 1996, the 
+FICO draw serves to reduce the amounts that the FDIC 
+assesses against [Savings Fund]-member savings associa-
+tions."  Id. at 67,688 (citing 12 U.S.C. s 1441(f)(2)).  Only 
+after 1996, the FDIC claimed, would FICO assessments be 
+"independent of and in addition to those of the FDIC."  Id. at 
+67,688 & n.2.  These statements suggest that the FDIC's 
+December 1996 interpretation of the pre-Act statutory 
+scheme was in line with Bankers's interpretation here.  
+
+Moreover, in challenging Bankers's standing to raise the 
+refund claim, the FDIC maintained before this court that it 
+had no discretion with respect to the FICO assessment, but 
+was merely a passive collection agent and conduit for the 
+assessed funds.
+
+     However, despite these inconsistencies, the FDIC in its 
+rulemaking process clearly considered the alternative inter-
+pretations of the statute, and settled on a construction that is 
+at least permissible.  For the most part, the FDIC has 
+continued to support this construction throughout the litiga-
+tion, even if at times it has advanced additional, somewhat 
+contradictory positions as well.  Thus, under the deferential 
+Chevron standard, we conclude that the FDIC's interpreta-
+tion of 12 U.S.C. s 1817 was a reasonable one which we must 
+respect.  We conclude as well that the FDIC, in declining to 
+refund the fourth quarter 1996 FICO assessment, did not act 
+arbitrarily, capriciously, or otherwise contrary to the law.
+
+     Both in the district court and before us, the FDIC has 
+advanced the additional argument that the amended statutory 
+language effective October 1, 1996, bars the FDIC only from 
+"set[ting]" assessments and from "assess[ing]" amounts in 
+excess of statutory limitations.  12 U.S.C. ss 1441(f)(2)(A)(i)-
+(ii), 1817(b)(2)(A)(i), (iii).  Because the assessment in this case 
+was "set" no later than May 30, 1996, by memorandum from 
+FICO to the FDIC and "assessed" on or about August 31, 
+1996, when the FDIC sent invoices to the saving institutions, 
+both events, potentially barrable by the amended statute, 
+occurred well before the effective date of the statutory 
+change.  As the FDIC points out, Bankers has not even 
+argued that the fourth quarter 1996 FICO assessment was 
+unlawful under the statutory scheme as it existed prior to the 
+October 1, 1996, effective date of the amendment.  Because 
+nothing in the new statute requires the FDIC to reconsider 
+the previously set lawful assessment, the FDIC argues that 
+the language upon which Bankers relies is not applicable to 
+the assessment at issue.  We find this argument to be a 
+persuasive one.
+
+     The principal drawback with this additional argument of 
+the FDIC is that the FDIC did not rely upon it or even 
+discuss it during the rulemaking process as the basis for its 
+decision not to refund the fourth quarter FICO assessment.  
+Thus, we cannot apply to this interpretation of the statutory 
+words "set" and "assess" the same Chevron deference we 
+afforded to the FDIC's "any other factors" analysis discussed 
+above.  This does not, however, mean that we may not 
+consider the argument, or even rely on the interpretation.  It 
+is true, of course, that a court can only uphold the decision of 
+an administrative agency on those grounds "upon which the 
+record discloses that its action was based."  SEC v. Chenery 
+Corp., 318 U.S. 80, 87 (1943).  Courts are not commissioned 
+to remake administrative determinations on different bases 
+than those considered and relied upon by the administrative 
+agencies charged with the making of those decisions.
+
+     An obvious corollary to this principle is that post hoc 
+rationalizations cannot support an affirmance of an agency 
+decision based on an otherwise invalid rationale.  See, e.g., 
+Citizens to Preserve Overton Park v. Volpe, Inc., 401 U.S. 
+402, 419-20 (1971).  This principle applies as well to our 
+review of statutory interpretations under the second prong of 
+Chevron.  As we stated in City of Kansas City v. Department 
+of Hous. & Urban Dev., 923 F.2d 188 (D.C. Cir. 1991), "[i]n 
+whatever context we defer to agencies, we do so with the 
+understanding that the object of our deference is the result of 
+agency decisionmaking, and not some post hoc rationale de-
+veloped as part of a litigation strategy."  Id. at 192.
+
+     However, the FDIC does not ask us to do anything barred 
+by Chenery or Kansas City.  The corporation does not seek 
+before us to substitute a post hoc, and therefore unacceptable, 
+rationale for an otherwise invalid rationale rejected by the 
+court on review.  Rather, the FDIC, in defending the reason-
+ableness of its interpretation of one part of the relevant 
+statute subject to the second prong of the Chevron analysis, 
+offers a persuasive interpretation of other words of that same 
+statute consistent with the interpretation it seeks to have us 
+uphold under Chevron.  The FDIC does not claim, and we do 
+not hold, that its interpretation of "set" and "assess" indepen-
+
+dently carries the day in our review of its decision.  Were we 
+to so hold, we might well be countenancing the sort of post 
+hoc-ery we have rejected in prior cases.  But again, that is 
+not what we do in the present analysis.  Rather, the FDIC 
+argues, and we hold, that the apparent legal meanings of the 
+statutory terms "set" and "assess" are consistent with the 
+FDIC's interpretation of the "any other factor" rationale in 
+fact relied upon by the FDIC and reviewed by us under the 
+Chevron standard.  There is no difficulty in our reviewing the 
+statutory language de novo.  That is, after all, what courts do.
+
+     It is fixed law of Chevron jurisprudence, applicable to the 
+"any other factors" interpretation, that we may employ the 
+traditional tools of statutory interpretation in determining 
+both whether the meaning of the language is clear at Chevron 
+step one and whether the agency's interpretation is a reason-
+able one at Chevron step two.  See, e.g., Bell Atlantic Tel. 
+Cos. v. FCC, 131 F.3d 1044, 1049 (D.C. Cir. 1997);  American 
+Fed'n of Gov't Employees v. FLRA, 798 F.2d 1525, 1528 (D.C. 
+Cir. 1986).  Consistency of interpretation of one portion of a 
+statute with the apparent meaning of another portion is a 
+traditional tool of statutory interpretation.  See, e.g., Lexecon 
+Inc. v. Milberg Weiss Bershad Hynes & Lerach, 118 S. Ct. 
+956, 962 (1998);  Atwell v. Merit Sys. Protection Bd., 670 F.2d 
+272, 286 (D.C. Cir. 1981).  Therefore, the argument is proper-
+ly before us;  it is also convincing.  The FDIC's interpretation 
+of the "any other factors" language of 12 U.S.C. 
+s 1817(b)(2)(A)(ii)(IV) yields a result consistent with the ap-
+parent congressional goal of 12 U.S.C. ss 1441(f)(2)(A)(i)-(ii) 
+and 1817(b)(2)(A)(i) and (iii).  This is evidence that the 
+FDIC's interpretation of the statutory scheme is reasonable.  
+The opposing interpretation advanced by appellants is not so 
+consistent with the apparent congressional intent of the other 
+section.  Therefore, the FDIC's interpretation is not only 
+reasonable, but the more reasonable of those before us, even 
+if we subjected it to a more stringent standard than Chevron 
+analysis.  It does no violence to Chenery or Kansas City 
+principles for an agency to advance a legal argument in 
+support of its administrative position which bolsters rather 
+
+than duplicates the consistent position upon which its decision 
+was made below.
+
+                            Conclusion
+
+     In summary, we hold that Bankers satisfies the require-
+ments for Article III standing, and that the remedy Bankers 
+seeks represents relief other than money damages within the 
+context of 5 U.S.C. s 702.  As a result, we are able to 
+consider the merits of Bankers's claim.  Upon consideration 
+of those merits, however, we hold that the district court did 
+not improperly invade the jury's province and resolve genuine 
+issues of material fact;  and we hold that the FDIC's interpre-
+tation of the relevant statutory scheme is a reasonable one 
+entitled to Chevron deference and is not arbitrary, capricious, 
+or otherwise contrary to the law.  For these reasons, we 
+affirm the district court's grant of summary judgment in 
+favor of the FDIC.
+
+                                                                              

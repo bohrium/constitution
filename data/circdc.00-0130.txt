@@ -1,0 +1,335 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COUMBIA CIRCUIT
+
+        Argued January 24, 2000     Decided June 27, 2000 
+
+                           No. 99-1149
+
+                        State of Iowa and 
+       Iowa Telecommunications and Technology Commission, 
+                           Petitioners
+
+                                v.
+
+              Federal Communications Commission and 
+                    United States of America, 
+                           Respondents
+
+           Bell Atlantic Telephone Companies, et al., 
+                           Intervenors
+
+            On Petition for Review of an Order of the 
+                Federal Communications Commission
+
+     Michael D. Hays argued the cause for petitioners.  With 
+him on the briefs were Kenneth D. Salomon and J.G. Har-
+rington.
+
+     James M. Carr, Counsel, Federal Communications Com-
+mission, argued the cause for respondents.  With him on the 
+briefs were Christopher J. Wright, General Counsel, Daniel 
+M. Armstrong, Associate General Counsel, and John E. Ingle, 
+Deputy Associate General Counsel. Catherine G. O'Sullivan 
+and Nancy C. Garrison, Attorneys, U.S. Department of Jus-
+tice, entered appearances.
+
+     Donald M. Falk, Michael E. Glover, Edward H. Shakin, 
+Dan L. Poole, Robert B. McKenna, William F. Maher, Jr., 
+Stephen L. Goodman, Richard White Jr., Michael S. Pabian, 
+David Cosson, Lawrence E. Sarjeant, Linda Kent, Keith 
+Townsend, John Hunter and Julie Rones were on the brief 
+for intervenors.  L. Marie Guillory and Lawrence W. Katz 
+entered appearances.
+
+     Before:  Ginsburg, Sentelle, and Rogers, Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  The State of Iowa and the Iowa 
+Telecommunications and Technology Commission (collective-
+ly, Iowa) petition for review of a declaratory ruling by the 
+Federal Communications Commission.  The Commission held 
+that the Iowa Communications Network (ICN) is not a com-
+mon carrier and therefore not a "telecommunications carrier" 
+within the meaning of s 254(h) of the Telecommunications 
+Act of 1996, 47 U.S.C. s 254(h).  Consequently, the ICN is 
+ineligible for direct universal service support for the discount-
+ed telecommunications services it provides to schools, librar-
+ies, and rural health care providers.  See Federal-State Joint 
+Board on Universal Service, Declaratory Ruling, 14 F.C.C.R. 
+3040 (1999) (Declaratory Ruling).
+
+     Iowa raises two arguments in its petition for review.  First, 
+Iowa claims the Commission erred by determining that the 
+ICN is not a common carrier.  Second, Iowa claims that 
+regardless whether the ICN is a common carrier, it is a 
+"telecommunications carrier" within the meaning of the 1996 
+Act, and therefore is eligible for direct universal service 
+support.  To the extent the latter claim is not foreclosed by 
+our recent decision in Virgin Islands Tel. Corp. v. FCC, 198 
+
+F.3d 921, 922, 925 (1999) (upholding as reasonable FCC's 
+position that " 'telecommunications carrier' means essentially 
+the same as common carrier"), it is foreclosed by the defer-
+ence we owe the Commission's reasonable interpretation of 
+the statute it administers, pursuant to step two of the analysis 
+in Chevron U.S.A., Inc. v. NRDC, 467 U.S. 837 (1984).
+
+     With respect to Iowa's first claim, however, the Commis-
+sion failed to address Iowa's argument that offering services 
+to all potential customers to whom the carrier, under state 
+law, may provide services makes the ICN a common carrier 
+for purposes of the 1996 Act.  We therefore grant the petition 
+for review and remand this matter to the Commission to 
+consider Iowa's argument in the first instance.
+
+                          I. Background
+
+     The Iowa legislature established the ICN in 1989 to pro-
+vide heavily subsidized high-speed telecommunications ser-
+vices throughout the state, particularly to areas that may be 
+underserved by the local exchange carrier.  The legislature 
+did not, however, authorize the ICN to serve everyone in the 
+state that could use its services;  in particular, the ICN may 
+not provide services to individuals or to most private busi-
+nesses.  Rather, the ICN may provide service only to "public 
+and private agencies," Iowa Code s 8D.11(2), defined as 
+follows:
+
+     "Private agency" means an accredited nonpublic school, a 
+     nonprofit institution of higher education eligible for tu-
+     ition grants, or a hospital licensed pursuant to chapter 
+     135B or a physician clinic to the extent provided in 
+     section 8D.13, subsection 16.
+     
+     "Public agency" means a state agency, an institution 
+     under the control of the board of regents, the judicial 
+     branch ... a school corporation, a city library, a regional 
+     library ... a county library ... or a judicial district 
+     department of correctional services ..., an agency of the 
+     federal government, or a United States post office which 
+     
+     receives a federal grant for pilot and demonstration 
+     projects.
+     
+Iowa Code s 8D.2(4)-(5).
+
+     Iowa Code s 8D.9 further divides the class of "public and 
+private agencies" into two subclasses.  First, Certifying 
+Users, which are institutions of higher education, area edu-
+cation agencies, and certain United States Post Offices, were 
+required to certify by July 1, 1994 their intention to connect 
+to the network.  Any Certifying User that did not certify its 
+intention by that date may not use the ICN without specific 
+legislative authorization.  Any Certifying User that did timely 
+certify its intention to connect to the ICN must receive all its 
+telecommunications services from the ICN unless it obtains a 
+waiver based upon certain objective criteria specified in the 
+statute.  See id. s 8D.9(2).  Second, Preauthorized Users, 
+which are all other public and private agencies, may connect 
+to the ICN at any time without further authorization from the 
+legislature, and may choose which telecommunications ser-
+vices to take from the ICN.  Although Iowa points to no 
+statute requiring that the ICN serve all authorized users, the 
+parties agree that in practice the ICN will provide service to 
+any Preauthorized User and to any timely Certifying User 
+that requests service.
+
+     Under s 254(h)(1) of the 1996 Act, a "telecommunications 
+carrier" must provide services at discounted rates to schools, 
+libraries, and rural health care providers, and is entitled to 
+receive from the Commission, in an amount equal to the 
+aggregate discount given to such entities, either a reimburse-
+ment or an offset against the carrier's obligation to partici-
+pate in or contribute to the universal telecommunications 
+service fund.  47 U.S.C. s 254(h)(1).  "Telecommunications 
+carrier" is defined as "any provider of telecommunications 
+services," id. s 153(44), and "telecommunications service" is 
+defined as "the offering of telecommunications for a fee 
+directly to the public, or to such classes of users as to be 
+effectively available directly to the public, regardless of the 
+facilities used," id. s 153(46).
+
+     The Commission determined that "telecommunications ser-
+vices" means "only telecommunications provided on a com-
+mon carrier basis."  Federal-State Joint Board on Universal 
+Service, Report & Order, 12 F.C.C.R. 8776, 9177 p 785 (1997).  
+Therefore, in the Commission's scheme for administering 
+s 254, a carrier that provides a service on a non-common 
+carrier basis is not a "telecommunications carrier" and hence 
+is ineligible for universal service support with respect to that 
+service.
+
+     In response to Iowa's request for a declaratory ruling, the 
+Commission held that the ICN is not a common carrier.  See 
+14 F.C.C.R. at 3056 p 29.  Specifically, the Commission noted 
+that the primary characteristic of a common carrier is that it 
+"holds [it]self out to serve indifferently all potential users," id. 
+at 3050 p 21, and determined that the ICN failed this test for 
+two reasons:  The ICN does not hold itself out to serve all 
+users, but is instead limited to serving only "public and 
+private agencies," as defined by the statute law of Iowa, see 
+id. p p 22, 24-25;  and the ICN impermissibly discriminates 
+among users in the terms upon which it offers service, see id. 
+at 3051 p 23.  Iowa petitions for review of the Declaratory 
+Ruling.
+
+                           II. Analysis
+
+     Before the Commission, Iowa argued, among other things, 
+that the ICN is a common carrier because it offers service to 
+all the users it is authorized by law to serve:
+
+     [T]he case law firmly establishes that ICN only need 
+     serve a specified clientele indifferently to qualify as a 
+     common carrier.... [ICN's] customers are determined 
+     by its governing statute, not by the ICN itself.  Under 
+     that statute the Legislature designated broad classes of 
+     potential customers and required the ICN to serve all of 
+     the members of those classes.
+     
+In its brief to this court, Iowa reiterates this argument and 
+relies primarily upon two cases for support:  FCC v. Midwest 
+Video Corp., 440 U.S. 689 (1979), and National Ass'n of 
+
+Regulatory Util. Comm'rs v. FCC (NARUC), 525 F.2d 630 
+(D.C. Cir. 1976).
+
+     In Midwest Video the Commission had promulgated regu-
+lations requiring cable television systems to allocate channels 
+for public, educational, government, and leased access users.  
+440 U.S. at 693.  Although the regulations required that the 
+public and leased access channels be open to all potential 
+users, use of the educational and government access channels 
+was limited respectively to "local educational authorities" and 
+the "local government."  47 C.F.R. s 76.254(a)(2)-(3) (1977).  
+A private organization could not air an educational program 
+on the educational access channel because it would not come 
+within the class of users authorized by law.  Yet the Supreme 
+Court held that the access rules, by "transferr[ing] control of 
+the content of access cable channels from cable operators to 
+members of the public" had "relegated cable systems, pro 
+tanto, to common-carrier status."  440 U.S. at 700-01.
+
+     In NARUC this court reviewed the Commission's determi-
+nation that Specialized Mobile Radio Systems (SMRS) provid-
+ing transmission services were not common carriers.  525 
+F.2d at 639.  The court announced a test for common car-
+riage that focused primarily upon whether the carrier holds 
+itself out indiscriminately to serve all to whom it can "legally 
+and practically be of use."  Id. at 640-42.  We wrote:
+
+     It is not an obstacle to common carrier status that SMRS 
+     offer a service that may be of practical use to only a 
+     fraction of the population, nor that the [FCC's] Order 
+     limits possible subscribers to SMRS services to eligibles 
+     under Sections 89, 91, and 93 of the Regulations.  The 
+     key factor is that the operator offer indiscriminate ser-
+     vice to whatever public its service may legally and prac-
+     tically be of use.
+     
+Id. at 642.
+
+     Both Midwest Video and NARUC can be read as approving 
+the general rule that a carrier offering its services only to a 
+legally defined class of users may still be a common carrier if 
+
+it holds itself out indiscriminately to serve all within that 
+class.  That is precisely Iowa's argument.
+
+     Although the Commission expressly recognized in the De-
+claratory Ruling that the ICN's customer base is restricted 
+by state law rather than by the carrier's own choice, see 14 
+F.C.C.R. at 3053 p 25, it did not respond to this argument.  
+Before this court, the Commission first claims that the argu-
+ment was not clearly enough presented before the agency to 
+elicit an answer.  True it is that the State did not cite cases 
+before the agency, but it clearly made the argument--as is 
+evident in the passage quoted in the first paragraph of this 
+part of our opinion.  The Commission's only substantive 
+response is that Midwest Video and the other cases cited by 
+Iowa involved the provision of a specialized service that 
+"necessarily limited the class of customers that the carrier 
+would serve."  This response fails to address the issue wheth-
+er a legal prohibition upon serving some potential customers 
+to whom the service would be of use--in Midwest Video, for 
+example, those capable of producing video programming suit-
+able for the government and educational access channels--is 
+inconsistent with being a common carrier.
+
+     We are not suggesting that Midwest Video or NARUC or 
+the other cases Iowa cites require a decision in Iowa's favor.  
+Rather, our point is that the Commission's failure to address 
+Iowa's argument requires that we remand this matter for the 
+Commission's further consideration.  See, e.g., Frizelle v. 
+Slater, 111 F.3d 172, 177 (D.C. Cir. 1997) (remanding where 
+agency "did not respond to two ... arguments, which do not 
+appear frivolous on their face and could affect the [agency's] 
+ultimate disposition");  AT&T Corp. v. FCC, 86 F.2d 242, 247 
+(D.C. Cir. 1997) (remanding where Commission "completely 
+failed to address" argument raised in ex parte letter).
+
+     The Commission also ruled that the ICN is not a common 
+carrier because it impermissibly discriminates among users in 
+the terms of service it offers.  The Commission identified 
+three distinct forms of discrimination:  (1) Certifying Users 
+but not Preauthorized Users must take all or none of their 
+telecommunications services from the ICN;  (2) some Certify-
+
+ing Users may receive waivers of the all-or-none requirement;  
+and (3) those that did not timely certify, as well as all 
+potential users that are not public or private agencies, are 
+excluded entirely from using the ICN.  Declaratory Ruling, 
+14 F.C.C.R. at 3051 p 23.
+
+     In its opening brief to this court, Iowa pointed out that 
+common carriers typically treat different classes of customers 
+differently, and that the Communications Act itself contem-
+plates reasonable distinctions in the terms and conditions of 
+service offered to different classes of customers.  See 47 
+U.S.C. s 201(b) ("communications ...  may be classified into 
+... such [ ] classes as the Commission may decide to be just 
+and reasonable, and different charges may be made for the 
+different classes of communications").  In its responsive brief, 
+the Commission reiterated but did not meaningfully argue its 
+first and second grounds for saying that the ICN unduly 
+discriminates.  We therefore follow the Commission's lead in 
+focusing exclusively upon the third form of discrimination.  
+See SEC v. Banner Fund Int'l, 211 F.3d 602, 613-14 (D.C. 
+Cir. 2000) (declining to address "asserted but unanalyzed" 
+argument not developed after being challenged by adverse 
+party).  Even as to that ground, the Commission's defense is 
+conclusory:
+
+     [W]hile common carriers may permissibly engage in 
+     some discrimination among classes of users ... [the] 
+     exclus[ion of] entire classes of potential users from its 
+     customer base simply because they do not fit the Iowa 
+     Code's definition of a private or public agency ... is 
+     irreconcilable with well-established principles of common 
+     carriage.
+     
+Moreover, as the Commission conceded at oral argument, this 
+claim of discrimination raises precisely the same question as 
+the Commission's first reason for denying the ICN common 
+carrier status:  Whether holding out service only to the class 
+of users authorized by law to receive it is inconsistent with 
+being a common carrier.  Therefore, discrimination of the 
+sort here claimed is not an independent basis for denying the 
+ICN's common carrier status, and does not alter our conclu-
+
+sion that we must remand this matter for the Commission's 
+further consideration.
+
+                         III. Conclusion
+
+     The Commission failed to address Iowa's argument that the 
+ICN is a common carrier because it holds out service indis-
+criminately to all the users it is authorized by law to serve.  
+Therefore, we grant the petition for review and remand this 
+case for further consideration by the Commission.
+
+                                                                      So ordered.
+
+                                    

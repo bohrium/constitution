@@ -1,0 +1,779 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued February 24, 2000    Decided August 22, 2000 
+
+                           No. 99-5166
+
+        Transitional Hospitals Corporation of Louisiana, 
+                          Incorporated, 
+                               and 
+   Transitional Hospitals Corporation of Texas, Incorporated, 
+                            Appellees
+
+                                v.
+
+                  Donna E. Shalala, Secretary, 
+            Department of Health and Human Services, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                         (No. 97cv01351)
+
+     Anne M. Murphy, Attorney, U.S. Department of Justice, 
+argued the cause for appellant. With her on the brief were 
+David W. Ogden, Acting Assistant Attorney General, Antho-
+
+ny J. Steinmeyer, Assistant Director, and Wilma A. Lewis, 
+U.S. Attorney.
+
+     Eugene Tillman argued the cause for appellees.  With him 
+on the brief was Tamara V. Scoville.
+
+     Before:  Williams, Rogers, and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Garland.
+
+     Garland, Circuit Judge:  The Medicare program reim-
+burses certain categories of hospitals on a "reasonable cost" 
+basis, rather than under the generally applicable, and less 
+remunerative, "Prospective Payment System."  Long-term 
+care hospitals are one such category.  Plaintiffs own two new 
+facilities for which they sought classification as long-term care 
+hospitals before they began admitting patients.  The Depart-
+ment of Health and Human Services (HHS) rejected plain-
+tiffs' request, citing regulations that require new hospitals to 
+have six months of experience before they can qualify as 
+"long-term."  In enacting those regulations, the Secretary of 
+HHS took the position that an initial data-collection period is 
+statutorily required.  Plaintiffs, challenging the regulations in 
+the district court, took the opposite position:  that the Medi-
+care statute does not mandate an initial data-collection period 
+and in fact manifestly requires HHS to reimburse them as 
+long-term hospitals from the first day of operation.  The 
+district court agreed with plaintiffs and declared HHS' regu-
+lations invalid.
+
+     We do not find the statute as clear as either side suggests, 
+but rather conclude that Congress intended the Secretary to 
+exercise discretion in determining the manner in which a 
+hospital qualifies as a long-term care facility.  We therefore 
+reverse the decision of the district court.  However, because 
+the Secretary mistakenly believed that she lacked such dis-
+cretion, we remand the case to permit her to determine 
+whether she wishes to retain the existing regulations knowing 
+that other options are permissible.
+
+                                I
+
+     Medicare is a federal health insurance program for the 
+aged and disabled that is administered by the Health Care 
+
+Financing Administration (HCFA) of HHS.  See 42 U.S.C. 
+ss 1395 et seq.  Under Medicare Part A, institutional health 
+care providers are reimbursed for their services to eligible 
+patients.  See id. ss 1395c to 1395i-5.  From its inception 
+until 1983, Medicare reimbursed hospitals for the "reasonable 
+cost" of providing inpatient care, subject to certain limita-
+tions.  Id. s 1395f(b) (1982);  see also id. s 1395x(v).
+
+     By 1983, Congress had become concerned that hospitals 
+reimbursed on a reasonable cost basis lacked incentives to 
+operate efficiently.  This concern led to the revision of the 
+Medicare payment system in that year.  See Social Security 
+Amendments of 1983, Pub. L. No. 98-21, s 601, 97 Stat. 65, 
+149.  See generally County of Los Angeles v. Shalala, 192 
+F.3d 1005, 1008-09 (D.C. Cir. 1999).  In place of the reason-
+able cost method, Congress enacted the Prospective Payment 
+System (PPS) as the principal method of compensating hospi-
+tals for inpatient care provided to eligible patients.  Under 
+PPS, hospitals are reimbursed according to flat rates estab-
+lished in advance for the various categories of patient diag-
+noses (known as "diagnosis-related groups" or "DRGs").  42 
+U.S.C. s 1395ww(d).  The rates reflect the average cost 
+associated with treating a patient for a specific condition, and 
+encourage hospitals to keep costs within the anticipated reim-
+bursement levels.  For the care of patients whose hospitaliza-
+tions are extraordinarily costly or lengthy, the statute autho-
+rizes the Secretary to make "outlier payments" to supplement 
+the standard PPS disbursement.  Id. s 1395ww(d)(5)(A)(i)-
+(vi);  see County of Los Angeles, 192 F.3d at 1009.
+
+     Because PPS was "developed for short-term acute care 
+general hospitals," Congress acknowledged that it did not 
+"adequately take into account special circumstances of diag-
+noses requiring long stays."  S. Rep. No. 98-23, at 54 (1983).  
+Thus, Congress altogether excluded from PPS certain types 
+of hospitals that treat atypical patient populations.  These 
+hospitals instead receive reimbursement for inpatient care 
+under the reasonable cost system.  See 42 U.S.C. 
+s 1395ww(d)(1)(B).  One type of hospital subject to the statu-
+tory exclusion is a long-term care hospital, which the statute 
+
+describes as "a hospital which has an average inpatient length 
+of stay (as determined by the Secretary) of greater than 25 
+days."  Id. s 1395ww(d)(1)(B)(iv)(I).1 The availability of this 
+exclusion is the central issue in the case before us.
+
+                                A
+
+     HHS implemented the new PPS reimbursement scheme by 
+enacting regulations in 1984.  In issuing its final rule, al-
+though not in the rule itself, HHS announced that it intended 
+to apply the statutory exclusions prospectively only:  any 
+change in a hospital's status (i.e., whether it was subject to or 
+excluded from PPS) that occurred during one cost reporting 
+period would generally take effect only at the start of the 
+next period, with each period typically lasting one year.  See 
+Medicare Program;  Prospective Payment for Medicare In-
+patient Hospital Services, 49 Fed. Reg. 234, 243 (1984).  
+Thus, a new hospital would not qualify for the exclusion at 
+least until the initial reporting period was over.  To accom-
+modate new hospitals, HHS permitted an abbreviated initial 
+cost reporting period of six months, rather than the usual one 
+year.  See 42 C.F.R. s 405.471(c)(5)(i), (c)(5)(ii)(B) (1983), 
+__________
+     1 The statute lists the following types of excluded hospitals:
+
+          (i) a psychiatric hospital (as defined in section 1395x(f) of 
+     this title),
+     
+          (ii) a rehabilitation hospital (as defined by the Secretary),
+     
+          (iii) a hospital whose inpatients are predominantly individu-
+     als under 18 years of age,
+     
+          (iv)(I) a hospital which has an average inpatient length 
+     of stay (as determined by the Secretary) of greater than 25 
+     days ...
+     
+           ... 
+     
+          (v)(I) a hospital that the Secretary has classified ... for 
+     purposes of applying exceptions and adjustments to payment 
+     amounts under this subsection, as a hospital involved extensive-
+     ly in treatment for or research on cancer....
+     
+42 U.S.C. s 1395ww(d)(1)(B).
+
+now codified at 42 C.F.R. s 412.23(e)(1), (e)(3)(ii).2
+
+     In 1992, HHS formalized its prospective approach to exclu-
+sions by proposing and then adopting the following rule:
+
+     For purposes of exclusion from the prospective payment 
+     systems ..., the status of each currently participating 
+     hospital ... is determined at the beginning of each cost 
+     reporting period and is effective for the entire cost 
+     reporting period.  Any changes in the status of the 
+     hospital are made only at the start of a cost reporting 
+     period.
+     
+42 C.F.R. s 412.22(d).  Thus, a hospital that qualifies for the 
+exclusion in the middle of a reporting period will not benefit 
+until the next reporting period.  By the same token, a 
+hospital that ceases to qualify in the midst of a cost reporting 
+period will nevertheless be compensated as though it were 
+exempt for the entire period.  See Medicare Program;  
+Changes to the Hospital Inpatient Prospective Payment Sys-
+tems and Fiscal Year 1993 Rates, 57 Fed. Reg. 23,618, 23,657 
+(1992).  For a new hospital, HHS' rule confirmed that the 
+exclusion does not begin until the first six months of data 
+collection have passed.
+
+     In response to the notice of proposed rulemaking, the 
+National Association of Long Term Hospitals (NALTH) sug-
+gested that HHS permit new long-term care hospitals to self-
+certify their average length of stay from the start.  See 
+Letter from NALTH to HCFA at 2 (July 31, 1992) (J.A. at 
+
+__________
+     2  The regulations permit hospitals that experience a change in 
+their average length of stay to establish exclusion eligibility by 
+having an average length of stay greater than 25 days for the 
+immediately preceding six month period.  See 42 C.F.R. 
+s 405.471(c)(5)(i), (c)(5)(ii)(B) (1983), now codified at 42 C.F.R. 
+s 412.23(e)(1), (e)(3)(ii).  According to HHS, a new hospital that 
+treats patients with an average length of stay greater than 25 days 
+"will always experience [a] change in length of stay because its 
+initial length of stay is zero inpatient days."  HHS Br. at 9 n.5.
+
+53) [hereinafter NALTH Ltr.].3  HHS, however, concluded 
+that it did not have the discretion to permit self-certification 
+by long-term care hospitals.  "We do not believe that the 
+statute permits us," the Department said, "to extend the 
+exclusion for long-term care hospitals to a hospital which has 
+not demonstrated actual compliance with the statutory re-
+quirement."  Medicare Program;  Changes to the Hospital 
+Inpatient Prospective Payment Systems and Fiscal Year 
+1993 Rates, 57 Fed. Reg. 39,746, 39,800-01 (1992) [hereinafter 
+Final Rule].  The "criterion for exclusion as a long-term care 
+hospital (average inpatient length of stay greater than 25 
+days) can be assessed only over a period of time.  Thus, a 
+hospital cannot qualify as a long-term care hospital until it 
+has been in operation for some period of time."  Id. at 38,801.
+
+ 
+
+                                B
+
+     Plaintiffs Transitional Hospitals Corporation of Louisiana 
+and Transitional Hospitals Corporation of Texas (hereinafter 
+"the THC plaintiffs") opened two new hospitals at the end of 
+1992.  Both were intended to treat patients with medically 
+complex conditions requiring extended inpatient stays, there-
+by qualifying for the long-term care hospital exclusion from 
+PPS.  Before commencing operations, the THC plaintiffs 
+wrote HCFA stating that they "only expect to admit patients 
+whose medical conditions will result in lengths of stay in 
+excess of 25 days."  Letter from Counsel for THC to HCFA 
+at 2 (Nov. 12, 1992) (J.A. at 57) [hereinafter THC Ltr.].  They 
+asked HCFA to exclude them from PPS from the starting 
+date of their Medicare provider agreements, rather than 
+reimburse them under PPS during their first six months of 
+operation.  See id. at 4 (J.A. at 59).
+
+     Kathleen Buto, the Director of HCFA's Bureau of Policy 
+Development, wrote back denying plaintiffs' request.  Buto 
+said that the statute mandates exclusion only for "a hospital 
+
+__________
+     3  NALTH noted that HHS permits new rehabilitation hospitals 
+to self-certify that their inpatient populations meet the exclusion 
+criteria for that category.  See NALTH Ltr. at 1-2 (J.A. at 52-53);  
+discussion infra Part III.
+
+which has [emphasis added] an average length of stay (as 
+determined by the Secretary) of greater than 25 days."  
+Letter from HCFA to Counsel for THC at 2 (Dec. 24, 1992) 
+(J.A. at 63) (alteration and emphasis in original) [hereinafter 
+Buto Ltr.].  Noting that HHS regulations implement that 
+mandate by "examining [a hospital's] actual operating experi-
+ence in a past period, rather than by relying on its admission 
+criteria or other formalized statements of how the hospital is 
+intended or expected to operate," Buto concluded that the 
+THC plaintiffs could not qualify for the exclusion in advance.  
+Id. at 2-3 (J.A. at 63-64).
+
+     Having had their request turned down, the THC plaintiffs 
+proceeded with the six-month cost reporting period.  During 
+that time, they were reimbursed under PPS, supplemented by 
+outlier payments.  At the end of the six-month period, both 
+hospitals demonstrated average inpatient lengths of stay ex-
+ceeding 25 days, thereby qualifying for exclusion from PPS--
+and entitling them to payment for "reasonable costs"--during 
+the next cost reporting period.  See Linville Aff. pp 7, 8, 13 
+(J.A. at 35, 37).  Plaintiffs estimate that their PPS reimburse-
+ment during the initial six-month period was approximately 
+$1.2 million per hospital less than it would have been under 
+the reasonable cost standard.  See id. pp 11, 12 (J.A. at 36).
+
+     The THC plaintiffs requested a hearing before the Provider 
+Reimbursement Review Board, which is authorized by statute 
+to hear the complaints of providers dissatisfied with the 
+compensation they have received.  See 42 U.S.C. s 1395oo(a), 
+(d).  Plaintiffs challenged the validity of the regulations that 
+denied them compensation for reasonable costs during their 
+first months of operation.  The Board, however, concluded 
+that it lacked authority to determine the validity of HHS 
+regulations.
+
+     Plaintiffs then brought suit in the United States District 
+Court for the District of Columbia.  Ruling on the parties' 
+cross motions for summary judgment, the court concluded 
+that the Medicare statute was neither silent nor ambiguous 
+on the question.  Rather, the court concluded that the statute 
+unambiguously requires HHS to provide a PPS exclusion 
+from the beginning of a new long-term care hospital's partic-
+ipation in the Medicare program.  The court further held that 
+even if the statute were ambiguous, the Secretary's regula-
+
+tions did not constitute a permissible interpretation of the 
+legislative language.  The court therefore declared the regu-
+lations invalid insofar as they preclude new long-term care 
+hospitals from securing immediate exclusion from PPS.  See 
+Transitional Hosps. Corp. v. Shalala, 40 F. Supp. 2d 6, 15 
+(D.D.C. 1999).  This appeal by the Secretary followed.
+
+                                II
+
+     We review de novo the district court's ruling on the mo-
+tions for summary judgment.  See United Seniors Ass'n v. 
+Shalala, 182 F.3d 965, 969 (D.C. Cir. 1999).  In judging the 
+validity of the Secretary's regulations, we apply the familiar 
+two-step framework of Chevron U.S.A. Inc. v. Natural Re-
+sources Defense Council, Inc., 467 U.S. 837, 842-43 (1984).  
+We first ask "whether Congress has directly spoken to the 
+precise question at issue," in which case we "must give effect 
+to the unambiguously expressed intent of Congress."  Id.  If 
+the "statute is silent or ambiguous with respect to the specific 
+issue," we move to the second step and defer to the agency's 
+interpretation as long as it is "based on a permissible con-
+struction of the statute."  Id. at 843.  However, deference is 
+"only appropriate when the agency has exercised its own 
+judgment."  Phillips Petroleum Co. v. FERC, 792 F.2d 1165, 
+1169 (D.C. Cir. 1986).  "When, instead, the agency's decision 
+is based on an erroneous view of the law, its decision cannot 
+stand."  Id.
+
+                                A
+
+     We begin with Chevron step one, and with the Secretary's 
+contention that Congress unambiguously expressed its intent 
+to bar the relief plaintiffs request.
+
+     The statutory provision at issue is quite brief.  It excludes 
+from PPS any "hospital which has an average inpatient length 
+of stay (as determined by the Secretary) of greater than 25 
+days."  42 U.S.C. s 1395ww(d)(1)(B)(iv).4  When the Secre-
+
+__________
+     4  Neither side makes an argument based on legislative history.  
+The PPS exclusion was passed as part of a large bill enacting 
+
+tary adopted her implementing regulations, she took the 
+position that the statute does not permit her to certify a 
+hospital as long-term in advance because the criterion for 
+exclusion, an average inpatient length of stay greater than 25 
+days, "can be assessed only over a period of time."  Final 
+Rule, 57 Fed. Reg. at 39,801.  "Thus," she said, "a hospital 
+cannot qualify as a long-term care hospital until it has been in 
+operation for some period of time."  Id.  Similarly, when 
+HCFA turned down plaintiffs' request for self-certification, it 
+stressed that, because under the statute only a hospital that 
+"has" the requisite length of stay is eligible, a hospital cannot 
+qualify until it makes the requisite showing that it "has" that 
+average length of stay.  See Buto Ltr. at 2 (J.A. at 63).
+
+     The statute seems neither so clear, nor so dictatorial, to us.  
+Although it does establish a criterion based on average length 
+of stay, the statute is silent as to how and when that length 
+should be calculated.  Nothing in the language precludes the 
+Secretary from determining length of stay based on a predic-
+tion drawn, as plaintiffs suggest here, from a hospital's policy 
+of admitting only "patients whose medical conditions will 
+result in lengths of stay in excess of 25 days."  THC Ltr. at 2 
+(J.A. at 57);  cf. County of Los Angeles, 192 F.2d at 1013-15 
+(affirming HHS' use of predictions to determine statutorily-
+mandated range of outlier payments).
+
+     Nor does the statute's use of the present tense verb "has" 
+definitively resolve the question.  Although to qualify it must 
+be true that a hospital "has" the requisite length of stay, that 
+word does not tell us how to determine whether that state of 
+being exists.  The agency has implicitly recognized as much 
+by adopting a policy of determining a hospital's status at the 
+beginning of a cost reporting period, and then permitting it to 
+retain that status for the entire period--even if conditions 
+change in the interim.  See 42 C.F.R. s 412.22(d).  Under 
+
+__________
+wholesale changes in the Medicare program, and specific references 
+to the long-term care exclusion occur only in general passages 
+explaining the need for a reasonable costs alternative to PPS for 
+certain types of hospitals.  See, e.g., H.R. Conf. Rep. No. 98-47, at 
+192-93 (1983);  S. Rep. No. 98-23, at 53-55 (1983);  H.R. Rep. No. 
+98-25, at 8-9, 141-42 (1983).
+
+this policy, HHS excludes a hospital for the next period based 
+on data derived from the prior period, regardless of whether 
+the hospital actually "has" the requisite average on each day 
+of the next period.  See id.
+
+     Moreover, nothing in the statutory language precludes an 
+alternative form of relief requested by plaintiffs:  retroactive 
+reimbursement for reasonable costs incurred during the first 
+six months if, at the end of that period, the hospital shows 
+that it had a 25-day average during that period.  Again, the 
+word "has" does not unambiguously decide this question.  
+Each of plaintiffs' hospitals could have accurately said on its 
+six-month anniversary that today it "has" a greater than 25-
+day average--referring to the entire period from day one 
+through and including day 180.  It would therefore have been 
+consistent with the literal language to reimburse the hospital 
+on that day for all of its reasonable costs incurred to date.
+
+     Finally, and perhaps most important, this is not a statute 
+as to which we can only infer, from Congress' silence, an 
+implicit intent to delegate to the Secretary the authority to 
+reasonably interpret the statutory terms.  See Chevron, 467 
+U.S. at 844.  Rather, in this case the statute excludes a 
+hospital that has an average length of stay of greater than 25 
+days, "as determined by the Secretary."  42 U.S.C. 
+s 1395ww(d)(1)(B)(iv).  Thus, Congress has provided "an ex-
+press delegation of authority to the agency to elucidate a 
+specific provision of the statute by regulation."  Chevron, 467 
+U.S. at 843-44;  see also 42 U.S.C. ss 1302(a), 1395hh(a) 
+(granting HHS authority to issue regulations to administer 
+Medicare program).  This means that the Secretary has 
+discretion to determine how to calculate the qualifying length 
+of stay, and that we are bound to uphold her determination as 
+long as she exercises that discretion in a reasonable way.  See 
+Chevron, 467 U.S. at 843-44.
+
+                                B
+
+     The THC plaintiffs also see the statute as clear and unam-
+biguous--although in precisely the opposite way as that per-
+ceived by HHS.  In their view, and in the view of the district 
+court, the use of the present tense "has" requires that if 
+
+during any given period the hospital "has" a 25-day average, 
+it must be considered exempt for the entire period.  See THC 
+Br. at 22-23.  The use of the present tense, plaintiffs contend, 
+requires that the exclusion "be applied on a current basis," 
+and "allows no alternative temporal reading."  Id.  Or, as the 
+district court put it, "the plain language of the statute indi-
+cates that a long-term care hospital may obtain an exemption 
+from the Prospective Payment System whenever it 'has' an 
+average inpatient length of stay greater than 25 days."  
+Transitional Hosps., 40 F. Supp. 2d at 10.5
+
+     Again we disagree, this time for the mirror image of our 
+reasoning with respect to HHS' interpretation.  Because the 
+statute does not tell us how to determine whether a hospital 
+"has" the required average length of stay, it cannot be read 
+as requiring the agency to make that determination constant-
+ly and instantaneously--any more than it can be read (as 
+HHS would have it) as requiring the agency to make that 
+determination prospectively only.  In Methodist Hospital v. 
+Shalala, 38 F.3d 1225 (D.C. Cir. 1994), we considered a 
+similar argument regarding the wage index used to determine 
+reimbursement rates under PPS.  In that case, the plaintiff 
+hospitals contended that the Medicare statute required retro-
+active application of corrections made to the index to ensure 
+that the Secretary was not employing an incorrect index in 
+the period prior to the next correction.  We rejected that 
+claim, noting that it "would require the Secretary to make 
+virtually continuous adjustments in the wage index."  Id. at 
+1230.  "The statute," we said, "does not specify how the 
+Secretary should construct the index, nor how often she must 
+revise it....  Congress through its silence delegated these 
+decisions to the Secretary."  Id.  The same is true here.
+
+__________
+     5  Plaintiffs also proffer an argument they describe as based on 
+statutory purpose, contending that they are entitled to an exemp-
+tion from their first day of operation because Congress' exclusion of 
+long-term care hospitals from PPS demonstrates its recognition 
+that PPS is an inadequate method for reimbursing such hospitals.  
+But this simply begs the question discussed in the text:  were 
+plaintiffs' hospitals "long-term," within the meaning of the statute, 
+from that first day?
+
+     But, plaintiffs argue, if Congress had intended the exclu-
+sion to apply prospectively, it could have drafted the statute 
+to provide a PPS exclusion for a hospital that "had" an 
+average inpatient length of stay greater than 25 days "during 
+its most recent cost reporting period."  Transitional Hosps., 
+40 F. Supp. 2d at 11 (quoting Pls.' Mot. for Summ. J. at 15) 
+(emphasis omitted).  Frankly, we do not see such a revised 
+statute as particularly less ambiguous.  Indeed, we do not see 
+why HHS could not have proffered the same editorial sugges-
+tion and then made the opposite argument:  If Congress had 
+intended hospitals to receive retroactive reimbursement as 
+plaintiffs contend, wouldn't it have defined the exclusion as 
+covering hospitals that "had" the requisite average during 
+their "most recent cost reporting period"?  In any event, 
+while positing a "clearer" way to write a statute may suggest 
+that an existing statute is ambiguous, it surely does not 
+establish that it is unambiguous.  And if the statute is not 
+unambiguous, Chevron requires us to defer to a reasonable 
+reading by the Secretary.
+
+     We also must take care to read the word "has" in the 
+context of the entire phrase of which it is a part.  Two 
+elements of that context are important here.  First, the 
+statutory exclusion is for a hospital that has "an average" 
+inpatient length of stay of greater than 25 days.  The criteri-
+on of "an average" strongly militates against plaintiffs' view 
+that a hospital's status must be measured at every moment in 
+time.  As HHS correctly points out, an average is a criterion 
+that can only be assessed over a period of time.  Moreover, 
+the statute refers not to an average "over" a period of 25 
+days, but to an average "of" 25 days--necessarily indicating 
+that the period of measurement must be more than 25 days in 
+order reasonably to determine whether the "average" during 
+that period was at least 25 days.  Hence, the use of the word 
+"has" in conjunction with the word "average" would not 
+preclude waiting until six months have passed to determine 
+whether, at that point, the hospital "has" an average of 25 
+days over a 180-day period.
+
+     Indeed, were we to read the statute as literally as plaintiffs 
+and the district court suggest, plaintiffs' own contention--that 
+
+they "met the 25-day requirement at all times during their 
+operation" and so were entitled to payment from the first 
+day--would be plainly incorrect.  THC Br. at 4.  On day one, 
+the hospitals could not have had a 25-day average because 25 
+days had not yet passed.  If a hospital must be, and may only 
+be, paid for days on which it "has" a 25-day average, plain-
+tiffs could not have qualified earlier than the 25th day.  Even 
+then, they could have done so only if every patient present on 
+day one were still at the hospital 25 days later.
+
+     The second element of context that is important here is the 
+statute's parenthetical phrase, "as determined by the Secre-
+tary."  As we have discussed above, by employing this phrase 
+Congress has made "an express delegation of authority to the 
+agency to elucidate [the] specific provision of the statute by 
+regulation."  Chevron, 467 U.S. at 843-44.  This further takes 
+the case out of the realm of Chevron step one's de novo 
+review, and into the realm of Chevron step two--which asks 
+only whether the agency's interpretation is reasonable.  See 
+id.  And that gives the agency considerable leeway to deter-
+mine how "has" is to be defined, and whether to require 
+prospective, contemporaneous, or retrospective evaluation 
+and payment.  See San Bernardino Mountains Community 
+Hosp. Dist. v. Secretary of Health & Human Servs., 63 F.3d 
+882, 886-87 (9th Cir. 1995) (holding that inclusion of phrase 
+"as determined by the Secretary" in Medicare Act's definition 
+of "sole community hospital" "make[s] clear that Congress 
+intended to delegate to the Secretary the task of outlining 
+and defining the criteria for attaining sole community hospital 
+status").
+
+     Plaintiffs resist the conclusion that Congress has delegated 
+definitional authority to HHS.  They argue that the fact that 
+the parenthetical "as determined by the Secretary" follows 
+the phrase "an average inpatient length of stay," means that 
+Congress has only given the agency "discretion to determine 
+how the average length of stay will be calculated"--and not 
+whether the hospital "has" that average.  THC Br. at 26.  
+This is far too sophistic a reading.  First, the concession that 
+the agency has discretion to determine how to calculate the 
+
+average necessarily means it has discretion to determine 
+whether a hospital "has" that average--since a hospital can-
+not have a qualifying average unless it satisfies the agency's 
+calculation methodology.  Second, even if word placement 
+were decisive, it is as true that the delegating parenthetical 
+follows the phrase "has an average inpatient length of stay" 
+as that it follows the phrase "an average inpatient length of 
+stay."  At most this renders the scope of Congress' delega-
+tion ambiguous, which again moves us to Chevron's second 
+step.  See Chevron, 467 U.S. at 844.6
+
+                                C
+
+     In reaching the conclusion that the statute unambiguously 
+requires retroactive reimbursement for the hospitals' initial 
+
+__________
+     6  Plaintiffs assert that Congress confirmed their reading of the 
+long-term care exclusion in its 1997 amendments to the Medicare 
+statute, which place payment limits on newly participating long-
+term care hospitals.  Those amendments provide that:
+
+     in the case of a hospital or unit that is within a class of hospital 
+     described in subparagraph (B) which first receives payments 
+     under this section on or after October 1, 1997--
+     
+          (i) for each of the first 2 cost reporting periods for which the 
+          hospital has a settled cost report, the amount of the payment 
+          with respect to operating costs ... [shall be] equal to the 
+          lesser of ... [the amount of operating costs or a national 
+          limit.]
+          
+42 U.S.C. s 1395ww(b)(7)(A).  Plaintiffs contend that this language 
+indicates that Congress intended newly participating long-term care 
+hospitals to receive reimbursement for reasonable costs from the 
+date of their first reporting period.  But as the Secretary points 
+out, this provision does not materially advance the analysis.  By its 
+terms, it applies only to a "subparagraph (B)" hospital.  A subpara-
+graph (B) hospital, in turn, is defined as including a hospital that 
+comes within subsection (d)(1)(B)(iv)--the precise subsection that is 
+in dispute in this case.  See id. s 1395ww(b)(7)(B);  cf. Methodist 
+Hosp., 38 F.3d at 1231 (noting, in the context of the Medicare 
+statute, that "the views of a subsequent Congress form a hazardous 
+basis for inferring the intent of an earlier one") (internal quotation 
+omitted).
+
+cost reporting period, the district court relied on another 
+district court opinion, County of Los Angeles v. Shalala, 992 
+F. Supp. 26 (D.D.C. 1998), which held that a provision of the 
+Medicare statute required HHS to make retroactive adjust-
+ments to outlier payments.7  County of Los Angeles held that 
+the provision, which set a range for the "total amount of the 
+additional payments made," 42 U.S.C. s 1395ww(d)(5)(A)(iv) 
+(emphasis added), unambiguously required the Secretary to 
+adjust the additional payments retroactively to ensure that 
+the total fell within the range.  See County of Los Angeles, 
+992 F. Supp. at 36.  It thus rejected the Secretary's interpre-
+tation of the provision as merely instructing her as to where 
+to set outlier thresholds for the coming year.  The district 
+court in the instant case followed that line of reasoning, and 
+held that HHS could not use prior-period experience merely 
+to determine how to reimburse the plaintiff hospitals in the 
+future, but rather had to reimburse the hospitals for their 
+reasonable costs from the first date of their operation.  See 
+Transitional Hosps., 40 F. Supp. 2d at 12.
+
+     Although the district court's reliance on the opinion in 
+County of Los Angeles cannot be faulted, this court reversed 
+that decision seven months later.  See County of Los Angeles 
+v. Shalala, 192 F.3d 1005 (D.C. Cir. 1999).  Rejecting an 
+argument based on verb tense, we held that "instead of 
+embodying a retrospective inquiry into the amount of outlier 
+payments that have been made," "the phrase 'payments made 
+under this subparagraph' might just as plausibly reflect a 
+prospective command to the Secretary about how to structure 
+outlier thresholds for payments to be made in advance of each 
+fiscal year."  Id. at 1013.  In so holding, we cited the Su-
+preme Court's decision in Regions Hospital v. Shalala, 118 
+S. Ct. 909 (1998).  There, the Court held that the statutory 
+phrase, "recognized as reasonable," "by itself[ ] does not tell 
+us whether Congress means to refer the Secretary to action 
+already taken or to give directions on actions about to be 
+
+__________
+     7  As discussed in Part I above, outlier payments are a supple-
+ment to PPS reimbursement for hospitals with patients that stay 
+for unusually long periods.  See 42 C.F.R. ss 412.80 et seq.
+
+taken."  Id. at 916 (quoting Administrators of the Tulane 
+Educ. Fund v. Shalala, 987 F.2d 790, 796 (D.C. Cir. 1993)).  
+"In other words," the Court said, "the phrase 'recognized as 
+reasonable' might mean costs the Secretary (1) has recog-
+nized as reasonable for [prior reimbursement] purposes, or 
+(2) will recognize as reasonable as a base for future ... 
+calculations."  Id.  By the same token, we conclude that the 
+phrase at issue here--"has an average inpatient length of 
+stay (as determined by the Secretary) of greater than 25 
+days"--is ambiguous and may refer to the hospital's status at 
+the beginning of, during, or at the close of a cost reporting 
+period.  Cf. United States Dep't of the Treasury v. FLRA, 960 
+F.2d 1068, 1072 (D.C. Cir. 1992) (holding that statutory 
+phrase "adversely affected" is ambiguous and permits "alter-
+native temporal readings").
+
+                               III
+
+     Having concluded that the analysis of Chevron step one 
+does not resolve the case, we would ordinarily move to step 
+two and ask whether the Secretary's interpretation of the 
+meaning of the statute is reasonable.  Plaintiffs argue that 
+the Secretary's interpretation is not reasonable, contending 
+that HHS has no justification for not permitting self-
+certification, for not utilizing the alternative of retroactive 
+reimbursement, and for denying both options to long-term 
+care hospitals while making them available to another catego-
+ry of PPS-excluded institutions:  rehabilitation hospitals.  See 
+42 C.F.R. s 412.23(b)(8), (b)(9).
+
+     HHS replies that it is perfectly reasonable to rely on actual 
+data regarding length of stay rather than on a hospital's self-
+interested prediction.  The Department explains that it per-
+mits self-certification by rehabilitation hospitals because the 
+criteria for qualification of such hospitals are based on the 
+"characteristics of the patients and the types of services that 
+the facility furnishes," Final Rule, 57 Fed. Reg. at 39,801,8 
+
+__________
+     8  The statute excludes from PPS "a rehabilitation hospital (as 
+defined by the Secretary)."  42 U.S.C. s 1395ww(d)(1)(B)(ii).  The 
+Secretary's implementing regulation defines such a hospital as one 
+
+criteria which--unlike length of stay--a hospital can "virtual-
+ly guarantee[ ]" from the first day of operations, HHS Reply 
+Br. at 12.  With respect to the alternative of retroactive 
+adjustment, HHS points out that no one suggested such an 
+option until after the district court litigation began in this 
+case.9  Moreover, HHS argues that retroactive adjustments 
+are as likely to hurt hospitals that slip below the average 
+during a period for which they have been prospectively 
+qualified, as it is to help them by providing reimbursement 
+for a prior period in which they became qualified along the 
+way.  By setting reimbursement rates "that are not later 
+subject to retroactive correction," HHS contends, "the Secre-
+tary promotes certainty and predictability of payment for not 
+only hospitals but the federal government."  HHS Br. at 41 
+(quoting County of Los Angeles, 192 F.3d at 1019).
+
+     Although we ordinarily would now proceed to evaluate 
+these various arguments under the standards of Chevron's 
+second step, we cannot do so in this case.  While the Secre-
+tary has discretion to establish a reasonable mechanism for 
+determining whether a hospital has the requisite average 
+length of inpatient stay, that discretion must be exercised 
+through the eyes of one who realizes she possesses it.  At 
+several points, the Department's briefs suggest that the 
+Secretary did realize that she had such discretion.10  At other 
+points, the briefs suggest quite the opposite.11  Most relevant, 
+
+__________
+that, inter alia, serves an inpatient population of whom at least 75 
+percent require intensive rehabilitative services for the treatment of 
+specified conditions including stroke, spinal cord or brain injury, 
+major multiple trauma, and amputation.  See 42 C.F.R. 
+s 412.23(b)(2).
+
+     9  Neither NALTH in its comments on the 1992 proposed rule, 
+nor the THC plaintiffs themselves in their 1992 request to HCFA, 
+proposed retroactive reimbursement.  See HHS Reply Br. at 14 n.7.
+
+     10  See, e.g., HHS Br. at 25, 28.
+
+     11  See, e.g., HHS Br. at 12 (stating that in promulgating 1992 
+regulations, "HHS concluded that a self-certification procedure for 
+long-term care hospitals would violate its statutory mandate");  id. 
+at 15 (stating that in rejecting THC plaintiffs' request for self-
+
+however, is that the notice issued at the time the final rule 
+was promulgated makes it quite clear the Secretary did not 
+believe that she had the discretion to do what the plaintiffs 
+request.  See, e.g., Final Rule, 57 Fed. Reg. at 39,800-01 
+("We do not believe that the statute permits us to extend the 
+exclusion for long-term care hospitals to a hospital which has 
+not demonstrated actual compliance with the statutory re-
+quirement.") (emphasis added);  id. at 39,800 (declaring the 
+Secretary's doubt that "the law would support such a policy");  
+id. at 39,801 ("[T]he [statutory] criterion for exclusion ... can 
+be assessed only over a period of time.  Thus, a hospital 
+cannot qualify as a long-term care hospital until it has been 
+in operation for some period of time.") (emphasis added).12
+
+     As the Supreme Court has instructed, an agency "order 
+may not stand if the agency has misconceived the law."  SEC 
+v. Chenery Corp., 318 U.S. 80, 94 (1943);  see Phillips Petrole-
+um, 792 F.2d at 1169-70.  Applying that principle, this court 
+has held that "an agency regulation must be declared invalid, 
+even though the agency might be able to adopt the regulation 
+in the exercise of its discretion, if it was not based on the 
+[agency's] own judgment but rather on the unjustified as-
+sumption that it was Congress' judgment that such [a regula-
+tion is] desirable" or required.  Prill v. NLRB, 755 F.2d 941, 
+948 (D.C. Cir. 1985) (internal quotations omitted) (alterations 
+in original).  Because the Secretary evaluated the various 
+reimbursement alternatives on the assumption that "a hospi-
+tal cannot qualify as a long-term care hospital until it has 
+been in operation for some period of time," Final Rule, 57 
+Fed. Reg. at 39,801, and because that assumption is incorrect, 
+
+__________
+certification, HCFA explained "that nothing in the statute or regu-
+lations would allow it to grant the hospitals an immediate exclusion 
+from the PPS").
+
+     12  The Buto letter, although somewhat more equivocal, reflects 
+a similar understanding.  See Buto Ltr. at 2 (J.A. at 63) (denying 
+plaintiffs' request because statute mandates exclusion only for "a 
+hospital which has [emphasis added] an average length of stay (as 
+determined by the Secretary) of greater than 25 days") (alteration 
+and emphasis in original).
+
+the Secretary must make a fresh determination as to whether 
+she wishes to adopt the self-certification or retroactive adjust-
+ment options.
+
+                                IV
+
+     For the foregoing reasons, the judgment of the district 
+court is reversed.  The case is remanded to that court with 
+instructions to remand it to HHS for further consideration 
+consistent with this opinion.
+
+                                          

@@ -1,0 +1,221 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+         Argued April 20, 2001      Decided May 25, 2001 
+
+                           No. 00-3095
+
+                    United States of America, 
+                             Appellee
+
+                                v.
+
+                         Soo Young Bae, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                        (No. 99cr00284-01)
+
+     Mary Manning Petras argued the cause for appellant. 
+With her on the briefs was G. Allen Dale.
+
+     Catherine A. Szilagyi, Assistant U.S. Attorney, argued the 
+cause for appellee. With her on the brief were Wilma A. 
+Lewis, U.S. Attorney at the time the brief was filed, John R. 
+Fisher and Henry K. Kopel, Assistant U.S. Attorneys.
+
+     Before:  Ginsburg, Randolph and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Ginsburg.
+
+     Ginsburg, Circuit Judge:  The District of Columbia Lottery 
+Board licensed Soo Young Bae, then a Washington merchant, 
+to operate a terminal that prints and dispenses lottery tickets 
+for sale.  Bae used the terminal to generate tickets with a 
+face value of $525,586, for which he did not pay.  The winning 
+tickets among these had a total redemption value of $296,153, 
+of which Bae successfully obtained all but $72,000.  Bae 
+pleaded guilty to computer fraud, 18 U.S.C. s 1030(a)(4), and 
+the district court sentenced him to 18 months in prison.  Bae 
+challenges his sentence, in calculating which the district court 
+valued the "loss" due to the fraud at $503,650--the market 
+value of the tickets less the commission Bae would have 
+received from the Lottery Board had he sold those tickets.  
+We affirm.
+
+     In sentencing a defendant for fraud the district court must 
+make a "reasonable estimate" of the victim's "loss."  U.S.S.G. 
+s 2F1.1(b) & application n.9.  Although Bae challenges the 
+method by which the district court arrived at its estimate, he 
+does not contest any of the data potentially relevant to the 
+loss calculation, that is, the face value of the tickets, the 
+commission he would have earned for selling the tickets he 
+generated, and the value of the winning tickets.  "The appro-
+priate method for calculating loss amounts under the Guide-
+lines is a prototypical question of legal interpretation, and we 
+review de novo."  United States v. Walker, 234 F.3d 780, 783 
+(1st Cir. 2000) (emphasis omitted).
+
+     The general rule in a case involving property obtained by 
+fraud is that the measure of loss is "the fair market value of 
+the particular property at issue."  U.S.S.G. s 2B1.1 applica-
+tion n.2 (incorporated by reference in U.S.S.G. s 2F1.1 appli-
+cation n.8).  Bae argues that "[a]t the instant any lottery 
+ticket is printed," it is worth whatever value the lottery 
+drawing later assigns to it;  losing tickets, that is, have no 
+value.  Bae thus calculates the loss at $296,153, the value of 
+his winning tickets.  His approach misconceives the probabil-
+istic nature of the lottery ticket, however;  as the Government 
+
+notes, "the value of the ticket is the value of a chance to win."  
+Tickets are indistinguishable--and each has an equal proba-
+bility of winning--until the drawing determines the winner(s).  
+Prior to that time, all tickets have the same market value 
+because they all have the same chance of winning a prize, 
+which is why they all sell at the same price.  A ticket's 
+market value, moreover, always exceeds its expected payoff, 
+because the ticket is priced at a level that also reflects some 
+of the value consumers derive from playing the odds.
+
+     A ticket's value changes with the drawing, of course:  once 
+the lucky numbers are announced, the value of the winning 
+tickets rises to the value of the prize money while the value of 
+the losing tickets goes to zero.  Numerous goods, however--
+from automobiles to common stocks--may change in value 
+soon after they are purchased.  Nonetheless, for the purpose 
+of sentencing, the loss associated with their fraudulent pro-
+curement is equal to the value of the goods at the time of the 
+offense.  See, e.g., Walker, 234 F.3d at 783 (partial return of 
+funds subsequent to embezzlement does not reduce valuation 
+of loss);  accord United States v. Baker, 200 F.3d 558, 561 (8th 
+Cir. 2000);  United States v. Burridge, 191 F.3d 1297, 1301 
+(10th Cir. 1999).
+
+     Bae also argues that in this case market price is an 
+inappropriate measure of loss because "[t]he act of printing 
+those tickets cost the D.C. Lottery nothing."  There is no 
+basis, however, for Bae's implicit suggestion that market 
+price is an inadequate measure of loss merely because the 
+fraudulently obtained good has a low marginal cost of produc-
+tion.  See United States v. Watson, 189 F.3d 496, 501 (7th 
+Cir. 1999) (value of stolen cigarette tax stamps is "fair market 
+value of the stamps, not their replacement cost");  United 
+States v. Jenkins, 901 F.2d 1075, 1083-84 (11th Cir. 1990) 
+(loss due to theft of nonnegotiable stock certificates is face 
+value, not cost of reprinting certificates).  The Guidelines 
+adopt fair market value rather than replacement cost as the 
+measure of loss for good reason.  See U.S.S.G. s 2B1.1 
+application n.2.  As the Government points out, measuring 
+loss in terms of replacement costs rather than at fair market 
+value would result in anomalous and capricious sentences.  
+
+For example, if loss were measured by reference to replace-
+ment cost, then fraudulently obtaining a good from a consum-
+er would be punished more severely than fraudulently obtain-
+ing the same good from the manufacturer, which can replace 
+it at a lower cost.  Similarly, defrauding a more efficient 
+producer would carry a lower sentence than defrauding a less 
+efficient producer of the same good.  Nor does Bae offer any 
+reason to think that the instanced anomalies are somehow 
+ameliorated in cases where the fraudulently obtained item can 
+be replaced cheaply;  on the contrary, using replacement cost 
+as the measure of loss only when replacement cost is low 
+would increase the arbitrariness of the sentencing regime.
+
+     Bae offers a variant upon this argument when he contends 
+that the fair market value of the tickets is an inappropriate 
+measure of the loss that he caused because generating his 
+tickets did not reduce the number of tickets that could be and 
+were sold to others.  This suggests that loss is poorly mea-
+sured by the fair market value of a good the replacement cost 
+of which is close to zero.  For the reasons explicated above, 
+abandoning fair market value as a measure of loss in favor of 
+replacement cost only when replacement cost is low is a 
+perverse policy and we reject it.
+
+     We also reject Bae's alternative argument that the proper 
+measure of loss in this case is the Lottery Board's lost profit 
+($207,496), calculated as the market value of the fraudulently 
+obtained tickets less both (1) the commission the Board would 
+have paid Bae for selling those tickets and (2) the amount it 
+would have had to pay to redeem the winning tickets among 
+them had they been purchased lawfully.  The Government 
+suggests that the Guidelines should lead courts to "hesitate[ ] 
+to engage in net loss calculations," and we agree.  Lost profit 
+is an undesirable measure of loss for roughly the same 
+reasons that replacement cost is:  Both measures would pe-
+nalize frauds differently depending upon whether the victim is 
+a consumer or a producer;  create disparities in sentencing for 
+the fraudulent procurement of identical items from different 
+producers;  and require the courts to inquire into the costs of 
+production, rather than looking to the generally more accessi-
+ble market value, in order to calculate a sentence.  Estimat-
+
+ing loss based upon lost profits rather than fair market value 
+is also inconsistent with the principle that the full value of a 
+stolen item is the measure of loss even if the item is later 
+returned.  See U.S.S.G. s 2B1.1 application n.2;  Walker, 234 
+F.3d at 783.  (Because it is limited by the plea agreement it 
+entered into in this case, the Government does not contest the 
+district court's decision to deduct from its estimate of the loss 
+the commission that Bae would have received had he legiti-
+mately sold the tickets that he printed, although this deduc-
+tion is in principle indistinguishable from the deduction of 
+payoffs foregone that Bae proposes here and we reject.)
+
+     Contrary to Bae's suggestion, our present conclusion is not 
+inconsistent with our statement in United States v. Gottfried 
+that estimates of loss under the Sentencing Guidelines seek 
+"to measure the economic harm ... caused" to the victim.  58 
+F.3d 648, 651 (1995).  In Gottfried, an attorney in the Depart-
+ment of Veterans Affairs destroyed documents in order to 
+reduce his workload, and we held that the resulting loss to 
+the Government could be estimated as the costs of "undoing 
+the full extent of the damage."  Id. at 652.  There was no 
+market by which to value the destroyed records, so "market 
+value ... did not reflect the harm to the government," id.;  
+when fair market value does provide "a reasonable estimate 
+of the loss," U.S.S.G. s 2F1.1 application n.9, however, it is to 
+be preferred.  See U.S.S.G. s 2B1.1 application n.2.
+
+     Finally, Bae suggests that using market value as the 
+measure of loss will "produce disparate sentences for similar 
+crimes" because defendants who generate the same number 
+of tickets but whose winnings differ will be sentenced similar-
+ly.  As the Government properly points out, that is not a 
+disparity because "the fortuity of 'winning' the lottery" is 
+irrelevant.  A lottery ticket is a chance to win a prize, and 
+two defendants, one of whom gets a losing and one a winning 
+ticket by fraud, commit the same act and therefore merit the 
+same treatment.  There would be a disparity, however, under 
+Bae's approach:  The unlucky malefactor who prints out only 
+losing tickets presumably would get no sentence at all.  Bae 
+asks whether an offender who fraudulently obtains a single 
+ticket that proves to be worth millions should be subject only 
+
+to the minimal sentence associated with the face value of one 
+ticket.  Should such an offender attempt to redeem his 
+winnings, as did Bae, the actual or the intended loss associat-
+ed with that attempt, see U.S.S.G. s 2F1.1 application n.8, 
+would be the full amount of the jackpot.  (We need not decide 
+how to apply the Guidelines to a winner who, unlike Bae, was 
+apprehended before trying to claim his prize.)
+
+     In conclusion, a "reasonable estimate" of the loss caused by 
+Bae's fraud is the fair market value of the lottery tickets at 
+the time that Bae printed them.  The sentence imposed by 
+the district court is therefore
+
+                                                                 Affirmed.*
+
+    * Bae also argues that the district court erred in refusing to grant 
+a downward sentencing departure due to his "extraordinary physi-
+cal impairment[s]."  U.S.S.G. s 5H1.4.  When a district court is 
+aware of its discretion to permit such a departure, as the tran-
+scripts of the sentencing hearing make clear that it was here, its 
+refusal to exercise that discretion is unreviewable.  See, e.g., United 
+States v. Studevent, 116 F.3d 1559, 1564 (D.C. Cir. 1997).
+
+                                                               

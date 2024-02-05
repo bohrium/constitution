@@ -1,0 +1,427 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 15, 2002   Decided December 10, 2002 
+
+                           No. 01-5435
+
+      Norwest Bank Minnesota National Association, et al., 
+                            Appellees
+
+                                v.
+
+             Federal Deposit Insurance Corporation, 
+                            Appellant
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                           (00cv01250)
+
+     Barbara R. Sarshik, Counsel, Federal Deposit Insurance 
+Corporation, argued the cause for appellant.  With her on the 
+briefs was Colleen J. Boles, Senior Counsel.
+
+     Gloria B. Solomon argued the cause and filed the brief for 
+appellees.
+
+     Before:  Edwards, Randolph, and Tatel, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Randolph.
+
+     Randolph, Circuit Judge:  On summary judgment, the dis-
+trict court ruled in favor of Norwest Bank Minnesota Nation-
+al Association,1 holding that Norwest had overpaid insurance 
+premiums to the Federal Deposit Insurance Corporation and 
+awarding Norwest a refund of $2.8 million, with interest.  
+The overpayments resulted from what the court viewed as the 
+FDIC's misinterpretation of the Federal Deposit Insurance 
+Corporation Improvement Act of 1991.  We hold that Nor-
+west's complaint was filed after the expiration of the statute 
+of limitations.  We therefore vacate the order of the district 
+court and remand with instructions to dismiss.
+
+                                I.
+
+     In 1989, in response to the savings-and-loan crisis, Con-
+gress reformed the national system of deposit insurance, 
+creating two insurance funds under the control of the FDIC:  
+the Bank Insurance Fund ("BIF") to insure banks;  and the 
+Savings Association Insurance Fund ("SAIF") to insure 
+savings-and-loan associations.  The funds were to be sepa-
+rately funded and administered.  Congress anticipated that 
+the BIF would be in stronger financial condition for some 
+time and strictly limited the ability of an insured institution to 
+transfer deposits from one fund to the other fund.  An 
+exception was the Oakar Amendment, named after its spon-
+sor, which allowed a member of one fund to acquire a 
+member of the other fund.  A SAIF member, after being 
+acquired by a BIF member, would continue to have its 
+acquired deposits insured by the SAIF, while the acquirer's 
+deposits would remain insured by the BIF.  The financial 
+institution paid the SAIF rate on part of its deposits and the 
+BIF rate on the remainder of its deposits.
+
+__________
+     1 Plaintiff is now known as Wells Fargo Bank Minnesota National 
+Association.  For the sake of consistency with the district court's 
+orders in this case, we will continue to refer to it as Norwest.
+
+     To determine the portion of the deposits to be insured by 
+the SAIF, Congress required Oakar institutions to calculate 
+their adjusted attributable deposit amount ("AADA") by add-
+ing three components.  The first component was (and still is) 
+the amount of deposits acquired from the SAIF bank.  12 
+U.S.C. s 1815(d)(3)(C)(i).  The second component was (and 
+still is) cumulative adjustments made over time using the 
+third component.  12 U.S.C. s 1815(d)(3)(C)(ii).  The third 
+component, prior to the 1991 amendments, was the amount 
+the first two components would have increased at a rate of 
+growth equal to the greater of a 7% annual increase or the 
+actual annual rate of growth of deposits of the bank (exclud-
+ing any deposits acquired by further acquisitions).  12 U.S.C. 
+s 1815(d)(3)(C)(iii) (Supp. II 1990).
+
+     On December 19, 1991, Congress enacted the Federal 
+Deposit Insurance Corporation Improvement Act, modifying 
+the formula for calculating the AADA.  Section 501(a) of the 
+Act eliminated the portion of the third component that pro-
+vided for a minimum annual increase of 7% and instead 
+provided that the actual annual growth of deposits would be 
+used in all cases.  Federal Deposit Insurance Corporation 
+Improvement Act of 1991, Pub. L. No. 102-242, 105 Stat. 
+2236, 2389 (codified at 12 U.S.C. s 1815(d)(3)(C)(iii)).  Section 
+501(b) provided that the amendment "shall apply with respect 
+to semiannual periods beginning after the date of the enact-
+ment of this Act."  Id., 105 Stat. at 2391;  see also 12 U.S.C. 
+s 1815 note.  The dispute over the proper amount of the 
+insurance assessment stems from the parties' disagreement 
+about the meaning of the effective date provision.  The FDIC 
+believes that the amendment did not take effect for purposes 
+of calculating Norwest's insurance premiums until 1993.  
+Norwest contends that its actual 1991 growth rate should 
+have been applied to the calculation of premiums beginning in 
+January 1992.
+
+     Norwest owed premiums to both the BIF and the SAIF as 
+a result of its acquisition of First Minnesota Savings Bank, 
+FSB, in December 1990.  In January 1992, it filed the 
+appropriate FDIC form calculating its AADA based on the 
+greater of 7% and its actual growth rate, which was -7%.  
+
+Applying the pre-1991 calculation method, Norwest calculat-
+ed its AADA on the appropriate form supplied by the FDIC 
+based on the 7% growth rate, which resulted in an inflated 
+AADA, if Norwest is correct.  There was no immediate effect 
+on the total amount of insurance premiums Norwest owed the 
+FDIC because at that time the insurance rates for the BIF 
+and the SAIF were equal.
+
+     In 1995, the FDIC reduced the BIF assessment rate.  The 
+result was that if the FDIC had erroneously interpreted the 
+statute in 1992 to overstate Norwest's AADA, Norwest paid a 
+higher total premium than it should have in 1995 and later 
+years, because deposits that should have been assessed at the 
+preferential BIF rate were assessed at the higher SAIF rate.  
+The error, if any, was preserved by the second component of 
+the formula, s 1815(d)(3)(C)(ii), which carries forward an 
+increase in the AADA and does not allow an error in the 
+growth rate in a given year to be corrected by further 
+changes in a bank's deposit amounts in later years.  In 
+addition, there were special assessments based on the amount 
+of deposits assessed at the SAIF rate.  Norwest overpaid 
+these amounts as well if it incorrectly calculated its AADA.
+
+     Norwest disputed the alleged overcharge in a letter to the 
+FDIC dated May 7, 1998, requesting a refund of the overpay-
+ment of assessments resulting from the artificially high 
+AADA.  The FDIC's Division of Finance denied the request 
+on September 17, 1998, as did the Assessment Appeals Com-
+mittee on June 2, 1999.  Norwest then filed suit against the 
+FDIC in the district court on June 1, 2000, more than eight 
+years after the alleged miscalculation.
+
+     The district court found Norwest's action timely.  Applying 
+the six-year limitations period in 28 U.S.C. s 2401(a),2 the 
+court measured from the date of the denial by the Assess-
+ment Appeals Committee on June 2, 1999.  Norwest Bank 
+Minnesota, N.A. v. FDIC, No. 00-1250, slip op. at 6 (D.D.C. 
+
+__________
+     2 "Except as provided by the Contract Disputes Act of 1978, 
+every civil action commenced against the United States shall be 
+barred unless the complaint is filed within six years after the right 
+of action accrues."  28 U.S.C. s 2401(a).
+
+Nov. 7, 2000).  In the alternative, the court applied the five-
+year period of 12 U.S.C. s 1817(g),3 measured from the time 
+of the first alleged overpayment in June 1995.  Id.
+
+                               II.
+
+     Norwest and the FDIC agree that the proper statute of 
+limitations for refund claims is 12 U.S.C. s 1817(g), rather 
+than 28 U.S.C. s 2401(a). The six-year statute of limitations--
+28 U.S.C. s 2401(a)--is a general, catchall provision for civil 
+actions against the United States.  The five-year statute of 
+limitations--12 U.S.C. s 1817(g)--applies specifically to an 
+action for "the recovery of any amount paid to the [FDIC] in 
+excess of the amount due to it," which precisely describes 
+Norwest's complaint. When both specific and general provi-
+sions cover the same subject, the specific provision will con-
+trol, especially if applying the general provision would render 
+the specific provision superfluous, as it would here.  See, e.g., 
+Crawford Fitting Co. v. J.T. Gibbons, Inc., 482 U.S. 437, 445 
+(1987).
+
+     Statutes of limitations commonly begin the running of the 
+period from the date the cause of action accrued.  3M Co. v. 
+Browner, 17 F.3d 1453, 1460 (D.C. Cir. 1994);  Note, Develop-
+ments in the Law--Statutes of Limitations, 63 Harv. L. Rev. 
+1177, 1200 (1950).  Section 1817(g) is no exception:  the 
+triggering event is when "the right accrued for which the 
+claim is made."  If, as the FDIC urges, the right of action 
+accrued in January 1992, the five-year period had already run 
+when Norwest sent its letter to the FDIC in May 1998 and 
+when it filed its suit in June 2000.
+
+     "A claim normally accrues when the factual and legal 
+prerequisites for filing suit are in place."  3M Co., 17 F.3d at 
+1460;  see Bay Area Laundry & Dry Cleaning Pension Trust 
+Fund v. Ferbar Corp. of Cal., 522 U.S. 192, 195 (1997);  
+
+__________
+     3 "No action or proceeding shall be brought ... for the recovery 
+of any amount paid to the Corporation in excess of the amount due 
+to it, unless such action or proceeding shall have been brought 
+within five years after the right accrued for which the claim is 
+made...."  12 U.S.C. s 1817(g).
+
+United States v. Lindsay, 346 U.S. 568, 569 (1954);  Rawlings 
+v. Ray, 312 U.S. 96, 98 (1941);  Oppenheim v. Campbell, 571 
+F.2d 660, 662 (D.C. Cir. 1978).  Section 1817(g) governs not 
+only the time for an "action" in court, but also the time for a 
+"proceeding."  We held in 3M with respect to another statute 
+of limitations that a "proceeding" included an administrative 
+proceeding.  3M Co., 17 F.3d at 1455-57.  If we followed this 
+line, Norwest's claim accrued when the legal and factual 
+prerequisites for an administrative proceeding were in place.  
+In January 1992, when the alleged miscalculation of Nor-
+west's AADA occurred, Norwest could have requested a 
+refund from the agency or it could have brought suit in court, 
+alleging that the miscalculation resulted in an overpayment to 
+the SAIF.  In other words, the legal prerequisites for "an 
+action or proceeding" were then in place.  Norwest maintains 
+that at that time a lawsuit or a complaint to the agency would 
+have booted it nothing.  In January 1992 the assessment 
+rates for the SAIF and the BIF were the same.  And so if 
+Norwest had prevailed in court or in the agency, the FDIC 
+likely would have responded by billing it for the identical 
+amount as an underpayment to the BIF.
+
+     One might say--the FDIC does--that even if Norwest 
+succeeded in 1992 and wound up with no net recovery, it still 
+would have brought about a determination of the proper 
+construction of the 1991 statutory amendment and the FDIC 
+would have readjusted SAIF and BIF accounts accordingly, 
+not only for Norwest but also for all the other institutions in a 
+similar position.  (The FDIC's Assessment Appeals Commit-
+tee estimated that 75 of the 800 Oakar institutions would be 
+directly affected.)  That would have had a future financial 
+impact for the regulated institutions if and when BIF assess-
+ment rates were lowered, and it might also have affected 
+when the BIF became fully funded.  On the other hand, it is 
+doubtless true that Norwest had no immediate financial in-
+centive to raise the issue in 1992.  But the action or proceed-
+ing could have been brought then, and it has long been 
+settled that statutes of limitations begin running when the 
+wrong has been committed, even if at the time "no more than 
+nominal damages may be proved, and no more recovered;  but 
+
+on the other hand, it is perfectly clear, that the proof of actual 
+damage may extend to facts that occur and grow out of the 
+injury, even up to the day of the verdict."  Wilcox v. Plum-
+mer, 29 U.S. (4 Pet.) 172, 182 (1830).4
+
+     Although the analogy is not perfect, Norwest's complaint is 
+like a claim "for restitution of money paid through mistake."  
+John P. Dawson, Mistake and Statutes of Limitation, 20 
+Minn. L. Rev. 481, 495 (1936).  In such cases, courts generally 
+regard the statutory period to begin to run when the payment 
+is made.  "Since the payment of money is ordinarily regarded 
+as final, the defendant-payee will probably change his position 
+in reliance upon a reasonable belief that the money is proper-
+ly his...."  Note, 63 Harv. L. Rev. at 1214.  That, according 
+to the FDIC, is what happened here.
+
+     One of the policies underlying statutes of limitations is 
+repose.  3M Co., 17 F.3d at 1457.  Yet if Norwest's cause of 
+action accrued when BIF and SAIF assessment rates di-
+verged, and gave rise to a claim for each overpayment going 
+back five years from the date of filing the claim--which is 
+Norwest's position5--then the FDIC's books would never 
+close.  In turn, the integrity and accuracy of the information 
+used to determine the aggregate assessment bases, and 
+
+__________
+     4 We have recognized, as have other courts, limited exceptions to 
+the general rule that the statute of limitations begins to run at the 
+time of the wrong.  If the injuries are latent, as for example after 
+an exposure to toxic chemicals, the right to sue is deemed to accrue 
+when the wrong manifests itself in injury to the plaintiff.  We 
+adopted this "discovery rule" in Connors v. Hallmark & Son Coal 
+Co., 935 F.2d 336, 342 (D.C. Cir. 1991).  But here nothing prevented 
+Norwest from learning in 1992 that its AADA may have been 
+overstated, thus resulting in an overpayment to the SAIF.  As we 
+stated in Connors, "if the injury is such that it should reasonably be 
+discovered at the time it occurs, then the plaintiff should be charged 
+with discovery of the injury, and the limitations period should 
+commence, at that time."  Id.
+
+     5 Norwest argues that each overpayment creates a new cause of 
+action, and so long as a suit for a particular overpayment is 
+commenced within five years after overpayment, it is timely.  Br. of 
+Appellee at 28-29.
+
+therefore the financial health of the insurance systems, would 
+be placed in doubt.
+
+     Suppose the BIF and SAIF rates remained equal until 
+2030, then diverged.  If Norwest's cause of action would not 
+accrue until then, a suit in 2034 would still be timely.  The 
+FDIC would be forced to reallocate retroactively the assess-
+ment base by increasing the amount for the BIF and decreas-
+ing that of the SAIF for each year of the period, and for each 
+institution affected.
+
+     The statutory structure--which provides for independence 
+of the two funds6--does not treat transfers from one fund to 
+another as insignificant bookkeeping entries.  An overpay-
+ment to one fund, and the interest on the overpayment in the 
+fund, result in greater reserves for that fund, which inure to 
+the benefit of its member institutions.  They pay less in 
+insurance assessments because less money is required to 
+maintain the designated reserve ratio (1.25% of the insured 
+deposits of that fund).  12 U.S.C. s 1817(b)(2)(A)(iv).  On the 
+other hand, the members of the fund that is paid too little 
+because of an error might face a special assessment or an 
+increased insurance rate if the fund dips below the designated 
+reserve ratio.
+
+     A system that allowed a revision many years or decades 
+after an error would cast doubt on all of the data.  The FDIC 
+could never be certain it was properly safeguarding the 
+financial health of the funds.  Uncertainty might result in 
+overly cautious projections (keeping extra reserves on hand 
+just in case) or other problems for the FDIC, and therefore 
+its regulated financial institutions and their customers.
+
+     Further, an Oakar bank could hold onto the knowledge that 
+its AADA had been improperly enhanced, and choose to sue 
+
+__________
+     6 For example, 12 U.S.C. s 1821(a)(4)(A)(ii) provides that the 
+funds shall be "maintained separately and not commingled."  The 
+FDIC is required to set the insurance rates such that the reserve 
+ratio of 1.25% (or a higher percentage as may be determined) is 
+maintained for each fund to cover future failures of financial institu-
+tions insured by that fund.  See 12 U.S.C. s 1817(b)(2)(A)(i), (iv).
+
+years later if the rates went in the direction that disadvan-
+taged it (in this case, SAIF assessment rates higher than 
+those of the BIF).  If the rates diverged in the other di-
+rection (BIF higher than SAIF), it would be able to choose 
+not to sue and benefit from the previous error.  The Oakar 
+bank would be in a no-lose situation, to the detriment of the 
+BIF members whose assessments would be too high each 
+semiannual period.
+
+     As against this, Norwest will suffer "damage" indefinitely 
+into the future, so long as the SAIF assessment rates remain 
+higher than BIF rates, and so long as it does not divest itself 
+of the former savings-and-loan institution it acquired.  Each 
+payment, by its lights, will be an overpayment because the 
+error in 1992 will remain embedded in its adjusted attribut-
+able deposit amount.  One response, although perhaps not 
+entirely satisfactory, is that Norwest is in the same position 
+as a person permanently disabled from an automobile acci-
+dent who fails to sue within the period of limitations.  That 
+person too will suffer continuing injury that cannot be recom-
+pensed because the limitations period has run.  Still, we 
+recognize that the result we reach may be seen as strict.  But 
+we must also recognize the time-honored standard that "limi-
+tations and conditions upon which the Government consents 
+to be sued must be strictly observed."  Soriano v. United 
+States, 352 U.S. 270, 276 (1957).
+
+     As we have mentioned, Norwest argues that since each 
+assessment is a separate payment, it may recover all pay-
+ments made within the preceding five-year period, a position 
+that would effectively suspend the running of the limitations 
+period.  In support, Norwest invokes Keefe Co. v. Americable 
+Int'l, Inc., 219 F.3d 669 (D.C. Cir. 2000) (per curiam).  Keefe 
+decided a certified question of District of Columbia law in the 
+context of a private dispute.  It did not interpret a federal 
+statute of limitations.  At issue were a series of installment 
+payments (equaling a percentage of subscriber revenues) due 
+as compensation for prior assistance obtaining cable television 
+contracts for U.S. military bases.  There was no single event 
+that resulted in all future damages.  See Keefe Co. v. Ameri-
+cable Int'l, Inc., 755 A.2d 469, 476 (D.C. 2000).  The District 
+
+of Columbia Court of Appeals held that the local statute of 
+limitations did not bar an action to recover installment pay-
+ments that accrued within the limitations period.  See id. at 
+478 (answering the certified question);  see also Bay Area 
+Laundry & Dry Cleaning Pension Trust Fund, 522 U.S. at 
+195 ("[E]ach missed payment creates a separate cause of 
+action with its own six-year limitations period.").  In contrast, 
+here the alleged miscalculation in 1992 of Norwest's AADA 
+was the cause of all of the future overpayments.  The D.C. 
+Court of Appeals, in deciding the certified question in Keefe, 
+recognized that the outcome might have been different if 
+there had been a dispute over the interpretation of the 
+contract that would "govern throughout the life of the con-
+tract."  Id. at 477 (quoting Air Transp. Ass'n of Am. v. 
+Lenkin, 711 F. Supp. 25, 27 (D.D.C. 1989), aff'd per curiam 
+on other grounds, 899 F.2d 1265 (D.C. Cir. 1990)).  In Len-
+kin, the district court, interpreting District of Columbia law, 
+held that the limitations period for a tenant's claim of over-
+payment of rent based on the landlord's alleged misinterpre-
+tation of a lease provision commenced when the tenant first 
+received notice of the landlord's interpretation.  Lenkin, 771 
+F. Supp. at 27.  The statute of limitations barred the com-
+plaint even though further payments would be incorrectly 
+inflated, if the tenant's interpretation was correct.  Id.
+
+     Norwest also seeks to extend the period of limitations on 
+the ground that the six-year period of limitations in the 
+general statute (28 U.S.C. s 2401(a)) only started running in 
+1999, after the FDIC finally rejected its refund claim, so that 
+if it sued for a refund within six years of that date it was 
+entitled to recover all overpayments within six years of its 
+suit.  This cannot possibly be right.  Norwest initiated no 
+administrative action until May 1998, when it requested a 
+refund in a letter to the FDIC.  By then the limitations 
+period had already expired.  If Norwest's claim was untimely, 
+as we have determined it was, the FDIC's rejection of the 
+claim could not make it timely. Norwest relies upon Sendra 
+Corp. v. Magaw, 111 F.3d 162 (D.C. Cir. 1997), for the 
+proposition that when an agency reopens a matter it creates a 
+right of judicial review.  But we cannot see how the FDIC 
+
+Assessment Appeals Committee's decision to treat the claim 
+for a refund on the merits, while noting in a footnote that it 
+appeared to be untimely under s 1817(g), somehow waived 
+the statute of limitations defense in judicial proceedings.
+
+     The district court's judgment in favor of Norwest cannot 
+stand because the complaint was filed after the expiration of 
+the five-year statute of limitations provided by 18 U.S.C. 
+s 1817(g).  The judgment of the district court is vacated and 
+the case is remanded with instructions to dismiss because the 
+action was untimely.
+
+                                                            So ordered.
+
+          

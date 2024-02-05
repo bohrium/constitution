@@ -1,0 +1,618 @@
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued September 17, 2001  Decided November 6, 2001 
+
+                           No. 01-5125
+
+                   American Bioscience, Inc., 
+                            Appellant
+
+                                v.
+
+                       Tommy G. Thompson, 
+         Secretary of Health and Human Services, et al., 
+                            Appellees
+
+          Appeal from the United States District Court 
+                  for the District of Columbia 
+                           (00cv02247)
+
+     Jacqueline H. Eagle argued the cause for appellant.  With 
+her on the briefs were Joseph F. Coyne, Jr., Carlton A. 
+Varner, Arthur Y. Tsien, David F. Weeda, and Robert F. 
+Green.
+
+     Howard S. Scher, Attorney, United States Department of 
+Justice, argued the cause for appellee.  With him on the brief 
+were Kenneth L. Wainstein, United States Attorney, Douglas 
+N. Letter, Litigation Counsel, Michael M. Landa, Acting 
+Chief Counsel, Food & Drug Administration, and AnnaMarie 
+Kempic, Associate Chief Counsel.
+
+     Richard M. Cooper argued the cause for appellees Baker 
+Norton Pharmaceuticals, Inc. and IVAX Pharmaceuticals, 
+Inc.  With him on the brief was Philip A. Sechler.
+
+     Before:  Tatel, Circuit Judge;  Silberman and Williams,* 
+Senior Circuit Judges.
+
+     Opinion for the Court filed by Senior Circuit Judge 
+Silberman.
+
+     Silberman, Senior Circuit Judge:  American Bioscience, 
+Inc., appeals from the district court's denial of its request for 
+preliminary injunctive relief.  Appellant argues that the Food 
+and Drug Administration's decision to approve intervenor-
+defendant Baker Norton Pharmaceutical's Abbreviated New 
+Drug Application (ANDA) for a generic version of the cancer 
+treatment Taxol was arbitrary and capricious.  We agree and 
+vacate that approval.
+
+                                I.
+
+     This case is here for the second time.  See American 
+Bioscience, Inc. v. Thompson, 243 F.3d 579 (D.C. Cir. 2001).  
+American Bioscience is a pharmaceutical research firm that 
+has developed a patented process for delivering safer and 
+more effective dosage forms of Taxol.  Bristol-Myers Squibb 
+Company holds the patent on and FDA approval of Taxol 
+itself, a drug that has generated billions of dollars in sales.  
+Bristol-Myers intervened in the district court proceeding for 
+the limited purpose of providing information.  Appellees Bak-
+er Norton Pharmaceuticals, Inc. (BNP) and Zenith Goldline 
+Pharmaceuticals, Inc., who are corporate affiliates and hold 
+
+__________
+     * Senior Judge Williams was in regular active service at the time 
+of oral argument.
+
+ANDAs for generic versions of Taxol, intervened as defen-
+dants.
+
+     This dispute arises out of the complex relationship between 
+the FDA's approval process for generic drugs and patent law.  
+A company wishing to market a new (or "pioneer") drug must 
+seek FDA approval, usually by completing a New Drug 
+Application.  The NDA is expensive and time-consuming, 
+requiring data from tests showing the drug's safety and 
+effectiveness.  Prior to 1984, a firm that wished to make a 
+generic version of an approved drug was required to file a 
+new NDA, complete with new safety and effectiveness stud-
+ies.  In 1984, Congress enacted the Hatch-Waxman Amend-
+ments,1 which introduced the Abbreviated NDA and allowed a 
+generic drug ANDA to rely on the pioneer NDA's safety and 
+effectiveness studies.  These amendments also provide that a 
+competitor may use and manufacture an approved and pat-
+ented drug, for the purpose of developing a generic version, 
+without infringing that patent.
+
+     The Hatch-Waxman Amendments also sought to afford an 
+NDA holder some patent protection, to lower the risk to 
+innovation posed by the simplified ANDA process.  NDAs 
+are required to contain a list of any patents which claim the 
+drug or which claim a method of using such a drug and with 
+respect to which a claim of patent infringement could reason-
+ably be asserted--but that includes patents held by those 
+other than the NDA holder.  The FDA publishes all patent 
+listings in the Approved Drug Products With Therapeutic 
+Equivalence (the "Orange Book").  For "each patent which 
+claims" the pioneer drug, an ANDA must certify:  (1) that no 
+patent has been filed with the FDA;  (2) that the patent has 
+expired;  (3) that the patent has not expired, but will expire 
+on a particular date;  or (4) that the patent is either invalid or 
+the generic drug will not infringe it (a "Paragraph IV certifi-
+cation").  When an ANDA applicant files a Paragraph IV 
+certification, it must also certify to the FDA that it will give 
+notice to the patent holder.  That notice must include a 
+
+__________
+     1 The Drug Price Competition and Patent Term Restoration Act 
+of 1984, Pub. L. No. 98-417, 98 Stat. 1585 (1984).
+
+detailed statement of the factual and legal basis of the 
+applicant's opinion that the patent is not valid or will not be 
+infringed and must be given at the same time the certification 
+is submitted to the FDA.  Filing a Paragraph IV certification 
+can constitute patent infringement.  Upon receipt of notice of 
+a Paragraph IV certification, the patent holder has 45 days in 
+which to file an infringement suit.  If the patent holder does 
+not file within that time period, the FDA may immediately 
+approve an otherwise conforming ANDA.  If, on the other 
+hand, the patent holder does sue within 45 days, the FDA 
+may not approve the ANDA for 30 months, or until the patent 
+dispute has been resolved, whichever is sooner.  The first 
+ANDA filed and approved gets a 180-day period of market 
+exclusivity.
+
+     If a qualifying patent issues at a later date--after the NDA 
+is approved--the NDA holder must inform the FDA within 30 
+days of the patent's issuance.  See 21 U.S.C. s 355(c)(2).  But 
+if the NDA holder fails to so notify the FDA, an ANDA 
+applicant is excused, according to the FDA's late-listing regu-
+lation, from amending its patent certification to reflect the 
+new patent so long as the ANDA had an "appropriate" patent 
+certification on file.  As shall be apparent, however, only the 
+NDA holder has the obligation (and the right) to list the new 
+patent--not the patent holder if it is another company.  In 
+this case, if Bristol-Myers listed American Bioscience's pat-
+ent within 30 days of its issuance, BNP was required to 
+certify to that patent, potentially leading to a patent infringe-
+ment suit and 30-month stay.2
+
+     In the event a person disputes the accuracy or relevance of 
+patent information published by the FDA in the Orange 
+Book, he must first notify the agency, in writing, stating the 
+grounds for disagreement.  The FDA will then request that 
+the applicable NDA holder confirm the correctness of the 
+patent information or omission of patent information.  Unless 
+the NDA holder withdraws or amends its patent information 
+
+__________
+     2 BNP argues that the statute does not allow for consecutive 30-
+month stays, even if there are subsequent Paragraph IV certifica-
+tions.  The FDA did not adopt this reading.
+
+in response to the FDA's request, the agency will not change 
+the patent information in the list.  And if the NDA holder 
+does not change the patent information, an ANDA must, 
+despite any disagreement as to the correctness of the patent 
+information, contain an appropriate certification for each list-
+ed patent.  The FDA, pursuant to longstanding practice and 
+its own regulations, and based on its acknowledged lack of 
+expertise and resources, has refused to become involved in 
+patent listing disputes, accepting at face value the accuracy of 
+NDA holders' patent declarations and following their listing 
+instructions.
+
+     The FDA approved Bristol-Myers' NDA to manufacture 
+and distribute Taxol, an anti-cancer drug with the active 
+ingredient paclitaxel, in 1992.  Five years later, BNP submit-
+ted an ANDA for a generic version of Taxol.  Bristol-Myers 
+instituted patent infringement proceedings against BNP with-
+in the 45-day statutory window, triggering the 30-month 
+stay, which expired in June 2000.  The record does not 
+reveal, and counsel for the FDA could not explain, why the 
+FDA did not approve BNP's ANDA promptly upon expiration 
+of the stay.  But on August 1, 2000, American Bioscience 
+received U.S. Patent Number 6,906,331 for a new process that 
+purported to permit a patient to receive higher doses of Taxol 
+with fewer side effects.  Bristol-Myers did not immediately 
+list the new patent.3  Ten days after the patent issued, 
+American Bioscience sued Bristol-Myers in the United States 
+District Court for the Central District of California request-
+ing a TRO compelling Bristol-Myers to submit the '331 
+patent for listing in the Orange Book, which the court grant-
+ed, ordering Bristol-Myers to "immediately take all steps 
+under its control to cause the FDA to list in its 'Orange Book' 
+[American Bioscience's] Taxol Patent, subject to the proviso 
+that, unless Plaintiff carries its burden of proof on the [Order 
+to Show Cause], [Bristol-Myers] shall then take all steps 
+
+__________
+     3 We are told that correspondence between American Bioscience 
+and Bristol-Myers indicates that Bristol-Myers refused to list the 
+patent without a court order, but that is not part of the administra-
+tive record.
+
+under its control to cause the de-listing of the Taxol Patent 
+from the FDA's Orange Book."  That same day, Bristol-
+Myers sent a letter to the FDA, stating that it was submitting 
+the '331 patent for listing "pursuant to" the August 11 court 
+order and "in accordance with" the voluntary listing provi-
+sion.  Bristol-Myers also submitted a patent declaration with 
+the listing.
+
+     On August 14, 2000, BNP filed a Paragraph IV certification 
+for the '331 patent but contrary to the statute it did not notify 
+either Bristol-Myers or American Bioscience.  One week 
+later, the California court held a hearing at which Bristol-
+Myers, American Bioscience and BNP (as a proposed interve-
+nor) were present.4  American Bioscience then learned for 
+the first time of BNP's Paragraph IV certification.  On 
+August 28, 2000, the FDA tentatively approved BNP's 
+ANDA, subject to resolution of the '331 patent issues.  Mean-
+while, after two hearings, the California court determined 
+that it lacked "jurisdiction" over American Bioscience's suit 
+because the Food Drug and Cosmetic Act did not provide 
+American Bioscience a private right of action.  On September 
+7, 2000, the California court dissolved the TRO and ordered 
+Bristol-Myers "[p]ursuant to the condition in the TRO and in 
+order to restore the status quo ... [to] use its best efforts to 
+cause the delisting of [American Bioscience's] '331 Patent 
+from the Orange Book."  It recommended to the FDA that it 
+toll the amount of time the TRO was in place and stayed its 
+order until September 13, 2000.
+
+     Also on September 7, 2000, American Bioscience sued BNP 
+for patent infringement and informed the FDA the next day 
+but the FDA did not grant a stay.  On September 11, 2000, 
+Bristol-Myers wrote the FDA a letter stating that it was 
+listing the '331 patent "pursuant to" the voluntary listing 
+provision.  Then three days later, on September 14, 2000, 
+Bristol-Myers wrote the FDA another letter, which stated 
+
+__________
+     4 BNP repeatedly refers to the transcript of this hearing in 
+support of its allegation that Bristol-Myers and American Biosci-
+ence colluded to obtain temporary injunctive relief.  This transcript 
+is not a part of the administrative record.
+
+that it was de-listing the '331 patent to the extent it was listed 
+pursuant to the California court's TRO, but that it did not 
+mean to affect the continued and continuous listing of the 
+patent. That same day, after receiving a phone call from the 
+FDA, BNP withdrew its Paragraph IV certification.5  And 
+the next day, the FDA approved BNP's ANDA.  In its 
+approval letter, the FDA referenced BNP's September 8 and 
+September 14 amendments, but did not otherwise discuss 
+the '331 patent.
+
+     American Bioscience then brought this action, claiming that 
+the FDA's actions were contrary to the Administrative Proce-
+dure Act.  Specifically, it asserted that the '331 patent was 
+timely and continuously listed from August 11, 2000, there-
+fore the FDA's refusal to grant a stay and its approval of 
+BNP's ANDA were contrary to law;  that the FDA's decision 
+not to toll the 30-day listing window was arbitrary and 
+capricious;  that BNP could not benefit from the late-listing 
+regulation because a certification could not be "appropriate" 
+without the required notice;  and that the FDA exceeded its 
+regulatory authority in promulgating the late-listing regula-
+tion.  Appellant requested a declaration that approval be 
+stayed;  injunctive relief ordering the FDA to rescind the 
+approval;  attorney fees and costs;  and any other just and 
+proper relief.  The district court granted BNP's motion to 
+intervene and allowed Bristol-Myers to intervene to provide 
+additional information.
+
+     The FDA defended on the ground that Bristol-Myers had 
+not "timely" listed the '331 patent and therefore BNP did not 
+have to certify to it.  The agency had not previously disclosed 
+the basis for its approval, nor did it provide a certified 
+administrative record. After oral argument, the district court 
+issued a written memorandum and opinion denying American 
+Bioscience's requested relief on the ground that it had failed 
+to show that it was likely to prevail on the merits because the 
+FDA's interpretation and application of the late-listing regu-
+
+__________
+     5 Between August 14, 2000 and September 14, 2000, the FDA had 
+at least seven telephone conversations with BNP.
+
+lation was not plainly erroneous or inconsistent with the 
+regulation, which was itself valid.
+
+     American Bioscience appealed and we vacated the district 
+court's decision and remanded because "there [was] nothing 
+in the FDA's approval letter to indicate how it interpreted 
+[the late-listing] regulation."  American Bioscience, 243 F.3d 
+at 582.  We did not know whether the FDA approved the 
+application because it considered the '331 patent to have been 
+de-listed;  whether it considered the court-ordered listing 
+ineffective for purposes of the Hatch-Waxman Act;  whether 
+it treated the application as one covered by the late-listing 
+regulation;  or, if it did, why it thought the regulation applied, 
+observing that, for all we knew, the FDA made a "clerical 
+error" in approving the application even though it thought 
+that the '331 patent had been continually listed.  We held that 
+the district court, "before assessing American Bioscience's 
+probability of success on the merits, should have required the 
+FDA to file the administrative record and should have deter-
+mined the grounds on which the FDA granted [BNP]'s 
+application."  Id.  We left to the district court the determina-
+tion of how best to proceed on remand in light of what the 
+administrative record revealed.
+
+     On April 6, 2001, the FDA certified the administrative 
+record which included a declaration by Gary J. Buehler, the 
+acting director of the FDA's Office of Generic Drugs, Center 
+for Drug Evaluation and Research.  Buehler focused on the 
+court orders in his explanation of the agency's rationale.  In 
+his view, the September 7 order compelled Bristol-Myers to 
+de-list the '331 patent "to restore the status quo."  He 
+concluded that because the court order directing Bristol-
+Myers to submit the patent to the FDA was dissolved, and 
+Bristol-Myers withdrew the original submission, the August 
+11 listing was "without effect."  Accordingly, because Bristol-
+Myers had failed to timely list the patent, BNP was entitled 
+to the benefit of the late-listing regulation.  The FDA did not 
+follow the court's recommendation that it toll the period in 
+which Bristol-Myers could timely list because the FDA was 
+not a party to the California litigation;  he was not sure that 
+the FDA had the authority to toll the statutory time limit;  
+
+tolling would set an undesirable precedent;  and he saw no 
+reason why Bristol-Myers could not have "voluntarily" listed 
+the '331 patent during the 30-day statutory period.
+
+     Buehler quoted the passage from the September 14 letter 
+in which Bristol-Myers stated that it was "[t]hereby with-
+drawing" the August 11 listing to the extent that listing was 
+compelled by the TRO, but did not address the significance of 
+Bristol-Myers' statement that it had not intended to affect 
+the continued and continuous listing of the patent.  Buehler 
+also said that the FDA received letters pertaining to "this 
+issue" (presumably the issue of approving a generic version of 
+Taxol), and that he had been made aware of the concerns of 
+the Federal Trade Commission and some members of the 
+public about the potential for the aggressive use of patent 
+listings to delay generic competition.6  The administrative 
+record consists in large part of the tentative and final approv-
+al letters for BNP's ANDA;  the August 11, 2000 TRO and 
+the September 7, 2000 order;  the August 11, 2000, September 
+11, 2000, and September 14, 2000 letters from Bristol-Myers 
+to the FDA;  correspondence from BNP to the FDA outlining 
+BNP's concerns about the '331 patent, certifying to the '331 
+patent, and withdrawing the certification to the '331 patent;  
+the Federal Trade Commission's amicus brief in the Califor-
+nia case;  records of telephone conversations between the 
+FDA and BNP;  and letters from the National Organization 
+for Women Foundation, the Generic Pharmaceutical Associa-
+tion, and Senator Kennedy expressing their concerns about 
+delay in the availability of generic drugs.  The administrative 
+record does not contain either the transcripts of the hearings 
+in the California court, or any correspondence between 
+Bristol-Myers and American Bioscience.
+
+__________
+     6 After American Bioscience filed suit and before the FDA filed a 
+certified administrative record, the FDA approved a second poten-
+tially infringing ANDA for Zenith Goldline and granted "tentative" 
+approval to a third.  BNP apparently waived its 180-day statutory 
+market exclusivity as to its corporate affiliate Zenith Goldline, but 
+not with respect to the third ANDA.
+
+     Shortly after the FDA certified the administrative record, 
+American Bioscience renewed its request for preliminary 
+injunctive relief, which the district court denied.  The court 
+held that American Bioscience failed to show that it would 
+suffer irreparable harm and was not substantially likely to 
+prevail on the merits.  It acknowledged that the administra-
+tive record did not include any "overt reference to the 
+decisions at issue," but concluded that the record implicitly 
+supported the FDA's version of events (as set forth by 
+counsel) and that the FDA's decision to approve BNP's 
+ANDA was supported by "inferences" that could be drawn 
+from the administrative record.
+
+                               II.
+
+     Appellant makes two basic arguments.  The FDA acted 
+contrary to law by approving BNP's application in light of 
+Bristol-Myers' listing of the '331 patent.  It was arbitrary 
+and capricious for the agency to have concluded that Bristol-
+Myers' September 14 letter revoked the August 11 listing.  
+Secondly, American Bioscience argues that even if the Sep-
+tember 11 listing were legitimately thought to be Bristol-
+Myers' first listing, BNP could not benefit by the late-listing 
+regulation since it did not have an "appropriate" patent 
+certification filed (as it had never given notice).  We need not 
+reach appellant's second argument because we think it is 
+clearly correct on its first.
+
+     Before discussing the merits we must dispose of the gov-
+ernment's argument as to appellant's asserted lack of irrepa-
+rable injury.  Normally when a party seeks a preliminary 
+injunction in district court the district judge properly bal-
+ances the likelihood of the plaintiff prevailing on the merits 
+against the severity of the injury the plaintiff will suffer if 
+relief is denied.  But that procedure assumes that the district 
+judge will be obliged to make a decision before the complete 
+case is presented--before all the evidence is submitted.
+
+     As we have repeatedly recognized, however, when a party 
+seeks review of agency action under the APA, the district 
+
+judge sits as an appellate tribunal.7  The "entire case" on 
+review is a question of law.  See, e.g., Marshall County 
+Health Care Auth. v. Shalala, 988 F.2d 1221, 1226 (D.C. Cir. 
+1993) (holding that in agency review context there was no real 
+distinction between questions presented in Rule 12(b)(6) mo-
+tion to dismiss and motion for summary judgment);  Univer-
+sity Medical Center of S. Nevada v. Shalala, 173 F.3d 438, 
+440 n.3 (D.C. Cir. 1999) (explaining that when reviewing 
+agency action the question of whether the agency acted in an 
+arbitrary and capricious manner is a legal one which the 
+district court can resolve on the agency record, regardless of 
+whether it is presented in the context of a motion for judg-
+ment on the pleadings or in a motion for summary judgment);  
+James Madison Ltd. v. Ludwig, 82 F.3d 1085, 1096 (D.C. Cir. 
+1996), cert. denied, 519 U.S. 1077 (1997) (holding that issues 
+that appellant argued were issues of fact precluding summary 
+judgment were issues of law in the context of agency review);  
+County of Los Angeles v. Shalala, 192 F.3d 1005, 1011 (D.C. 
+Cir. 1999), cert. denied, 530 U.S. 1204 (2000) (holding that rule 
+of finality does not apply to bar appellate review of the 
+district court's finding that the agency action was arbitrary 
+and capricious even though that court had not yet resolved 
+the issue of remedy).  Absent very unusual circumstances the 
+district court does not take testimony.  See, e.g., Citizens to 
+Preserve Overton Park, Inc. v. Volpe, 401 U.S. 402 (1971);  
+James Madison, 82 F.3d at 1096.
+
+     If an appellant has standing--which is undeniable here--
+and prevails on its APA claim, it is entitled to relief under 
+that statute, which normally will be a vacatur of the agency's 
+order.  See, e.g., Association of Battery Recyclers, Inc. v. 
+EPA, 208 F.3d 1047, 1061 (D.C. Cir. 2000).  Cf. Canadian 
+Pacific Railway Co. v. Surface Transp. Bd., 197 F.3d 1165 
+(D.C. Cir. 1999).  To be sure, although appellant based its 
+cause of action on the APA, it introduced a good deal of 
+
+__________
+     7 Which is not to say that a motion for preliminary injunction 
+against an agency is never appropriate.  See, e.g., CityFed Finan-
+cial Corp. v. Office of Thrift Supervision, 58 F.3d 738 (D.C. Cir. 
+1995) (involving Office of Thrift Supervision's decision to issue a 
+temporary cease and desist order against appellant freezing virtual-
+ly all of its assets).
+
+confusion by seeking an injunction (as well as other appropri-
+ate relief).  But, whether or not appellant has suffered irrepa-
+rable injury, if it makes out its case under the APA it is 
+entitled to a remedy.8
+
+     We implicitly recognized this point before when we ordered 
+the remand of the case for the agency to produce a record 
+without consideration as to whether appellant's injury was 
+irreparable.  See American Bioscience, 243 F.3d 579.  The 
+challenged action is an "informal adjudication" which is the 
+administrative law term for agency action that is neither the 
+product of formal adjudication or a rulemaking.  See, e.g., id. 
+at 582;  United States v. Mead Corp., 121 S. Ct. 2164, 2178 n.1 
+(2001) (Scalia, J., dissenting).  Ever since Overton Park and 
+Camp v. Pitts, 411 U.S. 138 (1973), government agencies 
+which issue orders subject to appeal under the APA typically 
+include some explanation--however short--that will provide a 
+record on appeal.  After examining the Buehler declaration, 
+which purports to explain the FDA's action in this case, it is 
+perhaps not surprising that the agency took the action it did 
+originally without explanation.  For assuming that that decla-
+ration satisfies our demand for the record before the agency, 
+we find it sadly inadequate to sustain the agency's action.
+
+     As we noted, and the parties agree, the FDA has a 
+longstanding policy not to get involved in patent disputes.  It 
+administers the Hatch-Waxman Amendments in a ministerial 
+fashion simply following the intent of the parties that list 
+patents.  In this case, however, Buehler appears to have 
+relied on his reading of the district court order-to which the 
+agency was not a party--to trump Bristol-Myers' stated 
+intention.9  His declaration notes that the district court on 
+September 7 "dissolved the TRO, dismissed [American Biosci-
+ence's] complaint and ordered [Bristol-Myers] to delist the 
+
+__________
+     8 Since under 28 U.S.C. s 1657(a) the granting or denying of a 
+preliminary injunction is the basis for an expedited appeal the 
+district courts should be careful--in such a case as this--not to do 
+so.
+
+     9 Paradoxically, in rejecting the district court's tolling recommen-
+dation Buehler emphasizes the California district court had no 
+jurisdiction and the FDA was not a party.
+
+'331 patent from the Orange Book to restore the status quo."  
+And then "on September 14, 2000 [Bristol-Myers] submitted 
+a letter to FDA to comply with the court order to delist the 
+patent. The letter states '[Bristol-Myers] hereby withdraws 
+the Original Listing to the extent that listing was compelled 
+by the TRO.' "  Because of that sequence, the "FDA consid-
+ered [Bristol-Myers'] first submission of the patent on Au-
+gust 11, 2000 to be without effect."
+
+     But Buehler omits reference to much of the September 14 
+letter which clearly indicates that Bristol-Myers' original 
+filing of August 11 had a bifurcated purpose-to comply with 
+the court order and to voluntarily list the '331 patent and 
+accordingly it was abrogating the first but not the second.
+
+     Thus, Bristol-Myers' counsel stated:
+
+          Although that submission (the "Original Listing") (At-
+     tachment A) was made in accordance with a Temporary 
+     Restraining Order ("TRO") entered on that date by the 
+     United States District Court for the Central District of 
+     California, it was also timely filed in full compliance with 
+     all governing statutory and regulatory requirements for 
+     voluntary patent listing.  It contained all required listing 
+     information, was presented in the format recommended 
+     by the agency for voluntary listings, and was supported 
+     by a declaration signed by Steven Reiter, counsel for the 
+     patent owner, using the precise language required by 
+     regulations set forth at 21 C.F.R. 314.53(c)(2).
+     
+And at the end of the letter, after the sentence Buehler 
+quoted, counsel states:  "This action does not affect the 
+continued and continuous listing of the patent ...," which 
+unequivocally indicates what Bristol-Myers meant when it 
+limited its withdrawal of the listing only "to the extent that 
+listing was compelled by the TRO ..."  As such Buehler, 
+speaking for the FDA, seems to wholly ignore Bristol-Myers' 
+stated intent.  He gives no forthright justification for such a 
+blatantly artificial reading of its letters.10
+
+__________
+     10 The government contends that Bristol-Myers' letter of Septem-
+ber 11 again listing the '331 patent suggests that it realized the 
+
+     He seems to implicitly suggest that Bristol-Myers' stated 
+intent is somehow inconsistent with the California district 
+court's order and on appeal the government boldly contends 
+that that intent--to continue its listing on a voluntary basis--
+is "unacceptable" without explaining why that should be so.  
+But there is nothing in the California district court's original 
+order that prevented Bristol-Myers from changing its mind 
+and deciding to list voluntarily in addition to complying with 
+the court order.  Nor is there anything in the order directing 
+the return to the status quo that would extend to requiring 
+Bristol-Myers to abrogate such voluntary action.  We, of 
+course, owe no deference to an agency's reading of judicial 
+orders or decisions, see, e.g., United States Dep't of Justice v. 
+FLRA, No. 00-1433, 2001 WL 1180726, *2 (D.C. Cir. Oct. 9, 
+2001);  New York v. Shalala, 119 F.3d 175, 180 (2d Cir. 1997), 
+but even if we did we would not accept the reading the 
+government urges upon us because it is unreasonable.  In-
+deed, it is not at all clear to us that the FDA, under its 
+regulations, would be authorized to reject the obvious intent 
+of an NDA holder even if it acted directly contrary to a court 
+order.  Certainly, the FDA points us to no authority upon 
+which it could rely to do so.
+
+     Intervenor BNP in its brief (and its letters to the FDA) 
+would have us believe that appellant and Bristol-Myers are in 
+cahoots, that the California lawsuit was a Kabuki play and 
+that they have a common objective to frustrate the introduc-
+tion of generic versions of Taxol.  The difficulty with these 
+assertions--besides being not proven--is that the FDA 
+(Buehler) did not rely on this rationale.  Nor is it clear that 
+the FDA, as opposed to a district court in an antitrust or 
+patent infringement case, could adjudicate such a claim.
+
+__________
+district court order would result in the elimination of the August 11 
+listing.  But the FDA (Buehler) did not offer that reasoning.  In 
+any event, it seems obvious to us that Bristol-Myers' September 11 
+letter was simply an effort to add a belt to suspenders and is even a 
+greater indication that it never intended to completely de-list the 
+'331 patent.
+
+     To be sure, Buehler hints in his declaration that he has 
+dark suspicions by saying that he "was also made aware of 
+the concerns of the Federal Trade Commission and some 
+members of the public of the potential for the aggressive use 
+of patent listings to delay generic competition."  But such 
+hints are hardly the stuff of reasoned decisionmaking.  We 
+therefore do not see how we can give any weight to BNP's 
+allegations nor the letter from other members of the public 
+opposing appellant's position.
+
+     Which brings us to the remedy.  We have already directed 
+the district court to remand this case once to compile a 
+record.  See American Bioscience, 243 F.3d at 582-83.  That 
+is consistent with our practice of remanding without vacating 
+when we are unsure of the grounds the agency asserts to 
+defend its action (and, perhaps, where we perceive that a 
+ground poorly articulated might be sufficient to sustain the 
+action).  See, e.g., Checkosky v. SEC, 23 F.3d 452, 454 (D.C. 
+Cir. 1992);  City of Los Angeles, 192 F.3d at 1023;  Radio-
+Television News Directors Assoc. v. FCC, 184 F.3d 872, 887-
+88 (D.C. Cir. 1999).  But at this point we think the only 
+appropriate course is to vacate the action appellant chal-
+lenges--the FDA's approval of BNP's ANDA.  We frankly do 
+not know what recourse is left to the FDA or other govern-
+ment agencies to take any steps that would affect the market-
+ing of generic versions of Taxol.  But we are convinced that 
+the FDA's order, in this case, was arbitrary and capricious 
+and must be vacated.
+
+                             * * * *
+
+     Accordingly, the district court is directed to vacate the 
+FDA's order and remand to the agency.
+
+                                                                           So ordered.
+
+                                                  
